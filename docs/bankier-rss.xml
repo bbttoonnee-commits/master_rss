@@ -1,0 +1,712 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+  <channel>
+    <title>Bankier.pl – Wiadomości</title>
+    <link>https://www.bankier.pl/wiadomosc/</link>
+    <description>Automatyczny kanał RSS – Bankier.pl – Wiadomości (ostatnie 48h)</description>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <generator>python-feedgen</generator>
+    <language>pl</language>
+    <lastBuildDate>Fri, 06 Feb 2026 22:20:00 +0100</lastBuildDate>
+    <item>
+      <title>Top 5 dotacji w lutym. Tu są granty do wzięcia. Jakie warunki trzeba spełnić?</title>
+      <link>https://www.bankier.pl/wiadomosc/Top-5-dotacji-w-lutym-Tu-sa-granty-do-wziecia-Jakie-warunki-trzeba-spelnic-9079121.html</link>
+      <description>Innowacje, podbój nowych rynków, wzornictwo – m.in. na takie przedsięwzięcia firmy mogą zdobyć dotacje w lutowych konkursach. Do wzięcia są miliony. Jakie warunki trzeba spełnić? / Co trzeba zrobić, aby dostać unijne miliony?</description>
+      <guid isPermaLink="false">https://www.bankier.pl/wiadomosc/Top-5-dotacji-w-lutym-Tu-sa-granty-do-wziecia-Jakie-warunki-trzeba-spelnic-9079121.html</guid>
+      <pubDate>Fri, 06 Feb 2026 06:00:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Czego nauczył mnie krach na srebrze?</title>
+      <link>https://www.bankier.pl/wiadomosc/Inwestor-Wojtek-czego-nauczyl-mnie-krach-na-srebrze-9078480.html</link>
+      <description>W rynkach finansowych pociągające jest to, że od czasu do czasu stajemy się uczestnikami historycznych wydarzeń. Takim był bez wątpienia piątkowy krach na srebrze.</description>
+      <guid isPermaLink="false">https://www.bankier.pl/wiadomosc/Inwestor-Wojtek-czego-nauczyl-mnie-krach-na-srebrze-9078480.html</guid>
+      <pubDate>Fri, 06 Feb 2026 06:00:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Kolejny atak USA na łódź podejrzaną o przemyt narkotyków. 2 osoby zginęły</title>
+      <link>https://www.bankier.pl/wiadomosc/Kolejny-atak-USA-na-lodz-podejrzana-o-przemyt-narkotykow-2-osoby-zginely-9079969.html</link>
+      <description>Dowództwo Południowe armii USA (SOUTHCOM) poinformowało w czwartek, że dwie osoby zginęły w ataku na kolejną podejrzaną łódź przemytników narkotyków na wschodnim Pacyfiku. Działania armii w tej kwestii kwestionuje część prawników i wojskowych...</description>
+      <guid isPermaLink="false">https://www.bankier.pl/wiadomosc/Kolejny-atak-USA-na-lodz-podejrzana-o-przemyt-narkotykow-2-osoby-zginely-9079969.html</guid>
+      <pubDate>Fri, 06 Feb 2026 06:30:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Baza Diego Garcia. Trump: Rezerwuję sobie prawo jej wojskowego zabezpieczenia</title>
+      <link>https://www.bankier.pl/wiadomosc/Baza-Diego-Garcia-Trump-Rezerwuje-sobie-prawo-jej-wojskowego-zabezpieczenia-9079874.html</link>
+      <description>Prezydent USA Donald Trump powiedział w rozmowie z brytyjskim premierem Keirem Starmerem, że rezerwuje sobie prawo „militarnego zabezpieczenia i wzmocnienia” amerykańsko-brytyjskiej bazy wojskowej na wyspie Diego Garcia na Oceanie Indyjskim. Wielka...</description>
+      <guid isPermaLink="false">https://www.bankier.pl/wiadomosc/Baza-Diego-Garcia-Trump-Rezerwuje-sobie-prawo-jej-wojskowego-zabezpieczenia-9079874.html</guid>
+      <pubDate>Fri, 06 Feb 2026 06:38:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Areszt dla Zbigniewa Ziobry. Sąd podjął decyzję po całodziennym posiedzeniu</title>
+      <link>https://www.bankier.pl/wiadomosc/Areszt-dla-Zbigniewa-Ziobry-Sad-podjal-decyzje-po-calodziennym-posiedzeniu-9079930.html</link>
+      <description>Sąd uwzględnił w czwartek wniosek Prokuratury Krajowej o zastosowanie wobec b. szefa MS Zbigniewa Ziobry tymczasowego aresztu w śledztwie ws. Funduszu Sprawiedliwości. Prokurator zapowiedział list gończy i wniosek o ENA. Obrona chce wstrzymania...</description>
+      <guid isPermaLink="false">https://www.bankier.pl/wiadomosc/Areszt-dla-Zbigniewa-Ziobry-Sad-podjal-decyzje-po-calodziennym-posiedzeniu-9079930.html</guid>
+      <pubDate>Fri, 06 Feb 2026 06:48:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Trump uruchamia TrumpRx. Platforma z tanimi lekami dla Amerykanów</title>
+      <link>https://www.bankier.pl/wiadomosc/Trump-uruchamia-TrumpRx-Platforma-z-tanimi-lekami-dla-Amerykanow-9079939.html</link>
+      <description>Prezydent USA Donald Trump ogłosił w czwartek uruchomienie rządowej strony internetowej (TrumpRx), za pośrednictwem której Amerykanie mogą kupować leki na receptę po obniżonych cenach.</description>
+      <guid isPermaLink="false">https://www.bankier.pl/wiadomosc/Trump-uruchamia-TrumpRx-Platforma-z-tanimi-lekami-dla-Amerykanow-9079939.html</guid>
+      <pubDate>Fri, 06 Feb 2026 07:08:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Przedszkola i żłobki idą pod nóż. Kryzys w polskich miastach</title>
+      <link>https://www.bankier.pl/wiadomosc/Przedszkola-i-zlobki-ida-pod-noz-Kryzys-w-polskich-miastach-9079965.html</link>
+      <description>Warszawa już ogłosiła, że zamierza zlikwidować niektóre przedszkola, do podobnych decyzji przymierzają się także inne polskie miasta - pisze piątkowa „Rzeczpospolita". Wszystkiemu „winna” jest demograficzna zapaść, w 2025 r. liczba urodzeń...</description>
+      <guid isPermaLink="false">https://www.bankier.pl/wiadomosc/Przedszkola-i-zlobki-ida-pod-noz-Kryzys-w-polskich-miastach-9079965.html</guid>
+      <pubDate>Fri, 06 Feb 2026 07:10:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>UBS obniżył rekomendację PKO do "neutralnie"</title>
+      <link>https://www.bankier.pl/wiadomosc/UBS-obnizyl-rekomendacje-PKO-do-neutralnie-9079986.html</link>
+      <description>Analitycy UBS obniżyli rekomendację PKO do "neutralnie" z "kupuj" z ceną docelową 100 zł, która implikuje 7,6 proc. potencjał wzrostu względem ostatniego zamknięcia - poinformował Bloomberg. (PAP Biznes)</description>
+      <guid isPermaLink="false">https://www.bankier.pl/wiadomosc/UBS-obnizyl-rekomendacje-PKO-do-neutralnie-9079986.html</guid>
+      <pubDate>Fri, 06 Feb 2026 07:12:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Drastyczne cięcia w Agence France-Presse. Liczba korespondentów spadnie trzykrotnie</title>
+      <link>https://www.bankier.pl/wiadomosc/Drastyczne-ciecia-w-Agence-France-Presse-Liczba-korespondentow-spadnie-trzykrotnie-9079901.html</link>
+      <description>Dziennikarze francuskiej agencji prasowej AFP ogłosili w czwartek list otwarty w dzienniku „Le Monde”, w którym protestują przeciwko planom redukcji etatów za granicą. Cięcia mają dotknąć dziennikarzy wysyłanych do pracy w zagranicznych...</description>
+      <guid isPermaLink="false">https://www.bankier.pl/wiadomosc/Drastyczne-ciecia-w-Agence-France-Presse-Liczba-korespondentow-spadnie-trzykrotnie-9079901.html</guid>
+      <pubDate>Fri, 06 Feb 2026 07:12:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Polska gospodarka zwolni, bo zabraknie rąk do pracy. Prognozy niepokoją</title>
+      <link>https://www.bankier.pl/wiadomosc/Polska-gospodarka-zwolni-bo-zabraknie-rak-do-pracy-Prognozy-niepokoja-9079958.html</link>
+      <description>Choć tempo wzrostu PKB w Polsce należy do najwyższych w Europie, to w ciągu kilku lat może wyraźnie wyhamować - pisze w piątek „Puls Biznesu”. Gazeta cytuje dane MFW, z których wynika, że spadku liczby osób w wieku produkcyjnym nie będzie...</description>
+      <guid isPermaLink="false">https://www.bankier.pl/wiadomosc/Polska-gospodarka-zwolni-bo-zabraknie-rak-do-pracy-Prognozy-niepokoja-9079958.html</guid>
+      <pubDate>Fri, 06 Feb 2026 07:17:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Szpieg w greckim lotnictwie. Przekazywał tajne dane Chinom</title>
+      <link>https://www.bankier.pl/wiadomosc/Szpieg-w-greckim-lotnictwie-Wojskowy-przekazywal-tajne-dane-Chinom-9079918.html</link>
+      <description>Władze Grecji aresztowały członka sił zbrojnych tego kraju oskarżonego o przekazanie tajnych informacji osobom trzecim – poinformował w czwartek Grecki Sztab Generalny Obrony Narodowej (GEETHA).</description>
+      <guid isPermaLink="false">https://www.bankier.pl/wiadomosc/Szpieg-w-greckim-lotnictwie-Wojskowy-przekazywal-tajne-dane-Chinom-9079918.html</guid>
+      <pubDate>Fri, 06 Feb 2026 07:19:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Szpieg z MON pracował dla "wschodniego sąsiada". Ślady prowadzą na Białoruś?</title>
+      <link>https://www.bankier.pl/wiadomosc/Szpieg-z-MON-pracowal-dla-wschodniego-sasiada-Slady-prowadza-na-Bialorus-9079895.html</link>
+      <description>Minister koordynator służb specjalnych Tomasz Siemoniak powiedział w czwartek, że zatrzymany niedawno długoletni pracownik Ministerstwa Obrony Narodowej pracował na rzecz wywiadu wschodniego sąsiada Polski.</description>
+      <guid isPermaLink="false">https://www.bankier.pl/wiadomosc/Szpieg-z-MON-pracowal-dla-wschodniego-sasiada-Slady-prowadza-na-Bialorus-9079895.html</guid>
+      <pubDate>Fri, 06 Feb 2026 07:24:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>ETPC: Polska naruszyła prawa sędzi Beaty Morawiec. "Pozbawiono ją prawa do rzetelnego procesu"</title>
+      <link>https://www.bankier.pl/wiadomosc/ETPC-Polska-naruszyla-prawa-sedzi-Beaty-Morawiec-Pozbawiono-ja-prawa-do-rzetelnego-procesu-9079945.html</link>
+      <description>Trybunał w Strasburgu orzekł, że sędzi Beacie Morawiec uchylono immunitet z naruszeniem Europejskiej Konwencji Praw Człowieka – informuje w piątek „Gazeta Wyborcza”. W czasie rządów PiS została pierwszą sędzią, której Izba Dyscyplinarna...</description>
+      <guid isPermaLink="false">https://www.bankier.pl/wiadomosc/ETPC-Polska-naruszyla-prawa-sedzi-Beaty-Morawiec-Pozbawiono-ja-prawa-do-rzetelnego-procesu-9079945.html</guid>
+      <pubDate>Fri, 06 Feb 2026 07:29:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Popyt na hipoteki w styczniu wystrzelił. Wzrost o ponad 50 proc. r/r</title>
+      <link>https://www.bankier.pl/wiadomosc/Popyt-na-hipoteki-w-styczniu-wystrzelil-Wzrost-o-ponad-50-proc-r-r-9079970.html</link>
+      <description>O 50,4% r/r wzrosła wartość zapytań o kredyty mieszkaniowe w styczniu 2026 r. – informuje BIK Indeks Popytu na Kredyty Mieszkaniowe. Wartość Indeksu oznacza, że w styczniu 2026 r., w przeliczeniu na dzień...</description>
+      <guid isPermaLink="false">https://www.bankier.pl/wiadomosc/Popyt-na-hipoteki-w-styczniu-wystrzelil-Wzrost-o-ponad-50-proc-r-r-9079970.html</guid>
+      <pubDate>Fri, 06 Feb 2026 07:30:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Nestmedic zakończył badania kliniczne urządzenia PregnaOne</title>
+      <link>https://www.bankier.pl/wiadomosc/Nestmedic-zakonczyl-badania-kliniczne-urzadzenia-PregnaOne-9079992.html</link>
+      <description>Nestmedic zakończył rekrutacje i badania kliniczne urządzenia PregnaOne - podała spółka w komunikacie. Zakończenie etapu realizacji badań klinicznych oznacza przejście projektu do fazy analizy danych, obejmującej przygotowanie raportu statystycznego...</description>
+      <guid isPermaLink="false">https://www.bankier.pl/wiadomosc/Nestmedic-zakonczyl-badania-kliniczne-urzadzenia-PregnaOne-9079992.html</guid>
+      <pubDate>Fri, 06 Feb 2026 07:32:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Chcesz pieniądze? Nazwij lotnisko i dworzec moim imieniem. Nietypowa oferta Trumpa</title>
+      <link>https://www.bankier.pl/wiadomosc/Chcesz-pieniadze-Nazwij-lotnisko-i-dworzec-moim-imieniem-Nietypowa-oferta-Trumpa-9079941.html</link>
+      <description>Prezydent USA Donald Trump chce, by jego imieniem nazwano lotnisko pod Waszyngtonem oraz stację kolejową w Nowym Jorku - poinformowała w czwartek telewizja CNN. Trump miał zaproponować Demokratom, że w zamian za zgodę na nowe nazwy, odblokuje finansowanie...</description>
+      <guid isPermaLink="false">https://www.bankier.pl/wiadomosc/Chcesz-pieniadze-Nazwij-lotnisko-i-dworzec-moim-imieniem-Nietypowa-oferta-Trumpa-9079941.html</guid>
+      <pubDate>Fri, 06 Feb 2026 07:33:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Clintonowie będą zeznawać. Spór o jawność. "Skończmy z tymi gierkami"</title>
+      <link>https://www.bankier.pl/wiadomosc/Clintonowie-beda-zeznawac-Spor-o-jawnosc-Skonczmy-z-tymi-gierkami-9079951.html</link>
+      <description>Były prezydent USA Bill Clinton i jego żona Hillary zgodzili się złożyć zeznania przed Kongresem w formie zamkniętych, protokołowanych przesłuchań pod przysięgą w ramach śledztwa w sprawie Jeffreya Epsteina. Clintonowie chcą, by konfrontacja...</description>
+      <guid isPermaLink="false">https://www.bankier.pl/wiadomosc/Clintonowie-beda-zeznawac-Spor-o-jawnosc-Skonczmy-z-tymi-gierkami-9079951.html</guid>
+      <pubDate>Fri, 06 Feb 2026 07:37:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Ceny miedzi w Londynie coraz dalej od rekordów z ub. tygodnia</title>
+      <link>https://www.bankier.pl/wiadomosc/Ceny-miedzi-w-Londynie-coraz-dalej-od-rekordow-z-ub-tygodnia-9079995.html</link>
+      <description>Notowania miedzi na giełdzie metali LME w Londynie spadają i oddalają się coraz bardziej od notowanego w ub. czwartek poziomu wszech czasów - ponad 14 500 USD za tonę - informują maklerzy.</description>
+      <guid isPermaLink="false">https://www.bankier.pl/wiadomosc/Ceny-miedzi-w-Londynie-coraz-dalej-od-rekordow-z-ub-tygodnia-9079995.html</guid>
+      <pubDate>Fri, 06 Feb 2026 07:40:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Inwestycje zderzą się z niewydolnością. Niedobór materiałów i pracowników</title>
+      <link>https://www.bankier.pl/wiadomosc/Inwestycje-zderza-sie-z-niewydolnoscia-Niedobor-materialow-i-pracownikow-9079952.html</link>
+      <description>Osłabiony do niedawna brakiem zamówień sektor budowlany stoi teraz przed ryzykiem kumulacji inwestycji w infrastrukturze, spodziewanej w najbliższych 2–3 latach - pisze w piątkowym wydaniu „Rzeczpospolita". Branża obawia się wzrostu kosztów...</description>
+      <guid isPermaLink="false">https://www.bankier.pl/wiadomosc/Inwestycje-zderza-sie-z-niewydolnoscia-Niedobor-materialow-i-pracownikow-9079952.html</guid>
+      <pubDate>Fri, 06 Feb 2026 07:40:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Brat szefa Szin Betu oskarżony o "wspieranie wroga". Przemycał papierosy do Strefy Gazy</title>
+      <link>https://www.bankier.pl/wiadomosc/Brat-Szin-Betu-oskarzony-o-wspieranie-wroga-Przemycal-papierosy-do-Strefy-Gazy-9079956.html</link>
+      <description>Izraelska prokuratura oskarżyła w czwartek trzy osoby, w tym Becalela Ziniego, brata szefa kontrwywiadu (Szin Betu) Dawida Ziniego, o „wspieranie wroga w czasie wojny, oszustwo i korupcję”. Jako szef logistyki w jednostce armii izraelskiej Zini...</description>
+      <guid isPermaLink="false">https://www.bankier.pl/wiadomosc/Brat-Szin-Betu-oskarzony-o-wspieranie-wroga-Przemycal-papierosy-do-Strefy-Gazy-9079956.html</guid>
+      <pubDate>Fri, 06 Feb 2026 07:49:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Przymusowy wykup akcji Brand24. Prowly.com wyznaczyło cenę</title>
+      <link>https://www.bankier.pl/wiadomosc/Prowly-com-zamierza-nabyc-113-303-akcji-Brand24-po-60-zl-za-szt-w-drodze-przymusowego-wykupu-9080001.html</link>
+      <description>Prowly.com zamiera nabyć 113.303 akcji Brand24 stanowiących ok. 4,99 proc. kapitału zakładowego od akcjonariuszy mniejszościowych w drodze przymusowego wykupu. Akcje objęte wykupem będą nabywane w cenie 60 zł za papier - podała Santander Biuro...</description>
+      <guid isPermaLink="false">https://www.bankier.pl/wiadomosc/Prowly-com-zamierza-nabyc-113-303-akcji-Brand24-po-60-zl-za-szt-w-drodze-przymusowego-wykupu-9080001.html</guid>
+      <pubDate>Fri, 06 Feb 2026 07:56:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Narkotyki w batonikach i ciastkach. CBŚP rozbiło gang z darknetu</title>
+      <link>https://www.bankier.pl/wiadomosc/Narkotyki-w-batonikach-i-ciastkach-CBSP-rozbilo-gang-z-darknetu-9079980.html</link>
+      <description>Funkcjonariusze Centralnego Biura Śledczego Policji rozbili gang zajmujący się produkcją i sprzedażą narkotyków za pośrednictwem darknetu. W ofercie grupy znajdowały się m.in. waporyzatory, ciastka i batony nasączone substancjami psychoaktywnymi...</description>
+      <guid isPermaLink="false">https://www.bankier.pl/wiadomosc/Narkotyki-w-batonikach-i-ciastkach-CBSP-rozbilo-gang-z-darknetu-9079980.html</guid>
+      <pubDate>Fri, 06 Feb 2026 08:00:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Ceny ropy rosną. Inwestorzy czekają na ważne wydarzenie</title>
+      <link>https://www.bankier.pl/wiadomosc/Ceny-ropy-rosna-Inwestorzy-czekaja-na-wazne-wydarzenie-9080007.html</link>
+      <description>Ceny ropy naftowej rosną w piątek, a inwestorzy czekają na ważne dla rynków ropy wydarzenie - planowane w piątek rozmowy USA-Iran i rozwiązanie narastającego napięcia między obiema stronami - informują maklerzy.</description>
+      <guid isPermaLink="false">https://www.bankier.pl/wiadomosc/Ceny-ropy-rosna-Inwestorzy-czekaja-na-wazne-wydarzenie-9080007.html</guid>
+      <pubDate>Fri, 06 Feb 2026 08:02:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>DM BOŚ obniżył rekomendację DataWalk do "trzymaj"</title>
+      <link>https://www.bankier.pl/wiadomosc/DM-BOS-obnizyl-rekomendacje-DataWalk-do-trzymaj-9080009.html</link>
+      <description>Analitycy DM BOŚ, w raporcie z 5 lutego, obniżyli rekomendację DataWalk do "trzymaj" z "kupuj" i pozostawili wycenę akcji spółki w horyzoncie 12-miesięcznym na poziomie 120 zł.</description>
+      <guid isPermaLink="false">https://www.bankier.pl/wiadomosc/DM-BOS-obnizyl-rekomendacje-DataWalk-do-trzymaj-9080009.html</guid>
+      <pubDate>Fri, 06 Feb 2026 08:12:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Trigon DM obniżył cenę docelową akcji Mirbudu</title>
+      <link>https://www.bankier.pl/wiadomosc/Trigon-DM-obnizyl-cene-docelowa-akcji-Mirbudu-do-15-zl-9080013.html</link>
+      <description>Analitycy Trigon DM, w raporcie z 6 lutego obniżyli cenę docelową akcji Mirbudu o 19 proc. do 15 zł, podtrzymując rekomendację "kupuj".</description>
+      <guid isPermaLink="false">https://www.bankier.pl/wiadomosc/Trigon-DM-obnizyl-cene-docelowa-akcji-Mirbudu-do-15-zl-9080013.html</guid>
+      <pubDate>Fri, 06 Feb 2026 08:20:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Fundusz Vinci z grupy BGK zgłosił zamiar przejęcia MEWO, firmy świadczącej badania dla offshore</title>
+      <link>https://www.bankier.pl/wiadomosc/Fundusz-Vinci-z-grupy-BGK-zglosil-zamiar-przejecia-MEWO-firmy-swiadczacej-badania-dla-offshore-9080018.html</link>
+      <description>Fundusz Vinci z grupy BGK zgłosił zamiar przejęcia MEWO, firmy świadczącej badania dla offshore - podano na stronie UOKiK.</description>
+      <guid isPermaLink="false">https://www.bankier.pl/wiadomosc/Fundusz-Vinci-z-grupy-BGK-zglosil-zamiar-przejecia-MEWO-firmy-swiadczacej-badania-dla-offshore-9080018.html</guid>
+      <pubDate>Fri, 06 Feb 2026 08:30:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Grupa Azoty chce w marcu porozumieć się z Orlenem ws. sprzedaży Grupy Azoty Polyolefins</title>
+      <link>https://www.bankier.pl/wiadomosc/Grupa-Azoty-chce-w-marcu-porozumiec-sie-z-Orlenem-ws-sprzedazy-Grupy-Azoty-Polyolefins-9079885.html</link>
+      <description>Grupa Azoty chce w marcu porozumieć się z Orlenem w kwestii sprzedaży Grupy Azoty Polyolefins oraz sfinalizować transakcje do końca czerwca - wskazał wiceprezes Grupy Azoty Paweł Bielski. Dodał, że liczy na jak najszybsze porozumienie z bankami...</description>
+      <guid isPermaLink="false">https://www.bankier.pl/wiadomosc/Grupa-Azoty-chce-w-marcu-porozumiec-sie-z-Orlenem-ws-sprzedazy-Grupy-Azoty-Polyolefins-9079885.html</guid>
+      <pubDate>Fri, 06 Feb 2026 08:32:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Kaczyński powinien oddać władzę w PiS? Polacy mówią wprost</title>
+      <link>https://www.bankier.pl/wiadomosc/Kaczynski-powinine-oddac-wladze-w-PiS-Polacy-mowia-wprost-9079984.html</link>
+      <description>88 proc. ankietowanych uważa, że Jarosław Kaczyński powinien oddać władzę w Prawie i Sprawiedliwości młodszym politykom; przeciwnego zdania jest 12 proc. – informuje piątkowy „Super Express”, powołując się na wyniki badania opinii publicznej...</description>
+      <guid isPermaLink="false">https://www.bankier.pl/wiadomosc/Kaczynski-powinine-oddac-wladze-w-PiS-Polacy-mowia-wprost-9079984.html</guid>
+      <pubDate>Fri, 06 Feb 2026 08:45:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>URE wszczęło postępowanie wobec PGE Obrót</title>
+      <link>https://www.bankier.pl/wiadomosc/URE-wszczelo-postepowanie-wobec-PGE-Obrot-9080029.html</link>
+      <description>URE wszczęło postępowanie wobec PGE Obrót w przedmiocie wydania decyzji o obowiązku przekazania przez spółkę na rachunek Funduszu Wypłaty Różnicy Ceny kwot stanowiących różnice między odpisami na FWRC obliczonymi przez URE a odpisami na...</description>
+      <guid isPermaLink="false">https://www.bankier.pl/wiadomosc/URE-wszczelo-postepowanie-wobec-PGE-Obrot-9080029.html</guid>
+      <pubDate>Fri, 06 Feb 2026 08:50:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Drago Entertainment chce wydać nową grę "Roadhouse Simulator" w III kw. '26</title>
+      <link>https://www.bankier.pl/wiadomosc/Drago-Entertainment-chce-wydac-nowa-gre-Roadhouse-Simulator-w-III-kw-26-9080033.html</link>
+      <description>Drago Entertainment chce wydać nową grę z uniwersum "Gas Station Simulator" o nazwie "Roadhouse Simulator" w III kw. 2026 roku, ale oficjalna data premiery nie została jeszcze ustalona - podała spółka w komunikacie. Nowy tytuł to prequel Gas Station...</description>
+      <guid isPermaLink="false">https://www.bankier.pl/wiadomosc/Drago-Entertainment-chce-wydac-nowa-gre-Roadhouse-Simulator-w-III-kw-26-9080033.html</guid>
+      <pubDate>Fri, 06 Feb 2026 08:56:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Wielki powrót do biur. Szefowie coraz częściej mają dość home office</title>
+      <link>https://www.bankier.pl/wiadomosc/Wielki-powrot-do-biur-Szefowie-coraz-czesciej-maja-dosc-home-office-9079998.html</link>
+      <description>Pracodawcy niechętnie widzą pracowników na pracy zdalnej, planują dalsze ograniczenie jej wykorzystania - wynika z badania Grant Thornton. Problemem dla firm jest m.in. brak jasnych kryteriów podwyżek, dodatków i benefitów.</description>
+      <guid isPermaLink="false">https://www.bankier.pl/wiadomosc/Wielki-powrot-do-biur-Szefowie-coraz-czesciej-maja-dosc-home-office-9079998.html</guid>
+      <pubDate>Fri, 06 Feb 2026 09:00:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Czystka w SOP trwa. Kolejne dymisje po miażdżącym audycie</title>
+      <link>https://www.bankier.pl/wiadomosc/Czystka-w-SOP-trwa-Kolejne-dymisje-po-miazdzacym-audycie-9080034.html</link>
+      <description>Dwie kolejne osoby w Służbie Ochrony Państwa zostały odwołane ze stanowiska; to zastępca dyrektora zarządu SOP oraz dyrektor jednego z oddziałów - potwierdziła PAP rzeczniczka Ministerstwa Spraw Wewnętrznych i Administracji Karolina Gałecka...</description>
+      <guid isPermaLink="false">https://www.bankier.pl/wiadomosc/Czystka-w-SOP-trwa-Kolejne-dymisje-po-miazdzacym-audycie-9080034.html</guid>
+      <pubDate>Fri, 06 Feb 2026 09:01:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Polacy rzadziej zaglądają na Allegro. Średni czas wizyty też się skurczył</title>
+      <link>https://www.bankier.pl/wiadomosc/Allegro-w-I-mialo-22-9-mln-uzytkownikow-na-wszystkich-urzadzeniach-vs-23-3-mln-w-XII-Mediapanel-9080035.html</link>
+      <description>Allegro miało w styczniu 22,9 mln użytkowników (Real Users) na wszystkich urządzeniach wobec 23,3 mln miesiąc wcześniej - wynika z badania Mediapanel, Polskiego Badania Internetu.</description>
+      <guid isPermaLink="false">https://www.bankier.pl/wiadomosc/Allegro-w-I-mialo-22-9-mln-uzytkownikow-na-wszystkich-urzadzeniach-vs-23-3-mln-w-XII-Mediapanel-9080035.html</guid>
+      <pubDate>Fri, 06 Feb 2026 09:04:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Pasy pękają, wózki dla dzieci się przewracają. UOKiK ujawnia wyniki kontroli</title>
+      <link>https://www.bankier.pl/wiadomosc/Pasy-pekaja-wozki-dla-dzieci-sie-przewracaja-UOKiK-ujawnia-wyniki-kontroli-9080043.html</link>
+      <description>Cztery modele wózków dziecięcych i siedem modeli leżaczków niemowlęcych spośród skontrolowanych przez Inspekcję Handlową miało wady konstrukcyjne – podał w piątek UOKiK w komunikacie.</description>
+      <guid isPermaLink="false">https://www.bankier.pl/wiadomosc/Pasy-pekaja-wozki-dla-dzieci-sie-przewracaja-UOKiK-ujawnia-wyniki-kontroli-9080043.html</guid>
+      <pubDate>Fri, 06 Feb 2026 09:15:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Creotech Instruments z umową na projekt fazy B1 satelity serwisującego</title>
+      <link>https://www.bankier.pl/wiadomosc/Creotech-Instruments-z-umowa-na-projekt-fazy-B1-satelity-serwisujacego-9080044.html</link>
+      <description>Creotech Instruments podpisał umowę z PIAP Space na projekt fazy B1 satelity serwisującego - podała spółka w komunikacie. Wartość realizowanej zgodnie z podpisaną umową fazy wynosi 750 tys. euro, a czas trwania projektu to 12 miesięcy.</description>
+      <guid isPermaLink="false">https://www.bankier.pl/wiadomosc/Creotech-Instruments-z-umowa-na-projekt-fazy-B1-satelity-serwisujacego-9080044.html</guid>
+      <pubDate>Fri, 06 Feb 2026 09:16:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>"Cisza alkoholowa" w Tajlandii. Trwają wybory parlamentarne i referendum</title>
+      <link>https://www.bankier.pl/wiadomosc/Cisza-alkoholowa-w-Tajlandii-Trwaja-wybory-parlamentarne-i-referendum-9080056.html</link>
+      <description>W Tajlandii w niedzielę 53 mln obywateli wybierze nowy parlament i zdecyduje w referendum o zmianie konstytucji, narzuconej przez wojsko. Głosowaniu towarzyszyć będzie, oprócz ciszy wyborczej, także „cisza alkoholowa”. Władze zakazały sprzedaży...</description>
+      <guid isPermaLink="false">https://www.bankier.pl/wiadomosc/Cisza-alkoholowa-w-Tajlandii-Trwaja-wybory-parlamentarne-i-referendum-9080056.html</guid>
+      <pubDate>Fri, 06 Feb 2026 09:46:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Nawet 1200 zł od PKO BP za zakupy na Allegro. Wystarczy parę klików w telefonie</title>
+      <link>https://www.bankier.pl/wiadomosc/Promocja-Allegro-Klik-w-PKO-BP-9079999.html</link>
+      <description>Allegro i PKO BP połączyły siły, zapewniając klientom największego banku w kraju wymierne korzyści. Wielbiciele zakupów online, którzy posiadają rachunek w PKO BP i aktywują usługę Allegro Klik, mogą szybciej płacić za zakupy i dodatkowo...</description>
+      <guid isPermaLink="false">https://www.bankier.pl/wiadomosc/Promocja-Allegro-Klik-w-PKO-BP-9079999.html</guid>
+      <pubDate>Fri, 06 Feb 2026 09:58:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Złoty pozostaje pod presją. Frank niezmiennie mocny</title>
+      <link>https://www.bankier.pl/wiadomosc/Zloty-pozostaje-pod-presja-Frank-niezmiennie-mocny-9080064.html</link>
+      <description>Spadek globalnego apetytu na ryzyko w połączeniu z faktyczną zapowiedzią marcowej obniżki stóp procentowych w NBP sprawiły, że kurs euro zagościł w pobliżu 4,22 zł.</description>
+      <guid isPermaLink="false">https://www.bankier.pl/wiadomosc/Zloty-pozostaje-pod-presja-Frank-niezmiennie-mocny-9080064.html</guid>
+      <pubDate>Fri, 06 Feb 2026 10:05:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Zamach w Moskwie. Wiceszef wywiadu GRU postrzelony</title>
+      <link>https://www.bankier.pl/wiadomosc/Zamach-w-Moskwie-Wiceszef-wywiadu-GRU-postrzelony-9080042.html</link>
+      <description>Wiceszef rosyjskiego wywiadu wojskowego GRU (Głównego Zarządu Wywiadowczego) generał Władimir Aleksiejew został poważnie ranny w zamachu, do którego doszło w piątek w stolicy Rosji, Moskwie - poinformowały rosyjskie media, powołujące się...</description>
+      <guid isPermaLink="false">https://www.bankier.pl/wiadomosc/Zamach-w-Moskwie-Wiceszef-wywiadu-GRU-postrzelony-9080042.html</guid>
+      <pubDate>Fri, 06 Feb 2026 10:17:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Wiceprezes PEJ: Banki chcą finansować elektrownię. "Jeden z największych sukcesów projektu"</title>
+      <link>https://www.bankier.pl/wiadomosc/Wiceprezes-PEJ-Banki-chca-finansowac-elektrownie-Jeden-z-najwiekszych-sukcesow-projektu-9080067.html</link>
+      <description>Od początku II kwartału przez 18 miesięcy PEJ, we współpracy z bankami, które zadeklarowały finansowanie na rzecz I elektrowni jądrowej, będzie prowadzić proces due diligence - poinformował PAP Biznes wiceprezes PEJ Piotr Piela. Dodał, że...</description>
+      <guid isPermaLink="false">https://www.bankier.pl/wiadomosc/Wiceprezes-PEJ-Banki-chca-finansowac-elektrownie-Jeden-z-najwiekszych-sukcesow-projektu-9080067.html</guid>
+      <pubDate>Fri, 06 Feb 2026 10:39:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Rozmowy w kopalni Silesia bez efektu. Właściciel odpiera zarzuty o łamanie porozumienia</title>
+      <link>https://www.bankier.pl/wiadomosc/Brak-porozumienia-w-kopalni-Silesia-9080016.html</link>
+      <description>Rozmowy w sprawie sytuacji w kopalni Silesia nie przyniosły rezultatu. Spotkanie między stroną związkową, Ministerstwem Energii a pracodawcą, które w minioną środę odbyło się w Katowicach, miało rozwiać wątpliwości co do przestrzegania...</description>
+      <guid isPermaLink="false">https://www.bankier.pl/wiadomosc/Brak-porozumienia-w-kopalni-Silesia-9080016.html</guid>
+      <pubDate>Fri, 06 Feb 2026 10:40:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Frankenautostein – motoryzacyjne monstrum krwawi ze wszystkich stron. Stellantis robi miliardowe odpisy i zawiesza dywidendę</title>
+      <link>https://www.bankier.pl/wiadomosc/FrankenAuto-motoryzacyjne-monstrum-krwawi-ze-wszystkich-stron-Stellantis-i-VW-o-elektrycznej-utopii-9080082.html</link>
+      <description>Piątkowy poranek na europejskich parkietach przyniósł prawdziwe trzęsienie ziemi w sektorze automotive. Notowania Stellantis na europejskich giełdach runęły o kilkanaście procent. Handel był momentami wstrzymywany bo tym jak inwestorzy, niczym...</description>
+      <guid isPermaLink="false">https://www.bankier.pl/wiadomosc/FrankenAuto-motoryzacyjne-monstrum-krwawi-ze-wszystkich-stron-Stellantis-i-VW-o-elektrycznej-utopii-9080082.html</guid>
+      <pubDate>Fri, 06 Feb 2026 10:42:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Precedensowy wyrok ws. Ubera. Firma musi zapłacić miliony dolarów za zgwałcenie pasażerki przez kierowcę</title>
+      <link>https://www.bankier.pl/wiadomosc/Precedensowy-wyrok-ws-Ubera-Firma-musi-zaplacic-miliony-dolarow-za-zgwalcenie-pasazerki-przez-kierowce-9080081.html</link>
+      <description>Federalna ława przysięgłych w Phoenix nakazała spółce Uber wypłatę 8,5 mln dolarów odszkodowania Jaylynn Dean. Kobieta padła ofiarą gwałtu, którego dokonał kierowca świadczący usługi dla firmy podczas przejazdu w Arizonie w listopadzie...</description>
+      <guid isPermaLink="false">https://www.bankier.pl/wiadomosc/Precedensowy-wyrok-ws-Ubera-Firma-musi-zaplacic-miliony-dolarow-za-zgwalcenie-pasazerki-przez-kierowce-9080081.html</guid>
+      <pubDate>Fri, 06 Feb 2026 10:42:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Drugie cięcie i zapowiedź kolejnych. W tym banku oszczędności spadają poniżej 1%</title>
+      <link>https://www.bankier.pl/wiadomosc/Drugie-ciecie-i-zapowiedz-kolejnych-Citi-Handlowy-obniza-oprocentowanie-do-ponizej-1-9080010.html</link>
+      <description>Początek lutego oznacza kolejne niekorzystne informacje dla posiadaczy kapitału zgromadzonego na kontach oszczędnościowych w Citi Handlowym. Bank wprowadza właśnie kolejne w ostatnim czasie cięcia stawek standardowych i wychodzi na prowadzenie...</description>
+      <guid isPermaLink="false">https://www.bankier.pl/wiadomosc/Drugie-ciecie-i-zapowiedz-kolejnych-Citi-Handlowy-obniza-oprocentowanie-do-ponizej-1-9080010.html</guid>
+      <pubDate>Fri, 06 Feb 2026 11:00:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Ceny paliw i pierwsze podwyżki od listopada. To było do przewidzenia</title>
+      <link>https://www.bankier.pl/wiadomosc/Ceny-paliw-pierwsze-podwyzki-od-listopada-To-bylo-do-przewidzenia-9080101.html</link>
+      <description>Ceny benzyny wzrosły po raz pierwszy od listopada, odbijając się z najniższych poziomów od 4 lat. A patrząc na to, co dzieje się na rynkach giełdowych, trudno nie oczekiwać kolejnych podwyżek przy dystrybutorach.</description>
+      <guid isPermaLink="false">https://www.bankier.pl/wiadomosc/Ceny-paliw-pierwsze-podwyzki-od-listopada-To-bylo-do-przewidzenia-9080101.html</guid>
+      <pubDate>Fri, 06 Feb 2026 11:13:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Atak zimy sparaliżował transport w Danii i Szwecji</title>
+      <link>https://www.bankier.pl/wiadomosc/Atak-zimy-sparalizowal-transport-w-Danii-i-Szwecji-9080105.html</link>
+      <description>W Danii i południowej Szwecji intensywne opady śniegu spowodowały w piątek utrudnienia w transporcie. Znaczne opóźnienia mają samoloty na lotnisku w Kopenhadze, a promy pozostały w portach. Wiele duńskich szkół i uczelni zdecydowało o odwołaniu...</description>
+      <guid isPermaLink="false">https://www.bankier.pl/wiadomosc/Atak-zimy-sparalizowal-transport-w-Danii-i-Szwecji-9080105.html</guid>
+      <pubDate>Fri, 06 Feb 2026 11:20:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Trigon DM podniósł cenę docelową dla akcji MLP Group</title>
+      <link>https://www.bankier.pl/wiadomosc/Trigon-DM-podniosl-cene-docelowa-dla-akcji-MLP-Group-do-115-zl-9080107.html</link>
+      <description>Analitycy Trigon DM, w raporcie z 28 stycznia, podnieśli cenę docelową akcji MLP Group do 115 zł z 100 zł wcześniej i podtrzymali rekomendację "kupuj".</description>
+      <guid isPermaLink="false">https://www.bankier.pl/wiadomosc/Trigon-DM-podniosl-cene-docelowa-dla-akcji-MLP-Group-do-115-zl-9080107.html</guid>
+      <pubDate>Fri, 06 Feb 2026 11:24:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Tauron uruchomił farmę fotowoltaiczną PV Postomino</title>
+      <link>https://www.bankier.pl/wiadomosc/Tauron-uruchomil-farme-fotowoltaiczna-PV-Postomino-9080109.html</link>
+      <description>Tauron zakończył budowę farmy fotowoltaicznej PV Postomino (90 MW), dzięki której moc zainstalowana w PV w Grupie wzrosła o 60 proc. - podała spółka w komunikacie prasowym.</description>
+      <guid isPermaLink="false">https://www.bankier.pl/wiadomosc/Tauron-uruchomil-farme-fotowoltaiczna-PV-Postomino-9080109.html</guid>
+      <pubDate>Fri, 06 Feb 2026 11:28:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Chaos przez KSeF. Jakie rodzaje faktur możesz teraz dostać?</title>
+      <link>https://www.bankier.pl/wiadomosc/Chaos-przez-KSeF-Jakie-rodzaje-faktur-mozesz-teraz-dostac-9080075.html</link>
+      <description>Start Krajowego Systemu e-Faktur był reklamowany jako księgowa rewolucja i „koniec papieru”. Jednak już pierwsze dni po wejściu w życie KSeF pokazują, że papier na razie z rozliczeń nie zniknie. Za to przedsiębiorcy mają ból głowy, bo...</description>
+      <guid isPermaLink="false">https://www.bankier.pl/wiadomosc/Chaos-przez-KSeF-Jakie-rodzaje-faktur-mozesz-teraz-dostac-9080075.html</guid>
+      <pubDate>Fri, 06 Feb 2026 11:30:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Koniec traktatu Nowy START. USA i Rosja deklarują gotowość do rozmów</title>
+      <link>https://www.bankier.pl/wiadomosc/Koniec-traktatu-Nowy-START-USA-i-Rosja-deklaruja-gotowosc-do-rozmow-9080113.html</link>
+      <description>Rzecznik Kremla Dmitrij Pieskow poinformował w piątek, że delegacje USA i Rosji rozpoczną wkrótce rozmowy na temat porozumienia, które pozwoli na kontynuowanie procesu ograniczania zbrojeń nuklearnych – przekazała agencja Reutera.</description>
+      <guid isPermaLink="false">https://www.bankier.pl/wiadomosc/Koniec-traktatu-Nowy-START-USA-i-Rosja-deklaruja-gotowosc-do-rozmow-9080113.html</guid>
+      <pubDate>Fri, 06 Feb 2026 11:32:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Horror w schronisku w Sobolewie. Prokuratura bada śmierć 26 psów</title>
+      <link>https://www.bankier.pl/wiadomosc/Horror-w-schronisku-w-Sobolewie-Prokuratura-bada-smierc-26-psow-9080110.html</link>
+      <description>Prokuratura Okręgowa w Siedlcach poinformowała o wszczęciu postępowania w sprawie znęcania się nad zwierzętami w schronisku „Happy Dog” w Sobolewie. W toku postepowania przekazano do odpowiednich organów 26 martwych psów celem przeprowadzenia...</description>
+      <guid isPermaLink="false">https://www.bankier.pl/wiadomosc/Horror-w-schronisku-w-Sobolewie-Prokuratura-bada-smierc-26-psow-9080110.html</guid>
+      <pubDate>Fri, 06 Feb 2026 11:32:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Co się dzieje z kursem bitcoina? Krach o 50% i "ekstremalny strach" na rynku kryptowalut</title>
+      <link>https://www.bankier.pl/wiadomosc/Co-sie-dzieje-z-kursem-bitcoina-Krach-o-50-i-ekstremalny-strach-na-rynku-kryptowalut-9079994.html</link>
+      <description>Notowania bitcoina znalazły się pod silną presją sprzedażową. Najważniejsza kryptowaluta świata straciła 50% swojej wartości względem ubiegłorocznego szczytu, wymazując tym samym cały optymizm, który zapanował na rynku po wyborach prezydenckich...</description>
+      <guid isPermaLink="false">https://www.bankier.pl/wiadomosc/Co-sie-dzieje-z-kursem-bitcoina-Krach-o-50-i-ekstremalny-strach-na-rynku-kryptowalut-9079994.html</guid>
+      <pubDate>Fri, 06 Feb 2026 11:45:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Kuba odcięta od paliw. Prezydent gotowy do rozmów z USA</title>
+      <link>https://www.bankier.pl/wiadomosc/Kuba-odcieta-od-paliw-Prezydent-gotowy-do-rozmow-z-USA-9080117.html</link>
+      <description>Prezydent Kuby Miguel Diaz-Canel oświadczył, że jest gotowy do rozmów z władzami USA „na każdy temat” i „bez warunków wstępnych”. Na Kubie pogłębia się kryzys energetyczny, a z powodu presji Waszyngtonu wyspa stoi w obliczu całkowitego...</description>
+      <guid isPermaLink="false">https://www.bankier.pl/wiadomosc/Kuba-odcieta-od-paliw-Prezydent-gotowy-do-rozmow-z-USA-9080117.html</guid>
+      <pubDate>Fri, 06 Feb 2026 11:46:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Policja w Dino. Pracownicy mówią o wyzysku, mobbingu i pracy ponad siły</title>
+      <link>https://www.bankier.pl/wiadomosc/Dino-pod-lupa-prokuratury-i-policji-Ludzie-traktowani-jak-maszyny-9080137.html</link>
+      <description>Przeciążenie pracowników obowiązkami, praca w zbyt niskich temperaturach i brak Zakładowego Funduszu Świadczeń Socjalnych – to tylko część problemów załogi marketów sieci Dino. Skala naruszeń Prawa pracy jest tam tak duża, że związkowcy...</description>
+      <guid isPermaLink="false">https://www.bankier.pl/wiadomosc/Dino-pod-lupa-prokuratury-i-policji-Ludzie-traktowani-jak-maszyny-9080137.html</guid>
+      <pubDate>Fri, 06 Feb 2026 12:25:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Polacy pracujący za granicą przysłali do kraju ponad 5 miliardów złotych</title>
+      <link>https://www.bankier.pl/wiadomosc/Polacy-pracujacy-za-granica-przyslali-do-kraju-ponad-5-miliardow-zlotych-9080120.html</link>
+      <description>Transfery do Polski od emigrantów w III kw. 2025 r. wyniosły 5,2 mld zł, tyle samo co w analogicznym kwartale poprzedniego roku - podał NBP w pełnym bilansie płatniczym za III kwartał.</description>
+      <guid isPermaLink="false">https://www.bankier.pl/wiadomosc/Polacy-pracujacy-za-granica-przyslali-do-kraju-ponad-5-miliardow-zlotych-9080120.html</guid>
+      <pubDate>Fri, 06 Feb 2026 12:26:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Japońskie wybory, spóźnione „payrollsy” i styczniowa inflacja</title>
+      <link>https://www.bankier.pl/wiadomosc/Tym-beda-zyly-rynki-japonskie-wybory-spoznione-payrollsy-i-styczniowa-inflacja-9080139.html</link>
+      <description>Drugi tydzień lutego będzie naznaczony rynkowymi konsekwencjami wyborów w Japonii. Poznamy też kluczowe statystyki z gospodarki Stanów Zjednoczonych. Wszystko to podlane inflacyjnym sosem z USA, Polski i innych krajów Europy</description>
+      <guid isPermaLink="false">https://www.bankier.pl/wiadomosc/Tym-beda-zyly-rynki-japonskie-wybory-spoznione-payrollsy-i-styczniowa-inflacja-9080139.html</guid>
+      <pubDate>Fri, 06 Feb 2026 12:30:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Miliardy złotych zostają nad Wisłą. Cudzoziemcy ograniczyli transfery</title>
+      <link>https://www.bankier.pl/wiadomosc/Miliardy-zlotych-zostaja-nad-Wisla-Cudzoziemcy-ograniczyli-transfery-9080121.html</link>
+      <description>W III kwartale 2025 r. środki przekazane za granicę przez pracujących w Polsce cudzoziemców spadły o 36 proc. rdr, czyli o 1,6 mld zł do 2,8 mld zł - podał NBP w pełnym bilansie płatniczym za III kwartał.</description>
+      <guid isPermaLink="false">https://www.bankier.pl/wiadomosc/Miliardy-zlotych-zostaja-nad-Wisla-Cudzoziemcy-ograniczyli-transfery-9080121.html</guid>
+      <pubDate>Fri, 06 Feb 2026 12:32:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Tauron Wytwarzanie i SCE Jaworzno III podpisały umowę na dostawy ciepła</title>
+      <link>https://www.bankier.pl/wiadomosc/Tauron-Wytwarzanie-i-SCE-Jaworzno-III-podpisaly-umowe-na-dostawy-ciepla-9080141.html</link>
+      <description>Tauron Wytwarzanie oraz Spółka Ciepłowniczo-Energetyczna Jaworzno III podpisały długoletnią umowę na dostawy ciepła ze źródła, które powstaje na terenie Jaworzna - podał Tauron w komunikacie prasowym.</description>
+      <guid isPermaLink="false">https://www.bankier.pl/wiadomosc/Tauron-Wytwarzanie-i-SCE-Jaworzno-III-podpisaly-umowe-na-dostawy-ciepla-9080141.html</guid>
+      <pubDate>Fri, 06 Feb 2026 12:34:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Jest przystanek w hipotecznych obniżkach, ale niektóre banki tną stawki</title>
+      <link>https://www.bankier.pl/wiadomosc/Ranking-kredytow-hipotecznych-luty-2026-najlepsze-kredyty-hipoteczne-9079625.html</link>
+      <description>Około 5,7-5,8 proc. – tyle zapłacić trzeba teraz za stałoprocentowy kredyt hipoteczny. Po dłuższej serii obniżek nadeszła przerwa. Nie oznacza to, że w cennikach panuje zupełny bezruch. Sprawdzamy, kto jeszcze zszedł z ceny w porównaniu...</description>
+      <guid isPermaLink="false">https://www.bankier.pl/wiadomosc/Ranking-kredytow-hipotecznych-luty-2026-najlepsze-kredyty-hipoteczne-9079625.html</guid>
+      <pubDate>Fri, 06 Feb 2026 12:37:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Wpadka agentów Mosadu. Inżynier i jego wspólnik zatrzymani w Stambule</title>
+      <link>https://www.bankier.pl/wiadomosc/Wpadka-agentow-Mosadu-Inzynier-i-jego-wspolnik-zatrzymani-w-Stambule-9080151.html</link>
+      <description>Funkcjonariusze tureckiego wywiadu (MIT) zatrzymali w Stambule dwóch obywateli Turcji podejrzewanych o współpracę z izraelskim wywiadem, Mosadem - poinformował w piątek dziennik „Hurriyet”, powołując się na tureckie służby bezpieczeństwa...</description>
+      <guid isPermaLink="false">https://www.bankier.pl/wiadomosc/Wpadka-agentow-Mosadu-Inzynier-i-jego-wspolnik-zatrzymani-w-Stambule-9080151.html</guid>
+      <pubDate>Fri, 06 Feb 2026 12:48:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>PKO Leasing przedłużył współpracę z EFI w programie gwarancji unijnych InvestEU</title>
+      <link>https://www.bankier.pl/wiadomosc/PKO-Leasing-przedluzyl-wspolprace-z-EFI-w-programie-gwarancji-unijnych-InvestEU-9080152.html</link>
+      <description>PKO Leasing przedłużył współpracę z Europejskim Funduszem Inwestycyjnym (EFI) w programie gwarancji unijnych InvestEU o kolejne dwa lata (2026-2027) - podała spółka w komunikacie prasowym. Nowy budżet na lata 2026-2027 wynosi 1,065 mld zł.</description>
+      <guid isPermaLink="false">https://www.bankier.pl/wiadomosc/PKO-Leasing-przedluzyl-wspolprace-z-EFI-w-programie-gwarancji-unijnych-InvestEU-9080152.html</guid>
+      <pubDate>Fri, 06 Feb 2026 12:52:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Ceny żywności pójdą w dół? USA dogadały się z Argentyną</title>
+      <link>https://www.bankier.pl/wiadomosc/Ceny-zywnosci-pojda-w-dol-USA-dogadaly-sie-z-Argentyna-9080153.html</link>
+      <description>USA i Argentyna podpisały porozumienie o handlu i inwestycjach, które obniży cła na setki towarów. Media wpisują to w starania prezydenta USA Donalda Trumpa o obniżenie cen żywności oraz zabiegi jego sojusznika, przywódcy Argentyny Javiera Mileia...</description>
+      <guid isPermaLink="false">https://www.bankier.pl/wiadomosc/Ceny-zywnosci-pojda-w-dol-USA-dogadaly-sie-z-Argentyna-9080153.html</guid>
+      <pubDate>Fri, 06 Feb 2026 12:55:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Korekta, a nie zmiana trendu. Skarbiec TFI: Wysokie ceny metali utrzymają się</title>
+      <link>https://www.bankier.pl/wiadomosc/Korekta-a-nie-zmiana-trendu-Skarbiec-TFI-Wysokie-ceny-metali-utrzymaja-sie-9080159.html</link>
+      <description>Metale pozostaną w ogniu wojen handlowych, a ich dostęp dla poszczególnych gospodarek będzie kluczowy w wyścigu technologicznym - napisano w miesięcznym komentarzu surowcowym Skarbiec TFI. Dodano, że wysokie ceny metali powinny utrzymać się w...</description>
+      <guid isPermaLink="false">https://www.bankier.pl/wiadomosc/Korekta-a-nie-zmiana-trendu-Skarbiec-TFI-Wysokie-ceny-metali-utrzymaja-sie-9080159.html</guid>
+      <pubDate>Fri, 06 Feb 2026 13:04:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Pellet droższy nawet o 1000 zł. "Rynek nie przygotował się na zimę"</title>
+      <link>https://www.bankier.pl/wiadomosc/Pellet-drozszy-nawet-o-1000-zl-Rynek-nie-przygotowal-sie-na-zime-9080164.html</link>
+      <description>Rynek nie przygotował się na tak mroźną zimę, a import wymaga czasu – powiedziała w piątek minister klimatu i środowiska Paulina Hennig-Kloska, pytana o doniesienia nt. braku pelletu w całym kraju. Dodała, że kwestia problemów z tym paliwem...</description>
+      <guid isPermaLink="false">https://www.bankier.pl/wiadomosc/Pellet-drozszy-nawet-o-1000-zl-Rynek-nie-przygotowal-sie-na-zime-9080164.html</guid>
+      <pubDate>Fri, 06 Feb 2026 13:14:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Hotele i restauracje "Wars", myjnie i nowe dworce. PKP szykuje wielkie zmiany</title>
+      <link>https://www.bankier.pl/wiadomosc/Hotele-i-restauracje-Wars-myjnie-i-nowe-dworce-PKP-szykuje-wielkie-zmiany-9080167.html</link>
+      <description>Do 2030 r. Grupa PKP planuje rozwijać ofertę, zapewniając wysoki komfort podróży i prowadząc inwestycje dworcowe - wynika ze strategii Grupy. Spółka chce m.in. otwierać myjnie samochodowe i rozszerzyć działalność Wars o usługi hotelowe...</description>
+      <guid isPermaLink="false">https://www.bankier.pl/wiadomosc/Hotele-i-restauracje-Wars-myjnie-i-nowe-dworce-PKP-szykuje-wielkie-zmiany-9080167.html</guid>
+      <pubDate>Fri, 06 Feb 2026 13:16:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>UE gotowa do rozmów z Rosją, ale... Merz: Nie będziemy dublować działań</title>
+      <link>https://www.bankier.pl/wiadomosc/UE-gotowa-do-rozmow-z-Rosja-ale-Merz-Nie-bedziemy-dublowac-dzialan-9080172.html</link>
+      <description>Kanclerz Niemiec Friedrich Merz oświadczył w piątek, że Unia Europejska chce wnieść wkład w wysiłki pokojowe, zmierzające do zakończenia wojny w Ukrainie, ale nie będzie otwierać równoległych kanałów komunikacji.</description>
+      <guid isPermaLink="false">https://www.bankier.pl/wiadomosc/UE-gotowa-do-rozmow-z-Rosja-ale-Merz-Nie-bedziemy-dublowac-dzialan-9080172.html</guid>
+      <pubDate>Fri, 06 Feb 2026 13:27:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Chiński arsenał nuklearny, to wielka niewiadoma. USA: Nie podlega żadnym ograniczeniom ani kontroli</title>
+      <link>https://www.bankier.pl/wiadomosc/Chinski-arsenal-nuklearny-to-wielka-niewiadoma-USA-Nie-podlega-zadnym-ograniczeniom-ani-kontroli-9080175.html</link>
+      <description>Podsekretarz stanu USA ds. kontroli zbrojeń Thomas DiNanno ostrzegł, że chiński arsenał nuklearny nie jest transparentny i funkcjonuje bez żadnych ograniczeń, deklaracji ze strony Pekinu, czy systemu kontroli – przekazała w piątek agencja Reutera...</description>
+      <guid isPermaLink="false">https://www.bankier.pl/wiadomosc/Chinski-arsenal-nuklearny-to-wielka-niewiadoma-USA-Nie-podlega-zadnym-ograniczeniom-ani-kontroli-9080175.html</guid>
+      <pubDate>Fri, 06 Feb 2026 13:29:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>PGZ łączy siły z BAE Systems. Umowa otwiera drzwi do eksportu</title>
+      <link>https://www.bankier.pl/wiadomosc/PGZ-laczy-sily-z-BAE-Systems-Umowa-otwiera-drzwi-do-eksportu-9080180.html</link>
+      <description>Polska Grupa Zbrojeniowa i BAE Systems podpisały porozumienie dotyczące rozszerzenia współpracy, co jest kolejnym krokiem w poszukiwaniu nowych projektów w obszarze amunicyjnym i poza nim - podał PGZ w informacji prasowej. Dodał, że celem współpracy...</description>
+      <guid isPermaLink="false">https://www.bankier.pl/wiadomosc/PGZ-laczy-sily-z-BAE-Systems-Umowa-otwiera-drzwi-do-eksportu-9080180.html</guid>
+      <pubDate>Fri, 06 Feb 2026 13:34:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Wielkie plany OSGE we Włocławku. Jest wniosek o kolejne bloki jądrowe</title>
+      <link>https://www.bankier.pl/wiadomosc/Wielkie-plany-OSGE-we-Wloclawku-Jest-wniosek-o-kolejne-bloki-jadrowe-9080185.html</link>
+      <description>Spółka Orlen Synthos Green Energy (OSGE) wystąpiła do rządu z wnioskiem o decyzje zasadnicze dla dwóch dodatkowych bloków jądrowych z reaktorami BWRX-300 we Włocławku – poinformował PAP wiceprezes OSGE Bartosz Fijałkowski. Dotychczasowa...</description>
+      <guid isPermaLink="false">https://www.bankier.pl/wiadomosc/Wielkie-plany-OSGE-we-Wloclawku-Jest-wniosek-o-kolejne-bloki-jadrowe-9080185.html</guid>
+      <pubDate>Fri, 06 Feb 2026 13:42:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Relacje Czarzastego z Rosjanką. "Wschodnie kontakty" marszałka Sejmu</title>
+      <link>https://www.bankier.pl/wiadomosc/Relacje-Czarzastego-z-Rosjanka-Wschodnie-kontakty-marszalka-Sejmu-9080119.html</link>
+      <description>Swietłana Czestnych to współautorka książek opublikowanych przez wydawnictwo, które prowadził Włodzimierz Czarzasty, a gdy chciało ono sprzedać udziały w spółce PDK ona je kupiła - twierdzą rozmówcy PAP z Kancelarii Sejmu w kwestii kontaktu...</description>
+      <guid isPermaLink="false">https://www.bankier.pl/wiadomosc/Relacje-Czarzastego-z-Rosjanka-Wschodnie-kontakty-marszalka-Sejmu-9080119.html</guid>
+      <pubDate>Fri, 06 Feb 2026 13:50:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Wybory w Japonii. Czy Japończycy zagłosują za słabszym jenem?</title>
+      <link>https://www.bankier.pl/wiadomosc/Wybory-w-Japonii-Czy-Japonczycy-zaglosuja-za-slabszym-jenem-9080197.html</link>
+      <description>Z rynkowego punktu widzenia Japończycy będą głosować nad osłabieniem jena i kontynuacją hossy na giełdzie w Tokio.</description>
+      <guid isPermaLink="false">https://www.bankier.pl/wiadomosc/Wybory-w-Japonii-Czy-Japonczycy-zaglosuja-za-slabszym-jenem-9080197.html</guid>
+      <pubDate>Fri, 06 Feb 2026 14:00:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Miliardy dolarów w rezerwach. NBP doszedł do starego celu i... już ma nowy</title>
+      <link>https://www.bankier.pl/wiadomosc/Miliardy-dolarow-w-rezerwach-NBP-Wyraznie-wzrosla-wartosc-zlota-9080199.html</link>
+      <description>Na koniec stycznia 2026 r. oficjalne aktywa rezerwowe Polski wynosiły 246,8 mld euro, a w przeliczeniu na dolary amerykańskie - 293,9 mld dol. - podał w piątek Narodowy Bank Polski.</description>
+      <guid isPermaLink="false">https://www.bankier.pl/wiadomosc/Miliardy-dolarow-w-rezerwach-NBP-Wyraznie-wzrosla-wartosc-zlota-9080199.html</guid>
+      <pubDate>Fri, 06 Feb 2026 14:01:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Czystki w chińskiej bankowości. Wiceszef Bank of China wyrzucony z partii</title>
+      <link>https://www.bankier.pl/wiadomosc/Czystki-w-chinskiej-bankowosci-Wiceszef-Bank-of-China-wyrzucony-z-partii-9080207.html</link>
+      <description>Były wiceprezes państwowego Bank of China Lin Jingzhen został w piątek wydalony z Komunistycznej Partii Chin (KPCh) za „poważne naruszenie dyscypliny i prawa” – poinformowały państwowe media. To kolejny wysoki rangą urzędnik, który padł...</description>
+      <guid isPermaLink="false">https://www.bankier.pl/wiadomosc/Czystki-w-chinskiej-bankowosci-Wiceszef-Bank-of-China-wyrzucony-z-partii-9080207.html</guid>
+      <pubDate>Fri, 06 Feb 2026 14:04:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Pensje rosną wolniej, inflacja w celu RPP. Co dalej ze stopami?</title>
+      <link>https://www.bankier.pl/wiadomosc/Pensje-rosna-wolniej-inflacja-w-celu-RPP-Co-dalej-ze-stopami-9080200.html</link>
+      <description>Wg oceny RPP w styczniu, w kolejnych kwartałach 2026 r. inflacja pozostanie zgodna z celem NBP - podano w opisie dyskusji z posiedzenia RPP. Członkowie Rady podkreślali, że dynamika płac stopniowo spada. Pojawiły się głosy, że trudne warunki...</description>
+      <guid isPermaLink="false">https://www.bankier.pl/wiadomosc/Pensje-rosna-wolniej-inflacja-w-celu-RPP-Co-dalej-ze-stopami-9080200.html</guid>
+      <pubDate>Fri, 06 Feb 2026 14:38:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Skonsolidowany zysk netto j.d. Stalexport Autostrady w '25 wyniósł 86,3 mln zł</title>
+      <link>https://www.bankier.pl/wiadomosc/Skonsolidowany-zysk-netto-j-d-Stalexport-Autostrady-w-25-wyniosl-86-3-mln-zl-szacunki-9080229.html</link>
+      <description>Stalexport Autostrady szacuje, że grupa odnotowała w 2025 roku 86,3 mln zł zysku netto przypadającego na akcjonariuszy jednostki dominującej wobec 132,9 mln zł zysku przed rokiem - poinformowała spółka w komunikacie.</description>
+      <guid isPermaLink="false">https://www.bankier.pl/wiadomosc/Skonsolidowany-zysk-netto-j-d-Stalexport-Autostrady-w-25-wyniosl-86-3-mln-zl-szacunki-9080229.html</guid>
+      <pubDate>Fri, 06 Feb 2026 14:42:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>TikTok uzależnia. KE: Taka konstrukcja aplikacji narusza unijne przepisy</title>
+      <link>https://www.bankier.pl/wiadomosc/TikTok-uzaleznia-KE-Taka-konstrukcja-aplikacji-narusza-unijne-przepisy-9080160.html</link>
+      <description>Komisja Europejska oświadczyła w piątek, że uzależniająca konstrukcja TikToka narusza przepisy unijnego Aktu o usługach cyfrowych (DSA). Według niej nieskończone przewijanie, automatyczne odtwarzanie i spersonalizowane rekomendacje prowadzą...</description>
+      <guid isPermaLink="false">https://www.bankier.pl/wiadomosc/TikTok-uzaleznia-KE-Taka-konstrukcja-aplikacji-narusza-unijne-przepisy-9080160.html</guid>
+      <pubDate>Fri, 06 Feb 2026 15:04:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Przerwy w bankach w najbliższy weekend. Sprawdź, na kiedy zaplanowano prace</title>
+      <link>https://www.bankier.pl/wiadomosc/Przerwy-w-bankach-w-m-in-PKO-BP-Nest-Banku-mBanku-9080249.html</link>
+      <description>Klienci większości banków mogą odetchnąć z ulgą. Na prace, które mogą nieco utrudnić weekend części klientów, zdecydowało się w tym tygodniu raptem kilka instytucji. Sprawdź, czy ta informacja dotyczy również Ciebie.</description>
+      <guid isPermaLink="false">https://www.bankier.pl/wiadomosc/Przerwy-w-bankach-w-m-in-PKO-BP-Nest-Banku-mBanku-9080249.html</guid>
+      <pubDate>Fri, 06 Feb 2026 15:05:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Polska chce od USA akt Epsteina. Żurek: Polacy byli w ścisłym sztabie</title>
+      <link>https://www.bankier.pl/wiadomosc/Polska-chce-od-USA-akt-Epsteina-Zurek-Polacy-byli-w-scislym-sztabie-9080289.html</link>
+      <description>Prokurator generalny, szef MS Waldemar Żurek poinformował w piątek, że koordynowany przez niego zespół ds. tzw. afery Epsteina będzie musiał zwrócić się do Stanów Zjednoczonych o udostępnienie pełnej, również nieujawnionej dotąd, dokumentacji...</description>
+      <guid isPermaLink="false">https://www.bankier.pl/wiadomosc/Polska-chce-od-USA-akt-Epsteina-Zurek-Polacy-byli-w-scislym-sztabie-9080289.html</guid>
+      <pubDate>Fri, 06 Feb 2026 15:43:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>USA i Iran przy stole. "Dobry początek" rozmów w Omanie</title>
+      <link>https://www.bankier.pl/wiadomosc/USA-i-Iran-przy-stole-Dobry-poczatek-rozmow-w-Omanie-9080294.html</link>
+      <description>Negocjacje między Iranem i Stanami Zjednoczonymi za pośrednictwem Omanu zakończyły się, ale będą kontynuowane – poinformował w piątek minister spraw zagranicznych Iranu Abbas Aragczi. Jak dodał, Iran rozmawia ze stroną amerykańską tylko...</description>
+      <guid isPermaLink="false">https://www.bankier.pl/wiadomosc/USA-i-Iran-przy-stole-Dobry-poczatek-rozmow-w-Omanie-9080294.html</guid>
+      <pubDate>Fri, 06 Feb 2026 15:46:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Burza wokół Czarzastego. PiS chce prześwietlić wschodnie kontakty marszałka</title>
+      <link>https://www.bankier.pl/wiadomosc/Burza-wokol-Czarzastego-PiS-chce-przeswietlic-wschodnie-kontakty-marszalka-9080295.html</link>
+      <description>Politycy PiS domagają się zwołania tajnego posiedzenia Sejmu ws. powiązań marszałka Włodzimierza Czarzastego z Rosją. Zdaniem wicepremiera, ministra cyfryzacji Krzysztofa Gawkowskiego z Lewicy, taka narracja udowadnia, że w PiS nie mają „pomysłu...</description>
+      <guid isPermaLink="false">https://www.bankier.pl/wiadomosc/Burza-wokol-Czarzastego-PiS-chce-przeswietlic-wschodnie-kontakty-marszalka-9080295.html</guid>
+      <pubDate>Fri, 06 Feb 2026 15:47:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>USA grozi kolejny shutdown. Negocjacje budżetowe w "martwym punkcie"</title>
+      <link>https://www.bankier.pl/wiadomosc/USA-grozi-kolejny-shutdown-Negocjacje-budzetowe-w-martwym-punkcie-9080300.html</link>
+      <description>Rozmowy między Demokratami i Republikanami na temat finansowania resortu bezpieczeństwa krajowego (DHS) utknęły w miejscu, w związku z czym możliwy jest shutdown, czyli paraliż, tego ministerstwa - podają w piątek amerykańskie media.</description>
+      <guid isPermaLink="false">https://www.bankier.pl/wiadomosc/USA-grozi-kolejny-shutdown-Negocjacje-budzetowe-w-martwym-punkcie-9080300.html</guid>
+      <pubDate>Fri, 06 Feb 2026 15:52:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Spięcie Czarzastego z amerykańskim ambasadorem. Pełczyńska-Nałęcz: Mógł to inaczej komunikować</title>
+      <link>https://www.bankier.pl/wiadomosc/Spiecie-Czarzastego-z-amerykanskim-ambasadorem-Pelczynska-Nalecz-Mogl-to-inaczej-komunikowac-9080303.html</link>
+      <description>Marszałek Sejmu Włodzimierz Czarzasty miał rację, prezydent USA Donald Trump to nie jest kandydat do pokojowego Nobla - oceniła liderka Polski 2050 Katarzyna Pełczyńska-Nałęcz. Dodała jednak, że komunikowanie jego decyzji w tej sprawie „mogło...</description>
+      <guid isPermaLink="false">https://www.bankier.pl/wiadomosc/Spiecie-Czarzastego-z-amerykanskim-ambasadorem-Pelczynska-Nalecz-Mogl-to-inaczej-komunikowac-9080303.html</guid>
+      <pubDate>Fri, 06 Feb 2026 15:55:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Movie Games sprzedało od premiery 300 tys. egzemplarzy gry DDS 2</title>
+      <link>https://www.bankier.pl/wiadomosc/Movie-Games-sprzedalo-od-premiery-300-tys-egzemplarzy-gry-DDS-2-9080304.html</link>
+      <description>Movie Games sprzedało 300 tys. egzemplarzy gry Drug Dealer Simulator 2 od premiery, która na platformie STEAM miała miejsce 20 czerwca 2024 roku - podał producent gier w komunikacie.</description>
+      <guid isPermaLink="false">https://www.bankier.pl/wiadomosc/Movie-Games-sprzedalo-od-premiery-300-tys-egzemplarzy-gry-DDS-2-9080304.html</guid>
+      <pubDate>Fri, 06 Feb 2026 15:56:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>AI i roboty na polu walki. MON czeka na oferty firm</title>
+      <link>https://www.bankier.pl/wiadomosc/AI-i-roboty-na-polu-walki-MON-czeka-na-oferty-firm-9080314.html</link>
+      <description>Wojsko ogłosiło w piątek, że rozpoczęło przyjmowanie wniosków od producentów bezzałogowych lądowych systemów uzbrojenia. Sprzęt ten będzie testowany w celu pozyskania przez wojsko nowych zdolności. Producenci mogą składać propozycje do...</description>
+      <guid isPermaLink="false">https://www.bankier.pl/wiadomosc/AI-i-roboty-na-polu-walki-MON-czeka-na-oferty-firm-9080314.html</guid>
+      <pubDate>Fri, 06 Feb 2026 16:07:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Bruksela uderzy w "flotę cieni", LNG i krypto. Unia celuje w rosyjskie finanse</title>
+      <link>https://www.bankier.pl/wiadomosc/Bruksela-uderzy-w-flote-cieni-LNG-i-krypto-Unia-celuje-w-rosyjskie-finanse-9080319.html</link>
+      <description>Szefowa Komisji Europejskiej Ursula von der Leyen ogłosiła w piątek, że w ramach 20. pakietu sankcji wobec Rosji zaproponowano wprowadzenie całkowitego zakazu transportu rosyjskiej ropy naftowej drogą morską. KE chce też uderzyć w banki i kryptowaluty...</description>
+      <guid isPermaLink="false">https://www.bankier.pl/wiadomosc/Bruksela-uderzy-w-flote-cieni-LNG-i-krypto-Unia-celuje-w-rosyjskie-finanse-9080319.html</guid>
+      <pubDate>Fri, 06 Feb 2026 16:14:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Wielkie zmiany w handlu z Turcją? UE chce modernizować unię celną</title>
+      <link>https://www.bankier.pl/wiadomosc/Wielkie-zmiany-w-handlu-z-Turcja-UE-chce-modernizowac-unie-celna-9080342.html</link>
+      <description>Unijna komisarka ds. rozszerzenia Marta Kos i szef tureckiej dyplomacji Hakan Fidan poinformowali w piątek, że uzgodnili kontynuowanie prac nad modernizacją unii celnej UE-Turcja i usprawnieniem jej wdrażania. Zdaniem części mediów to znak, że...</description>
+      <guid isPermaLink="false">https://www.bankier.pl/wiadomosc/Wielkie-zmiany-w-handlu-z-Turcja-UE-chce-modernizowac-unie-celna-9080342.html</guid>
+      <pubDate>Fri, 06 Feb 2026 16:48:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Obamowie jako małpy w "Królu Lwie". Trump w ogniu krytyki</title>
+      <link>https://www.bankier.pl/wiadomosc/Obamowie-jako-malpy-w-Krolu-Lwie-Trump-w-ogniu-krytyki-9080352.html</link>
+      <description>Prezydent USA Donald Trump opublikował nagranie, na którym były prezydent Barack Obama i jego żona Michelle są przedstawieni jako małpy. Wywołało to krytykę wśród polityków i w mediach. Rzeczniczka Białego Domu oceniła, że jest to „fałszywe...</description>
+      <guid isPermaLink="false">https://www.bankier.pl/wiadomosc/Obamowie-jako-malpy-w-Krolu-Lwie-Trump-w-ogniu-krytyki-9080352.html</guid>
+      <pubDate>Fri, 06 Feb 2026 17:03:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Koniec z "kupuj europejskie"? Waszyngton chce unijnych miliardów</title>
+      <link>https://www.bankier.pl/wiadomosc/Koniec-z-kupuj-europejskie-Waszyngton-chce-unijnych-miliardow-9080360.html</link>
+      <description>Na spotkaniu ministrów obrony państw NATO w przyszłym tygodniu Amerykanie zamierzają zapytać, jak strona europejska widzi udział USA w unijnych programach zakupu uzbrojenia - wynika z informacji uzyskanych przez PAP. Będą też oczekiwać informacji...</description>
+      <guid isPermaLink="false">https://www.bankier.pl/wiadomosc/Koniec-z-kupuj-europejskie-Waszyngton-chce-unijnych-miliardow-9080360.html</guid>
+      <pubDate>Fri, 06 Feb 2026 17:13:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Grupa Auto Partner miała w styczniu 363,2 mln zł przychodów, wzrost rdr o 3,4 proc.</title>
+      <link>https://www.bankier.pl/wiadomosc/Grupa-Auto-Partner-miala-w-styczniu-363-2-mln-zl-przychodow-wzrost-rdr-o-3-4-proc-9080370.html</link>
+      <description>Skonsolidowane przychody grupy Auto Partner w styczniu 2026 roku wyniosły 363,2 mln zł, co oznacza wzrost rdr o 3,4 proc. - podała spółka w komunikacie. (PAP Biznes)</description>
+      <guid isPermaLink="false">https://www.bankier.pl/wiadomosc/Grupa-Auto-Partner-miala-w-styczniu-363-2-mln-zl-przychodow-wzrost-rdr-o-3-4-proc-9080370.html</guid>
+      <pubDate>Fri, 06 Feb 2026 17:20:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Minerały z dawnej radzieckiej republiki. USA sięgają po uzbecki lit i miedź</title>
+      <link>https://www.bankier.pl/wiadomosc/Mineraly-z-dawnej-radzieckiej-republiki-USA-siegaja-po-uzbecki-lit-i-miedz-9080374.html</link>
+      <description>Przedstawiciele władz Uzbekistanu i USA podpisali memorandum o współpracy przy wydobyciu i przetwarzaniu minerałów krytycznych oraz metali ziem rzadkich - poinformował uzbekistański portal gazeta.uz powołując się na MSZ w Taszkencie.</description>
+      <guid isPermaLink="false">https://www.bankier.pl/wiadomosc/Mineraly-z-dawnej-radzieckiej-republiki-USA-siegaja-po-uzbecki-lit-i-miedz-9080374.html</guid>
+      <pubDate>Fri, 06 Feb 2026 17:23:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Przecena na GPW zahamowana. Orlen z rekordową kapitalizacją, kurs KGHM niebywale spokojny</title>
+      <link>https://www.bankier.pl/wiadomosc/Przecena-na-GPW-zahamowana-Orlen-z-rekordowa-kapitalizacja-kurs-KGHM-niebywale-spokojny-9080375.html</link>
+      <description>Choć główne indeksy zdołały utrzymać się nad kreską, a byki podjęły próbę stabilizacji po czwartkowej przecenie, sesja nie pokazała dużej chęci do wykupywania dołków, jaką w ostatnim czasie widzieliśmy dość często. WIG20 był słabszy...</description>
+      <guid isPermaLink="false">https://www.bankier.pl/wiadomosc/Przecena-na-GPW-zahamowana-Orlen-z-rekordowa-kapitalizacja-kurs-KGHM-niebywale-spokojny-9080375.html</guid>
+      <pubDate>Fri, 06 Feb 2026 17:25:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Nocna prohibicja w Warszawie? Radni zajmą się projektem na najbliższej sesji</title>
+      <link>https://www.bankier.pl/wiadomosc/Nocna-prohibicja-w-Warszawie-Radni-zajma-sie-projektem-na-najblizszej-sesji-9080376.html</link>
+      <description>Na najbliższej sesji radni zajmą się projektem uchwały w sprawie wystąpienia do dzielnic o opinię w kwestii wprowadzenia nocnej prohibicji w całym mieście. Zakaz objąłby sklepy i stacje benzynowe z wyjątkiem sklepów w strefie wolnocłowej...</description>
+      <guid isPermaLink="false">https://www.bankier.pl/wiadomosc/Nocna-prohibicja-w-Warszawie-Radni-zajma-sie-projektem-na-najblizszej-sesji-9080376.html</guid>
+      <pubDate>Fri, 06 Feb 2026 17:26:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>USA zaciskają pętlę naftową. Nowe sankcje na Iran mimo rozmów</title>
+      <link>https://www.bankier.pl/wiadomosc/USA-zaciskaja-petle-naftowa-Nowe-sankcje-na-Iran-mimo-rozmow-9080381.html</link>
+      <description>Departament Stanu USA ogłosił w piątek sankcje na 15 podmiotów, dwie osoby i 14 jednostek należących do floty cieni powiązanych z nielegalnym handlem irańską ropą, produktami naftowymi i petrochemicznymi.</description>
+      <guid isPermaLink="false">https://www.bankier.pl/wiadomosc/USA-zaciskaja-petle-naftowa-Nowe-sankcje-na-Iran-mimo-rozmow-9080381.html</guid>
+      <pubDate>Fri, 06 Feb 2026 17:38:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Ustawa o KRS na biurku prezydenta. Żurek: Praworządność leży w jego rękach</title>
+      <link>https://www.bankier.pl/wiadomosc/Ustawa-o-KRS-na-biurku-prezydenta-Zurek-Praworzadnosc-lezy-w-jego-rekach-9080403.html</link>
+      <description>Minister sprawiedliwości, prokurator generalny Waldemar Żurek poinformował w piątek, że od 4 lutego nowelizacja ustawy o KRS znajduje się u prezydenta Karola Nawrockiego. W jego rękach leży to, czy przywrócimy w Polsce praworządność – powiedział...</description>
+      <guid isPermaLink="false">https://www.bankier.pl/wiadomosc/Ustawa-o-KRS-na-biurku-prezydenta-Zurek-Praworzadnosc-lezy-w-jego-rekach-9080403.html</guid>
+      <pubDate>Fri, 06 Feb 2026 18:19:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Padł turystyczny rekord Polski. GUS: Prawie 60 mln gości i 94 mld zł wpływów</title>
+      <link>https://www.bankier.pl/wiadomosc/Padl-turystyczny-rekord-Polski-GUS-Prawie-60-mln-gosci-i-94-mld-zl-wplywow-9080404.html</link>
+      <description>W 2025 r. z turystycznych obiektów noclegowych skorzystało w Polsce 58,9 mln turystów, co oznacza wzrost o 11,6 proc. rok do roku – wynika z przedstawionych w piątek danych Głównego Urzędu Statystycznego i Ministerstwa Sportu i Turystyki. To...</description>
+      <guid isPermaLink="false">https://www.bankier.pl/wiadomosc/Padl-turystyczny-rekord-Polski-GUS-Prawie-60-mln-gosci-i-94-mld-zl-wplywow-9080404.html</guid>
+      <pubDate>Fri, 06 Feb 2026 18:20:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Porozumienie w JSW. Zarząd i związkowcy wypracowali warunki, ale będzie referendum</title>
+      <link>https://www.bankier.pl/wiadomosc/JSW-uzgodnil-z-organizacjami-zwiazkowymi-warunki-porozumienia-9080246.html</link>
+      <description>12 lutego br. odbędzie się referendum wśród załogi Jastrzębskiej Spółki Węglowej dot. porozumienia zawieszającego część świadczeń pracowniczych – podała JSW na swojej stronie internetowej. W piątek spółka poinformowała o uzgodnieniu...</description>
+      <guid isPermaLink="false">https://www.bankier.pl/wiadomosc/JSW-uzgodnil-z-organizacjami-zwiazkowymi-warunki-porozumienia-9080246.html</guid>
+      <pubDate>Fri, 06 Feb 2026 18:57:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Ziobro poszukiwany. Wydano list gończy za byłym ministrem sprawiedliwości</title>
+      <link>https://www.bankier.pl/wiadomosc/Ziobro-poszukiwany-Wydano-list-gonczy-za-bylym-ministrem-sprawiedliwosci-9080328.html</link>
+      <description>Prokurator wydał w piątek postanowienie o poszukiwaniu podejrzanego, byłego ministra sprawiedliwości Zbigniewa Ziobry, listem gończym – poinformowała Prokuratura Krajowa.</description>
+      <guid isPermaLink="false">https://www.bankier.pl/wiadomosc/Ziobro-poszukiwany-Wydano-list-gonczy-za-bylym-ministrem-sprawiedliwosci-9080328.html</guid>
+      <pubDate>Fri, 06 Feb 2026 18:58:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Orlen "czyści" bilans przed wynikami. 2,5 mld zł odpisu wpłynie na zysk</title>
+      <link>https://www.bankier.pl/wiadomosc/Orlen-w-wynikach-za-IV-kw-25-dokona-odpisu-aktualizujacego-w-wysokosci-2-5-mld-zl-9080442.html</link>
+      <description>Orlen przewiduje, że w wynikach za IV kwartał 2025 r. dokona odpisu aktualizującego wartość aktywów o łącznej wysokości 2,5 mld zł i głównie będzie on dotyczył inwestycji Nowa Chemia w segmencie downstream - podała spółka w komunikacie...</description>
+      <guid isPermaLink="false">https://www.bankier.pl/wiadomosc/Orlen-w-wynikach-za-IV-kw-25-dokona-odpisu-aktualizujacego-w-wysokosci-2-5-mld-zl-9080442.html</guid>
+      <pubDate>Fri, 06 Feb 2026 19:58:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Orlen energy to book PLN 2.5 bln in assets impairments in Q4</title>
+      <link>https://www.bankier.pl/wiadomosc/Orlen-energy-to-book-PLN-2-5-bln-in-assets-impairments-in-Q4-9080462.html</link>
+      <description>Poland's largest energy concern Orlen will recognize PLN 2.5 bln (EUR 0.59 bln) write-offs in the consolidated report for the fourth quarter of 2025, the company said in a market filing.</description>
+      <guid isPermaLink="false">https://www.bankier.pl/wiadomosc/Orlen-energy-to-book-PLN-2-5-bln-in-assets-impairments-in-Q4-9080462.html</guid>
+      <pubDate>Fri, 06 Feb 2026 21:20:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Adam Łukojć dyrektorem finansowym Captor Therapeutics</title>
+      <link>https://www.bankier.pl/wiadomosc/Adam-Lukojc-dyrektorem-finansowym-Captor-Therapeutics-9080477.html</link>
+      <description>Adam Łukojć został powołany przez radę nadzorczą Captor Therapeutics na stanowisko członka zarządu - dyrektora finansowego - poinformowała spółka w komunikacie.</description>
+      <guid isPermaLink="false">https://www.bankier.pl/wiadomosc/Adam-Lukojc-dyrektorem-finansowym-Captor-Therapeutics-9080477.html</guid>
+      <pubDate>Fri, 06 Feb 2026 22:20:00 +0100</pubDate>
+    </item>
+  </channel>
+</rss>
