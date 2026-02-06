@@ -4,21 +4,17 @@
 Master RSS Generator - generuje kanały RSS/JSON z wielu źródeł.
 
 Źródła:
-  - bankier (news)   -> https://www.bankier.pl/wiadomosc/
-  - bankier (gielda) -> https://www.bankier.pl/gielda/wiadomosci/
-  - strefa           -> https://strefainwestorow.pl/wiadomosci
-  - stockwatch       -> https://www.stockwatch.pl/wiadomosci/akcje
+  - bankier -> https://www.bankier.pl (news + gielda połączone)
+  - pap     -> https://biznes.pap.pl/kategoria/depesze-pap
 
 Użycie:
     python master_rss.py --all              # generuje wszystkie feedy
-    python master_rss.py --source bankier   # tylko bankier (news+gielda)
-    python master_rss.py --source strefa    # tylko strefa
-    python master_rss.py --source stockwatch # tylko stockwatch
+    python master_rss.py --source bankier   # tylko bankier
+    python master_rss.py --source pap       # tylko PAP
 """
 
 import logging
 import time
-import sys
 import json
 import re
 import argparse
@@ -37,7 +33,7 @@ from feedgen.feed import FeedGenerator
 # --------------------------------------------------------------------
 
 SLEEP_BETWEEN_REQUESTS = 2.5
-HOURS_BACK = 48
+HOURS_BACK = 24
 TZ_WARSAW = pytz.timezone("Europe/Warsaw")
 
 HEADERS = {
@@ -53,41 +49,24 @@ HEADERS = {
 
 # Konfiguracja źródeł
 SOURCES = {
-    "bankier-news": {
+    "bankier": {
         "name": "Bankier.pl – Wiadomości",
         "base_url": "https://www.bankier.pl",
-        "section_url": "https://www.bankier.pl/wiadomosc/",
-        "num_pages": 5,
-        "parser": "bankier_news",
+        "urls": [
+            ("https://www.bankier.pl/wiadomosc/", 5, "bankier_news"),
+            ("https://www.bankier.pl/gielda/wiadomosci/", 5, "bankier_gielda"),
+        ],
         "rss_file": "bankier-rss.xml",
         "json_file": "bankier-feed.json",
     },
-    "bankier-gielda": {
-        "name": "Bankier.pl – Giełda",
-        "base_url": "https://www.bankier.pl",
-        "section_url": "https://www.bankier.pl/gielda/wiadomosci/",
-        "num_pages": 5,
-        "parser": "bankier_gielda",
-        "rss_file": "bankier-gielda-rss.xml",
-        "json_file": "bankier-gielda-feed.json",
-    },
-    "strefa": {
-        "name": "Strefa Inwestorów",
-        "base_url": "https://strefainwestorow.pl",
-        "section_url": "https://strefainwestorow.pl/wiadomosci",
-        "num_pages": 5,
-        "parser": "strefa",
-        "rss_file": "strefa-rss.xml",
-        "json_file": "strefa-feed.json",
-    },
-    "stockwatch": {
-        "name": "StockWatch – Akcje",
-        "base_url": "https://www.stockwatch.pl",
-        "section_url": "https://www.stockwatch.pl/wiadomosci/akcje",
-        "num_pages": 3,
-        "parser": "stockwatch",
-        "rss_file": "stockwatch-rss.xml",
-        "json_file": "stockwatch-feed.json",
+    "pap": {
+        "name": "PAP Biznes – Depesze",
+        "base_url": "https://biznes.pap.pl",
+        "urls": [
+            ("https://biznes.pap.pl/kategoria/depesze-pap", 10, "pap"),
+        ],
+        "rss_file": "pap-rss.xml",
+        "json_file": "pap-feed.json",
     },
 }
 
@@ -97,18 +76,10 @@ logging.basicConfig(level=logging.INFO, format="%(asctime)s [%(levelname)s] %(me
 # FUNKCJE POMOCNICZE
 # --------------------------------------------------------------------
 
-def fetch_page_html(url: str, use_session: bool = False) -> Optional[str]:
-    """Pobiera HTML strony."""
+def fetch_page_html(url: str) -> Optional[str]:
     logging.info("Pobieram: %s", url)
     try:
-        if use_session:
-            session = requests.Session()
-            base = url.split("/wiadomosci")[0]
-            session.get(base, headers=HEADERS, timeout=15)
-            time.sleep(1)
-            resp = session.get(url, headers=HEADERS, timeout=15)
-        else:
-            resp = requests.get(url, headers=HEADERS, timeout=15)
+        resp = requests.get(url, headers=HEADERS, timeout=15)
         resp.raise_for_status()
         return resp.text
     except Exception as exc:
@@ -118,11 +89,10 @@ def fetch_page_html(url: str, use_session: bool = False) -> Optional[str]:
         time.sleep(SLEEP_BETWEEN_REQUESTS)
 
 # --------------------------------------------------------------------
-# PARSERY DLA RÓŻNYCH ŹRÓDEŁ
+# PARSERY
 # --------------------------------------------------------------------
 
 def parse_bankier_news(html: str, base_url: str) -> List[Dict]:
-    """Parser dla Bankier /wiadomosc/"""
     soup = BeautifulSoup(html, "html.parser")
     section = soup.find("section", id="articleList")
     if not section:
@@ -134,7 +104,6 @@ def parse_bankier_news(html: str, base_url: str) -> List[Dict]:
             content = art.find("div", class_="entry-content")
             if not content:
                 continue
-
             title_span = content.find("span", class_="entry-title")
             if not title_span:
                 continue
@@ -148,7 +117,6 @@ def parse_bankier_news(html: str, base_url: str) -> List[Dict]:
             meta_div = content.find("div", class_="entry-meta")
             if not meta_div:
                 continue
-
             time_tags = meta_div.find_all("time", class_="entry-date")
             if not time_tags:
                 continue
@@ -174,7 +142,6 @@ def parse_bankier_news(html: str, base_url: str) -> List[Dict]:
 
 
 def parse_bankier_gielda(html: str, base_url: str) -> List[Dict]:
-    """Parser dla Bankier /gielda/wiadomosci/"""
     soup = BeautifulSoup(html, "html.parser")
     main = soup.find("main") or soup
     articles = []
@@ -196,69 +163,38 @@ def parse_bankier_gielda(html: str, base_url: str) -> List[Dict]:
     return articles
 
 
-def parse_strefa(html: str, base_url: str) -> List[Dict]:
-    """Parser dla Strefa Inwestorów"""
-    soup = BeautifulSoup(html, "html.parser")
-    articles = []
-    pattern = re.compile(r'^/wiadomosci/\d{8}/')
-
-    for a_tag in soup.find_all("a", href=pattern):
-        href = a_tag.get("href", "")
-        if not href:
-            continue
-        link = urljoin(base_url, href)
-        title = " ".join(a_tag.get_text(strip=True).split())
-        if not title or len(title) < 5:
-            continue
-        
-        # Data z URL
-        match = re.search(r'/wiadomosci/(\d{8})/', link)
-        if match:
-            try:
-                dt_naive = datetime.strptime(match.group(1), "%Y%m%d").replace(hour=12)
-                pub_dt = TZ_WARSAW.localize(dt_naive)
-                articles.append({"title": title, "link": link, "pub_date": pub_dt, "teaser": ""})
-            except ValueError:
-                continue
-    return articles
-
-
-def parse_stockwatch(html: str, base_url: str) -> List[Dict]:
-    """Parser dla StockWatch"""
+def parse_pap(html: str, base_url: str) -> List[Dict]:
     soup = BeautifulSoup(html, "html.parser")
     articles = []
     now = datetime.now(TZ_WARSAW)
 
     for a_tag in soup.find_all("a", href=True):
         href = a_tag.get("href", "")
-        if "/wiadomosci/" not in href.lower():
+        if "/wiadomosci/" not in href or "/kategoria/" in href:
             continue
-        if href.endswith("/wiadomosci/") or href.endswith("/akcje") or href.endswith("/akcje/"):
+        if href.endswith("/wiadomosci/"):
             continue
         
         link = urljoin(base_url, href)
         title = " ".join(a_tag.get_text(strip=True).split())
         if not title or len(title) < 10:
             continue
-        if title.lower() in ["czytaj więcej", "więcej", "..."]:
-            continue
         
-        articles.append({"title": title, "link": link, "pub_date": now, "teaser": ""})
+        teaser = ""
+        parent = a_tag.find_parent()
+        if parent:
+            p_tag = parent.find_next_sibling("p") or parent.find("p")
+            if p_tag:
+                teaser = " ".join(p_tag.get_text(strip=True).split())[:200]
+        
+        articles.append({"title": title, "link": link, "pub_date": now, "teaser": teaser})
+    return articles
 
-    # Deduplikacja
-    seen = set()
-    unique = []
-    for art in articles:
-        if art["link"] not in seen:
-            seen.add(art["link"])
-            unique.append(art)
-    return unique
 
 PARSERS = {
     "bankier_news": parse_bankier_news,
     "bankier_gielda": parse_bankier_gielda,
-    "strefa": parse_strefa,
-    "stockwatch": parse_stockwatch,
+    "pap": parse_pap,
 }
 
 # --------------------------------------------------------------------
@@ -266,41 +202,38 @@ PARSERS = {
 # --------------------------------------------------------------------
 
 def collect_articles(source_key: str) -> List[Dict]:
-    """Zbiera artykuły z danego źródła."""
+    """Zbiera artykuły z danego źródła (może mieć wiele URL-i)."""
     config = SOURCES[source_key]
-    parser = PARSERS[config["parser"]]
     base_url = config["base_url"]
-    section_url = config["section_url"]
-    num_pages = config["num_pages"]
-    use_session = source_key == "stockwatch"
-
+    
     all_articles = []
     seen_links = set()
     now = datetime.now(TZ_WARSAW)
     cutoff = now - timedelta(hours=HOURS_BACK)
 
-    for page in range(1, num_pages + 1):
-        if source_key == "strefa":
-            url = section_url if page == 1 else f"{section_url}?page={page-1}"
-        elif source_key == "stockwatch":
-            url = section_url if page == 1 else f"{section_url}/{page}"
-        else:  # bankier
-            url = section_url if page == 1 else f"{section_url}{page}"
+    for section_url, num_pages, parser_name in config["urls"]:
+        parser = PARSERS[parser_name]
+        
+        for page in range(1, num_pages + 1):
+            if "pap" in parser_name:
+                url = section_url if page == 1 else f"{section_url}?page={page}"
+            else:
+                url = section_url if page == 1 else f"{section_url}{page}"
 
-        html = fetch_page_html(url, use_session=use_session)
-        if not html:
-            continue
+            html = fetch_page_html(url)
+            if not html:
+                continue
 
-        for art in parser(html, base_url):
-            if art["link"] in seen_links:
-                continue
-            if art["pub_date"] < cutoff:
-                continue
-            seen_links.add(art["link"])
-            all_articles.append(art)
+            for art in parser(html, base_url):
+                if art["link"] in seen_links:
+                    continue
+                if art["pub_date"] < cutoff:
+                    continue
+                seen_links.add(art["link"])
+                all_articles.append(art)
 
     all_articles.sort(key=lambda x: x["pub_date"], reverse=True)
-    logging.info("[%s] Znaleziono %d artykułów", source_key, len(all_articles))
+    logging.info("[%s] Znaleziono %d artykułów (bez duplikatów)", source_key, len(all_articles))
     return all_articles
 
 # --------------------------------------------------------------------
@@ -311,7 +244,7 @@ def generate_rss(articles: List[Dict], config: dict) -> bytes:
     fg = FeedGenerator()
     fg.load_extension("dc")
     fg.title(config["name"])
-    fg.link(href=config["section_url"], rel="alternate")
+    fg.link(href=config["base_url"], rel="alternate")
     fg.description(f"Automatyczny kanał RSS – {config['name']} (ostatnie {HOURS_BACK}h)")
     fg.language("pl")
     if articles:
@@ -328,29 +261,22 @@ def generate_rss(articles: List[Dict], config: dict) -> bytes:
 
 
 def generate_json(articles: List[Dict], config: dict) -> str:
-    feed = {
+    return json.dumps({
         "version": "https://jsonfeed.org/version/1",
         "title": config["name"],
-        "home_page_url": config["section_url"],
+        "home_page_url": config["base_url"],
         "items": [
-            {
-                "id": art["link"],
-                "url": art["link"],
-                "title": art["title"],
-                "content_html": art["teaser"],
-                "date_published": art["pub_date"].isoformat(),
-            }
-            for art in articles
+            {"id": a["link"], "url": a["link"], "title": a["title"],
+             "content_html": a["teaser"], "date_published": a["pub_date"].isoformat()}
+            for a in articles
         ],
-    }
-    return json.dumps(feed, ensure_ascii=False, indent=2)
+    }, ensure_ascii=False, indent=2)
 
 # --------------------------------------------------------------------
 # MAIN
 # --------------------------------------------------------------------
 
 def process_source(source_key: str, output_dir: str):
-    """Przetwarza jedno źródło i zapisuje pliki."""
     config = SOURCES[source_key]
     articles = collect_articles(source_key)
     
@@ -368,16 +294,14 @@ def process_source(source_key: str, output_dir: str):
 def main():
     parser = argparse.ArgumentParser(description="Master RSS Generator")
     parser.add_argument("--all", action="store_true", help="Generuj wszystkie feedy")
-    parser.add_argument("--source", choices=["bankier", "strefa", "stockwatch"], help="Wybrane źródło")
-    parser.add_argument("--output", default="docs", help="Katalog wyjściowy (domyślnie: docs)")
+    parser.add_argument("--source", choices=["bankier", "pap"], help="Wybrane źródło")
+    parser.add_argument("--output", default="docs", help="Katalog wyjściowy")
     args = parser.parse_args()
 
     os.makedirs(args.output, exist_ok=True)
 
     if args.all:
         sources = list(SOURCES.keys())
-    elif args.source == "bankier":
-        sources = ["bankier-news", "bankier-gielda"]
     elif args.source:
         sources = [args.source]
     else:
