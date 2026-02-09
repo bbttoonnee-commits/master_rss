@@ -18,7 +18,7 @@ jobs:
       - name: Install dependencies
         run: pip install requests beautifulsoup4 pytz
       - name: Generate combined feed
-        run: python master_rss_combined.py --output docs
+        run: python master_rss.py --output docs
       - name: Commit and push
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
