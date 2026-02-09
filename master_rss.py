@@ -164,18 +164,8 @@ def parse_pap(html: str, base_url: str) -> List[Dict]:
     articles = []
     now = datetime.now(TZ_WARSAW)
     
-    # DEBUG: Sprawdzamy co znajdujemy
-    all_lis = soup.find_all("li")
-    news_lis = soup.find_all("li", class_=lambda x: x and "news" in x)
-    logging.info(f"[PAP DEBUG] Wszystkie <li>: {len(all_lis)}, <li class='news'>: {len(news_lis)}")
-    
-    # Liczniki do debugowania
-    debug_stats = {"total": 0, "no_info_div": 0, "no_link": 0, "wrong_href": 0, "short_title": 0, "success": 0}
-    
     # Szukamy <li> z klasą "news"
     for li in soup.find_all("li", class_=lambda x: x and "news" in x):
-        debug_stats["total"] += 1
-        
         # Szukamy daty w <div class="date">
         date_div = li.find("div", class_="date")
         pub_dt = now
@@ -189,28 +179,27 @@ def parse_pap(html: str, base_url: str) -> List[Dict]:
             except ValueError:
                 pass
         
-        # Szukamy linku do artykułu w <div class="info">
+        # Szukamy linku do artykułu - WAŻNE: pomijamy linki do kategorii!
+        # W <div class="info"> są 2 linki: pierwszy to kategoria, drugi to artykuł
         info_div = li.find("div", class_="info")
         if not info_div:
-            debug_stats["no_info_div"] += 1
             continue
         
-        a_tag = info_div.find("a", href=True)
-        if not a_tag:
-            debug_stats["no_link"] += 1
+        # Znajdujemy WSZYSTKIE linki i bierzemy ten z /wiadomosci/
+        article_link = None
+        for a_tag in info_div.find_all("a", href=True):
+            href = a_tag.get("href", "")
+            if "/wiadomosci/" in href:
+                article_link = a_tag
+                break
+        
+        if not article_link:
             continue
         
-        href = a_tag.get("href", "")
-        if "/wiadomosci/" not in href:
-            debug_stats["wrong_href"] += 1
-            if debug_stats["wrong_href"] <= 2:  # Pokaż pierwsze 2 przykłady
-                logging.info(f"[PAP DEBUG] Pomijam link (brak /wiadomosci/): {href}")
-            continue
-        
+        href = article_link.get("href", "")
         link = urljoin(base_url, href)
-        title = " ".join(a_tag.get_text(strip=True).split())
+        title = " ".join(article_link.get_text(strip=True).split())
         if not title or len(title) < 10:
-            debug_stats["short_title"] += 1
             continue
         
         # Szukamy teasera w <p class="field__item field_lead">
@@ -219,7 +208,6 @@ def parse_pap(html: str, base_url: str) -> List[Dict]:
         if p_tag:
             teaser = " ".join(p_tag.get_text(strip=True).split())[:200]
         
-        debug_stats["success"] += 1
         articles.append({
             "title": title, 
             "link": link, 
@@ -228,7 +216,6 @@ def parse_pap(html: str, base_url: str) -> List[Dict]:
             "source": "PAP Biznes"
         })
     
-    logging.info(f"[PAP DEBUG] Stats: {debug_stats}")
     return articles
 
 
