@@ -164,6 +164,11 @@ def parse_pap(html: str, base_url: str) -> List[Dict]:
     articles = []
     now = datetime.now(TZ_WARSAW)
     
+    # DEBUG: Sprawdzamy co znajdujemy
+    all_lis = soup.find_all("li")
+    news_lis = soup.find_all("li", class_=lambda x: x and "news" in x)
+    logging.info(f"[PAP DEBUG] Wszystkie <li>: {len(all_lis)}, <li class='news'>: {len(news_lis)}")
+    
     # Szukamy <li> z klasą "news"
     for li in soup.find_all("li", class_=lambda x: x and "news" in x):
         # Szukamy daty w <div class="date">
