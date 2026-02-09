@@ -1,16 +1,14 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """
-Master RSS Generator - generuje kanały RSS/JSON z wielu źródeł.
+Master RSS Generator - generuje jeden kanał JSON z wielu źródeł.
 
 Źródła:
   - bankier -> https://www.bankier.pl (news + gielda połączone)
   - pap     -> https://biznes.pap.pl/kategoria/depesze-pap
 
 Użycie:
-    python master_rss.py --all              # generuje wszystkie feedy
-    python master_rss.py --source bankier   # tylko bankier
-    python master_rss.py --source pap       # tylko PAP
+    python master_rss_combined.py --output docs
 """
 
 import logging
@@ -26,7 +24,6 @@ from urllib.parse import urljoin
 import pytz
 import requests
 from bs4 import BeautifulSoup
-from feedgen.feed import FeedGenerator
 
 # --------------------------------------------------------------------
 # KONFIGURACJA
@@ -50,25 +47,24 @@ HEADERS = {
 # Konfiguracja źródeł
 SOURCES = {
     "bankier": {
-        "name": "Bankier.pl – Wiadomości",
+        "name": "Bankier.pl",
         "base_url": "https://www.bankier.pl",
         "urls": [
             ("https://www.bankier.pl/wiadomosc/", 5, "bankier_news"),
             ("https://www.bankier.pl/gielda/wiadomosci/", 5, "bankier_gielda"),
         ],
-        "rss_file": "bankier-rss.xml",
-        "json_file": "bankier-feed.json",
     },
     "pap": {
-        "name": "PAP Biznes – Depesze",
+        "name": "PAP Biznes",
         "base_url": "https://biznes.pap.pl",
         "urls": [
             ("https://biznes.pap.pl/kategoria/depesze-pap", 10, "pap"),
         ],
-        "rss_file": "pap-rss.xml",
-        "json_file": "pap-feed.json",
     },
 }
+
+# Nazwa pliku wyjściowego
+OUTPUT_FILENAME = "combined-feed.json"
 
 logging.basicConfig(level=logging.INFO, format="%(asctime)s [%(levelname)s] %(message)s")
 
@@ -135,7 +131,7 @@ def parse_bankier_news(html: str, base_url: str) -> List[Dict]:
                     more_link.decompose()
                 teaser = " ".join(teaser_tag.get_text(" ", strip=True).split())
 
-            articles.append({"title": title, "link": link, "pub_date": pub_dt, "teaser": teaser})
+            articles.append({"title": title, "link": link, "pub_date": pub_dt, "teaser": teaser, "source": "Bankier.pl"})
         except Exception:
             continue
     return articles
@@ -159,7 +155,7 @@ def parse_bankier_gielda(html: str, base_url: str) -> List[Dict]:
             continue
         pub_dt = TZ_WARSAW.localize(dt_naive)
         link = urljoin(base_url, a["href"])
-        articles.append({"title": title, "link": link, "pub_date": pub_dt, "teaser": ""})
+        articles.append({"title": title, "link": link, "pub_date": pub_dt, "teaser": "", "source": "Bankier.pl"})
     return articles
 
 
@@ -187,7 +183,7 @@ def parse_pap(html: str, base_url: str) -> List[Dict]:
             if p_tag:
                 teaser = " ".join(p_tag.get_text(strip=True).split())[:200]
         
-        articles.append({"title": title, "link": link, "pub_date": now, "teaser": teaser})
+        articles.append({"title": title, "link": link, "pub_date": now, "teaser": teaser, "source": "PAP Biznes"})
     return articles
 
 
@@ -237,38 +233,26 @@ def collect_articles(source_key: str) -> List[Dict]:
     return all_articles
 
 # --------------------------------------------------------------------
-# GENERATORY
+# GENERATOR JSON
 # --------------------------------------------------------------------
 
-def generate_rss(articles: List[Dict], config: dict) -> bytes:
-    fg = FeedGenerator()
-    fg.load_extension("dc")
-    fg.title(config["name"])
-    fg.link(href=config["base_url"], rel="alternate")
-    fg.description(f"Automatyczny kanał RSS – {config['name']} (ostatnie {HOURS_BACK}h)")
-    fg.language("pl")
-    if articles:
-        fg.lastBuildDate(articles[0]["pub_date"])
-    for art in articles:
-        fe = fg.add_entry()
-        fe.id(art["link"])
-        fe.link(href=art["link"])
-        fe.title(art["title"])
-        if art["teaser"]:
-            fe.description(art["teaser"])
-        fe.pubDate(art["pub_date"])
-    return fg.rss_str(pretty=True)
-
-
-def generate_json(articles: List[Dict], config: dict) -> str:
+def generate_combined_json(all_articles: List[Dict]) -> str:
+    """Generuje jeden plik JSON z artykułami ze wszystkich źródeł."""
     return json.dumps({
         "version": "https://jsonfeed.org/version/1",
-        "title": config["name"],
-        "home_page_url": config["base_url"],
+        "title": "Wiadomości Finansowe - Bankier.pl + PAP Biznes",
+        "description": f"Połączone wiadomości z wielu źródeł (ostatnie {HOURS_BACK}h)",
+        "home_page_url": "https://www.bankier.pl",
         "items": [
-            {"id": a["link"], "url": a["link"], "title": a["title"],
-             "content_html": a["teaser"], "date_published": a["pub_date"].isoformat()}
-            for a in articles
+            {
+                "id": a["link"], 
+                "url": a["link"], 
+                "title": a["title"],
+                "content_html": a["teaser"], 
+                "date_published": a["pub_date"].isoformat(),
+                "source": a["source"]
+            }
+            for a in all_articles
         ],
     }, ensure_ascii=False, indent=2)
 
@@ -276,40 +260,37 @@ def generate_json(articles: List[Dict], config: dict) -> str:
 # MAIN
 # --------------------------------------------------------------------
 
-def process_source(source_key: str, output_dir: str):
-    config = SOURCES[source_key]
-    articles = collect_articles(source_key)
-    
-    rss_path = os.path.join(output_dir, config["rss_file"])
-    json_path = os.path.join(output_dir, config["json_file"])
-    
-    with open(rss_path, "wb") as f:
-        f.write(generate_rss(articles, config))
-    with open(json_path, "w", encoding="utf-8") as f:
-        f.write(generate_json(articles, config))
-    
-    logging.info("[%s] Zapisano: %s, %s", source_key, rss_path, json_path)
-
-
 def main():
-    parser = argparse.ArgumentParser(description="Master RSS Generator")
-    parser.add_argument("--all", action="store_true", help="Generuj wszystkie feedy")
-    parser.add_argument("--source", choices=["bankier", "pap"], help="Wybrane źródło")
+    parser = argparse.ArgumentParser(description="Master JSON Feed Generator - Combined")
     parser.add_argument("--output", default="docs", help="Katalog wyjściowy")
     args = parser.parse_args()
 
     os.makedirs(args.output, exist_ok=True)
 
-    if args.all:
-        sources = list(SOURCES.keys())
-    elif args.source:
-        sources = [args.source]
-    else:
-        sources = list(SOURCES.keys())
-
-    for src in sources:
-        process_source(src, args.output)
-
+    # Zbierz artykuły ze wszystkich źródeł
+    all_articles = []
+    seen_links = set()
+    
+    for source_key in SOURCES.keys():
+        articles = collect_articles(source_key)
+        
+        # Dodaj tylko unikalne artykuły
+        for art in articles:
+            if art["link"] not in seen_links:
+                all_articles.append(art)
+                seen_links.add(art["link"])
+    
+    # Sortuj wszystkie artykuły chronologicznie
+    all_articles.sort(key=lambda x: x["pub_date"], reverse=True)
+    
+    logging.info("Łącznie znaleziono %d unikalnych artykułów ze wszystkich źródeł", len(all_articles))
+    
+    # Zapisz jeden plik JSON
+    json_path = os.path.join(args.output, OUTPUT_FILENAME)
+    with open(json_path, "w", encoding="utf-8") as f:
+        f.write(generate_combined_json(all_articles))
+    
+    logging.info("Zapisano: %s", json_path)
     logging.info("Gotowe!")
 
 
