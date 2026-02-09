@@ -163,35 +163,33 @@ def parse_pap(html: str, base_url: str) -> List[Dict]:
     soup = BeautifulSoup(html, "html.parser")
     articles = []
     now = datetime.now(TZ_WARSAW)
-    date_pattern = re.compile(r"^\d{4}-\d{2}-\d{2} \d{2}:\d{2}$")
-
-    # Szukamy wszystkich bloków li w głównej liście artykułów
-    main = soup.find("main") or soup
     
-    for li in main.find_all("li", recursive=True):
-        # Szukamy daty w formacie YYYY-MM-DD HH:MM
-        date_text = None
+    # Szukamy <li> z klasą "news"
+    for li in soup.find_all("li", class_=lambda x: x and "news" in x):
+        # Szukamy daty w <div class="date">
+        date_div = li.find("div", class_="date")
         pub_dt = now
         
-        for text_node in li.stripped_strings:
-            if date_pattern.match(text_node):
-                date_text = text_node
-                try:
-                    dt_naive = datetime.strptime(date_text, "%Y-%m-%d %H:%M")
-                    pub_dt = TZ_WARSAW.localize(dt_naive)
-                except ValueError:
-                    pub_dt = now
-                break
+        if date_div:
+            date_text = date_div.get_text(strip=True)
+            try:
+                # Format: "2026-02-09 22:14"
+                dt_naive = datetime.strptime(date_text, "%Y-%m-%d %H:%M")
+                pub_dt = TZ_WARSAW.localize(dt_naive)
+            except ValueError:
+                pass
         
-        # Szukamy linku do artykułu
-        a_tag = li.find("a", href=True)
+        # Szukamy linku do artykułu w <div class="info">
+        info_div = li.find("div", class_="info")
+        if not info_div:
+            continue
+        
+        a_tag = info_div.find("a", href=True)
         if not a_tag:
             continue
-            
+        
         href = a_tag.get("href", "")
-        if "/wiadomosci/" not in href or "/kategoria/" in href:
-            continue
-        if href.endswith("/wiadomosci/"):
+        if "/wiadomosci/" not in href:
             continue
         
         link = urljoin(base_url, href)
@@ -199,13 +197,19 @@ def parse_pap(html: str, base_url: str) -> List[Dict]:
         if not title or len(title) < 10:
             continue
         
-        # Szukamy teasera
+        # Szukamy teasera w <p class="field__item field_lead">
         teaser = ""
-        p_tag = li.find("p")
+        p_tag = info_div.find("p", class_=lambda x: x and "field_lead" in x)
         if p_tag:
             teaser = " ".join(p_tag.get_text(strip=True).split())[:200]
         
-        articles.append({"title": title, "link": link, "pub_date": pub_dt, "teaser": teaser, "source": "PAP Biznes"})
+        articles.append({
+            "title": title, 
+            "link": link, 
+            "pub_date": pub_dt, 
+            "teaser": teaser, 
+            "source": "PAP Biznes"
+        })
     
     return articles
 
