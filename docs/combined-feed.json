@@ -5,27 +5,115 @@
   "home_page_url": "https://www.bankier.pl",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/Kolejne-obnizki-nie-odstraszaja-deponentow-Spory-wzrost-wplat-na-lokaty-w-grudniu-2025-r-9081564.html",
+      "url": "https://www.bankier.pl/wiadomosc/Kolejne-obnizki-nie-odstraszaja-deponentow-Spory-wzrost-wplat-na-lokaty-w-grudniu-2025-r-9081564.html",
+      "title": "Kolejne obniżki nie odstraszają deponentów. Spory wzrost wpłat na lokaty",
+      "content_html": "Deponenci wciąż chętnie wpłacają swoje oszczędności do banków mimo coraz gorszych stawek na rynku. W grudniu wysokość wpłat po raz kolejny przekroczyła 90 mld zł w skali miesiąca. W porównaniu do listopada to rezultat o ponad 11 mld zł...",
+      "date_published": "2026-02-11T06:00:00+01:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Niewiadow-PGM-zawarl-umowe-ramowa-z-Northrop-Grumman-dot-wspolpracy-przy-produkcji-amunicji-9081760.html",
+      "url": "https://www.bankier.pl/wiadomosc/Niewiadow-PGM-zawarl-umowe-ramowa-z-Northrop-Grumman-dot-wspolpracy-przy-produkcji-amunicji-9081760.html",
+      "title": "Niewiadów i Northrop Grumman. Umowa ramowa na amunicję 155 mm podpisana",
+      "content_html": "Niewiadów - PGM zawarł z Northrop Grumman, spółką Elaboracja Niewiadów oraz Zakładami Sprzętu Precyzyjnego Niewiadów umowę ramową określającą zasady współpracy przy produkcji amunicji artyleryjskiej kalibru 155 mm - podała spółka w...",
+      "date_published": "2026-02-10T18:45:00+01:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Equnico-chce-wspolpracowac-z-Grupa-PBI-w-obszarze-budownictwa-energetycznego-9081775.html",
+      "url": "https://www.bankier.pl/wiadomosc/Equnico-chce-wspolpracowac-z-Grupa-PBI-w-obszarze-budownictwa-energetycznego-9081775.html",
+      "title": "Equnico chce współpracować z Grupą PBI w obszarze budownictwa energetycznego",
+      "content_html": "Spółka Equnico podpisała list intencyjny z Grupą PBI, dotyczący planowanego nawiązania strategicznej współpracy w obszarze budownictwa energetycznego - podała spółka w komunikacie.",
+      "date_published": "2026-02-10T18:36:00+01:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Europejski-Nakaz-Aresztowania-dla-Zbigniewa-Ziobry-Jest-decyzja-sledczych-9081625.html",
+      "url": "https://www.bankier.pl/wiadomosc/Europejski-Nakaz-Aresztowania-dla-Zbigniewa-Ziobry-Jest-decyzja-sledczych-9081625.html",
+      "title": "Europejski Nakaz Aresztowania dla Zbigniewa Ziobry. Jest decyzja śledczych",
+      "content_html": "Prokurator wystąpił we wtorek z wnioskiem o wydanie Europejskiego Nakazu Aresztowania (ENA) wobec b. szefa MS, posła PiS Zbigniewa Ziobry, podejrzanego w śledztwie dot. nieprawidłowości w Funduszu Sprawiedliwości. Poinformował o tym rzecznik Prokuratury...",
+      "date_published": "2026-02-10T18:07:00+01:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/KNF-zabral-glos-w-sprawie-kryptowalut-Branza-w-poczekalni-do-likwidacji-9081701.html",
+      "url": "https://www.bankier.pl/wiadomosc/KNF-zabral-glos-w-sprawie-kryptowalut-Branza-w-poczekalni-do-likwidacji-9081701.html",
+      "title": "KNF zabiera głos w sprawie kryptowalut. Branża w poczekalni do likwidacji",
+      "content_html": "Podczas gdy Sejm i Pałac Prezydencki spierają o kształt ustawy o rynku kryptoaktywów, UKNF publikuje stanowisko, które wyjaśnia, jaki los czeka prawdopodobnie polskie firmy działające w tej branży. Czas na dostosowanie do unijnych norm MiCA skończy...",
+      "date_published": "2026-02-10T18:00:00+01:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Budimex-zawarl-z-Gaz-Systemem-umowe-na-budowe-tloczni-gazu-za-max-481-2-mln-zl-netto-9081752.html",
+      "url": "https://www.bankier.pl/wiadomosc/Budimex-zawarl-z-Gaz-Systemem-umowe-na-budowe-tloczni-gazu-za-max-481-2-mln-zl-netto-9081752.html",
+      "title": "Budimex zawarł z Gaz-Systemem umowę na budowę tłoczni gazu za max. 481,2 mln zł netto",
+      "content_html": "Budimex zawarł z OGP Gaz-System umowę na budowę Tłoczni Gazu Lwówek. Etap I - podał Budimex w komunikacie. Maksymalna wartość umowy wynosi 481,2 mln zł netto.",
+      "date_published": "2026-02-10T17:58:00+01:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Wojska-USA-pozostana-w-Polsce-Ambasador-Rose-znow-zabiera-glos-po-dyplomatycznym-skandalu-ostatnich-dni-9081571.html",
+      "url": "https://www.bankier.pl/wiadomosc/Wojska-USA-pozostana-w-Polsce-Ambasador-Rose-znow-zabiera-glos-po-dyplomatycznym-skandalu-ostatnich-dni-9081571.html",
+      "title": "\"Wojska USA pozostaną w Polsce\". Ambasador Rose znów zabiera głos po dyplomatycznym skandalu ostatnich dni",
+      "content_html": "Amerykańskie wojska pozostaną w Polsce, chyba że Polska z jakiś nieprawdopodobnie głupich powodów miałaby zdecydować, że już ich nie chce - mówi w wywiadzie dla „Rzeczpospolitej” ambasador USA w Polsce Thomas Rose po zerwaniu relacji z...",
+      "date_published": "2026-02-10T17:49:00+01:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Historyczny-awans-Polaka-w-NATO-Generalow-do-wyboru-jest-dwoch-9081735.html",
+      "url": "https://www.bankier.pl/wiadomosc/Historyczny-awans-Polaka-w-NATO-Generalow-do-wyboru-jest-dwoch-9081735.html",
+      "title": "Historyczny awans Polaka w NATO. Generałów do wyboru jest dwóch",
+      "content_html": "Po raz pierwszy w historii oficer Wojska Polskiego, czterogwiazdkowy generał, stanie na czele dowództwa połączonego NATO – JFC Brunssum – poinformował we wtorek szef Sztabu Generalnego WP gen. Wiesław Kukuła. Dodał, że to ważny dowód zaufania...",
+      "date_published": "2026-02-10T17:33:00+01:00",
+      "source": "Bankier.pl"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/LSI-Software-zaprasza-do-sprzedazy-do-200-tys-akcji-po-35-zl-szt-9081733.html",
       "url": "https://www.bankier.pl/wiadomosc/LSI-Software-zaprasza-do-sprzedazy-do-200-tys-akcji-po-35-zl-szt-9081733.html",
-      "title": "LSI Software zaprasza do sprzedaży do 200 tys. akcji, po 35 zł/szt. LSI Software zaprasza do składania przez akcjonariuszy ofert sprzedaży do 200.000 akcji spółki, reprezentujących do ok. 7 proc. kapitału zakładowego i nie więcej niż ok. 5 proc. ogólnej liczby głosów, po cenie 35 zł za papier - podała spółka w komunikacie.",
-      "content_html": "",
+      "title": "LSI Software zaprasza do sprzedaży do 200 tys. akcji, po 35 zł/szt.",
+      "content_html": "LSI Software zaprasza do składania przez akcjonariuszy ofert sprzedaży do 200.000 akcji spółki, reprezentujących do ok. 7 proc. kapitału zakładowego i nie więcej niż ok. 5 proc. ogólnej liczby głosów, po cenie 35 zł za papier - podała spółka...",
       "date_published": "2026-02-10T17:30:00+01:00",
       "source": "Bankier.pl"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Shoper-zawarl-z-cyber-Folks-umowy-pozyczek-na-42-mln-zl-celem-sfinansowania-zakupu-PretaShop-9081728.html",
       "url": "https://www.bankier.pl/wiadomosc/Shoper-zawarl-z-cyber-Folks-umowy-pozyczek-na-42-mln-zl-celem-sfinansowania-zakupu-PretaShop-9081728.html",
-      "title": "Shoper zawarł z cyber_Folks umowy pożyczek na 42 mln zł celem sfinansowania zakupu PretaShop Shoper zawarł ze swoim głównym akcjonariuszem, czyli spółką cyber_Folks, dwie umowy pożyczek na łączną kwotę 42 mln zł. Celem jest sfinansowanie zakupu platformy PretaShop do czasu refinansowania transakcji przez konsorcjum banków - podał Shoper w komunikacie.",
-      "content_html": "",
+      "title": "Shoper zawarł z cyber_Folks umowy pożyczek na 42 mln zł celem sfinansowania zakupu PretaShop",
+      "content_html": "Shoper zawarł ze swoim głównym akcjonariuszem, czyli spółką cyber_Folks, dwie umowy pożyczek na łączną kwotę 42 mln zł. Celem jest sfinansowanie zakupu platformy PretaShop do czasu refinansowania transakcji przez konsorcjum banków - podał...",
       "date_published": "2026-02-10T17:24:00+01:00",
       "source": "Bankier.pl"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/KGHM-pod-ostrzalem-analitykow-Dino-igra-z-pracownikami-9081727.html",
       "url": "https://www.bankier.pl/wiadomosc/KGHM-pod-ostrzalem-analitykow-Dino-igra-z-pracownikami-9081727.html",
-      "title": "SESJA NA GPW KGHM pod ostrzałem analityków. Dino igra z pracownikami Wtorkowe notowania na GPW upłynęły pod znakiem schłodzenia nastrojów w segmencie polskich blue chipów. Powróciła większa zmienność na notowaniach KGHM, które mocno straciły, a pod spadkową presją była także większość największych banków i Orlen. Jak wskazują eksperci, oczy inwestorów zwrócone są na Bliski Wschód oraz amerykańskie dane z gospodarki.",
-      "content_html": "",
+      "title": "KGHM pod ostrzałem analityków. Dino igra z pracownikami",
+      "content_html": "Wtorkowe notowania na GPW upłynęły pod znakiem schłodzenia nastrojów w segmencie polskich blue chipów. Powróciła większa zmienność na notowaniach KGHM, które mocno straciły, a pod spadkową presją była także większość największych...",
       "date_published": "2026-02-10T17:23:00+01:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Jeffrey-Epstein-pograzy-brytyjskiego-premiera-Nigdy-nie-zloze-mandatu-9081724.html",
+      "url": "https://www.bankier.pl/wiadomosc/Jeffrey-Epstein-pograzy-brytyjskiego-premiera-Nigdy-nie-zloze-mandatu-9081724.html",
+      "title": "Jeffrey Epstein pogrąży brytyjskiego premiera? \"Nigdy nie złożę mandatu\"",
+      "content_html": "Premier Wielkiej Brytanii Keir Starmer oświadczył we wtorek, że nigdy nie złoży mandatu. Pozycja szefa rządu jest zagrożona w związku z kontaktami mianowanego przezeń byłego ambasadora w USA Petera Mandelsona z amerykańskim finansistą i przestępcą...",
+      "date_published": "2026-02-10T17:20:00+01:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Sekretarz-handlu-USA-odwiedzil-wyspe-Epsteina-ale-relacji-mial-nie-utrzymywac-9081722.html",
+      "url": "https://www.bankier.pl/wiadomosc/Sekretarz-handlu-USA-odwiedzil-wyspe-Epsteina-ale-relacji-mial-nie-utrzymywac-9081722.html",
+      "title": "Sekretarz handlu USA odwiedził wyspę Epsteina, ale relacji miał nie utrzymywać",
+      "content_html": "Minister handlu Howard Lutnick przyznał we wtorek w Senacie, że w 2012 r. odwiedził prywatną wyspę Jeffreya Epsteina, lecz zaznaczył, że był tam na obiedzie z rodziną. Mimo to, polityk stwierdził, że nie utrzymywał z nim praktycznie żadnych...",
+      "date_published": "2026-02-10T17:15:00+01:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Polska-2050-sie-sypie-Partie-moga-opuscic-m-in-Zalewski-Petru-Mucha-9081718.html",
+      "url": "https://www.bankier.pl/wiadomosc/Polska-2050-sie-sypie-Partie-moga-opuscic-m-in-Zalewski-Petru-Mucha-9081718.html",
+      "title": "Polska 2050 się sypie? Partię mogą opuścić m.in. Zalewski, Petru, Mucha",
+      "content_html": "Paweł Zalewski, Ryszard Petru, Joanna Mucha, Aleksandra Leo i Ewa Szymanowska – to posłowie, którzy mogą w najbliższym czasie opuścić klub parlamentarny Polski 2050 - dowiedziała się PAP w źródłach zbliżonych do nowych władz ugrupowania...",
+      "date_published": "2026-02-10T17:11:00+01:00",
       "source": "Bankier.pl"
     },
     {
@@ -66,14 +154,6 @@
       "title": "Niższe rachunki za gaz. Prezes URE zatwierdziła nową taryfę Orlenu",
       "content_html": "Prezes Urzędu Regulacji Energetyki zatwierdził taryfę na sprzedaż paliw gazowych dla myORLEN (dawniej PGNiG Obrót Detaliczny), obowiązującą od 25 lutego do 30 czerwca 2026 r. Cena gazu ziemnego dla gospodarstw domowych wyniesie 197,29 zł/MWh...",
       "date_published": "2026-02-10T16:34:00+01:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Europejski-Nakaz-Aresztowania-dla-Zbigniewa-Ziobry-Jest-decyzja-sledczych-9081625.html",
-      "url": "https://www.bankier.pl/wiadomosc/Europejski-Nakaz-Aresztowania-dla-Zbigniewa-Ziobry-Jest-decyzja-sledczych-9081625.html",
-      "title": "Europejski Nakaz Aresztowania dla Zbigniewa Ziobry. Jest decyzja śledczych",
-      "content_html": "Prokurator wystąpił we wtorek z wnioskiem o wydanie Europejskiego Nakazu Aresztowania (ENA) wobec b. szefa MS, posła PiS Zbigniewa Ziobry, podejrzanego w śledztwie dot. nieprawidłowości w Funduszu Sprawiedliwości. Poinformował o tym rzecznik Prokuratury...",
-      "date_published": "2026-02-10T16:18:00+01:00",
       "source": "Bankier.pl"
     },
     {
@@ -186,14 +266,6 @@
       "title": "Umowa UE–Mercosur. PE za klauzulą ochronną dla produktów rolnych",
       "content_html": "Parlament Europejski w głosowaniu w Strasburgu poparł we wtorek klauzulę ochronną dla produktów rolnych w ramach umowy handlowej UE–Mercosur. Za było 483 europosłów, przeciwko - 102, wstrzymało się - 67.",
       "date_published": "2026-02-10T14:13:00+01:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Wojska-USA-pozostana-w-Polsce-Ambasador-Rose-znow-zabiera-glos-po-dyplomatycznym-skandalu-ostatnich-dni-9081571.html",
-      "url": "https://www.bankier.pl/wiadomosc/Wojska-USA-pozostana-w-Polsce-Ambasador-Rose-znow-zabiera-glos-po-dyplomatycznym-skandalu-ostatnich-dni-9081571.html",
-      "title": "\"Wojska USA pozostaną w Polsce\". Ambasador Rose znów zabiera głos po dyplomatycznym skandalu ostatnich dni",
-      "content_html": "Amerykańskie wojska pozostaną w Polsce, chyba że Polska z jakiś nieprawdopodobnie głupich powodów miałaby zdecydować, że już ich nie chce - mówi w wywiadzie dla „Rzeczpospolitej” ambasador USA w Polsce Thomas Rose po zerwaniu relacji z...",
-      "date_published": "2026-02-10T13:56:00+01:00",
       "source": "Bankier.pl"
     },
     {
@@ -733,74 +805,10 @@
       "source": "Bankier.pl"
     },
     {
-      "id": "https://www.bankier.pl/wiadomosc/Nowa-batalia-o-Trybunal-Konstytucyjny-Do-TK-trafil-wniosek-ktory-moze-zablokowac-plany-rzadu-9081208.html",
-      "url": "https://www.bankier.pl/wiadomosc/Nowa-batalia-o-Trybunal-Konstytucyjny-Do-TK-trafil-wniosek-ktory-moze-zablokowac-plany-rzadu-9081208.html",
-      "title": "Nowa batalia o Trybunał Konstytucyjny. Do TK trafił wniosek, który może zablokować plany rządu",
-      "content_html": "Do Trybunału Konstytucyjnego trafił wniosek, w którym skarżone są przepisy odnoszące się do procedury wyboru sędziów TK przez Sejm. Jak wynika z ogólnej informacji na stronie TK wniosek złożyła na początku lutego grupa posłów.",
-      "date_published": "2026-02-10T07:10:00+01:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/2-mln-zl-miesiecznie-za-hotele-a-kontrakt-zerwany-Klimczak-Szukamy-nowego-wykonawcy-9081220.html",
-      "url": "https://www.bankier.pl/wiadomosc/2-mln-zl-miesiecznie-za-hotele-a-kontrakt-zerwany-Klimczak-Szukamy-nowego-wykonawcy-9081220.html",
-      "title": "2 mln zł miesięcznie za hotele, a kontrakt zerwany. Klimczak: Szukamy nowego wykonawcy",
-      "content_html": "Pierwsze elementy tarczy drążącej tunel Kolei Dużych Prędkości w Łodzi są na miejscu, latem rozpocznie się ich montaż - zapowiedział w poniedziałek w Łodzi minister infrastruktury Dariusz Klimczak.",
-      "date_published": "2026-02-10T07:00:00+01:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Blekitny-wegiel-trafi-do-sprzedazy-PGG-obiecuje-mniej-zanieczyszczen-i-chce-doplat-9081223.html",
-      "url": "https://www.bankier.pl/wiadomosc/Blekitny-wegiel-trafi-do-sprzedazy-PGG-obiecuje-mniej-zanieczyszczen-i-chce-doplat-9081223.html",
-      "title": "\"Błękitny węgiel\" trafi do sprzedaży. PGG obiecuje mniej zanieczyszczeń i chce... dopłat",
-      "content_html": "Polska Grupa Górnicza jeszcze w tym kwartale br. ma wprowadzić do sprzedaży węgle dla gospodarstw domowych o emisji substancji smogowych obniżonej o co najmniej 55 proc. PGG liczy, że uzyska zewnętrzne wsparcie ich sprzedaży, aby rozpowszechnić...",
-      "date_published": "2026-02-10T07:00:00+01:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Epstein-korumpowal-norweskie-elity-Zarzuty-dla-ambasador-i-jej-meza-9081224.html",
-      "url": "https://www.bankier.pl/wiadomosc/Epstein-korumpowal-norweskie-elity-Zarzuty-dla-ambasador-i-jej-meza-9081224.html",
-      "title": "Epstein korumpował norweskie elity? Zarzuty dla ambasador i jej męża",
-      "content_html": "Norweska prokuratura ds. przestępczości gospodarczej i korupcji poinformowała w poniedziałkowym komunikacie, że postawiła zarzut ciężkiej korupcji byłej ambasadorce Norwegii w Jordanii i Iraku Monie Juul. Jej mąż, były dyplomata Terje Roed-Larsen...",
-      "date_published": "2026-02-10T07:00:00+01:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Enea-i-Energa-utopily-fortune-w-Ostrolece-Zurek-Final-sledztwa-w-marcu-9081238.html",
-      "url": "https://www.bankier.pl/wiadomosc/Enea-i-Energa-utopily-fortune-w-Ostrolece-Zurek-Final-sledztwa-w-marcu-9081238.html",
-      "title": "Enea i Energa utopiły fortunę w Ostrołęce. Żurek: Finał śledztwa w marcu",
-      "content_html": "Szef MS, prokurator generalny Waldemar Żurek poinformował, że w marcu spodziewa się efektów czynności prowadzonych w śledztwie dot. strat przy budowie jednego z bloków Elektrowni Ostrołęka w 2020 r.",
-      "date_published": "2026-02-10T07:00:00+01:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Energetyczny-paraliz-Portugalii-Dwa-tygodnie-bez-pradu-ludzie-wyszli-na-ulice-9081256.html",
-      "url": "https://www.bankier.pl/wiadomosc/Energetyczny-paraliz-Portugalii-Dwa-tygodnie-bez-pradu-ludzie-wyszli-na-ulice-9081256.html",
-      "title": "Energetyczny paraliż Portugalii. Dwa tygodnie bez prądu, ludzie wyszli na ulice",
-      "content_html": "Ponad tysiąc mieszkańców dystryktu Leiria zgromadziło się w poniedziałek wieczorem w centrum tego miasta, aby zaprotestować przeciwko trwającym od dwóch tygodni niedoborom energii elektrycznej. Prądu brakuje wskutek zniszczenia przez wichury...",
-      "date_published": "2026-02-10T07:00:00+01:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Czystki-w-chinskiej-armii-Korupcja-na-szczegolnie-wielka-skale-9081271.html",
-      "url": "https://www.bankier.pl/wiadomosc/Czystki-w-chinskiej-armii-Korupcja-na-szczegolnie-wielka-skale-9081271.html",
-      "title": "Czystki w chińskiej armii. \"Korupcja na szczególnie wielką skalę\"",
-      "content_html": "Chińska prokuratura postawiła w stan oskarżenia Zhanga Jianhua, byłego wiceszefa wpływowej agencji nadzoru przemysłu obronnego – podały we wtorek państwowe media. Urzędnikowi zarzuca się korupcję na „szczególnie wielką skalę”. To kolejny...",
-      "date_published": "2026-02-10T07:00:00+01:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Zurek-ujawnia-plan-B-na-wypadek-weta-prezydenta-Nawrockiego-do-ustawy-o-KRS-9081234.html",
-      "url": "https://www.bankier.pl/wiadomosc/Zurek-ujawnia-plan-B-na-wypadek-weta-prezydenta-Nawrockiego-do-ustawy-o-KRS-9081234.html",
-      "title": "Żurek ujawnia \"plan B\" na wypadek weta prezydenta Nawrockiego do ustawy o KRS",
-      "content_html": "Szef MS Waldemar Żurek podkreślił, że w przypadku jeśli prezydent Karol Nawrocki zawetuje nowelę ustawy o KRS, zostanie podjęta próba, aby sędziów do nowej KRS wybrać oddolnie przez środowisko sędziowskie w ramach „starej ustawy” o KRS...",
-      "date_published": "2026-02-10T06:58:00+01:00",
-      "source": "Bankier.pl"
-    },
-    {
       "id": "https://www.bankier.pl/wiadomosc/mBank-oczekuje-w-2026-r-nieznacznego-spadku-przychodow-ogolem-C-I-ponizej-35-proc-9081297.html",
       "url": "https://www.bankier.pl/wiadomosc/mBank-oczekuje-w-2026-r-nieznacznego-spadku-przychodow-ogolem-C-I-ponizej-35-proc-9081297.html",
-      "title": "mBank oczekuje w 2026 r. nieznacznego spadku przychodów ogółem, C/I poniżej 35 proc.",
-      "content_html": "mBank oczekuje nieznacznego spadku przychodów ogółem w 2026 roku wobec zeszłego roku z powodu niższego wyniku odsetkowego. Wskaźnik koszty/dochody pozostanie na poziomie poniżej zapisanego w strategii poziomu 35 proc. - poinformował bank w prezentacji...",
+      "title": "mBank oczekuje w 2026 r. nieznacznego spadku przychodów ogółem, C/I poniżej 35 proc. mBank oczekuje nieznacznego spadku przychodów ogółem w 2026 roku wobec zeszłego roku z powodu niższego wyniku odsetkowego. Wskaźnik koszty/dochody pozostanie na poziomie poniżej zapisanego w strategii poziomu 35 proc. - poinformował bank w prezentacji wynikowej.",
+      "content_html": "",
       "date_published": "2026-02-10T06:56:00+01:00",
       "source": "Bankier.pl"
     },
@@ -826,14 +834,6 @@
       "title": "Zwyżki w sektorze AI. Dow Jones powyżej 50 000 punktów. W poniedziałek inwestorzy w pośpiechu kupowali akcje dokładnie tych samych firm, które w ubiegłym tygodniu niemal panicznie wyprzedawali.",
       "content_html": "",
       "date_published": "2026-02-09T22:05:00+01:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Cloud-Technologies-oglosil-Strategie-2026-9081166.html",
-      "url": "https://www.bankier.pl/wiadomosc/Cloud-Technologies-oglosil-Strategie-2026-9081166.html",
-      "title": "Cloud Technologies ogłosił Strategię 2026+ Cloud Technologies przyjął Strategię 2026+ - poinformowała spółka w komunikacie prasowym. Strategia zakłada m.in. realizację skupu do 250 tys. sztuk akcji własnych oraz politykę dywidendową, zakładającą wypłatę akcjonariuszom kwoty 20 proc. oczyszczonej EBITDA za dany rok.",
-      "content_html": "",
-      "date_published": "2026-02-09T18:00:00+01:00",
       "source": "Bankier.pl"
     }
   ]
