@@ -13,6 +13,14 @@
       "source": "Bankier.pl"
     },
     {
+      "id": "https://www.bankier.pl/wiadomosc/Asseco-Poland-weszlo-do-indeksu-MSCI-Poland-wypadlo-z-niego-CCC-opis-9081853.html",
+      "url": "https://www.bankier.pl/wiadomosc/Asseco-Poland-weszlo-do-indeksu-MSCI-Poland-wypadlo-z-niego-CCC-opis-9081853.html",
+      "title": "Asseco Poland weszło do indeksu MSCI Poland, wypadło z niego CCC (opis)",
+      "content_html": "Asseco Poland w wyniku kwartalnej rewizji weszło w skład indeksu MSCI Poland, a wypadło z niego CCC - poinformowało MSCI w komunikacie.",
+      "date_published": "2026-02-11T00:08:00+01:00",
+      "source": "Bankier.pl"
+    },
+    {
       "id": "https://biznes.pap.pl/wiadomosci/firmy/asseco-poland-weszlo-do-indeksu-msci-poland-wypadlo-z-niego-ccc-opis",
       "url": "https://biznes.pap.pl/wiadomosci/firmy/asseco-poland-weszlo-do-indeksu-msci-poland-wypadlo-z-niego-ccc-opis",
       "title": "Asseco Poland weszło do indeksu MSCI Poland, wypadło z niego CCC (opis)",
@@ -1189,14 +1197,6 @@
       "source": "Bankier.pl"
     },
     {
-      "id": "https://www.bankier.pl/wiadomosc/Ceny-miedzi-w-Londynie-spadaja-Zbliza-sie-Chinski-Nowy-Rok-9081314.html",
-      "url": "https://www.bankier.pl/wiadomosc/Ceny-miedzi-w-Londynie-spadaja-Zbliza-sie-Chinski-Nowy-Rok-9081314.html",
-      "title": "Ceny miedzi w Londynie spadają. Zbliża się Chiński Nowy Rok",
-      "content_html": "Notowania miedzi na giełdzie metali LME w Londynie spadają po ostatnich zwyżkach napędzanych zakupami ze strony chińskich inwestorów. W Chinach zbliża się czas świętowania Nowego Roku Księżycowego, a aktywność gospodarcza osłabnie - informują...",
-      "date_published": "2026-02-10T07:39:00+01:00",
-      "source": "Bankier.pl"
-    },
-    {
       "id": "https://biznes.pap.pl/wiadomosci/rynki/ceny-miedzi-w-londynie-spadaja-6",
       "url": "https://biznes.pap.pl/wiadomosci/rynki/ceny-miedzi-w-londynie-spadaja-6",
       "title": "Ceny miedzi w Londynie spadają",
@@ -1347,30 +1347,6 @@
       "content_html": "",
       "date_published": "2026-02-10T06:00:00+01:00",
       "source": "Bankier.pl"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/firmy/zysk-netto-grupy-mbanku-w-iv-kw-25-wyniosl-1041-mln-zl-powyzej-konsensusu-opis",
-      "url": "https://biznes.pap.pl/wiadomosci/firmy/zysk-netto-grupy-mbanku-w-iv-kw-25-wyniosl-1041-mln-zl-powyzej-konsensusu-opis",
-      "title": "Zysk netto grupy mBanku w IV kw. '25 wyniósł 1041 mln zł; powyżej konsensusu (opis)",
-      "content_html": "Zysk netto grupy mBanku w IV kwartale 2025 r. wzrósł do 1041 mln zł z 986 mln zł rok wcześniej - poinformował bank w raporcie. Zysk okazał się 7,8 proc. powyżej oczekiwań analityków, którzy prognozowa",
-      "date_published": "2026-02-10T00:29:00+01:00",
-      "source": "PAP Biznes"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/firmy/zysk-netto-grupy-mbanku-w-iv-kw-25-wyniosl-1041-mln-zl-powyzej-konsensusu",
-      "url": "https://biznes.pap.pl/wiadomosci/firmy/zysk-netto-grupy-mbanku-w-iv-kw-25-wyniosl-1041-mln-zl-powyzej-konsensusu",
-      "title": "Zysk netto grupy mBanku w IV kw. '25 wyniósł 1041 mln zł; powyżej konsensusu",
-      "content_html": "Zysk netto grupy mBanku w IV kwartale 2025 r. wzrósł do 1041 mln zł z 986 mln zł rok wcześniej - poinformował bank w raporcie. Zysk okazał się 7,8 proc. powyżej oczekiwań analityków, którzy prognozowa",
-      "date_published": "2026-02-10T00:15:00+01:00",
-      "source": "PAP Biznes"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/firmy/wyniki-mbanku-w-iv-kw-2025-roku-vs-konsensus-pap-tabela",
-      "url": "https://biznes.pap.pl/wiadomosci/firmy/wyniki-mbanku-w-iv-kw-2025-roku-vs-konsensus-pap-tabela",
-      "title": "Wyniki mBanku w IV kw. 2025 roku vs. konsensus PAP (tabela)",
-      "content_html": "Poniżej przedstawiamy wyniki grupy mBanku w czwartym kwartale 2025 roku i ich odniesienie do konsensusu PAP i poprzednich wyników.",
-      "date_published": "2026-02-10T00:14:00+01:00",
-      "source": "PAP Biznes"
     }
   ]
 }
