@@ -5,11 +5,67 @@
   "home_page_url": "https://www.bankier.pl",
   "items": [
     {
+      "id": "https://biznes.pap.pl/wiadomosci/rynki/prezydent-karol-nawrocki-ponownie-zawetowal-ustawe-o-rynku-kryptoaktywow",
+      "url": "https://biznes.pap.pl/wiadomosci/rynki/prezydent-karol-nawrocki-ponownie-zawetowal-ustawe-o-rynku-kryptoaktywow",
+      "title": "Prezydent Karol Nawrocki ponownie zawetował ustawę o rynku kryptoaktywów",
+      "content_html": "Prezydent Karol Nawrocki w czwartek po raz drugi zawetował ustawę o rynku kryptoaktywów. Przepisy - jak przekonywał rząd - miały wprowadzić środki nadzorcze mające na celu przeciwdziałanie naruszeniom",
+      "date_published": "2026-02-12T20:50:00+01:00",
+      "source": "PAP Biznes"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Komisje-sejmowe-odrzucily-poprawki-PiS-do-programu-SAFE-9083037.html",
+      "url": "https://www.bankier.pl/wiadomosc/Komisje-sejmowe-odrzucily-poprawki-PiS-do-programu-SAFE-9083037.html",
+      "title": "Komisje sejmowe odrzuciły poprawki PiS do programu SAFE",
+      "content_html": "Sejmowe komisje finansów i obrony narodowej negatywnie zaopiniowały w czwartek zgłoszone przez PiS poprawki do projektu ustawy wdrażającej program SAFE. Sejm nad projektem głosować będzie w piątek rano.",
+      "date_published": "2026-02-12T20:27:00+01:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Miliardy-dolarow-i-tarcza-nad-Ukraina-Zachod-mobilizuje-sie-przeciwko-Putinowi-9083017.html",
+      "url": "https://www.bankier.pl/wiadomosc/Miliardy-dolarow-i-tarcza-nad-Ukraina-Zachod-mobilizuje-sie-przeciwko-Putinowi-9083017.html",
+      "title": "Miliardy dolarów i tarcza nad Ukrainą. Zachód mobilizuje się przeciwko Putinowi",
+      "content_html": "Minister obrony Wielkiej Brytanii John Healey poinformował w czwartek, że jego kraj oraz sojusznicy złożyli zobowiązanie do przekazania pomocy wojskowej dla Ukrainy o wartości 35 miliardów dolarów.",
+      "date_published": "2026-02-12T20:22:00+01:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Netanyahu-Warunki-stworzone-przez-USA-moga-pozwolic-na-dobry-deal-z-Iranem-9083030.html",
+      "url": "https://www.bankier.pl/wiadomosc/Netanyahu-Warunki-stworzone-przez-USA-moga-pozwolic-na-dobry-deal-z-Iranem-9083030.html",
+      "title": "Netanyahu: Warunki stworzone przez USA mogą pozwolić na \"dobry deal\" z Iranem",
+      "content_html": "Premier Izraela Benjamin Netanjahu poinformował w wydanym w czwartek oświadczeniu, że warunki stworzone przez prezydenta USA Donalda Trumpa mogą pozwolić na zawarcie „dobrego dealu z Iranem”. Dodał jednak, że wyraził „ogólny sceptycyzm”...",
+      "date_published": "2026-02-12T19:48:00+01:00",
+      "source": "Bankier.pl"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Nawrocki-poprawia-SAFE-i-wzywa-szefow-sluzb-ws-Czarzastego-9082928.html",
       "url": "https://www.bankier.pl/wiadomosc/Nawrocki-poprawia-SAFE-i-wzywa-szefow-sluzb-ws-Czarzastego-9082928.html",
       "title": "Nawrocki \"poprawia\" SAFE i wzywa szefów służb ws. Czarzastego",
       "content_html": "Szef Kancelarii Prezydenta Zbigniew Bogucki i szef Biura Bezpieczeństwa Narodowego Sławomir Cenckiewicz rozpoczęli prace nad poprawkami do projektu ustawy dotyczącej programu SAFE - poinformował rzecznik prezydenta Rafał Leśkiewicz. Będą dotyczyć...",
       "date_published": "2026-02-12T19:32:00+01:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Tajny-plan-Waszyngtonu-Przemycono-6-tysiecy-Starlinkow-9083021.html",
+      "url": "https://www.bankier.pl/wiadomosc/Tajny-plan-Waszyngtonu-Przemycono-6-tysiecy-Starlinkow-9083021.html",
+      "title": "Tajny plan Waszyngtonu. Przemycono 6 tysięcy Starlinków",
+      "content_html": "Administracja Donalda Trumpa potajemnie wysłała do Iranu 6 tys. terminali Starlink po stłumieniu demonstracji przez irański reżim w styczniu - podał w czwartek „Wall Street Journal”. Miała to być reakcja na odcięcie przeciwników reżimu...",
+      "date_published": "2026-02-12T19:20:00+01:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Fedorow-w-Brukseli-Ukraina-pilnie-potrzebuje-pociskow-PAC-3-do-Patriotow-9083016.html",
+      "url": "https://www.bankier.pl/wiadomosc/Fedorow-w-Brukseli-Ukraina-pilnie-potrzebuje-pociskow-PAC-3-do-Patriotow-9083016.html",
+      "title": "Fedorow w Brukseli: Ukraina pilnie potrzebuje pocisków PAC-3 do Patriotów",
+      "content_html": "Minister obrony Ukrainy Mychajło Fedorow zaapelował do sojuszników w ramach tzw. formatu Ramstein o pilne przekazanie jego państwu pocisków PAC-3 do systemów Patriot, by wzmocnić obronę powietrzną przed rosyjskimi atakami na obiekty energetyczne...",
+      "date_published": "2026-02-12T19:05:00+01:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Urzednik-od-przetargow-negocjuje-pokoj-w-Ukrainie-i-Gazie-Kim-jest-Josh-Gruenbaum-9083013.html",
+      "url": "https://www.bankier.pl/wiadomosc/Urzednik-od-przetargow-negocjuje-pokoj-w-Ukrainie-i-Gazie-Kim-jest-Josh-Gruenbaum-9083013.html",
+      "title": "Urzędnik od przetargów negocjuje pokój w Ukrainie i Gazie. Kim jest Josh Gruenbaum?",
+      "content_html": "Urzędnik odpowiedzialny za państwowe przetargi Josh Gruenbaum nieoczekiwanie wyrósł na kluczową postać w negocjacjach pokojowych na temat Strefy Gazy i Ukrainy, obok Jareda Kushnera i Steve'a Witkoffa - twierdzi „Wall Street Journal”. Dziennik...",
+      "date_published": "2026-02-12T18:56:00+01:00",
       "source": "Bankier.pl"
     },
     {
@@ -251,14 +307,6 @@
       "content_html": "Pierwsza dama Melania Trump doprowadziła do powrotu rosyjskich i ukraińskich dzieci do ich rodzin - przekazał w czwartek w oświadczeniu Biały Dom. Żona prezydenta USA nie podała jednak szczegółów. Według Kremla do rodzin powróciło sześcioro...",
       "date_published": "2026-02-12T17:04:00+01:00",
       "source": "Bankier.pl"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/gospodarka/dzien-na-fxfi-zloty-z-niewielkimi-zmianami-rentownosc-10-letnich-spw-ponizej",
-      "url": "https://biznes.pap.pl/wiadomosci/gospodarka/dzien-na-fxfi-zloty-z-niewielkimi-zmianami-rentownosc-10-letnich-spw-ponizej",
-      "title": "DZIEŃ NA FX/FI: Złoty z niewielkimi zmianami; rentowność 10-letnich SPW poniżej 5 proc.",
-      "content_html": "Czwartkowa sesja na rynkach finansowych przebiegła spokojnie, przy niewielkiej zmienności polskiej waluty. Rentowności krajowych obligacji spadały mocniej niż dochodowości papierów z rynków bazowych, ",
-      "date_published": "2026-02-12T17:01:00+01:00",
-      "source": "PAP Biznes"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Szantaz-energetyczny-Teheranu-Chiny-pierwsza-ofiara-ewentualnej-wojny-9082888.html",
@@ -1165,51 +1213,19 @@
       "source": "PAP Biznes"
     },
     {
-      "id": "https://www.bankier.pl/wiadomosc/Upadek-dyktatury-w-Bangladeszu-Ale-wyzwan-na-horyzoncie-jest-wiele-9082479.html",
-      "url": "https://www.bankier.pl/wiadomosc/Upadek-dyktatury-w-Bangladeszu-Ale-wyzwan-na-horyzoncie-jest-wiele-9082479.html",
-      "title": "Upadek dyktatury w Bangladeszu. Ale wyzwań na horyzoncie jest wiele",
-      "content_html": "Odbywające się w czwartek wybory parlamentarne w Bangladeszu to przełomowy moment w najnowszej historii tego kraju. Są one postrzegane jako test dla procesu demokratyzacji po dekadach autorytaryzmu oraz szansa na nowe otwarcie po krwawej rewolucji...",
-      "date_published": "2026-02-12T07:25:00+01:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Ustawka-sie-nie-udala-Politycy-komentuja-rozmowy-w-czasie-Rady-Bezpieczenstwa-Narodowego-9082396.html",
-      "url": "https://www.bankier.pl/wiadomosc/Ustawka-sie-nie-udala-Politycy-komentuja-rozmowy-w-czasie-Rady-Bezpieczenstwa-Narodowego-9082396.html",
-      "title": "\"Ustawka się nie udała\". Politycy komentują rozmowy w czasie Rady Bezpieczeństwa Narodowego",
-      "content_html": "W środę po godz. 20 zakończyło się posiedzenie Rady Bezpieczeństwa Narodowego zwołane przez prezydenta Karola Nawrockiego. Posiedzenie z udziałem premiera, ministrów i liderów ugrupowań sejmowych dotyczyło programu SAFE, Rady Pokoju i wyjaśnienia...",
-      "date_published": "2026-02-12T07:24:00+01:00",
-      "source": "Bankier.pl"
-    },
-    {
       "id": "https://www.bankier.pl/wiadomosc/Prezes-Bogdanki-Sprzedaz-wegla-ponizej-kosztow-wydobycia-zaburza-mechanizmy-rynkowe-9082518.html",
       "url": "https://www.bankier.pl/wiadomosc/Prezes-Bogdanki-Sprzedaz-wegla-ponizej-kosztow-wydobycia-zaburza-mechanizmy-rynkowe-9082518.html",
-      "title": "Prezes Bogdanki: Sprzedaż węgla poniżej kosztów wydobycia zaburza mechanizmy rynkowe",
-      "content_html": "Część krajowego węgla energetycznego, w wyniku funkcjonowania różnych mechanizmów wsparcia, jest sprzedawana poniżej kosztów jego wydobycia - wskazał w rozmowie z PAP prezes LW Bogdanka Zbigniew Stopa. Uważa, że to zjawisko wypycha z rynku...",
+      "title": "Prezes Bogdanki: Sprzedaż węgla poniżej kosztów wydobycia zaburza mechanizmy rynkowe Część krajowego węgla energetycznego, w wyniku funkcjonowania różnych mechanizmów wsparcia, jest sprzedawana poniżej kosztów jego wydobycia - wskazał w rozmowie z PAP prezes LW Bogdanka Zbigniew Stopa. Uważa, że to zjawisko wypycha z rynku podmioty jak Bogdanka, które nie korzystają z dopłat.",
+      "content_html": "",
       "date_published": "2026-02-12T07:21:00+01:00",
       "source": "Bankier.pl"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Niewiadow-PGM-zawarl-umowe-ramowa-z-Northrop-Grumman-dot-wspolpracy-przy-produkcji-amunicji-9081760.html",
       "url": "https://www.bankier.pl/wiadomosc/Niewiadow-PGM-zawarl-umowe-ramowa-z-Northrop-Grumman-dot-wspolpracy-przy-produkcji-amunicji-9081760.html",
-      "title": "Niewiadów i Northrop Grumman. Umowa ramowa na amunicję 155 mm podpisana",
-      "content_html": "Niewiadów - PGM zawarł z Northrop Grumman, spółką Elaboracja Niewiadów oraz Zakładami Sprzętu Precyzyjnego Niewiadów umowę ramową określającą zasady współpracy przy produkcji amunicji artyleryjskiej kalibru 155 mm - podała spółka w...",
+      "title": "Niewiadów i Northrop Grumman. Umowa ramowa na amunicję 155 mm podpisana Niewiadów - PGM zawarł z Northrop Grumman, spółką Elaboracja Niewiadów oraz Zakładami Sprzętu Precyzyjnego Niewiadów umowę ramową określającą zasady współpracy przy produkcji amunicji artyleryjskiej kalibru 155 mm - podała spółka w komunikacie.",
+      "content_html": "",
       "date_published": "2026-02-12T07:16:00+01:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Nagrody-jubileuszowe-dla-medykow-koscia-niezgody-Panuje-dualizm-prawny-9082468.html",
-      "url": "https://www.bankier.pl/wiadomosc/Nagrody-jubileuszowe-dla-medykow-koscia-niezgody-Panuje-dualizm-prawny-9082468.html",
-      "title": "Nagrody jubileuszowe dla medyków kością niezgody. Panuje dualizm prawny",
-      "content_html": "Nowe przepisy o zaliczaniu do stażu czasu pracy na kontrakcie pozwalają wydłużyć urlop, ale nie przybliżają np. do nagród jubileuszowych. Powód? Tarczą placówek ochrony zdrowia okazują się ich regulaminy wynagradzania – pisze w czwartek...",
-      "date_published": "2026-02-12T07:15:00+01:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Konczy-sie-proces-Marine-Le-Pen-ktory-zadecyduje-o-jej-przyszlosci-politycznej-9082515.html",
-      "url": "https://www.bankier.pl/wiadomosc/Konczy-sie-proces-Marine-Le-Pen-ktory-zadecyduje-o-jej-przyszlosci-politycznej-9082515.html",
-      "title": "Kończy się proces Marine Le Pen, który zadecyduje o jej przyszłości politycznej",
-      "content_html": "Przed sądem apelacyjnym w Paryżu kończy się w czwartek proces Marine Le Pen, liderki francuskiej skrajnej prawicy, dotyczący fikcyjnych umów dla asystentów posłów jej partii w Parlamencie Europejskim. Wyrok zapadnie w lipcu, ale już teraz ocenia...",
-      "date_published": "2026-02-12T07:14:00+01:00",
       "source": "Bankier.pl"
     },
     {
@@ -1282,14 +1298,6 @@
       "title": "Skrót wiadomości - środa, 11 lutego, 21.00",
       "content_html": "Przegląd najważniejszych wiadomości gospodarczych, krajowych i ze świata.",
       "date_published": "2026-02-11T21:00:00+01:00",
-      "source": "PAP Biznes"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/energia/w-przypadku-ets-unia-europejska-powinna-byc-otwarta-na-zmiany-merz",
-      "url": "https://biznes.pap.pl/wiadomosci/energia/w-przypadku-ets-unia-europejska-powinna-byc-otwarta-na-zmiany-merz",
-      "title": "W przypadku ETS Unia Europejska powinna być otwarta na zmiany - Merz",
-      "content_html": "Kanclerz Niemiec Friedrich Merz powiedział w środę, że w systemie handlu emisjami (ETS) powinny zostać wprowadzone zmiany, jeśli zostanie uznane, że nie jest to najlepsze narzędzie do ograniczania emi",
-      "date_published": "2026-02-11T20:41:00+01:00",
       "source": "PAP Biznes"
     }
   ]
