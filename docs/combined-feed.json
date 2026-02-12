@@ -5,6 +5,14 @@
   "home_page_url": "https://www.bankier.pl",
   "items": [
     {
+      "id": "https://biznes.pap.pl/wiadomosci/firmy/prezydent-podpisal-ustawe-ws-dalszego-funkcjonowania-alternatywnych-systemow",
+      "url": "https://biznes.pap.pl/wiadomosci/firmy/prezydent-podpisal-ustawe-ws-dalszego-funkcjonowania-alternatywnych-systemow",
+      "title": "Prezydent podpisał ustawę ws. dalszego funkcjonowania alternatywnych systemów kaucyjnych",
+      "content_html": "Prezydent Karol Nawrocki podpisał ustawę, wydłużającą do końca 2028 r. możliwość funkcjonowania prywatnych, bezparagonowych systemów zbiórki butelek szklanych obok funkcjonującego już ogólnopolskiego ",
+      "date_published": "2026-02-13T00:06:00+01:00",
+      "source": "PAP Biznes"
+    },
+    {
       "id": "https://biznes.pap.pl/wiadomosci/rynki/dzien-na-rynkach-na-wall-street-spore-spadki-dow-w-dol-o-ponad-600-pkt",
       "url": "https://biznes.pap.pl/wiadomosci/rynki/dzien-na-rynkach-na-wall-street-spore-spadki-dow-w-dol-o-ponad-600-pkt",
       "title": "DZIEŃ NA RYNKACH: Na Wall Street spore spadki, Dow w dół o ponad 600 pkt.",
@@ -237,14 +245,6 @@
       "source": "Bankier.pl"
     },
     {
-      "id": "https://biznes.pap.pl/wiadomosci/energia/pse-podalo-ze-polaczenie-polska-szwecja-jest-chwilowo-wylaczone-ze-wzgledu-na",
-      "url": "https://biznes.pap.pl/wiadomosci/energia/pse-podalo-ze-polaczenie-polska-szwecja-jest-chwilowo-wylaczone-ze-wzgledu-na",
-      "title": "PSE podało, że połączenie Polska-Szwecja jest chwilowo wyłączone ze względu na usterkę",
-      "content_html": "Połączenie Polska-Szwecja jest chwilowo wyłączone ze względu na usterkę. System elektroenergetyczny pracuje stabilnie i spełnione są wszystkie kryteria bezpieczeństwa - podały Polskie Sieci Elektroene",
-      "date_published": "2026-02-12T17:39:00+01:00",
-      "source": "PAP Biznes"
-    },
-    {
       "id": "https://www.bankier.pl/wiadomosc/NWZ-CD-Projektu-zdecyduje-o-warunku-wynikowym-Programu-Motywacyjnego-B-w-26-29-w-wys-5-mld-zl-9082949.html",
       "url": "https://www.bankier.pl/wiadomosc/NWZ-CD-Projektu-zdecyduje-o-warunku-wynikowym-Programu-Motywacyjnego-B-w-26-29-w-wys-5-mld-zl-9082949.html",
       "title": "CD Projekt celuje w 5 mld zł zysku w latach 2026-2029. Decyzje o programie motywacyjnym",
@@ -429,6 +429,14 @@
       "source": "Bankier.pl"
     },
     {
+      "id": "https://biznes.pap.pl/wiadomosci/gospodarka/w-iii-i-iv-mozliwe-ciecia-stop-po-25-pb-docelowo-do-350-proc-ryzyka-dla-cpi-w",
+      "url": "https://biznes.pap.pl/wiadomosci/gospodarka/w-iii-i-iv-mozliwe-ciecia-stop-po-25-pb-docelowo-do-350-proc-ryzyka-dla-cpi-w",
+      "title": "W III i IV możliwe cięcia stóp po 25 pb. docelowo do 3,50 proc., ryzyka dla CPI w dół - Kotecki, RPP (wywiad)",
+      "content_html": "Marzec to dobry moment na kolejne cięcie stóp o 25 pb., potem możliwe jest -25 pb. w kwietniu, jeżeli rewizja koszyka CPI nie zaskoczy - uważa członek RPP Ludwik Kotecki. Jego zdaniem na tym etapie ni",
+      "date_published": "2026-02-12T15:29:00+01:00",
+      "source": "PAP Biznes"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Konto-w-BNP-Paribas-Ostatnia-szansa-na-700-zl-premii-Termin-mija-16-lutego-9082780.html",
       "url": "https://www.bankier.pl/wiadomosc/Konto-w-BNP-Paribas-Ostatnia-szansa-na-700-zl-premii-Termin-mija-16-lutego-9082780.html",
       "title": "Tłusta promocja w BNP zmierza ku końcowi. Ostatnie dni na 700 zł premii",
@@ -475,6 +483,14 @@
       "content_html": "Od 2 marca 2026 r. Allegro zmienia warunki Smart!. Zamiast dwóch progów 45 zł i 65 zł ma obowiązywać jeden, ujednolicony limit 49,90 zł dla darmowej dostawy.",
       "date_published": "2026-02-12T14:40:00+01:00",
       "source": "Bankier.pl"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/rynki/dzien-na-rynkach-futures-w-usa-rosna-rynki-oceniaja-wyniki-spolek",
+      "url": "https://biznes.pap.pl/wiadomosci/rynki/dzien-na-rynkach-futures-w-usa-rosna-rynki-oceniaja-wyniki-spolek",
+      "title": "DZIEŃ NA RYNKACH: Futures w USA rosną; rynki oceniają wyniki spółek",
+      "content_html": "Kontrakty w USA rosną, podobnie jak indeksy w Europie. Rynki analizują raporty spółek za IV kw. oraz perspektywy dla branży sztucznej inteligencji. Dolar umacnia się.",
+      "date_published": "2026-02-12T14:40:00+01:00",
+      "source": "PAP Biznes"
     },
     {
       "id": "https://biznes.pap.pl/wiadomosci/firmy/przylaczenie-najwiekszych-odbiorcow-bezposrednio-do-sieci-przesylowej-dyskutowane",
