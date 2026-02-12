@@ -5,12 +5,172 @@
   "home_page_url": "https://www.bankier.pl",
   "items": [
     {
+      "id": "https://biznes.pap.pl/wiadomosci/firmy/fitch-potwierdzil-rating-ccc-dla-kernela",
+      "url": "https://biznes.pap.pl/wiadomosci/firmy/fitch-potwierdzil-rating-ccc-dla-kernela",
+      "title": "Fitch potwierdził rating \"CCC-\" dla Kernela",
+      "content_html": "Fitch Ratings potwierdził długoterminowy rating Kernela na poziomie \"CCC-\" - podał Fitch w komunikacie. Działania te są następstwem aktualizacji kryteriów ratingowych Fitch oraz dodatku do kryteriów r",
+      "date_published": "2026-02-12T10:43:00+01:00",
+      "source": "PAP Biznes"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Atal-wprowadzil-do-oferty-159-mieszkan-w-Piastowie-i-215-mieszkan-w-Gliwicach-9082616.html",
+      "url": "https://www.bankier.pl/wiadomosc/Atal-wprowadzil-do-oferty-159-mieszkan-w-Piastowie-i-215-mieszkan-w-Gliwicach-9082616.html",
+      "title": "Atal wprowadził do oferty 159 mieszkań w Piastowie i 215 mieszkań w Gliwicach Atal wprowadził do sprzedaży 159 mieszkań w inwestycji Skwer Witosa w Piastowie k. Warszawy oraz 215 mieszkań w ramach IV etapu inwestycji Ogrody Andersa w Gliwicach - poinformował deweloper w komunikacie prasowym.",
+      "content_html": "",
+      "date_published": "2026-02-12T10:40:00+01:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/firmy/tsue-nie-podzielil-zarzutow-podwazajacych-wiarygodnosc-i-rynkowosc-wibor-u-zbp",
+      "url": "https://biznes.pap.pl/wiadomosci/firmy/tsue-nie-podzielil-zarzutow-podwazajacych-wiarygodnosc-i-rynkowosc-wibor-u-zbp",
+      "title": "TSUE nie podzielił zarzutów podważających wiarygodność i rynkowość WIBOR-u - ZBP",
+      "content_html": "Trybunał Sprawiedliwości UE potwierdził, że sądy w sprawach konsumenckich nie mogą badać prawidłowości wyznaczania WIBOR-u, nie podzielił zarzutów podważających wiarygodność i rynkowość tego wskaźnika",
+      "date_published": "2026-02-12T10:40:00+01:00",
+      "source": "PAP Biznes"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/firmy/atal-wprowadzil-do-oferty-159-mieszkan-w-piastowie-i-215-mieszkan-w-gliwicach",
+      "url": "https://biznes.pap.pl/wiadomosci/firmy/atal-wprowadzil-do-oferty-159-mieszkan-w-piastowie-i-215-mieszkan-w-gliwicach",
+      "title": "Atal wprowadził do oferty 159 mieszkań w Piastowie i 215 mieszkań w Gliwicach",
+      "content_html": "Atal wprowadził do sprzedaży 159 mieszkań w inwestycji Skwer Witosa w Piastowie k. Warszawy oraz 215 mieszkań w ramach IV etapu inwestycji Ogrody Andersa w Gliwicach - poinformował deweloper w komunik",
+      "date_published": "2026-02-12T10:38:00+01:00",
+      "source": "PAP Biznes"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/TSUE-zdecydowal-ws-klauzul-z-WIBOR-em-Jest-wyrok-9082597.html",
+      "url": "https://www.bankier.pl/wiadomosc/TSUE-zdecydowal-ws-klauzul-z-WIBOR-em-Jest-wyrok-9082597.html",
+      "title": "TSUE zdecydował ws. klauzul z WIBOR-em. Jest wyrok",
+      "content_html": "Klauzula umowy zawierająca wskaźnik referencyjny, taki jak WIBOR, nie powoduje co do zasady sama w sobie znaczącej nierównowagi między stronami na niekorzyść konsumenta - orzekł TSUE. Dodał, że obowiązek informacyjny ciążący na banku nie...",
+      "date_published": "2026-02-12T10:37:00+01:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/gospodarka/dane-o-pkb-polski-za-iv-kw-potwierdzaja-solidny-punkt-startowy-do-dalszego",
+      "url": "https://biznes.pap.pl/wiadomosci/gospodarka/dane-o-pkb-polski-za-iv-kw-potwierdzaja-solidny-punkt-startowy-do-dalszego",
+      "title": "Dane o PKB Polski za IV kw. potwierdzają solidny punkt startowy do dalszego wzrostu w '26 (opinia)",
+      "content_html": "Dane o PKB Polski za IV kw. 2025 r. potwierdzają solidny punkt startowy do dalszego wzrostu aktywności gospodarczej w 2026 r. - wskazują ekonomiści. Wzrost będzie wspierany przez dobrą sytuację dochod",
+      "date_published": "2026-02-12T10:26:00+01:00",
+      "source": "PAP Biznes"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/nieruchomosci/najmniejsza-roznica-w-cenie-mieszkania-miedzy-miastem-obwarzankiem",
+      "url": "https://biznes.pap.pl/wiadomosci/nieruchomosci/najmniejsza-roznica-w-cenie-mieszkania-miedzy-miastem-obwarzankiem",
+      "title": "Najmniejsza różnica w cenie mieszkania między miastem a obwarzankiem występuje w Łodzi - Otodom",
+      "content_html": "Dane z 7 największych polskich miast pokazują, że dysponując tym samym budżetem można kupić znacznie większy metraż poza granicami miasta - wynika z analizy Otodom. Najmniejsza różnica w cenie mieszka",
+      "date_published": "2026-02-12T10:25:00+01:00",
+      "source": "PAP Biznes"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/firmy/klauzula-z-wibor-em-sama-w-sobie-nie-powoduje-znaczacej-nierownowagi-na-szkode-0",
+      "url": "https://biznes.pap.pl/wiadomosci/firmy/klauzula-z-wibor-em-sama-w-sobie-nie-powoduje-znaczacej-nierownowagi-na-szkode-0",
+      "title": "Klauzula z WIBOR-em sama w sobie nie powoduje znaczącej nierównowagi na szkodę konsumenta - TSUE (opis)",
+      "content_html": "Klauzula umowy zawierająca wskaźnik referencyjny, taki jak WIBOR, nie powoduje co do zasady sama w sobie znaczącej nierównowagi między stronami na niekorzyść konsumenta - orzekł TSUE. Dodał, że obowią",
+      "date_published": "2026-02-12T10:23:00+01:00",
+      "source": "PAP Biznes"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Polska-gospodarka-wskakuje-na-wyzszy-poziom-PKB-przyspieszyl-do-4-procent-9082605.html",
+      "url": "https://www.bankier.pl/wiadomosc/Polska-gospodarka-wskakuje-na-wyzszy-poziom-PKB-przyspieszyl-do-4-procent-9082605.html",
+      "title": "Polska gospodarka wskakuje na wyższy poziom. PKB przyspieszył do 4 procent",
+      "content_html": "Główny Urząd Statystyczny opublikował najnowsze dane o wzroście gospodarczym Polski. Po znakomitym trzecim kwartale końcówka roku przyniosła jeszcze przyspieszenie rocznej dynamiki. Wynik za cały 2025 rok potwierdza, że polska gospodarka, chociaż...",
+      "date_published": "2026-02-12T10:20:00+01:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Sprawa-marszalka-Czarzastego-Kancelaria-Sejmu-zabiera-glos-9082603.html",
+      "url": "https://www.bankier.pl/wiadomosc/Sprawa-marszalka-Czarzastego-Kancelaria-Sejmu-zabiera-glos-9082603.html",
+      "title": "Sprawa marszałka Czarzastego. Kancelaria Sejmu zabiera głos",
+      "content_html": "Marszałek ma dostęp do informacji ściśle tajnych z mocy prawa; oczekiwanie wypełniania przez niego ankiety bezpieczeństwa wynika z niewiedzy lub wprowadzania opinii publicznej w błąd - oświadczyła Kancelaria Sejmu. Marszałek podlega kontroli...",
+      "date_published": "2026-02-12T10:17:00+01:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Koniec-niemieckiego-dobrobytu-Kanclerz-Merz-Musimy-ciezej-pracowac-9082590.html",
+      "url": "https://www.bankier.pl/wiadomosc/Koniec-niemieckiego-dobrobytu-Kanclerz-Merz-Musimy-ciezej-pracowac-9082590.html",
+      "title": "Koniec niemieckiego dobrobytu? Kanclerz Merz: Musimy ciężej pracować",
+      "content_html": "Niemcy mierzą się z narastającymi wyzwaniami gospodarczymi, a kanclerz Friedrich Merz wskazuje na jeden z głównych powodów stagnacji: zbyt małą liczbę przepracowanych godzin. Jego słowa o konieczności zmiany podejścia do pracy wywołały w...",
+      "date_published": "2026-02-12T10:15:00+01:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Orlen-Aviation-uzyskal-koncesje-na-tankowanie-samolotow-w-Pradze-9082599.html",
+      "url": "https://www.bankier.pl/wiadomosc/Orlen-Aviation-uzyskal-koncesje-na-tankowanie-samolotow-w-Pradze-9082599.html",
+      "title": "Orlen Aviation uzyskał koncesję na tankowanie samolotów w Pradze",
+      "content_html": "Orlen Aviation uzyskał koncesję na tankowanie samolotów w czeskim porcie lotniczym im. Václava Havla w Pradze - podał Orlen w komunikacie. Tankowanie samolotów przez Orlen Aviation rozpocznie się w II kwartale 2026 roku.",
+      "date_published": "2026-02-12T10:04:00+01:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/firmy/klauzula-z-wibor-em-sama-w-sobie-nie-powoduje-znaczacej-nierownowagi-na-szkode",
+      "url": "https://biznes.pap.pl/wiadomosci/firmy/klauzula-z-wibor-em-sama-w-sobie-nie-powoduje-znaczacej-nierownowagi-na-szkode",
+      "title": "Klauzula z WIBOR-em sama w sobie nie powoduje znaczącej nierównowagi na szkodę konsumenta - TSUE",
+      "content_html": "Klauzula umowy zawierająca wskaźnik referencyjny, taki jak WIBOR, nie powoduje co do zasady sama w sobie znaczącej nierównowagi między stronami na niekorzyść konsumenta - orzekł TSUE. Dodał, że obowią",
+      "date_published": "2026-02-12T10:02:00+01:00",
+      "source": "PAP Biznes"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/firmy/orlen-aviation-uzyskal-koncesje-na-tankowanie-samolotow-w-pradze",
+      "url": "https://biznes.pap.pl/wiadomosci/firmy/orlen-aviation-uzyskal-koncesje-na-tankowanie-samolotow-w-pradze",
+      "title": "Orlen Aviation uzyskał koncesję na tankowanie samolotów w Pradze",
+      "content_html": "Orlen Aviation uzyskał koncesję na tankowanie samolotów w czeskim porcie lotniczym im. Václava Havla w Pradze - podał Orlen w komunikacie. Tankowanie samolotów przez Orlen Aviation rozpocznie się w II",
+      "date_published": "2026-02-12T10:02:00+01:00",
+      "source": "PAP Biznes"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/gospodarka/pkb-w-iv-kw-25-wzrosl-o-40-proc-rdr-kdk-wzrosl-o-10-proc-szybki-szacunek-gus",
+      "url": "https://biznes.pap.pl/wiadomosci/gospodarka/pkb-w-iv-kw-25-wzrosl-o-40-proc-rdr-kdk-wzrosl-o-10-proc-szybki-szacunek-gus",
+      "title": "PKB w IV kw. '25 wzrósł o 4,0 proc. rdr; kdk wzrósł o 1,0 proc. - szybki szacunek GUS",
+      "content_html": "PKB Polski w IV kw. 2025 r. wzrósł o 4,0 proc. rdr wobec wzrostu o 3,8 proc. rdr w III kw. 2025 r. - wynika z szybkiego szacunku GUS. W ujęciu kwartał do kwartału PKB w IV kw. wzrósł o 1,0 proc., po w",
+      "date_published": "2026-02-12T10:00:00+01:00",
+      "source": "PAP Biznes"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Byly-szef-NATO-nie-ma-zludzen-Rosja-zaatakuje-kraj-Sojuszu-9082593.html",
+      "url": "https://www.bankier.pl/wiadomosc/Byly-szef-NATO-nie-ma-zludzen-Rosja-zaatakuje-kraj-Sojuszu-9082593.html",
+      "title": "Były szef NATO nie ma złudzeń. \"Rosja zaatakuje kraj Sojuszu\"",
+      "content_html": "Były sekretarz generalny NATO Anders Fogh Rasmussen wyraził opinię, że Rosja zaatakuje jeden z krajów NATO. W wywiadzie opublikowanym w czwartek na łamach włoskiego dziennika „La Repubblica” stwierdził, że fabryki samochodów w krajach Sojuszu...",
+      "date_published": "2026-02-12T09:57:00+01:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/firmy/pragmago-otwiera-spolke-w-hiszpanii",
+      "url": "https://biznes.pap.pl/wiadomosci/firmy/pragmago-otwiera-spolke-w-hiszpanii",
+      "title": "PragmaGO otwiera spółkę w Hiszpanii",
+      "content_html": "PragmaGO otwiera spółkę w Hiszpanii i przyspiesza ekspansję zagraniczną - podała spółka w komunikacie. Na początku przedsiębiorcy w Hiszpanii zyskają dostęp do PragmaCash, czyli finansowania w modelu ",
+      "date_published": "2026-02-12T09:52:00+01:00",
+      "source": "PAP Biznes"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Wazna-wiadomosc-dla-klientow-T-Mobile-Operator-musi-zwrocic-srodki-9082585.html",
+      "url": "https://www.bankier.pl/wiadomosc/Wazna-wiadomosc-dla-klientow-T-Mobile-Operator-musi-zwrocic-srodki-9082585.html",
+      "title": "Ważna wiadomość dla klientów T-Mobile. Operator musi zwrócić środki",
+      "content_html": "Prezes UOKiK wydał decyzję, w której zobowiązał T-Mobile do przyznania konsumentom przysporzenia w związku z utratą rabatu, gdy spóźnili się z zapłatą rachunku - podał UOKiK w komunikacie.",
+      "date_published": "2026-02-12T09:48:00+01:00",
+      "source": "Bankier.pl"
+    },
+    {
       "id": "https://biznes.pap.pl/wiadomosci/firmy/uokik-zobowiazal-t-mobile-do-przyznania-rekompensat-abonentom",
       "url": "https://biznes.pap.pl/wiadomosci/firmy/uokik-zobowiazal-t-mobile-do-przyznania-rekompensat-abonentom",
       "title": "UOKiK zobowiązał T-Mobile do przyznania rekompensat abonentom",
       "content_html": "Prezes UOKiK wydał decyzję, w której zobowiązał T-Mobile do przyznania konsumentom przysporzenia w związku z utratą rabatu, gdy spóźnili się z zapłatą rachunku - podał UOKiK w komunikacie.",
       "date_published": "2026-02-12T09:46:00+01:00",
       "source": "PAP Biznes"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Przelomowy-wyrok-dla-firm-przyspieszy-odliczanie-VAT-9082519.html",
+      "url": "https://www.bankier.pl/wiadomosc/Przelomowy-wyrok-dla-firm-przyspieszy-odliczanie-VAT-9082519.html",
+      "title": "Wyrok Sądu UE przyspieszy odliczanie VAT? Przełomowe wieści dla firm",
+      "content_html": "Najnowsze rozstrzygnięcie Sądu UE może istotnie zmienić praktykę rozliczeń VAT w Polsce. Zwłaszcza w kontekście zbliżającego się obowiązkowego Krajowego Systemu e-Faktur (KSeF) Wyrok porządkuje moment odliczenia podatku i ogranicza część...",
+      "date_published": "2026-02-12T09:45:00+01:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Rekordowa-liczba-slubow-z-obcokrajowcami-Te-nacje-wybieraja-Polki-i-Polacy-9082577.html",
+      "url": "https://www.bankier.pl/wiadomosc/Rekordowa-liczba-slubow-z-obcokrajowcami-Te-nacje-wybieraja-Polki-i-Polacy-9082577.html",
+      "title": "Rekordowa liczba ślubów z obcokrajowcami. Te nacje wybierają Polki i Polacy",
+      "content_html": "Coraz więcej Polek i Polaków bierze ślub z obcokrajowcami, takie małżeństwa stanowią już 4,1 proc. wszystkich ślubów w Polsce - wynika z danych GUS. Kobiety najczęściej wiążą się z obywatelami Ukrainy, Wielkiej Brytanii i Turcji, mężczyźni...",
+      "date_published": "2026-02-12T09:44:00+01:00",
+      "source": "Bankier.pl"
     },
     {
       "id": "https://biznes.pap.pl/wiadomosci/rynki/dzien-na-rynkach-w-europie-na-gieldach-indeksy-rosna-do-rekordowych-poziomow",
@@ -21,12 +181,28 @@
       "source": "PAP Biznes"
     },
     {
-      "id": "https://biznes.pap.pl/wiadomosci/nieruchomosci/zmiany-demograficzne-przesuna-oczekiwania-dot-mieszkan-wplyna-na-strukture",
-      "url": "https://biznes.pap.pl/wiadomosci/nieruchomosci/zmiany-demograficzne-przesuna-oczekiwania-dot-mieszkan-wplyna-na-strukture",
-      "title": "Zmiany demograficzne przesuną oczekiwania dot. mieszkań; wpłyną na strukturę popytu - raport",
-      "content_html": "Do 2040 r. roku udział osób w wieku 65+ wzrośnie do niemal 30 proc. populacji, co wpłynie na strukturę popytu na mieszkania, ale i przesunie oczekiwania wobec standardu życia oraz sposobu korzystania ",
-      "date_published": "2026-02-12T09:41:00+01:00",
-      "source": "PAP Biznes"
+      "id": "https://www.bankier.pl/wiadomosc/Zwiazkowcy-z-Carrefoura-pisza-do-centrali-firmy-w-sprawie-zwolnien-grupowych-9082535.html",
+      "url": "https://www.bankier.pl/wiadomosc/Zwiazkowcy-z-Carrefoura-pisza-do-centrali-firmy-w-sprawie-zwolnien-grupowych-9082535.html",
+      "title": "\"Pracownicy to dla nich tylko tabelki w Excelu\". Solidarność ostro o zwolnieniach w Carrefourze",
+      "content_html": "Nad polskim oddziałem Carrefoura gromadzą się czarne chmury. Planowane zwolnienia grupowe, które mają objąć około 250 etatów, stały się zarzewiem ostrego sporu między zarządem a związkowcami z NSZZ „Solidarność”. Podczas gdy firma...",
+      "date_published": "2026-02-12T09:40:00+01:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Strajk-w-Niemczech-klopoty-dla-Polakow-Tysiace-lotow-pod-znakiem-zapytania-9081972.html",
+      "url": "https://www.bankier.pl/wiadomosc/Strajk-w-Niemczech-klopoty-dla-Polakow-Tysiace-lotow-pod-znakiem-zapytania-9081972.html",
+      "title": "Strajk w Niemczech, kłopoty dla Polaków. Tysiące lotów pod znakiem zapytania",
+      "content_html": "Piloci Lufthansy ogłosili 24-godzinny strajk, który może całkowicie sparaliżować loty przewoźnika na lotniskach w Niemczech. W efekcie zagrożone są zarówno przesiadki polskich pasażerów, np. we Frankfurcie, jak i połączenia bezpośrednie...",
+      "date_published": "2026-02-12T09:34:00+01:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Zakaz-fajerwerkow-w-Polsce-Branza-mowi-o-unicestwieniu-w-tle-ochrona-zwierzat-9082576.html",
+      "url": "https://www.bankier.pl/wiadomosc/Zakaz-fajerwerkow-w-Polsce-Branza-mowi-o-unicestwieniu-w-tle-ochrona-zwierzat-9082576.html",
+      "title": "Zakaz fajerwerków w Polsce? Branża mówi o unicestwieniu, w tle ochrona zwierząt",
+      "content_html": "Sejmowa Komisja Nadzwyczajna ds. ochrony zwierząt zarekomendowała we wtorek uchwalenie poselskiego projektu Koalicji Obywatelskiej. Przyjęta w ostatniej chwili poprawka rozszerzająca zakaz sprzedaży fajerwerków na produkty klasy F2 oznacza, że...",
+      "date_published": "2026-02-12T09:28:00+01:00",
+      "source": "Bankier.pl"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Pprzemyt-aut-do-Rosji-Reuters-ujawnia-sprytny-trik-posrednikow-9082562.html",
@@ -37,12 +213,12 @@
       "source": "Bankier.pl"
     },
     {
-      "id": "https://biznes.pap.pl/wiadomosci/firmy/demoboost-spolka-ai-z-obszaru-sprzedazy-b2b-zamknela-runde-seed-w-wysokosci-28-mln",
-      "url": "https://biznes.pap.pl/wiadomosci/firmy/demoboost-spolka-ai-z-obszaru-sprzedazy-b2b-zamknela-runde-seed-w-wysokosci-28-mln",
-      "title": "Demoboost, spółka AI z obszaru sprzedaży B2B, zamknęła rundę seed w wysokości 2,8 mln euro",
-      "content_html": "Demoboost, spółka AI z obszaru sprzedaży B2B, zamknęła rundę seed w wysokości 2,8 mln euro - podała spółka w komunikacie prasowym. Rundę współprowadzili Digital Ocean Ventures oraz RIO Family Office R",
-      "date_published": "2026-02-12T09:25:00+01:00",
-      "source": "PAP Biznes"
+      "id": "https://www.bankier.pl/wiadomosc/Brzoska-zainwestowal-w-start-up-Demoboost-zebral-2-8-mln-euro-9082573.html",
+      "url": "https://www.bankier.pl/wiadomosc/Brzoska-zainwestowal-w-start-up-Demoboost-zebral-2-8-mln-euro-9082573.html",
+      "title": "Brzoska zainwestował w start-up. Demoboost zebrał 2,8 mln euro",
+      "content_html": "Demoboost, spółka AI z obszaru sprzedaży B2B, zamknęła rundę seed w wysokości 2,8 mln euro - podała spółka w komunikacie prasowym. Rundę współprowadzili Digital Ocean Ventures oraz RIO Family Office Rafała Brzoski.",
+      "date_published": "2026-02-12T09:26:00+01:00",
+      "source": "Bankier.pl"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Skandal-po-posiedzeniu-RBN-ABW-wkroczy-do-prezydenta-9082545.html",
@@ -53,28 +229,12 @@
       "source": "Bankier.pl"
     },
     {
-      "id": "https://biznes.pap.pl/wiadomosci/gospodarka/dzien-na-fxfi-zloty-powinien-stabilizowac-sie-przy-obecnym-poziomie",
-      "url": "https://biznes.pap.pl/wiadomosci/gospodarka/dzien-na-fxfi-zloty-powinien-stabilizowac-sie-przy-obecnym-poziomie",
-      "title": "DZIEŃ NA FX/FI: Złoty powinien stabilizować się przy obecnym poziomie",
-      "content_html": "W czwartek krajowi inwestorzy poznają wstępny odczyt PKB za IV kw. 2025 r., jednak odczyt ten nie powinien istotnie wpływać na krajową walutę; złoty powinien stabilizować się przy dotychczasowym pozio",
-      "date_published": "2026-02-12T09:16:00+01:00",
-      "source": "PAP Biznes"
-    },
-    {
       "id": "https://www.bankier.pl/wiadomosc/Mocny-glos-z-Chin-Sprzeciwiamy-sie-wszelkim-probom-aneksji-terytorium-Palestyny-9082563.html",
       "url": "https://www.bankier.pl/wiadomosc/Mocny-glos-z-Chin-Sprzeciwiamy-sie-wszelkim-probom-aneksji-terytorium-Palestyny-9082563.html",
       "title": "Mocny głos z Chin. \"Sprzeciwiamy się wszelkim próbom aneksji terytorium Palestyny\"",
       "content_html": "Chiny sprzeciwiają się wszelkim próbom aneksji terytorium Palestyny – oświadczył w czwartek rzecznik ministerstwa spraw zagranicznych w Pekinie. Reakcja ta nastąpiła po decyzji izraelskiego rządu, który zatwierdził nowe przepisy, mające na...",
       "date_published": "2026-02-12T09:14:00+01:00",
       "source": "Bankier.pl"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/firmy/bgk-zainwestowal-20-mln-euro-w-fundusz-cvi-private-debt-fund-ii",
-      "url": "https://biznes.pap.pl/wiadomosci/firmy/bgk-zainwestowal-20-mln-euro-w-fundusz-cvi-private-debt-fund-ii",
-      "title": "BGK zainwestował 20 mln euro w fundusz CVI Private Debt Fund II",
-      "content_html": "Bank Gospodarstwa Krajowego zainwestował 20 mln euro w fundusz CVI Private Debt Fund II - podał BGK w komunikacie prasowym. Środki mają zostać przeznaczone na wsparcie ekspansji zagranicznej polskich ",
-      "date_published": "2026-02-12T09:03:00+01:00",
-      "source": "PAP Biznes"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/PKB-Wielkiej-Brytanii-ledwo-rosnie-budowlanka-tonie-uslugi-stoja-IV-kw-2025-9082539.html",
@@ -117,36 +277,12 @@
       "source": "Bankier.pl"
     },
     {
-      "id": "https://biznes.pap.pl/wiadomosci/firmy/dzien-na-gpw-czwartkowa-sesja-moze-rozpoczac-sie-od-wzrostow-29",
-      "url": "https://biznes.pap.pl/wiadomosci/firmy/dzien-na-gpw-czwartkowa-sesja-moze-rozpoczac-sie-od-wzrostow-29",
-      "title": "DZIEŃ NA GPW: Czwartkowa sesja może rozpocząć się od wzrostów",
-      "content_html": "Czwartkowa sesja na warszawskim parkiecie może rozpocząć się od wzrostów - oceniają analitycy.",
-      "date_published": "2026-02-12T08:39:00+01:00",
-      "source": "PAP Biznes"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/rynki/dzien-na-rynkach-w-azji-na-gieldach-indeksy-zwyzkuja-5-sesje",
-      "url": "https://biznes.pap.pl/wiadomosci/rynki/dzien-na-rynkach-w-azji-na-gieldach-indeksy-zwyzkuja-5-sesje",
-      "title": "DZIEŃ NA RYNKACH: W Azji na giełdach indeksy zwyżkują 5. sesję",
-      "content_html": "Na azjatyckich giełdach indeksy zwyżkują już 5. sesję, a wskaźnik MSCI Asia Pacific ustanawia kolejny rekord. Azjatyckie benchmarki powiększają tegoroczną przewagę nad amerykańskimi wskaźnikami, ponie",
-      "date_published": "2026-02-12T08:22:00+01:00",
-      "source": "PAP Biznes"
-    },
-    {
       "id": "https://www.bankier.pl/wiadomosc/Genomtec-przygotowuje-sie-do-testow-swojej-technologii-w-Azji-w-ramach-procesu-M-A-9082533.html",
       "url": "https://www.bankier.pl/wiadomosc/Genomtec-przygotowuje-sie-do-testow-swojej-technologii-w-Azji-w-ramach-procesu-M-A-9082533.html",
       "title": "Genomtec przygotowuje się do testów swojej technologii w Azji w ramach procesu M&A",
       "content_html": "Genomtec w ramach procesu M&A przygotowuje się do testów swojej technologii u potencjalnych partnerów w Azji - podała spółka w komunikacie.",
       "date_published": "2026-02-12T08:08:00+01:00",
       "source": "Bankier.pl"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/gry-i-technologie/genomtec-przygotowuje-sie-do-testow-swojej-technologii-w-azji-w-ramach",
-      "url": "https://biznes.pap.pl/wiadomosci/gry-i-technologie/genomtec-przygotowuje-sie-do-testow-swojej-technologii-w-azji-w-ramach",
-      "title": "Genomtec przygotowuje się do testów swojej technologii w Azji w ramach procesu M&A",
-      "content_html": "Genomtec w ramach procesu M&A przygotowuje się do testów swojej technologii u potencjalnych partnerów w Azji - podała spółka w komunikacie.",
-      "date_published": "2026-02-12T08:06:00+01:00",
-      "source": "PAP Biznes"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Ceny-ropy-zwyzkuja-Napiete-relacje-USA-Iran-nie-daja-inwestorom-spokoju-9082530.html",
@@ -157,36 +293,12 @@
       "source": "Bankier.pl"
     },
     {
-      "id": "https://biznes.pap.pl/wiadomosci/firmy/ceny-ropy-zwyzkuja-napiete-relacje-usa-iran-nie-daja-inwestorom-spokoju",
-      "url": "https://biznes.pap.pl/wiadomosci/firmy/ceny-ropy-zwyzkuja-napiete-relacje-usa-iran-nie-daja-inwestorom-spokoju",
-      "title": "Ceny ropy zwyżkują; napięte relacje USA-Iran nie dają inwestorom spokoju",
-      "content_html": "Ceny ropy naftowej zwyżkują w trakcie sesji, a inwestorów nie opuszcza niepokój związany z napiętymi stosunkami USA-Iran. W Stanach Zjednoczonych jest potwierdzenie mocnego wzrostu zapasów ropy, ale t",
-      "date_published": "2026-02-12T07:56:00+01:00",
-      "source": "PAP Biznes"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/rynki/najwazniejsze-indeksy-gieldowe-w-azji-659",
-      "url": "https://biznes.pap.pl/wiadomosci/rynki/najwazniejsze-indeksy-gieldowe-w-azji-659",
-      "title": "Najważniejsze indeksy giełdowe w Azji",
-      "content_html": "Poniżej aktualne indeksy wybranych giełd w Azji:",
-      "date_published": "2026-02-12T07:54:00+01:00",
-      "source": "PAP Biznes"
-    },
-    {
       "id": "https://www.bankier.pl/wiadomosc/Ceny-miedzi-w-Londynie-rosna-bo-prognozy-popytu-sa-lepsze-a-USD-slaby-9082527.html",
       "url": "https://www.bankier.pl/wiadomosc/Ceny-miedzi-w-Londynie-rosna-bo-prognozy-popytu-sa-lepsze-a-USD-slaby-9082527.html",
       "title": "Ceny miedzi w Londynie rosną, bo prognozy popytu są lepsze, a USD słaby",
       "content_html": "Notowania miedzi na giełdzie metali LME w Londynie rosną w trakcie czwartkowego handlu w związku z lepszymi prognozami popytu na metal i słabszym kursem USD, w którym wyceniane są metale przemysłowe - informują maklerzy.",
       "date_published": "2026-02-12T07:40:00+01:00",
       "source": "Bankier.pl"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/rynki/ceny-miedzi-w-londynie-rosna-bo-prognozy-popytu-sa-lepsze-usd-slaby",
-      "url": "https://biznes.pap.pl/wiadomosci/rynki/ceny-miedzi-w-londynie-rosna-bo-prognozy-popytu-sa-lepsze-usd-slaby",
-      "title": "Ceny miedzi w Londynie rosną, bo prognozy popytu są lepsze, a USD słaby",
-      "content_html": "Notowania miedzi na giełdzie metali LME w Londynie rosną w trakcie czwartkowego handlu w związku z lepszymi prognozami popytu na metal i słabszym kursem USD, w którym wyceniane są metale przemysłowe -",
-      "date_published": "2026-02-12T07:39:00+01:00",
-      "source": "PAP Biznes"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Upadek-dyktatury-w-Bangladeszu-Ale-wyzwan-na-horyzoncie-jest-wiele-9082479.html",
@@ -261,6 +373,30 @@
       "source": "Bankier.pl"
     },
     {
+      "id": "https://biznes.pap.pl/wiadomosci/rynki/rentownosci-obligacji-wybranych-panstw-tabela-2547",
+      "url": "https://biznes.pap.pl/wiadomosci/rynki/rentownosci-obligacji-wybranych-panstw-tabela-2547",
+      "title": "Rentowności obligacji wybranych państw (tabela)",
+      "content_html": "Poniżej zestawienie rentowności obligacji wybranych państw.",
+      "date_published": "2026-02-12T06:31:00+01:00",
+      "source": "PAP Biznes"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/rynki/notowania-metali-bazowych-wegla-i-paliw-tabela-2458",
+      "url": "https://biznes.pap.pl/wiadomosci/rynki/notowania-metali-bazowych-wegla-i-paliw-tabela-2458",
+      "title": "Notowania metali bazowych, węgla i paliw (tabela)",
+      "content_html": "Notowania metali bazowych na London Metal Exchange, uprawnień EUA do emisji CO2, ceny węgla energetycznego ARA na przyszły rok oraz ceny paliw.",
+      "date_published": "2026-02-12T06:30:00+01:00",
+      "source": "PAP Biznes"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/rynki/zamkniecia-na-gieldach-w-ameryce-polnocnej-i-poludniowej-tabela-3066",
+      "url": "https://biznes.pap.pl/wiadomosci/rynki/zamkniecia-na-gieldach-w-ameryce-polnocnej-i-poludniowej-tabela-3066",
+      "title": "Zamknięcia na giełdach w Ameryce Północnej i Południowej (tabela)",
+      "content_html": "Poniżej zamknięcia i zmiany indeksów w USA. Kanadzie, Meksyku, Brazylii, Chile, Kolumbii i Argentynie:",
+      "date_published": "2026-02-12T06:30:00+01:00",
+      "source": "PAP Biznes"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Nabici-w-Czyste-powietrze-Ruszaja-konsultacje-specustawy-ws-pomocy-poszkodowanym-9082486.html",
       "url": "https://www.bankier.pl/wiadomosc/Nabici-w-Czyste-powietrze-Ruszaja-konsultacje-specustawy-ws-pomocy-poszkodowanym-9082486.html",
       "title": "Nabici w \"Czyste powietrze\". Ruszają konsultacje specustawy ws. pomocy poszkodowanym",
@@ -305,14 +441,6 @@
       "url": "https://www.bankier.pl/wiadomosc/Na-prozno-tu-szukac-opakowan-kaucyjnych-Rossmann-znalazl-sposob-na-system-9082159.html",
       "title": "Znana niemiecka sieć znalazła sposób na system kaucyjny",
       "content_html": "Polska niedługo dobije pięciu miesięcy obowiązywania systemu kaucyjnego. Jedną z nielicznych dużych sieci, która nie przystąpiła do tego rozwiązania, jest Rossmann . Tym samym zrezygnowała ze sprzedaży produktów w opakowaniach kaucyjnych...",
-      "date_published": "2026-02-12T06:00:00+01:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Tlusty-Czwartek-2026-ile-zjadamy-paczkow-i-ile-na-nie-pracujemy-9082187.html",
-      "url": "https://www.bankier.pl/wiadomosc/Tlusty-Czwartek-2026-ile-zjadamy-paczkow-i-ile-na-nie-pracujemy-9082187.html",
-      "title": "Indeks Pączka 2026 ujawnia bolesną prawdę. Wiadomo, ile musimy pracować na jeden przysmak",
-      "content_html": "Tłusty czwartek to ten jeden dzień w roku, kiedy pączek przestaje być tylko słodką przekąską, a staje się najważniejszym wskaźnikiem ekonomicznym w Polsce. Choć ceny surowców spadły, to przy sklepowej kasie czeka nas niekoniecznie miła...",
       "date_published": "2026-02-12T06:00:00+01:00",
       "source": "Bankier.pl"
     },
@@ -389,6 +517,14 @@
       "source": "Bankier.pl"
     },
     {
+      "id": "https://biznes.pap.pl/wiadomosci/rynki/dzien-na-rynkach-na-wall-street-lekkie-spadki-dow-przerwal-serie-trzech",
+      "url": "https://biznes.pap.pl/wiadomosci/rynki/dzien-na-rynkach-na-wall-street-lekkie-spadki-dow-przerwal-serie-trzech",
+      "title": "DZIEŃ NA RYNKACH: Na Wall Street lekkie spadki, Dow przerwał serię trzech wzrostowych dni",
+      "content_html": "Środowa sesja na Wall Street zakończyła się niewielkimi spadkami głównych indeksów, a Dow Jones zakończył serię trzech wzrostowych dni z rzędu, podczas których ustanawiał historyczne rekordy. W centru",
+      "date_published": "2026-02-11T22:20:00+01:00",
+      "source": "PAP Biznes"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Drugi-lotniskowiec-USA-poplynie-na-Bliski-Wschod-9082432.html",
       "url": "https://www.bankier.pl/wiadomosc/Drugi-lotniskowiec-USA-poplynie-na-Bliski-Wschod-9082432.html",
       "title": "Drugi lotniskowiec USA popłynie na Bliski Wschód",
@@ -429,6 +565,22 @@
       "source": "Bankier.pl"
     },
     {
+      "id": "https://biznes.pap.pl/wiadomosci/ekonomia-biznes-i-finanse/skrot-wiadomosci-sroda-11-lutego-2100",
+      "url": "https://biznes.pap.pl/wiadomosci/ekonomia-biznes-i-finanse/skrot-wiadomosci-sroda-11-lutego-2100",
+      "title": "Skrót wiadomości - środa, 11 lutego, 21.00",
+      "content_html": "Przegląd najważniejszych wiadomości gospodarczych, krajowych i ze świata.",
+      "date_published": "2026-02-11T21:00:00+01:00",
+      "source": "PAP Biznes"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/energia/w-przypadku-ets-unia-europejska-powinna-byc-otwarta-na-zmiany-merz",
+      "url": "https://biznes.pap.pl/wiadomosci/energia/w-przypadku-ets-unia-europejska-powinna-byc-otwarta-na-zmiany-merz",
+      "title": "W przypadku ETS Unia Europejska powinna być otwarta na zmiany - Merz",
+      "content_html": "Kanclerz Niemiec Friedrich Merz powiedział w środę, że w systemie handlu emisjami (ETS) powinny zostać wprowadzone zmiany, jeśli zostanie uznane, że nie jest to najlepsze narzędzie do ograniczania emi",
+      "date_published": "2026-02-11T20:41:00+01:00",
+      "source": "PAP Biznes"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Wielkie-zmiany-w-systemie-ETS-Ursula-von-der-Leyen-zapowiada-reforme-9082185.html",
       "url": "https://www.bankier.pl/wiadomosc/Wielkie-zmiany-w-systemie-ETS-Ursula-von-der-Leyen-zapowiada-reforme-9082185.html",
       "title": "Wielkie zmiany w systemie ETS. Ursula von der Leyen zapowiada reformę",
@@ -467,6 +619,14 @@
       "content_html": "VRG w IV kwartale 2025 r. miało 49,6 mln zł skonsolidowanego zysku netto wobec 46,3 mln zł rok wcześniej - podało VRG we wstępnych danych. W tym okresie przychody ze sprzedaży wyniosły 487,7 mln zł wobec 444,5 mln zł w IV kw. 2024 r.",
       "date_published": "2026-02-11T19:30:00+01:00",
       "source": "Bankier.pl"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/firmy/vrg-w-iv-kw-mialo-496-mln-zl-zysku-netto-wobec-463-mln-zl-rok-wczesniej-wstepne",
+      "url": "https://biznes.pap.pl/wiadomosci/firmy/vrg-w-iv-kw-mialo-496-mln-zl-zysku-netto-wobec-463-mln-zl-rok-wczesniej-wstepne",
+      "title": "VRG w IV kw. miało 49,6 mln zł zysku netto wobec 46,3 mln zł rok wcześniej - wstępne dane",
+      "content_html": "VRG w IV kwartale 2025 r. miało 49,6 mln zł skonsolidowanego zysku netto wobec 46,3 mln zł rok wcześniej - podało VRG we wstępnych danych. W tym okresie przychody ze sprzedaży wyniosły 487,7 mln zł wo",
+      "date_published": "2026-02-11T19:29:00+01:00",
+      "source": "PAP Biznes"
     },
     {
       "id": "https://biznes.pap.pl/wiadomosci/przemysl/europa-potrzebuje-prawdziwej-unii-energetycznej-w-obliczu-wyzwan",
@@ -647,8 +807,8 @@
     {
       "id": "https://www.bankier.pl/wiadomosc/MOL-wchodzi-do-Libii-w-ramach-spolki-joint-venture-z-firmami-Repsol-oraz-TPAO-9082253.html",
       "url": "https://www.bankier.pl/wiadomosc/MOL-wchodzi-do-Libii-w-ramach-spolki-joint-venture-z-firmami-Repsol-oraz-TPAO-9082253.html",
-      "title": "MOL wchodzi do Libii w ramach spółki joint venture z firmami Repsol oraz TPAO Grupa MOL wchodzi do Libii dzięki wspólnemu udziałowi w przetargu z firmami Repsol oraz Türkiye Petrolleri A. O. (TPAO) na obszar poszukiwań morskich (offshore) na Morzu Śródziemnym - podał MOL w komunikacie.",
-      "content_html": "",
+      "title": "MOL wchodzi do Libii w ramach spółki joint venture z firmami Repsol oraz TPAO",
+      "content_html": "Grupa MOL wchodzi do Libii dzięki wspólnemu udziałowi w przetargu z firmami Repsol oraz Türkiye Petrolleri A. O. (TPAO) na obszar poszukiwań morskich (offshore) na Morzu Śródziemnym - podał MOL w komunikacie.",
       "date_published": "2026-02-11T16:06:00+01:00",
       "source": "Bankier.pl"
     },
@@ -669,6 +829,22 @@
       "source": "PAP Biznes"
     },
     {
+      "id": "https://biznes.pap.pl/wiadomosci/firmy/gaz-system-ma-umowe-na-budowe-tloczni-gazu-we-lwowku-oraz-powiazanej",
+      "url": "https://biznes.pap.pl/wiadomosci/firmy/gaz-system-ma-umowe-na-budowe-tloczni-gazu-we-lwowku-oraz-powiazanej",
+      "title": "Gaz-System ma umowę na budowę tłoczni gazu we Lwówku oraz powiązanej infrastruktury przesyłowej",
+      "content_html": "Gaz-System podpisał umowę na budowę nowej tłoczni gazu we Lwówku oraz powiązanej infrastruktury przesyłowej - podał w informacji prasowej operator. Maksymalna wartość podpisanego kontraktu na roboty b",
+      "date_published": "2026-02-11T15:45:00+01:00",
+      "source": "PAP Biznes"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/rynki/po-otwarciu-sesji-dji-rosnie-o-045-proc-sp-500-zyskuje-046-proc",
+      "url": "https://biznes.pap.pl/wiadomosci/rynki/po-otwarciu-sesji-dji-rosnie-o-045-proc-sp-500-zyskuje-046-proc",
+      "title": "Po otwarciu sesji DJI rośnie o 0,45 proc., a S&P 500 zyskuje 0,46 proc.",
+      "content_html": "Po otwarciu sesji w USA Dow Jones Industrial rośnie o 0,45 proc. do 50.413 pkt., S&P500 zyskuje 0,46 proc. i wynosi 6.974 pkt.",
+      "date_published": "2026-02-11T15:40:00+01:00",
+      "source": "PAP Biznes"
+    },
+    {
       "id": "https://biznes.pap.pl/wiadomosci/firmy/w-26-najwazniejsze-cyberbezpieczenstwo-i-ai-w-branzy-cyfrowej-niepewnosc-zwiazana",
       "url": "https://biznes.pap.pl/wiadomosci/firmy/w-26-najwazniejsze-cyberbezpieczenstwo-i-ai-w-branzy-cyfrowej-niepewnosc-zwiazana",
       "title": "W '26 najważniejsze cyberbezpieczeństwo i AI; w branży cyfrowej niepewność związana z cenami RAM-u - ZCP (wywiad)",
@@ -683,6 +859,14 @@
       "content_html": "Nastoje na GPW poprawiły się. Z głównych indeksów najsilniejszy jest WIG20, który rośnie o 1 proc. Przyspieszyły wzrosty KGHM i BNP Paribas, poprawił się sentyment do spółek energetycznych. Najsłabszy",
       "date_published": "2026-02-11T15:31:00+01:00",
       "source": "PAP Biznes"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/LOT-z-rekordem-Przewiozl-o-blisko-10-proc-wiecej-pasazerow-niz-w-2024-r-9082217.html",
+      "url": "https://www.bankier.pl/wiadomosc/LOT-z-rekordem-Przewiozl-o-blisko-10-proc-wiecej-pasazerow-niz-w-2024-r-9082217.html",
+      "title": "LOT z rekordem. Przewiózł o blisko 10 proc. więcej pasażerów niż w 2024 r.",
+      "content_html": "PLL LOT w 2025 r. przewiozły 11,7 mln podróżnych, czyli o 9,4 proc. więcej niż rok wcześniej - poinformowała w środę spółka. W ubiegłym roku przewoźnik uruchomił dziewięć nowych kierunków i ogłosił 15 kolejnych tras, których inaugurację...",
+      "date_published": "2026-02-11T15:11:00+01:00",
+      "source": "Bankier.pl"
     },
     {
       "id": "https://biznes.pap.pl/wiadomosci/przemysl/celem-reformy-ets-bedzie-skierowanie-dochodow-na-dekarbonizacje-przemyslu-ue",
@@ -1053,14 +1237,6 @@
       "source": "PAP Biznes"
     },
     {
-      "id": "https://www.bankier.pl/wiadomosc/Polacy-nadal-chetnie-sie-zadluzaja-Kredyty-gotowkowe-i-mieszkaniowe-napedzaja-rynek-9082045.html",
-      "url": "https://www.bankier.pl/wiadomosc/Polacy-nadal-chetnie-sie-zadluzaja-Kredyty-gotowkowe-i-mieszkaniowe-napedzaja-rynek-9082045.html",
-      "title": "Polacy nadal chętnie się zadłużają. Kredyty gotówkowe i mieszkaniowe napędzają rynek",
-      "content_html": "Rok 2026 upłynie pod znakiem stabilnego wzrostu, a popyt na kredyty i pożyczki nadal będzie stymulowany niskim bezrobociem, rosnącymi wynagrodzeniami oraz perspektywą obniżek stóp procentowych - ocenia prezes BIK Mariusz Cholewa.",
-      "date_published": "2026-02-11T12:16:00+01:00",
-      "source": "Bankier.pl"
-    },
-    {
       "id": "https://biznes.pap.pl/wiadomosci/firmy/polska-musi-stawiac-na-rynek-kapitalowy-oki-edukacja-i-zaufanie-zwieksza",
       "url": "https://biznes.pap.pl/wiadomosci/firmy/polska-musi-stawiac-na-rynek-kapitalowy-oki-edukacja-i-zaufanie-zwieksza",
       "title": "Polska musi stawiać na rynek kapitałowy; OKI, edukacja i zaufanie zwiększą inwestycje – IDM (wywiad)",
@@ -1077,14 +1253,6 @@
       "source": "PAP Biznes"
     },
     {
-      "id": "https://www.bankier.pl/wiadomosc/Koniec-anonimowych-dronow-w-UE-Bruksela-chce-zmienic-przepisy-9082058.html",
-      "url": "https://www.bankier.pl/wiadomosc/Koniec-anonimowych-dronow-w-UE-Bruksela-chce-zmienic-przepisy-9082058.html",
-      "title": "Koniec anonimowych dronów w UE? Bruksela chce zmienić przepisy",
-      "content_html": "Komisja Europejska zapowiedziała w środę zaostrzenie wymogów dotyczących posiadania dronów, np. bez zarejestrowania bezzałogowca nie będzie możliwe jego uruchomienie. KE chce też zachęcić państwa członkowskie do wykorzystania sieci 5G do...",
-      "date_published": "2026-02-11T11:53:00+01:00",
-      "source": "Bankier.pl"
-    },
-    {
       "id": "https://biznes.pap.pl/wiadomosci/gospodarka/mf-sprzedalo-siedem-serii-obligacji-lacznie-za-1187-mld-zl-przy-popycie-0",
       "url": "https://biznes.pap.pl/wiadomosci/gospodarka/mf-sprzedalo-siedem-serii-obligacji-lacznie-za-1187-mld-zl-przy-popycie-0",
       "title": "MF sprzedało siedem serii obligacji łącznie za 11,87 mld zł, przy popycie 25,84 mld zł (opis)",
@@ -1095,25 +1263,9 @@
     {
       "id": "https://www.bankier.pl/wiadomosc/Polska-musi-stawiac-na-rynek-kapitalowy-OKI-edukacja-i-zaufanie-zwieksza-inwestycje-IDM-wywiad-9082052.html",
       "url": "https://www.bankier.pl/wiadomosc/Polska-musi-stawiac-na-rynek-kapitalowy-OKI-edukacja-i-zaufanie-zwieksza-inwestycje-IDM-wywiad-9082052.html",
-      "title": "Polski rynek kapitałowy musi się obudzić. Hamuje innowacyjność polskiej gospodarki",
-      "content_html": "Małe znaczenie rynku kapitałowego jest barierą rozwoju innowacyjności polskiej gospodarki – ocenia prezes IDM Waldemar Markiewicz. Jego zdaniem konieczna jest większa podaż kapitału krajowego, a drogą do tego jest m.in. wdrożenie OKI, rozwój...",
+      "title": "WYWIAD Polski rynek kapitałowy musi się obudzić. Hamuje innowacyjność polskiej gospodarki Małe znaczenie rynku kapitałowego jest barierą rozwoju innowacyjności polskiej gospodarki – ocenia prezes IDM Waldemar Markiewicz. Jego zdaniem konieczna jest większa podaż kapitału krajowego, a drogą do tego jest m.in. wdrożenie OKI, rozwój TFI, PPK i IKE/IKZE, edukacja i budowa zaufania do rynku.",
+      "content_html": "",
       "date_published": "2026-02-11T11:42:00+01:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Uklad-o-broni-nuklearnej-przeszedl-do-historii-Rosja-stawia-USA-warunek-9082051.html",
-      "url": "https://www.bankier.pl/wiadomosc/Uklad-o-broni-nuklearnej-przeszedl-do-historii-Rosja-stawia-USA-warunek-9082051.html",
-      "title": "Układ o broni nuklearnej przeszedł do historii. Rosja stawia USA warunek",
-      "content_html": "Szef MSZ Rosji Siergiej Ławrow powiedział w środę, że jego kraj będzie nadal przestrzegać limitów określonych w traktacie o ograniczeniu zbrojeń nuklearnych Nowy START, jeśli USA będą postępowały tak samo - podała agencja Reutera za rosyjskimi...",
-      "date_published": "2026-02-11T11:41:00+01:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Goracy-okres-w-Heinekenie-Gigant-tnie-tysiace-etatow-a-prezes-odchodzi-po-28-latach-9082019.html",
-      "url": "https://www.bankier.pl/wiadomosc/Goracy-okres-w-Heinekenie-Gigant-tnie-tysiace-etatow-a-prezes-odchodzi-po-28-latach-9082019.html",
-      "title": "Gorący okres w Heinekenie. Gigant tnie tysiące etatów, a prezes odchodzi po 28 latach",
-      "content_html": "Heineken planuje zwolnienia od 5 do 6 tys. pracowników w ciągu najbliższych dwóch lat - czytamy w Bloombergu. Cięcia spowodowane są malejącą sprzedażą piwa na kluczowych rynkach i mają na celu obniżenie kosztów.",
-      "date_published": "2026-02-11T11:40:00+01:00",
       "source": "Bankier.pl"
     },
     {
@@ -1125,14 +1277,6 @@
       "source": "PAP Biznes"
     },
     {
-      "id": "https://www.bankier.pl/wiadomosc/Armia-na-weglu-Sensacyjny-plan-Donalda-Trumpa-dotyczacy-energetyki-9082034.html",
-      "url": "https://www.bankier.pl/wiadomosc/Armia-na-weglu-Sensacyjny-plan-Donalda-Trumpa-dotyczacy-energetyki-9082034.html",
-      "title": "Trump stawia na \"czysty, piękny węgiel\". Tak Pentagon ma kupować energię",
-      "content_html": "Według doniesień agencji Bloomberg, prezydent Donald Trump przygotowuje się do wydania rozporządzenia wykonawczego, które nakaże Pentagonowi zakup energii elektrycznej produkowanej z węgla. Decyzja ta ma zostać uzasadniona kwestiami bezpieczeństwa...",
-      "date_published": "2026-02-11T11:30:00+01:00",
-      "source": "Bankier.pl"
-    },
-    {
       "id": "https://biznes.pap.pl/wiadomosci/firmy/rok-2026-uplynie-pod-znakiem-stabilnego-wzrostu-finansowania-kredytow-bik",
       "url": "https://biznes.pap.pl/wiadomosci/firmy/rok-2026-uplynie-pod-znakiem-stabilnego-wzrostu-finansowania-kredytow-bik",
       "title": "Rok 2026 upłynie pod znakiem stabilnego wzrostu finansowania kredytów - BIK",
@@ -1141,18 +1285,10 @@
       "source": "PAP Biznes"
     },
     {
-      "id": "https://www.bankier.pl/wiadomosc/Wielkie-zmiany-w-bankomatach-Euronet-Od-19-lutego-wyplacisz-Blikiem-tylko-200-zl-9082044.html",
-      "url": "https://www.bankier.pl/wiadomosc/Wielkie-zmiany-w-bankomatach-Euronet-Od-19-lutego-wyplacisz-Blikiem-tylko-200-zl-9082044.html",
-      "title": "Wielkie zmiany w bankomatach Euronet. Wypłacisz Blikiem tylko 200 zł",
-      "content_html": "Euronet Polska od 19 lutego 2026 roku ograniczy jednorazowe wypłaty Blik do 200 zł. Spółka uzasadnia tę decyzję stratami finansowymi wynikającymi z faktu, że obecne stawki rozliczeń nie pokrywają kosztów obsługi urządzeń.",
-      "date_published": "2026-02-11T11:28:00+01:00",
-      "source": "Bankier.pl"
-    },
-    {
       "id": "https://www.bankier.pl/wiadomosc/Katolickie-indeksy-gieldowe-Banku-Watykanu-oto-najwieksze-pozycje-9081995.html",
       "url": "https://www.bankier.pl/wiadomosc/Katolickie-indeksy-gieldowe-Banku-Watykanu-oto-najwieksze-pozycje-9081995.html",
-      "title": "Bank Watykanu uruchomi katolickie indeksy giełdowe. Ta spółka waży w nich najwięcej",
-      "content_html": "Bank Watykański zamierza uruchomić dwa giełdowe indeksy, w których składzie znajdą się akcje spółek \"zgodnych z wartościami katolickimi\". Ten nietypowy przykład współpracy Watykanu z sektorem finansowym powstanie przy udziale amerykańskiego...",
+      "title": "Bank Watykanu uruchomi katolickie indeksy giełdowe. Ta spółka waży w nich najwięcej Bank Watykański zamierza uruchomić dwa giełdowe indeksy, w których składzie znajdą się akcje spółek \"zgodnych z wartościami katolickimi\". Ten nietypowy przykład współpracy Watykanu z sektorem finansowym powstanie przy udziale amerykańskiego przedsiębiorstwa inwestycyjnego Morningstar.",
+      "content_html": "",
       "date_published": "2026-02-11T11:15:00+01:00",
       "source": "Bankier.pl"
     },
@@ -1165,36 +1301,12 @@
       "source": "PAP Biznes"
     },
     {
-      "id": "https://www.bankier.pl/wiadomosc/Polityczny-zwrot-Iranu-Pezeszkian-Nie-dazymy-do-posiadania-broni-nuklearnej-9081963.html",
-      "url": "https://www.bankier.pl/wiadomosc/Polityczny-zwrot-Iranu-Pezeszkian-Nie-dazymy-do-posiadania-broni-nuklearnej-9081963.html",
-      "title": "Polityczny zwrot Iranu? Pezeszkian: Nie dążymy do posiadania broni nuklearnej",
-      "content_html": "Prezydent Iranu Masud Pezeszkian oświadczył w środę podczas obchodów 47. rocznicy rewolucji islamskiej, że jego kraj nie dąży do posiadania broni nuklearnej i jest gotów poddać się „każdej weryfikacji”. Pezeszkian odniósł się też do...",
-      "date_published": "2026-02-11T11:05:00+01:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Afera-smieciowa-w-Bytomiu-Byly-prezes-spolki-komunalnej-uslyszal-zarzuty-9082027.html",
-      "url": "https://www.bankier.pl/wiadomosc/Afera-smieciowa-w-Bytomiu-Byly-prezes-spolki-komunalnej-uslyszal-zarzuty-9082027.html",
-      "title": "Afera śmieciowa w Bytomiu. Były prezes spółki komunalnej usłyszał zarzuty",
-      "content_html": "Były prezes komunalnej spółki z Bytomia został oskarżony w sprawie nielegalnego składowania odpadów na rekultywowanych gruntach w tym mieście. Według ustaleń śledztwa, spółka wykorzystywała dzierżawione grunty Skarbu Państwa niezgodnie...",
-      "date_published": "2026-02-11T11:05:00+01:00",
-      "source": "Bankier.pl"
-    },
-    {
       "id": "https://biznes.pap.pl/wiadomosci/gospodarka/miesieczny-indeks-koniunktury-spadl-w-lutym-o-41-pkt-mdm-do-980-pkt-pie",
       "url": "https://biznes.pap.pl/wiadomosci/gospodarka/miesieczny-indeks-koniunktury-spadl-w-lutym-o-41-pkt-mdm-do-980-pkt-pie",
       "title": "Miesięczny Indeks Koniunktury spadł w lutym o 4,1 pkt. mdm do 98,0 pkt. - PIE",
       "content_html": "Miesięczny Indeks Koniunktury (MIK) spadł w lutym o 4,1 pkt. mdm do 98,0 pkt. - wynika z badania Polskiego Instytutu Ekonomicznego. O spadku MIK poniżej poziomu neutralnego zdecydowało przede wszystki",
       "date_published": "2026-02-11T11:05:00+01:00",
       "source": "PAP Biznes"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Toyota-C-HR-polskie-ceny-osiagi-i-wyposazenie-9081847.html",
-      "url": "https://www.bankier.pl/wiadomosc/Toyota-C-HR-polskie-ceny-osiagi-i-wyposazenie-9081847.html",
-      "title": "Najpopularniejszy crossover Toyoty został elektrykiem. Oto polskie ceny i osiągi",
-      "content_html": "Toyota C-HR – trzecie najpopularniejsze auto wśród polskich klientów indywidualnych w ubiegłym roku – zyskała „plusa” i elektryczny napęd. Sprawdzamy, jak wygląda, jakie osiągi oferuje nowy elektryk w ofercie Toyoty i ile trzeba zapłacić...",
-      "date_published": "2026-02-11T11:00:00+01:00",
-      "source": "Bankier.pl"
     },
     {
       "id": "https://biznes.pap.pl/wiadomosci/gospodarka/w-lutym-w-branzach-przewazaly-nastroje-negatywne-nad-pozytywnymi-pie",
@@ -1210,54 +1322,6 @@
       "title": "Główną barierą działalności firm w lutym nadal wysokie koszty pracownicze - PIE",
       "content_html": "Główną barierą utrudniającą działalność firmom w lutym były nadal wysokie koszty pracownicze, a znaczenie tego elementu nie zmieniło się w ciągu miesiąca i wyniosło 65 proc. - wynika z badania Polskie",
       "date_published": "2026-02-11T10:51:00+01:00",
-      "source": "PAP Biznes"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Orlen-przejmuje-25-proc-udzialow-w-zlozu-Afrodyta-9081981.html",
-      "url": "https://www.bankier.pl/wiadomosc/Orlen-przejmuje-25-proc-udzialow-w-zlozu-Afrodyta-9081981.html",
-      "title": "Orlen przejmuje 25 proc. udziałów w złożu Afrodyta na Morzu Północnym",
-      "content_html": "Orlen Upstream Norway przejął od Var Energi 25 proc. udziałów w koncesji PL293 na Morzu Północnym, która obejmuje niekonwencjonalne złoże Afrodyta, które może zapewnić koncernowi prawie 2 mld m sześc. gazu ziemnego - podała spółka w komunikacie...",
-      "date_published": "2026-02-11T10:43:00+01:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Polska-wystapi-do-USA-o-dokumenty-ws-Epsteina-Zurek-Zespol-skompletowany-9081990.html",
-      "url": "https://www.bankier.pl/wiadomosc/Polska-wystapi-do-USA-o-dokumenty-ws-Epsteina-Zurek-Zespol-skompletowany-9081990.html",
-      "title": "Polska wystąpi do USA o dokumenty ws. Epsteina. Żurek: Zespół skompletowany",
-      "content_html": "Prokurator generalny i szef MS Waldemar Żurek poinformował, że skompletowano zespół do zbadania polskich wątków w sprawie afery Jeffreya Epsteina, który będzie złożony z dwóch części: analitycznej i śledczej. Zapowiedział, że prokuratorzy...",
-      "date_published": "2026-02-11T10:30:00+01:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Upada-producent-maszyn-budowlanych-Co-bedzie-z-400-pracownikami-9081998.html",
-      "url": "https://www.bankier.pl/wiadomosc/Upada-producent-maszyn-budowlanych-Co-bedzie-z-400-pracownikami-9081998.html",
-      "title": "Firma upada, pensje tylko do kwietnia. Niepewny los 400 pracowników",
-      "content_html": "Niemiecki producent maszyn budowlanych - Atlas-Gruppe, złożył właśnie wniosek o upadłość. Załoga firmy, licząca 400 osób, ma na razie zabezpieczone wynagrodzenia do końca kwietnia. Nie wiadomo jeszcze, czy konieczne będą zwolnienia grupowe...",
-      "date_published": "2026-02-11T10:17:00+01:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/gospodarka/sprzedaz-obligacji-detalicznych-w-styczniu-wyniosla-576-mld-zl-mf-0",
-      "url": "https://biznes.pap.pl/wiadomosci/gospodarka/sprzedaz-obligacji-detalicznych-w-styczniu-wyniosla-576-mld-zl-mf-0",
-      "title": "Sprzedaż obligacji detalicznych w styczniu wyniosła 5,76 mld zł - MF",
-      "content_html": "Sprzedaż obligacji detalicznych w styczniu wyniosła 5,76 mld zł wobec 5,35 mld zł miesiąc wcześniej - podał resort finansów w komunikacie.",
-      "date_published": "2026-02-11T10:13:00+01:00",
-      "source": "PAP Biznes"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/gry-i-technologie/pso-w-25-zwiekszyl-zasieg-swojej-sieci-do-43-mln-gospodarstw-domowych",
-      "url": "https://biznes.pap.pl/wiadomosci/gry-i-technologie/pso-w-25-zwiekszyl-zasieg-swojej-sieci-do-43-mln-gospodarstw-domowych",
-      "title": "PŚO w '25 zwiększył zasięg swojej sieci do 4,3 mln gospodarstw domowych",
-      "content_html": "Polski Światłowód Otwarty w 2025 r. zwiększył zasięg swojej sieci do ponad 4,3 mln gospodarstw domowych, z czego ok. 1,4 mln to sieć światłowodowa - podała spółka w komunikacie. W 2025 roku do sieci ś",
-      "date_published": "2026-02-11T10:12:00+01:00",
-      "source": "PAP Biznes"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/firmy/92-proc-duzych-i-srednich-firm-planuje-realizowac-projekty-kwalifikujace-sie-do",
-      "url": "https://biznes.pap.pl/wiadomosci/firmy/92-proc-duzych-i-srednich-firm-planuje-realizowac-projekty-kwalifikujace-sie-do",
-      "title": "92 proc. dużych i średnich firm planuje realizować projekty kwalifikujące się do dotacji - KPMG",
-      "content_html": "92 proc. średnich i dużych firm w Polsce planuje w 2026 roku realizować projekty potencjalnie kwalifikujące się do wsparcia dotacyjnego, a wśród przedsiębiorstw o przychodach powyżej 100 mln zł odsete",
-      "date_published": "2026-02-11T09:56:00+01:00",
       "source": "PAP Biznes"
     }
   ]
