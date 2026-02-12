@@ -5,9 +5,17 @@
   "home_page_url": "https://www.bankier.pl",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/Nawrocki-poprawia-SAFE-i-wzywa-szefow-sluzb-ws-Czarzastego-9082928.html",
+      "url": "https://www.bankier.pl/wiadomosc/Nawrocki-poprawia-SAFE-i-wzywa-szefow-sluzb-ws-Czarzastego-9082928.html",
+      "title": "Nawrocki \"poprawia\" SAFE i wzywa szefów służb ws. Czarzastego",
+      "content_html": "Szef Kancelarii Prezydenta Zbigniew Bogucki i szef Biura Bezpieczeństwa Narodowego Sławomir Cenckiewicz rozpoczęli prace nad poprawkami do projektu ustawy dotyczącej programu SAFE - poinformował rzecznik prezydenta Rafał Leśkiewicz. Będą dotyczyć...",
+      "date_published": "2026-02-12T19:32:00+01:00",
+      "source": "Bankier.pl"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Spolka-zalezna-Trakcji-ma-umowe-za-ok-105-3-mln-zl-netto-9083010.html",
       "url": "https://www.bankier.pl/wiadomosc/Spolka-zalezna-Trakcji-ma-umowe-za-ok-105-3-mln-zl-netto-9083010.html",
-      "title": "Spółka zależna Trakcji ma umowę za ok. 105,3 mln zł netto",
+      "title": "Spółka zależna Trakcji z kontraktem na Litwie. 105 mln zł za infrastrukturę",
       "content_html": "Spółka zależna Trakcji, AB Kauno tiltai, podpisała umowę z AB LTG Infra (Drogi kolejowe Litwy), która dot. projektowania i budowy infrastruktury kolejowej 31669 na poligonie w Rudnikach - podała Trakcja w komunikacie. Wartość umowy wynosi ok...",
       "date_published": "2026-02-12T18:46:00+01:00",
       "source": "Bankier.pl"
@@ -35,6 +43,14 @@
       "content_html": "DataWalk chce podwyższyć kapitał poprzez emisję nowych akcji zwykłych na okaziciela serii T z wyłączeniem w całości prawa poboru dotychczasowych akcjonariuszy - podała spółka w komunikacie.",
       "date_published": "2026-02-12T18:41:00+01:00",
       "source": "PAP Biznes"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Senacka-komisja-rolnictwa-za-nowelizacja-KOWR-ma-czas-do-2027-r-na-wydanie-srodkow-9082991.html",
+      "url": "https://www.bankier.pl/wiadomosc/Senacka-komisja-rolnictwa-za-nowelizacja-KOWR-ma-czas-do-2027-r-na-wydanie-srodkow-9082991.html",
+      "title": "Senacka komisja rolnictwa za nowelizacją. KOWR ma czas do 2027 r. na wydanie środków",
+      "content_html": "Senacka komisja rolnictwa zarekomendowała w czwartek Senatowi przyjęcie bez poprawek nowelizacji ustawy o gospodarowaniu nieruchomościami rolnymi Skarbu Państwa. Nowe przepisy pozwalają KOWR wydać do końca 2027 r. niewykorzystane środki, które...",
+      "date_published": "2026-02-12T18:18:00+01:00",
+      "source": "Bankier.pl"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Spolka-ZE-PAK-ma-umowe-na-dostawe-gazu-dla-bloku-CCGT-9082990.html",
@@ -69,12 +85,28 @@
       "source": "Bankier.pl"
     },
     {
+      "id": "https://www.bankier.pl/wiadomosc/Rentownosci-polskich-obligacji-ponizej-5-proc-To-najnizszy-poziom-od-dwoch-lat-9082987.html",
+      "url": "https://www.bankier.pl/wiadomosc/Rentownosci-polskich-obligacji-ponizej-5-proc-To-najnizszy-poziom-od-dwoch-lat-9082987.html",
+      "title": "Rentowności polskich obligacji poniżej 5 proc. To najniższy poziom od dwóch lat",
+      "content_html": "Rentowności polskich 10-letnich obligacji skarbowych wynoszą mniej niż 5 proc; to najniżej od dwóch lat - poinformował w czwartek na platformie X minister finansów i gospodarki Andrzej Domański. Jego zdaniem inwestorzy doceniają stabilną politykę...",
+      "date_published": "2026-02-12T18:06:00+01:00",
+      "source": "Bankier.pl"
+    },
+    {
       "id": "https://biznes.pap.pl/wiadomosci/firmy/orlen-i-kowr-nawiazaly-strategiczna-wspolprace-dot-biogazu-i-biometanu-w-polsce",
       "url": "https://biznes.pap.pl/wiadomosci/firmy/orlen-i-kowr-nawiazaly-strategiczna-wspolprace-dot-biogazu-i-biometanu-w-polsce",
       "title": "Orlen i KOWR nawiązały strategiczną współpracę dot. biogazu i biometanu w Polsce",
       "content_html": "Orlen oraz Krajowy Ośrodek Wsparcia Rolnictwa nawiązały strategiczną współpracę w obszarze budowy, eksploatacji i rozwoju instalacji biogazowych i biometanowych w Polsce - podał Orlen w komunikacie pr",
       "date_published": "2026-02-12T18:05:00+01:00",
       "source": "PAP Biznes"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Bielgorod-bez-pradu-Ponad-220-tysiecy-osob-poszkodowanych-po-ataku-Ukrainy-9082983.html",
+      "url": "https://www.bankier.pl/wiadomosc/Bielgorod-bez-pradu-Ponad-220-tysiecy-osob-poszkodowanych-po-ataku-Ukrainy-9082983.html",
+      "title": "Biełgorod bez prądu. Ponad 220 tysięcy osób poszkodowanych po ataku Ukrainy",
+      "content_html": "Ponad 220 tys. osób zostało pozbawionych prądu w obwodzie biełgorodzkim, na południowym zachodzie Rosji, po ukraińskim ataku, który spowodował awarię podstacji - poinformowała w czwartek agencja Reutera, powołując się na gubernatora obwodu...",
+      "date_published": "2026-02-12T18:01:00+01:00",
+      "source": "Bankier.pl"
     },
     {
       "id": "https://biznes.pap.pl/wiadomosci/rynki/zamkniecia-na-gieldach-w-europie-tabela-2821",
@@ -202,14 +234,6 @@
       "title": "Rzeczniczka TSUE: Należy uchylić decyzję KE o odblokowaniu funduszy dla Węgier",
       "content_html": "Rzeczniczka generalna Trybunału Sprawiedliwości UE w wydanej w czwartek opinii zaproponowała uchylenie decyzji, w której Komisja Europejska zgodziła się na odblokowanie części unijnych funduszy dla Węgier. Według niej mogło to nastąpić jedynie...",
       "date_published": "2026-02-12T17:17:00+01:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Nawrocki-poprawia-SAFE-i-wzywa-szefow-sluzb-ws-Czarzastego-9082928.html",
-      "url": "https://www.bankier.pl/wiadomosc/Nawrocki-poprawia-SAFE-i-wzywa-szefow-sluzb-ws-Czarzastego-9082928.html",
-      "title": "Nawrocki \"poprawia\" SAFE i wzywa szefów służb ws. Czarzastego",
-      "content_html": "Szef Kancelarii Prezydenta Zbigniew Bogucki i szef Biura Bezpieczeństwa Narodowego Sławomir Cenckiewicz rozpoczęli prace nad poprawkami do projektu ustawy dotyczącej programu SAFE - poinformował rzecznik prezydenta Rafał Leśkiewicz. Będą dotyczyć...",
-      "date_published": "2026-02-12T17:15:00+01:00",
       "source": "Bankier.pl"
     },
     {
@@ -421,12 +445,28 @@
       "source": "Bankier.pl"
     },
     {
+      "id": "https://biznes.pap.pl/wiadomosci/gry-i-technologie/kreml-potwierdza-blokade-whatsappa-co-ma-wymusic-przejscie-na-krajowy",
+      "url": "https://biznes.pap.pl/wiadomosci/gry-i-technologie/kreml-potwierdza-blokade-whatsappa-co-ma-wymusic-przejscie-na-krajowy",
+      "title": "Kreml potwierdza blokadę WhatsAppa, co ma wymusić przejście na krajowy komunikator",
+      "content_html": "Kreml potwierdził w czwartek zablokowanie należącego do amerykańskiego koncernu Meta komunikatora WhatsApp, aby zastąpić go rodzimym, państwowym odpowiednikiem – poinformowała agencja Reutera. Decyzja",
+      "date_published": "2026-02-12T14:03:00+01:00",
+      "source": "PAP Biznes"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/PolTREG-wytworzyl-pierwsza-serie-transferowa-produktu-PTG-021-w-warunkach-GMP-9082759.html",
       "url": "https://www.bankier.pl/wiadomosc/PolTREG-wytworzyl-pierwsza-serie-transferowa-produktu-PTG-021-w-warunkach-GMP-9082759.html",
       "title": "Przełomowy krok PolTREG. Wysoka wydajność nowej terapii komórkowej",
       "content_html": "PolTREG wytworzył pierwszą serię transferową produktu PTG-021 w warunkach Dobrej Praktyki Produkcyjnej (GMP) - podała spółka w komunikacie.",
       "date_published": "2026-02-12T13:58:00+01:00",
       "source": "Bankier.pl"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/firmy/poltreg-wytworzyl-pierwsza-serie-transferowa-produktu-ptg-021-w-warunkach-gmp",
+      "url": "https://biznes.pap.pl/wiadomosci/firmy/poltreg-wytworzyl-pierwsza-serie-transferowa-produktu-ptg-021-w-warunkach-gmp",
+      "title": "PolTREG wytworzył pierwszą serię transferową produktu PTG-021 w warunkach GMP",
+      "content_html": "PolTREG wytworzył pierwszą serię transferową produktu PTG-021 w warunkach Dobrej Praktyki Produkcyjnej (GMP) - podała spółka w komunikacie.",
+      "date_published": "2026-02-12T13:57:00+01:00",
+      "source": "PAP Biznes"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Cyfrowa-zelazna-kurtyna-Kreml-zmusza-Rosjan-do-przesiadki-na-rzadowy-komunikator-9082756.html",
@@ -1173,30 +1213,6 @@
       "source": "Bankier.pl"
     },
     {
-      "id": "https://www.bankier.pl/wiadomosc/Strategia-Nowej-Lewicy-Maja-specjalny-plan-na-Karola-Nawrockiego-9082469.html",
-      "url": "https://www.bankier.pl/wiadomosc/Strategia-Nowej-Lewicy-Maja-specjalny-plan-na-Karola-Nawrockiego-9082469.html",
-      "title": "Strategia Nowej Lewicy. Mają specjalny plan na Karola Nawrockiego",
-      "content_html": "Strategia Nowej Lewicy opiera się na budowaniu pozycji przez zaplanowany konflikt z Karolem Nawrockim. Kreowanie się na partię antyprezydencką jest przemyślane i oparte na badaniach – pisze w czwartek „Rzeczpospolita”.",
-      "date_published": "2026-02-12T07:10:00+01:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Tusk-broni-Czarzastego-i-ironizuje-z-oskarzen-prezydenta-9082513.html",
-      "url": "https://www.bankier.pl/wiadomosc/Tusk-broni-Czarzastego-i-ironizuje-z-oskarzen-prezydenta-9082513.html",
-      "title": "Tusk broni Czarzastego i ironizuje z oskarżeń prezydenta",
-      "content_html": "Prezydent Nawrocki powinien być szczególnie ostrożny w formułowaniu oskarżeń, że jak ktoś obraca się w złym towarzystwie, to go dyskwalifikuje - powiedział premier Donald Tusk, który przed dyskusją na temat marszałka Sejmu Włodzimierza...",
-      "date_published": "2026-02-12T07:09:00+01:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Sztuczna-inteligencja-nad-Wisla-Nowe-dane-pokazuja-skale-boomu-9082467.html",
-      "url": "https://www.bankier.pl/wiadomosc/Sztuczna-inteligencja-nad-Wisla-Nowe-dane-pokazuja-skale-boomu-9082467.html",
-      "title": "Sztuczna inteligencja nad Wisłą. Nowe dane pokazują skalę boomu",
-      "content_html": "Boom nad Wisłą: sztuczna inteligencja odpowiada już za 6 proc. całego rynku IT. Nowa klasyfikacja PKD po raz pierwszy pozwoliła policzyć firmy zajmujące się AI w Polsce – czytamy w czwartkowym wydaniu „Rzeczpospolitej”.",
-      "date_published": "2026-02-12T07:00:00+01:00",
-      "source": "Bankier.pl"
-    },
-    {
       "id": "https://biznes.pap.pl/wiadomosci/ekonomia-biznes-i-finanse/przewidywane-najwazniejsze-wydarzenia-gospodarcze-2026-02-12",
       "url": "https://biznes.pap.pl/wiadomosci/ekonomia-biznes-i-finanse/przewidywane-najwazniejsze-wydarzenia-gospodarcze-2026-02-12",
       "title": "Przewidywane najważniejsze wydarzenia gospodarcze 2026-02-12",
@@ -1274,30 +1290,6 @@
       "title": "W przypadku ETS Unia Europejska powinna być otwarta na zmiany - Merz",
       "content_html": "Kanclerz Niemiec Friedrich Merz powiedział w środę, że w systemie handlu emisjami (ETS) powinny zostać wprowadzone zmiany, jeśli zostanie uznane, że nie jest to najlepsze narzędzie do ograniczania emi",
       "date_published": "2026-02-11T20:41:00+01:00",
-      "source": "PAP Biznes"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/VRG-w-IV-kw-mialo-49-6-mln-zl-zysku-netto-wobec-46-3-mln-zl-rok-wczesniej-wstepne-dane-9082385.html",
-      "url": "https://www.bankier.pl/wiadomosc/VRG-w-IV-kw-mialo-49-6-mln-zl-zysku-netto-wobec-46-3-mln-zl-rok-wczesniej-wstepne-dane-9082385.html",
-      "title": "WSTĘPNE DANE VRG w IV kw. miało 49,6 mln zł zysku netto wobec 46,3 mln zł rok wcześniej VRG w IV kwartale 2025 r. miało 49,6 mln zł skonsolidowanego zysku netto wobec 46,3 mln zł rok wcześniej - podało VRG we wstępnych danych. W tym okresie przychody ze sprzedaży wyniosły 487,7 mln zł wobec 444,5 mln zł w IV kw. 2024 r.",
-      "content_html": "",
-      "date_published": "2026-02-11T19:30:00+01:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/firmy/vrg-w-iv-kw-mialo-496-mln-zl-zysku-netto-wobec-463-mln-zl-rok-wczesniej-wstepne",
-      "url": "https://biznes.pap.pl/wiadomosci/firmy/vrg-w-iv-kw-mialo-496-mln-zl-zysku-netto-wobec-463-mln-zl-rok-wczesniej-wstepne",
-      "title": "VRG w IV kw. miało 49,6 mln zł zysku netto wobec 46,3 mln zł rok wcześniej - wstępne dane",
-      "content_html": "VRG w IV kwartale 2025 r. miało 49,6 mln zł skonsolidowanego zysku netto wobec 46,3 mln zł rok wcześniej - podało VRG we wstępnych danych. W tym okresie przychody ze sprzedaży wyniosły 487,7 mln zł wo",
-      "date_published": "2026-02-11T19:29:00+01:00",
-      "source": "PAP Biznes"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/przemysl/europa-potrzebuje-prawdziwej-unii-energetycznej-w-obliczu-wyzwan",
-      "url": "https://biznes.pap.pl/wiadomosci/przemysl/europa-potrzebuje-prawdziwej-unii-energetycznej-w-obliczu-wyzwan",
-      "title": "Europa potrzebuje prawdziwej unii energetycznej w obliczu wyzwań geopolitycznych - Macron",
-      "content_html": "W obliczu wyzwań geopolitycznych Europa potrzebuje prawdziwej unii energetycznej, zdolnej zapewnić przemysłowi stabilną i konkurencyjną energię – powiedział prezydent Francji Emmanuel Macron w środę w",
-      "date_published": "2026-02-11T19:10:00+01:00",
       "source": "PAP Biznes"
     }
   ]
