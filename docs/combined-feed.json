@@ -5,6 +5,14 @@
   "home_page_url": "https://www.bankier.pl",
   "items": [
     {
+      "id": "https://biznes.pap.pl/wiadomosci/ekonomia-biznes-i-finanse/skrot-wiadomosci-czwartek-12-lutego-2100",
+      "url": "https://biznes.pap.pl/wiadomosci/ekonomia-biznes-i-finanse/skrot-wiadomosci-czwartek-12-lutego-2100",
+      "title": "Skrót wiadomości - czwartek, 12 lutego, 21.00",
+      "content_html": "Przegląd najważniejszych wiadomości gospodarczych, krajowych i ze świata.",
+      "date_published": "2026-02-12T21:00:00+01:00",
+      "source": "PAP Biznes"
+    },
+    {
       "id": "https://biznes.pap.pl/wiadomosci/rynki/prezydent-karol-nawrocki-ponownie-zawetowal-ustawe-o-rynku-kryptoaktywow",
       "url": "https://biznes.pap.pl/wiadomosci/rynki/prezydent-karol-nawrocki-ponownie-zawetowal-ustawe-o-rynku-kryptoaktywow",
       "title": "Prezydent Karol Nawrocki ponownie zawetował ustawę o rynku kryptoaktywów",
@@ -277,14 +285,6 @@
       "source": "Bankier.pl"
     },
     {
-      "id": "https://biznes.pap.pl/wiadomosci/firmy/wyniki-synektik-w-i-kw-202526-roku-vs-konsensus-pap-tabela",
-      "url": "https://biznes.pap.pl/wiadomosci/firmy/wyniki-synektik-w-i-kw-202526-roku-vs-konsensus-pap-tabela",
-      "title": "Wyniki Synektik w I kw. 2025/26 roku vs. konsensus PAP (tabela)",
-      "content_html": "Poniżej przedstawiono wyniki Synektik w pierwszym kwartale roku obrotowego 2025/26 oraz ich odniesienie do konsensusu i wcześniejszych wyników.",
-      "date_published": "2026-02-12T17:18:00+01:00",
-      "source": "PAP Biznes"
-    },
-    {
       "id": "https://www.bankier.pl/wiadomosc/Rzeczniczka-TSUE-Nalezy-uchylic-decyzje-KE-o-odblokowaniu-funduszy-dla-Wegier-9082930.html",
       "url": "https://www.bankier.pl/wiadomosc/Rzeczniczka-TSUE-Nalezy-uchylic-decyzje-KE-o-odblokowaniu-funduszy-dla-Wegier-9082930.html",
       "title": "Rzeczniczka TSUE: Należy uchylić decyzję KE o odblokowaniu funduszy dla Węgier",
@@ -475,6 +475,22 @@
       "content_html": "Od 2 marca 2026 r. Allegro zmienia warunki Smart!. Zamiast dwóch progów 45 zł i 65 zł ma obowiązywać jeden, ujednolicony limit 49,90 zł dla darmowej dostawy.",
       "date_published": "2026-02-12T14:40:00+01:00",
       "source": "Bankier.pl"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/firmy/przylaczenie-najwiekszych-odbiorcow-bezposrednio-do-sieci-przesylowej-dyskutowane",
+      "url": "https://biznes.pap.pl/wiadomosci/firmy/przylaczenie-najwiekszych-odbiorcow-bezposrednio-do-sieci-przesylowej-dyskutowane",
+      "title": "Przyłączenie największych odbiorców bezpośrednio do sieci przesyłowej dyskutowane z ME - PSE",
+      "content_html": "Jednym z kierunków dyskusji z ME o taryfach jest przyłączenie największych odbiorców prądu bezpośrednio do sieci przesyłowej - poinformował w Sejmie prezes PSE Grzegorz Onichimowski. Jego zdaniem jesz",
+      "date_published": "2026-02-12T14:36:00+01:00",
+      "source": "PAP Biznes"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/gospodarka/bgk-sprzedal-obligacje-fpc-na-aukcji-dodatkowej-za-7546-mln-zl",
+      "url": "https://biznes.pap.pl/wiadomosci/gospodarka/bgk-sprzedal-obligacje-fpc-na-aukcji-dodatkowej-za-7546-mln-zl",
+      "title": "BGK sprzedał obligacje FPC na aukcji dodatkowej za 754,6 mln zł",
+      "content_html": "Bank Gospodarstwa Krajowego sprzedał obligacje FPC na aukcji dodatkowej za łącznie 754,6 mln zł - podał bank w komunikacie.",
+      "date_published": "2026-02-12T14:30:00+01:00",
+      "source": "PAP Biznes"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Awaria-kart-platniczych-Visa-9082740.html",
@@ -1290,14 +1306,6 @@
       "title": "DZIEŃ NA RYNKACH: Na Wall Street lekkie spadki, Dow przerwał serię trzech wzrostowych dni",
       "content_html": "Środowa sesja na Wall Street zakończyła się niewielkimi spadkami głównych indeksów, a Dow Jones zakończył serię trzech wzrostowych dni z rzędu, podczas których ustanawiał historyczne rekordy. W centru",
       "date_published": "2026-02-11T22:20:00+01:00",
-      "source": "PAP Biznes"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/ekonomia-biznes-i-finanse/skrot-wiadomosci-sroda-11-lutego-2100",
-      "url": "https://biznes.pap.pl/wiadomosci/ekonomia-biznes-i-finanse/skrot-wiadomosci-sroda-11-lutego-2100",
-      "title": "Skrót wiadomości - środa, 11 lutego, 21.00",
-      "content_html": "Przegląd najważniejszych wiadomości gospodarczych, krajowych i ze świata.",
-      "date_published": "2026-02-11T21:00:00+01:00",
       "source": "PAP Biznes"
     }
   ]
