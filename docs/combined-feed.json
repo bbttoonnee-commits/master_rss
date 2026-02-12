@@ -5,6 +5,14 @@
   "home_page_url": "https://www.bankier.pl",
   "items": [
     {
+      "id": "https://biznes.pap.pl/wiadomosci/rynki/dzien-na-rynkach-na-wall-street-spore-spadki-dow-w-dol-o-ponad-600-pkt",
+      "url": "https://biznes.pap.pl/wiadomosci/rynki/dzien-na-rynkach-na-wall-street-spore-spadki-dow-w-dol-o-ponad-600-pkt",
+      "title": "DZIEŃ NA RYNKACH: Na Wall Street spore spadki, Dow w dół o ponad 600 pkt.",
+      "content_html": "Czwartkowa sesja na Wall Street zakończyła się sporymi spadkami głównych indeksów, Dow Jones stracił ponad 600 punktów.",
+      "date_published": "2026-02-12T23:48:00+01:00",
+      "source": "PAP Biznes"
+    },
+    {
       "id": "https://biznes.pap.pl/wiadomosci/ekonomia-biznes-i-finanse/skrot-wiadomosci-czwartek-12-lutego-2100",
       "url": "https://biznes.pap.pl/wiadomosci/ekonomia-biznes-i-finanse/skrot-wiadomosci-czwartek-12-lutego-2100",
       "title": "Skrót wiadomości - czwartek, 12 lutego, 21.00",
@@ -243,14 +251,6 @@
       "content_html": "Walne zgromadzenie CD Projektu zdecyduje o ustaleniu warunku wynikowego w Programie Motywacyjnym B na lata 2026-2029, który zakładany jest na 5 mld zł - podała spółka w komunikacie z projektami uchwał na NWZ zwołanego na 11 marca.",
       "date_published": "2026-02-12T17:30:00+01:00",
       "source": "Bankier.pl"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/firmy/nwz-cd-projektu-zdecyduje-o-warunku-wynikowym-programu-motywacyjnego-b-w-26-29-w",
-      "url": "https://biznes.pap.pl/wiadomosci/firmy/nwz-cd-projektu-zdecyduje-o-warunku-wynikowym-programu-motywacyjnego-b-w-26-29-w",
-      "title": "NWZ CD Projektu zdecyduje o warunku wynikowym Programu Motywacyjnego B w '26-29 w wys. 5 mld zł",
-      "content_html": "Walne zgromadzenie CD Projektu zdecyduje o ustaleniu warunku wynikowego w Programie Motywacyjnym B na lata 2026-2029, który zakładany jest na 5 mld zł - podała spółka w komunikacie z projektami uchwał",
-      "date_published": "2026-02-12T17:28:00+01:00",
-      "source": "PAP Biznes"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Grupa-Azoty-odwolala-Andrzeja-Skolmowskiego-z-funkcji-prezesa-zarzadu-9082712.html",
