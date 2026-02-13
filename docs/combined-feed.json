@@ -5,12 +5,92 @@
   "home_page_url": "https://www.bankier.pl",
   "items": [
     {
+      "id": "https://biznes.pap.pl/wiadomosci/uslugi-finansowe-i-biznesowe/sejm-uchwalil-ustawe-o-raportowaniu-transakcji-na-rynku",
+      "url": "https://biznes.pap.pl/wiadomosci/uslugi-finansowe-i-biznesowe/sejm-uchwalil-ustawe-o-raportowaniu-transakcji-na-rynku",
+      "title": "Sejm uchwalił ustawę o raportowaniu transakcji na rynku kryptowalut",
+      "content_html": "W piątek Sejm uchwalił nowelizację ustawy o zmianie ustawy o wymianie informacji podatkowych z innymi państwami oraz niektórych innych ustaw, dotyczącą raportowania transakcji na rynku kryptowalut. Us",
+      "date_published": "2026-02-13T10:54:00+01:00",
+      "source": "PAP Biznes"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/przemysl/sejm-za-ustawa-dot-zwiekszenia-udzialu-polski-w-przedsiewzieciach-kosmicznych",
+      "url": "https://biznes.pap.pl/wiadomosci/przemysl/sejm-za-ustawa-dot-zwiekszenia-udzialu-polski-w-przedsiewzieciach-kosmicznych",
+      "title": "Sejm za ustawą dot. zwiększenia udziału Polski w przedsięwzięciach kosmicznych",
+      "content_html": "Sejm uchwalił w piątek ustawę o działalności kosmicznej, zapewniającą realizację Polskiej Strategii Kosmicznej, w tym zwiększenie udziału Polski w europejskich przedsięwzięciach orbitalnych i wykorzys",
+      "date_published": "2026-02-13T10:51:00+01:00",
+      "source": "PAP Biznes"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Dino-Polska-straszy-pozwami-Zwiazkowcy-Nie-damy-sie-zastraszyc-9083293.html",
+      "url": "https://www.bankier.pl/wiadomosc/Dino-Polska-straszy-pozwami-Zwiazkowcy-Nie-damy-sie-zastraszyc-9083293.html",
+      "title": "Groźby zamiast dialogu. Dino Polska chce uciszyć związkowców",
+      "content_html": "Dzień po spotkaniu z przedstawicielami spółki Dino Polska S.A., które odbyło się 10 lutego br. w Katowicach, przedstawiciele związku zawodowego działającego w tej sieci otrzymali pismo datowane na… 3 lutego 2026 r. Dokument zawiera wezwanie...",
+      "date_published": "2026-02-13T10:44:00+01:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/gospodarka/popyt-na-aukcjach-mf-solidny-na-horyzoncie-nie-widac-ryzyk-dla-finansowania",
+      "url": "https://biznes.pap.pl/wiadomosci/gospodarka/popyt-na-aukcjach-mf-solidny-na-horyzoncie-nie-widac-ryzyk-dla-finansowania",
+      "title": "Popyt na aukcjach MF solidny; na horyzoncie nie widać ryzyk dla finansowania deficytu - PKO BP (wywiad)",
+      "content_html": "Od początku roku popyt na polskie papiery skarbowe na aukcjach resortu finansów jest zaskakująco mocny; rynek rozpoczął 2026 r. z lepszym sentymentem i niezaspokojonym popytem – ocenia strateg rynków ",
+      "date_published": "2026-02-13T10:42:00+01:00",
+      "source": "PAP Biznes"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/gospodarka/w-styczniu-ceny-energii-i-zywnosci-powyzej-oczekiwan-ale-i-tak-stopy-proc-w",
+      "url": "https://biznes.pap.pl/wiadomosci/gospodarka/w-styczniu-ceny-energii-i-zywnosci-powyzej-oczekiwan-ale-i-tak-stopy-proc-w",
+      "title": "W styczniu ceny energii i żywności powyżej oczekiwań; ale i tak stopy proc. w dół w marcu (opinia)",
+      "content_html": "Inflacja w styczniu zaskoczyła w górę, wyższe od oczekiwań były ceny energii i żywności - wskazali analitycy. Ocenili jednak, że mechanizmy dezinflacyjne są mocno zakorzenione i RPP obniży w marcu sto",
+      "date_published": "2026-02-13T10:35:00+01:00",
+      "source": "PAP Biznes"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Polska-nie-bedzie-wasalem-MSZ-po-rozmowie-z-ambasadorem-USA-Przekroczyl-standardy-9083276.html",
+      "url": "https://www.bankier.pl/wiadomosc/Polska-nie-bedzie-wasalem-MSZ-po-rozmowie-z-ambasadorem-USA-Przekroczyl-standardy-9083276.html",
+      "title": "\"Polska nie będzie wasalem\". MSZ po rozmowie z ambasadorem USA: Przekroczył standardy",
+      "content_html": "Jeden z wiceszefów MSZ odbył rozmowę z ambasadorem USA w Polsce Thomasem Rosem - poinformował w piątek wiceminister resortu dyplomacji Marcin Bosacki. Ocenił, że w swoich wpisach na X dotyczących zerwania stosunków dyplomatycznych z marszałkiem...",
+      "date_published": "2026-02-13T10:28:00+01:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Afera-po-posiedzeniu-RBN-Tomczyk-zapowiada-surowe-konsekwencje-To-sie-skonczy-po-prostu-prokuratura-9083274.html",
+      "url": "https://www.bankier.pl/wiadomosc/Afera-po-posiedzeniu-RBN-Tomczyk-zapowiada-surowe-konsekwencje-To-sie-skonczy-po-prostu-prokuratura-9083274.html",
+      "title": "Afera po posiedzeniu RBN. \"To się skończy po prostu prokuraturą\"",
+      "content_html": "ABW bada sprawę udziału szefa BBN Sławomira Cenckiewicza w posiedzeniu Rady Bezpieczeństwa Narodowego i wydaje się, że będzie to miało konsekwencje dla osób odpowiedzialnych za organizację tego spotkania - uważa wiceszef MON Cezary Tomczyk...",
+      "date_published": "2026-02-13T10:24:00+01:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Tragedia-w-Karolinie-Poludniowej-Strzaly-na-uczelni-sa-ofiary-smiertelne-9083195.html",
+      "url": "https://www.bankier.pl/wiadomosc/Tragedia-w-Karolinie-Poludniowej-Strzaly-na-uczelni-sa-ofiary-smiertelne-9083195.html",
+      "title": "Tragedia w Karolinie Południowej. Strzały na uczelni, są ofiary śmiertelne",
+      "content_html": "Dwie osoby zginęły, a jedna została ranna w wyniku strzelaniny na kampusie Uniwersytetu Stanowego Karoliny Południowej w Orangeburgu - poinformowała w czwartek stacja NBC, powołując się na władze uczelni. Uniwersytet nie ujawnił tożsamości...",
+      "date_published": "2026-02-13T10:16:00+01:00",
+      "source": "Bankier.pl"
+    },
+    {
       "id": "https://biznes.pap.pl/wiadomosci/gospodarka/sejm-uchwalil-ustawe-wdrazajaca-unijny-program-dozbrajania-safe",
       "url": "https://biznes.pap.pl/wiadomosci/gospodarka/sejm-uchwalil-ustawe-wdrazajaca-unijny-program-dozbrajania-safe",
       "title": "Sejm uchwalił ustawę wdrażającą unijny program dozbrajania SAFE",
       "content_html": "Sejm uchwalił w piątek ustawę wdrażającą unijny program dozbrajania SAFE. Umożliwi ona powołanie specjalnego, zarządzanego przez BGK funduszu, za pośrednictwem którego będą mogły być wydawane pieniądz",
       "date_published": "2026-02-13T10:04:00+01:00",
       "source": "PAP Biznes"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Miliardy-z-UE-na-polska-armie-Rzad-przeforsowal-ustawe-pieniedzmi-zajmie-sie-BGK-9083259.html",
+      "url": "https://www.bankier.pl/wiadomosc/Miliardy-z-UE-na-polska-armie-Rzad-przeforsowal-ustawe-pieniedzmi-zajmie-sie-BGK-9083259.html",
+      "title": "Miliardy z UE na polską armię. Rząd przeforsował ustawę, pieniędzmi zajmie się BGK",
+      "content_html": "Sejm uchwalił w piątek ustawę wdrażającą unijny program dozbrajania SAFE. Umożliwi ona powołanie specjalnego, zarządzanego przez BGK funduszu, za pośrednictwem którego będą mogły być wydawane pieniądze z programu.",
+      "date_published": "2026-02-13T10:01:00+01:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/GUS-Inflacja-w-styczniu-najnizsza-od-prawie-dwoch-lat-9083240.html",
+      "url": "https://www.bankier.pl/wiadomosc/GUS-Inflacja-w-styczniu-najnizsza-od-prawie-dwoch-lat-9083240.html",
+      "title": "GUS: Inflacja w styczniu najniższa od prawie dwóch lat. Ale będziemy rewidować",
+      "content_html": "Na skutek efektu wysokiej zeszłorocznej bazy odniesienia inflacja CPI w styczniu 2026 roku znalazła się najniżej od prawie dwóch lat - wynika z najnowszych danych Głównego Urzędu Statystycznego.",
+      "date_published": "2026-02-13T10:00:00+01:00",
+      "source": "Bankier.pl"
     },
     {
       "id": "https://biznes.pap.pl/wiadomosci/gospodarka/inflacja-w-styczniu-wyniosla-rdr-22-proc-mdm-06-proc-gus-tabela",
@@ -29,11 +109,35 @@
       "source": "Bankier.pl"
     },
     {
+      "id": "https://www.bankier.pl/wiadomosc/Koniec-z-papierologia-w-ZUS-Wnioski-o-zasilek-opiekunczy-przejda-w-calosci-do-sieci-9083247.html",
+      "url": "https://www.bankier.pl/wiadomosc/Koniec-z-papierologia-w-ZUS-Wnioski-o-zasilek-opiekunczy-przejda-w-calosci-do-sieci-9083247.html",
+      "title": "Koniec z papierologią w ZUS. Wnioski o zasiłek opiekuńczy przejdą w całości do sieci",
+      "content_html": "Sejm uchwalił w piątek nowelizację ustawy upraszczającej zasady składania wniosków o zasiłek opiekuńczy. Pozwoli ona płatnikom składek i biurom rachunkowym składać te wnioski do ZUS w postaci elektronicznej. Projekt deregulacyjny przygotowało...",
+      "date_published": "2026-02-13T09:44:00+01:00",
+      "source": "Bankier.pl"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Zielone-swiatlo-dla-malego-atomu-Motyka-SMR-y-nie-sa-wstrzymane-9083246.html",
       "url": "https://www.bankier.pl/wiadomosc/Zielone-swiatlo-dla-malego-atomu-Motyka-SMR-y-nie-sa-wstrzymane-9083246.html",
       "title": "Zielone światło dla małego atomu. Motyka: SMR-y nie są wstrzymane",
       "content_html": "Projekty ws. małych reaktorów modułowych (SMR) nie są wstrzymywane - zadeklarował w piątek minister energii Miłosz Motyka, pytany o odroczenie przez komisję sejmową decyzji ws. wylesienia gruntów pod SMR w Stalowej Woli. Dodał, że w ciągu...",
       "date_published": "2026-02-13T09:43:00+01:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Nawet-396-zl-na-ucznia-Sejm-sypnal-groszem-na-dofinansowania-podrecznikow-9083245.html",
+      "url": "https://www.bankier.pl/wiadomosc/Nawet-396-zl-na-ucznia-Sejm-sypnal-groszem-na-dofinansowania-podrecznikow-9083245.html",
+      "title": "Nawet 396 zł na ucznia. Sejm sypnął groszem na dofinansowania podręczników",
+      "content_html": "Zwiększone zostaną środki na zakup podręczników i ćwiczeń dla uczniów szkół podstawowych, podniesione zostaną też opłaty wnoszone przez wydawców ubiegających się o dopuszczenie podręcznika - zdecydował w piątek Sejm nowelizując ustawę...",
+      "date_published": "2026-02-13T09:40:00+01:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Waloryzacja-emerytur-2026-ZUS-podal-ostateczne-kwoty-Tyle-wyniesie-minimalne-swiadczenie-9083239.html",
+      "url": "https://www.bankier.pl/wiadomosc/Waloryzacja-emerytur-2026-ZUS-podal-ostateczne-kwoty-Tyle-wyniesie-minimalne-swiadczenie-9083239.html",
+      "title": "Waloryzacja emerytur 2026. ZUS podał ile wyniesie minimalne świadczenie",
+      "content_html": "Od 1 marca najniższe emerytury, renty rodzinne oraz renty z tytułu całkowitej niezdolności do pracy wzrosną o 99,58 zł i będą wynosić 1978,49 zł brutto - poinformował w piątek ZUS. Od marcu renta z tytułu częściowej niezdolności do pracy...",
+      "date_published": "2026-02-13T09:28:00+01:00",
       "source": "Bankier.pl"
     },
     {
@@ -141,38 +245,6 @@
       "source": "PAP Biznes"
     },
     {
-      "id": "https://biznes.pap.pl/wiadomosci/firmy/pracownicy-jsw-opowiedzieli-sie-za-przyjeciem-porozumienia-zawieszajacego-opis",
-      "url": "https://biznes.pap.pl/wiadomosci/firmy/pracownicy-jsw-opowiedzieli-sie-za-przyjeciem-porozumienia-zawieszajacego-opis",
-      "title": "Pracownicy JSW opowiedzieli się za przyjęciem porozumienia zawieszającego (opis)",
-      "content_html": "W zakończonym w piątek referendum pracownicy JSW opowiedzieli się za przyjęciem porozumienia zawieszającego - podała spółka na stronie internetowej. Wskazano, że decyzja ta otwiera drogę do podpisania",
-      "date_published": "2026-02-13T08:29:00+01:00",
-      "source": "PAP Biznes"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Tragedia-w-Karolinie-Poludniowej-Strzaly-na-uczelni-sa-ofiary-smiertelne-9083195.html",
-      "url": "https://www.bankier.pl/wiadomosc/Tragedia-w-Karolinie-Poludniowej-Strzaly-na-uczelni-sa-ofiary-smiertelne-9083195.html",
-      "title": "Tragedia w Karolinie Południowej. Strzały na uczelni, są ofiary śmiertelne",
-      "content_html": "Dwie osoby zginęły, a jedna została ranna w wyniku strzelaniny na kampusie Uniwersytetu Stanowego Karoliny Południowej w Orangeburgu - poinformowała w czwartek stacja NBC, powołując się na władze uczelni. Uniwersytet nie ujawnił tożsamości...",
-      "date_published": "2026-02-13T08:28:00+01:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/rynki/najwazniejsze-indeksy-gieldowe-w-azji-660",
-      "url": "https://biznes.pap.pl/wiadomosci/rynki/najwazniejsze-indeksy-gieldowe-w-azji-660",
-      "title": "Najważniejsze indeksy giełdowe w Azji",
-      "content_html": "Poniżej aktualne indeksy wybranych giełd w Azji:",
-      "date_published": "2026-02-13T08:21:00+01:00",
-      "source": "PAP Biznes"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/firmy/pracownicy-jsw-opowiedzieli-sie-za-przyjeciem-porozumienia-zawieszajacego",
-      "url": "https://biznes.pap.pl/wiadomosci/firmy/pracownicy-jsw-opowiedzieli-sie-za-przyjeciem-porozumienia-zawieszajacego",
-      "title": "Pracownicy JSW opowiedzieli się za przyjęciem porozumienia zawieszającego",
-      "content_html": "W zakończonym w piątek referendum pracownicy JSW opowiedzieli się za przyjęciem porozumienia zawieszającego - podała spółka na stronie internetowej. Wskazano, że decyzja ta otwiera drogę do podpisania",
-      "date_published": "2026-02-13T08:19:00+01:00",
-      "source": "PAP Biznes"
-    },
-    {
       "id": "https://www.bankier.pl/wiadomosc/Znalazles-portfel-lub-dokumenty-Juz-wkrotce-nowe-limity-i-krotsze-terminy-9083064.html",
       "url": "https://www.bankier.pl/wiadomosc/Znalazles-portfel-lub-dokumenty-Juz-wkrotce-nowe-limity-i-krotsze-terminy-9083064.html",
       "title": "Znalazłeś portfel lub dokumenty? Już wkrótce nowe limity i krótsze terminy",
@@ -243,14 +315,6 @@
       "content_html": "Operatorzy wynajmu krótkoterminowego przebili się w Ministerstwie Sportu i Turystyki z uwagami do projektu ustawy regulującej ich biznes. Najgroźniejsze dla branży przepisy mają zostać skorygowane - informuje piątkowy „Puls Biznesu\".",
       "date_published": "2026-02-13T07:43:00+01:00",
       "source": "Bankier.pl"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/firmy/cena-emisyjna-akcji-datawalk-ustalona-na-155-zl-opis",
-      "url": "https://biznes.pap.pl/wiadomosci/firmy/cena-emisyjna-akcji-datawalk-ustalona-na-155-zl-opis",
-      "title": "Cena emisyjna akcji DataWalk ustalona na 155 zł (opis)",
-      "content_html": "Zarząd DataWalk, po zakończeniu budowy księgi popytu, ustalił cenę emisyjną akcji serii T na 155 zł i zdecydował się zaoferować inwestorom 750 tys. akcji - podała spółka w komunikacie. DataWalk pozysk",
-      "date_published": "2026-02-13T07:42:00+01:00",
-      "source": "PAP Biznes"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Ukraina-odda-Donieck-za-pokoj-Zelenski-Trump-potrzebuje-konca-wojny-by-wygrac-wybory-9083079.html",
@@ -397,6 +461,22 @@
       "source": "Bankier.pl"
     },
     {
+      "id": "https://biznes.pap.pl/wiadomosci/firmy/cena-emisyjna-akcji-datawalk-ustalona-na-155-zl",
+      "url": "https://biznes.pap.pl/wiadomosci/firmy/cena-emisyjna-akcji-datawalk-ustalona-na-155-zl",
+      "title": "Cena emisyjna akcji DataWalk ustalona na 155 zł",
+      "content_html": "Zarząd DataWalk, po zakończeniu budowy księgi popytu, ustalił cenę emisyjną akcji serii T na 155 zł i zdecydował się zaoferować inwestorom 750 tys. akcji - podała spółka w komunikacie",
+      "date_published": "2026-02-13T06:42:00+01:00",
+      "source": "PAP Biznes"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/firmy/na-portalach-rekrutacyjnych-w-styczniu-o-8-proc-mniej-ofert-pracy-rdr-grant",
+      "url": "https://biznes.pap.pl/wiadomosci/firmy/na-portalach-rekrutacyjnych-w-styczniu-o-8-proc-mniej-ofert-pracy-rdr-grant",
+      "title": "Na portalach rekrutacyjnych w styczniu o 8 proc. mniej ofert pracy rdr - Grant Thornton",
+      "content_html": "W styczniu pracodawcy na 50 największych portalach rekrutacyjnych w Polsce opublikowali 252,876 tys. nowych ogłoszeń o pracę, o 8 proc. mniej rdr - wynika z najnowszego raportu firmy doradczej Grant T",
+      "date_published": "2026-02-13T06:30:00+01:00",
+      "source": "PAP Biznes"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Najpopularniejsze-auta-elektryczne-w-Polsce-styczen-2026-9081914.html",
       "url": "https://www.bankier.pl/wiadomosc/Najpopularniejsze-auta-elektryczne-w-Polsce-styczen-2026-9081914.html",
       "title": "Tesla leci w Polsce w dół, choć sprzedaż wzrosła. „Chińczyk” nowym liderem wśród aut elektrycznych",
@@ -453,12 +533,28 @@
       "source": "Bankier.pl"
     },
     {
+      "id": "https://biznes.pap.pl/wiadomosci/firmy/prezydent-podpisal-ustawe-ws-dalszego-funkcjonowania-alternatywnych-systemow",
+      "url": "https://biznes.pap.pl/wiadomosci/firmy/prezydent-podpisal-ustawe-ws-dalszego-funkcjonowania-alternatywnych-systemow",
+      "title": "Prezydent podpisał ustawę ws. dalszego funkcjonowania alternatywnych systemów kaucyjnych",
+      "content_html": "Prezydent Karol Nawrocki podpisał ustawę, wydłużającą do końca 2028 r. możliwość funkcjonowania prywatnych, bezparagonowych systemów zbiórki butelek szklanych obok funkcjonującego już ogólnopolskiego ",
+      "date_published": "2026-02-13T00:06:00+01:00",
+      "source": "PAP Biznes"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Spadki-wracaja-na-Wall-Street-AI-znow-miesza-i-wyparowuje-miliardy-9083107.html",
       "url": "https://www.bankier.pl/wiadomosc/Spadki-wracaja-na-Wall-Street-AI-znow-miesza-i-wyparowuje-miliardy-9083107.html",
       "title": "Spadki wracają na Wall Street. AI znów miesza i wyparowuje miliardy",
       "content_html": "Czwartkowa sesja na Wall Street zakończyła się sporymi spadkami głównych indeksów, Dow Jones stracił ponad 600 punktów.",
       "date_published": "2026-02-13T00:01:00+01:00",
       "source": "Bankier.pl"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/rynki/dzien-na-rynkach-na-wall-street-spore-spadki-dow-w-dol-o-ponad-600-pkt",
+      "url": "https://biznes.pap.pl/wiadomosci/rynki/dzien-na-rynkach-na-wall-street-spore-spadki-dow-w-dol-o-ponad-600-pkt",
+      "title": "DZIEŃ NA RYNKACH: Na Wall Street spore spadki, Dow w dół o ponad 600 pkt.",
+      "content_html": "Czwartkowa sesja na Wall Street zakończyła się sporymi spadkami głównych indeksów, Dow Jones stracił ponad 600 punktów.",
+      "date_published": "2026-02-12T23:48:00+01:00",
+      "source": "PAP Biznes"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Koniec-z-tajemnica-majatku-RPD-Prezydent-podpisal-nowe-prawo-o-oswiadczeniach-9083072.html",
@@ -773,14 +869,6 @@
       "source": "Bankier.pl"
     },
     {
-      "id": "https://www.bankier.pl/wiadomosc/Melania-Trump-doprowadzila-do-powrotu-dzieci-ukrainskich-i-rosyjskich-do-rodzin-9082912.html",
-      "url": "https://www.bankier.pl/wiadomosc/Melania-Trump-doprowadzila-do-powrotu-dzieci-ukrainskich-i-rosyjskich-do-rodzin-9082912.html",
-      "title": "Melania Trump doprowadziła do powrotu dzieci ukraińskich i rosyjskich do rodzin",
-      "content_html": "Pierwsza dama Melania Trump doprowadziła do powrotu rosyjskich i ukraińskich dzieci do ich rodzin - przekazał w czwartek w oświadczeniu Biały Dom. Żona prezydenta USA nie podała jednak szczegółów. Według Kremla do rodzin powróciło sześcioro...",
-      "date_published": "2026-02-12T17:04:00+01:00",
-      "source": "Bankier.pl"
-    },
-    {
       "id": "https://biznes.pap.pl/wiadomosci/gospodarka/dzien-na-fxfi-zloty-z-niewielkimi-zmianami-rentownosc-10-letnich-spw-ponizej",
       "url": "https://biznes.pap.pl/wiadomosci/gospodarka/dzien-na-fxfi-zloty-z-niewielkimi-zmianami-rentownosc-10-letnich-spw-ponizej",
       "title": "DZIEŃ NA FX/FI: Złoty z niewielkimi zmianami; rentowność 10-letnich SPW poniżej 5 proc.",
@@ -1021,14 +1109,6 @@
       "source": "Bankier.pl"
     },
     {
-      "id": "https://www.bankier.pl/wiadomosc/Allegro-Smart-po-nowemu-Zakupy-od-45-zl-juz-nie-wystarcza-9082789.html",
-      "url": "https://www.bankier.pl/wiadomosc/Allegro-Smart-po-nowemu-Zakupy-od-45-zl-juz-nie-wystarcza-9082789.html",
-      "title": "Allegro Smart! po nowemu. Zakupy od 45 zł już nie wystarczą",
-      "content_html": "Od 2 marca 2026 r. Allegro zmienia warunki Smart!. Zamiast dwóch progów 45 zł i 65 zł ma obowiązywać jeden, ujednolicony limit 49,90 zł dla darmowej dostawy.",
-      "date_published": "2026-02-12T14:40:00+01:00",
-      "source": "Bankier.pl"
-    },
-    {
       "id": "https://biznes.pap.pl/wiadomosci/rynki/dzien-na-rynkach-futures-w-usa-rosna-rynki-oceniaja-wyniki-spolek",
       "url": "https://biznes.pap.pl/wiadomosci/rynki/dzien-na-rynkach-futures-w-usa-rosna-rynki-oceniaja-wyniki-spolek",
       "title": "DZIEŃ NA RYNKACH: Futures w USA rosną; rynki oceniają wyniki spółek",
@@ -1053,22 +1133,6 @@
       "source": "PAP Biznes"
     },
     {
-      "id": "https://www.bankier.pl/wiadomosc/Awaria-kart-platniczych-Visa-9082740.html",
-      "url": "https://www.bankier.pl/wiadomosc/Awaria-kart-platniczych-Visa-9082740.html",
-      "title": "Przywrócono prawidłowe działanie kart płatniczych Visa",
-      "content_html": "Biuro prasowe mBanku poinformowało redakcję Bankier.pl, że globalna awaria została zakończona i wszystko działa już prawidłowo. Podczas awarii nie działały karty Visa. Przedstawiciele banku zalecali klientom korzystanie z innych metod płatności...",
-      "date_published": "2026-02-12T14:29:00+01:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Gripeny-nad-Grenlandia-Szwedzi-ruszaja-na-nowa-misje-NATO-9082772.html",
-      "url": "https://www.bankier.pl/wiadomosc/Gripeny-nad-Grenlandia-Szwedzi-ruszaja-na-nowa-misje-NATO-9082772.html",
-      "title": "Gripeny nad Grenlandią. Szwedzi ruszają na nową misję NATO",
-      "content_html": "Szwecja, poprzez stacjonujące obecnie na Islandii samoloty bojowe JAS 39 Gripen, będzie uczestniczyć w misji NATO Arctic Sentry (Arktyczna Straż), obejmującej terytorium Grenlandii – powiadomił w czwartek rząd w Sztokholmie.",
-      "date_published": "2026-02-12T14:18:00+01:00",
-      "source": "Bankier.pl"
-    },
-    {
       "id": "https://biznes.pap.pl/wiadomosci/gry-i-technologie/kreml-potwierdza-blokade-whatsappa-co-ma-wymusic-przejscie-na-krajowy",
       "url": "https://biznes.pap.pl/wiadomosci/gry-i-technologie/kreml-potwierdza-blokade-whatsappa-co-ma-wymusic-przejscie-na-krajowy",
       "title": "Kreml potwierdza blokadę WhatsAppa, co ma wymusić przejście na krajowy komunikator",
@@ -1079,8 +1143,8 @@
     {
       "id": "https://www.bankier.pl/wiadomosc/PolTREG-wytworzyl-pierwsza-serie-transferowa-produktu-PTG-021-w-warunkach-GMP-9082759.html",
       "url": "https://www.bankier.pl/wiadomosc/PolTREG-wytworzyl-pierwsza-serie-transferowa-produktu-PTG-021-w-warunkach-GMP-9082759.html",
-      "title": "Przełomowy krok PolTREG. Wysoka wydajność nowej terapii komórkowej",
-      "content_html": "PolTREG wytworzył pierwszą serię transferową produktu PTG-021 w warunkach Dobrej Praktyki Produkcyjnej (GMP) - podała spółka w komunikacie.",
+      "title": "Przełomowy krok PolTREG. Wysoka wydajność nowej terapii komórkowej PolTREG wytworzył pierwszą serię transferową produktu PTG-021 w warunkach Dobrej Praktyki Produkcyjnej (GMP) - podała spółka w komunikacie.",
+      "content_html": "",
       "date_published": "2026-02-12T13:58:00+01:00",
       "source": "Bankier.pl"
     },
@@ -1093,18 +1157,10 @@
       "source": "PAP Biznes"
     },
     {
-      "id": "https://www.bankier.pl/wiadomosc/Cyfrowa-zelazna-kurtyna-Kreml-zmusza-Rosjan-do-przesiadki-na-rzadowy-komunikator-9082756.html",
-      "url": "https://www.bankier.pl/wiadomosc/Cyfrowa-zelazna-kurtyna-Kreml-zmusza-Rosjan-do-przesiadki-na-rzadowy-komunikator-9082756.html",
-      "title": "Cyfrowa żelazna kurtyna. Kreml zmusza Rosjan do przesiadki na rządowy komunikator",
-      "content_html": "Kreml potwierdził w czwartek zablokowanie należącego do amerykańskiego koncernu Meta komunikatora WhatsApp, aby zastąpić go rodzimym, państwowym odpowiednikiem – poinformowała agencja Reutera. Decyzja zapadła kilka dni po wprowadzeniu nowych...",
-      "date_published": "2026-02-12T13:53:00+01:00",
-      "source": "Bankier.pl"
-    },
-    {
       "id": "https://www.bankier.pl/wiadomosc/Creotech-Instruments-z-umowa-na-pierwsza-faze-prac-nad-satelita-systemu-nawigacyjnego-9082754.html",
       "url": "https://www.bankier.pl/wiadomosc/Creotech-Instruments-z-umowa-na-pierwsza-faze-prac-nad-satelita-systemu-nawigacyjnego-9082754.html",
-      "title": "500 tys. euro na projekt LEO-PNT. Creotech współpracuje z Europejską Agencją Kosmiczną",
-      "content_html": "Creotech Instruments podpisał umowę z Europejską Agencją Kosmiczną (ESA) na realizację prac nad satelitą systemu nawigacyjnego pt.: \"LEO-PNT - HyperSat SAFIR-PNT\" - podała spółka w komunikacie. Wartość realizowanej fazy, zgodnie z podpisaną...",
+      "title": "500 tys. euro na projekt LEO-PNT. Creotech współpracuje z Europejską Agencją Kosmiczną Creotech Instruments podpisał umowę z Europejską Agencją Kosmiczną (ESA) na realizację prac nad satelitą systemu nawigacyjnego pt.: \"LEO-PNT - HyperSat SAFIR-PNT\" - podała spółka w komunikacie. Wartość realizowanej fazy, zgodnie z podpisaną umową, wynosi 500 tys. euro (z czego ESA pokrywa kwotę 400 tys. euro).",
+      "content_html": "",
       "date_published": "2026-02-12T13:50:00+01:00",
       "source": "Bankier.pl"
     },
@@ -1117,28 +1173,12 @@
       "source": "PAP Biznes"
     },
     {
-      "id": "https://www.bankier.pl/wiadomosc/Finanse-osobiste-w-praktyce-Startuje-druga-edycja-studiow-podyplomowych-SGH-Bankier-pl-jest-patronem-medialnym-9082742.html",
-      "url": "https://www.bankier.pl/wiadomosc/Finanse-osobiste-w-praktyce-Startuje-druga-edycja-studiow-podyplomowych-SGH-Bankier-pl-jest-patronem-medialnym-9082742.html",
-      "title": "Startuje druga edycja studiów podyplomowych SGH. Bankier.pl jest patronem medialnym",
-      "content_html": "Rosnące zainteresowanie inwestowaniem sprawia, że coraz więcej osób chce nie tylko „coś kupić na giełdzie”, ale poukładać cały obraz: budżet, poduszkę bezpieczeństwa, plan emerytalny, ryzyko, a także finansowanie (np. kredyt) i wpływ...",
-      "date_published": "2026-02-12T13:37:00+01:00",
-      "source": "Bankier.pl"
-    },
-    {
       "id": "https://biznes.pap.pl/wiadomosci/przemysl/chiny-daly-zielone-swiatlo-dla-indywidualnych-negocjacji-z-ue-w-sprawie-cen-aut",
       "url": "https://biznes.pap.pl/wiadomosci/przemysl/chiny-daly-zielone-swiatlo-dla-indywidualnych-negocjacji-z-ue-w-sprawie-cen-aut",
       "title": "Chiny dały zielone światło dla indywidualnych negocjacji z UE w sprawie cen aut elektrycznych",
       "content_html": "Ministerstwo handlu Chin poinformowało w czwartek o zmianie dotychczasowego stanowiska i zezwoleniu na indywidualne negocjacje producentów aut elektrycznych z Unią Europejską w sprawie cen minimalnych",
       "date_published": "2026-02-12T13:36:00+01:00",
       "source": "PAP Biznes"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Promocja-w-ING-Nawet-600-zl-premii-dla-klientow-a-warunki-sa-banalnie-proste-9082677.html",
-      "url": "https://www.bankier.pl/wiadomosc/Promocja-w-ING-Nawet-600-zl-premii-dla-klientow-a-warunki-sa-banalnie-proste-9082677.html",
-      "title": "Nawet 600 zł premii dla klientów ING. A warunki są banalnie proste",
-      "content_html": "ING Bank Śląski wystartował z nową odsłoną akcji \"Mobilni zyskują\". Tym razem \"paczka powitalna\" jest wyjątkowo atrakcyjna: do zgarnięcia jest 500 zł premii gotówkowej oraz dodatkowe 100 zł z programu poleceń. To jedna z najprostszych ofert...",
-      "date_published": "2026-02-12T13:20:00+01:00",
-      "source": "Bankier.pl"
     },
     {
       "id": "https://biznes.pap.pl/wiadomosci/firmy/grupa-azoty-odwolala-andrzeja-skolmowskiego-z-funkcji-prezesa-zarzadu",
@@ -1165,36 +1205,12 @@
       "source": "PAP Biznes"
     },
     {
-      "id": "https://biznes.pap.pl/wiadomosci/gospodarka/dane-o-pkb-sugeruja-ograniczona-przestrzen-do-dalszych-obnizek-stop-proc",
-      "url": "https://biznes.pap.pl/wiadomosci/gospodarka/dane-o-pkb-sugeruja-ograniczona-przestrzen-do-dalszych-obnizek-stop-proc",
-      "title": "Dane o PKB sugerują ograniczoną przestrzeń do dalszych obniżek stóp proc. (opinia)",
-      "content_html": "Głównym źródłem wzrostu gospodarczego w Polsce w IV kw. 2025 r. był popyt konsumpcyjny, którego tempo w 2026 r. prawdopodobnie spowolni, ale pozostanie powyżej średniej wieloletniej; wskazuje to na og",
-      "date_published": "2026-02-12T12:18:00+01:00",
-      "source": "PAP Biznes"
-    },
-    {
       "id": "https://www.bankier.pl/wiadomosc/Sygnity-szacuje-zysk-netto-w-25-na-ok-77-3-mln-zl-9082688.html",
       "url": "https://www.bankier.pl/wiadomosc/Sygnity-szacuje-zysk-netto-w-25-na-ok-77-3-mln-zl-9082688.html",
       "title": "Sygnity szacuje zysk netto w '25 na ok. 77,3 mln zł Sygnity szacuje, że w 2025 roku skonsolidowana EBITDA wyniosła ok. 103,4 mln zł, a zysk netto ok. 77,3 mln zł - podała spółka w komunikacie.",
       "content_html": "",
       "date_published": "2026-02-12T12:16:00+01:00",
       "source": "Bankier.pl"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/firmy/sygnity-szacuje-zysk-netto-w-25-na-ok-773-mln-zl",
-      "url": "https://biznes.pap.pl/wiadomosci/firmy/sygnity-szacuje-zysk-netto-w-25-na-ok-773-mln-zl",
-      "title": "Sygnity szacuje zysk netto w '25 na ok. 77,3 mln zł",
-      "content_html": "Sygnity szacuje, że w 2025 roku skonsolidowana EBITDA wyniosła ok. 103,4 mln zł, a zysk netto ok. 77,3 mln zł - podała spółka w komunikacie.",
-      "date_published": "2026-02-12T12:15:00+01:00",
-      "source": "PAP Biznes"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/gospodarka/bgk-sprzedal-obligacje-fpc-za-3394-mld-zl-przy-popycie-6346-mld-zl",
-      "url": "https://biznes.pap.pl/wiadomosci/gospodarka/bgk-sprzedal-obligacje-fpc-za-3394-mld-zl-przy-popycie-6346-mld-zl",
-      "title": "BGK sprzedał obligacje FPC za 3,394 mld zł, przy popycie 6,346 mld zł",
-      "content_html": "Bank Gospodarstwa Krajowego sprzedał obligacje serii FPC0229, FPC0231, FPC0332 i FPC0235 za łącznie 3,394 mld zł przy popycie 6,346 mld zł - podał bank w komunikacie.",
-      "date_published": "2026-02-12T12:00:00+01:00",
-      "source": "PAP Biznes"
     },
     {
       "id": "https://biznes.pap.pl/wiadomosci/firmy/kumulacja-inwestycji-infrastrukturalnych-wyzwaniem-dla-firm-budowlanych-w-polsce",
@@ -1258,62 +1274,6 @@
       "title": "Po wyroku TSUE nie będzie rewolucji w sprawach o WIBOR - PKO BP (opinia)",
       "content_html": "Trybunał Sprawiedliwości Unii Europejskiej wydał w czwartek wyrok w sprawie kredytów opartych o wskaźnik WIBOR. W ocenie PKO BP, wyrok TSUE potwierdza uczciwość stosowania WIBOR w umowach kredytu z ko",
       "date_published": "2026-02-12T11:09:00+01:00",
-      "source": "PAP Biznes"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/firmy/fitch-potwierdzil-rating-ccc-dla-kernela",
-      "url": "https://biznes.pap.pl/wiadomosci/firmy/fitch-potwierdzil-rating-ccc-dla-kernela",
-      "title": "Fitch potwierdził rating \"CCC-\" dla Kernela",
-      "content_html": "Fitch Ratings potwierdził długoterminowy rating Kernela na poziomie \"CCC-\" - podał Fitch w komunikacie. Działania te są następstwem aktualizacji kryteriów ratingowych Fitch oraz dodatku do kryteriów r",
-      "date_published": "2026-02-12T10:43:00+01:00",
-      "source": "PAP Biznes"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Atal-wprowadzil-do-oferty-159-mieszkan-w-Piastowie-i-215-mieszkan-w-Gliwicach-9082616.html",
-      "url": "https://www.bankier.pl/wiadomosc/Atal-wprowadzil-do-oferty-159-mieszkan-w-Piastowie-i-215-mieszkan-w-Gliwicach-9082616.html",
-      "title": "Atal wprowadził do oferty 159 mieszkań w Piastowie i 215 mieszkań w Gliwicach Atal wprowadził do sprzedaży 159 mieszkań w inwestycji Skwer Witosa w Piastowie k. Warszawy oraz 215 mieszkań w ramach IV etapu inwestycji Ogrody Andersa w Gliwicach - poinformował deweloper w komunikacie prasowym.",
-      "content_html": "",
-      "date_published": "2026-02-12T10:40:00+01:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/firmy/tsue-nie-podzielil-zarzutow-podwazajacych-wiarygodnosc-i-rynkowosc-wibor-u-zbp",
-      "url": "https://biznes.pap.pl/wiadomosci/firmy/tsue-nie-podzielil-zarzutow-podwazajacych-wiarygodnosc-i-rynkowosc-wibor-u-zbp",
-      "title": "TSUE nie podzielił zarzutów podważających wiarygodność i rynkowość WIBOR-u - ZBP",
-      "content_html": "Trybunał Sprawiedliwości UE potwierdził, że sądy w sprawach konsumenckich nie mogą badać prawidłowości wyznaczania WIBOR-u, nie podzielił zarzutów podważających wiarygodność i rynkowość tego wskaźnika",
-      "date_published": "2026-02-12T10:40:00+01:00",
-      "source": "PAP Biznes"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/firmy/atal-wprowadzil-do-oferty-159-mieszkan-w-piastowie-i-215-mieszkan-w-gliwicach",
-      "url": "https://biznes.pap.pl/wiadomosci/firmy/atal-wprowadzil-do-oferty-159-mieszkan-w-piastowie-i-215-mieszkan-w-gliwicach",
-      "title": "Atal wprowadził do oferty 159 mieszkań w Piastowie i 215 mieszkań w Gliwicach",
-      "content_html": "Atal wprowadził do sprzedaży 159 mieszkań w inwestycji Skwer Witosa w Piastowie k. Warszawy oraz 215 mieszkań w ramach IV etapu inwestycji Ogrody Andersa w Gliwicach - poinformował deweloper w komunik",
-      "date_published": "2026-02-12T10:38:00+01:00",
-      "source": "PAP Biznes"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/gospodarka/dane-o-pkb-polski-za-iv-kw-potwierdzaja-solidny-punkt-startowy-do-dalszego",
-      "url": "https://biznes.pap.pl/wiadomosci/gospodarka/dane-o-pkb-polski-za-iv-kw-potwierdzaja-solidny-punkt-startowy-do-dalszego",
-      "title": "Dane o PKB Polski za IV kw. potwierdzają solidny punkt startowy do dalszego wzrostu w '26 (opinia)",
-      "content_html": "Dane o PKB Polski za IV kw. 2025 r. potwierdzają solidny punkt startowy do dalszego wzrostu aktywności gospodarczej w 2026 r. - wskazują ekonomiści. Wzrost będzie wspierany przez dobrą sytuację dochod",
-      "date_published": "2026-02-12T10:26:00+01:00",
-      "source": "PAP Biznes"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/nieruchomosci/najmniejsza-roznica-w-cenie-mieszkania-miedzy-miastem-obwarzankiem",
-      "url": "https://biznes.pap.pl/wiadomosci/nieruchomosci/najmniejsza-roznica-w-cenie-mieszkania-miedzy-miastem-obwarzankiem",
-      "title": "Najmniejsza różnica w cenie mieszkania między miastem a obwarzankiem występuje w Łodzi - Otodom",
-      "content_html": "Dane z 7 największych polskich miast pokazują, że dysponując tym samym budżetem można kupić znacznie większy metraż poza granicami miasta - wynika z analizy Otodom. Najmniejsza różnica w cenie mieszka",
-      "date_published": "2026-02-12T10:25:00+01:00",
-      "source": "PAP Biznes"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/firmy/klauzula-z-wibor-em-sama-w-sobie-nie-powoduje-znaczacej-nierownowagi-na-szkode-0",
-      "url": "https://biznes.pap.pl/wiadomosci/firmy/klauzula-z-wibor-em-sama-w-sobie-nie-powoduje-znaczacej-nierownowagi-na-szkode-0",
-      "title": "Klauzula z WIBOR-em sama w sobie nie powoduje znaczącej nierównowagi na szkodę konsumenta - TSUE (opis)",
-      "content_html": "Klauzula umowy zawierająca wskaźnik referencyjny, taki jak WIBOR, nie powoduje co do zasady sama w sobie znaczącej nierównowagi między stronami na niekorzyść konsumenta - orzekł TSUE. Dodał, że obowią",
-      "date_published": "2026-02-12T10:23:00+01:00",
       "source": "PAP Biznes"
     }
   ]
