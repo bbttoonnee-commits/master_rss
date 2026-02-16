@@ -5,6 +5,54 @@
   "home_page_url": "https://www.bankier.pl",
   "items": [
     {
+      "id": "https://biznes.pap.pl/wiadomosci/ekonomia-biznes-i-finanse/skrot-wiadomosci-poniedzialek-16-lutego-1700",
+      "url": "https://biznes.pap.pl/wiadomosci/ekonomia-biznes-i-finanse/skrot-wiadomosci-poniedzialek-16-lutego-1700",
+      "title": "Skrót wiadomości - poniedziałek, 16 lutego, 17.00",
+      "content_html": "Przegląd najważniejszych wiadomości gospodarczych, krajowych i ze świata.",
+      "date_published": "2026-02-16T17:00:00+01:00",
+      "source": "PAP Biznes"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Glowna-zaleta-SAFE-Koszt-pieniadza-nizszy-niz-rynkowy-Polska-zaoszczedzi-na-odsetkach-9084414.html",
+      "url": "https://www.bankier.pl/wiadomosc/Glowna-zaleta-SAFE-Koszt-pieniadza-nizszy-niz-rynkowy-Polska-zaoszczedzi-na-odsetkach-9084414.html",
+      "title": "Główna zaleta SAFE: Koszt pieniądza niższy niż rynkowy. Polska zaoszczędzi na odsetkach",
+      "content_html": "Główną zaletą unijnego programu SAFE są jego korzystne warunki finansowe; w horyzoncie obowiązywania pożyczki z programu oszczędności dla Polski mogą wynieść przynajmniej 48 mld zł - szacują w raporcie ekonomiści Citi.",
+      "date_published": "2026-02-16T16:48:00+01:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Tworca-SKOK-ow-twarza-w-twarz-z-b-szefami-KNF-Burzliwe-przesluchanie-w-sadzie-9084432.html",
+      "url": "https://www.bankier.pl/wiadomosc/Tworca-SKOK-ow-twarza-w-twarz-z-b-szefami-KNF-Burzliwe-przesluchanie-w-sadzie-9084432.html",
+      "title": "Twórca SKOK-ów twarzą w twarz z b. szefami KNF. Burzliwe przesłuchanie w sądzie",
+      "content_html": "Warszawski sąd, przed którym toczy się proces byłych szefów KNF ws. nadzoru nad SKOK Wołomin, przesłuchuje w poniedziałek - jako świadka - współtwórcę społecznych kas oszczędnościowo-kredytowych i wieloletniego szefa Krajowej Kasy, senatora...",
+      "date_published": "2026-02-16T16:38:00+01:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Prad-po-160-zl-za-MWh-Eksperci-To-mozliwe-jesli-potroimy-moc-wiatrakow-9084425.html",
+      "url": "https://www.bankier.pl/wiadomosc/Prad-po-160-zl-za-MWh-Eksperci-To-mozliwe-jesli-potroimy-moc-wiatrakow-9084425.html",
+      "title": "Prąd po 160 zł za MWh? Eksperci: To możliwe, jeśli potroimy moc wiatraków",
+      "content_html": "Trzykrotny wzrost mocy w energetyce wiatrowej i szybszy jej rozwój w stosunku do propozycji rządu, przełoży się na spadek hurtowych cen energii elektrycznej do poziomu 160-320 zł za MWh po 2035 r. - szacuje w analizie firma doradcza Baker Tilly...",
+      "date_published": "2026-02-16T16:27:00+01:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Helio-szacuje-zysk-netto-w-II-kw-2025-26-na-15-mln-zl-wobec-9-889-tys-zl-rok-wczesniej-9084488.html",
+      "url": "https://www.bankier.pl/wiadomosc/Helio-szacuje-zysk-netto-w-II-kw-2025-26-na-15-mln-zl-wobec-9-889-tys-zl-rok-wczesniej-9084488.html",
+      "title": "Helio szacuje zysk netto w II kw. 2025/26 na 15 mln zł wobec 9 889 tys. zł rok wcześniej",
+      "content_html": "Helio spodziewa się, że w drugim kwartale roku obrotowego 2025/2026 (październik - grudzień 2025) zysk netto wyniósł ok. 15 mln zł wobec 9.889 tys. zł w analogicznym okresie poprzedniego roku - podał dystrybutor bakalii w komunikacie.",
+      "date_published": "2026-02-16T16:10:00+01:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/firmy/helio-szacuje-zysk-netto-w-ii-kw-202526-na-15-mln-zl-wobec-9889-tys-zl-rok",
+      "url": "https://biznes.pap.pl/wiadomosci/firmy/helio-szacuje-zysk-netto-w-ii-kw-202526-na-15-mln-zl-wobec-9889-tys-zl-rok",
+      "title": "Helio szacuje zysk netto w II kw. 2025/26 na 15 mln zł wobec 9.889 tys. zł rok wcześniej",
+      "content_html": "Helio spodziewa się, że w drugim kwartale roku obrotowego 2025/2026 (październik - grudzień 2025) zysk netto wyniósł ok. 15 mln zł wobec 9.889 tys. zł w analogicznym okresie poprzedniego roku - podał ",
+      "date_published": "2026-02-16T16:08:00+01:00",
+      "source": "PAP Biznes"
+    },
+    {
       "id": "https://biznes.pap.pl/wiadomosci/gospodarka/deficyt-budzetu-po-styczniu-2026-r-wyniosl-37-mld-zl-mf",
       "url": "https://biznes.pap.pl/wiadomosci/gospodarka/deficyt-budzetu-po-styczniu-2026-r-wyniosl-37-mld-zl-mf",
       "title": "Deficyt budżetu po styczniu 2026 r. wyniósł 3,7 mld zł - MF",
@@ -173,28 +221,12 @@
       "source": "PAP Biznes"
     },
     {
-      "id": "https://biznes.pap.pl/wiadomosci/rynki/dzien-na-rynkach-indeksy-w-europie-na-plusach-w-usa-gieldy-zamkniete",
-      "url": "https://biznes.pap.pl/wiadomosci/rynki/dzien-na-rynkach-indeksy-w-europie-na-plusach-w-usa-gieldy-zamkniete",
-      "title": "DZIEŃ NA RYNKACH: Indeksy w Europie na plusach; w USA giełdy zamknięte",
-      "content_html": "W Europie indeksy giełdowe zniżkują, a rynki w USA i w Chinach są zamknięte z powodu świąt. Inwestorzy oceniają perspektywy dla sektora AI oraz wyniki kwartalne spółek w regionie. Dolar umacnia się.",
-      "date_published": "2026-02-16T14:21:00+01:00",
-      "source": "PAP Biznes"
-    },
-    {
       "id": "https://www.bankier.pl/wiadomosc/NanoGroup-zakonczylo-emisje-akcji-serii-N-z-ktorej-pozyska-24-5-mln-zl-9084393.html",
       "url": "https://www.bankier.pl/wiadomosc/NanoGroup-zakonczylo-emisje-akcji-serii-N-z-ktorej-pozyska-24-5-mln-zl-9084393.html",
       "title": "NanoGroup zakończyło emisję akcji serii N, z której pozyska 24,5 mln zł",
       "content_html": "NanoGroup zawarło ostatnią umowę objęcia akcji serii N. Łączna wartość pozyskanego kapitału wyniosła 24,5 mln zł, co w pełni wykorzystuje maksymalną liczbę akcji określoną w uchwale NWZ z października 2025 r. - podało NanoGroup w komunikacie...",
       "date_published": "2026-02-16T14:20:00+01:00",
       "source": "Bankier.pl"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/firmy/nanogroup-zakonczylo-emisje-akcji-serii-n-z-ktorej-pozyska-245-mln-zl",
-      "url": "https://biznes.pap.pl/wiadomosci/firmy/nanogroup-zakonczylo-emisje-akcji-serii-n-z-ktorej-pozyska-245-mln-zl",
-      "title": "NanoGroup zakończyło emisję akcji serii N, z której pozyska 24,5 mln zł",
-      "content_html": "NanoGroup zawarło ostatnią umowę objęcia akcji serii N. Łączna wartość pozyskanego kapitału wyniosła 24,5 mln zł, co w pełni wykorzystuje maksymalną liczbę akcji określoną w uchwale NWZ z października",
-      "date_published": "2026-02-16T14:18:00+01:00",
-      "source": "PAP Biznes"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Sasin-alarmuje-o-prywatyzacji-10-spolek-MAP-odpowiada-Nie-stracimy-kontroli-naprawiamy-bledy-poprzednikow-9084367.html",
@@ -365,12 +397,36 @@
       "source": "Bankier.pl"
     },
     {
+      "id": "https://biznes.pap.pl/wiadomosci/gospodarka/do-15-lutego-podpisano-umowy-na-607-proc-funduszy-ue-na-lata-2021-2027-mfipr",
+      "url": "https://biznes.pap.pl/wiadomosci/gospodarka/do-15-lutego-podpisano-umowy-na-607-proc-funduszy-ue-na-lata-2021-2027-mfipr",
+      "title": "Do 15 lutego podpisano umowy na 60,7 proc. funduszy UE na lata 2021-2027 - MFiPR",
+      "content_html": "Do 15 lutego podpisano 24.412 umów na unijne dofinansowanie projektów, które wykorzystają 60,7 proc. dostępnej puli środków z polityki spójności UE na lata 2021-2027 - poinformowało na stronie Ministe",
+      "date_published": "2026-02-16T10:30:00+01:00",
+      "source": "PAP Biznes"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/firmy/gaz-system-ma-komplet-decyzji-lokalizacyjnych-dla-polaczenia-pomiedzy-wezlami",
+      "url": "https://biznes.pap.pl/wiadomosci/firmy/gaz-system-ma-komplet-decyzji-lokalizacyjnych-dla-polaczenia-pomiedzy-wezlami",
+      "title": "Gaz-System ma komplet decyzji lokalizacyjnych dla połączenia pomiędzy węzłami gazowymi w płd. Polsce",
+      "content_html": "Gaz-System ma komplet decyzji lokalizacyjnych dla inwestycji w południowej Polsce - gazociągu DN 1000 Wronów - Rozwadów oraz gazociągu Rozwadów – Strachocina - podał Gaz-System w komunikacie prasowym.",
+      "date_published": "2026-02-16T10:28:00+01:00",
+      "source": "PAP Biznes"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Przychody-mLeasing-w-25-wzrosly-o-6-3-proc-rdr-liczba-klientow-wzrosla-o-6-5-proc-9084257.html",
       "url": "https://www.bankier.pl/wiadomosc/Przychody-mLeasing-w-25-wzrosly-o-6-3-proc-rdr-liczba-klientow-wzrosla-o-6-5-proc-9084257.html",
       "title": "Przychody mLeasing w '25 wzrosły o 6,3 proc. rdr. Liczba klientów wzrosła o 6,5 proc.",
       "content_html": "Przychody mLeasing w 2025 r. wzrosły o 6,3 proc. rdr – z 480,2 mln zł w 2024 r. do 510,6 mln zł w 2025 r. - podał mLeasing w komunikacie prasowym. Liczba nowo zawartych umów zwiększyła się o 3,8 proc. do 32.152, a klientów wzrosła o 6,5 proc...",
       "date_published": "2026-02-16T10:16:00+01:00",
       "source": "Bankier.pl"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/firmy/przychody-mleasing-w-25-wzrosly-o-63-proc-rdr-liczba-klientow-wzrosla-o-65-proc",
+      "url": "https://biznes.pap.pl/wiadomosci/firmy/przychody-mleasing-w-25-wzrosly-o-63-proc-rdr-liczba-klientow-wzrosla-o-65-proc",
+      "title": "Przychody mLeasing w '25 wzrosły o 6,3 proc. rdr; liczba klientów wzrosła o 6,5 proc.",
+      "content_html": "Przychody mLeasing w 2025 r. wzrosły o 6,3 proc. rdr – z 480,2 mln zł w 2024 r. do 510,6 mln zł w 2025 r. - podał mLeasing w komunikacie prasowym. Liczba nowo zawartych umów zwiększyła się o 3,8 proc.",
+      "date_published": "2026-02-16T10:15:00+01:00",
+      "source": "PAP Biznes"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Ucieczka-do-Czech-bo-Polska-jest-juz-za-droga-Oto-realia-zimowych-kurortow-9084166.html",
@@ -1002,22 +1058,6 @@
       "title": "Pentagon: Nasi żołnierze weszli na pokład objętego sankcjami tankowca",
       "content_html": "Siły USA weszły na pokład objętego sankcjami tankowca Veronica III w ramach działań przeciwko Iranowi - poinformował w niedzielę Pentagon. Statek transportujący ok. 2 mln baryłek ropy i oleju opałowego opuścił wody Wenezueli 3 stycznia, gdy...",
       "date_published": "2026-02-15T17:44:00+01:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Znikajace-polskie-porodowki-Zamknieto-ponad-100-w-mniej-w-15-lat-9081732.html",
-      "url": "https://www.bankier.pl/wiadomosc/Znikajace-polskie-porodowki-Zamknieto-ponad-100-w-mniej-w-15-lat-9081732.html",
-      "title": "Znikające polskie porodówki. Zamknięto ponad 100 w mniej w 15 lat",
-      "content_html": "Liczba porodówek spadła z 406 w 2010 r. do 305 w 2025 r. - wynika z danych Ministerstwa Zdrowia. Na posiedzeniu sejmowego zespołu eksperci zwracali uwagę, że brakuje kompleksowych rozwiązań dla kobiet, które mają daleko do szpitala z oddziałem...",
-      "date_published": "2026-02-15T16:15:00+01:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Tak-demografia-wplynie-na-rynek-mieszkan-Nowy-raport-9082580.html",
-      "url": "https://www.bankier.pl/wiadomosc/Tak-demografia-wplynie-na-rynek-mieszkan-Nowy-raport-9082580.html",
-      "title": "Tak demografia wpłynie na rynek mieszkań. Nowy raport",
-      "content_html": "Do 2040 r. roku udział osób w wieku 65+ wzrośnie do niemal 30 proc. populacji, co wpłynie na strukturę popytu na mieszkania, ale i przesunie oczekiwania wobec standardu życia oraz sposobu korzystania z mieszkań w stronę bezpieczeństwa, funkcjonalności...",
-      "date_published": "2026-02-15T16:15:00+01:00",
       "source": "Bankier.pl"
     }
   ]
