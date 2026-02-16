@@ -5,6 +5,30 @@
   "home_page_url": "https://www.bankier.pl",
   "items": [
     {
+      "id": "https://biznes.pap.pl/wiadomosci/ekonomia-biznes-i-finanse/skrot-wiadomosci-poniedzialek-16-lutego-2100",
+      "url": "https://biznes.pap.pl/wiadomosci/ekonomia-biznes-i-finanse/skrot-wiadomosci-poniedzialek-16-lutego-2100",
+      "title": "Skrót wiadomości - poniedziałek, 16 lutego, 21.00",
+      "content_html": "Przegląd najważniejszych wiadomości gospodarczych, krajowych i ze świata.",
+      "date_published": "2026-02-16T21:00:00+01:00",
+      "source": "PAP Biznes"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Bunt-na-prawicy-Rekordowy-wzrost-partii-Grzegorza-Brauna-w-nowym-badaniu-9084648.html",
+      "url": "https://www.bankier.pl/wiadomosc/Bunt-na-prawicy-Rekordowy-wzrost-partii-Grzegorza-Brauna-w-nowym-badaniu-9084648.html",
+      "title": "Bunt na prawicy? Rekordowy wzrost partii Grzegorza Brauna w nowym badaniu",
+      "content_html": "Gdyby wybory parlamentarne odbyły się w połowie lutego br., zwyciężyłaby Koalicja Obywatelska z wynikiem 32,5 proc. głosów - wynika z sondażu United Surveys by IBRiS dla Wirtualnej Polski. PiS mogłoby liczyć na 22,7 proc. głosów, a Konfederacja...",
+      "date_published": "2026-02-16T20:53:00+01:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Awantura-o-SAFE-eskaluje-Sikorski-Tu-sa-potrzebne-egzorcyzmy-Prezesowi-sie-cos-odkleilo-9084499.html",
+      "url": "https://www.bankier.pl/wiadomosc/Awantura-o-SAFE-eskaluje-Sikorski-Tu-sa-potrzebne-egzorcyzmy-Prezesowi-sie-cos-odkleilo-9084499.html",
+      "title": "Awantura o SAFE eskaluje. Sikorski: Tu są potrzebne egzorcyzmy. Prezesowi się coś odkleiło",
+      "content_html": "Ostry spór o unijne miliardy na zbrojenia. Wicepremier Radosław Sikorski stwierdził, że wobec słów Jarosława Kaczyńskiego o „Polsce pod niemieckim butem” potrzebne są „egzorcyzmy”. Podczas gdy prezes PiS wzywa prezydenta Karola Nawrockiego...",
+      "date_published": "2026-02-16T20:30:00+01:00",
+      "source": "Bankier.pl"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Sprzeciw-Aberdeen-wobec-przejecia-InPostu-przez-FedEx-i-Advent-9084676.html",
       "url": "https://www.bankier.pl/wiadomosc/Sprzeciw-Aberdeen-wobec-przejecia-InPostu-przez-FedEx-i-Advent-9084676.html",
       "title": "Sprzeciw Aberdeen wobec przejęcia InPostu przez FedEx i Advent",
@@ -15,7 +39,7 @@
     {
       "id": "https://www.bankier.pl/wiadomosc/mBank-z-apelem-do-klientow-po-decyzji-Euronetu-Wyplacajcie-pieniadze-z-innych-bankomatow-9084677.html",
       "url": "https://www.bankier.pl/wiadomosc/mBank-z-apelem-do-klientow-po-decyzji-Euronetu-Wyplacajcie-pieniadze-z-innych-bankomatow-9084677.html",
-      "title": "mBank z apelem do klientów po decyzji Euronetu: „Wypłacajcie pieniądze z innych bankomatów”",
+      "title": "mBank z apelem do klientów po decyzji Euronetu: Wypłacajcie pieniądze z innych bankomatów",
       "content_html": "Napięta sytuacja na rynku bankomatowym. Jak pisaliśmy kilka dni temu, Euronet zdecydował się na ograniczenie wypłat gotówki z bankomatów Blikiem do 200 zł. Decyzja ta uderzy m.in. w klientów mBanku, którzy mają darmowe wypłaty od 300 zł...",
       "date_published": "2026-02-16T20:24:00+01:00",
       "source": "Bankier.pl"
@@ -34,6 +58,14 @@
       "title": "Czy AI zastąpi uniwersytety? O przyszłości świata, chińskiej dominacji i polskich priorytetach",
       "content_html": "Kto wygra rewolucję AI? Prof. Alojzy Nowak, rektor Uniwersytetu Warszawskiego, specjalnie dla Bankier.pl: To duże firmy zyskają pierwsze, państwo musi bronić ludzi.",
       "date_published": "2026-02-16T19:53:00+01:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Miliardy-dolarow-za-Trump-Station-Prezydent-USA-Nie-proponowalem-zmiany-nazwy-9084654.html",
+      "url": "https://www.bankier.pl/wiadomosc/Miliardy-dolarow-za-Trump-Station-Prezydent-USA-Nie-proponowalem-zmiany-nazwy-9084654.html",
+      "title": "Miliardy dolarów za „Trump Station”? Prezydent USA: Nie proponowałem zmiany nazwy",
+      "content_html": "Prezydent USA Donald Trump w poniedziałek zapewnił, że to nie on wymyślił, by jego imieniem nazwać główny dworzec kolejowy w Nowym Jorku i zarzucił mediom szerzenie fałszywych informacji w tej sprawie.",
+      "date_published": "2026-02-16T19:45:00+01:00",
       "source": "Bankier.pl"
     },
     {
@@ -175,8 +207,8 @@
     {
       "id": "https://www.bankier.pl/wiadomosc/Artur-Blazejak-delegowany-do-pelnienia-obowiazkow-prezesa-Grupy-Azoty-Zaklady-Chemiczne-Police-9084591.html",
       "url": "https://www.bankier.pl/wiadomosc/Artur-Blazejak-delegowany-do-pelnienia-obowiazkow-prezesa-Grupy-Azoty-Zaklady-Chemiczne-Police-9084591.html",
-      "title": "Artur Błażejak delegowany do pełnienia obowiązków prezesa Grupy Azoty Zakłady Chemiczne \"Police\" Rada Nadzorcza Grupy Azoty Zakłady Chemiczne \"Police\" podjęła uchwałę w sprawie delegowania wiceprezesa spółki Artura Błażejaka do wykonywania obowiązków prezesa - podała spółka w komunikacie.",
-      "content_html": "",
+      "title": "Artur Błażejak delegowany do pełnienia obowiązków prezesa Grupy Azoty Zakłady Chemiczne \"Police\"",
+      "content_html": "Rada Nadzorcza Grupy Azoty Zakłady Chemiczne \"Police\" podjęła uchwałę w sprawie delegowania wiceprezesa spółki Artura Błażejaka do wykonywania obowiązków prezesa - podała spółka w komunikacie.",
       "date_published": "2026-02-16T18:16:00+01:00",
       "source": "Bankier.pl"
     },
@@ -203,6 +235,14 @@
       "content_html": "Poniżej zamknięcia i zmiany wybranych indeksów giełdowych w Europie.",
       "date_published": "2026-02-16T17:59:00+01:00",
       "source": "PAP Biznes"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Wielka-awaria-serwisu-X-Nie-dziala-ani-aplikacja-ani-strona-www-9084435.html",
+      "url": "https://www.bankier.pl/wiadomosc/Wielka-awaria-serwisu-X-Nie-dziala-ani-aplikacja-ani-strona-www-9084435.html",
+      "title": "Wielka awaria serwisu X. Nie działała ani aplikacja, ani strona www",
+      "content_html": "Działanie platformy X zostało w poniedziałek po południu przywrócone po krótkiej awarii. Nadal nie jest jasne, co było przyczyną przerwy w dostępie do serwisu.",
+      "date_published": "2026-02-16T17:56:00+01:00",
+      "source": "Bankier.pl"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Nawalny-otruty-w-wiezieniu-Kreml-odrzuca-oskarzenia-Zachodu-9084283.html",
@@ -347,14 +387,6 @@
       "content_html": "Nie ma mowy o żadnych sojuszach z Konfederacją Korony Polskiej, partią europosła Grzegorza Brauna - podkreślił w poniedziałek prezes PiS Jarosław Kaczyński. W jego ocenie jest to ugrupowanie „niepoważne”, tworzone przez ludzi, których -...",
       "date_published": "2026-02-16T15:44:00+01:00",
       "source": "Bankier.pl"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/firmy/dzien-na-gpw-wiekszosc-glownych-indeksow-utrzymuje-lekkie-wzrosty-wig20-zwyzkuje",
-      "url": "https://biznes.pap.pl/wiadomosci/firmy/dzien-na-gpw-wiekszosc-glownych-indeksow-utrzymuje-lekkie-wzrosty-wig20-zwyzkuje",
-      "title": "DZIEŃ NA GPW: Większość głównych indeksów utrzymuje lekkie wzrosty; WIG20 zwyżkuje 0,2 proc.",
-      "content_html": "Większość głównych indeksów warszawskiej GPW utrzymuje lekkie wzrosty, WIG20 zwyżkuje o ok. 0,2 proc. Najsilniejszy w WIG20 jest Santander Bank Polska, którego akcje idą w górę o 2,3 proc.",
-      "date_published": "2026-02-16T15:44:00+01:00",
-      "source": "PAP Biznes"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Wypowiedzieli-wojne-flipperom-i-podwyzkom-cen-mieszkan-Mozna-juz-sprawdzic-jak-drozeja-mieszkania-9084430.html",
@@ -515,6 +547,14 @@
       "content_html": "MOL Polska planuje, że w pierwszej połowie roku pod szyldem marki pojawi się łącznie dziesięć nowych lokalizacji – podał MOL w komunikacie prasowym.",
       "date_published": "2026-02-16T12:30:00+01:00",
       "source": "Bankier.pl"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/firmy/mol-polska-planuje-w-i-polr-dziesiec-nowych-lokalizacji-pod-szyldem-marki",
+      "url": "https://biznes.pap.pl/wiadomosci/firmy/mol-polska-planuje-w-i-polr-dziesiec-nowych-lokalizacji-pod-szyldem-marki",
+      "title": "MOL Polska planuje w I półr. dziesięć nowych lokalizacji pod szyldem marki",
+      "content_html": "MOL Polska planuje, że w pierwszej połowie roku pod szyldem marki pojawi się łącznie dziesięć nowych lokalizacji – podał MOL w komunikacie prasowym.",
+      "date_published": "2026-02-16T12:28:00+01:00",
+      "source": "PAP Biznes"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/10-mld-zl-na-rozbudowe-A4-Minister-infrastruktury-podpisal-aneksy-dla-120-km-trasy-9084298.html",
@@ -973,6 +1013,22 @@
       "source": "Bankier.pl"
     },
     {
+      "id": "https://www.bankier.pl/wiadomosc/Wichury-i-ulewy-w-Nowej-Zelandii-Miasta-pod-woda-i-zablokowane-drogi-9084117.html",
+      "url": "https://www.bankier.pl/wiadomosc/Wichury-i-ulewy-w-Nowej-Zelandii-Miasta-pod-woda-i-zablokowane-drogi-9084117.html",
+      "title": "Wichury i ulewy w Nowej Zelandii. Miasta pod wodą i zablokowane drogi",
+      "content_html": "Ulewne deszcze i silne wiatry zakłóciły w poniedziałek loty, ruch pociągów i promów oraz zmusiły do zamknięcia dróg w niektórych częściach Wyspy Północnej Nowej Zelandii, pozbawiając prądu dziesiątki tysięcy mieszkańców, poinformowały...",
+      "date_published": "2026-02-16T07:32:00+01:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Koniec-uzaleznienia-od-USA-Nowa-strategia-dla-przemyslu-obronnego-9084134.html",
+      "url": "https://www.bankier.pl/wiadomosc/Koniec-uzaleznienia-od-USA-Nowa-strategia-dla-przemyslu-obronnego-9084134.html",
+      "title": "Koniec uzależnienia od USA? Nowa strategia dla przemysłu obronnego",
+      "content_html": "Nowa kanadyjska strategia dla przemysłu obronnego zakłada, że 70 proc. zamówień armii będzie trafiać do kanadyjskich firm, a uzależnienie od dostaw z USA się zakończy – podały w niedzielę kanadyjskie media.",
+      "date_published": "2026-02-16T07:27:00+01:00",
+      "source": "Bankier.pl"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Nowe-prawo-w-Polsce-Zmiany-dotkna-tysiecy-rodzin-9084122.html",
       "url": "https://www.bankier.pl/wiadomosc/Nowe-prawo-w-Polsce-Zmiany-dotkna-tysiecy-rodzin-9084122.html",
       "title": "Nowe prawo w Polsce. Zmiany dotkną tysięcy rodzin",
@@ -1165,35 +1221,11 @@
       "source": "Bankier.pl"
     },
     {
-      "id": "https://www.bankier.pl/wiadomosc/Arabski-sojusz-przeciwko-USA-Talibowie-deklaruja-pomoc-dla-Iranu-9084116.html",
-      "url": "https://www.bankier.pl/wiadomosc/Arabski-sojusz-przeciwko-USA-Talibowie-deklaruja-pomoc-dla-Iranu-9084116.html",
-      "title": "Arabski sojusz przeciwko USA. Talibowie deklarują pomoc dla Iranu",
-      "content_html": "Rządzący Afganistanem talibowie zadeklarowali gotowość wsparcia Iranu, jeśli zostanie zaatakowany przez Stany Zjednoczone, powiedział w niedzielę rzecznik Afganistanu, Zabihullah Mudżahid.",
-      "date_published": "2026-02-16T01:12:00+01:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Pelczynska-Nalecz-Czesc-ludzi-nie-uznaje-wyniku-wyborow-w-partii-9084108.html",
-      "url": "https://www.bankier.pl/wiadomosc/Pelczynska-Nalecz-Czesc-ludzi-nie-uznaje-wyniku-wyborow-w-partii-9084108.html",
-      "title": "Pełczyńska-Nałęcz: Część ludzi nie uznaje wyniku wyborów w partii",
-      "content_html": "Kryzys w Polsce 2050 wynika z tego, że część ludzi nie uznaje wyniku wyborów w partii - oceniła w Wirtualnej Polsce szefowa tej partii Katarzyna Pełczyńska-Nałęcz. Dodała, że jeśli ludzie chcą współpracować, to zaprasza do rozmowy, a...",
-      "date_published": "2026-02-15T22:00:00+01:00",
-      "source": "Bankier.pl"
-    },
-    {
       "id": "https://www.bankier.pl/wiadomosc/Wojna-o-Warner-Bros-Discovery-Paramount-wraca-do-gry-9084107.html",
       "url": "https://www.bankier.pl/wiadomosc/Wojna-o-Warner-Bros-Discovery-Paramount-wraca-do-gry-9084107.html",
-      "title": "Wojna o Warner Bros. Discovery. Paramount wraca do gry?",
-      "content_html": "Członkowie zarządu Warner Bros. Discovery rozważają wznowienie rozmów z koncernem Paramount Skydance na temat przejęcia firmy - podał w niedzielę Bloomberg. Ma to być efekt ulepszonej oferty Paramount Skydance.",
+      "title": "BLOOMBERG Wojna o Warner Bros. Discovery. Paramount wraca do gry? Członkowie zarządu Warner Bros. Discovery rozważają wznowienie rozmów z koncernem Paramount Skydance na temat przejęcia firmy - podał w niedzielę Bloomberg. Ma to być efekt ulepszonej oferty Paramount Skydance.",
+      "content_html": "",
       "date_published": "2026-02-15T21:54:00+01:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Aneksja-Zachodniego-Brzegu-Przelomowa-decyzja-rzadu-Izraela-ale-eksperci-ostrzegaja-przed-skutkami-9084101.html",
-      "url": "https://www.bankier.pl/wiadomosc/Aneksja-Zachodniego-Brzegu-Przelomowa-decyzja-rzadu-Izraela-ale-eksperci-ostrzegaja-przed-skutkami-9084101.html",
-      "title": "Aneksja Zachodniego Brzegu? Przełomowa decyzja rządu Izraela, ale eksperci ostrzegają przed skutkami",
-      "content_html": "Rząd Izraela zatwierdził w niedzielę rozpoczęcie procesu rejestracji ziemi na dużej części okupowanego Zachodniego Brzegu Jordanu. Zdaniem krytyków ułatwi to kupowanie gruntów przez żydowskich osadników oraz zwiększy kontrolę Izraela nad...",
-      "date_published": "2026-02-15T21:12:00+01:00",
       "source": "Bankier.pl"
     }
   ]
