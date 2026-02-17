@@ -5,10 +5,186 @@
   "home_page_url": "https://www.bankier.pl",
   "items": [
     {
+      "id": "https://biznes.pap.pl/wiadomosci/rynki/dzien-na-rynkach-kontrakty-w-usa-na-minusach-niepokoj-o-sektor-ai",
+      "url": "https://biznes.pap.pl/wiadomosci/rynki/dzien-na-rynkach-kontrakty-w-usa-na-minusach-niepokoj-o-sektor-ai",
+      "title": "DZIEŃ NA RYNKACH: Kontrakty w USA na minusach; niepokój o sektor AI",
+      "content_html": "Futures w USA zniżkują, a indeksy w Europie są głównie na plusach. Inwestorzy obawiają się o wysokie wyceny oraz wydatki inwestycyjne spółek. Dolar umacnia się.",
+      "date_published": "2026-02-17T13:52:00+01:00",
+      "source": "PAP Biznes"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/firmy/ponad-16-mln-prosumentow-w-polsce-na-koniec-25-are",
+      "url": "https://biznes.pap.pl/wiadomosci/firmy/ponad-16-mln-prosumentow-w-polsce-na-koniec-25-are",
+      "title": "Ponad 1,6 mln prosumentów w Polsce na koniec '25 - ARE",
+      "content_html": "Łączna liczba prosumentów energii odnawialnej w Polsce wynosiła 1.610.086 na koniec grudnia 2025 r. wobec 1.520.362 na koniec grudnia 2024 r. - poinformowała na platformie Linkedin Agencja Rynku Energ",
+      "date_published": "2026-02-17T13:50:00+01:00",
+      "source": "PAP Biznes"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Enea-rozpoczela-budowe-blokow-gazowo-parowych-w-Kozienicach-o-lacznej-mocy-1336-MWe-9085026.html",
+      "url": "https://www.bankier.pl/wiadomosc/Enea-rozpoczela-budowe-blokow-gazowo-parowych-w-Kozienicach-o-lacznej-mocy-1336-MWe-9085026.html",
+      "title": "Enea rozpoczęła budowę bloków gazowo-parowych w Kozienicach o łącznej mocy 1336 MWe",
+      "content_html": "Grupa Enea rozpoczęła budowę dwóch bloków gazowo-parowych w technologii CCGT (Combined Cycle Gas Turbine) w Elektrowni Kozienice, o łącznej mocy zainstalowanej brutto około 1336 MWe - podała spółka. Planowany termin przekazania bloków do eksploatacji...",
+      "date_published": "2026-02-17T13:44:00+01:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Powstanie-bezposrednie-polaczenie-kolejowe-miedzy-Polska-Niemcami-i-Francja-9084996.html",
+      "url": "https://www.bankier.pl/wiadomosc/Powstanie-bezposrednie-polaczenie-kolejowe-miedzy-Polska-Niemcami-i-Francja-9084996.html",
+      "title": "Powstanie bezpośrednie połączenie kolejowe między Polską, Niemcami i Francją",
+      "content_html": "Polska, Niemcy i Francja chcą utworzyć bezpośrednie połączenia kolejowe między tymi krajami - poinformował we wtorek minister infrastruktury Dariusz Klimczak, po spotkaniu ze swoimi odpowiednikami z Niemiec i Francji, na którym podpisano dokument...",
+      "date_published": "2026-02-17T13:43:00+01:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/firmy/enea-rozpoczela-budowe-blokow-gazowo-parowych-w-kozienicach-o-lacznej-mocy-1336",
+      "url": "https://biznes.pap.pl/wiadomosci/firmy/enea-rozpoczela-budowe-blokow-gazowo-parowych-w-kozienicach-o-lacznej-mocy-1336",
+      "title": "Enea rozpoczęła budowę bloków gazowo-parowych w Kozienicach o łącznej mocy 1336 MWe",
+      "content_html": "Grupa Enea rozpoczęła budowę dwóch bloków gazowo-parowych w technologii CCGT (Combined Cycle Gas Turbine) w Elektrowni Kozienice, o łącznej mocy zainstalowanej brutto około 1336 MWe - podała spółka. P",
+      "date_published": "2026-02-17T13:43:00+01:00",
+      "source": "PAP Biznes"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/transport-i-logistyka/polska-niemcy-i-francja-podpisaly-dokument-o-wspolpracy-w-zakresie",
+      "url": "https://biznes.pap.pl/wiadomosci/transport-i-logistyka/polska-niemcy-i-francja-podpisaly-dokument-o-wspolpracy-w-zakresie",
+      "title": "Polska, Niemcy i Francja podpisały dokument o współpracy w zakresie transportu",
+      "content_html": "Polska, Niemcy i Francja chcą utworzyć bezpośrednie połączenia kolejowe między tymi krajami - poinformował we wtorek minister infrastruktury Dariusz Klimczak po spotkaniu ze swoimi odpowiednikami z Ni",
+      "date_published": "2026-02-17T13:41:00+01:00",
+      "source": "PAP Biznes"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Synektik-oczekuje-dalszego-wzrostu-znorm-EBITDA-wplyw-sprzedazy-w-Ukrainie-w-kolejnym-roku-9085016.html",
+      "url": "https://www.bankier.pl/wiadomosc/Synektik-oczekuje-dalszego-wzrostu-znorm-EBITDA-wplyw-sprzedazy-w-Ukrainie-w-kolejnym-roku-9085016.html",
+      "title": "Synektik oczekuje dalszego wzrostu znorm. EBITDA; wpływ sprzedaży w Ukrainie w kolejnym roku",
+      "content_html": "Synektik oczekuje dalszego wzrostu dynamiki znormalizowanej EBITDA oraz wyższych przychodów powtarzalnych - poinformował wiceprezes Dariusz Korecki. Dodał, że pierwsze systemy da Vinci w krajach bałtyckich pojawią się w tym roku, natomiast wpływ...",
+      "date_published": "2026-02-17T13:28:00+01:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/firmy/synektik-oczekuje-dalszego-wzrostu-znorm-ebitda-wplyw-sprzedazy-w-ukrainie-w",
+      "url": "https://biznes.pap.pl/wiadomosci/firmy/synektik-oczekuje-dalszego-wzrostu-znorm-ebitda-wplyw-sprzedazy-w-ukrainie-w",
+      "title": "Synektik oczekuje dalszego wzrostu znorm. EBITDA; wpływ sprzedaży w Ukrainie w kolejnym roku",
+      "content_html": "Synektik oczekuje dalszego wzrostu dynamiki znormalizowanej EBITDA oraz wyższych przychodów powtarzalnych - poinformował wiceprezes Dariusz Korecki. Dodał, że pierwsze systemy da Vinci w krajach bałty",
+      "date_published": "2026-02-17T13:26:00+01:00",
+      "source": "PAP Biznes"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/gospodarka/srednia-inflacja-krajow-cee8-spowolni-do-32-proc-w-2026-z-4-proc-w-2025-erste",
+      "url": "https://biznes.pap.pl/wiadomosci/gospodarka/srednia-inflacja-krajow-cee8-spowolni-do-32-proc-w-2026-z-4-proc-w-2025-erste",
+      "title": "Średnia inflacja krajów CEE8 spowolni do 3,2 proc. w 2026 z 4 proc. w 2025 - Erste",
+      "content_html": "Ekonomiści banku Erste prognozują średnią inflację w 2026 r. w ośmiu krajach regionu Europy Środkowo-Wschodniej na poziomie 3,2 proc. wobec 4 proc. w 2025 r. - wynika z raportu banku. Ekonomiści spodz",
+      "date_published": "2026-02-17T13:15:00+01:00",
+      "source": "PAP Biznes"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Tusk-o-skladce-na-Rade-Pokoju-pieniadze-sa-potrzebne-na-inwestycje-w-naszych-miastach-9085008.html",
+      "url": "https://www.bankier.pl/wiadomosc/Tusk-o-skladce-na-Rade-Pokoju-pieniadze-sa-potrzebne-na-inwestycje-w-naszych-miastach-9085008.html",
+      "title": "Tusk o składce na Radę Pokoju: pieniądze są potrzebne na inwestycje w naszych miastach",
+      "content_html": "Polska na pewno nie zamierza wysłać i nie wyśle polskich żołnierzy do Strefy Gazy - oświadczył we wtorek premier Donald Tusk, odnosząc się do kwestii Rady Pokoju. Przypomniał, że rząd nie przewiduje „w tych okolicznościach i warunkach”...",
+      "date_published": "2026-02-17T13:13:00+01:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/firmy/w-25-zrealizowano-29-mld-transakcji-blikiem-ich-wartosc-wyniosla-4415-mld-zl",
+      "url": "https://biznes.pap.pl/wiadomosci/firmy/w-25-zrealizowano-29-mld-transakcji-blikiem-ich-wartosc-wyniosla-4415-mld-zl",
+      "title": "W '25 zrealizowano 2,9 mld transakcji Blikiem, a ich wartość wyniosła 441,5 mld zł",
+      "content_html": "W 2025 roku użytkownicy Blika zrealizowali łącznie 2,9 mld transakcji o wartości 441,5 mld zł - poinformował Polski Standard Płatności podczas konferencji. Spółka zapowiedziała wdrożenie platformy cas",
+      "date_published": "2026-02-17T13:10:00+01:00",
+      "source": "PAP Biznes"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Pekao-w-konsorcjum-bankow-ktore-udzielily-lacznie-523-mln-zl-kredytu-na-budowe-Term-Bachleda-9084875.html",
+      "url": "https://www.bankier.pl/wiadomosc/Pekao-w-konsorcjum-bankow-ktore-udzielily-lacznie-523-mln-zl-kredytu-na-budowe-Term-Bachleda-9084875.html",
+      "title": "Pekao w konsorcjum banków, które udzieliły kredytu na budowę Term Bachleda",
+      "content_html": "Na budowę nowoczesnego kompleksu basenów termalnych na Polanie Szymoszkowej w Zakopanem konsorcjum banków udzieliło 523 mln zł finansowania, z czego 215 mln zł przypada na Bank Pekao - poinformował bank w komunikacie. Pekao jest organizatorem finansowania...",
+      "date_published": "2026-02-17T12:59:00+01:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Inwestycje-w-zbrojeniowke-Premier-Inwestycje-w-sama-Hute-Stalowa-Wola-wyniosa-ponad-20-mld-zl-9084995.html",
+      "url": "https://www.bankier.pl/wiadomosc/Inwestycje-w-zbrojeniowke-Premier-Inwestycje-w-sama-Hute-Stalowa-Wola-wyniosa-ponad-20-mld-zl-9084995.html",
+      "title": "Inwestycje w zbrojeniówkę. Premier: Inwestycje w samą Hutę Stalowa Wola wyniosą ponad 20 mld zł",
+      "content_html": "Według prognoz Agencji Uzbrojenia, wartość inwestycji z programu SAFE w samą Hutę Stalowa Wola przekroczy 20 miliardów złotych - podkreślił we wtorek premier Donald Tusk. Mowa o inwestycji, która będzie służyła polskiej gospodarce, obronności...",
+      "date_published": "2026-02-17T12:58:00+01:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Wielki-powrot-politycznej-dynastii-Tarique-Rahman-przejal-wladze-w-Bangladeszu-9084975.html",
+      "url": "https://www.bankier.pl/wiadomosc/Wielki-powrot-politycznej-dynastii-Tarique-Rahman-przejal-wladze-w-Bangladeszu-9084975.html",
+      "title": "Wielki powrót politycznej dynastii. Tarique Rahman przejął władzę w Bangladeszu",
+      "content_html": "Tarique Rahman został we wtorek zaprzysiężony na premiera Bangladeszu po zdecydowanym zwycięstwie jego partii w wyborach parlamentarnych. Było to pierwsze głosowanie od czasu masowych wystąpień społecznych w 2024 r., które doprowadziły do obalenia...",
+      "date_published": "2026-02-17T12:55:00+01:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Afera-spolki-Cinkciarz-pl-Sa-kolejne-zatrzymania-w-sledztwie-9084993.html",
+      "url": "https://www.bankier.pl/wiadomosc/Afera-spolki-Cinkciarz-pl-Sa-kolejne-zatrzymania-w-sledztwie-9084993.html",
+      "title": "Afera spółki Cinkciarz.pl. Są kolejne zatrzymania w śledztwie",
+      "content_html": "Na polecenie Prokuratury Regionalnej w Poznaniu zatrzymano kolejne 4 osoby w śledztwie dotyczącym spółki Cinkciarz.pl. Zatrzymanym przedstawiono zarzuty m.in. udziału w zorganizowanej grupie przestępczej zajmującej się popełnianiem przestępstw...",
+      "date_published": "2026-02-17T12:52:00+01:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Synektik-spodziewa-sie-debiutu-Syn2bio-na-GPW-okolo-kwietnia-9084988.html",
+      "url": "https://www.bankier.pl/wiadomosc/Synektik-spodziewa-sie-debiutu-Syn2bio-na-GPW-okolo-kwietnia-9084988.html",
+      "title": "Synektik spodziewa się debiutu Syn2bio na GPW około kwietnia",
+      "content_html": "Synektik spodziewa się debiutu na GPW wydzielanej spółki Syn2bio około kwietnia - poinformował wiceprezes Dariusz Korecki. Jak ocenił, podział działalności może w przyszłości zwiększyć potencjał dywidendowy Synektika, jak i możliwości...",
+      "date_published": "2026-02-17T12:48:00+01:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Atak-hakerski-na-Uniwersytet-Warszawski-Sluzby-w-akcji-9084989.html",
+      "url": "https://www.bankier.pl/wiadomosc/Atak-hakerski-na-Uniwersytet-Warszawski-Sluzby-w-akcji-9084989.html",
+      "title": "Atak hakerski na Uniwersytet Warszawski. Służby w akcji",
+      "content_html": "Zidentyfikowano atak hakerski na część infrastruktury IT Uniwersytetu Warszawskiego - napisał we wtorek na platformie X wicepremier, minister cyfryzacji Krzysztof Gawkowski. Według rzeczniczki UW dr Anny Modzelewskiej dotychczasowe ustalenia nie...",
+      "date_published": "2026-02-17T12:48:00+01:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/firmy/synektik-spodziewa-sie-debiutu-syn2bio-na-gpw-okolo-kwietnia",
+      "url": "https://biznes.pap.pl/wiadomosci/firmy/synektik-spodziewa-sie-debiutu-syn2bio-na-gpw-okolo-kwietnia",
+      "title": "Synektik spodziewa się debiutu Syn2bio na GPW około kwietnia",
+      "content_html": "Synektik spodziewa się debiutu na GPW wydzielanej spółki Syn2bio około kwietnia - poinformował wiceprezes Dariusz Korecki. Jak ocenił, podział działalności może w przyszłości zwiększyć potencjał dywid",
+      "date_published": "2026-02-17T12:47:00+01:00",
+      "source": "PAP Biznes"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Izrael-zmienia-prawo-ws-ziemi-na-Zachodnim-Brzegu-Panstwa-muzulmanskie-grzmia-o-aneksji-9084953.html",
+      "url": "https://www.bankier.pl/wiadomosc/Izrael-zmienia-prawo-ws-ziemi-na-Zachodnim-Brzegu-Panstwa-muzulmanskie-grzmia-o-aneksji-9084953.html",
+      "title": "Izrael zmienia prawo ws. ziemi na Zachodnim Brzegu. Państwa muzułmańskie grzmią o aneksji",
+      "content_html": "Osiem państw muzułmańskich, w tym Turcja, Arabia Saudyjska i Zjednoczone Emiraty Arabskie, potępiło we wtorek decyzję Izraela o rejestracji gruntów na okupowanym Zachodnim Brzegu jako „własności państwowej”. W ocenie sygnatariuszy oznacza...",
+      "date_published": "2026-02-17T12:40:00+01:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Ceny-transakcyjne-mieszkan-w-Warszawie-Krakowie-Wroclawiu-Gdansku-Poznaniu-i-Lodzi-9084968.html",
+      "url": "https://www.bankier.pl/wiadomosc/Ceny-transakcyjne-mieszkan-w-Warszawie-Krakowie-Wroclawiu-Gdansku-Poznaniu-i-Lodzi-9084968.html",
+      "title": "Nowe mieszkania w końcu tańsze niż przed rokiem. W tych miastach NBP zanotował spadki",
+      "content_html": "W IV kw. 2025 r. średnia cena transakcyjna nowych mieszkań na siedmiu największych rynkach pierwotnych w Polsce wyniosła 14 251 zł/mkw. – o 0,8 proc. mniej niż przed rokiem – wynika z danych Narodowego Banku Polskiego. To pierwsza taka sytuacja...",
+      "date_published": "2026-02-17T12:40:00+01:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Skladowisko-grozy-w-gminie-Zadzim-30-ton-odpadow-pod-golym-niebem-9084979.html",
+      "url": "https://www.bankier.pl/wiadomosc/Skladowisko-grozy-w-gminie-Zadzim-30-ton-odpadow-pod-golym-niebem-9084979.html",
+      "title": "Składowisko grozy w gminie Zadzim. 30 ton odpadów pod gołym niebem",
+      "content_html": "Wobec 58-letniego mieszkańca Poddębic został skierowany akt oskarżenia o składowanie na terenie działki w gminie Zadzim 30 ton odpadów przemysłowych i komunalnych - poinformowała Prokuratura Okręgowa w Sieradzu. Za przestępstwo przeciwko ochronie...",
+      "date_published": "2026-02-17T12:39:00+01:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/rynki/w-26-jest-potencjal-na-poprawe-na-gpw-ale-pod-kilkoma-warunkami-kozlowski-ipopema",
+      "url": "https://biznes.pap.pl/wiadomosci/rynki/w-26-jest-potencjal-na-poprawe-na-gpw-ale-pod-kilkoma-warunkami-kozlowski-ipopema",
+      "title": "W ‘26 jest potencjał na poprawę na GPW, ale pod kilkoma warunkami – Kozłowski, Ipopema (wywiad)",
+      "content_html": "W 2026 roku możliwa jest kontynuacja dobrej koniunktury na warszawskiej giełdzie, ale realizacja takiego scenariusza wymaga spełnienia kilku warunków – uważa Sobiesław Kozłowski z Ipopema Private Inve",
+      "date_published": "2026-02-17T12:39:00+01:00",
+      "source": "PAP Biznes"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Medinice-zaklada-ze-do-konca-I-polr-sfinalizuje-przynajmniej-jedna-transakcje-komercjalizacji-wywiad-9084977.html",
       "url": "https://www.bankier.pl/wiadomosc/Medinice-zaklada-ze-do-konca-I-polr-sfinalizuje-przynajmniej-jedna-transakcje-komercjalizacji-wywiad-9084977.html",
-      "title": "Medinice zakłada, że do końca I półr. sfinalizuje przynajmniej jedną transakcję komercjalizacji (wywiad) Medinice ocenia, że zgoda FDA na dopuszczenie systemu CoolCryo do obrotu na rynku USA istotnie przyspieszy rozmowy dotyczące komercjalizacji projektu. Spółka zakłada, że co najmniej jedna transakcja zostanie sfinalizowana do końca pierwszego półrocza – poinformował PAP Biznes prezes Sanjeev Choudhary.",
-      "content_html": "",
+      "title": "Wielka transakcja polskiego medtechu. Medinice negocjuje z gigantami",
+      "content_html": "Medinice ocenia, że zgoda FDA na dopuszczenie systemu CoolCryo do obrotu na rynku USA istotnie przyspieszy rozmowy dotyczące komercjalizacji projektu. Spółka zakłada, że co najmniej jedna transakcja zostanie sfinalizowana do końca pierwszego półrocza...",
       "date_published": "2026-02-17T12:36:00+01:00",
       "source": "Bankier.pl"
     },
@@ -19,6 +195,22 @@
       "content_html": "Medinice ocenia, że zgoda FDA na dopuszczenie systemu CoolCryo do obrotu na rynku USA istotnie przyspieszy rozmowy dotyczące komercjalizacji projektu. Spółka zakłada, że co najmniej jedna transakcja z",
       "date_published": "2026-02-17T12:35:00+01:00",
       "source": "PAP Biznes"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Spor-o-staz-podyplomowy-miedzy-lekarzami-a-Ministerstwem-Zdrowia-9084419.html",
+      "url": "https://www.bankier.pl/wiadomosc/Spor-o-staz-podyplomowy-miedzy-lekarzami-a-Ministerstwem-Zdrowia-9084419.html",
+      "title": "„Zamach na bezpieczeństwo polskich pacjentów”. Reforma zawodu lekarza w ogniu krytyki",
+      "content_html": "Ministerstwo Zdrowia przedstawiło projekt nowelizacji ustawy o zawodzie lekarza i lekarza dentysty, który zakłada m.in. skrócenie stażu podyplomowego z 13 do 6 miesięcy oraz usprawnienie ścieżki wejścia w zawód. Propozycje te mają poprawić...",
+      "date_published": "2026-02-17T12:25:00+01:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/KE-kontra-Shein-i-lalki-erotyczne-o-wygladzie-dzieci-Rusza-formalne-dochodzenie-9084972.html",
+      "url": "https://www.bankier.pl/wiadomosc/KE-kontra-Shein-i-lalki-erotyczne-o-wygladzie-dzieci-Rusza-formalne-dochodzenie-9084972.html",
+      "title": "KE kontra Shein i lalki erotyczne o wyglądzie dzieci. Rusza formalne dochodzenie",
+      "content_html": "Komisja Europejska poinformowała we wtorek, że wszczęła formalne postępowanie przeciwko chińskiej platformie sprzedażowej Shein w ramach Aktu o usługach cyfrowych (DSA). Sprawa dotyczy m.in. sprzedaży lalek erotycznych o wyglądzie dzieci.",
+      "date_published": "2026-02-17T12:20:00+01:00",
+      "source": "Bankier.pl"
     },
     {
       "id": "https://biznes.pap.pl/wiadomosci/finanse/wiceprezes-nationale-nederlanden-pte-pawel-giza-powolany-na-prezesa-zarzadu-z",
@@ -61,14 +253,6 @@
       "source": "Bankier.pl"
     },
     {
-      "id": "https://biznes.pap.pl/wiadomosci/firmy/portfel-zamowien-grupy-mirbud-na-koniec-stycznia-wynosil-blisko-86-mld-zl",
-      "url": "https://biznes.pap.pl/wiadomosci/firmy/portfel-zamowien-grupy-mirbud-na-koniec-stycznia-wynosil-blisko-86-mld-zl",
-      "title": "Portfel zamówień grupy Mirbud na koniec stycznia wynosił blisko 8,6 mld zł",
-      "content_html": "Wartość portfela zamówień grupy Mirbud w segmencie usług budowlano – montażowych na koniec stycznia wynosił 8,569 mld zł netto - poinformowała spółka w komunikacie.",
-      "date_published": "2026-02-17T12:04:00+01:00",
-      "source": "PAP Biznes"
-    },
-    {
       "id": "https://www.bankier.pl/wiadomosc/Wypadek-autobusu-z-Polakami-Jedna-osoba-nie-zyje-9084908.html",
       "url": "https://www.bankier.pl/wiadomosc/Wypadek-autobusu-z-Polakami-Jedna-osoba-nie-zyje-9084908.html",
       "title": "Wypadek autobusu z Polakami. Jedna osoba nie żyje",
@@ -91,14 +275,6 @@
       "content_html": "Jeśli utrzymają się obecne tendencje na rynku, to ceny energii powinny spadać - oceniła w TOK FM prezes URE Renata Mroczek. Przewiduje ona, że w rachunkach dla gospodarstw domowych opłaty pobierane przez spółki dystrybucyjne będą \"ważyły...",
       "date_published": "2026-02-17T11:50:00+01:00",
       "source": "Bankier.pl"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/firmy/jesli-utrzymaja-sie-obecne-tendencje-ceny-energii-powinny-spadac-ure",
-      "url": "https://biznes.pap.pl/wiadomosci/firmy/jesli-utrzymaja-sie-obecne-tendencje-ceny-energii-powinny-spadac-ure",
-      "title": "Jeśli utrzymają się obecne tendencje, ceny energii powinny spadać - URE",
-      "content_html": "Jeśli utrzymają się obecne tendencje na rynku, to ceny energii powinny spadać - oceniła w TOK FM prezes URE Renata Mroczek. Przewiduje ona, że w rachunkach dla gospodarstw domowych opłaty pobierane pr",
-      "date_published": "2026-02-17T11:49:00+01:00",
-      "source": "PAP Biznes"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Precyzyjny-cios-na-Krymie-Iskandery-w-ogniu-Elitarna-rosyjska-jednostka-stracila-kluczowy-punkt-9084942.html",
@@ -125,14 +301,6 @@
       "source": "Bankier.pl"
     },
     {
-      "id": "https://biznes.pap.pl/wiadomosci/firmy/ceny-transakcyjne-nieruchomosci-na-rynku-pierwotnym-w-iv-kw-spadly-rdr-o-08-proc-0",
-      "url": "https://biznes.pap.pl/wiadomosci/firmy/ceny-transakcyjne-nieruchomosci-na-rynku-pierwotnym-w-iv-kw-spadly-rdr-o-08-proc-0",
-      "title": "Ceny transakcyjne nieruchomości na rynku pierwotnym w IV kw. spadły rdr o 0,8 proc. - NBP (opis)",
-      "content_html": "Ceny transakcyjne na 7 największych rynkach nieruchomości w IV kwartale 2025 roku spadły rdr o 0,8 proc. na rynku pierwotnym - podał NBP.",
-      "date_published": "2026-02-17T11:20:00+01:00",
-      "source": "PAP Biznes"
-    },
-    {
       "id": "https://www.bankier.pl/wiadomosc/W-erze-chinskiej-odziezy-zanieczyszczasz-zaplacisz-Nowy-bat-na-producentow-9084858.html",
       "url": "https://www.bankier.pl/wiadomosc/W-erze-chinskiej-odziezy-zanieczyszczasz-zaplacisz-Nowy-bat-na-producentow-9084858.html",
       "title": "W erze chińskiej odzieży: zanieczyszczasz - zapłacisz. Nowy bat na producentów",
@@ -149,60 +317,12 @@
       "source": "Bankier.pl"
     },
     {
-      "id": "https://biznes.pap.pl/wiadomosci/firmy/spolka-nasz-prad-liczy-na-debiut-na-gpw-w-maju-podtrzymuje-plany-oferty-na-ok-50",
-      "url": "https://biznes.pap.pl/wiadomosci/firmy/spolka-nasz-prad-liczy-na-debiut-na-gpw-w-maju-podtrzymuje-plany-oferty-na-ok-50",
-      "title": "Spółka Nasz Prąd liczy na debiut na GPW w maju, podtrzymuje plany oferty na ok. 50 mln zł",
-      "content_html": "Spółka Nasz Prąd jest po kolejnej rundzie pytań ze strony Komisji Nadzoru Finansowego (KNF) do złożonego prospektu i ocenia, że debiut giełdowy jest możliwy nawet w maju tego roku - podała spółka w ko",
-      "date_published": "2026-02-17T11:16:00+01:00",
-      "source": "PAP Biznes"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/firmy/rynek-najmu-wychodzi-z-marazmu-w-styczniu-wzrosl-zarowno-popyt-jak-i-podaz-otodom",
-      "url": "https://biznes.pap.pl/wiadomosci/firmy/rynek-najmu-wychodzi-z-marazmu-w-styczniu-wzrosl-zarowno-popyt-jak-i-podaz-otodom",
-      "title": "Rynek najmu wychodzi z marazmu; w styczniu wzrósł zarówno popyt, jak i podaż - Otodom",
-      "content_html": "W styczniu liczba zapytań w serwisie Otodom dotycząca rynku najmu wzrosła o 29 proc. mdm i 40 proc. rdr, a o 8 proc. mdm wzrosła podaż, co oznacza, że rynek wychodzi z marazmu - wynika z analizy Otodo",
-      "date_published": "2026-02-17T11:14:00+01:00",
-      "source": "PAP Biznes"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/gospodarka/przedstawione-przez-rzad-dzialania-moga-byc-niewystarczajace-do-0",
-      "url": "https://biznes.pap.pl/wiadomosci/gospodarka/przedstawione-przez-rzad-dzialania-moga-byc-niewystarczajace-do-0",
-      "title": "Przedstawione przez rząd działania mogą być niewystarczające do stabilizacji długu - Rada Fiskalna (opis)",
-      "content_html": "Rada Fiskalna ocenia, że stabilizacja długu publicznego powinna być priorytetem polityki gospodarczej oraz że przedstawiane dotychczas przez rząd działania mogą okazać się niewystarczające dla realiza",
-      "date_published": "2026-02-17T11:07:00+01:00",
-      "source": "PAP Biznes"
-    },
-    {
       "id": "https://www.bankier.pl/wiadomosc/KGHM-przedluza-umowe-sprzedazy-z-grupa-NKT-na-lata-2028-2036-jej-wartosc-to-5-4-7-mld-euro-9084919.html",
       "url": "https://www.bankier.pl/wiadomosc/KGHM-przedluza-umowe-sprzedazy-z-grupa-NKT-na-lata-2028-2036-jej-wartosc-to-5-4-7-mld-euro-9084919.html",
       "title": "KGHM przedłuża umowę sprzedaży z grupą NKT na lata 2028-2036, jej wartość to 5,4-7 mld euro",
       "content_html": "KGHM Polska Miedź odnowiła długoterminową umowę na dostawy miedzi z firmą NKT, przedłużając ją na lata 2028-2036 - podała spółka w komunikacie na swojej stronie internetowej. Jak dodano, całkowita szacowana wartość przedłużonej umowy...",
       "date_published": "2026-02-17T11:06:00+01:00",
       "source": "Bankier.pl"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/firmy/dzien-na-gpw-glowne-indeksy-znizkuja-kghm-ponownie-liderem-spadkow-w-wig20",
-      "url": "https://biznes.pap.pl/wiadomosci/firmy/dzien-na-gpw-glowne-indeksy-znizkuja-kghm-ponownie-liderem-spadkow-w-wig20",
-      "title": "DZIEŃ NA GPW: Główne indeksy zniżkują; KGHM ponownie liderem spadków w WIG20",
-      "content_html": "Główne indeksy warszawskiej giełdy spadają, podobnie jak większość wskaźników sektorowych. Wśród blue chipów liderem spadków ponownie jest KGHM, natomiast Orange kontynuuje wzrosty z poprzednich sesji",
-      "date_published": "2026-02-17T11:06:00+01:00",
-      "source": "PAP Biznes"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/firmy/kghm-przedluza-umowe-sprzedazy-z-grupa-nkt-na-lata-2028-2036-jej-wartosc-54-7-mld",
-      "url": "https://biznes.pap.pl/wiadomosci/firmy/kghm-przedluza-umowe-sprzedazy-z-grupa-nkt-na-lata-2028-2036-jej-wartosc-54-7-mld",
-      "title": "KGHM przedłuża umowę sprzedaży z grupą NKT na lata 2028-2036, jej wartość to 5,4-7 mld euro",
-      "content_html": "KGHM Polska Miedź odnowiła długoterminową umowę na dostawy miedzi z firmą NKT, przedłużając ją na lata 2028-2036 - podała spółka w komunikacie na swojej stronie internetowej. Jak dodano, całkowita sza",
-      "date_published": "2026-02-17T11:04:00+01:00",
-      "source": "PAP Biznes"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/gospodarka/indeks-zew-w-niemczech-w-ii-583-pkt-konsensus-652-pkt",
-      "url": "https://biznes.pap.pl/wiadomosci/gospodarka/indeks-zew-w-niemczech-w-ii-583-pkt-konsensus-652-pkt",
-      "title": "Indeks ZEW w Niemczech w II: 58,3 pkt. Konsensus: 65,2 pkt.",
-      "content_html": "Zaufanie niemieckich analityków i inwestorów instytucjonalnych w lutym pogorszyło się - wynika z danych Instytutu ZEW. Raport ZEW pokazał, że indeks mierzący oczekiwania tych grup co do wzrostu gospod",
-      "date_published": "2026-02-17T11:03:00+01:00",
-      "source": "PAP Biznes"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Polski-plan-inwestycyjny-w-ramach-SAFE-ostatecznie-zatwierdzony-9084878.html",
@@ -301,20 +421,12 @@
       "source": "Bankier.pl"
     },
     {
-      "id": "https://www.bankier.pl/wiadomosc/Pekao-w-konsorcjum-bankow-ktore-udzielily-lacznie-523-mln-zl-kredytu-na-budowe-Term-Bachleda-9084875.html",
-      "url": "https://www.bankier.pl/wiadomosc/Pekao-w-konsorcjum-bankow-ktore-udzielily-lacznie-523-mln-zl-kredytu-na-budowe-Term-Bachleda-9084875.html",
-      "title": "Pekao w konsorcjum banków, które udzieliły kredytu na budowę Term Bachleda",
-      "content_html": "Pekao znalazło się w konsorcjum banków, które udzieliły kredytu o wartości 523 mln zł budowę kompleksu Bachleda Termy Kasprowy w Zakopanem - podał bank w komunikacie prasowym. Na Pekao przypada 215 mln zł.",
-      "date_published": "2026-02-17T10:14:00+01:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Kolejne-dochodzenie-ws-Groka-Tym-razem-w-Irlandii-9084845.html",
-      "url": "https://www.bankier.pl/wiadomosc/Kolejne-dochodzenie-ws-Groka-Tym-razem-w-Irlandii-9084845.html",
-      "title": "Kolejne dochodzenie ws. Groka. Tym razem w Irlandii",
-      "content_html": "Irlandzka Komisja ds. Ochrony Danych Osobowych (DPC) poinformowała we wtorek o wszczęciu dochodzenia w sprawie platformy społecznościowej X w związku z wykorzystywaniem należącego do niej chatbota Grok do generowania obrazów o charakterze seksualnym...",
-      "date_published": "2026-02-17T10:00:00+01:00",
-      "source": "Bankier.pl"
+      "id": "https://biznes.pap.pl/wiadomosci/firmy/wartosc-transakcji-na-rynku-nieruchomosci-w-cee-wzrosla-o-31-proc-rdr-w-2025-r",
+      "url": "https://biznes.pap.pl/wiadomosci/firmy/wartosc-transakcji-na-rynku-nieruchomosci-w-cee-wzrosla-o-31-proc-rdr-w-2025-r",
+      "title": "Wartość transakcji na rynku nieruchomości w CEE wzrosła o 31 proc. rdr w 2025 r. - Colliers",
+      "content_html": "W 2025 roku na sześciu głównych rynkach nieruchomości Europy Środkowo-Wschodniej sfinalizowano transakcje o łącznej wartości 11,6 mld euro, co stanowi wzrost o 31 proc. rok do roku - wynika z raportu ",
+      "date_published": "2026-02-17T10:12:00+01:00",
+      "source": "PAP Biznes"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Szpieg-w-rekach-ABW-29-letni-Polak-pracowal-dla-Rosji-Na-celowniku-strategiczne-obiekty-w-Bydgoszczy-9084854.html",
@@ -323,6 +435,22 @@
       "content_html": "Kolejny szpieg pracujący na rzecz wywiadu Federacji Rosyjskiej, za swoją działalność przeciwko Polsce, odpowie przed sądem. To 29-letni Polak, Wiktor Ź. - poinformował we wtorek rzecznik ministra koordynatora służb specjalnych Jacek Dobrzyński...",
       "date_published": "2026-02-17T10:00:00+01:00",
       "source": "Bankier.pl"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/firmy/monitor-kadrowy-zestawienie-od-10-do-16-lutego",
+      "url": "https://biznes.pap.pl/wiadomosci/firmy/monitor-kadrowy-zestawienie-od-10-do-16-lutego",
+      "title": "Monitor kadrowy - zestawienie od 10 do 16 lutego",
+      "content_html": "Przegląd informacji o zmianach personalnych w spółkach notowanych na rynku głównym GPW",
+      "date_published": "2026-02-17T09:56:00+01:00",
+      "source": "PAP Biznes"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/gospodarka/dzien-na-fxfi-brak-przeslanek-do-wybicia-zlotego-z-420-423eur-obligacje",
+      "url": "https://biznes.pap.pl/wiadomosci/gospodarka/dzien-na-fxfi-brak-przeslanek-do-wybicia-zlotego-z-420-423eur-obligacje",
+      "title": "DZIEŃ NA FX/FI: Brak przesłanek do wybicia złotego z 4,20-4,23/EUR, obligacje czekają na impuls",
+      "content_html": "Nie widać przesłanek do wybicia kursu EUR/PLN z utrzymującego się od początku grudnia przedziału 4,20-4,23, natomiast notowania polskiego długu mogą znaleźć się pod wpływem przebiegu rozmów pokojowych",
+      "date_published": "2026-02-17T09:55:00+01:00",
+      "source": "PAP Biznes"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Koniec-zlecen-i-B2B-Rzad-bierze-sie-za-kontrowersyjna-reforme-PIP-9084844.html",
@@ -347,6 +475,22 @@
       "content_html": "Develia oraz Mosaic Poland Holding chcą utworzyć wspólnego przedsiębiorcę, który będzie realizował we Wrocławiu inwestycję obejmującą budowę budynku zamieszkania zbiorowego z funkcją usługową (usługi zakwaterowania dla studentów) - poinformował...",
       "date_published": "2026-02-17T09:40:00+01:00",
       "source": "Bankier.pl"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/firmy/develia-i-mosaic-planuja-wspolna-inwestycje-we-wroclawiu-uokik",
+      "url": "https://biznes.pap.pl/wiadomosci/firmy/develia-i-mosaic-planuja-wspolna-inwestycje-we-wroclawiu-uokik",
+      "title": "Develia i Mosaic planują wspólną inwestycję we Wrocławiu - UOKiK",
+      "content_html": "Develia oraz Mosaic Poland Holding chcą utworzyć wspólnego przedsiębiorcę, który będzie realizował we Wrocławiu inwestycję obejmującą budowę budynku zamieszkania zbiorowego z funkcją usługową (usługi ",
+      "date_published": "2026-02-17T09:39:00+01:00",
+      "source": "PAP Biznes"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/rynki/dzien-na-rynkach-w-europie-na-gieldach-dominuje-pozytywny-sentyment-3",
+      "url": "https://biznes.pap.pl/wiadomosci/rynki/dzien-na-rynkach-w-europie-na-gieldach-dominuje-pozytywny-sentyment-3",
+      "title": "DZIEŃ NA RYNKACH: W Europie na giełdach dominuje pozytywny sentyment",
+      "content_html": "Na europejskich giełdach indeksy głównie rosną, a wśród inwestorów dominuje pozytywne nastawienie. Trwa analiza kolejnych raportów wynikowych spółek z regionu, ocena danych makro i analiza możliwych z",
+      "date_published": "2026-02-17T09:34:00+01:00",
+      "source": "PAP Biznes"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Sasiad-i-skarbowka-sprawdza-Twoje-smieci-Koniec-oszukiwania-w-deklaracjach-9084824.html",
@@ -389,6 +533,14 @@
       "source": "Bankier.pl"
     },
     {
+      "id": "https://biznes.pap.pl/wiadomosci/firmy/erbud-ma-umowe-na-roboty-budowlane-dla-veolii-o-wartosci-6562-mln-zl-netto",
+      "url": "https://biznes.pap.pl/wiadomosci/firmy/erbud-ma-umowe-na-roboty-budowlane-dla-veolii-o-wartosci-6562-mln-zl-netto",
+      "title": "Erbud ma umowę na roboty budowlane dla Veolii o wartości 65,62 mln zł netto",
+      "content_html": "Erbud podpisał umowę z Veolia Energia Łódź na zaprojektowanie i budowę kompletnej instalacji Akumulatora Ciepła (AC) i pompowni w EC4 w Łodzi - podała spółka w komunikacie. Wartość kontraktu to 65,62 ",
+      "date_published": "2026-02-17T09:17:00+01:00",
+      "source": "PAP Biznes"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Pelczynska-Nalecz-o-odejsciach-z-PL2050-nie-wszyscy-akceptuja-wyniki-wyborow-9084835.html",
       "url": "https://www.bankier.pl/wiadomosc/Pelczynska-Nalecz-o-odejsciach-z-PL2050-nie-wszyscy-akceptuja-wyniki-wyborow-9084835.html",
       "title": "Pełczyńska-Nałęcz o odejściach z PL2050: nie wszyscy akceptują wyniki wyborów",
@@ -429,12 +581,28 @@
       "source": "PAP Biznes"
     },
     {
+      "id": "https://www.bankier.pl/wiadomosc/Rosyjscy-najemnicy-zaminowali-dostep-do-najwiekszej-kopalni-zlota-9084818.html",
+      "url": "https://www.bankier.pl/wiadomosc/Rosyjscy-najemnicy-zaminowali-dostep-do-najwiekszej-kopalni-zlota-9084818.html",
+      "title": "Rosyjscy najemnicy zaminowali dostęp do największej kopalni złota",
+      "content_html": "Rosyjscy najemnicy z Grupy Wagnera rozmieścili setki min przeciwpiechotnych w lasach otaczających największą w Republice Środkowoafrykańskiej kopalnię złota Ndassima, położoną w centralnej części kraju - poinformowała środkowoafrykańska...",
+      "date_published": "2026-02-17T08:11:00+01:00",
+      "source": "Bankier.pl"
+    },
+    {
       "id": "https://biznes.pap.pl/wiadomosci/firmy/zgloszone-zapotrzebowanie-na-pojemnosci-magazynowe-gazu-od-30-przekroczy-dostepne",
       "url": "https://biznes.pap.pl/wiadomosci/firmy/zgloszone-zapotrzebowanie-na-pojemnosci-magazynowe-gazu-od-30-przekroczy-dostepne",
       "title": "Zgłoszone zapotrzebowanie na pojemności magazynowe gazu od '30 przekroczy dostępne zdolności",
       "content_html": "Od 2030 roku zgłoszone zapotrzebowanie na pojemności magazynowe gazu przekroczy dostępne zdolności magazynowania - podaje spółka Gas Storage w swojej strategii do roku 2023 z perspektywą 2035 roku.",
       "date_published": "2026-02-17T08:03:00+01:00",
       "source": "PAP Biznes"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Podrobione-markowe-towary-w-sortowni-przesylek-KAS-zabezpieczyla-10-tys-sztuk-towaru-9084813.html",
+      "url": "https://www.bankier.pl/wiadomosc/Podrobione-markowe-towary-w-sortowni-przesylek-KAS-zabezpieczyla-10-tys-sztuk-towaru-9084813.html",
+      "title": "Podrobione markowe towary w sortowni przesyłek. KAS zabezpieczyła 10 tys. sztuk towaru",
+      "content_html": "Funkcjonariusze lubuskiej Krajowej Administracji Skarbowej zabezpieczyli prawie 10 tys. sztuk towarów z zastrzeżonymi znakami towarowymi. Ich wartość to ponad 6 mln zł.",
+      "date_published": "2026-02-17T08:01:00+01:00",
+      "source": "Bankier.pl"
     },
     {
       "id": "https://biznes.pap.pl/wiadomosci/firmy/3-4-marca-xvii-edycja-kongresu-prawnikow-spolek-gieldowych-seg",
@@ -625,6 +793,14 @@
       "url": "https://biznes.pap.pl/wiadomosci/rynki/rentownosci-obligacji-wybranych-panstw-tabela-2550",
       "title": "Rentowności obligacji wybranych państw (tabela)",
       "content_html": "Poniżej zestawienie rentowności obligacji wybranych państw.",
+      "date_published": "2026-02-17T06:32:00+01:00",
+      "source": "PAP Biznes"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/rynki/notowania-metali-bazowych-wegla-i-paliw-tabela-2461",
+      "url": "https://biznes.pap.pl/wiadomosci/rynki/notowania-metali-bazowych-wegla-i-paliw-tabela-2461",
+      "title": "Notowania metali bazowych, węgla i paliw (tabela)",
+      "content_html": "Notowania metali bazowych na London Metal Exchange, uprawnień EUA do emisji CO2, ceny węgla energetycznego ARA na przyszły rok oraz ceny paliw.",
       "date_published": "2026-02-17T06:32:00+01:00",
       "source": "PAP Biznes"
     },
@@ -901,18 +1077,10 @@
       "source": "PAP Biznes"
     },
     {
-      "id": "https://www.bankier.pl/wiadomosc/Problem-na-wschodniej-flance-NATO-W-Niemczech-zglosilo-sie-zaledwie-200-zolnierzy-9084511.html",
-      "url": "https://www.bankier.pl/wiadomosc/Problem-na-wschodniej-flance-NATO-W-Niemczech-zglosilo-sie-zaledwie-200-zolnierzy-9084511.html",
-      "title": "Problem na wschodniej flance NATO. W Niemczech zgłosiło się zaledwie 200 żołnierzy",
-      "content_html": "Do służby w 45. brygadzie pancernej Bundeswehry „Litwa” zgłosiło się zaledwie 10 proc. potrzebnych żołnierzy. Szef komisji obrony Bundestagu Thomas Roewekamp zapowiedział, że jeśli taka sytuacja się utrzyma, możliwe jest skierowanie żołnierzy...",
-      "date_published": "2026-02-16T18:19:00+01:00",
-      "source": "Bankier.pl"
-    },
-    {
       "id": "https://www.bankier.pl/wiadomosc/Artur-Blazejak-delegowany-do-pelnienia-obowiazkow-prezesa-Grupy-Azoty-Zaklady-Chemiczne-Police-9084591.html",
       "url": "https://www.bankier.pl/wiadomosc/Artur-Blazejak-delegowany-do-pelnienia-obowiazkow-prezesa-Grupy-Azoty-Zaklady-Chemiczne-Police-9084591.html",
-      "title": "Artur Błażejak delegowany do pełnienia obowiązków prezesa Grupy Azoty Zakłady Chemiczne \"Police\"",
-      "content_html": "Rada Nadzorcza Grupy Azoty Zakłady Chemiczne \"Police\" podjęła uchwałę w sprawie delegowania wiceprezesa spółki Artura Błażejaka do wykonywania obowiązków prezesa - podała spółka w komunikacie.",
+      "title": "Artur Błażejak delegowany do pełnienia obowiązków prezesa Grupy Azoty Zakłady Chemiczne \"Police\" Rada Nadzorcza Grupy Azoty Zakłady Chemiczne \"Police\" podjęła uchwałę w sprawie delegowania wiceprezesa spółki Artura Błażejaka do wykonywania obowiązków prezesa - podała spółka w komunikacie.",
+      "content_html": "",
       "date_published": "2026-02-16T18:16:00+01:00",
       "source": "Bankier.pl"
     },
@@ -941,26 +1109,10 @@
       "source": "PAP Biznes"
     },
     {
-      "id": "https://www.bankier.pl/wiadomosc/Wielka-awaria-serwisu-X-Nie-dziala-ani-aplikacja-ani-strona-www-9084435.html",
-      "url": "https://www.bankier.pl/wiadomosc/Wielka-awaria-serwisu-X-Nie-dziala-ani-aplikacja-ani-strona-www-9084435.html",
-      "title": "Wielka awaria serwisu X. Nie działała ani aplikacja, ani strona www",
-      "content_html": "Działanie platformy X zostało w poniedziałek po południu przywrócone po krótkiej awarii. Nadal nie jest jasne, co było przyczyną przerwy w dostępie do serwisu.",
-      "date_published": "2026-02-16T17:56:00+01:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Nawalny-otruty-w-wiezieniu-Kreml-odrzuca-oskarzenia-Zachodu-9084283.html",
-      "url": "https://www.bankier.pl/wiadomosc/Nawalny-otruty-w-wiezieniu-Kreml-odrzuca-oskarzenia-Zachodu-9084283.html",
-      "title": "Nawalny otruty w więzieniu? Kreml odrzuca oskarżenia Zachodu",
-      "content_html": "Kreml zdecydowanie odrzucił oskarżenia pięciu krajów europejskich o otrucie w więzieniu rosyjskiego opozycjonisty Aleksieja Nawalnego. W poniedziałek przypada druga rocznica śmierci Nawalnego.",
-      "date_published": "2026-02-16T17:55:00+01:00",
-      "source": "Bankier.pl"
-    },
-    {
       "id": "https://www.bankier.pl/wiadomosc/Scanway-mial-24-3-mln-zl-przychodow-ogolem-w-25-wzrost-o-94-proc-rdr-9084570.html",
       "url": "https://www.bankier.pl/wiadomosc/Scanway-mial-24-3-mln-zl-przychodow-ogolem-w-25-wzrost-o-94-proc-rdr-9084570.html",
-      "title": "Scanway miał 24,3 mln zł przychodów ogółem w '25; wzrost o 94 proc. rdr",
-      "content_html": "Scanway miał w 2025 roku 24,3 mln zł przychodów ogółem, co oznacza wzrost o 94 proc. rdr - podała spółka w komunikacie prasowym. Backlog Scanway na dzień 16 lutego 2026 roku wyniósł 54 mln zł rosnąc o 215 proc. rdr.",
+      "title": "Scanway miał 24,3 mln zł przychodów ogółem w '25; wzrost o 94 proc. rdr Scanway miał w 2025 roku 24,3 mln zł przychodów ogółem, co oznacza wzrost o 94 proc. rdr - podała spółka w komunikacie prasowym. Backlog Scanway na dzień 16 lutego 2026 roku wyniósł 54 mln zł rosnąc o 215 proc. rdr.",
+      "content_html": "",
       "date_published": "2026-02-16T17:54:00+01:00",
       "source": "Bankier.pl"
     },
@@ -975,40 +1127,16 @@
     {
       "id": "https://www.bankier.pl/wiadomosc/Jak-owce-bez-przewodnika-Dzien-prezydenta-odbil-sie-na-gieldowych-notowaniach-9084559.html",
       "url": "https://www.bankier.pl/wiadomosc/Jak-owce-bez-przewodnika-Dzien-prezydenta-odbil-sie-na-gieldowych-notowaniach-9084559.html",
-      "title": "Jak owce bez przewodnika. Dzień prezydenta odbił się na giełdowych notowaniach",
-      "content_html": "Poniedziałkowa sesja na GPW upłynęła pod znakiem ograniczonej aktywności przy zamkniętych rynkach w USA i Chinach. Kosmetyczne zmiany głównych indeksów przy obniżonych obrotach pokazują, że bez obecności Amerykanów trudno obrać samodzielnie...",
+      "title": "Jak owce bez przewodnika. Dzień prezydenta odbił się na giełdowych notowaniach Poniedziałkowa sesja na GPW upłynęła pod znakiem ograniczonej aktywności przy zamkniętych rynkach w USA i Chinach. Kosmetyczne zmiany głównych indeksów przy obniżonych obrotach pokazują, że bez obecności Amerykanów trudno obrać samodzielnie kierunek.",
+      "content_html": "",
       "date_published": "2026-02-16T17:48:00+01:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Ambulans-pulapka-wypelniony-gazem-SBU-ujawnia-kulisy-zamachu-w-Kijowie-9084485.html",
-      "url": "https://www.bankier.pl/wiadomosc/Ambulans-pulapka-wypelniony-gazem-SBU-ujawnia-kulisy-zamachu-w-Kijowie-9084485.html",
-      "title": "„Ambulans” pułapka wypełniony gazem. SBU ujawnia kulisy zamachu w Kijowie",
-      "content_html": "Służba Bezpieczeństwa Ukrainy (SBU) poinformowała o zatrzymaniu dwóch agentów Rosji, którzy wysadzili wypełnioną materiałami wybuchowymi i butlami gazowymi furgonetkę, zaparkowaną przy jednym z obiektów SBU w centrum Kijowa.",
-      "date_published": "2026-02-16T17:44:00+01:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Kontrole-abonamentu-RTV-w-calym-kraju-Poczta-Polska-o-wizytach-w-domach-9084460.html",
-      "url": "https://www.bankier.pl/wiadomosc/Kontrole-abonamentu-RTV-w-calym-kraju-Poczta-Polska-o-wizytach-w-domach-9084460.html",
-      "title": "Kontrole abonamentu RTV w całym kraju. Poczta Polska o wizytach w domach",
-      "content_html": "Liczba kontroli w gospodarstwach domowych jest znikoma i stanowi jedynie niewielki odsetek wszystkich - poinformowało PAP Biuro Prasowe Poczty Polskiej w odpowiedzi na pytania dotyczące prowadzonej kontroli abonamentu RTV.",
-      "date_published": "2026-02-16T17:42:00+01:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Rosja-szykuje-zmasowane-uderzenie-Zelenski-wydaje-pilne-rozkazy-dowodcom-9084423.html",
-      "url": "https://www.bankier.pl/wiadomosc/Rosja-szykuje-zmasowane-uderzenie-Zelenski-wydaje-pilne-rozkazy-dowodcom-9084423.html",
-      "title": "„Rosja szykuje zmasowane uderzenie”. Zełenski wydaje pilne rozkazy dowódcom",
-      "content_html": "Prezydent Ukrainy Wołodymyr Zełenski zapowiedział, że w tym tygodniu we Francji odbędzie się spotkanie z sojusznikami w formacje tzw. energetycznego Ramstein. Polecił też przygotowanie obrony przed nowymi, zmasowanymi atakami Rosji, które oczekiwane...",
-      "date_published": "2026-02-16T17:37:00+01:00",
       "source": "Bankier.pl"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/iFirma-wyplaci-zaliczke-na-poczet-dywidendy-w-wysokosci-0-37-zl-na-akcje-9084543.html",
       "url": "https://www.bankier.pl/wiadomosc/iFirma-wyplaci-zaliczke-na-poczet-dywidendy-w-wysokosci-0-37-zl-na-akcje-9084543.html",
-      "title": "iFirma wypłaci zaliczkę na poczet dywidendy w wysokości 0,37 zł na akcję",
-      "content_html": "iFirma wypłaci zaliczkę na poczet dywidendy w wysokości 0,37 zł na akcję - poinformowała spółka w komunikacie. Wypłata dotyczy czwartego kwartału 2025 roku.",
+      "title": "iFirma wypłaci zaliczkę na poczet dywidendy w wysokości 0,37 zł na akcję iFirma wypłaci zaliczkę na poczet dywidendy w wysokości 0,37 zł na akcję - poinformowała spółka w komunikacie. Wypłata dotyczy czwartego kwartału 2025 roku.",
+      "content_html": "",
       "date_published": "2026-02-16T17:24:00+01:00",
       "source": "Bankier.pl"
     },
@@ -1037,26 +1165,10 @@
       "source": "PAP Biznes"
     },
     {
-      "id": "https://www.bankier.pl/wiadomosc/Glowna-zaleta-SAFE-Koszt-pieniadza-nizszy-niz-rynkowy-Polska-zaoszczedzi-na-odsetkach-9084414.html",
-      "url": "https://www.bankier.pl/wiadomosc/Glowna-zaleta-SAFE-Koszt-pieniadza-nizszy-niz-rynkowy-Polska-zaoszczedzi-na-odsetkach-9084414.html",
-      "title": "Główna zaleta SAFE: Koszt pieniądza niższy niż rynkowy. Polska zaoszczędzi na odsetkach",
-      "content_html": "Główną zaletą unijnego programu SAFE są jego korzystne warunki finansowe; w horyzoncie obowiązywania pożyczki z programu oszczędności dla Polski mogą wynieść przynajmniej 48 mld zł - szacują w raporcie ekonomiści Citi.",
-      "date_published": "2026-02-16T16:48:00+01:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Prad-po-160-zl-za-MWh-Eksperci-To-mozliwe-jesli-potroimy-moc-wiatrakow-9084425.html",
-      "url": "https://www.bankier.pl/wiadomosc/Prad-po-160-zl-za-MWh-Eksperci-To-mozliwe-jesli-potroimy-moc-wiatrakow-9084425.html",
-      "title": "Prąd po 160 zł za MWh? Eksperci: To możliwe, jeśli potroimy moc wiatraków",
-      "content_html": "Trzykrotny wzrost mocy w energetyce wiatrowej i szybszy jej rozwój w stosunku do propozycji rządu, przełoży się na spadek hurtowych cen energii elektrycznej do poziomu 160-320 zł za MWh po 2035 r. - szacuje w analizie firma doradcza Baker Tilly...",
-      "date_published": "2026-02-16T16:27:00+01:00",
-      "source": "Bankier.pl"
-    },
-    {
       "id": "https://www.bankier.pl/wiadomosc/Helio-szacuje-zysk-netto-w-II-kw-2025-26-na-15-mln-zl-wobec-9-889-tys-zl-rok-wczesniej-9084488.html",
       "url": "https://www.bankier.pl/wiadomosc/Helio-szacuje-zysk-netto-w-II-kw-2025-26-na-15-mln-zl-wobec-9-889-tys-zl-rok-wczesniej-9084488.html",
-      "title": "Helio szacuje zysk netto w II kw. 2025/26 na 15 mln zł wobec 9 889 tys. zł rok wcześniej",
-      "content_html": "Helio spodziewa się, że w drugim kwartale roku obrotowego 2025/2026 (październik - grudzień 2025) zysk netto wyniósł ok. 15 mln zł wobec 9.889 tys. zł w analogicznym okresie poprzedniego roku - podał dystrybutor bakalii w komunikacie.",
+      "title": "Helio szacuje zysk netto w II kw. 2025/26 na 15 mln zł wobec 9 889 tys. zł rok wcześniej Helio spodziewa się, że w drugim kwartale roku obrotowego 2025/2026 (październik - grudzień 2025) zysk netto wyniósł ok. 15 mln zł wobec 9.889 tys. zł w analogicznym okresie poprzedniego roku - podał dystrybutor bakalii w komunikacie.",
+      "content_html": "",
       "date_published": "2026-02-16T16:10:00+01:00",
       "source": "Bankier.pl"
     },
@@ -1187,14 +1299,6 @@
       "content_html": "",
       "date_published": "2026-02-16T14:03:00+01:00",
       "source": "Bankier.pl"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/firmy/rada-przyszlosci-chce-pomoc-min-w-skracaniu-sciezki-od-badan-do-komercjalizacji-i",
-      "url": "https://biznes.pap.pl/wiadomosci/firmy/rada-przyszlosci-chce-pomoc-min-w-skracaniu-sciezki-od-badan-do-komercjalizacji-i",
-      "title": "Rada Przyszłości chce pomóc m.in. w skracaniu ścieżki od badań do komercjalizacji i skalowania",
-      "content_html": "Działalność Rady Przyszłości ma pomóc m.in. w skracaniu ścieżki od badań do komercjalizacji i skalowania, czy wzmocnieniu bodźców do zaangażowania prywatnego kapitału i know-how polskich naukowców i p",
-      "date_published": "2026-02-16T13:25:00+01:00",
-      "source": "PAP Biznes"
     }
   ]
 }
