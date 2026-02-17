@@ -5,6 +5,14 @@
   "home_page_url": "https://www.bankier.pl",
   "items": [
     {
+      "id": "https://biznes.pap.pl/wiadomosci/rynki/dzien-na-rynkach-na-wall-street-male-wzrosty-po-dlugim-weekendzie",
+      "url": "https://biznes.pap.pl/wiadomosci/rynki/dzien-na-rynkach-na-wall-street-male-wzrosty-po-dlugim-weekendzie",
+      "title": "DZIEŃ NA RYNKACH: Na Wall Street małe wzrosty po długim weekendzie",
+      "content_html": "Wtorkowa, pierwsza w tym tygodniu, sesja na Wall Street zakończyła się niewielkimi wzrostami głównych indeksów. Trwa proces odchodzenia inwestorów od spółek technologicznych m.in. na akcje największyc",
+      "date_published": "2026-02-17T22:34:00+01:00",
+      "source": "PAP Biznes"
+    },
+    {
       "id": "https://biznes.pap.pl/wiadomosci/ekonomia-biznes-i-finanse/skrot-wiadomosci-wtorek-17-lutego-2110",
       "url": "https://biznes.pap.pl/wiadomosci/ekonomia-biznes-i-finanse/skrot-wiadomosci-wtorek-17-lutego-2110",
       "title": "Skrót wiadomości - wtorek, 17 lutego, 21.10",
@@ -301,14 +309,6 @@
       "source": "Bankier.pl"
     },
     {
-      "id": "https://biznes.pap.pl/wiadomosci/firmy/neuromedical-pozyskal-w-nowej-rundzie-finansowania-55-mln-zl-na-terapie-choroby",
-      "url": "https://biznes.pap.pl/wiadomosci/firmy/neuromedical-pozyskal-w-nowej-rundzie-finansowania-55-mln-zl-na-terapie-choroby",
-      "title": "Neuromedical pozyskał w nowej rundzie finansowania 5,5 mln zł na terapię choroby Alzheimera",
-      "content_html": "Neuromedical, polsko-izraelska spółka med-tech, pozyskała w nowej rundzie finansowania 5,5 mln zł - podała spółka w komunikacie prasowym. Pozyskany kapitał zostanie przeznaczony na przygotowanie badań",
-      "date_published": "2026-02-17T16:34:00+01:00",
-      "source": "PAP Biznes"
-    },
-    {
       "id": "https://www.bankier.pl/wiadomosc/Smieciowki-i-B2B-zamienione-w-etaty-Rzad-przyjal-kompromis-w-sprawie-PIP-9085103.html",
       "url": "https://www.bankier.pl/wiadomosc/Smieciowki-i-B2B-zamienione-w-etaty-Rzad-przyjal-kompromis-w-sprawie-PIP-9085103.html",
       "title": "Śmieciówki i B2B zamienione w etaty mocą PIP? Rząd przyjął kompromis w sprawie PIP",
@@ -419,6 +419,14 @@
       "content_html": "PGE Energia Ciepła podpisała umowę na budowę nowego, gazowego kogeneracyjnego źródła ciepła w Elektrociepłowni Gdańskiej - podała spółka w komunikacie prasowym. Wartość przedsięwzięcia to 217 mln zł netto.",
       "date_published": "2026-02-17T14:34:00+01:00",
       "source": "Bankier.pl"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/firmy/pge-energia-ciepla-rusza-z-budowa-gazowego-zrodla-ciepla-w-gdansku",
+      "url": "https://biznes.pap.pl/wiadomosci/firmy/pge-energia-ciepla-rusza-z-budowa-gazowego-zrodla-ciepla-w-gdansku",
+      "title": "PGE Energia Ciepła rusza z budową gazowego źródła ciepła w Gdańsku",
+      "content_html": "PGE Energia Ciepła podpisała umowę na budowę nowego, gazowego kogeneracyjnego źródła ciepła w Elektrociepłowni Gdańskiej - podała spółka w komunikacie prasowym. Wartość przedsięwzięcia to 217 mln zł n",
+      "date_published": "2026-02-17T14:32:00+01:00",
+      "source": "PAP Biznes"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Atak-hakerski-na-Uniwersytet-Warszawski-Sluzby-w-akcji-9084989.html",
