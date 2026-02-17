@@ -5,6 +5,38 @@
   "home_page_url": "https://www.bankier.pl",
   "items": [
     {
+      "id": "https://biznes.pap.pl/wiadomosci/ekonomia-biznes-i-finanse/skrot-wiadomosci-wtorek-17-lutego-2110",
+      "url": "https://biznes.pap.pl/wiadomosci/ekonomia-biznes-i-finanse/skrot-wiadomosci-wtorek-17-lutego-2110",
+      "title": "Skrót wiadomości - wtorek, 17 lutego, 21.10",
+      "content_html": "Przegląd najważniejszych wiadomości gospodarczych, krajowych i ze świata.",
+      "date_published": "2026-02-17T21:16:00+01:00",
+      "source": "PAP Biznes"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Przelom-w-polskiej-energetyce-OZE-stanowia-juz-ponad-polowe-mocy-9085300.html",
+      "url": "https://www.bankier.pl/wiadomosc/Przelom-w-polskiej-energetyce-OZE-stanowia-juz-ponad-polowe-mocy-9085300.html",
+      "title": "Przełom w polskiej energetyce. OZE stanowią już ponad połowę mocy",
+      "content_html": "Na koniec 2025 r. udział odnawialnych źródeł energii w mocy zainstalowanej w Polsce wyniósł 50,04 proc. - poinformował we wtorek resort klimatu i środowiska. Udział energii wyprodukowanej z OZE w całym ubiegłym roku po raz pierwszy w historii...",
+      "date_published": "2026-02-17T20:58:00+01:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Krwawe-starcia-na-szlakach-przemytniczych-USA-zatopily-trzy-lodzie-karteli-9085301.html",
+      "url": "https://www.bankier.pl/wiadomosc/Krwawe-starcia-na-szlakach-przemytniczych-USA-zatopily-trzy-lodzie-karteli-9085301.html",
+      "title": "Krwawe starcia na szlakach przemytniczych. USA zatopiły trzy łodzie karteli",
+      "content_html": "Dowództwo Południowe (SOUTHCOM) USA poinformowało we wtorek o trzech kolejnych atakach na łodzie domniemanych przemytników narkotyków na Pacyfiku i Morzu Karaibskim. Na skutek uderzeń zginęło 11 osób.",
+      "date_published": "2026-02-17T20:58:00+01:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Sukces-czy-gra-na-zwloke-Iran-i-USA-uzgodnily-ramy-negocjacji-9085141.html",
+      "url": "https://www.bankier.pl/wiadomosc/Sukces-czy-gra-na-zwloke-Iran-i-USA-uzgodnily-ramy-negocjacji-9085141.html",
+      "title": "Sukces czy gra na zwłokę? Iran i USA uzgodniły ramy negocjacji",
+      "content_html": "Szef MSZ Iranu Abbas Aragczi oświadczył we wtorek, po zakończeniu drugiej rundy pośrednich rozmów między Iranem a USA, że uzgodniono ze stroną amerykańską zasady przewodnie negocjacji; nie oznacza to, że osiągniemy wkrótce porozumienie, ale...",
+      "date_published": "2026-02-17T20:55:00+01:00",
+      "source": "Bankier.pl"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Chinscy-szpiedzy-na-kolkach-nie-wjada-do-polskich-baz-To-rozkaz-Sztabu-Generalnego-9085270.html",
       "url": "https://www.bankier.pl/wiadomosc/Chinscy-szpiedzy-na-kolkach-nie-wjada-do-polskich-baz-To-rozkaz-Sztabu-Generalnego-9085270.html",
       "title": "Chińscy szpiedzy na kółkach nie wjadą do polskich baz. To rozkaz Sztabu Generalnego",
@@ -283,14 +315,6 @@
       "content_html": "Rada Ministrów przyjęła projekt reformy Państwowej Inspekcji Pracy - poinformował we wtorek rzecznik rządu Adam Szłapka. Regulacja przygotowana w ministerstwie pracy zakłada przyznanie PIP uprawnienia do zamiany pozornych umów cywilnoprawnych...",
       "date_published": "2026-02-17T16:31:00+01:00",
       "source": "Bankier.pl"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/firmy/dzien-na-gpw-spadki-na-gpw-utrzymuja-sie-kghm-znizkuje-o-74-proc",
-      "url": "https://biznes.pap.pl/wiadomosci/firmy/dzien-na-gpw-spadki-na-gpw-utrzymuja-sie-kghm-znizkuje-o-74-proc",
-      "title": "DZIEŃ NA GPW: Spadki na GPW utrzymują się; KGHM zniżkuje o 7,4 proc.",
-      "content_html": "Główne indeksy spadają przeważnie po ponad 1 proc. Poprawiły się notowania banków, natomiast pogłębił się spadek kursu KGHM, akcje spółki tracą 7,4 proc. Zdaniem analityków, wtorkowe spadki nie przesą",
-      "date_published": "2026-02-17T16:27:00+01:00",
-      "source": "PAP Biznes"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Szesciokrotnosc-minimalnej-za-mobbing-Rzad-upraszcza-takze-definicje-9085140.html",
@@ -1213,30 +1237,6 @@
       "source": "Bankier.pl"
     },
     {
-      "id": "https://www.bankier.pl/wiadomosc/Sojusz-ponad-glowa-Waszyngtonu-Kanada-i-Meksyk-lacza-sily-w-obawie-przed-decyzjami-Trumpa-9084682.html",
-      "url": "https://www.bankier.pl/wiadomosc/Sojusz-ponad-glowa-Waszyngtonu-Kanada-i-Meksyk-lacza-sily-w-obawie-przed-decyzjami-Trumpa-9084682.html",
-      "title": "Sojusz ponad głową Waszyngtonu? Kanada i Meksyk łączą siły w obawie przed decyzjami Trumpa",
-      "content_html": "Minister gospodarki Meksyku Marcelo Ebrard poinformował w poniedziałek, że jego kraj i Kanada przedstawią w drugiej połowie roku wspólny plan działania dotyczący wydobycia surowców mineralnych, infrastruktury i łańcuchów dostaw.",
-      "date_published": "2026-02-17T07:29:00+01:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Spadek-eksportu-i-pelne-magazyny-Rosja-zmuszona-do-gwaltownego-ciecia-wydobycia-ropy-9084681.html",
-      "url": "https://www.bankier.pl/wiadomosc/Spadek-eksportu-i-pelne-magazyny-Rosja-zmuszona-do-gwaltownego-ciecia-wydobycia-ropy-9084681.html",
-      "title": "Spadek eksportu i pełne magazyny. Rosja zmuszona do gwałtownego cięcia wydobycia ropy",
-      "content_html": "Rosyjscy producenci ropy mogą zostać zmuszeni do gwałtownego ograniczenia wydobycia w nadchodzących miesiącach, ponieważ rosnąca presja ze strony prezydenta USA Donalda Trumpa i Unii Europejskiej ogranicza eksport i sprawia, że magazyny są wypełnione...",
-      "date_published": "2026-02-17T07:22:00+01:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Nowa-baza-NATO-w-Rovaniemi-Tysiace-zolnierzy-moga-trafic-pod-kolo-podbiegunowe-9084715.html",
-      "url": "https://www.bankier.pl/wiadomosc/Nowa-baza-NATO-w-Rovaniemi-Tysiace-zolnierzy-moga-trafic-pod-kolo-podbiegunowe-9084715.html",
-      "title": "Nowa baza NATO w Rovaniemi. Tysiące żołnierzy mogą trafić pod koło podbiegunowe",
-      "content_html": "Na północy Finlandii - w Rovaniemi, powstanie struktura dowodzenia wielonarodowych wysuniętych sił NATO operujących w Laponii, co wzmocni odstraszanie i obronę Sojuszu, również w arktycznych regionach - ogłosił w poniedziałek szef resortu obrony...",
-      "date_published": "2026-02-17T07:20:00+01:00",
-      "source": "Bankier.pl"
-    },
-    {
       "id": "https://biznes.pap.pl/wiadomosci/ekonomia-biznes-i-finanse/przewidywane-najwazniejsze-wydarzenia-gospodarcze-2026-02-17",
       "url": "https://biznes.pap.pl/wiadomosci/ekonomia-biznes-i-finanse/przewidywane-najwazniejsze-wydarzenia-gospodarcze-2026-02-17",
       "title": "Przewidywane najważniejsze wydarzenia gospodarcze 2026-02-17",
@@ -1290,14 +1290,6 @@
       "title": "Lotniska w Rzeszowie i Lublinie zamknięte czasowo na czas działań wojskowego lotnictwa - PAŻP",
       "content_html": "Lotniska w Rzeszowie i Lublinie zostały zamknięte czasowo, by zapewnić swobodę operowania lotnictwa wojskowego - poinformowała Polska Agencja Żeglugi Powietrznej.",
       "date_published": "2026-02-17T06:24:00+01:00",
-      "source": "PAP Biznes"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/ekonomia-biznes-i-finanse/skrot-wiadomosci-poniedzialek-16-lutego-2100",
-      "url": "https://biznes.pap.pl/wiadomosci/ekonomia-biznes-i-finanse/skrot-wiadomosci-poniedzialek-16-lutego-2100",
-      "title": "Skrót wiadomości - poniedziałek, 16 lutego, 21.00",
-      "content_html": "Przegląd najważniejszych wiadomości gospodarczych, krajowych i ze świata.",
-      "date_published": "2026-02-16T21:00:00+01:00",
       "source": "PAP Biznes"
     }
   ]
