@@ -5,6 +5,78 @@
   "home_page_url": "https://www.bankier.pl",
   "items": [
     {
+      "id": "https://biznes.pap.pl/wiadomosci/rynki/rentownosci-obligacji-wybranych-panstw-tabela-2551",
+      "url": "https://biznes.pap.pl/wiadomosci/rynki/rentownosci-obligacji-wybranych-panstw-tabela-2551",
+      "title": "Rentowności obligacji wybranych państw (tabela)",
+      "content_html": "Poniżej zestawienie rentowności obligacji wybranych państw.",
+      "date_published": "2026-02-18T06:32:00+01:00",
+      "source": "PAP Biznes"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/rynki/notowania-metali-bazowych-wegla-i-paliw-tabela-2462",
+      "url": "https://biznes.pap.pl/wiadomosci/rynki/notowania-metali-bazowych-wegla-i-paliw-tabela-2462",
+      "title": "Notowania metali bazowych, węgla i paliw (tabela)",
+      "content_html": "Notowania metali bazowych na London Metal Exchange, uprawnień EUA do emisji CO2, ceny węgla energetycznego ARA na przyszły rok oraz ceny paliw.",
+      "date_published": "2026-02-18T06:31:00+01:00",
+      "source": "PAP Biznes"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/rynki/zamkniecia-na-gieldach-w-ameryce-polnocnej-i-poludniowej-tabela-3070",
+      "url": "https://biznes.pap.pl/wiadomosci/rynki/zamkniecia-na-gieldach-w-ameryce-polnocnej-i-poludniowej-tabela-3070",
+      "title": "Zamknięcia na giełdach w Ameryce Północnej i Południowej (tabela)",
+      "content_html": "Poniżej zamknięcia i zmiany indeksów w USA. Kanadzie, Meksyku, Brazylii, Chile, Kolumbii i Argentynie:",
+      "date_published": "2026-02-18T06:31:00+01:00",
+      "source": "PAP Biznes"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Na-Wall-Street-male-wzrosty-po-dlugim-weekendzie-Inwestorzy-kontynuuja-przenoszenie-aktywow-9085335.html",
+      "url": "https://www.bankier.pl/wiadomosc/Na-Wall-Street-male-wzrosty-po-dlugim-weekendzie-Inwestorzy-kontynuuja-przenoszenie-aktywow-9085335.html",
+      "title": "Na Wall Street małe wzrosty po długim weekendzie. Inwestorzy kontynuują przenoszenie aktywów",
+      "content_html": "Wtorkowa, pierwsza w tym tygodniu sesja na Wall Street zakończyła się niewielkimi wzrostami głównych indeksów. Trwa proces odchodzenia inwestorów od spółek technologicznych m.in. na akcje największych banków.",
+      "date_published": "2026-02-18T06:21:00+01:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Ceny-mieszkan-sa-przeszacowane-Indeks-urban-one-kontynuuje-spadek-zwlaszcza-w-Warszawie-9084853.html",
+      "url": "https://www.bankier.pl/wiadomosc/Ceny-mieszkan-sa-przeszacowane-Indeks-urban-one-kontynuuje-spadek-zwlaszcza-w-Warszawie-9084853.html",
+      "title": "„Ceny mieszkań są przeszacowane”. Indeks urban.one kontynuuje spadek, zwłaszcza w Warszawie",
+      "content_html": "Koniec 2025 r. stał pod znakiem spadków indeksu urban.one – zarówno w przypadku największych polskich rynków jak i mniejszych miejscowości. Choć popyt jest wyższy niż przed rokiem o tej samej porze, to w opinii ekspertów, na możliwe dalsze...",
+      "date_published": "2026-02-18T06:00:00+01:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Trwa-fiesta-na-rynku-polskiego-dlugu-Czy-warto-brac-udzial-w-obligacyjnej-hossie-9084862.html",
+      "url": "https://www.bankier.pl/wiadomosc/Trwa-fiesta-na-rynku-polskiego-dlugu-Czy-warto-brac-udzial-w-obligacyjnej-hossie-9084862.html",
+      "title": "Trwa fiesta na rynku polskiego długu. Czy warto brać udział w obligacyjnej hossie?",
+      "content_html": "Polski rynek długu bije kolejne rekordy i ustanawia nowe „kamienie milowe”. Jednakże obserwując niesłabnące pożądanie polskich inwestorów na papiery przynoszące stały dochód, trudno zignorować kilka przynajmniej pomarańczowych lampek...",
+      "date_published": "2026-02-18T06:00:00+01:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Kary-za-brak-OC-w-2026-r-Projekt-zmian-w-ustawie-trafil-do-Sejmu-9085032.html",
+      "url": "https://www.bankier.pl/wiadomosc/Kary-za-brak-OC-w-2026-r-Projekt-zmian-w-ustawie-trafil-do-Sejmu-9085032.html",
+      "title": "Nadchodzi rewolucja w OC. Kierowcy odetchną z ulgą, ale branża mówi o podwyżkach",
+      "content_html": "Kierowcy, którzy choć raz zapomnieli o terminie polisy OC, doskonale wiedzą, że stawki kar potrafią zrujnować domowy budżet. Zmotoryzowani ucieszą się, ponieważ do Sejmu wpłynął projekt nowelizacji ustawy o ubezpieczeniach obowiązkowych...",
+      "date_published": "2026-02-18T06:00:00+01:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Swiat-w-erze-niedoborow-Geopolityka-pisze-nowe-reguly-biznesu-9085036.html",
+      "url": "https://www.bankier.pl/wiadomosc/Swiat-w-erze-niedoborow-Geopolityka-pisze-nowe-reguly-biznesu-9085036.html",
+      "title": "Świat w erze niedoborów. Geopolityka pisze nowe reguły biznesu",
+      "content_html": "Rok 2025 był czasem zwiększonej niepewności, a otoczenie biznesowe w 2026 r. będzie kształtowane przez dwa najważniejsze trendy: nowe zasady i normy oraz geopolitykę niedoborów – wynika z raportu EY-Parthenon „Perspektywy geostrategiczne w...",
+      "date_published": "2026-02-18T06:00:00+01:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Refinansowanie-rozgrzewa-rynek-hipotek-Przybywa-specjalnych-ofert-9085068.html",
+      "url": "https://www.bankier.pl/wiadomosc/Refinansowanie-rozgrzewa-rynek-hipotek-Przybywa-specjalnych-ofert-9085068.html",
+      "title": "Banki biją się o cudzych klientów. Tak zaoszczędzisz tysiąc złotych na racie hipotecznej",
+      "content_html": "Niższe oprocentowanie hipotek zachęca do poszukiwania lepszych ofert. Kredytobiorcy korzystają z okazji. Refinansowanie już jest ważnym frontem w rynkowych potyczkach, a będzie jeszcze istotniejszym. Widać to chociażby w rosnącej liczbie promocji...",
+      "date_published": "2026-02-18T06:00:00+01:00",
+      "source": "Bankier.pl"
+    },
+    {
       "id": "https://biznes.pap.pl/wiadomosci/rynki/dzien-na-rynkach-na-wall-street-male-wzrosty-po-dlugim-weekendzie",
       "url": "https://biznes.pap.pl/wiadomosci/rynki/dzien-na-rynkach-na-wall-street-male-wzrosty-po-dlugim-weekendzie",
       "title": "DZIEŃ NA RYNKACH: Na Wall Street małe wzrosty po długim weekendzie",
@@ -237,28 +309,12 @@
       "source": "Bankier.pl"
     },
     {
-      "id": "https://biznes.pap.pl/wiadomosci/firmy/tarczynski-ma-umowe-na-budowe-hali-produkcyjnej",
-      "url": "https://biznes.pap.pl/wiadomosci/firmy/tarczynski-ma-umowe-na-budowe-hali-produkcyjnej",
-      "title": "Tarczyński ma umowę na budowę hali produkcyjnej",
-      "content_html": "Tarczyński złożył do spółki Projprzem Budownictwo zamówienie na realizację inwestycji dotyczącej budynku hali produkcyjnej C2 - podała spółka Tarczyński w komunikacie. Wartość inwestycji wyniesie łącz",
-      "date_published": "2026-02-17T17:19:00+01:00",
-      "source": "PAP Biznes"
-    },
-    {
       "id": "https://www.bankier.pl/wiadomosc/Oferta-konsorcjum-Mirbudu-w-wysokosci-457-77-mln-zl-najkorzystniejsza-w-postepowaniu-GDDKiA-9085196.html",
       "url": "https://www.bankier.pl/wiadomosc/Oferta-konsorcjum-Mirbudu-w-wysokosci-457-77-mln-zl-najkorzystniejsza-w-postepowaniu-GDDKiA-9085196.html",
       "title": "Oferta konsorcjum Mirbudu w wysokości 457,77 mln zł najkorzystniejsza w postępowaniu GDDKiA",
       "content_html": "Oferta konsorcjum, którego liderem jest Mirbud została wybrana jako najkorzystniejsza w postępowaniu Generalnej Dyrekcji Dróg Krajowych i Autostrad Oddział w Warszawie - podał Mirbud w komunikacie. Wartość oferty to 457,77 mln zł brutto.",
       "date_published": "2026-02-17T17:14:00+01:00",
       "source": "Bankier.pl"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/firmy/oferta-konsorcjum-mirbudu-w-wysokosci-45777-mln-zl-najkorzystniejsza-w",
-      "url": "https://biznes.pap.pl/wiadomosci/firmy/oferta-konsorcjum-mirbudu-w-wysokosci-45777-mln-zl-najkorzystniejsza-w",
-      "title": "Oferta konsorcjum Mirbudu w wysokości 457,77 mln zł najkorzystniejsza w postępowaniu GDDKiA",
-      "content_html": "Oferta konsorcjum, którego liderem jest Mirbud została wybrana jako najkorzystniejsza w postępowaniu Generalnej Dyrekcji Dróg Krajowych i Autostrad Oddział w Warszawie - podał Mirbud w komunikacie. Wa",
-      "date_published": "2026-02-17T17:12:00+01:00",
-      "source": "PAP Biznes"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Trump-odpiera-zarzuty-o-rasizm-Jednoczesnie-uderza-w-Baracka-Obame-9085157.html",
@@ -275,14 +331,6 @@
       "content_html": "Rzecznik rządu Adam Szłapka podkreślił we wtorek, że mimo napiętej sytuacji w Polsce 2050 koalicja rządząca pracuje normalnie. Posłowie Polski 2050, niezależnie od napiętej sytuacji wewnątrz ich partii, deklarują jednoznacznie wsparcie dla...",
       "date_published": "2026-02-17T17:04:00+01:00",
       "source": "Bankier.pl"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/ekonomia-biznes-i-finanse/skrot-wiadomosci-wtorek-17-lutego-1700",
-      "url": "https://biznes.pap.pl/wiadomosci/ekonomia-biznes-i-finanse/skrot-wiadomosci-wtorek-17-lutego-1700",
-      "title": "Skrót wiadomości - wtorek, 17 lutego, 17.00",
-      "content_html": "Przegląd najważniejszych wiadomości gospodarczych, krajowych i ze świata.",
-      "date_published": "2026-02-17T17:00:00+01:00",
-      "source": "PAP Biznes"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Rosnie-napiecie-w-IMGW-Zwiazkowcy-groza-strajkiem-9085181.html",
@@ -389,6 +437,14 @@
       "source": "Bankier.pl"
     },
     {
+      "id": "https://biznes.pap.pl/wiadomosci/firmy/warner-bros-wznowil-rozmowy-z-paramount-na-temat-przejecia-spolki",
+      "url": "https://biznes.pap.pl/wiadomosci/firmy/warner-bros-wznowil-rozmowy-z-paramount-na-temat-przejecia-spolki",
+      "title": "Warner Bros. wznowił rozmowy z Paramount na temat przejęcia spółki",
+      "content_html": "Warner Bros. Discovery poinformował, że wznowił rozmowy z Paramount Skydance na temat przejęcia spółki, dając tej firmie kolejną szansę na przebicie oferty Netflixa i czas do 23 lutego na przedstawien",
+      "date_published": "2026-02-17T14:47:00+01:00",
+      "source": "PAP Biznes"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Inwestycje-w-zbrojeniowke-Premier-Inwestycje-w-sama-Hute-Stalowa-Wola-wyniosa-ponad-20-mld-zl-9084995.html",
       "url": "https://www.bankier.pl/wiadomosc/Inwestycje-w-zbrojeniowke-Premier-Inwestycje-w-sama-Hute-Stalowa-Wola-wyniosa-ponad-20-mld-zl-9084995.html",
       "title": "Inwestycje w zbrojeniówkę. Premier: Inwestycje w samą Hutę Stalowa Wola wyniosą ponad 20 mld zł",
@@ -397,12 +453,28 @@
       "source": "Bankier.pl"
     },
     {
+      "id": "https://biznes.pap.pl/wiadomosci/transport-i-logistyka/szesciu-oferentow-zainteresowanych-dostawa-rekawow-pasazerskich-w",
+      "url": "https://biznes.pap.pl/wiadomosci/transport-i-logistyka/szesciu-oferentow-zainteresowanych-dostawa-rekawow-pasazerskich-w",
+      "title": "Sześciu oferentów zainteresowanych dostawą rękawów pasażerskich w programie Port Polska",
+      "content_html": "Spółka Centralny Port Komunikacyjny otrzymała sześć ofert na zaprojektowanie, dostawę, montaż, uruchomienie i serwis 92 rękawów pasażerskich dla nowego lotniska krajowego w ramach programu inwestycyjn",
+      "date_published": "2026-02-17T14:43:00+01:00",
+      "source": "PAP Biznes"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Unimot-zrealizowal-pierwsza-bezposrednia-dostawe-izobutanu-z-USA-9085074.html",
       "url": "https://www.bankier.pl/wiadomosc/Unimot-zrealizowal-pierwsza-bezposrednia-dostawe-izobutanu-z-USA-9085074.html",
       "title": "Unimot zrealizował pierwszą bezpośrednią dostawę izobutanu z USA",
       "content_html": "Unimot zrealizował pierwszą dostawę izobutanu zaimportowanego bezpośrednio ze Stanów Zjednoczonych na potrzeby swojego klienta, wykorzystując wynajęty w 2024 r. terminal w niemieckim Wilhelmshaven oraz transport kolejowy spółki Olavion - podała...",
       "date_published": "2026-02-17T14:42:00+01:00",
       "source": "Bankier.pl"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/firmy/unimot-zrealizowal-pierwsza-bezposrednia-dostawe-izobutanu-z-usa",
+      "url": "https://biznes.pap.pl/wiadomosci/firmy/unimot-zrealizowal-pierwsza-bezposrednia-dostawe-izobutanu-z-usa",
+      "title": "Unimot zrealizował pierwszą bezpośrednią dostawę izobutanu z USA",
+      "content_html": "Unimot zrealizował pierwszą dostawę izobutanu zaimportowanego bezpośrednio ze Stanów Zjednoczonych na potrzeby swojego klienta, wykorzystując wynajęty w 2024 r. terminal w niemieckim Wilhelmshaven ora",
+      "date_published": "2026-02-17T14:40:00+01:00",
+      "source": "PAP Biznes"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Francja-kaze-placic-za-flote-cieni-Dostali-miliony-za-uwolnienie-tankowca-9085014.html",
@@ -1165,28 +1237,12 @@
       "source": "PAP Biznes"
     },
     {
-      "id": "https://www.bankier.pl/wiadomosc/Podrobione-markowe-towary-w-sortowni-przesylek-KAS-zabezpieczyla-10-tys-sztuk-towaru-9084813.html",
-      "url": "https://www.bankier.pl/wiadomosc/Podrobione-markowe-towary-w-sortowni-przesylek-KAS-zabezpieczyla-10-tys-sztuk-towaru-9084813.html",
-      "title": "Podrobione markowe towary w sortowni przesyłek. KAS zabezpieczyła 10 tys. sztuk towaru",
-      "content_html": "Funkcjonariusze lubuskiej Krajowej Administracji Skarbowej zabezpieczyli prawie 10 tys. sztuk towarów z zastrzeżonymi znakami towarowymi. Ich wartość to ponad 6 mln zł.",
-      "date_published": "2026-02-17T08:01:00+01:00",
-      "source": "Bankier.pl"
-    },
-    {
       "id": "https://biznes.pap.pl/wiadomosci/firmy/3-4-marca-xvii-edycja-kongresu-prawnikow-spolek-gieldowych-seg",
       "url": "https://biznes.pap.pl/wiadomosci/firmy/3-4-marca-xvii-edycja-kongresu-prawnikow-spolek-gieldowych-seg",
       "title": "3-4 marca XVII edycja Kongresu Prawników Spółek Giełdowych SEG",
       "content_html": "W dniach 3-4 marca w hotelu Warszawianka w Jachrance odbędzie się XVII edycja Kongresu Prawników Spółek Giełdowych SEG. Organizatorem wydarzenia jest Stowarzyszenie Emitentów Giełdowych, a PAP Biznes ",
       "date_published": "2026-02-17T08:00:00+01:00",
       "source": "PAP Biznes"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Ceny-ropy-sie-wahaja-We-wtorek-wazne-rozmowy-USA-Iran-9084810.html",
-      "url": "https://www.bankier.pl/wiadomosc/Ceny-ropy-sie-wahaja-We-wtorek-wazne-rozmowy-USA-Iran-9084810.html",
-      "title": "Ceny ropy się wahają. We wtorek ważne rozmowy USA-Iran",
-      "content_html": "Ceny ropy naftowej się wahają, a inwestorzy czekają na początek rozmów USA-Iran w Genewie - informują maklerzy.",
-      "date_published": "2026-02-17T07:56:00+01:00",
-      "source": "Bankier.pl"
     },
     {
       "id": "https://biznes.pap.pl/wiadomosci/firmy/ceny-ropy-sie-wahaja-we-wtorek-wazne-rozmowy-usa-iran",
@@ -1213,44 +1269,12 @@
       "source": "PAP Biznes"
     },
     {
-      "id": "https://www.bankier.pl/wiadomosc/Dzialania-ICE-w-Chicago-dotknely-Polakow-9084789.html",
-      "url": "https://www.bankier.pl/wiadomosc/Dzialania-ICE-w-Chicago-dotknely-Polakow-9084789.html",
-      "title": "Działania ICE w Chicago dotknęły Polaków. \"Nawet dreamersi nie mogą czuć się bezpieczni\"",
-      "content_html": "Choć imigranci z Polski stanowili dotąd niewielki ułamek osób zatrzymanych i deportowanych przez policję imigracyjną ICE, działania służb wywołują ciągły niepokój wśród Polonii w Chicago. Wbrew narracji administracji Donalda Trumpa, w...",
-      "date_published": "2026-02-17T07:48:00+01:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Koniec-sztucznego-wstrzymywania-przedawnienia-ale-fiskus-dostanie-wiecej-czasu-9084713.html",
-      "url": "https://www.bankier.pl/wiadomosc/Koniec-sztucznego-wstrzymywania-przedawnienia-ale-fiskus-dostanie-wiecej-czasu-9084713.html",
-      "title": "Koniec sztucznego wstrzymywania przedawnienia, ale fiskus dostanie więcej czasu",
-      "content_html": "Termin przedawnienia prawa organu podatkowego do wydania decyzji ustalającej zobowiązanie podatkowe z tytułu opodatkowania nieujawnionych przychodów ma być wydłużony - przewiduje opublikowany w poniedziałek projekt nowelizacji Ordynacji podatkowej...",
-      "date_published": "2026-02-17T07:36:00+01:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Ceny-miedzi-w-Londynie-w-dol-Na-gieldach-slaby-handel-z-powodu-swiat-w-Chinach-9084803.html",
-      "url": "https://www.bankier.pl/wiadomosc/Ceny-miedzi-w-Londynie-w-dol-Na-gieldach-slaby-handel-z-powodu-swiat-w-Chinach-9084803.html",
-      "title": "Ceny miedzi w Londynie w dół. Na giełdach słaby handel z powodu świąt w Chinach",
-      "content_html": "Notowania miedzi na giełdzie metali LME w Londynie spadają, a obroty na rynkach są słabe ze względu na świąteczną przerwę w Chinach, gdzie rozpoczął się Nowy Rok Księżycowy - informują maklerzy.",
-      "date_published": "2026-02-17T07:35:00+01:00",
-      "source": "Bankier.pl"
-    },
-    {
       "id": "https://biznes.pap.pl/wiadomosci/rynki/ceny-miedzi-w-londynie-w-dol-na-gieldach-slaby-handel-z-powodu-swiat-w-chinach",
       "url": "https://biznes.pap.pl/wiadomosci/rynki/ceny-miedzi-w-londynie-w-dol-na-gieldach-slaby-handel-z-powodu-swiat-w-chinach",
       "title": "Ceny miedzi w Londynie w dół; na giełdach słaby handel z powodu świąt w Chinach",
       "content_html": "Notowania miedzi na giełdzie metali LME w Londynie spadają, a obroty na rynkach są słabe ze względu na świąteczną przerwę w Chinach, gdzie rozpoczął się Nowy Rok Księżycowy - informują maklerzy.",
       "date_published": "2026-02-17T07:34:00+01:00",
       "source": "PAP Biznes"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Wojsko-poderwalo-mysliwce-Wstrzymany-ruch-na-dwoch-lotniskach-9084784.html",
-      "url": "https://www.bankier.pl/wiadomosc/Wojsko-poderwalo-mysliwce-Wstrzymany-ruch-na-dwoch-lotniskach-9084784.html",
-      "title": "Wojsko poderwało myśliwce. Reakcja na rosyjskie ataki w Ukrainie",
-      "content_html": "W związku z aktywnością lotnictwa dalekiego zasięgu Federacji Rosyjskiej, wykonującego uderzenia na terytorium Ukrainy trwa operowanie lotnictwa wojskowego w polskiej przestrzeni powietrznej - poinformowało we wtorek Dowództwo Operacyjne RSZ. Lotniska...",
-      "date_published": "2026-02-17T07:31:00+01:00",
-      "source": "Bankier.pl"
     },
     {
       "id": "https://biznes.pap.pl/wiadomosci/ekonomia-biznes-i-finanse/przewidywane-najwazniejsze-wydarzenia-gospodarcze-2026-02-17",
@@ -1274,38 +1298,6 @@
       "title": "Kalendarium rynku kapitałowego GPW 2026-02-17",
       "content_html": "Kalendarium rynku kapitałowego GPW 2026-02-17",
       "date_published": "2026-02-17T07:00:00+01:00",
-      "source": "PAP Biznes"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/rynki/rentownosci-obligacji-wybranych-panstw-tabela-2550",
-      "url": "https://biznes.pap.pl/wiadomosci/rynki/rentownosci-obligacji-wybranych-panstw-tabela-2550",
-      "title": "Rentowności obligacji wybranych państw (tabela)",
-      "content_html": "Poniżej zestawienie rentowności obligacji wybranych państw.",
-      "date_published": "2026-02-17T06:32:00+01:00",
-      "source": "PAP Biznes"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/rynki/notowania-metali-bazowych-wegla-i-paliw-tabela-2461",
-      "url": "https://biznes.pap.pl/wiadomosci/rynki/notowania-metali-bazowych-wegla-i-paliw-tabela-2461",
-      "title": "Notowania metali bazowych, węgla i paliw (tabela)",
-      "content_html": "Notowania metali bazowych na London Metal Exchange, uprawnień EUA do emisji CO2, ceny węgla energetycznego ARA na przyszły rok oraz ceny paliw.",
-      "date_published": "2026-02-17T06:32:00+01:00",
-      "source": "PAP Biznes"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/rynki/zamkniecia-na-gieldach-w-ameryce-polnocnej-i-poludniowej-tabela-3069",
-      "url": "https://biznes.pap.pl/wiadomosci/rynki/zamkniecia-na-gieldach-w-ameryce-polnocnej-i-poludniowej-tabela-3069",
-      "title": "Zamknięcia na giełdach w Ameryce Północnej i Południowej (tabela)",
-      "content_html": "Poniżej zamknięcia i zmiany indeksów w USA. Kanadzie, Meksyku, Brazylii, Chile, Kolumbii i Argentynie:",
-      "date_published": "2026-02-17T06:31:00+01:00",
-      "source": "PAP Biznes"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/gospodarka/lotniska-w-rzeszowie-i-lublinie-zamkniete-czasowo-na-czas-dzialan-wojskowego",
-      "url": "https://biznes.pap.pl/wiadomosci/gospodarka/lotniska-w-rzeszowie-i-lublinie-zamkniete-czasowo-na-czas-dzialan-wojskowego",
-      "title": "Lotniska w Rzeszowie i Lublinie zamknięte czasowo na czas działań wojskowego lotnictwa - PAŻP",
-      "content_html": "Lotniska w Rzeszowie i Lublinie zostały zamknięte czasowo, by zapewnić swobodę operowania lotnictwa wojskowego - poinformowała Polska Agencja Żeglugi Powietrznej.",
-      "date_published": "2026-02-17T06:24:00+01:00",
       "source": "PAP Biznes"
     }
   ]
