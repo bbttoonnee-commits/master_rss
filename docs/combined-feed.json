@@ -5,10 +5,74 @@
   "home_page_url": "https://www.bankier.pl",
   "items": [
     {
+      "id": "https://biznes.pap.pl/wiadomosci/gospodarka/euro-w-ebc-11753-usd-i-18205-jpy",
+      "url": "https://biznes.pap.pl/wiadomosci/gospodarka/euro-w-ebc-11753-usd-i-18205-jpy",
+      "title": "Euro w EBC: 1,1753 USD i 182,05 JPY",
+      "content_html": "Europejski Bank Centralny (EBC) ustalił kurs euro na 1,1753 USD i 182,05 JPY - podał bank na swojej stronie internetowej.",
+      "date_published": "2026-02-19T15:56:00+01:00",
+      "source": "PAP Biznes"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/USA-Iran-u-progu-wojny-Na-rynku-ropy-nerwowo-9086393.html",
+      "url": "https://www.bankier.pl/wiadomosc/USA-Iran-u-progu-wojny-Na-rynku-ropy-nerwowo-9086393.html",
+      "title": "USA-Iran u progu wojny? Na rynku ropy nerwowo",
+      "content_html": "Cena ropy porusza się ostatnio w rytm doniesień o zmianach temperatury relacji USA-Iran - zauważyli analitycy PKO Banku Polskiego. Jak podali, w bazowym scenariuszu oczekiwane jest porozumienie m.in. tych państw przed latem tego roku, co może oznaczać...",
+      "date_published": "2026-02-19T15:51:00+01:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Bezpieczenstwo-granic-UE-Polska-i-9-innych-panstw-stawia-twarde-warunki-9086389.html",
+      "url": "https://www.bankier.pl/wiadomosc/Bezpieczenstwo-granic-UE-Polska-i-9-innych-panstw-stawia-twarde-warunki-9086389.html",
+      "title": "Bezpieczeństwo granic UE. Polska i 9 innych państw stawia twarde warunki",
+      "content_html": "Europejska Agencja Straży Granicznej i Przybrzeżnej (Frontex) musi zostać wzmocniona, ale nie może zastąpić państw członkowskich w kontrolowaniu bezpieczeństwa granic – wynika z dokumentu przekazanego Komisji Europejskiej i podpisanego przez...",
+      "date_published": "2026-02-19T15:47:00+01:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Rusza-Rada-Pokoju-Trumpa-Na-miejscu-polski-przedstawiciel-9086386.html",
+      "url": "https://www.bankier.pl/wiadomosc/Rusza-Rada-Pokoju-Trumpa-Na-miejscu-polski-przedstawiciel-9086386.html",
+      "title": "Rusza Rada Pokoju Trumpa. Na miejscu polski przedstawiciel",
+      "content_html": "W siedzibie organizacji Instytut Pokoju w Waszyngtonie rozpoczęło się w czwartek pierwsze posiedzenie Rady Pokoju z udziałem przedstawicieli 49 państw. Głównym tematem obrad ma być przyszłość Strefy Gazy.",
+      "date_published": "2026-02-19T15:41:00+01:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/rynki/po-otwarciu-sesji-dji-traci-04-proc-sp-500-znizkuje-04-proc",
+      "url": "https://biznes.pap.pl/wiadomosci/rynki/po-otwarciu-sesji-dji-traci-04-proc-sp-500-znizkuje-04-proc",
+      "title": "Po otwarciu sesji DJI traci 0,4 proc., a S&P 500 zniżkuje 0,4 proc.",
+      "content_html": "Po otwarciu sesji w USA Dow Jones Industrial traci 0,4 proc. do 49.470 pkt., S&P500 idzie w dół o 0,4 proc. i wynosi 6.857 pkt.",
+      "date_published": "2026-02-19T15:32:00+01:00",
+      "source": "PAP Biznes"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Wsparcie-dla-Ukrainy-Szwecja-wysyla-miliardy-dolarow-i-sprzet-9086373.html",
+      "url": "https://www.bankier.pl/wiadomosc/Wsparcie-dla-Ukrainy-Szwecja-wysyla-miliardy-dolarow-i-sprzet-9086373.html",
+      "title": "Wsparcie dla Ukrainy. Szwecja wysyła miliardy dolarów i sprzęt",
+      "content_html": "Szwecja zapowiedziała w czwartek pakiet pomocy wojskowej dla Ukrainy o wartości 12,9 mld koron (1,42 mld dolarów), zawierający sprzęt obrony powietrznej, drony, pociski dalekiego zasięgu oraz amunicję – poinformował szwedzki rząd w oświadczeniu...",
+      "date_published": "2026-02-19T15:25:00+01:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/firmy/dzien-na-gpw-spadaja-glowne-indeksy-i-wiekszosc-sektorowych-orlen-najsilniejszy-w",
+      "url": "https://biznes.pap.pl/wiadomosci/firmy/dzien-na-gpw-spadaja-glowne-indeksy-i-wiekszosc-sektorowych-orlen-najsilniejszy-w",
+      "title": "DZIEŃ NA GPW: Spadają główne indeksy i większość sektorowych; Orlen najsilniejszy w WIG20",
+      "content_html": "Po południu spadają główne indeksy GPW oraz większość wskaźników sektorowych. W WIG20 najsłabsze jest KGHM, a liderem wzrostów pozostaje Orlen. Publikowane w czwartek dane GUS z polskiej gospodarki ni",
+      "date_published": "2026-02-19T15:15:00+01:00",
+      "source": "PAP Biznes"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Brytyjska-policja-aresztowala-czlonka-rodziny-krolewskiej-Juz-nie-ksiaze-Andrzej-mierzy-sie-z-oskarzeniami-9086198.html",
+      "url": "https://www.bankier.pl/wiadomosc/Brytyjska-policja-aresztowala-czlonka-rodziny-krolewskiej-Juz-nie-ksiaze-Andrzej-mierzy-sie-z-oskarzeniami-9086198.html",
+      "title": "Brytyjska policja aresztowała członka rodziny królewskiej. Już nie książę Andrzej mierzy się z oskarżeniami, a król Karol III komentuje",
+      "content_html": "Brytyjski już nie książę Andrew Mountbatten-Windsor, brat króla Karola III, został zatrzymany przez funkcjonariuszy Thames Valley Police dokładnie w dniu swoich 66. urodzin. Obecnie przebywa on w areszcie, a powodem interwencji służb są zarzuty...",
+      "date_published": "2026-02-19T15:14:00+01:00",
+      "source": "Bankier.pl"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Spolka-zalezna-Mennicy-Polskiej-ma-umowe-o-wykonanie-robot-budowlanych-za-220-6-mln-zl-netto-9086361.html",
       "url": "https://www.bankier.pl/wiadomosc/Spolka-zalezna-Mennicy-Polskiej-ma-umowe-o-wykonanie-robot-budowlanych-za-220-6-mln-zl-netto-9086361.html",
-      "title": "Spółka zależna Mennicy Polskiej ma umowę o wykonanie robót budowlanych za 220,6 mln zł netto Spółka zależna Mennicy Polskiej, Mennica Polska Spółka Akcyjna Spółka Komandytowo - Akcyjna, zawarła umowę o wykonanie robót budowlanych z konsorcjum w składzie Think Construction oraz Tadeuszem Modlińskim prowadzącym działalność gospodarczą pod firmą Firma Kamieniarz Tadeusz Modliński - podała spółka w komunikacie. Wykonawcom przysługuje wynagrodzenie ryczałtowe w wysokości 220,6 mln zł netto.",
-      "content_html": "",
+      "title": "Spółka zależna Mennicy Polskiej ma umowę o wykonanie robót budowlanych za 220,6 mln zł netto",
+      "content_html": "Spółka zależna Mennicy Polskiej, Mennica Polska Spółka Akcyjna Spółka Komandytowo - Akcyjna, zawarła umowę o wykonanie robót budowlanych z konsorcjum w składzie Think Construction oraz Tadeuszem Modlińskim prowadzącym działalność gospodarczą...",
       "date_published": "2026-02-19T15:10:00+01:00",
       "source": "Bankier.pl"
     },
@@ -26,14 +90,6 @@
       "title": "Jarosław Kaczyński wybrał kandydata na premiera. Wiadomo, kiedy zdradzi nazwisko",
       "content_html": "Prezes PiS Jarosław Kaczyński powiedział w czwartek, że podjął już decyzję ws. kandydata partii na premiera w kolejnych wyborach parlamentarnych. - Sądzę, że w marcu ta sprawa będzie już zupełnie jasna - dodał.",
       "date_published": "2026-02-19T15:04:00+01:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Brytyjska-policja-aresztowala-czlonka-rodziny-krolewskiej-Juz-nie-ksiaze-Andrzej-mierzy-sie-z-oskarzeniami-9086198.html",
-      "url": "https://www.bankier.pl/wiadomosc/Brytyjska-policja-aresztowala-czlonka-rodziny-krolewskiej-Juz-nie-ksiaze-Andrzej-mierzy-sie-z-oskarzeniami-9086198.html",
-      "title": "Brytyjska policja aresztowała członka rodziny królewskiej. Już nie książę Andrzej mierzy się z oskarżeniami, a król Karol III komentuje",
-      "content_html": "Brytyjski już nie książę Andrew Mountbatten-Windsor, brat króla Karola III, został zatrzymany przez funkcjonariuszy Thames Valley Police dokładnie w dniu swoich 66. urodzin. Obecnie przebywa on w areszcie, a powodem interwencji służb są zarzuty...",
-      "date_published": "2026-02-19T14:39:00+01:00",
       "source": "Bankier.pl"
     },
     {
@@ -245,36 +301,12 @@
       "source": "Bankier.pl"
     },
     {
-      "id": "https://biznes.pap.pl/wiadomosci/firmy/pekao-ocenia-ze-trudno-bedzie-powtorzyc-wynik-netto-z-25-i-utrzymac-poziom-marzy-0",
-      "url": "https://biznes.pap.pl/wiadomosci/firmy/pekao-ocenia-ze-trudno-bedzie-powtorzyc-wynik-netto-z-25-i-utrzymac-poziom-marzy-0",
-      "title": "Pekao ocenia, że trudno będzie powtórzyć wynik netto z '25 i utrzymać poziom marży odsetkowej (opis)",
-      "content_html": "Bank Pekao ocenia, że trudno będzie powtórzyć roczny zysk netto na poziomie 7 mld zł, głównie ze względu na środowisko regulacyjne i stopy proc. Trudne będzie też utrzymanie poziomu marży odsetkowej -",
-      "date_published": "2026-02-19T12:00:00+01:00",
-      "source": "PAP Biznes"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/gospodarka/bgk-sprzedal-cztery-serie-obligacji-fpc-za-188-mld-zl-przy-popycie-27-mld-zl",
-      "url": "https://biznes.pap.pl/wiadomosci/gospodarka/bgk-sprzedal-cztery-serie-obligacji-fpc-za-188-mld-zl-przy-popycie-27-mld-zl",
-      "title": "BGK sprzedał cztery serie obligacji FPC za 1,88 mld zł, przy popycie 2,7 mld zł",
-      "content_html": "Bank Gospodarstwa Krajowego sprzedał obligacje serii FPC0229, FPC0231, FPC0332 i FPC0235 za łącznie 1,877 mld zł przy popycie 2,738 mld zł - podał bank w komunikacie.",
-      "date_published": "2026-02-19T12:00:00+01:00",
-      "source": "PAP Biznes"
-    },
-    {
       "id": "https://www.bankier.pl/wiadomosc/Bank-Pekao-przygotowany-do-reorganizacji-kapitalowej-PZU-i-Pekao-transakcja-ma-sens-prezes-9086203.html",
       "url": "https://www.bankier.pl/wiadomosc/Bank-Pekao-przygotowany-do-reorganizacji-kapitalowej-PZU-i-Pekao-transakcja-ma-sens-prezes-9086203.html",
       "title": "Prezes o fuzji Pekao i PZU: transakcja ma sens",
       "content_html": "Bank Pekao ocenia, że jest przygotowany do zapowiadanej reorganizacji kapitałowej PZU i Pekao, ale do ustalenia pozostaje kwestia legislacji - poinformował prezes Cezary Stypułkowski. W jego ocenie, transakcja ma sens z punktu widzenia akcjonariuszy...",
       "date_published": "2026-02-19T11:38:00+01:00",
       "source": "Bankier.pl"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/firmy/bank-pekao-przygotowany-do-reorganizacji-kapitalowej-pzu-i-pekao-transakcja-ma",
-      "url": "https://biznes.pap.pl/wiadomosci/firmy/bank-pekao-przygotowany-do-reorganizacji-kapitalowej-pzu-i-pekao-transakcja-ma",
-      "title": "Bank Pekao przygotowany do reorganizacji kapitałowej PZU i Pekao; transakcja ma sens - prezes",
-      "content_html": "Bank Pekao ocenia, że jest przygotowany do zapowiadanej reorganizacji kapitałowej PZU i Pekao, ale do ustalenia pozostaje kwestia legislacji - poinformował prezes Cezary Stypułkowski. W jego ocenie, t",
-      "date_published": "2026-02-19T11:37:00+01:00",
-      "source": "PAP Biznes"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Nowe-fakty-ws-Nord-Stream-CIA-poczatkowo-wspieralo-pomysl-Ukraincow-9086166.html",
@@ -339,6 +371,22 @@
       "content_html": "Analitycy Noble Securities, w raporcie z 16 lutego, obniżyli rekomendację dla Forte do \"redukuj\" z \"kupuj\", obniżając również cenę docelową akcji spółki w horyzoncie 9-miesięcznym do 19,6 zł z 33,9 zł.",
       "date_published": "2026-02-19T10:56:00+01:00",
       "source": "Bankier.pl"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/gospodarka/premier-tusk-apeluje-do-polskich-obywateli-o-natychmiastowe-opuszczenie-iranu",
+      "url": "https://biznes.pap.pl/wiadomosci/gospodarka/premier-tusk-apeluje-do-polskich-obywateli-o-natychmiastowe-opuszczenie-iranu",
+      "title": "Premier Tusk apeluje do polskich obywateli o natychmiastowe opuszczenie Iranu (opis)",
+      "content_html": "Premier Donald Tusk zaapelował do polskich obywateli o natychmiastowe opuszczenie Iranu. Przekazał, że możliwość gorącego konfliktu jest realna.",
+      "date_published": "2026-02-19T10:53:00+01:00",
+      "source": "PAP Biznes"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/gospodarka/styczen-pokazal-ze-przyspieszenie-plac-w-koncu-25-bylo-czasowe-wspiera-ciecie",
+      "url": "https://biznes.pap.pl/wiadomosci/gospodarka/styczen-pokazal-ze-przyspieszenie-plac-w-koncu-25-bylo-czasowe-wspiera-ciecie",
+      "title": "Styczeń pokazał, że przyspieszenie płac w końcu '25 było czasowe, wspiera to cięcie stóp przez RPP (opinia)",
+      "content_html": "Styczniowa dynamika płac pokazała, że jej przyspieszenie w końcu poprzedniego roku było czasowe, co nie stanowi zagrożenia dla inflacji i może przekonać RPP do obniżki stóp procentowych na marcowym po",
+      "date_published": "2026-02-19T10:44:00+01:00",
+      "source": "PAP Biznes"
     },
     {
       "id": "https://biznes.pap.pl/wiadomosci/gospodarka/finansowanie-grupy-ebi-w-polsce-w-25-wynioslo-8-mld-euro-o-40-proc-wiecej-rdr",
@@ -667,6 +715,14 @@
       "content_html": "Zarząd Arctic Paper podjął decyzję o czasowym zawieszeniu stosowania postanowień polityki dywidendowej i nie będzie rekomendował walnemu zgromadzeniu wypłaty dywidendy za rok 2025 - podała spółka w komunikacie.",
       "date_published": "2026-02-19T07:54:00+01:00",
       "source": "Bankier.pl"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/firmy/zarzad-arctic-paper-zdecydowal-o-czasowym-zawieszeniu-polityki-dywidendowej",
+      "url": "https://biznes.pap.pl/wiadomosci/firmy/zarzad-arctic-paper-zdecydowal-o-czasowym-zawieszeniu-polityki-dywidendowej",
+      "title": "Zarząd Arctic Paper zdecydował o czasowym zawieszeniu polityki dywidendowej",
+      "content_html": "Zarząd Arctic Paper podjął decyzję o czasowym zawieszeniu stosowania postanowień polityki dywidendowej i nie będzie rekomendował walnemu zgromadzeniu wypłaty dywidendy za rok 2025 - podała spółka w ko",
+      "date_published": "2026-02-19T07:52:00+01:00",
+      "source": "PAP Biznes"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Cele-Putina-Rosja-swiadomie-atakuje-amerykanskie-firmy-w-Ukrainie-9085970.html",
@@ -1303,8 +1359,8 @@
     {
       "id": "https://www.bankier.pl/wiadomosc/Allianz-OFE-OFE-PZU-Zlota-Jesien-oraz-UNIQA-OFE-cofnely-pozew-dot-uchwaly-ZWZ-Grenevii-9085832.html",
       "url": "https://www.bankier.pl/wiadomosc/Allianz-OFE-OFE-PZU-Zlota-Jesien-oraz-UNIQA-OFE-cofnely-pozew-dot-uchwaly-ZWZ-Grenevii-9085832.html",
-      "title": "Allianz OFE, OFE PZU \"Złota Jesień\" oraz UNIQA OFE cofnęły pozew dot. uchwały ZWZ Grenevii",
-      "content_html": "Allianz Polska Otwarty Fundusz Emerytalny, OFE PZU \"Złota Jesień\" oraz UNIQA OFE złożyły oświadczenia o cofnięciu w całości pozwu o stwierdzenie nieważności lub uchylenie uchwały nr 17 ZWZ z 19 czerwca 2025 r. - podała Grenevia w komunikacie...",
+      "title": "Allianz OFE, OFE PZU \"Złota Jesień\" oraz UNIQA OFE cofnęły pozew dot. uchwały ZWZ Grenevii Allianz Polska Otwarty Fundusz Emerytalny, OFE PZU \"Złota Jesień\" oraz UNIQA OFE złożyły oświadczenia o cofnięciu w całości pozwu o stwierdzenie nieważności lub uchylenie uchwały nr 17 ZWZ z 19 czerwca 2025 r. - podała Grenevia w komunikacie.",
+      "content_html": "",
       "date_published": "2026-02-18T17:46:00+01:00",
       "source": "Bankier.pl"
     },
@@ -1319,32 +1375,16 @@
     {
       "id": "https://www.bankier.pl/wiadomosc/W-grze-dawne-CCC-Orange-i-KGHM-Straszy-ponura-wizja-odbicia-na-dolarze-9085831.html",
       "url": "https://www.bankier.pl/wiadomosc/W-grze-dawne-CCC-Orange-i-KGHM-Straszy-ponura-wizja-odbicia-na-dolarze-9085831.html",
-      "title": "W grze dawne CCC, Orange i KGHM. \"Nie jest wielkim problemem znaleźć atrakcyjniejsze alternatywy\"",
-      "content_html": "Środowe notowania na GPW przyniosły wyraźne odbicie głównych indeksów, które z nawiązką odrobiły wtorkową słabość. W WIG20 najjaśniej świeciły kursy KGHM, Orange i dawnego CCC, które zmieniło nazwę. Mimo panującego na parkiecie entuzjazmu...",
+      "title": "SESJA NA GPW W grze dawne CCC, Orange i KGHM. \"Nie jest wielkim problemem znaleźć atrakcyjniejsze alternatywy\" Środowe notowania na GPW przyniosły wyraźne odbicie głównych indeksów, które z nawiązką odrobiły wtorkową słabość. W WIG20 najjaśniej świeciły kursy KGHM, Orange i dawnego CCC, które zmieniło nazwę. Mimo panującego na parkiecie entuzjazmu, w komentarzach pobrzmiewa nuta sceptycyzmu. Czy obecne wyceny to ostatni przystanek przed głębszym przesileniem?",
+      "content_html": "",
       "date_published": "2026-02-18T17:43:00+01:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Szmyhal-Ukraina-moze-byc-filarem-bezpieczenstwa-energetycznego-Europy-9085830.html",
-      "url": "https://www.bankier.pl/wiadomosc/Szmyhal-Ukraina-moze-byc-filarem-bezpieczenstwa-energetycznego-Europy-9085830.html",
-      "title": "Szmyhal: Ukraina może być filarem bezpieczeństwa energetycznego Europy",
-      "content_html": "Kijów jest na drodze do tego, by stać się filarem przyszłego bezpieczeństwa energetycznego Europy dzięki doświadczeniom wyniesionym z wojny - powiedział minister energetyki Ukrainy Denys Szmyhal w środę w Paryżu. Wezwał jednocześnie do zwiększenia...",
-      "date_published": "2026-02-18T17:40:00+01:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Ekspert-Zamkniecie-ciesniny-Ormuz-malo-realne-Spowodowalaby-drastyczny-wzrost-cen-ropy-9085828.html",
-      "url": "https://www.bankier.pl/wiadomosc/Ekspert-Zamkniecie-ciesniny-Ormuz-malo-realne-Spowodowalaby-drastyczny-wzrost-cen-ropy-9085828.html",
-      "title": "Ekspert: Zamknięcie cieśniny Ormuz mało realne. Spowodowałaby drastyczny wzrost cen ropy",
-      "content_html": "Blokada cieśniny Ormuz spowodowałaby drastyczny wzrost cen ropy na światowych rynkach, co odbiłoby się także na Polsce, ale Iran raczej się na to nie zdecyduje – ocenia Łukasz Wyszyński z Akademii Marynarki Wojennej w Gdyni.",
-      "date_published": "2026-02-18T17:38:00+01:00",
       "source": "Bankier.pl"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Po-sesji-20-II-Digital-Network-zastapi-Grenevie-w-sWIG80-GPW-Benchmark-9085823.html",
       "url": "https://www.bankier.pl/wiadomosc/Po-sesji-20-II-Digital-Network-zastapi-Grenevie-w-sWIG80-GPW-Benchmark-9085823.html",
-      "title": "Po sesji 20 II Digital Network zastąpi Grenevię w sWIG80",
-      "content_html": "Po sesji 20 lutego z listy uczestników indeksów sWIG80, sWIG80TR, WIG, WIG140, WIGind i WIG-Poland zostaną wykreślone akcje spółki Grenevia. Do sWIG80 w miejsce Grenevii wpisana zostanie spółka Digital Network - poinformowała w komunikacie GPW...",
+      "title": "Po sesji 20 II Digital Network zastąpi Grenevię w sWIG80 Po sesji 20 lutego z listy uczestników indeksów sWIG80, sWIG80TR, WIG, WIG140, WIGind i WIG-Poland zostaną wykreślone akcje spółki Grenevia. Do sWIG80 w miejsce Grenevii wpisana zostanie spółka Digital Network - poinformowała w komunikacie GPW Benchmark.",
+      "content_html": "",
       "date_published": "2026-02-18T17:32:00+01:00",
       "source": "Bankier.pl"
     },
@@ -1402,78 +1442,6 @@
       "title": "Euvic chce przejąć centrum produkcyjne w Rumunii",
       "content_html": "Euvic chce przejąć centrum produkcyjne w Rumunii - poinformowała spółka w komunikacie. Spółka podpisała list intencyjny w sprawie nabycia kontroli nad Yalos Software Labs.",
       "date_published": "2026-02-18T16:39:00+01:00",
-      "source": "PAP Biznes"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Jujubee-rozpoczyna-przeglad-opcji-strategicznych-9085774.html",
-      "url": "https://www.bankier.pl/wiadomosc/Jujubee-rozpoczyna-przeglad-opcji-strategicznych-9085774.html",
-      "title": "Jujubee rozpoczyna przegląd opcji strategicznych Jujubee rozpoczyna przegląd opcji strategicznych i będzie brało pod uwagę połączenie z innym podmiotem, partnerstwo strategiczne, pozyskanie inwestora strategicznego lub finansowego albo przeprowadzenie innej transakcji mogącej skutkować zmianą struktury akcjonariatu - podała spółka w komunikacie.",
-      "content_html": "",
-      "date_published": "2026-02-18T16:10:00+01:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/gospodarka/euro-w-ebc-11845-usd-i-18199-jpy",
-      "url": "https://biznes.pap.pl/wiadomosci/gospodarka/euro-w-ebc-11845-usd-i-18199-jpy",
-      "title": "Euro w EBC: 1,1845 USD i 181,99 JPY",
-      "content_html": "Europejski Bank Centralny (EBC) ustalił kurs euro na 1,1845 USD i 181,99 JPY - podał bank na swojej stronie internetowej.",
-      "date_published": "2026-02-18T16:09:00+01:00",
-      "source": "PAP Biznes"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/firmy/jujubee-rozpoczyna-przeglad-opcji-strategicznych-0",
-      "url": "https://biznes.pap.pl/wiadomosci/firmy/jujubee-rozpoczyna-przeglad-opcji-strategicznych-0",
-      "title": "Jujubee rozpoczyna przegląd opcji strategicznych",
-      "content_html": "Jujubee rozpoczyna przegląd opcji strategicznych i będzie brało pod uwagę połączenie z innym podmiotem, partnerstwo strategiczne, pozyskanie inwestora strategicznego lub finansowego albo przeprowadzen",
-      "date_published": "2026-02-18T16:08:00+01:00",
-      "source": "PAP Biznes"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Cavatina-Holding-ustanowila-V-program-emisji-obligacji-o-lacznej-wartosci-do-250-mln-zl-9085763.html",
-      "url": "https://www.bankier.pl/wiadomosc/Cavatina-Holding-ustanowila-V-program-emisji-obligacji-o-lacznej-wartosci-do-250-mln-zl-9085763.html",
-      "title": "Cavatina Holding ustanowiła V program emisji obligacji o łącznej wartości do 250 mln zł Cavatina Holding zdecydowała o ustanowieniu w spółce V prospektowego programu emisji obligacji, w ramach którego będzie uprawniona do emitowania obligacji o łącznej wartości nominalnej do 250 mln zł lub równowartości tej kwoty wyrażonej w euro - poinformowała spółka w komunikacie.",
-      "content_html": "",
-      "date_published": "2026-02-18T16:02:00+01:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/firmy/cavatina-holding-ustanowila-v-program-emisji-obligacji-o-lacznej-wartosci-do-250",
-      "url": "https://biznes.pap.pl/wiadomosci/firmy/cavatina-holding-ustanowila-v-program-emisji-obligacji-o-lacznej-wartosci-do-250",
-      "title": "Cavatina Holding ustanowiła V program emisji obligacji o łącznej wartości do 250 mln zł",
-      "content_html": "Cavatina Holding zdecydowała o ustanowieniu w spółce V prospektowego programu emisji obligacji, w ramach którego będzie uprawniona do emitowania obligacji o łącznej wartości nominalnej do 250 mln zł l",
-      "date_published": "2026-02-18T16:00:00+01:00",
-      "source": "PAP Biznes"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/firmy/dzien-na-gpw-na-gieldzie-wzrostowa-sesja-nie-wykluczona-korekta-ze-spadkami-ok-10",
-      "url": "https://biznes.pap.pl/wiadomosci/firmy/dzien-na-gpw-na-gieldzie-wzrostowa-sesja-nie-wykluczona-korekta-ze-spadkami-ok-10",
-      "title": "DZIEŃ NA GPW: Na giełdzie wzrostowa sesja; nie wykluczona korekta ze spadkami ok. 10 proc.",
-      "content_html": "Na warszawskiej giełdzie trwa wzrostowa sesja. Jednym z liderów wzrostów w WIG20 pozostaje Orange, natomiast najsłabszy jest CD Projekt. Zdaniem zarządzających, na GPW może nastąpić korekta, o czym św",
-      "date_published": "2026-02-18T15:44:00+01:00",
-      "source": "PAP Biznes"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/rynki/po-otwarciu-sesji-dji-rosnie-o-010-proc-sp-500-zyskuje-019-proc",
-      "url": "https://biznes.pap.pl/wiadomosci/rynki/po-otwarciu-sesji-dji-rosnie-o-010-proc-sp-500-zyskuje-019-proc",
-      "title": "Po otwarciu sesji DJI rośnie o 0,10 proc., a S&P 500 zyskuje 0,19 proc.",
-      "content_html": "Po otwarciu sesji w USA Dow Jones Industrial rośnie o 0,10 proc. do 49.583 pkt., S&P500 zyskuje 0,19 proc. i wynosi 6.856 pkt.",
-      "date_published": "2026-02-18T15:33:00+01:00",
-      "source": "PAP Biznes"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Kruk-wygral-przetarg-na-zakup-portfeli-wierzytelnosci-na-rynku-wloskim-9085721.html",
-      "url": "https://www.bankier.pl/wiadomosc/Kruk-wygral-przetarg-na-zakup-portfeli-wierzytelnosci-na-rynku-wloskim-9085721.html",
-      "title": "Kruk wygrał przetarg na zakup portfeli wierzytelności na rynku włoskim Spółka zależna Kruka, Kruk Investimenti s.r.l., wygrała przetarg na zakup niezabezpieczonych wierzytelności detalicznych o łącznej wartości nominalnej 298 mln euro od jednej z wiodących grup finansowych we Włoszech - podała spółka w komunikacie.",
-      "content_html": "",
-      "date_published": "2026-02-18T15:26:00+01:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/firmy/kruk-wygral-przetarg-na-zakup-portfeli-wierzytelnosci-na-rynku-wloskim",
-      "url": "https://biznes.pap.pl/wiadomosci/firmy/kruk-wygral-przetarg-na-zakup-portfeli-wierzytelnosci-na-rynku-wloskim",
-      "title": "Kruk wygrał przetarg na zakup portfeli wierzytelności na rynku włoskim",
-      "content_html": "Spółka zależna Kruka, Kruk Investimenti s.r.l., wygrała przetarg na zakup niezabezpieczonych wierzytelności detalicznych o łącznej wartości nominalnej 298 mln euro od jednej z wiodących grup finansowy",
-      "date_published": "2026-02-18T15:25:00+01:00",
       "source": "PAP Biznes"
     }
   ]
