@@ -5,6 +5,14 @@
   "home_page_url": "https://www.bankier.pl",
   "items": [
     {
+      "id": "https://biznes.pap.pl/wiadomosci/ekonomia-biznes-i-finanse/skrot-wiadomosci-czwartek-19-lutego-2100",
+      "url": "https://biznes.pap.pl/wiadomosci/ekonomia-biznes-i-finanse/skrot-wiadomosci-czwartek-19-lutego-2100",
+      "title": "Skrót wiadomości - czwartek, 19 lutego, 21.00",
+      "content_html": "Przegląd najważniejszych wiadomości gospodarczych, krajowych i ze świata.",
+      "date_published": "2026-02-19T21:00:00+01:00",
+      "source": "PAP Biznes"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Weto-Nawrockiego-ws-KRS-Minister-Zurek-Mamy-plan-B-i-bedziemy-go-realizowac-9086561.html",
       "url": "https://www.bankier.pl/wiadomosc/Weto-Nawrockiego-ws-KRS-Minister-Zurek-Mamy-plan-B-i-bedziemy-go-realizowac-9086561.html",
       "title": "Weto Nawrockiego ws. KRS. Minister Żurek: Mamy plan B i będziemy go realizować",
@@ -269,14 +277,6 @@
       "source": "Bankier.pl"
     },
     {
-      "id": "https://biznes.pap.pl/wiadomosci/firmy/dzien-na-gpw-spadaja-glowne-indeksy-i-wiekszosc-sektorowych-orlen-najsilniejszy-w",
-      "url": "https://biznes.pap.pl/wiadomosci/firmy/dzien-na-gpw-spadaja-glowne-indeksy-i-wiekszosc-sektorowych-orlen-najsilniejszy-w",
-      "title": "DZIEŃ NA GPW: Spadają główne indeksy i większość sektorowych; Orlen najsilniejszy w WIG20",
-      "content_html": "Po południu spadają główne indeksy GPW oraz większość wskaźników sektorowych. W WIG20 najsłabsze jest KGHM, a liderem wzrostów pozostaje Orlen. Publikowane w czwartek dane GUS z polskiej gospodarki ni",
-      "date_published": "2026-02-19T15:15:00+01:00",
-      "source": "PAP Biznes"
-    },
-    {
       "id": "https://www.bankier.pl/wiadomosc/Brytyjska-policja-aresztowala-czlonka-rodziny-krolewskiej-Juz-nie-ksiaze-Andrzej-mierzy-sie-z-oskarzeniami-9086198.html",
       "url": "https://www.bankier.pl/wiadomosc/Brytyjska-policja-aresztowala-czlonka-rodziny-krolewskiej-Juz-nie-ksiaze-Andrzej-mierzy-sie-z-oskarzeniami-9086198.html",
       "title": "Brytyjska policja aresztowała członka rodziny królewskiej. Już nie książę Andrzej mierzy się z oskarżeniami, a król Karol III komentuje",
@@ -451,6 +451,14 @@
       "content_html": "Bank Pekao ocenia, że jest przygotowany do zapowiadanej reorganizacji kapitałowej PZU i Pekao, ale do ustalenia pozostaje kwestia legislacji - poinformował prezes Cezary Stypułkowski. W jego ocenie, transakcja ma sens z punktu widzenia akcjonariuszy...",
       "date_published": "2026-02-19T11:38:00+01:00",
       "source": "Bankier.pl"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/firmy/bank-pekao-przygotowany-do-reorganizacji-kapitalowej-pzu-i-pekao-transakcja-ma",
+      "url": "https://biznes.pap.pl/wiadomosci/firmy/bank-pekao-przygotowany-do-reorganizacji-kapitalowej-pzu-i-pekao-transakcja-ma",
+      "title": "Bank Pekao przygotowany do reorganizacji kapitałowej PZU i Pekao; transakcja ma sens - prezes",
+      "content_html": "Bank Pekao ocenia, że jest przygotowany do zapowiadanej reorganizacji kapitałowej PZU i Pekao, ale do ustalenia pozostaje kwestia legislacji - poinformował prezes Cezary Stypułkowski. W jego ocenie, t",
+      "date_published": "2026-02-19T11:37:00+01:00",
+      "source": "PAP Biznes"
     },
     {
       "id": "https://biznes.pap.pl/wiadomosci/gospodarka/finansowanie-grupy-ebi-w-polsce-w-25-wynioslo-8-mld-euro-o-40-proc-wiecej-0",
@@ -1371,30 +1379,6 @@
       "content_html": "",
       "date_published": "2026-02-18T21:34:00+01:00",
       "source": "Bankier.pl"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/ekonomia-biznes-i-finanse/skrot-wiadomosci-sroda-18-lutego-2110",
-      "url": "https://biznes.pap.pl/wiadomosci/ekonomia-biznes-i-finanse/skrot-wiadomosci-sroda-18-lutego-2110",
-      "title": "Skrót wiadomości - środa, 18 lutego, 21.10",
-      "content_html": "Przegląd najważniejszych wiadomości gospodarczych, krajowych i ze świata.",
-      "date_published": "2026-02-18T21:11:00+01:00",
-      "source": "PAP Biznes"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Konsorcjum-z-Mo-Brukiem-ma-umowe-na-usuniecie-odpadow-niebezpiecznych-w-Czestochowie-9085922.html",
-      "url": "https://www.bankier.pl/wiadomosc/Konsorcjum-z-Mo-Brukiem-ma-umowe-na-usuniecie-odpadow-niebezpiecznych-w-Czestochowie-9085922.html",
-      "title": "Konsorcjum z Mo-Brukiem ma umowę na usunięcie odpadów niebezpiecznych w Częstochowie Mo-Bruk, w konsorcjum ze spółką Raf-Ekologia oraz Epichem, zawarł umowę z Gminą Miasto Częstochowa na usunięcie odpadów niebezpiecznych. Maksymalne łączne wynagrodzenie dla konsorcjum wyniesie ok. 8,1 mln zł brutto - podał Mo-Bruk w komunikacie.",
-      "content_html": "",
-      "date_published": "2026-02-18T21:08:00+01:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/firmy/konsorcjum-z-mo-brukiem-ma-umowe-na-usuniecie-odpadow-niebezpiecznych-w",
-      "url": "https://biznes.pap.pl/wiadomosci/firmy/konsorcjum-z-mo-brukiem-ma-umowe-na-usuniecie-odpadow-niebezpiecznych-w",
-      "title": "Konsorcjum z Mo-Brukiem ma umowę na usunięcie odpadów niebezpiecznych w Częstochowie",
-      "content_html": "Mo-Bruk, w konsorcjum ze spółką Raf-Ekologia oraz Epichem, zawarł umowę z Gminą Miasto Częstochowa na usunięcie odpadów niebezpiecznych. Maksymalne łączne wynagrodzenie dla konsorcjum wyniesie ok. 8,1",
-      "date_published": "2026-02-18T21:06:00+01:00",
-      "source": "PAP Biznes"
     }
   ]
 }
