@@ -5,6 +5,14 @@
   "home_page_url": "https://www.bankier.pl",
   "items": [
     {
+      "id": "https://biznes.pap.pl/wiadomosci/rynki/dzien-na-rynkach-spadki-na-wall-street-na-koniec-dnia",
+      "url": "https://biznes.pap.pl/wiadomosci/rynki/dzien-na-rynkach-spadki-na-wall-street-na-koniec-dnia",
+      "title": "DZIEŃ NA RYNKACH: Spadki na Wall Street na koniec dnia",
+      "content_html": "Czwartkowa sesja na Wall Stret zakończyła się spadkami głównych indeksów. Spółki oferujące prywatne kredyty i obawy o Iran pogarszały nastroje na rynkach,",
+      "date_published": "2026-02-19T22:33:00+01:00",
+      "source": "PAP Biznes"
+    },
+    {
       "id": "https://biznes.pap.pl/wiadomosci/ekonomia-biznes-i-finanse/skrot-wiadomosci-czwartek-19-lutego-2100",
       "url": "https://biznes.pap.pl/wiadomosci/ekonomia-biznes-i-finanse/skrot-wiadomosci-czwartek-19-lutego-2100",
       "title": "Skrót wiadomości - czwartek, 19 lutego, 21.00",
@@ -261,14 +269,6 @@
       "source": "Bankier.pl"
     },
     {
-      "id": "https://biznes.pap.pl/wiadomosci/rynki/po-otwarciu-sesji-dji-traci-04-proc-sp-500-znizkuje-04-proc",
-      "url": "https://biznes.pap.pl/wiadomosci/rynki/po-otwarciu-sesji-dji-traci-04-proc-sp-500-znizkuje-04-proc",
-      "title": "Po otwarciu sesji DJI traci 0,4 proc., a S&P 500 zniżkuje 0,4 proc.",
-      "content_html": "Po otwarciu sesji w USA Dow Jones Industrial traci 0,4 proc. do 49.470 pkt., S&P500 idzie w dół o 0,4 proc. i wynosi 6.857 pkt.",
-      "date_published": "2026-02-19T15:32:00+01:00",
-      "source": "PAP Biznes"
-    },
-    {
       "id": "https://www.bankier.pl/wiadomosc/Wsparcie-dla-Ukrainy-Szwecja-wysyla-miliardy-dolarow-i-sprzet-9086373.html",
       "url": "https://www.bankier.pl/wiadomosc/Wsparcie-dla-Ukrainy-Szwecja-wysyla-miliardy-dolarow-i-sprzet-9086373.html",
       "title": "Wsparcie dla Ukrainy. Szwecja wysyła miliardy dolarów i sprzęt",
@@ -443,6 +443,14 @@
       "content_html": "Niespełna 8,9 tys. rozpoczętych budów i 8,6 tys. mieszkań oddanych do użytku przez deweloperów zanotował w styczniu 2026 r. Główny Urząd Statystyczny. To najsłabsze wyniki od trzech lat, do których, zwłaszcza w pierwszym przypadku, przyłożyła...",
       "date_published": "2026-02-19T12:00:00+01:00",
       "source": "Bankier.pl"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/gospodarka/bgk-sprzedal-cztery-serie-obligacji-fpc-za-188-mld-zl-przy-popycie-27-mld-zl",
+      "url": "https://biznes.pap.pl/wiadomosci/gospodarka/bgk-sprzedal-cztery-serie-obligacji-fpc-za-188-mld-zl-przy-popycie-27-mld-zl",
+      "title": "BGK sprzedał cztery serie obligacji FPC za 1,88 mld zł, przy popycie 2,7 mld zł",
+      "content_html": "Bank Gospodarstwa Krajowego sprzedał obligacje serii FPC0229, FPC0231, FPC0332 i FPC0235 za łącznie 1,877 mld zł przy popycie 2,738 mld zł - podał bank w komunikacie.",
+      "date_published": "2026-02-19T12:00:00+01:00",
+      "source": "PAP Biznes"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Bank-Pekao-przygotowany-do-reorganizacji-kapitalowej-PZU-i-Pekao-transakcja-ma-sens-prezes-9086203.html",
@@ -1330,14 +1338,6 @@
       "title": "Spięcie na szczycie. Biały Dom atakuje ekonomistów Fedu za analizę o cłach",
       "content_html": "Dyrektor Narodowej Rady Ekonomicznej przy Białym Domu Kevin Hassett ocenił w środę, że autorzy analizy Rezerwy Federalnej mówiącej o tym, że 90 proc. kosztów ceł ponoszą amerykańscy konsumenci i przedsiębiorcy, powinni zostać „zdyscyplinowani”...",
       "date_published": "2026-02-18T23:06:00+01:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Spozniony-wpis-marszalka-Sejmu-Wlodzimierza-Czarzastego-do-rejestru-korzysci-9085951.html",
-      "url": "https://www.bankier.pl/wiadomosc/Spozniony-wpis-marszalka-Sejmu-Wlodzimierza-Czarzastego-do-rejestru-korzysci-9085951.html",
-      "title": "Spóźniony wpis marszałka Sejmu Włodzimierza Czarzastego do rejestru korzyści",
-      "content_html": "Dopiero po nagłośnieniu przez prawicowe media zasiadania przez Włodzimierza Czarzastego w radzie fundacji Mariana Kubalicy odnotował on ten fakt w rejestrze korzyści - informuje w środę „Rzeczpospolita” na swojej stronie internetowej. To naruszenie...",
-      "date_published": "2026-02-18T22:50:00+01:00",
       "source": "Bankier.pl"
     }
   ]
