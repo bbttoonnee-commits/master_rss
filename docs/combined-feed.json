@@ -5,20 +5,140 @@
   "home_page_url": "https://www.bankier.pl",
   "items": [
     {
-      "id": "https://biznes.pap.pl/wiadomosci/rynki/dzien-na-rynkach-w-europie-na-gieldach-indeksy-spadaja-17",
-      "url": "https://biznes.pap.pl/wiadomosci/rynki/dzien-na-rynkach-w-europie-na-gieldach-indeksy-spadaja-17",
-      "title": "DZIEŃ NA RYNKACH: W Europie na giełdach indeksy spadają",
-      "content_html": "Na europejskich giełdach najważniejsze indeksy idą w dół. Inwestorzy oceniają mieszane wyniki finansowe spółek z regionu i z uwagą obserwują napiętą sytuację na Bliskim Wschodzie, gdzie możliwa jest i",
-      "date_published": "2026-02-19T09:37:00+01:00",
+      "id": "https://www.bankier.pl/wiadomosc/Pekao-ocenia-ze-trudno-bedzie-powtorzyc-wynik-netto-z-25-i-utrzymac-poziom-marzy-odsetkowej-9086151.html",
+      "url": "https://www.bankier.pl/wiadomosc/Pekao-ocenia-ze-trudno-bedzie-powtorzyc-wynik-netto-z-25-i-utrzymac-poziom-marzy-odsetkowej-9086151.html",
+      "title": "Pekao ocenia, że trudno będzie powtórzyć wynik netto z '25 i utrzymać poziom marży odsetkowej Bank Pekao ocenia, że trudno będzie powtórzyć roczny zysk netto na poziomie 7 mld zł, głównie ze względu na środowisko regulacyjne i stopy proc. Trudne będzie też utrzymanie poziomu marży odsetkowej - poinformowali w czwartek przedstawiciele banku.",
+      "content_html": "",
+      "date_published": "2026-02-19T10:40:00+01:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/gospodarka/finansowanie-grupy-ebi-w-polsce-w-25-wynioslo-8-mld-euro-o-40-proc-wiecej-rdr",
+      "url": "https://biznes.pap.pl/wiadomosci/gospodarka/finansowanie-grupy-ebi-w-polsce-w-25-wynioslo-8-mld-euro-o-40-proc-wiecej-rdr",
+      "title": "Finansowanie Grupy EBI w Polsce w '25 wyniosło 8 mld euro, o 40 proc. więcej rdr",
+      "content_html": "Grupa Europejskiego Banku Inwestycyjnego (EBI) udzieliła w Polsce w 2025 r. finansowania o wartości 8 mld euro, co oznacza wzrost o 40 proc. w ujęciu rok do roku. Przyznane w ubiegłym roku finansowani",
+      "date_published": "2026-02-19T10:40:00+01:00",
       "source": "PAP Biznes"
     },
     {
-      "id": "https://biznes.pap.pl/wiadomosci/gospodarka/dzien-na-fxfi-zloty-blizej-422eur-rentownosci-spw-nieco-wyzej",
-      "url": "https://biznes.pap.pl/wiadomosci/gospodarka/dzien-na-fxfi-zloty-blizej-422eur-rentownosci-spw-nieco-wyzej",
-      "title": "DZIEŃ NA FX/FI: Złoty bliżej 4,22/EUR, rentowności SPW nieco wyżej",
-      "content_html": "W czwartek polska waluta marginalnie osłabiła się względem euro (do 4,22) i dolara (do 3,57), a rentowności krajowych obligacji wzrosły o 1-2 pb. Analitycy oczekują raczej stabilizacji PLN i SPW. Ich ",
-      "date_published": "2026-02-19T09:24:00+01:00",
+      "id": "https://biznes.pap.pl/wiadomosci/firmy/pekao-ocenia-ze-trudno-bedzie-powtorzyc-wynik-netto-z-25-i-utrzymac-poziom-marzy",
+      "url": "https://biznes.pap.pl/wiadomosci/firmy/pekao-ocenia-ze-trudno-bedzie-powtorzyc-wynik-netto-z-25-i-utrzymac-poziom-marzy",
+      "title": "Pekao ocenia, że trudno będzie powtórzyć wynik netto z '25 i utrzymać poziom marży odsetkowej",
+      "content_html": "Bank Pekao ocenia, że trudno będzie powtórzyć roczny zysk netto na poziomie 7 mld zł, głównie ze względu na środowisko regulacyjne i stopy proc. Trudne będzie też utrzymanie poziomu marży odsetkowej -",
+      "date_published": "2026-02-19T10:38:00+01:00",
       "source": "PAP Biznes"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/gospodarka/produkcja-budowlano-montazowa-w-styczniu-spadla-o-128-proc-rdr-gus-opis",
+      "url": "https://biznes.pap.pl/wiadomosci/gospodarka/produkcja-budowlano-montazowa-w-styczniu-spadla-o-128-proc-rdr-gus-opis",
+      "title": "Produkcja budowlano-montażowa w styczniu spadła o 12,8 proc. rdr - GUS (opis)",
+      "content_html": "Produkcja budowlano-montażowa w styczniu spadła o 12,8 proc. rdr, a miesiąc do miesiąca spadła o 65,2 proc. - podał Główny Urząd Statystyczny.",
+      "date_published": "2026-02-19T10:33:00+01:00",
+      "source": "PAP Biznes"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Ale-urwal-Zimny-prysznic-dla-polskiej-gospodarki-Przemysl-wraca-pod-kreske-9086081.html",
+      "url": "https://www.bankier.pl/wiadomosc/Ale-urwal-Zimny-prysznic-dla-polskiej-gospodarki-Przemysl-wraca-pod-kreske-9086081.html",
+      "title": "„Ale urwał…”. Zimny prysznic dla polskiej gospodarki. Przemysł wraca pod kreskę",
+      "content_html": "Bardzo słabe dane z polskiego sektora wytwórczego mocno zaskoczyły ekonomistów. Po świetnym odczycie za grudzień początek nowego roku sugeruje regres produkcji przemysłowej i potwierdzenie braku stabilizacji tej gałęzi gospodarki. Eksperci w...",
+      "date_published": "2026-02-19T10:30:00+01:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/firmy/ceny-produkcji-przemyslowej-w-styczniu-rdr-spadly-o-26-proc-gus-aktl",
+      "url": "https://biznes.pap.pl/wiadomosci/firmy/ceny-produkcji-przemyslowej-w-styczniu-rdr-spadly-o-26-proc-gus-aktl",
+      "title": "Ceny produkcji przemysłowej w styczniu rdr spadły o 2,6 proc. - GUS (aktl.)",
+      "content_html": "Ceny produkcji przemysłowej w styczniu 2026 r. spadły rdr o 2,6 proc., w ujęciu miesięcznym spadły o 0,3 proc. - podał we wstępnych danych Główny Urząd Statystyczny.",
+      "date_published": "2026-02-19T10:30:00+01:00",
+      "source": "PAP Biznes"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/firmy/ceny-produkcji-przemyslowej-w-styczniu-rdr-spadly-o-26-proc-gus",
+      "url": "https://biznes.pap.pl/wiadomosci/firmy/ceny-produkcji-przemyslowej-w-styczniu-rdr-spadly-o-26-proc-gus",
+      "title": "Ceny produkcji przemysłowej w styczniu rdr spadły o 2,6 proc. - GUS",
+      "content_html": "Ceny produkcji przemysłowej w styczniu 2026 r. spadły rdr o 2,6 proc., w ujęciu miesięcznym spadły o 0,3 proc. - podał Główny Urząd Statystyczny.",
+      "date_published": "2026-02-19T10:26:00+01:00",
+      "source": "PAP Biznes"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/gospodarka/premier-tusk-apeluje-o-natychmiastowe-opuszczenie-iranu",
+      "url": "https://biznes.pap.pl/wiadomosci/gospodarka/premier-tusk-apeluje-o-natychmiastowe-opuszczenie-iranu",
+      "title": "Premier Tusk apeluje o natychmiastowe opuszczenie Iranu",
+      "content_html": "Premier Donald Tusk zaapelował o natychmiastowe opuszczenie Iranu.",
+      "date_published": "2026-02-19T10:21:00+01:00",
+      "source": "PAP Biznes"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/gospodarka/produkcja-przemyslowa-w-styczniu-spadla-o-15-proc-rdr-gus",
+      "url": "https://biznes.pap.pl/wiadomosci/gospodarka/produkcja-przemyslowa-w-styczniu-spadla-o-15-proc-rdr-gus",
+      "title": "Produkcja przemysłowa w styczniu spadła o 1,5 proc. rdr - GUS",
+      "content_html": "Produkcja przemysłowa w styczniu 2026 r. spadła 1,5 proc. rdr, a w porównaniu z poprzednim miesiącem spadła o 6,0 proc. - podał Główny Urząd Statystyczny.",
+      "date_published": "2026-02-19T10:17:00+01:00",
+      "source": "PAP Biznes"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Orlen-zaklada-ze-w-kolejnych-kwartalach-jego-zadluzenie-bedzie-rosnac-9086130.html",
+      "url": "https://www.bankier.pl/wiadomosc/Orlen-zaklada-ze-w-kolejnych-kwartalach-jego-zadluzenie-bedzie-rosnac-9086130.html",
+      "title": "Orlen zakłada, że w kolejnych kwartałach jego zadłużenie będzie rosnąć",
+      "content_html": "Grupa Orlen, która na koniec grudnia 2025 roku miała gotówkę netto w wysokości 1,4 mld zł, zakłada, że z powodu dużych planowanych nakładów inwestycyjnych będzie zwiększać poziom zadłużenia w kolejnych kwartałach - poinformował wiceprezes...",
+      "date_published": "2026-02-19T10:14:00+01:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/firmy/orlen-zaklada-ze-w-kolejnych-kwartalach-jego-zadluzenie-bedzie-rosnac",
+      "url": "https://biznes.pap.pl/wiadomosci/firmy/orlen-zaklada-ze-w-kolejnych-kwartalach-jego-zadluzenie-bedzie-rosnac",
+      "title": "Orlen zakłada, że w kolejnych kwartałach jego zadłużenie będzie rosnąć",
+      "content_html": "Grupa Orlen, która na koniec grudnia 2025 roku miała gotówkę netto w wysokości 1,4 mld zł, zakłada, że z powodu dużych planowanych nakładów inwestycyjnych będzie zwiększać poziom zadłużenia w kolejnyc",
+      "date_published": "2026-02-19T10:13:00+01:00",
+      "source": "PAP Biznes"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/gospodarka/spadek-wynagrodzen-w-styczniu-mdm-wynikal-z-braku-premii-i-nagrod-gus",
+      "url": "https://biznes.pap.pl/wiadomosci/gospodarka/spadek-wynagrodzen-w-styczniu-mdm-wynikal-z-braku-premii-i-nagrod-gus",
+      "title": "Spadek wynagrodzeń w styczniu mdm wynikał z braku premii i nagród - GUS",
+      "content_html": "Spadek przeciętnego miesięcznego wynagrodzenia w styczniu 2026 r. względem poprzedniego miesiąca spowodowany był brakiem dodatkowych wypłat, które miały miejsce w grudniu 2025 r. m.in. nagród i premii",
+      "date_published": "2026-02-19T10:07:00+01:00",
+      "source": "PAP Biznes"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/gospodarka/wynagrodzenie-w-przedsiebiorstwach-w-i-wzroslo-o-61-proc-rdr-zatrudnienie",
+      "url": "https://biznes.pap.pl/wiadomosci/gospodarka/wynagrodzenie-w-przedsiebiorstwach-w-i-wzroslo-o-61-proc-rdr-zatrudnienie",
+      "title": "Wynagrodzenie w przedsiębiorstwach w I wzrosło o 6,1 proc. rdr, zatrudnienie spadło o 0,8 proc. rdr - GUS",
+      "content_html": "Przeciętne wynagrodzenie brutto w sektorze przedsiębiorstw w styczniu 2026 r. wyniosło 9.002,47 zł, co oznacza wzrost 6,1 proc. rdr, wobec konsensusu PAP Biznes 7,2 proc. - podał Główny Urząd Statysty",
+      "date_published": "2026-02-19T10:05:00+01:00",
+      "source": "PAP Biznes"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/nieruchomosci/polski-rynek-nieruchomosci-komercyjnych-wchodzi-w-faze-ozywienia-knight",
+      "url": "https://biznes.pap.pl/wiadomosci/nieruchomosci/polski-rynek-nieruchomosci-komercyjnych-wchodzi-w-faze-ozywienia-knight",
+      "title": "Polski rynek nieruchomości komercyjnych wchodzi w fazę ożywienia - Knight Frank",
+      "content_html": "Wysoka aktywność transakcyjna polskiego rynku nieruchomości w IV kwartale 2025 r., stabilne stopy kapitalizacji oraz rosnąca rola lokalnego kapitału wskazują, że rynek znajduje się w fazie ożywienia z",
+      "date_published": "2026-02-19T10:03:00+01:00",
+      "source": "PAP Biznes"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Zaskakujace-dane-z-rynku-pracy-w-styczniu-2026-Zatrudnienie-sensacyjnie-spadlo-a-place-wyhamowaly-9086102.html",
+      "url": "https://www.bankier.pl/wiadomosc/Zaskakujace-dane-z-rynku-pracy-w-styczniu-2026-Zatrudnienie-sensacyjnie-spadlo-a-place-wyhamowaly-9086102.html",
+      "title": "Słabiutkie dane z rynku pracy. Płace rosły najwolniej od 5 lat. Zatrudnienie sensacyjnie spadło",
+      "content_html": "Po grudniowej pozytywnej niespodziance styczniowe statystyki z polskiego rynku pracy przyniosły srogie rozczarowanie. Największą sensacją był brak zwyczajowego styczniowego wzrostu zatrudnienia w sektorze przedsiębiorstw.",
+      "date_published": "2026-02-19T10:00:00+01:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/firmy/podpisano-term-sheet-z-nfosigw-okreslajacy-warunki-biznesowe-inwestycji-w",
+      "url": "https://biznes.pap.pl/wiadomosci/firmy/podpisano-term-sheet-z-nfosigw-okreslajacy-warunki-biznesowe-inwestycji-w",
+      "title": "Podpisano term sheet z NFOŚiGW określający warunki biznesowe inwestycji w Jaworznie - EMP",
+      "content_html": "ElectroMobility Poland (EMP) podpisało term sheet z NFOŚiGW określający warunki biznesowe inwestycji w Jaworznie. Wartość umowy wynosi 4,5 mld złotych - poinformowała spólka w informacji prasowej.",
+      "date_published": "2026-02-19T09:57:00+01:00",
+      "source": "PAP Biznes"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Ruch-wiekszy-o-300-procent-Biznes-na-ludziach-pakowanych-w-gips-9086070.html",
+      "url": "https://www.bankier.pl/wiadomosc/Ruch-wiekszy-o-300-procent-Biznes-na-ludziach-pakowanych-w-gips-9086070.html",
+      "title": "Ruch większy o 300 procent. Biznes na ludziach \"pakowanych w gips\"?",
+      "content_html": "Zima 2026 nie oszczędza nikogo - ani przechodniów, ani lekarzy, ani sprzedawców sprzętu ortopedycznego. Jak przyznaje w rozmowie z \"Faktem\" Rafał Zieliński, właściciel ActiveOrto, sklepu ze sprzętem medycznym i ortopedycznym, od stycznia telefon...",
+      "date_published": "2026-02-19T09:45:00+01:00",
+      "source": "Bankier.pl"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Creotech-Quantum-zaklada-debiut-na-GPW-17-IV-w-ramach-podzialu-wyemituje-ok-2-85-mln-akcji-9086090.html",
@@ -27,14 +147,6 @@
       "content_html": "Creotech Quantum opublikował prospekt w związku z planowanym podziałem Creotech Instruments, polegającym na przeniesieniu zorganizowanej części przedsiębiorstwa na spółkę w zamian za akcje, i wprowadzeniem akcji na GPW. W ramach podziału Creotech...",
       "date_published": "2026-02-19T09:20:00+01:00",
       "source": "Bankier.pl"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/przemysl/creotech-quantum-zaklada-debiut-na-gpw-17-iv-w-ramach-podzialu-wyemituje-ok-285",
-      "url": "https://biznes.pap.pl/wiadomosci/przemysl/creotech-quantum-zaklada-debiut-na-gpw-17-iv-w-ramach-podzialu-wyemituje-ok-285",
-      "title": "Creotech Quantum zakłada debiut na GPW 17 IV; w ramach podziału wyemituje ok. 2,85 mln akcji",
-      "content_html": "Creotech Quantum opublikował prospekt w związku z planowanym podziałem Creotech Instruments, polegającym na przeniesieniu zorganizowanej części przedsiębiorstwa na spółkę w zamian za akcje, i wprowadz",
-      "date_published": "2026-02-19T09:18:00+01:00",
-      "source": "PAP Biznes"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Byly-prezydent-Jun-Suk-Jeol-skazany-na-dozywocie-za-kierowanie-zamachem-stanu-9086065.html",
@@ -77,22 +189,6 @@
       "source": "Bankier.pl"
     },
     {
-      "id": "https://biznes.pap.pl/wiadomosci/rynki/ceny-gazu-w-europie-w-gore-w-dwa-dni-nawet-10-proc",
-      "url": "https://biznes.pap.pl/wiadomosci/rynki/ceny-gazu-w-europie-w-gore-w-dwa-dni-nawet-10-proc",
-      "title": "Ceny gazu w Europie w górę - w dwa dni nawet 10 proc.",
-      "content_html": "Ceny gazu w Europie rosną, a w ciągu ostatnich 2 sesji zyskują nawet 10 proc. To reakcja na obawy rynków o potencjalną interwencję militarną USA w Iranie - informują maklerzy.",
-      "date_published": "2026-02-19T09:06:00+01:00",
-      "source": "PAP Biznes"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/firmy/noble-securities-podwyzszyl-cene-docelowa-wieltonu-do-725-zl-rekomendacje-do",
-      "url": "https://biznes.pap.pl/wiadomosci/firmy/noble-securities-podwyzszyl-cene-docelowa-wieltonu-do-725-zl-rekomendacje-do",
-      "title": "Noble Securities podwyższył cenę docelową Wieltonu do 7,25 zł, a rekomendację do \"akumuluj\"",
-      "content_html": "Analitycy Noble Securities, w raporcie z 16 lutego, podwyższyli cenę docelową dla Wieltonu do 7,25 zł, z 5,3 zł wcześniej, a rekomendację do \"akumuluj\" z \"trzymaj\".",
-      "date_published": "2026-02-19T09:04:00+01:00",
-      "source": "PAP Biznes"
-    },
-    {
       "id": "https://www.bankier.pl/wiadomosc/Wchodza-nowe-obowiazkowe-systemy-w-auta-Najtansze-modele-podrozeja-9086066.html",
       "url": "https://www.bankier.pl/wiadomosc/Wchodza-nowe-obowiazkowe-systemy-w-auta-Najtansze-modele-podrozeja-9086066.html",
       "title": "Odwrócisz wzrok, auto zacznie „pikać”. Wchodzą nowe obowiązkowe systemy w samochodach",
@@ -109,22 +205,6 @@
       "source": "Bankier.pl"
     },
     {
-      "id": "https://biznes.pap.pl/wiadomosci/firmy/kanadyjczycy-stana-do-przetargu-na-budowe-drugiej-elektrowni-jadrowej-w-polsce",
-      "url": "https://biznes.pap.pl/wiadomosci/firmy/kanadyjczycy-stana-do-przetargu-na-budowe-drugiej-elektrowni-jadrowej-w-polsce",
-      "title": "Kanadyjczycy staną do przetargu na budowę drugiej elektrowni jądrowej w Polsce",
-      "content_html": "Kanadyjska firma AtkinsRealis, właściciel technologii Candu, przedstawi Polsce kompleksową ofertę, kiedy strona polska ogłosi postępowanie konkurencyjne dla drugiej elektrowni jądrowej - poinformował ",
-      "date_published": "2026-02-19T08:47:00+01:00",
-      "source": "PAP Biznes"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/firmy/dzien-na-gpw-czwartkowa-sesja-moze-rozpoczac-sie-od-lekkich-spadkow-3",
-      "url": "https://biznes.pap.pl/wiadomosci/firmy/dzien-na-gpw-czwartkowa-sesja-moze-rozpoczac-sie-od-lekkich-spadkow-3",
-      "title": "DZIEŃ NA GPW: Czwartkowa sesja może rozpocząć się od lekkich spadków",
-      "content_html": "Kontrakty terminowe na europejskie indeksy sugerują, że dzisiejsza sesja może rozpocząć się nieznacznie pod kreską - oceniają analitycy. Ich zdaniem nastroje podczas dzisiejszej sesji będą w dużej mie",
-      "date_published": "2026-02-19T08:38:00+01:00",
-      "source": "PAP Biznes"
-    },
-    {
       "id": "https://www.bankier.pl/wiadomosc/Erste-Group-podwyzszyl-wycene-dla-akcji-spolki-Noctiluca-do-155-5-zl-9086071.html",
       "url": "https://www.bankier.pl/wiadomosc/Erste-Group-podwyzszyl-wycene-dla-akcji-spolki-Noctiluca-do-155-5-zl-9086071.html",
       "title": "Erste Group podwyższył wycenę dla akcji spółki Noctiluca do 155,5 zł",
@@ -133,36 +213,12 @@
       "source": "Bankier.pl"
     },
     {
-      "id": "https://biznes.pap.pl/wiadomosci/firmy/erste-group-podwyzszyl-wycene-dla-akcji-spolki-noctiluca-do-1555-zl",
-      "url": "https://biznes.pap.pl/wiadomosci/firmy/erste-group-podwyzszyl-wycene-dla-akcji-spolki-noctiluca-do-1555-zl",
-      "title": "Erste Group podwyższył wycenę dla akcji spółki Noctiluca do 155,5 zł",
-      "content_html": "Analitycy Erste Group w raporcie 19 lutego podtrzymali rekomendację \"kupuj\" dla spółki Noctiluca, podwyższając cenę docelową akcji do 155,5 zł z 154,8 zł wcześniej.",
-      "date_published": "2026-02-19T08:34:00+01:00",
-      "source": "PAP Biznes"
-    },
-    {
       "id": "https://www.bankier.pl/wiadomosc/Arctic-Paper-mial-13-4-mln-zl-straty-netto-j-d-w-IV-kw-CAPEX-w-26-bedzie-nizszy-rdr-o-ok-100-mln-zl-9086068.html",
       "url": "https://www.bankier.pl/wiadomosc/Arctic-Paper-mial-13-4-mln-zl-straty-netto-j-d-w-IV-kw-CAPEX-w-26-bedzie-nizszy-rdr-o-ok-100-mln-zl-9086068.html",
       "title": "Arctic Paper miał 13,4 mln zł straty netto j.d. w IV kw.",
       "content_html": "Arctic Paper szacuje skons. przychody w IV kw. 2025 r. na 745,1 mln zł, a stratę netto j.d. na 13,4 mln zł - wynika z wyliczeń PAP Biznes na podstawie komunikatu spółki. Konsensus PAP Biznes zakładał 733,5 mln zł przychodów i 11,4 mln zł straty...",
       "date_published": "2026-02-19T08:30:00+01:00",
       "source": "Bankier.pl"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/firmy/arctic-paper-mial-134-mln-zl-straty-netto-jd-w-iv-kw-capex-w-26-bedzie-nizszy-rdr",
-      "url": "https://biznes.pap.pl/wiadomosci/firmy/arctic-paper-mial-134-mln-zl-straty-netto-jd-w-iv-kw-capex-w-26-bedzie-nizszy-rdr",
-      "title": "Arctic Paper miał 13,4 mln zł straty netto j.d. w IV kw.; CAPEX w '26 będzie niższy rdr o ok. 100 mln zł",
-      "content_html": "Arctic Paper szacuje skons. przychody w IV kw. 2025 r. na 745,1 mln zł, a stratę netto j.d. na 13,4 mln zł - wynika z wyliczeń PAP Biznes na podstawie komunikatu spółki. Konsensus PAP Biznes zakładał ",
-      "date_published": "2026-02-19T08:28:00+01:00",
-      "source": "PAP Biznes"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/rynki/dzien-na-rynkach-w-azji-na-gieldach-entuzjazm-zwiazany-z-ai",
-      "url": "https://biznes.pap.pl/wiadomosci/rynki/dzien-na-rynkach-w-azji-na-gieldach-entuzjazm-zwiazany-z-ai",
-      "title": "DZIEŃ NA RYNKACH: W Azji na giełdach entuzjazm związany z AI",
-      "content_html": "Na azjatyckich giełdach indeksy przeważnie rosną, a zwyżkom przewodzą akcje spółek technologicznych po tym, jak osłabły obawy inwestorów o wysokie wyceny i nakłady firm związanych z AI. Na rynku walut",
-      "date_published": "2026-02-19T08:24:00+01:00",
-      "source": "PAP Biznes"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Atrem-Diagnostyka-Dadelo-i-szesc-innych-spolek-Analiza-techniczna-akcji-z-mojego-portfela-9086063.html",
@@ -181,22 +237,6 @@
       "source": "Bankier.pl"
     },
     {
-      "id": "https://biznes.pap.pl/wiadomosci/firmy/ceny-ropy-wzrosly-najmocniej-od-x-2025-i-dalej-ida-w-gore",
-      "url": "https://biznes.pap.pl/wiadomosci/firmy/ceny-ropy-wzrosly-najmocniej-od-x-2025-i-dalej-ida-w-gore",
-      "title": "Ceny ropy wzrosły najmocniej od X 2025 i dalej idą w górę",
-      "content_html": "Ceny ropy naftowej wzrosły w środę najmocniej od października 2025 r. i dalej rosną po tym, jak pojawiły się informacje, że amerykańska interwencja militarna w Iranie może nastąpić wcześniej, niż się ",
-      "date_published": "2026-02-19T08:11:00+01:00",
-      "source": "PAP Biznes"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/rynki/najwazniejsze-indeksy-gieldowe-w-azji-664",
-      "url": "https://biznes.pap.pl/wiadomosci/rynki/najwazniejsze-indeksy-gieldowe-w-azji-664",
-      "title": "Najważniejsze indeksy giełdowe w Azji",
-      "content_html": "Poniżej aktualne indeksy wybranych giełd w Azji:",
-      "date_published": "2026-02-19T07:55:00+01:00",
-      "source": "PAP Biznes"
-    },
-    {
       "id": "https://www.bankier.pl/wiadomosc/Zarzad-Arctic-Paper-zdecydowal-o-czasowym-zawieszeniu-polityki-dywidendowej-9086051.html",
       "url": "https://www.bankier.pl/wiadomosc/Zarzad-Arctic-Paper-zdecydowal-o-czasowym-zawieszeniu-polityki-dywidendowej-9086051.html",
       "title": "Zarząd Arctic Paper zdecydował o czasowym zawieszeniu polityki dywidendowej",
@@ -213,12 +253,28 @@
       "source": "Bankier.pl"
     },
     {
+      "id": "https://biznes.pap.pl/wiadomosci/firmy/szacunkowe-wyniki-arctic-paper-w-iv-kw-2025-roku-vs-konsensus-pap-tabela",
+      "url": "https://biznes.pap.pl/wiadomosci/firmy/szacunkowe-wyniki-arctic-paper-w-iv-kw-2025-roku-vs-konsensus-pap-tabela",
+      "title": "Szacunkowe wyniki Arctic Paper w IV kw. 2025 roku vs. konsensus PAP (tabela)",
+      "content_html": "Poniżej przedstawiono szacunkowe wyniki grupy Arctic Paper w czwartym kwartale 2025 roku oraz ich odniesienie do konsensusu PAP Biznes i wyników poprzednich okresów.",
+      "date_published": "2026-02-19T07:46:00+01:00",
+      "source": "PAP Biznes"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Triki-z-akademii-KGB-przy-stole-negocjacyjnym-Dla-Rosji-nawet-rozmowy-to-wojna-9085941.html",
       "url": "https://www.bankier.pl/wiadomosc/Triki-z-akademii-KGB-przy-stole-negocjacyjnym-Dla-Rosji-nawet-rozmowy-to-wojna-9085941.html",
       "title": "Triki z akademii KGB przy stole negocjacyjnym. Dla Rosji nawet rozmowy to wojna",
       "content_html": "Dla Rosji negocjacje to po prostu inny rodzaj prowadzenia wojny, bez udziału żołnierzy - ocenili w środę eksperci amerykańskiego think tanku Atlantic Council. Jak zaznaczyli, podczas negocjacji Rosjanie kładą duży nacisk na aspekt psychologiczny...",
       "date_published": "2026-02-19T07:45:00+01:00",
       "source": "Bankier.pl"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/gospodarka/poczatek-roku-przyniosl-korekte-cenowa-na-rynku-uprawnien-eua-kobize",
+      "url": "https://biznes.pap.pl/wiadomosci/gospodarka/poczatek-roku-przyniosl-korekte-cenowa-na-rynku-uprawnien-eua-kobize",
+      "title": "Początek roku przyniósł korektę cenową na rynku uprawnień EUA - KOBIZE",
+      "content_html": "Początek roku przyniósł korektę cenową na rynku uprawnień EUA - poinformował w raporcie Krajowy Ośrodek Bilansowania i Zarządzania Emisjami.",
+      "date_published": "2026-02-19T07:45:00+01:00",
+      "source": "PAP Biznes"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Polnadzy-urzednicy-w-Chinach-Restrykcje-w-ramach-walki-z-korupcja-9085976.html",
@@ -229,20 +285,20 @@
       "source": "Bankier.pl"
     },
     {
-      "id": "https://www.bankier.pl/wiadomosc/Bialoruski-nadawca-panstwowy-dociera-do-Polakow-Nadaje-z-amerykanskich-serwerow-9085996.html",
-      "url": "https://www.bankier.pl/wiadomosc/Bialoruski-nadawca-panstwowy-dociera-do-Polakow-Nadaje-z-amerykanskich-serwerow-9085996.html",
-      "title": "Białoruski nadawca państwowy dociera do Polaków. Nadaje z amerykańskich serwerów",
-      "content_html": "Międzynarodowe Radio Białoruś prowadzi na YouTube polskojęzyczne audycje, mimo sankcji nałożonych przez UE. Konto znajduje się jednak na amerykańskich serwerach, więc w Europie nie można go zablokować - przyznaje Jakub Biernat z TV Biełsat...",
-      "date_published": "2026-02-19T07:37:00+01:00",
-      "source": "Bankier.pl"
+      "id": "https://biznes.pap.pl/wiadomosci/firmy/poczatek-roku-slaby-w-branzy-hotelarskiej-ferie-rowniez-nie-poprawily-nastrojow",
+      "url": "https://biznes.pap.pl/wiadomosci/firmy/poczatek-roku-slaby-w-branzy-hotelarskiej-ferie-rowniez-nie-poprawily-nastrojow",
+      "title": "Początek roku słaby w branży hotelarskiej, ferie również nie poprawiły nastrojów branży - IGHP",
+      "content_html": "Początek roku słaby w branży hotelarskiej, ferie również nie poprawiły nastrojów branży - wynika z ankiety przeprowadzonej przez Izbę Gospodarczą Hotelarstwa Polskiego (IGHP) wśród hotelarzy.",
+      "date_published": "2026-02-19T07:42:00+01:00",
+      "source": "PAP Biznes"
     },
     {
-      "id": "https://www.bankier.pl/wiadomosc/Ceny-miedzi-w-Londynie-spadaja-po-protokole-Fed-9086039.html",
-      "url": "https://www.bankier.pl/wiadomosc/Ceny-miedzi-w-Londynie-spadaja-po-protokole-Fed-9086039.html",
-      "title": "Ceny miedzi w Londynie spadają po protokole Fed",
-      "content_html": "Notowania miedzi na giełdzie metali LME w Londynie idą w dół po środowej publikacji protokołu z posiedzenia Fed, który pokazuje, że bankierzy centralni z Fed obawiają się obniżek stóp procentowych - informują maklerzy.",
-      "date_published": "2026-02-19T07:35:00+01:00",
-      "source": "Bankier.pl"
+      "id": "https://biznes.pap.pl/wiadomosci/konsument/w-i-kw-odnotowano-poprawe-koniunktury-w-polskiej-gospodarce-irg-sgh",
+      "url": "https://biznes.pap.pl/wiadomosci/konsument/w-i-kw-odnotowano-poprawe-koniunktury-w-polskiej-gospodarce-irg-sgh",
+      "title": "W I kw. odnotowano poprawę koniunktury w polskiej gospodarce - IRG SGH",
+      "content_html": "Wyniki badań koniunktury gospodarczej w I kwartale 2026 r. wskazują na jej poprawę głównie za sprawą lepszych nastrojów w handlu oraz dobrej kondycji gospodarstw domowych - wynika z badania Instytutu ",
+      "date_published": "2026-02-19T07:38:00+01:00",
+      "source": "PAP Biznes"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Korea-Polnocna-ma-wyrzutnie-z-AI-Atak-jadrowy-moze-dosiegnac-Seul-9085971.html",
@@ -253,11 +309,35 @@
       "source": "Bankier.pl"
     },
     {
+      "id": "https://biznes.pap.pl/wiadomosci/rynki/ceny-miedzi-w-londynie-spadaja-po-protokole-fed",
+      "url": "https://biznes.pap.pl/wiadomosci/rynki/ceny-miedzi-w-londynie-spadaja-po-protokole-fed",
+      "title": "Ceny miedzi w Londynie spadają po protokole Fed",
+      "content_html": "Notowania miedzi na giełdzie metali LME w Londynie idą w dół po środowej publikacji protokołu z posiedzenia Fed, który pokazuje, że bankierzy centralni z Fed obawiają się obniżek stóp procentowych - i",
+      "date_published": "2026-02-19T07:34:00+01:00",
+      "source": "PAP Biznes"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/firmy/zus-przekazal-do-ofe-w-tym-tygodniu-1356-mln-zl",
+      "url": "https://biznes.pap.pl/wiadomosci/firmy/zus-przekazal-do-ofe-w-tym-tygodniu-1356-mln-zl",
+      "title": "ZUS przekazał do OFE w tym tygodniu 135,6 mln zł",
+      "content_html": "Zakład Ubezpieczeń Społecznych przekazał w tym tygodniu otwartym funduszom emerytalnym (OFE) 135,6 mln zł - poinformował ZUS.",
+      "date_published": "2026-02-19T07:31:00+01:00",
+      "source": "PAP Biznes"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Miliony-min-na-wschodniej-granicy-Polskie-zaklady-zbrojeniowe-w-gotowosci-9085974.html",
       "url": "https://www.bankier.pl/wiadomosc/Miliony-min-na-wschodniej-granicy-Polskie-zaklady-zbrojeniowe-w-gotowosci-9085974.html",
       "title": "Miliony min na wschodniej granicy? Polskie zakłady zbrojeniowe w gotowości",
       "content_html": "Pola minowe pojawią się na wschodniej oraz północnej granicy i wejdą w skład budowanej obecnie Tarczy Wschód. Polska wznowi produkcję min przeciwpiechotnych i ma szansę stać się ich eksporterem. - podaje w czwartkowym wydanie „Dziennik Gazeta...",
       "date_published": "2026-02-19T07:24:00+01:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Zaangazowanie-polskich-pracownikow-najnizsze-od-czasow-pandemii-9086007.html",
+      "url": "https://www.bankier.pl/wiadomosc/Zaangazowanie-polskich-pracownikow-najnizsze-od-czasow-pandemii-9086007.html",
+      "title": "Zaangażowanie polskich pracowników najniższe od czasów pandemii",
+      "content_html": "Ogólny wskaźnik zaangażowania polskich pracowników w 2025 r. wyniósł 63 proc., co jest najniższym wynikiem od czasów pandemii - wynika z raportu Enpulse. Ponad 40 proc. pracowników wskazało na problemy z komunikacją w firmie oraz na brak zaufania...",
+      "date_published": "2026-02-19T07:17:00+01:00",
       "source": "Bankier.pl"
     },
     {
@@ -285,6 +365,14 @@
       "source": "Bankier.pl"
     },
     {
+      "id": "https://biznes.pap.pl/wiadomosci/firmy/orlen-zaklada-w-26-oddanie-trzech-duzych-inwestycji-i-refinansowanie-2-mld-euro",
+      "url": "https://biznes.pap.pl/wiadomosci/firmy/orlen-zaklada-w-26-oddanie-trzech-duzych-inwestycji-i-refinansowanie-2-mld-euro",
+      "title": "Orlen zakłada w '26 oddanie trzech dużych inwestycji i refinansowanie 2 mld euro (opis)",
+      "content_html": "Grup Orlen zakłada w 2026 roku oddanie do użytkowania trzech inwestycji: farmy wiatrowej Baltic Power, bloku gazowego CCGT w Grudziądzu i instalacji HVO w Płocku - poinformowała spółka w prezentacji. ",
+      "date_published": "2026-02-19T07:11:00+01:00",
+      "source": "PAP Biznes"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Opozycja-chce-dymisji-Czarzastego-ale-nie-zlozy-wniosku-To-powod-9085972.html",
       "url": "https://www.bankier.pl/wiadomosc/Opozycja-chce-dymisji-Czarzastego-ale-nie-zlozy-wniosku-To-powod-9085972.html",
       "title": "Opozycja chce dymisji Czarzastego, ale... nie złoży wniosku. To powód?",
@@ -307,6 +395,30 @@
       "content_html": "Utrzymująca się od dwóch miesięcy zimowa pogoda skutecznie \"zamroziła\" ceny krajowych warzyw gruntowych, zaś mróz i śnieg ograniczył zakupy na rynku hurtowym w Broniszach - powiedział PAP ekspert rynku Maciej Kmera.",
       "date_published": "2026-02-19T07:01:00+01:00",
       "source": "Bankier.pl"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/ekonomia-biznes-i-finanse/przewidywane-najwazniejsze-wydarzenia-gospodarcze-2026-02-19",
+      "url": "https://biznes.pap.pl/wiadomosci/ekonomia-biznes-i-finanse/przewidywane-najwazniejsze-wydarzenia-gospodarcze-2026-02-19",
+      "title": "Przewidywane najważniejsze wydarzenia gospodarcze 2026-02-19",
+      "content_html": "Przewidywane najważniejsze wydarzenia gospodarcze 2026-02-19",
+      "date_published": "2026-02-19T07:00:00+01:00",
+      "source": "PAP Biznes"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/rynki/kalendarium-rynku-newconnect-2026-02-19",
+      "url": "https://biznes.pap.pl/wiadomosci/rynki/kalendarium-rynku-newconnect-2026-02-19",
+      "title": "Kalendarium rynku NewConnect 2026-02-19",
+      "content_html": "Kalendarium rynku NewConnect 2026-02-19",
+      "date_published": "2026-02-19T07:00:00+01:00",
+      "source": "PAP Biznes"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/rynki/kalendarium-rynku-kapitalowego-gpw-2026-02-19",
+      "url": "https://biznes.pap.pl/wiadomosci/rynki/kalendarium-rynku-kapitalowego-gpw-2026-02-19",
+      "title": "Kalendarium rynku kapitałowego GPW 2026-02-19",
+      "content_html": "Kalendarium rynku kapitałowego GPW 2026-02-19",
+      "date_published": "2026-02-19T07:00:00+01:00",
+      "source": "PAP Biznes"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Swiat-na-krawedzi-wojny-Donald-Trump-blisko-ataku-na-Iran-90-proc-szans-na-uderzenie-9085761.html",
@@ -661,22 +773,6 @@
       "source": "Bankier.pl"
     },
     {
-      "id": "https://biznes.pap.pl/wiadomosci/firmy/nie-ma-podstaw-do-wstrzymania-prac-przy-i-polskiej-elektrowni-jadrowej-pej-aktl",
-      "url": "https://biznes.pap.pl/wiadomosci/firmy/nie-ma-podstaw-do-wstrzymania-prac-przy-i-polskiej-elektrowni-jadrowej-pej-aktl",
-      "title": "Nie ma podstaw do wstrzymania prac przy I polskiej elektrowni jądrowej - PEJ (aktl.)",
-      "content_html": "Brak jest podstaw do wstrzymania prac przy pierwszej polskiej elektrowni jądrowej; wniosek i zażalenie strony skarżącej zostały oddalone - poinformowała o decyzji NSA spółka Polskie Elektrownie Jądrow",
-      "date_published": "2026-02-18T18:20:00+01:00",
-      "source": "PAP Biznes"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/rynki/dzien-na-rynkach-na-zamknieciu-sesji-wzrost-indeksow-gieldowych-w-europie",
-      "url": "https://biznes.pap.pl/wiadomosci/rynki/dzien-na-rynkach-na-zamknieciu-sesji-wzrost-indeksow-gieldowych-w-europie",
-      "title": "DZIEŃ NA RYNKACH: Na zamknięciu sesji wzrost indeksów giełdowych w Europie",
-      "content_html": "W środę rynki akcji w Europie zakończyły trzecią sesję z rzędu na plusie. Dobre wyniki finansowe europejskich spółek giełdowych dały inwestorom pewność, że warto nadal rezygnować z akcji amerykańskich",
-      "date_published": "2026-02-18T18:19:00+01:00",
-      "source": "PAP Biznes"
-    },
-    {
       "id": "https://www.bankier.pl/wiadomosc/Ukraina-wydala-pozwolenie-na-poszukiwania-szczatkow-polskich-ofiar-w-Hucie-Pieniackiej-9085811.html",
       "url": "https://www.bankier.pl/wiadomosc/Ukraina-wydala-pozwolenie-na-poszukiwania-szczatkow-polskich-ofiar-w-Hucie-Pieniackiej-9085811.html",
       "title": "Ukraina wydała pozwolenie na poszukiwania szczątków polskich ofiar w Hucie Pieniackiej",
@@ -715,6 +811,14 @@
       "content_html": "Brak jest podstaw do wstrzymania prac przy pierwszej polskiej elektrowni jądrowej; wniosek i zażalenie strony skarżącej zostały oddalone - poinformowała o decyzji NSA spółka Polskie Elektrownie Jądrow",
       "date_published": "2026-02-18T17:58:00+01:00",
       "source": "PAP Biznes"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Byly-glownodowodzacy-Zaluzny-miedzy-mna-i-Zelenskim-sa-glebokie-nieporozumienia-9085838.html",
+      "url": "https://www.bankier.pl/wiadomosc/Byly-glownodowodzacy-Zaluzny-miedzy-mna-i-Zelenskim-sa-glebokie-nieporozumienia-9085838.html",
+      "title": "Były głównodowodzący Załużny: między mną i Zełenskim są głębokie nieporozumienia",
+      "content_html": "Były głównodowodzący ukraińskiej armii, a obecnie ambasador Ukrainy w Wielkiej Brytanii Wałerij Załużny powiedział w rozmowie z agencją AP o „głębokich nieporozumieniach” pomiędzy nim i ukraińskim prezydentem Wołodymyrem Zełenskim...",
+      "date_published": "2026-02-18T17:54:00+01:00",
+      "source": "Bankier.pl"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Akcjonariusze-Mex-Polska-zakupili-lacznie-763-300-akcji-spolki-w-cenie-4-5-zl-za-papier-9085837.html",
@@ -933,14 +1037,6 @@
       "source": "PAP Biznes"
     },
     {
-      "id": "https://biznes.pap.pl/wiadomosci/firmy/dzien-na-gpw-na-gieldzie-wzrostowa-sesja-nie-wykluczona-korekta-ze-spadkami-ok-10",
-      "url": "https://biznes.pap.pl/wiadomosci/firmy/dzien-na-gpw-na-gieldzie-wzrostowa-sesja-nie-wykluczona-korekta-ze-spadkami-ok-10",
-      "title": "DZIEŃ NA GPW: Na giełdzie wzrostowa sesja; nie wykluczona korekta ze spadkami ok. 10 proc.",
-      "content_html": "Na warszawskiej giełdzie trwa wzrostowa sesja. Jednym z liderów wzrostów w WIG20 pozostaje Orange, natomiast najsłabszy jest CD Projekt. Zdaniem zarządzających, na GPW może nastąpić korekta, o czym św",
-      "date_published": "2026-02-18T15:44:00+01:00",
-      "source": "PAP Biznes"
-    },
-    {
       "id": "https://www.bankier.pl/wiadomosc/Trojstronne-negocjacje-przerwane-po-dwoch-godzinach-Rosja-zapowiada-kolejne-spotkania-z-Ukraina-i-USA-9085539.html",
       "url": "https://www.bankier.pl/wiadomosc/Trojstronne-negocjacje-przerwane-po-dwoch-godzinach-Rosja-zapowiada-kolejne-spotkania-z-Ukraina-i-USA-9085539.html",
       "title": "Trójstronne negocjacje przerwane po dwóch godzinach. Rosja zapowiada kolejne spotkania z Ukrainą i USA",
@@ -1069,6 +1165,14 @@
       "source": "Bankier.pl"
     },
     {
+      "id": "https://biznes.pap.pl/wiadomosci/gospodarka/ke-przyjela-strategie-dla-regionow-wschodnich-ue-inwestycje-siegna-28-mld",
+      "url": "https://biznes.pap.pl/wiadomosci/gospodarka/ke-przyjela-strategie-dla-regionow-wschodnich-ue-inwestycje-siegna-28-mld",
+      "title": "KE przyjęła strategię dla regionów wschodnich UE; inwestycje sięgną 28 mld euro",
+      "content_html": "Komisja Europejska w przyjętej w środę strategii dla regionów wschodnich UE, graniczących z Rosją, Białorusią i Ukrainą, zapowiedziała utworzenie platformy inwestycyjnej z udziałem Europejskiego Banku",
+      "date_published": "2026-02-18T14:26:00+01:00",
+      "source": "PAP Biznes"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Refinansowanie-rozgrzewa-rynek-hipotek-Przybywa-specjalnych-ofert-9085068.html",
       "url": "https://www.bankier.pl/wiadomosc/Refinansowanie-rozgrzewa-rynek-hipotek-Przybywa-specjalnych-ofert-9085068.html",
       "title": "Banki biją się o cudzych klientów. Tak zaoszczędzisz tysiąc złotych na racie hipotecznej",
@@ -1175,17 +1279,9 @@
     {
       "id": "https://www.bankier.pl/wiadomosc/Zaklad-o-Amazona-Buffett-sprzedaje-prawie-wszystko-Ackman-kupuje-za-miliardy-9085588.html",
       "url": "https://www.bankier.pl/wiadomosc/Zaklad-o-Amazona-Buffett-sprzedaje-prawie-wszystko-Ackman-kupuje-za-miliardy-9085588.html",
-      "title": "Wielki zakład miliarderów o Amazona. Buffett sprzedaje paczki akcji, Ackman kupuje taśmowo",
-      "content_html": "Najnowsze raporty 13F złożone w amerykańskiej Komisji Papierów Wartościowych i Giełd (SEC) przyniosły obraz ciekawego zakładu miliarderów. Podczas gdy Warren Buffett w swoim ostatnim kwartale jako prezes Berkshire Hathaway, radykalnie ciął...",
+      "title": "Wielki zakład miliarderów o Amazona. Buffett sprzedaje paczki akcji, Ackman kupuje taśmowo Najnowsze raporty 13F złożone w amerykańskiej Komisji Papierów Wartościowych i Giełd (SEC) przyniosły obraz ciekawego zakładu miliarderów. Podczas gdy Warren Buffett w swoim ostatnim kwartale jako prezes Berkshire Hathaway, radykalnie ciął pozycję na akcjach Amazona, Bill Ackman i jego fundusz agresywnie zwiększał udziały w tej samej spółce. W tle mamy gigantyczne inwestycje spółki w AI, które na razie nie znajdują poparcia rynku.",
+      "content_html": "",
       "date_published": "2026-02-18T13:10:00+01:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Infrastruktura-krytyczna-w-ogloszeniu-na-OLX-PERN-ostro-ripostuje-Baza-w-Zaganiu-to-zlom-9085570.html",
-      "url": "https://www.bankier.pl/wiadomosc/Infrastruktura-krytyczna-w-ogloszeniu-na-OLX-PERN-ostro-ripostuje-Baza-w-Zaganiu-to-zlom-9085570.html",
-      "title": "Infrastruktura krytyczna w ogłoszeniu na OLX? PERN ostro ripostuje: Baza w Żaganiu to złom",
-      "content_html": "Należąca do PERN baza paliw w Żaganiu została wyłączona z eksploatacji około 22 lata temu; zdegradowany stan techniczny znajdującej się tam infrastruktury kwalifikuje ją do wyburzenia i złomowania. Nie jest ona elementem infrastruktury krytycznej...",
-      "date_published": "2026-02-18T13:09:00+01:00",
       "source": "Bankier.pl"
     },
     {
@@ -1197,14 +1293,6 @@
       "source": "PAP Biznes"
     },
     {
-      "id": "https://www.bankier.pl/wiadomosc/Polska-rosnie-w-sile-Tusk-Rok-2026-bedzie-rokiem-przyspieszenia-9085474.html",
-      "url": "https://www.bankier.pl/wiadomosc/Polska-rosnie-w-sile-Tusk-Rok-2026-bedzie-rokiem-przyspieszenia-9085474.html",
-      "title": "Rekordowy wzrost na giełdzie. Domański: Za 5-6 lat dogonimy Wielką Brytanię",
-      "content_html": "- Polska stała się oazą stabilności i wzrostu pomimo geostrategicznej niepewności i innych wydarzeń - oświadczył w środę Donald Tusk w Warszawie. I dodał, że \"o niemal 50 proc. urosła w tym roku polska giełda, to rekordowy wzrost w całym...",
-      "date_published": "2026-02-18T12:53:00+01:00",
-      "source": "Bankier.pl"
-    },
-    {
       "id": "https://biznes.pap.pl/wiadomosci/gry-i-technologie/cyberpixel-zawarl-z-mbe-worldwide-umowe-sprzedazy-100-proc-akcji-w",
       "url": "https://biznes.pap.pl/wiadomosci/gry-i-technologie/cyberpixel-zawarl-z-mbe-worldwide-umowe-sprzedazy-100-proc-akcji-w",
       "title": "cyber_Pixel zawarł z MBE Worldwide umowę sprzedaży 100 proc. akcji w PrestaShop (aktl.)",
@@ -1213,18 +1301,10 @@
       "source": "PAP Biznes"
     },
     {
-      "id": "https://www.bankier.pl/wiadomosc/Szymon-Holownia-komentuje-rozlam-w-Polsce-2050-Czuje-sie-oszukany-przez-Hennig-Kloske-9085593.html",
-      "url": "https://www.bankier.pl/wiadomosc/Szymon-Holownia-komentuje-rozlam-w-Polsce-2050-Czuje-sie-oszukany-przez-Hennig-Kloske-9085593.html",
-      "title": "Szymon Hołownia komentuje rozłam w Polsce 2050. \"Czuję się oszukany przez Hennig-Kloskę\"",
-      "content_html": "Były lider Polski 2050 Szymon Hołownia ocenił, że do rozłamu w Polsce 2050 i utworzenia nowego klubu Centrum doprowadziła nienawiść do przewodniczącej partii Katarzyny Pełczyńskiej-Nałęcz. Zapewnił, że nadal będzie członkiem klubu Polska...",
-      "date_published": "2026-02-18T12:43:00+01:00",
-      "source": "Bankier.pl"
-    },
-    {
       "id": "https://www.bankier.pl/wiadomosc/Grupa-cyber-Folks-podpisala-porozumienia-dotyczace-nabycia-PrestaShop-9085586.html",
       "url": "https://www.bankier.pl/wiadomosc/Grupa-cyber-Folks-podpisala-porozumienia-dotyczace-nabycia-PrestaShop-9085586.html",
-      "title": "Skokowy rozwój cyber_Folks. 100 proc. akcji PrestaShop zmienia właściciela",
-      "content_html": "Spółka zależna cyber_Folks, tj. cyber_Pixel zawarła z MBE Worldwide umowę sprzedaży 100 proc. akcji w PrestaShop - podało cyber_Folks w komunikacie. Cena sprzedaży akcji PrestaShop wyniosła 53,96 mln euro.",
+      "title": "Skokowy rozwój cyber_Folks. 100 proc. akcji PrestaShop zmienia właściciela Spółka zależna cyber_Folks, tj. cyber_Pixel zawarła z MBE Worldwide umowę sprzedaży 100 proc. akcji w PrestaShop - podało cyber_Folks w komunikacie. Cena sprzedaży akcji PrestaShop wyniosła 53,96 mln euro.",
+      "content_html": "",
       "date_published": "2026-02-18T12:34:00+01:00",
       "source": "Bankier.pl"
     },
@@ -1341,14 +1421,6 @@
       "source": "PAP Biznes"
     },
     {
-      "id": "https://biznes.pap.pl/wiadomosci/gospodarka/mf-sprzedalo-siedem-serii-obligacji-lacznie-za-130-mld-zl-przy-popycie-22117",
-      "url": "https://biznes.pap.pl/wiadomosci/gospodarka/mf-sprzedalo-siedem-serii-obligacji-lacznie-za-130-mld-zl-przy-popycie-22117",
-      "title": "MF sprzedało siedem serii obligacji łącznie za 13,0 mld zł, przy popycie 22,117 mld zł",
-      "content_html": "Ministerstwo Finansów sprzedało obligacje serii OK0128, PS0730, PS0131, NZ0331, DS1034, DS1035 i IZ0836 za łącznie 13.000,409 mln zł, przy popycie 22.117,409 mln zł - podał resort w komunikacie.",
-      "date_published": "2026-02-18T11:31:00+01:00",
-      "source": "PAP Biznes"
-    },
-    {
       "id": "https://biznes.pap.pl/wiadomosci/gospodarka/rzad-bedzie-czujny-na-kazdy-sygnal-slabnacego-zaufania-do-gospodarki-premier",
       "url": "https://biznes.pap.pl/wiadomosci/gospodarka/rzad-bedzie-czujny-na-kazdy-sygnal-slabnacego-zaufania-do-gospodarki-premier",
       "title": "Rząd będzie czujny na każdy sygnał słabnącego zaufania do gospodarki - premier (opis)",
@@ -1386,94 +1458,6 @@
       "title": "DZIEŃ NA GPW: Giełda odreagowuje spadki; Orange najsilniejszy w WIG20",
       "content_html": "Warszawska giełda odreagowuje wtorkowe spadki. Rosną główne indeksy i większość sektorowych. Najsilniejszy w WIG20 Orange zyskuje 4 proc. Zdaniem analityków, w środę istotne dla rynków będą dane makro",
       "date_published": "2026-02-18T10:43:00+01:00",
-      "source": "PAP Biznes"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/gospodarka/rzad-bedzie-budowal-system-nieustannej-deregulacji-biurokracji-i-legislacji",
-      "url": "https://biznes.pap.pl/wiadomosci/gospodarka/rzad-bedzie-budowal-system-nieustannej-deregulacji-biurokracji-i-legislacji",
-      "title": "Rząd będzie budował system nieustannej deregulacji biurokracji i legislacji - premier",
-      "content_html": "Rząd będzie budował system nieustannej deregulacji biurokracji i legislacji - poinformował premier Donald Tusk w trakcie wystąpienia w Warszawie.",
-      "date_published": "2026-02-18T10:41:00+01:00",
-      "source": "PAP Biznes"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/gospodarka/rzad-mimo-rozpadu-w-polsce-2050-bedzie-mial-stabilna-wiekszosc-tusk",
-      "url": "https://biznes.pap.pl/wiadomosci/gospodarka/rzad-mimo-rozpadu-w-polsce-2050-bedzie-mial-stabilna-wiekszosc-tusk",
-      "title": "Rząd, mimo rozpadu w Polsce 2050 będzie miał stabilną większość - Tusk",
-      "content_html": "Rząd, mimo rozpadu w Polsce 2050 będzie miał stabilną większość - poinformował premier Donald Tusk.",
-      "date_published": "2026-02-18T10:39:00+01:00",
-      "source": "PAP Biznes"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Stalprodukt-szacuje-strate-netto-w-IV-kw-na-17-2-mln-zl-9085488.html",
-      "url": "https://www.bankier.pl/wiadomosc/Stalprodukt-szacuje-strate-netto-w-IV-kw-na-17-2-mln-zl-9085488.html",
-      "title": "Stalprodukt szacuje wielomilionowe straty w IV kwartale Stalprodukt szacuje w IV kwartale 2025 r. stratę netto na 17,2 mln zł, a stratę EBIT na 21,5 mln zł - podała spółka w komunikacie. Wskazano, że główną przyczyną odnotowania ujemnych wyników w IV kwartale był spadek sprzedaży Segmentu Blach, który z kolei był konsekwencją znaczącego wzrostu importu blach do Europy, w cenach znacznie odbiegających od europejskich czynników kosztowych.",
-      "content_html": "",
-      "date_published": "2026-02-18T10:38:00+01:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/firmy/stalprodukt-szacuje-strate-netto-w-iv-kw-na-172-mln-zl",
-      "url": "https://biznes.pap.pl/wiadomosci/firmy/stalprodukt-szacuje-strate-netto-w-iv-kw-na-172-mln-zl",
-      "title": "Stalprodukt szacuje stratę netto w IV kw. na 17,2 mln zł",
-      "content_html": "Stalprodukt szacuje w IV kwartale 2025 r. stratę netto na 17,2 mln zł, a stratę EBIT na 21,5 mln zł - podała spółka w komunikacie. Wskazano, że główną przyczyną odnotowania ujemnych wyników w IV kwart",
-      "date_published": "2026-02-18T10:36:00+01:00",
-      "source": "PAP Biznes"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/gospodarka/mocny-zloty-dowod-zaufania-do-gospodarki-choc-nienajlepsza-wiadomosc-dla",
-      "url": "https://biznes.pap.pl/wiadomosci/gospodarka/mocny-zloty-dowod-zaufania-do-gospodarki-choc-nienajlepsza-wiadomosc-dla",
-      "title": "Mocny złoty to dowód zaufania do gospodarki, choć nienajlepsza wiadomość dla eksportu - premier",
-      "content_html": "Mocny złoty to dowód zaufania do polskiej gospodarki, ale może nienajlepsza wiadomość dla eksportu - ocenił premier Donald Tusk w trakcie wystąpienia w Warszawie.",
-      "date_published": "2026-02-18T10:19:00+01:00",
-      "source": "PAP Biznes"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/gospodarka/rzad-prognozuje-w-2026-r-wzrost-inwestycji-w-gospodarce-o-blisko-10-proc",
-      "url": "https://biznes.pap.pl/wiadomosci/gospodarka/rzad-prognozuje-w-2026-r-wzrost-inwestycji-w-gospodarce-o-blisko-10-proc",
-      "title": "Rząd prognozuje w 2026 r. wzrost inwestycji w gospodarce o blisko 10 proc. - premier",
-      "content_html": "Rząd prognozuje w 2026 r. wzrost inwestycji w gospodarce o blisko 10 proc. - poinformował premier Donald Tusk w trakcie wystąpienia w Warszawie.",
-      "date_published": "2026-02-18T10:16:00+01:00",
-      "source": "PAP Biznes"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Baltic-Power-wchodzi-w-kolejny-etap-zakonczono-instalacje-wszystkich-78-fundamentow-9085470.html",
-      "url": "https://www.bankier.pl/wiadomosc/Baltic-Power-wchodzi-w-kolejny-etap-zakonczono-instalacje-wszystkich-78-fundamentow-9085470.html",
-      "title": "Prąd z Bałtyku popłynie jeszcze w tym roku. Orlen zakończył instalację fundamentów Baltic Power Baltic Power, wspólny projekt grupy Orlen i Northland Power, wchodzi w kolejny etap, a prąd z Bałtyku popłynie jeszcze w tym roku - podał Orlen w komunikacie prasowym. Wskazano, że zakończono instalację wszystkich 78 fundamentów - tzw. monopali - na morskiej farmie wiatrowej.",
-      "content_html": "",
-      "date_published": "2026-02-18T10:14:00+01:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/firmy/baltic-power-wchodzi-w-kolejny-etap-zakonczono-instalacje-wszystkich-78",
-      "url": "https://biznes.pap.pl/wiadomosci/firmy/baltic-power-wchodzi-w-kolejny-etap-zakonczono-instalacje-wszystkich-78",
-      "title": "Baltic Power wchodzi w kolejny etap, zakończono instalację wszystkich 78 fundamentów",
-      "content_html": "Baltic Power, wspólny projekt grupy Orlen i Northland Power, wchodzi w kolejny etap, a prąd z Bałtyku popłynie jeszcze w tym roku - podał Orlen w komunikacie prasowym. Wskazano, że zakończono instalac",
-      "date_published": "2026-02-18T10:12:00+01:00",
-      "source": "PAP Biznes"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/konsument/w-lutym-poprawa-obecnych-nastrojow-konsumenckich-pogorszenie-przyszlych-gus",
-      "url": "https://biznes.pap.pl/wiadomosci/konsument/w-lutym-poprawa-obecnych-nastrojow-konsumenckich-pogorszenie-przyszlych-gus",
-      "title": "W lutym poprawa obecnych nastrojów konsumenckich, pogorszenie przyszłych - GUS",
-      "content_html": "W lutym 2026 r. odnotowano poprawę nastrojów konsumenckich dotyczących obecnej sytuacji przy jednoczesnym pogorszeniu nastrojów dotyczących przyszłej sytuacji - podał Główny Urząd Statystyczny.",
-      "date_published": "2026-02-18T10:00:00+01:00",
-      "source": "PAP Biznes"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/gospodarka/w-lutym-przesuniecie-oczekiwan-inflacyjnych-konsumentow-w-kierunku-nieco",
-      "url": "https://biznes.pap.pl/wiadomosci/gospodarka/w-lutym-przesuniecie-oczekiwan-inflacyjnych-konsumentow-w-kierunku-nieco",
-      "title": "W lutym przesunięcie oczekiwań inflacyjnych konsumentów w kierunku nieco niższej inflacji - GUS",
-      "content_html": "Najnowsze, lutowe badania Głównego Urzędu Statystycznego wskazują na przesunięcie oczekiwań w Polsce w kierunku nieco niższej inflacji - wynika z danych GUS.",
-      "date_published": "2026-02-18T10:00:00+01:00",
-      "source": "PAP Biznes"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/firmy/sektor-energetyczny-wchodzi-w-faze-wdrazania-ai-jako-elementu-codziennych-operacji",
-      "url": "https://biznes.pap.pl/wiadomosci/firmy/sektor-energetyczny-wchodzi-w-faze-wdrazania-ai-jako-elementu-codziennych-operacji",
-      "title": "Sektor energetyczny wchodzi w fazę wdrażania AI jako elementu codziennych operacji - Deloitte",
-      "content_html": "Sektor energetyczny wchodzi w fazę trwałej zmiany strukturalnej, a firmy przechodzą od projektów pilotażowych do pełnoskalowej realizacji – obejmującej modernizację sieci, selektywną alokację kapitału",
-      "date_published": "2026-02-18T09:42:00+01:00",
       "source": "PAP Biznes"
     }
   ]
