@@ -5,10 +5,74 @@
   "home_page_url": "https://www.bankier.pl",
   "items": [
     {
+      "id": "https://biznes.pap.pl/wiadomosci/firmy/kontynuacja-podwyzek-cen-paliw-na-stacjach-w-przyszlym-tygodniu-e-petrol-opinia",
+      "url": "https://biznes.pap.pl/wiadomosci/firmy/kontynuacja-podwyzek-cen-paliw-na-stacjach-w-przyszlym-tygodniu-e-petrol-opinia",
+      "title": "Kontynuacja podwyżek cen paliw na stacjach w przyszłym tygodniu - e-petrol (opinia)",
+      "content_html": "Na koniec lutego spodziewana jest kontynuacja podwyżek na stacjach paliw - przewidują analitycy e-petrol. Benzyna Pb95 może kosztować około 5,63-5,76 zł/l, o ile nie dojdzie do szoku podażowego na ryn",
+      "date_published": "2026-02-20T12:27:00+01:00",
+      "source": "PAP Biznes"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Columbus-Energy-wraca-do-2019-roku-Kurs-spolki-wykrwawia-sie-po-serii-informacji-9086791.html",
+      "url": "https://www.bankier.pl/wiadomosc/Columbus-Energy-wraca-do-2019-roku-Kurs-spolki-wykrwawia-sie-po-serii-informacji-9086791.html",
+      "title": "Columbus Energy wykrwawia się na giełdzie. Efekt wojny totalnej o Saule",
+      "content_html": "Mroźny luty dla akcjonariuszy Columbus Energy. Kurs spółki spadł w piątek, 20 lutego, poniżej 4 zł za akcję i był najniżej od 2019 r. Prawie 6 lat temu był jednak w podróży do poziomu 112 zł, teraz kierunek jest zupełnie inny. W tle rozgrywa...",
+      "date_published": "2026-02-20T12:15:00+01:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Wyniki-Nvidii-i-scheda-po-Buffecie-Tym-beda-zyly-rynki-w-koncowce-lutego-9086705.html",
+      "url": "https://www.bankier.pl/wiadomosc/Wyniki-Nvidii-i-scheda-po-Buffecie-Tym-beda-zyly-rynki-w-koncowce-lutego-9086705.html",
+      "title": "Wyniki Nvidii i scheda po Buffecie. Tym będą żyły rynki w końcówce lutego",
+      "content_html": "Luty na rynkach zakończy się mocnym akcentem w postaci wyników Nvidii, które poznamy w najbliższą środę. Sezon raportowy rozkręci się również na GPW, gdzie sprawozdania za IV kw. złożą m.in. największe polskie banki. Symbolicznym zamknięciem...",
+      "date_published": "2026-02-20T12:00:00+01:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Rozbudowa-Lotniska-Chopina-zaklepana-3-wielkie-banki-wyloza-fortune-na-modernizacje-portu-9086761.html",
+      "url": "https://www.bankier.pl/wiadomosc/Rozbudowa-Lotniska-Chopina-zaklepana-3-wielkie-banki-wyloza-fortune-na-modernizacje-portu-9086761.html",
+      "title": "Rozbudowa Lotniska Chopina zaklepana. 3 wielkie banki wyłożą fortunę na modernizację portu",
+      "content_html": "Spółka Polskie Porty Lotnicze podpisała w piątek umowę kredytową o wartości 3,3 mld zł z konsorcjum banków: Pekao, PKO BP i Bankiem Gospodarstwa Krajowego. Pozyskane środki mają umożliwić modernizację Lotniska Chopina i kapitałowe zaangażowanie...",
+      "date_published": "2026-02-20T11:59:00+01:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/rynki/rusza-konkurs-edukacyjny-beta-etf-challenge-dla-kol-naukowych-z-pula-nagrod-30-tys",
+      "url": "https://biznes.pap.pl/wiadomosci/rynki/rusza-konkurs-edukacyjny-beta-etf-challenge-dla-kol-naukowych-z-pula-nagrod-30-tys",
+      "title": "Rusza konkurs edukacyjny BETA ETF Challenge dla kół naukowych z pulą nagród 30 tys. zł",
+      "content_html": "BETA TFI ogłosiło start ogólnopolskiego konkursu „BETA ETF Challenge”, skierowanego do studenckich kół naukowych. Celem inicjatywy jest popularyzacja wiedzy o funduszach ETF i mechanizmach rynku kapit",
+      "date_published": "2026-02-20T11:48:00+01:00",
+      "source": "PAP Biznes"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Koniec-glosnego-procesu-Alpinista-skazany-za-smierc-partnerki-9086793.html",
+      "url": "https://www.bankier.pl/wiadomosc/Koniec-glosnego-procesu-Alpinista-skazany-za-smierc-partnerki-9086793.html",
+      "title": "Koniec głośnego procesu. Alpinista skazany za śmierć partnerki",
+      "content_html": "Austriacki alpinista został uznany za winnego nieumyślnego spowodowania śmierci swojej partnerki, która podczas wspólnej wyprawy pary w styczniu 2025 roku zamarzła na najwyższym szczycie Austrii, Grossglockner - poinformowała w piątek BBC.",
+      "date_published": "2026-02-20T11:45:00+01:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Ceny-paliw-ponownie-w-gore-Tak-na-stacjach-jak-i-w-rafineriach-9086792.html",
+      "url": "https://www.bankier.pl/wiadomosc/Ceny-paliw-ponownie-w-gore-Tak-na-stacjach-jak-i-w-rafineriach-9086792.html",
+      "title": "Ceny paliw ponownie w górę. Tak na stacjach, jak i w rafineriach",
+      "content_html": "Mijający tydzień przyniósł jak dotąd nieznaczne podwyżki przy dystrybutorach. Jednakże z powodu niekorzystnej dla kierowców sytuacji na światowych rynkach paliwowych można oczekiwać, że w najbliższym czasie będzie jeszcze drożej.",
+      "date_published": "2026-02-20T11:44:00+01:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Koniec-z-dyktatem-zwiazkow-Argentyna-przyjmuje-radykalne-reformy-prawa-pracy-9086785.html",
+      "url": "https://www.bankier.pl/wiadomosc/Koniec-z-dyktatem-zwiazkow-Argentyna-przyjmuje-radykalne-reformy-prawa-pracy-9086785.html",
+      "title": "Koniec z dyktatem związków? Argentyna przyjmuje radykalne reformy prawa pracy",
+      "content_html": "Mimo protestów na ulicach i strajku generalnego, zorganizowanego przez związki zawodowe, argentyńska Izba Deputowanych przyjęła w nocy z czwartku na piątek zmiany w prawie pracy, ważny element reform wolnorynkowych lansowanych przez prezydenta...",
+      "date_published": "2026-02-20T11:29:00+01:00",
+      "source": "Bankier.pl"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Trigon-DM-podwyzszyl-cene-docelowa-akcji-Budimeksu-do-900-zl-9086783.html",
       "url": "https://www.bankier.pl/wiadomosc/Trigon-DM-podwyzszyl-cene-docelowa-akcji-Budimeksu-do-900-zl-9086783.html",
-      "title": "Trigon DM podwyższył cenę docelową akcji Budimeksu Analitycy Trigon DM, w raporcie z 13 lutego, podwyższyli cenę docelową akcji Budimeksu do 900 zł z 700 zł poprzednio oraz podtrzymali rekomendację \"kupuj\".",
-      "content_html": "",
+      "title": "Trigon DM podwyższył cenę docelową akcji Budimeksu",
+      "content_html": "Analitycy Trigon DM, w raporcie z 13 lutego, podwyższyli cenę docelową akcji Budimeksu do 900 zł z 700 zł poprzednio oraz podtrzymali rekomendację \"kupuj\".",
       "date_published": "2026-02-20T11:26:00+01:00",
       "source": "Bankier.pl"
     },
@@ -61,6 +125,14 @@
       "source": "PAP Biznes"
     },
     {
+      "id": "https://www.bankier.pl/wiadomosc/Wenezuela-otwiera-bramy-wiezien-Delcy-Rodriguez-podpisala-ustawe-9086769.html",
+      "url": "https://www.bankier.pl/wiadomosc/Wenezuela-otwiera-bramy-wiezien-Delcy-Rodriguez-podpisala-ustawe-9086769.html",
+      "title": "Wenezuela otwiera bramy więzień. Delcy Rodriguez podpisała ustawę",
+      "content_html": "Wenezuelski parlament przyjął w czwartek ustawę o amnestii dla więźniów politycznych – poinformowała agencja Reutera. Dokument został od razu podpisany przez sprawującą tymczasowo urząd prezydenta Delcy Rodriguez.",
+      "date_published": "2026-02-20T11:04:00+01:00",
+      "source": "Bankier.pl"
+    },
+    {
       "id": "https://biznes.pap.pl/wiadomosci/firmy/dzien-na-gpw-piatkowa-sesja-bez-wyraznego-kierunku-koryguje-sie-kurs-orlenu",
       "url": "https://biznes.pap.pl/wiadomosci/firmy/dzien-na-gpw-piatkowa-sesja-bez-wyraznego-kierunku-koryguje-sie-kurs-orlenu",
       "title": "DZIEŃ NA GPW: Piątkowa sesja bez wyraźnego kierunku; koryguje się kurs Orlenu",
@@ -83,14 +155,6 @@
       "content_html": "Spółka Polskie Porty Lotnicze podpisała w piątek umowę kredytową o wartości 3,3 mld zł z konsorcjum banków: Pekao, PKO BP i Bankiem Gospodarstwa Krajowego. Pozyskane środki mają umożliwić modernizację",
       "date_published": "2026-02-20T10:59:00+01:00",
       "source": "PAP Biznes"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Rozbudowa-Lotniska-Chopina-zaklepana-3-wielkie-banki-wyloza-fortune-na-modernizacje-portu-9086761.html",
-      "url": "https://www.bankier.pl/wiadomosc/Rozbudowa-Lotniska-Chopina-zaklepana-3-wielkie-banki-wyloza-fortune-na-modernizacje-portu-9086761.html",
-      "title": "Rozbudowa Lotniska Chopina zaklepana. 3 wielkie banki wyłożą fortunę na modernizację portu",
-      "content_html": "Spółka Polskie Porty Lotnicze podpisała w piątek umowę kredytową o wartości 3,3 mld zł z konsorcjum banków: Pekao, PKO BP i Bankiem Gospodarstwa Krajowego. Pozyskane środki mają umożliwić modernizację Lotniska Chopina i kapitałowe zaangażowanie...",
-      "date_published": "2026-02-20T10:53:00+01:00",
-      "source": "Bankier.pl"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Goraco-w-JSW-Koks-Pracownicy-traca-premie-a-zarzad-mowi-o-nielegalnej-pikiecie-9086760.html",
@@ -171,22 +235,6 @@
       "content_html": "23 proc. szefów średnich i dużych firm chciałoby, aby Polska weszła do strefy euro, co oznacza spadek w stosunku do poprzedniego roku o 16 p.p. - wynika z badania Grant Thornton. Według raportu, powodem może być coraz bardziej stabilny złoty...",
       "date_published": "2026-02-20T10:08:00+01:00",
       "source": "Bankier.pl"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/gospodarka/23-proc-szefow-srednich-i-duzych-firm-chcialoby-aby-polska-weszla-do-strefy",
-      "url": "https://biznes.pap.pl/wiadomosci/gospodarka/23-proc-szefow-srednich-i-duzych-firm-chcialoby-aby-polska-weszla-do-strefy",
-      "title": "23 proc. szefów średnich i dużych firm chciałoby, aby Polska weszła do strefy euro - Grant Thornton",
-      "content_html": "23 proc. szefów średnich i dużych firm chciałoby, aby Polska weszła do strefy euro, co oznacza spadek w stosunku do poprzedniego roku o 16 p.p. - wynika z badania Grant Thornton. Według raportu, powod",
-      "date_published": "2026-02-20T10:07:00+01:00",
-      "source": "PAP Biznes"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/gospodarka/w-lutym-we-wszystkich-obszarach-gospodarki-odnotowano-stabilizacje-lub",
-      "url": "https://biznes.pap.pl/wiadomosci/gospodarka/w-lutym-we-wszystkich-obszarach-gospodarki-odnotowano-stabilizacje-lub",
-      "title": "W lutym we wszystkich obszarach gospodarki odnotowano stabilizację lub poprawę koniunktury - GUS",
-      "content_html": "W lutym 2026 r. we wszystkich badanych sektorach sygnalizowana jest stabilizacja lub poprawa koniunktury w gospodarce w stosunku do poprzedniego miesiąca - podał Główny Urząd Statystyczny. Dodano, że ",
-      "date_published": "2026-02-20T10:07:00+01:00",
-      "source": "PAP Biznes"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/EuroPMI-czy-to-jest-wreszcie-poczatek-ozywienia-w-strefie-euro-9086733.html",
@@ -341,6 +389,14 @@
       "source": "Bankier.pl"
     },
     {
+      "id": "https://biznes.pap.pl/wiadomosci/firmy/ceny-ropy-najwyzsze-od-6-miesiecy",
+      "url": "https://biznes.pap.pl/wiadomosci/firmy/ceny-ropy-najwyzsze-od-6-miesiecy",
+      "title": "Ceny ropy najwyższe od 6 miesięcy",
+      "content_html": "Ceny ropy naftowej są na najwyższym poziomie od 6 miesięcy w reakcji na eskalację napięcia w relacjach USA-Iran - informują maklerzy.",
+      "date_published": "2026-02-20T07:47:00+01:00",
+      "source": "PAP Biznes"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Koniec-koalicji-w-obecnym-ksztalcie-Wyciekly-szczegoly-nowej-strategii-9086644.html",
       "url": "https://www.bankier.pl/wiadomosc/Koniec-koalicji-w-obecnym-ksztalcie-Wyciekly-szczegoly-nowej-strategii-9086644.html",
       "title": "Koniec koalicji w obecnym kształcie? Wyciekły szczegóły nowej strategii",
@@ -387,6 +443,14 @@
       "content_html": "Prokuratura Okręgowa w Łomży (Podlaskie) przedstawiła zarzuty wobec przewodniczącego sejmiku województwa podlaskiego Cezarego Cieślukowskiego dotyczące złożenia fałszywych oświadczeń majątkowych w latach 2013-2019.",
       "date_published": "2026-02-20T07:30:00+01:00",
       "source": "Bankier.pl"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/rynki/ceny-miedzi-w-londynie-stabilne-ale-metal-konczy-slabo-kolejny-tydzien",
+      "url": "https://biznes.pap.pl/wiadomosci/rynki/ceny-miedzi-w-londynie-stabilne-ale-metal-konczy-slabo-kolejny-tydzien",
+      "title": "Ceny miedzi w Londynie stabilne, ale metal kończy słabo kolejny tydzień",
+      "content_html": "Notowania miedzi na giełdzie metali LME w Londynie są na stabilnym poziomie, ale w ujęciu tygodniowym metal zaliczy już 3. tydzień ze spadkiem notowań. To najdłuższe pasmo zniżek od 2024 r. - informuj",
+      "date_published": "2026-02-20T07:30:00+01:00",
+      "source": "PAP Biznes"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Nowy-etap-w-Korei-Polnocnej-Kim-Dzong-Un-Pokonalismy-najgorsze-trudnosci-9086677.html",
@@ -717,30 +781,6 @@
       "source": "Bankier.pl"
     },
     {
-      "id": "https://biznes.pap.pl/wiadomosci/firmy/nwz-sanok-rubber-company-upowaznilo-zarzad-do-nabywania-akcji-wlasnych-w-celu-ich",
-      "url": "https://biznes.pap.pl/wiadomosci/firmy/nwz-sanok-rubber-company-upowaznilo-zarzad-do-nabywania-akcji-wlasnych-w-celu-ich",
-      "title": "NWZ Sanok Rubber Company upoważniło zarząd do nabywania akcji własnych w celu ich umorzenia",
-      "content_html": "Walne zgromadzenie Sanok Rubber Company upoważniło zarząd do nabywania akcji własnych w celu ich umorzenia oraz utworzyło kapitał rezerwowy na potrzeby programu nabywania akcji - wynika z uchwał podję",
-      "date_published": "2026-02-19T20:02:00+01:00",
-      "source": "PAP Biznes"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/firmy/netflix-ma-srodki-przebic-oferte-paramount-dotyczaca-zakupu-warner-bros-discovery",
-      "url": "https://biznes.pap.pl/wiadomosci/firmy/netflix-ma-srodki-przebic-oferte-paramount-dotyczaca-zakupu-warner-bros-discovery",
-      "title": "Netflix ma środki, by przebić ofertę Paramount dotyczącą zakupu Warner Bros. Discovery - media",
-      "content_html": "Netflix dysponuje dużymi rezerwami gotówki i ma wystarczające środki, by przebić ofertę Paramount Skydance dotyczącą zakupu Warner Bros. Discovery (WBD), jeśli rywalizujący o tę akwizycję koncern zaof",
-      "date_published": "2026-02-19T20:00:00+01:00",
-      "source": "PAP Biznes"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/firmy/resort-aktywow-panstwowych-przyjal-definicje-local-content",
-      "url": "https://biznes.pap.pl/wiadomosci/firmy/resort-aktywow-panstwowych-przyjal-definicje-local-content",
-      "title": "Resort aktywów państwowych przyjął definicję local content",
-      "content_html": "Ministerstwo Aktywów Państwowych przyjęło definicję local content - przekazał w czwartek resort. Chodzi o zwiększenie udziału polskich firm przy kluczowych inwestycjach. MAP zapowiedział, że definicja",
-      "date_published": "2026-02-19T19:55:00+01:00",
-      "source": "PAP Biznes"
-    },
-    {
       "id": "https://www.bankier.pl/wiadomosc/Netflix-ma-srodki-by-przebic-Paramount-ws-zakupu-Warner-Bros-Discovery-9086554.html",
       "url": "https://www.bankier.pl/wiadomosc/Netflix-ma-srodki-by-przebic-Paramount-ws-zakupu-Warner-Bros-Discovery-9086554.html",
       "title": "Netflix ma środki, by przebić Paramount ws. zakupu Warner Bros. Discovery",
@@ -797,22 +837,6 @@
       "source": "Bankier.pl"
     },
     {
-      "id": "https://biznes.pap.pl/wiadomosci/rynki/zamkniecia-na-gieldach-w-europie-tabela-2826",
-      "url": "https://biznes.pap.pl/wiadomosci/rynki/zamkniecia-na-gieldach-w-europie-tabela-2826",
-      "title": "Zamknięcia na giełdach w Europie (tabela)",
-      "content_html": "Poniżej zamknięcia i zmiany wybranych indeksów giełdowych w Europie.",
-      "date_published": "2026-02-19T18:01:00+01:00",
-      "source": "PAP Biznes"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/rynki/dzien-na-rynkach-spadki-na-europejskich-gieldach-nie-pomagaly-wyniki-spolek",
-      "url": "https://biznes.pap.pl/wiadomosci/rynki/dzien-na-rynkach-spadki-na-europejskich-gieldach-nie-pomagaly-wyniki-spolek",
-      "title": "DZIEŃ NA RYNKACH: Spadki na europejskich giełdach, nie pomagały wyniki spółek",
-      "content_html": "Europejskie rynki akcji zakończyły czwartkową sesję pod kreską, przy rozczarowujących dla rynku wynikach dużych spółek przemysłowych. W oczekiwaniu na rozwój sytuacji USA-Iran kolejną sesję wyraźnie z",
-      "date_published": "2026-02-19T17:59:00+01:00",
-      "source": "PAP Biznes"
-    },
-    {
       "id": "https://www.bankier.pl/wiadomosc/Karol-Nawrocki-zatrzymal-zmiany-w-rolnictwie-Przepisy-premiuja-wielkie-podmioty-9086440.html",
       "url": "https://www.bankier.pl/wiadomosc/Karol-Nawrocki-zatrzymal-zmiany-w-rolnictwie-Przepisy-premiuja-wielkie-podmioty-9086440.html",
       "title": "Karol Nawrocki zatrzymał zmiany w rolnictwie. \"Przepisy premiują wielkie podmioty\"",
@@ -853,30 +877,6 @@
       "source": "Bankier.pl"
     },
     {
-      "id": "https://biznes.pap.pl/wiadomosci/firmy/prezydent-podpisal-nowelizacje-ustawy-o-ksc-ale-wyslal-ja-do-tk-opis",
-      "url": "https://biznes.pap.pl/wiadomosci/firmy/prezydent-podpisal-nowelizacje-ustawy-o-ksc-ale-wyslal-ja-do-tk-opis",
-      "title": "Prezydent podpisał nowelizację ustawy o KSC, ale wysłał ją do TK (opis)",
-      "content_html": "Prezydent Karol Nawrocki podpisał ustawę o Krajowym Systemie Cyberbezpieczeństwa, ale aspekt noweli dotyczący obowiązków nakładanych na przedsiębiorców skierował do Trybunału Konstytucyjnego z wnioski",
-      "date_published": "2026-02-19T17:01:00+01:00",
-      "source": "PAP Biznes"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/ekonomia-biznes-i-finanse/skrot-wiadomosci-czwartek-19-lutego-1700",
-      "url": "https://biznes.pap.pl/wiadomosci/ekonomia-biznes-i-finanse/skrot-wiadomosci-czwartek-19-lutego-1700",
-      "title": "Skrót wiadomości - czwartek, 19 lutego, 17.00",
-      "content_html": "Przegląd najważniejszych wiadomości gospodarczych, krajowych i ze świata.",
-      "date_published": "2026-02-19T17:00:00+01:00",
-      "source": "PAP Biznes"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/gospodarka/dzien-na-fxfi-pln-lekko-slabszy-po-danych-gus-rentownosci-spw-w-trendzie",
-      "url": "https://biznes.pap.pl/wiadomosci/gospodarka/dzien-na-fxfi-pln-lekko-slabszy-po-danych-gus-rentownosci-spw-w-trendzie",
-      "title": "DZIEŃ NA FX/FI: PLN lekko słabszy po danych GUS; rentowności SPW w trendzie spadkowym",
-      "content_html": "Polska waluta po publikacji danych z krajowej gospodarki lekko osłabiła się wobec euro i dolara. Rentowności obligacji skarbowych lekko spadły. Zdaniem strategów, w piątek złoty będzie pod wpływem czy",
-      "date_published": "2026-02-19T16:41:00+01:00",
-      "source": "PAP Biznes"
-    },
-    {
       "id": "https://www.bankier.pl/wiadomosc/Akcjonariusze-Asseco-za-zmniejszeniem-ilosci-akcji-wlasnych-spolki-do-umorzenia-do-ok-1-3-proc-9086436.html",
       "url": "https://www.bankier.pl/wiadomosc/Akcjonariusze-Asseco-za-zmniejszeniem-ilosci-akcji-wlasnych-spolki-do-umorzenia-do-ok-1-3-proc-9086436.html",
       "title": "Akcjonariusze Asseco za zmniejszeniem ilości akcji własnych spółki do umorzenia do ok. 1,3 proc.",
@@ -891,14 +891,6 @@
       "content_html": "Na listę ostrzeżeń publicznych Komisji Nadzoru Finansowego trafił nowy podmiot: Mobilnej Polska Banku SA – mpbo2.pl - poinformowała w czwartek KNF.",
       "date_published": "2026-02-19T16:35:00+01:00",
       "source": "Bankier.pl"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/firmy/akcjonariusze-asseco-za-zmniejszeniem-ilosci-akcji-wlasnych-spolki-do-umorzenia-do",
-      "url": "https://biznes.pap.pl/wiadomosci/firmy/akcjonariusze-asseco-za-zmniejszeniem-ilosci-akcji-wlasnych-spolki-do-umorzenia-do",
-      "title": "Akcjonariusze Asseco za zmniejszeniem ilości akcji własnych spółki do umorzenia do ok. 1,3 proc.",
-      "content_html": "Akcjonariusze Asseco Poland, Adam Góral Fundacja Rodzinna (AGFR) oraz TSS Europe B.V., proponują zmniejszenie liczby akcji własnych podlegających umorzeniu z 3 proc. do około 1,3 proc. - podała spółka",
-      "date_published": "2026-02-19T16:34:00+01:00",
-      "source": "PAP Biznes"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Strajk-sparalizowal-Argentyne-Setki-odwolanych-lotow-i-zamkniete-banki-9086417.html",
@@ -925,14 +917,6 @@
       "source": "Bankier.pl"
     },
     {
-      "id": "https://biznes.pap.pl/wiadomosci/gospodarka/euro-w-ebc-11753-usd-i-18205-jpy",
-      "url": "https://biznes.pap.pl/wiadomosci/gospodarka/euro-w-ebc-11753-usd-i-18205-jpy",
-      "title": "Euro w EBC: 1,1753 USD i 182,05 JPY",
-      "content_html": "Europejski Bank Centralny (EBC) ustalił kurs euro na 1,1753 USD i 182,05 JPY - podał bank na swojej stronie internetowej.",
-      "date_published": "2026-02-19T15:56:00+01:00",
-      "source": "PAP Biznes"
-    },
-    {
       "id": "https://www.bankier.pl/wiadomosc/USA-Iran-u-progu-wojny-Na-rynku-ropy-nerwowo-9086393.html",
       "url": "https://www.bankier.pl/wiadomosc/USA-Iran-u-progu-wojny-Na-rynku-ropy-nerwowo-9086393.html",
       "title": "USA-Iran u progu wojny? Na rynku ropy nerwowo",
@@ -947,14 +931,6 @@
       "content_html": "Europejska Agencja Straży Granicznej i Przybrzeżnej (Frontex) musi zostać wzmocniona, ale nie może zastąpić państw członkowskich w kontrolowaniu bezpieczeństwa granic – wynika z dokumentu przekazanego Komisji Europejskiej i podpisanego przez...",
       "date_published": "2026-02-19T15:47:00+01:00",
       "source": "Bankier.pl"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/rynki/po-otwarciu-sesji-dji-traci-04-proc-sp-500-znizkuje-04-proc",
-      "url": "https://biznes.pap.pl/wiadomosci/rynki/po-otwarciu-sesji-dji-traci-04-proc-sp-500-znizkuje-04-proc",
-      "title": "Po otwarciu sesji DJI traci 0,4 proc., a S&P 500 zniżkuje 0,4 proc.",
-      "content_html": "Po otwarciu sesji w USA Dow Jones Industrial traci 0,4 proc. do 49.470 pkt., S&P500 idzie w dół o 0,4 proc. i wynosi 6.857 pkt.",
-      "date_published": "2026-02-19T15:32:00+01:00",
-      "source": "PAP Biznes"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Wsparcie-dla-Ukrainy-Szwecja-wysyla-miliardy-dolarow-i-sprzet-9086373.html",
@@ -1071,25 +1047,17 @@
     {
       "id": "https://www.bankier.pl/wiadomosc/Historyczny-zysk-Pekao-i-szczere-wyznanie-prezesa-Trudne-do-powtorzenia-9086283.html",
       "url": "https://www.bankier.pl/wiadomosc/Historyczny-zysk-Pekao-i-szczere-wyznanie-prezesa-Trudne-do-powtorzenia-9086283.html",
-      "title": "Historyczny zysk Pekao i szczere wyznanie prezesa. „Trudne do powtórzenia”",
-      "content_html": "Zysk netto Banku Pekao za 2025 r., najwyższy w historii, pewnie będzie trudny do powtórzenia - uważa prezes banku Cezary Stypułkowski. Odnosząc się do reorganizacji Grupy PZU wskazał, że z punktu widzenia realizacji transakcji Pekao jest w zasadzie...",
+      "title": "Historyczny zysk Pekao i szczere wyznanie prezesa. „Trudne do powtórzenia” Zysk netto Banku Pekao za 2025 r., najwyższy w historii, pewnie będzie trudny do powtórzenia - uważa prezes banku Cezary Stypułkowski. Odnosząc się do reorganizacji Grupy PZU wskazał, że z punktu widzenia realizacji transakcji Pekao jest w zasadzie gotowe, a warunkiem jest legislacja.",
+      "content_html": "",
       "date_published": "2026-02-19T13:52:00+01:00",
       "source": "Bankier.pl"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/NWZ-Stalexport-Autostrady-nie-zatwierdzilo-strategii-grupy-na-lata-2026-2030-9086261.html",
       "url": "https://www.bankier.pl/wiadomosc/NWZ-Stalexport-Autostrady-nie-zatwierdzilo-strategii-grupy-na-lata-2026-2030-9086261.html",
-      "title": "Stalexport Autostrady bez strategii na okres po koncesji na autostradę A4 Katowice-Kraków",
-      "content_html": "Walne zgromadzenie Stalexport Autostrady nie zatwierdziło treści strategii grupy na lata 2026-2030 (z perspektywą do roku 2035) - podała spółka w komunikacie.",
+      "title": "Stalexport Autostrady bez strategii na okres po koncesji na autostradę A4 Katowice-Kraków Walne zgromadzenie Stalexport Autostrady nie zatwierdziło treści strategii grupy na lata 2026-2030 (z perspektywą do roku 2035) - podała spółka w komunikacie.",
+      "content_html": "",
       "date_published": "2026-02-19T13:50:00+01:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Razem-proponuje-rewolucje-w-przedszkolach-18-dzieci-zamiast-25-9086273.html",
-      "url": "https://www.bankier.pl/wiadomosc/Razem-proponuje-rewolucje-w-przedszkolach-18-dzieci-zamiast-25-9086273.html",
-      "title": "Razem proponuje rewolucję w przedszkolach: 18 dzieci zamiast 25",
-      "content_html": "Politycy Partii Razem poinformowali w czwartek, że złożyli do Sejmu projekt ustawy mającej zapobiec przepełnianiu się przedszkoli. Zakłada on wprowadzenie ustawowego limitu 18 dzieci w jednym oddziale przedszkolnym. Do tej pory limity te co roku...",
-      "date_published": "2026-02-19T13:40:00+01:00",
       "source": "Bankier.pl"
     },
     {
@@ -1101,27 +1069,11 @@
       "source": "PAP Biznes"
     },
     {
-      "id": "https://www.bankier.pl/wiadomosc/Europejski-nakaz-aresztowania-Ziobry-Sedzia-Lubowski-wylaczony-ze-sprawy-9086270.html",
-      "url": "https://www.bankier.pl/wiadomosc/Europejski-nakaz-aresztowania-Ziobry-Sedzia-Lubowski-wylaczony-ze-sprawy-9086270.html",
-      "title": "Europejski nakaz aresztowania Ziobry? Sędzia Łubowski wyłączony ze sprawy",
-      "content_html": "Uwzględniony został wniosek Prokuratury Krajowej o wyłączenie sędziego Dariusza Łubowskiego od orzekania w sprawie wniosku o wydanie europejskiego nakazu aresztowania (ENA) wobec byłego szefa MS, posła PiS, Zbigniewa Ziobry - poinformował w czwartek...",
-      "date_published": "2026-02-19T13:19:00+01:00",
-      "source": "Bankier.pl"
-    },
-    {
       "id": "https://www.bankier.pl/wiadomosc/ETF-y-na-IKE-i-IKZE-bez-prowizji-Promocja-mBank-zostaje-na-stale-9086247.html",
       "url": "https://www.bankier.pl/wiadomosc/ETF-y-na-IKE-i-IKZE-bez-prowizji-Promocja-mBank-zostaje-na-stale-9086247.html",
-      "title": "ETF-y na IKE i IKZE bez prowizji na stałe. Zmiana w tabeli opłat popularnego biura maklerskiego",
-      "content_html": "Promocja znosząca prowizje dla transakcji kupna i sprzedaży ponad 450 ETF-ów na rachunkach IKE i IKZE w biurze maklerskim mBanku miała trwać do końca lutego 2026 roku. Jak okazało się jednak 19.02, zostanie ona na stałe, jako wpis do Tabeli Opłat...",
+      "title": "ETF-y na IKE i IKZE bez prowizji na stałe. Zmiana w tabeli opłat popularnego biura maklerskiego Promocja znosząca prowizje dla transakcji kupna i sprzedaży ponad 450 ETF-ów na rachunkach IKE i IKZE w biurze maklerskim mBanku miała trwać do końca lutego 2026 roku. Jak okazało się jednak 19.02, zostanie ona na stałe, jako wpis do Tabeli Opłat i Prowizji.",
+      "content_html": "",
       "date_published": "2026-02-19T13:15:00+01:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Afera-korupcyjna-na-Ukrainie-Byly-minister-energetyki-kluczowa-osoba-9086266.html",
-      "url": "https://www.bankier.pl/wiadomosc/Afera-korupcyjna-na-Ukrainie-Byly-minister-energetyki-kluczowa-osoba-9086266.html",
-      "title": "Afera korupcyjna na Ukrainie. \"Były minister energetyki kluczową osobą\"",
-      "content_html": "Były minister energetyki Ukrainy Herman Hałuszczenko był kluczową osobą w aferze korupcyjnej w sektorze energetycznym pod kryptonimem „Midas” – ogłosiło w czwartek Narodowe Biuro Antykorupcyjne Ukrainy (NABU).",
-      "date_published": "2026-02-19T13:12:00+01:00",
       "source": "Bankier.pl"
     },
     {
@@ -1131,14 +1083,6 @@
       "content_html": "Walne zgromadzenie Stalexport Autostrady nie zatwierdziło treści strategii grupy na lata 2026-2030 (z perspektywą do roku 2035) - podała spółka w komunikacie.",
       "date_published": "2026-02-19T13:02:00+01:00",
       "source": "PAP Biznes"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Wegry-uwolnily-rezerwy-ropy-Rozwazamy-wstrzymanie-eksportu-energii-na-Ukraine-9086243.html",
-      "url": "https://www.bankier.pl/wiadomosc/Wegry-uwolnily-rezerwy-ropy-Rozwazamy-wstrzymanie-eksportu-energii-na-Ukraine-9086243.html",
-      "title": "Węgry uwolniły rezerwy ropy. \"Rozważamy wstrzymanie eksportu energii na Ukrainę\"",
-      "content_html": "Gergely Gulyas, szef kancelarii premiera Węgier Viktora Orbana, poinformował w czwartek o uwolnieniu strategicznych rezerw ropy naftowej. W poniedziałek zwrócił się o to koncern naftowy MOL. Polityk dodał, że węgierski rząd rozważa również...",
-      "date_published": "2026-02-19T12:47:00+01:00",
-      "source": "Bankier.pl"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Oferta-Elektrotim-za-19-5-mln-zl-wybrana-jako-najkorzystniejsza-w-przetargu-Tauronu-Dystrybucja-9086232.html",
@@ -1155,70 +1099,6 @@
       "content_html": "",
       "date_published": "2026-02-19T12:30:00+01:00",
       "source": "Bankier.pl"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/firmy/oferta-elektrotim-za-195-mln-zl-wybrana-jako-najkorzystniejsza-w-przetargu-tauronu",
-      "url": "https://biznes.pap.pl/wiadomosci/firmy/oferta-elektrotim-za-195-mln-zl-wybrana-jako-najkorzystniejsza-w-przetargu-tauronu",
-      "title": "Oferta Elektrotim za 19,5 mln zł wybrana jako najkorzystniejsza w przetargu Tauronu Dystrybucja",
-      "content_html": "Oferta Elektrotim za 19,5 mln zł została wybrana jako najkorzystniejsza w przetargu Tauronu Dystrybucja na przebudowę linii 110kV Radzionków-Julian, Bolko-Rozalia od odczepu do SE Pogoda do SE Julian ",
-      "date_published": "2026-02-19T12:28:00+01:00",
-      "source": "PAP Biznes"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/firmy/podpisano-term-sheet-z-nfosigw-okreslajacy-warunki-biznesowe-inwestycji-w-0",
-      "url": "https://biznes.pap.pl/wiadomosci/firmy/podpisano-term-sheet-z-nfosigw-okreslajacy-warunki-biznesowe-inwestycji-w-0",
-      "title": "Podpisano term sheet z NFOŚiGW określający warunki biznesowe inwestycji w Jaworznie - EMP (opis)",
-      "content_html": "ElectroMobility Poland (EMP) podpisało term sheet z NFOŚiGW określający warunki biznesowe inwestycji w Jaworznie. Wartość umowy wynosi 4,5 mld złotych - poinformowała spółka w informacji prasowej. Cho",
-      "date_published": "2026-02-19T12:07:00+01:00",
-      "source": "PAP Biznes"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Pekao-ocenia-ze-trudno-bedzie-powtorzyc-wynik-netto-z-25-i-utrzymac-poziom-marzy-odsetkowej-9086151.html",
-      "url": "https://www.bankier.pl/wiadomosc/Pekao-ocenia-ze-trudno-bedzie-powtorzyc-wynik-netto-z-25-i-utrzymac-poziom-marzy-odsetkowej-9086151.html",
-      "title": "Pekao ocenia, że trudno będzie powtórzyć wynik netto z '25 i utrzymać poziom marży odsetkowej Bank Pekao ocenia, że trudno będzie powtórzyć roczny zysk netto na poziomie 7 mld zł, głównie ze względu na środowisko regulacyjne i stopy proc. Trudne będzie też utrzymanie poziomu marży odsetkowej - poinformowali w czwartek przedstawiciele banku.",
-      "content_html": "",
-      "date_published": "2026-02-19T12:04:00+01:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/firmy/pekao-ocenia-ze-trudno-bedzie-powtorzyc-wynik-netto-z-25-i-utrzymac-poziom-marzy-0",
-      "url": "https://biznes.pap.pl/wiadomosci/firmy/pekao-ocenia-ze-trudno-bedzie-powtorzyc-wynik-netto-z-25-i-utrzymac-poziom-marzy-0",
-      "title": "Pekao ocenia, że trudno będzie powtórzyć wynik netto z '25 i utrzymać poziom marży odsetkowej (opis)",
-      "content_html": "Bank Pekao ocenia, że trudno będzie powtórzyć roczny zysk netto na poziomie 7 mld zł, głównie ze względu na środowisko regulacyjne i stopy proc. Trudne będzie też utrzymanie poziomu marży odsetkowej -",
-      "date_published": "2026-02-19T12:00:00+01:00",
-      "source": "PAP Biznes"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/gospodarka/bgk-sprzedal-cztery-serie-obligacji-fpc-za-188-mld-zl-przy-popycie-27-mld-zl",
-      "url": "https://biznes.pap.pl/wiadomosci/gospodarka/bgk-sprzedal-cztery-serie-obligacji-fpc-za-188-mld-zl-przy-popycie-27-mld-zl",
-      "title": "BGK sprzedał cztery serie obligacji FPC za 1,88 mld zł, przy popycie 2,7 mld zł",
-      "content_html": "Bank Gospodarstwa Krajowego sprzedał obligacje serii FPC0229, FPC0231, FPC0332 i FPC0235 za łącznie 1,877 mld zł przy popycie 2,738 mld zł - podał bank w komunikacie.",
-      "date_published": "2026-02-19T12:00:00+01:00",
-      "source": "PAP Biznes"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Bank-Pekao-przygotowany-do-reorganizacji-kapitalowej-PZU-i-Pekao-transakcja-ma-sens-prezes-9086203.html",
-      "url": "https://www.bankier.pl/wiadomosc/Bank-Pekao-przygotowany-do-reorganizacji-kapitalowej-PZU-i-Pekao-transakcja-ma-sens-prezes-9086203.html",
-      "title": "Prezes o fuzji Pekao i PZU: transakcja ma sens Bank Pekao ocenia, że jest przygotowany do zapowiadanej reorganizacji kapitałowej PZU i Pekao, ale do ustalenia pozostaje kwestia legislacji - poinformował prezes Cezary Stypułkowski. W jego ocenie, transakcja ma sens z punktu widzenia akcjonariuszy.",
-      "content_html": "",
-      "date_published": "2026-02-19T11:38:00+01:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/firmy/bank-pekao-przygotowany-do-reorganizacji-kapitalowej-pzu-i-pekao-transakcja-ma",
-      "url": "https://biznes.pap.pl/wiadomosci/firmy/bank-pekao-przygotowany-do-reorganizacji-kapitalowej-pzu-i-pekao-transakcja-ma",
-      "title": "Bank Pekao przygotowany do reorganizacji kapitałowej PZU i Pekao; transakcja ma sens - prezes",
-      "content_html": "Bank Pekao ocenia, że jest przygotowany do zapowiadanej reorganizacji kapitałowej PZU i Pekao, ale do ustalenia pozostaje kwestia legislacji - poinformował prezes Cezary Stypułkowski. W jego ocenie, t",
-      "date_published": "2026-02-19T11:37:00+01:00",
-      "source": "PAP Biznes"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/gospodarka/finansowanie-grupy-ebi-w-polsce-w-25-wynioslo-8-mld-euro-o-40-proc-wiecej-0",
-      "url": "https://biznes.pap.pl/wiadomosci/gospodarka/finansowanie-grupy-ebi-w-polsce-w-25-wynioslo-8-mld-euro-o-40-proc-wiecej-0",
-      "title": "Finansowanie Grupy EBI w Polsce w '25 wyniosło 8 mld euro, o 40 proc. więcej rdr (opis)",
-      "content_html": "Grupa Europejskiego Banku Inwestycyjnego (EBI) udzieliła w Polsce w 2025 r. finansowania o wartości 8 mld euro, co oznacza wzrost o 40 proc. w ujęciu rok do roku. EBI ma ambicje, aby w 2026 r. udzieli",
-      "date_published": "2026-02-19T11:36:00+01:00",
-      "source": "PAP Biznes"
     }
   ]
 }
