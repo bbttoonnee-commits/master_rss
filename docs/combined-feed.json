@@ -5,12 +5,60 @@
   "home_page_url": "https://www.bankier.pl",
   "items": [
     {
+      "id": "https://biznes.pap.pl/wiadomosci/ekonomia-biznes-i-finanse/skrot-wiadomosci-piatek-20-lutego-2115",
+      "url": "https://biznes.pap.pl/wiadomosci/ekonomia-biznes-i-finanse/skrot-wiadomosci-piatek-20-lutego-2115",
+      "title": "Skrót wiadomości - piątek, 20 lutego, 21.15",
+      "content_html": "Przegląd najważniejszych wiadomości gospodarczych, krajowych i ze świata.",
+      "date_published": "2026-02-20T21:20:00+01:00",
+      "source": "PAP Biznes"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/gospodarka/trump-oskarzyl-sad-najwyzszy-o-uleganie-obcym-wplywom-i-zapowiedzial-nowe-10",
+      "url": "https://biznes.pap.pl/wiadomosci/gospodarka/trump-oskarzyl-sad-najwyzszy-o-uleganie-obcym-wplywom-i-zapowiedzial-nowe-10",
+      "title": "Trump oskarżył Sąd Najwyższy o uleganie obcym wpływom i zapowiedział nowe 10-procentowe globalne cło (opis)",
+      "content_html": "Prezydent USA Donald Trump oskarżył w piątek Sąd Najwyższy o uleganie obcym wpływom oraz zapowiedział wprowadzenie nowych tymczasowych 10-procentowych ceł na towary z całego świata. To reakcja prezyde",
+      "date_published": "2026-02-20T21:04:00+01:00",
+      "source": "PAP Biznes"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Trump-Sedziowie-Sadu-Najwyzszego-mnie-zawiedli-sa-hanba-dla-narodu-9087086.html",
+      "url": "https://www.bankier.pl/wiadomosc/Trump-Sedziowie-Sadu-Najwyzszego-mnie-zawiedli-sa-hanba-dla-narodu-9087086.html",
+      "title": "Sąd tylko wzmocnił moje uprawnienia. Trump ogłasza nową globalną stawkę ceł",
+      "content_html": "Prezydent USA Donald Trump oskarżył w piątek Sąd Najwyższy o uleganie obcym wpływom oraz zapowiedział wprowadzenie nowych tymczasowych 10-procentowych ceł na towary z całego świata. To reakcja prezydenta na unieważnienie przez Sąd większości...",
+      "date_published": "2026-02-20T20:43:00+01:00",
+      "source": "Bankier.pl"
+    },
+    {
       "id": "https://biznes.pap.pl/wiadomosci/gospodarka/trump-zapowiedzial-nalozenie-dodatkowych-10-proc-globalnych-cel-aktl",
       "url": "https://biznes.pap.pl/wiadomosci/gospodarka/trump-zapowiedzial-nalozenie-dodatkowych-10-proc-globalnych-cel-aktl",
       "title": "Trump zapowiedział nałożenie dodatkowych 10-proc. globalnych ceł (aktl.)",
       "content_html": "Prezydent USA Donald Trump ogłosił w piątek, że nałoży nową 10-procentową globalną stawkę ceł i zapowiedział użycie innych alternatyw w obliczu unieważnienia większości dotychczasowych ceł przez Sąd N",
       "date_published": "2026-02-20T20:23:00+01:00",
       "source": "PAP Biznes"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Dokument-trafi-do-USA-za-2-3-dni-Iran-przygotowuje-propozycje-porozumienia-nuklearnego-9087104.html",
+      "url": "https://www.bankier.pl/wiadomosc/Dokument-trafi-do-USA-za-2-3-dni-Iran-przygotowuje-propozycje-porozumienia-nuklearnego-9087104.html",
+      "title": "Dokument trafi do USA za 2-3 dni? Iran przygotowuje propozycję porozumienia nuklearnego",
+      "content_html": "Szef irańskiej dyplomacji Abbas Aragczi oświadczył w piątek, że projekt porozumienia nuklearnego będzie gotowy „w ciągu dwóch-trzech dni”, a następnie Iran przedstawi go Stanom Zjednoczonym.",
+      "date_published": "2026-02-20T20:22:00+01:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Po-obaleniu-Maduro-przez-USA-Hiszpania-widzi-poprawe-i-chce-zdjecia-sankcji-9087102.html",
+      "url": "https://www.bankier.pl/wiadomosc/Po-obaleniu-Maduro-przez-USA-Hiszpania-widzi-poprawe-i-chce-zdjecia-sankcji-9087102.html",
+      "title": "Po obaleniu Maduro przez USA: Hiszpania widzi poprawę i chce zdjęcia sankcji",
+      "content_html": "Hiszpania zwróci się do Unii Europejskiej o zniesienie sankcji z p.o. prezydent Wenezueli Delcy Rodriguez, aby wysłać sygnał, że sytuacja w tym południowoamerykańskim kraju zmienia się na lepsze – poinformował w piątek szef hiszpańskiej...",
+      "date_published": "2026-02-20T20:18:00+01:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Rosyjska-ropa-znow-dzieli-Europe-Ukraina-zakreca-kurek-Wegry-blokuja-unijne-miliardy-9087100.html",
+      "url": "https://www.bankier.pl/wiadomosc/Rosyjska-ropa-znow-dzieli-Europe-Ukraina-zakreca-kurek-Wegry-blokuja-unijne-miliardy-9087100.html",
+      "title": "Rosyjska ropa znów dzieli Europę. Ukraina zakręca kurek, Węgry blokują unijne miliardy",
+      "content_html": "Będziemy blokować 90-miliardową pożyczkę UE dla Ukrainy do czasu wznowienia tranzytu ropy naftowej na Węgry rurociągiem Przyjaźń - ogłosił w piątek na X minister spraw zagranicznych Węgier Peter Szijjarto.",
+      "date_published": "2026-02-20T20:10:00+01:00",
+      "source": "Bankier.pl"
     },
     {
       "id": "https://biznes.pap.pl/wiadomosci/gospodarka/trump-zapowiedzial-podpisanie-w-piatek-rozporzadzenia-o-nalozeniu-dodatkowych",
@@ -37,6 +85,14 @@
       "source": "PAP Biznes"
     },
     {
+      "id": "https://www.bankier.pl/wiadomosc/Nowe-prawo-dla-wspolnot-mieszkaniowych-Zyskaja-zdolnosc-prawna-9087091.html",
+      "url": "https://www.bankier.pl/wiadomosc/Nowe-prawo-dla-wspolnot-mieszkaniowych-Zyskaja-zdolnosc-prawna-9087091.html",
+      "title": "Nowe prawo dla wspólnot mieszkaniowych. Zyskają zdolność prawną",
+      "content_html": "Wspólnoty mieszkaniowe uzyskają zdolność prawną, a nieruchomości zaprojektowane jako budynki zamieszkania zbiorowego, m.in. tzw. aparthotele, nie będą mogły być dzielone na samodzielne mieszkania - przewiduje projekt ustawy dotyczący własności...",
+      "date_published": "2026-02-20T19:46:00+01:00",
+      "source": "Bankier.pl"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/KRRiT-krytykuje-projekty-Ministerstwa-Cyfryzacji-Wdrazanie-DSA-w-Polsce-budzi-kontrowersje-9087089.html",
       "url": "https://www.bankier.pl/wiadomosc/KRRiT-krytykuje-projekty-Ministerstwa-Cyfryzacji-Wdrazanie-DSA-w-Polsce-budzi-kontrowersje-9087089.html",
       "title": "KRRiT krytykuje projekty Ministerstwa Cyfryzacji. Wdrażanie DSA w Polsce budzi kontrowersje",
@@ -50,14 +106,6 @@
       "title": "Nowa Zelandia nałożyła sankcje na 100 rosyjskich statków z floty cieni",
       "content_html": "Nowa Zelandia wprowadziła jeden z najbardziej dotkliwych pakietów sankcji przeciwko rosyjskim operacjom morskim, nakładając sankcje na 23 osoby, 13 podmiotów i 100 statków należących do rosyjskiej floty cieni - poinformowało w piątek nowozelandzkie...",
       "date_published": "2026-02-20T19:41:00+01:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Trump-Sedziowie-Sadu-Najwyzszego-mnie-zawiedli-sa-hanba-dla-narodu-9087086.html",
-      "url": "https://www.bankier.pl/wiadomosc/Trump-Sedziowie-Sadu-Najwyzszego-mnie-zawiedli-sa-hanba-dla-narodu-9087086.html",
-      "title": "Sąd tylko wzmocnił moje uprawnienia. Trump ogłasza nową globalną stawkę ceł",
-      "content_html": "Prezydent USA Donald Trump ogłosił w piątek, że nałoży nową 10-procentową globalną stawkę ceł i zapowiedział użycie innych alternatyw w obliczu unieważnienia większości dotychczasowych ceł przez Sąd Najwyższy. Prezydent ocenił, że...",
-      "date_published": "2026-02-20T19:33:00+01:00",
       "source": "Bankier.pl"
     },
     {
@@ -245,28 +293,12 @@
       "source": "PAP Biznes"
     },
     {
-      "id": "https://biznes.pap.pl/wiadomosci/firmy/dzien-na-gpw-nastroje-na-gpw-lekko-slabsze-przyszly-tydzien-pod-znakiem-m",
-      "url": "https://biznes.pap.pl/wiadomosci/firmy/dzien-na-gpw-nastroje-na-gpw-lekko-slabsze-przyszly-tydzien-pod-znakiem-m",
-      "title": "DZIEŃ NA GPW: Nastroje na GPW lekko słabsze; przyszły tydzień pod znakiem m. in. geopolityki",
-      "content_html": "W piątek po południu nastroje na GPW lekko pogorszyły się, szczególnie wobec segmentu energetycznego. O 9 proc. spada kurs Kruka. Zdaniem analityków, rynkowi brakuje argumentów przemawiających za wzro",
-      "date_published": "2026-02-20T16:10:00+01:00",
-      "source": "PAP Biznes"
-    },
-    {
       "id": "https://www.bankier.pl/wiadomosc/Polska-poza-Konwencja-Ottawska-Sikorski-ostro-o-obronie-granic-9086954.html",
       "url": "https://www.bankier.pl/wiadomosc/Polska-poza-Konwencja-Ottawska-Sikorski-ostro-o-obronie-granic-9086954.html",
       "title": "Polska poza Konwencją Ottawską. Sikorski ostro o obronie granic",
       "content_html": "Skoro Rosja, nasz sąsiad, zaczęła najeżdżać naszych innych sąsiadów, to Polska nie była w stanie utrzymać się w Konwencji Ottawskiej - stwierdził wicepremier, szef MSZ Radosław Sikorski. Pola minowe są skutecznym sposobem spowalniania, czy...",
       "date_published": "2026-02-20T16:04:00+01:00",
       "source": "Bankier.pl"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/gospodarka/euro-w-ebc-11767-usd-i-18263-jpy",
-      "url": "https://biznes.pap.pl/wiadomosci/gospodarka/euro-w-ebc-11767-usd-i-18263-jpy",
-      "title": "Euro w EBC: 1,1767 USD i 182,63 JPY",
-      "content_html": "Europejski Bank Centralny (EBC) ustalił kurs euro na 1,1767 USD i 182,63 JPY - podał bank na swojej stronie internetowej.",
-      "date_published": "2026-02-20T15:58:00+01:00",
-      "source": "PAP Biznes"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Polska-i-Kanada-zaciesniaja-wspolprace-W-planach-inwestycje-w-rope-gaz-i-zloza-miedzi-9086943.html",
@@ -445,6 +477,14 @@
       "source": "Bankier.pl"
     },
     {
+      "id": "https://biznes.pap.pl/wiadomosci/rynki/dzien-na-rynkach-gieldowe-futures-w-usa-lekko-w-dol-rynek-czeka-na-dane-makro",
+      "url": "https://biznes.pap.pl/wiadomosci/rynki/dzien-na-rynkach-gieldowe-futures-w-usa-lekko-w-dol-rynek-czeka-na-dane-makro",
+      "title": "DZIEŃ NA RYNKACH: Giełdowe futures w USA lekko w dół, rynek czeka na dane makro",
+      "content_html": "W piątek kontrakty terminowe na amerykańskie indeksy giełdowe lekko zniżkują. Inwestorzy czekają na dane makro z amerykańskiej gospodarki, w tym wstępny odczyt PKB za IV kw. i deflator PCE. Rynek śled",
+      "date_published": "2026-02-20T13:12:00+01:00",
+      "source": "PAP Biznes"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Mocne-slowa-po-szczycie-E5-Byc-tak-silnym-by-nikomu-nie-przyszlo-do-glowy-nas-zaatakowac-9086836.html",
       "url": "https://www.bankier.pl/wiadomosc/Mocne-slowa-po-szczycie-E5-Byc-tak-silnym-by-nikomu-nie-przyszlo-do-glowy-nas-zaatakowac-9086836.html",
       "title": "Mocne słowa po szczycie E5: Być tak silnym, by nikomu nie przyszło do głowy nas zaatakować",
@@ -453,12 +493,36 @@
       "source": "Bankier.pl"
     },
     {
+      "id": "https://biznes.pap.pl/wiadomosci/finanse/rynek-private-equity-wykazuje-oznaki-ostroznej-stabilizacji-forvis-mazars",
+      "url": "https://biznes.pap.pl/wiadomosci/finanse/rynek-private-equity-wykazuje-oznaki-ostroznej-stabilizacji-forvis-mazars",
+      "title": "Rynek private equity wykazuje oznaki ostrożnej stabilizacji - Forvis Mazars",
+      "content_html": "Strategiczny wzrost transgraniczny oraz tworzenie wartości napędzane technologią będą kluczowe dla wyprowadzenia sektora private equity z okresu turbulencji w nadchodzącym roku - wynika z raportu pośw",
+      "date_published": "2026-02-20T12:58:00+01:00",
+      "source": "PAP Biznes"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Spolka-zalezna-Scope-Fluidics-uzyskala-certyfikat-CE-IVDR-dla-systemu-BACTEROMIC-9086825.html",
       "url": "https://www.bankier.pl/wiadomosc/Spolka-zalezna-Scope-Fluidics-uzyskala-certyfikat-CE-IVDR-dla-systemu-BACTEROMIC-9086825.html",
       "title": "Spółka zależna Scope Fluidics uzyskała certyfikat CE-IVDR dla systemu BACTEROMIC",
       "content_html": "Bacteromic, spółka zależna Grupy Scope Fluidics, uzyskała certyfikat zgodności z IVDR dla systemu BACTEROMIC z Panelem UNI - podała spółka w komunikacie. Uzyskanie certyfikacji umożliwia wprowadzenie systemu BACTEROMIC na rynek europejski.",
       "date_published": "2026-02-20T12:46:00+01:00",
       "source": "Bankier.pl"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/firmy/spolka-zalezna-scope-fluidics-uzyskala-certyfikat-ce-ivdr-dla-systemu-bacteromic",
+      "url": "https://biznes.pap.pl/wiadomosci/firmy/spolka-zalezna-scope-fluidics-uzyskala-certyfikat-ce-ivdr-dla-systemu-bacteromic",
+      "title": "Spółka zależna Scope Fluidics uzyskała certyfikat CE-IVDR dla systemu BACTEROMIC",
+      "content_html": "Bacteromic, spółka zależna Grupy Scope Fluidics, uzyskała certyfikat zgodności z IVDR dla systemu BACTEROMIC z Panelem UNI - podała spółka w komunikacie. Uzyskanie certyfikacji umożliwia wprowadzenie ",
+      "date_published": "2026-02-20T12:45:00+01:00",
+      "source": "PAP Biznes"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/firmy/dane-gus-ostudzily-entuzjazm-wiecej-mieszkan-oddanych-do-uzytku-moze-byc-w-ii-pol",
+      "url": "https://biznes.pap.pl/wiadomosci/firmy/dane-gus-ostudzily-entuzjazm-wiecej-mieszkan-oddanych-do-uzytku-moze-byc-w-ii-pol",
+      "title": "Dane GUS ostudziły entuzjazm; więcej mieszkań oddanych do użytku może być w II poł. '26 - Otodom",
+      "content_html": "Dane GUS o skali nowego budownictwa mieszkaniowego w styczniu ostudziły entuzjazm. We wszystkich kategoriach odnotowano wyniki gorsze niż przed rokiem. Większą liczbę mieszkań oddanych do użytkowania ",
+      "date_published": "2026-02-20T12:37:00+01:00",
+      "source": "PAP Biznes"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Potezne-sily-u-wybrzezy-Polski-Atomowy-lotniskowiec-plynie-na-Baltyk-9086812.html",
@@ -1085,38 +1149,6 @@
       "source": "Bankier.pl"
     },
     {
-      "id": "https://www.bankier.pl/wiadomosc/Obraza-uczuc-religijnych-bez-kary-wiezienia-Polacy-masowo-popieraja-zmiane-9086621.html",
-      "url": "https://www.bankier.pl/wiadomosc/Obraza-uczuc-religijnych-bez-kary-wiezienia-Polacy-masowo-popieraja-zmiane-9086621.html",
-      "title": "Obraza uczuć religijnych bez kary więzienia. Polacy masowo popierają zmianę",
-      "content_html": "61,2 proc. uczestników sondażu IBRiS dla „Rzeczpospolitej” uważa, że należy znieść karę więzienia za obrazę uczuć religijnych. Przeciwnego zdania jest 29,4 proc. respondentów.",
-      "date_published": "2026-02-20T07:04:00+01:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Atakiem-zmusic-do-porozumienia-Trump-rozwaza-ograniczone-uderzenie-na-Iran-9086611.html",
-      "url": "https://www.bankier.pl/wiadomosc/Atakiem-zmusic-do-porozumienia-Trump-rozwaza-ograniczone-uderzenie-na-Iran-9086611.html",
-      "title": "Atakiem zmusić do porozumienia? Trump rozważa ograniczone uderzenie na Iran",
-      "content_html": "Prezydent USA Donald Trump rozważa przeprowadzenie wstępnego, ograniczonego ataku na Iran, by zmusić Teheran do zawarcia porozumienia nuklearnego - napisał w czwartek dziennik „Wall Street Journal”. Trump wciąż jednak opowiada się za rozwiązaniem...",
-      "date_published": "2026-02-20T07:00:00+01:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Orban-oskarza-ci-sami-ludzie-zamkneli-rurociag-Przyjazn-i-wysadzili-Nord-Stream-9086616.html",
-      "url": "https://www.bankier.pl/wiadomosc/Orban-oskarza-ci-sami-ludzie-zamkneli-rurociag-Przyjazn-i-wysadzili-Nord-Stream-9086616.html",
-      "title": "Orban oskarża: ci sami ludzie zamknęli rurociąg Przyjaźń i wysadzili Nord Stream",
-      "content_html": "Ci, którzy zamknęli rurociąg Przyjaźń, wysadzili też Nord Stream. Ukraina jest zainteresowana chaosem na Węgrzech - oświadczył w czwartek premier Węgier Viktor Orban, cytowany na X przez swojego rzecznika Zoltana Kovacsa. Orban wziął udział...",
-      "date_published": "2026-02-20T07:00:00+01:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Rusza-deregulacja-2-0-Podatki-maja-byc-prostsze-ale-nie-beda-nizsze-9086622.html",
-      "url": "https://www.bankier.pl/wiadomosc/Rusza-deregulacja-2-0-Podatki-maja-byc-prostsze-ale-nie-beda-nizsze-9086622.html",
-      "title": "Rusza deregulacja 2.0. Podatki mają być prostsze, ale nie będą niższe",
-      "content_html": "Rząd zaczyna kolejny etap upraszczania prawa. Na pierwszy ogień pójdą zmiany w procedurach podatkowych i sądowych – informuje piątkowa „Rzeczpospolita”. To, co zawetował prezydent, ma być ponownie uchwalone - pisze gazeta.",
-      "date_published": "2026-02-20T07:00:00+01:00",
-      "source": "Bankier.pl"
-    },
-    {
       "id": "https://biznes.pap.pl/wiadomosci/ekonomia-biznes-i-finanse/przewidywane-najwazniejsze-wydarzenia-gospodarcze-2026-02-20",
       "url": "https://biznes.pap.pl/wiadomosci/ekonomia-biznes-i-finanse/przewidywane-najwazniejsze-wydarzenia-gospodarcze-2026-02-20",
       "title": "Przewidywane najważniejsze wydarzenia gospodarcze 2026-02-20",
@@ -1210,14 +1242,6 @@
       "title": "DZIEŃ NA RYNKACH: Spadki na Wall Street na koniec dnia",
       "content_html": "Czwartkowa sesja na Wall Stret zakończyła się spadkami głównych indeksów. Spółki oferujące prywatne kredyty i obawy o Iran pogarszały nastroje na rynkach,",
       "date_published": "2026-02-19T22:33:00+01:00",
-      "source": "PAP Biznes"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/ekonomia-biznes-i-finanse/skrot-wiadomosci-czwartek-19-lutego-2100",
-      "url": "https://biznes.pap.pl/wiadomosci/ekonomia-biznes-i-finanse/skrot-wiadomosci-czwartek-19-lutego-2100",
-      "title": "Skrót wiadomości - czwartek, 19 lutego, 21.00",
-      "content_html": "Przegląd najważniejszych wiadomości gospodarczych, krajowych i ze świata.",
-      "date_published": "2026-02-19T21:00:00+01:00",
       "source": "PAP Biznes"
     }
   ]
