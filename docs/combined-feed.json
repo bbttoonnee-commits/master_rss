@@ -5,6 +5,46 @@
   "home_page_url": "https://www.bankier.pl",
   "items": [
     {
+      "id": "https://biznes.pap.pl/wiadomosci/rynki/dzien-na-rynkach-gieldy-w-europie-na-plusach-w-tle-cla-geopolityka-i-dane",
+      "url": "https://biznes.pap.pl/wiadomosci/rynki/dzien-na-rynkach-gieldy-w-europie-na-plusach-w-tle-cla-geopolityka-i-dane",
+      "title": "DZIEŃ NA RYNKACH: Giełdy w Europie na plusach, w tle cła, geopolityka i dane",
+      "content_html": "Główne indeksy w Europie zakończyły sesję na plusach; na Wall Street wzrosty. W centrum uwagi inwestorów pod koniec tygodnia znalazła się decyzja Sądu Najwyższego USA, który unieważnił większość wprow",
+      "date_published": "2026-02-20T18:08:00+01:00",
+      "source": "PAP Biznes"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Krajewski-zaprasza-prezydenta-do-rozmow-po-wecie-ustawy-o-aktywnym-rolniku-9087041.html",
+      "url": "https://www.bankier.pl/wiadomosc/Krajewski-zaprasza-prezydenta-do-rozmow-po-wecie-ustawy-o-aktywnym-rolniku-9087041.html",
+      "title": "Krajewski zaprasza prezydenta do rozmów po wecie ustawy o aktywnym rolniku",
+      "content_html": "O sprawach ważnych dla rolników jestem gotowy rozmawiać z prezydentem w każdej chwili - podkreślił w piątek minister rolnictwa i rozwoju wsi Stefan Krajewski, odnosząc się do decyzji prezydenta Karola Nawrockiego o zawetowaniu ustawy o aktywnym...",
+      "date_published": "2026-02-20T18:06:00+01:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/rynki/zamkniecia-na-gieldach-w-europie-tabela-2827",
+      "url": "https://biznes.pap.pl/wiadomosci/rynki/zamkniecia-na-gieldach-w-europie-tabela-2827",
+      "title": "Zamknięcia na giełdach w Europie (tabela)",
+      "content_html": "Poniżej zamknięcia i zmiany wybranych indeksów giełdowych w Europie.",
+      "date_published": "2026-02-20T18:01:00+01:00",
+      "source": "PAP Biznes"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Rozne-opcje-ataku-na-Iran-Celem-moga-byc-iranscy-przywodcy-9087032.html",
+      "url": "https://www.bankier.pl/wiadomosc/Rozne-opcje-ataku-na-Iran-Celem-moga-byc-iranscy-przywodcy-9087032.html",
+      "title": "Różne opcje ataku na Iran. Celem mogą być irańscy przywódcy",
+      "content_html": "Plany wojskowe dotyczące ataku USA na Iran są bardzo zaawansowane i obejmują różne opcje, w tym nawet zmianę reżimu w Teheranie, czy wyeliminowanie poszczególnych przywódców - podaje w piątek agencja Reutera, cytując rozmowy z dwoma przedstawicielami...",
+      "date_published": "2026-02-20T17:54:00+01:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Szesc-ofert-na-budowe-fundamentow-Portu-Polska-Znamy-kwoty-przetargu-9087019.html",
+      "url": "https://www.bankier.pl/wiadomosc/Szesc-ofert-na-budowe-fundamentow-Portu-Polska-Znamy-kwoty-przetargu-9087019.html",
+      "title": "Sześć ofert na budowę fundamentów Portu Polska. Znamy kwoty przetargu",
+      "content_html": "W przetargu na budowę fundamentów głębokich terminalu lotniska Port Polska złożono sześć ofert, wszystkie mieszczą się w zarezerwowanym budżecie inwestora - poinformowała w piątek spółka Centralny Port Komunikacyjny.",
+      "date_published": "2026-02-20T17:35:00+01:00",
+      "source": "Bankier.pl"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Sad-Najwyzszy-uznal-wiekszosc-cel-nalozonych-przez-Trumpa-za-nielegalne-9086975.html",
       "url": "https://www.bankier.pl/wiadomosc/Sad-Najwyzszy-uznal-wiekszosc-cel-nalozonych-przez-Trumpa-za-nielegalne-9086975.html",
       "title": "Sąd Najwyższy uznał większość ceł nałożonych przez Trumpa za nielegalne",
@@ -207,7 +247,7 @@
     {
       "id": "https://www.bankier.pl/wiadomosc/Era-Walmartu-dobiegla-konca-Amazon-sprzedaje-najwiecej-na-swiecie-9086925.html",
       "url": "https://www.bankier.pl/wiadomosc/Era-Walmartu-dobiegla-konca-Amazon-sprzedaje-najwiecej-na-swiecie-9086925.html",
-      "title": "Era marketów dobiegła końca. Internetowy gigant sprzedaje najwięcej na świecie",
+      "title": "Era Walmartu dobiegła końca. Amazon sprzedaje najwięcej na świecie",
       "content_html": "Tytuł nowej największej firmy na świecie pod względem rocznych przychodów oficjalnie zmienił właściciela. Po latach dominacji Walmart musiał ustąpić miejsca Amazonowi. Jednak w sprzedaży detalicznej Walmart nadal nie ma sobie równych, a tytuł...",
       "date_published": "2026-02-20T15:20:00+01:00",
       "source": "Bankier.pl"
@@ -261,28 +301,12 @@
       "source": "PAP Biznes"
     },
     {
-      "id": "https://biznes.pap.pl/wiadomosci/przemysl/grupa-e5-podpisala-zobowiazanie-ws-wspolnego-rozwoju-zdolnosci-razenia-z",
-      "url": "https://biznes.pap.pl/wiadomosci/przemysl/grupa-e5-podpisala-zobowiazanie-ws-wspolnego-rozwoju-zdolnosci-razenia-z",
-      "title": "Grupa E5 podpisała zobowiązanie ws. wspólnego rozwoju zdolności rażenia z wykorzystaniem dronów",
-      "content_html": "Uczestnicy spotkania grupy E5 podpisali zobowiązanie ws. rozwoju zdolności rażenia z wykorzystaniem dronów, niskokosztowej wspólnej produkcji oraz wspólnych zakupów efektorów do dronów - poinformował ",
-      "date_published": "2026-02-20T14:40:00+01:00",
-      "source": "PAP Biznes"
-    },
-    {
       "id": "https://www.bankier.pl/wiadomosc/PKB-Stanow-Zjednoczonych-w-IV-kwartale-2025-Dane-srodze-rozczarowaly-ekonomistow-9086890.html",
       "url": "https://www.bankier.pl/wiadomosc/PKB-Stanow-Zjednoczonych-w-IV-kwartale-2025-Dane-srodze-rozczarowaly-ekonomistow-9086890.html",
       "title": "Największa gospodarka świata ostro wyhamowała. Dane srodze rozczarowały ekonomistów",
       "content_html": "Mało który ekonomista spodziewał się takiego scenariusza, ignorując skutki rekordowo długiego shutdownu.",
       "date_published": "2026-02-20T14:32:00+01:00",
       "source": "Bankier.pl"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/gospodarka/rzad-kontynuuje-deregulacje-prawa-podatkowego-postepowan-sadowych-local",
-      "url": "https://biznes.pap.pl/wiadomosci/gospodarka/rzad-kontynuuje-deregulacje-prawa-podatkowego-postepowan-sadowych-local",
-      "title": "Rząd kontynuuje deregulację prawa podatkowego, postępowań sądowych, local content - Berek, KPRM",
-      "content_html": "Rząd będzie kontynuował deregulację w sposób systemowy, skupi się teraz na prawie podatkowym, postępowaniach sądowych, local content - poinformował minister ds. nadzoru nad wdrażaniem polityki rządu M",
-      "date_published": "2026-02-20T14:31:00+01:00",
-      "source": "PAP Biznes"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Alior-daje-1000-zl-na-koncie-osobistym-Sprawdzilismy-co-trzeba-zrobic-by-je-wyplacic-9086810.html",
@@ -397,6 +421,14 @@
       "source": "Bankier.pl"
     },
     {
+      "id": "https://biznes.pap.pl/wiadomosci/rynki/rusza-konkurs-edukacyjny-beta-etf-challenge-dla-kol-naukowych-z-pula-nagrod-30-tys",
+      "url": "https://biznes.pap.pl/wiadomosci/rynki/rusza-konkurs-edukacyjny-beta-etf-challenge-dla-kol-naukowych-z-pula-nagrod-30-tys",
+      "title": "Rusza konkurs edukacyjny BETA ETF Challenge dla kół naukowych z pulą nagród 30 tys. zł",
+      "content_html": "BETA TFI ogłosiło start ogólnopolskiego konkursu „BETA ETF Challenge”, skierowanego do studenckich kół naukowych. Celem inicjatywy jest popularyzacja wiedzy o funduszach ETF i mechanizmach rynku kapit",
+      "date_published": "2026-02-20T11:48:00+01:00",
+      "source": "PAP Biznes"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Koniec-glosnego-procesu-Alpinista-skazany-za-smierc-partnerki-9086793.html",
       "url": "https://www.bankier.pl/wiadomosc/Koniec-glosnego-procesu-Alpinista-skazany-za-smierc-partnerki-9086793.html",
       "title": "Koniec głośnego procesu. Alpinista skazany za śmierć partnerki",
@@ -413,12 +445,28 @@
       "source": "Bankier.pl"
     },
     {
+      "id": "https://www.bankier.pl/wiadomosc/Koniec-z-dyktatem-zwiazkow-Argentyna-przyjmuje-radykalne-reformy-prawa-pracy-9086785.html",
+      "url": "https://www.bankier.pl/wiadomosc/Koniec-z-dyktatem-zwiazkow-Argentyna-przyjmuje-radykalne-reformy-prawa-pracy-9086785.html",
+      "title": "Koniec z dyktatem związków? Argentyna przyjmuje radykalne reformy prawa pracy",
+      "content_html": "Mimo protestów na ulicach i strajku generalnego, zorganizowanego przez związki zawodowe, argentyńska Izba Deputowanych przyjęła w nocy z czwartku na piątek zmiany w prawie pracy, ważny element reform wolnorynkowych lansowanych przez prezydenta...",
+      "date_published": "2026-02-20T11:29:00+01:00",
+      "source": "Bankier.pl"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Trigon-DM-podwyzszyl-cene-docelowa-akcji-Budimeksu-do-900-zl-9086783.html",
       "url": "https://www.bankier.pl/wiadomosc/Trigon-DM-podwyzszyl-cene-docelowa-akcji-Budimeksu-do-900-zl-9086783.html",
       "title": "Trigon DM podwyższył cenę docelową akcji Budimeksu",
       "content_html": "Analitycy Trigon DM, w raporcie z 13 lutego, podwyższyli cenę docelową akcji Budimeksu do 900 zł z 700 zł poprzednio oraz podtrzymali rekomendację \"kupuj\".",
       "date_published": "2026-02-20T11:26:00+01:00",
       "source": "Bankier.pl"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/firmy/trigon-dm-podwyzszyl-cene-docelowa-akcji-budimeksu-do-900-zl",
+      "url": "https://biznes.pap.pl/wiadomosci/firmy/trigon-dm-podwyzszyl-cene-docelowa-akcji-budimeksu-do-900-zl",
+      "title": "Trigon DM podwyższył cenę docelową akcji Budimeksu do 900 zł",
+      "content_html": "Analitycy Trigon DM, w raporcie z 13 lutego, podwyższyli cenę docelową akcji Budimeksu do 900 zł z 700 zł poprzednio oraz podtrzymali rekomendację \"kupuj\".",
+      "date_published": "2026-02-20T11:25:00+01:00",
+      "source": "PAP Biznes"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Kruk-szacuje-zysk-netto-w-IV-kw-2025-r-na-208-mln-zl-ponizej-konsensusu-9086774.html",
@@ -1125,18 +1173,10 @@
       "source": "Bankier.pl"
     },
     {
-      "id": "https://www.bankier.pl/wiadomosc/Rosyjski-szpieg-zatrzymany-w-Portugalii-To-byly-zolnierz-9086626.html",
-      "url": "https://www.bankier.pl/wiadomosc/Rosyjski-szpieg-zatrzymany-w-Portugalii-To-byly-zolnierz-9086626.html",
-      "title": "Rosyjski szpieg zatrzymany w Portugalii. To były żołnierz",
-      "content_html": "Mężczyzna zatrzymany podczas nieudanej próby przekazania rosyjskim dyplomatom z ambasady w Lizbonie poufnych danych NATO to były portugalski żołnierz, wynika ze śledztwa, na które powołuje się w czwartek portal lizbońskiego tygodnika „Sabado”...",
-      "date_published": "2026-02-20T04:24:00+01:00",
-      "source": "Bankier.pl"
-    },
-    {
       "id": "https://www.bankier.pl/wiadomosc/Spadki-na-Wall-Street-na-koniec-dnia-Ryzyko-wciaz-w-grze-9086605.html",
       "url": "https://www.bankier.pl/wiadomosc/Spadki-na-Wall-Street-na-koniec-dnia-Ryzyko-wciaz-w-grze-9086605.html",
-      "title": "Spadki na Wall Street na koniec dnia. Ryzyko wciąż w grze",
-      "content_html": "Czwartkowa sesja na Wall Stret zakończyła się spadkami głównych indeksów. Spółki oferujące prywatne kredyty i obawy o Iran pogarszały nastroje na rynkach,",
+      "title": "Spadki na Wall Street na koniec dnia. Ryzyko wciąż w grze Czwartkowa sesja na Wall Stret zakończyła się spadkami głównych indeksów. Spółki oferujące prywatne kredyty i obawy o Iran pogarszały nastroje na rynkach,",
+      "content_html": "",
       "date_published": "2026-02-19T22:34:00+01:00",
       "source": "Bankier.pl"
     },
@@ -1147,14 +1187,6 @@
       "content_html": "Czwartkowa sesja na Wall Stret zakończyła się spadkami głównych indeksów. Spółki oferujące prywatne kredyty i obawy o Iran pogarszały nastroje na rynkach,",
       "date_published": "2026-02-19T22:33:00+01:00",
       "source": "PAP Biznes"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Ukraina-poza-szczytem-NATO-Stany-Zjednoczone-naciskaja-na-sojusznikow-9086603.html",
-      "url": "https://www.bankier.pl/wiadomosc/Ukraina-poza-szczytem-NATO-Stany-Zjednoczone-naciskaja-na-sojusznikow-9086603.html",
-      "title": "Ukraina poza szczytem NATO? Stany Zjednoczone naciskają na sojuszników",
-      "content_html": "USA naciskają na sojuszników, by formalnie nie zapraszać na lipcowy szczyt NATO w Turcji Ukrainy, a także Australii, Nowej Zelandii, Japonii i Korei Płd. - napisał w czwartek portal Politico, powołując się na cztery źródła dyplomatyczne.",
-      "date_published": "2026-02-19T22:25:00+01:00",
-      "source": "Bankier.pl"
     },
     {
       "id": "https://biznes.pap.pl/wiadomosci/ekonomia-biznes-i-finanse/skrot-wiadomosci-czwartek-19-lutego-2100",
@@ -1203,22 +1235,6 @@
       "content_html": "",
       "date_published": "2026-02-19T19:48:00+01:00",
       "source": "Bankier.pl"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/rynki/zamkniecia-na-gieldach-w-europie-tabela-2826",
-      "url": "https://biznes.pap.pl/wiadomosci/rynki/zamkniecia-na-gieldach-w-europie-tabela-2826",
-      "title": "Zamknięcia na giełdach w Europie (tabela)",
-      "content_html": "Poniżej zamknięcia i zmiany wybranych indeksów giełdowych w Europie.",
-      "date_published": "2026-02-19T18:01:00+01:00",
-      "source": "PAP Biznes"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/rynki/dzien-na-rynkach-spadki-na-europejskich-gieldach-nie-pomagaly-wyniki-spolek",
-      "url": "https://biznes.pap.pl/wiadomosci/rynki/dzien-na-rynkach-spadki-na-europejskich-gieldach-nie-pomagaly-wyniki-spolek",
-      "title": "DZIEŃ NA RYNKACH: Spadki na europejskich giełdach, nie pomagały wyniki spółek",
-      "content_html": "Europejskie rynki akcji zakończyły czwartkową sesję pod kreską, przy rozczarowujących dla rynku wynikach dużych spółek przemysłowych. W oczekiwaniu na rozwój sytuacji USA-Iran kolejną sesję wyraźnie z",
-      "date_published": "2026-02-19T17:59:00+01:00",
-      "source": "PAP Biznes"
     }
   ]
 }
