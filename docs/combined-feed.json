@@ -5,11 +5,99 @@
   "home_page_url": "https://www.bankier.pl",
   "items": [
     {
+      "id": "https://biznes.pap.pl/wiadomosci/gospodarka/euro-w-ebc-11767-usd-i-18263-jpy",
+      "url": "https://biznes.pap.pl/wiadomosci/gospodarka/euro-w-ebc-11767-usd-i-18263-jpy",
+      "title": "Euro w EBC: 1,1767 USD i 182,63 JPY",
+      "content_html": "Europejski Bank Centralny (EBC) ustalił kurs euro na 1,1767 USD i 182,63 JPY - podał bank na swojej stronie internetowej.",
+      "date_published": "2026-02-20T15:58:00+01:00",
+      "source": "PAP Biznes"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Rozbudowa-Lotniska-Chopina-zaklepana-3-wielkie-banki-wyloza-fortune-na-modernizacje-portu-9086761.html",
+      "url": "https://www.bankier.pl/wiadomosc/Rozbudowa-Lotniska-Chopina-zaklepana-3-wielkie-banki-wyloza-fortune-na-modernizacje-portu-9086761.html",
+      "title": "Rozbudowa Lotniska Chopina zaklepana. 3 wielkie banki wyłożą fortunę na modernizację portu",
+      "content_html": "Spółka Polskie Porty Lotnicze podpisała w piątek umowę kredytową o wartości 3,3 mld zł z konsorcjum banków: Pekao, PKO BP i Bankiem Gospodarstwa Krajowego. Pozyskane środki mają umożliwić modernizację Lotniska Chopina i kapitałowe zaangażowanie...",
+      "date_published": "2026-02-20T15:41:00+01:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Prezydencki-projekt-w-sprawie-sadownictwa-Jest-ruch-marszalka-Sejmu-9086855.html",
+      "url": "https://www.bankier.pl/wiadomosc/Prezydencki-projekt-w-sprawie-sadownictwa-Jest-ruch-marszalka-Sejmu-9086855.html",
+      "title": "Prezydencki projekt w sprawie sądownictwa. Jest ruch marszałka Sejmu",
+      "content_html": "Marszałek Sejmu Włodzimierz Czarzasty poinformował w piątek, że zdecydował o szerokich konsultacjach prezydenckiego projektu ustawy dotyczącej sądownictwa i skierowaniu go do opinii Komisji Weneckiej. W opinii naszych prawników projekt ten narusza...",
+      "date_published": "2026-02-20T15:40:00+01:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Ministrowie-obrony-podpisuja-porozumienie-ws-wspolnej-produkcji-dronow-9086896.html",
+      "url": "https://www.bankier.pl/wiadomosc/Ministrowie-obrony-podpisuja-porozumienie-ws-wspolnej-produkcji-dronow-9086896.html",
+      "title": "Ministrowie obrony podpisują porozumienie ws. wspólnej produkcji dronów",
+      "content_html": "Uczestnicy spotkania grupy E5 podpisali zobowiązanie ws. rozwoju zdolności rażenia z wykorzystaniem dronów, niskokosztowej wspólnej produkcji oraz wspólnych zakupów efektorów do dronów - poinformował szef MON Władysław Kosiniak-Kamysz. Technologie...",
+      "date_published": "2026-02-20T15:39:00+01:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Przerwy-w-bankach-w-m-in-ING-Santanderze-Karta-moze-nie-zadzialac-9086934.html",
+      "url": "https://www.bankier.pl/wiadomosc/Przerwy-w-bankach-w-m-in-ING-Santanderze-Karta-moze-nie-zadzialac-9086934.html",
+      "title": "Kolejny weekend z przerwami. Transakcje kartą mogą być utrudnione",
+      "content_html": "Banki nieustannie pracują nad swoimi systemami transakcyjnymi, co dla klientów zwykle oznacza mniej lub bardziej dotkliwe utrudnienia. W ten weekend nad swoimi narzędziami pracować będzie kilka z nich. Głównym problemem będzie brak możliwości...",
+      "date_published": "2026-02-20T15:38:00+01:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/rynki/po-otwarciu-sesji-dji-spada-o-027-proc-sp-500-znizkuje-024-proc",
+      "url": "https://biznes.pap.pl/wiadomosci/rynki/po-otwarciu-sesji-dji-spada-o-027-proc-sp-500-znizkuje-024-proc",
+      "title": "Po otwarciu sesji DJI spada o 0,27 proc., a S&P 500 zniżkuje 0,24 proc.",
+      "content_html": "Po otwarciu sesji w USA Dow Jones Industrial spada o 0,27 proc. do 49.260 pkt., S&P500 zniżkuje 0,24 proc. i wynosi 6.845 pkt.",
+      "date_published": "2026-02-20T15:33:00+01:00",
+      "source": "PAP Biznes"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/ZUS-zgodzil-sie-na-rozlozenie-naleznosci-od-JSW-na-11-rat-9086928.html",
+      "url": "https://www.bankier.pl/wiadomosc/ZUS-zgodzil-sie-na-rozlozenie-naleznosci-od-JSW-na-11-rat-9086928.html",
+      "title": "ZUS zgadza się na układ ratalny z JSW. Zaległe składki zostaną rozłożone na 11 rat",
+      "content_html": "Zakład Ubezpieczeń Społecznych zgodził się na rozłożenie należności od Jastrzębskiej Spółki Węglowej za okres od maja do października 2025 roku na 11 rat - poinformowała JSW w komunikacie.",
+      "date_published": "2026-02-20T15:26:00+01:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/firmy/zus-zgodzil-sie-na-rozlozenie-naleznosci-od-jsw-na-11-rat",
+      "url": "https://biznes.pap.pl/wiadomosci/firmy/zus-zgodzil-sie-na-rozlozenie-naleznosci-od-jsw-na-11-rat",
+      "title": "ZUS zgodził się na rozłożenie należności od JSW na 11 rat",
+      "content_html": "Zakład Ubezpieczeń Społecznych zgodził się na rozłożenie należności od Jastrzębskiej Spółki Węglowej za okres od maja do października 2025 roku na 11 rat - poinformowała JSW w komunikacie.",
+      "date_published": "2026-02-20T15:24:00+01:00",
+      "source": "PAP Biznes"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Era-Walmartu-dobiegla-konca-Amazon-sprzedaje-najwiecej-na-swiecie-9086925.html",
+      "url": "https://www.bankier.pl/wiadomosc/Era-Walmartu-dobiegla-konca-Amazon-sprzedaje-najwiecej-na-swiecie-9086925.html",
+      "title": "Era marketów dobiegła końca. Internetowy gigant sprzedaje najwięcej na świecie Tytuł nowej największej firmy na świecie pod względem rocznych przychodów oficjalnie zmienił właściciela. Po latach dominacji Walmart musiał ustąpić miejsca Amazonowi. Jednak w sprzedaży detalicznej Walmart nadal nie ma sobie równych, a tytuł Amazownoi pozwoliły zdobyć rosnące wpływy z usług chmurowych.",
+      "content_html": "",
+      "date_published": "2026-02-20T15:20:00+01:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Poprawa-koniunktury-w-lutym-2026-Lewiatan-ocenia-nastroje-polskich-przedsiebiorstw-9086914.html",
+      "url": "https://www.bankier.pl/wiadomosc/Poprawa-koniunktury-w-lutym-2026-Lewiatan-ocenia-nastroje-polskich-przedsiebiorstw-9086914.html",
+      "title": "Poprawa koniunktury w lutym 2026. Lewiatan ocenia nastroje polskich przedsiębiorstw",
+      "content_html": "Piątkowe dane GUS o koniunkturze wskazują na wyraźnie lepsze nastroje przedsiębiorstw niż przed rokiem, choć nie jest to „klasyczne ożywienie” - uważa Mariusz Zielonka z Konfederacji Lewiatan. Ocenił, że obecnie największym problemem dla...",
+      "date_published": "2026-02-20T15:09:00+01:00",
+      "source": "Bankier.pl"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Smierc-Ukrainca-w-izbie-wytrzezwien-Wroclawski-sad-wydal-wyrok-w-glosnej-sprawie-9086899.html",
       "url": "https://www.bankier.pl/wiadomosc/Smierc-Ukrainca-w-izbie-wytrzezwien-Wroclawski-sad-wydal-wyrok-w-glosnej-sprawie-9086899.html",
       "title": "Śmierć Ukraińca w izbie wytrzeźwień. Wrocławski sąd wydał wyrok w głośnej sprawie",
       "content_html": "Na kary od 6 miesięcy więzienia do roku, w zawieszeniu na 2 lata, skazał w piątek Sąd Apelacyjny we Wrocławiu 7 osób, w tym b. policjantów, opiekunów i lekarkę, oskarżonych w sprawie śmierci 25-letniego obywatela Ukrainy Dmytra N. we Wrocławskim...",
       "date_published": "2026-02-20T14:59:00+01:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Brak-porozumienia-w-UE-ws-20-pakietu-sankcji-na-Rosje-Koscia-niezgody-ropa-9086903.html",
+      "url": "https://www.bankier.pl/wiadomosc/Brak-porozumienia-w-UE-ws-20-pakietu-sankcji-na-Rosje-Koscia-niezgody-ropa-9086903.html",
+      "title": "Brak porozumienia w UE ws. 20. pakietu sankcji na Rosję. Kością niezgody, transport ropy",
+      "content_html": "Ambasadorom państw członkowskich UE nie udało się porozumieć w piątek w sprawie 20. pakietu sankcji na Rosję - poinformowały źródła unijne. Nowe restrykcje mają zostać przyjęte w czwartą rocznicę pełnoskalowego ataku na Ukrainę, czyli...",
+      "date_published": "2026-02-20T14:55:00+01:00",
       "source": "Bankier.pl"
     },
     {
@@ -27,14 +115,6 @@
       "content_html": "W kolejnym tygodniu podwyżki na stacjach będą bardziej odczuwalne i dla benzyn sięgać średnio 10 groszy na litrze - prognozują analitycy BM Reflex.",
       "date_published": "2026-02-20T14:48:00+01:00",
       "source": "PAP Biznes"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Ministrowie-obrony-podpisuja-porozumienie-ws-wspolnej-produkcji-dronow-9086896.html",
-      "url": "https://www.bankier.pl/wiadomosc/Ministrowie-obrony-podpisuja-porozumienie-ws-wspolnej-produkcji-dronow-9086896.html",
-      "title": "Ministrowie obrony podpisują porozumienie ws. wspólnej produkcji dronów",
-      "content_html": "Uczestnicy spotkania grupy E5 podpisali zobowiązanie ws. rozwoju zdolności rażenia z wykorzystaniem dronów, niskokosztowej wspólnej produkcji oraz wspólnych zakupów efektorów do dronów - poinformował szef MON Władysław Kosiniak-Kamysz. Technologie...",
-      "date_published": "2026-02-20T14:42:00+01:00",
-      "source": "Bankier.pl"
     },
     {
       "id": "https://biznes.pap.pl/wiadomosci/przemysl/grupa-e5-podpisala-zobowiazanie-ws-wspolnego-rozwoju-zdolnosci-razenia-z",
@@ -133,14 +213,6 @@
       "source": "PAP Biznes"
     },
     {
-      "id": "https://www.bankier.pl/wiadomosc/Prezydencki-projekt-w-sprawie-sadownictwa-Jest-ruch-marszalka-Sejmu-9086855.html",
-      "url": "https://www.bankier.pl/wiadomosc/Prezydencki-projekt-w-sprawie-sadownictwa-Jest-ruch-marszalka-Sejmu-9086855.html",
-      "title": "Prezydencki projekt w sprawie sądownictwa. Jest ruch marszałka Sejmu",
-      "content_html": "Marszałek Sejmu Włodzimierz Czarzasty poinformował w piątek, że zdecydował o szerokich konsultacjach prezydenckiego projektu ustawy dotyczącej sądownictwa i skierowaniu go do opinii Komisji Weneckiej. W opinii naszych prawników projekt ten narusza...",
-      "date_published": "2026-02-20T13:36:00+01:00",
-      "source": "Bankier.pl"
-    },
-    {
       "id": "https://www.bankier.pl/wiadomosc/Izrael-i-Hamas-o-przyszlosci-Strefy-Gazy-Netanjahu-domaga-sie-demilitaryzacji-przed-odbudowa-9086853.html",
       "url": "https://www.bankier.pl/wiadomosc/Izrael-i-Hamas-o-przyszlosci-Strefy-Gazy-Netanjahu-domaga-sie-demilitaryzacji-przed-odbudowa-9086853.html",
       "title": "Izrael i Hamas o przyszłości Strefy Gazy. Netanjahu domaga się demilitaryzacji przed odbudową",
@@ -189,36 +261,12 @@
       "source": "Bankier.pl"
     },
     {
-      "id": "https://biznes.pap.pl/wiadomosci/finanse/rynek-private-equity-wykazuje-oznaki-ostroznej-stabilizacji-forvis-mazars",
-      "url": "https://biznes.pap.pl/wiadomosci/finanse/rynek-private-equity-wykazuje-oznaki-ostroznej-stabilizacji-forvis-mazars",
-      "title": "Rynek private equity wykazuje oznaki ostrożnej stabilizacji - Forvis Mazars",
-      "content_html": "Strategiczny wzrost transgraniczny oraz tworzenie wartości napędzane technologią będą kluczowe dla wyprowadzenia sektora private equity z okresu turbulencji w nadchodzącym roku - wynika z raportu pośw",
-      "date_published": "2026-02-20T12:58:00+01:00",
-      "source": "PAP Biznes"
-    },
-    {
       "id": "https://www.bankier.pl/wiadomosc/Spolka-zalezna-Scope-Fluidics-uzyskala-certyfikat-CE-IVDR-dla-systemu-BACTEROMIC-9086825.html",
       "url": "https://www.bankier.pl/wiadomosc/Spolka-zalezna-Scope-Fluidics-uzyskala-certyfikat-CE-IVDR-dla-systemu-BACTEROMIC-9086825.html",
       "title": "Spółka zależna Scope Fluidics uzyskała certyfikat CE-IVDR dla systemu BACTEROMIC",
       "content_html": "Bacteromic, spółka zależna Grupy Scope Fluidics, uzyskała certyfikat zgodności z IVDR dla systemu BACTEROMIC z Panelem UNI - podała spółka w komunikacie. Uzyskanie certyfikacji umożliwia wprowadzenie systemu BACTEROMIC na rynek europejski.",
       "date_published": "2026-02-20T12:46:00+01:00",
       "source": "Bankier.pl"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/firmy/spolka-zalezna-scope-fluidics-uzyskala-certyfikat-ce-ivdr-dla-systemu-bacteromic",
-      "url": "https://biznes.pap.pl/wiadomosci/firmy/spolka-zalezna-scope-fluidics-uzyskala-certyfikat-ce-ivdr-dla-systemu-bacteromic",
-      "title": "Spółka zależna Scope Fluidics uzyskała certyfikat CE-IVDR dla systemu BACTEROMIC",
-      "content_html": "Bacteromic, spółka zależna Grupy Scope Fluidics, uzyskała certyfikat zgodności z IVDR dla systemu BACTEROMIC z Panelem UNI - podała spółka w komunikacie. Uzyskanie certyfikacji umożliwia wprowadzenie ",
-      "date_published": "2026-02-20T12:45:00+01:00",
-      "source": "PAP Biznes"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/firmy/dane-gus-ostudzily-entuzjazm-wiecej-mieszkan-oddanych-do-uzytku-moze-byc-w-ii-pol",
-      "url": "https://biznes.pap.pl/wiadomosci/firmy/dane-gus-ostudzily-entuzjazm-wiecej-mieszkan-oddanych-do-uzytku-moze-byc-w-ii-pol",
-      "title": "Dane GUS ostudziły entuzjazm; więcej mieszkań oddanych do użytku może być w II poł. '26 - Otodom",
-      "content_html": "Dane GUS o skali nowego budownictwa mieszkaniowego w styczniu ostudziły entuzjazm. We wszystkich kategoriach odnotowano wyniki gorsze niż przed rokiem. Większą liczbę mieszkań oddanych do użytkowania ",
-      "date_published": "2026-02-20T12:37:00+01:00",
-      "source": "PAP Biznes"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Potezne-sily-u-wybrzezy-Polski-Atomowy-lotniskowiec-plynie-na-Baltyk-9086812.html",
@@ -253,11 +301,27 @@
       "source": "Bankier.pl"
     },
     {
-      "id": "https://www.bankier.pl/wiadomosc/Rozbudowa-Lotniska-Chopina-zaklepana-3-wielkie-banki-wyloza-fortune-na-modernizacje-portu-9086761.html",
-      "url": "https://www.bankier.pl/wiadomosc/Rozbudowa-Lotniska-Chopina-zaklepana-3-wielkie-banki-wyloza-fortune-na-modernizacje-portu-9086761.html",
-      "title": "Rozbudowa Lotniska Chopina zaklepana. 3 wielkie banki wyłożą fortunę na modernizację portu",
-      "content_html": "Spółka Polskie Porty Lotnicze podpisała w piątek umowę kredytową o wartości 3,3 mld zł z konsorcjum banków: Pekao, PKO BP i Bankiem Gospodarstwa Krajowego. Pozyskane środki mają umożliwić modernizację Lotniska Chopina i kapitałowe zaangażowanie...",
-      "date_published": "2026-02-20T11:59:00+01:00",
+      "id": "https://www.bankier.pl/wiadomosc/Koniec-glosnego-procesu-Alpinista-skazany-za-smierc-partnerki-9086793.html",
+      "url": "https://www.bankier.pl/wiadomosc/Koniec-glosnego-procesu-Alpinista-skazany-za-smierc-partnerki-9086793.html",
+      "title": "Koniec głośnego procesu. Alpinista skazany za śmierć partnerki",
+      "content_html": "Austriacki alpinista został uznany za winnego nieumyślnego spowodowania śmierci swojej partnerki, która podczas wspólnej wyprawy pary w styczniu 2025 roku zamarzła na najwyższym szczycie Austrii, Grossglockner - poinformowała w piątek BBC.",
+      "date_published": "2026-02-20T11:45:00+01:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Ceny-paliw-ponownie-w-gore-Tak-na-stacjach-jak-i-w-rafineriach-9086792.html",
+      "url": "https://www.bankier.pl/wiadomosc/Ceny-paliw-ponownie-w-gore-Tak-na-stacjach-jak-i-w-rafineriach-9086792.html",
+      "title": "Ceny paliw ponownie w górę. Tak na stacjach, jak i w rafineriach",
+      "content_html": "Mijający tydzień przyniósł jak dotąd nieznaczne podwyżki przy dystrybutorach. Jednakże z powodu niekorzystnej dla kierowców sytuacji na światowych rynkach paliwowych można oczekiwać, że w najbliższym czasie będzie jeszcze drożej.",
+      "date_published": "2026-02-20T11:44:00+01:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Koniec-z-dyktatem-zwiazkow-Argentyna-przyjmuje-radykalne-reformy-prawa-pracy-9086785.html",
+      "url": "https://www.bankier.pl/wiadomosc/Koniec-z-dyktatem-zwiazkow-Argentyna-przyjmuje-radykalne-reformy-prawa-pracy-9086785.html",
+      "title": "Koniec z dyktatem związków? Argentyna przyjmuje radykalne reformy prawa pracy",
+      "content_html": "Mimo protestów na ulicach i strajku generalnego, zorganizowanego przez związki zawodowe, argentyńska Izba Deputowanych przyjęła w nocy z czwartku na piątek zmiany w prawie pracy, ważny element reform wolnorynkowych lansowanych przez prezydenta...",
+      "date_published": "2026-02-20T11:29:00+01:00",
       "source": "Bankier.pl"
     },
     {
@@ -325,6 +389,14 @@
       "source": "Bankier.pl"
     },
     {
+      "id": "https://biznes.pap.pl/wiadomosci/energia/nfosigw-zamyka-nabor-do-mojej-elektrowni-wiatrowej-po-wyczerpaniu-budzetu-na-150",
+      "url": "https://biznes.pap.pl/wiadomosci/energia/nfosigw-zamyka-nabor-do-mojej-elektrowni-wiatrowej-po-wyczerpaniu-budzetu-na-150",
+      "title": "NFOŚiGW zamyka nabór do Mojej Elektrowni Wiatrowej po wyczerpaniu budżetu na 150 mln zł",
+      "content_html": "Narodowy Fundusz Ochrony Środowiska i Gospodarki Wodnej zamknął nabór wniosków w ramach programu Moja Elektrownia Wiatrowa; wpłynęło prawie 5 tys. wniosków na ponad 150 mln zł - poinformował fundusz. ",
+      "date_published": "2026-02-20T10:34:00+01:00",
+      "source": "PAP Biznes"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Zremb-Chojnice-otrzymal-zamowienia-na-wykonanie-specjalistycznych-kontenerow-wojskowych-9086746.html",
       "url": "https://www.bankier.pl/wiadomosc/Zremb-Chojnice-otrzymal-zamowienia-na-wykonanie-specjalistycznych-kontenerow-wojskowych-9086746.html",
       "title": "Zremb Chojnice otrzymał zamówienia na wykonanie specjalistycznych kontenerów wojskowych",
@@ -333,12 +405,28 @@
       "source": "Bankier.pl"
     },
     {
+      "id": "https://biznes.pap.pl/wiadomosci/firmy/zremb-chojnice-otrzymal-zamowienia-na-wykonanie-specjalistycznych-kontenerow",
+      "url": "https://biznes.pap.pl/wiadomosci/firmy/zremb-chojnice-otrzymal-zamowienia-na-wykonanie-specjalistycznych-kontenerow",
+      "title": "Zremb Chojnice otrzymał zamówienia na wykonanie specjalistycznych kontenerów wojskowych",
+      "content_html": "Zremb Chojnice otrzymał od podmiotu działającego na rynku niemieckim zamówienia dla Bundeswehry na wykonanie specjalistycznych kontenerów wojskowych stanowiących elementy centrum dowodzenia - podała s",
+      "date_published": "2026-02-20T10:28:00+01:00",
+      "source": "PAP Biznes"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Afera-wokol-marki-Nowrocky-Policja-przyjela-zawiadomienie-9086745.html",
       "url": "https://www.bankier.pl/wiadomosc/Afera-wokol-marki-Nowrocky-Policja-przyjela-zawiadomienie-9086745.html",
       "title": "Afera wokół marki „Nowrocky”. Policja przyjęła zawiadomienie",
       "content_html": "Do Komendy Miejskiej Policji w Gdańsku wpłynęło w piątek zawiadomienie w sprawie marki „Nowrocky”. Chodzi o używanie znaku towarowego „R” przez firmę. W ubraniach tej marki prezydent Karol Nawrocki pojawił się podczas odwiedzin polskiej...",
       "date_published": "2026-02-20T10:27:00+01:00",
       "source": "Bankier.pl"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/gospodarka/wysokie-koszty-sa-najczesciej-wymieniana-bariera-ograniczajaca-inwestycje-w-0",
+      "url": "https://biznes.pap.pl/wiadomosci/gospodarka/wysokie-koszty-sa-najczesciej-wymieniana-bariera-ograniczajaca-inwestycje-w-0",
+      "title": "Wysokie koszty są najczęściej wymienianą barierą ograniczającą inwestycje w tym roku - GUS",
+      "content_html": "Wysokie koszty są najczęściej wymienianą barierą ograniczającą inwestycje w tym roku - podał Główny Urząd Statystyczny.",
+      "date_published": "2026-02-20T10:11:00+01:00",
+      "source": "PAP Biznes"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Koniec-marzen-o-euro-Przedsiebiorcy-masowo-rezygnuja-z-poparcia-9086735.html",
@@ -367,8 +455,8 @@
     {
       "id": "https://www.bankier.pl/wiadomosc/EuroPMI-czy-to-jest-wreszcie-poczatek-ozywienia-w-strefie-euro-9086733.html",
       "url": "https://www.bankier.pl/wiadomosc/EuroPMI-czy-to-jest-wreszcie-poczatek-ozywienia-w-strefie-euro-9086733.html",
-      "title": "EuroPMI: czy to jest wreszcie początek ożywienia w strefie euro?",
-      "content_html": "Dopiero po raz drugi od blisko 4 lat zarówno wskaźnik PMI dla sektora usługowego jak i przemysłowego strefy euro znalazły się powyżej 50 punktów, sygnalizując tak długo oczekiwane ożywienie gospodarcze.",
+      "title": "EuroPMI: czy to jest wreszcie początek ożywienia w strefie euro? Dopiero po raz drugi od blisko 4 lat zarówno wskaźnik PMI dla sektora usługowego jak i przemysłowego strefy euro znalazły się powyżej 50 punktów, sygnalizując tak długo oczekiwane ożywienie gospodarcze.",
+      "content_html": "",
       "date_published": "2026-02-20T10:01:00+01:00",
       "source": "Bankier.pl"
     },
@@ -379,14 +467,6 @@
       "content_html": "Indeks PMI, określający koniunkturę w sektorze przemysłowym strefy euro, przygotowywany przez S&P Global, wyniósł w lutym 50,8 pkt. wobec 49,5 pkt. na koniec poprzedniego miesiąca - podano w I wylicze",
       "date_published": "2026-02-20T10:01:00+01:00",
       "source": "PAP Biznes"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Kto-przejmie-stery-po-Kaczynskim-1-4-Polakow-nie-wie-9086661.html",
-      "url": "https://www.bankier.pl/wiadomosc/Kto-przejmie-stery-po-Kaczynskim-1-4-Polakow-nie-wie-9086661.html",
-      "title": "Kto przejmie stery po Kaczyńskim? 1/4 Polaków nie wie",
-      "content_html": "29 proc. ankietowanych uważa, że były premier Mateusz Morawiecki powinien być szefem partii po Jarosławie Kaczyńskim; drugi wynik ma Przemysław Czarnek (11 proc.) -- wynika z sondażu IBRiS dla „Faktu”. Po 5 proc. głosów uzyskali Mariusz...",
-      "date_published": "2026-02-20T10:00:00+01:00",
-      "source": "Bankier.pl"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Brak-waloryzacji-limitu-ulgi-na-jedno-dziecko-od-13-lat-Limit-112-tys-zl-wyklucza-coraz-wiecej-rodzicow-9086693.html",
@@ -847,16 +927,8 @@
     {
       "id": "https://www.bankier.pl/wiadomosc/Rzad-Donalda-Tuska-wymienia-prezesow-panstwowych-spolek-jak-rekawiczki-Ministrow-Aktywow-Panstwowych-zreszta-tez-9085153.html",
       "url": "https://www.bankier.pl/wiadomosc/Rzad-Donalda-Tuska-wymienia-prezesow-panstwowych-spolek-jak-rekawiczki-Ministrow-Aktywow-Panstwowych-zreszta-tez-9085153.html",
-      "title": "Tabuny prezesów za rządów Tuska. Gorące krzesła w narodowych czempionach",
+      "title": "Ponad 50 prezesów za rządów Tuska. Gorące krzesła w narodowych czempionach",
       "content_html": "Od wymiany władzy w Polsce nieco ponad dwa lata temu 24 państwowe spółki notowane na GPW miały już 54 prezesów nominowanych z polecenia obecnej koalicji rządzącej, wynika z naszych wyliczeń. W niektórych przypadkach na najważniejszym fotelu...",
-      "date_published": "2026-02-20T06:00:00+01:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Ceny-transakcyjne-mieszkan-na-rynku-wtornym-IV-kw-2025-9085555.html",
-      "url": "https://www.bankier.pl/wiadomosc/Ceny-transakcyjne-mieszkan-na-rynku-wtornym-IV-kw-2025-9085555.html",
-      "title": "NBP: Mieszkania z drugiej ręki tanieją w największych miastach",
-      "content_html": "Inaczej niż trzy miesiące wcześniej, tym razem to na rynkach wtórnych łatwiej było o obniżki cen mieszkań – taki wniosek płynie z analizy najnowszych danych Narodowego Banku Polskiego za IV kw. 2025 r. Z nielicznymi wyjątkami nie były one...",
       "date_published": "2026-02-20T06:00:00+01:00",
       "source": "Bankier.pl"
     },
@@ -1061,22 +1133,6 @@
       "source": "Bankier.pl"
     },
     {
-      "id": "https://www.bankier.pl/wiadomosc/Fiasko-reformy-Krajowej-Rady-Sadownictwa-Prezydent-podjalem-decyzje-o-zawetowaniu-nowelizacji-ustawy-9086428.html",
-      "url": "https://www.bankier.pl/wiadomosc/Fiasko-reformy-Krajowej-Rady-Sadownictwa-Prezydent-podjalem-decyzje-o-zawetowaniu-nowelizacji-ustawy-9086428.html",
-      "title": "Fiasko reformy KRS. Prezydent: podjąłem decyzję o zawetowaniu nowelizacji ustawy",
-      "content_html": "Prezydent Karol Nawrocki poinformował w czwartek, że podjął decyzję o zawetowaniu nowelizacji ustawy o Krajowej Radzie Sądownictwa, która zakłada wybór sędziowskich członków Rady przez wszystkich sędziów.",
-      "date_published": "2026-02-19T18:59:00+01:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Rusza-Rada-Pokoju-Trumpa-Na-miejscu-polski-przedstawiciel-9086386.html",
-      "url": "https://www.bankier.pl/wiadomosc/Rusza-Rada-Pokoju-Trumpa-Na-miejscu-polski-przedstawiciel-9086386.html",
-      "title": "Rusza Rada Pokoju Trumpa. \"5 państw wyśle siły stabilizacyjne do Strefy Gazy\"",
-      "content_html": "W siedzibie organizacji Instytut Pokoju w Waszyngtonie rozpoczęło się w czwartek pierwsze posiedzenie Rady Pokoju z udziałem przedstawicieli 49 państw. Głównym tematem obrad ma być przyszłość Strefy Gazy.",
-      "date_published": "2026-02-19T18:54:00+01:00",
-      "source": "Bankier.pl"
-    },
-    {
       "id": "https://biznes.pap.pl/wiadomosci/rynki/zamkniecia-na-gieldach-w-europie-tabela-2826",
       "url": "https://biznes.pap.pl/wiadomosci/rynki/zamkniecia-na-gieldach-w-europie-tabela-2826",
       "title": "Zamknięcia na giełdach w Europie (tabela)",
@@ -1091,30 +1147,6 @@
       "content_html": "Europejskie rynki akcji zakończyły czwartkową sesję pod kreską, przy rozczarowujących dla rynku wynikach dużych spółek przemysłowych. W oczekiwaniu na rozwój sytuacji USA-Iran kolejną sesję wyraźnie z",
       "date_published": "2026-02-19T17:59:00+01:00",
       "source": "PAP Biznes"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Karol-Nawrocki-zatrzymal-zmiany-w-rolnictwie-Przepisy-premiuja-wielkie-podmioty-9086440.html",
-      "url": "https://www.bankier.pl/wiadomosc/Karol-Nawrocki-zatrzymal-zmiany-w-rolnictwie-Przepisy-premiuja-wielkie-podmioty-9086440.html",
-      "title": "Karol Nawrocki zatrzymał zmiany w rolnictwie. \"Przepisy premiują wielkie podmioty\"",
-      "content_html": "Prezydent zawetował ustawę o aktywnym rolniku; miała ona ograniczyć praktykę ubiegania się o płatności przez właścicieli gruntów nieprowadzących działalności rolniczej. (PAP)",
-      "date_published": "2026-02-19T17:50:00+01:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Parasol-nuklearny-nad-Polska-Kosiniak-Kamysz-odpowiada-Macronowi-i-Nawrockiemu-9086471.html",
-      "url": "https://www.bankier.pl/wiadomosc/Parasol-nuklearny-nad-Polska-Kosiniak-Kamysz-odpowiada-Macronowi-i-Nawrockiemu-9086471.html",
-      "title": "Parasol nuklearny nad Polską? Kosiniak-Kamysz zabiera głos",
-      "content_html": "Wicepremier, szef MON Władysław Kosiniak-Kamysz powiedział w rozmowie z PAP, że „nie boi się o sojusz transatlantycki\". Im Europa będzie więcej inwestować w obronność, tym Ameryka będzie nas poważniej i z większym respektem traktować -...",
-      "date_published": "2026-02-19T17:18:00+01:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Miliardy-z-SAFE-na-polska-armie-Kosiniak-Kamysz-o-jedynym-slusznym-wyborze-prezydenta-9086468.html",
-      "url": "https://www.bankier.pl/wiadomosc/Miliardy-z-SAFE-na-polska-armie-Kosiniak-Kamysz-o-jedynym-slusznym-wyborze-prezydenta-9086468.html",
-      "title": "Miliardy z SAFE na polską armię. Kosiniak-Kamysz o \"jedynym słusznym wyborze\" prezydenta",
-      "content_html": "Wicepremier, szef MON Władysław Kosiniak-Kamysz podkreślił w rozmowie z PAP, że jeśli prezydent Karol Nawrocki podejmie „jedyną słuszną decyzję” w sprawie ustawy wdrażającej mechanizm SAFE, uda się zrealizować pilne potrzeby polskiego...",
-      "date_published": "2026-02-19T17:17:00+01:00",
-      "source": "Bankier.pl"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Kiepskie-dane-marna-sesja-I-tylko-gieldowi-giganci-trzymali-WIG20-9086452.html",
@@ -1162,38 +1194,6 @@
       "title": "Akcjonariusze Asseco za zmniejszeniem ilości akcji własnych spółki do umorzenia do ok. 1,3 proc.",
       "content_html": "Akcjonariusze Asseco Poland, Adam Góral Fundacja Rodzinna (AGFR) oraz TSS Europe B.V., proponują zmniejszenie liczby akcji własnych podlegających umorzeniu z 3 proc. do około 1,3 proc. - podała spółka",
       "date_published": "2026-02-19T16:34:00+01:00",
-      "source": "PAP Biznes"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/gospodarka/euro-w-ebc-11753-usd-i-18205-jpy",
-      "url": "https://biznes.pap.pl/wiadomosci/gospodarka/euro-w-ebc-11753-usd-i-18205-jpy",
-      "title": "Euro w EBC: 1,1753 USD i 182,05 JPY",
-      "content_html": "Europejski Bank Centralny (EBC) ustalił kurs euro na 1,1753 USD i 182,05 JPY - podał bank na swojej stronie internetowej.",
-      "date_published": "2026-02-19T15:56:00+01:00",
-      "source": "PAP Biznes"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/USA-Iran-u-progu-wojny-Na-rynku-ropy-nerwowo-9086393.html",
-      "url": "https://www.bankier.pl/wiadomosc/USA-Iran-u-progu-wojny-Na-rynku-ropy-nerwowo-9086393.html",
-      "title": "OPINIA USA-Iran u progu wojny? Na rynku ropy nerwowo Cena ropy porusza się ostatnio w rytm doniesień o zmianach temperatury relacji USA-Iran - zauważyli analitycy PKO Banku Polskiego. Jak podali, w bazowym scenariuszu oczekiwane jest porozumienie m.in. tych państw przed latem tego roku, co może oznaczać spadek notowań tego surowca.",
-      "content_html": "",
-      "date_published": "2026-02-19T15:51:00+01:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/rynki/po-otwarciu-sesji-dji-traci-04-proc-sp-500-znizkuje-04-proc",
-      "url": "https://biznes.pap.pl/wiadomosci/rynki/po-otwarciu-sesji-dji-traci-04-proc-sp-500-znizkuje-04-proc",
-      "title": "Po otwarciu sesji DJI traci 0,4 proc., a S&P 500 zniżkuje 0,4 proc.",
-      "content_html": "Po otwarciu sesji w USA Dow Jones Industrial traci 0,4 proc. do 49.470 pkt., S&P500 idzie w dół o 0,4 proc. i wynosi 6.857 pkt.",
-      "date_published": "2026-02-19T15:32:00+01:00",
-      "source": "PAP Biznes"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/firmy/dzien-na-gpw-spadaja-glowne-indeksy-i-wiekszosc-sektorowych-orlen-najsilniejszy-w",
-      "url": "https://biznes.pap.pl/wiadomosci/firmy/dzien-na-gpw-spadaja-glowne-indeksy-i-wiekszosc-sektorowych-orlen-najsilniejszy-w",
-      "title": "DZIEŃ NA GPW: Spadają główne indeksy i większość sektorowych; Orlen najsilniejszy w WIG20",
-      "content_html": "Po południu spadają główne indeksy GPW oraz większość wskaźników sektorowych. W WIG20 najsłabsze jest KGHM, a liderem wzrostów pozostaje Orlen. Publikowane w czwartek dane GUS z polskiej gospodarki ni",
-      "date_published": "2026-02-19T15:15:00+01:00",
       "source": "PAP Biznes"
     }
   ]
