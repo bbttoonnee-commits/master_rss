@@ -5,6 +5,14 @@
   "home_page_url": "https://www.bankier.pl",
   "items": [
     {
+      "id": "https://biznes.pap.pl/wiadomosci/gospodarka/welconomy-forum-w-dniach-23-24-lutego-w-toruniu",
+      "url": "https://biznes.pap.pl/wiadomosci/gospodarka/welconomy-forum-w-dniach-23-24-lutego-w-toruniu",
+      "title": "Welconomy Forum w dniach 23-24 lutego w Toruniu",
+      "content_html": "23 i 24 lutego 2026 roku Toruń stanie się centrum debat o stabilności państwa w wymiarze społecznym i ekonomicznym podczas XXXIII edycji Welconomy Forum. Wydarzenie zgromadzi blisko dwa tysiące uczest",
+      "date_published": "2026-02-21T15:21:00+01:00",
+      "source": "PAP Biznes"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Smiertelne-naloty-w-Libanie-Napiecie-na-Bliskim-Wschodzie-rosnie-w-cieniu-konfliktu-z-Iranem-9087227.html",
       "url": "https://www.bankier.pl/wiadomosc/Smiertelne-naloty-w-Libanie-Napiecie-na-Bliskim-Wschodzie-rosnie-w-cieniu-konfliktu-z-Iranem-9087227.html",
       "title": "Śmiertelne naloty w Libanie. Napięcie na Bliskim Wschodzie rośnie w cieniu konfliktu z Iranem",
@@ -533,14 +541,6 @@
       "source": "Bankier.pl"
     },
     {
-      "id": "https://biznes.pap.pl/wiadomosci/gospodarka/sad-najwyzszy-usa-uniewaznil-wiekszosc-wprowadzonych-przez-prezydenta-0",
-      "url": "https://biznes.pap.pl/wiadomosci/gospodarka/sad-najwyzszy-usa-uniewaznil-wiekszosc-wprowadzonych-przez-prezydenta-0",
-      "title": "Sąd Najwyższy USA unieważnił większość wprowadzonych przez prezydenta Trumpa ceł (opis)",
-      "content_html": "Sąd Najwyższy Stanów Zjednoczonych unieważnił większość wprowadzonych przez prezydenta Donalda Trumpa, szeroko zakrojonych globalnych ceł, podważając jego politykę gospodarczą i zadając mu największą ",
-      "date_published": "2026-02-20T16:40:00+01:00",
-      "source": "PAP Biznes"
-    },
-    {
       "id": "https://www.bankier.pl/wiadomosc/Polska-poza-Konwencja-Ottawska-Sikorski-ostro-o-obronie-granic-9086954.html",
       "url": "https://www.bankier.pl/wiadomosc/Polska-poza-Konwencja-Ottawska-Sikorski-ostro-o-obronie-granic-9086954.html",
       "title": "Polska poza Konwencją Ottawską. Sikorski ostro o obronie granic",
@@ -602,54 +602,6 @@
       "title": "ZUS zgadza się na układ ratalny z JSW. Zaległe składki zostaną rozłożone na 11 rat",
       "content_html": "Zakład Ubezpieczeń Społecznych zgodził się na rozłożenie należności od Jastrzębskiej Spółki Węglowej za okres od maja do października 2025 roku na 11 rat - poinformowała JSW w komunikacie.",
       "date_published": "2026-02-20T15:26:00+01:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Era-Walmartu-dobiegla-konca-Amazon-sprzedaje-najwiecej-na-swiecie-9086925.html",
-      "url": "https://www.bankier.pl/wiadomosc/Era-Walmartu-dobiegla-konca-Amazon-sprzedaje-najwiecej-na-swiecie-9086925.html",
-      "title": "Era Walmartu dobiegła końca. Amazon sprzedaje najwięcej na świecie",
-      "content_html": "Tytuł nowej największej firmy na świecie pod względem rocznych przychodów oficjalnie zmienił właściciela. Po latach dominacji Walmart musiał ustąpić miejsca Amazonowi. Jednak w sprzedaży detalicznej Walmart nadal nie ma sobie równych, a tytuł...",
-      "date_published": "2026-02-20T15:20:00+01:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Nowa-odslona-eZUS-dla-przedsiebiorcow-ZUS-stawia-na-przejrzystosc-9086921.html",
-      "url": "https://www.bankier.pl/wiadomosc/Nowa-odslona-eZUS-dla-przedsiebiorcow-ZUS-stawia-na-przejrzystosc-9086921.html",
-      "title": "Nowa odsłona eZUS dla przedsiębiorców. ZUS stawia na przejrzystość",
-      "content_html": "W przyszłym tygodniu ZUS udostępni 500 tys. losowo wybranym klientom nowy portal eZUS przeznaczony dla płatników składek. Nowe konto będzie bardziej przejrzyste, intuicyjne i dostosowane do codziennych potrzeb przedsiębiorców - przekazał Zakład...",
-      "date_published": "2026-02-20T15:18:00+01:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Poprawa-koniunktury-w-lutym-2026-Lewiatan-ocenia-nastroje-polskich-przedsiebiorstw-9086914.html",
-      "url": "https://www.bankier.pl/wiadomosc/Poprawa-koniunktury-w-lutym-2026-Lewiatan-ocenia-nastroje-polskich-przedsiebiorstw-9086914.html",
-      "title": "Poprawa koniunktury w lutym 2026. Lewiatan ocenia nastroje polskich przedsiębiorstw",
-      "content_html": "Piątkowe dane GUS o koniunkturze wskazują na wyraźnie lepsze nastroje przedsiębiorstw niż przed rokiem, choć nie jest to „klasyczne ożywienie” - uważa Mariusz Zielonka z Konfederacji Lewiatan. Ocenił, że obecnie największym problemem dla...",
-      "date_published": "2026-02-20T15:09:00+01:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Smierc-Ukrainca-w-izbie-wytrzezwien-Wroclawski-sad-wydal-wyrok-w-glosnej-sprawie-9086899.html",
-      "url": "https://www.bankier.pl/wiadomosc/Smierc-Ukrainca-w-izbie-wytrzezwien-Wroclawski-sad-wydal-wyrok-w-glosnej-sprawie-9086899.html",
-      "title": "Śmierć Ukraińca w izbie wytrzeźwień. Wrocławski sąd wydał wyrok w głośnej sprawie",
-      "content_html": "Na kary od 6 miesięcy więzienia do roku, w zawieszeniu na 2 lata, skazał w piątek Sąd Apelacyjny we Wrocławiu 7 osób, w tym b. policjantów, opiekunów i lekarkę, oskarżonych w sprawie śmierci 25-letniego obywatela Ukrainy Dmytra N. we Wrocławskim...",
-      "date_published": "2026-02-20T14:59:00+01:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Brak-porozumienia-w-UE-ws-20-pakietu-sankcji-na-Rosje-Koscia-niezgody-ropa-9086903.html",
-      "url": "https://www.bankier.pl/wiadomosc/Brak-porozumienia-w-UE-ws-20-pakietu-sankcji-na-Rosje-Koscia-niezgody-ropa-9086903.html",
-      "title": "Brak porozumienia w UE ws. 20. pakietu sankcji na Rosję. Kością niezgody, transport ropy",
-      "content_html": "Ambasadorom państw członkowskich UE nie udało się porozumieć w piątek w sprawie 20. pakietu sankcji na Rosję - poinformowały źródła unijne. Nowe restrykcje mają zostać przyjęte w czwartą rocznicę pełnoskalowego ataku na Ukrainę, czyli...",
-      "date_published": "2026-02-20T14:55:00+01:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Juz-126-zmian-weszlo-w-zycie-Rzad-odslania-kulisy-deregulacji-9086820.html",
-      "url": "https://www.bankier.pl/wiadomosc/Juz-126-zmian-weszlo-w-zycie-Rzad-odslania-kulisy-deregulacji-9086820.html",
-      "title": "Już 126 zmian weszło w życie. Rząd odsłania kulisy deregulacji",
-      "content_html": "Przewodniczący Rządowego Zespołu Deregulacyjnego, minister Maciej Berek przekazał w piątek, że w życie weszło 126 zmian wynikających z 522 postulatów inicjatywy SprawdzaMy. Zapowiedział prace nad dużymi zmianami upraszczającymi przepisy dot...",
-      "date_published": "2026-02-20T14:48:00+01:00",
       "source": "Bankier.pl"
     }
   ]
