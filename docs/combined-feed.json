@@ -5,6 +5,30 @@
   "home_page_url": "https://www.bankier.pl",
   "items": [
     {
+      "id": "https://biznes.pap.pl/wiadomosci/ekonomia-biznes-i-finanse/skrot-wiadomosci-poniedzialek-23-lutego-2100",
+      "url": "https://biznes.pap.pl/wiadomosci/ekonomia-biznes-i-finanse/skrot-wiadomosci-poniedzialek-23-lutego-2100",
+      "title": "Skrót wiadomości - poniedziałek, 23 lutego, 21.00",
+      "content_html": "Przegląd najważniejszych wiadomości gospodarczych, krajowych i ze świata.",
+      "date_published": "2026-02-23T21:08:00+01:00",
+      "source": "PAP Biznes"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/The-Farm-51-rozpoczelo-postepowanie-restrukturyzacyjne-9087988.html",
+      "url": "https://www.bankier.pl/wiadomosc/The-Farm-51-rozpoczelo-postepowanie-restrukturyzacyjne-9087988.html",
+      "title": "The Farm 51 rozpoczęło postępowanie restrukturyzacyjne",
+      "content_html": "The Farm 51 Group, notowany na NewConnect producent gier wideo rozpoczął w poniedziałek postępowanie o zatwierdzenie układu - poinformowała spółka w komunikacie.",
+      "date_published": "2026-02-23T21:04:00+01:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/firmy/farm-51-rozpoczelo-postepowanie-restrukturyzacyjne",
+      "url": "https://biznes.pap.pl/wiadomosci/firmy/farm-51-rozpoczelo-postepowanie-restrukturyzacyjne",
+      "title": "The Farm 51 rozpoczęło postępowanie restrukturyzacyjne",
+      "content_html": "The Farm 51 Group, notowany na NewConnect producent gier wideo rozpoczął w poniedziałek postępowanie o zatwierdzenie układu - poinformowała spółka w komunikacie.",
+      "date_published": "2026-02-23T21:03:00+01:00",
+      "source": "PAP Biznes"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Arabia-Saudyjska-bolesnie-zderzyla-sie-z-rzeczywistoscia-The-Line-wyparty-przez-AI-9086121.html",
       "url": "https://www.bankier.pl/wiadomosc/Arabia-Saudyjska-bolesnie-zderzyla-sie-z-rzeczywistoscia-The-Line-wyparty-przez-AI-9086121.html",
       "title": "Arabia Saudyjska boleśnie zderzyła się z rzeczywistością. The Line wyparty przez AI",
@@ -269,22 +293,6 @@
       "source": "Bankier.pl"
     },
     {
-      "id": "https://biznes.pap.pl/wiadomosci/firmy/ambra-liczy-na-dobre-ii-polrocze-rozwija-segment-produktow-bezalkoholowych",
-      "url": "https://biznes.pap.pl/wiadomosci/firmy/ambra-liczy-na-dobre-ii-polrocze-rozwija-segment-produktow-bezalkoholowych",
-      "title": "Ambra liczy na dobre II półrocze, rozwija segment produktów bezalkoholowych",
-      "content_html": "Ambra liczy na dobre drugie półrocze 2025/2026 - poinformowali przedstawiciele spółki na konferencji prasowej. Grupa rozwija segment produktów bezalkoholowych i pracuje nad zwiększeniem efektywności w",
-      "date_published": "2026-02-23T15:44:00+01:00",
-      "source": "PAP Biznes"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/rynki/po-otwarciu-sesji-dji-i-sp-500-bez-wiekszych-zmian-3",
-      "url": "https://biznes.pap.pl/wiadomosci/rynki/po-otwarciu-sesji-dji-i-sp-500-bez-wiekszych-zmian-3",
-      "title": "Po otwarciu sesji DJI i S&P 500 bez większych zmian",
-      "content_html": "Po otwarciu sesji w USA Dow Jones Industrial pozostaje bez większych zmian ok. 49.634 pkt., podobnie jak S&P500 ok. 6.910 pkt.",
-      "date_published": "2026-02-23T15:36:00+01:00",
-      "source": "PAP Biznes"
-    },
-    {
       "id": "https://www.bankier.pl/wiadomosc/Unibep-podjal-uchwale-w-sprawie-emisji-obligacji-w-ramach-II-Programu-Emisji-Obligacji-9087801.html",
       "url": "https://www.bankier.pl/wiadomosc/Unibep-podjal-uchwale-w-sprawie-emisji-obligacji-w-ramach-II-Programu-Emisji-Obligacji-9087801.html",
       "title": "Unibep podjął uchwałę w sprawie emisji obligacji w ramach II Programu Emisji Obligacji",
@@ -461,6 +469,14 @@
       "source": "Bankier.pl"
     },
     {
+      "id": "https://biznes.pap.pl/wiadomosci/gospodarka/ceny-materialow-budowlanych-w-styczniu-wzrosly-o-04-proc-rdr-psb",
+      "url": "https://biznes.pap.pl/wiadomosci/gospodarka/ceny-materialow-budowlanych-w-styczniu-wzrosly-o-04-proc-rdr-psb",
+      "title": "Ceny materiałów budowlanych w styczniu wzrosły o 0,4 proc. rdr - PSB",
+      "content_html": "Ceny materiałów budowlanych oraz materiałów do domu i ogrodu w styczniu wzrosły o 0,4 proc. rdr, po spadku o 0,2 proc. w grudniu - podały Polskie Składy Budowlane w komunikacie.",
+      "date_published": "2026-02-23T13:03:00+01:00",
+      "source": "PAP Biznes"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Planujesz-lot-z-Wizz-Air-Nie-kupisz-biletu-i-nie-odprawisz-sie-online-9087680.html",
       "url": "https://www.bankier.pl/wiadomosc/Planujesz-lot-z-Wizz-Air-Nie-kupisz-biletu-i-nie-odprawisz-sie-online-9087680.html",
       "title": "Planujesz lot z Wizz Air? Nie kupisz biletu i nie odprawisz się online",
@@ -483,6 +499,14 @@
       "content_html": "Konsorcjum Torpol-Mirbud domaga się zmiany wyroku Krajowej Izby Odwoławczej dotyczącego przetargu PKP PLK na przebudowę linii kolejowej Rail Baltica - poinformował Mirbud w komunikacie prasowym.",
       "date_published": "2026-02-23T12:48:00+01:00",
       "source": "Bankier.pl"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/firmy/konsorcjum-torpol-mirbud-zlozylo-skarge-od-wyroku-kio-dot-przetargu-linii-rail",
+      "url": "https://biznes.pap.pl/wiadomosci/firmy/konsorcjum-torpol-mirbud-zlozylo-skarge-od-wyroku-kio-dot-przetargu-linii-rail",
+      "title": "Konsorcjum Torpol-Mirbud złożyło skargę od wyroku KIO dot. przetargu linii Rail Baltica",
+      "content_html": "Konsorcjum Torpol-Mirbud domaga się zmiany wyroku Krajowej Izby Odwoławczej dotyczącego przetargu PKP PLK na przebudowę linii kolejowej Rail Baltica - poinformował Mirbud w komunikacie prasowym.",
+      "date_published": "2026-02-23T12:47:00+01:00",
+      "source": "PAP Biznes"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Ukrainskie-wojska-odzyskaly-setki-kilometrow-kwadratowych-Sytuacja-jest-trudna-9087673.html",
@@ -1183,8 +1207,8 @@
     {
       "id": "https://www.bankier.pl/wiadomosc/Janusz-Krypto-co-to-jest-bitcoin-Czym-sa-kryptowaluty-Jak-powstaly-9076478.html",
       "url": "https://www.bankier.pl/wiadomosc/Janusz-Krypto-co-to-jest-bitcoin-Czym-sa-kryptowaluty-Jak-powstaly-9076478.html",
-      "title": "Janusz Krypto: siostrzeniec mówi, że to pieniądz, ja widzę kod. Czym jest ten cały bitcoin?",
-      "content_html": "Bitcoin, czyli co? Konserwatywny inwestor mierzy się z rynkiem kryptowalut i zadaje pytania, których inni się boją. Dlaczego cyfrowy kod, którego nie da się dotknąć, kosztuje tyle co luksusowe samochody i czemu powstał akurat wtedy, gdy banki...",
+      "title": "TYLKO U NAS Janusz Krypto: siostrzeniec mówi, że to pieniądz, ja widzę kod. Czym jest ten cały bitcoin? Bitcoin, czyli co? Konserwatywny inwestor mierzy się z rynkiem kryptowalut i zadaje pytania, których inni się boją. Dlaczego cyfrowy kod, którego nie da się dotknąć, kosztuje tyle co luksusowe samochody i czemu powstał akurat wtedy, gdy banki waliły się jak domki z kart? Janusz Krypto zaczyna swój audyt bitcoina.",
+      "content_html": "",
       "date_published": "2026-02-23T06:00:00+01:00",
       "source": "Bankier.pl"
     }
