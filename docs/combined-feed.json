@@ -5,18 +5,154 @@
   "home_page_url": "https://www.bankier.pl",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/Odlewnie-Polskie-maja-zamowienie-od-PGZ-za-28-5-mln-zl-brutto-9087728.html",
+      "url": "https://www.bankier.pl/wiadomosc/Odlewnie-Polskie-maja-zamowienie-od-PGZ-za-28-5-mln-zl-brutto-9087728.html",
+      "title": "Odlewnie Polskie mają zamówienie od PGZ za 28,5 mln zł brutto Odlewnie Polskie otrzymały zamówienie od Polskiej Grupy Zbrojeniowej na wykonanie korpusów pocisków w technologii ADI za 28,5 mln zł brutto - podały Odlewnie Polskie w komunikacie.",
+      "content_html": "",
+      "date_published": "2026-02-23T14:04:00+01:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/firmy/odlewnie-polskie-maja-zamowienie-od-pgz-za-285-mln-zl-brutto",
+      "url": "https://biznes.pap.pl/wiadomosci/firmy/odlewnie-polskie-maja-zamowienie-od-pgz-za-285-mln-zl-brutto",
+      "title": "Odlewnie Polskie mają zamówienie od PGZ za 28,5 mln zł brutto",
+      "content_html": "Odlewnie Polskie otrzymały zamówienie od Polskiej Grupy Zbrojeniowej na wykonanie korpusów pocisków w technologii ADI za 28,5 mln zł brutto - podały Odlewnie Polskie w komunikacie.",
+      "date_published": "2026-02-23T14:03:00+01:00",
+      "source": "PAP Biznes"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/DataWalk-przydzielil-750-000-akcji-serii-T-w-cenie-155-zl-szt-9087720.html",
+      "url": "https://www.bankier.pl/wiadomosc/DataWalk-przydzielil-750-000-akcji-serii-T-w-cenie-155-zl-szt-9087720.html",
+      "title": "DataWalk przydzielił 750.000 akcji serii T w cenie 155 zł/szt.",
+      "content_html": "DataWalk w ramach emisji przydzielił 750.000 akcji serii T w cenie 155 zł za papier - podała spółka w komunikacie. Umowy objęcia akcji zostały zawarte z 12 inwestorami. (PAP Biznes)",
+      "date_published": "2026-02-23T14:00:00+01:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Obligacje-KGHM-o-wartosci-1-6-mld-zl-zadebiutowaly-na-rynku-Catalyst-9087721.html",
+      "url": "https://www.bankier.pl/wiadomosc/Obligacje-KGHM-o-wartosci-1-6-mld-zl-zadebiutowaly-na-rynku-Catalyst-9087721.html",
+      "title": "KGHM wypuścił obligacje. \"Jedna z największych emisji w historii naszego rynku\"",
+      "content_html": "Obligacje serii D o wartości 1,6 mld zł wyemitowane przez KGHM Polska Miedź zadebiutowały w poniedziałek na rynku Catalyst.",
+      "date_published": "2026-02-23T14:00:00+01:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/gospodarka/podaz-pieniadza-m3-w-styczniu-wzrosla-o-100-proc-rdr-mdm-spadla-08-proc-nbp",
+      "url": "https://biznes.pap.pl/wiadomosci/gospodarka/podaz-pieniadza-m3-w-styczniu-wzrosla-o-100-proc-rdr-mdm-spadla-08-proc-nbp",
+      "title": "Podaż pieniądza (M3) w styczniu wzrosła o 10,0 proc. rdr, a mdm spadła 0,8 proc. - NBP",
+      "content_html": "Podaż pieniądza (M3) w styczniu 2026 r. wzrosła o 10,0 proc. rdr do 2.714.997,7 mln zł - podał Narodowy Bank Polski. W ujęciu miesięcznym podaż pieniądza spadła o 0,8 proc.",
+      "date_published": "2026-02-23T14:00:00+01:00",
+      "source": "PAP Biznes"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/firmy/datawalk-przydzielil-750000-akcji-serii-t-w-cenie-155-zlszt",
+      "url": "https://biznes.pap.pl/wiadomosci/firmy/datawalk-przydzielil-750000-akcji-serii-t-w-cenie-155-zlszt",
+      "title": "DataWalk przydzielił 750.000 akcji serii T w cenie 155 zł/szt.",
+      "content_html": "DataWalk w ramach emisji przydzielił 750.000 akcji serii T w cenie 155 zł za papier - podała spółka w komunikacie. Umowy objęcia akcji zostały zawarte z 12 inwestorami. (PAP Biznes)",
+      "date_published": "2026-02-23T13:59:00+01:00",
+      "source": "PAP Biznes"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/firmy/obligacje-kghm-o-wartosci-16-mld-zl-zadebiutowaly-na-rynku-catalyst",
+      "url": "https://biznes.pap.pl/wiadomosci/firmy/obligacje-kghm-o-wartosci-16-mld-zl-zadebiutowaly-na-rynku-catalyst",
+      "title": "Obligacje KGHM o wartości 1,6 mld zł zadebiutowały na rynku Catalyst",
+      "content_html": "Obligacje serii D o wartości 1,6 mld zł wyemitowane przez KGHM Polska Miedź zadebiutowały w poniedziałek na rynku Catalyst.",
+      "date_published": "2026-02-23T13:58:00+01:00",
+      "source": "PAP Biznes"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/gospodarka/dzien-na-fxfi-zloty-i-spw-pod-dominujacym-wplywem-rynkow-bazowych-i",
+      "url": "https://biznes.pap.pl/wiadomosci/gospodarka/dzien-na-fxfi-zloty-i-spw-pod-dominujacym-wplywem-rynkow-bazowych-i",
+      "title": "DZIEŃ NA FX/FI: Złoty i SPW pod dominującym wpływem rynków bazowych i geopolityki w tym tygodniu",
+      "content_html": "Scenariuszem bazowym dla złotego jest w tym tygodniu stabilizacja kursu w pobliżu obecnych poziomów, a wzrost rentowności obligacji może wyhamować po aukcji - ocenili w raporcie analitycy Banku Millen",
+      "date_published": "2026-02-23T13:47:00+01:00",
+      "source": "PAP Biznes"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Czarzasty-w-Kijowie-Oomozemy-wam-w-wejsciu-do-Unii-Europejskiej-9087669.html",
+      "url": "https://www.bankier.pl/wiadomosc/Czarzasty-w-Kijowie-Oomozemy-wam-w-wejsciu-do-Unii-Europejskiej-9087669.html",
+      "title": "Czarzasty w Kijowie: Pomożemy wam w wejściu do Unii Europejskiej",
+      "content_html": "Polski Sejm będzie wspierał Ukrainę w drodze do Unii Europejskiej - taką deklarację podpisał w poniedziałek w Kijowie marszałek Sejmu Włodzimierz Czarzasty. Przewodniczący Rady Najwyższej Rusłan Stefanczuk podziękował za wsparcie, jakie...",
+      "date_published": "2026-02-23T13:32:00+01:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Miliony-skazane-na-tulaczke-Liczba-ukrainskich-uchodzcow-siega-juz-6-milionow-9087702.html",
+      "url": "https://www.bankier.pl/wiadomosc/Miliony-skazane-na-tulaczke-Liczba-ukrainskich-uchodzcow-siega-juz-6-milionow-9087702.html",
+      "title": "Miliony skazane na tułaczkę. Liczba ukraińskich uchodźców sięga już 6 milionów",
+      "content_html": "Wysoki Komisarz ONZ do spraw Uchodźców (UNHCR) poinformował w poniedziałek, że cztery lata od początku inwazji Rosji na Ukrainę liczbę ukraińskich uchodźców szacuje na około 5,9 mln. Według przedstawiciela UNHCR w Polsce postawa Polski od...",
+      "date_published": "2026-02-23T13:28:00+01:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Sedzia-Joanna-Grabowska-wylosowana-do-sprawy-ENA-wobec-Zbigniewa-Ziobry-9086985.html",
+      "url": "https://www.bankier.pl/wiadomosc/Sedzia-Joanna-Grabowska-wylosowana-do-sprawy-ENA-wobec-Zbigniewa-Ziobry-9086985.html",
+      "title": "Sędzia Joanna Grabowska wylosowana do sprawy ENA wobec Zbigniewa Ziobry",
+      "content_html": "Do sprawy wniosku o wydanie europejskiego nakazu aresztowania (ENA) wobec Zbigniewa Ziobry wylosowana została sędzia Joanna Grabowska - poinformowała w piątek rzecznik warszawskiego sądu okręgowego ds. karnych sędzia Anna Ptaszek. Sekcja międzynarodowa...",
+      "date_published": "2026-02-23T13:27:00+01:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Bialorusin-podejrzany-o-szpiegostwo-zatrzymany-w-Warszawie-Dzialal-na-terenie-Polski-Niemiec-i-Litwy-9087550.html",
+      "url": "https://www.bankier.pl/wiadomosc/Bialorusin-podejrzany-o-szpiegostwo-zatrzymany-w-Warszawie-Dzialal-na-terenie-Polski-Niemiec-i-Litwy-9087550.html",
+      "title": "Białorusin podejrzany o szpiegostwo zatrzymany w Warszawie. Działał na terenie Polski, Niemiec i Litwy",
+      "content_html": "Funkcjonariusze Agencji Bezpieczeństwa Wewnętrznego zatrzymali na początku lutego Białorusina podejrzanego o szpiegostwo na rzecz białoruskiego wywiadu wojskowego - poinformował w poniedziałek rzecznik prasowy Prokuratury Krajowej prok. Przemysław...",
+      "date_published": "2026-02-23T13:26:00+01:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Precedens-w-brytyjskiej-monarchii-Ksiaze-Andrzej-wypadnie-z-kolejki-do-tronu-9087700.html",
+      "url": "https://www.bankier.pl/wiadomosc/Precedens-w-brytyjskiej-monarchii-Ksiaze-Andrzej-wypadnie-z-kolejki-do-tronu-9087700.html",
+      "title": "Precedens w brytyjskiej monarchii. Książe Andrzej wypadnie z kolejki do tronu?",
+      "content_html": "Australia poprze każde plany brytyjskiego rządu, by usunąć byłego księcia Andrzeja z linii sukcesji - napisał premier tego kraju Anthony Albanese w liście do swojego brytyjskiego odpowiednika Keira Starmera.",
+      "date_published": "2026-02-23T13:26:00+01:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Afera-weglowa-z-czasow-Morawieckiego-RARS-zawiadamia-prokurature-9087555.html",
+      "url": "https://www.bankier.pl/wiadomosc/Afera-weglowa-z-czasow-Morawieckiego-RARS-zawiadamia-prokurature-9087555.html",
+      "title": "Afera węglowa z czasów Morawieckiego. RARS zawiadamia prokuraturę",
+      "content_html": "Rosnące ceny węgla po wprowadzeniu embarga na ten surowiec z Rosji w 2022 r. stały się „okazją do przekrętu”, a skutki odczuwamy do tej pory - stwierdził szef Kancelarii Prezesa Rady Ministrów Jan Grabiec.",
+      "date_published": "2026-02-23T13:12:00+01:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Islandie-ciagnie-do-Unii-Europejskiej-Reykjavik-chce-przyspieszyc-referendum-9087686.html",
+      "url": "https://www.bankier.pl/wiadomosc/Islandie-ciagnie-do-Unii-Europejskiej-Reykjavik-chce-przyspieszyc-referendum-9087686.html",
+      "title": "Islandię ciągnie do Unii Europejskiej. Reykjavik chce przyspieszyć referendum",
+      "content_html": "Islandia chce przyspieszyć referendum w sprawie przystąpienia do UE - oznajmił w poniedziałek serwis Politico, powołując się na rozmowy z osobami zaznajomionymi ze sprawą. Głosowanie, planowane wcześniej na 2027 r., może odbyć się już w...",
+      "date_published": "2026-02-23T13:12:00+01:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/gospodarka/ceny-materialow-budowlanych-w-styczniu-wzrosly-o-04-proc-rdr-psb",
+      "url": "https://biznes.pap.pl/wiadomosci/gospodarka/ceny-materialow-budowlanych-w-styczniu-wzrosly-o-04-proc-rdr-psb",
+      "title": "Ceny materiałów budowlanych w styczniu wzrosły o 0,4 proc. rdr - PSB",
+      "content_html": "Ceny materiałów budowlanych oraz materiałów do domu i ogrodu w styczniu wzrosły o 0,4 proc. rdr, po spadku o 0,2 proc. w grudniu - podały Polskie Składy Budowlane w komunikacie.",
+      "date_published": "2026-02-23T13:03:00+01:00",
+      "source": "PAP Biznes"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Planujesz-lot-z-Wizz-Air-Nie-kupisz-biletu-i-nie-odprawisz-sie-online-9087680.html",
+      "url": "https://www.bankier.pl/wiadomosc/Planujesz-lot-z-Wizz-Air-Nie-kupisz-biletu-i-nie-odprawisz-sie-online-9087680.html",
+      "title": "Planujesz lot z Wizz Air? Nie kupisz biletu i nie odprawisz się online",
+      "content_html": "Wizz Air tymczasowo wstrzyma dostęp do platformy rezerwacyjnej i cyfrowych kanałów obsługi klienta; przerwa potrwa w nocy z 25 na 26 lutego - poinformowała linia w poniedziałek. Dodała, że wszystkie loty będą odbywać się zgodnie z rozkładem...",
+      "date_published": "2026-02-23T13:01:00+01:00",
+      "source": "Bankier.pl"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Chcesz-inwestowac-jak-profesjonalista-SGH-ma-ciekawy-kierunek-rusza-rekrutacja-9087672.html",
       "url": "https://www.bankier.pl/wiadomosc/Chcesz-inwestowac-jak-profesjonalista-SGH-ma-ciekawy-kierunek-rusza-rekrutacja-9087672.html",
-      "title": "BANKOWOŚĆ INWESTYCYJNA Chcesz inwestować jak profesjonalista? SGH ma ciekawy kierunek, rusza rekrutacja Rynek kapitałowy potrafi nagradzać cierpliwość – ale równie często karze złudzenia. Dlatego coraz więcej osób, zamiast „szukać pewniaków”, chce zrozumieć warsztat profesjonalistów: jak podejmują decyzje, jak mierzą ryzyko, jak układają portfele i jakich narzędzi używają, gdy emocje na rynku rosną. Właśnie z myślą o takich osobach Szkoła Główna Handlowa w Warszawie (SGH) prowadzi studia podyplomowe „Bankowość Inwestycyjna” – a trwa właśnie rekrutacja na XIV edycję. Patronem medialnym programu jest Bankier.pl.",
-      "content_html": "",
+      "title": "Chcesz inwestować jak profesjonalista? SGH ma ciekawy kierunek, rusza rekrutacja",
+      "content_html": "Rynek kapitałowy potrafi nagradzać cierpliwość – ale równie często karze złudzenia. Dlatego coraz więcej osób, zamiast „szukać pewniaków”, chce zrozumieć warsztat profesjonalistów: jak podejmują decyzje, jak mierzą ryzyko, jak układają...",
       "date_published": "2026-02-23T12:55:00+01:00",
       "source": "Bankier.pl"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Konsorcjum-Torpol-Mirbud-zlozylo-skarge-od-wyroku-KIO-dot-przetargu-linii-Rail-Baltica-9087674.html",
       "url": "https://www.bankier.pl/wiadomosc/Konsorcjum-Torpol-Mirbud-zlozylo-skarge-od-wyroku-KIO-dot-przetargu-linii-Rail-Baltica-9087674.html",
-      "title": "Konsorcjum Torpol-Mirbud złożyło skargę od wyroku KIO dot. przetargu linii Rail Baltica Konsorcjum Torpol-Mirbud domaga się zmiany wyroku Krajowej Izby Odwoławczej dotyczącego przetargu PKP PLK na przebudowę linii kolejowej Rail Baltica - poinformował Mirbud w komunikacie prasowym.",
-      "content_html": "",
+      "title": "Konsorcjum Torpol-Mirbud złożyło skargę od wyroku KIO dot. przetargu linii Rail Baltica",
+      "content_html": "Konsorcjum Torpol-Mirbud domaga się zmiany wyroku Krajowej Izby Odwoławczej dotyczącego przetargu PKP PLK na przebudowę linii kolejowej Rail Baltica - poinformował Mirbud w komunikacie prasowym.",
       "date_published": "2026-02-23T12:48:00+01:00",
       "source": "Bankier.pl"
     },
@@ -29,11 +165,11 @@
       "source": "PAP Biznes"
     },
     {
-      "id": "https://www.bankier.pl/wiadomosc/Czarzasty-w-Kijowie-Oomozemy-wam-w-wejsciu-do-Unii-Europejskiej-9087669.html",
-      "url": "https://www.bankier.pl/wiadomosc/Czarzasty-w-Kijowie-Oomozemy-wam-w-wejsciu-do-Unii-Europejskiej-9087669.html",
-      "title": "Czarzasty w Kijowie: Pomożemy wam w wejściu do Unii Europejskiej",
-      "content_html": "Polski Sejm będzie wspierał Ukrainę w drodze do Unii Europejskiej - taką deklarację podpisał w poniedziałek w Kijowie marszałek Sejmu Włodzimierz Czarzasty. Przewodniczący Rady Najwyższej Rusłan Stefanczuk podziękował za wsparcie, jakie...",
-      "date_published": "2026-02-23T12:35:00+01:00",
+      "id": "https://www.bankier.pl/wiadomosc/Ukrainskie-wojska-odzyskaly-setki-kilometrow-kwadratowych-Sytuacja-jest-trudna-9087673.html",
+      "url": "https://www.bankier.pl/wiadomosc/Ukrainskie-wojska-odzyskaly-setki-kilometrow-kwadratowych-Sytuacja-jest-trudna-9087673.html",
+      "title": "Ukraińskie wojska odzyskały setki kilometrów kwadratowych. \"Sytuacja jest trudna\"",
+      "content_html": "Naczelny dowódca sił zbrojnych Ukrainy generał Ołeksandr Syrski poinformował w poniedziałek, że od końca stycznia jego wojska odbiły z rąk Rosjan ponad 400 kilometrów kwadratowych terytorium i wyzwoliły osiem miejscowości.",
+      "date_published": "2026-02-23T12:43:00+01:00",
       "source": "Bankier.pl"
     },
     {
@@ -90,14 +226,6 @@
       "title": "Węgierska blokada sankcji i pożyczki dla Ukrainy. \"Dopóki Kijów nie wznowi tranzytu ropy\"",
       "content_html": "Do czasu, kiedy Ukraina nie wznowi dostaw ropy na Węgry, nie zamierzamy popierać ani pożyczki dla Ukrainy, ani 20. pakietu sankcji wobec Rosji – zapowiedział w poniedziałek w Brukseli szef węgierskiego MSZ Peter Szijjarto. Polityk zarzucił Ukrainie...",
       "date_published": "2026-02-23T11:54:00+01:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Bialorusin-podejrzany-o-szpiegostwo-zatrzymany-w-Warszawie-Dzialal-na-terenie-Polski-Niemiec-i-Litwy-9087550.html",
-      "url": "https://www.bankier.pl/wiadomosc/Bialorusin-podejrzany-o-szpiegostwo-zatrzymany-w-Warszawie-Dzialal-na-terenie-Polski-Niemiec-i-Litwy-9087550.html",
-      "title": "Białorusin podejrzany o szpiegostwo zatrzymany w Warszawie. Działał na terenie Polski, Niemiec i Litwy",
-      "content_html": "Funkcjonariusze Agencji Bezpieczeństwa Wewnętrznego zatrzymali na początku lutego Białorusina podejrzanego o szpiegostwo na rzecz białoruskiego wywiadu wojskowego - poinformował w poniedziałek rzecznik prasowy Prokuratury Krajowej prok. Przemysław...",
-      "date_published": "2026-02-23T11:52:00+01:00",
       "source": "Bankier.pl"
     },
     {
@@ -173,14 +301,6 @@
       "source": "Bankier.pl"
     },
     {
-      "id": "https://www.bankier.pl/wiadomosc/Afera-weglowa-z-czasow-Morawieckiego-RARS-zawiadamia-prokurature-9087555.html",
-      "url": "https://www.bankier.pl/wiadomosc/Afera-weglowa-z-czasow-Morawieckiego-RARS-zawiadamia-prokurature-9087555.html",
-      "title": "Afera węglowa z czasów Morawieckiego. RARS zawiadamia prokuraturę",
-      "content_html": "Rosnące ceny węgla po wprowadzeniu embarga na ten surowiec z Rosji w 2022 r. stały się „okazją do przekrętu”, a skutki odczuwamy do tej pory - stwierdził szef Kancelarii Prezesa Rady Ministrów Jan Grabiec.",
-      "date_published": "2026-02-23T11:02:00+01:00",
-      "source": "Bankier.pl"
-    },
-    {
       "id": "https://www.bankier.pl/wiadomosc/Action-zaprasza-do-skladania-ofert-sprzedazy-do-1-mln-akcji-wlasnych-w-cenie-35-zl-szt-9087611.html",
       "url": "https://www.bankier.pl/wiadomosc/Action-zaprasza-do-skladania-ofert-sprzedazy-do-1-mln-akcji-wlasnych-w-cenie-35-zl-szt-9087611.html",
       "title": "Action zaprasza do składania ofert sprzedaży do 1 mln akcji własnych w cenie 35 zł/szt.",
@@ -203,14 +323,6 @@
       "content_html": "Kredyt konsolidacyjny bez prowizji to jedna z aktualnych propozycji Citi Handlowego dla klientów indywidualnych. Sprawdzamy warunki oferty, koszty finansowania oraz to, jakie zobowiązania można objąć konsolidacją.",
       "date_published": "2026-02-23T11:00:00+01:00",
       "source": "Bankier.pl"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/firmy/uodo-nalozyl-lacznie-ponad-11-mln-zl-kary-na-dpd-polska",
-      "url": "https://biznes.pap.pl/wiadomosci/firmy/uodo-nalozyl-lacznie-ponad-11-mln-zl-kary-na-dpd-polska",
-      "title": "UODO nałożył łącznie ponad 11 mln zł kary na DPD Polska",
-      "content_html": "Urząd Ochrony Danych Osobowych nałożył łącznie ponad 11 mln zł kary na DPD Polska - podał urząd w komunikacie.",
-      "date_published": "2026-02-23T10:54:00+01:00",
-      "source": "PAP Biznes"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Atak-na-Iran-coraz-blizej-Donald-Trump-rozwaza-radykalny-krok-9087453.html",
@@ -245,22 +357,6 @@
       "source": "Bankier.pl"
     },
     {
-      "id": "https://biznes.pap.pl/wiadomosci/nieruchomosci/na-rynku-nieruchomosci-w-2026-r-oczekiwana-wieksza-aktywnosc-w-cee-niz-w",
-      "url": "https://biznes.pap.pl/wiadomosci/nieruchomosci/na-rynku-nieruchomosci-w-2026-r-oczekiwana-wieksza-aktywnosc-w-cee-niz-w",
-      "title": "Na rynku nieruchomości w 2026 r. oczekiwana większa aktywność w CEE niż w całej UE - CBRE",
-      "content_html": "Uczestnicy rynku wskazują, że rok 2026 będzie bardziej aktywny pod względem transakcji na rynku nieruchomości dla regionu Europy Środkowej i Wschodniej (CEE) w porównaniu z ogólną średnią europejską -",
-      "date_published": "2026-02-23T10:44:00+01:00",
-      "source": "PAP Biznes"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/konsument/sprzedaz-detaliczna-w-styczniu-powyzej-konsensusu-wciaz-pozostaje-motorem-pkb",
-      "url": "https://biznes.pap.pl/wiadomosci/konsument/sprzedaz-detaliczna-w-styczniu-powyzej-konsensusu-wciaz-pozostaje-motorem-pkb",
-      "title": "Sprzedaż detaliczna w styczniu powyżej konsensusu, wciąż pozostaje motorem PKB (opinia)",
-      "content_html": "Sprzedaż detaliczna w styczniu wzrosła wyraźnie powyżej konsensusu, głównym zaskoczeniem było odbicie sprzedaży odzieży i obuwia - ocenili analitycy. Ich zdaniem, konsumpcja pozostaje wciąż motorem PK",
-      "date_published": "2026-02-23T10:34:00+01:00",
-      "source": "PAP Biznes"
-    },
-    {
       "id": "https://www.bankier.pl/wiadomosc/Kontrowersje-wokol-Wyzszej-Szkoly-Ksztalcenia-Zawodowego-we-Wroclawiu-9087528.html",
       "url": "https://www.bankier.pl/wiadomosc/Kontrowersje-wokol-Wyzszej-Szkoly-Ksztalcenia-Zawodowego-we-Wroclawiu-9087528.html",
       "title": "Collegium Humanum ma godnego następcę. Na tej uczelni semestr zalicza się w godzinę",
@@ -269,36 +365,12 @@
       "source": "Bankier.pl"
     },
     {
-      "id": "https://biznes.pap.pl/wiadomosci/firmy/dzien-na-gpw-wiekszosc-glownych-indeksow-lekko-rosnie-wig20-zwyzkuje-05-proc",
-      "url": "https://biznes.pap.pl/wiadomosci/firmy/dzien-na-gpw-wiekszosc-glownych-indeksow-lekko-rosnie-wig20-zwyzkuje-05-proc",
-      "title": "DZIEŃ NA GPW: Większość głównych indeksów lekko rośnie; WIG20 zwyżkuje 0,5 proc.",
-      "content_html": "Większość głównych indeksów warszawskiej GPW notuje lekkie wzrosty, WIG20 zwyżkuje o ok. 0,5 proc., najsilniejszy w tym indeksie jest Kruk, którego akcje idą w górę o 4,3 proc.",
-      "date_published": "2026-02-23T10:20:00+01:00",
-      "source": "PAP Biznes"
-    },
-    {
       "id": "https://www.bankier.pl/wiadomosc/Sikorski-Putin-moze-nie-miec-prawdziwego-obrazu-wojny-z-Ukraina-9087562.html",
       "url": "https://www.bankier.pl/wiadomosc/Sikorski-Putin-moze-nie-miec-prawdziwego-obrazu-wojny-z-Ukraina-9087562.html",
       "title": "Sikorski: Putin może nie mieć prawdziwego obrazu wojny z Ukrainą",
       "content_html": "Szef MSZ Radosław Sikorski ocenił w poniedziałek w Brukseli, że Putin może nie mieć prawdziwego obrazu ani wojny z Ukrainą, ani stanu rosyjskiej gospodarki. W dyktaturach tak bywa, że nikt nie chce przynieść dyktatorowi złych wiadomości -...",
       "date_published": "2026-02-23T10:15:00+01:00",
       "source": "Bankier.pl"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/gry-i-technologie/polski-swiatlowod-otwarty-udostepnil-swoja-siec-spolce-vectra",
-      "url": "https://biznes.pap.pl/wiadomosci/gry-i-technologie/polski-swiatlowod-otwarty-udostepnil-swoja-siec-spolce-vectra",
-      "title": "Polski Światłowód Otwarty udostępnił swoją sieć spółce Vectra",
-      "content_html": "Vectra i Polski Światłowód Otwarty (PŚO) rozpoczęły współpracę w ramach infrastruktury FTTH i HFC, co pozwoli dostawcy internetu stacjonarnego i telewizji dotrzeć do ok 2,6 mln nowych gospodarstw domo",
-      "date_published": "2026-02-23T10:14:00+01:00",
-      "source": "PAP Biznes"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/firmy/kontrakty-i-umowy-spolek-przeglad-tygodniowy-437",
-      "url": "https://biznes.pap.pl/wiadomosci/firmy/kontrakty-i-umowy-spolek-przeglad-tygodniowy-437",
-      "title": "Kontrakty i umowy spółek - przegląd tygodniowy",
-      "content_html": "Przegląd ważniejszych informacji o umowach i kontraktach zawieranych przez spółki publiczne od 16 do 22 lutego",
-      "date_published": "2026-02-23T10:01:00+01:00",
-      "source": "PAP Biznes"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Mocne-otwarcie-roku-w-handlu-Sprzedaz-detaliczna-w-styczniu-2026-poszla-w-gore-9087569.html",
@@ -343,17 +415,9 @@
     {
       "id": "https://www.bankier.pl/wiadomosc/Erste-obnizyl-rekomendacje-dla-Murapolu-i-Lokum-Deweloper-podniosl-dla-Archicomu-9087552.html",
       "url": "https://www.bankier.pl/wiadomosc/Erste-obnizyl-rekomendacje-dla-Murapolu-i-Lokum-Deweloper-podniosl-dla-Archicomu-9087552.html",
-      "title": "Erste obniżył rekomendację dla Murapolu i Lokum Deweloper, podniósł dla Archicomu",
-      "content_html": "Analityk Erste Group, Cezary Bernatek, w raporcie z 23 lutego, obniżył rekomendację dla Murapolu do \"akumuluj\" z \"kupuj\", a dla Lokum Deweloper do \"sprzedaj\" z \"trzymaj\". Rekomendacja dla Archicomu została podniesiona do \"akumuluj\" z trzymaj\".",
+      "title": "Erste obniżył rekomendację dla Murapolu i Lokum Deweloper, podniósł dla Archicomu Analityk Erste Group, Cezary Bernatek, w raporcie z 23 lutego, obniżył rekomendację dla Murapolu do \"akumuluj\" z \"kupuj\", a dla Lokum Deweloper do \"sprzedaj\" z \"trzymaj\". Rekomendacja dla Archicomu została podniesiona do \"akumuluj\" z trzymaj\".",
+      "content_html": "",
       "date_published": "2026-02-23T09:26:00+01:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Amerykanski-urzad-celny-wstrzyma-pobieranie-cel-uniewaznionych-przez-Sad-Najwyzszy-9087545.html",
-      "url": "https://www.bankier.pl/wiadomosc/Amerykanski-urzad-celny-wstrzyma-pobieranie-cel-uniewaznionych-przez-Sad-Najwyzszy-9087545.html",
-      "title": "Amerykański urząd celny wstrzyma pobieranie ceł unieważnionych przez Sąd Najwyższy",
-      "content_html": "Amerykański urząd celny i ochrony granic (U.S. Customs and Border Protection, CBP) ogłosił, że we wtorek minutę po północy (godz. 6:01 w Polsce) wstrzyma pobieranie ceł nałożonych przez administrację Donalda Trumpa, uznanych w piątek przez...",
-      "date_published": "2026-02-23T09:20:00+01:00",
       "source": "Bankier.pl"
     },
     {
@@ -363,6 +427,14 @@
       "content_html": "Funkcjonariusze Centralnego Biura Śledczego Policji rozbili gang narkotykowy, w którym działali pseudokibice. Zatrzymali 23 osoby odpowiedzialne za wprowadzenie do obrotu co najmniej tony narkotyków, w tym kokainy i cracku.",
       "date_published": "2026-02-23T09:10:00+01:00",
       "source": "Bankier.pl"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/firmy/dzien-na-gpw-poniedzialkowa-sesja-moze-rozpoczac-sie-od-spadkow-17",
+      "url": "https://biznes.pap.pl/wiadomosci/firmy/dzien-na-gpw-poniedzialkowa-sesja-moze-rozpoczac-sie-od-spadkow-17",
+      "title": "DZIEŃ NA GPW: Poniedziałkowa sesja może rozpocząć się od spadków",
+      "content_html": "Kontrakty terminowe na europejskie indeksy sugerują, że poniedziałkowa sesja na warszawskim parkiecie może rozpocząć się w negatywnych nastrojach - oceniają analitycy.",
+      "date_published": "2026-02-23T08:34:00+01:00",
+      "source": "PAP Biznes"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Miliony-Polakow-korzystaja-z-tej-ulgi-w-PIT-Pozostale-daleko-w-tyle-9086803.html",
@@ -381,12 +453,36 @@
       "source": "Bankier.pl"
     },
     {
+      "id": "https://biznes.pap.pl/wiadomosci/firmy/erste-group-obnizyl-rekomendacje-dla-atalu-do-akumuluj-podwyzszyl-cene-docelowa-do",
+      "url": "https://biznes.pap.pl/wiadomosci/firmy/erste-group-obnizyl-rekomendacje-dla-atalu-do-akumuluj-podwyzszyl-cene-docelowa-do",
+      "title": "Erste Group obniżył rekomendację dla Atalu do \"akumuluj\"; podwyższył cenę docelową do 70,1 zł",
+      "content_html": "Analitycy Erste Group, w raporcie 23 lutego, obniżyli rekomendację dla Atalu z \"kupuj\" do \"akumuluj\", podwyższając cenę docelową akcji spółki do 70,1 zł z 69,5 zł wcześniej.",
+      "date_published": "2026-02-23T08:23:00+01:00",
+      "source": "PAP Biznes"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/rynki/dzien-na-rynkach-w-azji-na-gieldach-indeksy-rosna-11",
+      "url": "https://biznes.pap.pl/wiadomosci/rynki/dzien-na-rynkach-w-azji-na-gieldach-indeksy-rosna-11",
+      "title": "DZIEŃ NA RYNKACH: W Azji na giełdach indeksy rosną",
+      "content_html": "Na azjatyckich giełdach indeksy rosną, chociaż na rynkach jest niepewność dotycząca polityki handlowej USA po piątkowej decyzji Sądu Najwyższego, który uznał większość ceł nałożonych przez Donalda Tru",
+      "date_published": "2026-02-23T08:21:00+01:00",
+      "source": "PAP Biznes"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Asbis-szacuje-ze-przychody-w-styczniu-wzrosly-o-78-proc-rdr-do-ok-379-mln-USD-9087522.html",
       "url": "https://www.bankier.pl/wiadomosc/Asbis-szacuje-ze-przychody-w-styczniu-wzrosly-o-78-proc-rdr-do-ok-379-mln-USD-9087522.html",
       "title": "Asbis szacuje, że przychody w styczniu wzrosły o 78 proc. rdr, do ok. 379 mln USD",
       "content_html": "Grupa Asbis szacuje, że jej skonsolidowane przychody za styczeń 2026 r. wyniosły ok. 379 mln USD i były o ok. 78 proc. wyższe od przychodów wypracowanych styczniu 2025 r. - poinformowała spółka w komunikacie.",
       "date_published": "2026-02-23T08:16:00+01:00",
       "source": "Bankier.pl"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/firmy/asbis-szacuje-ze-przychody-w-styczniu-wzrosly-o-78-proc-rdr-do-ok-379-mln-usd",
+      "url": "https://biznes.pap.pl/wiadomosci/firmy/asbis-szacuje-ze-przychody-w-styczniu-wzrosly-o-78-proc-rdr-do-ok-379-mln-usd",
+      "title": "Asbis szacuje, że przychody w styczniu wzrosły o 78 proc. rdr, do ok. 379 mln USD",
+      "content_html": "Grupa Asbis szacuje, że jej skonsolidowane przychody za styczeń 2026 r. wyniosły ok. 379 mln USD i były o ok. 78 proc. wyższe od przychodów wypracowanych styczniu 2025 r. - poinformowała spółka w komu",
+      "date_published": "2026-02-23T08:15:00+01:00",
+      "source": "PAP Biznes"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Zelenski-w-BBC-Putin-juz-rozpoczal-III-wojne-swiatowa-9087521.html",
@@ -405,6 +501,14 @@
       "source": "Bankier.pl"
     },
     {
+      "id": "https://biznes.pap.pl/wiadomosci/firmy/ceny-ropy-ida-w-dol-rynki-rozwazaja-szanse-na-porozumienie-nuklearne-usa-z-iranem",
+      "url": "https://biznes.pap.pl/wiadomosci/firmy/ceny-ropy-ida-w-dol-rynki-rozwazaja-szanse-na-porozumienie-nuklearne-usa-z-iranem",
+      "title": "Ceny ropy idą w dół - rynki rozważają szanse na porozumienie nuklearne USA z Iranem",
+      "content_html": "Ceny ropy naftowej spadają, a inwestorzy oceniają perspektywy zawarcia porozumienia nuklearnego pomiędzy USA a Iranem - informują maklerzy.",
+      "date_published": "2026-02-23T08:05:00+01:00",
+      "source": "PAP Biznes"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Wyscig-po-surowce-nabiera-tempa-Korea-Pld-wejdzie-do-Brazylii-9087516.html",
       "url": "https://www.bankier.pl/wiadomosc/Wyscig-po-surowce-nabiera-tempa-Korea-Pld-wejdzie-do-Brazylii-9087516.html",
       "title": "Wyścig po surowce nabiera tempa. Korea Płd. wejdzie do Brazylii?",
@@ -419,6 +523,14 @@
       "content_html": "PolTREG zamierza pozyskać z emisji nowych akcji w ramach procesu przyspieszonej budowy księgi popytu (ABB) ok. 30 mln zł - podała spółka w komunikacie.",
       "date_published": "2026-02-23T07:46:00+01:00",
       "source": "Bankier.pl"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/firmy/poltreg-zamierza-pozyskac-z-emisji-nowych-akcji-ok-30-mln-zl",
+      "url": "https://biznes.pap.pl/wiadomosci/firmy/poltreg-zamierza-pozyskac-z-emisji-nowych-akcji-ok-30-mln-zl",
+      "title": "PolTREG zamierza pozyskać z emisji nowych akcji ok. 30 mln zł",
+      "content_html": "PolTREG zamierza pozyskać z emisji nowych akcji w ramach procesu przyspieszonej budowy księgi popytu (ABB) ok. 30 mln zł - podała spółka w komunikacie.",
+      "date_published": "2026-02-23T07:45:00+01:00",
+      "source": "PAP Biznes"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Ile-naprawde-zarabia-lekarz-Kwota-10-tys-zl-netto-budzi-emocje-9087473.html",
@@ -595,38 +707,6 @@
       "content_html": "El Mencho, najbardziej poszukiwany przestępca w Meksyku, przywódca budzącego postrach kartelu narkotykowego Jalisco New Generation (CJNG), został zabity przez armię w operacji sił bezpieczeństwa - poinformowały w niedzielę lokalne media.",
       "date_published": "2026-02-23T06:42:00+01:00",
       "source": "Bankier.pl"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/rynki/najwazniejsze-indeksy-gieldowe-w-azji-666",
-      "url": "https://biznes.pap.pl/wiadomosci/rynki/najwazniejsze-indeksy-gieldowe-w-azji-666",
-      "title": "Najważniejsze indeksy giełdowe w Azji",
-      "content_html": "Poniżej aktualne indeksy wybranych giełd w Azji:",
-      "date_published": "2026-02-23T06:42:00+01:00",
-      "source": "PAP Biznes"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/firmy/zysk-netto-jd-ambry-w-i-polr-20252026-wzrosl-do-49-mln-zl",
-      "url": "https://biznes.pap.pl/wiadomosci/firmy/zysk-netto-jd-ambry-w-i-polr-20252026-wzrosl-do-49-mln-zl",
-      "title": "Zysk netto j.d. Ambry w I półr. 2025/2026 wzrósł do 49 mln zł",
-      "content_html": "Zysk netto j.d. Ambry w I półroczu 2025/2026 wyniósł 49 mln zł wobec 43,6 mln zł przed rokiem, a przychody wzrosły do 556,8 mln zł ze 546,2 mln zł - podała spółka w komunikacie prasowym.",
-      "date_published": "2026-02-23T06:42:00+01:00",
-      "source": "PAP Biznes"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/rynki/rentownosci-obligacji-wybranych-panstw-tabela-2554",
-      "url": "https://biznes.pap.pl/wiadomosci/rynki/rentownosci-obligacji-wybranych-panstw-tabela-2554",
-      "title": "Rentowności obligacji wybranych państw (tabela)",
-      "content_html": "Poniżej zestawienie rentowności obligacji wybranych państw.",
-      "date_published": "2026-02-23T06:39:00+01:00",
-      "source": "PAP Biznes"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/rynki/notowania-metali-bazowych-wegla-i-paliw-tabela-2465",
-      "url": "https://biznes.pap.pl/wiadomosci/rynki/notowania-metali-bazowych-wegla-i-paliw-tabela-2465",
-      "title": "Notowania metali bazowych, węgla i paliw (tabela)",
-      "content_html": "Notowania metali bazowych na London Metal Exchange, uprawnień EUA do emisji CO2, ceny węgla energetycznego ARA na przyszły rok oraz ceny paliw.",
-      "date_published": "2026-02-23T06:38:00+01:00",
-      "source": "PAP Biznes"
     },
     {
       "id": "https://biznes.pap.pl/wiadomosci/rynki/zamkniecia-na-gieldach-w-ameryce-polnocnej-i-poludniowej-tabela-3073",
@@ -853,60 +933,20 @@
       "source": "Bankier.pl"
     },
     {
+      "id": "https://www.bankier.pl/wiadomosc/Iran-zawarl-z-Rosja-tajna-umowe-zbrojeniowa-o-wartosci-500-mln-euro-9087417.html",
+      "url": "https://www.bankier.pl/wiadomosc/Iran-zawarl-z-Rosja-tajna-umowe-zbrojeniowa-o-wartosci-500-mln-euro-9087417.html",
+      "title": "Iran zawarł z Rosją tajną umowę zbrojeniową o wartości 500 mln euro",
+      "content_html": "Iran zawarł z Rosją tajną umowę zbrojeniową o wartości 500 mln euro na zakup tysięcy zaawansowanych pocisków odpalanych z ramienia - poinformował w niedzielę brytyjski dziennik „Financial Times”.",
+      "date_published": "2026-02-22T18:18:00+01:00",
+      "source": "Bankier.pl"
+    },
+    {
       "id": "https://biznes.pap.pl/wiadomosci/firmy/debiut-pkl-na-gpw-mial-sfinansowac-inwestycje-za-05-mld-zl-program-do-ponownej",
       "url": "https://biznes.pap.pl/wiadomosci/firmy/debiut-pkl-na-gpw-mial-sfinansowac-inwestycje-za-05-mld-zl-program-do-ponownej",
       "title": "Debiut PKL na GPW miał sfinansować inwestycje za 0,5 mld zł; program do ponownej oceny",
       "content_html": "Wejście Polskich Kolei Linowych (PKL) na Giełdę Papierów Wartościowych miało zapewnić ponad 0,5 mld zł na inwestycje, w tym budowę kolejki linowej do Kuźnic – wynika z informacji PAP. Po rezygnacji z ",
       "date_published": "2026-02-22T14:57:00+01:00",
       "source": "PAP Biznes"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Zmasowany-atak-rakietowy-na-Kijow-w-niedzielny-poranek-Polska-poderwala-mysliwce-9087342.html",
-      "url": "https://www.bankier.pl/wiadomosc/Zmasowany-atak-rakietowy-na-Kijow-w-niedzielny-poranek-Polska-poderwala-mysliwce-9087342.html",
-      "title": "Zmasowany atak rakietowy na Kijów w niedzielny poranek. Polska poderwała myśliwce",
-      "content_html": "Rosja prowadzi zmasowany atak na Kijów w niedzielę nad ranem; ranna została kobieta i dziecko - przekazał portal Ukrainska Prawda, powołując się na informacje podane przez burmistrza stolicy, Witalija Kliczko i szefa Miejskiej Administracji Wojskowej...",
-      "date_published": "2026-02-22T13:35:00+01:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Decyduja-niuanse-i-grafik-Kiedy-sad-a-kiedy-PIP-uzna-twoje-B2B-za-umowe-o-prace-9087328.html",
-      "url": "https://www.bankier.pl/wiadomosc/Decyduja-niuanse-i-grafik-Kiedy-sad-a-kiedy-PIP-uzna-twoje-B2B-za-umowe-o-prace-9087328.html",
-      "title": "Decydują niuanse i grafik. Kiedy sąd, a kiedy PIP uzna Twoje B2B za umowę o pracę?",
-      "content_html": "Coraz trudniej rozróżnić umowę o pracę od B2B, one się ze sobą zazębiają – powiedziała PAP radczyni prawna Ewelina Pietrzak-Wojnicz. Podkreśliła, że w postępowaniach przed sądem o ustalenie stosunku pracy mogą decydować niuanse, np...",
-      "date_published": "2026-02-22T13:29:00+01:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Sikorski-SAFE-narodowi-sie-nalezy-Opozycja-szuka-dziury-w-calym-9087353.html",
-      "url": "https://www.bankier.pl/wiadomosc/Sikorski-SAFE-narodowi-sie-nalezy-Opozycja-szuka-dziury-w-calym-9087353.html",
-      "title": "Sikorski: SAFE narodowi się należy. Opozycja szuka dziury w całym?",
-      "content_html": "Program SAFE narodowi się należy; Polska będzie jego największym beneficjentem; jestem zszokowany, że dzisiejsza opozycja szuka dziury w całym - powiedział minister spraw zagranicznych Radosław Sikorski w wywiadzie dla „Newsweeka”.",
-      "date_published": "2026-02-22T13:06:00+01:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Skandal-z-chatbotem-Grok-wywolal-lawine-Rzad-uderza-w-nudyfikacje-i-AI-9086119.html",
-      "url": "https://www.bankier.pl/wiadomosc/Skandal-z-chatbotem-Grok-wywolal-lawine-Rzad-uderza-w-nudyfikacje-i-AI-9086119.html",
-      "title": "Skandal z chatbotem Grok wywołał lawinę. Rząd uderza w \"nudyfikację\" i AI",
-      "content_html": "Brytyjski rząd chce, by platformy społecznościowe musiały w ciągu 48 godzin usuwać zdjęcia o charakterze seksualnym, które opublikowano bez zgody przedstawionych osób, a jeśli tego nie zrobią, groziłaby im kara w wysokości do 10 proc. globalnych...",
-      "date_published": "2026-02-22T13:05:00+01:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Miliardy-euro-plyna-do-sasiadow-Polski-Czesi-wyprzedzili-nas-w-kluczowym-rankingu-9084904.html",
-      "url": "https://www.bankier.pl/wiadomosc/Miliardy-euro-plyna-do-sasiadow-Polski-Czesi-wyprzedzili-nas-w-kluczowym-rankingu-9084904.html",
-      "title": "Miliardy euro płyną do sąsiadów Polski. Czesi wyprzedzili nas w kluczowym rankingu",
-      "content_html": "W 2025 roku na sześciu głównych rynkach nieruchomości Europy Środkowo-Wschodniej sfinalizowano transakcje o łącznej wartości 11,6 mld euro, co stanowi wzrost o 31 proc. rok do roku - wynika z raportu Colliers \"CEE Investment Scene\".",
-      "date_published": "2026-02-22T13:00:00+01:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Proboszcz-z-Kozienic-z-zarzutami-na-miliony-zlotych-Parafianie-zostali-bez-pieniedzy-9086520.html",
-      "url": "https://www.bankier.pl/wiadomosc/Proboszcz-z-Kozienic-z-zarzutami-na-miliony-zlotych-Parafianie-zostali-bez-pieniedzy-9086520.html",
-      "title": "Proboszcz z Kozienic z zarzutami na miliony złotych. Parafianie zostali bez pieniędzy",
-      "content_html": "B. proboszcz z Kozienic (Mazowieckie) jest podejrzany o wyrządzenie parafii szkody majątkowej w wysokości 2,7 mln zł oraz o oszukanie kilkudziesięciu osób, głównie parafian, od których pożyczył blisko 1,6 mln zł na rzekome inwestycje. Grozi...",
-      "date_published": "2026-02-22T13:00:00+01:00",
-      "source": "Bankier.pl"
     }
   ]
 }
