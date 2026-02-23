@@ -5,10 +5,66 @@
   "home_page_url": "https://www.bankier.pl",
   "items": [
     {
+      "id": "https://biznes.pap.pl/wiadomosci/ekonomia-biznes-i-finanse/skrot-wiadomosci-poniedzialek-23-lutego-1700",
+      "url": "https://biznes.pap.pl/wiadomosci/ekonomia-biznes-i-finanse/skrot-wiadomosci-poniedzialek-23-lutego-1700",
+      "title": "Skrót wiadomości - poniedziałek, 23 lutego, 17.00",
+      "content_html": "Przegląd najważniejszych wiadomości gospodarczych, krajowych i ze świata.",
+      "date_published": "2026-02-23T17:00:00+01:00",
+      "source": "PAP Biznes"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Otwarta-wojna-dyplomatyczna-Wegry-oskarzaja-Bruksele-o-spisek-z-Kijowem-i-groza-odwetem-9087833.html",
+      "url": "https://www.bankier.pl/wiadomosc/Otwarta-wojna-dyplomatyczna-Wegry-oskarzaja-Bruksele-o-spisek-z-Kijowem-i-groza-odwetem-9087833.html",
+      "title": "Otwarta wojna dyplomatyczna. Węgry oskarżają Brukselę o spisek z Kijowem i grożą odwetem",
+      "content_html": "Komisja Europejska sprzymierzyła się z Ukrainą, by blokować dostawy ropy naftowej na Węgry - napisał w poniedziałek na Facebooku węgierski minister spraw zagranicznych Peter Szijjarto, podsumowując zorganizowane tego dnia spotkanie szefów dyplomacji...",
+      "date_published": "2026-02-23T16:52:00+01:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/gospodarka/trump-ostrzegl-ze-kraje-ktore-beda-z-nim-pogrywaly-ws-cel-dostana-jeszcze",
+      "url": "https://biznes.pap.pl/wiadomosci/gospodarka/trump-ostrzegl-ze-kraje-ktore-beda-z-nim-pogrywaly-ws-cel-dostana-jeszcze",
+      "title": "Trump ostrzegł, że kraje, które będą z nim \"pogrywały\" ws. ceł, dostaną jeszcze wyższe cła",
+      "content_html": "Każdy kraj, który chce pogrywać z USA w związku z decyzją Sądu Najwyższego o zniesieniu ceł, otrzyma znacznie wyższe cła - zagroził w poniedziałek prezydent USA Donald Trump. To ostrzeżenie wobec pańs",
+      "date_published": "2026-02-23T16:51:00+01:00",
+      "source": "PAP Biznes"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Kto-z-nami-pogrywa-dostanie-wyzsze-cla-Trump-grozi-swiatu-po-wyroku-Sadu-Najwyzszego-9087861.html",
+      "url": "https://www.bankier.pl/wiadomosc/Kto-z-nami-pogrywa-dostanie-wyzsze-cla-Trump-grozi-swiatu-po-wyroku-Sadu-Najwyzszego-9087861.html",
+      "title": "\"Kto z nami pogrywa, dostanie wyższe cła\". Trump grozi światu po wyroku Sądu Najwyższego",
+      "content_html": "Każdy kraj, który chce pogrywać z USA w związku z decyzją Sądu Najwyższego o zniesieniu ceł, otrzyma znacznie wyższe cła - zagroził w poniedziałek prezydent USA Donald Trump. To ostrzeżenie wobec państw, które zawarły z USA porozumienia...",
+      "date_published": "2026-02-23T16:37:00+01:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Lena-Lighting-szacuje-zysk-netto-grupy-w-25-na-2-1-mln-zl-9087855.html",
+      "url": "https://www.bankier.pl/wiadomosc/Lena-Lighting-szacuje-zysk-netto-grupy-w-25-na-2-1-mln-zl-9087855.html",
+      "title": "Lena Lighting szacuje zysk netto grupy w '25 na 2,1 mln zł",
+      "content_html": "Lena Lighting szacuje, że skonsolidowany zysk netto w 2025 r. spadł rdr o 17,36 proc. do 2,1 mln zł - poinformowała spółka w komunikacie. Skonsolidowane przychody zwiększyły się w tym okresie o 3,52 proc. i wyniosły 141,8 mln zł.",
+      "date_published": "2026-02-23T16:30:00+01:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/firmy/lena-lighting-szacuje-zysk-netto-grupy-w-25-na-21-mln-zl",
+      "url": "https://biznes.pap.pl/wiadomosci/firmy/lena-lighting-szacuje-zysk-netto-grupy-w-25-na-21-mln-zl",
+      "title": "Lena Lighting szacuje zysk netto grupy w '25 na 2,1 mln zł",
+      "content_html": "Lena Lighting szacuje, że skonsolidowany zysk netto w 2025 r. spadł rdr o 17,36 proc. do 2,1 mln zł - poinformowała spółka w komunikacie. Skonsolidowane przychody zwiększyły się w tym okresie o 3,52 p",
+      "date_published": "2026-02-23T16:28:00+01:00",
+      "source": "PAP Biznes"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/firmy/dzien-na-gpw-wszystkie-glowne-indeksy-rosna-wig20-zwyzkuje-16-proc",
+      "url": "https://biznes.pap.pl/wiadomosci/firmy/dzien-na-gpw-wszystkie-glowne-indeksy-rosna-wig20-zwyzkuje-16-proc",
+      "title": "DZIEŃ NA GPW: Wszystkie główne indeksy rosną; WIG20 zwyżkuje 1,6 proc.",
+      "content_html": "Wszystkie główne indeksy na warszawskiej GPW notują wzrosty. WIG20 zwyżkuje o ok. 1,6 proc., a najsilniejsze w tym indeksie jest Dino, którego akcje idą w górę o 3,7 proc.",
+      "date_published": "2026-02-23T16:25:00+01:00",
+      "source": "PAP Biznes"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Mirbud-ocenia-ze-kluczowe-dla-stabilnosci-rynku-inwestycji-publicznych-jest-rowne-traktowanie-wszystkich-wykonawcow-9087830.html",
       "url": "https://www.bankier.pl/wiadomosc/Mirbud-ocenia-ze-kluczowe-dla-stabilnosci-rynku-inwestycji-publicznych-jest-rowne-traktowanie-wszystkich-wykonawcow-9087830.html",
-      "title": "Mirbud ocenia, że kluczowe dla stabilności rynku inwestycji publicznych jest równe traktowanie wszystkich wykonawców Mirbud stoi na stanowisku, że transparentność postępowań, jak i zastosowanie zasady proporcjonalności oraz równe traktowanie wszystkich wykonawców są kluczowe dla stabilności rynku inwestycji publicznych w Polsce, a publikowane wcześniej stanowisko PZPB nie było konsultowane z członkami Rady - poinformował Mirbud w oświadczeniu.",
-      "content_html": "",
+      "title": "Mirbud ocenia, że kluczowe dla stabilności rynku inwestycji publicznych jest równe traktowanie wszystkich wykonawców",
+      "content_html": "Mirbud stoi na stanowisku, że transparentność postępowań, jak i zastosowanie zasady proporcjonalności oraz równe traktowanie wszystkich wykonawców są kluczowe dla stabilności rynku inwestycji publicznych w Polsce, a publikowane wcześniej stanowisko...",
       "date_published": "2026-02-23T16:08:00+01:00",
       "source": "Bankier.pl"
     },
@@ -21,10 +77,26 @@
       "source": "PAP Biznes"
     },
     {
+      "id": "https://www.bankier.pl/wiadomosc/Mirbud-skarzy-do-sadu-wyrok-KIO-ws-przetargu-na-budowe-odcinka-Rail-Baltica-9087820.html",
+      "url": "https://www.bankier.pl/wiadomosc/Mirbud-skarzy-do-sadu-wyrok-KIO-ws-przetargu-na-budowe-odcinka-Rail-Baltica-9087820.html",
+      "title": "Mirbud skarży do sądu wyrok KIO ws. przetargu na budowę odcinka Rail Baltica",
+      "content_html": "Mirbud złożył do Sądu Okręgowego w Warszawie skargę na wyrok KIO ws. przetargu na budowę odcinka Rail Baltica - poinformowała spółka w komunikacie giełdowym. Firma chce przywrócenia w przetargu oferty konsorcjum, którego jest członkiem.",
+      "date_published": "2026-02-23T15:52:00+01:00",
+      "source": "Bankier.pl"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Ambra-liczy-na-dobre-II-polrocze-rozwija-segment-produktow-bezalkoholowych-9087815.html",
       "url": "https://www.bankier.pl/wiadomosc/Ambra-liczy-na-dobre-II-polrocze-rozwija-segment-produktow-bezalkoholowych-9087815.html",
       "title": "Ambra liczy na dobre II półrocze, rozwija segment produktów bezalkoholowych",
       "content_html": "Ambra liczy na dobre drugie półrocze 2025/2026 - poinformowali przedstawiciele spółki na konferencji prasowej. Grupa rozwija segment produktów bezalkoholowych i pracuje nad zwiększeniem efektywności w odniesieniu do produkcji.",
+      "date_published": "2026-02-23T15:46:00+01:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Tarcza-Polnocy-Polska-i-Norwegia-zwieraja-szyki-i-formalizuja-sojusz-9087816.html",
+      "url": "https://www.bankier.pl/wiadomosc/Tarcza-Polnocy-Polska-i-Norwegia-zwieraja-szyki-i-formalizuja-sojusz-9087816.html",
+      "title": "Tarcza Północy. Polska i Norwegia zwierają szyki i formalizują sojusz",
+      "content_html": "Premier Donald Tusk po spotkaniu z norweskim premierem Jonasem Gahrem Storem zapowiedział pogłębienie, także formalne, współpracy Polski i Norwegii. Będziemy pracowali, aby zintensyfikować nasze relacje dotyczące bezpieczeństwa i nie tylko -...",
       "date_published": "2026-02-23T15:46:00+01:00",
       "source": "Bankier.pl"
     },
@@ -181,14 +253,6 @@
       "source": "Bankier.pl"
     },
     {
-      "id": "https://biznes.pap.pl/wiadomosci/firmy/odlewnie-polskie-maja-zamowienie-od-pgz-za-285-mln-zl-brutto",
-      "url": "https://biznes.pap.pl/wiadomosci/firmy/odlewnie-polskie-maja-zamowienie-od-pgz-za-285-mln-zl-brutto",
-      "title": "Odlewnie Polskie mają zamówienie od PGZ za 28,5 mln zł brutto",
-      "content_html": "Odlewnie Polskie otrzymały zamówienie od Polskiej Grupy Zbrojeniowej na wykonanie korpusów pocisków w technologii ADI za 28,5 mln zł brutto - podały Odlewnie Polskie w komunikacie.",
-      "date_published": "2026-02-23T14:03:00+01:00",
-      "source": "PAP Biznes"
-    },
-    {
       "id": "https://www.bankier.pl/wiadomosc/Podaz-pieniadza-M3-mocno-w-dol-Spadly-depozyty-w-firmach-9087723.html",
       "url": "https://www.bankier.pl/wiadomosc/Podaz-pieniadza-M3-mocno-w-dol-Spadly-depozyty-w-firmach-9087723.html",
       "title": "Podaż pieniądza M3 mocno w dół mdm. Spadły depozyty w firmach",
@@ -211,30 +275,6 @@
       "content_html": "Obligacje serii D o wartości 1,6 mld zł wyemitowane przez KGHM Polska Miedź zadebiutowały w poniedziałek na rynku Catalyst.",
       "date_published": "2026-02-23T14:00:00+01:00",
       "source": "Bankier.pl"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/gospodarka/podaz-pieniadza-m3-w-styczniu-wzrosla-o-100-proc-rdr-mdm-spadla-08-proc-nbp",
-      "url": "https://biznes.pap.pl/wiadomosci/gospodarka/podaz-pieniadza-m3-w-styczniu-wzrosla-o-100-proc-rdr-mdm-spadla-08-proc-nbp",
-      "title": "Podaż pieniądza (M3) w styczniu wzrosła o 10,0 proc. rdr, a mdm spadła 0,8 proc. - NBP",
-      "content_html": "Podaż pieniądza (M3) w styczniu 2026 r. wzrosła o 10,0 proc. rdr do 2.714.997,7 mln zł - podał Narodowy Bank Polski. W ujęciu miesięcznym podaż pieniądza spadła o 0,8 proc.",
-      "date_published": "2026-02-23T14:00:00+01:00",
-      "source": "PAP Biznes"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/firmy/datawalk-przydzielil-750000-akcji-serii-t-w-cenie-155-zlszt",
-      "url": "https://biznes.pap.pl/wiadomosci/firmy/datawalk-przydzielil-750000-akcji-serii-t-w-cenie-155-zlszt",
-      "title": "DataWalk przydzielił 750.000 akcji serii T w cenie 155 zł/szt.",
-      "content_html": "DataWalk w ramach emisji przydzielił 750.000 akcji serii T w cenie 155 zł za papier - podała spółka w komunikacie. Umowy objęcia akcji zostały zawarte z 12 inwestorami. (PAP Biznes)",
-      "date_published": "2026-02-23T13:59:00+01:00",
-      "source": "PAP Biznes"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/firmy/obligacje-kghm-o-wartosci-16-mld-zl-zadebiutowaly-na-rynku-catalyst",
-      "url": "https://biznes.pap.pl/wiadomosci/firmy/obligacje-kghm-o-wartosci-16-mld-zl-zadebiutowaly-na-rynku-catalyst",
-      "title": "Obligacje KGHM o wartości 1,6 mld zł zadebiutowały na rynku Catalyst",
-      "content_html": "Obligacje serii D o wartości 1,6 mld zł wyemitowane przez KGHM Polska Miedź zadebiutowały w poniedziałek na rynku Catalyst.",
-      "date_published": "2026-02-23T13:58:00+01:00",
-      "source": "PAP Biznes"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Czarzasty-w-Kijowie-Oomozemy-wam-w-wejsciu-do-Unii-Europejskiej-9087669.html",
@@ -373,14 +413,6 @@
       "source": "Bankier.pl"
     },
     {
-      "id": "https://www.bankier.pl/wiadomosc/KO-PiS-i-dwie-Konfederacje-Kto-jeszcze-znalazlby-sie-w-Sejmie-9087642.html",
-      "url": "https://www.bankier.pl/wiadomosc/KO-PiS-i-dwie-Konfederacje-Kto-jeszcze-znalazlby-sie-w-Sejmie-9087642.html",
-      "title": "KO, PiS i dwie Konfederacje. Kto jeszcze znalazłby się w Sejmie?",
-      "content_html": "Gdyby wybory parlamentarne odbyły się w najbliższą niedzielę na KO zagłosowałoby 30,7 proc. badanych, na PiS – 21,5 proc., a na Konfederację – 13,2 proc. - wynika z sondażu United Surveys by IBRiS dla WP. Konfederację Korony Polskiej Grzegorza...",
-      "date_published": "2026-02-23T11:49:00+01:00",
-      "source": "Bankier.pl"
-    },
-    {
       "id": "https://www.bankier.pl/wiadomosc/Elektrotim-ma-umowe-z-Tauron-Dystrybucja-za-19-5-mln-zl-netto-9087639.html",
       "url": "https://www.bankier.pl/wiadomosc/Elektrotim-ma-umowe-z-Tauron-Dystrybucja-za-19-5-mln-zl-netto-9087639.html",
       "title": "Elektrotim ma umowę z Tauron Dystrybucja za 19,5 mln zł netto",
@@ -421,6 +453,14 @@
       "source": "Bankier.pl"
     },
     {
+      "id": "https://www.bankier.pl/wiadomosc/Polska-gospodarka-hamuje-Padla-nowa-prognoza-PKB-na-2026-rok-9087614.html",
+      "url": "https://www.bankier.pl/wiadomosc/Polska-gospodarka-hamuje-Padla-nowa-prognoza-PKB-na-2026-rok-9087614.html",
+      "title": "Polska gospodarka hamuje? Padła nowa prognoza PKB na 2026 rok",
+      "content_html": "Dane za styczeń pokazują osłabienie koniunktury w I kw. 2026 r. – napisał w komentarzu do danych GUS ekonomista ING Banku Śląskiego Adam Antoniak. Jego zdaniem jednak, wzrost PKB w całym roku wyniesie 3,7 proc.",
+      "date_published": "2026-02-23T11:08:00+01:00",
+      "source": "Bankier.pl"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Action-zaprasza-do-skladania-ofert-sprzedazy-do-1-mln-akcji-wlasnych-w-cenie-35-zl-szt-9087611.html",
       "url": "https://www.bankier.pl/wiadomosc/Action-zaprasza-do-skladania-ofert-sprzedazy-do-1-mln-akcji-wlasnych-w-cenie-35-zl-szt-9087611.html",
       "title": "Action zaprasza do składania ofert sprzedaży do 1 mln akcji własnych w cenie 35 zł/szt.",
@@ -435,6 +475,14 @@
       "content_html": "Kredyt konsolidacyjny bez prowizji to jedna z aktualnych propozycji Citi Handlowego dla klientów indywidualnych. Sprawdzamy warunki oferty, koszty finansowania oraz to, jakie zobowiązania można objąć konsolidacją.",
       "date_published": "2026-02-23T11:00:00+01:00",
       "source": "Bankier.pl"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/firmy/uodo-nalozyl-lacznie-ponad-11-mln-zl-kary-na-dpd-polska",
+      "url": "https://biznes.pap.pl/wiadomosci/firmy/uodo-nalozyl-lacznie-ponad-11-mln-zl-kary-na-dpd-polska",
+      "title": "UODO nałożył łącznie ponad 11 mln zł kary na DPD Polska",
+      "content_html": "Urząd Ochrony Danych Osobowych nałożył łącznie ponad 11 mln zł kary na DPD Polska - podał urząd w komunikacie.",
+      "date_published": "2026-02-23T10:54:00+01:00",
+      "source": "PAP Biznes"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Atak-na-Iran-coraz-blizej-Donald-Trump-rozwaza-radykalny-krok-9087453.html",
@@ -461,12 +509,36 @@
       "source": "Bankier.pl"
     },
     {
+      "id": "https://biznes.pap.pl/wiadomosci/nieruchomosci/na-rynku-nieruchomosci-w-2026-r-oczekiwana-wieksza-aktywnosc-w-cee-niz-w",
+      "url": "https://biznes.pap.pl/wiadomosci/nieruchomosci/na-rynku-nieruchomosci-w-2026-r-oczekiwana-wieksza-aktywnosc-w-cee-niz-w",
+      "title": "Na rynku nieruchomości w 2026 r. oczekiwana większa aktywność w CEE niż w całej UE - CBRE",
+      "content_html": "Uczestnicy rynku wskazują, że rok 2026 będzie bardziej aktywny pod względem transakcji na rynku nieruchomości dla regionu Europy Środkowej i Wschodniej (CEE) w porównaniu z ogólną średnią europejską -",
+      "date_published": "2026-02-23T10:44:00+01:00",
+      "source": "PAP Biznes"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/konsument/sprzedaz-detaliczna-w-styczniu-powyzej-konsensusu-wciaz-pozostaje-motorem-pkb",
+      "url": "https://biznes.pap.pl/wiadomosci/konsument/sprzedaz-detaliczna-w-styczniu-powyzej-konsensusu-wciaz-pozostaje-motorem-pkb",
+      "title": "Sprzedaż detaliczna w styczniu powyżej konsensusu, wciąż pozostaje motorem PKB (opinia)",
+      "content_html": "Sprzedaż detaliczna w styczniu wzrosła wyraźnie powyżej konsensusu, głównym zaskoczeniem było odbicie sprzedaży odzieży i obuwia - ocenili analitycy. Ich zdaniem, konsumpcja pozostaje wciąż motorem PK",
+      "date_published": "2026-02-23T10:34:00+01:00",
+      "source": "PAP Biznes"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Kontrowersje-wokol-Wyzszej-Szkoly-Ksztalcenia-Zawodowego-we-Wroclawiu-9087528.html",
       "url": "https://www.bankier.pl/wiadomosc/Kontrowersje-wokol-Wyzszej-Szkoly-Ksztalcenia-Zawodowego-we-Wroclawiu-9087528.html",
       "title": "Collegium Humanum ma godnego następcę. Na tej uczelni semestr zalicza się w godzinę",
       "content_html": "Collegium Humanum doczekało się godnego następcy? Jak donosi \"Newsweek\", w Wyższej Szkole Kształcenia Zawodowego we Wrocławiu semestr studiów w trybie online można zaliczyć w godzinę. Choć resort nauki podczas kontroli wytknął szkole liczne...",
       "date_published": "2026-02-23T10:30:00+01:00",
       "source": "Bankier.pl"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/firmy/dzien-na-gpw-wiekszosc-glownych-indeksow-lekko-rosnie-wig20-zwyzkuje-05-proc",
+      "url": "https://biznes.pap.pl/wiadomosci/firmy/dzien-na-gpw-wiekszosc-glownych-indeksow-lekko-rosnie-wig20-zwyzkuje-05-proc",
+      "title": "DZIEŃ NA GPW: Większość głównych indeksów lekko rośnie; WIG20 zwyżkuje 0,5 proc.",
+      "content_html": "Większość głównych indeksów warszawskiej GPW notuje lekkie wzrosty, WIG20 zwyżkuje o ok. 0,5 proc., najsilniejszy w tym indeksie jest Kruk, którego akcje idą w górę o 4,3 proc.",
+      "date_published": "2026-02-23T10:20:00+01:00",
+      "source": "PAP Biznes"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Sikorski-Putin-moze-nie-miec-prawdziwego-obrazu-wojny-z-Ukraina-9087562.html",
@@ -1066,38 +1138,6 @@
       "title": "Czy Jarosław Kaczyński ma pełną kontrolę nad PiS?",
       "content_html": "50,8 proc. Polaków uważa, że prezes PiS Jarosław Kaczyński wciąż sprawuje pełną kontrolę nad ugrupowaniem, przeciwnego zdania jest 35,8 proc. badanych – wynika z opublikowanego w niedzielę sondażu zrealizowanego przez United Surveys by IBRiS...",
       "date_published": "2026-02-22T20:00:00+01:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Tajlandzki-lacznik-Kremla-Tak-Rosja-tylnymi-drzwiami-zdobywa-sprzet-9087387.html",
-      "url": "https://www.bankier.pl/wiadomosc/Tajlandzki-lacznik-Kremla-Tak-Rosja-tylnymi-drzwiami-zdobywa-sprzet-9087387.html",
-      "title": "Tajlandzki łącznik Kremla. Tak Rosja tylnymi drzwiami zdobywa sprzęt",
-      "content_html": "Rosja gwałtownie zwiększyła import bezzałogowych statków powietrznych z Tajlandii w 2025 r., a dostawy składały się głównie z dronów produkcji chińskiej - ustaliła agencja Bloomberga.",
-      "date_published": "2026-02-22T20:00:00+01:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Cztery-lata-sankcji-nalozonych-na-Kreml-Jak-zmienil-sie-eksport-rosyjskiej-ropy-9087357.html",
-      "url": "https://www.bankier.pl/wiadomosc/Cztery-lata-sankcji-nalozonych-na-Kreml-Jak-zmienil-sie-eksport-rosyjskiej-ropy-9087357.html",
-      "title": "Sankcje nałożone na Kreml. Jak zmienił się eksport rosyjskiej ropy?",
-      "content_html": "W ciągu czterech lat rosyjskiej inwazji na Ukrainę, produkcja ropy w Rosji spadła z 9,6 do 9,1 mln baryłek dziennie, wzrosły za to upusty dla kupców tego surowca w stosunku do cen rynkowych - podkreślił Polski Instytut Ekonomiczny.",
-      "date_published": "2026-02-22T19:56:00+01:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Czarzasty-o-smierci-Pszczoly-Wlasciwie-zostal-zabity-zlym-slowem-9087402.html",
-      "url": "https://www.bankier.pl/wiadomosc/Czarzasty-o-smierci-Pszczoly-Wlasciwie-zostal-zabity-zlym-slowem-9087402.html",
-      "title": "Czarzasty o śmierci Pszczoły: Właściwie został zabity złym słowem",
-      "content_html": "Właściwie został zabity złym słowem - tak marszałek Sejmu Włodzimierz Czarzasty skomentował śmierć związanego z Nową Lewicą wieloletniego radomskiego radnego Jana Pszczoły. Pszczoła zasłabł po piątkowej sesji rady miasta i zmarł w szpitalu...",
-      "date_published": "2026-02-22T19:51:00+01:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Zamach-terrorystyczny-we-Lwowie-Zelenski-Sprawcy-zwerbowani-przez-Rosje-9087425.html",
-      "url": "https://www.bankier.pl/wiadomosc/Zamach-terrorystyczny-we-Lwowie-Zelenski-Sprawcy-zwerbowani-przez-Rosje-9087425.html",
-      "title": "Zamach terrorystyczny we Lwowie. Zełenski: Sprawcy zwerbowani przez Rosję",
-      "content_html": "Sprawcy aktu terrorystycznego we Lwowie, w wyniku którego zginęła policjantka, a 25 osób zostało rannych, zostali zwerbowani przez rosyjską organizację w komunikatorze Telegram – przekazał w niedzielę prezydent Ukrainy Wołodymyr Zełenski...",
-      "date_published": "2026-02-22T19:50:00+01:00",
       "source": "Bankier.pl"
     }
   ]
