@@ -5,6 +5,22 @@
   "home_page_url": "https://www.bankier.pl",
   "items": [
     {
+      "id": "https://biznes.pap.pl/wiadomosci/rynki/dzien-na-rynkach-wtorkowa-sesja-na-wall-street-konczy-sie-wzrostami",
+      "url": "https://biznes.pap.pl/wiadomosci/rynki/dzien-na-rynkach-wtorkowa-sesja-na-wall-street-konczy-sie-wzrostami",
+      "title": "DZIEŃ NA RYNKACH: Wtorkowa sesja na Wall Street kończy się wzrostami",
+      "content_html": "Wtorkowa sesja na Wall Stret zakończyła się wzrostami głównych indeksów, a w centrum uwagi inwestorów ponownie znalazły się spółki związane z oprogramowaniem oraz ze sztuczną inteligencją.",
+      "date_published": "2026-02-24T23:02:00+01:00",
+      "source": "PAP Biznes"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Raz-w-gore-raz-w-dol-Tym-razem-S-P500-skonczyl-na-zielono-9088619.html",
+      "url": "https://www.bankier.pl/wiadomosc/Raz-w-gore-raz-w-dol-Tym-razem-S-P500-skonczyl-na-zielono-9088619.html",
+      "title": "Raz w górę, raz w dół. Tym razem S&P500 skończył na zielono",
+      "content_html": "ym razem S&P500 i spółka zakończyli dzień na umiarkowanych plusach. Ton zwyżkom nadawali producenci chipów oraz odbijające po niedawnej przecenie akcje spółek informatycznych.",
+      "date_published": "2026-02-24T22:49:00+01:00",
+      "source": "Bankier.pl"
+    },
+    {
       "id": "https://biznes.pap.pl/wiadomosci/ekonomia-biznes-i-finanse/skrot-wiadomosci-wtorek-24-lutego-2100",
       "url": "https://biznes.pap.pl/wiadomosci/ekonomia-biznes-i-finanse/skrot-wiadomosci-wtorek-24-lutego-2100",
       "title": "Skrót wiadomości - wtorek, 24 lutego, 21.00",
@@ -357,14 +373,6 @@
       "source": "PAP Biznes"
     },
     {
-      "id": "https://biznes.pap.pl/wiadomosci/ekonomia-biznes-i-finanse/skrot-wiadomosci-wtorek-24-lutego-1700",
-      "url": "https://biznes.pap.pl/wiadomosci/ekonomia-biznes-i-finanse/skrot-wiadomosci-wtorek-24-lutego-1700",
-      "title": "Skrót wiadomości - wtorek, 24 lutego, 17.00",
-      "content_html": "Przegląd najważniejszych wiadomości gospodarczych, krajowych i ze świata.",
-      "date_published": "2026-02-24T17:00:00+01:00",
-      "source": "PAP Biznes"
-    },
-    {
       "id": "https://www.bankier.pl/wiadomosc/Od-srody-wiecej-kryptowalut-na-GPW-Szwedzi-zapowiadaja-Do-konca-roku-pojawi-sie-10-instrumentow-9088462.html",
       "url": "https://www.bankier.pl/wiadomosc/Od-srody-wiecej-kryptowalut-na-GPW-Szwedzi-zapowiadaja-Do-konca-roku-pojawi-sie-10-instrumentow-9088462.html",
       "title": "Od środy więcej kryptowalut na GPW. Szwedzi zapowiadają: Do końca roku pojawi się 10 instrumentów",
@@ -467,6 +475,14 @@
       "content_html": "Rząd przyjął we wtorek projekt ustawy o Krajowym Rejestrze Oznakowanych Psów i Kotów (KROPiK) – poinformował wiceminister rolnictwa Jacek Czerniak. Regulacja zakłada obowiązkowe czipowanie psów i zwierząt w schroniskach. W przypadku kotów...",
       "date_published": "2026-02-24T14:29:00+01:00",
       "source": "Bankier.pl"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/gospodarka/dynamika-pkb-moze-spowolnic-wobec-iv-kw-co-przelozy-sie-na-sciezke-calego",
+      "url": "https://biznes.pap.pl/wiadomosci/gospodarka/dynamika-pkb-moze-spowolnic-wobec-iv-kw-co-przelozy-sie-na-sciezke-calego",
+      "title": "Dynamika PKB może spowolnić wobec IV kw., co przełoży się na ścieżkę całego roku - mBank (opinia)",
+      "content_html": "Istnieje wysokie ryzyko, że dynamika PKB w I kwartale 2026 r. spowolni wobec IV kwartału, co przełoży się na ścieżkę całego roku - oceniają analitycy mBanku, oceniając wyniki gospodarki w styczniu.",
+      "date_published": "2026-02-24T14:26:00+01:00",
+      "source": "PAP Biznes"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Banki-kupuja-obligacje-skarbowe-KNF-informuje-o-uwaznej-obserwacji-9088328.html",
@@ -1179,14 +1195,6 @@
       "content_html": "Ceny ropy naftowej rosną, a inwestorzy rozważają szanse na deal nuklearny USA z Iranem. Prezydent USA Donald Trump wskazał wprawdzie, że woli rozwiązania dyplomatyczne, ale ostrzegł też przed konsekwe",
       "date_published": "2026-02-24T08:09:00+01:00",
       "source": "PAP Biznes"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Byly-brytyjski-ambasador-w-USA-aresztowany-Peter-Mandelson-mial-wspolpracowac-z-Epsteinem-9087939.html",
-      "url": "https://www.bankier.pl/wiadomosc/Byly-brytyjski-ambasador-w-USA-aresztowany-Peter-Mandelson-mial-wspolpracowac-z-Epsteinem-9087939.html",
-      "title": "Były brytyjski ambasador w USA, Peter Mandelson, został zwolniony za kaucją",
-      "content_html": "Brytyjska policja poinformowała w nocy z poniedziałku na wtorek, że 72-letni mężczyzna, aresztowany pod zarzutem nadużywania stanowiska publicznego, został zwolniony za kaucją do czasu zakończenia śledztwa. Agencje AFP, AP i dpa podawały, że...",
-      "date_published": "2026-02-24T08:05:00+01:00",
-      "source": "Bankier.pl"
     },
     {
       "id": "https://biznes.pap.pl/wiadomosci/rynki/najwazniejsze-indeksy-gieldowe-w-azji-667",
