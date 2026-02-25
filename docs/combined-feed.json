@@ -5,6 +5,14 @@
   "home_page_url": "https://www.bankier.pl",
   "items": [
     {
+      "id": "https://biznes.pap.pl/wiadomosci/gry-i-technologie/wyniki-nvidii-powyzej-oczekiwan-przychody-wzrosly-ponad-70-proc-opis",
+      "url": "https://biznes.pap.pl/wiadomosci/gry-i-technologie/wyniki-nvidii-powyzej-oczekiwan-przychody-wzrosly-ponad-70-proc-opis",
+      "title": "Wyniki Nvidii powyżej oczekiwań, przychody wzrosły ponad 70 proc. (opis)",
+      "content_html": "Wyniki koncernu Nvidia w czwartym kwartale 2025 roku okazały się lepsze od oczekiwań analityków, a trwający cały czas boom na sztuczną inteligencję zwiększył przychody koncernu z centrów danych o 75 p",
+      "date_published": "2026-02-25T22:55:00+01:00",
+      "source": "PAP Biznes"
+    },
+    {
       "id": "https://biznes.pap.pl/wiadomosci/gry-i-technologie/salesforce-wyda-50-mld-usd-na-wykup-akcji-ale-rozczarowal-prognozami",
       "url": "https://biznes.pap.pl/wiadomosci/gry-i-technologie/salesforce-wyda-50-mld-usd-na-wykup-akcji-ale-rozczarowal-prognozami",
       "title": "Salesforce wyda 50 mld USD na wykup akcji, ale rozczarował prognozami przychodów",
@@ -285,14 +293,6 @@
       "source": "Bankier.pl"
     },
     {
-      "id": "https://biznes.pap.pl/wiadomosci/firmy/ireneusz-fafara-i-slawomir-staszak-zlozyli-rezygnacje-z-rady-nadzorczej-energi",
-      "url": "https://biznes.pap.pl/wiadomosci/firmy/ireneusz-fafara-i-slawomir-staszak-zlozyli-rezygnacje-z-rady-nadzorczej-energi",
-      "title": "Ireneusz Fąfara i Sławomir Staszak złożyli rezygnacje z rady nadzorczej Energi",
-      "content_html": "Ireneusz Fąfara, prezes Orlenu, złożył rezygnację ze składu rady nadzorczej Energi i z funkcji jej przewodniczącego - poinformował gdański koncern energetyczny w komunikacie. Z rady nadzorczej odszedł",
-      "date_published": "2026-02-25T18:20:00+01:00",
-      "source": "PAP Biznes"
-    },
-    {
       "id": "https://www.bankier.pl/wiadomosc/Pol-miliona-czy-milion-Zobacz-jak-drastycznie-wzrosna-kary-za-przemyt-smieci-9089099.html",
       "url": "https://www.bankier.pl/wiadomosc/Pol-miliona-czy-milion-Zobacz-jak-drastycznie-wzrosna-kary-za-przemyt-smieci-9089099.html",
       "title": "Pół miliona czy milion? Zobacz, jak drastycznie wzrosną kary za przemyt śmieci",
@@ -427,6 +427,14 @@
       "content_html": "Oferta Torpolu została wybrana jako najkorzystniejsza w przetargu PKP PLK na zaprojektowanie i wykonanie robót dla prac na linii średnicowej w Warszawie na odcinku Warszawa Wschodnia - Warszawa Zachodnia, etap IIa - podał Torpol w komunikacie. Cena...",
       "date_published": "2026-02-25T16:34:00+01:00",
       "source": "Bankier.pl"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/firmy/zpc-otmuchow-zwiekszyl-wynik-ebitda-w-2025-roku-do-326-mln-zl",
+      "url": "https://biznes.pap.pl/wiadomosci/firmy/zpc-otmuchow-zwiekszyl-wynik-ebitda-w-2025-roku-do-326-mln-zl",
+      "title": "ZPC Otmuchów zwiększył wynik EBITDA w 2025 roku do 32,6 mln zł",
+      "content_html": "Zakłady Przemysłu Cukierniczego Otmuchów zwiększyły szacunkowy wynik EBITDA w 2025 roku do 32,6 mln zł wobec 27,4 mln zł przed rokiem - poinformowała spółka w komunikacie.",
+      "date_published": "2026-02-25T16:33:00+01:00",
+      "source": "PAP Biznes"
     },
     {
       "id": "https://biznes.pap.pl/wiadomosci/firmy/oferta-torpolu-za-ok-364-mld-zl-brutto-najkorzystniejsza-w-przetargu-pkp-plk",
@@ -1298,22 +1306,6 @@
       "title": "Janusz Krypto: blockchain, czyli bank bez banku i górnik z kartą graficzną. Jak działa bitcoin? Blockchain i bitcoin - wszyscy o nich mówią, ale mało kto rozumie, a jeszcze mniej potrafi wyjaśnić ich działanie w prosty sposób. Dziś zejdę do cyfrowej krypty, by dowiedzieć się, o co w tym wszystkim chodzi. Postaram się ustalić, na czym polega kopanie kryptowalut, czy komputery kwantowe zniszczą bitcoina i co się z nim stanie, jeśli pewnego dnia padną prąd i internet.",
       "content_html": "",
       "date_published": "2026-02-25T06:00:00+01:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/rynki/dzien-na-rynkach-wtorkowa-sesja-na-wall-street-konczy-sie-wzrostami",
-      "url": "https://biznes.pap.pl/wiadomosci/rynki/dzien-na-rynkach-wtorkowa-sesja-na-wall-street-konczy-sie-wzrostami",
-      "title": "DZIEŃ NA RYNKACH: Wtorkowa sesja na Wall Street kończy się wzrostami",
-      "content_html": "Wtorkowa sesja na Wall Stret zakończyła się wzrostami głównych indeksów, a w centrum uwagi inwestorów ponownie znalazły się spółki związane z oprogramowaniem oraz ze sztuczną inteligencją.",
-      "date_published": "2026-02-24T23:02:00+01:00",
-      "source": "PAP Biznes"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Raz-w-gore-raz-w-dol-Tym-razem-S-P500-skonczyl-na-zielono-9088619.html",
-      "url": "https://www.bankier.pl/wiadomosc/Raz-w-gore-raz-w-dol-Tym-razem-S-P500-skonczyl-na-zielono-9088619.html",
-      "title": "Raz w górę, raz w dół. Tym razem S&P500 skończył na zielono Tym razem S&P500 i spółka zakończyli dzień na umiarkowanych plusach. Ton zwyżkom nadawali producenci chipów oraz odbijające po niedawnej przecenie akcje spółek informatycznych.",
-      "content_html": "",
-      "date_published": "2026-02-24T22:49:00+01:00",
       "source": "Bankier.pl"
     }
   ]
