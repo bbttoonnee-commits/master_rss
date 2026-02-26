@@ -5,6 +5,14 @@
   "home_page_url": "https://www.bankier.pl",
   "items": [
     {
+      "id": "https://biznes.pap.pl/wiadomosci/rynki/dzien-na-rynkach-gieldy-w-usa-z-przewaga-spadkow-mocno-stracily-akcje-nvidii",
+      "url": "https://biznes.pap.pl/wiadomosci/rynki/dzien-na-rynkach-gieldy-w-usa-z-przewaga-spadkow-mocno-stracily-akcje-nvidii",
+      "title": "DZIEŃ NA RYNKACH: Giełdy w USA z przewagą spadków, mocno straciły akcje Nvidii",
+      "content_html": "Czwartkowa sesja na Wall Stret zakończyła się przewagą spadków wśród głównych indeksów, a w centrum uwagi inwestorów znalazły się akcje Nvidii, która co prawda pokazała świetne wyniki kwartalne, ale n",
+      "date_published": "2026-02-26T22:11:00+01:00",
+      "source": "PAP Biznes"
+    },
+    {
       "id": "https://biznes.pap.pl/wiadomosci/ekonomia-biznes-i-finanse/skrot-wiadomosci-czwartek-26-lutego-2100",
       "url": "https://biznes.pap.pl/wiadomosci/ekonomia-biznes-i-finanse/skrot-wiadomosci-czwartek-26-lutego-2100",
       "title": "Skrót wiadomości - czwartek, 26 lutego, 21.00",
@@ -293,14 +301,6 @@
       "source": "PAP Biznes"
     },
     {
-      "id": "https://biznes.pap.pl/wiadomosci/firmy/wyniki-text-w-iii-kw-202526-roku-vs-konsensus-pap-biznes-tabela",
-      "url": "https://biznes.pap.pl/wiadomosci/firmy/wyniki-text-w-iii-kw-202526-roku-vs-konsensus-pap-biznes-tabela",
-      "title": "Wyniki Text w III kw. 2025/26 roku vs. konsensus PAP Biznes (tabela)",
-      "content_html": "Poniżej przedstawiono wyniki Text w trzecim kwartale roku obrotowego 2025/26 oraz ich odniesienie do konsensusu PAP Biznes i wyników poprzednich okresów.",
-      "date_published": "2026-02-26T17:25:00+01:00",
-      "source": "PAP Biznes"
-    },
-    {
       "id": "https://www.bankier.pl/wiadomosc/Energetyka-oczywistym-wyborem-Orange-is-the-new-green-9089779.html",
       "url": "https://www.bankier.pl/wiadomosc/Energetyka-oczywistym-wyborem-Orange-is-the-new-green-9089779.html",
       "title": "Energetyka oczywistym wyborem. Orange is the new green",
@@ -403,6 +403,14 @@
       "content_html": "Iran chce skusić prezydenta USA Donalda Trumpa zachętami finansowymi, w tym inwestycjami w swoje ogromne rezerwy ropy naftowej i gazu ziemnego w zamian za zawarcie umowy w sprawie programu nuklearnego i uniknięcie wojny - przekazał w czwartek brytyjski...",
       "date_published": "2026-02-26T15:17:00+01:00",
       "source": "Bankier.pl"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/firmy/t-mobile-polska-planuje-w-strategii-1-mln-konwergentnych-i-14-mln-mobilnych-0",
+      "url": "https://biznes.pap.pl/wiadomosci/firmy/t-mobile-polska-planuje-w-strategii-1-mln-konwergentnych-i-14-mln-mobilnych-0",
+      "title": "T-Mobile Polska planuje w strategii 1 mln konwergentnych i 14 mln mobilnych klientów do 2030 (opis)",
+      "content_html": "T-Mobile Polska przedstawił strategię “2030 smart horizon”, w której zakłada zwiększenie do 2030 r. liczby klientów usług konwergentnych do 1 mln oraz do 14 mln klientów usług mobilnych (z 13,5 mln na",
+      "date_published": "2026-02-26T15:10:00+01:00",
+      "source": "PAP Biznes"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/MedTech-Solutions-ma-aneks-do-umowy-dystrybucyjnej-z-GPC-Medical-9089670.html",
@@ -1261,6 +1269,14 @@
       "source": "Bankier.pl"
     },
     {
+      "id": "https://www.bankier.pl/wiadomosc/Mieszana-reakcja-akcji-zloto-i-bitcoin-w-gore-Rynki-po-wynikach-Nvidii-9089312.html",
+      "url": "https://www.bankier.pl/wiadomosc/Mieszana-reakcja-akcji-zloto-i-bitcoin-w-gore-Rynki-po-wynikach-Nvidii-9089312.html",
+      "title": "Rynki reagują na wyniki Nvidii. Inwestorzy liczyli na więcej? Nvidia zaprezentowała w środę wyniki, które ponownie przekroczyły oczekiwania analityków, lecz wczesna reakcja rynków pozwala sądzić, że apetyt był jeszcze większy. Akcje giganta z branży półprzewodników ruszyły w górę w handlu posesyjnym, po czym spadły. Kontrakty futures na indeksy S&P500 i Nasdaq podzieliły ten los.",
+      "content_html": "",
+      "date_published": "2026-02-26T08:16:00+01:00",
+      "source": "Bankier.pl"
+    },
+    {
       "id": "https://biznes.pap.pl/wiadomosci/gospodarka/eboir-podniosl-prognoze-wzrostu-pkb-polski-w-26-do-37-proc-opis",
       "url": "https://biznes.pap.pl/wiadomosci/gospodarka/eboir-podniosl-prognoze-wzrostu-pkb-polski-w-26-do-37-proc-opis",
       "title": "EBOiR podniósł prognozę wzrostu PKB Polski w '26 do 3,7 proc. (opis)",
@@ -1275,6 +1291,14 @@
       "content_html": "Liczba cudzoziemców ubezpieczonych w ZUS na koniec stycznia spadła o ok. 2,8 tys. mdm i wyniosła 1,286 mln - poinformował ZUS.",
       "date_published": "2026-02-26T08:06:00+01:00",
       "source": "PAP Biznes"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Pawel-Wojtunik-wejdzie-do-zarzadu-Orlenu-9089140.html",
+      "url": "https://www.bankier.pl/wiadomosc/Pawel-Wojtunik-wejdzie-do-zarzadu-Orlenu-9089140.html",
+      "title": "Paweł Wojtunik wchodzi do zarządu Orlenu. Były szef CBA zajmie się bezpieczeństwem Rada nadzorcza Orlenu powołała w środę Pawła Wojtunika na członka zarządu spółki ds. bezpieczeństwa i ryzyka - poinformował koncern w raporcie giełdowym. Wojtunik w latach 2009-2015 był szefem Centralnego Biura Antykorupcyjnego (CBA).",
+      "content_html": "",
+      "date_published": "2026-02-26T07:59:00+01:00",
+      "source": "Bankier.pl"
     },
     {
       "id": "https://biznes.pap.pl/wiadomosci/rynki/najwazniejsze-indeksy-gieldowe-w-azji-669",
@@ -1341,6 +1365,14 @@
       "source": "PAP Biznes"
     },
     {
+      "id": "https://www.bankier.pl/wiadomosc/Zysk-netto-grupy-PZU-w-IV-kw-25-wyniosl-1-474-mln-zl-oczekiwano-1-519-mln-zl-9089292.html",
+      "url": "https://www.bankier.pl/wiadomosc/Zysk-netto-grupy-PZU-w-IV-kw-25-wyniosl-1-474-mln-zl-oczekiwano-1-519-mln-zl-9089292.html",
+      "title": "WYNIKI Słabszy kwartał giganta. Zysk netto PZU spadł o 26 proc. Zysk netto przypisany właścicielom jednostki dominującej grupy PZU w czwartym kwartale 2025 roku spadł do 1.474 mln zł z 1.681 mln zł rok wcześniej - poinformował w czwartek ubezpieczyciel. Konsensus PAP Biznes zakładał wypracowanie zysku na poziomie 1.519 mln zł.",
+      "content_html": "",
+      "date_published": "2026-02-26T07:19:00+01:00",
+      "source": "Bankier.pl"
+    },
+    {
       "id": "https://biznes.pap.pl/wiadomosci/firmy/zysk-netto-grupy-pzu-w-iv-kw-25-wyniosl-147-mld-zl-oczekiwano-152-mld-zl-opis",
       "url": "https://biznes.pap.pl/wiadomosci/firmy/zysk-netto-grupy-pzu-w-iv-kw-25-wyniosl-147-mld-zl-oczekiwano-152-mld-zl-opis",
       "title": "Zysk netto grupy PZU w IV kw. '25 wyniósł 1,47 mld zł, oczekiwano 1.52 mld zł (opis)",
@@ -1405,6 +1437,14 @@
       "source": "PAP Biznes"
     },
     {
+      "id": "https://www.bankier.pl/wiadomosc/Wyniki-Asbisu-w-IV-kwartale-2025-roku-vs-konsensus-PAP-tabela-9089293.html",
+      "url": "https://www.bankier.pl/wiadomosc/Wyniki-Asbisu-w-IV-kwartale-2025-roku-vs-konsensus-PAP-tabela-9089293.html",
+      "title": "Wyniki Asbisu w IV kwartale 2025 roku vs. konsensus PAP (tabela) Poniżej przedstawiamy wyniki Asbisu w czwartym kwartale 2025 r. i ich odniesienie do konsensusu PAP oraz do poprzednich wyników.",
+      "content_html": "",
+      "date_published": "2026-02-26T06:24:00+01:00",
+      "source": "Bankier.pl"
+    },
+    {
       "id": "https://biznes.pap.pl/wiadomosci/firmy/zysk-netto-grupy-pzu-w-iv-kw-25-wyniosl-1474-mln-zl-oczekiwano-1519-mln-zl",
       "url": "https://biznes.pap.pl/wiadomosci/firmy/zysk-netto-grupy-pzu-w-iv-kw-25-wyniosl-1474-mln-zl-oczekiwano-1519-mln-zl",
       "title": "Zysk netto grupy PZU w IV kw. '25 wyniósł 1.474 mln zł; oczekiwano 1.519 mln zł",
@@ -1421,6 +1461,14 @@
       "source": "PAP Biznes"
     },
     {
+      "id": "https://www.bankier.pl/wiadomosc/Wyniki-PZU-w-IV-kw-2025-roku-vs-konsensus-PAP-tabela-9089289.html",
+      "url": "https://www.bankier.pl/wiadomosc/Wyniki-PZU-w-IV-kw-2025-roku-vs-konsensus-PAP-tabela-9089289.html",
+      "title": "Wyniki PZU w IV kw. 2025 roku vs. konsensus PAP (tabela) Poniżej przedstawiamy wyniki grupy PZU w czwartym kwartale 2025 roku i ich odniesienie do konsensusu PAP i poprzednich wyników.",
+      "content_html": "",
+      "date_published": "2026-02-26T06:12:00+01:00",
+      "source": "Bankier.pl"
+    },
+    {
       "id": "https://biznes.pap.pl/wiadomosci/firmy/wyniki-pzu-w-iv-kw-2025-roku-vs-konsensus-pap-tabela",
       "url": "https://biznes.pap.pl/wiadomosci/firmy/wyniki-pzu-w-iv-kw-2025-roku-vs-konsensus-pap-tabela",
       "title": "Wyniki PZU w IV kw. 2025 roku vs. konsensus PAP (tabela)",
@@ -1429,27 +1477,35 @@
       "source": "PAP Biznes"
     },
     {
+      "id": "https://www.bankier.pl/wiadomosc/Drugie-mieszkanie-czy-akcje-Ekspert-porownal-co-skuteczniej-buduje-nad-Wisla-kapital-w-dlugim-terminie-9088928.html",
+      "url": "https://www.bankier.pl/wiadomosc/Drugie-mieszkanie-czy-akcje-Ekspert-porownal-co-skuteczniej-buduje-nad-Wisla-kapital-w-dlugim-terminie-9088928.html",
+      "title": "Drugie mieszkanie czy akcje? Ekspert porównał, co skuteczniej buduje kapitał w długim terminie Polacy kochają inwestować w nieruchomości, a własne mieszkanie uchodzi za synonim finansowego bezpieczeństwa. Ale czy kupno drugiego lokalu to na pewno optymalny sposób pomnażania oszczędności? Roy Regev, członek zarządu BETA TFI, w artykule dla Bankier.pl zestawia zyski z warszawskich mieszkań z giełdowymi akcjami i podpowiada, jaka strategia stosowana przez inwestorów na dojrzałych rynkach sprawdza się najlepiej.",
+      "content_html": "",
+      "date_published": "2026-02-26T06:00:00+01:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Spekulacje-okazaly-sie-trafione-i-daly-zarobic-ponad-100-proc-Forum-Bankiera-i-OSINT-Odlewni-Polskich-9089013.html",
+      "url": "https://www.bankier.pl/wiadomosc/Spekulacje-okazaly-sie-trafione-i-daly-zarobic-ponad-100-proc-Forum-Bankiera-i-OSINT-Odlewni-Polskich-9089013.html",
+      "title": "Forum Bankiera dało zarobić ponad 100 proc. Spekulacje okazały się trafione Kurs Odlewni Polskich ze Starachowic po otrzymaniu dużego zlecenia od jednego z podmiotów wchodzących w skład Polskiej Grupy Zbrojeniowej bije historyczne rekordy. Notowania spółki tylko w trzy sesje zyskały 48 proc., a od początku roku już przeszło 80 proc. Trop, wedle którego spółka pojawiła się na radarze polskiej spekuły rok temu okazał się trafny. Najciekawsze, że OSINT wykonany przez użytkowników forum Bankier.pl podpowiadał w ubiegłym roku scenariusz, który obecnie jest realizowany.",
+      "content_html": "",
+      "date_published": "2026-02-26T06:00:00+01:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Nvidia-wynikami-nokautuje-prognozy-Imperium-AI-warte-tyle-co-gospodarka-Niemiec-9089241.html",
+      "url": "https://www.bankier.pl/wiadomosc/Nvidia-wynikami-nokautuje-prognozy-Imperium-AI-warte-tyle-co-gospodarka-Niemiec-9089241.html",
+      "title": "Nvidia nokautuje prognozy. Imperium AI warte tyle, co gospodarka Niemiec Wyniki koncernu Nvidia w czwartym kwartale 2025 roku okazały się lepsze od oczekiwań analityków, a trwający cały czas boom na sztuczną inteligencję zwiększył przychody koncernu z centrów danych o 75 proc.",
+      "content_html": "",
+      "date_published": "2026-02-25T22:58:00+01:00",
+      "source": "Bankier.pl"
+    },
+    {
       "id": "https://biznes.pap.pl/wiadomosci/gry-i-technologie/wyniki-nvidii-powyzej-oczekiwan-przychody-wzrosly-ponad-70-proc-opis",
       "url": "https://biznes.pap.pl/wiadomosci/gry-i-technologie/wyniki-nvidii-powyzej-oczekiwan-przychody-wzrosly-ponad-70-proc-opis",
       "title": "Wyniki Nvidii powyżej oczekiwań, przychody wzrosły ponad 70 proc. (opis)",
       "content_html": "Wyniki koncernu Nvidia w czwartym kwartale 2025 roku okazały się lepsze od oczekiwań analityków, a trwający cały czas boom na sztuczną inteligencję zwiększył przychody koncernu z centrów danych o 75 p",
       "date_published": "2026-02-25T22:55:00+01:00",
-      "source": "PAP Biznes"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/gry-i-technologie/salesforce-wyda-50-mld-usd-na-wykup-akcji-ale-rozczarowal-prognozami",
-      "url": "https://biznes.pap.pl/wiadomosci/gry-i-technologie/salesforce-wyda-50-mld-usd-na-wykup-akcji-ale-rozczarowal-prognozami",
-      "title": "Salesforce wyda 50 mld USD na wykup akcji, ale rozczarował prognozami przychodów",
-      "content_html": "Amerykański producent oprogramowania Salesforce zobowiązał się do wydania 50 mld USD na wykup akcji własnych, ale prognoza przychodów spółki rozczarowała inwestorów. W efekcie jej akcje spadają w hand",
-      "date_published": "2026-02-25T22:20:00+01:00",
-      "source": "PAP Biznes"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/rynki/dzien-na-rynkach-gieldy-na-wall-street-w-gore-rynek-czeka-na-wyniki-nvidii",
-      "url": "https://biznes.pap.pl/wiadomosci/rynki/dzien-na-rynkach-gieldy-na-wall-street-w-gore-rynek-czeka-na-wyniki-nvidii",
-      "title": "DZIEŃ NA RYNKACH: Giełdy na Wall Street w górę, rynek czeka na wyniki Nvidii",
-      "content_html": "Środowa sesja na Wall Stret przyniosła kontynuację wzrostów, a inwestorzy z obawą, ale i z nadziejami, czekali na publikację po sesji wyników kwartalnych przez Nvidię, gwiazdę hossy związanej ze sztuc",
-      "date_published": "2026-02-25T22:07:00+01:00",
       "source": "PAP Biznes"
     }
   ]
