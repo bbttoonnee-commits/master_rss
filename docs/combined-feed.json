@@ -5,44 +5,236 @@
   "home_page_url": "https://www.bankier.pl",
   "items": [
     {
+      "id": "https://biznes.pap.pl/wiadomosci/firmy/ceny-ropy-notuja-male-zmiany-nie-ustaja-obawy-zwiazane-z-potencjalnym-konfliktem",
+      "url": "https://biznes.pap.pl/wiadomosci/firmy/ceny-ropy-notuja-male-zmiany-nie-ustaja-obawy-zwiazane-z-potencjalnym-konfliktem",
+      "title": "Ceny ropy notują małe zmiany; nie ustają obawy związane z potencjalnym konfliktem USA-Iran",
+      "content_html": "Ceny ropy naftowej notują na razie małe zmiany w miarę zbliżania się spotkania USA z Iranem ws. irańskiego programu nuklearnego. Na rynkach nie ustają obawy związane z potencjalnym konfliktem zbrojnym",
+      "date_published": "2026-02-26T07:55:00+01:00",
+      "source": "PAP Biznes"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/gospodarka/wartosc-udzielonych-kredytow-mieszkaniowych-w-i-wzrosla-o-414-proc-rdr-bik",
+      "url": "https://biznes.pap.pl/wiadomosci/gospodarka/wartosc-udzielonych-kredytow-mieszkaniowych-w-i-wzrosla-o-414-proc-rdr-bik",
+      "title": "Wartość udzielonych kredytów mieszkaniowych w I wzrosła o 41,4 proc. rdr - BIK",
+      "content_html": "Wartość udzielonych kredytów mieszkaniowych w styczniu wzrosła w Polsce o 41,4 proc. rdr do 9,9 mld zł - podało Biuro Informacji Kredytowej (BIK).",
+      "date_published": "2026-02-26T07:46:00+01:00",
+      "source": "PAP Biznes"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/UE-zakaze-utylizacji-butow-i-odziezy-Handlowcy-apeluja-o-zniesienie-VAT-od-darowizn-9089263.html",
+      "url": "https://www.bankier.pl/wiadomosc/UE-zakaze-utylizacji-butow-i-odziezy-Handlowcy-apeluja-o-zniesienie-VAT-od-darowizn-9089263.html",
+      "title": "UE zakaże utylizacji butów i odzieży. Handlowcy apelują o zniesienie VAT od darowizn",
+      "content_html": "Komisja Europejska wypowiada wojnę marnotrawstwu niesprzedanej odzieży i obuwia. Od lipca 2026 r. duże firmy odzieżowe nie będą mogły legalnie niszczyć zapasów -- pisze w czwartek „Dziennik Gazeta Prawna”.",
+      "date_published": "2026-02-26T07:44:00+01:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/rynki/ceny-miedzi-w-londynie-spadaja-trwa-oczekiwanie-na-ozywienie-popytu-w-chinach",
+      "url": "https://biznes.pap.pl/wiadomosci/rynki/ceny-miedzi-w-londynie-spadaja-trwa-oczekiwanie-na-ozywienie-popytu-w-chinach",
+      "title": "Ceny miedzi w Londynie spadają; trwa oczekiwanie na ożywienie popytu w Chinach",
+      "content_html": "Notowania miedzi na giełdzie metali LME w Londynie spadają podczas czwartkowego handlu, a inwestorzy czekają na ożywienie popytu na metal w Chinach, które zużywają najwięcej metali bazowych na świecie",
+      "date_published": "2026-02-26T07:43:00+01:00",
+      "source": "PAP Biznes"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/ZEA-zbuduja-osiedla-w-Strefie-Gazy-Odbudowa-pod-kontrola-Izraela-9089257.html",
+      "url": "https://www.bankier.pl/wiadomosc/ZEA-zbuduja-osiedla-w-Strefie-Gazy-Odbudowa-pod-kontrola-Izraela-9089257.html",
+      "title": "ZEA zbudują osiedla w Strefie Gazy? Odbudowa pod kontrolą Izraela",
+      "content_html": "Zjednoczone Emiraty Arabskie sfinansują budowę osiedla dla przesiedlonych Palestyńczyków w części Strefy Gazy kontrolowanej przez Izrael – podał w środę Reuters. Projekt ma być sygnałem rozpoczęcia odbudowy Strefy Gazy bez czekania na wycofanie...",
+      "date_published": "2026-02-26T07:42:00+01:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/firmy/tfi-mialy-w-2025-r-137-mld-zl-zysku-netto-knf",
+      "url": "https://biznes.pap.pl/wiadomosci/firmy/tfi-mialy-w-2025-r-137-mld-zl-zysku-netto-knf",
+      "title": "TFI miały w 2025 r. 1,37 mld zł zysku netto - KNF",
+      "content_html": "Towarzystwa Funduszy Inwestycyjnych miały w 2025 roku 1,37 mld zł zysku netto wobec 1 mld zł zysku rok wcześniej - wynika z danych KNF.",
+      "date_published": "2026-02-26T07:40:00+01:00",
+      "source": "PAP Biznes"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Magyar-Orban-stosuje-terror-Rzad-wywoluje-psychoze-wojenna-i-chce-strachu-9089245.html",
+      "url": "https://www.bankier.pl/wiadomosc/Magyar-Orban-stosuje-terror-Rzad-wywoluje-psychoze-wojenna-i-chce-strachu-9089245.html",
+      "title": "Magyar: Orban stosuje terror. Rząd wywołuje psychozę wojenną i chce strachu",
+      "content_html": "Każdy, kto obserwuje działania rządu Węgier, widzi, że stosuje on terror psychologiczny wobec własnego narodu - powiedział w środę lider węgierskiej opozycji Peter Magyar. Wcześniej tego dnia premier Viktor Orban ostrzegł przed możliwymi...",
+      "date_published": "2026-02-26T07:39:00+01:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/gospodarka/ebor-podniosl-prognoze-wzrostu-pkb-polski-w-26-do-37-proc",
+      "url": "https://biznes.pap.pl/wiadomosci/gospodarka/ebor-podniosl-prognoze-wzrostu-pkb-polski-w-26-do-37-proc",
+      "title": "EBOR podniósł prognozę wzrostu PKB Polski w '26 do 3,7 proc.",
+      "content_html": "Europejski Bank Odbudowy i Rozwoju (EBOR) podwyższył prognozy wzrostu gospodarczego Polski w 2026 r. do 3,7 proc., czyli jest to o 0,3 pkt. proc. więcej niż we wrześniowej turze prognostycznej.",
+      "date_published": "2026-02-26T07:38:00+01:00",
+      "source": "PAP Biznes"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Serbia-przedluza-gazowy-pakt-z-Moskwa-Rosyjski-surowiec-niezastapiony-dla-Belgradu-9089249.html",
+      "url": "https://www.bankier.pl/wiadomosc/Serbia-przedluza-gazowy-pakt-z-Moskwa-Rosyjski-surowiec-niezastapiony-dla-Belgradu-9089249.html",
+      "title": "Serbia przedłuża gazowy pakt z Moskwą. Rosyjski surowiec \"niezastąpiony\" dla Belgradu",
+      "content_html": "Prezes serbskiej państwowej spółki gazowej Srbijagas, Duszan Bajatović, oświadczył w środę, że umowa na dostawy rosyjskiego gazu, która wygasa 31 marca, zostanie przedłużona o sześć miesięcy. Bajatović dodał, że rola Rosji w zaopatrywaniu...",
+      "date_published": "2026-02-26T07:35:00+01:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/firmy/zus-przekazal-do-ofe-w-tym-tygodniu-25016-mln-zl",
+      "url": "https://biznes.pap.pl/wiadomosci/firmy/zus-przekazal-do-ofe-w-tym-tygodniu-25016-mln-zl",
+      "title": "ZUS przekazał do OFE w tym tygodniu 250,16 mln zł",
+      "content_html": "Zakład Ubezpieczeń Społecznych przekazał w tym tygodniu otwartym funduszom emerytalnym (OFE) 250,16 mln zł - poinformował ZUS.",
+      "date_published": "2026-02-26T07:33:00+01:00",
+      "source": "PAP Biznes"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Rosnie-napiecie-pomiedzy-Kuba-i-USA-Hawana-zastrzelila-4-osoby-na-amerykanskiej-motorowce-9089244.html",
+      "url": "https://www.bankier.pl/wiadomosc/Rosnie-napiecie-pomiedzy-Kuba-i-USA-Hawana-zastrzelila-4-osoby-na-amerykanskiej-motorowce-9089244.html",
+      "title": "Rośnie napięcie pomiędzy Kubą i USA. Hawana zastrzeliła 4 osoby na amerykańskiej motorówce",
+      "content_html": "Prokurator generalny Florydy James Uthmeier zapowiedział w środę, że zrobi wszystko, „by pociągnąć komunistów do odpowiedzialności” w związku z zastrzeleniem przez kubańską straż graniczną czterech osób znajdujących się na zarejestrowanej...",
+      "date_published": "2026-02-26T07:30:00+01:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/firmy/domy-maklerskie-w-2025-r-mialy-8069-mln-zl-zysku-netto-knf",
+      "url": "https://biznes.pap.pl/wiadomosci/firmy/domy-maklerskie-w-2025-r-mialy-8069-mln-zl-zysku-netto-knf",
+      "title": "Domy maklerskie w 2025 r. miały 806,9 mln zł zysku netto - KNF",
+      "content_html": "Branża domów maklerskich miała po czterech kwartałach 2025 roku 806,9 mln zł zysku netto wobec 1.017,1 mln zł zysku rok wcześniej - wynika z danych publikowanych przez KNF.",
+      "date_published": "2026-02-26T07:30:00+01:00",
+      "source": "PAP Biznes"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Zalesiali-Madere-tylko-na-papierze-Milionowe-wyludzenia-z-budzetu-UE-9089260.html",
+      "url": "https://www.bankier.pl/wiadomosc/Zalesiali-Madere-tylko-na-papierze-Milionowe-wyludzenia-z-budzetu-UE-9089260.html",
+      "title": "Zalesiali Maderę tylko na papierze? Milionowe wyłudzenia z budżetu UE",
+      "content_html": "Portugalska policja we współpracy z Prokuraturą Europejską przeprowadziła w środę obławę na grupę osób i firmy, które podejrzane są o wyłudzenie z budżetu UE co najmniej 3,6 mln euro, zatrzymano pięć osób.",
+      "date_published": "2026-02-26T07:26:00+01:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Koniec-faworyzowania-prokuratorow-Zdalna-rozprawa-wniosek-kazdej-ze-stron-9089264.html",
+      "url": "https://www.bankier.pl/wiadomosc/Koniec-faworyzowania-prokuratorow-Zdalna-rozprawa-wniosek-kazdej-ze-stron-9089264.html",
+      "title": "Koniec faworyzowania prokuratorów. Zdalna rozprawa wniosek każdej ze stron",
+      "content_html": "Nie tylko prokuratorzy, lecz także obrońcy będą mogli uczestniczyć w rozprawach na odległość – przewiduje projekt, nad którym kończy prace Ministerstwo Sprawiedliwości - informuje w czwartek „Rzeczpospolita”.",
+      "date_published": "2026-02-26T07:26:00+01:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Trzy-lata-od-dlugu-do-bankructwa-KRD-pokazuje-jak-Polacy-wpadaja-w-petle-zadluzenia-9089288.html",
+      "url": "https://www.bankier.pl/wiadomosc/Trzy-lata-od-dlugu-do-bankructwa-KRD-pokazuje-jak-Polacy-wpadaja-w-petle-zadluzenia-9089288.html",
+      "title": "Trzy lata od długu do bankructwa. KRD pokazuje, jak Polacy wpadają w pętlę zadłużenia",
+      "content_html": "Największą grupę spośród bankrutów wpisanych do Krajowego Rejestru Długów stanowiły osoby w wieku 36-45 lat - wynika z raportu przygotowanego przez KRD. 47 proc. bankrutów z II połowy 2025 r. widniało w rejestrze już na trzy lata przed ogłoszeniem...",
+      "date_published": "2026-02-26T07:23:00+01:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Zysk-netto-grupy-PZU-w-IV-kw-25-wyniosl-1-474-mln-zl-oczekiwano-1-519-mln-zl-9089292.html",
+      "url": "https://www.bankier.pl/wiadomosc/Zysk-netto-grupy-PZU-w-IV-kw-25-wyniosl-1-474-mln-zl-oczekiwano-1-519-mln-zl-9089292.html",
+      "title": "Słabszy kwartał giganta. Zysk netto PZU spadł o 26 proc.",
+      "content_html": "Zysk netto przypisany właścicielom jednostki dominującej grupy PZU w czwartym kwartale 2025 roku spadł do 1.474 mln zł z 1.681 mln zł rok wcześniej - poinformował w czwartek ubezpieczyciel. Konsensus PAP Biznes zakładał wypracowanie zysku na...",
+      "date_published": "2026-02-26T07:19:00+01:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Bransoletka-zamknie-Le-Pen-droge-do-prezydentury-Francja-czeka-na-wyrok-sadu-9089265.html",
+      "url": "https://www.bankier.pl/wiadomosc/Bransoletka-zamknie-Le-Pen-droge-do-prezydentury-Francja-czeka-na-wyrok-sadu-9089265.html",
+      "title": "Bransoletka zamknię Le Pen drogę do prezydentury? Francja czeka na wyrok sądu",
+      "content_html": "Liderka francuskiej skrajnej prawicy Marine Le Pen powiedziała w środę, że ewentualny wyrok wobec niej w postaci noszenia bransoletki elektronicznej uniemożliwiłby jej prowadzenie kampanii przed wyborami prezydenckimi w 2027 roku. Le Pen czeka na...",
+      "date_published": "2026-02-26T07:17:00+01:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Inwestycyjny-boom-w-Modlinie-Powiekszona-czesc-gotowa-na-lato-9089275.html",
+      "url": "https://www.bankier.pl/wiadomosc/Inwestycyjny-boom-w-Modlinie-Powiekszona-czesc-gotowa-na-lato-9089275.html",
+      "title": "Inwestycyjny boom w Modlinie. Powiększona część gotowa na lato",
+      "content_html": "Lotnisko w Modlinie zaczyna wreszcie rozbudowę ciasnego terminalu pasażerskiego. Ma być gotowy do wakacji, a już od marca będzie odprawiać rano aż dziewięć samolotów jednocześnie - napisała „Gazeta Wyborcza” w czwartkowym wydaniu.",
+      "date_published": "2026-02-26T07:15:00+01:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Polskie-i-NATO-wskie-mysliwce-w-powietrzu-Masowy-atak-Rosji-na-Ukraine-9089284.html",
+      "url": "https://www.bankier.pl/wiadomosc/Polskie-i-NATO-wskie-mysliwce-w-powietrzu-Masowy-atak-Rosji-na-Ukraine-9089284.html",
+      "title": "Polskie i NATO-wskie myśliwce w powietrzu. Masowy atak Rosji na Ukrainę",
+      "content_html": "W związku ze masowanym atakiem Federacji Rosyjskiej na terytorium Ukrainy rozpoczęło się operowanie polskiego i sojuszniczego lotnictwa w naszej przestrzeni powietrzne - poinformowało w czwartek Dowództwo Operacyjne Rodzajów Sił Zbrojnych.",
+      "date_published": "2026-02-26T07:13:00+01:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Decyzja-o-etacie-zamiast-zlecenia-Szef-PIP-Lobbysci-nie-maja-czego-szukac-w-apolitycznym-urzedzie-9089286.html",
+      "url": "https://www.bankier.pl/wiadomosc/Decyzja-o-etacie-zamiast-zlecenia-Szef-PIP-Lobbysci-nie-maja-czego-szukac-w-apolitycznym-urzedzie-9089286.html",
+      "title": "Decyzja o etacie zamiast zlecenia. Szef PIP: Lobbyści nie mają czego szukać w apolitycznym urzędzie",
+      "content_html": "Sejm proceduje nowelizację ustawy o Państwowej Inspekcji Pracy. Główny Inspektor Pracy Marcin Stanecki przekonuje, że to systemowa zmiana, która pozwoli uporządkować rynek bez wywoływania rewolucji, wzmocni ochronę pracowników i ustali jasne...",
+      "date_published": "2026-02-26T07:11:00+01:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/firmy/zysk-netto-grupy-pzu-w-iv-kw-25-wyniosl-147-mld-zl-oczekiwano-152-mld-zl-opis",
+      "url": "https://biznes.pap.pl/wiadomosci/firmy/zysk-netto-grupy-pzu-w-iv-kw-25-wyniosl-147-mld-zl-oczekiwano-152-mld-zl-opis",
+      "title": "Zysk netto grupy PZU w IV kw. '25 wyniósł 1,47 mld zł, oczekiwano 1.52 mld zł (opis)",
+      "content_html": "Zysk netto przypisany właścicielom jednostki dominującej grupy PZU w czwartym kwartale 2025 roku spadł do 1.474 mln zł z 1.681 mln zł rok wcześniej - poinformował w czwartek ubezpieczyciel. Konsensus ",
+      "date_published": "2026-02-26T07:05:00+01:00",
+      "source": "PAP Biznes"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Gates-przeprasza-za-Epsteina-Zalozyciel-Microsoftu-przyznal-sie-do-romansow-9089208.html",
+      "url": "https://www.bankier.pl/wiadomosc/Gates-przeprasza-za-Epsteina-Zalozyciel-Microsoftu-przyznal-sie-do-romansow-9089208.html",
+      "title": "Gates przeprasza za Epsteina. Założyciel Microsoftu przyznał się do romansów",
+      "content_html": "Bill Gates przeprosił pracowników Gates Foundation za swoje powiązania z przestępcą seksualnym Jeffreyem Epsteinem, przyznał się do błędów, które rzuciły cień na działalność tej filantropijnej organizacji i zapewnił, że nie uczestniczył...",
+      "date_published": "2026-02-26T07:00:00+01:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Polska-2050-zostanie-bez-wicepremiera-Czarzasty-Sytuacja-troche-sie-zmienila-9089210.html",
+      "url": "https://www.bankier.pl/wiadomosc/Polska-2050-zostanie-bez-wicepremiera-Czarzasty-Sytuacja-troche-sie-zmienila-9089210.html",
+      "title": "Polska 2050 zostanie bez wicepremiera? Czarzasty: Sytuacja trochę się zmieniła",
+      "content_html": "Marszałek Sejmu Włodzimierz Czarzasty ocenił, że w związku z rozłamem w Polsce 2050 sytuacja związana ze stanowiskiem wicepremiera dla Polski 2050 „trochę się zmieniła”. - Nie wiem czy jest tak wielka siła, stojąca za tym pragnieniem -...",
+      "date_published": "2026-02-26T07:00:00+01:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Trump-kontra-De-Niro-i-muzulmanskie-kongresmenki-Odeslac-skad-przybyly-9089212.html",
+      "url": "https://www.bankier.pl/wiadomosc/Trump-kontra-De-Niro-i-muzulmanskie-kongresmenki-Odeslac-skad-przybyly-9089212.html",
+      "title": "Trump kontra De Niro i muzułmańskie kongresmenki. \"Odesłać, skąd przybyły\"",
+      "content_html": "Prezydent USA Donald Trump powiedział w środę, że przekrzykujące się z nim podczas orędzia w Kapitolu muzułmańskie kongresmenki Demokratów Ilhan Omar i Rashida Tlaib powinny zostać „odesłane tam, skąd przybyły”. To samo prezydent polecił...",
+      "date_published": "2026-02-26T07:00:00+01:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Izrael-znalazl-sobie-kolejnego-wroga-Jerozolima-widzi-w-Turcji-nowe-zagrozenie-9089278.html",
+      "url": "https://www.bankier.pl/wiadomosc/Izrael-znalazl-sobie-kolejnego-wroga-Jerozolima-widzi-w-Turcji-nowe-zagrozenie-9089278.html",
+      "title": "Izrael znalazł sobie kolejnego wroga. Jerozolima widzi w Turcji nowe zagrożenie",
+      "content_html": "W miarę jak rośnie prawdopodobieństwo ataku USA na Iran, izraelscy przywódcy coraz częściej kierują uwagę na inną regionalną siłę: Turcję. Ankara jawi im się jako nowy regionalny rywal i zagrożenie - zauważył w środę turecki dziennik...",
+      "date_published": "2026-02-26T07:00:00+01:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/ekonomia-biznes-i-finanse/przewidywane-najwazniejsze-wydarzenia-gospodarcze-2026-02-26",
+      "url": "https://biznes.pap.pl/wiadomosci/ekonomia-biznes-i-finanse/przewidywane-najwazniejsze-wydarzenia-gospodarcze-2026-02-26",
+      "title": "Przewidywane najważniejsze wydarzenia gospodarcze 2026-02-26",
+      "content_html": "Przewidywane najważniejsze wydarzenia gospodarcze 2026-02-26",
+      "date_published": "2026-02-26T07:00:00+01:00",
+      "source": "PAP Biznes"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/rynki/kalendarium-rynku-newconnect-2026-02-26",
+      "url": "https://biznes.pap.pl/wiadomosci/rynki/kalendarium-rynku-newconnect-2026-02-26",
+      "title": "Kalendarium rynku NewConnect 2026-02-26",
+      "content_html": "Kalendarium rynku NewConnect 2026-02-26",
+      "date_published": "2026-02-26T07:00:00+01:00",
+      "source": "PAP Biznes"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/rynki/kalendarium-rynku-kapitalowego-gpw-2026-02-26",
+      "url": "https://biznes.pap.pl/wiadomosci/rynki/kalendarium-rynku-kapitalowego-gpw-2026-02-26",
+      "title": "Kalendarium rynku kapitałowego GPW 2026-02-26",
+      "content_html": "Kalendarium rynku kapitałowego GPW 2026-02-26",
+      "date_published": "2026-02-26T07:00:00+01:00",
+      "source": "PAP Biznes"
+    },
+    {
       "id": "https://biznes.pap.pl/wiadomosci/rynki/rentownosci-obligacji-wybranych-panstw-tabela-2557",
       "url": "https://biznes.pap.pl/wiadomosci/rynki/rentownosci-obligacji-wybranych-panstw-tabela-2557",
       "title": "Rentowności obligacji wybranych państw (tabela)",
       "content_html": "Poniżej zestawienie rentowności obligacji wybranych państw.",
       "date_published": "2026-02-26T06:33:00+01:00",
       "source": "PAP Biznes"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/rynki/notowania-metali-bazowych-wegla-i-paliw-tabela-2468",
-      "url": "https://biznes.pap.pl/wiadomosci/rynki/notowania-metali-bazowych-wegla-i-paliw-tabela-2468",
-      "title": "Notowania metali bazowych, węgla i paliw (tabela)",
-      "content_html": "Notowania metali bazowych na London Metal Exchange, uprawnień EUA do emisji CO2, ceny węgla energetycznego ARA na przyszły rok oraz ceny paliw.",
-      "date_published": "2026-02-26T06:33:00+01:00",
-      "source": "PAP Biznes"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/rynki/zamkniecia-na-gieldach-w-ameryce-polnocnej-i-poludniowej-tabela-3076",
-      "url": "https://biznes.pap.pl/wiadomosci/rynki/zamkniecia-na-gieldach-w-ameryce-polnocnej-i-poludniowej-tabela-3076",
-      "title": "Zamknięcia na giełdach w Ameryce Północnej i Południowej (tabela)",
-      "content_html": "Poniżej zamknięcia i zmiany indeksów w USA. Kanadzie, Meksyku, Brazylii, Chile, Kolumbii i Argentynie:",
-      "date_published": "2026-02-26T06:32:00+01:00",
-      "source": "PAP Biznes"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/gry-i-technologie/rekordowe-wyniki-nvidii-lagodza-obawy-ws-banki-wokol-ai-wsj",
-      "url": "https://biznes.pap.pl/wiadomosci/gry-i-technologie/rekordowe-wyniki-nvidii-lagodza-obawy-ws-banki-wokol-ai-wsj",
-      "title": "Rekordowe wyniki Nvidii łagodzą obawy ws. bańki wokół AI - WSJ",
-      "content_html": "Koncern Nvidia ogłosił, że w czwartym kwartale jego przychody z centrów danych wzrosły o 75 proc. w porównaniu z rokiem poprzednim. Rekordowe wyniki łagodzą obawy dotyczące możliwej bańki wokół sztucz",
-      "date_published": "2026-02-26T06:31:00+01:00",
-      "source": "PAP Biznes"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Zysk-netto-grupy-PZU-w-IV-kw-25-wyniosl-1-474-mln-zl-oczekiwano-1-519-mln-zl-9089292.html",
-      "url": "https://www.bankier.pl/wiadomosc/Zysk-netto-grupy-PZU-w-IV-kw-25-wyniosl-1-474-mln-zl-oczekiwano-1-519-mln-zl-9089292.html",
-      "title": "Zysk netto grupy PZU w IV kw. '25 wyniósł 1.474 mln zł; oczekiwano 1.519 mln zł",
-      "content_html": "Zysk netto przypisany właścicielom jednostki dominującej grupy PZU w czwartym kwartale 2025 roku spadł do 1.474 mln zł z 1.681 mln zł rok wcześniej - poinformował w czwartek ubezpieczyciel. Konsensus PAP Biznes zakładał wypracowanie zysku na...",
-      "date_published": "2026-02-26T06:24:00+01:00",
-      "source": "Bankier.pl"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Wyniki-Asbisu-w-IV-kwartale-2025-roku-vs-konsensus-PAP-tabela-9089293.html",
@@ -53,36 +245,12 @@
       "source": "Bankier.pl"
     },
     {
-      "id": "https://biznes.pap.pl/wiadomosci/firmy/zysk-netto-grupy-pzu-w-iv-kw-25-wyniosl-1474-mln-zl-oczekiwano-1519-mln-zl",
-      "url": "https://biznes.pap.pl/wiadomosci/firmy/zysk-netto-grupy-pzu-w-iv-kw-25-wyniosl-1474-mln-zl-oczekiwano-1519-mln-zl",
-      "title": "Zysk netto grupy PZU w IV kw. '25 wyniósł 1.474 mln zł; oczekiwano 1.519 mln zł",
-      "content_html": "Zysk netto przypisany właścicielom jednostki dominującej grupy PZU w czwartym kwartale 2025 roku spadł do 1.474 mln zł z 1.681 mln zł rok wcześniej - poinformował w czwartek ubezpieczyciel. Konsensus ",
-      "date_published": "2026-02-26T06:23:00+01:00",
-      "source": "PAP Biznes"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/firmy/wyniki-asbisu-w-iv-kwartale-2025-roku-vs-konsensus-pap-tabela",
-      "url": "https://biznes.pap.pl/wiadomosci/firmy/wyniki-asbisu-w-iv-kwartale-2025-roku-vs-konsensus-pap-tabela",
-      "title": "Wyniki Asbisu w IV kwartale 2025 roku vs. konsensus PAP (tabela)",
-      "content_html": "Poniżej przedstawiamy wyniki Asbisu w czwartym kwartale 2025 r. i ich odniesienie do konsensusu PAP oraz do poprzednich wyników.",
-      "date_published": "2026-02-26T06:22:00+01:00",
-      "source": "PAP Biznes"
-    },
-    {
       "id": "https://www.bankier.pl/wiadomosc/Wyniki-PZU-w-IV-kw-2025-roku-vs-konsensus-PAP-tabela-9089289.html",
       "url": "https://www.bankier.pl/wiadomosc/Wyniki-PZU-w-IV-kw-2025-roku-vs-konsensus-PAP-tabela-9089289.html",
       "title": "Wyniki PZU w IV kw. 2025 roku vs. konsensus PAP (tabela)",
       "content_html": "Poniżej przedstawiamy wyniki grupy PZU w czwartym kwartale 2025 roku i ich odniesienie do konsensusu PAP i poprzednich wyników.",
       "date_published": "2026-02-26T06:12:00+01:00",
       "source": "Bankier.pl"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/firmy/wyniki-pzu-w-iv-kw-2025-roku-vs-konsensus-pap-tabela",
-      "url": "https://biznes.pap.pl/wiadomosci/firmy/wyniki-pzu-w-iv-kw-2025-roku-vs-konsensus-pap-tabela",
-      "title": "Wyniki PZU w IV kw. 2025 roku vs. konsensus PAP (tabela)",
-      "content_html": "Poniżej przedstawiamy wyniki grupy PZU w czwartym kwartale 2025 roku i ich odniesienie do konsensusu PAP i poprzednich wyników.",
-      "date_published": "2026-02-26T06:11:00+01:00",
-      "source": "PAP Biznes"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Ceny-mieszkan-i-najmu-w-Lodzi-plyna-pod-prad-To-wciaz-raj-dla-najemcow-i-szukajacych-wlasnego-M-9088242.html",
@@ -133,44 +301,20 @@
       "source": "Bankier.pl"
     },
     {
-      "id": "https://biznes.pap.pl/wiadomosci/gry-i-technologie/wyniki-nvidii-powyzej-oczekiwan-przychody-wzrosly-ponad-70-proc-opis",
-      "url": "https://biznes.pap.pl/wiadomosci/gry-i-technologie/wyniki-nvidii-powyzej-oczekiwan-przychody-wzrosly-ponad-70-proc-opis",
-      "title": "Wyniki Nvidii powyżej oczekiwań, przychody wzrosły ponad 70 proc. (opis)",
-      "content_html": "Wyniki koncernu Nvidia w czwartym kwartale 2025 roku okazały się lepsze od oczekiwań analityków, a trwający cały czas boom na sztuczną inteligencję zwiększył przychody koncernu z centrów danych o 75 p",
-      "date_published": "2026-02-25T22:55:00+01:00",
-      "source": "PAP Biznes"
+      "id": "https://www.bankier.pl/wiadomosc/Gieldy-na-Wall-Street-w-gore-Rynek-czeka-na-wyniki-Nvidii-9089242.html",
+      "url": "https://www.bankier.pl/wiadomosc/Gieldy-na-Wall-Street-w-gore-Rynek-czeka-na-wyniki-Nvidii-9089242.html",
+      "title": "Giełdy na Wall Street w górę. Rynek czeka na wyniki Nvidii",
+      "content_html": "Środowa sesja na Wall Stret przyniosła kontynuację wzrostów, a inwestorzy z obawą, ale i z nadziejami, czekali na publikację po sesji wyników kwartalnych przez Nvidię, gwiazdę hossy związanej ze sztuczną inteligencję.",
+      "date_published": "2026-02-25T23:02:00+01:00",
+      "source": "Bankier.pl"
     },
     {
-      "id": "https://biznes.pap.pl/wiadomosci/gry-i-technologie/salesforce-wyda-50-mld-usd-na-wykup-akcji-ale-rozczarowal-prognozami",
-      "url": "https://biznes.pap.pl/wiadomosci/gry-i-technologie/salesforce-wyda-50-mld-usd-na-wykup-akcji-ale-rozczarowal-prognozami",
-      "title": "Salesforce wyda 50 mld USD na wykup akcji, ale rozczarował prognozami przychodów",
-      "content_html": "Amerykański producent oprogramowania Salesforce zobowiązał się do wydania 50 mld USD na wykup akcji własnych, ale prognoza przychodów spółki rozczarowała inwestorów. W efekcie jej akcje spadają w hand",
-      "date_published": "2026-02-25T22:20:00+01:00",
-      "source": "PAP Biznes"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/rynki/dzien-na-rynkach-gieldy-na-wall-street-w-gore-rynek-czeka-na-wyniki-nvidii",
-      "url": "https://biznes.pap.pl/wiadomosci/rynki/dzien-na-rynkach-gieldy-na-wall-street-w-gore-rynek-czeka-na-wyniki-nvidii",
-      "title": "DZIEŃ NA RYNKACH: Giełdy na Wall Street w górę, rynek czeka na wyniki Nvidii",
-      "content_html": "Środowa sesja na Wall Stret przyniosła kontynuację wzrostów, a inwestorzy z obawą, ale i z nadziejami, czekali na publikację po sesji wyników kwartalnych przez Nvidię, gwiazdę hossy związanej ze sztuc",
-      "date_published": "2026-02-25T22:07:00+01:00",
-      "source": "PAP Biznes"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/ekonomia-biznes-i-finanse/skrot-wiadomosci-sroda-25-lutego-2115",
-      "url": "https://biznes.pap.pl/wiadomosci/ekonomia-biznes-i-finanse/skrot-wiadomosci-sroda-25-lutego-2115",
-      "title": "Skrót wiadomości - środa, 25 lutego, 21.15",
-      "content_html": "Przegląd najważniejszych wiadomości gospodarczych, krajowych i ze świata.",
-      "date_published": "2026-02-25T21:19:00+01:00",
-      "source": "PAP Biznes"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/gospodarka-ogolnie/sejm-nie-zgodzil-sie-na-odrzucenie-projektu-reformy-pip-w-pierwszym",
-      "url": "https://biznes.pap.pl/wiadomosci/gospodarka-ogolnie/sejm-nie-zgodzil-sie-na-odrzucenie-projektu-reformy-pip-w-pierwszym",
-      "title": "Sejm nie zgodził się na odrzucenie projektu reformy PIP w pierwszym czytaniu",
-      "content_html": "Sejm nie zgodził się w środę na odrzucenie projektu reformy Państwowej Inspekcji Pracy w pierwszym czytaniu. Wnioskowali o to posłowie PiS, argumentując, że regulacja jest niekorzystna zarówno dla pra",
-      "date_published": "2026-02-25T21:02:00+01:00",
-      "source": "PAP Biznes"
+      "id": "https://www.bankier.pl/wiadomosc/Nvidia-wynikami-nokautuje-prognozy-Imperium-AI-warte-tyle-co-gospodarka-Niemiec-9089241.html",
+      "url": "https://www.bankier.pl/wiadomosc/Nvidia-wynikami-nokautuje-prognozy-Imperium-AI-warte-tyle-co-gospodarka-Niemiec-9089241.html",
+      "title": "Nvidia nokautuje prognozy. Imperium AI warte tyle, co gospodarka Niemiec",
+      "content_html": "Wyniki koncernu Nvidia w czwartym kwartale 2025 roku okazały się lepsze od oczekiwań analityków, a trwający cały czas boom na sztuczną inteligencję zwiększył przychody koncernu z centrów danych o 75 proc.",
+      "date_published": "2026-02-25T22:58:00+01:00",
+      "source": "Bankier.pl"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Inspektorzy-PIP-zmienia-B2B-na-etat-Pierwsze-czytanie-nowelizacji-ustawy-9089136.html",
@@ -277,6 +421,14 @@
       "source": "Bankier.pl"
     },
     {
+      "id": "https://biznes.pap.pl/wiadomosci/firmy/wyniki-ab-w-i-kwartale-202526-vs-konsensus-pap-biznes-tabela",
+      "url": "https://biznes.pap.pl/wiadomosci/firmy/wyniki-ab-w-i-kwartale-202526-vs-konsensus-pap-biznes-tabela",
+      "title": "Wyniki AB w I kwartale 2025/26 vs konsensus PAP Biznes (tabela)",
+      "content_html": "Poniżej przedstawiono wyniki AB w pierwszym kwartale 2025/26 oraz ich odniesienie do konsensusu PAP Biznes i wyników poprzednich okresów.",
+      "date_published": "2026-02-25T19:17:00+01:00",
+      "source": "PAP Biznes"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Edukacja-blizej-rynku-pracy-Zdecydowana-wiekszosc-Sejmu-popiera-rzadowy-projekt-9089162.html",
       "url": "https://www.bankier.pl/wiadomosc/Edukacja-blizej-rynku-pracy-Zdecydowana-wiekszosc-Sejmu-popiera-rzadowy-projekt-9089162.html",
       "title": "Edukacja bliżej rynku pracy. Zdecydowana większość Sejmu popiera rządowy projekt",
@@ -325,6 +477,14 @@
       "source": "Bankier.pl"
     },
     {
+      "id": "https://biznes.pap.pl/wiadomosci/firmy/pawel-wojtunik-wejdzie-do-zarzadu-orlenu",
+      "url": "https://biznes.pap.pl/wiadomosci/firmy/pawel-wojtunik-wejdzie-do-zarzadu-orlenu",
+      "title": "Paweł Wojtunik wejdzie do zarządu Orlenu",
+      "content_html": "Rada nadzorcza Orlenu powołała Pawła Wojtunika na stanowisko członka zarządu ds. bezpieczeństwa i ryzyka - poinformował płocki koncern w komunikacie. Do zarządu wejdzie dzień po zakończeniu walnego zg",
+      "date_published": "2026-02-25T18:50:00+01:00",
+      "source": "PAP Biznes"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/ABW-zatrzymala-prezydenta-Czestochowy-W-tle-podejrzenie-korupcji-9088836.html",
       "url": "https://www.bankier.pl/wiadomosc/ABW-zatrzymala-prezydenta-Czestochowy-W-tle-podejrzenie-korupcji-9088836.html",
       "title": "ABW zatrzymała prezydenta Częstochowy. W tle podejrzenie korupcji",
@@ -339,6 +499,14 @@
       "content_html": "KGHM chce uporządkować nadzór merytoryczny nad spółkami z grupy, planuje monitorować rynki zagraniczne pod kątem rozwoju - poinformował nowy prezes KGHM, Remigiusz Paszkiewicz.",
       "date_published": "2026-02-25T18:48:00+01:00",
       "source": "Bankier.pl"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/firmy/kghm-chce-uporzadkowac-grupe-bedzie-monitorowac-opcje-rozwoju-za-granica-prezes",
+      "url": "https://biznes.pap.pl/wiadomosci/firmy/kghm-chce-uporzadkowac-grupe-bedzie-monitorowac-opcje-rozwoju-za-granica-prezes",
+      "title": "KGHM chce uporządkować grupę, będzie monitorować opcje rozwoju za granicą - prezes",
+      "content_html": "KGHM chce uporządkować nadzór merytoryczny nad spółkami z grupy, planuje monitorować rynki zagraniczne pod kątem rozwoju - poinformował nowy prezes KGHM, Remigiusz Paszkiewicz.",
+      "date_published": "2026-02-25T18:45:00+01:00",
+      "source": "PAP Biznes"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Izrael-zagrozil-Libanowi-atakami-jezeli-Hezbollah-wlaczy-sie-do-konfliktu-USA-Iran-9088312.html",
@@ -365,6 +533,22 @@
       "source": "Bankier.pl"
     },
     {
+      "id": "https://biznes.pap.pl/wiadomosci/firmy/ireneusz-fafara-i-slawomir-staszak-zlozyli-rezygnacje-z-rady-nadzorczej-energi",
+      "url": "https://biznes.pap.pl/wiadomosci/firmy/ireneusz-fafara-i-slawomir-staszak-zlozyli-rezygnacje-z-rady-nadzorczej-energi",
+      "title": "Ireneusz Fąfara i Sławomir Staszak złożyli rezygnacje z rady nadzorczej Energi",
+      "content_html": "Ireneusz Fąfara, prezes Orlenu, złożył rezygnację ze składu rady nadzorczej Energi i z funkcji jej przewodniczącego - poinformował gdański koncern energetyczny w komunikacie. Z rady nadzorczej odszedł",
+      "date_published": "2026-02-25T18:20:00+01:00",
+      "source": "PAP Biznes"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/rynki/dzien-na-rynkach-gieldy-w-europie-na-plusach-w-centrum-uwagi-wyniki-i-prognozy",
+      "url": "https://biznes.pap.pl/wiadomosci/rynki/dzien-na-rynkach-gieldy-w-europie-na-plusach-w-centrum-uwagi-wyniki-i-prognozy",
+      "title": "DZIEŃ NA RYNKACH: Giełdy w Europie na plusach, w centrum uwagi wyniki i prognozy Diageo",
+      "content_html": "Giełdy europejskie zanotowały w środę wzrosty, gdyż obawy na światowym rynku osłabły po wprowadzeniu przez prezydenta USA Donalda Trumpa powszechnego cła w wysokości 10 proc. zamiast zapowiadanej wyżs",
+      "date_published": "2026-02-25T18:09:00+01:00",
+      "source": "PAP Biznes"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Pol-miliona-czy-milion-Zobacz-jak-drastycznie-wzrosna-kary-za-przemyt-smieci-9089099.html",
       "url": "https://www.bankier.pl/wiadomosc/Pol-miliona-czy-milion-Zobacz-jak-drastycznie-wzrosna-kary-za-przemyt-smieci-9089099.html",
       "title": "Pół miliona czy milion? Zobacz, jak drastycznie wzrosną kary za przemyt śmieci",
@@ -379,6 +563,14 @@
       "content_html": "Referendum na Islandii ws. akcesu do UE, współpraca gospodarcza i wojna w Ukrainie były tematami środowego spotkania w Warszawie premiera Donalda Tuska z Premier Islandii Kristrun Frostadottir. Jak podkreślał Tusk ocena sytuacji w Ukrainie oraz...",
       "date_published": "2026-02-25T17:53:00+01:00",
       "source": "Bankier.pl"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/energia/sejmowe-komisje-poparly-projekt-tzw-ustawy-sieciowej-z-poprawkami",
+      "url": "https://biznes.pap.pl/wiadomosci/energia/sejmowe-komisje-poparly-projekt-tzw-ustawy-sieciowej-z-poprawkami",
+      "title": "Sejmowe komisje poparły projekt tzw. ustawy sieciowej z poprawkami",
+      "content_html": "Sejmowe komisje: energii, klimatu i aktywów państwowych oraz ds. deregulacji poparły w środę rządowy projekt ustawy, reformujący m.in. model przyłączeń źródeł do sieci elektroenergetycznych. Komisje w",
+      "date_published": "2026-02-25T17:50:00+01:00",
+      "source": "PAP Biznes"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/USA-nalozyly-sankcje-na-kolejne-tankowce-zwiazane-z-Iranem-9089094.html",
@@ -423,42 +615,90 @@
     {
       "id": "https://www.bankier.pl/wiadomosc/Nowe-szczyt-hossy-WIG20-Warszawa-i-Budapeszt-najmocniejszymi-gieldami-w-Europie-9089078.html",
       "url": "https://www.bankier.pl/wiadomosc/Nowe-szczyt-hossy-WIG20-Warszawa-i-Budapeszt-najmocniejszymi-gieldami-w-Europie-9089078.html",
-      "title": "Nowe szczyt hossy WIG20. Sentyment idealny, aby go popsuć Zdecydowana poprawa nastrojów na GPW zaprowadziła WIG20 na szczyt hossy. Patrząc przez pryzmat głównych indeksów europejskich giełd Warszawa, obok Budapesztu była najsilniejszym parkietem na Starym Kontynencie, choć w Paryżu czy Londynie, także obserwowano wzrosty i nowe historyczne maksima, do których coraz bliżej ma także niemiecki DAX. Sentyment jest więc idelny do tego, aby go nagle popsuć, np. najbardziej wyczekiwanym raportem finansowym.",
-      "content_html": "",
+      "title": "Nowe szczyt hossy WIG20. Sentyment idealny, aby go popsuć",
+      "content_html": "Zdecydowana poprawa nastrojów na GPW zaprowadziła WIG20 na szczyt hossy. Patrząc przez pryzmat głównych indeksów europejskich giełd Warszawa, obok Budapesztu była najsilniejszym parkietem na Starym Kontynencie, choć w Paryżu czy Londynie, także...",
       "date_published": "2026-02-25T17:23:00+01:00",
       "source": "Bankier.pl"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Wyniki-Asseco-South-Eastern-Europe-w-IV-kw-2025-roku-vs-konsensus-PAP-Biznes-tabela-9089076.html",
       "url": "https://www.bankier.pl/wiadomosc/Wyniki-Asseco-South-Eastern-Europe-w-IV-kw-2025-roku-vs-konsensus-PAP-Biznes-tabela-9089076.html",
-      "title": "Wyniki Asseco South Eastern Europe w IV kw. 2025 roku vs. konsensus (tabela) Poniżej przedstawiono wyniki Asseco South Eastern Europe w czwartym kwartale 2025 roku i ich odniesienie do konsensusu PAP Biznes i do poprzednich wyników.",
-      "content_html": "",
+      "title": "Wyniki Asseco South Eastern Europe w IV kw. 2025 roku vs. konsensus (tabela)",
+      "content_html": "Poniżej przedstawiono wyniki Asseco South Eastern Europe w czwartym kwartale 2025 roku i ich odniesienie do konsensusu PAP Biznes i do poprzednich wyników.",
       "date_published": "2026-02-25T17:22:00+01:00",
       "source": "Bankier.pl"
     },
     {
+      "id": "https://biznes.pap.pl/wiadomosci/firmy/wyniki-asseco-south-eastern-europe-w-iv-kw-2025-roku-vs-konsensus-pap-biznes",
+      "url": "https://biznes.pap.pl/wiadomosci/firmy/wyniki-asseco-south-eastern-europe-w-iv-kw-2025-roku-vs-konsensus-pap-biznes",
+      "title": "Wyniki Asseco South Eastern Europe w IV kw. 2025 roku vs. konsensus PAP Biznes (tabela)",
+      "content_html": "Poniżej przedstawiono wyniki Asseco South Eastern Europe w czwartym kwartale 2025 roku i ich odniesienie do konsensusu PAP Biznes i do poprzednich wyników.",
+      "date_published": "2026-02-25T17:21:00+01:00",
+      "source": "PAP Biznes"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/gospodarka/dzien-na-fxfi-na-rynkach-mala-zmiennosc-inwestorzy-czekaja-na-posiedzenie-rpp",
+      "url": "https://biznes.pap.pl/wiadomosci/gospodarka/dzien-na-fxfi-na-rynkach-mala-zmiennosc-inwestorzy-czekaja-na-posiedzenie-rpp",
+      "title": "DZIEŃ NA FX/FI: Na rynkach mała zmienność; inwestorzy czekają na posiedzenie RPP",
+      "content_html": "Środowa sesja na krajowych rynkach walut i długu przebiega przy niewielkiej zmienności. Zdaniem ekonomistów, EUR/PLN powinien pozostać w okolicach 4,22, natomiast spadek rentowności SPW w najbliższych",
+      "date_published": "2026-02-25T17:17:00+01:00",
+      "source": "PAP Biznes"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Oferta-Wasko-za-84-5-mln-zl-najkorzystniejsza-w-przetargu-na-dostawe-i-wdrozenie-macierzy-9089069.html",
       "url": "https://www.bankier.pl/wiadomosc/Oferta-Wasko-za-84-5-mln-zl-najkorzystniejsza-w-przetargu-na-dostawe-i-wdrozenie-macierzy-9089069.html",
-      "title": "Oferta Wasko najkorzystniejsza w przetargu na dostawę i wdrożenie macierzy",
-      "content_html": "Oferta Wasko za 84,5 mln zł została wybrana przez Centrum Informatyki Resortu Finansów jako najkorzystniejsza w przetargu na dostawę i wdrożenie dwóch macierzy blokowego systemu składowania danych typu 1 - poinformowało Wasko w komunikacie.",
+      "title": "Oferta Wasko najkorzystniejsza w przetargu na dostawę i wdrożenie macierzy Oferta Wasko za 84,5 mln zł została wybrana przez Centrum Informatyki Resortu Finansów jako najkorzystniejsza w przetargu na dostawę i wdrożenie dwóch macierzy blokowego systemu składowania danych typu 1 - poinformowało Wasko w komunikacie.",
+      "content_html": "",
       "date_published": "2026-02-25T17:16:00+01:00",
       "source": "Bankier.pl"
     },
     {
-      "id": "https://www.bankier.pl/wiadomosc/Prezesi-bankow-prognozuja-wzrost-kredytow-Przeszkoda-pozostaje-podatek-bankowy-9089063.html",
-      "url": "https://www.bankier.pl/wiadomosc/Prezesi-bankow-prognozuja-wzrost-kredytow-Przeszkoda-pozostaje-podatek-bankowy-9089063.html",
-      "title": "Prezesi banków ostrzegają przed ryzykiem w hipotekach",
-      "content_html": "Kredyty hipoteczne wiążą się z wysokimi ryzykami dla udzielających ich instytucji - uważają prezesi m.in.: Banku Pekao, PKO Banku Polskiego, BNP Paribas i Banku Millennium. Jednocześnie są oni co do zasady zgodni, że jednolity wzór umowy o...",
-      "date_published": "2026-02-25T17:04:00+01:00",
-      "source": "Bankier.pl"
+      "id": "https://biznes.pap.pl/wiadomosci/firmy/oferta-wasko-za-845-mln-zl-najkorzystniejsza-w-przetargu-na-dostawe-i-wdrozenie",
+      "url": "https://biznes.pap.pl/wiadomosci/firmy/oferta-wasko-za-845-mln-zl-najkorzystniejsza-w-przetargu-na-dostawe-i-wdrozenie",
+      "title": "Oferta Wasko za 84,5 mln zł najkorzystniejsza w przetargu na dostawę i wdrożenie macierzy",
+      "content_html": "Oferta Wasko za 84,5 mln zł została wybrana przez Centrum Informatyki Resortu Finansów jako najkorzystniejsza w przetargu na dostawę i wdrożenie dwóch macierzy blokowego systemu składowania danych typ",
+      "date_published": "2026-02-25T17:14:00+01:00",
+      "source": "PAP Biznes"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/firmy/w-xii-elektrownie-gazowe-wyprodukowaly-wiecej-energii-niz-jednostki-na-wegiel",
+      "url": "https://biznes.pap.pl/wiadomosci/firmy/w-xii-elektrownie-gazowe-wyprodukowaly-wiecej-energii-niz-jednostki-na-wegiel",
+      "title": "W XII elektrownie gazowe wyprodukowały więcej energii niż jednostki na węgiel brunatny - Instrat",
+      "content_html": "W grudniu elektrownie gazowe pierwszy raz w historii wyprodukowały więcej energii w skali miesiąca od jednostek na węgiel brunatny, czyli prawie 3 TWh - wskazał w comiesięcznym \"Przeglądzie Węglowym\" ",
+      "date_published": "2026-02-25T17:09:00+01:00",
+      "source": "PAP Biznes"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/firmy/wzrosnie-popyt-na-finansowanie-ale-atrakcyjnosc-oferty-krajowych-bankow-obniza",
+      "url": "https://biznes.pap.pl/wiadomosci/firmy/wzrosnie-popyt-na-finansowanie-ale-atrakcyjnosc-oferty-krajowych-bankow-obniza",
+      "title": "Wzrośnie popyt na finansowanie, ale atrakcyjność oferty krajowych banków obniża podatek - prezesi",
+      "content_html": "Bieżący rok przyniesie dalszy wzrost kredytów, na rynku będzie panowała duża konkurencja, jednak atrakcyjność oferty kredytowej krajowych banków znacznie obniżać będzie podatek bankowy, co może być wi",
+      "date_published": "2026-02-25T17:03:00+01:00",
+      "source": "PAP Biznes"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/ekonomia-biznes-i-finanse/skrot-wiadomosci-sroda-25-lutego-1700",
+      "url": "https://biznes.pap.pl/wiadomosci/ekonomia-biznes-i-finanse/skrot-wiadomosci-sroda-25-lutego-1700",
+      "title": "Skrót wiadomości - środa, 25 lutego, 17.00",
+      "content_html": "Przegląd najważniejszych wiadomości gospodarczych, krajowych i ze świata.",
+      "date_published": "2026-02-25T17:00:00+01:00",
+      "source": "PAP Biznes"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/GPW-rozszerza-oferte-o-nowy-typ-instrumentow-ETN-9089056.html",
       "url": "https://www.bankier.pl/wiadomosc/GPW-rozszerza-oferte-o-nowy-typ-instrumentow-ETN-9089056.html",
-      "title": "GPW rozszerza ofertę o nowy typ instrumentów ETN",
-      "content_html": "Na Giełdzie Papierów Wartościowych w Warszawie zadebiutował nowy typ instrumentów – ETN. Są to pierwsze w Polsce produkty oparte na fizycznie zabezpieczonych aktywach cyfrowych, emitowane przez szwedzką spółkę Virtune AB (Publ).",
+      "title": "GPW rozszerza ofertę o nowy typ instrumentów ETN Na Giełdzie Papierów Wartościowych w Warszawie zadebiutował nowy typ instrumentów – ETN. Są to pierwsze w Polsce produkty oparte na fizycznie zabezpieczonych aktywach cyfrowych, emitowane przez szwedzką spółkę Virtune AB (Publ).",
+      "content_html": "",
       "date_published": "2026-02-25T16:58:00+01:00",
       "source": "Bankier.pl"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/rynki/gpw-rozszerza-oferte-o-nowy-typ-instrumentow-etn",
+      "url": "https://biznes.pap.pl/wiadomosci/rynki/gpw-rozszerza-oferte-o-nowy-typ-instrumentow-etn",
+      "title": "GPW rozszerza ofertę o nowy typ instrumentów ETN",
+      "content_html": "Na Giełdzie Papierów Wartościowych w Warszawie zadebiutował nowy typ instrumentów – ETN. Są to pierwsze w Polsce produkty oparte na fizycznie zabezpieczonych aktywach cyfrowych, emitowane przez szwedz",
+      "date_published": "2026-02-25T16:56:00+01:00",
+      "source": "PAP Biznes"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Koniec-fal-Dunaju-i-jazdy-80-km-h-Autostrada-A1-na-Slasku-doczeka-sie-przebudowy-9089054.html",
@@ -475,6 +715,14 @@
       "content_html": "Katarzyna Woźnicka objęła stanowisko CEO grupy Kino Polska - podała spółka w komunikacie prasowym. Z kolei Patrycja Gałązka-Struzik objęła funkcję dyrektorki ds. operacyjnych (COO).",
       "date_published": "2026-02-25T16:38:00+01:00",
       "source": "Bankier.pl"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/firmy/katarzyna-woznicka-objela-stanowisko-ceo-kino-polska-popr",
+      "url": "https://biznes.pap.pl/wiadomosci/firmy/katarzyna-woznicka-objela-stanowisko-ceo-kino-polska-popr",
+      "title": "Katarzyna Woźnicka objęła stanowisko CEO Kino Polska (popr.)",
+      "content_html": "Katarzyna Woźnicka objęła stanowisko CEO grupy Kino Polska - podała spółka w komunikacie prasowym. Z kolei Patrycja Gałązka‑Struzik objęła funkcję dyrektorki ds. operacyjnych (COO).",
+      "date_published": "2026-02-25T16:37:00+01:00",
+      "source": "PAP Biznes"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Afery-Pegasusa-ciag-dalszy-Byli-szefowie-ABW-i-SKW-uslyszeli-zarzuty-9088939.html",
@@ -917,14 +1165,6 @@
       "source": "PAP Biznes"
     },
     {
-      "id": "https://www.bankier.pl/wiadomosc/Afera-na-krakowskim-Kazimierzu-Zakon-oddal-kamienice-deweloperowi-Ludzie-zamiast-zyskow-9088792.html",
-      "url": "https://www.bankier.pl/wiadomosc/Afera-na-krakowskim-Kazimierzu-Zakon-oddal-kamienice-deweloperowi-Ludzie-zamiast-zyskow-9088792.html",
-      "title": "Afera na krakowskim Kazimierzu. Zakon oddał kamienice deweloperowi. \"Ludzie zamiast zysków\"",
-      "content_html": "Krakowski Kazimierz staje się ofiarą własnego sukcesu, a proces gentryfikacji wchodzi w nową fazę. Zabytkowe kamienice przy ul. Józefa i Bożego Ciała, należące do Zakonu Kanoników Regularnych, mają zmienić się w pięciogwiazdkowy hotel...",
-      "date_published": "2026-02-25T11:15:00+01:00",
-      "source": "Bankier.pl"
-    },
-    {
       "id": "https://biznes.pap.pl/wiadomosci/firmy/dzien-na-gpw-glowne-indeksy-odreagowuja-spadki-kghm-rosnie-o-53-proc",
       "url": "https://biznes.pap.pl/wiadomosci/firmy/dzien-na-gpw-glowne-indeksy-odreagowuja-spadki-kghm-rosnie-o-53-proc",
       "title": "DZIEŃ NA GPW: Główne indeksy odreagowują spadki; KGHM rośnie o 5,3 proc.",
@@ -935,8 +1175,8 @@
     {
       "id": "https://www.bankier.pl/wiadomosc/Grupa-JSW-dokona-odpisu-w-wysokosci-ponad-1-19-mld-zl-dot-segmentu-koksowego-9088810.html",
       "url": "https://www.bankier.pl/wiadomosc/Grupa-JSW-dokona-odpisu-w-wysokosci-ponad-1-19-mld-zl-dot-segmentu-koksowego-9088810.html",
-      "title": "Grupa JSW dokona odpisu w wysokości ponad 1,19 mld zł dot. segmentu koksowego",
-      "content_html": "Wyniki przeprowadzonych testów wskazały na utratę wartości aktywów trwałych w segmencie koksowym grupy JSW w łącznej wysokości 1.194,6 mln zł, a dokonanie odpisu pomniejszy wynik operacyjny JSW Koks, a także grupy JSW, ale nie wpłynie na sytuację...",
+      "title": "Grupa JSW dokona odpisu w wysokości ponad 1,19 mld zł dot. segmentu koksowego Wyniki przeprowadzonych testów wskazały na utratę wartości aktywów trwałych w segmencie koksowym grupy JSW w łącznej wysokości 1.194,6 mln zł, a dokonanie odpisu pomniejszy wynik operacyjny JSW Koks, a także grupy JSW, ale nie wpłynie na sytuację płynnościową - podała JSW w komunikacie.",
+      "content_html": "",
       "date_published": "2026-02-25T11:06:00+01:00",
       "source": "Bankier.pl"
     },
@@ -989,22 +1229,6 @@
       "source": "PAP Biznes"
     },
     {
-      "id": "https://www.bankier.pl/wiadomosc/Zachowaj-gotowke-EBC-przestrzega-przed-dluzsza-blokada-do-kont-bankowych-9088767.html",
-      "url": "https://www.bankier.pl/wiadomosc/Zachowaj-gotowke-EBC-przestrzega-przed-dluzsza-blokada-do-kont-bankowych-9088767.html",
-      "title": "\"Zachowaj gotówkę\". EBC przestrzega przed dłuższą blokadą do kont bankowych",
-      "content_html": "\"W kilku krajach obowiązują zalecenia, by gospodarstwa domowe utrzymywały zapas gotówki na kilka dni na niezbędne zakupy. To od 70 do 100 euro na osobę\" - Europejski Bank Centralny przestrzega mieszkańców UE przed sytuacjami, w których dostęp...",
-      "date_published": "2026-02-25T10:45:00+01:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/20-procent-przewagi-opozycji-na-Wegrzech-Co-zrobi-Orban-9088779.html",
-      "url": "https://www.bankier.pl/wiadomosc/20-procent-przewagi-opozycji-na-Wegrzech-Co-zrobi-Orban-9088779.html",
-      "title": "Sensacja na Węgrzech, 20 proc. przewagi opozycji. Co zrobi Orban?",
-      "content_html": "Opozycyjna partia TISZA ma 20-procentową przewagę nad Fideszem premiera Węgier Viktora Orbana - wynika z opublikowanego w środę sondażu pracowni Median. Kierowane przez Petera Magyara najważniejsze ugrupowanie opozycyjne uzyskało w badaniu 55...",
-      "date_published": "2026-02-25T10:44:00+01:00",
-      "source": "Bankier.pl"
-    },
-    {
       "id": "https://biznes.pap.pl/wiadomosci/firmy/sprzedaz-supermarketow-w-styczniu-wzrosla-w-polsce-rdr-o-112-proc-pih-cmr",
       "url": "https://biznes.pap.pl/wiadomosci/firmy/sprzedaz-supermarketow-w-styczniu-wzrosla-w-polsce-rdr-o-112-proc-pih-cmr",
       "title": "Sprzedaż supermarketów w styczniu wzrosła w Polsce rdr o 11,2 proc. - PIH, CMR",
@@ -1021,76 +1245,12 @@
       "source": "PAP Biznes"
     },
     {
-      "id": "https://www.bankier.pl/wiadomosc/Tyle-deweloperzy-wydaja-na-budowe-metra-kwadratowego-Nowe-dane-GUS-9088765.html",
-      "url": "https://www.bankier.pl/wiadomosc/Tyle-deweloperzy-wydaja-na-budowe-metra-kwadratowego-Nowe-dane-GUS-9088765.html",
-      "title": "Tyle deweloperzy wydają na budowę metra kwadratowego. Nowe dane GUS",
-      "content_html": "Cena 1 m kw. powierzchni użytkowej budynku mieszkalnego oddanego do użytkowania w IV kwartale 2025 r. wyniosła 7.933 zł wobec 7.720 zł w III kwartale 2025 roku i wobec 7.162 zł w IV kwartale 2024 r. - podał GUS.",
-      "date_published": "2026-02-25T10:36:00+01:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Analitycy-PKO-BP-Nie-widac-powrotu-do-boomu-z-lat-2020-21-9088772.html",
-      "url": "https://www.bankier.pl/wiadomosc/Analitycy-PKO-BP-Nie-widac-powrotu-do-boomu-z-lat-2020-21-9088772.html",
-      "title": "Analitycy PKO BP: Nie widać powrotu do boomu z lat 2020-21",
-      "content_html": "Zakupy mieszkań na cele inwestycyjne w Polsce w dużej mierze finansowane są gotówką, ale to właśnie ten segment jest najbardziej wrażliwy na koszt kapitału – wynika z raportu PKO BP. Bank ocenia, że nie widać perspektyw szybkiego powrotu...",
-      "date_published": "2026-02-25T10:32:00+01:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Meksyk-nie-wyklucza-wznowienia-dostaw-ropy-na-Kube-9088780.html",
-      "url": "https://www.bankier.pl/wiadomosc/Meksyk-nie-wyklucza-wznowienia-dostaw-ropy-na-Kube-9088780.html",
-      "title": "Meksyk nie wyklucza wznowienia dostaw ropy na Kubę",
-      "content_html": "Rząd Meksyku rozważa możliwość wznowienia dostaw ropy naftowej na Kubę po decyzji Sądu Najwyższego USA, który w zeszłym tygodniu uznał globalne cła nałożone przez administrację Donalda Trumpa za nielegalne - poinformował dziennik „El...",
-      "date_published": "2026-02-25T10:26:00+01:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/W-oczekiwaniu-na-rating-Polski-zloty-dotrzymuje-kroku-euro-i-dolarowi-9088773.html",
-      "url": "https://www.bankier.pl/wiadomosc/W-oczekiwaniu-na-rating-Polski-zloty-dotrzymuje-kroku-euro-i-dolarowi-9088773.html",
-      "title": "W oczekiwaniu na rating Polski złoty dotrzymuje kroku euro i dolarowi",
-      "content_html": "Notowania euro i dolara w parze z polską walutą są odbiciem tego, co się dzieje na eurodolarze, który w ostatnich godzinach reagował głównie na wystąpienie prezydenta USA Donalda Trumpa w amerykańskim Kongresie. Zmiany były jednak niewielkie...",
-      "date_published": "2026-02-25T10:14:00+01:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Trump-Dokonalismy-transformacji-jakiej-nikt-wczesniej-nie-widzial-i-dokonalismy-przelomu-na-wieki-9088654.html",
-      "url": "https://www.bankier.pl/wiadomosc/Trump-Dokonalismy-transformacji-jakiej-nikt-wczesniej-nie-widzial-i-dokonalismy-przelomu-na-wieki-9088654.html",
-      "title": "Trump: Dokonaliśmy transformacji, jakiej nikt wcześniej nie widział, i dokonaliśmy przełomu na wieki",
-      "content_html": "Prezydent USA Donald Trump ogłosił we wtorek w orędziu o stanie państwa, że Ameryka „wróciła” i przeżywa swój złoty wiek rok po objęciu przez niego prezydentury. Po raz kolejny Trump ostrzegł też Iran, zaznaczając, że nie pozwoli mu...",
-      "date_published": "2026-02-25T10:10:00+01:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Frito-Lay-zwolni-blisko-250-pracownikow-9088768.html",
-      "url": "https://www.bankier.pl/wiadomosc/Frito-Lay-zwolni-blisko-250-pracownikow-9088768.html",
-      "title": "Producent chipsów Lay’s i Cheetos zamyka magazyn. Bez pracy prawie 250 osób",
-      "content_html": "Koncern Frito-Lay, producent przekąsek m.in. Lay’s, Doritos i Cheetos, w czerwcu zamyka swój magazyn w Rancho Cucamonga w Kaliforni. Oznacza to zwolnienie całej załogi, czyli 247 pracowników – poinformował portal Dlahandlu.pl.",
-      "date_published": "2026-02-25T10:07:00+01:00",
-      "source": "Bankier.pl"
-    },
-    {
       "id": "https://biznes.pap.pl/wiadomosci/firmy/cena-m-kw-powierzchni-uzytkowej-budynku-mieszkalnego-oddanego-w-iv-kw-wyniosla",
       "url": "https://biznes.pap.pl/wiadomosci/firmy/cena-m-kw-powierzchni-uzytkowej-budynku-mieszkalnego-oddanego-w-iv-kw-wyniosla",
       "title": "Cena m kw. powierzchni użytkowej budynku mieszkalnego oddanego w IV kw. wyniosła 7.933 zł",
       "content_html": "Cena 1 m kw. powierzchni użytkowej budynku mieszkalnego oddanego do użytkowania w IV kwartale 2025 r. wyniosła 7.933 zł wobec 7.720 zł w III kwartale 2025 roku i wobec 7.162 zł w IV kwartale 2024 r. -",
       "date_published": "2026-02-25T10:05:00+01:00",
       "source": "PAP Biznes"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Dabrowski-z-RPP-Stopa-docelowa-to-3-5-proc-9088764.html",
-      "url": "https://www.bankier.pl/wiadomosc/Dabrowski-z-RPP-Stopa-docelowa-to-3-5-proc-9088764.html",
-      "title": "Dąbrowski z RPP: Stopa docelowa to 3,5 proc.",
-      "content_html": "W ocenie członka RPP Ireneusza Dąbrowskiego docelowy poziom stopy referencyjnej w Polsce powinien wynosić 3,5 proc., a zejście niżej byłoby bardzo trudne, chyba że inflacja zakotwiczyłaby się w dolnej części pasma odchyleń od celu NBP - wynika...",
-      "date_published": "2026-02-25T10:02:00+01:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Przelom-w-Korei-Poludniowej-Dzietnosc-ruszyla-z-miejsca-po-latach-upadku-To-historyczny-wzrost-9088689.html",
-      "url": "https://www.bankier.pl/wiadomosc/Przelom-w-Korei-Poludniowej-Dzietnosc-ruszyla-z-miejsca-po-latach-upadku-To-historyczny-wzrost-9088689.html",
-      "title": "Przełom w Korei Południowej. Dzietność ruszyła z miejsca po latach upadku. „To historyczny wzrost”",
-      "content_html": "Współczynnik dzietności w Korei Południowej, najniższy na świecie, wzrósł drugi rok z rzędu, osiągając poziom 0,80 w 2025 r. z 0,75 rok wcześniej – wynika z opublikowanych w środę danych rządowych. Statystyki dają nadzieję na przełamanie...",
-      "date_published": "2026-02-25T10:00:00+01:00",
-      "source": "Bankier.pl"
     },
     {
       "id": "https://biznes.pap.pl/wiadomosci/gospodarka/stopa-docelowa-35-proc-chyba-ze-inflacja-zakotwiczy-sie-w-dolnej-czesci-pasma",
@@ -1103,8 +1263,8 @@
     {
       "id": "https://www.bankier.pl/wiadomosc/TDJ-Estate-kupi-grunt-w-Warszawie-Powstanie-tam-ok-250-mieszkan-9088761.html",
       "url": "https://www.bankier.pl/wiadomosc/TDJ-Estate-kupi-grunt-w-Warszawie-Powstanie-tam-ok-250-mieszkan-9088761.html",
-      "title": "TDJ Estate kupi grunt w Warszawie. Powstanie tam ok. 250 mieszkań",
-      "content_html": "TDJ Estate zawarł warunkową przedwstępną umowę zakupu gruntu na warszawskiej Białołęce. Wartość transakcji wynosi 41 mln zł. Nabycie nieruchomości umożliwi realizację inwestycji mieszkaniowej obejmującej ok. 250 lokali - podała spółka...",
+      "title": "TDJ Estate kupi grunt w Warszawie. Powstanie tam ok. 250 mieszkań TDJ Estate zawarł warunkową przedwstępną umowę zakupu gruntu na warszawskiej Białołęce. Wartość transakcji wynosi 41 mln zł. Nabycie nieruchomości umożliwi realizację inwestycji mieszkaniowej obejmującej ok. 250 lokali - podała spółka w komunikacie prasowym.",
+      "content_html": "",
       "date_published": "2026-02-25T09:56:00+01:00",
       "source": "Bankier.pl"
     },
@@ -1115,14 +1275,6 @@
       "content_html": "TDJ Estate zawarł warunkową przedwstępną umowę zakupu gruntu na warszawskiej Białołęce. Wartość transakcji wynosi 41 mln zł. Nabycie nieruchomości umożliwi realizację inwestycji mieszkaniowej obejmują",
       "date_published": "2026-02-25T09:53:00+01:00",
       "source": "PAP Biznes"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Iran-odpowiada-Trumpowi-To-seria-wielkich-klamstw-9088752.html",
-      "url": "https://www.bankier.pl/wiadomosc/Iran-odpowiada-Trumpowi-To-seria-wielkich-klamstw-9088752.html",
-      "title": "Iran odpowiada Trumpowi. „To seria wielkich kłamstw”",
-      "content_html": "Rzecznik MSZ Iranu Esmail Bagei odrzucił w środę oskarżenia administracji USA dotyczące irańskiego programu rakietowego, programu nuklearnego oraz liczby osób zabitych przez siły bezpieczeństwa podczas tłumienia styczniowych protestów jako...",
-      "date_published": "2026-02-25T09:46:00+01:00",
-      "source": "Bankier.pl"
     },
     {
       "id": "https://biznes.pap.pl/wiadomosci/gospodarka/dzien-na-fxfi-stabilizacja-eurpln-ok-422-na-rynku-dlugu-kluczowa-aukcja-mf",
@@ -1151,17 +1303,9 @@
     {
       "id": "https://www.bankier.pl/wiadomosc/Krajowe-spolki-energetyczne-atrakcyjne-z-powodu-wysokiej-ekspozycji-na-dystrybucje-Trigon-DM-9088740.html",
       "url": "https://www.bankier.pl/wiadomosc/Krajowe-spolki-energetyczne-atrakcyjne-z-powodu-wysokiej-ekspozycji-na-dystrybucje-Trigon-DM-9088740.html",
-      "title": "Krajowe spółki energetyczne atrakcyjne z powodu wysokiej ekspozycji na dystrybucję",
-      "content_html": "Profil krajowych spółek energetycznych, przy wysokiej ekspozycji sektora na dystrybucję, jest relatywnie atrakcyjniejszy na tle szerokiego indeksu Stoxx 600 Utilities - oceniają analitycy Trigon DM w raporcie z 17 lutego. Analitycy rekomendują \"kupuj\"...",
+      "title": "TRIGON DM Krajowe spółki energetyczne atrakcyjne z powodu wysokiej ekspozycji na dystrybucję Profil krajowych spółek energetycznych, przy wysokiej ekspozycji sektora na dystrybucję, jest relatywnie atrakcyjniejszy na tle szerokiego indeksu Stoxx 600 Utilities - oceniają analitycy Trigon DM w raporcie z 17 lutego. Analitycy rekomendują \"kupuj\" akcje PGE, Enei oraz Tauronu.",
+      "content_html": "",
       "date_published": "2026-02-25T09:30:00+01:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Nowy-podatek-zdrowotny-w-Polsce-Minister-ucina-spekulacje-To-idea-Lewicy-9088729.html",
-      "url": "https://www.bankier.pl/wiadomosc/Nowy-podatek-zdrowotny-w-Polsce-Minister-ucina-spekulacje-To-idea-Lewicy-9088729.html",
-      "title": "Nowy podatek zdrowotny w Polsce? Minister ucina spekulacje. „To idea Lewicy”",
-      "content_html": "Propozycja zastąpienia składki zdrowotnej 12-proc. podatkiem zdrowotnym jest inicjatywą Lewicy i nie stanowi projektu rządu – powiedział w środę na antenie Polsat News minister finansów i gospodarki Andrzej Domański.",
-      "date_published": "2026-02-25T09:29:00+01:00",
       "source": "Bankier.pl"
     },
     {
@@ -1171,22 +1315,6 @@
       "content_html": "Profil krajowych spółek energetycznych, przy wysokiej ekspozycji sektora na dystrybucję, jest relatywnie atrakcyjniejszy na tle szerokiego indeksu Stoxx 600 Utilities - oceniają analitycy Trigon DM w ",
       "date_published": "2026-02-25T09:28:00+01:00",
       "source": "PAP Biznes"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Szesc-osob-zatrzymanych-ws-wspierania-produkcji-dronow-bojowych-9088723.html",
-      "url": "https://www.bankier.pl/wiadomosc/Szesc-osob-zatrzymanych-ws-wspierania-produkcji-dronow-bojowych-9088723.html",
-      "title": "Sześć osób zatrzymanych ws. wspierania produkcji dronów bojowych",
-      "content_html": "Służby zatrzymały sześć osób w śledztwie dotyczącym naruszenia ustawy sankcyjnej. Zapobiegły też próbie nielegalnego przerzutu do Rosji - przez Białoruś - urządzenia służącego do produkcji podzespołów wykorzystywanych m.in. do montażu...",
-      "date_published": "2026-02-25T09:20:00+01:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/23-wozy-strazackie-dla-jednostek-OSP-To-juz-kolejny-zakup-dzieki-funduszom-europejskim-9088722.html",
-      "url": "https://www.bankier.pl/wiadomosc/23-wozy-strazackie-dla-jednostek-OSP-To-juz-kolejny-zakup-dzieki-funduszom-europejskim-9088722.html",
-      "title": "23 wozy strażackie dla jednostek OSP. To już kolejny zakup dzięki funduszom europejskim",
-      "content_html": "Kolejne 23 nowe średnie samochody ratowniczo-gaśnicze trafią do jednostek ochotniczych straży pożarnych z Małopolski. Zarząd województwa przeznaczył na ich zakup prawie 16 mln zł z programu Fundusze Europejskie do Małopolski.",
-      "date_published": "2026-02-25T08:59:00+01:00",
-      "source": "Bankier.pl"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Od-srody-wiecej-kryptowalut-na-GPW-Szwedzi-zapowiadaja-Do-konca-roku-pojawi-sie-10-instrumentow-9088462.html",
@@ -1251,70 +1379,6 @@
       "content_html": "",
       "date_published": "2026-02-25T07:58:00+01:00",
       "source": "Bankier.pl"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/firmy/gaming-factory-osiagnal-pelny-zwrot-kosztow-z-gry-jdm-japanese-drift-master",
-      "url": "https://biznes.pap.pl/wiadomosci/firmy/gaming-factory-osiagnal-pelny-zwrot-kosztow-z-gry-jdm-japanese-drift-master",
-      "title": "Gaming Factory osiągnął pełny zwrot kosztów z gry \"JDM: Japanese Drift Master\"",
-      "content_html": "Łączne wpływy wygenerowane przez \"JDM: Japanese Drift Master\" przekroczyły całkowite nakłady poniesione na jego produkcję, marketing, prowizje wydawcy oraz opłaty licencyjne, które na koniec stycznia ",
-      "date_published": "2026-02-25T07:57:00+01:00",
-      "source": "PAP Biznes"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/rynki/najwazniejsze-indeksy-gieldowe-w-azji-668",
-      "url": "https://biznes.pap.pl/wiadomosci/rynki/najwazniejsze-indeksy-gieldowe-w-azji-668",
-      "title": "Najważniejsze indeksy giełdowe w Azji",
-      "content_html": "Poniżej aktualne indeksy wybranych giełd w Azji:",
-      "date_published": "2026-02-25T07:56:00+01:00",
-      "source": "PAP Biznes"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/firmy/ceny-ropy-zwyzkuja-coraz-blizej-spotkania-usa-iran-ws-programu-nuklearnego",
-      "url": "https://biznes.pap.pl/wiadomosci/firmy/ceny-ropy-zwyzkuja-coraz-blizej-spotkania-usa-iran-ws-programu-nuklearnego",
-      "title": "Ceny ropy zwyżkują, coraz bliżej spotkania USA-Iran ws. programu nuklearnego",
-      "content_html": "Ceny ropy naftowej zwyżkują w miarę zbliżania się spotkania USA z Iranem ws. irańskiego programu nuklearnego - informują maklerzy.",
-      "date_published": "2026-02-25T07:54:00+01:00",
-      "source": "PAP Biznes"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/rynki/ceny-miedzi-w-londynie-rosna-druga-sesje-i-korzystaja-na-chaosie-dot-cel-usa",
-      "url": "https://biznes.pap.pl/wiadomosci/rynki/ceny-miedzi-w-londynie-rosna-druga-sesje-i-korzystaja-na-chaosie-dot-cel-usa",
-      "title": "Ceny miedzi w Londynie rosną drugą sesję i korzystają na chaosie dot. ceł USA",
-      "content_html": "Notowania miedzi na giełdzie metali LME w Londynie zyskują kolejną sesję, korzystając na chaosie związanym z taryfami celnymi USA - informują maklerzy.",
-      "date_published": "2026-02-25T07:33:00+01:00",
-      "source": "PAP Biznes"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Ranking-prezesow-GPW-Przetasowania-na-szczycie-i-miliardowy-regres-9088641.html",
-      "url": "https://www.bankier.pl/wiadomosc/Ranking-prezesow-GPW-Przetasowania-na-szczycie-i-miliardowy-regres-9088641.html",
-      "title": "Ranking prezesów GPW. Przetasowania na szczycie i miliardowy regres Prezes Santander Bank Polska Michał Gajewski już po raz trzeci otwiera ranking najwyżej wycenianych szefów spółek z GPW. W czołówce doszło do wielu roszad – czytamy w środę w „Rzeczpospolitej”.",
-      "content_html": "",
-      "date_published": "2026-02-25T07:00:00+01:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/ekonomia-biznes-i-finanse/przewidywane-najwazniejsze-wydarzenia-gospodarcze-2026-02-25",
-      "url": "https://biznes.pap.pl/wiadomosci/ekonomia-biznes-i-finanse/przewidywane-najwazniejsze-wydarzenia-gospodarcze-2026-02-25",
-      "title": "Przewidywane najważniejsze wydarzenia gospodarcze 2026-02-25",
-      "content_html": "Przewidywane najważniejsze wydarzenia gospodarcze 2026-02-25",
-      "date_published": "2026-02-25T07:00:00+01:00",
-      "source": "PAP Biznes"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/rynki/kalendarium-rynku-newconnect-2026-02-25",
-      "url": "https://biznes.pap.pl/wiadomosci/rynki/kalendarium-rynku-newconnect-2026-02-25",
-      "title": "Kalendarium rynku NewConnect 2026-02-25",
-      "content_html": "Kalendarium rynku NewConnect 2026-02-25",
-      "date_published": "2026-02-25T07:00:00+01:00",
-      "source": "PAP Biznes"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/rynki/kalendarium-rynku-kapitalowego-gpw-2026-02-25",
-      "url": "https://biznes.pap.pl/wiadomosci/rynki/kalendarium-rynku-kapitalowego-gpw-2026-02-25",
-      "title": "Kalendarium rynku kapitałowego GPW 2026-02-25",
-      "content_html": "Kalendarium rynku kapitałowego GPW 2026-02-25",
-      "date_published": "2026-02-25T07:00:00+01:00",
-      "source": "PAP Biznes"
     }
   ]
 }
