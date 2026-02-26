@@ -5,6 +5,14 @@
   "home_page_url": "https://www.bankier.pl",
   "items": [
     {
+      "id": "https://biznes.pap.pl/wiadomosci/ekonomia-biznes-i-finanse/skrot-wiadomosci-czwartek-26-lutego-2100",
+      "url": "https://biznes.pap.pl/wiadomosci/ekonomia-biznes-i-finanse/skrot-wiadomosci-czwartek-26-lutego-2100",
+      "title": "Skrót wiadomości - czwartek, 26 lutego, 21.00",
+      "content_html": "Przegląd najważniejszych wiadomości gospodarczych, krajowych i ze świata.",
+      "date_published": "2026-02-26T21:00:00+01:00",
+      "source": "PAP Biznes"
+    },
+    {
       "id": "https://biznes.pap.pl/wiadomosci/finanse/jakub-jesionek-nowym-zarzadzajacym-funduszami-w-white-berg-tfi",
       "url": "https://biznes.pap.pl/wiadomosci/finanse/jakub-jesionek-nowym-zarzadzajacym-funduszami-w-white-berg-tfi",
       "title": "Jakub Jesionek nowym zarządzającym funduszami w White Berg TFI",
@@ -15,8 +23,8 @@
     {
       "id": "https://www.bankier.pl/wiadomosc/Ailleron-mial-w-IV-kw-2025-r-7-7-mln-zl-zysku-netto-j-d-9089896.html",
       "url": "https://www.bankier.pl/wiadomosc/Ailleron-mial-w-IV-kw-2025-r-7-7-mln-zl-zysku-netto-j-d-9089896.html",
-      "title": "Ailleron miał w IV kw. 2025 r. 7,7 mln zł zysku netto j.d. Ailleron miał w czwartym kwartale 2025 roku 7,7 mln zł zysku netto jednostki dominującej - podała spółka w raporcie. Z kolei zysk operacyjny spółki w tym okresie wyniósł 20,99 mln zł wobec oczekiwań analityków w przedziale od 14,6 mln zł do 17,5 mln zł.",
-      "content_html": "",
+      "title": "Ailleron miał w IV kw. 2025 r. 7,7 mln zł zysku netto j.d.",
+      "content_html": "Ailleron miał w czwartym kwartale 2025 roku 7,7 mln zł zysku netto jednostki dominującej - podała spółka w raporcie. Z kolei zysk operacyjny spółki w tym okresie wyniósł 20,99 mln zł wobec oczekiwań analityków w przedziale od 14,6 mln zł...",
       "date_published": "2026-02-26T20:34:00+01:00",
       "source": "Bankier.pl"
     },
@@ -27,6 +35,14 @@
       "content_html": "Ailleron miał w czwartym kwartale 2025 roku 7,7 mln zł zysku netto jednostki dominującej - podała spółka w raporcie. Z kolei zysk operacyjny spółki w tym okresie wyniósł 20,99 mln zł wobec oczekiwań a",
       "date_published": "2026-02-26T20:33:00+01:00",
       "source": "PAP Biznes"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Wielka-przebudowa-Bialego-Domu-bez-pieniedzy-podatnikow-Trump-triumfuje-9089893.html",
+      "url": "https://www.bankier.pl/wiadomosc/Wielka-przebudowa-Bialego-Domu-bez-pieniedzy-podatnikow-Trump-triumfuje-9089893.html",
+      "title": "Wielka przebudowa Białego Domu bez pieniędzy podatników. Trump triumfuje",
+      "content_html": "Sędzia federalny orzekł w czwartek, że prezydent USA Donald Trump może kontynuować prace nad salą balową, która ma powstać przy Białym Domu. Koszt przedsięwzięcia szacowany jest na ok. 400 mln dolarów.",
+      "date_published": "2026-02-26T20:27:00+01:00",
+      "source": "Bankier.pl"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Bogucki-Relacje-prezydenta-Nawrockiego-z-prezesem-Kaczynskim-sa-bardzo-dobre-9089892.html",
@@ -293,14 +309,6 @@
       "source": "Bankier.pl"
     },
     {
-      "id": "https://biznes.pap.pl/wiadomosci/gospodarka/rada-fiskalna-ocenia-pozyczke-safe-jako-instrument-finansowy-korzystny-dla",
-      "url": "https://biznes.pap.pl/wiadomosci/gospodarka/rada-fiskalna-ocenia-pozyczke-safe-jako-instrument-finansowy-korzystny-dla",
-      "title": "Rada Fiskalna ocenia pożyczkę SAFE jako instrument finansowy korzystny dla Polski",
-      "content_html": "Rada Fiskalna ocenia pożyczkę SAFE jako instrument finansowy korzystny dla Polski - wskazano w komunikacie Rady. Jednocześnie, w ocenie Rady, dalsze wyprowadzanie wydatków i długu poza krajową definic",
-      "date_published": "2026-02-26T17:18:00+01:00",
-      "source": "PAP Biznes"
-    },
-    {
       "id": "https://www.bankier.pl/wiadomosc/Pieniadze-za-zmiany-w-budzecie-Czestochowy-Powazne-zarzuty-dla-Krzysztofa-M-9089741.html",
       "url": "https://www.bankier.pl/wiadomosc/Pieniadze-za-zmiany-w-budzecie-Czestochowy-Powazne-zarzuty-dla-Krzysztofa-M-9089741.html",
       "title": "Pieniądze za zmiany w budżecie Częstochowy? Poważne zarzuty dla Krzysztofa M.",
@@ -403,6 +411,14 @@
       "content_html": "MedTech Solutions podpisał aneks do umowy dystrybucyjnej z GPC Medical, rozszerzający współpracę o kolejne rynki Europy Środkowo-Wschodniej - podała spółka w komunikacie prasowym. MedTech Solutions uzyskał wyłączność na Rumunię i Czechy...",
       "date_published": "2026-02-26T15:00:00+01:00",
       "source": "Bankier.pl"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/firmy/medtech-solutions-ma-aneks-do-umowy-dystrybucyjnej-z-gpc-medical",
+      "url": "https://biznes.pap.pl/wiadomosci/firmy/medtech-solutions-ma-aneks-do-umowy-dystrybucyjnej-z-gpc-medical",
+      "title": "MedTech Solutions ma aneks do umowy dystrybucyjnej z GPC Medical",
+      "content_html": "MedTech Solutions podpisał aneks do umowy dystrybucyjnej z GPC Medical, rozszerzający współpracę o kolejne rynki Europy Środkowo-Wschodniej - podała spółka w komunikacie prasowym. MedTech Solutions uz",
+      "date_published": "2026-02-26T14:58:00+01:00",
+      "source": "PAP Biznes"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Reorganizacja-PZU-coraz-blizej-Niezbedne-sa-zmiany-w-prawie-9089663.html",
@@ -885,12 +901,28 @@
       "source": "PAP Biznes"
     },
     {
+      "id": "https://biznes.pap.pl/wiadomosci/gospodarka/wskaznik-oczekiwan-inflacyjnych-w-polsce-w-lutym-spadl-do-294-pkt-ke",
+      "url": "https://biznes.pap.pl/wiadomosci/gospodarka/wskaznik-oczekiwan-inflacyjnych-w-polsce-w-lutym-spadl-do-294-pkt-ke",
+      "title": "Wskaźnik oczekiwań inflacyjnych w Polsce w lutym spadł do 29,4 pkt. - KE",
+      "content_html": "Wskaźnik oczekiwań inflacyjnych konsumentów w Polsce w lutym spadł do 29,4 pkt. z 32,8 pkt. w styczniu - wynika z danych Komisji Europejskiej.",
+      "date_published": "2026-02-26T11:14:00+01:00",
+      "source": "PAP Biznes"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Erste-Group-szacuje-pozostale-koszty-integracji-z-Santander-Bank-Polska-na-180-mln-euro-9089462.html",
       "url": "https://www.bankier.pl/wiadomosc/Erste-Group-szacuje-pozostale-koszty-integracji-z-Santander-Bank-Polska-na-180-mln-euro-9089462.html",
       "title": "Erste Group szacuje koszty przejęcia Santandera. Debiut Erste Bank Polska",
       "content_html": "Erste Group szacuje pozostałe koszty integracji z Santander Bank Polska na 180 mln euro brutto i większość zostanie zaksięgowana w 2026 r. - poinformował w czwartek bank.",
       "date_published": "2026-02-26T11:10:00+01:00",
       "source": "Bankier.pl"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/firmy/dzien-na-gpw-na-gieldzie-lekka-korekta-spadaja-m-kghm-pzu-i-allegro",
+      "url": "https://biznes.pap.pl/wiadomosci/firmy/dzien-na-gpw-na-gieldzie-lekka-korekta-spadaja-m-kghm-pzu-i-allegro",
+      "title": "DZIEŃ NA GPW: Na giełdzie lekka korekta; spadają m. in. KGHM, PZU i Allegro",
+      "content_html": "Większość głównych indeksów spada, za wyjątkiem sWIG80, który nieznacznie zyskuje. Po kilka proc. rosną AB i Asbis, po publikacji raportów wynikowych. Koryguje się kurs KGHM, po czterech z rzędu wzros",
+      "date_published": "2026-02-26T11:10:00+01:00",
+      "source": "PAP Biznes"
     },
     {
       "id": "https://biznes.pap.pl/wiadomosci/firmy/erste-group-szacuje-pozostale-koszty-integracji-z-santander-bank-polska-na-180-mln",
@@ -1229,22 +1261,6 @@
       "source": "Bankier.pl"
     },
     {
-      "id": "https://www.bankier.pl/wiadomosc/Waloryzacja-limitu-podatkowego-Ministerstwo-Finansow-chce-podniesc-prog-zwolnienia-9089321.html",
-      "url": "https://www.bankier.pl/wiadomosc/Waloryzacja-limitu-podatkowego-Ministerstwo-Finansow-chce-podniesc-prog-zwolnienia-9089321.html",
-      "title": "Sprzedaż do 3 tys. zł bez PCC? Rząd chce podnieść limit zwolnienia z podatku",
-      "content_html": "Ministerstwo Finansów planuje zmianę w podatku od czynności cywilnoprawnych. Limit zwolnienia z PCC przy sprzedaży rzeczy ruchomych ma wzrosnąć z 1000 zł do 3000 zł. Resort argumentuje, że obecne przepisy są nieefektywne fiskalnie, a koszty...",
-      "date_published": "2026-02-26T08:20:00+01:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Mieszana-reakcja-akcji-zloto-i-bitcoin-w-gore-Rynki-po-wynikach-Nvidii-9089312.html",
-      "url": "https://www.bankier.pl/wiadomosc/Mieszana-reakcja-akcji-zloto-i-bitcoin-w-gore-Rynki-po-wynikach-Nvidii-9089312.html",
-      "title": "Rynki reagują na wyniki Nvidii. Inwestorzy liczyli na więcej?",
-      "content_html": "Nvidia zaprezentowała w środę wyniki, które ponownie przekroczyły oczekiwania analityków, lecz wczesna reakcja rynków pozwala sądzić, że apetyt był jeszcze większy. Akcje giganta z branży półprzewodników ruszyły w górę w handlu posesyjnym...",
-      "date_published": "2026-02-26T08:16:00+01:00",
-      "source": "Bankier.pl"
-    },
-    {
       "id": "https://biznes.pap.pl/wiadomosci/gospodarka/eboir-podniosl-prognoze-wzrostu-pkb-polski-w-26-do-37-proc-opis",
       "url": "https://biznes.pap.pl/wiadomosci/gospodarka/eboir-podniosl-prognoze-wzrostu-pkb-polski-w-26-do-37-proc-opis",
       "title": "EBOiR podniósł prognozę wzrostu PKB Polski w '26 do 3,7 proc. (opis)",
@@ -1259,14 +1275,6 @@
       "content_html": "Liczba cudzoziemców ubezpieczonych w ZUS na koniec stycznia spadła o ok. 2,8 tys. mdm i wyniosła 1,286 mln - poinformował ZUS.",
       "date_published": "2026-02-26T08:06:00+01:00",
       "source": "PAP Biznes"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Pawel-Wojtunik-wejdzie-do-zarzadu-Orlenu-9089140.html",
-      "url": "https://www.bankier.pl/wiadomosc/Pawel-Wojtunik-wejdzie-do-zarzadu-Orlenu-9089140.html",
-      "title": "Paweł Wojtunik wchodzi do zarządu Orlenu. Były szef CBA zajmie się bezpieczeństwem Rada nadzorcza Orlenu powołała w środę Pawła Wojtunika na członka zarządu spółki ds. bezpieczeństwa i ryzyka - poinformował koncern w raporcie giełdowym. Wojtunik w latach 2009-2015 był szefem Centralnego Biura Antykorupcyjnego (CBA).",
-      "content_html": "",
-      "date_published": "2026-02-26T07:59:00+01:00",
-      "source": "Bankier.pl"
     },
     {
       "id": "https://biznes.pap.pl/wiadomosci/rynki/najwazniejsze-indeksy-gieldowe-w-azji-669",
@@ -1333,14 +1341,6 @@
       "source": "PAP Biznes"
     },
     {
-      "id": "https://www.bankier.pl/wiadomosc/Zysk-netto-grupy-PZU-w-IV-kw-25-wyniosl-1-474-mln-zl-oczekiwano-1-519-mln-zl-9089292.html",
-      "url": "https://www.bankier.pl/wiadomosc/Zysk-netto-grupy-PZU-w-IV-kw-25-wyniosl-1-474-mln-zl-oczekiwano-1-519-mln-zl-9089292.html",
-      "title": "WYNIKI Słabszy kwartał giganta. Zysk netto PZU spadł o 26 proc. Zysk netto przypisany właścicielom jednostki dominującej grupy PZU w czwartym kwartale 2025 roku spadł do 1.474 mln zł z 1.681 mln zł rok wcześniej - poinformował w czwartek ubezpieczyciel. Konsensus PAP Biznes zakładał wypracowanie zysku na poziomie 1.519 mln zł.",
-      "content_html": "",
-      "date_published": "2026-02-26T07:19:00+01:00",
-      "source": "Bankier.pl"
-    },
-    {
       "id": "https://biznes.pap.pl/wiadomosci/firmy/zysk-netto-grupy-pzu-w-iv-kw-25-wyniosl-147-mld-zl-oczekiwano-152-mld-zl-opis",
       "url": "https://biznes.pap.pl/wiadomosci/firmy/zysk-netto-grupy-pzu-w-iv-kw-25-wyniosl-147-mld-zl-oczekiwano-152-mld-zl-opis",
       "title": "Zysk netto grupy PZU w IV kw. '25 wyniósł 1,47 mld zł, oczekiwano 1.52 mld zł (opis)",
@@ -1405,14 +1405,6 @@
       "source": "PAP Biznes"
     },
     {
-      "id": "https://www.bankier.pl/wiadomosc/Wyniki-Asbisu-w-IV-kwartale-2025-roku-vs-konsensus-PAP-tabela-9089293.html",
-      "url": "https://www.bankier.pl/wiadomosc/Wyniki-Asbisu-w-IV-kwartale-2025-roku-vs-konsensus-PAP-tabela-9089293.html",
-      "title": "Wyniki Asbisu w IV kwartale 2025 roku vs. konsensus PAP (tabela) Poniżej przedstawiamy wyniki Asbisu w czwartym kwartale 2025 r. i ich odniesienie do konsensusu PAP oraz do poprzednich wyników.",
-      "content_html": "",
-      "date_published": "2026-02-26T06:24:00+01:00",
-      "source": "Bankier.pl"
-    },
-    {
       "id": "https://biznes.pap.pl/wiadomosci/firmy/zysk-netto-grupy-pzu-w-iv-kw-25-wyniosl-1474-mln-zl-oczekiwano-1519-mln-zl",
       "url": "https://biznes.pap.pl/wiadomosci/firmy/zysk-netto-grupy-pzu-w-iv-kw-25-wyniosl-1474-mln-zl-oczekiwano-1519-mln-zl",
       "title": "Zysk netto grupy PZU w IV kw. '25 wyniósł 1.474 mln zł; oczekiwano 1.519 mln zł",
@@ -1429,44 +1421,12 @@
       "source": "PAP Biznes"
     },
     {
-      "id": "https://www.bankier.pl/wiadomosc/Wyniki-PZU-w-IV-kw-2025-roku-vs-konsensus-PAP-tabela-9089289.html",
-      "url": "https://www.bankier.pl/wiadomosc/Wyniki-PZU-w-IV-kw-2025-roku-vs-konsensus-PAP-tabela-9089289.html",
-      "title": "Wyniki PZU w IV kw. 2025 roku vs. konsensus PAP (tabela) Poniżej przedstawiamy wyniki grupy PZU w czwartym kwartale 2025 roku i ich odniesienie do konsensusu PAP i poprzednich wyników.",
-      "content_html": "",
-      "date_published": "2026-02-26T06:12:00+01:00",
-      "source": "Bankier.pl"
-    },
-    {
       "id": "https://biznes.pap.pl/wiadomosci/firmy/wyniki-pzu-w-iv-kw-2025-roku-vs-konsensus-pap-tabela",
       "url": "https://biznes.pap.pl/wiadomosci/firmy/wyniki-pzu-w-iv-kw-2025-roku-vs-konsensus-pap-tabela",
       "title": "Wyniki PZU w IV kw. 2025 roku vs. konsensus PAP (tabela)",
       "content_html": "Poniżej przedstawiamy wyniki grupy PZU w czwartym kwartale 2025 roku i ich odniesienie do konsensusu PAP i poprzednich wyników.",
       "date_published": "2026-02-26T06:11:00+01:00",
       "source": "PAP Biznes"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Drugie-mieszkanie-czy-akcje-Ekspert-porownal-co-skuteczniej-buduje-nad-Wisla-kapital-w-dlugim-terminie-9088928.html",
-      "url": "https://www.bankier.pl/wiadomosc/Drugie-mieszkanie-czy-akcje-Ekspert-porownal-co-skuteczniej-buduje-nad-Wisla-kapital-w-dlugim-terminie-9088928.html",
-      "title": "Drugie mieszkanie czy akcje? Ekspert porównał, co skuteczniej buduje kapitał w długim terminie Polacy kochają inwestować w nieruchomości, a własne mieszkanie uchodzi za synonim finansowego bezpieczeństwa. Ale czy kupno drugiego lokalu to na pewno optymalny sposób pomnażania oszczędności? Roy Regev, członek zarządu BETA TFI, w artykule dla Bankier.pl zestawia zyski z warszawskich mieszkań z giełdowymi akcjami i podpowiada, jaka strategia stosowana przez inwestorów na dojrzałych rynkach sprawdza się najlepiej.",
-      "content_html": "",
-      "date_published": "2026-02-26T06:00:00+01:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Spekulacje-okazaly-sie-trafione-i-daly-zarobic-ponad-100-proc-Forum-Bankiera-i-OSINT-Odlewni-Polskich-9089013.html",
-      "url": "https://www.bankier.pl/wiadomosc/Spekulacje-okazaly-sie-trafione-i-daly-zarobic-ponad-100-proc-Forum-Bankiera-i-OSINT-Odlewni-Polskich-9089013.html",
-      "title": "Forum Bankiera dało zarobić ponad 100 proc. Spekulacje okazały się trafione Kurs Odlewni Polskich ze Starachowic po otrzymaniu dużego zlecenia od jednego z podmiotów wchodzących w skład Polskiej Grupy Zbrojeniowej bije historyczne rekordy. Notowania spółki tylko w trzy sesje zyskały 48 proc., a od początku roku już przeszło 80 proc. Trop, wedle którego spółka pojawiła się na radarze polskiej spekuły rok temu okazał się trafny. Najciekawsze, że OSINT wykonany przez użytkowników forum Bankier.pl podpowiadał w ubiegłym roku scenariusz, który obecnie jest realizowany.",
-      "content_html": "",
-      "date_published": "2026-02-26T06:00:00+01:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Nvidia-wynikami-nokautuje-prognozy-Imperium-AI-warte-tyle-co-gospodarka-Niemiec-9089241.html",
-      "url": "https://www.bankier.pl/wiadomosc/Nvidia-wynikami-nokautuje-prognozy-Imperium-AI-warte-tyle-co-gospodarka-Niemiec-9089241.html",
-      "title": "Nvidia nokautuje prognozy. Imperium AI warte tyle, co gospodarka Niemiec Wyniki koncernu Nvidia w czwartym kwartale 2025 roku okazały się lepsze od oczekiwań analityków, a trwający cały czas boom na sztuczną inteligencję zwiększył przychody koncernu z centrów danych o 75 proc.",
-      "content_html": "",
-      "date_published": "2026-02-25T22:58:00+01:00",
-      "source": "Bankier.pl"
     },
     {
       "id": "https://biznes.pap.pl/wiadomosci/gry-i-technologie/wyniki-nvidii-powyzej-oczekiwan-przychody-wzrosly-ponad-70-proc-opis",
@@ -1490,22 +1450,6 @@
       "title": "DZIEŃ NA RYNKACH: Giełdy na Wall Street w górę, rynek czeka na wyniki Nvidii",
       "content_html": "Środowa sesja na Wall Stret przyniosła kontynuację wzrostów, a inwestorzy z obawą, ale i z nadziejami, czekali na publikację po sesji wyników kwartalnych przez Nvidię, gwiazdę hossy związanej ze sztuc",
       "date_published": "2026-02-25T22:07:00+01:00",
-      "source": "PAP Biznes"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/ekonomia-biznes-i-finanse/skrot-wiadomosci-sroda-25-lutego-2115",
-      "url": "https://biznes.pap.pl/wiadomosci/ekonomia-biznes-i-finanse/skrot-wiadomosci-sroda-25-lutego-2115",
-      "title": "Skrót wiadomości - środa, 25 lutego, 21.15",
-      "content_html": "Przegląd najważniejszych wiadomości gospodarczych, krajowych i ze świata.",
-      "date_published": "2026-02-25T21:19:00+01:00",
-      "source": "PAP Biznes"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/gospodarka-ogolnie/sejm-nie-zgodzil-sie-na-odrzucenie-projektu-reformy-pip-w-pierwszym",
-      "url": "https://biznes.pap.pl/wiadomosci/gospodarka-ogolnie/sejm-nie-zgodzil-sie-na-odrzucenie-projektu-reformy-pip-w-pierwszym",
-      "title": "Sejm nie zgodził się na odrzucenie projektu reformy PIP w pierwszym czytaniu",
-      "content_html": "Sejm nie zgodził się w środę na odrzucenie projektu reformy Państwowej Inspekcji Pracy w pierwszym czytaniu. Wnioskowali o to posłowie PiS, argumentując, że regulacja jest niekorzystna zarówno dla pra",
-      "date_published": "2026-02-25T21:02:00+01:00",
       "source": "PAP Biznes"
     }
   ]
