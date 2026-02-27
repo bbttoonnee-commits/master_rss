@@ -5,6 +5,14 @@
   "home_page_url": "https://www.bankier.pl",
   "items": [
     {
+      "id": "https://biznes.pap.pl/wiadomosci/gospodarka/agencja-fitch-potwierdzila-rating-polski-na-poziomie-z-perspektywa-negatywna",
+      "url": "https://biznes.pap.pl/wiadomosci/gospodarka/agencja-fitch-potwierdzila-rating-polski-na-poziomie-z-perspektywa-negatywna",
+      "title": "Agencja Fitch potwierdziła rating Polski na poziomie \"A-\" z perspektywą negatywną",
+      "content_html": "Agencja Fitch Ratings potwierdziła w piątek wieczorem długoterminowy rating Polski w walucie obcej na poziomie \"A-\" z perspektywą negatywną - podała agencja w komunikacie.",
+      "date_published": "2026-02-27T23:07:00+01:00",
+      "source": "PAP Biznes"
+    },
+    {
       "id": "https://biznes.pap.pl/wiadomosci/rynki/dzien-na-rynkach-gieldy-w-usa-ze-spadkami-po-raporcie-o-inflacji",
       "url": "https://biznes.pap.pl/wiadomosci/rynki/dzien-na-rynkach-gieldy-w-usa-ze-spadkami-po-raporcie-o-inflacji",
       "title": "DZIEŃ NA RYNKACH: Giełdy w USA ze spadkami po raporcie o inflacji",
@@ -229,14 +237,6 @@
       "source": "Bankier.pl"
     },
     {
-      "id": "https://biznes.pap.pl/wiadomosci/firmy/apator-otrzymal-roszczenie-reklamacyjne-od-klienta-i-zawarl-ugode-szacuje-wplyw-na",
-      "url": "https://biznes.pap.pl/wiadomosci/firmy/apator-otrzymal-roszczenie-reklamacyjne-od-klienta-i-zawarl-ugode-szacuje-wplyw-na",
-      "title": "Apator otrzymał roszczenie reklamacyjne od klienta i zawarł ugodę; szacuje wpływ na wyniki na ok. 20,8 mln zł",
-      "content_html": "Apator otrzymał roszczenie reklamacyjne, zgłoszone przez zagranicznego klienta, w związku urządzeniami jednego typu spośród urządzeń z Segmentu Energii Elektrycznej, dostarczonych w latach 2021-2025, ",
-      "date_published": "2026-02-27T18:00:00+01:00",
-      "source": "PAP Biznes"
-    },
-    {
       "id": "https://www.bankier.pl/wiadomosc/Gieldowa-energetyka-na-szczytach-Srebrne-jojo-na-KGHM-9090446.html",
       "url": "https://www.bankier.pl/wiadomosc/Gieldowa-energetyka-na-szczytach-Srebrne-jojo-na-KGHM-9090446.html",
       "title": "Giełdowa energetyka na szczytach. Srebrne jojo na KGHM",
@@ -339,6 +339,14 @@
       "content_html": "Pekabex złożył do UOKiK wniosek o koncentrację spółki zależnej - Pekabex Development - z Tema Invest - wynika z wniosku opublikowanego przez Urząd Ochrony Konkurencji i Konsumentów.",
       "date_published": "2026-02-27T15:14:00+01:00",
       "source": "Bankier.pl"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/firmy/pekabex-zlozyl-do-uokik-wniosek-o-koncentracje-spolki-zaleznej-z-tema-invest",
+      "url": "https://biznes.pap.pl/wiadomosci/firmy/pekabex-zlozyl-do-uokik-wniosek-o-koncentracje-spolki-zaleznej-z-tema-invest",
+      "title": "Pekabex złożył do UOKiK wniosek o koncentrację spółki zależnej z Tema Invest",
+      "content_html": "Pekabex złożył do UOKiK wniosek o koncentrację spółki zależnej - Pekabex Development - z Tema Invest - wynika z wniosku opublikowanego przez Urząd Ochrony Konkurencji i Konsumentów.",
+      "date_published": "2026-02-27T15:12:00+01:00",
+      "source": "PAP Biznes"
     },
     {
       "id": "https://biznes.pap.pl/wiadomosci/gospodarka/mf-planuje-w-marcu-dwa-przetargi-sprzedazy-spw-z-laczna-podaza-14-26-mld-zl-0",
@@ -787,14 +795,6 @@
       "content_html": "Minister spraw zagranicznych Iranu Abbas Aragczi powiedział po rozmowach z USA w Genewie, że aby osiągnąć porozumienie w sprawie irańskiego programu atomowego, Stany Zjednoczone będą musiały wycofać się ze swoich „wygórowanych żądań”...",
       "date_published": "2026-02-27T11:03:00+01:00",
       "source": "Bankier.pl"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/gospodarka/na-projekty-zbrojeniowe-z-safe-trafi-170-mld-zl-mobilnosc-92-mld-zl-odpornosc",
-      "url": "https://biznes.pap.pl/wiadomosci/gospodarka/na-projekty-zbrojeniowe-z-safe-trafi-170-mld-zl-mobilnosc-92-mld-zl-odpornosc",
-      "title": "Na projekty zbrojeniowe z SAFE trafi 170 mld zł; mobilność: 9,2 mld zł; odporność: 7,1 mld zł - Sobkowiak-Czarnecka",
-      "content_html": "W ramach środków z SAFE 170 mld zł trafi na projekty zbrojeniowe, 9,2 mld zł na projekty związane z mobilnością i infrastrukturą, a 7,1 mld zł na projekty związane z odpornością - poinformowała pełnom",
-      "date_published": "2026-02-27T11:00:00+01:00",
-      "source": "PAP Biznes"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/80-proc-SAFE-dla-polskiej-gospodarki-Tusk-Niemiecki-przemysl-skorzysta-tylko-w-0-37-proc-9090107.html",
