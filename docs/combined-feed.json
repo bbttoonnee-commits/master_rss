@@ -5,6 +5,30 @@
   "home_page_url": "https://www.bankier.pl",
   "items": [
     {
+      "id": "https://biznes.pap.pl/wiadomosci/rynki/dzien-na-rynkach-gieldy-w-usa-ze-spadkami-po-raporcie-o-inflacji",
+      "url": "https://biznes.pap.pl/wiadomosci/rynki/dzien-na-rynkach-gieldy-w-usa-ze-spadkami-po-raporcie-o-inflacji",
+      "title": "DZIEŃ NA RYNKACH: Giełdy w USA ze spadkami po raporcie o inflacji",
+      "content_html": "Piątkowa sesja na Wall Stret zakończyła się spadkami głównych indeksów. Akcje spadły po tym, jak najnowsze dane dotyczące wskaźnika cen producenta okazały się znacznie lepsze od oczekiwań.",
+      "date_published": "2026-02-27T22:12:00+01:00",
+      "source": "PAP Biznes"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Grupa-Allegro-sfinalizowala-sprzedaz-dzialalnosci-w-Slowenii-i-Chorwacji-9090589.html",
+      "url": "https://www.bankier.pl/wiadomosc/Grupa-Allegro-sfinalizowala-sprzedaz-dzialalnosci-w-Slowenii-i-Chorwacji-9090589.html",
+      "title": "Grupa Allegro sfinalizowała sprzedaż działalności w Słowenii i Chorwacji",
+      "content_html": "Grupa Allegro sfinalizowała sprzedaż działalności w Słowenii i Chorwacji - podała spółka w komunikacie.",
+      "date_published": "2026-02-27T22:08:00+01:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/firmy/grupa-allegro-sfinalizowala-sprzedaz-dzialalnosci-w-slowenii-i-chorwacji",
+      "url": "https://biznes.pap.pl/wiadomosci/firmy/grupa-allegro-sfinalizowala-sprzedaz-dzialalnosci-w-slowenii-i-chorwacji",
+      "title": "Grupa Allegro sfinalizowała sprzedaż działalności w Słowenii i Chorwacji",
+      "content_html": "Grupa Allegro sfinalizowała sprzedaż działalności w Słowenii i Chorwacji - podała spółka w komunikacie.",
+      "date_published": "2026-02-27T22:06:00+01:00",
+      "source": "PAP Biznes"
+    },
+    {
       "id": "https://biznes.pap.pl/wiadomosci/ekonomia-biznes-i-finanse/skrot-wiadomosci-piatek-27-lutego-2100",
       "url": "https://biznes.pap.pl/wiadomosci/ekonomia-biznes-i-finanse/skrot-wiadomosci-piatek-27-lutego-2100",
       "title": "Skrót wiadomości - piątek, 27 lutego, 21.00",
@@ -221,22 +245,6 @@
       "source": "Bankier.pl"
     },
     {
-      "id": "https://biznes.pap.pl/wiadomosci/firmy/amerykanskie-obligacje-skarbowe-moga-zamknac-tydzien-na-najnizszym-poziomie-od-x",
-      "url": "https://biznes.pap.pl/wiadomosci/firmy/amerykanskie-obligacje-skarbowe-moga-zamknac-tydzien-na-najnizszym-poziomie-od-x",
-      "title": "Amerykańskie obligacje skarbowe mogą zamknąć tydzień na najniższym poziomie od X '24 - Obligacje.pl",
-      "content_html": "Rentowność obligacji skarbowych na rozwiniętych rynkach spadała w tym tygodniu, a amerykańskie papiery mogą zamknąć tydzień na najniższym poziomie od października 2024 r. - licząc w cenach zamknięcia ",
-      "date_published": "2026-02-27T17:24:00+01:00",
-      "source": "PAP Biznes"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/gospodarka/dzien-na-fxfi-zlotemu-ciazy-awersja-do-ryzyka-spw-powinny-podazac-sladem",
-      "url": "https://biznes.pap.pl/wiadomosci/gospodarka/dzien-na-fxfi-zlotemu-ciazy-awersja-do-ryzyka-spw-powinny-podazac-sladem",
-      "title": "DZIEŃ NA FX/FI: Złotemu ciąży awersja do ryzyka; SPW powinny podążać śladem rynków bazowych",
-      "content_html": "W piątek złoty pozostaje na słabszych poziomach w relacji do euro i dolara, za czym stoi panująca na rynkach niepewność, w związku z napiętą sytuacją wokół Iranu. Rentowności polskich obligacji w ciąg",
-      "date_published": "2026-02-27T17:17:00+01:00",
-      "source": "PAP Biznes"
-    },
-    {
       "id": "https://www.bankier.pl/wiadomosc/Redukcja-w-zaproszeniu-Action-do-sprzedazy-akcji-wlasnych-wyniosla-91-34-proc-9090408.html",
       "url": "https://www.bankier.pl/wiadomosc/Redukcja-w-zaproszeniu-Action-do-sprzedazy-akcji-wlasnych-wyniosla-91-34-proc-9090408.html",
       "title": "Redukcja w zaproszeniu Action do sprzedaży akcji własnych wyniosła 91,34 proc.",
@@ -383,7 +391,7 @@
     {
       "id": "https://www.bankier.pl/wiadomosc/Kosmiczne-stawki-za-supertankowce-Tak-drogo-w-transporcie-ropy-nie-bylo-jeszcze-nigdy-9090316.html",
       "url": "https://www.bankier.pl/wiadomosc/Kosmiczne-stawki-za-supertankowce-Tak-drogo-w-transporcie-ropy-nie-bylo-jeszcze-nigdy-9090316.html",
-      "title": "Nawet 100 tys. dolarów za dzień. Rekordowe ceny supertankowców paraliżują rynek ropy",
+      "title": "Najdroższe 24 godziny na oceanie. Tak wygląda dziś walka o każdy baryłkę ropy",
       "content_html": "Rynek transportu morskiego odnotowuje obecnie rekordowe wzrosty cen czarteru supertankowców. Agresywne działania rynkowych graczy, geopolityczne turbulencje i szara strefa wywindowały ceny specjalistycznego frachtu wyżej, niż w czasie pandemii...",
       "date_published": "2026-02-27T14:50:00+01:00",
       "source": "Bankier.pl"
@@ -781,14 +789,6 @@
       "source": "Bankier.pl"
     },
     {
-      "id": "https://biznes.pap.pl/wiadomosci/firmy/poprawa-jakosci-bilansowania-na-rynku-energii-moze-przyniesc-750-mln-zl",
-      "url": "https://biznes.pap.pl/wiadomosci/firmy/poprawa-jakosci-bilansowania-na-rynku-energii-moze-przyniesc-750-mln-zl",
-      "title": "Poprawa jakości bilansowania na rynku energii może przynieść 750 mln zł oszczędności - PSE",
-      "content_html": "Uczestnicy rynku energii elektrycznej tracą obecnie setki milionów złotych przez słabą jakość bilansowania, a jej poprawa może w skali kraju przynieść oszczędności w wysokości ok. 750 mln zł - oszacow",
-      "date_published": "2026-02-27T10:54:00+01:00",
-      "source": "PAP Biznes"
-    },
-    {
       "id": "https://www.bankier.pl/wiadomosc/Dyplom-w-kilka-dni-praktycznie-online-Studenci-ujawniaja-kulisy-nauki-w-WSKZ-9090046.html",
       "url": "https://www.bankier.pl/wiadomosc/Dyplom-w-kilka-dni-praktycznie-online-Studenci-ujawniaja-kulisy-nauki-w-WSKZ-9090046.html",
       "title": "Dyplom w kilka dni praktycznie online. Studenci ujawniają kulisy nauki w WSKZ, uczelnia mówi o dezinformacji",
@@ -835,14 +835,6 @@
       "content_html": "W styczniu br. sprzedaż pozabankowych pożyczek krótkoterminowych zwiększyła się do ponad 1,2 mld zł - o 15,9 proc. rok do roku - wynika z raportu Biura Informacji Kredytowej. Średnia wartość pożyczki wyniosła 2 837 zł i była o 14,1 proc...",
       "date_published": "2026-02-27T10:10:00+01:00",
       "source": "Bankier.pl"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/firmy/unicredit-chce-za-25-wyplacic-17208-euro-dywidendy-na-akcje",
-      "url": "https://biznes.pap.pl/wiadomosci/firmy/unicredit-chce-za-25-wyplacic-17208-euro-dywidendy-na-akcje",
-      "title": "UniCredit chce za '25 wypłacić 1,7208 euro dywidendy na akcję",
-      "content_html": "UniCredit proponuje wypłatę dywidendy za 2025 r. w wysokości 1,7208 euro na akcję, czyli maksymalnie łącznie ok. 2,58 mld euro - podał UniCredit w komunikacie.",
-      "date_published": "2026-02-27T10:10:00+01:00",
-      "source": "PAP Biznes"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Forex-i-inne-inwestycje-na-celowniku-rzadu-Nowa-strategia-uderzy-w-pralnie-brudnych-pieniedzy-9090102.html",
@@ -1315,22 +1307,6 @@
       "content_html": "\"Wujek, niby wieloryby akumulują, ale ulica też łapie FOMO. Ja tam HODL-uję\" - stwierdził mój siostrzeniec Paweł, gdy spytałem go pół roku temu, jak tam te jego bitcoiny. Zrozumieliście coś z tego? Bo ja tyle, że chyba będzie chciał za...",
       "date_published": "2026-02-27T06:00:00+01:00",
       "source": "Bankier.pl"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Swiat-na-krawedzi-kryzysu-w-2026r-Zaskakujace-prognozy-Swiatowego-Forum-Ekonomicznego-9088381.html",
-      "url": "https://www.bankier.pl/wiadomosc/Swiat-na-krawedzi-kryzysu-w-2026r-Zaskakujace-prognozy-Swiatowego-Forum-Ekonomicznego-9088381.html",
-      "title": "Światowa elita nie ma dobrych wieści. Era rywalizacji w ponurej prognozie na 2026 r. i kolejną dekadę",
-      "content_html": "Najnowsza, 21. edycja raportu Światowego Forum Ekonomicznego nie pozostawia złudzeń: czas względnej stabilności dobiegł końca, a rok 2026 wyznacza początek „ery rywalizacji”. Na pierwszym planie wśród globalnych zagrożeń jest twarda geopolityka...",
-      "date_published": "2026-02-27T06:00:00+01:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/rynki/dzien-na-rynkach-gieldy-w-usa-z-przewaga-spadkow-mocno-stracily-akcje-nvidii",
-      "url": "https://biznes.pap.pl/wiadomosci/rynki/dzien-na-rynkach-gieldy-w-usa-z-przewaga-spadkow-mocno-stracily-akcje-nvidii",
-      "title": "DZIEŃ NA RYNKACH: Giełdy w USA z przewagą spadków, mocno straciły akcje Nvidii",
-      "content_html": "Czwartkowa sesja na Wall Stret zakończyła się przewagą spadków wśród głównych indeksów, a w centrum uwagi inwestorów znalazły się akcje Nvidii, która co prawda pokazała świetne wyniki kwartalne, ale n",
-      "date_published": "2026-02-26T22:11:00+01:00",
-      "source": "PAP Biznes"
     }
   ]
 }
