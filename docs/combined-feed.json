@@ -5,6 +5,30 @@
   "home_page_url": "https://www.bankier.pl",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/Grupa-Allegro-sfinalizowala-sprzedaz-dzialalnosci-w-Slowenii-i-Chorwacji-9090589.html",
+      "url": "https://www.bankier.pl/wiadomosc/Grupa-Allegro-sfinalizowala-sprzedaz-dzialalnosci-w-Slowenii-i-Chorwacji-9090589.html",
+      "title": "Grupa Allegro sprzedała swoją działalność w Słowenii i Chorwacji",
+      "content_html": "Grupa Allegro sfinalizowała sprzedaż działalności w Słowenii i Chorwacji - podała spółka w komunikacie.",
+      "date_published": "2026-02-27T23:43:00+01:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Niepewnosc-na-Wall-Street-Inflacja-zwolnienia-i-znaki-zapytania-wokol-AI-9090601.html",
+      "url": "https://www.bankier.pl/wiadomosc/Niepewnosc-na-Wall-Street-Inflacja-zwolnienia-i-znaki-zapytania-wokol-AI-9090601.html",
+      "title": "Niepewność na Wall Street: Inflacja, zwolnienia i znaki zapytania wokół AI",
+      "content_html": "Piątkowa sesja na Wall Stret zakończyła się spadkami głównych indeksów. Akcje spadły po tym, jak najnowsze dane dotyczące wskaźnika cen producenta, który jest kluczowym miernikiem inflacji, okazały się wyższe od oczekiwań.",
+      "date_published": "2026-02-27T23:37:00+01:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Agencja-Fitch-potwierdzila-rating-Polski-na-poziomie-A-z-perspektywa-negatywna-9090602.html",
+      "url": "https://www.bankier.pl/wiadomosc/Agencja-Fitch-potwierdzila-rating-Polski-na-poziomie-A-z-perspektywa-negatywna-9090602.html",
+      "title": "Fitch nie zmienia oceny Polski. Perspektywa ratingu nadal negatywna",
+      "content_html": "Agencja Fitch Ratings potwierdziła w piątek wieczorem długoterminowy rating Polski w walucie obcej na poziomie \"A-\" z perspektywą negatywną - podała agencja w komunikacie.",
+      "date_published": "2026-02-27T23:37:00+01:00",
+      "source": "Bankier.pl"
+    },
+    {
       "id": "https://biznes.pap.pl/wiadomosci/gospodarka/agencja-fitch-potwierdzila-rating-polski-na-poziomie-z-perspektywa-negatywna",
       "url": "https://biznes.pap.pl/wiadomosci/gospodarka/agencja-fitch-potwierdzila-rating-polski-na-poziomie-z-perspektywa-negatywna",
       "title": "Agencja Fitch potwierdziła rating Polski na poziomie \"A-\" z perspektywą negatywną",
@@ -19,14 +43,6 @@
       "content_html": "Piątkowa sesja na Wall Stret zakończyła się spadkami głównych indeksów. Akcje spadły po tym, jak najnowsze dane dotyczące wskaźnika cen producenta okazały się znacznie lepsze od oczekiwań.",
       "date_published": "2026-02-27T22:12:00+01:00",
       "source": "PAP Biznes"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Grupa-Allegro-sfinalizowala-sprzedaz-dzialalnosci-w-Slowenii-i-Chorwacji-9090589.html",
-      "url": "https://www.bankier.pl/wiadomosc/Grupa-Allegro-sfinalizowala-sprzedaz-dzialalnosci-w-Slowenii-i-Chorwacji-9090589.html",
-      "title": "Grupa Allegro sfinalizowała sprzedaż działalności w Słowenii i Chorwacji",
-      "content_html": "Grupa Allegro sfinalizowała sprzedaż działalności w Słowenii i Chorwacji - podała spółka w komunikacie.",
-      "date_published": "2026-02-27T22:08:00+01:00",
-      "source": "Bankier.pl"
     },
     {
       "id": "https://biznes.pap.pl/wiadomosci/firmy/grupa-allegro-sfinalizowala-sprzedaz-dzialalnosci-w-slowenii-i-chorwacji",
@@ -797,6 +813,14 @@
       "source": "Bankier.pl"
     },
     {
+      "id": "https://biznes.pap.pl/wiadomosci/gospodarka/na-projekty-zbrojeniowe-z-safe-trafi-170-mld-zl-mobilnosc-92-mld-zl-odpornosc",
+      "url": "https://biznes.pap.pl/wiadomosci/gospodarka/na-projekty-zbrojeniowe-z-safe-trafi-170-mld-zl-mobilnosc-92-mld-zl-odpornosc",
+      "title": "Na projekty zbrojeniowe z SAFE trafi 170 mld zł; mobilność: 9,2 mld zł; odporność: 7,1 mld zł - Sobkowiak-Czarnecka",
+      "content_html": "W ramach środków z SAFE 170 mld zł trafi na projekty zbrojeniowe, 9,2 mld zł na projekty związane z mobilnością i infrastrukturą, a 7,1 mld zł na projekty związane z odpornością - poinformowała pełnom",
+      "date_published": "2026-02-27T11:00:00+01:00",
+      "source": "PAP Biznes"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/80-proc-SAFE-dla-polskiej-gospodarki-Tusk-Niemiecki-przemysl-skorzysta-tylko-w-0-37-proc-9090107.html",
       "url": "https://www.bankier.pl/wiadomosc/80-proc-SAFE-dla-polskiej-gospodarki-Tusk-Niemiecki-przemysl-skorzysta-tylko-w-0-37-proc-9090107.html",
       "title": "80 proc. SAFE dla polskiej gospodarki. Tusk: Niemiecki przemysł skorzysta tylko w 0,37 proc.",
@@ -1253,22 +1277,6 @@
       "source": "Bankier.pl"
     },
     {
-      "id": "https://www.bankier.pl/wiadomosc/Rewolucja-w-budowlance-od-1-marca-Sadowa-mediacja-stanie-sie-niemal-przymusowa-9089968.html",
-      "url": "https://www.bankier.pl/wiadomosc/Rewolucja-w-budowlance-od-1-marca-Sadowa-mediacja-stanie-sie-niemal-przymusowa-9089968.html",
-      "title": "Rewolucja w budowlance od 1 marca. Sądowa mediacja stanie się niemal przymusowa?",
-      "content_html": "Wchodzące w życie 1 marca regulacje zachęcą, a w praktyce przymuszą przedsiębiorców z branży budowlanej do tego, by konflikty próbowali rozstrzygać w drodze mediacji - informuje piątkowa „Rzeczpospolita\".",
-      "date_published": "2026-02-27T07:19:00+01:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Paramount-wygrywa-wyscig-po-Warner-Bros-Netflix-wycofal-sie-z-walki-9089949.html",
-      "url": "https://www.bankier.pl/wiadomosc/Paramount-wygrywa-wyscig-po-Warner-Bros-Netflix-wycofal-sie-z-walki-9089949.html",
-      "title": "Paramount wygrywa wyścig po Warner Bros. Netflix wycofał się z walki",
-      "content_html": "Zarząd Warner Bros. Discovery formalnie uznał w czwartek nową ofertę wykupu spółki przez Paramount Skydance za lepszą od tej złożonej przez Netflixa. Potentat streamingu ma teraz cztery dni na złożenie nowej propozycji. Jeśli transakcja zostanie...",
-      "date_published": "2026-02-27T07:01:00+01:00",
-      "source": "Bankier.pl"
-    },
-    {
       "id": "https://biznes.pap.pl/wiadomosci/ekonomia-biznes-i-finanse/przewidywane-najwazniejsze-wydarzenia-gospodarcze-2026-02-27",
       "url": "https://biznes.pap.pl/wiadomosci/ekonomia-biznes-i-finanse/przewidywane-najwazniejsze-wydarzenia-gospodarcze-2026-02-27",
       "title": "Przewidywane najważniejsze wydarzenia gospodarcze 2026-02-27",
@@ -1331,14 +1339,6 @@
       "content_html": "Poniżej zamknięcia i zmiany indeksów w USA. Kanadzie, Meksyku, Brazylii, Chile, Kolumbii i Argentynie:",
       "date_published": "2026-02-27T06:31:00+01:00",
       "source": "PAP Biznes"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Janusz-Krypto-slownik-wyrazow-obcych-i-kryptowalutowy-alfabet-grozy-9087394.html",
-      "url": "https://www.bankier.pl/wiadomosc/Janusz-Krypto-slownik-wyrazow-obcych-i-kryptowalutowy-alfabet-grozy-9087394.html",
-      "title": "Janusz Krypto: słownik wyrazów obcych i kryptowalutowy alfabet grozy",
-      "content_html": "\"Wujek, niby wieloryby akumulują, ale ulica też łapie FOMO. Ja tam HODL-uję\" - stwierdził mój siostrzeniec Paweł, gdy spytałem go pół roku temu, jak tam te jego bitcoiny. Zrozumieliście coś z tego? Bo ja tyle, że chyba będzie chciał za...",
-      "date_published": "2026-02-27T06:00:00+01:00",
-      "source": "Bankier.pl"
     }
   ]
 }
