@@ -5,6 +5,14 @@
   "home_page_url": "https://www.bankier.pl",
   "items": [
     {
+      "id": "https://biznes.pap.pl/wiadomosci/sily-amerykanskie-zaatakowaly-iran-droga-powietrzna-i-morska-reuters",
+      "url": "https://biznes.pap.pl/wiadomosci/sily-amerykanskie-zaatakowaly-iran-droga-powietrzna-i-morska-reuters",
+      "title": "Siły amerykańskie zaatakowały Iran drogą powietrzną i morską - Reuters",
+      "content_html": "Przedstawiciel władz USA potwierdził, iż siły amerykańskie zaatakowały Iran drogą powietrzną i morską - poinformowała agencja Reuters.",
+      "date_published": "2026-02-28T08:41:00+01:00",
+      "source": "PAP Biznes"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Koniec-ery-starych-biurowcow-Czesc-czeka-rozbiorka-9087665.html",
       "url": "https://www.bankier.pl/wiadomosc/Koniec-ery-starych-biurowcow-Czesc-czeka-rozbiorka-9087665.html",
       "title": "Koniec ery starych biurowców. Część czeka rozbiórka",
@@ -314,14 +322,6 @@
       "title": "DZIEŃ NA RYNKACH: Mieszane zamknięcie sesji giełdowej w Europie",
       "content_html": "W piątek po relatywnie udanej sesji - w porównaniu do rynków w USA - kilka głównych indeksów europejskich skończyło dzień na minusach. W trakcie sesji w USA widoczne są spore spadki w związku z obawam",
       "date_published": "2026-02-27T18:22:00+01:00",
-      "source": "PAP Biznes"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/rynki/zamkniecia-na-gieldach-w-europie-tabela-2829",
-      "url": "https://biznes.pap.pl/wiadomosci/rynki/zamkniecia-na-gieldach-w-europie-tabela-2829",
-      "title": "Zamknięcia na giełdach w Europie (tabela)",
-      "content_html": "Poniżej zamknięcia i zmiany wybranych indeksów giełdowych w Europie.",
-      "date_published": "2026-02-27T18:16:00+01:00",
       "source": "PAP Biznes"
     },
     {
@@ -1178,62 +1178,6 @@
       "title": "Bunt giganta AI. Anthropic odrzuca ultimatum Pentagonu w sprawie \"robotów-zabójców",
       "content_html": "Firma Anthropic, twórca czołowego modelu AI Claude, odrzuciła w czwartek ultimatum Pentagonu, który żądał porzucenia przez firmę ograniczeń na użytek swoich modelów do masowej inwigilacji Amerykanów i w autonomicznej broni. Pentagon grozi...",
       "date_published": "2026-02-27T08:50:00+01:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/firmy/amrest-zaklada-na-26-sredni-jednocyfrowy-wzrost-sprzedazy-i-ebitda",
-      "url": "https://biznes.pap.pl/wiadomosci/firmy/amrest-zaklada-na-26-sredni-jednocyfrowy-wzrost-sprzedazy-i-ebitda",
-      "title": "AmRest zakłada na '26 średni jednocyfrowy wzrost sprzedaży i EBITDA",
-      "content_html": "Grupa AmRest zakłada na 2026 rok średni jednocyfrowy wzrost sprzedaży i wyniku EBITDA - poinformowała spółka w prezentacji.",
-      "date_published": "2026-02-27T08:46:00+01:00",
-      "source": "PAP Biznes"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/firmy/dzien-na-gpw-sesja-moze-rozpoczac-sie-neutralnie-6",
-      "url": "https://biznes.pap.pl/wiadomosci/firmy/dzien-na-gpw-sesja-moze-rozpoczac-sie-neutralnie-6",
-      "title": "DZIEŃ NA GPW: Sesja może rozpocząć się neutralnie",
-      "content_html": "Kontrakty terminowe na europejskie indeksy sugerują, że piątkowa sesja może rozpocząć się w neutralnych nastrojach - oceniają analitycy. Wskazali, że w kalendarzu makroekonomicznym przewidziana jest p",
-      "date_published": "2026-02-27T08:35:00+01:00",
-      "source": "PAP Biznes"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Wyniki-AmRestu-w-IV-kw-2025-r-vs-konsensus-PAP-tabela-popr-9090043.html",
-      "url": "https://www.bankier.pl/wiadomosc/Wyniki-AmRestu-w-IV-kw-2025-r-vs-konsensus-PAP-tabela-popr-9090043.html",
-      "title": "AmRest zakłada na '26 średni jednocyfrowy wzrost sprzedaży i EBITDA",
-      "content_html": "Poniżej przedstawiono wyniki AmRestu w czwartym kwartale 2025 roku zgodnie z wyliczeniami PAP Biznes i ich odniesienie do konsensusu PAP oraz do wyników poprzednich okresów.",
-      "date_published": "2026-02-27T08:32:00+01:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Wenezuela-nie-moze-zaplacic-za-prawnika-Maduro-Ten-chce-umorzenia-sprawy-9089957.html",
-      "url": "https://www.bankier.pl/wiadomosc/Wenezuela-nie-moze-zaplacic-za-prawnika-Maduro-Ten-chce-umorzenia-sprawy-9089957.html",
-      "title": "Wenezuela nie może zapłacić za prawnika Maduro. Ten chce umorzenia sprawy",
-      "content_html": "Obalony przywódca Wenezueli Nicolas Maduro wniósł o umorzenie sprawy o przemyt narkotyków, toczącej się przeciwko niemu w USA, ponieważ władze tego kraju nie pozwoliły rządowi Wenezueli na opłacenie jego adwokata – podała w nocy z czwartku...",
-      "date_published": "2026-02-27T08:30:00+01:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/48-godzin-chaosu-w-Niemczech-Ruszyl-wielki-strajk-ostrzegawczy-9089963.html",
-      "url": "https://www.bankier.pl/wiadomosc/48-godzin-chaosu-w-Niemczech-Ruszyl-wielki-strajk-ostrzegawczy-9089963.html",
-      "title": "48 godzin chaosu w Niemczech. Ruszył wielki strajk ostrzegawczy",
-      "content_html": "Niemal w całych Niemczech rozpoczął się w piątek nad ranem 48-godzinny strajk ostrzegawczy w transporcie publicznym - poinformowała agencja dpa, cytując przedstawiciela związku zawodowego Verdi, organizatora protestu.",
-      "date_published": "2026-02-27T08:30:00+01:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/firmy/wyniki-amrestu-w-iv-kw-2025-r-vs-konsensus-pap-tabela-popr",
-      "url": "https://biznes.pap.pl/wiadomosci/firmy/wyniki-amrestu-w-iv-kw-2025-r-vs-konsensus-pap-tabela-popr",
-      "title": "Wyniki AmRestu w IV kw. 2025 r. vs konsensus PAP (tabela, popr.)",
-      "content_html": "Poniżej przedstawiono wyniki AmRestu w czwartym kwartale 2025 roku zgodnie z wyliczeniami PAP Biznes i ich odniesienie do konsensusu PAP oraz do wyników poprzednich okresów.",
-      "date_published": "2026-02-27T08:30:00+01:00",
-      "source": "PAP Biznes"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Koszyk-zakupowy-coraz-drozszy-Zobacz-ktory-sklep-jest-teraz-najtanszy-9090008.html",
-      "url": "https://www.bankier.pl/wiadomosc/Koszyk-zakupowy-coraz-drozszy-Zobacz-ktory-sklep-jest-teraz-najtanszy-9090008.html",
-      "title": "Koszyk zakupowy coraz droższy. Zobacz, który sklep jest teraz najtańszy",
-      "content_html": "Średnia cena koszyka zakupowego w styczniu wzrosła o 8,94 zł mdm, czyli o 2,71 proc. i wyniosła 339,16 zł - podała agencja badawcza ASM SFA.",
-      "date_published": "2026-02-27T08:28:00+01:00",
       "source": "Bankier.pl"
     }
   ]
