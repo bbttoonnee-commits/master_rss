@@ -5,6 +5,22 @@
   "home_page_url": "https://www.bankier.pl",
   "items": [
     {
+      "id": "https://biznes.pap.pl/wiadomosci/usa-i-izrael-zaatakowaly-cele-w-iranie-opis",
+      "url": "https://biznes.pap.pl/wiadomosci/usa-i-izrael-zaatakowaly-cele-w-iranie-opis",
+      "title": "USA i Izrael zaatakowały cele w Iranie (opis)",
+      "content_html": "W sobotę rano Izrael i USA przeprowadziły naloty na cele w Iranie. Eksplozje słychać było m.in. w Teheranie, Isfahanie i Komie. Prezydent USA Donald Trump potwierdził, że amerykańskie operacje wojskow",
+      "date_published": "2026-02-28T09:11:00+01:00",
+      "source": "PAP Biznes"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/trump-mowi-ze-armia-amerykanska-rozpoczela-duze-operacje-bojowe-w-iranie",
+      "url": "https://biznes.pap.pl/wiadomosci/trump-mowi-ze-armia-amerykanska-rozpoczela-duze-operacje-bojowe-w-iranie",
+      "title": "Trump mówi, że armia amerykańska rozpoczęła duże operacje bojowe w Iranie",
+      "content_html": "Prezydent USA Donald Trump potwierdził, że amerykańskie operacje wojskowe przeciwko Iranowi są w toku.",
+      "date_published": "2026-02-28T08:52:00+01:00",
+      "source": "PAP Biznes"
+    },
+    {
       "id": "https://biznes.pap.pl/wiadomosci/sily-amerykanskie-zaatakowaly-iran-droga-powietrzna-i-morska-reuters",
       "url": "https://biznes.pap.pl/wiadomosci/sily-amerykanskie-zaatakowaly-iran-droga-powietrzna-i-morska-reuters",
       "title": "Siły amerykańskie zaatakowały Iran drogą powietrzną i morską - Reuters",
@@ -309,22 +325,6 @@
       "source": "Bankier.pl"
     },
     {
-      "id": "https://biznes.pap.pl/wiadomosci/firmy/mcr-po-trzech-kwartalach-roku-202526-mial-104-mln-zl-zysku-ebitda",
-      "url": "https://biznes.pap.pl/wiadomosci/firmy/mcr-po-trzech-kwartalach-roku-202526-mial-104-mln-zl-zysku-ebitda",
-      "title": "mcr po trzech kwartałach roku 2025/26 miał 10,4 mln zł zysku EBITDA",
-      "content_html": "Grupa mcr po trzech kwartałach roku obrotowego 2025/2026 (kwiecień - grudzień 2025 r.) miała 10,4 mln zł zysku EBITDA, stratę operacyjną na poziomie 2,7 mln zł, przychody w wysokości 322,5 mln zł oraz",
-      "date_published": "2026-02-27T18:32:00+01:00",
-      "source": "PAP Biznes"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/rynki/dzien-na-rynkach-mieszane-zamkniecie-sesji-gieldowej-w-europie",
-      "url": "https://biznes.pap.pl/wiadomosci/rynki/dzien-na-rynkach-mieszane-zamkniecie-sesji-gieldowej-w-europie",
-      "title": "DZIEŃ NA RYNKACH: Mieszane zamknięcie sesji giełdowej w Europie",
-      "content_html": "W piątek po relatywnie udanej sesji - w porównaniu do rynków w USA - kilka głównych indeksów europejskich skończyło dzień na minusach. W trakcie sesji w USA widoczne są spore spadki w związku z obawam",
-      "date_published": "2026-02-27T18:22:00+01:00",
-      "source": "PAP Biznes"
-    },
-    {
       "id": "https://www.bankier.pl/wiadomosc/PKP-Cargo-skierowalo-wniosek-o-przedluzenie-terminu-zlozenia-ostatecznej-propozycji-ukladowej-do-30-IV-9090417.html",
       "url": "https://www.bankier.pl/wiadomosc/PKP-Cargo-skierowalo-wniosek-o-przedluzenie-terminu-zlozenia-ostatecznej-propozycji-ukladowej-do-30-IV-9090417.html",
       "title": "PKP Cargo gra na czas. Spółka przesuwa kluczowy termin dla wierzycieli",
@@ -389,6 +389,14 @@
       "source": "Bankier.pl"
     },
     {
+      "id": "https://biznes.pap.pl/wiadomosci/gospodarka/euro-w-ebc-11805-usd-i-18413-jpy",
+      "url": "https://biznes.pap.pl/wiadomosci/gospodarka/euro-w-ebc-11805-usd-i-18413-jpy",
+      "title": "Euro w EBC: 1,1805 USD i 184,13 JPY",
+      "content_html": "Europejski Bank Centralny (EBC) ustalił kurs euro na 1,1805 USD i 184,13 JPY - podał bank na swojej stronie internetowej.",
+      "date_published": "2026-02-27T16:10:00+01:00",
+      "source": "PAP Biznes"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Sejm-przyjal-SAFE-Co-zrobi-prezydent-Karol-Nawrocki-9090289.html",
       "url": "https://www.bankier.pl/wiadomosc/Sejm-przyjal-SAFE-Co-zrobi-prezydent-Karol-Nawrocki-9090289.html",
       "title": "Sejm przyjął SAFE. Co zrobi prezydent Karol Nawrocki?",
@@ -421,12 +429,28 @@
       "source": "Bankier.pl"
     },
     {
+      "id": "https://biznes.pap.pl/wiadomosci/rynki/po-otwarciu-sesji-dji-spada-o-101-proc-sp-500-znizkuje-082-proc",
+      "url": "https://biznes.pap.pl/wiadomosci/rynki/po-otwarciu-sesji-dji-spada-o-101-proc-sp-500-znizkuje-082-proc",
+      "title": "Po otwarciu sesji DJI spada o 1,01 proc., a S&P 500 zniżkuje 0,82 proc.",
+      "content_html": "Po otwarciu sesji w USA Dow Jones Industrial spada o 1,01 proc. do 49.014 pkt., S&P500 zniżkuje 0,82 proc. i wynosi 6.852 pkt.",
+      "date_published": "2026-02-27T15:35:00+01:00",
+      "source": "PAP Biznes"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/AmRest-zaklada-CAPEX-w-2026-na-podobnym-poziomie-jak-w-2025-przy-wiekszej-efektywnosci-9090358.html",
       "url": "https://www.bankier.pl/wiadomosc/AmRest-zaklada-CAPEX-w-2026-na-podobnym-poziomie-jak-w-2025-przy-wiekszej-efektywnosci-9090358.html",
       "title": "AmRest zakłada CAPEX w 2026 na podobnym poziomie, jak w 2025, przy większej efektywności",
       "content_html": "Grupa AmRest zakłada CAPEX na 2026 r. na poziomie podobnym, jak w 2025 r., kiedy wyniósł 158 mln euro - poinformowali przedstawiciele spółki. Jednocześnie AmRest kładzie nacisk na dalszą poprawę efektywności wykorzystania nakładów inwestycyjnych...",
       "date_published": "2026-02-27T15:28:00+01:00",
       "source": "Bankier.pl"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/firmy/amrest-zaklada-capex-w-2026-na-podobnym-poziomie-jak-w-2025-przy-wiekszej",
+      "url": "https://biznes.pap.pl/wiadomosci/firmy/amrest-zaklada-capex-w-2026-na-podobnym-poziomie-jak-w-2025-przy-wiekszej",
+      "title": "AmRest zakłada CAPEX w 2026 na podobnym poziomie, jak w 2025, przy większej efektywności",
+      "content_html": "Grupa AmRest zakłada CAPEX na 2026 r. na poziomie podobnym, jak w 2025 r., kiedy wyniósł 158 mln euro - poinformowali przedstawiciele spółki. Jednocześnie AmRest kładzie nacisk na dalszą poprawę efekt",
+      "date_published": "2026-02-27T15:27:00+01:00",
+      "source": "PAP Biznes"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/AB-chce-wyplacic-6-45-zl-dywidendy-na-akcje-za-rok-obrotowy-2024-2025-9090354.html",
@@ -1091,94 +1115,6 @@
       "content_html": "Uniperks, platforma umożliwiająca markom dotarcie z dedykowanymi ofertami do zweryfikowanych studentów, pozyskała 1,5 mln zł w rundzie seed od funduszu Digital Ocean Ventures. To pierwsza runda inwest",
       "date_published": "2026-02-27T09:38:00+01:00",
       "source": "PAP Biznes"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Skarga-do-TSUE-na-Mercosur-jednak-bedzie-Krajewski-ucina-spekulacje-i-odpowiada-PiS-9090079.html",
-      "url": "https://www.bankier.pl/wiadomosc/Skarga-do-TSUE-na-Mercosur-jednak-bedzie-Krajewski-ucina-spekulacje-i-odpowiada-PiS-9090079.html",
-      "title": "Skarga do TSUE na Mercosur jednak będzie? Krajewski ucina spekulacje i odpowiada PiS",
-      "content_html": "Mamy potwierdzoną informację przez Ministerstwo Spraw Zagranicznych, że na złożenie skargi do TSUE jest 60 dni od chwili opublikowania umowy z Mercosurem, a to ma nastąpić w najbliższych dniach - stwierdził minister rolnictwa Stefan Krajewski...",
-      "date_published": "2026-02-27T09:25:00+01:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/gospodarka/dzien-na-fxfi-zloty-pod-wplywem-globalnych-impulsow-moze-zmierzac-do-423eur",
-      "url": "https://biznes.pap.pl/wiadomosci/gospodarka/dzien-na-fxfi-zloty-pod-wplywem-globalnych-impulsow-moze-zmierzac-do-423eur",
-      "title": "DZIEŃ NA FX/FI: Złoty pod wpływem globalnych impulsów, może zmierzać do 4,23/EUR",
-      "content_html": "W piątek złoty pozostanie pod wpływem impulsów z otoczenia globalnego - wskazują w raportach ekonomiści. Jednocześnie, przy utrzymującym się ryzyku geopolitycznym i przed rewizją ratingu Polski przez ",
-      "date_published": "2026-02-27T09:21:00+01:00",
-      "source": "PAP Biznes"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/firmy/fundusz-enterprise-investors-zwiekszyl-zaangazowanie-kapitalowe-w-unity-care",
-      "url": "https://biznes.pap.pl/wiadomosci/firmy/fundusz-enterprise-investors-zwiekszyl-zaangazowanie-kapitalowe-w-unity-care",
-      "title": "Fundusz Enterprise Investors zwiększył zaangażowanie kapitałowe w Unity Care",
-      "content_html": "Enterprise Investors Fund IX zwiększył zaangażowanie kapitałowe w Unity Care – ogólnopolskiej sieci ambulatoryjnej opieki medycznej - podał fundusz w komunikacie prasowym. Fundusz przeznaczył dodatkow",
-      "date_published": "2026-02-27T09:21:00+01:00",
-      "source": "PAP Biznes"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/firmy/amrest-zaklada-na-26-sredni-jednocyfrowy-wzrost-sprzedazy-i-ebitda-opis",
-      "url": "https://biznes.pap.pl/wiadomosci/firmy/amrest-zaklada-na-26-sredni-jednocyfrowy-wzrost-sprzedazy-i-ebitda-opis",
-      "title": "AmRest zakłada na '26 średni jednocyfrowy wzrost sprzedaży i EBITDA (opis)",
-      "content_html": "Grupa AmRest zakłada na 2026 rok średni jednocyfrowy wzrost sprzedaży i wyniku EBITDA - poinformowała spółka w prezentacji.",
-      "date_published": "2026-02-27T09:10:00+01:00",
-      "source": "PAP Biznes"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Udzial-PKP-Cargo-w-rynku-przewiezionych-towarow-wg-masy-spadl-rdr-po-I-do-26-75-proc-UTK-9090061.html",
-      "url": "https://www.bankier.pl/wiadomosc/Udzial-PKP-Cargo-w-rynku-przewiezionych-towarow-wg-masy-spadl-rdr-po-I-do-26-75-proc-UTK-9090061.html",
-      "title": "Udział PKP Cargo w rynku przewiezionych towarów wg masy spadł rdr po I do 26,75 proc.",
-      "content_html": "Udział PKP Cargo w rynku przewiezionych towarów według masy spadł po styczniu do 26,75 proc. całego rynku wobec 28,43 proc. po styczniu 2025 roku - podał Urząd Transportu Kolejowego.",
-      "date_published": "2026-02-27T09:00:00+01:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/firmy/w-styczniu-koleja-przewieziono-354-mln-pasazerow-o-49-proc-wiecej-rdr-utk",
-      "url": "https://biznes.pap.pl/wiadomosci/firmy/w-styczniu-koleja-przewieziono-354-mln-pasazerow-o-49-proc-wiecej-rdr-utk",
-      "title": "W styczniu koleją przewieziono 35,4 mln pasażerów, o 4,9 proc. więcej rdr - UTK",
-      "content_html": "W styczniu koleją przewieziono 35,4 mln pasażerów, o 4,9 proc. więcej rdr - podał Urząd Transportu Kolejowego w komunikacie.",
-      "date_published": "2026-02-27T09:00:00+01:00",
-      "source": "PAP Biznes"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/gospodarka/wrp-w-ii-wzrosl-o-ponad-2-pp-dane-o-zwolnieniach-moga-sugerowac-wzrost",
-      "url": "https://biznes.pap.pl/wiadomosci/gospodarka/wrp-w-ii-wzrosl-o-ponad-2-pp-dane-o-zwolnieniach-moga-sugerowac-wzrost",
-      "title": "WRP w II wzrósł o ponad 2 pp., dane o zwolnieniach mogą sugerować wzrost bezrobocia - BIEC",
-      "content_html": "Wskaźnik Rynku Pracy (WRP) w lutym wzrósł o ponad 2 pkt. proc., a dane o zwolnieniach mogą sugerować wzrost stopy bezrobocia - podało Biuro Inwestycji i Cykli Ekonomicznych.",
-      "date_published": "2026-02-27T09:00:00+01:00",
-      "source": "PAP Biznes"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/firmy/udzial-pkp-cargo-w-rynku-przewiezionych-towarow-wg-masy-spadl-rdr-po-i-do-2675",
-      "url": "https://biznes.pap.pl/wiadomosci/firmy/udzial-pkp-cargo-w-rynku-przewiezionych-towarow-wg-masy-spadl-rdr-po-i-do-2675",
-      "title": "Udział PKP Cargo w rynku przewiezionych towarów wg masy spadł rdr po I do 26,75 proc. - UTK",
-      "content_html": "Udział PKP Cargo w rynku przewiezionych towarów według masy spadł po styczniu do 26,75 proc. całego rynku wobec 28,43 proc. po styczniu 2025 roku - podał Urząd Transportu Kolejowego.",
-      "date_published": "2026-02-27T08:58:00+01:00",
-      "source": "PAP Biznes"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Grupa-Dekpol-szacuje-ze-w-25-miala-104-mln-zysku-netto-9090055.html",
-      "url": "https://www.bankier.pl/wiadomosc/Grupa-Dekpol-szacuje-ze-w-25-miala-104-mln-zysku-netto-9090055.html",
-      "title": "Grupa Dekpol szacuje, że w '25 miała 104 mln zysku netto",
-      "content_html": "Grupa Dekpol szacuje, że w 2025 roku miała 104 mln zł zysku netto, przychody ze sprzedaży na poziomie 1.840 mln zł, a wskaźnik EBITDA wyniósł 173 mln zł - podała spółka w komunikacie.",
-      "date_published": "2026-02-27T08:54:00+01:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/firmy/grupa-dekpol-szacuje-ze-w-25-miala-104-mln-zysku-netto",
-      "url": "https://biznes.pap.pl/wiadomosci/firmy/grupa-dekpol-szacuje-ze-w-25-miala-104-mln-zysku-netto",
-      "title": "Grupa Dekpol szacuje, że w '25 miała 104 mln zysku netto",
-      "content_html": "Grupa Dekpol szacuje, że w 2025 roku miała 104 mln zł zysku netto, przychody ze sprzedaży na poziomie 1.840 mln zł, a wskaźnik EBITDA wyniósł 173 mln zł - podała spółka w komunikacie.",
-      "date_published": "2026-02-27T08:53:00+01:00",
-      "source": "PAP Biznes"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Bunt-giganta-AI-Anthropic-odrzuca-ultimatum-Pentagonu-w-sprawie-robotow-zabojcow-9089964.html",
-      "url": "https://www.bankier.pl/wiadomosc/Bunt-giganta-AI-Anthropic-odrzuca-ultimatum-Pentagonu-w-sprawie-robotow-zabojcow-9089964.html",
-      "title": "Bunt giganta AI. Anthropic odrzuca ultimatum Pentagonu w sprawie \"robotów-zabójców",
-      "content_html": "Firma Anthropic, twórca czołowego modelu AI Claude, odrzuciła w czwartek ultimatum Pentagonu, który żądał porzucenia przez firmę ograniczeń na użytek swoich modelów do masowej inwigilacji Amerykanów i w autonomicznej broni. Pentagon grozi...",
-      "date_published": "2026-02-27T08:50:00+01:00",
-      "source": "Bankier.pl"
     }
   ]
 }
