@@ -5,6 +5,38 @@
   "home_page_url": "https://www.bankier.pl",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/Krwawa-strzelanina-w-centrum-Austin-FBI-bada-watek-terrorystyczny-9091069.html",
+      "url": "https://www.bankier.pl/wiadomosc/Krwawa-strzelanina-w-centrum-Austin-FBI-bada-watek-terrorystyczny-9091069.html",
+      "title": "Krwawa strzelanina w centrum Austin. FBI bada wątek terrorystyczny",
+      "content_html": "Trzy osoby, w tym napastnik, zginęły, a 14 zostało rannych nad ranem w niedzielę, gdy napastnik otworzył ogień do ludzi w barze w centrum Austin w Teksasie. Sprawę bada zespół ds. walki z terroryzmem FBI.",
+      "date_published": "2026-03-01T20:22:00+01:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/firmy/dostawy-ropy-i-gazu-realizowane-sa-bez-zaklocen-polska-posiada-zapasy-surowcow",
+      "url": "https://biznes.pap.pl/wiadomosci/firmy/dostawy-ropy-i-gazu-realizowane-sa-bez-zaklocen-polska-posiada-zapasy-surowcow",
+      "title": "Dostawy ropy i gazu realizowane są bez zakłóceń; Polska posiada zapasy surowców",
+      "content_html": "Minister energii Miłosz Motyka zapewnił w niedzielę, że dostawy ropy i gazu realizowane są bez zakłóceń. „Polska posiada zabezpieczone zapasy surowców, a infrastruktura gazowa i naftowa działa w pełny",
+      "date_published": "2026-03-01T20:04:00+01:00",
+      "source": "PAP Biznes"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Konflikt-na-Bliskim-Wschodzie-wstrzasnie-portfelami-Skutki-dla-surowcow-i-zlotego-9091000.html",
+      "url": "https://www.bankier.pl/wiadomosc/Konflikt-na-Bliskim-Wschodzie-wstrzasnie-portfelami-Skutki-dla-surowcow-i-zlotego-9091000.html",
+      "title": "Konflikt na Bliskim Wschodzie wstrząśnie portfelami? Skutki dla surowców i złotego",
+      "content_html": "Najsilniej na amerykańsko-izraelski atak na Iran zareagują rynki surowcowe – powiedział PAP strateg banku PKO BP Mirosław Budzicki. Jego zdaniem na początku tygodnia cena ropy Brent może podskoczyć do 78 dol. za baryłkę, a złoto może wrócić...",
+      "date_published": "2026-03-01T20:02:00+01:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/rynki/kraje-opec-gotowe-zwiekszyc-wydobycie-eksperci-prognozuja-wzrost-cen-surowca",
+      "url": "https://biznes.pap.pl/wiadomosci/rynki/kraje-opec-gotowe-zwiekszyc-wydobycie-eksperci-prognozuja-wzrost-cen-surowca",
+      "title": "Kraje OPEC+ gotowe zwiększyć wydobycie; eksperci prognozują wzrost cen surowca",
+      "content_html": "Organizacja Krajów Eksportujących Ropę Naftową (OPEC) oraz państwa współpracujące z nią zgodziły się wstępnie w niedzielę, że od 1 kwietnia zwiększą wydobycie surowca do 206 tys. baryłek dziennie - po",
+      "date_published": "2026-03-01T19:59:00+01:00",
+      "source": "PAP Biznes"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Wojna-na-Bliskim-Wschodzie-USA-i-Izrael-atakuja-Iran-Teheran-odpowiada-ogniem-9090927.html",
       "url": "https://www.bankier.pl/wiadomosc/Wojna-na-Bliskim-Wschodzie-USA-i-Izrael-atakuja-Iran-Teheran-odpowiada-ogniem-9090927.html",
       "title": "Trump o poległych żołnierzach i „wspaniałym rozwiązaniu” dla świata. Iran: Nasze zdolności wojskowe bez zmian",
@@ -53,14 +85,6 @@
       "source": "Bankier.pl"
     },
     {
-      "id": "https://www.bankier.pl/wiadomosc/Konflikt-na-Bliskim-Wschodzie-wstrzasnie-portfelami-Skutki-dla-surowcow-i-zlotego-9091000.html",
-      "url": "https://www.bankier.pl/wiadomosc/Konflikt-na-Bliskim-Wschodzie-wstrzasnie-portfelami-Skutki-dla-surowcow-i-zlotego-9091000.html",
-      "title": "Konflikt na Bliskim Wschodzie wstrząśnie portfelami? Skutki dla surowców i złotego",
-      "content_html": "Najsilniej na amerykańsko-izraelski atak na Iran zareagują rynki surowcowe – powiedział PAP strateg banku PKO BP Mirosław Budzicki. Jego zdaniem na początku tygodnia cena ropy Brent może podskoczyć do 78 dol. za baryłkę, a złoto może wrócić...",
-      "date_published": "2026-03-01T18:58:00+01:00",
-      "source": "Bankier.pl"
-    },
-    {
       "id": "https://www.bankier.pl/wiadomosc/Iran-Panstwowe-media-potwierdzily-smierc-Chameneia-ogloszono-40-dni-zaloby-opis-9090910.html",
       "url": "https://www.bankier.pl/wiadomosc/Iran-Panstwowe-media-potwierdzily-smierc-Chameneia-ogloszono-40-dni-zaloby-opis-9090910.html",
       "title": "Nie żyje ajatollah Chamenei. Putin: To „cyniczne naruszenie norm prawa i moralności”",
@@ -90,14 +114,6 @@
       "title": "„Pozostańcie w bezpiecznym miejscu”. MSZ radzi Polakom na Bliskim Wschodzie",
       "content_html": "Rzecznik MSZ Maciej Wewiór zapewnił, że państwo robi wszystko, aby polskim obywatelom, którzy utknęli na Bliskim Wschodzie, pomóc tam na miejscu. Dodał, że osoby te powinny mieć kontakt z liniami lotniczymi, a służby konsularne zapewniają...",
       "date_published": "2026-03-01T17:56:00+01:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Krwawa-strzelanina-w-centrum-Austin-FBI-bada-watek-terrorystyczny-9091069.html",
-      "url": "https://www.bankier.pl/wiadomosc/Krwawa-strzelanina-w-centrum-Austin-FBI-bada-watek-terrorystyczny-9091069.html",
-      "title": "Krwawa strzelanina w centrum Austin. FBI bada wątek terrorystyczny",
-      "content_html": "Trzy osoby, w tym napastnik, zginęły, a 14 zostało rannych nad ranem w niedzielę, gdy napastnik otworzył ogień do ludzi w barze w centrum Austin w Teksasie. Sprawę bada zespół ds. walki z terroryzmem FBI.",
-      "date_published": "2026-03-01T17:53:00+01:00",
       "source": "Bankier.pl"
     },
     {
@@ -165,18 +181,18 @@
       "source": "Bankier.pl"
     },
     {
-      "id": "https://www.bankier.pl/wiadomosc/Skonczyly-sie-poklady-goscinnosci-Szwecja-deportuje-za-kazde-przestepstwo-9088988.html",
-      "url": "https://www.bankier.pl/wiadomosc/Skonczyly-sie-poklady-goscinnosci-Szwecja-deportuje-za-kazde-przestepstwo-9088988.html",
-      "title": "Skończyły się pokłady gościnności. Szwecja deportuje za każde przestępstwo",
-      "content_html": "Rząd Szwecji zapowiedział w środę, że sześciokrotnie wzrośnie liczba wydalanych cudzoziemców skazanych za dokonanie w tym kraju przestępstw. Ma to być możliwe dzięki wejściu w życie z początkiem września najsurowszych przepisów w krajach...",
+      "id": "https://www.bankier.pl/wiadomosc/Koniec-ery-WIBOR-u-w-kredytach-KNF-wyznacza-bankom-twarde-terminy-9088790.html",
+      "url": "https://www.bankier.pl/wiadomosc/Koniec-ery-WIBOR-u-w-kredytach-KNF-wyznacza-bankom-twarde-terminy-9088790.html",
+      "title": "Koniec ery WIBOR-u w kredytach. KNF wyznacza bankom twarde terminy",
+      "content_html": "Reforma wskaźników referencyjnych w 2026 roku weszła w kluczowy etap, KNF oczekuje od banków odchodzenia od wskaźnika WIBOR – poinformował zastępca przewodniczącego KNF Marcin Mikołajczyk. Podał, że liczy, że sektor będzie aktywny na rynku...",
       "date_published": "2026-03-01T14:00:00+01:00",
       "source": "Bankier.pl"
     },
     {
-      "id": "https://www.bankier.pl/wiadomosc/Koniec-ery-WIBOR-u-w-kredytach-KNF-wyznacza-bankom-twarde-terminy-9088790.html",
-      "url": "https://www.bankier.pl/wiadomosc/Koniec-ery-WIBOR-u-w-kredytach-KNF-wyznacza-bankom-twarde-terminy-9088790.html",
-      "title": "Koniec ery WIBOR-u w kredytach. KNF wyznacza bankom twarde terminy Reforma wskaźników referencyjnych w 2026 roku weszła w kluczowy etap, KNF oczekuje od banków odchodzenia od wskaźnika WIBOR – poinformował zastępca przewodniczącego KNF Marcin Mikołajczyk. Podał, że liczy, że sektor będzie aktywny na rynku emisji długoterminowych instrumentów dłużnych.",
-      "content_html": "",
+      "id": "https://www.bankier.pl/wiadomosc/Skonczyly-sie-poklady-goscinnosci-Szwecja-deportuje-za-kazde-przestepstwo-9088988.html",
+      "url": "https://www.bankier.pl/wiadomosc/Skonczyly-sie-poklady-goscinnosci-Szwecja-deportuje-za-kazde-przestepstwo-9088988.html",
+      "title": "Skończyły się pokłady gościnności. Szwecja deportuje za każde przestępstwo",
+      "content_html": "Rząd Szwecji zapowiedział w środę, że sześciokrotnie wzrośnie liczba wydalanych cudzoziemców skazanych za dokonanie w tym kraju przestępstw. Ma to być możliwe dzięki wejściu w życie z początkiem września najsurowszych przepisów w krajach...",
       "date_published": "2026-03-01T14:00:00+01:00",
       "source": "Bankier.pl"
     },
@@ -458,22 +474,6 @@
       "title": "Polacy utknęli na lotniskach Bliskiego Wschodu. MSZ: Droga lądowa bezpieczna",
       "content_html": "Szef MSZ Radosław Sikorski poinformował, że pewna liczba Polaków utknęła na lotniskach w regionie Bliskiego Wschodu. Zaznaczył, że są za nich odpowiedzialne linie lotnicze, a polscy konsulowie starają się do nich dotrzeć. Zapewnił, że aktualnie...",
       "date_published": "2026-02-28T20:37:00+01:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Zdrajca-czy-geniusz-Walesa-ostro-o-Trumpie-9088000.html",
-      "url": "https://www.bankier.pl/wiadomosc/Zdrajca-czy-geniusz-Walesa-ostro-o-Trumpie-9088000.html",
-      "title": "Zdrajca czy geniusz? Wałęsa ostro o Trumpie",
-      "content_html": "Były prezydent Polski Lech Wałęsa powiedział w wywiadzie dla agencji AFP, że niektórzy uważają prezydenta USA Donalda Trumpa za „zdrajcę”, bo może się wydawać ustępliwy wobec Władimira Putina, ale nie można wykluczyć, iż jest „nadzwyczaj...",
-      "date_published": "2026-02-28T20:00:00+01:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Nowe-swiadczenie-dla-zapomnianych-ofiar-PRL-Sejmowa-komisja-poparla-zmiany-9089203.html",
-      "url": "https://www.bankier.pl/wiadomosc/Nowe-swiadczenie-dla-zapomnianych-ofiar-PRL-Sejmowa-komisja-poparla-zmiany-9089203.html",
-      "title": "Nowe świadczenie dla zapomnianych ofiar PRL. Sejmowa komisja poparła zmiany",
-      "content_html": "Sejmowa Komisja Polityki Społecznej poparła projekt noweli ustawy o działaczach opozycji antykomunistycznej. Chodzi o przepis, w myśl którego status osoby represjonowanej będzie mogła uzyskać osoba, wobec której sąd dla nieletnich albo sąd...",
-      "date_published": "2026-02-28T20:00:00+01:00",
       "source": "Bankier.pl"
     }
   ]
