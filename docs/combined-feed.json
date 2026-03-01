@@ -5,6 +5,14 @@
   "home_page_url": "https://www.bankier.pl",
   "items": [
     {
+      "id": "https://biznes.pap.pl/wiadomosci/ekonomia-biznes-i-finanse/skrot-wiadomosci-sobota-niedziela-28-lutego-1-marca",
+      "url": "https://biznes.pap.pl/wiadomosci/ekonomia-biznes-i-finanse/skrot-wiadomosci-sobota-niedziela-28-lutego-1-marca",
+      "title": "Skrót wiadomości: sobota-niedziela, 28 lutego-1 marca",
+      "content_html": "Przegląd najważniejszych wiadomości gospodarczych, krajowych i ze świata z soboty i niedzieli, 28 lutego-1 marca.",
+      "date_published": "2026-03-01T20:47:00+01:00",
+      "source": "PAP Biznes"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Orlen-i-Gaz-System-odporne-na-konflikt-na-Bliskim-Wschodzie-Motyka-Zapasy-dla-Polski-zabezpieczone-9091092.html",
       "url": "https://www.bankier.pl/wiadomosc/Orlen-i-Gaz-System-odporne-na-konflikt-na-Bliskim-Wschodzie-Motyka-Zapasy-dla-Polski-zabezpieczone-9091092.html",
       "title": "Orlen i Gaz-System odporne na konflikt na Bliskim Wschodzie. Motyka: Zapasy dla Polski zabezpieczone",
@@ -458,14 +466,6 @@
       "title": "AI vs. AI. Walki „robotów” o Twoje CV i miejsce pracy",
       "content_html": "Jeszcze dekadę temu szukanie pracy było sprintem; wystarczyło jedno dobre CV i chwila cierpliwości. Dziś to maraton z przeszkodami, gdzie po drodze trzeba pokonać \"cyfrowego bramkarza\", czyli system ATS, a jeśli Twoje dokumenty nie pasują idealnie...",
       "date_published": "2026-03-01T06:00:00+01:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/USA-i-Izrael-uderzyly-w-Iran-Eksplozje-w-Teheranie-i-kluczowych-miastach-Iran-zapowiada-odwet-9090679.html",
-      "url": "https://www.bankier.pl/wiadomosc/USA-i-Izrael-uderzyly-w-Iran-Eksplozje-w-Teheranie-i-kluczowych-miastach-Iran-zapowiada-odwet-9090679.html",
-      "title": "Wojna na Bliskim Wschodzie. USA i Izrael atakują Iran. Teheran odpowiada ogniem",
-      "content_html": "W sobotę rano Stany Zjednoczone wraz z Izraelem rozpoczęły szeroko zakrojoną operację wojskową przeciwko Iranowi, mającą na celu uniemożliwienie Teheranowi uzyskania broni nuklearnej i zniszczenie jego potencjału militarnego. Iran odpowiedział...",
-      "date_published": "2026-02-28T20:57:00+01:00",
       "source": "Bankier.pl"
     }
   ]
