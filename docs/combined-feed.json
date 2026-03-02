@@ -5,6 +5,22 @@
   "home_page_url": "https://www.bankier.pl",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/Goldman-Sachs-liderem-obrotow-na-rynku-akcji-GPW-w-lutym-drugi-BM-PKO-BP-9091879.html",
+      "url": "https://www.bankier.pl/wiadomosc/Goldman-Sachs-liderem-obrotow-na-rynku-akcji-GPW-w-lutym-drugi-BM-PKO-BP-9091879.html",
+      "title": "Goldman Sachs liderem obrotów na rynku akcji GPW w lutym, drugi BM PKO BP",
+      "content_html": "Goldman Sachs w lutym 2026 roku był liderem obrotów na rynku akcji w transakcjach sesyjnych GPW. Na drugim miejscu znalazł się BM PKO BP - podała GPW na stronie internetowej.",
+      "date_published": "2026-03-02T23:50:00+01:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/firmy/goldman-sachs-liderem-obrotow-na-rynku-akcji-gpw-w-lutym-drugi-bm-pko-bp",
+      "url": "https://biznes.pap.pl/wiadomosci/firmy/goldman-sachs-liderem-obrotow-na-rynku-akcji-gpw-w-lutym-drugi-bm-pko-bp",
+      "title": "Goldman Sachs liderem obrotów na rynku akcji GPW w lutym, drugi BM PKO BP",
+      "content_html": "Goldman Sachs w lutym 2026 roku był liderem obrotów na rynku akcji w transakcjach sesyjnych GPW. Na drugim miejscu znalazł się BM PKO BP - podała GPW na stronie internetowej.",
+      "date_published": "2026-03-02T23:48:00+01:00",
+      "source": "PAP Biznes"
+    },
+    {
       "id": "https://biznes.pap.pl/wiadomosci/rynki/dzien-na-rynkach-gieldy-w-usa-koncza-dzien-z-malymi-zmianami-0",
       "url": "https://biznes.pap.pl/wiadomosci/rynki/dzien-na-rynkach-gieldy-w-usa-koncza-dzien-z-malymi-zmianami-0",
       "title": "DZIEŃ NA RYNKACH: Giełdy w USA kończą dzień z małymi zmianami",
@@ -221,14 +237,6 @@
       "source": "PAP Biznes"
     },
     {
-      "id": "https://biznes.pap.pl/wiadomosci/firmy/ing-bank-slaski-ma-zalecenie-knf-potwierdzajace-spelnienie-wymogow-do-wyplaty",
-      "url": "https://biznes.pap.pl/wiadomosci/firmy/ing-bank-slaski-ma-zalecenie-knf-potwierdzajace-spelnienie-wymogow-do-wyplaty",
-      "title": "ING Bank Śląski ma zalecenie KNF potwierdzające spełnienie wymogów do wypłaty dywidendy do 75 proc. zysku za '25",
-      "content_html": "ING Bank Śląski otrzymał indywidualne zalecenie KNF, potwierdzające spełnienie przez bank wymogów do wypłaty dywidendy na poziomie do 75 proc. zysku netto za 2025 r., przy czym maksymalna kwota wypłat",
-      "date_published": "2026-03-02T18:08:00+01:00",
-      "source": "PAP Biznes"
-    },
-    {
       "id": "https://www.bankier.pl/wiadomosc/Macron-Francja-zwiekszy-liczbe-glowic-nuklearnych-9091585.html",
       "url": "https://www.bankier.pl/wiadomosc/Macron-Francja-zwiekszy-liczbe-glowic-nuklearnych-9091585.html",
       "title": "Francja zwiększy liczbę głowic nuklearnych. \"Polska też zainteresowana\"",
@@ -371,6 +379,14 @@
       "content_html": "Bank Pekao otrzymał indywidualne zalecenie KNF odnoszące się do polityki dywidendowej banku - podało Pekao w komunikacie. KNF zaleciła bankowi niewypłacanie dywidendy z zysku za 2025 r. w wysokości większej niż 75 proc., przy czym maksymalna...",
       "date_published": "2026-03-02T15:46:00+01:00",
       "source": "Bankier.pl"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/firmy/knf-zalecila-bankowi-pekao-niewyplacanie-dywidendy-z-zysku-za-25-w-wys-wiekszej",
+      "url": "https://biznes.pap.pl/wiadomosci/firmy/knf-zalecila-bankowi-pekao-niewyplacanie-dywidendy-z-zysku-za-25-w-wys-wiekszej",
+      "title": "KNF zaleciła bankowi Pekao niewypłacanie dywidendy z zysku za '25 w wys. większej niż 75 proc.",
+      "content_html": "Bank Pekao otrzymał indywidualne zalecenie KNF odnoszące się do polityki dywidendowej banku - podało Pekao w komunikacie. KNF zaleciła bankowi niewypłacanie dywidendy z zysku za 2025 r. w wysokości wi",
+      "date_published": "2026-03-02T15:44:00+01:00",
+      "source": "PAP Biznes"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Pete-Hegseth-zabiera-glos-po-ataku-na-Iran-Wskazal-cel-wojny-9091503.html",
@@ -1373,17 +1389,9 @@
       "source": "PAP Biznes"
     },
     {
-      "id": "https://www.bankier.pl/wiadomosc/Trump-To-co-zrobilismy-w-Wenezueli-to-idealny-scenariusz-9091189.html",
-      "url": "https://www.bankier.pl/wiadomosc/Trump-To-co-zrobilismy-w-Wenezueli-to-idealny-scenariusz-9091189.html",
-      "title": "Trump: To, co zrobiliśmy w Wenezueli, to idealny scenariusz",
-      "content_html": "Prezydent USA Donald Trump zasugerował dziennikowi „New York Times”, że uważa scenariusz z Wenezueli jako idealny przykład zmiany reżimu w Iranie, choć jednocześnie wezwał do obalenia władz przez demonstrantów. Trump powtórzył też, że...",
-      "date_published": "2026-03-02T06:36:00+01:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Prognoza-ofert-publicznych-w-2026-r-zwiastuje-rekord-Kto-w-profesjonalny-sposob-wyssie-kapital-i-jak-kupic-nowe-akcje-9090211.html",
-      "url": "https://www.bankier.pl/wiadomosc/Prognoza-ofert-publicznych-w-2026-r-zwiastuje-rekord-Kto-w-profesjonalny-sposob-wyssie-kapital-i-jak-kupic-nowe-akcje-9090211.html",
-      "title": "Ich wejście na giełdę może wyssać kapitał i zwiastować załamanie. Kosmiczne oferty w 2026 r. mogą pobić rekord Rynek pierwszych ofert publicznych w USA może pobić w 2026 r. rekord pod względem wartości zebranego kapitału, ustanowiony pięć lat wcześniej w szczycie darmowego pieniądza, gdy wizje oparte na fundamentach z piasku zbierały miliardy dolarów. Tym razem, kolejka chętnych do giełdowego debiutu w Nowym Jorku to biznesy na miarę XXII wieku, zorientowane na kosmosie i sztucznej inteligencji. Czy pęd na giełdę oznacza, że hossa na rynku kapitałowym zmierza ku końcowi?",
+      "id": "https://www.bankier.pl/wiadomosc/Janusz-Krypto-Czy-0-w-bitcoinie-to-wstyd-Kiedy-kryptowaluty-to-blad-9090051.html",
+      "url": "https://www.bankier.pl/wiadomosc/Janusz-Krypto-Czy-0-w-bitcoinie-to-wstyd-Kiedy-kryptowaluty-to-blad-9090051.html",
+      "title": "Janusz Krypto: Czy 0% w bitcoinie to wstyd? Kiedy kryptowaluty to błąd? Kończymy bitcoinowe przedszkole i zapisujemy się do podstawówki. A w pierwszej klasie i na pierwszej lekcji zaczniemy od tego, kto nie powinien tu uczęszczać. W jakich sytuacjach jedyne rozsądne podejście do kryptowalut w portfelu to brak kryptowalut? Kto nie powinien brać się za bitcoina i kiedy rozsądniej trzymać się od tego rynku z daleka? Na te pytania odpowiedzieli mi zaprzyjaźnieni eksperci.",
       "content_html": "",
       "date_published": "2026-03-02T06:00:00+01:00",
       "source": "Bankier.pl"
@@ -1397,9 +1405,9 @@
       "source": "Bankier.pl"
     },
     {
-      "id": "https://www.bankier.pl/wiadomosc/Janusz-Krypto-Czy-0-w-bitcoinie-to-wstyd-Kiedy-kryptowaluty-to-blad-9090051.html",
-      "url": "https://www.bankier.pl/wiadomosc/Janusz-Krypto-Czy-0-w-bitcoinie-to-wstyd-Kiedy-kryptowaluty-to-blad-9090051.html",
-      "title": "Janusz Krypto: Czy 0% w bitcoinie to wstyd? Kiedy kryptowaluty to błąd? Kończymy bitcoinowe przedszkole i zapisujemy się do podstawówki. A w pierwszej klasie i na pierwszej lekcji zaczniemy od tego, kto nie powinien tu uczęszczać. W jakich sytuacjach jedyne rozsądne podejście do kryptowalut w portfelu to brak kryptowalut? Kto nie powinien brać się za bitcoina i kiedy rozsądniej trzymać się od tego rynku z daleka? Na te pytania odpowiedzieli mi zaprzyjaźnieni eksperci.",
+      "id": "https://www.bankier.pl/wiadomosc/Prognoza-ofert-publicznych-w-2026-r-zwiastuje-rekord-Kto-w-profesjonalny-sposob-wyssie-kapital-i-jak-kupic-nowe-akcje-9090211.html",
+      "url": "https://www.bankier.pl/wiadomosc/Prognoza-ofert-publicznych-w-2026-r-zwiastuje-rekord-Kto-w-profesjonalny-sposob-wyssie-kapital-i-jak-kupic-nowe-akcje-9090211.html",
+      "title": "Ich wejście na giełdę może wyssać kapitał i zwiastować załamanie. Kosmiczne oferty w 2026 r. mogą pobić rekord Rynek pierwszych ofert publicznych w USA może pobić w 2026 r. rekord pod względem wartości zebranego kapitału, ustanowiony pięć lat wcześniej w szczycie darmowego pieniądza, gdy wizje oparte na fundamentach z piasku zbierały miliardy dolarów. Tym razem, kolejka chętnych do giełdowego debiutu w Nowym Jorku to biznesy na miarę XXII wieku, zorientowane na kosmosie i sztucznej inteligencji. Czy pęd na giełdę oznacza, że hossa na rynku kapitałowym zmierza ku końcowi?",
       "content_html": "",
       "date_published": "2026-03-02T06:00:00+01:00",
       "source": "Bankier.pl"
