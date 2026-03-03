@@ -5,6 +5,22 @@
   "home_page_url": "https://www.bankier.pl",
   "items": [
     {
+      "id": "https://biznes.pap.pl/wiadomosci/rynki/dzien-na-rynkach-na-wall-street-spadki-dow-w-dol-o-ok-400-pkt",
+      "url": "https://biznes.pap.pl/wiadomosci/rynki/dzien-na-rynkach-na-wall-street-spadki-dow-w-dol-o-ok-400-pkt",
+      "title": "DZIEŃ NA RYNKACH: Na Wall Street spadki, Dow w dół o ok. 400 pkt.",
+      "content_html": "Wtorkowa sesja na Wall Street zakończyła się spadkami, choć ich skala zmniejszyła się w stosunku do pierwszych godzin handlu. Dow Jones stracił ok. 400 punktów. Obawy rynków pomogła złagodzić zapowied",
+      "date_published": "2026-03-03T22:16:00+01:00",
+      "source": "PAP Biznes"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Tylko-lekkie-spadki-na-Wall-Street-Iran-jednak-nie-taki-straszny-9092497.html",
+      "url": "https://www.bankier.pl/wiadomosc/Tylko-lekkie-spadki-na-Wall-Street-Iran-jednak-nie-taki-straszny-9092497.html",
+      "title": "Tylko lekkie spadki na Wall Street. Iran jednak nie taki straszny?",
+      "content_html": "Wtorkowa sesja na nowojorskich giełdach przyniosła tylko łagodne spadki głównych indeksów, choć sam początek handlu przyniósł dość głęboki regres",
+      "date_published": "2026-03-03T22:05:00+01:00",
+      "source": "Bankier.pl"
+    },
+    {
       "id": "https://biznes.pap.pl/wiadomosci/energia/mozliwa-eskorta-tankowcow-przez-ciesnine-ormuz-jesli-bedzie-konieczne-trump",
       "url": "https://biznes.pap.pl/wiadomosci/energia/mozliwa-eskorta-tankowcow-przez-ciesnine-ormuz-jesli-bedzie-konieczne-trump",
       "title": "Możliwa eskorta tankowców przez Cieśninę Ormuz, jeśli będzie to konieczne - Trump",
@@ -325,14 +341,6 @@
       "source": "Bankier.pl"
     },
     {
-      "id": "https://biznes.pap.pl/wiadomosci/ekonomia-biznes-i-finanse/skrot-wiadomosci-wtorek-3-marca-1700",
-      "url": "https://biznes.pap.pl/wiadomosci/ekonomia-biznes-i-finanse/skrot-wiadomosci-wtorek-3-marca-1700",
-      "title": "Skrót wiadomości - wtorek, 3 marca, 17.00",
-      "content_html": "Przegląd najważniejszych wiadomości gospodarczych, krajowych i ze świata.",
-      "date_published": "2026-03-03T17:00:00+01:00",
-      "source": "PAP Biznes"
-    },
-    {
       "id": "https://www.bankier.pl/wiadomosc/Olimpijczyk-przyjmie-nagrode-bez-podatku-Senat-przyjal-ustawe-bez-poprawek-9092335.html",
       "url": "https://www.bankier.pl/wiadomosc/Olimpijczyk-przyjmie-nagrode-bez-podatku-Senat-przyjal-ustawe-bez-poprawek-9092335.html",
       "title": "Olimpijczyk przyjmie nagrodę bez podatku. Senat przyjął ustawę bez poprawek",
@@ -541,6 +549,14 @@
       "source": "Bankier.pl"
     },
     {
+      "id": "https://biznes.pap.pl/wiadomosci/firmy/zuk-staporkow-zaprasza-do-skladania-ofert-sprzedazy-akcji-spolki-po-cenie-8-zlszt",
+      "url": "https://biznes.pap.pl/wiadomosci/firmy/zuk-staporkow-zaprasza-do-skladania-ofert-sprzedazy-akcji-spolki-po-cenie-8-zlszt",
+      "title": "ZUK Stąporków zaprasza do składania ofert sprzedaży akcji spółki po cenie 8 zł/szt.",
+      "content_html": "ZUK Stąporków rozpoczyna skup akcji własnych i zaprasza do składania ofert sprzedaży do 325.190 akcji spółki po cenie 8 zł/szt. - poinformowała spółka.",
+      "date_published": "2026-03-03T14:38:00+01:00",
+      "source": "PAP Biznes"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/ZEA-uderzaja-w-Bloomberga-Nasze-zapasy-nie-sa-wyczerpane-9092221.html",
       "url": "https://www.bankier.pl/wiadomosc/ZEA-uderzaja-w-Bloomberga-Nasze-zapasy-nie-sa-wyczerpane-9092221.html",
       "title": "ZEA uderzają w Bloomberga. \"Nasze zapasy nie są wyczerpane\"",
@@ -731,6 +747,14 @@
       "content_html": "Polskie Linie Lotnicze LOT odwołały rejsy do Dubaju do 6 marca, a do Rijadu do 8 marca - poinformował we wtorek rzecznik narodowego przewoźnika Krzysztof Moczulski. Dodał, że połączenia do Tel Awiwu pozostają zawieszone do 18 marca włącznie...",
       "date_published": "2026-03-03T13:10:00+01:00",
       "source": "Bankier.pl"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/firmy/azoty-wstrzymuja-zamowienia-na-nawozy-azotowe-ale-moce-produkcyjne-wykorzystywane",
+      "url": "https://biznes.pap.pl/wiadomosci/firmy/azoty-wstrzymuja-zamowienia-na-nawozy-azotowe-ale-moce-produkcyjne-wykorzystywane",
+      "title": "Azoty wstrzymują zamówienia na nawozy azotowe, ale moce produkcyjne wykorzystywane są maksymalnie",
+      "content_html": "Grupa Azoty wstrzymała przyjmowanie nowych zamówień na nawozy azotowe z powodu skokowego wzrostu cen gazu, ale produkcja nie została wstrzymana. Zakłady pracują z wykorzystaniem maksymalnych mocy prod",
+      "date_published": "2026-03-03T13:10:00+01:00",
+      "source": "PAP Biznes"
     },
     {
       "id": "https://biznes.pap.pl/wiadomosci/gospodarka/wsparcie-inwestycji-prywatnych-kluczowe-dla-utrzymania-tempa-wzrostu",
@@ -1157,14 +1181,6 @@
       "source": "PAP Biznes"
     },
     {
-      "id": "https://www.bankier.pl/wiadomosc/Aneks-do-raportu-WSI-Slawomir-Cenckiewicz-ujawnia-termin-Prezydent-dostanie-specjalna-wersje-9092010.html",
-      "url": "https://www.bankier.pl/wiadomosc/Aneks-do-raportu-WSI-Slawomir-Cenckiewicz-ujawnia-termin-Prezydent-dostanie-specjalna-wersje-9092010.html",
-      "title": "Aneks do raportu WSI. Sławomir Cenckiewicz ujawnia termin. „Prezydent dostanie specjalną wersję”",
-      "content_html": "W marcu prezydent Karol Nawrocki dostanie taką wersję aneksu do raportu weryfikacyjnego WSI, która pozwoli mu podjąć decyzję o ujawnieniu aneksu - zapowiedział szef BBN Sławomir Cenckiewicz. Wersja ta musiała zostać w pewnym stopniu „zanonimizowana”...",
-      "date_published": "2026-03-03T09:47:00+01:00",
-      "source": "Bankier.pl"
-    },
-    {
       "id": "https://biznes.pap.pl/wiadomosci/rynki/glowne-indeksy-spadaja-przewaznie-po-ok-3-proc-silniejszy-indeks-swig80",
       "url": "https://biznes.pap.pl/wiadomosci/rynki/glowne-indeksy-spadaja-przewaznie-po-ok-3-proc-silniejszy-indeks-swig80",
       "title": "Główne indeksy spadają przeważnie po ok. 3 proc; silniejszy indeks sWIG80",
@@ -1475,22 +1491,6 @@
       "content_html": "",
       "date_published": "2026-03-02T22:56:00+01:00",
       "source": "Bankier.pl"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/rynki/dzien-na-rynkach-gieldy-w-usa-koncza-dzien-z-malymi-zmianami-0",
-      "url": "https://biznes.pap.pl/wiadomosci/rynki/dzien-na-rynkach-gieldy-w-usa-koncza-dzien-z-malymi-zmianami-0",
-      "title": "DZIEŃ NA RYNKACH: Giełdy w USA kończą dzień z małymi zmianami",
-      "content_html": "Poniedziałkowa sesja na Wall Stret zakończyła się niewielkimi zmianami głównych indeksów. Akcje początkowo spadały na fali obaw o konsekwencje wojny USA z Iranem, ale w drugiej części dnia inwestorzy ",
-      "date_published": "2026-03-02T22:18:00+01:00",
-      "source": "PAP Biznes"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/energia/iran-twierdzi-ze-ciesnina-ormuz-zostala-zamknieta-zapowiada-ataki-na",
-      "url": "https://biznes.pap.pl/wiadomosci/energia/iran-twierdzi-ze-ciesnina-ormuz-zostala-zamknieta-zapowiada-ataki-na",
-      "title": "Iran twierdzi, że Cieśnina Ormuz została zamknięta, zapowiada ataki na przepływające statki",
-      "content_html": "Iran twierdzi, że Cieśnina Ormuz została zamknięta i ostrzega, że zaatakuje statki próbujące ją przepłynąć - poinformowała agencja Reuters, powołując się na irańskie media.",
-      "date_published": "2026-03-02T21:58:00+01:00",
-      "source": "PAP Biznes"
     }
   ]
 }
