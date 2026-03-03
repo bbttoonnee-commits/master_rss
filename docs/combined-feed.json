@@ -5,6 +5,22 @@
   "home_page_url": "https://www.bankier.pl",
   "items": [
     {
+      "id": "https://biznes.pap.pl/wiadomosci/energia/mozliwa-eskorta-tankowcow-przez-ciesnine-ormuz-jesli-bedzie-konieczne-trump",
+      "url": "https://biznes.pap.pl/wiadomosci/energia/mozliwa-eskorta-tankowcow-przez-ciesnine-ormuz-jesli-bedzie-konieczne-trump",
+      "title": "Możliwa eskorta tankowców przez Cieśninę Ormuz, jeśli będzie to konieczne - Trump",
+      "content_html": "Prezydent USA Donald Trump poinformował we wtorek, że jeśli będzie to konieczne, siły amerykańskiej marynarki wojennej będą eskortować tankowce przez Cieśninę Ormuz. Powiadomił też o udostępnieniu ame",
+      "date_published": "2026-03-03T21:17:00+01:00",
+      "source": "PAP Biznes"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/ekonomia-biznes-i-finanse/skrot-wiadomosci-wtorek-3-marca-2100",
+      "url": "https://biznes.pap.pl/wiadomosci/ekonomia-biznes-i-finanse/skrot-wiadomosci-wtorek-3-marca-2100",
+      "title": "Skrót wiadomości - wtorek, 3 marca, 21.00",
+      "content_html": "Przegląd najważniejszych wiadomości gospodarczych, krajowych i ze świata.",
+      "date_published": "2026-03-03T21:01:00+01:00",
+      "source": "PAP Biznes"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Handlowy-wstrzas-w-Europie-Trump-zrywa-kontakty-z-Hiszpania-i-uderza-w-Londyn-9092411.html",
       "url": "https://www.bankier.pl/wiadomosc/Handlowy-wstrzas-w-Europie-Trump-zrywa-kontakty-z-Hiszpania-i-uderza-w-Londyn-9092411.html",
       "title": "Handlowy wstrząs w Europie. Trump zrywa kontakty z Hiszpanią i uderza w Londyn",
@@ -333,14 +349,6 @@
       "source": "Bankier.pl"
     },
     {
-      "id": "https://biznes.pap.pl/wiadomosci/gospodarka/euro-w-ebc-11606-usd-i-18298-jpy",
-      "url": "https://biznes.pap.pl/wiadomosci/gospodarka/euro-w-ebc-11606-usd-i-18298-jpy",
-      "title": "Euro w EBC: 1,1606 USD i 182,98 JPY",
-      "content_html": "Europejski Bank Centralny (EBC) ustalił kurs euro na 1,1606 USD i 182,98 JPY - podał bank na swojej stronie internetowej.",
-      "date_published": "2026-03-03T16:46:00+01:00",
-      "source": "PAP Biznes"
-    },
-    {
       "id": "https://www.bankier.pl/wiadomosc/Ambasada-USA-w-Arabii-Saudyjskiej-trafiona-przez-iranskie-drony-Trump-zapowiedzial-odwet-9091923.html",
       "url": "https://www.bankier.pl/wiadomosc/Ambasada-USA-w-Arabii-Saudyjskiej-trafiona-przez-iranskie-drony-Trump-zapowiedzial-odwet-9091923.html",
       "title": "Ambasada USA w Arabii Saudyjskiej trafiona przez irańskie drony. Trump zapowiedział odwet",
@@ -363,14 +371,6 @@
       "content_html": "Trzej lekarze oskarżeni w związku ze śmiercią ciężarnej Izabeli, która zmarła w 2021 r. w szpitalu w Pszczynie, zostali we wtorek skazani na kary bezwzględnego więzienia - od roku do półtora roku - oraz kilkuletnie zakazy wykonywania zawodu...",
       "date_published": "2026-03-03T16:30:00+01:00",
       "source": "Bankier.pl"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/gospodarka/konflikt-w-iranie-moze-oznaczac-wyzsza-inflacje-mniej-ciec-stop-w-cee-erste",
-      "url": "https://biznes.pap.pl/wiadomosci/gospodarka/konflikt-w-iranie-moze-oznaczac-wyzsza-inflacje-mniej-ciec-stop-w-cee-erste",
-      "title": "Konflikt w Iranie może oznaczać wyższą inflację, mniej cięć stóp w CEE - Erste (opinia)",
-      "content_html": "Atak USA i Izraela na Iran może oznaczać ryzyko wyższej inflacji w krajach regionu Europy Środkowo-Wschodniej, zaś przedłużający się okres podwyższonych cen ropy i gazu może ograniczyć przestrzeń do l",
-      "date_published": "2026-03-03T16:30:00+01:00",
-      "source": "PAP Biznes"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Koniec-z-podatkowym-chaosem-w-gminach-Interpretacje-wojtow-trafia-do-bazy-9092313.html",
@@ -549,12 +549,28 @@
       "source": "Bankier.pl"
     },
     {
+      "id": "https://biznes.pap.pl/wiadomosci/firmy/pej-przenosi-swoja-glowna-siedzibe-na-pomorze-opis",
+      "url": "https://biznes.pap.pl/wiadomosci/firmy/pej-przenosi-swoja-glowna-siedzibe-na-pomorze-opis",
+      "title": "PEJ przenosi swoją główną siedzibę na Pomorze (opis)",
+      "content_html": "W związku z postępem prac inwestycyjnych spółka Polskie Elektrownie Jądrowe otworzyła biuro w Gdańsku i zdecydowała o przeniesieniu głównej siedziby na Pomorze - poinformował PEJ w informacji prasowej",
+      "date_published": "2026-03-03T14:37:00+01:00",
+      "source": "PAP Biznes"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Trump-Iran-chce-rozmawiac-ale-powiedzialem-im-za-pozno-9092217.html",
       "url": "https://www.bankier.pl/wiadomosc/Trump-Iran-chce-rozmawiac-ale-powiedzialem-im-za-pozno-9092217.html",
       "title": "Trump: Iran chce rozmawiać, ale powiedziałem im \"Za późno\"",
       "content_html": "Iran chce rozmawiać, ale powiedziałem im, że jest za późno - oznajmił prezydent USA Donald Trump w nowym wpisie we wtorek. Trump ogłosił, że irańska obrona powietrzna, siły powietrzne, marynarka i dowództwo zostały zniszczone.",
       "date_published": "2026-03-03T14:33:00+01:00",
       "source": "Bankier.pl"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/firmy/koronea-family-office-przejmuje-51-proc-udzialow-w-tureckim-atlas-trafo",
+      "url": "https://biznes.pap.pl/wiadomosci/firmy/koronea-family-office-przejmuje-51-proc-udzialow-w-tureckim-atlas-trafo",
+      "title": "Koronea Family Office przejmuje 51 proc. udziałów w tureckim Atlas Trafo",
+      "content_html": "Koronea Family Office, firma inwestycyjna Rodziny Wypychewicz, przejmuje 51 proc. udziałów w Atlas Trafo, tureckim producencie transformatorów - podała spółka w komunikacie prasowym. Wartość transakcj",
+      "date_published": "2026-03-03T14:28:00+01:00",
+      "source": "PAP Biznes"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Orlen-uzyje-narzedzi-w-tym-dot-marzy-aby-wzrosty-cen-ropy-nie-odbily-sie-mocno-na-cenach-paliw-premier-9092161.html",
@@ -715,14 +731,6 @@
       "content_html": "Polskie Linie Lotnicze LOT odwołały rejsy do Dubaju do 6 marca, a do Rijadu do 8 marca - poinformował we wtorek rzecznik narodowego przewoźnika Krzysztof Moczulski. Dodał, że połączenia do Tel Awiwu pozostają zawieszone do 18 marca włącznie...",
       "date_published": "2026-03-03T13:10:00+01:00",
       "source": "Bankier.pl"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/firmy/azoty-wstrzymuja-zamowienia-na-nawozy-azotowe-ale-moce-produkcyjne-wykorzystywane",
-      "url": "https://biznes.pap.pl/wiadomosci/firmy/azoty-wstrzymuja-zamowienia-na-nawozy-azotowe-ale-moce-produkcyjne-wykorzystywane",
-      "title": "Azoty wstrzymują zamówienia na nawozy azotowe, ale moce produkcyjne wykorzystywane są maksymalnie",
-      "content_html": "Grupa Azoty wstrzymała przyjmowanie nowych zamówień na nawozy azotowe z powodu skokowego wzrostu cen gazu, ale produkcja nie została wstrzymana. Zakłady pracują z wykorzystaniem maksymalnych mocy prod",
-      "date_published": "2026-03-03T13:10:00+01:00",
-      "source": "PAP Biznes"
     },
     {
       "id": "https://biznes.pap.pl/wiadomosci/gospodarka/wsparcie-inwestycji-prywatnych-kluczowe-dla-utrzymania-tempa-wzrostu",
@@ -1482,30 +1490,6 @@
       "title": "Iran twierdzi, że Cieśnina Ormuz została zamknięta, zapowiada ataki na przepływające statki",
       "content_html": "Iran twierdzi, że Cieśnina Ormuz została zamknięta i ostrzega, że zaatakuje statki próbujące ją przepłynąć - poinformowała agencja Reuters, powołując się na irańskie media.",
       "date_published": "2026-03-02T21:58:00+01:00",
-      "source": "PAP Biznes"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Grupa-Azoty-z-powodu-skokowego-wzrostu-cen-gazu-wstrzymala-nowe-zamowienia-na-nawozy-9091828.html",
-      "url": "https://www.bankier.pl/wiadomosc/Grupa-Azoty-z-powodu-skokowego-wzrostu-cen-gazu-wstrzymala-nowe-zamowienia-na-nawozy-9091828.html",
-      "title": "Grupa Azoty wstrzymała nowe zamówienia na nawozy. Powodem skokowy wzrost cen gazu Grupa Azoty z uwagi na skokowy wzrost cen gazu zdecydowała o czasowym wstrzymaniu nowych zamówień na swoje nawozy azotowe - poinformował PAP Biznes Grzegorz Kulik, rzecznik prasowy Grupy Azoty.",
-      "content_html": "",
-      "date_published": "2026-03-02T21:28:00+01:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/firmy/grupa-azoty-z-powodu-skokowego-wzrostu-cen-gazu-wstrzymala-nowe-zamowienia-na",
-      "url": "https://biznes.pap.pl/wiadomosci/firmy/grupa-azoty-z-powodu-skokowego-wzrostu-cen-gazu-wstrzymala-nowe-zamowienia-na",
-      "title": "Grupa Azoty z powodu skokowego wzrostu cen gazu wstrzymała nowe zamówienia na nawozy",
-      "content_html": "Grupa Azoty z uwagi na skokowy wzrost cen gazu zdecydowała o czasowym wstrzymaniu nowych zamówień na swoje nawozy azotowe - poinformował PAP Biznes Grzegorz Kulik, rzecznik prasowy Grupy Azoty.",
-      "date_published": "2026-03-02T21:27:00+01:00",
-      "source": "PAP Biznes"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/ekonomia-biznes-i-finanse/skrot-wiadomosci-poniedzialek-2-marca-2100",
-      "url": "https://biznes.pap.pl/wiadomosci/ekonomia-biznes-i-finanse/skrot-wiadomosci-poniedzialek-2-marca-2100",
-      "title": "Skrót wiadomości - poniedziałek, 2 marca, 21.00",
-      "content_html": "Przegląd najważniejszych wiadomości gospodarczych, krajowych i ze świata.",
-      "date_published": "2026-03-02T21:02:00+01:00",
       "source": "PAP Biznes"
     }
   ]
