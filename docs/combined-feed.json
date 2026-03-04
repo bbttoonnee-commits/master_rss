@@ -5,11 +5,27 @@
   "home_page_url": "https://www.bankier.pl",
   "items": [
     {
+      "id": "https://biznes.pap.pl/wiadomosci/ekonomia-biznes-i-finanse/skrot-wiadomosci-sroda-4-marca-2110",
+      "url": "https://biznes.pap.pl/wiadomosci/ekonomia-biznes-i-finanse/skrot-wiadomosci-sroda-4-marca-2110",
+      "title": "Skrót wiadomości - środa, 4 marca, 21.10",
+      "content_html": "Przegląd najważniejszych wiadomości gospodarczych, krajowych i ze świata.",
+      "date_published": "2026-03-04T21:10:00+01:00",
+      "source": "PAP Biznes"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Paraliz-izraelskiej-gospodarki-Wojna-z-Iranem-kosztuje-3-mld-dolarow-tygodniowo-9093146.html",
       "url": "https://www.bankier.pl/wiadomosc/Paraliz-izraelskiej-gospodarki-Wojna-z-Iranem-kosztuje-3-mld-dolarow-tygodniowo-9093146.html",
       "title": "Paraliż izraelskiej gospodarki? Wojna z Iranem kosztuje 3 mld dolarów tygodniowo",
       "content_html": "Ministerstwo gospodarki Izraela poinformowało w środę, że straty gospodarki z powodu trwającej wojny z Iranem mogą sięgnąć 9,4 mld szekli tygodniowo, czyli ponad 3 mld dolarów.",
       "date_published": "2026-03-04T20:18:00+01:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Iran-odciaga-uwage-od-Ukrainy-Sikorski-i-Kallas-Bliski-Wschod-nie-moze-przeslonic-tragedii-9093166.html",
+      "url": "https://www.bankier.pl/wiadomosc/Iran-odciaga-uwage-od-Ukrainy-Sikorski-i-Kallas-Bliski-Wschod-nie-moze-przeslonic-tragedii-9093166.html",
+      "title": "Iran odciąga uwagę od Ukrainy. Sikorski i Kallas: Bliski Wschód nie może przesłonić tragedii",
+      "content_html": "Amerykańsko-rosyjskie negocjacje wobec Ukrainy to musi być proces, dzięki któremu Ukraina będzie w bezpiecznych granicach i będzie mogła negocjować swoje członkostwo w Unii Europejskiej – powiedział w środę wicepremier, szef MSZ Radosław...",
+      "date_published": "2026-03-04T20:12:00+01:00",
       "source": "Bankier.pl"
     },
     {
@@ -269,14 +285,6 @@
       "source": "Bankier.pl"
     },
     {
-      "id": "https://biznes.pap.pl/wiadomosci/firmy/zysk-netto-sektora-bankowego-w-i-26-wyniosl-308-mld-zl-spadl-o-23-proc-rdr-nbp-0",
-      "url": "https://biznes.pap.pl/wiadomosci/firmy/zysk-netto-sektora-bankowego-w-i-26-wyniosl-308-mld-zl-spadl-o-23-proc-rdr-nbp-0",
-      "title": "Zysk netto sektora bankowego w I '26 wyniósł 3,08 mld zł, spadł o 23 proc. rdr - NBP (opis)",
-      "content_html": "Zysk netto sektora bankowego w styczniu 2026 roku wyniósł 3,08 mld zł, czyli spadł o 23 proc. rdr - poinformował Narodowy Bank Polski.",
-      "date_published": "2026-03-04T16:15:00+01:00",
-      "source": "PAP Biznes"
-    },
-    {
       "id": "https://www.bankier.pl/wiadomosc/Stopy-procentowe-w-dol-RPP-reaguje-na-spadajaca-dynamike-plac-i-slabszy-przemysl-9092986.html",
       "url": "https://www.bankier.pl/wiadomosc/Stopy-procentowe-w-dol-RPP-reaguje-na-spadajaca-dynamike-plac-i-slabszy-przemysl-9092986.html",
       "title": "Stopy procentowe w dół. RPP reaguje na spadającą dynamikę płac i słabszy przemysł",
@@ -363,6 +371,14 @@
       "content_html": "Była prezes fundacji Orlen Katarzyna R. usłyszała zarzuty wyrządzenia szkody majątkowej w kwocie blisko 4,7 mln zł. Pieniądze te m.in. były przeznaczone na kampanię polityczną PiS promującą referendum 4 X NIE i przedstawiającą w negatywnym...",
       "date_published": "2026-03-04T15:15:00+01:00",
       "source": "Bankier.pl"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/przemysl/ke-zaproponowala-wymog-wyprodukowano-w-ue-promowac-europejski-przemysl",
+      "url": "https://biznes.pap.pl/wiadomosci/przemysl/ke-zaproponowala-wymog-wyprodukowano-w-ue-promowac-europejski-przemysl",
+      "title": "KE zaproponowała wymóg „Wyprodukowano w UE”, by promować europejski przemysł",
+      "content_html": "KE zaproponowała w środę wprowadzenie do zamówień publicznych i innych mechanizmów wsparcia publicznego wymogu „Wyprodukowano w UE” (Made in EU). Zgodnie z nim komponenty zamawianych towarów mają być ",
+      "date_published": "2026-03-04T15:08:00+01:00",
+      "source": "PAP Biznes"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Decyzja-RPP-w-marcu-2026-Rada-jednak-sciela-stopy-procentowe-9092728.html",
@@ -730,6 +746,14 @@
       "title": "mObywatel wchodzi do Europy. Krzysztof Gawkowski zapowiada przełom",
       "content_html": "Będziemy rozwijali mObywatela, wzbogacając go o wersję europejską - zapowiedział w środę wicepremier, minister cyfryzacji Krzysztof Gawkowski. Dodał, że do aplikacji zostanie zaimplementowany europejski portfel tożsamości cyfrowej.",
       "date_published": "2026-03-04T12:21:00+01:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Izrael-wzywa-cywilow-do-ewakuacji-z-poludniowego-Libanu-9092774.html",
+      "url": "https://www.bankier.pl/wiadomosc/Izrael-wzywa-cywilow-do-ewakuacji-z-poludniowego-Libanu-9092774.html",
+      "title": "Izrael wzywa cywilów do ewakuacji z południowego Libanu",
+      "content_html": "Izraelskie siły zbrojne (IDF) przekazały w środę, że w związku z trwającymi walkami z organizacją Hezbollah cywile z całego południowego Libanu powinni ewakuować się na północ od rzeki Litani.",
+      "date_published": "2026-03-04T12:13:00+01:00",
       "source": "Bankier.pl"
     },
     {
@@ -1301,6 +1325,14 @@
       "source": "Bankier.pl"
     },
     {
+      "id": "https://www.bankier.pl/wiadomosc/UOKiK-interweniuje-Czy-Polskie-Sieci-Elektroenergetyczne-dyskryminowaly-producentow-9092599.html",
+      "url": "https://www.bankier.pl/wiadomosc/UOKiK-interweniuje-Czy-Polskie-Sieci-Elektroenergetyczne-dyskryminowaly-producentow-9092599.html",
+      "title": "UOKiK interweniuje. Czy Polskie Sieci Elektroenergetyczne dyskryminowały producentów? Prezes UOKiK Tomasz Chróstny wszczął postępowanie wyjaśniające dotyczące praktyk Polskich Sieci Elektroenergetycznych - podał UOKiK w komunikacie. Wskazano, że wątpliwości budzi sposób realizacji mechanizmu redysponowania jednostkami wytwórczymi energii ze źródeł odnawialnych i magazynami energii.",
+      "content_html": "",
+      "date_published": "2026-03-04T08:14:00+01:00",
+      "source": "Bankier.pl"
+    },
+    {
       "id": "https://biznes.pap.pl/wiadomosci/firmy/uokik-wszczal-postepowanie-wyjasniajace-dotyczace-praktyk-polskich-sieci",
       "url": "https://biznes.pap.pl/wiadomosci/firmy/uokik-wszczal-postepowanie-wyjasniajace-dotyczace-praktyk-polskich-sieci",
       "title": "UOKiK wszczął postępowanie wyjaśniające dotyczące praktyk Polskich Sieci Elektroenergetycznych",
@@ -1333,6 +1365,14 @@
       "source": "PAP Biznes"
     },
     {
+      "id": "https://www.bankier.pl/wiadomosc/Miliony-na-propagande-PiS-Fundacja-Orlen-placila-za-polityke-9092570.html",
+      "url": "https://www.bankier.pl/wiadomosc/Miliony-na-propagande-PiS-Fundacja-Orlen-placila-za-polityke-9092570.html",
+      "title": "\"Miliony na propagandę PiS\". Fundacja Orlen płaciła za politykę? Fundacja Orlenu przekazała ponad 4,6 mln zł na kampanię promującą referendum 4XNIE, mające pomóc PiS w wygraniu wyborów w 2023 r.; teraz prokuratura zabezpieczyła cztery nieruchomości byłej prezeski fundacji, która akceptowała fakt, że pieniądze przeznaczono niezgodnie z celem - informuje w środę „Gazeta Wyborcza\".",
+      "content_html": "",
+      "date_published": "2026-03-04T07:18:00+01:00",
+      "source": "Bankier.pl"
+    },
+    {
       "id": "https://biznes.pap.pl/wiadomosci/ekonomia-biznes-i-finanse/przewidywane-najwazniejsze-wydarzenia-gospodarcze-2026-03-04",
       "url": "https://biznes.pap.pl/wiadomosci/ekonomia-biznes-i-finanse/przewidywane-najwazniejsze-wydarzenia-gospodarcze-2026-03-04",
       "title": "Przewidywane najważniejsze wydarzenia gospodarcze 2026-03-04",
@@ -1355,6 +1395,14 @@
       "content_html": "Kalendarium rynku kapitałowego GPW 2026-03-04 - 2026-03-10",
       "date_published": "2026-03-04T07:00:00+01:00",
       "source": "PAP Biznes"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Robyg-mial-w-2025-r-ponad-1-5-mld-zl-przychodow-ze-sprzedazy-9092571.html",
+      "url": "https://www.bankier.pl/wiadomosc/Robyg-mial-w-2025-r-ponad-1-5-mld-zl-przychodow-ze-sprzedazy-9092571.html",
+      "title": "Robyg miał w 2025 r. ponad 1,5 mld zł przychodów ze sprzedaży W 2025 roku Robyg z grupy TAG Immobilien zanotował przychody ze sprzedaży na poziomie ponad 1,5 mld zł, co oznacza wzrost o 15 proc. rdr, podczas gdy marża brutto ze sprzedaży wyniosła blisko 378 mln zł - podał Robyg w komunikacie prasowym.",
+      "content_html": "",
+      "date_published": "2026-03-04T06:50:00+01:00",
+      "source": "Bankier.pl"
     },
     {
       "id": "https://biznes.pap.pl/wiadomosci/firmy/robyg-mial-w-2025-r-ponad-15-mld-zl-przychodow-ze-sprzedazy",
@@ -1397,20 +1445,12 @@
       "source": "PAP Biznes"
     },
     {
-      "id": "https://biznes.pap.pl/wiadomosci/energia/mozliwa-eskorta-tankowcow-przez-ciesnine-ormuz-jesli-bedzie-konieczne-trump",
-      "url": "https://biznes.pap.pl/wiadomosci/energia/mozliwa-eskorta-tankowcow-przez-ciesnine-ormuz-jesli-bedzie-konieczne-trump",
-      "title": "Możliwa eskorta tankowców przez Cieśninę Ormuz, jeśli będzie to konieczne - Trump",
-      "content_html": "Prezydent USA Donald Trump poinformował we wtorek, że jeśli będzie to konieczne, siły amerykańskiej marynarki wojennej będą eskortować tankowce przez Cieśninę Ormuz. Powiadomił też o udostępnieniu ame",
-      "date_published": "2026-03-03T21:17:00+01:00",
-      "source": "PAP Biznes"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/ekonomia-biznes-i-finanse/skrot-wiadomosci-wtorek-3-marca-2100",
-      "url": "https://biznes.pap.pl/wiadomosci/ekonomia-biznes-i-finanse/skrot-wiadomosci-wtorek-3-marca-2100",
-      "title": "Skrót wiadomości - wtorek, 3 marca, 21.00",
-      "content_html": "Przegląd najważniejszych wiadomości gospodarczych, krajowych i ze świata.",
-      "date_published": "2026-03-03T21:01:00+01:00",
-      "source": "PAP Biznes"
+      "id": "https://www.bankier.pl/wiadomosc/Tylko-lekkie-spadki-na-Wall-Street-Iran-jednak-nie-taki-straszny-9092497.html",
+      "url": "https://www.bankier.pl/wiadomosc/Tylko-lekkie-spadki-na-Wall-Street-Iran-jednak-nie-taki-straszny-9092497.html",
+      "title": "Tylko lekkie spadki na Wall Street. Iran jednak nie taki straszny? Wtorkowa sesja na nowojorskich giełdach przyniosła tylko łagodne spadki głównych indeksów, choć sam początek handlu przyniósł dość głęboki regres",
+      "content_html": "",
+      "date_published": "2026-03-03T22:05:00+01:00",
+      "source": "Bankier.pl"
     }
   ]
 }
