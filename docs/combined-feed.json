@@ -5,11 +5,19 @@
   "home_page_url": "https://www.bankier.pl",
   "items": [
     {
-      "id": "https://biznes.pap.pl/wiadomosci/firmy/zasoby-powierzchni-magazynowej-pod-koniec-25-wyniosly-366-mln-m-kw-wzrosly-6-proc",
-      "url": "https://biznes.pap.pl/wiadomosci/firmy/zasoby-powierzchni-magazynowej-pod-koniec-25-wyniosly-366-mln-m-kw-wzrosly-6-proc",
-      "title": "Zasoby powierzchni magazynowej pod koniec '25 wyniosły 36,6 mln m kw., wzrosły 6 proc. rdr - AXI IMMO",
-      "content_html": "Całkowite zasoby nowoczesnej powierzchni magazynowej na koniec grudnia 2025 r. wyniosły 36,58 mln m kw., czyli wzrosły 6 proc. rdr. Nowa podaż w 2025 r. spadła do 1,68 mln m kw., czyli o 35 proc. rdr,",
-      "date_published": "2026-03-04T18:28:00+01:00",
+      "id": "https://biznes.pap.pl/wiadomosci/firmy/senat-przyjal-bez-poprawek-nowelizacje-ustawy-o-rachunkowosci",
+      "url": "https://biznes.pap.pl/wiadomosci/firmy/senat-przyjal-bez-poprawek-nowelizacje-ustawy-o-rachunkowosci",
+      "title": "Senat przyjął bez poprawek nowelizację ustawy o rachunkowości",
+      "content_html": "W środę Senat przyjął bez poprawek nowelizację ustawy o rachunkowości. Jej celem jest zwolnienie części firm z raportowania ESG za 2025 i 2026 r. Ustawa trafi teraz do prezydenta do podpisu.",
+      "date_published": "2026-03-04T19:32:00+01:00",
+      "source": "PAP Biznes"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/gospodarka/prezydent-i-prezes-nbp-omawiali-program-safe-0-proc-finansowany-z-pomoca-nbp",
+      "url": "https://biznes.pap.pl/wiadomosci/gospodarka/prezydent-i-prezes-nbp-omawiali-program-safe-0-proc-finansowany-z-pomoca-nbp",
+      "title": "Prezydent i prezes NBP omawiali program SAFE 0 proc. finansowany z pomocą NBP (opis)",
+      "content_html": "Prezydent Karol Nawrocki i prezes NBP Adam Glapiński omawiali w środę alternatywę dla unijnego programu SAFE - krajowy program SAFE 0 proc., który miałby być finansowany z pomocą banku centralnego. Pr",
+      "date_published": "2026-03-04T19:05:00+01:00",
       "source": "PAP Biznes"
     },
     {
@@ -17,8 +25,48 @@
       "url": "https://www.bankier.pl/wiadomosc/Prezydent-ma-alternatywe-Proponuje-rzadowi-SAFE-0-procent-Sfinansuje-go-NBP-9093053.html",
       "title": "Prezydent ma alternatywę. Proponuje rządowi \"SAFE 0 procent\". Sfinansuje go NBP?",
       "content_html": "Znalezienie korzystnej, suwerennej, bezpiecznej, dobrej i efektywnej alternatywy dla programu SAFE było tematem spotkania z prezesem NBP Adamem Glapińskim - powiedział prezydent Karol Nawrocki po spotkaniu z prezesem NBP.",
-      "date_published": "2026-03-04T18:22:00+01:00",
+      "date_published": "2026-03-04T19:03:00+01:00",
       "source": "Bankier.pl"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Asseco-BS-planuje-wyplacic-3-75-zl-dywidendy-na-akcje-9093124.html",
+      "url": "https://www.bankier.pl/wiadomosc/Asseco-BS-planuje-wyplacic-3-75-zl-dywidendy-na-akcje-9093124.html",
+      "title": "Asseco BS planuje wypłacić 3,75 zł dywidendy na akcję",
+      "content_html": "Zarząd i rada nadzorcza Asseco Business Solutions rekomendują walnemu zgromadzeniu wypłatę dywidendy w wysokości 3,75 zł na akcję - podała spółka w komunikacie. Łącznie na ten cel ma trafić 125,32 mln zł.",
+      "date_published": "2026-03-04T18:58:00+01:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/firmy/asseco-bs-planuje-wyplacic-375-zl-dywidendy-na-akcje",
+      "url": "https://biznes.pap.pl/wiadomosci/firmy/asseco-bs-planuje-wyplacic-375-zl-dywidendy-na-akcje",
+      "title": "Asseco BS planuje wypłacić 3,75 zł dywidendy na akcję",
+      "content_html": "Zarząd i rada nadzorcza Asseco Business Solutions rekomendują walnemu zgromadzeniu wypłatę dywidendy w wysokości 3,75 zł na akcję - podała spółka w komunikacie. Łącznie na ten cel ma trafić 125,32 mln",
+      "date_published": "2026-03-04T18:56:00+01:00",
+      "source": "PAP Biznes"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Efekt-szczytu-Trump-Merz-USA-wylaczaja-niemiecki-oddzial-Rosnieftu-z-sankcji-9093119.html",
+      "url": "https://www.bankier.pl/wiadomosc/Efekt-szczytu-Trump-Merz-USA-wylaczaja-niemiecki-oddzial-Rosnieftu-z-sankcji-9093119.html",
+      "title": "Efekt szczytu Trump-Merz. USA wyłączają niemiecki oddział Rosnieftu z sankcji",
+      "content_html": "Bloomberg poinformował w środę, że rząd Stanów Zjednoczonych zgodził się wyłączyć niemiecką spółkę zależną rosyjskiego koncernu paliwowego Rosnieft z sankcji nałożonych przez Waszyngton na Rosję. We wtorek kanclerz Niemiec Friedrich...",
+      "date_published": "2026-03-04T18:51:00+01:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Spor-o-definicje-konfliktu-Mike-Johnson-USA-nie-sa-w-stanie-wojny-z-Iranem-9093113.html",
+      "url": "https://www.bankier.pl/wiadomosc/Spor-o-definicje-konfliktu-Mike-Johnson-USA-nie-sa-w-stanie-wojny-z-Iranem-9093113.html",
+      "title": "Spór o definicję konfliktu. Mike Johnson: USA nie są w stanie wojny z Iranem",
+      "content_html": "Przewodniczący Izby Reprezentantów Mike Johnson powiedział w środę, że Stany Zjednoczone nie są w stanie wojny z Iranem, lecz prowadzą „bardzo konkretną, jasną misję i operację”. Słowa te padły przed głosowaniami w Kongresie na temat...",
+      "date_published": "2026-03-04T18:43:00+01:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/firmy/zasoby-powierzchni-magazynowej-pod-koniec-25-wyniosly-366-mln-m-kw-wzrosly-6-proc",
+      "url": "https://biznes.pap.pl/wiadomosci/firmy/zasoby-powierzchni-magazynowej-pod-koniec-25-wyniosly-366-mln-m-kw-wzrosly-6-proc",
+      "title": "Zasoby powierzchni magazynowej pod koniec '25 wyniosły 36,6 mln m kw., wzrosły 6 proc. rdr - AXI IMMO",
+      "content_html": "Całkowite zasoby nowoczesnej powierzchni magazynowej na koniec grudnia 2025 r. wyniosły 36,58 mln m kw., czyli wzrosły 6 proc. rdr. Nowa podaż w 2025 r. spadła do 1,68 mln m kw., czyli o 35 proc. rdr,",
+      "date_published": "2026-03-04T18:28:00+01:00",
+      "source": "PAP Biznes"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Shahedy-wyzwaniem-dla-USA-Obrona-powietrzna-nie-wylapie-wszystkich-9093024.html",
@@ -59,6 +107,14 @@
       "content_html": "Poniżej przedstawiono wyniki Asseco Business Solutions w czwartym kwartale 2025 roku, według wyliczeń PAP Biznes, oraz ich odniesienie do konsensusu PAP Biznes i wcześniejszych wyników.",
       "date_published": "2026-03-04T17:58:00+01:00",
       "source": "PAP Biznes"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Ciesnina-Ormuz-zamarla-Iranczycy-blokuja-ruch-a-amerykanie-niszcza-okrety-9093057.html",
+      "url": "https://www.bankier.pl/wiadomosc/Ciesnina-Ormuz-zamarla-Iranczycy-blokuja-ruch-a-amerykanie-niszcza-okrety-9093057.html",
+      "title": "Cieśnina Ormuz zamarła. Irańczycy blokują ruch, a amerykanie niszczą okręty",
+      "content_html": "Ruch tankowców przez cieśninę Ormuz, zablokowaną przez Iran po amerykańsko-izraelskim ataku, spadł o 90 proc. w ciągu tygodnia - poinformowała w środę firma analityczna Kpler.",
+      "date_published": "2026-03-04T17:42:00+01:00",
+      "source": "Bankier.pl"
     },
     {
       "id": "https://biznes.pap.pl/wiadomosci/przemysl/ke-przyjela-unijna-strategie-przemyslowa-dot-gospodarki-morskiej-oraz-portow",
@@ -173,30 +229,6 @@
       "source": "Bankier.pl"
     },
     {
-      "id": "https://biznes.pap.pl/wiadomosci/gospodarka/cpi-z-50-proc-prawdopodobienstwem-w-26-w-przedziale-16-29-proc-w-27-w",
-      "url": "https://biznes.pap.pl/wiadomosci/gospodarka/cpi-z-50-proc-prawdopodobienstwem-w-26-w-przedziale-16-29-proc-w-27-w",
-      "title": "CPI z 50-proc. prawdopodobieństwem w '26 w przedziale 1,6–2,9 proc., w '27 w przedziale 1,1–3,7 proc. - projekcja NBP",
-      "content_html": "Inflacja CPI w Polsce z 50-procentowym prawdopodobieństwem w przedziale 1,6–2,9 proc. w 2026 r. (wobec 1,9–4,0 proc. w projekcji z listopada); 1,1-3,7 w 2027 r. (wobec 1,1–4,1 proc.) oraz w przedziale",
-      "date_published": "2026-03-04T16:14:00+01:00",
-      "source": "PAP Biznes"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/gospodarka/rpp-dostosowala-stopy-biorac-pod-uwage-perspektywy-cpi-zwraca-uwage-na",
-      "url": "https://biznes.pap.pl/wiadomosci/gospodarka/rpp-dostosowala-stopy-biorac-pod-uwage-perspektywy-cpi-zwraca-uwage-na",
-      "title": "RPP dostosowała stopy biorąc pod uwagę perspektywy CPI, zwraca uwagę na napięcia geopolityczne",
-      "content_html": "Biorąc pod uwagę kształtowanie się inflacji i jej perspektywy w kolejnych kwartałach, w ocenie RPP uzasadnione było dostosowanie poziomu stóp proc. NBP - podano w komunikacie po marcowym posiedzeniu R",
-      "date_published": "2026-03-04T16:11:00+01:00",
-      "source": "PAP Biznes"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/firmy/zysk-netto-sektora-bankowego-w-i-26-wyniosl-308-mld-zl-spadl-o-23-proc-rdr-nbp",
-      "url": "https://biznes.pap.pl/wiadomosci/firmy/zysk-netto-sektora-bankowego-w-i-26-wyniosl-308-mld-zl-spadl-o-23-proc-rdr-nbp",
-      "title": "Zysk netto sektora bankowego w I '26 wyniósł 3,08 mld zł, spadł o 23 proc. rdr - NBP",
-      "content_html": "Zysk netto sektora bankowego w styczniu 2026 roku wyniósł 3,08 mld zł, czyli spadł o 23 proc. rdr - poinformował Narodowy Bank Polski.",
-      "date_published": "2026-03-04T16:06:00+01:00",
-      "source": "PAP Biznes"
-    },
-    {
       "id": "https://www.bankier.pl/wiadomosc/Obnizka-stop-byla-oczekiwana-ale-Ekonomista-Sytuacja-w-Iranie-budzi-niepokoj-9092980.html",
       "url": "https://www.bankier.pl/wiadomosc/Obnizka-stop-byla-oczekiwana-ale-Ekonomista-Sytuacja-w-Iranie-budzi-niepokoj-9092980.html",
       "title": "Obniżka stóp była oczekiwana, ale... Ekonomista: Sytuacja w Iranie budzi niepokój",
@@ -285,6 +317,14 @@
       "source": "Bankier.pl"
     },
     {
+      "id": "https://biznes.pap.pl/wiadomosci/gospodarka/rpp-obnizyla-stopy-nbp-o-25-pb-w-tym-referencyjna-do-375-proc-zgodnie-z",
+      "url": "https://biznes.pap.pl/wiadomosci/gospodarka/rpp-obnizyla-stopy-nbp-o-25-pb-w-tym-referencyjna-do-375-proc-zgodnie-z",
+      "title": "RPP obniżyła stopy NBP o 25 pb., w tym referencyjną do 3,75 proc., zgodnie z oczekiwaniami",
+      "content_html": "Rada Polityki Pieniężnej na posiedzeniu w dn. 3-4 marca 2026 r. obniżyła wszystkie stopy procentowe NBP o 25 pb., w tym referencyjną do 3,75 proc. - podał w komunikacie bank centralny. Konsensus PAP B",
+      "date_published": "2026-03-04T14:57:00+01:00",
+      "source": "PAP Biznes"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Iran-uderza-w-zegluge-Trafiony-kontenerowiec-plonie-w-ciesninie-Ormuz-9092907.html",
       "url": "https://www.bankier.pl/wiadomosc/Iran-uderza-w-zegluge-Trafiony-kontenerowiec-plonie-w-ciesninie-Ormuz-9092907.html",
       "title": "Iran uderza w żeglugę. Trafiony kontenerowiec płonie w cieśninie Ormuz",
@@ -293,12 +333,36 @@
       "source": "Bankier.pl"
     },
     {
+      "id": "https://biznes.pap.pl/wiadomosci/firmy/polska-energetyka-odporna-na-geopolityczne-wstrzasy-minister-energii-opis",
+      "url": "https://biznes.pap.pl/wiadomosci/firmy/polska-energetyka-odporna-na-geopolityczne-wstrzasy-minister-energii-opis",
+      "title": "Polska energetyka odporna na geopolityczne wstrząsy – minister energii (opis)",
+      "content_html": "Polska energetyka dzięki dywersyfikacji dostaw paliw i mocy wytwórczych jest odporna na geopolityczne wstrząsy – ocenił minister energii Miłosz Motyka. Minister liczy, że konflikt na Bliskim Wschodzie",
+      "date_published": "2026-03-04T14:52:00+01:00",
+      "source": "PAP Biznes"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/KNF-zgodzila-sie-na-powolanie-Roberta-Tomaszewskiego-na-prezesa-Link4-TU-9092901.html",
       "url": "https://www.bankier.pl/wiadomosc/KNF-zgodzila-sie-na-powolanie-Roberta-Tomaszewskiego-na-prezesa-Link4-TU-9092901.html",
       "title": "KNF zgodziła się na powołanie Roberta Tomaszewskiego na prezesa Link4 TU",
       "content_html": "Komisja Nadzoru Finansowego zgodziła się na powołanie Roberta Tomaszewskiego na prezesa Link4 Towarzystwa Ubezpieczeń - poinformowała KNF w komunikacie.",
       "date_published": "2026-03-04T14:50:00+01:00",
       "source": "Bankier.pl"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/firmy/knf-zgodzila-sie-na-powolanie-roberta-tomaszewskiego-na-prezesa-link4-tu",
+      "url": "https://biznes.pap.pl/wiadomosci/firmy/knf-zgodzila-sie-na-powolanie-roberta-tomaszewskiego-na-prezesa-link4-tu",
+      "title": "KNF zgodziła się na powołanie Roberta Tomaszewskiego na prezesa Link4 TU",
+      "content_html": "Komisja Nadzoru Finansowego zgodziła się na powołanie Roberta Tomaszewskiego na prezesa Link4 Towarzystwa Ubezpieczeń - poinformowała KNF w komunikacie.",
+      "date_published": "2026-03-04T14:49:00+01:00",
+      "source": "PAP Biznes"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/gospodarka/nowa-15-proc-stawka-globalnych-cel-wejdzie-w-zycie-jeszcze-w-tym-tygodniu",
+      "url": "https://biznes.pap.pl/wiadomosci/gospodarka/nowa-15-proc-stawka-globalnych-cel-wejdzie-w-zycie-jeszcze-w-tym-tygodniu",
+      "title": "Nowa 15-proc. stawka globalnych ceł wejdzie w życie jeszcze w tym tygodniu - Bessent",
+      "content_html": "Nowa 15-proc. stawka globalnych ceł wejdzie w życie prawdopodobnie jeszcze w tym tygodniu - zapowiedział w środę sekretarz skarbu USA Scott Bessent. Według niego, wszystkie cła powrócą do swoich pozio",
+      "date_published": "2026-03-04T14:47:00+01:00",
+      "source": "PAP Biznes"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/BGK-podpisal-z-Orlen-Termika-umowe-na-pozyczke-z-KPO-do-wys-762-5-mln-zl-9092895.html",
@@ -471,8 +535,8 @@
     {
       "id": "https://www.bankier.pl/wiadomosc/PGE-podpisala-z-konsorcjum-Polimeksu-i-Siemensa-umowy-na-budowe-dwoch-elektrowni-gazowych-9092811.html",
       "url": "https://www.bankier.pl/wiadomosc/PGE-podpisala-z-konsorcjum-Polimeksu-i-Siemensa-umowy-na-budowe-dwoch-elektrowni-gazowych-9092811.html",
-      "title": "PGE wyda ponad 6 mld zł na dwie nowe elektrownie. „Most między węglem a atomem” Grupa PGE podpisała w środę z konsorcjum Polimex Mostostal, Siemens Energy i Siemens Energy Global umowy na budowę dwóch elektrowni gazowych w Rybniku i Gryfinie za łącznie ok. 6 mld zł.",
-      "content_html": "",
+      "title": "PGE wyda ponad 6 mld zł na dwie nowe elektrownie. „Most między węglem a atomem”",
+      "content_html": "Grupa PGE podpisała w środę z konsorcjum Polimex Mostostal, Siemens Energy i Siemens Energy Global umowy na budowę dwóch elektrowni gazowych w Rybniku i Gryfinie za łącznie ok. 6 mld zł.",
       "date_published": "2026-03-04T13:58:00+01:00",
       "source": "Bankier.pl"
     },
@@ -1125,14 +1189,6 @@
       "source": "PAP Biznes"
     },
     {
-      "id": "https://biznes.pap.pl/wiadomosci/rynki/goldman-sachs-podwyzsza-prognozy-dla-ropy-brent-i-wti",
-      "url": "https://biznes.pap.pl/wiadomosci/rynki/goldman-sachs-podwyzsza-prognozy-dla-ropy-brent-i-wti",
-      "title": "Goldman Sachs podwyższa prognozy dla ropy Brent i WTI",
-      "content_html": "Goldman Sachs Grou Inc. mocno podwyższa prognozy dla ropy Brent i WTI na II kw. uzasadniając to niższymi zapasami surowca w krajach OECD z powodu zakłóceń w transporcie ropy przez cieśninę Ormuz.",
-      "date_published": "2026-03-04T08:56:00+01:00",
-      "source": "PAP Biznes"
-    },
-    {
       "id": "https://www.bankier.pl/wiadomosc/Wielka-oblawa-w-calej-Polsce-140-zatrzyman-cudzoziemcow-9092623.html",
       "url": "https://www.bankier.pl/wiadomosc/Wielka-oblawa-w-calej-Polsce-140-zatrzyman-cudzoziemcow-9092623.html",
       "title": "Wielka obława w całej Polsce. 140 zatrzymań cudzoziemców",
@@ -1277,36 +1333,12 @@
       "source": "Bankier.pl"
     },
     {
-      "id": "https://www.bankier.pl/wiadomosc/Ceny-miedzi-nieznacznie-sie-zmieniaja-Prognozy-nie-sa-dobre-9092589.html",
-      "url": "https://www.bankier.pl/wiadomosc/Ceny-miedzi-nieznacznie-sie-zmieniaja-Prognozy-nie-sa-dobre-9092589.html",
-      "title": "Ceny miedzi nieznacznie się zmieniają. Prognozy nie są dobre",
-      "content_html": "Notowania miedzi na giełdzie metali LME w Londynie nieznacznie się zmieniają. Prognozy dla cen metalu nie są dobre - miedź może stanieć poniżej 12 000 USD za tonę - informują maklerzy.",
-      "date_published": "2026-03-04T07:38:00+01:00",
-      "source": "Bankier.pl"
-    },
-    {
       "id": "https://biznes.pap.pl/wiadomosci/rynki/ceny-miedzi-w-londynie-nieznacznie-sie-zmieniaja-prognozy-nie-sa-dobre",
       "url": "https://biznes.pap.pl/wiadomosci/rynki/ceny-miedzi-w-londynie-nieznacznie-sie-zmieniaja-prognozy-nie-sa-dobre",
       "title": "Ceny miedzi w Londynie nieznacznie się zmieniają, a prognozy nie są dobre",
       "content_html": "Notowania miedzi na giełdzie metali LME w Londynie nieznacznie się zmieniają. Prognozy dla cen metalu nie są dobre - miedź może stanieć poniżej 12.000 USD za tonę - informują maklerzy.",
       "date_published": "2026-03-04T07:37:00+01:00",
       "source": "PAP Biznes"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Teheran-popelnil-blad-strategiczny-uderzajac-w-kraje-Bliskiego-Wschodu-9092506.html",
-      "url": "https://www.bankier.pl/wiadomosc/Teheran-popelnil-blad-strategiczny-uderzajac-w-kraje-Bliskiego-Wschodu-9092506.html",
-      "title": "\"Teheran popełnił błąd strategiczny, uderzając w kraje Bliskiego Wschodu\"",
-      "content_html": "Władze Iranu popełniły błąd uderzając w położone w jego sąsiedztwie kraje Bliskiego Wschodu po tym, gdy uruchomiono amerykańsko-izraelską operację przeciwko Teheranowi pod kryptonimem „Epicka Furia” - uważa były szef portugalskich służb...",
-      "date_published": "2026-03-04T07:36:00+01:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Izrael-zhakowal-tysiace-kamer-w-Iranie-Wiedzieli-o-kazdym-ruchu-Chameneia-Znalismy-Teheran-tak-jak-znamy-Jerozolime-9092538.html",
-      "url": "https://www.bankier.pl/wiadomosc/Izrael-zhakowal-tysiace-kamer-w-Iranie-Wiedzieli-o-kazdym-ruchu-Chameneia-Znalismy-Teheran-tak-jak-znamy-Jerozolime-9092538.html",
-      "title": "Izrael zhakował tysiące kamer w Iranie. \"Znaliśmy Teheran tak, jak znamy Jerozolimę\"",
-      "content_html": "Izrael infiltrował irańską sieć kamer drogowych, aby obserwować Alego Chameneia i innych wysokich rangą irańskich urzędników, co pozwoliło przeprowadzić śmiertelny atak, w którym zginął i ajatollah, i wielu irańskich dowódców, wynika...",
-      "date_published": "2026-03-04T07:35:00+01:00",
-      "source": "Bankier.pl"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Miliony-na-propagande-PiS-Fundacja-Orlen-placila-za-polityke-9092570.html",
@@ -1410,30 +1442,6 @@
       "title": "Skrót wiadomości - wtorek, 3 marca, 21.00",
       "content_html": "Przegląd najważniejszych wiadomości gospodarczych, krajowych i ze świata.",
       "date_published": "2026-03-03T21:01:00+01:00",
-      "source": "PAP Biznes"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/gospodarka/prezydent-trump-zapowiedzial-zerwanie-handlu-z-hiszpania-opis",
-      "url": "https://biznes.pap.pl/wiadomosci/gospodarka/prezydent-trump-zapowiedzial-zerwanie-handlu-z-hiszpania-opis",
-      "title": "Prezydent Trump zapowiedział zerwanie handlu z Hiszpanią (opis)",
-      "content_html": "Prezydent USA Donald Trump oświadczył we wtorek, że nie jest zadowolony z Hiszpanii i powiadomił, że Stany Zjednoczone nie będą już handlować z tym krajem. Dodał, że nie jest też zadowolony z Wielkiej",
-      "date_published": "2026-03-03T19:06:00+01:00",
-      "source": "PAP Biznes"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Tauron-odwroci-czesc-odpisow-aktualizujacych-co-zwiekszy-wynik-brutto-za-25-o-392-mln-zl-9092424.html",
-      "url": "https://www.bankier.pl/wiadomosc/Tauron-odwroci-czesc-odpisow-aktualizujacych-co-zwiekszy-wynik-brutto-za-25-o-392-mln-zl-9092424.html",
-      "title": "Lepsze perspektywy energetycznego giganta. Tauron koryguje odpisy o 392 mln zł Tauron PE zakończył analizy przeprowadzone w ramach testów na utratę wartości aktywów, które wykazały zasadność częściowego odwrócenia uprzednio utworzonych odpisów aktualizujących, co zwiększy jednostkowy wynik brutto za 2025 r. w łącznej kwocie 392 mln zł - podała spółka w komunikacie prasowym.",
-      "content_html": "",
-      "date_published": "2026-03-03T18:42:00+01:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/firmy/tauron-odwroci-czesc-odpisow-aktualizujacych-co-zwiekszy-wynik-brutto-za-25-o-392",
-      "url": "https://biznes.pap.pl/wiadomosci/firmy/tauron-odwroci-czesc-odpisow-aktualizujacych-co-zwiekszy-wynik-brutto-za-25-o-392",
-      "title": "Tauron odwróci część odpisów aktualizujących, co zwiększy wynik brutto za '25 o 392 mln zł",
-      "content_html": "Tauron PE zakończył analizy przeprowadzone w ramach testów na utratę wartości aktywów, które wykazały zasadność częściowego odwrócenia uprzednio utworzonych odpisów aktualizujących, co zwiększy jednos",
-      "date_published": "2026-03-03T18:40:00+01:00",
       "source": "PAP Biznes"
     }
   ]
