@@ -5,12 +5,260 @@
   "home_page_url": "https://www.bankier.pl",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/Wojska-USA-wyladuja-w-Iranie-Aragczi-Jestem-pewien-ze-odeprzemy-potencjalna-operacje-9093838.html",
+      "url": "https://www.bankier.pl/wiadomosc/Wojska-USA-wyladuja-w-Iranie-Aragczi-Jestem-pewien-ze-odeprzemy-potencjalna-operacje-9093838.html",
+      "title": "Wojska USA wylądują w Iranie? Aragczi: Jestem pewien, że odeprzemy potencjalną operację",
+      "content_html": "Szef MSZ Iranu Abbas Aragczi powiedział w czwartek telewizji NBC News, że jest pewien, iż Irańczycy zdołaliby odeprzeć potencjalną operację lądową sił USA. Odrzucił też wszelkie negocjacje z Waszyngtonem i przekazał, że Teheran nie zwracał...",
+      "date_published": "2026-03-05T18:41:00+01:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Rosnie-liczba-ofiar-w-Libanie-Trwa-krwawa-ofensywa-Izraela-9093808.html",
+      "url": "https://www.bankier.pl/wiadomosc/Rosnie-liczba-ofiar-w-Libanie-Trwa-krwawa-ofensywa-Izraela-9093808.html",
+      "title": "Rośnie liczba ofiar w Libanie. Trwa krwawa ofensywa Izraela",
+      "content_html": "Już 102 osoby straciły życie, a 638 zostało rannych w izraelskich atakach na Liban od momentu ich rozpoczęcia w poniedziałek – poinformowało w czwartek libańskie Ministerstwo Zdrowia.",
+      "date_published": "2026-03-05T18:16:00+01:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Tauron-zastapi-Orange-w-indeksie-WIG20-po-sesji-20-marca-9093824.html",
+      "url": "https://www.bankier.pl/wiadomosc/Tauron-zastapi-Orange-w-indeksie-WIG20-po-sesji-20-marca-9093824.html",
+      "title": "Tauron zastąpi Orange w indeksie WIG20 po sesji 20 marca",
+      "content_html": "Tauron zastąpi Orange w indeksie WIG20 po sesji 20 marca 2026 roku. Do indeksu mWIG40 wejdzie Creotech, Orange oraz Polimex Mostostal, zastępując 11 bit, Huuuge oraz Tauron - poinformowała GPW Benchmark w komunikacie.",
+      "date_published": "2026-03-05T18:08:00+01:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Turecki-rzad-szykuje-sie-na-fale-uchodzcow-z-Iranu-Na-horyzoncie-90-tys-osob-9093823.html",
+      "url": "https://www.bankier.pl/wiadomosc/Turecki-rzad-szykuje-sie-na-fale-uchodzcow-z-Iranu-Na-horyzoncie-90-tys-osob-9093823.html",
+      "title": "Turecki rząd szykuje się na falę uchodźców z Iranu. Na horyzoncie 90 tys. osób",
+      "content_html": "Turcja przygotowuje się na potencjalny napływ uchodźców z sąsiedniego Iranu, ponieważ wojna na Bliskim Wschodzie wkroczyła już w swój szósty dzień - powiedział szef MSW Turcji Mustafa Ciftci, cytowany w czwartek przez dziennik „Hurriyet”...",
+      "date_published": "2026-03-05T18:07:00+01:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/firmy/tauron-zastapi-orange-w-indeksie-wig20-po-sesji-20-marca",
+      "url": "https://biznes.pap.pl/wiadomosci/firmy/tauron-zastapi-orange-w-indeksie-wig20-po-sesji-20-marca",
+      "title": "Tauron zastąpi Orange w indeksie WIG20 po sesji 20 marca",
+      "content_html": "Tauron zastąpi Orange w indeksie WIG20 po sesji 20 marca 2026 roku. Do indeksu mWIG40 wejdzie Creotech, Orange oraz Polimex Mostostal, zastępując 11 bit, Huuuge oraz Tauron - poinformowała GPW Benchma",
+      "date_published": "2026-03-05T18:07:00+01:00",
+      "source": "PAP Biznes"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/rynki/dzien-na-rynkach-indeksy-gieldowe-w-europie-ze-sporymi-spadkami",
+      "url": "https://biznes.pap.pl/wiadomosci/rynki/dzien-na-rynkach-indeksy-gieldowe-w-europie-ze-sporymi-spadkami",
+      "title": "DZIEŃ NA RYNKACH: Indeksy giełdowe w Europie ze sporymi spadkami",
+      "content_html": "Giełdy w Europie zakończyły czwartkową sesję z dużymi spadkami. Inwestorzy są w słabych nastrojach, obserwując z niepokojem rozwój wydarzeń w konflikcie na Bliskim Wschodzie.",
+      "date_published": "2026-03-05T18:01:00+01:00",
+      "source": "PAP Biznes"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/rynki/zamkniecia-na-gieldach-w-europie-tabela-2833",
+      "url": "https://biznes.pap.pl/wiadomosci/rynki/zamkniecia-na-gieldach-w-europie-tabela-2833",
+      "title": "Zamknięcia na giełdach w Europie (tabela)",
+      "content_html": "Poniżej zamknięcia i zmiany wybranych indeksów giełdowych w Europie.",
+      "date_published": "2026-03-05T17:57:00+01:00",
+      "source": "PAP Biznes"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Kto-nowym-liderem-Iranu-Trump-Musze-byc-zaangazowany-w-wybor-9093812.html",
+      "url": "https://www.bankier.pl/wiadomosc/Kto-nowym-liderem-Iranu-Trump-Musze-byc-zaangazowany-w-wybor-9093812.html",
+      "title": "Kto nowym liderem Iranu? Trump: Muszę być zaangażowany w wybór",
+      "content_html": "Prezydent USA Donald Trump powiedział w czwartek portalowi Axios, że musi być osobiście zaangażowany w wybór nowego przywódcy Iranu, tak jak było to w przypadku Wenezueli.",
+      "date_published": "2026-03-05T17:53:00+01:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Zapasowy-rurociag-Saudow-nie-uratuje-swiata-przed-brakiem-ropy-9092022.html",
+      "url": "https://www.bankier.pl/wiadomosc/Zapasowy-rurociag-Saudow-nie-uratuje-swiata-przed-brakiem-ropy-9092022.html",
+      "title": "\"Zapasowy\" rurociąg Saudów nie uratuje świata przed brakiem ropy",
+      "content_html": "Cieśnina Ormuz jest zablokowana. To poważny problem dla globalnych rynków energii. Ropa i gaz kontynuują wzrosty, choć do czarnych prognoz ekonomistów jest jeszcze daleko. Arabia Saudyjska i Zjednoczone Emiraty Arabskie posiadają \"zapasowe\" rurociągi...",
+      "date_published": "2026-03-05T17:47:00+01:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Wojska-USA-pozostana-w-Polsce-Wiceszef-Pentagonu-zabral-glos-9093806.html",
+      "url": "https://www.bankier.pl/wiadomosc/Wojska-USA-pozostana-w-Polsce-Wiceszef-Pentagonu-zabral-glos-9093806.html",
+      "title": "Wojska USA pozostaną w Polsce? Wiceszef Pentagonu zabrał głos",
+      "content_html": "Bezwzględnie wdrożymy wytyczne prezydenta Donalda Trumpa w sprawie amerykańskich wojsk w Polsce - powiedział w czwartek w Izbie Reprezentantów wiceszef Pentagonu ds. politycznych Elbridge Colby. Odniósł się w ten sposób do słów prezydenta USA...",
+      "date_published": "2026-03-05T17:42:00+01:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/gospodarka/pgz-i-jelcz-podpisaly-umowe-inwestycyjna-na-ponad-756-mln-zl",
+      "url": "https://biznes.pap.pl/wiadomosci/gospodarka/pgz-i-jelcz-podpisaly-umowe-inwestycyjna-na-ponad-756-mln-zl",
+      "title": "PGZ i Jelcz podpisały umowę inwestycyjną na ponad 756 mln zł",
+      "content_html": "Polska Grupa Zbrojeniowa i Jelcz podpisały w czwartek umowę inwestycyjną na kwotę ponad 756 mln zł ze środków Funduszu Inwestycji Kapitałowych. Umowa dotyczy budowy nowej fabryki i zwiększenia zdolnoś",
+      "date_published": "2026-03-05T17:38:00+01:00",
+      "source": "PAP Biznes"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Przychody-grupy-BoomBit-w-lutym-zmniejszyly-sie-mdm-do-21-89-mln-zl-9093795.html",
+      "url": "https://www.bankier.pl/wiadomosc/Przychody-grupy-BoomBit-w-lutym-zmniejszyly-sie-mdm-do-21-89-mln-zl-9093795.html",
+      "title": "Przychody grupy BoomBit w lutym zmniejszyły się mdm do 21,89 mln zł",
+      "content_html": "Grupa BoomBit odnotowała w lutym 2026 roku przychody ze sprzedaży na poziomie 21,89 mln zł, co oznacza spadek o 6,3 proc. mdm i wzrost o 43,5 proc. rdr - poinformowała spółka w komunikacie.",
+      "date_published": "2026-03-05T17:34:00+01:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/LOT-uruchamia-specjalne-rejsy-ratunkowe-ze-Sri-Lanki-i-z-Malediwow-9093796.html",
+      "url": "https://www.bankier.pl/wiadomosc/LOT-uruchamia-specjalne-rejsy-ratunkowe-ze-Sri-Lanki-i-z-Malediwow-9093796.html",
+      "title": "LOT uruchamia specjalne rejsy ratunkowe ze Sri Lanki i z Malediwów",
+      "content_html": "Polskie Linie Lotnicze LOT, we współpracy z biurami podróży, uruchamiają rejsy powrotne dla turystów na trasach Colombo-Warszawa i Male-Warszawa - poinformował w czwartek przewoźnik. Dodatkowe loty z obu portów mają się odbyć 10 marca.",
+      "date_published": "2026-03-05T17:34:00+01:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Obnizka-stop-NBP-nadal-mozliwa-ale-zalezy-od-cen-surowcow-9093792.html",
+      "url": "https://www.bankier.pl/wiadomosc/Obnizka-stop-NBP-nadal-mozliwa-ale-zalezy-od-cen-surowcow-9093792.html",
+      "title": "Obniżka stóp NBP nadal możliwa, ale zależy od cen surowców",
+      "content_html": "Obniżka stóp procentowych o 25 pkt. bazowych jest nadal możliwa – wynika z czwartkowego komentarza głównego ekonomisty Santander Bank Polska Piotra Bielskiego. Dodał, że zależy ona od cen surowców, na które wpływa konflikt na Bliskim Wschodzie...",
+      "date_published": "2026-03-05T17:33:00+01:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/firmy/przychody-grupy-boombit-w-lutym-zmniejszyly-sie-mdm-do-2189-mln-zl",
+      "url": "https://biznes.pap.pl/wiadomosci/firmy/przychody-grupy-boombit-w-lutym-zmniejszyly-sie-mdm-do-2189-mln-zl",
+      "title": "Przychody grupy BoomBit w lutym zmniejszyły się mdm do 21,89 mln zł",
+      "content_html": "Grupa BoomBit odnotowała w lutym 2026 roku przychody ze sprzedaży na poziomie 21,89 mln zł, co oznacza spadek o 6,3 proc. mdm i wzrost o 43,5 proc. rdr - poinformowała spółka w komunikacie.",
+      "date_published": "2026-03-05T17:32:00+01:00",
+      "source": "PAP Biznes"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Kryzys-w-ciesninie-Ormuz-Indie-wracaja-do-rosyjskiej-ropy-9093786.html",
+      "url": "https://www.bankier.pl/wiadomosc/Kryzys-w-ciesninie-Ormuz-Indie-wracaja-do-rosyjskiej-ropy-9093786.html",
+      "title": "Kryzys w cieśninie Ormuz. Indie wracają do rosyjskiej ropy",
+      "content_html": "Po tym, gdy sankcje nałożone przez prezydenta USA Donalda Trumpa zmusiły Delhi do ograniczenia zakupów ropy w Rosji, trwająca wojna między połączonymi siłami Izraela i Stanów Zjednoczonych a Iranem zakłóciła dostawy z Zatoki Perskiej i sprawiła...",
+      "date_published": "2026-03-05T17:30:00+01:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/gospodarka/glapinski-za-uzyciem-potencjalu-nbp-do-celow-obronnych-wyklucza-ubytek-rezerw",
+      "url": "https://biznes.pap.pl/wiadomosci/gospodarka/glapinski-za-uzyciem-potencjalu-nbp-do-celow-obronnych-wyklucza-ubytek-rezerw",
+      "title": "Glapiński za użyciem potencjału NBP do celów obronnych, wyklucza ubytek rezerw FX (opis)",
+      "content_html": "Kancelaria Prezydenta prowadzi prace ustawowe, które ułatwią wykorzystanie potencjału NBP dla celów obronnych - poinformował prezes NBP Adam Glapiński. Dodał, że popiera umożliwienie przekazywania zys",
+      "date_published": "2026-03-05T17:29:00+01:00",
+      "source": "PAP Biznes"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Konflikt-w-Europie-niedoszacowany-Spodziewamy-sie-spadkow-w-najblizszych-dniach-9093777.html",
+      "url": "https://www.bankier.pl/wiadomosc/Konflikt-w-Europie-niedoszacowany-Spodziewamy-sie-spadkow-w-najblizszych-dniach-9093777.html",
+      "title": "Konflikt w Europie niedoszacowany? \"Spodziewamy się spadków w najbliższych dniach\"",
+      "content_html": "Ostrożność dominowała na GPW w czasie czwartkowej sesji. Po mocnym odbiciu w środę, kolejna sesja przyniosła najpierw próbę podtrzymania optymizmu, a później powolne wycofanie się kapitału i w efekcie lekko spadkowy wynik na zakończenie...",
+      "date_published": "2026-03-05T17:23:00+01:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Pawel-Oleksy-zrezygnowal-z-funkcji-wiceprezesa-Grupy-Azoty-Zaklady-Chemiczne-Police-9093774.html",
+      "url": "https://www.bankier.pl/wiadomosc/Pawel-Oleksy-zrezygnowal-z-funkcji-wiceprezesa-Grupy-Azoty-Zaklady-Chemiczne-Police-9093774.html",
+      "title": "Paweł Oleksy zrezygnował z funkcji wiceprezesa Grupy Azoty Zakłady Chemiczne \"Police\"",
+      "content_html": "Zarząd spółki Grupa Azoty Zakłady Chemiczne \"Police\" otrzymał rezygnację Pawła Oleksego z członkostwa w zarządzie spółki i funkcji wiceprezesa zarządu, ze skutkiem na koniec dnia 05 marca 2026 roku - podała spółka w komunikacie. (PAP Biznes)...",
+      "date_published": "2026-03-05T17:20:00+01:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/firmy/pawel-oleksy-zrezygnowal-z-funkcji-wiceprezesa-grupy-azoty-zaklady-chemiczne",
+      "url": "https://biznes.pap.pl/wiadomosci/firmy/pawel-oleksy-zrezygnowal-z-funkcji-wiceprezesa-grupy-azoty-zaklady-chemiczne",
+      "title": "Paweł Oleksy zrezygnował z funkcji wiceprezesa Grupy Azoty Zakłady Chemiczne \"Police\"",
+      "content_html": "Zarząd spółki Grupa Azoty Zakłady Chemiczne \"Police\" otrzymał rezygnację Pawła Oleksego z członkostwa w zarządzie spółki i funkcji wiceprezesa zarządu, ze skutkiem na koniec dnia 05 marca 2026 roku - ",
+      "date_published": "2026-03-05T17:18:00+01:00",
+      "source": "PAP Biznes"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Grupa-Azoty-wraca-do-przyjmowania-biezacych-zamowien-na-nawozy-azotowe-9093767.html",
+      "url": "https://www.bankier.pl/wiadomosc/Grupa-Azoty-wraca-do-przyjmowania-biezacych-zamowien-na-nawozy-azotowe-9093767.html",
+      "title": "Grupa Azoty wraca do przyjmowania bieżących zamówień na nawozy azotowe",
+      "content_html": "W ciągu najbliższych kilkudziesięciu godzin, po dokończeniu niezbędnych analiz, Grupa Azoty powróci do przyjmowania zamówień na nawozy azotowe i standardowej współpracy na bieżących warunkach rynkowych - poinformowała Grupa Azoty w komunikacie...",
+      "date_published": "2026-03-05T17:16:00+01:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/firmy/grupa-azoty-wraca-do-przyjmowania-biezacych-zamowien-na-nawozy-azotowe",
+      "url": "https://biznes.pap.pl/wiadomosci/firmy/grupa-azoty-wraca-do-przyjmowania-biezacych-zamowien-na-nawozy-azotowe",
+      "title": "Grupa Azoty wraca do przyjmowania bieżących zamówień na nawozy azotowe",
+      "content_html": "W ciągu najbliższych kilkudziesięciu godzin, po dokończeniu niezbędnych analiz, Grupa Azoty powróci do przyjmowania zamówień na nawozy azotowe i standardowej współpracy na bieżących warunkach rynkowyc",
+      "date_published": "2026-03-05T17:15:00+01:00",
+      "source": "PAP Biznes"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/gospodarka/uspokojenie-sytuacji-w-dwa-miesiace-powrot-do-wczesniejszych-scenariuszy",
+      "url": "https://biznes.pap.pl/wiadomosci/gospodarka/uspokojenie-sytuacji-w-dwa-miesiace-powrot-do-wczesniejszych-scenariuszy",
+      "title": "Uspokojenie sytuacji w dwa miesiące to powrót do wcześniejszych scenariuszy obniżki stóp – prezes NBP (opis)",
+      "content_html": "Uspokojenie sytuacji na Bliskim Wschodzie w ciągu dwóch miesięcy oznacza powrót do wcześniejszych scenariuszy obniżki stóp, ale Rada obecnie nie zapowiada żadnych kolejnych decyzji, ze względu na pogo",
+      "date_published": "2026-03-05T17:07:00+01:00",
+      "source": "PAP Biznes"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Szef-MSZ-Niemiec-przekazemy-kolejne-200-mln-euro-wsparcia-dla-Ukrainy-9093753.html",
+      "url": "https://www.bankier.pl/wiadomosc/Szef-MSZ-Niemiec-przekazemy-kolejne-200-mln-euro-wsparcia-dla-Ukrainy-9093753.html",
+      "title": "Szef MSZ Niemiec: przekażemy kolejne 200 mln euro wsparcia dla Ukrainy",
+      "content_html": "Minister spraw zagranicznych Niemiec Johann Wadephul ogłosił w czwartek w Berlinie przekazanie kolejnych 200 mln euro wsparcia dla Ukrainy. Według szefa niemieckiej dyplomacji środki mają zostać przeznaczone m.in. na drony rozpoznawcze oraz wzmocnienie...",
+      "date_published": "2026-03-05T17:02:00+01:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/W-srode-wieczorem-godzinna-przerwa-w-dostepie-do-uslugi-Twoj-e-PIT-9093189.html",
+      "url": "https://www.bankier.pl/wiadomosc/W-srode-wieczorem-godzinna-przerwa-w-dostepie-do-uslugi-Twoj-e-PIT-9093189.html",
+      "title": "W środę wieczorem godzinna przerwa w dostępie do usługi Twój e-PIT",
+      "content_html": "W środę od godz. 22.00 do 23.00 trwać mają prace serwisowe dotyczące usługi Twój e-PIT, w tym czasie będzie ona niedostępna - poinformowało Ministerstwo Finansów.",
+      "date_published": "2026-03-05T17:00:00+01:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/ekonomia-biznes-i-finanse/skrot-wiadomosci-czwartek-5-marca-1700",
+      "url": "https://biznes.pap.pl/wiadomosci/ekonomia-biznes-i-finanse/skrot-wiadomosci-czwartek-5-marca-1700",
+      "title": "Skrót wiadomości - czwartek, 5 marca, 17.00",
+      "content_html": "Przegląd najważniejszych wiadomości gospodarczych, krajowych i ze świata.",
+      "date_published": "2026-03-05T17:00:00+01:00",
+      "source": "PAP Biznes"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Europa-czeka-na-rakiety-Patriot-latami-a-zapasy-znikaja-Korzysta-Rosja-9093751.html",
+      "url": "https://www.bankier.pl/wiadomosc/Europa-czeka-na-rakiety-Patriot-latami-a-zapasy-znikaja-Korzysta-Rosja-9093751.html",
+      "title": "Europa czeka na rakiety Patriot latami, a zapasy znikają. Korzysta Rosja",
+      "content_html": "Rosja jest jednym z największych beneficjentów amerykańskiej konfrontacji militarnej z Iranem - napisał w czwartek „Wall Street Journal”. Dziennik podkreślił, że konflikt pochłania zapasy rakiet obrony powietrznej, których Ukraina pilnie...",
+      "date_published": "2026-03-05T16:59:00+01:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/gospodarka/dzien-na-fxfi-eurpln-i-rentownosci-spw-moga-utrzymywac-sie-na-podwyzszonych",
+      "url": "https://biznes.pap.pl/wiadomosci/gospodarka/dzien-na-fxfi-eurpln-i-rentownosci-spw-moga-utrzymywac-sie-na-podwyzszonych",
+      "title": "DZIEŃ NA FX/FI: EUR/PLN i rentowności SPW mogą utrzymywać się na podwyższonych poziomach",
+      "content_html": "W trakcie czwartkowej sesji złoty osłabiał się, jednak po południu kurs EUR/PLN znajduje się blisko poziomu odniesienia. Kolejny dzień mocno rosły rentowności krajowych obligacji. Zdaniem strategów, w",
+      "date_published": "2026-03-05T16:56:00+01:00",
+      "source": "PAP Biznes"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Bialy-Dom-na-wojnie-z-kartelami-Powinny-byc-traktowane-jak-al-Kaida-mozna-je-pokonac-tylko-wojskiem-9093746.html",
+      "url": "https://www.bankier.pl/wiadomosc/Bialy-Dom-na-wojnie-z-kartelami-Powinny-byc-traktowane-jak-al-Kaida-mozna-je-pokonac-tylko-wojskiem-9093746.html",
+      "title": "Biały Dom na wojnie z kartelami. \"Powinny być traktowane jak al-Kaida, można je pokonać tylko wojskiem\"",
+      "content_html": "Kartele narkotykowe można pokonać tylko militarnie i muszą być traktowane jak Państwo Islamskie, czy al-Kaida - oświadczył w czwartek doradca prezydenta USA Stephen Miller na konferencji państw Ameryki Łacińskiej. Szef Pentagonu Pete Hegseth...",
+      "date_published": "2026-03-05T16:51:00+01:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Starmer-Wyslemy-cztery-mysliwce-do-Kataru-ale-nie-ulegniemy-presji-9093741.html",
+      "url": "https://www.bankier.pl/wiadomosc/Starmer-Wyslemy-cztery-mysliwce-do-Kataru-ale-nie-ulegniemy-presji-9093741.html",
+      "title": "Starmer: Wyślemy cztery myśliwce do Kataru, ale nie ulegniemy presji",
+      "content_html": "Brytyjski premier Keir Starmer poinformował w czwartek o wysłaniu dodatkowych sił do regionu Zatoki Perskiej i wschodniej części Morza Śródziemnego, w tym czterech myśliwców Typhoon do Kataru. Zapewnił jednak, że w kwestii Iranu nie ulegnie...",
+      "date_published": "2026-03-05T16:49:00+01:00",
+      "source": "Bankier.pl"
+    },
+    {
       "id": "https://biznes.pap.pl/wiadomosci/gospodarka/publikacja-marcowej-projekcji-nbp-w-piatek-o-900-prezentacja-o-1300",
       "url": "https://biznes.pap.pl/wiadomosci/gospodarka/publikacja-marcowej-projekcji-nbp-w-piatek-o-900-prezentacja-o-1300",
       "title": "Publikacja marcowej projekcji NBP w piątek o 9.00, prezentacja o 13.00",
       "content_html": "Narodowy Bank Polski opublikuje marcową projekcję inflacji i PKB w piątek 6 marca o godz. 9.00, a jej prezentacja przez analityków NBP odbędzie się o godz. 13.00 - podał NBP na stronach internetowych.",
       "date_published": "2026-03-05T16:43:00+01:00",
       "source": "PAP Biznes"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Atak-iranskich-dronow-na-baze-USA-w-irackim-Irbilu-9093731.html",
+      "url": "https://www.bankier.pl/wiadomosc/Atak-iranskich-dronow-na-baze-USA-w-irackim-Irbilu-9093731.html",
+      "title": "Atak irańskich dronów na bazę USA w irackim Irbilu",
+      "content_html": "Wojska irańskie zaatakowały w czwartek dronami bazę USA w Irbilu w irackim Kurdystanie - poinformowała irańska telewizja. Nie ma doniesień o ofiarach czy stratach materialnych.",
+      "date_published": "2026-03-05T16:41:00+01:00",
+      "source": "Bankier.pl"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Tusk-do-Nawrockiego-o-SAFE-prosze-natychmiast-podpisac-ustawe-ws-SAFE-9093680.html",
@@ -35,22 +283,6 @@
       "content_html": "W warszawskim sądzie okręgowym, po 20 latach od wybuchu afery, zapadł w czwartek nieprawomocny wyrok w procesie szefów Warszawskiej Grupy Inwestycyjnej. Łukasz K. i Maciej S. zostali skazani na 5 lat pozbawienia wolności i grzywnę, a Andrzej S...",
       "date_published": "2026-03-05T16:15:00+01:00",
       "source": "Bankier.pl"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/gospodarka/glapinski-popiera-wieksze-wykorzystanie-potencjalu-nbp-dla-celow-obronnych",
-      "url": "https://biznes.pap.pl/wiadomosci/gospodarka/glapinski-popiera-wieksze-wykorzystanie-potencjalu-nbp-dla-celow-obronnych",
-      "title": "Glapiński popiera większe wykorzystanie potencjału NBP dla celów obronnych",
-      "content_html": "W kancelarii prezydenta prowadzone są prace na temat propozycji ustawowych, które doprowadziłyby do jeszcze większego wykorzystania potencjału NBP dla celów obronnych - poinformował prezes NBP Adam Gl",
-      "date_published": "2026-03-05T16:11:00+01:00",
-      "source": "PAP Biznes"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/firmy/dzien-na-gpw-glowne-indeksy-rosna-ale-nastroje-na-rynku-moga-sie-szybko-pogorszyc",
-      "url": "https://biznes.pap.pl/wiadomosci/firmy/dzien-na-gpw-glowne-indeksy-rosna-ale-nastroje-na-rynku-moga-sie-szybko-pogorszyc",
-      "title": "DZIEŃ NA GPW: Główne indeksy rosną, ale nastroje na rynku mogą się szybko pogorszyć",
-      "content_html": "Po południu główne indeksy GPW lekko rosną, a sWIG80 zyskuje 1 proc. Pogłębił się spadek KGHM, tracą też spółki związane z segmentem odzieżowym. Zdaniem zarządzających, reakcja europejskich rynków akc",
-      "date_published": "2026-03-05T16:09:00+01:00",
-      "source": "PAP Biznes"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Petru-chce-przesluchania-prezesa-NBP-przed-Komisja-Odpowiedzialnosci-Konstytucyjnej-ws-SAFE-0-proc-9093678.html",
@@ -93,14 +325,6 @@
       "source": "Bankier.pl"
     },
     {
-      "id": "https://biznes.pap.pl/wiadomosci/gospodarka/euro-w-ebc-11618-usd-i-18303-jpy",
-      "url": "https://biznes.pap.pl/wiadomosci/gospodarka/euro-w-ebc-11618-usd-i-18303-jpy",
-      "title": "Euro w EBC: 1,1618 USD i 183,03 JPY",
-      "content_html": "Europejski Bank Centralny (EBC) ustalił kurs euro na 1,1618 USD i 183,03 JPY - podał bank na swojej stronie internetowej.",
-      "date_published": "2026-03-05T16:04:00+01:00",
-      "source": "PAP Biznes"
-    },
-    {
       "id": "https://www.bankier.pl/wiadomosc/Iran-ma-nowe-drony-Hadid-110-maja-zastapic-wolniejsze-Shahedy-9093682.html",
       "url": "https://www.bankier.pl/wiadomosc/Iran-ma-nowe-drony-Hadid-110-maja-zastapic-wolniejsze-Shahedy-9093682.html",
       "title": "Iran ma nowe drony. Hadid-110 mają zastąpić wolniejsze Shahedy",
@@ -109,28 +333,12 @@
       "source": "Bankier.pl"
     },
     {
-      "id": "https://biznes.pap.pl/wiadomosci/gospodarka/propozycja-nbp-ws-polskiego-safe-0-proc-nie-bedzie-prowadzic-do-uszczuplenia",
-      "url": "https://biznes.pap.pl/wiadomosci/gospodarka/propozycja-nbp-ws-polskiego-safe-0-proc-nie-bedzie-prowadzic-do-uszczuplenia",
-      "title": "Propozycja NBP ws. \"Polskiego SAFE 0 proc.\" nie będzie prowadzić do uszczuplenia rezerw - prezes NBP",
-      "content_html": "W ramach \"Polskiego SAFE 0 proc.\" Narodowy Bank Polski zamierza zaproponować takie działania, które nie będą prowadzić do uszczuplenia rezerw dewizowych - poinformował prezes NBP Adam Glapiński. Jak w",
-      "date_published": "2026-03-05T15:52:00+01:00",
-      "source": "PAP Biznes"
-    },
-    {
       "id": "https://www.bankier.pl/wiadomosc/cyber-Folks-skupi-sie-w-najblizszych-kwartalach-na-rozwoju-organicznym-nie-planuje-kolejnego-M-A-9093677.html",
       "url": "https://www.bankier.pl/wiadomosc/cyber-Folks-skupi-sie-w-najblizszych-kwartalach-na-rozwoju-organicznym-nie-planuje-kolejnego-M-A-9093677.html",
       "title": "cyber_Folks skupi się w najbliższych kwartałach na rozwoju organicznym, nie planuje kolejnego M&A",
       "content_html": "Grupa cyber_Folks skupi się w najbliższych kwartałach na rozwoju organicznym, nie planuje kolejnego M&A - poinformowali przedstawiciele spółki na konferencji prasowej.",
       "date_published": "2026-03-05T15:46:00+01:00",
       "source": "Bankier.pl"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/gry-i-technologie/cyberfolks-skupi-sie-w-najblizszych-kwartalach-na-rozwoju-organicznym",
-      "url": "https://biznes.pap.pl/wiadomosci/gry-i-technologie/cyberfolks-skupi-sie-w-najblizszych-kwartalach-na-rozwoju-organicznym",
-      "title": "cyber_Folks skupi się w najbliższych kwartałach na rozwoju organicznym, nie planuje kolejnego M&A",
-      "content_html": "Grupa cyber_Folks skupi się w najbliższych kwartałach na rozwoju organicznym, nie planuje kolejnego M&A - poinformowali przedstawiciele spółki na konferencji prasowej.",
-      "date_published": "2026-03-05T15:45:00+01:00",
-      "source": "PAP Biznes"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Skiba-Wzrost-cen-zlota-tworzy-potencjalny-zysk-w-bilansie-NBP-9093633.html",
@@ -149,36 +357,12 @@
       "source": "Bankier.pl"
     },
     {
-      "id": "https://biznes.pap.pl/wiadomosci/firmy/wstrzymanie-przyjmowania-zamowien-na-nawozy-przez-grupe-azoty-zagrozeniem-dla",
-      "url": "https://biznes.pap.pl/wiadomosci/firmy/wstrzymanie-przyjmowania-zamowien-na-nawozy-przez-grupe-azoty-zagrozeniem-dla",
-      "title": "Wstrzymanie przyjmowania zamówień na nawozy przez Grupę Azoty zagrożeniem dla rolnictwa - MRiRW",
-      "content_html": "Ministerstwo rolnictwa ocenia, że wstrzymanie przyjmowania zamówień na nawozy azotowe przez Grupę Azoty może być zagrożeniem działalności rolnej. Minister Stefan Krajewski zwrócił się do MAP z prośbą ",
-      "date_published": "2026-03-05T15:39:00+01:00",
-      "source": "PAP Biznes"
-    },
-    {
       "id": "https://www.bankier.pl/wiadomosc/Iranski-atak-na-lotnisko-w-Azerbejdzanie-Sa-ranni-9093377.html",
       "url": "https://www.bankier.pl/wiadomosc/Iranski-atak-na-lotnisko-w-Azerbejdzanie-Sa-ranni-9093377.html",
       "title": "Irański atak na lotnisko w Azerbejdżanie. Armia postawiona w stan gotowości",
       "content_html": "Dwóch cywilów zostało rannych w czwartek w ataku Iranu z wykorzystaniem dronów i pocisków na lotnisko w należącej do Azerbejdżanu esklawie, Nachiczewańskiej Republice Autonomicznej - poinformowało MSZ w Baku, cytowane przez agencję Reutera...",
       "date_published": "2026-03-05T15:32:00+01:00",
       "source": "Bankier.pl"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/rynki/po-otwarciu-sesji-dji-spada-o-074-proc-sp-500-znizkuje-o-043-proc",
-      "url": "https://biznes.pap.pl/wiadomosci/rynki/po-otwarciu-sesji-dji-spada-o-074-proc-sp-500-znizkuje-o-043-proc",
-      "title": "Po otwarciu sesji DJI spada o 0,74 proc., a S&P 500 zniżkuje o 0,43 proc.",
-      "content_html": "Po otwarciu sesji w USA Dow Jones Industrial spada o 0,74 proc. do 48.379 pkt., S&P500 zniżkuje o 0,43 proc. i wynosi 6.839 pkt.",
-      "date_published": "2026-03-05T15:32:00+01:00",
-      "source": "PAP Biznes"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/gospodarka/prezentacja-marcowej-projekcji-nbp-w-piatek-6-marca-prezes-nbp",
-      "url": "https://biznes.pap.pl/wiadomosci/gospodarka/prezentacja-marcowej-projekcji-nbp-w-piatek-6-marca-prezes-nbp",
-      "title": "Prezentacja marcowej projekcji NBP w piątek 6 marca - prezes NBP",
-      "content_html": "Prezentacja marcowej projekcji inflacji i PKB odbędzie się w piątek 6 marca - poinformował prezes NBP Adam Glapiński w czwartek na konferencji prasowej.",
-      "date_published": "2026-03-05T15:31:00+01:00",
-      "source": "PAP Biznes"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Polska-z-bronia-atomowa-Prezydent-studzi-zapal-Macrona-i-Tuska-9093649.html",
@@ -189,28 +373,12 @@
       "source": "Bankier.pl"
     },
     {
-      "id": "https://biznes.pap.pl/wiadomosci/gospodarka/krotkookresowo-glownym-ryzykiem-dla-inflacji-konflikt-na-bliskim-wschodzie",
-      "url": "https://biznes.pap.pl/wiadomosci/gospodarka/krotkookresowo-glownym-ryzykiem-dla-inflacji-konflikt-na-bliskim-wschodzie",
-      "title": "Krótkookresowo głównym ryzykiem dla inflacji konflikt na Bliskim Wschodzie - prezes NBP",
-      "content_html": "Krótkookresowo głównym ryzykiem dla inflacji jest konflikt na Bliskim Wschodzie - poinformował prezes NBP Adam Glapiński.",
-      "date_published": "2026-03-05T15:18:00+01:00",
-      "source": "PAP Biznes"
-    },
-    {
       "id": "https://www.bankier.pl/wiadomosc/Na-GPW-zadebiutowaly-trzy-ETF-y-i-cztery-spolki-z-NYSE-i-Nasdaq-9093641.html",
       "url": "https://www.bankier.pl/wiadomosc/Na-GPW-zadebiutowaly-trzy-ETF-y-i-cztery-spolki-z-NYSE-i-Nasdaq-9093641.html",
       "title": "Na GPW zadebiutowały trzy ETF-y i cztery spółki z NYSE i Nasdaq",
       "content_html": "Na rynku GlobalConnect, prowadzonym przez GPW w Warszawie, zadebiutowały pierwsze w tym roku nowe instrumenty zagraniczne: trzy fundusze ETF oraz cztery spółki notowane na nowojorskich giełdach NYSE i Nasdaq - podało GPW w komunikacie prasowym.",
       "date_published": "2026-03-05T15:16:00+01:00",
       "source": "Bankier.pl"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/gospodarka/do-konca-28-powrot-inflacji-co-celu-trwaly-inflacja-bazowa-ok-25-proc-prezes",
-      "url": "https://biznes.pap.pl/wiadomosci/gospodarka/do-konca-28-powrot-inflacji-co-celu-trwaly-inflacja-bazowa-ok-25-proc-prezes",
-      "title": "Do końca '28 powrót inflacji co celu trwały, a inflacja bazowa ok. 2,5 proc. - prezes NBP",
-      "content_html": "Najnowsza projekcja NBP pokazuje, że powrót CPI do celu jest trwały w jej horyzoncie do końca 2028 r., bez uwzględnienia wojny na Bliskim Wschodzie, a inflacja będzie kształtować się na poziomie wielo",
-      "date_published": "2026-03-05T15:16:00+01:00",
-      "source": "PAP Biznes"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Budimex-spodziewa-sie-powrotu-do-wartosci-portfela-zamowien-na-poziomie-ok-18-mld-zl-9093638.html",
@@ -221,11 +389,11 @@
       "source": "Bankier.pl"
     },
     {
-      "id": "https://biznes.pap.pl/wiadomosci/gospodarka/najnowsze-dane-sygnalizuja-ze-nie-ma-obaw-o-przegrzanie-koniunktury-prezes",
-      "url": "https://biznes.pap.pl/wiadomosci/gospodarka/najnowsze-dane-sygnalizuja-ze-nie-ma-obaw-o-przegrzanie-koniunktury-prezes",
-      "title": "Najnowsze dane sygnalizują, że nie ma obaw o przegrzanie koniunktury - prezes NBP",
-      "content_html": "Najnowsze dane sygnalizują, że nie ma obaw o przegrzanie koniunktury - poinformował prezes NBP Adam Glapiński w czwartek na konferencji prasowej.",
-      "date_published": "2026-03-05T15:14:00+01:00",
+      "id": "https://biznes.pap.pl/wiadomosci/gospodarka/wzrost-cen-zlota-tworzy-potencjalny-zysk-w-bilansie-nbp-doradca-prezydenta",
+      "url": "https://biznes.pap.pl/wiadomosci/gospodarka/wzrost-cen-zlota-tworzy-potencjalny-zysk-w-bilansie-nbp-doradca-prezydenta",
+      "title": "Wzrost cen złota tworzy potencjalny zysk w bilansie NBP - doradca prezydenta",
+      "content_html": "Wzrost cen złota tworzy potencjalny zysk w bilansie NBP; dwie ścieżki pozwalają zamienić go w realny transfer do Funduszu Wsparcia Sił Zbrojnych - ocenia Leszek Skiba, doradca Prezydenta RP, Karola Na",
+      "date_published": "2026-03-05T15:11:00+01:00",
       "source": "PAP Biznes"
     },
     {
@@ -261,6 +429,14 @@
       "source": "Bankier.pl"
     },
     {
+      "id": "https://biznes.pap.pl/wiadomosci/gospodarka/dodatkowe-650-mln-zl-na-bezpieczenstwo-w-ramach-rewizji-kpo-szyszko-mfipr",
+      "url": "https://biznes.pap.pl/wiadomosci/gospodarka/dodatkowe-650-mln-zl-na-bezpieczenstwo-w-ramach-rewizji-kpo-szyszko-mfipr",
+      "title": "Dodatkowe 650 mln zł na bezpieczeństwo w ramach rewizji KPO - Szyszko, MFiPR",
+      "content_html": "Stały komitet Rady Ministrów przyjął Strategię Rozwoju Polski 2035 oraz kolejną rewizję KPO - poinformował wiceminister funduszy i polityki regionalnej Jan Szyszko. Dodał, że w ramach rewizji dołożone",
+      "date_published": "2026-03-05T14:52:00+01:00",
+      "source": "PAP Biznes"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Baza-lotnicza-Istres-Francja-otwiera-bramy-dla-Amerykanow-ale-jest-warunek-9093619.html",
       "url": "https://www.bankier.pl/wiadomosc/Baza-lotnicza-Istres-Francja-otwiera-bramy-dla-Amerykanow-ale-jest-warunek-9093619.html",
       "title": "Baza lotnicza Istres. Francja otwiera bramy dla Amerykanów, ale jest warunek",
@@ -275,6 +451,14 @@
       "content_html": "Miał być hit, a mamy aferę. Osoby, którym w piątkowym naborze przyznano Warmińsko-Mazurski Bon Turystyczny, nie będą mogły go zrealizować. Konkurs został anulowany, bo doszło do „naruszenia bezpieczeństwa systemu”, prawdopodobnie przez...",
       "date_published": "2026-03-05T14:50:00+01:00",
       "source": "Bankier.pl"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/firmy/pkee-postuluje-zlagodzenie-systemu-ets-i-wylaczenie-z-niego-elektrowni-szczytowych",
+      "url": "https://biznes.pap.pl/wiadomosci/firmy/pkee-postuluje-zlagodzenie-systemu-ets-i-wylaczenie-z-niego-elektrowni-szczytowych",
+      "title": "PKEE postuluje złagodzenie systemu ETS i wyłączenie z niego elektrowni szczytowych",
+      "content_html": "Reforma systemu EU ETS musi pilnie ograniczyć jego negatywny wpływ na ceny energii i konkurencyjność europejskiego przemysłu - uważa Polski Komitet Energii Elektrycznej, który postuluje m.in. realne w",
+      "date_published": "2026-03-05T14:42:00+01:00",
+      "source": "PAP Biznes"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Wyciskanie-krotkich-w-Korei-Poludniowej-i-panstwowy-fundusz-podniosly-gielde-w-Seulu-9093610.html",
@@ -301,12 +485,28 @@
       "source": "Bankier.pl"
     },
     {
+      "id": "https://biznes.pap.pl/wiadomosci/rynki/dzien-na-rynkach-futures-w-usa-spadaja-ceny-ropy-zwyzkuja-0",
+      "url": "https://biznes.pap.pl/wiadomosci/rynki/dzien-na-rynkach-futures-w-usa-spadaja-ceny-ropy-zwyzkuja-0",
+      "title": "DZIEŃ NA RYNKACH: Futures w USA spadają; ceny ropy zwyżkują",
+      "content_html": "Kontrakty w USA zniżkują, podobnie jak indeksy w Europie. Na rynkach panuje obawa, że przedłużanie się wojny Izraela i USA z Iranem może się przełożyć na wzrost inflacji i cen energii. Ceny ropy zwyżk",
+      "date_published": "2026-03-05T14:28:00+01:00",
+      "source": "PAP Biznes"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Pharmena-zakonczyla-ocene-skutecznosci-1-MNA-w-luszczycy-9093595.html",
       "url": "https://www.bankier.pl/wiadomosc/Pharmena-zakonczyla-ocene-skutecznosci-1-MNA-w-luszczycy-9093595.html",
       "title": "Pharmena zakończyła ocenę skuteczności 1-MNA w łuszczycy",
       "content_html": "Pharmena zakończyła realizację projektu oceny skuteczności 1-metylonikotynamidu (1-MNA) u pacjentów chorych na łuszczycę prowadzonego we współpracy z Uniwersytetem Medycznym w Łodzi - podała spółka w komunikacie.",
       "date_published": "2026-03-05T14:26:00+01:00",
       "source": "Bankier.pl"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/firmy/pharmena-zakonczyla-ocene-skutecznosci-1-mna-w-luszczycy",
+      "url": "https://biznes.pap.pl/wiadomosci/firmy/pharmena-zakonczyla-ocene-skutecznosci-1-mna-w-luszczycy",
+      "title": "Pharmena zakończyła ocenę skuteczności 1-MNA w łuszczycy",
+      "content_html": "Pharmena zakończyła realizację projektu oceny skuteczności 1-metylonikotynamidu (1-MNA) u pacjentów chorych na łuszczycę prowadzonego we współpracy z Uniwersytetem Medycznym w Łodzi - podała spółka w ",
+      "date_published": "2026-03-05T14:25:00+01:00",
+      "source": "PAP Biznes"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Zelenski-Ukraina-odzyskala-200-osob-z-rosyjskiej-niewoli-9093581.html",
@@ -341,6 +541,14 @@
       "source": "Bankier.pl"
     },
     {
+      "id": "https://biznes.pap.pl/wiadomosci/firmy/liczba-mieszkan-oddanych-przez-deweloperow-w-warszawie-w-25-wzrosla-o-295-proc-gus",
+      "url": "https://biznes.pap.pl/wiadomosci/firmy/liczba-mieszkan-oddanych-przez-deweloperow-w-warszawie-w-25-wzrosla-o-295-proc-gus",
+      "title": "Liczba mieszkań oddanych przez deweloperów w Warszawie w '25 wzrosła o 29,5 proc. - GUS",
+      "content_html": "Liczba mieszkań oddanych przez deweloperów w Warszawie w 2025 roku wzrosła o 29,5 proc. - podał Główny Urząd Statystyczny.",
+      "date_published": "2026-03-05T13:57:00+01:00",
+      "source": "PAP Biznes"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Przedsprzedaz-oferty-Lato-2026-Rainbow-Tours-wzrosla-o-10-9-proc-w-porownaniu-do-oferty-Lato-2025-9093555.html",
       "url": "https://www.bankier.pl/wiadomosc/Przedsprzedaz-oferty-Lato-2026-Rainbow-Tours-wzrosla-o-10-9-proc-w-porownaniu-do-oferty-Lato-2025-9093555.html",
       "title": "Przedsprzedaż oferty \"Lato 2026\" Rainbow Tours wzrosła o 10,9 proc. w porównaniu do oferty \"Lato 2025\"",
@@ -349,12 +557,36 @@
       "source": "Bankier.pl"
     },
     {
+      "id": "https://biznes.pap.pl/wiadomosci/gospodarka/kraje-ue-ostatecznie-zatwierdzily-cel-klimatyczny-na-2040-r-zakladajacy",
+      "url": "https://biznes.pap.pl/wiadomosci/gospodarka/kraje-ue-ostatecznie-zatwierdzily-cel-klimatyczny-na-2040-r-zakladajacy",
+      "title": "Kraje UE ostatecznie zatwierdziły cel klimatyczny na 2040 r., zakładający redukcję emisji o 90 proc.",
+      "content_html": "Kraje Unii Europejskiej w czwartek ostatecznie zatwierdziły nowy cel klimatyczny, zakładający redukcję emisji gazów cieplarnianych o 90 proc. do 2040 r. w stosunku do poziomu z 1990 r. Zatwierdzono ró",
+      "date_published": "2026-03-05T13:48:00+01:00",
+      "source": "PAP Biznes"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/firmy/przedsprzedaz-oferty-lato-2026-rainbow-tours-wzrosla-o-109-proc-w-porownaniu-do",
+      "url": "https://biznes.pap.pl/wiadomosci/firmy/przedsprzedaz-oferty-lato-2026-rainbow-tours-wzrosla-o-109-proc-w-porownaniu-do",
+      "title": "Przedsprzedaż oferty \"Lato 2026\" Rainbow Tours wzrosła o 10,9 proc. w porównaniu do oferty \"Lato 2025\"",
+      "content_html": "Rainbow Tours do 28 lutego 2026 roku przedsprzedało ofertę \"Lato 2026\" 266.477 osobom, wobec 240.286 osób rok wcześniej w tym samym okresie, co oznacza wzrost o 10,9 proc. rdr - podała spółka w komuni",
+      "date_published": "2026-03-05T13:46:00+01:00",
+      "source": "PAP Biznes"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Nowy-cel-klimatyczny-UE-Redukcja-emisji-o-90-stala-sie-faktem-ETS2-opozniony-9093549.html",
       "url": "https://www.bankier.pl/wiadomosc/Nowy-cel-klimatyczny-UE-Redukcja-emisji-o-90-stala-sie-faktem-ETS2-opozniony-9093549.html",
       "title": "Nowy cel klimatyczny UE. Redukcja emisji o 90% stała się faktem, ETS2 opóźniony",
       "content_html": "Kraje Unii Europejskiej w czwartek ostatecznie zatwierdziły nowy cel klimatyczny, zakładający redukcję emisji gazów cieplarnianych o 90 proc. do 2040 r. w stosunku do poziomu z 1990 r. Zatwierdzono również roczne opóźnienie wejścia w życie...",
       "date_published": "2026-03-05T13:41:00+01:00",
       "source": "Bankier.pl"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/konsument/klauzula-ochronna-do-umowy-z-mercosurem-ostatecznie-zatwierdzona-ue",
+      "url": "https://biznes.pap.pl/wiadomosci/konsument/klauzula-ochronna-do-umowy-z-mercosurem-ostatecznie-zatwierdzona-ue",
+      "title": "Klauzula ochronna do umowy z Mercosurem ostatecznie zatwierdzona - UE",
+      "content_html": "Kraje UE w czwartek poparły rozporządzenie wprowadzające klauzulę ochronną do umowy handlowej Wspólnoty z Mercosurem. To ostateczny krok w procesie legislacyjnym. Oznacza, że klauzula będzie już dział",
+      "date_published": "2026-03-05T13:41:00+01:00",
+      "source": "PAP Biznes"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Koniec-darmowego-wsparcia-w-ZEA-MSZ-ostrzega-przed-zmianami-9093545.html",
@@ -397,6 +629,14 @@
       "source": "Bankier.pl"
     },
     {
+      "id": "https://biznes.pap.pl/wiadomosci/gry-i-technologie/vercom-liczy-na-dalsze-wzrosty-w-2026-r-planuje-kolejne-akwizycje",
+      "url": "https://biznes.pap.pl/wiadomosci/gry-i-technologie/vercom-liczy-na-dalsze-wzrosty-w-2026-r-planuje-kolejne-akwizycje",
+      "title": "Vercom liczy na dalsze wzrosty w 2026 r., planuje kolejne akwizycje (wywiad)",
+      "content_html": "Vercom liczy na dalsze wzrosty w 2026 r. i planuje kolejne akwizycje, na które obecnie może przeznaczyć co najmniej 600 mln zł - poinformował PAP Biznes prezes Krzysztof Szyszka. Wskazał, że spółka wi",
+      "date_published": "2026-03-05T13:16:00+01:00",
+      "source": "PAP Biznes"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Iranski-pocisk-lecial-w-strone-Turcji-Szef-NATO-zabiera-glos-9093472.html",
       "url": "https://www.bankier.pl/wiadomosc/Iranski-pocisk-lecial-w-strone-Turcji-Szef-NATO-zabiera-glos-9093472.html",
       "title": "Irański pocisk leciał w stronę Turcji. Szef NATO zabiera głos",
@@ -437,6 +677,14 @@
       "source": "Bankier.pl"
     },
     {
+      "id": "https://biznes.pap.pl/wiadomosci/firmy/asseco-bs-wskazuje-implementacje-ai-w-rozwoju-produktow-jako-priorytet-na-2026-r",
+      "url": "https://biznes.pap.pl/wiadomosci/firmy/asseco-bs-wskazuje-implementacje-ai-w-rozwoju-produktow-jako-priorytet-na-2026-r",
+      "title": "Asseco BS wskazuje implementację AI w rozwoju produktów jako priorytet na 2026 r.",
+      "content_html": "Asseco BS wskazuje implementację AI w rozwoju produktów jako priorytet na 2026 r. oraz oczekuje dobrego roku w obszarze FMCG - poinformował na konferencji prasowej członek zarządu Mariusz Lizon.",
+      "date_published": "2026-03-05T13:04:00+01:00",
+      "source": "PAP Biznes"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Adwokat-od-trumien-na-kolkach-prawomocnie-skazany-na-1-5-roku-wiezienia-9093457.html",
       "url": "https://www.bankier.pl/wiadomosc/Adwokat-od-trumien-na-kolkach-prawomocnie-skazany-na-1-5-roku-wiezienia-9093457.html",
       "title": "Adwokat od „trumien na kółkach” prawomocnie skazany na 1,5 roku więzienia",
@@ -467,6 +715,14 @@
       "content_html": "Szefowa dyplomacji Unii Europejskiej Kaja Kallas powiedziała w czwartek, że organizowana jest ewakuacja obywateli państw UE z Bliskiego Wschodu, a Komisja Europejska odpowiada za koordynowanie działań służb konsularnych. Poinformowała też, że...",
       "date_published": "2026-03-05T12:44:00+01:00",
       "source": "Bankier.pl"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/rynki/aktywa-ofe-wzrosly-o-14-proc-do-rekordowych-3150-mld-zl-w-lutym-2026-r-igte",
+      "url": "https://biznes.pap.pl/wiadomosci/rynki/aktywa-ofe-wzrosly-o-14-proc-do-rekordowych-3150-mld-zl-w-lutym-2026-r-igte",
+      "title": "Aktywa OFE wzrosły o 1,4 proc. do rekordowych 315,0 mld zł w lutym 2026 r. - IGTE, Analizy.pl",
+      "content_html": "Aktywa otwartych funduszy emerytalnych wzrosły o 1,4 proc. do rekordowych 315,02 mld zł w lutym 2026 r. - poinformowano w raporcie przygotowanym przez Analizy Online na zlecenie Izby Gospodarczej Towa",
+      "date_published": "2026-03-05T12:38:00+01:00",
+      "source": "PAP Biznes"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Fabrity-stawia-na-przemysl-i-AI-zwieksza-inwestycje-w-pracownikow-wywiad-9093485.html",
@@ -1013,44 +1269,12 @@
       "source": "PAP Biznes"
     },
     {
-      "id": "https://www.bankier.pl/wiadomosc/Carney-Nie-wykluczamy-dzialan-na-Bliskim-Wschodzie-Pomozemy-na-prosbe-sojusznikow-9093246.html",
-      "url": "https://www.bankier.pl/wiadomosc/Carney-Nie-wykluczamy-dzialan-na-Bliskim-Wschodzie-Pomozemy-na-prosbe-sojusznikow-9093246.html",
-      "title": "Carney: Nie wykluczamy działań na Bliskim Wschodzie. Pomożemy na prośbę sojuszników",
-      "content_html": "Premier Kanady Mark Carney powiedział w czwartek, że nie można całkowicie wykluczyć wojskowego udziału Kanady w konflikcie na Bliskim Wschodzie. Podkreślił jednak, że będzie to zależało od sytuacji.",
-      "date_published": "2026-03-05T08:07:00+01:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/USA-i-Izrael-eliminuja-czlonkow-rezimu-ktorzy-tlumili-prostety-w-Iranie-9093244.html",
-      "url": "https://www.bankier.pl/wiadomosc/USA-i-Izrael-eliminuja-czlonkow-rezimu-ktorzy-tlumili-prostety-w-Iranie-9093244.html",
-      "title": "USA i Izrael eliminują członków reżimu, którzy tłumili prostety w Iranie",
-      "content_html": "USA i Izrael podczas nalotów na Iran atakują członków reżimu, którzy brali udział w tłumieniu antyrządowych demonstracji na przełomie grudnia i stycznia - pisze Times of Israel. Źródła portalu twierdzą, że oba kraje chcą ułatwić Irańczykom...",
-      "date_published": "2026-03-05T08:03:00+01:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Ceny-miedzi-w-Londynie-spadaja-w-reakcji-na-slabe-cele-Chin-dotyczace-PKB-9093315.html",
-      "url": "https://www.bankier.pl/wiadomosc/Ceny-miedzi-w-Londynie-spadaja-w-reakcji-na-slabe-cele-Chin-dotyczace-PKB-9093315.html",
-      "title": "Ceny miedzi w Londynie spadają w reakcji na słabe cele Chin dotyczące PKB",
-      "content_html": "Notowania miedzi na giełdzie metali LME w Londynie spadają w reakcji na słabe cele Chin dotyczące PKB w 2026 r. - informują maklerzy.",
-      "date_published": "2026-03-05T08:03:00+01:00",
-      "source": "Bankier.pl"
-    },
-    {
       "id": "https://biznes.pap.pl/wiadomosci/rynki/ceny-miedzi-w-londynie-spadaja-w-reakcji-na-slabe-cele-chin-dotyczace-pkb",
       "url": "https://biznes.pap.pl/wiadomosci/rynki/ceny-miedzi-w-londynie-spadaja-w-reakcji-na-slabe-cele-chin-dotyczace-pkb",
       "title": "Ceny miedzi w Londynie spadają w reakcji na słabe cele Chin dotyczące PKB",
       "content_html": "Notowania miedzi na giełdzie metali LME w Londynie spadają w reakcji na słabe cele Chin dotyczące PKB w 2026 r. - informują maklerzy.",
       "date_published": "2026-03-05T08:02:00+01:00",
       "source": "PAP Biznes"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Zlote-rezerwy-NBP-na-polskie-SAFE-Szef-Kancelarii-Premiera-o-pomysle-Nawrockiego-9093184.html",
-      "url": "https://www.bankier.pl/wiadomosc/Zlote-rezerwy-NBP-na-polskie-SAFE-Szef-Kancelarii-Premiera-o-pomysle-Nawrockiego-9093184.html",
-      "title": "Złote rezerwy NBP na \"polskie SAFE\"? Szef Kancelarii Prezydenta o pomyśle Nawrockiego",
-      "content_html": "Szef kancelarii prezydenta Zbigniew Bogucki ocenił, że zaproponowany przez prezydenta Karola Nawrockiego polski program \"SAFE 0 proc.\" mógłby być sfinansowany z rezerw walutowych NBP deponowanych w złocie.",
-      "date_published": "2026-03-05T08:00:00+01:00",
-      "source": "Bankier.pl"
     },
     {
       "id": "https://biznes.pap.pl/wiadomosci/rynki/najwazniejsze-indeksy-gieldowe-w-azji-674",
@@ -1061,36 +1285,12 @@
       "source": "PAP Biznes"
     },
     {
-      "id": "https://www.bankier.pl/wiadomosc/Wsparcie-tylko-pod-warunkiem-Stany-Zjednoczone-prosza-Kijow-o-pomoc-9093218.html",
-      "url": "https://www.bankier.pl/wiadomosc/Wsparcie-tylko-pod-warunkiem-Stany-Zjednoczone-prosza-Kijow-o-pomoc-9093218.html",
-      "title": "Wsparcie tylko \"pod warunkiem\". Stany Zjednoczone proszą Kijów o pomoc",
-      "content_html": "Partnerzy Ukrainy, w tym Stany Zjednoczone, zwrócili się do Kijowa o pomoc w obronie przed irańskimi dronami Shahed - przekazał w środę prezydent Ukrainy Wołodymyr Zełenski. Zapowiedział też rozmowy z liderami Bliskiego Wschodu i dodał, że...",
-      "date_published": "2026-03-05T07:57:00+01:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Ceny-ropy-rosna-pomimo-zapowiedzi-USA-dot-eskorty-statkow-w-Ciesninie-Ormuz-9093309.html",
-      "url": "https://www.bankier.pl/wiadomosc/Ceny-ropy-rosna-pomimo-zapowiedzi-USA-dot-eskorty-statkow-w-Ciesninie-Ormuz-9093309.html",
-      "title": "Ceny ropy rosną pomimo zapowiedzi USA dot. eskorty statków w Cieśninie Ormuz",
-      "content_html": "Ceny ropy naftowej mocno rosną i nie reagują na zapowiedzi USA dot. eskortowania tankowców z ropą w Cieśninie Ormuz - informują maklerzy.",
-      "date_published": "2026-03-05T07:55:00+01:00",
-      "source": "Bankier.pl"
-    },
-    {
       "id": "https://biznes.pap.pl/wiadomosci/rynki/ceny-ropy-rosna-pomimo-zapowiedzi-usa-dot-eskorty-statkow-w-ciesninie-ormuz",
       "url": "https://biznes.pap.pl/wiadomosci/rynki/ceny-ropy-rosna-pomimo-zapowiedzi-usa-dot-eskorty-statkow-w-ciesninie-ormuz",
       "title": "Ceny ropy rosną pomimo zapowiedzi USA dot. eskorty statków w Cieśninie Ormuz",
       "content_html": "Ceny ropy naftowej mocno rosną i nie reagują na zapowiedzi USA dot. eskortowania tankowców z ropą w Cieśninie Ormuz - informują maklerzy.",
       "date_published": "2026-03-05T07:54:00+01:00",
       "source": "PAP Biznes"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Zatoka-Perska-stala-sie-pulapka-40-mln-obcokrajowcow-uwiezionych-przez-wojne-9093238.html",
-      "url": "https://www.bankier.pl/wiadomosc/Zatoka-Perska-stala-sie-pulapka-40-mln-obcokrajowcow-uwiezionych-przez-wojne-9093238.html",
-      "title": "Zatoka Perska stała się pułapką. 40 mln obcokrajowców uwięzionych przez wojnę",
-      "content_html": "Całkowita liczba obcokrajowców w Zatoce Perskiej waha się – według międzynarodowego projektu Gulf Migation - od 35 do 40 mln osób. Większość z nich pochodzi z krajów muzułmańskich Azji i Afryki, które obecnie rozpaczliwie próbują ewakuować...",
-      "date_published": "2026-03-05T07:43:00+01:00",
-      "source": "Bankier.pl"
     },
     {
       "id": "https://biznes.pap.pl/wiadomosci/gospodarka/szef-kancelarii-prezydenta-sugeruje-wykorzystanie-rezerw-zlota-nbp-na-safe-0",
@@ -1101,76 +1301,12 @@
       "source": "PAP Biznes"
     },
     {
-      "id": "https://www.bankier.pl/wiadomosc/Koniec-darmowej-opieki-dla-uchodzcow-Nowe-przepisy-wchodza-w-zycie-9093259.html",
-      "url": "https://www.bankier.pl/wiadomosc/Koniec-darmowej-opieki-dla-uchodzcow-Nowe-przepisy-wchodza-w-zycie-9093259.html",
-      "title": "Koniec darmowej opieki zdrowotnej dla uchodźców. Nowe przepisy wchodzą w życie",
-      "content_html": "Bezpłatne leczenie od czwartku przysługuje tylko obywatelom Ukrainy, którzy są ofiarami tortur, a także m.in. dzieciom i kobietom w ciąży. Pozostali Ukraińcy, którzy uciekli do Polski przed wojną, aby korzystać z publicznego systemu muszą...",
-      "date_published": "2026-03-05T07:36:00+01:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Polska-z-wlasna-bronia-jadrowa-USA-bylyby-przeciwne-9093182.html",
-      "url": "https://www.bankier.pl/wiadomosc/Polska-z-wlasna-bronia-jadrowa-USA-bylyby-przeciwne-9093182.html",
-      "title": "Polska z własną bronią jądrową? \"USA byłyby przeciwne\"",
-      "content_html": "Wiceszef Pentagonu Elbridge Colby powiedział w środę, że USA byłyby przeciwne rozwijaniu zdolności nuklearnych przez takie państwa jak Polska, Niemcy czy kraje skandynawskie.",
-      "date_published": "2026-03-05T07:35:00+01:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/NATO-musi-bronic-Arktyki-Zbrojeniowa-rewolucja-w-Ottawie-9093243.html",
-      "url": "https://www.bankier.pl/wiadomosc/NATO-musi-bronic-Arktyki-Zbrojeniowa-rewolucja-w-Ottawie-9093243.html",
-      "title": "\"NATO musi bronić Arktyki\". Zbrojeniowa rewolucja w Ottawie",
-      "content_html": "Kanada osiągnie poziom wydatków na obronność w wysokości 2 proc. PKB w tym roku, a 5 proc. do 2035 r. – poinformowała w środę minister spraw zagranicznych Anita Anand. Wezwała kraje NATO do zmiany polityki wobec Arktyki.",
-      "date_published": "2026-03-05T07:33:00+01:00",
-      "source": "Bankier.pl"
-    },
-    {
       "id": "https://biznes.pap.pl/wiadomosci/gospodarka/w-marcu-bedzie-w-sumie-186-konkursow-na-srodki-z-ue",
       "url": "https://biznes.pap.pl/wiadomosci/gospodarka/w-marcu-bedzie-w-sumie-186-konkursow-na-srodki-z-ue",
       "title": "W marcu będzie w sumie 186 konkursów na środki z UE",
       "content_html": "W marcu można składać wnioski w sumie w 186 konkursach na środki z UE - podało Ministerstwo Funduszy i Polityki Regionalnej.",
       "date_published": "2026-03-05T07:31:00+01:00",
       "source": "PAP Biznes"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Koniec-cierpliwosci-pacjentow-Liczba-skarg-wzrosla-o-11-proc-9093248.html",
-      "url": "https://www.bankier.pl/wiadomosc/Koniec-cierpliwosci-pacjentow-Liczba-skarg-wzrosla-o-11-proc-9093248.html",
-      "title": "Koniec cierpliwości pacjentów. Liczba skarg wzrosła o 11 proc.",
-      "content_html": "Liczba skarg na placówki medyczne wzrosła w 2025 r. o 11 proc. do w sumie 8548 – wynika z danych przygotowanych przez NFZ – pisze w czwartek „Dziennik Gazeta Prawna”.",
-      "date_published": "2026-03-05T07:29:00+01:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Mandat-zamiast-wiezienia-za-hejt-Rosnie-presja-na-zlagodzenie-sankcji-9093247.html",
-      "url": "https://www.bankier.pl/wiadomosc/Mandat-zamiast-wiezienia-za-hejt-Rosnie-presja-na-zlagodzenie-sankcji-9093247.html",
-      "title": "Mandat zamiast więzienia za hejt? Rośnie presja na złagodzenie sankcji",
-      "content_html": "58 proc. ekspertów zapytanych przez „Rzeczpospolitą” jest przeciwnych depenalizacji zniesławień. Taki sam odsetek ankietowanych uważa jednak, że czyn ten nie powinien być zagrożony karą pozbawienia wolności - czytamy w czwartkowej „Rzeczpospolitej\"...",
-      "date_published": "2026-03-05T07:25:00+01:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Polacy-uwiezieni-za-granica-Co-zrobic-jesli-konczy-sie-urlop-a-nie-da-sie-wrocic-do-pracy-9093286.html",
-      "url": "https://www.bankier.pl/wiadomosc/Polacy-uwiezieni-za-granica-Co-zrobic-jesli-konczy-sie-urlop-a-nie-da-sie-wrocic-do-pracy-9093286.html",
-      "title": "Polacy uwięzieni za granicą. Co zrobić, jeśli kończy się urlop, a nie da się wrócić do pracy?",
-      "content_html": "Pracownik, który nie ma możliwości powrotu do kraju, np. w związku z sytuacją na Bliskim Wschodzie powinien w pierwszej kolejności powiadomić pracodawcę o przyczynie swojej nieobecności i przewidywanym okresie jej trwania - powiedział PAP ekspert...",
-      "date_published": "2026-03-05T07:20:00+01:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Mit-wielkiej-luki-obalony-Eksperci-ostrzegaja-To-nie-jest-sposob-na-deficyt-9093249.html",
-      "url": "https://www.bankier.pl/wiadomosc/Mit-wielkiej-luki-obalony-Eksperci-ostrzegaja-To-nie-jest-sposob-na-deficyt-9093249.html",
-      "title": "Mit wielkiej luki obalony. Eksperci ostrzegają: To nie jest sposób na deficyt",
-      "content_html": "Rząd nie zyska miliardów. Luka VAT nie może być traktowana jako istotne źródło redukcji deficytu, a jej dalsze ograniczenie jako polityczny pretekst do nowych wydatków - oto główne wnioski raportu, do którego dotarła czwartkowa „Rzeczpospolita”...",
-      "date_published": "2026-03-05T07:19:00+01:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Wyrok-w-sprawie-trumny-na-kolkach-Sad-w-Olsztynie-dzis-oglosi-decyzje-9093298.html",
-      "url": "https://www.bankier.pl/wiadomosc/Wyrok-w-sprawie-trumny-na-kolkach-Sad-w-Olsztynie-dzis-oglosi-decyzje-9093298.html",
-      "title": "Wyrok w sprawie „trumny na kółkach”. Sąd w Olsztynie dziś ogłosi decyzję",
-      "content_html": "Sąd Okręgowy w Olsztynie ma ogłosić w czwartek wyrok w sprawie apelacyjnej Pawła K., oskarżonego o spowodowanie wypadku, w którym zginęły dwie kobiety. Łódzki adwokat, znany z określenia auta ofiar jako „trumny na kółkach”, został skazany...",
-      "date_published": "2026-03-05T07:05:00+01:00",
-      "source": "Bankier.pl"
     },
     {
       "id": "https://biznes.pap.pl/wiadomosci/firmy/rosnie-udzial-krajowych-inwestorow-na-rynku-nieruchomosci-w-polsce-ey",
@@ -1205,30 +1341,6 @@
       "source": "PAP Biznes"
     },
     {
-      "id": "https://www.bankier.pl/wiadomosc/Hiszpania-robi-krok-wstecz-Bialy-Dom-Madryt-zgadza-sie-na-wspolprace-wojskowa-9093162.html",
-      "url": "https://www.bankier.pl/wiadomosc/Hiszpania-robi-krok-wstecz-Bialy-Dom-Madryt-zgadza-sie-na-wspolprace-wojskowa-9093162.html",
-      "title": "Hiszpania robi krok wstecz? Biały Dom: Madryt zgadza się na współpracę wojskową. Hiszpania zaprzecza",
-      "content_html": "Władze Hiszpanii usłyszały przesłanie prezydenta i zgodziły się współpracować z amerykańskim wojskiem - oświadczyła w środę rzeczniczka Białego Domu Karoline Leavitt. Sugerowała w ten sposób, że nie dojdzie do zerwania stosunków handlowych...",
-      "date_published": "2026-03-05T06:56:00+01:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Iran-zagrozil-atakiem-na-izraelski-osrodek-nuklearny-9093267.html",
-      "url": "https://www.bankier.pl/wiadomosc/Iran-zagrozil-atakiem-na-izraelski-osrodek-nuklearny-9093267.html",
-      "title": "Iran zagroził atakiem na izraelski ośrodek nuklearny",
-      "content_html": "Irańska agencja ISNA podała, że Korpus Strażników Rewolucji Islamskiej (IRGC) zagroził w środę atakiem na izraelski ośrodek nuklearny w Dimonie. Prezydent USA Donald Trump ocenił powodzenie trwającej od soboty operacji izraelsko-amerykańskiej...",
-      "date_published": "2026-03-05T06:47:00+01:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Gotowka-tylko-na-czarna-godzine-Polacy-zmieniaja-nawyki-9093270.html",
-      "url": "https://www.bankier.pl/wiadomosc/Gotowka-tylko-na-czarna-godzine-Polacy-zmieniaja-nawyki-9093270.html",
-      "title": "Gotówka tylko na czarną godzinę? Polacy zmieniają nawyki",
-      "content_html": "Transakcje bezgotówkowe wybiera na co dzień 61 proc. konsumentów, a 47 proc. uważa dostęp do gotówki za konieczne zabezpieczenie - wynika z badania IBRiS zrealizowanego dla Blik. Przy tym 36 proc. uczestników badania wskazało, że możliwość...",
-      "date_published": "2026-03-05T06:45:00+01:00",
-      "source": "Bankier.pl"
-    },
-    {
       "id": "https://biznes.pap.pl/wiadomosci/rynki/rentownosci-obligacji-wybranych-panstw-tabela-2562",
       "url": "https://biznes.pap.pl/wiadomosci/rynki/rentownosci-obligacji-wybranych-panstw-tabela-2562",
       "title": "Rentowności obligacji wybranych państw (tabela)",
@@ -1261,26 +1373,10 @@
       "source": "PAP Biznes"
     },
     {
-      "id": "https://www.bankier.pl/wiadomosc/Chiny-rzucaja-wyzwanie-Zachodowi-Premier-Li-Qiang-ostrzega-9093273.html",
-      "url": "https://www.bankier.pl/wiadomosc/Chiny-rzucaja-wyzwanie-Zachodowi-Premier-Li-Qiang-ostrzega-9093273.html",
-      "title": "Chiny rzucają wyzwanie Zachodowi. Premier Li Qiang ostrzega",
-      "content_html": "Premier Chin Li Qiang zadeklarował w czwartek gotowość do budowy „równego i uporządkowanego świata wielobiegunowego”, ostrzegając jednocześnie przed zachodnim protekcjonizmem. W raporcie otwierającym sesję parlamentu Pekin zapowiedział...",
-      "date_published": "2026-03-05T06:24:00+01:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Kuczynski-o-polskim-SAFE-0-proc-NBP-nie-moze-finansowac-swoimi-srodkami-budzetu-panstwa-9093277.html",
-      "url": "https://www.bankier.pl/wiadomosc/Kuczynski-o-polskim-SAFE-0-proc-NBP-nie-moze-finansowac-swoimi-srodkami-budzetu-panstwa-9093277.html",
-      "title": "Kuczyński o „polskim SAFE 0 proc.”: NBP nie może finansować swoimi środkami budżetu państwa",
-      "content_html": "Zgodnie z konstytucją Narodowy Bank Polski nie może finansować swoimi środkami budżetu państwa - powiedział PAP Piotr Kuczyński z Domu Inwestycyjnego Xelion, odnosząc się do zapowiadanego „polskiego SAFE 0 proc.”.",
-      "date_published": "2026-03-05T06:18:00+01:00",
-      "source": "Bankier.pl"
-    },
-    {
       "id": "https://www.bankier.pl/wiadomosc/BNP-Paribas-BP-chce-wyplacic-10-2-zl-dywidendy-na-akcje-9093274.html",
       "url": "https://www.bankier.pl/wiadomosc/BNP-Paribas-BP-chce-wyplacic-10-2-zl-dywidendy-na-akcje-9093274.html",
-      "title": "BNP Paribas BP chce wypłacić 10,2 zł dywidendy na akcję",
-      "content_html": "Zarząd BNP Paribas Bank Polska rekomenduje, by z zysku netto za 2025 roku w wysokości 3,01 mld zł przeznaczyć na wypłatę dywidendy kwotę ok. 1,51 mld zł, co dałoby 10,2 zł dywidendy na akcję - poinformował bank w komunikacie.",
+      "title": "BNP Paribas BP chce wypłacić 10,2 zł dywidendy na akcję Zarząd BNP Paribas Bank Polska rekomenduje, by z zysku netto za 2025 roku w wysokości 3,01 mld zł przeznaczyć na wypłatę dywidendy kwotę ok. 1,51 mld zł, co dałoby 10,2 zł dywidendy na akcję - poinformował bank w komunikacie.",
+      "content_html": "",
       "date_published": "2026-03-05T06:10:00+01:00",
       "source": "Bankier.pl"
     },
@@ -1338,94 +1434,6 @@
       "title": "Prezydent i prezes NBP omawiali program SAFE 0 proc. finansowany z pomocą NBP (opis)",
       "content_html": "Prezydent Karol Nawrocki i prezes NBP Adam Glapiński omawiali w środę alternatywę dla unijnego programu SAFE - krajowy program SAFE 0 proc., który miałby być finansowany z pomocą banku centralnego. Pr",
       "date_published": "2026-03-04T19:05:00+01:00",
-      "source": "PAP Biznes"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Asseco-BS-planuje-wyplacic-3-75-zl-dywidendy-na-akcje-9093124.html",
-      "url": "https://www.bankier.pl/wiadomosc/Asseco-BS-planuje-wyplacic-3-75-zl-dywidendy-na-akcje-9093124.html",
-      "title": "Asseco BS planuje wypłacić 3,75 zł dywidendy na akcję Zarząd i rada nadzorcza Asseco Business Solutions rekomendują walnemu zgromadzeniu wypłatę dywidendy w wysokości 3,75 zł na akcję - podała spółka w komunikacie. Łącznie na ten cel ma trafić 125,32 mln zł.",
-      "content_html": "",
-      "date_published": "2026-03-04T18:58:00+01:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/firmy/asseco-bs-planuje-wyplacic-375-zl-dywidendy-na-akcje",
-      "url": "https://biznes.pap.pl/wiadomosci/firmy/asseco-bs-planuje-wyplacic-375-zl-dywidendy-na-akcje",
-      "title": "Asseco BS planuje wypłacić 3,75 zł dywidendy na akcję",
-      "content_html": "Zarząd i rada nadzorcza Asseco Business Solutions rekomendują walnemu zgromadzeniu wypłatę dywidendy w wysokości 3,75 zł na akcję - podała spółka w komunikacie. Łącznie na ten cel ma trafić 125,32 mln",
-      "date_published": "2026-03-04T18:56:00+01:00",
-      "source": "PAP Biznes"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/firmy/zasoby-powierzchni-magazynowej-pod-koniec-25-wyniosly-366-mln-m-kw-wzrosly-6-proc",
-      "url": "https://biznes.pap.pl/wiadomosci/firmy/zasoby-powierzchni-magazynowej-pod-koniec-25-wyniosly-366-mln-m-kw-wzrosly-6-proc",
-      "title": "Zasoby powierzchni magazynowej pod koniec '25 wyniosły 36,6 mln m kw., wzrosły 6 proc. rdr - AXI IMMO",
-      "content_html": "Całkowite zasoby nowoczesnej powierzchni magazynowej na koniec grudnia 2025 r. wyniosły 36,58 mln m kw., czyli wzrosły 6 proc. rdr. Nowa podaż w 2025 r. spadła do 1,68 mln m kw., czyli o 35 proc. rdr,",
-      "date_published": "2026-03-04T18:28:00+01:00",
-      "source": "PAP Biznes"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/rynki/dzien-na-rynkach-indeksy-w-europie-odbily-po-wczesniejszych-spadkach",
-      "url": "https://biznes.pap.pl/wiadomosci/rynki/dzien-na-rynkach-indeksy-w-europie-odbily-po-wczesniejszych-spadkach",
-      "title": "DZIEŃ NA RYNKACH: Indeksy w Europie odbiły po wcześniejszych spadkach",
-      "content_html": "Giełdy w Europie zakończyły środową sesję ze wzrostami, po dużych spadkach od czasu rozpoczecia przez Izrael i USA wojny z Iranem.",
-      "date_published": "2026-03-04T18:09:00+01:00",
-      "source": "PAP Biznes"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/rynki/zamkniecia-na-gieldach-w-europie-tabela-2832",
-      "url": "https://biznes.pap.pl/wiadomosci/rynki/zamkniecia-na-gieldach-w-europie-tabela-2832",
-      "title": "Zamknięcia na giełdach w Europie (tabela)",
-      "content_html": "Poniżej zamknięcia i zmiany wybranych indeksów giełdowych w Europie.",
-      "date_published": "2026-03-04T18:04:00+01:00",
-      "source": "PAP Biznes"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Wyniki-Asseco-Business-Solutions-w-IV-kw-2025-roku-vs-konsensus-PAP-tabela-9093072.html",
-      "url": "https://www.bankier.pl/wiadomosc/Wyniki-Asseco-Business-Solutions-w-IV-kw-2025-roku-vs-konsensus-PAP-tabela-9093072.html",
-      "title": "Wyniki Asseco Business Solutions w IV kw. 2025 roku vs. konsensus PAP Poniżej przedstawiono wyniki Asseco Business Solutions w czwartym kwartale 2025 roku, według wyliczeń PAP Biznes, oraz ich odniesienie do konsensusu PAP Biznes i wcześniejszych wyników.",
-      "content_html": "",
-      "date_published": "2026-03-04T18:00:00+01:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/firmy/wyniki-asseco-business-solutions-w-iv-kw-2025-roku-vs-konsensus-pap-tabela",
-      "url": "https://biznes.pap.pl/wiadomosci/firmy/wyniki-asseco-business-solutions-w-iv-kw-2025-roku-vs-konsensus-pap-tabela",
-      "title": "Wyniki Asseco Business Solutions w IV kw. 2025 roku vs. konsensus PAP (tabela)",
-      "content_html": "Poniżej przedstawiono wyniki Asseco Business Solutions w czwartym kwartale 2025 roku, według wyliczeń PAP Biznes, oraz ich odniesienie do konsensusu PAP Biznes i wcześniejszych wyników.",
-      "date_published": "2026-03-04T17:58:00+01:00",
-      "source": "PAP Biznes"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/przemysl/ke-przyjela-unijna-strategie-przemyslowa-dot-gospodarki-morskiej-oraz-portow",
-      "url": "https://biznes.pap.pl/wiadomosci/przemysl/ke-przyjela-unijna-strategie-przemyslowa-dot-gospodarki-morskiej-oraz-portow",
-      "title": "KE przyjęła unijną strategię przemysłową dot. gospodarki morskiej oraz portów",
-      "content_html": "Komisja Europejska przyjęła w środę unijną strategię przemysłową dotyczącą gospodarki morskiej i znajdujących się w UE portów. Celem jest wzmocnienie przemysłu stoczniowego oraz zwiększenie konkurency",
-      "date_published": "2026-03-04T17:27:00+01:00",
-      "source": "PAP Biznes"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/RPP-znow-tnie-stopy-a-gielda-odbija-Koniec-paniki-wsrod-inwestorow-9093041.html",
-      "url": "https://www.bankier.pl/wiadomosc/RPP-znow-tnie-stopy-a-gielda-odbija-Koniec-paniki-wsrod-inwestorow-9093041.html",
-      "title": "SESJA NA GPW RPP znów tnie stopy, a giełda odbija. Koniec paniki wśród inwestorów? Środa przyniosła moment ulgi dla inwestorów, jednak analitycy ostrzegają, że przy obecnej niestabilności geopolitycznej, każda kolejna sesja może przynieść kolejny zwrot akcji. Sygnały o możliwych negocjacjach pokojowych stały się katalizatorami dynamicznego odbicia na rynkach akcji. W Polsce wydarzeniem numer jeden było cięcie stóp procentowych przez RPP, które jednak niezbyt mocno zaszkodziło złotemu. Byki z impetem powróciły do gry, odrabiając znaczną część strat z poprzednich dni handlu.",
-      "content_html": "",
-      "date_published": "2026-03-04T17:15:00+01:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/gospodarka/nizsze-cpi-w-projekcji-kluczowa-przeslanka-dla-rpp-niewykluczona-korekta-w",
-      "url": "https://biznes.pap.pl/wiadomosci/gospodarka/nizsze-cpi-w-projekcji-kluczowa-przeslanka-dla-rpp-niewykluczona-korekta-w",
-      "title": "Niższe CPI w projekcji kluczową przesłanką dla RPP; niewykluczona korekta w związku z Iranem (opinia)",
-      "content_html": "Projekcja NBP pokazuje inflację w celu przez kolejne trzy lata, ale powstała ona zapewne przed uderzeniem na Iran i skokiem cen energii, dlatego jeśli konflikt na Bliskim Wschodzie będzie się przedłuż",
-      "date_published": "2026-03-04T17:00:00+01:00",
-      "source": "PAP Biznes"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/ekonomia-biznes-i-finanse/skrot-wiadomosci-sroda-4-marca-1700",
-      "url": "https://biznes.pap.pl/wiadomosci/ekonomia-biznes-i-finanse/skrot-wiadomosci-sroda-4-marca-1700",
-      "title": "Skrót wiadomości - środa, 4 marca, 17.00",
-      "content_html": "Przegląd najważniejszych wiadomości gospodarczych, krajowych i ze świata.",
-      "date_published": "2026-03-04T17:00:00+01:00",
       "source": "PAP Biznes"
     }
   ]
