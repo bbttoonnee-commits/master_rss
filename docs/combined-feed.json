@@ -5,12 +5,124 @@
   "home_page_url": "https://www.bankier.pl",
   "items": [
     {
+      "id": "https://biznes.pap.pl/wiadomosci/rynki/dzien-na-rynkach-w-europie-na-gieldach-slabe-nastroje-4",
+      "url": "https://biznes.pap.pl/wiadomosci/rynki/dzien-na-rynkach-w-europie-na-gieldach-slabe-nastroje-4",
+      "title": "DZIEŃ NA RYNKACH: W Europie na giełdach słabe nastroje",
+      "content_html": "Na europejskich giełdach najważniejsze indeksy idą w dół. Inwestorzy są w słabych nastrojach obserwując z niepokojem rozwój wydarzeń w konflikcie na Bliskim Wschodzie. Na rynku walutowym USD jest stab",
+      "date_published": "2026-03-05T09:32:00+01:00",
+      "source": "PAP Biznes"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/gospodarka/dzien-na-fxfi-dla-pln-i-spw-istotna-sytuacja-na-bliskim-wschodzie-i",
+      "url": "https://biznes.pap.pl/wiadomosci/gospodarka/dzien-na-fxfi-dla-pln-i-spw-istotna-sytuacja-na-bliskim-wschodzie-i",
+      "title": "DZIEŃ NA FX/FI: Dla PLN i SPW istotna sytuacja na Bliskim Wschodzie i konferencja prezesa NBP",
+      "content_html": "W czwartek dla notowań złotego i obligacji skarbowych istotne będą globalne nastroje, kształtowane przede wszystkim przez rozwój sytuacji na Bliskim Wschodzie. W kraju inwestorzy skupią się na konfere",
+      "date_published": "2026-03-05T09:29:00+01:00",
+      "source": "PAP Biznes"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Trwaja-prace-nad-rozwiazaniami-dla-gornictwa-Wrona-MAP-9093341.html",
+      "url": "https://www.bankier.pl/wiadomosc/Trwaja-prace-nad-rozwiazaniami-dla-gornictwa-Wrona-MAP-9093341.html",
+      "title": "Przyszłość polskich kopalń. Rząd szykuje nowy pakt. Niektóre zakłady mogą odetchnąć z ulgą",
+      "content_html": "Resorty aktywów państwowych i energii pracują nad rozwiązaniami dla górnictwa - poinformował PAP Biznes wiceminister aktywów państwowych Grzegorz Wrona. Ocenił, że trzeba zrobić wszystko, by wydobywać węgiel tam, gdzie jest to opłacalne...",
+      "date_published": "2026-03-05T09:02:00+01:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/WIG20-bije-Nasdaq-a-Polacy-unikaja-gieldy-Trybuchowski-1-75-bln-zl-lezy-bezczynnie-9093293.html",
+      "url": "https://www.bankier.pl/wiadomosc/WIG20-bije-Nasdaq-a-Polacy-unikaja-gieldy-Trybuchowski-1-75-bln-zl-lezy-bezczynnie-9093293.html",
+      "title": "WIG20 bije Nasdaq, a Polacy unikają giełdy. Trybuchowski: 1,75 bln zł leży bezczynnie",
+      "content_html": "Stopa oszczędności w Polsce szoruje po dnie, a to, co zostało oszczędzone, w większości zalega w bankach. Polacy trzymają w gotówce i na lokatach blisko trzy razy więcej niż zainwestowali w akcje i obligacje. Prezes KDPW w rozmowie z Bankier...",
+      "date_published": "2026-03-05T09:00:00+01:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/konsument/krajowa-grupa-spozywcza-najpozniej-w-kwietniu-opublikuje-nowa-strategie-wrona",
+      "url": "https://biznes.pap.pl/wiadomosci/konsument/krajowa-grupa-spozywcza-najpozniej-w-kwietniu-opublikuje-nowa-strategie-wrona",
+      "title": "Krajowa Grupa Spożywcza najpóźniej w kwietniu opublikuje nową strategię - Wrona, MAP (wywiad)",
+      "content_html": "Krajowa Grupa Spożywcza najpóźniej w kwietniu opublikuje nową strategię. Celem jest wykorzystanie potencjału polskiego rolnictwa - poinformował PAP Biznes wiceminister aktywów państwowych Grzegorz Wro",
+      "date_published": "2026-03-05T09:00:00+01:00",
+      "source": "PAP Biznes"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/firmy/trwaja-prace-nad-rozwiazaniami-dla-gornictwa-wrona-map",
+      "url": "https://biznes.pap.pl/wiadomosci/firmy/trwaja-prace-nad-rozwiazaniami-dla-gornictwa-wrona-map",
+      "title": "Trwają prace nad rozwiązaniami dla górnictwa - Wrona, MAP",
+      "content_html": "Resorty aktywów państwowych i energii pracują nad rozwiązaniami dla górnictwa - poinformował PAP Biznes wiceminister aktywów państwowych Grzegorz Wrona. Ocenił, że trzeba zrobić wszystko, by wydobywać",
+      "date_published": "2026-03-05T09:00:00+01:00",
+      "source": "PAP Biznes"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/firmy/porozumienie-w-jsw-powinno-byc-wczesniej-spolka-stracila-duzo-czasu-i-mozliwosci",
+      "url": "https://biznes.pap.pl/wiadomosci/firmy/porozumienie-w-jsw-powinno-byc-wczesniej-spolka-stracila-duzo-czasu-i-mozliwosci",
+      "title": "Porozumienie w JSW powinno być wcześniej, spółka straciła dużo czasu i możliwości - Wrona, MAP (wywiad)",
+      "content_html": "Porozumienie JSW ze związkami, będące częścią planu restrukturyzacji, powinno nastąpić wcześniej. Spółka straciła dużo czasu i możliwości - ocenił w wywiadzie dla PAP Biznes wiceminister aktywów państ",
+      "date_published": "2026-03-05T09:00:00+01:00",
+      "source": "PAP Biznes"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Zloty-pod-podwojna-presja-Frank-niemal-rekordowo-mocny-9093338.html",
+      "url": "https://www.bankier.pl/wiadomosc/Zloty-pod-podwojna-presja-Frank-niemal-rekordowo-mocny-9093338.html",
+      "title": "Złoty pod podwójną presją. Frank niemal rekordowo mocny",
+      "content_html": "Kurs euro usiłował sforsować linię 4,30 zł, podczas gdy frank szwajcarski na parze z euro znalazł się blisko najmocniejszych poziomów w historii.",
+      "date_published": "2026-03-05T08:55:00+01:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Porozumienie-w-JSW-powinno-byc-wczesniej-Spolka-stracila-czas-i-mozliwosci-9093308.html",
+      "url": "https://www.bankier.pl/wiadomosc/Porozumienie-w-JSW-powinno-byc-wczesniej-Spolka-stracila-czas-i-mozliwosci-9093308.html",
+      "title": "Porozumienie w JSW powinno być wcześniej. \"Spółka straciła czas i możliwości\"",
+      "content_html": "Porozumienie JSW ze związkami, będące częścią planu restrukturyzacji, powinno nastąpić wcześniej - ocenił w wywiadzie dla PAP Biznes wiceminister aktywów państwowych Grzegorz Wrona. Dodał, że kluczowe jest utrzymanie płynności, a Agencja...",
+      "date_published": "2026-03-05T08:54:00+01:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/rynki/ceny-gazu-w-europie-znow-w-gore-po-jednodniowej-przerwie",
+      "url": "https://biznes.pap.pl/wiadomosci/rynki/ceny-gazu-w-europie-znow-w-gore-po-jednodniowej-przerwie",
+      "title": "Ceny gazu w Europie znów w górę po jednodniowej przerwie",
+      "content_html": "Ceny gazu w Europie rosną po jednodniowej przerwie. Trwająca na Bliskim Wschodzie wojna zakłóca przepływy paliw energetycznych, w tym gazu - informują maklerzy.",
+      "date_published": "2026-03-05T08:48:00+01:00",
+      "source": "PAP Biznes"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Wojna-a-biznes-Polskie-firmy-dzialaja-w-Zatoce-Perskiej-bez-zaklocen-9093310.html",
+      "url": "https://www.bankier.pl/wiadomosc/Wojna-a-biznes-Polskie-firmy-dzialaja-w-Zatoce-Perskiej-bez-zaklocen-9093310.html",
+      "title": "Wojna a biznes? Polskie firmy działają w Zatoce Perskiej \"bez zakłóceń\"",
+      "content_html": "Mimo wojny w Zatoce Perskiej, zagraniczne firmy - w tym polskie - nie rezygnują z inwestycji; zdaniem ekspertów zakłócenia są przejściowe, a region ma długoterminowe atuty - informuje w czwartek „Puls Biznesu”.",
+      "date_published": "2026-03-05T08:42:00+01:00",
+      "source": "Bankier.pl"
+    },
+    {
       "id": "https://biznes.pap.pl/wiadomosci/firmy/dzien-na-gpw-czwartkowa-sesja-moze-rozpoczac-sie-w-negatywnych-nastrojach",
       "url": "https://biznes.pap.pl/wiadomosci/firmy/dzien-na-gpw-czwartkowa-sesja-moze-rozpoczac-sie-w-negatywnych-nastrojach",
       "title": "DZIEŃ NA GPW: Czwartkowa sesja może rozpocząć się w negatywnych nastrojach",
       "content_html": "Czwartkowa sesja giełdowa może rozpocząć się w negatywnych nastrojach, na co wskazują w większości zniżkujące kontrakty futures na zagraniczne indeksy - oceniają analitycy.",
       "date_published": "2026-03-05T08:37:00+01:00",
       "source": "PAP Biznes"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Jak-sfinansowac-armie-bez-lamania-Konstytucji-Palac-Prezydencki-odkrywa-karty-9093318.html",
+      "url": "https://www.bankier.pl/wiadomosc/Jak-sfinansowac-armie-bez-lamania-Konstytucji-Palac-Prezydencki-odkrywa-karty-9093318.html",
+      "title": "Jak sfinansować armię bez łamania Konstytucji? Pałac Prezydencki odkrywa karty",
+      "content_html": "W prezydenckiej propozycji programu \"SAFE 0 proc.\" nie chodzi o pokrywanie deficytu budżetu państwa przez Narodowy Bank Polski w związku z wydatkami na zbrojenia, tylko i wykorzystanie do tego celu zysków z rezerw walutowych NBP - wynika z wypowiedzi...",
+      "date_published": "2026-03-05T08:32:00+01:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Polska-wysyla-kontyngent-wojskowy-na-ratunek-Polakom-na-Bliskim-Wschodzie-9093236.html",
+      "url": "https://www.bankier.pl/wiadomosc/Polska-wysyla-kontyngent-wojskowy-na-ratunek-Polakom-na-Bliskim-Wschodzie-9093236.html",
+      "title": "Polska wysyła kontyngent wojskowy na ratunek Polakom na Bliskim Wschodzie",
+      "content_html": "Zgodnie z postanowieniem prezydenta Karola Nawrockiego od 5 do 31 marca 2026 r. do 150 żołnierzy może zostać zaangażowanych przy ewakuacji z krajów Bliskiego Wschodu obywateli polskich, w szczególności osób wymagających wsparcia medycznego.",
+      "date_published": "2026-03-05T08:30:00+01:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Katarskie-linie-lotnicze-poprowadza-ograniczone-loty-ewakuacyjne-9093302.html",
+      "url": "https://www.bankier.pl/wiadomosc/Katarskie-linie-lotnicze-poprowadza-ograniczone-loty-ewakuacyjne-9093302.html",
+      "title": "Katarskie linie lotnicze poprowadzą \"ograniczone loty ewakuacyjne\"",
+      "content_html": "Katarskie linie lotnicze Qatar Airways poinformowały w czwartek w serwisie X, że od czwartku będą prowadzić „ograniczone loty ewakuacyjne” z Maskatu w Omanie i Rijadu w Arabii Saudyjskiej dla podróżnych, którzy wskutek wojny utknęli w krajach...",
+      "date_published": "2026-03-05T08:30:00+01:00",
+      "source": "Bankier.pl"
     },
     {
       "id": "https://biznes.pap.pl/wiadomosci/rynki/dzien-na-rynkach-w-azji-na-gieldach-odbicie-wskaznikow-po-srodowym-zalamaniu",
@@ -33,6 +145,14 @@
       "url": "https://www.bankier.pl/wiadomosc/Gdy-nadejdzie-czas-Wright-Zaczniemy-eskortowac-statki-przez-Ormuz-9093241.html",
       "title": "\"Gdy nadejdzie czas\". Wright: Zaczniemy eskortować statki przez Ormuz",
       "content_html": "Minister energii USA Chris Wright zapowiedział, że amerykańska marynarka wojenna będzie eskortować tankowce przepływające przez cieśninę Ormuz „najwcześniej jak będzie to możliwe”. W środę w telewizji Fox News poinformował, że na razie...",
+      "date_published": "2026-03-05T08:16:00+01:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Wypelnienie-magazynow-gazu-wynosi-ok-50-proc-Jedno-z-najwyzszych-w-Europie-9093319.html",
+      "url": "https://www.bankier.pl/wiadomosc/Wypelnienie-magazynow-gazu-wynosi-ok-50-proc-Jedno-z-najwyzszych-w-Europie-9093319.html",
+      "title": "Wypełnienie magazynów gazu wynosi ok. 50 proc. \"Jedno z najwyższych w Europie\"",
+      "content_html": "System magazynowania gazu w Polsce działa stabilnie i bez zakłóceń, a operator jest przygotowany na różne scenariusze w związku z sytuacją geopolityczną na Bliskim Wschodzie – poinformował operator systemu magazynowania Gas Storage Poland...",
       "date_published": "2026-03-05T08:16:00+01:00",
       "source": "Bankier.pl"
     },
@@ -101,14 +221,6 @@
       "source": "Bankier.pl"
     },
     {
-      "id": "https://biznes.pap.pl/wiadomosci/rynki/najwazniejsze-indeksy-gieldowe-w-azji-674",
-      "url": "https://biznes.pap.pl/wiadomosci/rynki/najwazniejsze-indeksy-gieldowe-w-azji-674",
-      "title": "Najważniejsze indeksy giełdowe w Azji",
-      "content_html": "Poniżej aktualne indeksy wybranych giełd w Azji:",
-      "date_published": "2026-03-05T07:58:00+01:00",
-      "source": "PAP Biznes"
-    },
-    {
       "id": "https://www.bankier.pl/wiadomosc/Wsparcie-tylko-pod-warunkiem-Stany-Zjednoczone-prosza-Kijow-o-pomoc-9093218.html",
       "url": "https://www.bankier.pl/wiadomosc/Wsparcie-tylko-pod-warunkiem-Stany-Zjednoczone-prosza-Kijow-o-pomoc-9093218.html",
       "title": "Wsparcie tylko \"pod warunkiem\". Stany Zjednoczone proszą Kijów o pomoc",
@@ -125,28 +237,12 @@
       "source": "Bankier.pl"
     },
     {
-      "id": "https://biznes.pap.pl/wiadomosci/rynki/ceny-ropy-rosna-pomimo-zapowiedzi-usa-dot-eskorty-statkow-w-ciesninie-ormuz",
-      "url": "https://biznes.pap.pl/wiadomosci/rynki/ceny-ropy-rosna-pomimo-zapowiedzi-usa-dot-eskorty-statkow-w-ciesninie-ormuz",
-      "title": "Ceny ropy rosną pomimo zapowiedzi USA dot. eskorty statków w Cieśninie Ormuz",
-      "content_html": "Ceny ropy naftowej mocno rosną i nie reagują na zapowiedzi USA dot. eskortowania tankowców z ropą w Cieśninie Ormuz - informują maklerzy.",
-      "date_published": "2026-03-05T07:54:00+01:00",
-      "source": "PAP Biznes"
-    },
-    {
       "id": "https://www.bankier.pl/wiadomosc/Zatoka-Perska-stala-sie-pulapka-40-mln-obcokrajowcow-uwiezionych-przez-wojne-9093238.html",
       "url": "https://www.bankier.pl/wiadomosc/Zatoka-Perska-stala-sie-pulapka-40-mln-obcokrajowcow-uwiezionych-przez-wojne-9093238.html",
       "title": "Zatoka Perska stała się pułapką. 40 mln obcokrajowców uwięzionych przez wojnę",
       "content_html": "Całkowita liczba obcokrajowców w Zatoce Perskiej waha się – według międzynarodowego projektu Gulf Migation - od 35 do 40 mln osób. Większość z nich pochodzi z krajów muzułmańskich Azji i Afryki, które obecnie rozpaczliwie próbują ewakuować...",
       "date_published": "2026-03-05T07:43:00+01:00",
       "source": "Bankier.pl"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/gospodarka/szef-kancelarii-prezydenta-sugeruje-wykorzystanie-rezerw-zlota-nbp-na-safe-0",
-      "url": "https://biznes.pap.pl/wiadomosci/gospodarka/szef-kancelarii-prezydenta-sugeruje-wykorzystanie-rezerw-zlota-nbp-na-safe-0",
-      "title": "Szef Kancelarii Prezydenta sugeruje wykorzystanie rezerw złota NBP na \"SAFE 0 proc.\"",
-      "content_html": "Szef kancelarii prezydenta Zbigniew Bogucki ocenił w środę wieczorem, że zaproponowany przez prezydenta Karola Nawrockiego polski program \"SAFE 0 proc.\" mógłby być sfinansowany w najbliższych 5 latach",
-      "date_published": "2026-03-05T07:41:00+01:00",
-      "source": "PAP Biznes"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Koniec-darmowej-opieki-dla-uchodzcow-Nowe-przepisy-wchodza-w-zycie-9093259.html",
@@ -171,14 +267,6 @@
       "content_html": "Kanada osiągnie poziom wydatków na obronność w wysokości 2 proc. PKB w tym roku, a 5 proc. do 2035 r. – poinformowała w środę minister spraw zagranicznych Anita Anand. Wezwała kraje NATO do zmiany polityki wobec Arktyki.",
       "date_published": "2026-03-05T07:33:00+01:00",
       "source": "Bankier.pl"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/gospodarka/w-marcu-bedzie-w-sumie-186-konkursow-na-srodki-z-ue",
-      "url": "https://biznes.pap.pl/wiadomosci/gospodarka/w-marcu-bedzie-w-sumie-186-konkursow-na-srodki-z-ue",
-      "title": "W marcu będzie w sumie 186 konkursów na środki z UE",
-      "content_html": "W marcu można składać wnioski w sumie w 186 konkursach na środki z UE - podało Ministerstwo Funduszy i Polityki Regionalnej.",
-      "date_published": "2026-03-05T07:31:00+01:00",
-      "source": "PAP Biznes"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Koniec-cierpliwosci-pacjentow-Liczba-skarg-wzrosla-o-11-proc-9093248.html",
@@ -219,22 +307,6 @@
       "content_html": "Sąd Okręgowy w Olsztynie ma ogłosić w czwartek wyrok w sprawie apelacyjnej Pawła K., oskarżonego o spowodowanie wypadku, w którym zginęły dwie kobiety. Łódzki adwokat, znany z określenia auta ofiar jako „trumny na kółkach”, został skazany...",
       "date_published": "2026-03-05T07:05:00+01:00",
       "source": "Bankier.pl"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/firmy/rosnie-udzial-krajowych-inwestorow-na-rynku-nieruchomosci-w-polsce-ey",
-      "url": "https://biznes.pap.pl/wiadomosci/firmy/rosnie-udzial-krajowych-inwestorow-na-rynku-nieruchomosci-w-polsce-ey",
-      "title": "Rośnie udział krajowych inwestorów na rynku nieruchomości w Polsce - EY",
-      "content_html": "W 2025 roku całkowita wartość transakcji na rynku nieruchomości w Polsce wyniosła około 4,5 miliarda euro. Z 9 proc. w 2024 r. do 18 proc. w 2025 r. wzrósł udział polskich inwestorów na tym rynku i bę",
-      "date_published": "2026-03-05T07:03:00+01:00",
-      "source": "PAP Biznes"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/ekonomia-biznes-i-finanse/przewidywane-najwazniejsze-wydarzenia-gospodarcze-2026-03-05",
-      "url": "https://biznes.pap.pl/wiadomosci/ekonomia-biznes-i-finanse/przewidywane-najwazniejsze-wydarzenia-gospodarcze-2026-03-05",
-      "title": "Przewidywane najważniejsze wydarzenia gospodarcze 2026-03-05",
-      "content_html": "Przewidywane najważniejsze wydarzenia gospodarcze 2026-03-05",
-      "date_published": "2026-03-05T07:00:00+01:00",
-      "source": "PAP Biznes"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Hiszpania-robi-krok-wstecz-Bialy-Dom-Madryt-zgadza-sie-na-wspolprace-wojskowa-9093162.html",
@@ -283,6 +355,14 @@
       "content_html": "Zarząd BNP Paribas Bank Polska rekomenduje, by z zysku netto za 2025 roku w wysokości 3,01 mld zł przeznaczyć na wypłatę dywidendy kwotę ok. 1,51 mld zł, co dałoby 10,2 zł dywidendy na akcję - poinformował bank w komunikacie.",
       "date_published": "2026-03-05T06:10:00+01:00",
       "source": "Bankier.pl"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/firmy/bnp-paribas-bp-chce-wyplacic-102-zl-dywidendy-na-akcje",
+      "url": "https://biznes.pap.pl/wiadomosci/firmy/bnp-paribas-bp-chce-wyplacic-102-zl-dywidendy-na-akcje",
+      "title": "BNP Paribas BP chce wypłacić 10,2 zł dywidendy na akcję",
+      "content_html": "Zarząd BNP Paribas Bank Polska rekomenduje, by z zysku netto za 2025 roku w wysokości 3,01 mld zł przeznaczyć na wypłatę dywidendy kwotę ok. 1,51 mld zł, co dałoby 10,2 zł dywidendy na akcję - poinfor",
+      "date_published": "2026-03-05T06:06:00+01:00",
+      "source": "PAP Biznes"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Rekordowa-liczba-funkcjonariuszy-Po-fali-odejsc-Policja-odbudowuje-kadry-9091714.html",
@@ -357,6 +437,22 @@
       "source": "Bankier.pl"
     },
     {
+      "id": "https://biznes.pap.pl/wiadomosci/rynki/dzien-na-rynkach-wall-street-w-gore-inwestorzy-mniej-martwia-sie-konfliktem-z",
+      "url": "https://biznes.pap.pl/wiadomosci/rynki/dzien-na-rynkach-wall-street-w-gore-inwestorzy-mniej-martwia-sie-konfliktem-z",
+      "title": "DZIEŃ NA RYNKACH: Wall Street w górę, inwestorzy mniej martwią się konfliktem z Iranem",
+      "content_html": "Środowa sesja na Wall Street zakończyła się wzrostami, a inwestorzy mniej przejmują się konfliktem z Iranem i jego konsekwencjami dla surowców i globalnej gospodarki. Są jednak obawy, że sytuacja na B",
+      "date_published": "2026-03-04T22:09:00+01:00",
+      "source": "PAP Biznes"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/ekonomia-biznes-i-finanse/skrot-wiadomosci-sroda-4-marca-2110",
+      "url": "https://biznes.pap.pl/wiadomosci/ekonomia-biznes-i-finanse/skrot-wiadomosci-sroda-4-marca-2110",
+      "title": "Skrót wiadomości - środa, 4 marca, 21.10",
+      "content_html": "Przegląd najważniejszych wiadomości gospodarczych, krajowych i ze świata.",
+      "date_published": "2026-03-04T21:10:00+01:00",
+      "source": "PAP Biznes"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Epicka-Furia-i-chinskie-satelity-Sensacyjne-ustalenia-w-sprawie-wojny-z-Iranem-9093179.html",
       "url": "https://www.bankier.pl/wiadomosc/Epicka-Furia-i-chinskie-satelity-Sensacyjne-ustalenia-w-sprawie-wojny-z-Iranem-9093179.html",
       "title": "Epicka Furia i chińskie satelity. Sensacyjne ustalenia w sprawie wojny z Iranem",
@@ -405,6 +501,38 @@
       "source": "Bankier.pl"
     },
     {
+      "id": "https://www.bankier.pl/wiadomosc/Senat-za-nowelizacja-chroniaca-zabytki-i-dziela-sztuki-przed-nielegalnym-handlem-9093147.html",
+      "url": "https://www.bankier.pl/wiadomosc/Senat-za-nowelizacja-chroniaca-zabytki-i-dziela-sztuki-przed-nielegalnym-handlem-9093147.html",
+      "title": "Senat za nowelizacją chroniącą zabytki i dzieła sztuki przed nielegalnym handlem",
+      "content_html": "Senatorowie przyjęli w środę nowelizację ustawy o ochronie zabytków, która dostosowuje polskie prawo do unijnych przepisów dotyczących przywozu i wywozu dóbr kultury. Nowe rozwiązania mają chronić zabytki i dzieła sztuki przed nielegalnym...",
+      "date_published": "2026-03-04T19:32:00+01:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/firmy/senat-przyjal-bez-poprawek-nowelizacje-ustawy-o-rachunkowosci",
+      "url": "https://biznes.pap.pl/wiadomosci/firmy/senat-przyjal-bez-poprawek-nowelizacje-ustawy-o-rachunkowosci",
+      "title": "Senat przyjął bez poprawek nowelizację ustawy o rachunkowości",
+      "content_html": "W środę Senat przyjął bez poprawek nowelizację ustawy o rachunkowości. Jej celem jest zwolnienie części firm z raportowania ESG za 2025 i 2026 r. Ustawa trafi teraz do prezydenta do podpisu.",
+      "date_published": "2026-03-04T19:32:00+01:00",
+      "source": "PAP Biznes"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Nagrody-olimpijskie-bez-podatku-Senat-jednoglosnie-za-9093144.html",
+      "url": "https://www.bankier.pl/wiadomosc/Nagrody-olimpijskie-bez-podatku-Senat-jednoglosnie-za-9093144.html",
+      "title": "Nagrody olimpijskie bez podatku. Senat jednogłośnie za",
+      "content_html": "W środę Senat jednogłośnie przyjął nowelizację ustawy o podatku dochodowym od osób fizycznych, nie wnosząc poprawek. Celem ustawy jest zwolnienie z podatku nagród rzeczowych dla olimpijczyków. Ustawa trafi teraz do prezydenta do podpisu.",
+      "date_published": "2026-03-04T19:30:00+01:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/gospodarka/prezydent-i-prezes-nbp-omawiali-program-safe-0-proc-finansowany-z-pomoca-nbp",
+      "url": "https://biznes.pap.pl/wiadomosci/gospodarka/prezydent-i-prezes-nbp-omawiali-program-safe-0-proc-finansowany-z-pomoca-nbp",
+      "title": "Prezydent i prezes NBP omawiali program SAFE 0 proc. finansowany z pomocą NBP (opis)",
+      "content_html": "Prezydent Karol Nawrocki i prezes NBP Adam Glapiński omawiali w środę alternatywę dla unijnego programu SAFE - krajowy program SAFE 0 proc., który miałby być finansowany z pomocą banku centralnego. Pr",
+      "date_published": "2026-03-04T19:05:00+01:00",
+      "source": "PAP Biznes"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Prezydent-ma-alternatywe-Proponuje-rzadowi-SAFE-0-procent-Sfinansuje-go-NBP-9093053.html",
       "url": "https://www.bankier.pl/wiadomosc/Prezydent-ma-alternatywe-Proponuje-rzadowi-SAFE-0-procent-Sfinansuje-go-NBP-9093053.html",
       "title": "Prezydent ma alternatywę. Proponuje rządowi \"SAFE 0 procent\". Sfinansuje go NBP?",
@@ -421,6 +549,14 @@
       "source": "Bankier.pl"
     },
     {
+      "id": "https://biznes.pap.pl/wiadomosci/firmy/asseco-bs-planuje-wyplacic-375-zl-dywidendy-na-akcje",
+      "url": "https://biznes.pap.pl/wiadomosci/firmy/asseco-bs-planuje-wyplacic-375-zl-dywidendy-na-akcje",
+      "title": "Asseco BS planuje wypłacić 3,75 zł dywidendy na akcję",
+      "content_html": "Zarząd i rada nadzorcza Asseco Business Solutions rekomendują walnemu zgromadzeniu wypłatę dywidendy w wysokości 3,75 zł na akcję - podała spółka w komunikacie. Łącznie na ten cel ma trafić 125,32 mln",
+      "date_published": "2026-03-04T18:56:00+01:00",
+      "source": "PAP Biznes"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Efekt-szczytu-Trump-Merz-USA-wylaczaja-niemiecki-oddzial-Rosnieftu-z-sankcji-9093119.html",
       "url": "https://www.bankier.pl/wiadomosc/Efekt-szczytu-Trump-Merz-USA-wylaczaja-niemiecki-oddzial-Rosnieftu-z-sankcji-9093119.html",
       "title": "Efekt szczytu Trump-Merz. USA wyłączają niemiecki oddział Rosnieftu z sankcji",
@@ -435,6 +571,14 @@
       "content_html": "Przewodniczący Izby Reprezentantów Mike Johnson powiedział w środę, że Stany Zjednoczone nie są w stanie wojny z Iranem, lecz prowadzą „bardzo konkretną, jasną misję i operację”. Słowa te padły przed głosowaniami w Kongresie na temat...",
       "date_published": "2026-03-04T18:43:00+01:00",
       "source": "Bankier.pl"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/firmy/zasoby-powierzchni-magazynowej-pod-koniec-25-wyniosly-366-mln-m-kw-wzrosly-6-proc",
+      "url": "https://biznes.pap.pl/wiadomosci/firmy/zasoby-powierzchni-magazynowej-pod-koniec-25-wyniosly-366-mln-m-kw-wzrosly-6-proc",
+      "title": "Zasoby powierzchni magazynowej pod koniec '25 wyniosły 36,6 mln m kw., wzrosły 6 proc. rdr - AXI IMMO",
+      "content_html": "Całkowite zasoby nowoczesnej powierzchni magazynowej na koniec grudnia 2025 r. wyniosły 36,58 mln m kw., czyli wzrosły 6 proc. rdr. Nowa podaż w 2025 r. spadła do 1,68 mln m kw., czyli o 35 proc. rdr,",
+      "date_published": "2026-03-04T18:28:00+01:00",
+      "source": "PAP Biznes"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Shahedy-wyzwaniem-dla-USA-Obrona-powietrzna-nie-wylapie-wszystkich-9093024.html",
@@ -1133,30 +1277,6 @@
       "source": "PAP Biznes"
     },
     {
-      "id": "https://www.bankier.pl/wiadomosc/Gawkowski-Bedziemy-rozwijali-mObywatela-o-wersje-europejska-9092754.html",
-      "url": "https://www.bankier.pl/wiadomosc/Gawkowski-Bedziemy-rozwijali-mObywatela-o-wersje-europejska-9092754.html",
-      "title": "mObywatel wchodzi do Europy. Krzysztof Gawkowski zapowiada przełom",
-      "content_html": "Będziemy rozwijali mObywatela, wzbogacając go o wersję europejską - zapowiedział w środę wicepremier, minister cyfryzacji Krzysztof Gawkowski. Dodał, że do aplikacji zostanie zaimplementowany europejski portfel tożsamości cyfrowej.",
-      "date_published": "2026-03-04T12:21:00+01:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Izrael-wzywa-cywilow-do-ewakuacji-z-poludniowego-Libanu-9092774.html",
-      "url": "https://www.bankier.pl/wiadomosc/Izrael-wzywa-cywilow-do-ewakuacji-z-poludniowego-Libanu-9092774.html",
-      "title": "Izrael wzywa cywilów do ewakuacji z południowego Libanu",
-      "content_html": "Izraelskie siły zbrojne (IDF) przekazały w środę, że w związku z trwającymi walkami z organizacją Hezbollah cywile z całego południowego Libanu powinni ewakuować się na północ od rzeki Litani.",
-      "date_published": "2026-03-04T12:13:00+01:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Ekspansja-InPostu-na-Wyspach-600-mln-funtow-inwestycji-do-2030-roku-9092775.html",
-      "url": "https://www.bankier.pl/wiadomosc/Ekspansja-InPostu-na-Wyspach-600-mln-funtow-inwestycji-do-2030-roku-9092775.html",
-      "title": "Ekspansja InPostu na Wyspach: 600 mln funtów inwestycji do 2030 roku",
-      "content_html": "Paczkomaty, które InPost wykorzystuje w Wielkiej Brytanii produkowane są w Polsce i eksportowane do Wielkiej Brytanii - poinformował dziennikarzy członek zarządu InPostu ds. spraw międzynarodowych Michael Rouse. Dodał, że operator zbliża się...",
-      "date_published": "2026-03-04T12:13:00+01:00",
-      "source": "Bankier.pl"
-    },
-    {
       "id": "https://biznes.pap.pl/wiadomosci/firmy/pej-i-westinghouse-bechtel-chca-do-polowy-roku-zamknac-negocjacje-dot-budowy-i-ej",
       "url": "https://biznes.pap.pl/wiadomosci/firmy/pej-i-westinghouse-bechtel-chca-do-polowy-roku-zamknac-negocjacje-dot-budowy-i-ej",
       "title": "PEJ i Westinghouse-Bechtel chcą do połowy roku zamknąć negocjacje dot. budowy I EJ - Woszczyk",
@@ -1167,18 +1287,10 @@
     {
       "id": "https://www.bankier.pl/wiadomosc/PGE-moze-w-polowie-roku-dokonac-przegladu-strategii-prezes-9092765.html",
       "url": "https://www.bankier.pl/wiadomosc/PGE-moze-w-polowie-roku-dokonac-przegladu-strategii-prezes-9092765.html",
-      "title": "PGE może w połowie roku dokonać przeglądu strategii grupy",
-      "content_html": "PGE może w połowie roku dokonać przeglądu strategii grupy - poinformował prezes PGE Dariusz Lubera.",
+      "title": "PGE może w połowie roku dokonać przeglądu strategii grupy PGE może w połowie roku dokonać przeglądu strategii grupy - poinformował prezes PGE Dariusz Lubera.",
+      "content_html": "",
       "date_published": "2026-03-04T12:04:00+01:00",
       "source": "Bankier.pl"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/firmy/pge-moze-w-polowie-roku-dokonac-przegladu-strategii-prezes",
-      "url": "https://biznes.pap.pl/wiadomosci/firmy/pge-moze-w-polowie-roku-dokonac-przegladu-strategii-prezes",
-      "title": "PGE może w połowie roku dokonać przeglądu strategii - prezes",
-      "content_html": "PGE może w połowie roku dokonać przeglądu strategii grupy - poinformował prezes PGE Dariusz Lubera.",
-      "date_published": "2026-03-04T12:02:00+01:00",
-      "source": "PAP Biznes"
     },
     {
       "id": "https://biznes.pap.pl/wiadomosci/gospodarka/polska-z-jednym-z-najszybszych-wzrostow-noclegow-turystow-w-calej-ue-w-2025",
@@ -1189,34 +1301,10 @@
       "source": "PAP Biznes"
     },
     {
-      "id": "https://www.bankier.pl/wiadomosc/Instrukcja-bezpieczenstwa-1000-koron-w-portfelu-to-teraz-koniecznosc-9092761.html",
-      "url": "https://www.bankier.pl/wiadomosc/Instrukcja-bezpieczenstwa-1000-koron-w-portfelu-to-teraz-koniecznosc-9092761.html",
-      "title": "Instrukcja bezpieczeństwa: 1000 koron w portfelu to teraz konieczność",
-      "content_html": "Bank Szwecji, centralny bank tego kraju, zalecił w środę posiadanie przez gospodarstwa domowe po 1000 koron (ok. 93 euro) w gotówce na osobę dorosłą w związku z niepewną sytuacją na świecie. Szwecja to jeden z najbardziej cyfrowych krajów...",
-      "date_published": "2026-03-04T12:00:00+01:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Itaka-zawiesza-polaczenia-do-Abu-Dhabi-Dubaju-Shardzy-i-Dohy-9092738.html",
-      "url": "https://www.bankier.pl/wiadomosc/Itaka-zawiesza-polaczenia-do-Abu-Dhabi-Dubaju-Shardzy-i-Dohy-9092738.html",
-      "title": "Itaka zawiesza połączenia do Abu Dhabi, Dubaju, Shardży i Dohy",
-      "content_html": "Biuro podróży Itaka zawiesza do 27 marca połączenia do Abu Dhabi, Dubaju, Shardży i Dohy; jednocześnie firma pracuje nad tym, by jak najszybciej sprowadzić do Polski swoich klientów, którzy utknęli na Bliskim Wschodzie - poinformował w środę...",
-      "date_published": "2026-03-04T11:55:00+01:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Likwidacja-kopalni-Bobrek-PGG-i-Weglokoks-zawarly-porozumienie-ws-pracownikow-9092757.html",
-      "url": "https://www.bankier.pl/wiadomosc/Likwidacja-kopalni-Bobrek-PGG-i-Weglokoks-zawarly-porozumienie-ws-pracownikow-9092757.html",
-      "title": "Likwidacja kopalni Bobrek. PGG i Węglokoks zawarły porozumienie ws. pracowników",
-      "content_html": "Polska Grupa Górnicza uzgodniła z Węglokoksem Kraj alokację w ciągu najbliższych dwóch miesięcy blisko 300 pracowników likwidowanej kopalni Bobrek w Bytomiu. Spółki potwierdziły to zawartym porozumieniem - wynika z informacji PGG.",
-      "date_published": "2026-03-04T11:54:00+01:00",
-      "source": "Bankier.pl"
-    },
-    {
       "id": "https://www.bankier.pl/wiadomosc/Wywiad-Iranu-chce-negocjacji-pokojowych-Gieldy-reaguja-9092755.html",
       "url": "https://www.bankier.pl/wiadomosc/Wywiad-Iranu-chce-negocjacji-pokojowych-Gieldy-reaguja-9092755.html",
-      "title": "Wywiad Iranu chce negocjacji pokojowych? Giełdy reagują",
-      "content_html": "„New York Times” podał w środę, że agenci irańskiego Ministerstwa Wywiadu skontaktowali się z CIA za pośrednictwem agencji wywiadowczej innego kraju z ofertą omówienia warunków zakończenia konfliktu.",
+      "title": "\"NYT\" Wywiad Iranu chce negocjacji pokojowych? Giełdy reagują „New York Times” podał w środę, że agenci irańskiego Ministerstwa Wywiadu skontaktowali się z CIA za pośrednictwem agencji wywiadowczej innego kraju z ofertą omówienia warunków zakończenia konfliktu.",
+      "content_html": "",
       "date_published": "2026-03-04T11:52:00+01:00",
       "source": "Bankier.pl"
     },
@@ -1231,8 +1319,8 @@
     {
       "id": "https://www.bankier.pl/wiadomosc/Gaming-Factory-planuje-drugie-platne-DLC-do-gry-JDM-Japanese-Drift-Master-w-II-kwartale-9092740.html",
       "url": "https://www.bankier.pl/wiadomosc/Gaming-Factory-planuje-drugie-platne-DLC-do-gry-JDM-Japanese-Drift-Master-w-II-kwartale-9092740.html",
-      "title": "Gaming Factory planuje na II kwartał premierę drugiego dodatku \"American Classics\"",
-      "content_html": "Gaming Factory planuje na drugi kwartał premierę drugiego dodatku \"American Classics\" do gry \"JDM: Japanese Drift Master\" - podała spółka w komunikacie prasowym. Także na drugi kwartał planowane jest wprowadzenie trybu multiplayer online oraz wdrożenie...",
+      "title": "Gaming Factory planuje na II kwartał premierę drugiego dodatku \"American Classics\" Gaming Factory planuje na drugi kwartał premierę drugiego dodatku \"American Classics\" do gry \"JDM: Japanese Drift Master\" - podała spółka w komunikacie prasowym. Także na drugi kwartał planowane jest wprowadzenie trybu multiplayer online oraz wdrożenie kolejnych bezpłatnych elementów rozbudowy gry.",
+      "content_html": "",
       "date_published": "2026-03-04T11:34:00+01:00",
       "source": "Bankier.pl"
     },
@@ -1275,6 +1363,22 @@
       "content_html": "",
       "date_published": "2026-03-04T11:18:00+01:00",
       "source": "Bankier.pl"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/firmy/kghm-nie-widzi-ryzyka-obnizenia-produkcji-w-zwiazku-z-dynamicznym-wzrostem-cen",
+      "url": "https://biznes.pap.pl/wiadomosci/firmy/kghm-nie-widzi-ryzyka-obnizenia-produkcji-w-zwiazku-z-dynamicznym-wzrostem-cen",
+      "title": "KGHM nie widzi ryzyka obniżenia produkcji w związku z dynamicznym wzrostem cen gazu",
+      "content_html": "KGHM ma zabezpieczone dostawy gazu na kolejne okresy po korzystnych cenach - poinformował PAP Biznes rzecznik prasowy miedziowego koncernu Artur Newecki. Spółka zapewnia, że nie ma jakiegokolwiek ryzy",
+      "date_published": "2026-03-04T11:16:00+01:00",
+      "source": "PAP Biznes"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/rynki/rafineria-ras-tanura-saudyjskiego-aramco-ponownie-zaatakowana-przez-drony",
+      "url": "https://biznes.pap.pl/wiadomosci/rynki/rafineria-ras-tanura-saudyjskiego-aramco-ponownie-zaatakowana-przez-drony",
+      "title": "Rafineria Ras Tanura saudyjskiego Aramco ponownie zaatakowana przez drony",
+      "content_html": "Rafineria Ras Tanura, należąca do Saudi Aramco, w której mieści się największa krajowa rafineria firmy, została ponownie zaatakowana w środę z powietrza – podała agencja Reutera, powołując się na czte",
+      "date_published": "2026-03-04T11:15:00+01:00",
+      "source": "PAP Biznes"
     },
     {
       "id": "https://biznes.pap.pl/wiadomosci/gospodarka/stopa-bezrobocia-w-styczniu-w-polsce-wyniosla-31-proc-eurostat-0",
@@ -1394,118 +1498,6 @@
       "title": "DZIEŃ NA RYNKACH: W Europie na giełdach w końcu wzrosty indeksów",
       "content_html": "Na europejskich giełdach najważniejsze indeksy w końcu rosną po silnych spadkach w ciągu 2 poprzednich sesji. Rynkom w regionie udało się uniknąć potężnych strat zaliczonych w środę na giełdach w Azji",
       "date_published": "2026-03-04T09:38:00+01:00",
-      "source": "PAP Biznes"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Grupa-cyber-Folks-szacuje-ze-miala-w-IV-kw-44-4-mln-zl-skonsolidowanego-zysku-netto-wzrost-o-36-4-proc-rdr-9092626.html",
-      "url": "https://www.bankier.pl/wiadomosc/Grupa-cyber-Folks-szacuje-ze-miala-w-IV-kw-44-4-mln-zl-skonsolidowanego-zysku-netto-wzrost-o-36-4-proc-rdr-9092626.html",
-      "title": "Potężny wzrost rentowności cyber_Folks. EBITDA wystrzeliła o 72 proc. rdr Grupa cyber_Folks szacuje, że miała w IV kwartale 2025 r. 44,4 mln zł skonsolidowanego zysku netto, co oznacza wzrost o 36,4 proc. rdr - podała spółka w komunikacie.",
-      "content_html": "",
-      "date_published": "2026-03-04T09:25:00+01:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/firmy/grupa-shoper-szacuje-ze-w-iv-kw-miala-136-mln-zl-zysku-netto-spadek-o-1-proc-rdr",
-      "url": "https://biznes.pap.pl/wiadomosci/firmy/grupa-shoper-szacuje-ze-w-iv-kw-miala-136-mln-zl-zysku-netto-spadek-o-1-proc-rdr",
-      "title": "Grupa Shoper szacuje, że w IV kw. miała 13,6 mln zł zysku netto, spadek o 1 proc. rdr (opis)",
-      "content_html": "Grupa Shoper szacuje, że w czwartym kwartale 2025 r. uzyskała 13,6 mln zł zysku netto, wobec 13,8 mln zł w czwartym kwartale 2024 r., co oznacza spadek o 1 proc. - podała spółka w komunikacie. Shoper ",
-      "date_published": "2026-03-04T09:24:00+01:00",
-      "source": "PAP Biznes"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/gry-i-technologie/grupa-cyberfolks-szacuje-ze-miala-w-iv-kw-444-mln-zl-zysku-netto",
-      "url": "https://biznes.pap.pl/wiadomosci/gry-i-technologie/grupa-cyberfolks-szacuje-ze-miala-w-iv-kw-444-mln-zl-zysku-netto",
-      "title": "Grupa cyber_Folks szacuje, że miała w IV kw. 44,4 mln zł zysku netto, wzrost o 36,4 proc. rdr (opis)",
-      "content_html": "Grupa cyber_Folks szacuje, że miała w IV kwartale 2025 r. 44,4 mln zł zysku netto, co oznacza wzrost o 36,4 proc. rdr - podała spółka w komunikacie.",
-      "date_published": "2026-03-04T09:20:00+01:00",
-      "source": "PAP Biznes"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/gospodarka/dzien-na-fxfi-pln-pod-presja-wydarzen-miedzynarodowych-rynek-dlugu-czeka-na",
-      "url": "https://biznes.pap.pl/wiadomosci/gospodarka/dzien-na-fxfi-pln-pod-presja-wydarzen-miedzynarodowych-rynek-dlugu-czeka-na",
-      "title": "DZIEŃ NA FX/FI: PLN pod presją wydarzeń międzynarodowych, rynek długu czeka na decyzję RPP",
-      "content_html": "Po silnej wtorkowej wyprzedaży, w środę PLN będzie pod presją wydarzeń międzynarodowych. Z kolei rynek długu czeka na decyzję RPP - uważają analitycy.",
-      "date_published": "2026-03-04T09:17:00+01:00",
-      "source": "PAP Biznes"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/OZE-w-Polsce-kwitnie-R-Power-375-mln-zl-zysku-EBITDA-i-miliardowe-inwestycje-9092637.html",
-      "url": "https://www.bankier.pl/wiadomosc/OZE-w-Polsce-kwitnie-R-Power-375-mln-zl-zysku-EBITDA-i-miliardowe-inwestycje-9092637.html",
-      "title": "OZE w Polsce kwitnie. R.Power: 375 mln zł zysku EBITDA i miliardowe inwestycje Grupa R.Power odnotowała 156 mln zł zysku netto w 2025 r. - podała spółka w komunikacie dot. wstępnych wyników. Zysk EBITDA wyniósł 375 mln zł w 2025 r. wobec 99 mln zł zysku w 2024 r., przy przychodach ogółem odpowiednio: 628 mln zł wobec 427 mln zł w 2024 r.",
-      "content_html": "",
-      "date_published": "2026-03-04T09:14:00+01:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/firmy/grupa-rpower-miala-wstepnie-156-mln-zl-zysku-netto-i-375-mln-zl-zysku-ebitda-w",
-      "url": "https://biznes.pap.pl/wiadomosci/firmy/grupa-rpower-miala-wstepnie-156-mln-zl-zysku-netto-i-375-mln-zl-zysku-ebitda-w",
-      "title": "Grupa R.Power miała wstępnie 156 mln zł zysku netto i 375 mln zł zysku EBITDA w 2025 r.",
-      "content_html": "Grupa R.Power odnotowała 156 mln zł zysku netto w 2025 r. - podała spółka w komunikacie dot. wstępnych wyników. Zysk EBITDA wyniósł 375 mln zł w 2025 r. wobec 99 mln zł zysku w 2024 r., przy przychoda",
-      "date_published": "2026-03-04T09:13:00+01:00",
-      "source": "PAP Biznes"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Gazowy-horror-trwa-Najmocniejszy-rajd-notowan-od-4-lat-9092632.html",
-      "url": "https://www.bankier.pl/wiadomosc/Gazowy-horror-trwa-Najmocniejszy-rajd-notowan-od-4-lat-9092632.html",
-      "title": "Gazowy horror trwa. Najmocniejszy rajd notowań od 4 lat Ceny gazu w Europie dalej idą w górę zaliczając najmocniejszy rajd notowań od 4 lat. Konflikt na Bliskim Wschodzie eskaluje - informują maklerzy.",
-      "content_html": "",
-      "date_published": "2026-03-04T09:04:00+01:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Shoper-szacuje-ze-w-IV-kw-mial-13-6-mln-zl-zysku-netto-spadek-o-1-proc-rdr-9092630.html",
-      "url": "https://www.bankier.pl/wiadomosc/Shoper-szacuje-ze-w-IV-kw-mial-13-6-mln-zl-zysku-netto-spadek-o-1-proc-rdr-9092630.html",
-      "title": "Szacunki Shoper: 218 mln zł przychodów i solidny wzrost rentowności Grupa Shoper szacuje, że w czwartym kwartale 2025 r. uzyskała 13,6 mln zł zysku netto, wobec 13,8 mln zł w czwartym kwartale 2024 r., co oznacza spadek o 1 proc. - podała spółka w komunikacie. Shoper szacuje, że w tym okresie przychody ze sprzedaży wyniosły 59,8 mln zł, wobec 55,0 mln zł w IV kwartale 2024 r.",
-      "content_html": "",
-      "date_published": "2026-03-04T09:02:00+01:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/rynki/ceny-gazu-w-europie-dalej-do-gory-konflikt-na-bliskim-wschodzie-eskaluje",
-      "url": "https://biznes.pap.pl/wiadomosci/rynki/ceny-gazu-w-europie-dalej-do-gory-konflikt-na-bliskim-wschodzie-eskaluje",
-      "title": "Ceny gazu w Europie dalej do góry - konflikt na Bliskim Wschodzie eskaluje",
-      "content_html": "Ceny gazu w Europie dalej idą w górę zaliczając najmocniejszy rajd notowań od 4 lat. Konflikt na Bliskim Wschodzie eskaluje - informują maklerzy.",
-      "date_published": "2026-03-04T09:02:00+01:00",
-      "source": "PAP Biznes"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/firmy/shoper-szacuje-ze-w-iv-kw-mial-136-mln-zl-zysku-netto-spadek-o-1-proc-rdr",
-      "url": "https://biznes.pap.pl/wiadomosci/firmy/shoper-szacuje-ze-w-iv-kw-mial-136-mln-zl-zysku-netto-spadek-o-1-proc-rdr",
-      "title": "Shoper szacuje, że w IV kw. miał 13,6 mln zł zysku netto, spadek o 1 proc. rdr",
-      "content_html": "Grupa Shoper szacuje, że w czwartym kwartale 2025 r. uzyskała 13,6 mln zł zysku netto, wobec 13,8 mln zł w czwartym kwartale 2024 r., co oznacza spadek o 1 proc. - podała spółka w komunikacie. Shoper ",
-      "date_published": "2026-03-04T09:00:00+01:00",
-      "source": "PAP Biznes"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/gry-i-technologie/grupa-cyberfolks-szacuje-ze-miala-w-iv-kw-444-mln-zl-skonsolidowanego",
-      "url": "https://biznes.pap.pl/wiadomosci/gry-i-technologie/grupa-cyberfolks-szacuje-ze-miala-w-iv-kw-444-mln-zl-skonsolidowanego",
-      "title": "Grupa cyber_Folks szacuje, że miała w IV kw. 44,4 mln zł skonsolidowanego zysku netto, wzrost o 36,4 proc. rdr",
-      "content_html": "Grupa cyber_Folks szacuje, że miała w IV kwartale 2025 r. 44,4 mln zł skonsolidowanego zysku netto, co oznacza wzrost o 36,4 proc. rdr - podała spółka w komunikacie.",
-      "date_published": "2026-03-04T08:56:00+01:00",
-      "source": "PAP Biznes"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/rynki/goldman-sachs-podwyzsza-prognozy-dla-ropy-brent-i-wti",
-      "url": "https://biznes.pap.pl/wiadomosci/rynki/goldman-sachs-podwyzsza-prognozy-dla-ropy-brent-i-wti",
-      "title": "Goldman Sachs podwyższa prognozy dla ropy Brent i WTI",
-      "content_html": "Goldman Sachs Grou Inc. mocno podwyższa prognozy dla ropy Brent i WTI na II kw. uzasadniając to niższymi zapasami surowca w krajach OECD z powodu zakłóceń w transporcie ropy przez cieśninę Ormuz.",
-      "date_published": "2026-03-04T08:56:00+01:00",
-      "source": "PAP Biznes"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Vercom-szacuje-ze-w-IV-kw-mial-25-4-mln-zl-skonsolidowanego-zysku-netto-12-proc-wiecej-rdr-9092620.html",
-      "url": "https://www.bankier.pl/wiadomosc/Vercom-szacuje-ze-w-IV-kw-mial-25-4-mln-zl-skonsolidowanego-zysku-netto-12-proc-wiecej-rdr-9092620.html",
-      "title": "Vercom mocno powyżej konsensusu. Zysk netto w IV kwartale wzrósł o 12 proc. Vercom szacuje, że w IV kwartale 2025 r. miał 25,4 mln zł skonsolidowanego zysku netto, co oznacza wzrost o 12 proc. rdr - podała spółka w komunikacie. Konsensusu PAP Biznes zakłada zysk netto j.d. w wysokości 23,5 mln zł.",
-      "content_html": "",
-      "date_published": "2026-03-04T08:46:00+01:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/gry-i-technologie/vercom-szacuje-ze-w-iv-kw-mial-254-mln-zl-skonsolidowanego-zysku-netto",
-      "url": "https://biznes.pap.pl/wiadomosci/gry-i-technologie/vercom-szacuje-ze-w-iv-kw-mial-254-mln-zl-skonsolidowanego-zysku-netto",
-      "title": "Vercom szacuje, że w IV kw. miał 25,4 mln zł skonsolidowanego zysku netto, 12 proc. więcej rdr",
-      "content_html": "Vercom szacuje, że w IV kwartale 2025 r. miał 25,4 mln zł skonsolidowanego zysku netto, co oznacza wzrost o 12 proc. rdr - podała spółka w komunikacie. Konsensusu PAP Biznes zakłada zysk netto j.d. w ",
-      "date_published": "2026-03-04T08:45:00+01:00",
       "source": "PAP Biznes"
     }
   ]
