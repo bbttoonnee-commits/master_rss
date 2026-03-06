@@ -5,6 +5,38 @@
   "home_page_url": "https://www.bankier.pl",
   "items": [
     {
+      "id": "https://biznes.pap.pl/wiadomosci/firmy/informacja-o-sile-wyzszej-od-qatarenergy-nie-wplywa-na-dostawy-lng-do-polski-orlen",
+      "url": "https://biznes.pap.pl/wiadomosci/firmy/informacja-o-sile-wyzszej-od-qatarenergy-nie-wplywa-na-dostawy-lng-do-polski-orlen",
+      "title": "Informacja o sile wyższej od QatarEnergy nie wpływa na dostawy LNG do Polski - Orlen",
+      "content_html": "Orlen otrzymał od QatarEnergy informację o wystąpieniu siły wyższej związanej z czasowym wstrzymaniem części produkcji LNG przez katarskiego dostawcę. Na obecnym etapie informacja ta nie wpływa na rea",
+      "date_published": "2026-03-06T12:34:00+01:00",
+      "source": "PAP Biznes"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Dom-Development-wprowadzil-do-sprzedazy-292-mieszkania-w-Warszawie-9094199.html",
+      "url": "https://www.bankier.pl/wiadomosc/Dom-Development-wprowadzil-do-sprzedazy-292-mieszkania-w-Warszawie-9094199.html",
+      "title": "Dom Development wprowadził do sprzedaży 292 mieszkania w Warszawie",
+      "content_html": "Dom Development wprowadził do sprzedaży 292 mieszkania w ostatnim etapie Apartamentów Literacka w Warszawie - poinformował deweloper w komunikacie prasowym.",
+      "date_published": "2026-03-06T12:30:00+01:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/firmy/dom-development-wprowadzil-do-sprzedazy-292-mieszkania-w-warszawie",
+      "url": "https://biznes.pap.pl/wiadomosci/firmy/dom-development-wprowadzil-do-sprzedazy-292-mieszkania-w-warszawie",
+      "title": "Dom Development wprowadził do sprzedaży 292 mieszkania w Warszawie",
+      "content_html": "Dom Development wprowadził do sprzedaży 292 mieszkania w ostatnim etapie Apartamentów Literacka w Warszawie - poinformował deweloper w komunikacie prasowym.",
+      "date_published": "2026-03-06T12:29:00+01:00",
+      "source": "PAP Biznes"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Katarczycy-wstrzymuja-produkcje-gazu-Orlen-Dostawy-LNG-do-Polski-nie-sa-zagrozone-9094198.html",
+      "url": "https://www.bankier.pl/wiadomosc/Katarczycy-wstrzymuja-produkcje-gazu-Orlen-Dostawy-LNG-do-Polski-nie-sa-zagrozone-9094198.html",
+      "title": "Katarczycy wstrzymują produkcję gazu. Orlen: Dostawy LNG do Polski nie są zagrożone",
+      "content_html": "Orlen otrzymał od QatarEnergy informację o wystąpieniu siły wyższej związanej z czasowym wstrzymaniem części produkcji LNG przez katarskiego dostawcę. Na obecnym etapie informacja ta nie wpływa na realizację dostaw LNG do Orlenu - przekazało...",
+      "date_published": "2026-03-06T12:28:00+01:00",
+      "source": "Bankier.pl"
+    },
+    {
       "id": "https://biznes.pap.pl/wiadomosci/firmy/w-nadchodzacym-tygodniu-ceny-paliw-na-stacjach-beda-dalej-rosnac-e-petrol-opinia",
       "url": "https://biznes.pap.pl/wiadomosci/firmy/w-nadchodzacym-tygodniu-ceny-paliw-na-stacjach-beda-dalej-rosnac-e-petrol-opinia",
       "title": "W nadchodzącym tygodniu ceny paliw na stacjach będą dalej rosnąć - e-petrol (opinia)",
@@ -18,6 +50,22 @@
       "title": "Węgry oskarżają Ukraińców o pranie pieniędzy. W tle antyterroryści i były generał służb Ukrainy",
       "content_html": "Krajowa Administracja Podatkowa i Celna Węgier (NAV) prowadzi postępowanie karne ws. podejrzenia prania brudnych pieniędzy przez przewoźników z Ukrainy, którzy zostali zatrzymani na Węgrzech - podano w piątek w oświadczeniu NAV. Ukraińskie władze...",
       "date_published": "2026-03-06T12:22:00+01:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Ukraina-zepchnieta-na-dalszy-plan-Der-Spiegel-Moze-zabraknac-pociskow-do-Patriotow-9094190.html",
+      "url": "https://www.bankier.pl/wiadomosc/Ukraina-zepchnieta-na-dalszy-plan-Der-Spiegel-Moze-zabraknac-pociskow-do-Patriotow-9094190.html",
+      "title": "Ukraina zepchnięta na dalszy plan. Der Spiegel”: Może zabraknąć pocisków do Patriotów",
+      "content_html": "Wojna Izraela i USA z Iranem utrudnia rządowi Niemiec zdobycie pocisków do wyrzutni Patriot dla Ukrainy; jeśli Kijów nie otrzyma tego uzbrojenia, to wyczerpanie się ukraińskich zapasów będzie tylko kwestią czasu - ostrzegł w piątek „Der Spiegel”...",
+      "date_published": "2026-03-06T12:17:00+01:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Nauczka-z-Ukrainy-i-Iranu-Szef-MON-Systemy-antydronowe-i-obrona-przeciwlotnicza-to-priorytet-9094187.html",
+      "url": "https://www.bankier.pl/wiadomosc/Nauczka-z-Ukrainy-i-Iranu-Szef-MON-Systemy-antydronowe-i-obrona-przeciwlotnicza-to-priorytet-9094187.html",
+      "title": "Nauczka z Ukrainy i Iranu. Szef MON: Systemy antydronowe i obrona przeciwlotnicza to priorytet",
+      "content_html": "Wicepremier, szef MON Władysław Kosiniak-Kamysz powiedział w piątek, że rozbudowa polskich zdolności obrony przeciwlotniczych jest priorytetem dla rządu. Systemy dronowe, anhydronowe i daleki zasięg obrony powietrznej; to nasze priorytety - podkreślił...",
+      "date_published": "2026-03-06T12:15:00+01:00",
       "source": "Bankier.pl"
     },
     {
@@ -157,28 +205,12 @@
       "source": "Bankier.pl"
     },
     {
-      "id": "https://biznes.pap.pl/wiadomosci/rynki/katar-ostrzegl-ze-wojna-moze-doprowadzic-do-wzrostu-cen-ropy-do-150-usdb",
-      "url": "https://biznes.pap.pl/wiadomosci/rynki/katar-ostrzegl-ze-wojna-moze-doprowadzic-do-wzrostu-cen-ropy-do-150-usdb",
-      "title": "Katar ostrzegł, że wojna może doprowadzić do wzrostu cen ropy do 150 USD/b.",
-      "content_html": "Katar ostrzegł, że wojna na Bliskim Wschodzie może „zniszczyć gospodarki całego świata”, przewidując, że wszyscy eksporterzy energii z Zatoki Perskiej wstrzymają produkcję w ciągu kilku tygodni, a cen",
-      "date_published": "2026-03-06T10:57:00+01:00",
-      "source": "PAP Biznes"
-    },
-    {
       "id": "https://www.bankier.pl/wiadomosc/Orlen-rozpocznie-planowana-przerwe-w-pracy-rafinerii-w-Kralupach-ponowne-uruchomienie-w-maju-9094127.html",
       "url": "https://www.bankier.pl/wiadomosc/Orlen-rozpocznie-planowana-przerwe-w-pracy-rafinerii-w-Kralupach-ponowne-uruchomienie-w-maju-9094127.html",
       "title": "Rafineria Orlenu w Kralupach łapie pauzę. Ponownie uruchomienie w maju",
       "content_html": "Orlen Unipetrol rozpocznie planowaną przerwę w pracy swojej rafinerii w Kralupach - podał Orlen Unipetrol w komunikacie prasowym. Postój rozpocznie się 17 marca, a poszczególne technologie produkcyjne będą wyłączane od 11 marca. Ponowne uruchomienie...",
       "date_published": "2026-03-06T10:54:00+01:00",
       "source": "Bankier.pl"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/firmy/orlen-rozpocznie-planowana-przerwe-w-pracy-rafinerii-w-kralupach-ponowne",
-      "url": "https://biznes.pap.pl/wiadomosci/firmy/orlen-rozpocznie-planowana-przerwe-w-pracy-rafinerii-w-kralupach-ponowne",
-      "title": "Orlen rozpocznie planowaną przerwę w pracy rafinerii w Kralupach; ponowne uruchomienie w maju",
-      "content_html": "Orlen Unipetrol rozpocznie planowaną przerwę w pracy swojej rafinerii w Kralupach - podał Orlen Unipetrol w komunikacie prasowym. Postój rozpocznie się 17 marca, a poszczególne technologie produkcyjne",
-      "date_published": "2026-03-06T10:53:00+01:00",
-      "source": "PAP Biznes"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Inzynier-na-emeryturze-butelkowej-Jak-dorobic-na-plastiku-9094051.html",
@@ -261,6 +293,22 @@
       "source": "Bankier.pl"
     },
     {
+      "id": "https://www.bankier.pl/wiadomosc/Gaz-w-Europie-najdrozszy-od-miesiecy-Ceny-wzrosly-o-50-proc-w-tydzien-9094089.html",
+      "url": "https://www.bankier.pl/wiadomosc/Gaz-w-Europie-najdrozszy-od-miesiecy-Ceny-wzrosly-o-50-proc-w-tydzien-9094089.html",
+      "title": "Gaz w Europie najdroższy od miesięcy. Ceny wzrosły o 50 proc. w tydzień",
+      "content_html": "Ceny gazu ziemnego w Europie spadają w piątek, lecz są na drodze do największego tygodniowego wzrostu od 2023 r., gdyż wojna na Bliskim Wschodzie rzuca cień na perspektywy globalnych dostaw.",
+      "date_published": "2026-03-06T09:48:00+01:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Miedz-idzie-w-gore-Rynki-patrza-na-zapasy-tego-kluczowego-metalu-9094088.html",
+      "url": "https://www.bankier.pl/wiadomosc/Miedz-idzie-w-gore-Rynki-patrza-na-zapasy-tego-kluczowego-metalu-9094088.html",
+      "title": "Miedź idzie w górę. Rynki patrzą na zapasy tego kluczowego metalu",
+      "content_html": "Cena miedzi w dostawach 3-miesięcznych na Londyńskiej Giełdzie Metali (LME) rośnie o 0,3 proc. do 12.969 USD za tonę. Inwestorzy oceniają ostatnie zmiany w zakresie zapasów na rynku miedzi.",
+      "date_published": "2026-03-06T09:46:00+01:00",
+      "source": "Bankier.pl"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Droga-ropa-pograza-zlotego-Slabosc-euro-i-sila-franka-szwajcarskiego-9094078.html",
       "url": "https://www.bankier.pl/wiadomosc/Droga-ropa-pograza-zlotego-Slabosc-euro-i-sila-franka-szwajcarskiego-9094078.html",
       "title": "Droga ropa pogrąża złotego. Słabość euro i siła franka szwajcarskiego",
@@ -291,6 +339,22 @@
       "content_html": "Ceny ropy spadają w piątek po raz pierwszy od sześciu dni, ale są na drodze do największego tygodniowego wzrostu od czterech lat. Na rynkach są obawy o szok energetyczny wobec wstrzymania żeglugi przez cieśninę Ormuz.",
       "date_published": "2026-03-06T09:04:00+01:00",
       "source": "Bankier.pl"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/gospodarka/produkt-potencjalny-polski-w-2026-28-bedzie-rosl-ok-32-proc-rdr-od-27-luka",
+      "url": "https://biznes.pap.pl/wiadomosci/gospodarka/produkt-potencjalny-polski-w-2026-28-bedzie-rosl-ok-32-proc-rdr-od-27-luka",
+      "title": "Produkt potencjalny Polski w 2026-28 będzie rósł ok. 3,2 proc. rdr, od '27 luka popytowa ujemna - NBP",
+      "content_html": "Produkt potencjalny Polski w latach 2026-2028 będzie rósł średnio w tempie 3,2 proc. rdr, nieco poniżej średniej wieloletniej, a od 2027 r. luka popytowa zejdzie na ujemne poziomy, wspierając proces d",
+      "date_published": "2026-03-06T09:04:00+01:00",
+      "source": "PAP Biznes"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/rynki/ceny-ropy-spadaja-lecz-sa-na-drodze-do-najwiekszych-tygodniowych-wzrostow-od-4-lat",
+      "url": "https://biznes.pap.pl/wiadomosci/rynki/ceny-ropy-spadaja-lecz-sa-na-drodze-do-najwiekszych-tygodniowych-wzrostow-od-4-lat",
+      "title": "Ceny ropy spadają, lecz są na drodze do największych tygodniowych wzrostów od 4 lat",
+      "content_html": "Ceny ropy spadają w piątek po raz pierwszy od sześciu dni, ale są na drodze do największego tygodniowego wzrostu od czterech lat. Na rynkach są obawy o szok energetyczny wobec wstrzymania żeglugi prze",
+      "date_published": "2026-03-06T09:02:00+01:00",
+      "source": "PAP Biznes"
     },
     {
       "id": "https://biznes.pap.pl/wiadomosci/gospodarka/wg-projekcji-nbp-dynamika-plac-sredniorocznie-ma-spowolnic-do-64-proc-w-26-i",
@@ -407,25 +471,9 @@
     {
       "id": "https://www.bankier.pl/wiadomosc/Wojna-dyktuje-warunki-Musimy-zapomniec-o-dalszych-obnizkach-stop-procentowych-dopoki-trwa-konflikt-9094018.html",
       "url": "https://www.bankier.pl/wiadomosc/Wojna-dyktuje-warunki-Musimy-zapomniec-o-dalszych-obnizkach-stop-procentowych-dopoki-trwa-konflikt-9094018.html",
-      "title": "Wojna dyktuje warunki? \"Musimy zapomnieć o dalszych obniżkach stóp procentowych dopóki trwa konflikt\"",
-      "content_html": "Polska prawdopodobnie powstrzyma się od obniżek stóp do czasu zakończenia konfliktu w Iranie - powiedział w wywiadzie dla agencji Bloomberg, członek RPP Henryk Wnorowski.",
+      "title": "Wojna dyktuje warunki? \"Musimy zapomnieć o dalszych obniżkach stóp procentowych dopóki trwa konflikt\" Polska prawdopodobnie powstrzyma się od obniżek stóp do czasu zakończenia konfliktu w Iranie - powiedział w wywiadzie dla agencji Bloomberg, członek RPP Henryk Wnorowski.",
+      "content_html": "",
       "date_published": "2026-03-06T07:53:00+01:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Juz-w-Polsce-Pierwsza-grupa-Polakow-ewakuowanych-z-Bliskiego-Wschodu-dotarla-do-kraju-9093992.html",
-      "url": "https://www.bankier.pl/wiadomosc/Juz-w-Polsce-Pierwsza-grupa-Polakow-ewakuowanych-z-Bliskiego-Wschodu-dotarla-do-kraju-9093992.html",
-      "title": "Już w Polsce! Pierwsza grupa Polaków ewakuowanych z Bliskiego Wschodu dotarła do kraju",
-      "content_html": "Pierwsza grupa rodaków ewakuowanych wojskowym transportem lotniczym z rejonu Bliskiego Wschodu dotarła w piątek nad ranem do Polski - poinformowało Dowództwo Operacyjne Rodzajów Sił Zbrojnych. Zadeklarowało, że jest gotowe do dalszych działań...",
-      "date_published": "2026-03-06T07:47:00+01:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Gest-Minska-wobec-USA-15-wiezniow-politycznych-na-wolnosci-ponad-1100-osob-wciaz-za-kratami-9093915.html",
-      "url": "https://www.bankier.pl/wiadomosc/Gest-Minska-wobec-USA-15-wiezniow-politycznych-na-wolnosci-ponad-1100-osob-wciaz-za-kratami-9093915.html",
-      "title": "Gest Mińska wobec USA? 15 więźniów politycznych na wolności, ponad 1100 osób wciąż za kratami",
-      "content_html": "Specjalny wysłannik prezydenta USA Donalda Trumpa ds. Białorusi John Coale podziękował w czwartek białoruskiemu przywódcy Alaksandrowi Łukaszence za ułaskawienie 18 więźniów politycznych. Strona białoruska informowała o 18 ułaskawionych...",
-      "date_published": "2026-03-06T07:37:00+01:00",
       "source": "Bankier.pl"
     },
     {
@@ -845,14 +893,6 @@
       "source": "Bankier.pl"
     },
     {
-      "id": "https://biznes.pap.pl/wiadomosci/firmy/pge-utworzy-odpis-aktualizujacy-wartosc-pozyczki-udzielonej-pge-giek-o-wartosci",
-      "url": "https://biznes.pap.pl/wiadomosci/firmy/pge-utworzy-odpis-aktualizujacy-wartosc-pozyczki-udzielonej-pge-giek-o-wartosci",
-      "title": "PGE utworzy odpis aktualizujący wartość pożyczki udzielonej PGE GiEK o wartości 12,05 mld zł",
-      "content_html": "Zarząd PGE zidentyfikował konieczność ujęcia odpisu aktualizującego wartość pożyczki udzielonej przez PGE spółce zależnej PGE Górnictwo i Energetyka Konwencjonalna - podała spółka w komunikacie. Warto",
-      "date_published": "2026-03-05T19:03:00+01:00",
-      "source": "PAP Biznes"
-    },
-    {
       "id": "https://www.bankier.pl/wiadomosc/Trump-Zelenski-musi-zawrzec-porozumienie-Ma-teraz-nawet-mniej-kart-9093847.html",
       "url": "https://www.bankier.pl/wiadomosc/Trump-Zelenski-musi-zawrzec-porozumienie-Ma-teraz-nawet-mniej-kart-9093847.html",
       "title": "Trump: Zełenski musi zawrzeć porozumienie. \"Ma teraz nawet mniej kart\"",
@@ -1149,38 +1189,6 @@
       "source": "Bankier.pl"
     },
     {
-      "id": "https://www.bankier.pl/wiadomosc/100-dni-a-moze-wiecej-Wojsko-USA-prosi-o-wsparcie-operacji-przeciw-Iranowi-9093696.html",
-      "url": "https://www.bankier.pl/wiadomosc/100-dni-a-moze-wiecej-Wojsko-USA-prosi-o-wsparcie-operacji-przeciw-Iranowi-9093696.html",
-      "title": "100 dni, a może więcej? Wojsko USA prosi o wsparcie operacji przeciw Iranowi",
-      "content_html": "Dowództwo Centralne USA (CENTCOM) zwróciło się do Pentagonu z prośbą o dodatkowe wsparcie wywiadowcze operacji przeciwko Iranowi przez co najmniej 100 dni, a możliwe, że nawet do września - napisał portal Politico.",
-      "date_published": "2026-03-05T16:05:00+01:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/CBA-w-Urzedzie-Miasta-Wroclaw-Zabezpiecza-dokumentacje-i-nosniki-pamieci-9093433.html",
-      "url": "https://www.bankier.pl/wiadomosc/CBA-w-Urzedzie-Miasta-Wroclaw-Zabezpiecza-dokumentacje-i-nosniki-pamieci-9093433.html",
-      "title": "CBA w Urzędzie Miasta Wrocław. Zabezpiecza dokumentację i nośniki pamięci",
-      "content_html": "Na polecenie Prokuratury Krajowej agenci CBA prowadzą przeszukania w kilkunastu lokalizacjach, m.in. na terenie Wrocławia i ościennych powiatów - poinformował w czwartek rzecznik ministra koordynatora służb specjalnych Jacek Dobrzyński. Służby...",
-      "date_published": "2026-03-05T16:04:00+01:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Co-dalej-z-polskim-zlotem-i-stopami-procentowymi-Prezes-Glapinski-tlumaczy-polityke-NBP-9093548.html",
-      "url": "https://www.bankier.pl/wiadomosc/Co-dalej-z-polskim-zlotem-i-stopami-procentowymi-Prezes-Glapinski-tlumaczy-polityke-NBP-9093548.html",
-      "title": "Glapiński o \"SAFE 0%\": Zrobimy to niestandardowymi metodami. Będzie to bardzo wysoki zysk, jednorazowy",
-      "content_html": "Rada Polityki Pieniężnej po raz pierwszy w 2026 r., zgodnie z powszechnymi oczekiwaniami obniżyła stopy procentowe w Polsce. Na konferencji prasowej prezes NBP prof. Adam Glapiński przedstawia uzasadnienie decyzji Rady, odnosi się do aktualnego...",
-      "date_published": "2026-03-05T16:04:00+01:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Rurociag-Przyjazn-w-naprawie-Zelenski-Ja-bym-go-nie-odbudowywal-9093694.html",
-      "url": "https://www.bankier.pl/wiadomosc/Rurociag-Przyjazn-w-naprawie-Zelenski-Ja-bym-go-nie-odbudowywal-9093694.html",
-      "title": "Rurociąg Przyjaźń w naprawie. Zełenski: Ja bym go nie odbudowywał",
-      "content_html": "Prezydent Ukrainy Wołodymyr Zełenski zapowiedział w czwartek, że rurociąg Przyjaźń, uszkodzony na skutek rosyjskiego ataku pod koniec stycznia, będzie sprawny technicznie za około półtora miesiąca.",
-      "date_published": "2026-03-05T16:04:00+01:00",
-      "source": "Bankier.pl"
-    },
-    {
       "id": "https://biznes.pap.pl/wiadomosci/gospodarka/euro-w-ebc-11618-usd-i-18303-jpy",
       "url": "https://biznes.pap.pl/wiadomosci/gospodarka/euro-w-ebc-11618-usd-i-18303-jpy",
       "title": "Euro w EBC: 1,1618 USD i 183,03 JPY",
@@ -1410,46 +1418,6 @@
       "title": "Asseco BS wskazuje implementację AI w rozwoju produktów jako priorytet na 2026 r.",
       "content_html": "Asseco BS wskazuje implementację AI w rozwoju produktów jako priorytet na 2026 r. oraz oczekuje dobrego roku w obszarze FMCG - poinformował na konferencji prasowej członek zarządu Mariusz Lizon.",
       "date_published": "2026-03-05T13:04:00+01:00",
-      "source": "PAP Biznes"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/rynki/aktywa-ofe-wzrosly-o-14-proc-do-rekordowych-3150-mld-zl-w-lutym-2026-r-igte",
-      "url": "https://biznes.pap.pl/wiadomosci/rynki/aktywa-ofe-wzrosly-o-14-proc-do-rekordowych-3150-mld-zl-w-lutym-2026-r-igte",
-      "title": "Aktywa OFE wzrosły o 1,4 proc. do rekordowych 315,0 mld zł w lutym 2026 r. - IGTE, Analizy.pl",
-      "content_html": "Aktywa otwartych funduszy emerytalnych wzrosły o 1,4 proc. do rekordowych 315,02 mld zł w lutym 2026 r. - poinformowano w raporcie przygotowanym przez Analizy Online na zlecenie Izby Gospodarczej Towa",
-      "date_published": "2026-03-05T12:38:00+01:00",
-      "source": "PAP Biznes"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Fabrity-stawia-na-przemysl-i-AI-zwieksza-inwestycje-w-pracownikow-wywiad-9093485.html",
-      "url": "https://www.bankier.pl/wiadomosc/Fabrity-stawia-na-przemysl-i-AI-zwieksza-inwestycje-w-pracownikow-wywiad-9093485.html",
-      "title": "Fabrity stawia na przemysł i AI, zwiększa inwestycje w pracowników Fabrity pracuje nad nowymi obszarami, stawia m.in. na nowoczesny przemysł i sztuczną inteligencję - poinformował PAP Biznes prezes Tomasz Burczyński. Wskazał, że poczynione przez spółkę oszczędności stworzyły przestrzeń do zwiększenia inwestycji prorozwojowych, w tym inwestycji w ludzi.",
-      "content_html": "",
-      "date_published": "2026-03-05T12:32:00+01:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/gospodarka/liczba-nowych-rejestracji-samochodow-ciezarowych-w-ii-wzrosla-o-279-proc-rdr",
-      "url": "https://biznes.pap.pl/wiadomosci/gospodarka/liczba-nowych-rejestracji-samochodow-ciezarowych-w-ii-wzrosla-o-279-proc-rdr",
-      "title": "Liczba nowych rejestracji samochodów ciężarowych w II wzrosła o 27,9 proc. rdr - PZPM",
-      "content_html": "Liczba nowych rejestracji samochodów ciężarowych w lutym wzrosła o 27,9 proc. rdr do 2.780 sztuk - podał Polski Związek Przemysłu Motorowego.",
-      "date_published": "2026-03-05T12:32:00+01:00",
-      "source": "PAP Biznes"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/gry-i-technologie/fabrity-stawia-na-przemysl-i-ai-zwieksza-inwestycje-w-pracownikow",
-      "url": "https://biznes.pap.pl/wiadomosci/gry-i-technologie/fabrity-stawia-na-przemysl-i-ai-zwieksza-inwestycje-w-pracownikow",
-      "title": "Fabrity stawia na przemysł i AI, zwiększa inwestycje w pracowników (wywiad)",
-      "content_html": "Fabrity pracuje nad nowymi obszarami, stawia m.in. na nowoczesny przemysł i sztuczną inteligencję - poinformował PAP Biznes prezes Tomasz Burczyński. Wskazał, że poczynione przez spółkę oszczędności s",
-      "date_published": "2026-03-05T12:30:00+01:00",
-      "source": "PAP Biznes"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/rynki/rynek-dlugu-wszedl-w-faze-bardzo-silnego-momentum-vigc-quadrat-tfi-opinia",
-      "url": "https://biznes.pap.pl/wiadomosci/rynki/rynek-dlugu-wszedl-w-faze-bardzo-silnego-momentum-vigc-quadrat-tfi-opinia",
-      "title": "Rynek długu wszedł w fazę bardzo silnego momentum - VIG/C-Quadrat TFI (opinia)",
-      "content_html": "Rynek długu wszedł w fazę bardzo silnego momentum – kapitał systematycznie napływa do funduszy dłużnych, a każde przejściowe pogorszenie sentymentu wykorzystywane jest do budowy pozycji - ocenia Fryde",
-      "date_published": "2026-03-05T12:27:00+01:00",
       "source": "PAP Biznes"
     }
   ]
