@@ -5,12 +5,36 @@
   "home_page_url": "https://www.bankier.pl",
   "items": [
     {
+      "id": "https://biznes.pap.pl/wiadomosci/gospodarka/zysk-nbp-mozna-zwiekszyc-poprzez-ksiegowa-aktualizacje-ceny-zlota-lub-przez",
+      "url": "https://biznes.pap.pl/wiadomosci/gospodarka/zysk-nbp-mozna-zwiekszyc-poprzez-ksiegowa-aktualizacje-ceny-zlota-lub-przez",
+      "title": "Zysk NBP można zwiększyć poprzez księgową aktualizację ceny złota lub przez jego sprzedaż i odkupienie - Skiba",
+      "content_html": "Zwiększenie zysków NBP, których efektem mogłyby być większe środki na obronność, może nastąpić albo przez księgową aktualizację wyceny złota, albo poprzez jego sprzedaż i odkupienie – powiedział PAP d",
+      "date_published": "2026-03-07T07:54:00+01:00",
+      "source": "PAP Biznes"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Artifex-Mundi-szacuje-ze-zysk-netto-w-25-spadl-o-7-proc-rdr-do-25-4-mln-zl-9094610.html",
+      "url": "https://www.bankier.pl/wiadomosc/Artifex-Mundi-szacuje-ze-zysk-netto-w-25-spadl-o-7-proc-rdr-do-25-4-mln-zl-9094610.html",
+      "title": "Artifex Mundi szacuje, że zysk netto w '25 spadł o 7 proc. rdr do 25,4 mln zł",
+      "content_html": "Artifex Mundi szacuje, że zysk netto w 2025 roku wyniósł 25,4 mln zł, czyli był o 7 proc. niższy niż w 2024 roku - poinformowała spółka w komunikacie.",
+      "date_published": "2026-03-07T07:50:00+01:00",
+      "source": "Bankier.pl"
+    },
+    {
       "id": "https://biznes.pap.pl/wiadomosci/firmy/artifex-mundi-szacuje-ze-zysk-netto-w-25-spadl-o-7-proc-rdr-do-254-mln-zl",
       "url": "https://biznes.pap.pl/wiadomosci/firmy/artifex-mundi-szacuje-ze-zysk-netto-w-25-spadl-o-7-proc-rdr-do-254-mln-zl",
       "title": "Artifex Mundi szacuje, że zysk netto w '25 spadł o 7 proc. rdr do 25,4 mln zł",
       "content_html": "Artifex Mundi szacuje, że zysk netto w 2025 roku wyniósł 25,4 mln zł, czyli był o 7 proc. niższy niż w 2024 roku - poinformowała spółka w komunikacie.",
       "date_published": "2026-03-07T07:48:00+01:00",
       "source": "PAP Biznes"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Kryzys-naftowy-sie-rozkreca-Bessent-USA-moga-zdjac-czesc-sankcji-z-rosyjskiej-ropy-9094603.html",
+      "url": "https://www.bankier.pl/wiadomosc/Kryzys-naftowy-sie-rozkreca-Bessent-USA-moga-zdjac-czesc-sankcji-z-rosyjskiej-ropy-9094603.html",
+      "title": "Kryzys naftowy się rozkręca. Bessent: USA mogą zdjąć część sankcji z rosyjskiej ropy",
+      "content_html": "Sekretarz skarbu USA Scott Bessent powiedział w piątek w wywiadzie, że może wkrótce zdjąć kolejną transzę sankcji dotyczących rosyjskiej ropy naftowej, by obniżyć globalne ceny surowca. W czwartek resort tymczasowo pozwolił na zakup rosyjskiej...",
+      "date_published": "2026-03-07T07:12:00+01:00",
+      "source": "Bankier.pl"
     },
     {
       "id": "https://biznes.pap.pl/wiadomosci/energia/usa-moga-zdjac-kolejne-sankcje-z-rosyjskiej-ropy-bessent",
@@ -341,14 +365,6 @@
       "source": "Bankier.pl"
     },
     {
-      "id": "https://biznes.pap.pl/wiadomosci/gospodarka/dzien-na-fxfi-zloty-oslabil-sie-do-428eur-rentownosci-spw-w-gore",
-      "url": "https://biznes.pap.pl/wiadomosci/gospodarka/dzien-na-fxfi-zloty-oslabil-sie-do-428eur-rentownosci-spw-w-gore",
-      "title": "DZIEŃ NA FX/FI: Złoty osłabił się do 4,28/EUR, rentowności SPW w górę",
-      "content_html": "W piątek na koniec dnia polska waluta osłabiła się do 4,28 względem euro oraz niemal do 3,70 względem dolara, zaś rentowności krajowych obligacji znacząco podniosły się i w przypadku 2-letnich papieró",
-      "date_published": "2026-03-06T16:44:00+01:00",
-      "source": "PAP Biznes"
-    },
-    {
       "id": "https://www.bankier.pl/wiadomosc/30-zamiast-36-Szwajcarzy-tna-rozwazane-zakupy-mysliwcow-F-35A-9094405.html",
       "url": "https://www.bankier.pl/wiadomosc/30-zamiast-36-Szwajcarzy-tna-rozwazane-zakupy-mysliwcow-F-35A-9094405.html",
       "title": "30 zamiast 36? Szwajcarzy tną rozważane zakupy myśliwców F-35A",
@@ -443,6 +459,14 @@
       "content_html": "Grupa Pepco jest dobrze przygotowana, by reagować na potencjalne zakłócenia łańcucha dostaw wynikające z sytuacji na Bliskim Wschodzie - poinformowała spółka w komunikacie prasowym.",
       "date_published": "2026-03-06T14:54:00+01:00",
       "source": "Bankier.pl"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/rynki/dzien-na-rynkach-futures-w-usa-spadaja-cena-ropy-wti-powyzej-85-usdb",
+      "url": "https://biznes.pap.pl/wiadomosci/rynki/dzien-na-rynkach-futures-w-usa-spadaja-cena-ropy-wti-powyzej-85-usdb",
+      "title": "DZIEŃ NA RYNKACH: Futures w USA spadają; cena ropy WTI powyżej 85 USD/b.",
+      "content_html": "Kontrakty w USA zniżkują, podobnie jak indeksy w Europie. Na rynkach panuje obawa o dostawy surowców energetycznych w związku z trwającą wojną w Zatoce Perskiej. Ceny ropy rosną, a WTI przekroczyła pr",
+      "date_published": "2026-03-06T14:51:00+01:00",
+      "source": "PAP Biznes"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Maersk-zawiesza-dwie-linie-zeglugowe-z-Dalekiego-Wschodu-9094303.html",
@@ -1226,54 +1250,6 @@
       "title": "Irański okręt pod kontrolą Sri Lanki. Dramatyczna akcja ratunkowa",
       "content_html": "Sri Lanka przejęła w piątek kontrolę nad irańskim okrętem wojennym IRINS Buszehr po ewakuacji załogi tej jednostki, która zgłosiła awarię silnika. Dwa dni wcześniej Stany Zjednoczone storpedowały irańską fregatę IRIS Dena. Uratowano 32...",
       "date_published": "2026-03-06T08:30:00+01:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Kallas-Ustepstwa-wobec-Rosji-to-pulapka-ktora-karmi-dyktatora-9093921.html",
-      "url": "https://www.bankier.pl/wiadomosc/Kallas-Ustepstwa-wobec-Rosji-to-pulapka-ktora-karmi-dyktatora-9093921.html",
-      "title": "Kallas: Ustępstwa wobec Rosji to pułapka, która karmi dyktatora",
-      "content_html": "Jeśli zaoferujemy coś Rosji w zamian za pokój w Ukrainie, to tylko nakarmimy dyktatora; a jego apetyt tylko wzrośnie – powiedziała w czwartek w Zurychu szefowa unijnej dyplomacji Kaja Kallas.",
-      "date_published": "2026-03-06T08:25:00+01:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/rynki/najwazniejsze-indeksy-gieldowe-w-azji-675",
-      "url": "https://biznes.pap.pl/wiadomosci/rynki/najwazniejsze-indeksy-gieldowe-w-azji-675",
-      "title": "Najważniejsze indeksy giełdowe w Azji",
-      "content_html": "Poniżej aktualne indeksy wybranych giełd w Azji:",
-      "date_published": "2026-03-06T08:19:00+01:00",
-      "source": "PAP Biznes"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Dramatyczne-ostrzezenie-Crosetto-Wlochy-Swiat-jest-na-krawedzi-przepasci-9093908.html",
-      "url": "https://www.bankier.pl/wiadomosc/Dramatyczne-ostrzezenie-Crosetto-Wlochy-Swiat-jest-na-krawedzi-przepasci-9093908.html",
-      "title": "Dramatyczne ostrzeżenie Crosetto. Włochy: Świat jest na krawędzi przepaści",
-      "content_html": "- Jesteśmy na krawędzi przepaści - powiedział w czwartek w Senacie włoski minister obrony Guido Crosetto, przedstawiając informację rządu o sytuacji na Bliskim Wschodzie po rozpoczęciu ataku USA i Izraela na Iran. Dodał, że obecna sytuacja...",
-      "date_published": "2026-03-06T08:00:00+01:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Ewakuacja-100-tysiecy-Izraelczykow-Szin-Bet-wywiozl-uczniow-z-Polski-przez-Egipt-9093920.html",
-      "url": "https://www.bankier.pl/wiadomosc/Ewakuacja-100-tysiecy-Izraelczykow-Szin-Bet-wywiozl-uczniow-z-Polski-przez-Egipt-9093920.html",
-      "title": "Ewakuacja 100 tysięcy Izraelczyków. Szin Bet wywiózł uczniów z Polski przez Egipt",
-      "content_html": "Od rozpoczęcia wojny z Iranem do Izraela drogą lądową i morską wróciło ok. 20 tys. obywateli. Pierwsze samoloty wylądowały w Izraelu w czwartek, przywożąc do kraju pierwszych pasażerów z około 100 tys. oczekujących na powrót. 850 izraelskich...",
-      "date_published": "2026-03-06T08:00:00+01:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/firmy/uokik-przeslal-ponownie-projekt-ustawy-o-kredycie-konsumenckim-z-zapisami",
-      "url": "https://biznes.pap.pl/wiadomosci/firmy/uokik-przeslal-ponownie-projekt-ustawy-o-kredycie-konsumenckim-z-zapisami",
-      "title": "UOKiK przesłał ponownie projekt ustawy o kredycie konsumenckim z zapisami regulującymi SKD",
-      "content_html": "UOKiK przesłał ponownie do konsultacji projekt ustawy o kredycie konsumenckim z zapisami regulującymi sankcję kredytu darmowego (SKD) - podano na stronie Rządowego Centrum Legislacji.",
-      "date_published": "2026-03-06T08:00:00+01:00",
-      "source": "PAP Biznes"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Wojna-dyktuje-warunki-Musimy-zapomniec-o-dalszych-obnizkach-stop-procentowych-dopoki-trwa-konflikt-9094018.html",
-      "url": "https://www.bankier.pl/wiadomosc/Wojna-dyktuje-warunki-Musimy-zapomniec-o-dalszych-obnizkach-stop-procentowych-dopoki-trwa-konflikt-9094018.html",
-      "title": "Wojna dyktuje warunki? \"Musimy zapomnieć o dalszych obniżkach stóp procentowych dopóki trwa konflikt\" Polska prawdopodobnie powstrzyma się od obniżek stóp do czasu zakończenia konfliktu w Iranie - powiedział w wywiadzie dla agencji Bloomberg, członek RPP Henryk Wnorowski.",
-      "content_html": "",
-      "date_published": "2026-03-06T07:53:00+01:00",
       "source": "Bankier.pl"
     }
   ]
