@@ -5,6 +5,22 @@
   "home_page_url": "https://www.bankier.pl",
   "items": [
     {
+      "id": "https://biznes.pap.pl/wiadomosci/firmy/artifex-mundi-szacuje-ze-zysk-netto-w-25-spadl-o-7-proc-rdr-do-254-mln-zl",
+      "url": "https://biznes.pap.pl/wiadomosci/firmy/artifex-mundi-szacuje-ze-zysk-netto-w-25-spadl-o-7-proc-rdr-do-254-mln-zl",
+      "title": "Artifex Mundi szacuje, że zysk netto w '25 spadł o 7 proc. rdr do 25,4 mln zł",
+      "content_html": "Artifex Mundi szacuje, że zysk netto w 2025 roku wyniósł 25,4 mln zł, czyli był o 7 proc. niższy niż w 2024 roku - poinformowała spółka w komunikacie.",
+      "date_published": "2026-03-07T07:48:00+01:00",
+      "source": "PAP Biznes"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/energia/usa-moga-zdjac-kolejne-sankcje-z-rosyjskiej-ropy-bessent",
+      "url": "https://biznes.pap.pl/wiadomosci/energia/usa-moga-zdjac-kolejne-sankcje-z-rosyjskiej-ropy-bessent",
+      "title": "USA mogą zdjąć kolejne sankcje z rosyjskiej ropy - Bessent",
+      "content_html": "Sekretarz skarbu USA Scott Bessent powiedział w piątek w wywiadzie, że może wkrótce zdjąć kolejną transzę sankcji dotyczących rosyjskiej ropy naftowej, by obniżyć globalne ceny surowca. W czwartek res",
+      "date_published": "2026-03-07T07:10:00+01:00",
+      "source": "PAP Biznes"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Muzulmanscy-duchowni-bronia-szariatu-na-likwidacje-ktorego-nalegaja-USA-9089270.html",
       "url": "https://www.bankier.pl/wiadomosc/Muzulmanscy-duchowni-bronia-szariatu-na-likwidacje-ktorego-nalegaja-USA-9089270.html",
       "title": "Muzułmańscy duchowni bronią szariatu, na likwidację którego nalegają USA",
@@ -357,28 +373,12 @@
       "source": "Bankier.pl"
     },
     {
-      "id": "https://biznes.pap.pl/wiadomosci/gospodarka/euro-w-ebc-11561-usd-i-18257-jpy",
-      "url": "https://biznes.pap.pl/wiadomosci/gospodarka/euro-w-ebc-11561-usd-i-18257-jpy",
-      "title": "Euro w EBC: 1,1561 USD i 182,57 JPY",
-      "content_html": "Europejski Bank Centralny (EBC) ustalił kurs euro na 1,1561 USD i 182,57 JPY - podał bank na swojej stronie internetowej.",
-      "date_published": "2026-03-06T16:04:00+01:00",
-      "source": "PAP Biznes"
-    },
-    {
       "id": "https://www.bankier.pl/wiadomosc/Koniec-drozyzny-dzieki-OZE-UE-podzielona-w-sprawie-cen-energii-9094371.html",
       "url": "https://www.bankier.pl/wiadomosc/Koniec-drozyzny-dzieki-OZE-UE-podzielona-w-sprawie-cen-energii-9094371.html",
       "title": "Koniec drożyzny dzięki OZE? UE podzielona w sprawie cen energii",
       "content_html": "Siedem państw UE, w tym Holandia, Szwecja i Dania, zaapelowało do Komisji Europejskiej o powstrzymanie się przed reformą rynku energii elektrycznej zakładającą wyłączenie gazu z mechanizmu ustalania cen. W ich ocenie drogą do tańszej energii...",
       "date_published": "2026-03-06T15:52:00+01:00",
       "source": "Bankier.pl"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/firmy/niemiecki-koncern-axel-springer-przejmuje-dziennik-daily-telegraph",
-      "url": "https://biznes.pap.pl/wiadomosci/firmy/niemiecki-koncern-axel-springer-przejmuje-dziennik-daily-telegraph",
-      "title": "Niemiecki koncern Axel Springer przejmuje dziennik „The Daily Telegraph”",
-      "content_html": "Niemiecki koncern Axel Spinger ogłosił w piątek, że uzgodnił przejęcie za 575 mln funtów brytyjskiego wydawnictwa Telegraph Media Group (TMG) - wydawcy dziennika „The Daily Telegraph” i jego niedzieln",
-      "date_published": "2026-03-06T15:39:00+01:00",
-      "source": "PAP Biznes"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Wielkie-przejecie-w-swiecie-mediow-Axel-Springer-kupuje-The-Telegraph-9094361.html",
@@ -461,12 +461,28 @@
       "source": "Bankier.pl"
     },
     {
+      "id": "https://biznes.pap.pl/wiadomosci/firmy/skladka-przypisana-brutto-w-kanale-bancassurance-w-25-wyniosla-59-mld-zl-spadla-75",
+      "url": "https://biznes.pap.pl/wiadomosci/firmy/skladka-przypisana-brutto-w-kanale-bancassurance-w-25-wyniosla-59-mld-zl-spadla-75",
+      "title": "Składka przypisana brutto w kanale bancassurance w '25 wyniosła 5,9 mld zł, spadła 7,5 proc. rdr - PIU",
+      "content_html": "Składka przypisana brutto w kanale bancassurance w 2025 roku wyniosła 5,9 mld zł, czyli spadła 7,5 proc. rdr - wynika z danych o rynku bancassurance Polskiej Izby Ubezpieczeń.",
+      "date_published": "2026-03-06T14:42:00+01:00",
+      "source": "PAP Biznes"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Unimot-ocenia-ze-najwiekszym-potencjalnym-ryzykiem-dla-rynku-paliw-eskalacja-konfliktu-w-regionie-9094293.html",
       "url": "https://www.bankier.pl/wiadomosc/Unimot-ocenia-ze-najwiekszym-potencjalnym-ryzykiem-dla-rynku-paliw-eskalacja-konfliktu-w-regionie-9094293.html",
       "title": "Unimot ocenia, że największym potencjalnym ryzykiem dla rynku paliw eskalacja konfliktu w regionie",
       "content_html": "Unimot koncentruje się na zapewnieniu dostaw - poinformował Adam Sikorski, prezes Unimotu. Potencjalnym ryzykiem dla rynku paliw i - w efekcie - dla gospodarki byłoby rozlanie się konfliktu na kolejne kraje regionu.",
       "date_published": "2026-03-06T14:34:00+01:00",
       "source": "Bankier.pl"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/firmy/unimot-ocenia-ze-najwiekszym-potencjalnym-ryzykiem-dla-rynku-paliw-eskalacja",
+      "url": "https://biznes.pap.pl/wiadomosci/firmy/unimot-ocenia-ze-najwiekszym-potencjalnym-ryzykiem-dla-rynku-paliw-eskalacja",
+      "title": "Unimot ocenia, że największym potencjalnym ryzykiem dla rynku paliw eskalacja konfliktu w regionie",
+      "content_html": "Unimot koncentruje się na zapewnieniu dostaw - poinformował Adam Sikorski, prezes Unimotu. Potencjalnym ryzykiem dla rynku paliw i - w efekcie - dla gospodarki byłoby rozlanie się konfliktu na kolejne",
+      "date_published": "2026-03-06T14:33:00+01:00",
+      "source": "PAP Biznes"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Fatalne-dane-z-amerykanskiego-rynku-pracy-Zatrudnienie-spadlo-a-bezrobocie-wzroslo-9094176.html",
@@ -1259,78 +1275,6 @@
       "content_html": "",
       "date_published": "2026-03-06T07:53:00+01:00",
       "source": "Bankier.pl"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/rynki/rentownosci-obligacji-wybranych-panstw-tabela-2563",
-      "url": "https://biznes.pap.pl/wiadomosci/rynki/rentownosci-obligacji-wybranych-panstw-tabela-2563",
-      "title": "Rentowności obligacji wybranych państw (tabela)",
-      "content_html": "Poniżej zestawienie rentowności obligacji wybranych państw.",
-      "date_published": "2026-03-06T07:36:00+01:00",
-      "source": "PAP Biznes"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/rynki/notowania-metali-bazowych-wegla-i-paliw-tabela-2474",
-      "url": "https://biznes.pap.pl/wiadomosci/rynki/notowania-metali-bazowych-wegla-i-paliw-tabela-2474",
-      "title": "Notowania metali bazowych, węgla i paliw (tabela)",
-      "content_html": "Notowania metali bazowych na London Metal Exchange, uprawnień EUA do emisji CO2, ceny węgla energetycznego ARA na przyszły rok oraz ceny paliw.",
-      "date_published": "2026-03-06T07:35:00+01:00",
-      "source": "PAP Biznes"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/rynki/zamkniecia-na-gieldach-w-ameryce-polnocnej-i-poludniowej-tabela-3082",
-      "url": "https://biznes.pap.pl/wiadomosci/rynki/zamkniecia-na-gieldach-w-ameryce-polnocnej-i-poludniowej-tabela-3082",
-      "title": "Zamknięcia na giełdach w Ameryce Północnej i Południowej (tabela)",
-      "content_html": "Poniżej zamknięcia i zmiany indeksów w USA. Kanadzie, Meksyku, Brazylii, Chile, Kolumbii i Argentynie:",
-      "date_published": "2026-03-06T07:34:00+01:00",
-      "source": "PAP Biznes"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/gospodarka/przy-kancelarii-premiera-powstaje-miedzyresortowy-zespol-ds-koordynacji",
-      "url": "https://biznes.pap.pl/wiadomosci/gospodarka/przy-kancelarii-premiera-powstaje-miedzyresortowy-zespol-ds-koordynacji",
-      "title": "Przy Kancelarii Premiera powstaje Międzyresortowy Zespół ds. Koordynacji Polityki Demograficznej",
-      "content_html": "Przy Kancelarii Premiera powstaje Międzyresortowy Zespół ds. Koordynacji Polityki Demograficznej - podano w zarządzeniu Prezesa Rady Ministrów.",
-      "date_published": "2026-03-06T07:32:00+01:00",
-      "source": "PAP Biznes"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Masakra-Iranu-za-miliardy-dolarow-Operacja-kosztuje-USA-890-mln-dolarow-dziennie-9093912.html",
-      "url": "https://www.bankier.pl/wiadomosc/Masakra-Iranu-za-miliardy-dolarow-Operacja-kosztuje-USA-890-mln-dolarow-dziennie-9093912.html",
-      "title": "Masakra Iranu za miliardy dolarów. \"Operacja\" kosztuje USA 890 mln dolarów dziennie Szacuje się, że pierwszych 100 godzin operacji amerykańskich sił przeciwko Iranowi kosztowało 3,7 mld dolarów, czyli ponad 890 mln dolarów dziennie - podał w czwartek think tank Center for Strategic and International Studies.",
-      "content_html": "",
-      "date_published": "2026-03-06T07:26:00+01:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/gospodarka/polska-prawdopodobnie-powstrzyma-sie-od-obnizek-stop-do-czasu-zakonczenia",
-      "url": "https://biznes.pap.pl/wiadomosci/gospodarka/polska-prawdopodobnie-powstrzyma-sie-od-obnizek-stop-do-czasu-zakonczenia",
-      "title": "Polska prawdopodobnie powstrzyma się od obniżek stóp do czasu zakończenia konfliktu w Iranie - Wnorowski, RPP",
-      "content_html": "Polska prawdopodobnie powstrzyma się od obniżek stóp do czasu zakończenia konfliktu w Iranie - powiedział w wywiadzie dla agencji Bloomberg, członek RPP Henryk Wnorowski.",
-      "date_published": "2026-03-06T07:14:00+01:00",
-      "source": "PAP Biznes"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/ekonomia-biznes-i-finanse/przewidywane-najwazniejsze-wydarzenia-gospodarcze-2026-03-06",
-      "url": "https://biznes.pap.pl/wiadomosci/ekonomia-biznes-i-finanse/przewidywane-najwazniejsze-wydarzenia-gospodarcze-2026-03-06",
-      "title": "Przewidywane najważniejsze wydarzenia gospodarcze 2026-03-06",
-      "content_html": "Przewidywane najważniejsze wydarzenia gospodarcze 2026-03-06 - 2026-03-12",
-      "date_published": "2026-03-06T07:00:00+01:00",
-      "source": "PAP Biznes"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/rynki/kalendarium-rynku-newconnect-2026-03-06",
-      "url": "https://biznes.pap.pl/wiadomosci/rynki/kalendarium-rynku-newconnect-2026-03-06",
-      "title": "Kalendarium rynku NewConnect 2026-03-06",
-      "content_html": "Kalendarium rynku NewConnect 2026-03-06 - 2026-03-12",
-      "date_published": "2026-03-06T07:00:00+01:00",
-      "source": "PAP Biznes"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/rynki/kalendarium-rynku-kapitalowego-gpw-2026-03-06",
-      "url": "https://biznes.pap.pl/wiadomosci/rynki/kalendarium-rynku-kapitalowego-gpw-2026-03-06",
-      "title": "Kalendarium rynku kapitałowego GPW 2026-03-06",
-      "content_html": "Kalendarium rynku kapitałowego GPW 2026-03-06 - 2026-03-12",
-      "date_published": "2026-03-06T07:00:00+01:00",
-      "source": "PAP Biznes"
     }
   ]
 }
