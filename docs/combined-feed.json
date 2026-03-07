@@ -5,6 +5,22 @@
   "home_page_url": "https://www.bankier.pl",
   "items": [
     {
+      "id": "https://biznes.pap.pl/wiadomosci/gospodarka/polska-przyjmie-safe-pierwsze-przelewy-w-ciagu-kilku-tygodni-szef-msz",
+      "url": "https://biznes.pap.pl/wiadomosci/gospodarka/polska-przyjmie-safe-pierwsze-przelewy-w-ciagu-kilku-tygodni-szef-msz",
+      "title": "Polska przyjmie SAFE, pierwsze przelewy w ciągu kilku tygodni - szef MSZ",
+      "content_html": "Wicepremier, szef MSZ Radosław Sikorski podkreślał w sobotę, że czekająca na decyzję prezydenta Karola Nawrockiego regulacja o SAFE nie jest ustawą o przyjęciu programu. Jak dodał, Polska SAFE przyjmi",
+      "date_published": "2026-03-07T17:59:00+01:00",
+      "source": "PAP Biznes"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/gospodarka/w-srode-prezes-nbp-przedstawi-publicznie-rozwiazania-dot-polskiego-safe-0",
+      "url": "https://biznes.pap.pl/wiadomosci/gospodarka/w-srode-prezes-nbp-przedstawi-publicznie-rozwiazania-dot-polskiego-safe-0",
+      "title": "W środę prezes NBP przedstawi publicznie rozwiązania dot. „polskiego SAFE 0 proc.” - źródła",
+      "content_html": "W środę prezes NBP Adam Glapiński przedstawi publicznie rozwiązania dotyczące „polskiego SAFE 0 proc.” - dowiedziała się PAP ze źródła zbliżonego do banku centralnego.",
+      "date_published": "2026-03-07T17:50:00+01:00",
+      "source": "PAP Biznes"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Trump-W-sobote-nastapi-bardzo-mocne-uderzenie-na-Iran-9094662.html",
       "url": "https://www.bankier.pl/wiadomosc/Trump-W-sobote-nastapi-bardzo-mocne-uderzenie-na-Iran-9094662.html",
       "title": "Trump ostrzega: W sobotę nastąpi bardzo mocne uderzenie na Iran",
@@ -578,46 +594,6 @@
       "title": "Paraliż nieba nad Bliskim Wschodem. Odwołano 14 tysięcy lotów",
       "content_html": "Od wybuchu wojny na Bliskim Wschodzie 28 lutego linie lotnicze odwołały blisko 14 tys. połączeń z tego regionu - podała w piątek stacja CNN. Część przewoźników, jak Air France, przedłuża ograniczenia. Inne linie, jak Emirates czy Etihad...",
       "date_published": "2026-03-06T18:23:00+01:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/rynki/dzien-na-rynkach-gieldy-w-europie-na-minusach-ropa-wti-ponad-90-usdb",
-      "url": "https://biznes.pap.pl/wiadomosci/rynki/dzien-na-rynkach-gieldy-w-europie-na-minusach-ropa-wti-ponad-90-usdb",
-      "title": "DZIEŃ NA RYNKACH: Giełdy w Europie na minusach; ropa WTI ponad 90 USD/b",
-      "content_html": "Europejskie giełdy zakończyły piątkową sesję na minusach; na Wall Street indeksy zniżkują. Rynki kończą burzliwy tydzień, w którym po wybuchu wojny między Stanami Zjednoczonymi a Iranem nastąpiła wypr",
-      "date_published": "2026-03-06T18:17:00+01:00",
-      "source": "PAP Biznes"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Asseco-Business-Solutions-chce-skupic-nie-wiecej-niz-400-tys-akcji-wlasnych-9094476.html",
-      "url": "https://www.bankier.pl/wiadomosc/Asseco-Business-Solutions-chce-skupic-nie-wiecej-niz-400-tys-akcji-wlasnych-9094476.html",
-      "title": "Asseco Business Solutions chce skupić nie więcej niż 400 tys. akcji własnych",
-      "content_html": "Asseco Business Solutions planuje skupić nie więcej niż 400 tys. akcji własnych, po cenie mieszczącej się w przedziale 70-80 zł za akcję - poinformowała spółka w zaproszeniu do składania ofert sprzedaży.",
-      "date_published": "2026-03-06T18:14:00+01:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/firmy/asseco-business-solutions-chce-skupic-nie-wiecej-niz-400-tys-akcji-wlasnych",
-      "url": "https://biznes.pap.pl/wiadomosci/firmy/asseco-business-solutions-chce-skupic-nie-wiecej-niz-400-tys-akcji-wlasnych",
-      "title": "Asseco Business Solutions chce skupić nie więcej niż 400 tys. akcji własnych",
-      "content_html": "Asseco Business Solutions planuje skupić nie więcej niż 400 tys. akcji własnych, po cenie mieszczącej się w przedziale 70-80 zł za akcję - poinformowała spółka w zaproszeniu do składania ofert sprzeda",
-      "date_published": "2026-03-06T18:13:00+01:00",
-      "source": "PAP Biznes"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Polska-i-Ukraina-lacza-sily-Beda-produkowac-slynne-haubice-9094472.html",
-      "url": "https://www.bankier.pl/wiadomosc/Polska-i-Ukraina-lacza-sily-Beda-produkowac-slynne-haubice-9094472.html",
-      "title": "Polska i Ukraina łączą siły. Będą produkować słynne haubice",
-      "content_html": "PONAR Wadowice S.A. oraz Kramatorskie Zakłady Budowy Ciężkich Obrabiarek (KZVV) powołały polsko-ukraińską spółkę joint venture – PK MIL S.A., która produkować będzie m.in. ukraińskie armatohaubice „Bohdana”.",
-      "date_published": "2026-03-06T18:08:00+01:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Izrael-szykuje-nalot-na-Fordo-Cywile-wezwani-do-natychmiastowej-ewakuacji-9094468.html",
-      "url": "https://www.bankier.pl/wiadomosc/Izrael-szykuje-nalot-na-Fordo-Cywile-wezwani-do-natychmiastowej-ewakuacji-9094468.html",
-      "title": "Izrael szykuje nalot na Fordo? Cywile wezwani do natychmiastowej ewakuacji",
-      "content_html": "Armia Izraela wydała w piątek ostrzeżenie wzywające do ewakuacji strefy przemysłowej w irańskim ostanie (prowincji) Kom, kilkanaście kilometrów od ośrodka wzbogacania uranu w Fordo, kluczowego obiektu irańskiego programu jądrowego – podał...",
-      "date_published": "2026-03-06T18:03:00+01:00",
       "source": "Bankier.pl"
     }
   ]
