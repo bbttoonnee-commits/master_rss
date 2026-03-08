@@ -5,6 +5,22 @@
   "home_page_url": "https://www.bankier.pl",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/Z-lombardu-skradziono-bizuterie-warta-200-tys-zl-Podejrzani-w-areszcie-9091452.html",
+      "url": "https://www.bankier.pl/wiadomosc/Z-lombardu-skradziono-bizuterie-warta-200-tys-zl-Podejrzani-w-areszcie-9091452.html",
+      "title": "Z lombardu skradziono biżuterię wartą 200 tys. zł. Podejrzani w areszcie",
+      "content_html": "Do aresztu trafiło dwóch mężczyzn podejrzanych o włamanie do lombardu w Pułtusku i kradzież wyrobów jubilerskich o wartości ponad 200 tys. zł. Dwóch innych sprawców jest wciąż poszukiwanych – poinformowała Prokuratura Okręgowa w Ostrołęce...",
+      "date_published": "2026-03-08T15:00:00+01:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Kobiety-biora-polski-rynek-szturmem-Zdominowaly-konkretne-sektory-gospodarki-9094811.html",
+      "url": "https://www.bankier.pl/wiadomosc/Kobiety-biora-polski-rynek-szturmem-Zdominowaly-konkretne-sektory-gospodarki-9094811.html",
+      "title": "Kobiety biorą polski rynek szturmem. Zdominowały konkretne sektory gospodarki",
+      "content_html": "W ubiegłym roku kobiety założyły blisko 40 proc. wszystkich jednoosobowych działalności gospodarczych - poinformował Polski Instytut Ekonomiczny (PIE). 87 proc. JDG zarejestrowały Polki, a cudzoziemki - 13 proc.",
+      "date_published": "2026-03-08T13:00:00+01:00",
+      "source": "Bankier.pl"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Zmienili-prace-i-sa-zadowoleni-Nowe-miejsce-to-nie-tylko-stres-9091994.html",
       "url": "https://www.bankier.pl/wiadomosc/Zmienili-prace-i-sa-zadowoleni-Nowe-miejsce-to-nie-tylko-stres-9091994.html",
       "title": "Zmienili pracę i są zadowoleni. \"Nowe miejsce to nie tylko stres\"",
@@ -347,30 +363,6 @@
       "content_html": "Rząd zapowiada intensyfikację działań na rzecz silniejszego rynku kapitałowego. Minister finansów i gospodarki Andrzej Domański podkreśla, że budowa stabilnej architektury rynku jest jego priorytetem i że Polska chce aktywnie uczestniczyć w...",
       "date_published": "2026-03-07T13:58:00+01:00",
       "source": "Bankier.pl"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Ropa-i-gaz-drastycznie-drozeja-Domanski-Jestesmy-przygotowani-na-kazdy-scenariusz-9094664.html",
-      "url": "https://www.bankier.pl/wiadomosc/Ropa-i-gaz-drastycznie-drozeja-Domanski-Jestesmy-przygotowani-na-kazdy-scenariusz-9094664.html",
-      "title": "Ropa i gaz drastycznie drożeją. Domański: Jesteśmy przygotowani na każdy scenariusz",
-      "content_html": "Minister finansów i gospodarki Andrzej Domański dostrzega potencjalne konsekwencje dla gospodarki z powodu dużych wzrostów cen ropy i gazu. W wypowiedzi dla PAP Biznes mówi, że polski rząd jest przygotowany na każdy scenariusz.",
-      "date_published": "2026-03-07T13:24:00+01:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/firmy/polska-chce-wzmocnic-rynek-kapitalowy-i-zostac-liderem-zmian-w-europie-domanski-mf",
-      "url": "https://biznes.pap.pl/wiadomosci/firmy/polska-chce-wzmocnic-rynek-kapitalowy-i-zostac-liderem-zmian-w-europie-domanski-mf",
-      "title": "Polska chce wzmocnić rynek kapitałowy i zostać liderem zmian w Europie - Domański, MF (wywiad)",
-      "content_html": "Rząd zapowiada intensyfikację działań na rzecz silniejszego rynku kapitałowego. Minister finansów i gospodarki Andrzej Domański podkreśla, że budowa stabilnej architektury rynku jest jego priorytetem ",
-      "date_published": "2026-03-07T13:22:00+01:00",
-      "source": "PAP Biznes"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/rynki/domanski-dostrzega-potencjalne-konsekwencje-dla-gospodarki-po-wzroscie-cen-ropy-i",
-      "url": "https://biznes.pap.pl/wiadomosci/rynki/domanski-dostrzega-potencjalne-konsekwencje-dla-gospodarki-po-wzroscie-cen-ropy-i",
-      "title": "Domański dostrzega potencjalne konsekwencje dla gospodarki po wzroście cen ropy i gazu",
-      "content_html": "Minister finansów i gospodarki Andrzej Domański dostrzega potencjalne konsekwencje dla gospodarki z powodu dużych wzrostów cen ropy i gazu. W wypowiedzi dla PAP Biznes mówi, że polski rząd jest przygo",
-      "date_published": "2026-03-07T13:22:00+01:00",
-      "source": "PAP Biznes"
     }
   ]
 }
