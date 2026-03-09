@@ -5,6 +5,14 @@
   "home_page_url": "https://www.bankier.pl",
   "items": [
     {
+      "id": "https://biznes.pap.pl/wiadomosci/rynki/ceny-ropy-spadly-po-zapowiedziach-trumpa-dot-wojny-w-iranie-i-przejecia-kontroli",
+      "url": "https://biznes.pap.pl/wiadomosci/rynki/ceny-ropy-spadly-po-zapowiedziach-trumpa-dot-wojny-w-iranie-i-przejecia-kontroli",
+      "title": "Ceny ropy spadły po zapowiedziach Trumpa dot. wojny w Iranie i przejęcia kontroli nad Cieśniną Ormuz",
+      "content_html": "Ceny ropy naftowej spadły w poniedziałek po zapowiedziach Trumpa, że wojna z Iranem jest bliska zakończenia oraz informacji o tym, że rozważa przejęcie kontroli nad Cieśniną Ormuz. W niedzielę ceny ro",
+      "date_published": "2026-03-09T23:06:00+01:00",
+      "source": "PAP Biznes"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Zaspokojone-zostaly-wierzytelnosci-w-wys-30-3-mln-euro-dot-kredytow-na-finansowanie-projektu-Polimery-Police-9095525.html",
       "url": "https://www.bankier.pl/wiadomosc/Zaspokojone-zostaly-wierzytelnosci-w-wys-30-3-mln-euro-dot-kredytow-na-finansowanie-projektu-Polimery-Police-9095525.html",
       "title": "Zaspokojone zostały wierzytelności w wys. 30,3 mln euro dot. kredytów na finansowanie projektu Polimery Police",
@@ -301,14 +309,6 @@
       "source": "PAP Biznes"
     },
     {
-      "id": "https://biznes.pap.pl/wiadomosci/firmy/elevenlabs-chce-byc-gotowy-do-ipo-w-ciagu-2-3-lat-mysli-o-dual-listing-w-warszawie",
-      "url": "https://biznes.pap.pl/wiadomosci/firmy/elevenlabs-chce-byc-gotowy-do-ipo-w-ciagu-2-3-lat-mysli-o-dual-listing-w-warszawie",
-      "title": "ElevenLabs chce być gotowy do IPO w ciągu 2-3 lat, myśli o dual listing w Warszawie",
-      "content_html": "ElevenLabs chce być gotowy do IPO w cigu 2-3 lat, myśli o dual listingu na giełdzie w Warszawie - poinformował Mati Staniszewski, CEO i współzałożyciel ElevenLabs podczas Konferencji Rynku Kapitałoweg",
-      "date_published": "2026-03-09T18:11:00+01:00",
-      "source": "PAP Biznes"
-    },
-    {
       "id": "https://www.bankier.pl/wiadomosc/JSW-chce-sprzedac-ARP-udzialy-w-spolkach-PBSz-i-JZR-9095351.html",
       "url": "https://www.bankier.pl/wiadomosc/JSW-chce-sprzedac-ARP-udzialy-w-spolkach-PBSz-i-JZR-9095351.html",
       "title": "JSW chce sprzedać ARP udziały w spółkach PBSz i JZR",
@@ -371,6 +371,14 @@
       "content_html": "Stołeczni radni zdecydują w czwartek czy nocny zakaz sprzedaży alkoholu obejmie całe miasto. Jeśli przychylą się do tej propozycji, to zgodnie z projektem uchwały, zakaz zacząłby obowiązywać od 1 czerwca tego roku.",
       "date_published": "2026-03-09T16:58:00+01:00",
       "source": "Bankier.pl"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/rynki/grupa-panstw-g7-gotowa-do-uwolnienia-zapasow-ropy-jesli-bedzie-konieczne-do",
+      "url": "https://biznes.pap.pl/wiadomosci/rynki/grupa-panstw-g7-gotowa-do-uwolnienia-zapasow-ropy-jesli-bedzie-konieczne-do",
+      "title": "Grupa państw G7 gotowa do uwolnienia zapasów ropy, jeśli będzie to konieczne do wsparcia podaży",
+      "content_html": "Ministrowie finansów grupy G7 oświadczyli, że są gotowi podjąć wszelkie niezbędne kroki w celu wsparcia globalnych dostaw energii, w tym uwolnić strategiczne rezerwy ropy naftowej – napisano w oświadc",
+      "date_published": "2026-03-09T16:57:00+01:00",
+      "source": "PAP Biznes"
     },
     {
       "id": "https://biznes.pap.pl/wiadomosci/firmy/jsw-chce-sprzedac-arp-udzialy-w-spolkach-pbsz-i-jzr-opis",
