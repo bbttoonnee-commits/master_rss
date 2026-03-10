@@ -5,44 +5,204 @@
   "home_page_url": "https://www.bankier.pl",
   "items": [
     {
-      "id": "https://biznes.pap.pl/wiadomosci/gospodarka/rzad-przyjal-projekt-ustawy-zakazujacy-sprzedazy-jednorazowych-papierosow",
-      "url": "https://biznes.pap.pl/wiadomosci/gospodarka/rzad-przyjal-projekt-ustawy-zakazujacy-sprzedazy-jednorazowych-papierosow",
-      "title": "Rząd przyjął projekt ustawy zakazujący sprzedaży jednorazowych papierosów elektronicznych",
-      "content_html": "Rząd przyjął projekt ustawy przewidujący wprowadzenie zakazu sprzedaży jednorazowych papierosów elektronicznych, zarówno z nikotyną, jak i bez niej - podano w komunikacie po wtorkowym posiedzeniu Rady",
-      "date_published": "2026-03-10T15:57:00+01:00",
+      "id": "https://www.bankier.pl/wiadomosc/Rosnie-pewnosc-co-do-tego-ze-bedzie-niepewnosc-Co-dzis-radzi-inwestorom-prof-Jajuga-9096035.html",
+      "url": "https://www.bankier.pl/wiadomosc/Rosnie-pewnosc-co-do-tego-ze-bedzie-niepewnosc-Co-dzis-radzi-inwestorom-prof-Jajuga-9096035.html",
+      "title": "„Rośnie pewność co do tego, że będzie niepewność”. Co dziś radzi inwestorom prof. Jajuga?",
+      "content_html": "#KRK'26 #KRK2026 Kumulacja napięć geopolitycznych na Bliskim Wschodzie, surowcowe huśtawki i wreszcie gigantyczne wyceny spółek technologicznych napędzane szałem na sztuczną inteligencję – to środowisko, w którym przyszło obecnie działać...",
+      "date_published": "2026-03-11T06:00:00+01:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/firmy/rzad-liczy-na-szybka-decyzje-prezydenta-ws-unijnego-safe-w-jego-propozycji-nie-ma",
+      "url": "https://biznes.pap.pl/wiadomosci/firmy/rzad-liczy-na-szybka-decyzje-prezydenta-ws-unijnego-safe-w-jego-propozycji-nie-ma",
+      "title": "Rząd liczy na szybką decyzję prezydenta ws. unijnego SAFE; w jego propozycji nie ma gwarancji pieniędzy - premier",
+      "content_html": "Rząd liczy na szybką jednoznaczną decyzję prezydenta ws. unijnego programu SAFE; to jest 180 mld zł - powiedział po spotkaniu z prezydentem ws. propozycji SAFE 0 proc. premier Donald Tusk. Ocenił, że ",
+      "date_published": "2026-03-10T17:22:00+01:00",
+      "source": "PAP Biznes"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/prezydent-proponuje-utworzenie-polskiego-funduszu-inwestycji-obronnych-glownym-zrodlem",
+      "url": "https://biznes.pap.pl/wiadomosci/prezydent-proponuje-utworzenie-polskiego-funduszu-inwestycji-obronnych-glownym-zrodlem",
+      "title": "Prezydent proponuje utworzenie Polskiego Funduszu Inwestycji Obronnych; głównym źródłem finansowania zysk NBP",
+      "content_html": "Prezydent Karol Nawrocki proponuje utworzenie Polskiego Funduszu Inwestycji Obronnych, którego podstawowym źródłem finansowania będą środki pochodzące z zysku Narodowego Banku Polskiego - wynika z uza",
+      "date_published": "2026-03-10T17:19:00+01:00",
+      "source": "PAP Biznes"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Rzad-przyjal-kolejna-aktualizacje-KPO-Szlapka-9095860.html",
+      "url": "https://www.bankier.pl/wiadomosc/Rzad-przyjal-kolejna-aktualizacje-KPO-Szlapka-9095860.html",
+      "title": "KPO po rewizji. Rząd przesuwa środki na polskie firmy z sektora zbrojeniowego i kosmicznego",
+      "content_html": "Rząd przyjął projekt uchwały Rady Ministrów w sprawie kolejnej aktualizacji Krajowego Planu Odbudowy i Zwiększania Odporności - poinformował rzecznik rządu Adam Szłapka. Zakończenie aktualizacji KPO jest konieczne, aby Polska mogła złożyć...",
+      "date_published": "2026-03-10T17:15:00+01:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/gospodarka/dzien-na-fxfi-rentownosci-spw-mocno-spadly-mozliwy-wzrost-eurpln-do-ok-427",
+      "url": "https://biznes.pap.pl/wiadomosci/gospodarka/dzien-na-fxfi-rentownosci-spw-mocno-spadly-mozliwy-wzrost-eurpln-do-ok-427",
+      "title": "DZIEŃ NA FX/FI: Rentowności SPW mocno spadły; możliwy wzrost EUR/PLN do ok. 4,27",
+      "content_html": "W trakcie wtorkowej sesji złoty lekko osłabił się wobec głównych walut, natomiast rentowności krajowych obligacji spadły po ponad 20 pb. Zdaniem analityków, brak nowych impulsów globalnych, które mogł",
+      "date_published": "2026-03-10T17:02:00+01:00",
+      "source": "PAP Biznes"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/ekonomia-biznes-i-finanse/skrot-wiadomosci-wtorek-10-marca-1700",
+      "url": "https://biznes.pap.pl/wiadomosci/ekonomia-biznes-i-finanse/skrot-wiadomosci-wtorek-10-marca-1700",
+      "title": "Skrót wiadomości - wtorek, 10 marca, 17.00",
+      "content_html": "Przegląd najważniejszych wiadomości gospodarczych, krajowych i ze świata.",
+      "date_published": "2026-03-10T17:00:00+01:00",
+      "source": "PAP Biznes"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/firmy/mc-widzi-szanse-na-w-pelni-polskie-konsorcjum-w-przetargu-na-gigafabryke-ai-wywiad",
+      "url": "https://biznes.pap.pl/wiadomosci/firmy/mc-widzi-szanse-na-w-pelni-polskie-konsorcjum-w-przetargu-na-gigafabryke-ai-wywiad",
+      "title": "MC widzi szanse na w pełni polskie konsorcjum w przetargu na gigafabrykę AI (wywiad)",
+      "content_html": "Resort cyfryzacji widzi szansę na utworzenie w pełni polskiego konsorcjum, które przystąpiłoby do unijnego przetargu na gigafabrykę AI - poinformowała PAP Biznes dyrektorka departamentu badań i innowa",
+      "date_published": "2026-03-10T16:58:00+01:00",
+      "source": "PAP Biznes"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/gospodarka/prezydencki-projekt-ustawy-polskim-funduszu-inwestycji-obronnych-dokumentacja",
+      "url": "https://biznes.pap.pl/wiadomosci/gospodarka/prezydencki-projekt-ustawy-polskim-funduszu-inwestycji-obronnych-dokumentacja",
+      "title": "Prezydencki projekt ustawy Polskim Funduszu Inwestycji Obronnych (dokumentacja)",
+      "content_html": "W załączniku prezydencki projekt ustawy o Polskim Funduszu Inwestycji Obronnych.",
+      "date_published": "2026-03-10T16:57:00+01:00",
+      "source": "PAP Biznes"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Czy-Europa-przegrywa-z-USA-Szef-KNF-o-potrzebie-zdrowszego-ryzyka-w-finansach-9096011.html",
+      "url": "https://www.bankier.pl/wiadomosc/Czy-Europa-przegrywa-z-USA-Szef-KNF-o-potrzebie-zdrowszego-ryzyka-w-finansach-9096011.html",
+      "title": "Czy Europa przegrywa z USA? Szef KNF o potrzebie „zdrowszego” ryzyka w finansach",
+      "content_html": "#KRK'26 #KRK2026 „Deregulacja” przestała być w finansach tylko technokratycznym hasłem, a stała się fundamentem nowej strategii gospodarczej Unii Europejskiej. Przewodniczący Komisji Nadzoru Finansowego, Jacek Jastrzębski, w rozmowie z redaktorem...",
+      "date_published": "2026-03-10T16:54:00+01:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Pekao-tnie-prognoze-PKB-Polski-na-2026-rok-Koszty-energii-uderza-w-konsumpcje-9095970.html",
+      "url": "https://www.bankier.pl/wiadomosc/Pekao-tnie-prognoze-PKB-Polski-na-2026-rok-Koszty-energii-uderza-w-konsumpcje-9095970.html",
+      "title": "Pekao tnie prognozę PKB Polski na 2026 rok. \"Koszty energii uderzą w konsumpcję\"",
+      "content_html": "Ekonomiści Banku Pekao obniżyli swoją prognozę wzrostu PKB Polski na 2026 r. do 3,8 proc. z 4,0 proc. Ich zdaniem, spowolnienie wzrostu gospodarczego na skutek wojny na Bliskim Wschodzie nie będzie silne, a RPP wznowi cięcia stóp procentowych na...",
+      "date_published": "2026-03-10T16:53:00+01:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/firmy/ustawe-safe-0-proc-mozna-przeprocedowac-jeszcze-przed-decyzja-prezydenta-ws-eu",
+      "url": "https://biznes.pap.pl/wiadomosci/firmy/ustawe-safe-0-proc-mozna-przeprocedowac-jeszcze-przed-decyzja-prezydenta-ws-eu",
+      "title": "Ustawę SAFE 0 proc. można przeprocedować jeszcze przed decyzją prezydenta ws. EU SAFE - Bogucki",
+      "content_html": "Do Sejmu wpłynęła inicjatywa prezydencka dotycząca Polskiego Funduszu Inwestycji Obronnych, jeszcze przed terminem decyzji prezydenta ws. unijnego SAFE można przeprocedować tę ustawę- powiedział szef ",
+      "date_published": "2026-03-10T16:53:00+01:00",
+      "source": "PAP Biznes"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/energia/ministrowie-energetyki-krajow-g7-nie-zdecydowali-sie-na-uruchomienie-rezerw-ropy",
+      "url": "https://biznes.pap.pl/wiadomosci/energia/ministrowie-energetyki-krajow-g7-nie-zdecydowali-sie-na-uruchomienie-rezerw-ropy",
+      "title": "Ministrowie energetyki krajów G7 nie zdecydowali się na uruchomienie rezerw ropy, poprosili o ocenę MAE",
+      "content_html": "Ministrowie energetyki krajów G7 nie zdecydowali się na uruchomienie rezerw ropy w związku z konfliktem na Bliskim Wschodzie i wezwali we wtorek Międzynarodową Agencję Energetyczną (MAE), by oceniła s",
+      "date_published": "2026-03-10T16:49:00+01:00",
+      "source": "PAP Biznes"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Fitch-podtrzymal-dlugoterminowe-ratingi-ING-BSK-na-poziomie-BB-perspektywa-pozytywna-9096001.html",
+      "url": "https://www.bankier.pl/wiadomosc/Fitch-podtrzymal-dlugoterminowe-ratingi-ING-BSK-na-poziomie-BB-perspektywa-pozytywna-9096001.html",
+      "title": "Fitch podtrzymał długoterminowe ratingi ING BSK na poziomie \"BB-\". Perspektywa pozytywna",
+      "content_html": "Agencja Fitch podtrzymała długoterminowe ratingi (IDR) ING BSK w walucie obcej (FC) i walucie lokalnej (LC) na poziomie „BB-”, perspektywa dla długoterminowych ratingów IDR jest pozytywna - poinformował Fitch w komunikacie. Agencja potwierdziła...",
+      "date_published": "2026-03-10T16:44:00+01:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/firmy/fitch-podtrzymal-dlugoterminowe-ratingi-ing-bsk-na-poziomie-bb-perspektywa",
+      "url": "https://biznes.pap.pl/wiadomosci/firmy/fitch-podtrzymal-dlugoterminowe-ratingi-ing-bsk-na-poziomie-bb-perspektywa",
+      "title": "Fitch podtrzymał długoterminowe ratingi ING BSK na poziomie \"BB-\", perspektywa pozytywna",
+      "content_html": "Agencja Fitch podtrzymała długoterminowe ratingi (IDR) ING BSK w walucie obcej (FC) i walucie lokalnej (LC) na poziomie „BB-”, perspektywa dla długoterminowych ratingów IDR jest pozytywna - poinformow",
+      "date_published": "2026-03-10T16:43:00+01:00",
+      "source": "PAP Biznes"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/UE-nadal-na-energetycznej-smyczy-Eurostat-Zaleznosc-od-importu-nie-maleje-9095967.html",
+      "url": "https://www.bankier.pl/wiadomosc/UE-nadal-na-energetycznej-smyczy-Eurostat-Zaleznosc-od-importu-nie-maleje-9095967.html",
+      "title": "UE nadal na \"energetycznej smyczy\"? Eurostat: Zależność od importu nie maleje",
+      "content_html": "Unia Europejska w 2024 r. nadal pokrywała blisko 60 proc. zapotrzebowania na energię z importu - wynika z opublikowanych we wtorek danych Eurostatu. W porównaniu ze stanem sprzed 20 lat import paliw nie tylko nie zmalał, ale nawet nieznacznie się...",
+      "date_published": "2026-03-10T16:29:00+01:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/5-6-mld-dolarow-w-48-godzin-Gigantyczne-koszty-amerykanskiej-kampanii-przeciwko-Iranowi-9095985.html",
+      "url": "https://www.bankier.pl/wiadomosc/5-6-mld-dolarow-w-48-godzin-Gigantyczne-koszty-amerykanskiej-kampanii-przeciwko-Iranowi-9095985.html",
+      "title": "5,6 mld dolarów w 48 godzin. Gigantyczne koszty amerykańskiej kampanii przeciwko Iranowi",
+      "content_html": "Armia USA w pierwszych dwóch dniach wojny z Iranem zużyła amunicje o wartości 5,6 mld dolarów - podał we wtorek „Washington Post”, powołując się na trzech amerykańskich urzędników. Według gazety, wielu członków Kongresu ma być zaniepokojona...",
+      "date_published": "2026-03-10T16:27:00+01:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Minister-kultury-nie-ustapila-pierwszenstwa-Prokuratura-kieruje-wniosek-do-sadu-9095936.html",
+      "url": "https://www.bankier.pl/wiadomosc/Minister-kultury-nie-ustapila-pierwszenstwa-Prokuratura-kieruje-wniosek-do-sadu-9095936.html",
+      "title": "Minister kultury nie ustąpiła pierwszeństwa? Prokuratura kieruje wniosek do sądu",
+      "content_html": "Warszawska prokuratura okręgowa skierowała do sądu wniosek o warunkowe umorzenie postępowania przeciwko Marcie C. podejrzanej o spowodowanie wypadku w ruchu lądowym - poinformował rzecznik tejże prokuratury prok. Piotr Antoni Skiba. Chodzi o obecną...",
+      "date_published": "2026-03-10T16:25:00+01:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Koniec-jednorazowych-e-papierosow-Rzad-przyjal-projekt-zaostrzajacy-przepisy-9095856.html",
+      "url": "https://www.bankier.pl/wiadomosc/Koniec-jednorazowych-e-papierosow-Rzad-przyjal-projekt-zaostrzajacy-przepisy-9095856.html",
+      "title": "Koniec jednorazowych e-papierosów. Rząd przyjął projekt zaostrzający przepisy",
+      "content_html": "Rząd opowiedział się za zakazem sprzedaży jednorazowych e-papierosów zarówno zawierających nikotynę i beznikotynowych oraz za ograniczeniem dotyczącym woreczków nikotynowych. We wtorek przyjął projekt nowelizacji ustawy o ochronie zdrowia...",
+      "date_published": "2026-03-10T16:18:00+01:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/firmy/dzien-na-gpw-na-gieldzie-odreagowanie-rynek-ciagna-w-gore-m-banki-kghm-i-orlen",
+      "url": "https://biznes.pap.pl/wiadomosci/firmy/dzien-na-gpw-na-gieldzie-odreagowanie-rynek-ciagna-w-gore-m-banki-kghm-i-orlen",
+      "title": "DZIEŃ NA GPW: Na giełdzie odreagowanie; rynek ciągną w górę m. in. banki, KGHM i Orlen",
+      "content_html": "Na giełdzie trwa odreagowanie spadków z ostatnich kilku dni. Rynek ciągną w górę przede wszystkim banki, a także KGHM i Orlen. Zdaniem analityków, na lepsze zachowanie giełdy wpływa spadek cen ropy. J",
+      "date_published": "2026-03-10T16:17:00+01:00",
+      "source": "PAP Biznes"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Eurotel-szacuje-odpis-z-tytulu-utraty-wartosci-aktywow-na-16-5-mln-zl-9095978.html",
+      "url": "https://www.bankier.pl/wiadomosc/Eurotel-szacuje-odpis-z-tytulu-utraty-wartosci-aktywow-na-16-5-mln-zl-9095978.html",
+      "title": "Eurotel szacuje odpis z tytułu utraty wartości aktywów na 16,5 mln zł",
+      "content_html": "Eurotel przeprowadził testy na utratę wartości aktywów, które wykazały zasadność utworzenia odpisów z tytułu utraty wartości aktywów w wysokości 16,5 mln zł, co przełoży się na obniżenie wyniku rocznego za 2025 rok - podała spółka...",
+      "date_published": "2026-03-10T16:14:00+01:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/firmy/eurotel-szacuje-odpis-z-tytulu-utraty-wartosci-aktywow-na-165-mln-zl",
+      "url": "https://biznes.pap.pl/wiadomosci/firmy/eurotel-szacuje-odpis-z-tytulu-utraty-wartosci-aktywow-na-165-mln-zl",
+      "title": "Eurotel szacuje odpis z tytułu utraty wartości aktywów na 16,5 mln zł",
+      "content_html": "Eurotel przeprowadził testy na utratę wartości aktywów, które wykazały zasadność utworzenia odpisów z tytułu utraty wartości aktywów w wysokości 16,5 mln zł, co przełoży się na obniżenie wyniku roczne",
+      "date_published": "2026-03-10T16:13:00+01:00",
+      "source": "PAP Biznes"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/gospodarka/euro-w-ebc-11641-usd-i-18367-jpy",
+      "url": "https://biznes.pap.pl/wiadomosci/gospodarka/euro-w-ebc-11641-usd-i-18367-jpy",
+      "title": "Euro w EBC: 1,1641 USD i 183,67 JPY",
+      "content_html": "Europejski Bank Centralny (EBC) ustalił kurs euro na 1,1641 USD i 183,67 JPY - podał bank na swojej stronie internetowej.",
+      "date_published": "2026-03-10T16:11:00+01:00",
       "source": "PAP Biznes"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Aktywnosc-klientow-XTB-bardzo-duza-szukaja-zmiennosci-na-rynkach-czlonek-zarzadu-XTB-9095957.html",
       "url": "https://www.bankier.pl/wiadomosc/Aktywnosc-klientow-XTB-bardzo-duza-szukaja-zmiennosci-na-rynkach-czlonek-zarzadu-XTB-9095957.html",
-      "title": "Aktywność klientów XTB bardzo duża, szukają zmienności na rynkach - członek zarządu XTB",
+      "title": "Członek zarządu XTB: Aktywność klientów XTB bardzo duża, szukają zmienności na rynkach",
       "content_html": "Aktywność klientów domu maklerskiego XTB jest bardzo duża od początku roku, szukają oni zmienności, zwłaszcza na rynkach surowców - poinformował PAP Biznes członek zarządu XTB Filip Kaczmarzyk w kuluarach Konferencji Rynku Kapitałowego w...",
       "date_published": "2026-03-10T15:48:00+01:00",
       "source": "Bankier.pl"
     },
     {
-      "id": "https://biznes.pap.pl/wiadomosci/firmy/aktywnosc-klientow-xtb-bardzo-duza-szukaja-zmiennosci-na-rynkach-czlonek-zarzadu",
-      "url": "https://biznes.pap.pl/wiadomosci/firmy/aktywnosc-klientow-xtb-bardzo-duza-szukaja-zmiennosci-na-rynkach-czlonek-zarzadu",
-      "title": "Aktywność klientów XTB bardzo duża, szukają zmienności na rynkach - członek zarządu XTB",
-      "content_html": "Aktywność klientów domu maklerskiego XTB jest bardzo duża od początku roku, szukają oni zmienności, zwłaszcza na rynkach surowców - poinformował PAP Biznes członek zarządu XTB Filip Kaczmarzyk w kulua",
-      "date_published": "2026-03-10T15:45:00+01:00",
-      "source": "PAP Biznes"
+      "id": "https://www.bankier.pl/wiadomosc/Klocki-ktore-buduja-fortune-Grupa-Lego-rosnie-dwa-razy-szybciej-niz-rynek-9095951.html",
+      "url": "https://www.bankier.pl/wiadomosc/Klocki-ktore-buduja-fortune-Grupa-Lego-rosnie-dwa-razy-szybciej-niz-rynek-9095951.html",
+      "title": "Klocki, które budują fortunę. Grupa Lego rośnie dwa razy szybciej niż rynek",
+      "content_html": "Grupa Lego w 2025 roku zwiększyła zysk operacyjny o 18 proc. do 22 mld DKK, odnotowując przy tym wzrost przychodów na poziomie 12 proc. do 83,5 mld DKK - podał duński producent zabawek dla dzieci i dorosłych w komunikacie. Z kolei zysk netto wzrósł...",
+      "date_published": "2026-03-10T15:44:00+01:00",
+      "source": "Bankier.pl"
     },
     {
-      "id": "https://biznes.pap.pl/wiadomosci/firmy/grupa-lego-w-25-miala-22-mld-dkk-zysku-operacyjnego-przychody-wyniosly-835-mld-dkk",
-      "url": "https://biznes.pap.pl/wiadomosci/firmy/grupa-lego-w-25-miala-22-mld-dkk-zysku-operacyjnego-przychody-wyniosly-835-mld-dkk",
-      "title": "Grupa Lego w '25 miała 22 mld DKK zysku operacyjnego; przychody wyniosły 83,5 mld DKK",
-      "content_html": "Grupa Lego w 2025 roku zwiększyła zysk operacyjny o 18 proc. do 22 mld DKK, odnotowując przy tym wzrost przychodów na poziomie 12 proc. do 83,5 mld DKK - podał duński producent zabawek dla dzieci i do",
-      "date_published": "2026-03-10T15:43:00+01:00",
-      "source": "PAP Biznes"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/wkrotce-do-sejmu-trafi-prezydencki-projekt-ustawy-dot-safe-0-proc-szefernaker",
-      "url": "https://biznes.pap.pl/wiadomosci/wkrotce-do-sejmu-trafi-prezydencki-projekt-ustawy-dot-safe-0-proc-szefernaker",
-      "title": "Wkrótce do Sejmu trafi prezydencki projekt ustawy dot. SAFE 0 proc. - Szefernaker",
-      "content_html": "Wkrótce do Sejmu trafi prezydencki projekt ustawy o Polskim Funduszu Inwestycji Obronnych realizujący „Polski Safe 0 proc.”- poinformował na platformie X szef gabinetu prezydenta Paweł Szefernaker.",
-      "date_published": "2026-03-10T15:36:00+01:00",
-      "source": "PAP Biznes"
+      "id": "https://www.bankier.pl/wiadomosc/Nowe-regulacje-AI-i-bezpieczenstwo-Podsumowanie-XVII-Kongresu-Prawnikow-Spolek-Gieldowych-SEG-9095953.html",
+      "url": "https://www.bankier.pl/wiadomosc/Nowe-regulacje-AI-i-bezpieczenstwo-Podsumowanie-XVII-Kongresu-Prawnikow-Spolek-Gieldowych-SEG-9095953.html",
+      "title": "Nowe regulacje, AI i bezpieczeństwo. Podsumowanie XVII Kongresu Prawników Spółek Giełdowych SEG",
+      "content_html": "W dniach 3-4 marca br. w Hotelu Warszawianka w Jachrance odbyła się XVII edycja Kongresu Prawników Spółek Giełdowych SEG. Podczas spotkania działów prawnych poruszone zostały tematy: korzystania z nowych wyłączeń prospektowych przy emisji...",
+      "date_published": "2026-03-10T15:44:00+01:00",
+      "source": "Bankier.pl"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Walesa-i-Buzek-wsrod-laureatow-Europejskiego-Orderu-Zaslugi-PE-9095817.html",
@@ -103,17 +263,9 @@
     {
       "id": "https://www.bankier.pl/wiadomosc/To-nie-jest-rynek-kapitalowy-na-miare-naszych-oczekiwan-Co-trzeba-zmienic-9095929.html",
       "url": "https://www.bankier.pl/wiadomosc/To-nie-jest-rynek-kapitalowy-na-miare-naszych-oczekiwan-Co-trzeba-zmienic-9095929.html",
-      "title": "„To nie jest rynek kapitałowy na miarę naszych oczekiwań”. Co trzeba zmienić?",
-      "content_html": "#KRK'26 #KRK2026 Polska gospodarka rozwija się dynamicznie, ale rodzimy parkiet nie dotrzymuje jej kroku, a jego udział w finansowaniu firm wręcz spada. Jednocześnie na bankowych lokatach Polaków leży 1,5 biliona złotych. Jak sprawić, by ten kapitał...",
+      "title": "„To nie jest rynek kapitałowy na miarę naszych oczekiwań”. Co trzeba zmienić? #KRK'26 #KRK2026 Polska gospodarka rozwija się dynamicznie, ale rodzimy parkiet nie dotrzymuje jej kroku, a jego udział w finansowaniu firm wręcz spada. Jednocześnie na bankowych lokatach Polaków leży 1,5 biliona złotych. Jak sprawić, by ten kapitał zaczął pracować na rzecz wzrostu gospodarczego? W studiu Bankier.TV prosto z 26. Konferencji Rynku Kapitałowego o przyszłości polskiej giełdy i nowych regulacjach opowiada Maciej Trybuchowski, prezes Krajowego Depozytu Papierów Wartościowych i KDPW_CCP.",
+      "content_html": "",
       "date_published": "2026-03-10T15:11:00+01:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Cyberbezpieczenstwo-jako-polska-racja-stanu-Rzad-przyjal-strategie-na-lata-2025-2029-9095858.html",
-      "url": "https://www.bankier.pl/wiadomosc/Cyberbezpieczenstwo-jako-polska-racja-stanu-Rzad-przyjal-strategie-na-lata-2025-2029-9095858.html",
-      "title": "Cyberbezpieczeństwo jako polska racja stanu. Rząd przyjął strategię na lata 2025-2029",
-      "content_html": "Rada Ministrów przyjęła we wtorek nową Strategię Cyberbezpieczeństwa RP - poinformował wicepremier, minister cyfryzacji Krzysztof Gawkowski. To kluczowy dokument wyznaczający kierunki działań związanych z cyberbezpieczeństwem do 2029 r. -...",
-      "date_published": "2026-03-10T15:04:00+01:00",
       "source": "Bankier.pl"
     },
     {
@@ -125,14 +277,6 @@
       "source": "Bankier.pl"
     },
     {
-      "id": "https://biznes.pap.pl/wiadomosci/firmy/planowany-na-12-marca-przetarg-obligacji-fpc-nie-zostanie-zorganizowany-bgk",
-      "url": "https://biznes.pap.pl/wiadomosci/firmy/planowany-na-12-marca-przetarg-obligacji-fpc-nie-zostanie-zorganizowany-bgk",
-      "title": "Planowany na 12 marca przetarg obligacji FPC nie zostanie zorganizowany - BGK",
-      "content_html": "Planowany na 12 marca przetarg obligacji FPC nie zostanie zorganizowany - poinformował Bank Gospodarstwa Krajowego. W kwartalnym planie podaży BGK informował, że 12 marca zorganizuje przetarg sprzedaż",
-      "date_published": "2026-03-10T15:00:00+01:00",
-      "source": "PAP Biznes"
-    },
-    {
       "id": "https://www.bankier.pl/wiadomosc/URE-zobowiazalo-Enee-do-przekazania-na-rachunek-FWRC-139-9-mln-zl-9095880.html",
       "url": "https://www.bankier.pl/wiadomosc/URE-zobowiazalo-Enee-do-przekazania-na-rachunek-FWRC-139-9-mln-zl-9095880.html",
       "title": "Korekta rozliczeń w Enei. Spółka tworzy rezerwę 140 mln zł po decyzji prezesa URE",
@@ -141,36 +285,12 @@
       "source": "Bankier.pl"
     },
     {
-      "id": "https://biznes.pap.pl/wiadomosci/firmy/rzad-przyjal-kolejna-aktualizacje-kpo-opis",
-      "url": "https://biznes.pap.pl/wiadomosci/firmy/rzad-przyjal-kolejna-aktualizacje-kpo-opis",
-      "title": "Rząd przyjął kolejną aktualizację KPO (opis)",
-      "content_html": "Rząd przyjął projekt uchwały Rady Ministrów w sprawie kolejnej aktualizacji Krajowego Planu Odbudowy i Zwiększania Odporności - poinformował po posiedzeniu RM rzecznik rządu Adam Szłapka. Teraz MFiPR ",
-      "date_published": "2026-03-10T14:45:00+01:00",
-      "source": "PAP Biznes"
-    },
-    {
       "id": "https://www.bankier.pl/wiadomosc/Rekordy-na-GPW-uspione-miliardy-i-szansa-na-debiut-dekady-Waldemar-Markiewicz-o-przyszlosci-rynku-kapitalowego-9095900.html",
       "url": "https://www.bankier.pl/wiadomosc/Rekordy-na-GPW-uspione-miliardy-i-szansa-na-debiut-dekady-Waldemar-Markiewicz-o-przyszlosci-rynku-kapitalowego-9095900.html",
       "title": "Rekordy na GPW, uśpione miliardy i szansa na debiut dekady. Waldemar Markiewicz o przyszłości rynku kapitałowego",
-      "content_html": "#KRK'26 #KRK2026 Warszawska giełda bije kolejne rekordy, co buduje doskonałą atmosferę wokół rynku. Jednak nadal aż 55% oszczędności Polaków wciąż leży na bezpiecznych rachunkach bankowych. Jak uwolnić ten zamrożony kapitał, by sfinansować...",
+      "content_html": "Warszawska giełda bije kolejne rekordy, co buduje doskonałą atmosferę wokół rynku. Jednak nadal aż 55% oszczędności Polaków wciąż leży na bezpiecznych rachunkach bankowych. Jak uwolnić ten zamrożony kapitał, by sfinansować rozwój rodzimych...",
       "date_published": "2026-03-10T14:43:00+01:00",
       "source": "Bankier.pl"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/firmy/colt-cz-group-z-czech-planuje-dual-listing-na-gieldzie-euronext-amsterdam",
-      "url": "https://biznes.pap.pl/wiadomosci/firmy/colt-cz-group-z-czech-planuje-dual-listing-na-gieldzie-euronext-amsterdam",
-      "title": "Colt CZ Group z Czech planuje dual listing na giełdzie Euronext Amsterdam",
-      "content_html": "Czeska grupa zbrojeniowa Colt CZ planuje przeprowadzić dual listing na giełdzie Euronext Amsterdam wraz z emisją akcji m.in. na sfinansowanie przejęć - poinformowała spółka w komunikacie prasowym.",
-      "date_published": "2026-03-10T14:41:00+01:00",
-      "source": "PAP Biznes"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/rynki/po-otwarciu-sesji-dji-spada-o-009-proc-sp-500-znizkuje-01-proc",
-      "url": "https://biznes.pap.pl/wiadomosci/rynki/po-otwarciu-sesji-dji-spada-o-009-proc-sp-500-znizkuje-01-proc",
-      "title": "Po otwarciu sesji DJI spada o 0,09 proc., a S&P 500 zniżkuje 0,1 proc.",
-      "content_html": "Po otwarciu sesji w USA Dow Jones Industrial spada o 0,09 proc. do 47.669 pkt., S&P500 zniżkuje 0,1 proc. i wynosi 6.790 pkt.",
-      "date_published": "2026-03-10T14:36:00+01:00",
-      "source": "PAP Biznes"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Polacy-pokochali-ETF-y-BETA-ETF-wprowadza-nowe-produkty-a-na-rynek-wchodzi-gigant-9095850.html",
@@ -189,22 +309,6 @@
       "source": "Bankier.pl"
     },
     {
-      "id": "https://biznes.pap.pl/wiadomosci/gospodarka/rzad-przyjal-nowa-strategie-cyberbezpieczenstwa-do-2029-r-opis",
-      "url": "https://biznes.pap.pl/wiadomosci/gospodarka/rzad-przyjal-nowa-strategie-cyberbezpieczenstwa-do-2029-r-opis",
-      "title": "Rząd przyjął nową strategię cyberbezpieczeństwa do 2029 r. (opis)",
-      "content_html": "Rząd przyjął projekt uchwały Rady Ministrów ws. strategii cyberbezpieczeństwa, która ma wzmocnić cyberbezpieczeństwo Polski i rozwój krajowego systemu cyberbezpieczeństwa - poinformował rzecznik rządu",
-      "date_published": "2026-03-10T14:20:00+01:00",
-      "source": "PAP Biznes"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/firmy/platforma-pko-bp-dla-startupow-przeprowadzila-ponad-100-pilotazy-polowa-zakonczona",
-      "url": "https://biznes.pap.pl/wiadomosci/firmy/platforma-pko-bp-dla-startupow-przeprowadzila-ponad-100-pilotazy-polowa-zakonczona",
-      "title": "Platforma PKO BP dla startupów przeprowadziła ponad 100 pilotaży, połowa zakończona wdrożeniem",
-      "content_html": "Platforma PKO BP dla startupów przeprowadziła ponad 100 pilotaży rozwiązań młodych firm, ponad 50 z nich zakończyła się wdrożeniem produktu czy usługi w banku - poinformował PKO BP w komunikacie praso",
-      "date_published": "2026-03-10T14:19:00+01:00",
-      "source": "PAP Biznes"
-    },
-    {
       "id": "https://www.bankier.pl/wiadomosc/Orlen-bedzie-podejmowal-rozne-dzialania-w-ramach-walki-z-potencjalnym-wzrostem-cen-paliw-rzecznik-rzadu-9095865.html",
       "url": "https://www.bankier.pl/wiadomosc/Orlen-bedzie-podejmowal-rozne-dzialania-w-ramach-walki-z-potencjalnym-wzrostem-cen-paliw-rzecznik-rzadu-9095865.html",
       "title": "Kryzysowe zarządzanie cenami paliw. Orlen redukuje marże „niemal do zera”",
@@ -213,27 +317,11 @@
       "source": "Bankier.pl"
     },
     {
-      "id": "https://biznes.pap.pl/wiadomosci/firmy/ure-zobowiazalo-enee-do-przekazania-na-rachunek-fwrc-1399-mln-zl",
-      "url": "https://biznes.pap.pl/wiadomosci/firmy/ure-zobowiazalo-enee-do-przekazania-na-rachunek-fwrc-1399-mln-zl",
-      "title": "URE zobowiązało Eneę do przekazania na rachunek FWRC 139,9 mln zł",
-      "content_html": "Prezes URE zobowiązał spółkę Enea do przekazania na rachunek Funduszu Wypłaty Różnicy Ceny (FWRC) kwoty 139,9 mln zł stanowiącej różnicę pomiędzy odpisem wniesionym na rzecz FWRC przez spółkę w latach",
-      "date_published": "2026-03-10T14:16:00+01:00",
-      "source": "PAP Biznes"
-    },
-    {
       "id": "https://www.bankier.pl/wiadomosc/Grupa-PGE-sfinalizowala-nabycie-projektu-morskiej-farmy-wiatrowej-FEW-Baltyk-II-od-RWE-9095866.html",
       "url": "https://www.bankier.pl/wiadomosc/Grupa-PGE-sfinalizowala-nabycie-projektu-morskiej-farmy-wiatrowej-FEW-Baltyk-II-od-RWE-9095866.html",
       "title": "Synergia na Bałtyku: PGE łączy projekty i tworzy farmę wiatrową Baltica 9+",
       "content_html": "Elektrownia Wiatrowa Baltica-9 - spółka z Grupy PGE - sfinalizowała nabycie 100 proc. udziałów w RWE Offshore Wind Poland - spółce rozwijającej projekt FEW Bałtyk II o mocy ok. 350 MW - od Grupy RWE - podała Polska Grupa Energetyczna (PGE) w...",
       "date_published": "2026-03-10T14:15:00+01:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Rzad-przyjal-kolejna-aktualizacje-KPO-Szlapka-9095860.html",
-      "url": "https://www.bankier.pl/wiadomosc/Rzad-przyjal-kolejna-aktualizacje-KPO-Szlapka-9095860.html",
-      "title": "KPO po rewizji. Rząd przesuwa środki na polskie firmy z sektora zbrojeniowego i kosmicznego",
-      "content_html": "Rząd przyjął projekt uchwały Rady Ministrów w sprawie kolejnej aktualizacji Krajowego Planu Odbudowy i Zwiększania Odporności - poinformował po posiedzeniu RM rzecznik rządu Adam Szłapka.",
-      "date_published": "2026-03-10T14:14:00+01:00",
       "source": "Bankier.pl"
     },
     {
@@ -253,11 +341,35 @@
       "source": "Bankier.pl"
     },
     {
-      "id": "https://biznes.pap.pl/wiadomosci/firmy/grupa-pge-sfinalizowala-nabycie-projektu-morskiej-farmy-wiatrowej-few-baltyk-ii-od",
-      "url": "https://biznes.pap.pl/wiadomosci/firmy/grupa-pge-sfinalizowala-nabycie-projektu-morskiej-farmy-wiatrowej-few-baltyk-ii-od",
-      "title": "Grupa PGE sfinalizowała nabycie projektu morskiej farmy wiatrowej FEW Bałtyk II od RWE",
-      "content_html": "Elektrownia Wiatrowa Baltica-9 - spółka z Grupy PGE - sfinalizowała nabycie 100 proc. udziałów w RWE Offshore Wind Poland - spółce rozwijającej projekt FEW Bałtyk II o mocy ok. 350 MW - od Grupy RWE -",
-      "date_published": "2026-03-10T14:05:00+01:00",
+      "id": "https://biznes.pap.pl/wiadomosci/rynki/dzien-na-rynkach-futures-w-usa-spadaja-obawy-o-wojne-w-iranie-utrzymuja-sie",
+      "url": "https://biznes.pap.pl/wiadomosci/rynki/dzien-na-rynkach-futures-w-usa-spadaja-obawy-o-wojne-w-iranie-utrzymuja-sie",
+      "title": "DZIEŃ NA RYNKACH: Futures w USA spadają; obawy o wojnę w Iranie utrzymują się",
+      "content_html": "Futures w USA zniżkują, a indeksy w Europie są na plusach. Rynki oceniają słowa prezydenta USA Donalda Trumpa o możliwości szybkiego zakończenia wojny z Iranem, podczas gdy trwają ataki na obiekty naf",
+      "date_published": "2026-03-10T14:03:00+01:00",
+      "source": "PAP Biznes"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/firmy/orlen-bedzie-podejmowal-rozne-dzialania-w-ramach-walki-z-potencjalnym-wzrostem-cen",
+      "url": "https://biznes.pap.pl/wiadomosci/firmy/orlen-bedzie-podejmowal-rozne-dzialania-w-ramach-walki-z-potencjalnym-wzrostem-cen",
+      "title": "Orlen będzie podejmował różne działania w ramach walki z potencjalnym wzrostem cen paliw - rzecznik rządu",
+      "content_html": "Orlen będzie podejmował różne działania w ramach walki z potencjalnym wzrostem cen paliw - powiedział podczas wtorkowej konferencji po posiedzeniu Rady Ministrów rzecznik rządu, Adam Szłapka.",
+      "date_published": "2026-03-10T14:02:00+01:00",
+      "source": "PAP Biznes"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/firmy/rzad-przyjal-kolejna-aktualizacje-kpo-szlapka",
+      "url": "https://biznes.pap.pl/wiadomosci/firmy/rzad-przyjal-kolejna-aktualizacje-kpo-szlapka",
+      "title": "Rząd przyjął kolejną aktualizację KPO - Szłapka",
+      "content_html": "Rząd przyjął projekt uchwały Rady Ministrów w sprawie kolejnej aktualizacji Krajowego Planu Odbudowy i Zwiększania Odporności - poinformował po posiedzeniu RM rzecznik rządu Adam Szłapka.",
+      "date_published": "2026-03-10T14:00:00+01:00",
+      "source": "PAP Biznes"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/gospodarka/rzad-przyjal-strategie-cyberbezpieczenstwa-rzecznik",
+      "url": "https://biznes.pap.pl/wiadomosci/gospodarka/rzad-przyjal-strategie-cyberbezpieczenstwa-rzecznik",
+      "title": "Rząd przyjął strategię cyberbezpieczeństwa - rzecznik",
+      "content_html": "Rząd przyjął projekt uchwały Rady Ministrów ws. strategii cyberbezpieczeństwa, która ma wzmocnić cyberbezpieczeństwo Polski i rozwój krajowego systemu cyberbezpieczeństwa - poinformował rzecznik rządu",
+      "date_published": "2026-03-10T13:56:00+01:00",
       "source": "PAP Biznes"
     },
     {
@@ -277,12 +389,28 @@
       "source": "Bankier.pl"
     },
     {
+      "id": "https://biznes.pap.pl/wiadomosci/gospodarka/mkis-przygotowal-nowy-projekt-ustawy-o-oze-w-ktorym-powoluje-fundusz",
+      "url": "https://biznes.pap.pl/wiadomosci/gospodarka/mkis-przygotowal-nowy-projekt-ustawy-o-oze-w-ktorym-powoluje-fundusz",
+      "title": "MKiŚ przygotował nowy projekt ustawy o OZE, w którym powołuje fundusz partycypacyjny",
+      "content_html": "Resort klimatu przygotował nowy projekt ustawy o OZE, w którym powołuje fundusz partycypacyjny dla gmin, na terenie których znajdują się elektrownie wiatrowe - podano na stronie RCL.",
+      "date_published": "2026-03-10T13:34:00+01:00",
+      "source": "PAP Biznes"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Wiceminister-potracil-rowerzystke-Jest-final-glosnej-sprawy-9095818.html",
       "url": "https://www.bankier.pl/wiadomosc/Wiceminister-potracil-rowerzystke-Jest-final-glosnej-sprawy-9095818.html",
       "title": "Wiceminister potrącił rowerzystkę. Jest finał głośnej sprawy",
       "content_html": "Sąd umorzył warunkowo postępowanie wobec wiceministra rolnictwa Jacka Czerniaka oskarżonego o nieumyślne spowodowanie wypadku drogowego, w którym poszkodowana została rowerzystka. Sąd uwzględnił wynegocjowane porozumienie między stronami.",
       "date_published": "2026-03-10T13:30:00+01:00",
       "source": "Bankier.pl"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/gospodarka/obecnie-dla-rpp-wlasciwa-jest-wysoka-ostroznosc-komunikacyjna-zarzecki-rpp",
+      "url": "https://biznes.pap.pl/wiadomosci/gospodarka/obecnie-dla-rpp-wlasciwa-jest-wysoka-ostroznosc-komunikacyjna-zarzecki-rpp",
+      "title": "Obecnie dla RPP właściwa jest wysoka ostrożność komunikacyjna - Zarzecki, RPP (wywiad)",
+      "content_html": "Obecnie dla RPP właściwa jest wysoka ostrożność komunikacyjna i nieuzasadnione byłoby przedwczesne przesądzanie, czy kolejnym ruchem będzie dłuższa pauza, czy też zmiana kierunku polityki pieniężnej, ",
+      "date_published": "2026-03-10T13:30:00+01:00",
+      "source": "PAP Biznes"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Dacia-Striker-Cena-silniki-osiagi-9095816.html",
@@ -309,6 +437,14 @@
       "source": "Bankier.pl"
     },
     {
+      "id": "https://biznes.pap.pl/wiadomosci/firmy/grupa-zue-szacuje-zysk-netto-w-2025-r-na-112-mln-zl",
+      "url": "https://biznes.pap.pl/wiadomosci/firmy/grupa-zue-szacuje-zysk-netto-w-2025-r-na-112-mln-zl",
+      "title": "Grupa ZUE szacuje zysk netto w 2025 r. na 11,2 mln zł",
+      "content_html": "Grupa ZUE szacuje, że w 2025 roku przychody ze sprzedaży spadły do 945,9 mln zł z 1.219,4 mln zł rok wcześniej, a zysk netto wyniósł 11,2 mln zł wobec 10,8 mln zł w 2024 roku - podała spółka w komunik",
+      "date_published": "2026-03-10T13:10:00+01:00",
+      "source": "PAP Biznes"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Stopa-bezrobocia-lekko-w-gore-Sa-nowe-dane-z-resortu-pracy-9095793.html",
       "url": "https://www.bankier.pl/wiadomosc/Stopa-bezrobocia-lekko-w-gore-Sa-nowe-dane-z-resortu-pracy-9095793.html",
       "title": "Stopa bezrobocia lekko w górę. Są nowe dane z resortu pracy",
@@ -325,12 +461,60 @@
       "source": "Bankier.pl"
     },
     {
+      "id": "https://biznes.pap.pl/wiadomosci/firmy/wielton-w-okresie-i-ii-zarejestrowal-471-przyczep-i-naczep-o-385-proc-wiecej-rdr",
+      "url": "https://biznes.pap.pl/wiadomosci/firmy/wielton-w-okresie-i-ii-zarejestrowal-471-przyczep-i-naczep-o-385-proc-wiecej-rdr",
+      "title": "Wielton w okresie I-II zarejestrował 471 przyczep i naczep, o 38,5 proc. więcej rdr - PZPM",
+      "content_html": "Wielton zarejestrował w okresie styczeń-luty 471 przyczep i naczep, czyli o 38,5 proc. więcej rdr - podał Polski Związek Przemysłu Motorowego, powołując się na dane CEP.",
+      "date_published": "2026-03-10T13:01:00+01:00",
+      "source": "PAP Biznes"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/gospodarka/ograniczenie-finansowania-programow-aktywizacyjnych-moze-sprzyjac-rosnacemu",
+      "url": "https://biznes.pap.pl/wiadomosci/gospodarka/ograniczenie-finansowania-programow-aktywizacyjnych-moze-sprzyjac-rosnacemu",
+      "title": "Ograniczenie finansowania programów aktywizacyjnych może sprzyjać rosnącemu bezrobociu - MRPiPS",
+      "content_html": "Znaczące ograniczenie finansowania z Funduszu Pracy programów aktywizacyjnych może sprzyjać utrzymaniu się rosnącego poziomu bezrobocia - ocenia Ministerstwo Rodziny, Pracy i Polityki Społecznej. Reso",
+      "date_published": "2026-03-10T13:01:00+01:00",
+      "source": "PAP Biznes"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/gospodarka/stopa-bezrobocia-w-lutym-wyniosla-61-proc-wobec-60-proc-miesiac-wczesniej-0",
+      "url": "https://biznes.pap.pl/wiadomosci/gospodarka/stopa-bezrobocia-w-lutym-wyniosla-61-proc-wobec-60-proc-miesiac-wczesniej-0",
+      "title": "Stopa bezrobocia w lutym wyniosła 6,1 proc. wobec 6,0 proc. miesiąc wcześniej - MRPiPS (opis)",
+      "content_html": "Stopa bezrobocia w lutym 2026 r. wyniosła według wstępnych danych 6,1 proc. wobec 6,0 proc. miesiąc wcześniej - poinformowało Ministerstwo Rodziny, Pracy i Polityki Społecznej.",
+      "date_published": "2026-03-10T13:00:00+01:00",
+      "source": "PAP Biznes"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/rynki/fundusze-detaliczne-pozyskaly-w-lutym-85-mld-zl-bijac-rekord-ze-stycznia-analizypl",
+      "url": "https://biznes.pap.pl/wiadomosci/rynki/fundusze-detaliczne-pozyskaly-w-lutym-85-mld-zl-bijac-rekord-ze-stycznia-analizypl",
+      "title": "Fundusze detaliczne pozyskały w lutym 8,5 mld zł, bijąc rekord ze stycznia - Analizy.pl",
+      "content_html": "W lutym detaliczne fundusze inwestycyjne pozyskały 8,5 mld zł netto, przebijając rekord ze stycznia - podały w raporcie Analizy.pl. Saldo wpłat i wypłat do wszystkich funduszy inwestycyjnych przekrocz",
+      "date_published": "2026-03-10T12:56:00+01:00",
+      "source": "PAP Biznes"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Ukraina-dostanie-od-partnerow-z-Europy-ponad-30-pociskow-do-systemow-Patriot-9095801.html",
       "url": "https://www.bankier.pl/wiadomosc/Ukraina-dostanie-od-partnerow-z-Europy-ponad-30-pociskow-do-systemow-Patriot-9095801.html",
       "title": "Ukraina dostanie od partnerów z Europy ponad 30 pocisków do systemów Patriot",
       "content_html": "Ukraina ma otrzymać w najbliższych tygodniach od europejskich partnerów ok. 35 pocisków do systemów obrony przeciwlotniczej Patriot - poinformował we wtorek portal niemieckiego tygodnika „Der Spiegel”. Z inicjatywą w tej sprawie wystąpił...",
       "date_published": "2026-03-10T12:55:00+01:00",
       "source": "Bankier.pl"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/finanse/knf-nalozyla-na-mm-prime-tfi-kary-pieniezne-w-ramach-ukladu",
+      "url": "https://biznes.pap.pl/wiadomosci/finanse/knf-nalozyla-na-mm-prime-tfi-kary-pieniezne-w-ramach-ukladu",
+      "title": "KNF nałożyła na MM Prime TFI kary pieniężne w ramach układu",
+      "content_html": "KNF nałożyła na MM Prime Towarzystwo Funduszy Inwestycyjnych kary pieniężne w ramach układu - podała Komisja w komunikacie. Za sprawą układu Komisja obniżyła każdą z dwóch nałożonych kar o 50 proc.",
+      "date_published": "2026-03-10T12:46:00+01:00",
+      "source": "PAP Biznes"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/gospodarka/stopa-bezrobocia-w-lutym-wyniosla-61-proc-wobec-60-proc-miesiac-wczesniej",
+      "url": "https://biznes.pap.pl/wiadomosci/gospodarka/stopa-bezrobocia-w-lutym-wyniosla-61-proc-wobec-60-proc-miesiac-wczesniej",
+      "title": "Stopa bezrobocia w lutym wyniosła 6,1 proc. wobec 6,0 proc. miesiąc wcześniej - MRPiPS",
+      "content_html": "Stopa bezrobocia w lutym 2026 r. wyniosła według wstępnych danych 6,1 proc. wobec 6,0 proc. miesiąc wcześniej - poinformowało Ministerstwo Rodziny, Pracy i Polityki Społecznej.",
+      "date_published": "2026-03-10T12:44:00+01:00",
+      "source": "PAP Biznes"
     },
     {
       "id": "https://biznes.pap.pl/wiadomosci/gospodarka/ke-stworzy-gwarancje-w-wysokosci-200-mln-euro-na-wsparcie-prywatnych",
@@ -797,18 +981,18 @@
       "source": "Bankier.pl"
     },
     {
-      "id": "https://www.bankier.pl/wiadomosc/XTPL-dostarczy-system-ODRA-do-odbiorcy-przemyslowego-z-siedziba-w-Dolinie-Krzemowej-9095627.html",
-      "url": "https://www.bankier.pl/wiadomosc/XTPL-dostarczy-system-ODRA-do-odbiorcy-przemyslowego-z-siedziba-w-Dolinie-Krzemowej-9095627.html",
-      "title": "XTPL dostarczy system ODRA do odbiorcy przemysłowego z siedzibą w Dolinie Krzemowej",
-      "content_html": "XTPL dostarczy pierwszy w historii autorski system ODRA do odbiorcy przemysłowego z siedzibą w Dolinie Krzemowej w USA - podała spółka w komunikacie. Wskazano, że zamówienie oznacza dla XTPL rozpoczęcie komercjalizacji nowej linii biznesowej.",
+      "id": "https://www.bankier.pl/wiadomosc/BM-Pekao-obnizyl-rekomendacje-dla-ZE-PAK-do-trzymaj-9095625.html",
+      "url": "https://www.bankier.pl/wiadomosc/BM-Pekao-obnizyl-rekomendacje-dla-ZE-PAK-do-trzymaj-9095625.html",
+      "title": "BM Pekao obniżył rekomendację dla ZE PAK do \"trzymaj\"",
+      "content_html": "Analitycy BM Pekao w raporcie z 10 marca obniżyli rekomendację ZE PAK do \"trzymaj\" z \"kupuj\" i ustalili cenę docelową akcji spółki na 20,32 zł.",
       "date_published": "2026-03-10T08:46:00+01:00",
       "source": "Bankier.pl"
     },
     {
-      "id": "https://www.bankier.pl/wiadomosc/BM-Pekao-obnizyl-rekomendacje-dla-ZE-PAK-do-trzymaj-9095625.html",
-      "url": "https://www.bankier.pl/wiadomosc/BM-Pekao-obnizyl-rekomendacje-dla-ZE-PAK-do-trzymaj-9095625.html",
-      "title": "BM Pekao obniżył rekomendację dla ZE PAK do \"trzymaj\" Analitycy BM Pekao w raporcie z 10 marca obniżyli rekomendację ZE PAK do \"trzymaj\" z \"kupuj\" i ustalili cenę docelową akcji spółki na 20,32 zł.",
-      "content_html": "",
+      "id": "https://www.bankier.pl/wiadomosc/XTPL-dostarczy-system-ODRA-do-odbiorcy-przemyslowego-z-siedziba-w-Dolinie-Krzemowej-9095627.html",
+      "url": "https://www.bankier.pl/wiadomosc/XTPL-dostarczy-system-ODRA-do-odbiorcy-przemyslowego-z-siedziba-w-Dolinie-Krzemowej-9095627.html",
+      "title": "XTPL dostarczy system ODRA do odbiorcy przemysłowego z siedzibą w Dolinie Krzemowej",
+      "content_html": "XTPL dostarczy pierwszy w historii autorski system ODRA do odbiorcy przemysłowego z siedzibą w Dolinie Krzemowej w USA - podała spółka w komunikacie. Wskazano, że zamówienie oznacza dla XTPL rozpoczęcie komercjalizacji nowej linii biznesowej.",
       "date_published": "2026-03-10T08:46:00+01:00",
       "source": "Bankier.pl"
     },
@@ -1181,46 +1365,6 @@
       "source": "Bankier.pl"
     },
     {
-      "id": "https://www.bankier.pl/wiadomosc/40-proc-firm-planuje-rekrutacje-a-tylko-10-proc-chce-zwalniac-9095195.html",
-      "url": "https://www.bankier.pl/wiadomosc/40-proc-firm-planuje-rekrutacje-a-tylko-10-proc-chce-zwalniac-9095195.html",
-      "title": "Szykuje się fala rekrutacji. Te branże pilnie potrzebują ludzi",
-      "content_html": "Aż 4 na 10 pracodawców planuje zatrudniać nowych pracowników, podczas gdy 1 na 10 rozważa redukcję etatów. Najwięcej ofert pojawi się w budownictwie i nieruchomościach, a także handlu i logistyce – wynika z opublikowanego dziś raportu ManpowerGroup...",
-      "date_published": "2026-03-10T06:00:00+01:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Najlepsze-lokaty-bankowe-na-3-miesiace-marzec-2026-Ranking-Bankier-pl-9095233.html",
-      "url": "https://www.bankier.pl/wiadomosc/Najlepsze-lokaty-bankowe-na-3-miesiace-marzec-2026-Ranking-Bankier-pl-9095233.html",
-      "title": "Banki tną oprocentowanie lokat. Te depozyty wciąż oferują najwięcej",
-      "content_html": "Oprocentowanie lokat jest coraz niższe. W ofertach banków widać wyraźny trend spadkowy. Sprawdziliśmy, które depozyty kwartalne nadal oferują najwyższe stawki na rynku. Kilka z nich proponuje stawki przekraczające 5 proc.",
-      "date_published": "2026-03-10T06:00:00+01:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/W-czasie-wojny-na-Bliskim-Wschodzie-warto-kupic-zloto-uwazaja-Polacy-9095572.html",
-      "url": "https://www.bankier.pl/wiadomosc/W-czasie-wojny-na-Bliskim-Wschodzie-warto-kupic-zloto-uwazaja-Polacy-9095572.html",
-      "title": "W czasie wojny na Bliskim Wschodzie warto kupić złoto - uważają Polacy",
-      "content_html": "W ocenie 38,8 proc. uczestników badania, w czasie konfliktu zbrojnego na Bliskim Wschodzie warto ulokować oszczędności w złocie - wynika z raportu UCE Research i Briju. Przeciwnego zdania było 20,7 proc. respondentów, z kolei 40,5 proc. nie miało...",
-      "date_published": "2026-03-10T05:58:00+01:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Szwedzkie-firmy-wytwarzaja-w-Polsce-0-5-proc-PKB-i-zatrudniaja-109-tys-osob-9095570.html",
-      "url": "https://www.bankier.pl/wiadomosc/Szwedzkie-firmy-wytwarzaja-w-Polsce-0-5-proc-PKB-i-zatrudniaja-109-tys-osob-9095570.html",
-      "title": "IKEA, H&M, Electrolux. Szwedzkie firmy wytwarzają w Polsce 0,5 proc. PKB i zatrudniają 109 tys. osób",
-      "content_html": "Ponad 700 działających w Polsce szwedzkich firm, takich jak Ericsson, IKEA czy Medicover, wytwarza bezpośrednio 0,5 proc. polskiego PKB i zatrudnia 109 tys. pracowników – wynika z danych Skandynawsko-Polskiej Izby Gospodarczej.",
-      "date_published": "2026-03-10T05:57:00+01:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Policja-odkryla-tajne-dokumenty-u-bylego-dyplomaty-powiazanego-z-Epsteinem-9095536.html",
-      "url": "https://www.bankier.pl/wiadomosc/Policja-odkryla-tajne-dokumenty-u-bylego-dyplomaty-powiazanego-z-Epsteinem-9095536.html",
-      "title": "Policja odkryła tajne dokumenty u byłego dyplomaty powiązanego z Epsteinem",
-      "content_html": "Norweska policja poinformowała w poniedziałek, że w domu podejrzanego o korupcję byłego norweskiego dyplomaty Terje Roeda-Larsena znaleziono dokumenty objęte klauzulą tajności. Zarówno Roed-Larsen, jak i jego żona Mona Juul mieli związki z...",
-      "date_published": "2026-03-09T23:30:00+01:00",
-      "source": "Bankier.pl"
-    },
-    {
       "id": "https://biznes.pap.pl/wiadomosci/rynki/ceny-ropy-spadly-po-zapowiedziach-trumpa-dot-wojny-w-iranie-i-przejecia-kontroli",
       "url": "https://biznes.pap.pl/wiadomosci/rynki/ceny-ropy-spadly-po-zapowiedziach-trumpa-dot-wojny-w-iranie-i-przejecia-kontroli",
       "title": "Ceny ropy spadły po zapowiedziach Trumpa dot. wojny w Iranie i przejęcia kontroli nad Cieśniną Ormuz",
@@ -1231,8 +1375,8 @@
     {
       "id": "https://www.bankier.pl/wiadomosc/Zaspokojone-zostaly-wierzytelnosci-w-wys-30-3-mln-euro-dot-kredytow-na-finansowanie-projektu-Polimery-Police-9095525.html",
       "url": "https://www.bankier.pl/wiadomosc/Zaspokojone-zostaly-wierzytelnosci-w-wys-30-3-mln-euro-dot-kredytow-na-finansowanie-projektu-Polimery-Police-9095525.html",
-      "title": "Zaspokojone zostały wierzytelności w wys. 30,3 mln euro dot. kredytów na finansowanie projektu Polimery Police",
-      "content_html": "Bank Pekao zaspokoił, w oparciu o zapisy umowy pomiędzy wierzycielami, przysługujące instytucjom finansowym wierzytelności w wysokości 30,3 mln euro z tytułu umowy kredytów na finansowanie projektu Polimery Police - podała Grupa Azoty w komunikacie...",
+      "title": "Zaspokojone zostały wierzytelności w wys. 30,3 mln euro dot. kredytów na finansowanie projektu Polimery Police Bank Pekao zaspokoił, w oparciu o zapisy umowy pomiędzy wierzycielami, przysługujące instytucjom finansowym wierzytelności w wysokości 30,3 mln euro z tytułu umowy kredytów na finansowanie projektu Polimery Police - podała Grupa Azoty w komunikacie.",
+      "content_html": "",
       "date_published": "2026-03-09T22:26:00+01:00",
       "source": "Bankier.pl"
     },
@@ -1263,17 +1407,9 @@
     {
       "id": "https://www.bankier.pl/wiadomosc/Kryzys-naftowy-stagflacja-i-wzrosty-na-Wall-Street-9095500.html",
       "url": "https://www.bankier.pl/wiadomosc/Kryzys-naftowy-stagflacja-i-wzrosty-na-Wall-Street-9095500.html",
-      "title": "Kryzys naftowy, stagflacja i… wzrosty na Wall Street",
-      "content_html": "Pomimo groźby regularnego kryzysu naftowego poniedziałkowa sesja na nowojorskich giełdach zakończyła się solidnymi zwyżkami.",
+      "title": "Kryzys naftowy, stagflacja i… wzrosty na Wall Street Pomimo groźby regularnego kryzysu naftowego poniedziałkowa sesja na nowojorskich giełdach zakończyła się solidnymi zwyżkami.",
+      "content_html": "",
       "date_published": "2026-03-09T21:11:00+01:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Trump-zasugerowal-szybkie-zakonczenie-wojny-z-Iranem-i-przejecie-ciesniny-Ormuz-9095499.html",
-      "url": "https://www.bankier.pl/wiadomosc/Trump-zasugerowal-szybkie-zakonczenie-wojny-z-Iranem-i-przejecie-ciesniny-Ormuz-9095499.html",
-      "title": "Prezydent USA o Iranie: myślę, że wojna w zasadzie jest zakończona",
-      "content_html": "Prezydent USA Donald Trump zasugerował w poniedziałek w rozmowie ze stacją CBS News, że wkrótce może zakończyć się wojna z Iranem. Nie wykluczył też przejęcia cieśniny Ormuz.",
-      "date_published": "2026-03-09T21:08:00+01:00",
       "source": "Bankier.pl"
     },
     {
@@ -1291,22 +1427,6 @@
       "content_html": "Przegląd najważniejszych wiadomości gospodarczych, krajowych i ze świata.",
       "date_published": "2026-03-09T21:01:00+01:00",
       "source": "PAP Biznes"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Amerykanski-senator-zagrozil-konsekwencjami-jesli-Arabia-Saudyjska-nie-przylaczy-sie-do-wojny-9095492.html",
-      "url": "https://www.bankier.pl/wiadomosc/Amerykanski-senator-zagrozil-konsekwencjami-jesli-Arabia-Saudyjska-nie-przylaczy-sie-do-wojny-9095492.html",
-      "title": "Amerykański senator zagroził „konsekwencjami”, jeśli Arabia Saudyjska nie przyłączy się do wojny",
-      "content_html": "Wpływowy senator Republikanów Lindsey Graham ostrzegł w poniedziałek Arabię Saudyjską i innych sojuszników z Rady Współpracy Zatoki Perskiej, że jeśli nie przyłączą się do ataków na Iran, spotkają je konsekwencje.",
-      "date_published": "2026-03-09T20:59:00+01:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Anthropic-pozywa-Pentagon-W-tle-spor-o-uzycie-AI-na-polu-walki-9095493.html",
-      "url": "https://www.bankier.pl/wiadomosc/Anthropic-pozywa-Pentagon-W-tle-spor-o-uzycie-AI-na-polu-walki-9095493.html",
-      "title": "Anthropic pozywa Pentagon. W tle spór o użycie AI na polu walki",
-      "content_html": "Zajmująca się AI firma Anthropic złożyła w poniedziałek pozew, by zablokować ograniczenia nałożone na nią przez Pentagon. Firma realizuje dla Pentagonu kontrakt za około 200 mln dolarów, ale w ostatnim czasie weszła z nim w spór, żądając...",
-      "date_published": "2026-03-09T20:59:00+01:00",
-      "source": "Bankier.pl"
     },
     {
       "id": "https://biznes.pap.pl/wiadomosci/firmy/orlen-wprowadza-promocje-od-12-marca-i-obniza-marze-na-diesla-niemal-do-zera-opis",
@@ -1418,126 +1538,6 @@
       "title": "Prezydent USA ma przeanalizować szereg opcji mających na celu opanowanie cen ropy - media",
       "content_html": "Prezydent Stanów Zjednoczonych Donald Trump ma w poniedziałek przeanalizować szereg opcji mających na celu opanowanie cen ropy, które wzrosły do ponad 100 dolarów za baryłkę w wyniku wojny z Iranem - ",
       "date_published": "2026-03-09T17:43:00+01:00",
-      "source": "PAP Biznes"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/transport-i-logistyka/linie-air-france-przedluzaja-zawieszenie-lotow-z-i-do-dubaju",
-      "url": "https://biznes.pap.pl/wiadomosci/transport-i-logistyka/linie-air-france-przedluzaja-zawieszenie-lotow-z-i-do-dubaju",
-      "title": "Linie Air France przedłużają zawieszenie lotów z i do Dubaju, Rijadu, Tel Awiwu i Bejrutu",
-      "content_html": "Linie lotnicze Air France przedłużą zawieszenie lotów z i do Dubaju i Rijadu (do 12 marca), jak również z i do Tel Awiwu i Bejrutu (do 13 marca). Powodem są kwestie bezpieczeństwa związane z sytuacją ",
-      "date_published": "2026-03-09T17:27:00+01:00",
-      "source": "PAP Biznes"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/JSW-chce-sprzedac-ARP-udzialy-w-spolkach-PBSz-i-JZR-9095351.html",
-      "url": "https://www.bankier.pl/wiadomosc/JSW-chce-sprzedac-ARP-udzialy-w-spolkach-PBSz-i-JZR-9095351.html",
-      "title": "JSW chce sprzedać ARP udziały w spółkach PBSz i JZR JSW i ARP zawarły przedwstępną umowę sprzedaży akcji Przedsiębiorstwa Budowy Szybów (PBSz) i udziałów Jastrzębskich Zakładów Remontowych (JZR) - podała JSW w komunikacie. Wstępna cena sprzedaży za akcje PBSz została ustalona na 274 mln zł, a za udziały JZR na 791,6 mln zł.",
-      "content_html": "",
-      "date_published": "2026-03-09T17:24:00+01:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Passus-chce-przeznaczyc-na-wyplate-dywidendy-za-25-lacznie-2-97-mln-zl-9095386.html",
-      "url": "https://www.bankier.pl/wiadomosc/Passus-chce-przeznaczyc-na-wyplate-dywidendy-za-25-lacznie-2-97-mln-zl-9095386.html",
-      "title": "Passus chce przeznaczyć na wypłatę dywidendy za '25 łącznie 2,97 mln zł Zarząd spółki Passus rekomenduje, by z zysku netto za 2025 rok wypłacić dywidendę w łącznej wysokości 2,97 mln zł - poinformowała spółka w komunikacie.",
-      "content_html": "",
-      "date_published": "2026-03-09T17:22:00+01:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/gry-i-technologie/passus-chce-przeznaczyc-na-wyplate-dywidendy-za-25-lacznie-297-mln-zl",
-      "url": "https://biznes.pap.pl/wiadomosci/gry-i-technologie/passus-chce-przeznaczyc-na-wyplate-dywidendy-za-25-lacznie-297-mln-zl",
-      "title": "Passus chce przeznaczyć na wypłatę dywidendy za '25 łącznie 2,97 mln zł",
-      "content_html": "Zarząd spółki Passus rekomenduje, by z zysku netto za 2025 rok wypłacić dywidendę w łącznej wysokości 2,97 mln zł - poinformowała spółka w komunikacie.",
-      "date_published": "2026-03-09T17:21:00+01:00",
-      "source": "PAP Biznes"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/firmy/jsw-chce-sprzedac-arp-udzialy-w-spolkach-pbsz-i-jzr-opis-aktl",
-      "url": "https://biznes.pap.pl/wiadomosci/firmy/jsw-chce-sprzedac-arp-udzialy-w-spolkach-pbsz-i-jzr-opis-aktl",
-      "title": "JSW chce sprzedać ARP udziały w spółkach PBSz i JZR (opis, aktl.)",
-      "content_html": "JSW i ARP zawarły przedwstępną umowę sprzedaży akcji Przedsiębiorstwa Budowy Szybów (PBSz) i udziałów Jastrzębskich Zakładów Remontowych (JZR) - podała JSW w komunikacie. Wstępna cena sprzedaży za akc",
-      "date_published": "2026-03-09T17:20:00+01:00",
-      "source": "PAP Biznes"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Scope-Fluidics-zaktualizowal-cele-dla-BACTEROMIC-pierwsze-przychody-ze-sprzedazy-systemu-w-26-9095381.html",
-      "url": "https://www.bankier.pl/wiadomosc/Scope-Fluidics-zaktualizowal-cele-dla-BACTEROMIC-pierwsze-przychody-ze-sprzedazy-systemu-w-26-9095381.html",
-      "title": "Scope Fluidics zaktualizował cele dla BACTEROMIC; pierwsze przychody ze sprzedaży systemu w '26 Scope Fluidics zaktualizował cele dla projektu BACTEROMIC na lata 2026-2027. W ocenie zarządu, ich realizacja nie powinna wymagać pozyskania dodatkowego finansowania. Pierwszych przychodów ze sprzedaży systemu spółka spodziewa się w 2026 r. - podała spółka w komunikacie.",
-      "content_html": "",
-      "date_published": "2026-03-09T17:18:00+01:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Czerwono-ale-optymistycznie-WIG20-wrocil-z-dalekiej-podrozy-9095379.html",
-      "url": "https://www.bankier.pl/wiadomosc/Czerwono-ale-optymistycznie-WIG20-wrocil-z-dalekiej-podrozy-9095379.html",
-      "title": "Czerwono, ale optymistycznie. WIG20 wrócił z dalekiej podróży Sesja na warszawskim parkiecie w poniedziałek upłynęła pod znakiem ekstremalnej zmienności, dyktowanej przez wszystko to co się dzieje wokół konfliktu na Bliskim Wschodzie. Choć dzień rozpoczął się od wyprzedaży, polscy inwestorzy wykazali się hartem ducha, doprowadzając w końcowej fazie handlu do odrobienia większości strat. Kluczowym tematem dnia pozostawał rynek ropy naftowej, który stał się zakładnikiem twardej retoryki Waszyngtonu oraz obaw o globalną podaż surowców energetycznych.",
-      "content_html": "",
-      "date_published": "2026-03-09T17:16:00+01:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/firmy/scope-fluidics-zaktualizowal-cele-dla-bacteromic-pierwsze-przychody-ze-sprzedazy",
-      "url": "https://biznes.pap.pl/wiadomosci/firmy/scope-fluidics-zaktualizowal-cele-dla-bacteromic-pierwsze-przychody-ze-sprzedazy",
-      "title": "Scope Fluidics zaktualizował cele dla BACTEROMIC; pierwsze przychody ze sprzedaży systemu w '26",
-      "content_html": "Scope Fluidics zaktualizował cele dla projektu BACTEROMIC na lata 2026-2027. W ocenie zarządu, ich realizacja nie powinna wymagać pozyskania dodatkowego finansowania. Pierwszych przychodów ze sprzedaż",
-      "date_published": "2026-03-09T17:16:00+01:00",
-      "source": "PAP Biznes"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/KGHM-ma-zabezpieczone-ceny-dla-ponad-50-proc-gazu-na-najblizsze-kwartaly-wiceprezes-9095375.html",
-      "url": "https://www.bankier.pl/wiadomosc/KGHM-ma-zabezpieczone-ceny-dla-ponad-50-proc-gazu-na-najblizsze-kwartaly-wiceprezes-9095375.html",
-      "title": "Wiceprezes: KGHM ma zabezpieczone ceny dla ponad 50 proc. gazu na najbliższe kwartały Grupa KGHM, która jest jednym z największych przemysłowych konsumentów gazu ziemnego w Polsce, na najbliższe kwartały ma zabezpieczone ceny dla ponad 50 proc. gazu – poinformował PAP Biznes wiceprezes KGHM Piotr Krzyżewski. Nie widzi problemów z odbiorem wolumenów miedzi, czy srebra.",
-      "content_html": "",
-      "date_published": "2026-03-09T17:12:00+01:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/firmy/kghm-ma-zabezpieczone-ceny-dla-ponad-50-proc-gazu-na-najblizsze-kwartaly",
-      "url": "https://biznes.pap.pl/wiadomosci/firmy/kghm-ma-zabezpieczone-ceny-dla-ponad-50-proc-gazu-na-najblizsze-kwartaly",
-      "title": "KGHM ma zabezpieczone ceny dla ponad 50 proc. gazu na najbliższe kwartały – wiceprezes",
-      "content_html": "Grupa KGHM, która jest jednym z największych przemysłowych konsumentów gazu ziemnego w Polsce, na najbliższe kwartały ma zabezpieczone ceny dla ponad 50 proc. gazu – poinformował PAP Biznes wiceprezes",
-      "date_published": "2026-03-09T17:10:00+01:00",
-      "source": "PAP Biznes"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Trzy-scenariusze-rozwoju-konfliktu-na-Bliskim-Wschodzie-Pytamy-Michala-Szymanskiego-z-VIG-C-Quadrat-TFI-co-czeka-rynki-9095337.html",
-      "url": "https://www.bankier.pl/wiadomosc/Trzy-scenariusze-rozwoju-konfliktu-na-Bliskim-Wschodzie-Pytamy-Michala-Szymanskiego-z-VIG-C-Quadrat-TFI-co-czeka-rynki-9095337.html",
-      "title": "Trzy scenariusze rozwoju konfliktu na Bliskim Wschodzie. Pytamy Michała Szymańskiego z VIG/C-Quadrat TFI, co czeka rynki Potężna zawierucha geopolityczna i niepewność co do dalszych losów globalnej logistyki surowcowej rodzą kluczowe pytanie: czy to tylko chwilowa panika, czy wstęp do głębszego kryzysu i powrotu wysokiej inflacji? O tym, jak odnaleźć się w inwestycyjnym chaosie i jakie scenariusze pisze dla nas rynek, rozmawiamy w studiu Bankier.TV w Bukowinie z Michałem Szymańskim, prezesem VIG/C-Quadrat TFI.",
-      "content_html": "",
-      "date_published": "2026-03-09T17:00:00+01:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/ekonomia-biznes-i-finanse/skrot-wiadomosci-poniedzialek-9-marca-1700",
-      "url": "https://biznes.pap.pl/wiadomosci/ekonomia-biznes-i-finanse/skrot-wiadomosci-poniedzialek-9-marca-1700",
-      "title": "Skrót wiadomości - poniedziałek, 9 marca, 17.00",
-      "content_html": "Przegląd najważniejszych wiadomości gospodarczych, krajowych i ze świata.",
-      "date_published": "2026-03-09T17:00:00+01:00",
-      "source": "PAP Biznes"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/rynki/grupa-panstw-g7-gotowa-do-uwolnienia-zapasow-ropy-jesli-bedzie-konieczne-do",
-      "url": "https://biznes.pap.pl/wiadomosci/rynki/grupa-panstw-g7-gotowa-do-uwolnienia-zapasow-ropy-jesli-bedzie-konieczne-do",
-      "title": "Grupa państw G7 gotowa do uwolnienia zapasów ropy, jeśli będzie to konieczne do wsparcia podaży",
-      "content_html": "Ministrowie finansów grupy G7 oświadczyli, że są gotowi podjąć wszelkie niezbędne kroki w celu wsparcia globalnych dostaw energii, w tym uwolnić strategiczne rezerwy ropy naftowej – napisano w oświadc",
-      "date_published": "2026-03-09T16:57:00+01:00",
-      "source": "PAP Biznes"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/firmy/jsw-chce-sprzedac-arp-udzialy-w-spolkach-pbsz-i-jzr-opis",
-      "url": "https://biznes.pap.pl/wiadomosci/firmy/jsw-chce-sprzedac-arp-udzialy-w-spolkach-pbsz-i-jzr-opis",
-      "title": "JSW chce sprzedać ARP udziały w spółkach PBSz i JZR (opis)",
-      "content_html": "JSW i ARP zawarły przedwstępną umowę sprzedaży akcji Przedsiębiorstwa Budowy Szybów (PBSz) i udziałów Jastrzębskich Zakładów Remontowych (JZR) - podała JSW w komunikacie. Wstępna cena sprzedaży za akc",
-      "date_published": "2026-03-09T16:53:00+01:00",
-      "source": "PAP Biznes"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/firmy/jsw-chce-sprzedac-arp-udzialy-w-spolkach-pbsz-i-jzr",
-      "url": "https://biznes.pap.pl/wiadomosci/firmy/jsw-chce-sprzedac-arp-udzialy-w-spolkach-pbsz-i-jzr",
-      "title": "JSW chce sprzedać ARP udziały w spółkach PBSz i JZR",
-      "content_html": "JSW i ARP zawarły przedwstępną umowę sprzedaży akcji Przedsiębiorstwa Budowy Szybów (PBSz) i udziałów Jastrzębskich Zakładów Remontowych (JZR) - podała JSW w komunikacie. Wstępna cena sprzedaży za akc",
-      "date_published": "2026-03-09T16:41:00+01:00",
       "source": "PAP Biznes"
     }
   ]
