@@ -5,6 +5,22 @@
   "home_page_url": "https://www.bankier.pl",
   "items": [
     {
+      "id": "https://biznes.pap.pl/wiadomosci/rynki/dzien-na-rynkach-gieldy-w-usa-w-dol-w-centrum-uwagi-wzrost-cen-ropy",
+      "url": "https://biznes.pap.pl/wiadomosci/rynki/dzien-na-rynkach-gieldy-w-usa-w-dol-w-centrum-uwagi-wzrost-cen-ropy",
+      "title": "DZIEŃ NA RYNKACH: Giełdy w USA w dół, w centrum uwagi wzrost cen ropy",
+      "content_html": "Środowa sesja na Wall Street zakończyła się przewagą spadków wśród głównych indeksów, a inwestorzy z niepokojem obserwowali rosnące ceny ropy naftowej.",
+      "date_published": "2026-03-11T21:14:00+01:00",
+      "source": "PAP Biznes"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/ekonomia-biznes-i-finanse/skrot-wiadomosci-sroda-11-marca-2100",
+      "url": "https://biznes.pap.pl/wiadomosci/ekonomia-biznes-i-finanse/skrot-wiadomosci-sroda-11-marca-2100",
+      "title": "Skrót wiadomości - środa, 11 marca, 21.00",
+      "content_html": "Przegląd najważniejszych wiadomości gospodarczych, krajowych i ze świata.",
+      "date_published": "2026-03-11T21:06:00+01:00",
+      "source": "PAP Biznes"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Paliwo-jest-dostepne-rafinerie-pracuja-Domanski-Nie-ma-powodow-do-paniki-9096860.html",
       "url": "https://www.bankier.pl/wiadomosc/Paliwo-jest-dostepne-rafinerie-pracuja-Domanski-Nie-ma-powodow-do-paniki-9096860.html",
       "title": "Paliwo jest dostępne, rafinerie pracują. Domański: Nie ma powodów do paniki",
@@ -261,14 +277,6 @@
       "source": "Bankier.pl"
     },
     {
-      "id": "https://biznes.pap.pl/wiadomosci/firmy/pepco-rozpoczyna-czwarty-etap-programu-skupu-akcji-o-wartosci-529-mln-euro",
-      "url": "https://biznes.pap.pl/wiadomosci/firmy/pepco-rozpoczyna-czwarty-etap-programu-skupu-akcji-o-wartosci-529-mln-euro",
-      "title": "Pepco rozpoczyna czwarty etap programu skupu akcji o wartości 52,9 mln euro",
-      "content_html": "Pepco rozpoczyna czwarty etap programu skupu akcji o wartości 52,9 mln euro - podało Pepco w komunikacie. Dodano, że kończy to program skupu akcji o wartości do 200 mln euro.",
-      "date_published": "2026-03-11T17:21:00+01:00",
-      "source": "PAP Biznes"
-    },
-    {
       "id": "https://www.bankier.pl/wiadomosc/Swietna-sesja-Orlenu-ratuje-WIG20-przed-wieksza-przecena-Wszystkie-oczy-skupione-na-Ormuz-9096765.html",
       "url": "https://www.bankier.pl/wiadomosc/Swietna-sesja-Orlenu-ratuje-WIG20-przed-wieksza-przecena-Wszystkie-oczy-skupione-na-Ormuz-9096765.html",
       "title": "Świetna sesja Orlenu ratuje WIG20 przed większą przeceną. Wszystkie oczy skupione na Ormuz",
@@ -283,14 +291,6 @@
       "content_html": "Prokuratura Okręgowa w Warszawie skierowała w środę do sądu akt oskarżenia przeciwko Michałowi Dworczykowi – europosłowi PiS i byłemu szefowi KPRM. Prokuratura zarzuca politykowi m.in. niedopełnienie obowiązków i utrudnianie śledztwa w...",
       "date_published": "2026-03-11T17:09:00+01:00",
       "source": "Bankier.pl"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/gospodarka/dzien-na-fxfi-pln-mocniejszy-rentownosci-spw-silnie-wzrosly-nerwowosc-bedzie",
-      "url": "https://biznes.pap.pl/wiadomosci/gospodarka/dzien-na-fxfi-pln-mocniejszy-rentownosci-spw-silnie-wzrosly-nerwowosc-bedzie",
-      "title": "DZIEŃ NA FX/FI: PLN mocniejszy, rentowności SPW silnie wzrosły; nerwowość będzie się utrzymywać",
-      "content_html": "W środę polska waluta umacniała się wobec euro, natomiast rentowności krajowych obligacji silnie rosły. Jak oceniają ekonomiści, zmienność jest bardzo wysoka i na rynku obligacji nie jest wykluczone o",
-      "date_published": "2026-03-11T17:08:00+01:00",
-      "source": "PAP Biznes"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/CD-Projekt-ocenia-ze-cel-Programu-Motywacyjnego-B-na-lata-26-29-jest-osiagalny-przy-nowych-premierach-Nielubowicz-9096732.html",
@@ -395,6 +395,14 @@
       "content_html": "Revolut Bank UK Ltd otrzymał od Prudential Regulation Authority (PRA) zgodę na wyjście z fazy przygotowawczej i rozpoczęcie działalności jako pełnoprawny bank w Wielkiej Brytanii - poinformował Revolut w komunikacie prasowym.",
       "date_published": "2026-03-11T15:58:00+01:00",
       "source": "Bankier.pl"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/firmy/revolut-uruchamia-bank-w-wielkiej-brytanii",
+      "url": "https://biznes.pap.pl/wiadomosci/firmy/revolut-uruchamia-bank-w-wielkiej-brytanii",
+      "title": "Revolut uruchamia bank w Wielkiej Brytanii",
+      "content_html": "Revolut Bank UK Ltd otrzymał od Prudential Regulation Authority (PRA) zgodę na wyjście z fazy przygotowawczej i rozpoczęcie działalności jako pełnoprawny bank w Wielkiej Brytanii - poinformował Revolu",
+      "date_published": "2026-03-11T15:56:00+01:00",
+      "source": "PAP Biznes"
     },
     {
       "id": "https://biznes.pap.pl/wiadomosci/rynki/aktywa-krajowych-funduszy-inwestycyjnych-wzrosly-w-lutym-do-4629-mld-zl-izfia",
@@ -1434,14 +1442,6 @@
       "title": "DZIEŃ NA RYNKACH: Małe zmiany na Wall Street na koniec dnia",
       "content_html": "Wtorkowa sesja na Wall Street zakończyła się niewielkimi zmianami głównych indeksów, a na rynkach widać było poprawę nastrojów na fali oczekiwań, że wojna USA i Izraela z Iranem może się wkrótce zakoń",
       "date_published": "2026-03-10T22:30:00+01:00",
-      "source": "PAP Biznes"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/ekonomia-biznes-i-finanse/skrot-wiadomosci-wtorek-10-marca-2100",
-      "url": "https://biznes.pap.pl/wiadomosci/ekonomia-biznes-i-finanse/skrot-wiadomosci-wtorek-10-marca-2100",
-      "title": "Skrót wiadomości - wtorek, 10 marca, 21.00",
-      "content_html": "Przegląd najważniejszych wiadomości gospodarczych, krajowych i ze świata.",
-      "date_published": "2026-03-10T21:00:00+01:00",
       "source": "PAP Biznes"
     }
   ]
