@@ -5,9 +5,17 @@
   "home_page_url": "https://www.bankier.pl",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/Paliwo-jest-dostepne-rafinerie-pracuja-Domanski-Nie-ma-powodow-do-paniki-9096860.html",
+      "url": "https://www.bankier.pl/wiadomosc/Paliwo-jest-dostepne-rafinerie-pracuja-Domanski-Nie-ma-powodow-do-paniki-9096860.html",
+      "title": "Paliwo jest dostępne, rafinerie pracują. Domański: Nie ma powodów do paniki",
+      "content_html": "W kwestii cen paliw nie ma powodów do paniki; paliwo na stacjach jest, a rafinerie pracują - podkreślił minister finansów i gospodarki Andrzej Domański. Dodał, że rząd analizuje i dalej będzie analizował ceny na stacjach paliw.",
+      "date_published": "2026-03-11T20:20:00+01:00",
+      "source": "Bankier.pl"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Skarb-Panstwa-zglosil-projekt-uchwaly-NWZ-dot-podwyzszenia-kapitalu-zakladowego-Grupy-Azoty-9096852.html",
       "url": "https://www.bankier.pl/wiadomosc/Skarb-Panstwa-zglosil-projekt-uchwaly-NWZ-dot-podwyzszenia-kapitalu-zakladowego-Grupy-Azoty-9096852.html",
-      "title": "Skarb Państwa zgłosił projekt uchwały NWZ dot. podwyższenia kapitału zakładowego Grupy Azoty",
+      "title": "Grupa Azoty z wyższym kapitałem zakładowym? Skarb Państwa zgłosił projekt uchwały NWZ",
       "content_html": "Skarb Państwa zgłosił projekt uchwały NWZ Grupy Azoty w sprawie podwyższenia kapitału zakładowego spółki poprzez emisję akcji serii E z wyłączeniem w całości prawa poboru - podała spółka w komunikacie.",
       "date_published": "2026-03-11T20:00:00+01:00",
       "source": "Bankier.pl"
@@ -21,11 +29,11 @@
       "source": "PAP Biznes"
     },
     {
-      "id": "https://www.bankier.pl/wiadomosc/Orlen-przewiduje-ujecie-nowych-odpisow-aktualizujacych-wartosc-aktywow-w-wys-8-6-mld-zl-9096850.html",
-      "url": "https://www.bankier.pl/wiadomosc/Orlen-przewiduje-ujecie-nowych-odpisow-aktualizujacych-wartosc-aktywow-w-wys-8-6-mld-zl-9096850.html",
-      "title": "Orlen przewiduje ujęcie nowych odpisów aktualizujących wartość aktywów w wys. 8,6 mld zł",
-      "content_html": "Orlen przewiduje ujęcie nowych odpisów aktualizujących wartość aktywów w sprawozdaniu skonsolidowanym za 2025 rok w wysokości 8,6 mld zł - podała spółka w środowym komunikacie.",
-      "date_published": "2026-03-11T19:54:00+01:00",
+      "id": "https://www.bankier.pl/wiadomosc/Trump-namawia-do-przeprawy-przez-Ormuz-ale-wojsko-odrzuca-prosby-o-eskortowanie-tankowcow-9096851.html",
+      "url": "https://www.bankier.pl/wiadomosc/Trump-namawia-do-przeprawy-przez-Ormuz-ale-wojsko-odrzuca-prosby-o-eskortowanie-tankowcow-9096851.html",
+      "title": "Trump namawia do przeprawy przez Ormuz, ale... wojsko odrzuca prośby o eskortowanie tankowców",
+      "content_html": "Amerykańskie wojsko odrzuciło szereg próśb z krajów Bliskiego Wschodu o eskortowanie tankowców i innych cywilnych statków przez cieśninę Ormuz - poinformował w środę dziennik „Wall Street Journal”.",
+      "date_published": "2026-03-11T19:55:00+01:00",
       "source": "Bankier.pl"
     },
     {
@@ -37,12 +45,28 @@
       "source": "Bankier.pl"
     },
     {
+      "id": "https://www.bankier.pl/wiadomosc/Niemcy-uciekaja-przed-drogim-paliwem-i-zaczynaja-konfigurowac-elektryki-9096846.html",
+      "url": "https://www.bankier.pl/wiadomosc/Niemcy-uciekaja-przed-drogim-paliwem-i-zaczynaja-konfigurowac-elektryki-9096846.html",
+      "title": "Niemcy uciekają przed drogim paliwem i zaczynają... konfigurować „elektryki”",
+      "content_html": "Wzrost cen paliw po wybuchu wojny z Iranem zwiększa w Niemczech zainteresowanie samochodami elektrycznymi - podała w środę agencja dpa. Internetowe platformy sprzedaży aut odnotowały większą liczbę konfiguracji modeli elektrycznych.",
+      "date_published": "2026-03-11T19:48:00+01:00",
+      "source": "Bankier.pl"
+    },
+    {
       "id": "https://biznes.pap.pl/wiadomosci/firmy/orlen-przewiduje-ujecie-nowych-odpisow-aktualizujacych-wartosc-aktywow-w-wys-86",
       "url": "https://biznes.pap.pl/wiadomosci/firmy/orlen-przewiduje-ujecie-nowych-odpisow-aktualizujacych-wartosc-aktywow-w-wys-86",
       "title": "Orlen przewiduje ujęcie nowych odpisów aktualizujących wartość aktywów w wys. 8,6 mld zł",
       "content_html": "Orlen przewiduje ujęcie nowych odpisów aktualizujących wartość aktywów w sprawozdaniu skonsolidowanym za 2025 rok w wysokości 8,6 mld zł - podała spółka w komunikacie.",
       "date_published": "2026-03-11T19:48:00+01:00",
       "source": "PAP Biznes"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Oplata-turystyczna-zamiast-podatku-Wiceminister-Ras-forma-bedzie-fakultatywna-9096844.html",
+      "url": "https://www.bankier.pl/wiadomosc/Oplata-turystyczna-zamiast-podatku-Wiceminister-Ras-forma-bedzie-fakultatywna-9096844.html",
+      "title": "Opłata turystyczna zamiast podatku. Wiceminister Raś: forma będzie fakultatywna",
+      "content_html": "Opłata turystyczna nie będzie nowym podatkiem. Jej celem ma być wsparcie promocji Polski i finansów gmin turystycznych – podkreślił w środę wiceminister sportu i turystyki Ireneusz Raś podczas posiedzenia sejmowej komisji ds. kultury fizycznej...",
+      "date_published": "2026-03-11T19:43:00+01:00",
+      "source": "Bankier.pl"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Iran-uderzy-na-Kalifornie-FBI-ostrzega-drony-moga-nadleciec-z-oceanu-9096843.html",
@@ -1029,18 +1053,18 @@
       "source": "PAP Biznes"
     },
     {
-      "id": "https://www.bankier.pl/wiadomosc/To-na-tym-rynku-rodza-sie-dzisiaj-technologiczne-potegi-i-duze-zyski-9096228.html",
-      "url": "https://www.bankier.pl/wiadomosc/To-na-tym-rynku-rodza-sie-dzisiaj-technologiczne-potegi-i-duze-zyski-9096228.html",
-      "title": "To na tym rynku rodzą się dzisiaj technologiczne potęgi i duże zyski",
-      "content_html": "Rynek prywatny nabiera rozpędu. To właśnie na nim uzyskują zawrotne wyceny innowacyjne spółki, takie jak OpenAI czy założone przez Polaków Eleven Labs. W wywiadzie w studiu Bankier TV na Konferencji Rynku Kapitałowego Marcin Kowalik, wiceprezes...",
+      "id": "https://www.bankier.pl/wiadomosc/Tona-formularzy-i-klient-od-progu-sie-boi-Jak-przyciagnac-Polakow-na-gielde-9096225.html",
+      "url": "https://www.bankier.pl/wiadomosc/Tona-formularzy-i-klient-od-progu-sie-boi-Jak-przyciagnac-Polakow-na-gielde-9096225.html",
+      "title": "„Tona formularzy” i klient od progu się boi. Jak przyciągnąć Polaków na giełdę?",
+      "content_html": "Polacy dysponują kapitałem, ale zamiast inwestować na giełdzie, bezpiecznie trzymają środki na lokatach albo wybierają wysoce ryzykowne kryptowaluty. Dlaczego tak się dzieje? O systemowych barierach, które odstraszają od rynku kapitałowego...",
       "date_published": "2026-03-11T10:00:00+01:00",
       "source": "Bankier.pl"
     },
     {
-      "id": "https://www.bankier.pl/wiadomosc/Tona-formularzy-i-klient-od-progu-sie-boi-Jak-przyciagnac-Polakow-na-gielde-9096225.html",
-      "url": "https://www.bankier.pl/wiadomosc/Tona-formularzy-i-klient-od-progu-sie-boi-Jak-przyciagnac-Polakow-na-gielde-9096225.html",
-      "title": "„Tona formularzy” i klient od progu się boi. Jak przyciągnąć Polaków na giełdę? Polacy dysponują kapitałem, ale zamiast inwestować na giełdzie, bezpiecznie trzymają środki na lokatach albo wybierają wysoce ryzykowne kryptowaluty. Dlaczego tak się dzieje? O systemowych barierach, które odstraszają od rynku kapitałowego, Bankier.pl rozmawia z Ludmiłą Falak-Cyniak, wiceprezes PKO BP.",
-      "content_html": "",
+      "id": "https://www.bankier.pl/wiadomosc/To-na-tym-rynku-rodza-sie-dzisiaj-technologiczne-potegi-i-duze-zyski-9096228.html",
+      "url": "https://www.bankier.pl/wiadomosc/To-na-tym-rynku-rodza-sie-dzisiaj-technologiczne-potegi-i-duze-zyski-9096228.html",
+      "title": "To na tym rynku rodzą się dzisiaj technologiczne potęgi i duże zyski",
+      "content_html": "Rynek prywatny nabiera rozpędu. To właśnie na nim uzyskują zawrotne wyceny innowacyjne spółki, takie jak OpenAI czy założone przez Polaków Eleven Labs. W wywiadzie w studiu Bankier TV na Konferencji Rynku Kapitałowego Marcin Kowalik, wiceprezes...",
       "date_published": "2026-03-11T10:00:00+01:00",
       "source": "Bankier.pl"
     },
@@ -1277,22 +1301,6 @@
       "source": "Bankier.pl"
     },
     {
-      "id": "https://www.bankier.pl/wiadomosc/ZEN-zmienia-cennik-i-udostepnia-wplatomaty-Euronetu-9096302.html",
-      "url": "https://www.bankier.pl/wiadomosc/ZEN-zmienia-cennik-i-udostepnia-wplatomaty-Euronetu-9096302.html",
-      "title": "ZEN zmienia cennik i udostępnia wpłatomaty Euronetu",
-      "content_html": "ZEN.COM uruchamia w Polsce wpłaty gotówki we wpłatomatach Euronetu. Usługa ma wystartować 17 marca 2026 r. i uzupełni dotychczasową obsługę wpłat w sieci Planet Cash. W cenniku dla klientów indywidualnych opłata za taką operację została...",
-      "date_published": "2026-03-11T08:01:00+01:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Doktor-Miedz-obserwuje-Iran-Notowania-blisko-13-tys-dolarow-za-tone-9096297.html",
-      "url": "https://www.bankier.pl/wiadomosc/Doktor-Miedz-obserwuje-Iran-Notowania-blisko-13-tys-dolarow-za-tone-9096297.html",
-      "title": "„Doktor Miedź” obserwuje Iran. Notowania blisko 13 tys. dolarów za tonę",
-      "content_html": "Notowania miedzi na giełdzie metali LME w Londynie są na stabilnym poziomie. Inwestorzy oceniają doniesienia dotyczące wojny na Bliskim Wschodzie - informują maklerzy.",
-      "date_published": "2026-03-11T07:53:00+01:00",
-      "source": "Bankier.pl"
-    },
-    {
       "id": "https://biznes.pap.pl/wiadomosci/rynki/najwazniejsze-indeksy-gieldowe-w-azji-678",
       "url": "https://biznes.pap.pl/wiadomosci/rynki/najwazniejsze-indeksy-gieldowe-w-azji-678",
       "title": "Najważniejsze indeksy giełdowe w Azji",
@@ -1307,14 +1315,6 @@
       "content_html": "Notowania miedzi na giełdzie metali LME w Londynie są na stabilnym poziomie. Inwestorzy oceniają doniesienia dotyczące wojny na Bliskim Wschodzie - informują maklerzy.",
       "date_published": "2026-03-11T07:51:00+01:00",
       "source": "PAP Biznes"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Zatory-platnicze-uderzaja-w-polskie-IT-Zaleglosci-kontrahentow-wzrosly-o-56-mln-zl-9096286.html",
-      "url": "https://www.bankier.pl/wiadomosc/Zatory-platnicze-uderzaja-w-polskie-IT-Zaleglosci-kontrahentow-wzrosly-o-56-mln-zl-9096286.html",
-      "title": "Zatory płatnicze uderzają w polskie IT. Zaległości kontrahentów wzrosły o 56 mln zł",
-      "content_html": "Zaległości kontrahentów wobec firm z branży IT notowane w Krajowym Rejestrze Długów wzrosły w ciągu ostatnich 12 miesięcy o 13 proc. do blisko 0,5 mld zł - wynika z danych KRD. W tym samym okresie zadłużenie firm informatycznych zwiększyło...",
-      "date_published": "2026-03-11T07:48:00+01:00",
-      "source": "Bankier.pl"
     },
     {
       "id": "https://biznes.pap.pl/wiadomosci/rynki/ceny-ropy-sie-wahaja-mozliwe-uwolnienie-z-rezerw-strategicznych",
