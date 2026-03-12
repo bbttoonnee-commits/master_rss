@@ -5,84 +5,196 @@
   "home_page_url": "https://www.bankier.pl",
   "items": [
     {
-      "id": "https://www.bankier.pl/wiadomosc/W-I-kw-grupa-Allegro-notuje-wzrost-GMV-o-10-proc-9096978.html",
-      "url": "https://www.bankier.pl/wiadomosc/W-I-kw-grupa-Allegro-notuje-wzrost-GMV-o-10-proc-9096978.html",
-      "title": "W I kw. grupa Allegro notuje wzrost GMV o 10 proc. W I kwartale grupa Allegro notuje wzrost GMV o 10 proc. - podała spółka w prezentacji.",
-      "content_html": "",
-      "date_published": "2026-03-12T06:28:00+01:00",
+      "id": "https://biznes.pap.pl/wiadomosci/firmy/zalando-w-25-mialo-591-mln-euro-skor-ebit-w-26-oczekuje-660-740-mln-euro",
+      "url": "https://biznes.pap.pl/wiadomosci/firmy/zalando-w-25-mialo-591-mln-euro-skor-ebit-w-26-oczekuje-660-740-mln-euro",
+      "title": "Zalando w '25 miało 591 mln euro skor. EBIT; w '26 oczekuje 660-740 mln euro",
+      "content_html": "Zalando miało w 2025 roku 12,3 mld euro przychodów, co oznacza wzrost o 16,8 proc., a skorygowany EBIT wzrósł o 15,6 proc. do 591 mln euro - podała platforma sprzedażowa w komunikacie prasowym. W 2026",
+      "date_published": "2026-03-12T07:49:00+01:00",
+      "source": "PAP Biznes"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/rynki/ceny-miedzi-w-londynie-spadaja-kolejna-sesje",
+      "url": "https://biznes.pap.pl/wiadomosci/rynki/ceny-miedzi-w-londynie-spadaja-kolejna-sesje",
+      "title": "Ceny miedzi w Londynie spadają kolejną sesję",
+      "content_html": "Notowania miedzi na giełdzie metali LME w Londynie spadają kolejną sesję. Inwestorzy nadal z niepokojem śledzą doniesienia dotyczące wojny na Bliskim Wschodzie - informują maklerzy.",
+      "date_published": "2026-03-12T07:48:00+01:00",
+      "source": "PAP Biznes"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/rynki/ceny-ropy-mocno-rosna-brent-znow-testuje-poziom-100-usd-za-barylke",
+      "url": "https://biznes.pap.pl/wiadomosci/rynki/ceny-ropy-mocno-rosna-brent-znow-testuje-poziom-100-usd-za-barylke",
+      "title": "Ceny ropy mocno rosną: Brent znów testuje poziom 100 USD za baryłkę",
+      "content_html": "Ceny ropy naftowej mocno rosną, a Brent znów testuje poziom 100 USD za baryłkę - informują maklerzy.",
+      "date_published": "2026-03-12T07:44:00+01:00",
+      "source": "PAP Biznes"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Kamien-milowy-odhaczony-Sejm-uchwalil-reforme-Panstwowej-Inspekcji-Pracy-9096904.html",
+      "url": "https://www.bankier.pl/wiadomosc/Kamien-milowy-odhaczony-Sejm-uchwalil-reforme-Panstwowej-Inspekcji-Pracy-9096904.html",
+      "title": "Kamień milowy odhaczony. Sejm uchwalił reformę Państwowej Inspekcji Pracy",
+      "content_html": "Sejm uchwalił w środę nowelizację ustawy o Państwowej Inspekcji Pracy, która nadaje PIP uprawnienia do zamiany pozornych umów cywilnoprawnych i B2B w umowy o pracę. Za jej uchwaleniem zagłosowało 230 posłów, 20 przeciw, a 178 wstrzymało się...",
+      "date_published": "2026-03-12T07:35:00+01:00",
       "source": "Bankier.pl"
     },
     {
-      "id": "https://biznes.pap.pl/wiadomosci/firmy/w-i-kw-grupa-allegro-notuje-wzrost-gmv-o-10-proc",
-      "url": "https://biznes.pap.pl/wiadomosci/firmy/w-i-kw-grupa-allegro-notuje-wzrost-gmv-o-10-proc",
-      "title": "W I kw. grupa Allegro notuje wzrost GMV o 10 proc.",
-      "content_html": "W I kwartale grupa Allegro notuje wzrost GMV o 10 proc. - podała spółka w prezentacji.",
-      "date_published": "2026-03-12T06:27:00+01:00",
+      "id": "https://www.bankier.pl/wiadomosc/KIA-dostarczy-nosnik-systemu-SAN-Rosomak-zbroi-Wojsko-Polskie-przeciwko-dronom-9096883.html",
+      "url": "https://www.bankier.pl/wiadomosc/KIA-dostarczy-nosnik-systemu-SAN-Rosomak-zbroi-Wojsko-Polskie-przeciwko-dronom-9096883.html",
+      "title": "KIA dostarczy nośnik systemu SAN. Rosomak zbroi Wojsko Polskie przeciwko dronom",
+      "content_html": "Spółka Rosomak z Polskiej Grupy Zbrojeniowej podpisała umowę z Kia Corporation na dostawę 375 sztuk pojazdów, które staną się nośnikami komponentów systemu przeciwdronowego SAN C-UAS - wynika ze środowej informacji Rosomaka.",
+      "date_published": "2026-03-12T07:28:00+01:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Polacy-znow-chetnie-kupuja-obligacje-oszczednosciowe-Te-wybierali-najczesciej-9096391.html",
+      "url": "https://www.bankier.pl/wiadomosc/Polacy-znow-chetnie-kupuja-obligacje-oszczednosciowe-Te-wybierali-najczesciej-9096391.html",
+      "title": "Polacy znów chętnie kupują obligacje. Te wybierali najczęściej",
+      "content_html": "W lutym wartość sprzedaży obligacji oszczędnościowych wyniosła 6,13 mld zł – poinformowało Ministerstwo Finansów w środowym komunikacie. Najlepiej sprzedawały się obligacje 3-letnie o oprocentowaniu stałym i roczne papiery o zmiennym kuponie...",
+      "date_published": "2026-03-12T07:25:00+01:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Finansowy-exodus-z-Dubaju-Globalne-banki-ewakuuja-biura-po-grozbach-Iranu-9096864.html",
+      "url": "https://www.bankier.pl/wiadomosc/Finansowy-exodus-z-Dubaju-Globalne-banki-ewakuuja-biura-po-grozbach-Iranu-9096864.html",
+      "title": "Finansowy exodus z Dubaju. Globalne banki ewakuują biura po groźbach Iranu",
+      "content_html": "Firmy doradcze i banki, m.in. Deloitte, PwC, Citigroup i Standard Chartered, tymczasowo zamknęły lub ewakuowały w środę swoje biura w Dubaju w Zjednoczonych Emiratach Arabskich. Iran zagroził w środę, że zaatakuje powiązane z USA instytucje...",
+      "date_published": "2026-03-12T07:22:00+01:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/gospodarka/laczna-kwota-wyplat-w-ramach-kpo-z-pfr-wzrosla-do-46274-mld-zl",
+      "url": "https://biznes.pap.pl/wiadomosci/gospodarka/laczna-kwota-wyplat-w-ramach-kpo-z-pfr-wzrosla-do-46274-mld-zl",
+      "title": "Łączna kwota wypłat w ramach KPO z PFR wzrosła do 46,274 mld zł",
+      "content_html": "Łączna kwota wypłat zrealizowanych w ramach Krajowego Planu Odbudowy z Polskiego Funduszu Rozwoju wzrosła do 46,274 mld zł wg. stanu na 11 marca z 34,35 mld zł wg. stanu na połowę grudnia - poinformow",
+      "date_published": "2026-03-12T07:20:00+01:00",
       "source": "PAP Biznes"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Zysk-netto-grupy-PKO-BP-w-IV-kw-25-wyniosl-2-715-mln-zl-powyzej-oczekiwan-9096975.html",
       "url": "https://www.bankier.pl/wiadomosc/Zysk-netto-grupy-PKO-BP-w-IV-kw-25-wyniosl-2-715-mln-zl-powyzej-oczekiwan-9096975.html",
-      "title": "Zysk netto grupy PKO BP w IV kw. '25 wyniósł 2.715 mln zł; powyżej oczekiwań Zysk netto grupy grupy PKO BP w IV kwartale 2025 r. wzrósł do 2.715 mln zł z 2.446 mln zł rok wcześniej - poinformował bank w raporcie. Zysk okazał się 6,9 proc. powyżej oczekiwań analityków, którzy prognozowali, że wyniesie on 2.540,7 mln zł.",
-      "content_html": "",
-      "date_published": "2026-03-12T06:22:00+01:00",
+      "title": "Ponad 2,7 mld zł w jednym kwartale. Zyski PKO BP rosną szybciej niż prognozy",
+      "content_html": "Zysk netto grupy PKO BP w IV kwartale 2025 r. wzrósł do 2.715 mln zł z 2.446 mln zł rok wcześniej - poinformował bank w raporcie. Zysk okazał się 6,9 proc. powyżej oczekiwań analityków, którzy prognozowali, że wyniesie on 2.540,7 mln zł...",
+      "date_published": "2026-03-12T07:18:00+01:00",
       "source": "Bankier.pl"
     },
     {
-      "id": "https://biznes.pap.pl/wiadomosci/firmy/zysk-netto-grupy-pko-bp-w-iv-kw-25-wyniosl-2715-mln-zl-powyzej-oczekiwan",
-      "url": "https://biznes.pap.pl/wiadomosci/firmy/zysk-netto-grupy-pko-bp-w-iv-kw-25-wyniosl-2715-mln-zl-powyzej-oczekiwan",
-      "title": "Zysk netto grupy PKO BP w IV kw. '25 wyniósł 2.715 mln zł; powyżej oczekiwań",
-      "content_html": "Zysk netto grupy grupy PKO BP w IV kwartale 2025 r. wzrósł do 2.715 mln zł z 2.446 mln zł rok wcześniej - poinformował bank w raporcie. Zysk okazał się 6,9 proc. powyżej oczekiwań analityków, którzy p",
-      "date_published": "2026-03-12T06:21:00+01:00",
+      "id": "https://biznes.pap.pl/wiadomosci/firmy/zysk-netto-grupy-pko-bp-w-iv-kw-25-wyniosl-2715-mln-zl-powyzej-oczekiwan-opis",
+      "url": "https://biznes.pap.pl/wiadomosci/firmy/zysk-netto-grupy-pko-bp-w-iv-kw-25-wyniosl-2715-mln-zl-powyzej-oczekiwan-opis",
+      "title": "Zysk netto grupy PKO BP w IV kw. '25 wyniósł 2.715 mln zł; powyżej oczekiwań (opis)",
+      "content_html": "Zysk netto grupy PKO BP w IV kwartale 2025 r. wzrósł do 2.715 mln zł z 2.446 mln zł rok wcześniej - poinformował bank w raporcie. Zysk okazał się 6,9 proc. powyżej oczekiwań analityków, którzy prognoz",
+      "date_published": "2026-03-12T07:14:00+01:00",
       "source": "PAP Biznes"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Orlen-zlozyl-zaktualizowana-oferte-zakupu-wszystkich-akcji-Grupy-Azoty-Polyolefins-9096965.html",
+      "url": "https://www.bankier.pl/wiadomosc/Orlen-zlozyl-zaktualizowana-oferte-zakupu-wszystkich-akcji-Grupy-Azoty-Polyolefins-9096965.html",
+      "title": "Orlen składa ofertę przejęcia Grupie Azoty Polyolefins za 1,14 mld zł",
+      "content_html": "Orlen złożył pozostałym udziałowcom Grupy Azoty Polyolefins oraz instytucjom finansującym zaktualizowaną niewiążącą ofertę zakupu wszystkich akcji spółki - podał Orlen w komunikacie. Łączna wartość oferty opiewa na 1,140 mld zł.",
+      "date_published": "2026-03-12T07:01:00+01:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/ekonomia-biznes-i-finanse/przewidywane-najwazniejsze-wydarzenia-gospodarcze-2026-03-12",
+      "url": "https://biznes.pap.pl/wiadomosci/ekonomia-biznes-i-finanse/przewidywane-najwazniejsze-wydarzenia-gospodarcze-2026-03-12",
+      "title": "Przewidywane najważniejsze wydarzenia gospodarcze 2026-03-12",
+      "content_html": "Przewidywane najważniejsze wydarzenia gospodarcze 2026-03-12",
+      "date_published": "2026-03-12T07:00:00+01:00",
+      "source": "PAP Biznes"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/rynki/kalendarium-rynku-newconnect-2026-03-12",
+      "url": "https://biznes.pap.pl/wiadomosci/rynki/kalendarium-rynku-newconnect-2026-03-12",
+      "title": "Kalendarium rynku NewConnect 2026-03-12",
+      "content_html": "Kalendarium rynku NewConnect 2026-03-12",
+      "date_published": "2026-03-12T07:00:00+01:00",
+      "source": "PAP Biznes"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/rynki/kalendarium-rynku-kapitalowego-gpw-2026-03-12",
+      "url": "https://biznes.pap.pl/wiadomosci/rynki/kalendarium-rynku-kapitalowego-gpw-2026-03-12",
+      "title": "Kalendarium rynku kapitałowego GPW 2026-03-12",
+      "content_html": "Kalendarium rynku kapitałowego GPW 2026-03-12",
+      "date_published": "2026-03-12T07:00:00+01:00",
+      "source": "PAP Biznes"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Domanski-SAFE-0-proc-nie-daje-darmowego-finansowania-i-moze-generowac-koszty-9096868.html",
+      "url": "https://www.bankier.pl/wiadomosc/Domanski-SAFE-0-proc-nie-daje-darmowego-finansowania-i-moze-generowac-koszty-9096868.html",
+      "title": "Domański: \"SAFE 0 proc.\" nie daje darmowego finansowania i może generować koszty",
+      "content_html": "Zaproponowany przez prezesa NBP i prezydenta Karola Nawrockiego projekt „SAFE 0 proc.” jest w rzeczywistości fikcją finansową, która zamiast oferować darmowe środki, obciąży kosztami bank centralny w przyszłości – ocenił w środę minister...",
+      "date_published": "2026-03-12T06:58:00+01:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/firmy/allegro-zaklada-wzrost-skorygowanego-zysku-ebitda-grupy-w-2026-r-o-9-13-proc-opis",
+      "url": "https://biznes.pap.pl/wiadomosci/firmy/allegro-zaklada-wzrost-skorygowanego-zysku-ebitda-grupy-w-2026-r-o-9-13-proc-opis",
+      "title": "Allegro zakłada wzrost skorygowanego zysku EBITDA grupy w 2026 r. o 9-13 proc. (opis)",
+      "content_html": "Allegro.eu zakłada wzrost skorygowanego zysku EBITDA grupy w 2026 roku o 9-13 proc. rdr, a skonsolidowany CAPEX szacuje na 1,04 - 1,15 mld zł - poinformowała spółka w prezentacji.",
+      "date_published": "2026-03-12T06:52:00+01:00",
+      "source": "PAP Biznes"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/PKO-BP-spelnia-warunki-do-wyplaty-dywidendy-w-wysokosci-do-75-proc-zysku-za-25-9096984.html",
+      "url": "https://www.bankier.pl/wiadomosc/PKO-BP-spelnia-warunki-do-wyplaty-dywidendy-w-wysokosci-do-75-proc-zysku-za-25-9096984.html",
+      "title": "Strategiczne zrealizowane dwa lata przed terminem. PKO BP planuje wypłatę 75 proc. dywidendy",
+      "content_html": "Intencją PKO BP jest wypłata dywidendy w 2026 roku z zysku netto 2025 roku, a rekordowy wynik oraz silna pozycja kapitałowa umożliwiają bankowi wypłatę 75 proc. dywidendy z zysku za 2025 rok - poinformował PKO BP w czwartek.",
+      "date_published": "2026-03-12T06:38:00+01:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/firmy/pko-bp-spelnia-warunki-do-wyplaty-dywidendy-w-wysokosci-do-75-proc-zysku-za-25",
+      "url": "https://biznes.pap.pl/wiadomosci/firmy/pko-bp-spelnia-warunki-do-wyplaty-dywidendy-w-wysokosci-do-75-proc-zysku-za-25",
+      "title": "PKO BP spełnia warunki do wypłaty dywidendy w wysokości do 75 proc. zysku za '25",
+      "content_html": "Intencją PKO BP jest wypłata dywidendy w 2026 roku z zysku netto 2025 roku, a rekordowy wynik oraz silna pozycja kapitałowa umożliwiają bankowi wypłatę 75 proc. dywidendy z zysku za 2025 rok - poinfor",
+      "date_published": "2026-03-12T06:36:00+01:00",
+      "source": "PAP Biznes"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/rynki/rentownosci-obligacji-wybranych-panstw-tabela-2567",
+      "url": "https://biznes.pap.pl/wiadomosci/rynki/rentownosci-obligacji-wybranych-panstw-tabela-2567",
+      "title": "Rentowności obligacji wybranych państw (tabela)",
+      "content_html": "Poniżej zestawienie rentowności obligacji wybranych państw.",
+      "date_published": "2026-03-12T06:35:00+01:00",
+      "source": "PAP Biznes"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/rynki/notowania-metali-bazowych-wegla-i-paliw-tabela-2478",
+      "url": "https://biznes.pap.pl/wiadomosci/rynki/notowania-metali-bazowych-wegla-i-paliw-tabela-2478",
+      "title": "Notowania metali bazowych, węgla i paliw (tabela)",
+      "content_html": "Notowania metali bazowych na London Metal Exchange, uprawnień EUA do emisji CO2, ceny węgla energetycznego ARA na przyszły rok oraz ceny paliw.",
+      "date_published": "2026-03-12T06:35:00+01:00",
+      "source": "PAP Biznes"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/W-I-kw-grupa-Allegro-notuje-wzrost-GMV-o-10-proc-9096978.html",
+      "url": "https://www.bankier.pl/wiadomosc/W-I-kw-grupa-Allegro-notuje-wzrost-GMV-o-10-proc-9096978.html",
+      "title": "Ekspansja międzynarodowa napędza Allegro. Wartość sprzedaży za granicą w górę o 30 proc.",
+      "content_html": "W I kwartale grupa Allegro notuje wzrost GMV o 10 proc. - podała spółka w prezentacji.",
+      "date_published": "2026-03-12T06:28:00+01:00",
+      "source": "Bankier.pl"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Wyniki-grupy-Allegro-w-IV-kw-2025-roku-vs-konsensus-PAP-tabela-9096974.html",
       "url": "https://www.bankier.pl/wiadomosc/Wyniki-grupy-Allegro-w-IV-kw-2025-roku-vs-konsensus-PAP-tabela-9096974.html",
-      "title": "Wyniki grupy Allegro w IV kw. 2025 roku vs. konsensus PAP (tabela) Poniżej przedstawiamy wyniki Allegro w czwartym kwartale 2025 roku oraz ich odniesienie do konsensusu PAP Biznes i poprzednich wyników.",
-      "content_html": "",
+      "title": "Wyniki grupy Allegro w IV kw. 2025 roku vs. konsensus PAP (tabela)",
+      "content_html": "Poniżej przedstawiamy wyniki Allegro w czwartym kwartale 2025 roku oraz ich odniesienie do konsensusu PAP Biznes i poprzednich wyników.",
       "date_published": "2026-03-12T06:20:00+01:00",
       "source": "Bankier.pl"
     },
     {
-      "id": "https://biznes.pap.pl/wiadomosci/firmy/wyniki-grupy-allegro-w-iv-kw-2025-roku-vs-konsensus-pap-tabela",
-      "url": "https://biznes.pap.pl/wiadomosci/firmy/wyniki-grupy-allegro-w-iv-kw-2025-roku-vs-konsensus-pap-tabela",
-      "title": "Wyniki grupy Allegro w IV kw. 2025 roku vs. konsensus PAP (tabela)",
-      "content_html": "Poniżej przedstawiamy wyniki Allegro w czwartym kwartale 2025 roku oraz ich odniesienie do konsensusu PAP Biznes i poprzednich wyników.",
-      "date_published": "2026-03-12T06:18:00+01:00",
-      "source": "PAP Biznes"
-    },
-    {
       "id": "https://www.bankier.pl/wiadomosc/Wyniki-PKO-BP-w-IV-kw-2025-roku-vs-konsensus-PAP-tabela-9096972.html",
       "url": "https://www.bankier.pl/wiadomosc/Wyniki-PKO-BP-w-IV-kw-2025-roku-vs-konsensus-PAP-tabela-9096972.html",
-      "title": "Wyniki PKO BP w IV kw. 2025 roku vs. konsensus PAP (tabela) Poniżej przedstawiamy wyniki PKO BP w czwartym kwartale 2025 roku i ich odniesienie do konsensusu PAP i poprzednich wyników.",
-      "content_html": "",
+      "title": "Wyniki PKO BP w IV kw. 2025 roku vs. konsensus PAP (tabela)",
+      "content_html": "Poniżej przedstawiamy wyniki PKO BP w czwartym kwartale 2025 roku i ich odniesienie do konsensusu PAP i poprzednich wyników.",
       "date_published": "2026-03-12T06:16:00+01:00",
       "source": "Bankier.pl"
     },
     {
-      "id": "https://biznes.pap.pl/wiadomosci/firmy/wyniki-pko-bp-w-iv-kw-2025-roku-vs-konsensus-pap-tabela",
-      "url": "https://biznes.pap.pl/wiadomosci/firmy/wyniki-pko-bp-w-iv-kw-2025-roku-vs-konsensus-pap-tabela",
-      "title": "Wyniki PKO BP w IV kw. 2025 roku vs. konsensus PAP (tabela)",
-      "content_html": "Poniżej przedstawiamy wyniki PKO BP w czwartym kwartale 2025 roku i ich odniesienie do konsensusu PAP i poprzednich wyników.",
-      "date_published": "2026-03-12T06:14:00+01:00",
-      "source": "PAP Biznes"
-    },
-    {
       "id": "https://www.bankier.pl/wiadomosc/Allegro-zaklada-wzrost-skorygowanego-zysku-EBITDA-grupy-w-2026-r-o-9-13-proc-9096970.html",
       "url": "https://www.bankier.pl/wiadomosc/Allegro-zaklada-wzrost-skorygowanego-zysku-EBITDA-grupy-w-2026-r-o-9-13-proc-9096970.html",
-      "title": "Allegro zakłada wzrost skorygowanego zysku EBITDA grupy w 2026 r. o 9-13 proc.",
+      "title": "Allegro odkrywa karty na 2026 rok. Miliard złotych na inwestycje i wzrost zysku",
       "content_html": "Allegro.eu zakłada wzrost skorygowanego zysku EBITDA grupy w 2026 roku o 9-13 proc. rdr, a skonsolidowany CAPEX szacuje na 1,04 - 1,15 mld zł - poinformowała spółka w prezentacji.",
       "date_published": "2026-03-12T06:08:00+01:00",
       "source": "Bankier.pl"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/firmy/allegro-zaklada-wzrost-skorygowanego-zysku-ebitda-grupy-w-2026-r-o-9-13-proc",
-      "url": "https://biznes.pap.pl/wiadomosci/firmy/allegro-zaklada-wzrost-skorygowanego-zysku-ebitda-grupy-w-2026-r-o-9-13-proc",
-      "title": "Allegro zakłada wzrost skorygowanego zysku EBITDA grupy w 2026 r. o 9-13 proc.",
-      "content_html": "Allegro.eu zakłada wzrost skorygowanego zysku EBITDA grupy w 2026 roku o 9-13 proc. rdr, a skonsolidowany CAPEX szacuje na 1,04 - 1,15 mld zł - poinformowała spółka w prezentacji.",
-      "date_published": "2026-03-12T06:06:00+01:00",
-      "source": "PAP Biznes"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Rolnicy-po-raz-pierwszy-przekaza-1-5-proc-podatku-Ministerstwo-Finansow-przypomina-o-nowej-mozliwosci-9096314.html",
@@ -133,22 +245,6 @@
       "source": "Bankier.pl"
     },
     {
-      "id": "https://www.bankier.pl/wiadomosc/Orlen-zlozyl-zaktualizowana-oferte-zakupu-wszystkich-akcji-Grupy-Azoty-Polyolefins-9096965.html",
-      "url": "https://www.bankier.pl/wiadomosc/Orlen-zlozyl-zaktualizowana-oferte-zakupu-wszystkich-akcji-Grupy-Azoty-Polyolefins-9096965.html",
-      "title": "Orlen złożył zaktualizowaną ofertę zakupu wszystkich akcji Grupy Azoty Polyolefins",
-      "content_html": "Orlen złożył pozostałym udziałowcom Grupy Azoty Polyolefins oraz instytucjom finansującym zaktualizowaną niewiążącą ofertę zakupu wszystkich akcji spółki - podał Orlen w komunikacie. Łączna wartość oferty opiewa na 1,140 mld zł.",
-      "date_published": "2026-03-12T05:56:00+01:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/firmy/orlen-zlozyl-zaktualizowana-oferte-zakupu-wszystkich-akcji-grupy-azoty-polyolefins",
-      "url": "https://biznes.pap.pl/wiadomosci/firmy/orlen-zlozyl-zaktualizowana-oferte-zakupu-wszystkich-akcji-grupy-azoty-polyolefins",
-      "title": "Orlen złożył zaktualizowaną ofertę zakupu wszystkich akcji Grupy Azoty Polyolefins",
-      "content_html": "Orlen złożył pozostałym udziałowcom Grupy Azoty Polyolefins oraz instytucjom finansującym zaktualizowaną niewiążącą ofertę zakupu wszystkich akcji spółki - podał Orlen w komunikacie. Łączna wartość of",
-      "date_published": "2026-03-12T05:55:00+01:00",
-      "source": "PAP Biznes"
-    },
-    {
       "id": "https://www.bankier.pl/wiadomosc/Jon-Eastick-zamierza-odejsc-ze-stanowiska-dyrektora-finansowego-Allegro-9096913.html",
       "url": "https://www.bankier.pl/wiadomosc/Jon-Eastick-zamierza-odejsc-ze-stanowiska-dyrektora-finansowego-Allegro-9096913.html",
       "title": "Jon Eastick zamierza odejść ze stanowiska dyrektora finansowego Allegro",
@@ -157,44 +253,12 @@
       "source": "Bankier.pl"
     },
     {
-      "id": "https://biznes.pap.pl/wiadomosci/firmy/jon-eastick-zamierza-odejsc-ze-stanowiska-dyrektora-finansowego-allegro",
-      "url": "https://biznes.pap.pl/wiadomosci/firmy/jon-eastick-zamierza-odejsc-ze-stanowiska-dyrektora-finansowego-allegro",
-      "title": "Jon Eastick zamierza odejść ze stanowiska dyrektora finansowego Allegro",
-      "content_html": "Jon Eastick poinformował Radę Dyrektorów o zamiarze ustąpienia z powodów osobistych ze swojej funkcji wykonawczej w Allegro, w tym ze stanowiska dyrektora finansowego (CFO), dyrektora wykonawczego All",
-      "date_published": "2026-03-12T00:02:00+01:00",
-      "source": "PAP Biznes"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/firmy/sejm-uchwalil-reforme-panstwowej-inspekcji-pracy",
-      "url": "https://biznes.pap.pl/wiadomosci/firmy/sejm-uchwalil-reforme-panstwowej-inspekcji-pracy",
-      "title": "Sejm uchwalił reformę Państwowej Inspekcji Pracy",
-      "content_html": "Sejm uchwalił w środę nowelizację ustawy o Państwowej Inspekcji Pracy, która nadaje PIP uprawnienia do zamiany pozornych umów cywilnoprawnych i B2B w umowy o pracę. Za jej uchwaleniem zagłosowało 230 ",
-      "date_published": "2026-03-11T23:54:00+01:00",
-      "source": "PAP Biznes"
-    },
-    {
       "id": "https://www.bankier.pl/wiadomosc/Ropa-drozeje-ale-Wall-Street-sie-tylko-przyglada-9096877.html",
       "url": "https://www.bankier.pl/wiadomosc/Ropa-drozeje-ale-Wall-Street-sie-tylko-przyglada-9096877.html",
       "title": "Ropa drożeje, ale Wall Street się tylko przygląda",
       "content_html": "Środowa sesja na Wall Street zakończyła się przewagą spadkami wśród głównych indeksów, a inwestorzy z niepokojem obserwowali rosnące ceny ropy naftowej.",
       "date_published": "2026-03-11T21:16:00+01:00",
       "source": "Bankier.pl"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/rynki/dzien-na-rynkach-gieldy-w-usa-w-dol-w-centrum-uwagi-wzrost-cen-ropy",
-      "url": "https://biznes.pap.pl/wiadomosci/rynki/dzien-na-rynkach-gieldy-w-usa-w-dol-w-centrum-uwagi-wzrost-cen-ropy",
-      "title": "DZIEŃ NA RYNKACH: Giełdy w USA w dół, w centrum uwagi wzrost cen ropy",
-      "content_html": "Środowa sesja na Wall Street zakończyła się przewagą spadków wśród głównych indeksów, a inwestorzy z niepokojem obserwowali rosnące ceny ropy naftowej.",
-      "date_published": "2026-03-11T21:14:00+01:00",
-      "source": "PAP Biznes"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/ekonomia-biznes-i-finanse/skrot-wiadomosci-sroda-11-marca-2100",
-      "url": "https://biznes.pap.pl/wiadomosci/ekonomia-biznes-i-finanse/skrot-wiadomosci-sroda-11-marca-2100",
-      "title": "Skrót wiadomości - środa, 11 marca, 21.00",
-      "content_html": "Przegląd najważniejszych wiadomości gospodarczych, krajowych i ze świata.",
-      "date_published": "2026-03-11T21:06:00+01:00",
-      "source": "PAP Biznes"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Paliwo-jest-dostepne-rafinerie-pracuja-Domanski-Nie-ma-powodow-do-paniki-9096860.html",
@@ -211,14 +275,6 @@
       "content_html": "Skarb Państwa zgłosił projekt uchwały NWZ Grupy Azoty w sprawie podwyższenia kapitału zakładowego spółki poprzez emisję akcji serii E z wyłączeniem w całości prawa poboru - podała spółka w komunikacie.",
       "date_published": "2026-03-11T20:00:00+01:00",
       "source": "Bankier.pl"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/firmy/skarb-panstwa-zglosil-projekt-uchwaly-nwz-dot-podwyzszenia-kapitalu-zakladowego",
-      "url": "https://biznes.pap.pl/wiadomosci/firmy/skarb-panstwa-zglosil-projekt-uchwaly-nwz-dot-podwyzszenia-kapitalu-zakladowego",
-      "title": "Skarb Państwa zgłosił projekt uchwały NWZ dot. podwyższenia kapitału zakładowego Grupy Azoty",
-      "content_html": "Skarb Państwa zgłosił projekt uchwały NWZ Grupy Azoty w sprawie podwyższenia kapitału zakładowego spółki poprzez emisję akcji serii E z wyłączeniem w całości prawa poboru - podała spółka w komunikacie",
-      "date_published": "2026-03-11T19:59:00+01:00",
-      "source": "PAP Biznes"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Trump-namawia-do-przeprawy-przez-Ormuz-ale-wojsko-odrzuca-prosby-o-eskortowanie-tankowcow-9096851.html",
@@ -243,14 +299,6 @@
       "content_html": "Wzrost cen paliw po wybuchu wojny z Iranem zwiększa w Niemczech zainteresowanie samochodami elektrycznymi - podała w środę agencja dpa. Internetowe platformy sprzedaży aut odnotowały większą liczbę konfiguracji modeli elektrycznych.",
       "date_published": "2026-03-11T19:48:00+01:00",
       "source": "Bankier.pl"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/firmy/orlen-przewiduje-ujecie-nowych-odpisow-aktualizujacych-wartosc-aktywow-w-wys-86",
-      "url": "https://biznes.pap.pl/wiadomosci/firmy/orlen-przewiduje-ujecie-nowych-odpisow-aktualizujacych-wartosc-aktywow-w-wys-86",
-      "title": "Orlen przewiduje ujęcie nowych odpisów aktualizujących wartość aktywów w wys. 8,6 mld zł",
-      "content_html": "Orlen przewiduje ujęcie nowych odpisów aktualizujących wartość aktywów w sprawozdaniu skonsolidowanym za 2025 rok w wysokości 8,6 mld zł - podała spółka w komunikacie.",
-      "date_published": "2026-03-11T19:48:00+01:00",
-      "source": "PAP Biznes"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Oplata-turystyczna-zamiast-podatku-Wiceminister-Ras-forma-bedzie-fakultatywna-9096844.html",
@@ -317,6 +365,14 @@
       "source": "Bankier.pl"
     },
     {
+      "id": "https://biznes.pap.pl/wiadomosci/firmy/creepy-jar-szacuje-ze-w-2025-r-mial-164-mln-zl-zysku-netto-wzrost-o-3-proc-rdr",
+      "url": "https://biznes.pap.pl/wiadomosci/firmy/creepy-jar-szacuje-ze-w-2025-r-mial-164-mln-zl-zysku-netto-wzrost-o-3-proc-rdr",
+      "title": "Creepy Jar szacuje, że w 2025 r. miał 16,4 mln zł zysku netto, wzrost o 3 proc. rdr",
+      "content_html": "Creepy Jar szacuje, że w 2025 roku miał 16,4 mln zł zysku netto, czyli więcej o 3 proc. rdr, 15,1 mln zł zysku operacyjnego, co stanowi wzrost o 8 proc. rdr oraz 29 mln zł przychodów ze sprzedaży, tj.",
+      "date_published": "2026-03-11T18:01:00+01:00",
+      "source": "PAP Biznes"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Rada-Dyrektorow-Allegro-eu-rekomenduje-skup-akcji-wlasnych-w-tym-roku-w-kwocie-do-1-6-mld-zl-9096795.html",
       "url": "https://www.bankier.pl/wiadomosc/Rada-Dyrektorow-Allegro-eu-rekomenduje-skup-akcji-wlasnych-w-tym-roku-w-kwocie-do-1-6-mld-zl-9096795.html",
       "title": "Allegro skupi akcje. Rada Dyrektorów rekomenduje skup w kwocie do 1,6 mld zł",
@@ -333,12 +389,36 @@
       "source": "Bankier.pl"
     },
     {
+      "id": "https://biznes.pap.pl/wiadomosci/firmy/rada-dyrektorow-allegroeu-rekomenduje-skup-akcji-wlasnych-w-tym-roku-w-kwocie-do",
+      "url": "https://biznes.pap.pl/wiadomosci/firmy/rada-dyrektorow-allegroeu-rekomenduje-skup-akcji-wlasnych-w-tym-roku-w-kwocie-do",
+      "title": "Rada Dyrektorów Allegro.eu rekomenduje skup akcji własnych w tym roku w kwocie do 1,6 mld zł",
+      "content_html": "Rada Dyrektorów Allegro.eu podjęła uchwałę o zarekomendowaniu najbliższemu Zwyczajnemu Walnemu Zgromadzeniu spółki zwrotu nadwyżki kapitału akcjonariuszom poprzez nabycie akcji własnych w kwocie 1,6 m",
+      "date_published": "2026-03-11T17:59:00+01:00",
+      "source": "PAP Biznes"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Creepy-Jar-chce-przeznaczyc-na-wyplate-dywidendy-lacznie-ok-30-mln-zl-9096786.html",
       "url": "https://www.bankier.pl/wiadomosc/Creepy-Jar-chce-przeznaczyc-na-wyplate-dywidendy-lacznie-ok-30-mln-zl-9096786.html",
       "title": "Creepy Jar chce przeznaczyć na wypłatę dywidendy łącznie ok. 30 mln zł",
       "content_html": "Zarząd spółki Creepy Jar rekomenduje przeznaczenie na wypłatę dywidendy łącznie ok. 30 mln zł z zysku netto spółki za 2025 rok oraz z kapitału rezerwowego - poinformowała spółka w komunikacie.",
       "date_published": "2026-03-11T17:48:00+01:00",
       "source": "Bankier.pl"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/firmy/creepy-jar-chce-przeznaczyc-na-wyplate-dywidendy-lacznie-ok-30-mln-zl",
+      "url": "https://biznes.pap.pl/wiadomosci/firmy/creepy-jar-chce-przeznaczyc-na-wyplate-dywidendy-lacznie-ok-30-mln-zl",
+      "title": "Creepy Jar chce przeznaczyć na wypłatę dywidendy łącznie ok. 30 mln zł",
+      "content_html": "Zarząd spółki Creepy Jar rekomenduje przeznaczenie na wypłatę dywidendy łącznie ok. 30 mln zł z zysku netto spółki za 2025 rok oraz z kapitału rezerwowego - poinformowała spółka w komunikacie.",
+      "date_published": "2026-03-11T17:47:00+01:00",
+      "source": "PAP Biznes"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/gospodarka/nbp-gotowy-aktywnie-zarzadzac-zlotem-w-rezerwach-fx-bez-zmiany-ich-poziomu",
+      "url": "https://biznes.pap.pl/wiadomosci/gospodarka/nbp-gotowy-aktywnie-zarzadzac-zlotem-w-rezerwach-fx-bez-zmiany-ich-poziomu",
+      "title": "NBP gotowy aktywnie zarządzać złotem w rezerwach FX bez zmiany ich poziomu - prezes NBP (opis)",
+      "content_html": "Ze względu na interes bezpieczeństwa państwa NBP jest gotowy rozpocząć aktywne zarządzanie posiadanym zasobem złota w rezerwach walutowych, a niezrealizowane przychody z wyceny kruszcu, wynoszące ok. ",
+      "date_published": "2026-03-11T17:46:00+01:00",
+      "source": "PAP Biznes"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Spor-na-lamach-FAZ-Instytut-Pileckiego-Niemcy-ujawniaja-kolonialne-wzorce-myslenia-9096779.html",
@@ -357,6 +437,14 @@
       "source": "Bankier.pl"
     },
     {
+      "id": "https://biznes.pap.pl/wiadomosci/firmy/energa-zidentyfikowala-koniecznosc-dokonania-odpisow-aktualizujacych-na-laczna",
+      "url": "https://biznes.pap.pl/wiadomosci/firmy/energa-zidentyfikowala-koniecznosc-dokonania-odpisow-aktualizujacych-na-laczna",
+      "title": "Energa zidentyfikowała konieczność dokonania odpisów aktualizujących na łączną kwotę ok. 145 mln zł",
+      "content_html": "Energa zidentyfikowała konieczność dokonania odpisów aktualizujących na łączną kwotę ok. 145 mln zł w obszarze wytwarzania energii elektrycznej, z czego ok. 97 mln zł przypada na aktywa OZE - podała s",
+      "date_published": "2026-03-11T17:36:00+01:00",
+      "source": "PAP Biznes"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Blokada-ciesniny-Ormuz-niczego-nie-zmienia-Macron-Nie-mozemy-cofnac-sankcji-wobec-Rosji-9096772.html",
       "url": "https://www.bankier.pl/wiadomosc/Blokada-ciesniny-Ormuz-niczego-nie-zmienia-Macron-Nie-mozemy-cofnac-sankcji-wobec-Rosji-9096772.html",
       "title": "Blokada cieśniny Ormuz niczego nie zmienia. Macron: Nie możemy cofnąć sankcji wobec Rosji",
@@ -371,6 +459,14 @@
       "content_html": "Rosja od dwóch dni uderza w infrastrukturę naftową na południu Ukrainy, by zablokować alternatywne dostawy nierosyjskiej ropy do Europy – oświadczył w środę szef państwowej grupy energetycznej Naftohaz Serhij Korecki.",
       "date_published": "2026-03-11T17:31:00+01:00",
       "source": "Bankier.pl"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/gospodarka/euro-w-ebc-11581-usd-i-18363-jpy",
+      "url": "https://biznes.pap.pl/wiadomosci/gospodarka/euro-w-ebc-11581-usd-i-18363-jpy",
+      "title": "Euro w EBC: 1,1581 USD i 183,63 JPY",
+      "content_html": "Europejski Bank Centralny (EBC) ustalił kurs euro na 1,1581 USD i 183,63 JPY - podał bank na swojej stronie internetowej.",
+      "date_published": "2026-03-11T17:29:00+01:00",
+      "source": "PAP Biznes"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Historyczna-interwencja-MAE-Rekordowe-400-mln-barylek-ropy-zostanie-uwolnione-9096636.html",
@@ -389,6 +485,14 @@
       "source": "Bankier.pl"
     },
     {
+      "id": "https://biznes.pap.pl/wiadomosci/firmy/pepco-rozpoczyna-czwarty-etap-programu-skupu-akcji-o-wartosci-529-mln-euro",
+      "url": "https://biznes.pap.pl/wiadomosci/firmy/pepco-rozpoczyna-czwarty-etap-programu-skupu-akcji-o-wartosci-529-mln-euro",
+      "title": "Pepco rozpoczyna czwarty etap programu skupu akcji o wartości 52,9 mln euro",
+      "content_html": "Pepco rozpoczyna czwarty etap programu skupu akcji o wartości 52,9 mln euro - podało Pepco w komunikacie. Dodano, że kończy to program skupu akcji o wartości do 200 mln euro.",
+      "date_published": "2026-03-11T17:21:00+01:00",
+      "source": "PAP Biznes"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Swietna-sesja-Orlenu-ratuje-WIG20-przed-wieksza-przecena-Wszystkie-oczy-skupione-na-Ormuz-9096765.html",
       "url": "https://www.bankier.pl/wiadomosc/Swietna-sesja-Orlenu-ratuje-WIG20-przed-wieksza-przecena-Wszystkie-oczy-skupione-na-Ormuz-9096765.html",
       "title": "Orlen ratuje WIG20 przed dużą przeceną. Polski czempion większy niż Gazprom",
@@ -405,12 +509,36 @@
       "source": "Bankier.pl"
     },
     {
+      "id": "https://biznes.pap.pl/wiadomosci/gospodarka/dzien-na-fxfi-pln-mocniejszy-rentownosci-spw-silnie-wzrosly-nerwowosc-bedzie",
+      "url": "https://biznes.pap.pl/wiadomosci/gospodarka/dzien-na-fxfi-pln-mocniejszy-rentownosci-spw-silnie-wzrosly-nerwowosc-bedzie",
+      "title": "DZIEŃ NA FX/FI: PLN mocniejszy, rentowności SPW silnie wzrosły; nerwowość będzie się utrzymywać",
+      "content_html": "W środę polska waluta umacniała się wobec euro, natomiast rentowności krajowych obligacji silnie rosły. Jak oceniają ekonomiści, zmienność jest bardzo wysoka i na rynku obligacji nie jest wykluczone o",
+      "date_published": "2026-03-11T17:08:00+01:00",
+      "source": "PAP Biznes"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/CD-Projekt-ocenia-ze-cel-Programu-Motywacyjnego-B-na-lata-26-29-jest-osiagalny-przy-nowych-premierach-Nielubowicz-9096732.html",
       "url": "https://www.bankier.pl/wiadomosc/CD-Projekt-ocenia-ze-cel-Programu-Motywacyjnego-B-na-lata-26-29-jest-osiagalny-przy-nowych-premierach-Nielubowicz-9096732.html",
       "title": "CD Projekt ocenia, że cel Programu Motywacyjnego B na lata '26-29 jest osiągalny przy nowych premierach",
       "content_html": "CD Projekt ocenia, że przyjęty przez środowe walne zgromadzanie warunek wynikowy Programu motywacyjnego B na lata 2026-2029 w wysokości 5 mld zł skumulowanego zysku netto jest osiągalny tylko przy założeniu premier nowych produktów, nad którymi...",
       "date_published": "2026-03-11T17:02:00+01:00",
       "source": "Bankier.pl"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/firmy/artur-blazejak-zrezygnowal-z-funkcji-wiceprezesa-grupy-azoty-zaklady-chemiczne",
+      "url": "https://biznes.pap.pl/wiadomosci/firmy/artur-blazejak-zrezygnowal-z-funkcji-wiceprezesa-grupy-azoty-zaklady-chemiczne",
+      "title": "Artur Błażejak zrezygnował z funkcji wiceprezesa Grupy Azoty Zakłady Chemiczne \"Police\"",
+      "content_html": "Zarząd spółki Grupa Azoty Zakłady Chemiczne \"Police\" otrzymał rezygnację Artura Błażejaka z członkostwa w zarządzie spółki i funkcji wiceprezesa spółki oraz p.o. prezesa, ze skutkiem na koniec dnia 11",
+      "date_published": "2026-03-11T17:01:00+01:00",
+      "source": "PAP Biznes"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/ekonomia-biznes-i-finanse/skrot-wiadomosci-sroda-11-marca-1700",
+      "url": "https://biznes.pap.pl/wiadomosci/ekonomia-biznes-i-finanse/skrot-wiadomosci-sroda-11-marca-1700",
+      "title": "Skrót wiadomości - środa, 11 marca, 17.00",
+      "content_html": "Przegląd najważniejszych wiadomości gospodarczych, krajowych i ze świata.",
+      "date_published": "2026-03-11T17:00:00+01:00",
+      "source": "PAP Biznes"
     },
     {
       "id": "https://biznes.pap.pl/wiadomosci/gry-i-technologie/cd-projekt-ocenia-ze-cel-programu-motywacyjnego-b-na-lata-26-29-jest",
@@ -519,8 +647,8 @@
     {
       "id": "https://www.bankier.pl/wiadomosc/Unibep-zwiekszyl-liczbe-obligacji-w-ramach-II-Programu-Emisji-do-140-mln-zl-9096687.html",
       "url": "https://www.bankier.pl/wiadomosc/Unibep-zwiekszyl-liczbe-obligacji-w-ramach-II-Programu-Emisji-do-140-mln-zl-9096687.html",
-      "title": "Unibep zwiększył liczbę obligacji w ramach II Programu Emisji do 140 mln zł",
-      "content_html": "Grupa Unibep zrealizowała refinansowanie długu obligacyjnego, zwiększając pulę nowej emisji w ramach II Programu Emisji Obligacji ze 100 mln zł do 140 mln zł - podał Unibep w komunikacie prasowym. Inwestorzy zgłosili popyt na poziomie 178 mln...",
+      "title": "Unibep zwiększył liczbę obligacji w ramach II Programu Emisji do 140 mln zł Grupa Unibep zrealizowała refinansowanie długu obligacyjnego, zwiększając pulę nowej emisji w ramach II Programu Emisji Obligacji ze 100 mln zł do 140 mln zł - podał Unibep w komunikacie prasowym. Inwestorzy zgłosili popyt na poziomie 178 mln zł, co przełożyło się na 21 proc. redukcji zapisów.",
+      "content_html": "",
       "date_published": "2026-03-11T16:22:00+01:00",
       "source": "Bankier.pl"
     },
@@ -535,8 +663,8 @@
     {
       "id": "https://www.bankier.pl/wiadomosc/Silniki-do-rakiet-i-dronow-oraz-amunicja-Polski-PGZ-i-czeski-CSG-lacza-sily-9096678.html",
       "url": "https://www.bankier.pl/wiadomosc/Silniki-do-rakiet-i-dronow-oraz-amunicja-Polski-PGZ-i-czeski-CSG-lacza-sily-9096678.html",
-      "title": "Silniki do rakiet i dronów oraz amunicja. Polski PGZ i czeski CSG łączą siły",
-      "content_html": "Czechoslovak Group (CSG) i Polska Grupa Zbrojeniowa (PZG) zawarły ramową umowę o współpracy, która tworzy fundament pod wspólne projekty rozwojowe i produkcyjne, obejmujące m.in. silniki dla nowej generacji bezzałogowców i rakiet, segment amunicyjny...",
+      "title": "Silniki do rakiet i dronów oraz amunicja. Polski PGZ i czeski CSG łączą siły Czechoslovak Group (CSG) i Polska Grupa Zbrojeniowa (PZG) zawarły ramową umowę o współpracy, która tworzy fundament pod wspólne projekty rozwojowe i produkcyjne, obejmujące m.in. silniki dla nowej generacji bezzałogowców i rakiet, segment amunicyjny oraz nowoczesne platformy lądowe - podały spółki w komunikacie.",
+      "content_html": "",
       "date_published": "2026-03-11T16:16:00+01:00",
       "source": "Bankier.pl"
     },
@@ -575,8 +703,8 @@
     {
       "id": "https://www.bankier.pl/wiadomosc/Revolut-pelnoprawnym-bankiem-na-wyspach-Brytyjski-nadzor-daje-zielone-swiatlo-9096658.html",
       "url": "https://www.bankier.pl/wiadomosc/Revolut-pelnoprawnym-bankiem-na-wyspach-Brytyjski-nadzor-daje-zielone-swiatlo-9096658.html",
-      "title": "Revolut pełnoprawnym bankiem na wyspach. Brytyjski nadzór daje zielone światło",
-      "content_html": "Revolut Bank UK Ltd otrzymał od Prudential Regulation Authority (PRA) zgodę na wyjście z fazy przygotowawczej i rozpoczęcie działalności jako pełnoprawny bank w Wielkiej Brytanii - poinformował Revolut w komunikacie prasowym.",
+      "title": "Revolut pełnoprawnym bankiem na wyspach. Brytyjski nadzór daje zielone światło Revolut Bank UK Ltd otrzymał od Prudential Regulation Authority (PRA) zgodę na wyjście z fazy przygotowawczej i rozpoczęcie działalności jako pełnoprawny bank w Wielkiej Brytanii - poinformował Revolut w komunikacie prasowym.",
+      "content_html": "",
       "date_published": "2026-03-11T15:58:00+01:00",
       "source": "Bankier.pl"
     },
@@ -618,6 +746,22 @@
       "title": "Zapasy ropy w USA w ubiegłym tygodniu wzrosły o 3,8 mln baryłek - DoE",
       "content_html": "Zapasy ropy naftowej w USA w ubiegłym tygodniu wzrosły o 3,8 mln baryłek, czyli o 0,9 proc., do 443,1 mln baryłek - poinformował amerykański Departament Energii (DoE).",
       "date_published": "2026-03-11T15:48:00+01:00",
+      "source": "PAP Biznes"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/firmy/dzien-na-gpw-na-gieldzie-spadki-silnie-reaguja-spolki-zwiazane-z-surowcami",
+      "url": "https://biznes.pap.pl/wiadomosci/firmy/dzien-na-gpw-na-gieldzie-spadki-silnie-reaguja-spolki-zwiazane-z-surowcami",
+      "title": "DZIEŃ NA GPW: Na giełdzie spadki; silnie reagują spółki związane z surowcami energetycznymi",
+      "content_html": "W środę kolejny dzień notowania na GPW przebiegają pod wpływem informacji z Bliskiego Wschodu. Główne indeksy idą w dół, przy czym najsłabszy jest mWIG40, na co wpływ ma kilkuprocentowy spadek spółek ",
+      "date_published": "2026-03-11T15:44:00+01:00",
+      "source": "PAP Biznes"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/energia/mae-chce-uwolnic-400-mln-barylek-ropy-aby-zaradzic-zakloceniom-wobec-wojny-z",
+      "url": "https://biznes.pap.pl/wiadomosci/energia/mae-chce-uwolnic-400-mln-barylek-ropy-aby-zaradzic-zakloceniom-wobec-wojny-z",
+      "title": "MAE chce uwolnić 400 mln baryłek ropy, aby zaradzić zakłóceniom wobec wojny z Iranem",
+      "content_html": "Międzynarodowa Agencja Energetyczna (MAE) zgodziła się w środę na uwolnienie 400 mln baryłek ropy naftowej w celu zaradzenia zakłóceniom w dostawach wywołanym wojną z Iranem – podano w komunikacie. Je",
+      "date_published": "2026-03-11T15:34:00+01:00",
       "source": "PAP Biznes"
     },
     {
@@ -1181,42 +1325,18 @@
       "source": "PAP Biznes"
     },
     {
-      "id": "https://www.bankier.pl/wiadomosc/Dron-stracony-nad-lotniskiem-w-Dubaju-Odlamki-ranily-obcokrajowcow-9096355.html",
-      "url": "https://www.bankier.pl/wiadomosc/Dron-stracony-nad-lotniskiem-w-Dubaju-Odlamki-ranily-obcokrajowcow-9096355.html",
-      "title": "Dron strącony nad lotniskiem w Dubaju. Odłamki raniły obcokrajowców",
-      "content_html": "Dron został strącony w środę w pobliżu Międzynarodowego Portu Lotniczego w Dubaju (DXB); cztery osoby zostały ranne odłamkami bezzałogowca - poinformowały służby prasowe władz Zjednoczonych Emiratów Arabskich. Ruch lotniczy odbywa się normalnie...",
-      "date_published": "2026-03-11T10:13:00+01:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Paraliz-w-dostawach-ubran-Konflikt-na-Bliskim-Wschodzie-uderza-w-Zare-i-Primark-9096330.html",
-      "url": "https://www.bankier.pl/wiadomosc/Paraliz-w-dostawach-ubran-Konflikt-na-Bliskim-Wschodzie-uderza-w-Zare-i-Primark-9096330.html",
-      "title": "Paraliż w dostawach ubrań. Konflikt na Bliskim Wschodzie uderza w Zarę i Primark",
-      "content_html": "Transporty odzieży dla największych światowych marek, takich jak Zara czy Primark, utknęły na lotniskach w Bangladeszu i Indiach, podaje Reuters. Eskalacja konfliktu na Bliskim Wschodzie wymusiła odwołania lotów przez linie lotnicze i zawieszenie...",
-      "date_published": "2026-03-11T10:11:00+01:00",
-      "source": "Bankier.pl"
-    },
-    {
       "id": "https://www.bankier.pl/wiadomosc/Mieszkanie-o-pokoj-wieksze-dzieki-nizszym-stopom-Bankowcy-widza-ozywienie-na-rynku-kredytowym-9096344.html",
       "url": "https://www.bankier.pl/wiadomosc/Mieszkanie-o-pokoj-wieksze-dzieki-nizszym-stopom-Bankowcy-widza-ozywienie-na-rynku-kredytowym-9096344.html",
-      "title": "Mieszkanie „o pokój większe” dzięki niższym stopom. Bankowcy widzą ożywienie na rynku kredytowym",
-      "content_html": "Prezes Związku Banków Polskich Tadeusz Białek ocenia, że seria obniżek stóp proc. przełoży się na spadek zysków sektora bankowego w 2026 roku, ale jednocześnie widzi on pierwsze oznaki ożywienia w segmencie kredytów.",
-      "date_published": "2026-03-11T10:10:00+01:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Podatki-w-Dubaju-Ucieczka-Polakow-przed-wojna-moze-slono-kosztowac-9096345.html",
-      "url": "https://www.bankier.pl/wiadomosc/Podatki-w-Dubaju-Ucieczka-Polakow-przed-wojna-moze-slono-kosztowac-9096345.html",
-      "title": "Podatki w Dubaju? Ucieczka Polaków przed wojną może słono kosztować",
-      "content_html": "Konflikt w Iranie oraz wynikające z niego napięcia w regionie Bliskiego Wschodu mogą stać się katalizatorem do rewizji statusu podatkowego wielu Polaków przebywających w Zjednoczonych Emiratach Arabskich (ZEA). Masowe wnioski o wsparcie konsularne...",
+      "title": "Mieszkanie „o pokój większe” dzięki niższym stopom. Bankowcy widzą ożywienie na rynku kredytowym Prezes Związku Banków Polskich Tadeusz Białek ocenia, że seria obniżek stóp proc. przełoży się na spadek zysków sektora bankowego w 2026 roku, ale jednocześnie widzi on pierwsze oznaki ożywienia w segmencie kredytów.",
+      "content_html": "",
       "date_published": "2026-03-11T10:10:00+01:00",
       "source": "Bankier.pl"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Fitch-podtrzymal-dlugoterminowe-ratingi-tureckiego-ING-Banku-na-poziomie-BB-perspektywa-pozytywna-popr-9096366.html",
       "url": "https://www.bankier.pl/wiadomosc/Fitch-podtrzymal-dlugoterminowe-ratingi-tureckiego-ING-Banku-na-poziomie-BB-perspektywa-pozytywna-popr-9096366.html",
-      "title": "Fitch podtrzymał długoterminowe ratingi tureckiego ING Banku na poziomie \"BB-\", perspektywa pozytywna",
-      "content_html": "Agencja Fitch podtrzymała długoterminowe ratingi (IDR) ING Bank A.S. z Turcji w walucie obcej (FC) i walucie lokalnej (LC) na poziomie „BB-”, perspektywa dla długoterminowych ratingów IDR jest pozytywna - poinformował Fitch w komunikacie. Agencja...",
+      "title": "Fitch podtrzymał długoterminowe ratingi tureckiego ING Banku na poziomie \"BB-\", perspektywa pozytywna Agencja Fitch podtrzymała długoterminowe ratingi (IDR) ING Bank A.S. z Turcji w walucie obcej (FC) i walucie lokalnej (LC) na poziomie „BB-”, perspektywa dla długoterminowych ratingów IDR jest pozytywna - poinformował Fitch w komunikacie. Agencja potwierdziła również rating rentowności (VR) na poziomie „b+”. (PAP Biznes)",
+      "content_html": "",
       "date_published": "2026-03-11T10:08:00+01:00",
       "source": "Bankier.pl"
     },
@@ -1229,42 +1349,26 @@
       "source": "PAP Biznes"
     },
     {
-      "id": "https://www.bankier.pl/wiadomosc/Tona-formularzy-i-klient-od-progu-sie-boi-Jak-przyciagnac-Polakow-na-gielde-9096225.html",
-      "url": "https://www.bankier.pl/wiadomosc/Tona-formularzy-i-klient-od-progu-sie-boi-Jak-przyciagnac-Polakow-na-gielde-9096225.html",
-      "title": "„Tona formularzy” i klient od progu się boi. Jak przyciągnąć Polaków na giełdę?",
-      "content_html": "Polacy dysponują kapitałem, ale zamiast inwestować na giełdzie, bezpiecznie trzymają środki na lokatach albo wybierają wysoce ryzykowne kryptowaluty. Dlaczego tak się dzieje? O systemowych barierach, które odstraszają od rynku kapitałowego...",
-      "date_published": "2026-03-11T10:00:00+01:00",
-      "source": "Bankier.pl"
-    },
-    {
       "id": "https://www.bankier.pl/wiadomosc/To-na-tym-rynku-rodza-sie-dzisiaj-technologiczne-potegi-i-duze-zyski-9096228.html",
       "url": "https://www.bankier.pl/wiadomosc/To-na-tym-rynku-rodza-sie-dzisiaj-technologiczne-potegi-i-duze-zyski-9096228.html",
-      "title": "To na tym rynku rodzą się dzisiaj technologiczne potęgi i duże zyski",
-      "content_html": "Rynek prywatny nabiera rozpędu. To właśnie na nim uzyskują zawrotne wyceny innowacyjne spółki, takie jak OpenAI czy założone przez Polaków Eleven Labs. W wywiadzie w studiu Bankier TV na Konferencji Rynku Kapitałowego Marcin Kowalik, wiceprezes...",
+      "title": "To na tym rynku rodzą się dzisiaj technologiczne potęgi i duże zyski Rynek prywatny nabiera rozpędu. To właśnie na nim uzyskują zawrotne wyceny innowacyjne spółki, takie jak OpenAI czy założone przez Polaków Eleven Labs. W wywiadzie w studiu Bankier TV na Konferencji Rynku Kapitałowego Marcin Kowalik, wiceprezes PSIK i partner generalny Balnord, wyjaśnia, dlaczego przyszłość inwestycji leży w private equity i nowych technologiach.",
+      "content_html": "",
       "date_published": "2026-03-11T10:00:00+01:00",
       "source": "Bankier.pl"
     },
     {
-      "id": "https://www.bankier.pl/wiadomosc/Kotecki-To-raczej-koniec-Glos-z-RPP-w-sprawie-stop-procentowych-9096288.html",
-      "url": "https://www.bankier.pl/wiadomosc/Kotecki-To-raczej-koniec-Glos-z-RPP-w-sprawie-stop-procentowych-9096288.html",
-      "title": "„To raczej koniec”. Ważny głos z RPP w sprawie stóp procentowych",
-      "content_html": "Marcowa obniżka stóp proc. mogła być ostatnią w tym roku - poinformował członek RPP Ludwik Kotecki w radiu Programie I Polskiego Radia.",
-      "date_published": "2026-03-11T09:58:00+01:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Paliwa-w-dol-Orlen-obniza-ceny-w-hurcie-i-rusza-z-wielka-promocja-9096361.html",
-      "url": "https://www.bankier.pl/wiadomosc/Paliwa-w-dol-Orlen-obniza-ceny-w-hurcie-i-rusza-z-wielka-promocja-9096361.html",
-      "title": "Paliwa w dół. Orlen obniża ceny w hurcie i rusza z wielką promocją",
-      "content_html": "Orlen obniżył w środę ceny hurtowe paliw, w tym benzyny bezołowiowej Eurosuper 95 o 94 zł za metr sześc. - wynika z danych publikowanych przez koncern. O obniżce cen hurtowych paliw Orlenu poinformował też w mediach społecznościowych minister...",
-      "date_published": "2026-03-11T09:57:00+01:00",
+      "id": "https://www.bankier.pl/wiadomosc/Tona-formularzy-i-klient-od-progu-sie-boi-Jak-przyciagnac-Polakow-na-gielde-9096225.html",
+      "url": "https://www.bankier.pl/wiadomosc/Tona-formularzy-i-klient-od-progu-sie-boi-Jak-przyciagnac-Polakow-na-gielde-9096225.html",
+      "title": "„Tona formularzy” i klient od progu się boi. Jak przyciągnąć Polaków na giełdę? Polacy dysponują kapitałem, ale zamiast inwestować na giełdzie, bezpiecznie trzymają środki na lokatach albo wybierają wysoce ryzykowne kryptowaluty. Dlaczego tak się dzieje? O systemowych barierach, które odstraszają od rynku kapitałowego, Bankier.pl rozmawia z Ludmiłą Falak-Cyniak, wiceprezes PKO BP.",
+      "content_html": "",
+      "date_published": "2026-03-11T10:00:00+01:00",
       "source": "Bankier.pl"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Mostostal-Plock-ma-aneks-do-umowy-z-Orlenem-9096356.html",
       "url": "https://www.bankier.pl/wiadomosc/Mostostal-Plock-ma-aneks-do-umowy-z-Orlenem-9096356.html",
-      "title": "Mostostal Płock z większym kontraktem od Orlenu. Budowa zbiornika ropy drożeje do 122 mln zł",
-      "content_html": "Mostostal Płock podpisał z Orlenem aneks do umowy na wykonanie usługi inwestycyjnej w formule PC w zakresie demontażu istniejącego zbiornika wraz z infrastrukturą oraz budowy nowego zbiornika nr 55 - podał Mostostal Płock w komunikacie. Aneks...",
+      "title": "Mostostal Płock z większym kontraktem od Orlenu. Budowa zbiornika ropy drożeje do 122 mln zł Mostostal Płock podpisał z Orlenem aneks do umowy na wykonanie usługi inwestycyjnej w formule PC w zakresie demontażu istniejącego zbiornika wraz z infrastrukturą oraz budowy nowego zbiornika nr 55 - podał Mostostal Płock w komunikacie. Aneks zwiększył wartość umowy z pierwotnie ustalonej kwoty 104,8 mln zł netto na maksymalną kwotę do 122,6 mln netto.",
+      "content_html": "",
       "date_published": "2026-03-11T09:56:00+01:00",
       "source": "Bankier.pl"
     },
@@ -1301,6 +1405,14 @@
       "source": "PAP Biznes"
     },
     {
+      "id": "https://www.bankier.pl/wiadomosc/PZ-Cormay-zakonczyl-przeglad-opcji-strategicznych-dla-projektu-Equisse-9096340.html",
+      "url": "https://www.bankier.pl/wiadomosc/PZ-Cormay-zakonczyl-przeglad-opcji-strategicznych-dla-projektu-Equisse-9096340.html",
+      "title": "PZ Cormay zakończył przegląd opcji strategicznych dla projektu Equisse PZ Cormay zakończył przegląd opcji strategicznych dla projektu analizatora biochemicznego Equisse 400i - podała spółka w komunikacie. W efekcie przeglądu spółka zawarła z Planet Innovation Products z centralą w Kalifornii umowę produkcji kontraktowej i dostawy Equisse.",
+      "content_html": "",
+      "date_published": "2026-03-11T09:28:00+01:00",
+      "source": "Bankier.pl"
+    },
+    {
       "id": "https://biznes.pap.pl/wiadomosci/firmy/pz-cormay-zakonczyl-przeglad-opcji-strategicznych-dla-projektu-equisse",
       "url": "https://biznes.pap.pl/wiadomosci/firmy/pz-cormay-zakonczyl-przeglad-opcji-strategicznych-dla-projektu-equisse",
       "title": "PZ Cormay zakończył przegląd opcji strategicznych dla projektu Equisse",
@@ -1315,6 +1427,14 @@
       "content_html": "Uwaga inwestorów pozostanie skupiona na sytuacji w Zatoce Perskiej w kontekście potencjalnej deeskalacji napięcia - wskazują w porannych raportach ekonomiści. Eurozłoty może rosnąć w kierunku 4,27, al",
       "date_published": "2026-03-11T09:23:00+01:00",
       "source": "PAP Biznes"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/EuCO-zlozylo-wnioski-o-uchylenie-ukladu-oraz-o-ogloszenie-upadlosci-9096319.html",
+      "url": "https://www.bankier.pl/wiadomosc/EuCO-zlozylo-wnioski-o-uchylenie-ukladu-oraz-o-ogloszenie-upadlosci-9096319.html",
+      "title": "EuCO złożyło wnioski o uchylenie układu oraz o ogłoszenie upadłości Zarząd Europejskiego Centrum Odszkodowań złożył do Sądu Rejonowego w Legnicy, V Wydziału Gospodarczego ds. Restrukturyzacyjnych i Upadłościowych wniosek o uchylenie układu zatwierdzonego w postępowaniu sanacyjnym oraz wniosek o ogłoszenie upadłości - podała spółka w komunikacie. (PAP Biznes)",
+      "content_html": "",
+      "date_published": "2026-03-11T08:48:00+01:00",
+      "source": "Bankier.pl"
     },
     {
       "id": "https://biznes.pap.pl/wiadomosci/firmy/euco-zlozylo-wnioski-o-uchylenie-ukladu-oraz-o-ogloszenie-upadlosci",
@@ -1402,110 +1522,6 @@
       "title": "Najważniejsze indeksy giełdowe w Azji",
       "content_html": "Poniżej aktualne indeksy wybranych giełd w Azji:",
       "date_published": "2026-03-11T07:53:00+01:00",
-      "source": "PAP Biznes"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/rynki/ceny-miedzi-w-londynie-stabilne-3",
-      "url": "https://biznes.pap.pl/wiadomosci/rynki/ceny-miedzi-w-londynie-stabilne-3",
-      "title": "Ceny miedzi w Londynie stabilne",
-      "content_html": "Notowania miedzi na giełdzie metali LME w Londynie są na stabilnym poziomie. Inwestorzy oceniają doniesienia dotyczące wojny na Bliskim Wschodzie - informują maklerzy.",
-      "date_published": "2026-03-11T07:51:00+01:00",
-      "source": "PAP Biznes"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/rynki/ceny-ropy-sie-wahaja-mozliwe-uwolnienie-z-rezerw-strategicznych",
-      "url": "https://biznes.pap.pl/wiadomosci/rynki/ceny-ropy-sie-wahaja-mozliwe-uwolnienie-z-rezerw-strategicznych",
-      "title": "Ceny ropy się wahają; możliwe uwolnienie z rezerw strategicznych",
-      "content_html": "Ceny ropy naftowej wahają się w środę. Inwestorzy oceniają doniesienia na temat możliwego uwolnienia ropy ze strategicznych rezerw - informują maklerzy.",
-      "date_published": "2026-03-11T07:41:00+01:00",
-      "source": "PAP Biznes"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/gospodarka/na-rynki-wschodzace-w-lutym-naplynelo-217-mld-usd-raport-iif",
-      "url": "https://biznes.pap.pl/wiadomosci/gospodarka/na-rynki-wschodzace-w-lutym-naplynelo-217-mld-usd-raport-iif",
-      "title": "Na rynki wschodzące w lutym napłynęło 21,7 mld USD - raport IIF",
-      "content_html": "Na rynki wschodzące w lutym napłynęło 21,7 mld USD, po tym jak w styczniu napływ wyniósł 100,5 mld USD - podał w raporcie Instytut Finansów Międzynarodowych (IIF).",
-      "date_published": "2026-03-11T07:38:00+01:00",
-      "source": "PAP Biznes"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/gospodarka/marcowa-obnizka-stop-mogla-byc-ostatnia-w-tym-roku-kotecki-rpp",
-      "url": "https://biznes.pap.pl/wiadomosci/gospodarka/marcowa-obnizka-stop-mogla-byc-ostatnia-w-tym-roku-kotecki-rpp",
-      "title": "Marcowa obniżka stóp mogła być ostatnią w tym roku - Kotecki, RPP",
-      "content_html": "Marcowa obniżka stóp proc. mogła być ostatnią w tym roku - poinformował członek RPP Ludwik Kotecki w radiu Programie I Polskiego Radia.",
-      "date_published": "2026-03-11T07:33:00+01:00",
-      "source": "PAP Biznes"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Drony-i-radary-z-Polski-Polskie-firmy-podbijaja-rynek-defense-9096267.html",
-      "url": "https://www.bankier.pl/wiadomosc/Drony-i-radary-z-Polski-Polskie-firmy-podbijaja-rynek-defense-9096267.html",
-      "title": "Drony i radary z Polski. Cywilne firmy podbijają rynek defense Polskie przedsiębiorstwa coraz częściej rozwijają technologie, które mogą być wykorzystywane zarówno w sektorze cywilnym, jak i wojskowym. Wojna w Ukrainie przyspieszyła ten trend, pokazując znaczenie...",
-      "content_html": "",
-      "date_published": "2026-03-11T07:00:00+01:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/ekonomia-biznes-i-finanse/przewidywane-najwazniejsze-wydarzenia-gospodarcze-2026-03-11",
-      "url": "https://biznes.pap.pl/wiadomosci/ekonomia-biznes-i-finanse/przewidywane-najwazniejsze-wydarzenia-gospodarcze-2026-03-11",
-      "title": "Przewidywane najważniejsze wydarzenia gospodarcze 2026-03-11",
-      "content_html": "Przewidywane najważniejsze wydarzenia gospodarcze 2026-03-11",
-      "date_published": "2026-03-11T07:00:00+01:00",
-      "source": "PAP Biznes"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/rynki/kalendarium-rynku-newconnect-2026-03-11",
-      "url": "https://biznes.pap.pl/wiadomosci/rynki/kalendarium-rynku-newconnect-2026-03-11",
-      "title": "Kalendarium rynku NewConnect 2026-03-11",
-      "content_html": "Kalendarium rynku NewConnect 2026-03-11",
-      "date_published": "2026-03-11T07:00:00+01:00",
-      "source": "PAP Biznes"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/rynki/kalendarium-rynku-kapitalowego-gpw-2026-03-11",
-      "url": "https://biznes.pap.pl/wiadomosci/rynki/kalendarium-rynku-kapitalowego-gpw-2026-03-11",
-      "title": "Kalendarium rynku kapitałowego GPW 2026-03-11",
-      "content_html": "Kalendarium rynku kapitałowego GPW 2026-03-11",
-      "date_published": "2026-03-11T07:00:00+01:00",
-      "source": "PAP Biznes"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/PIP-nakazala-JSW-wyplate-pozostalej-czesci-nagrody-z-okazji-Dnia-Gornika-oraz-ekwiwalentu-barborkowego-za-25-9096275.html",
-      "url": "https://www.bankier.pl/wiadomosc/PIP-nakazala-JSW-wyplate-pozostalej-czesci-nagrody-z-okazji-Dnia-Gornika-oraz-ekwiwalentu-barborkowego-za-25-9096275.html",
-      "title": "PIP nakazuje JSW wypłatę zaległej \"barbórki\" mimo kryzysu płynności Do JSW wpłynął nakaz wydany przez Inspektora Okręgowego Inspektoratu Pracy w Katowicach, zgodnie z którym Państwowa Inspekcja Pracy nakazała JSW dokonanie wypłaty pozostałej części nagrody z okazji \"Dnia Górnika\" oraz ekwiwalentu barbórkowego za 2025 rok - podała spółka w komunikacie.",
-      "content_html": "",
-      "date_published": "2026-03-11T06:56:00+01:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/energia/mae-proponuje-najwieksze-w-historii-uwolnienie-rezerw-ropy-w-zwiazku-z-wojna-z",
-      "url": "https://biznes.pap.pl/wiadomosci/energia/mae-proponuje-najwieksze-w-historii-uwolnienie-rezerw-ropy-w-zwiazku-z-wojna-z",
-      "title": "MAE proponuje największe w historii uwolnienie rezerw ropy w związku z wojną z Iranem - media",
-      "content_html": "Międzynarodowa Agencja Energetyczna (MAE) zaproponowała największe w historii uwolnienie rezerw ropy naftowej, by obniżyć ceny surowca, które gwałtownie wzrosły w wyniku wojny USA i Izraela z Iranem –",
-      "date_published": "2026-03-11T06:37:00+01:00",
-      "source": "PAP Biznes"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/rynki/rentownosci-obligacji-wybranych-panstw-tabela-2566",
-      "url": "https://biznes.pap.pl/wiadomosci/rynki/rentownosci-obligacji-wybranych-panstw-tabela-2566",
-      "title": "Rentowności obligacji wybranych państw (tabela)",
-      "content_html": "Poniżej zestawienie rentowności obligacji wybranych państw.",
-      "date_published": "2026-03-11T06:37:00+01:00",
-      "source": "PAP Biznes"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/rynki/notowania-metali-bazowych-wegla-i-paliw-tabela-2477",
-      "url": "https://biznes.pap.pl/wiadomosci/rynki/notowania-metali-bazowych-wegla-i-paliw-tabela-2477",
-      "title": "Notowania metali bazowych, węgla i paliw (tabela)",
-      "content_html": "Notowania metali bazowych na London Metal Exchange, uprawnień EUA do emisji CO2, ceny węgla energetycznego ARA na przyszły rok oraz ceny paliw.",
-      "date_published": "2026-03-11T06:36:00+01:00",
-      "source": "PAP Biznes"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/rynki/zamkniecia-na-gieldach-w-ameryce-polnocnej-i-poludniowej-tabela-3085",
-      "url": "https://biznes.pap.pl/wiadomosci/rynki/zamkniecia-na-gieldach-w-ameryce-polnocnej-i-poludniowej-tabela-3085",
-      "title": "Zamknięcia na giełdach w Ameryce Północnej i Południowej (tabela)",
-      "content_html": "Poniżej zamknięcia i zmiany indeksów w USA. Kanadzie, Meksyku, Brazylii, Chile, Kolumbii i Argentynie:",
-      "date_published": "2026-03-11T06:36:00+01:00",
       "source": "PAP Biznes"
     }
   ]
