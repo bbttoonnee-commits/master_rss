@@ -5,6 +5,38 @@
   "home_page_url": "https://www.bankier.pl",
   "items": [
     {
+      "id": "https://biznes.pap.pl/wiadomosci/rynki/po-otwarciu-sesji-dji-rosnie-o-069-proc-sp-500-zwyzkuje-056-proc",
+      "url": "https://biznes.pap.pl/wiadomosci/rynki/po-otwarciu-sesji-dji-rosnie-o-069-proc-sp-500-zwyzkuje-056-proc",
+      "title": "Po otwarciu sesji DJI rośnie o 0,69 proc., a S&P 500 zwyżkuje 0,56 proc.",
+      "content_html": "Po otwarciu sesji w USA Dow Jones Industrial rośnie o 0,69 proc. do 47.000 pkt., S&P500 zwyżkuje 0,56 proc. i wynosi 6.709 pkt.",
+      "date_published": "2026-03-13T14:32:00+01:00",
+      "source": "PAP Biznes"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Hegseth-Chamenei-jest-ranny-i-prawdopodobnie-oszpecony-9098040.html",
+      "url": "https://www.bankier.pl/wiadomosc/Hegseth-Chamenei-jest-ranny-i-prawdopodobnie-oszpecony-9098040.html",
+      "title": "Hegseth: Chamenei jest ranny i prawdopodobnie oszpecony",
+      "content_html": "Nowy przywódca Iranu Modżtaba Chamenei jest ranny, prawdopodobnie oszpecony i zdesperowany - powiedział w piątek szef Pentagonu Pete Hegseth, zapowiadając kolejny rekordowy dzień ataków na Iran. Hegseth zapewniał, że „nie trzeba się martwić”...",
+      "date_published": "2026-03-13T14:24:00+01:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Likwidacja-CBA-zatwierdzona-Sejm-podjal-kluczowa-decyzje-Kto-przejmie-ponad-1200-funkcjonariuszy-9097906.html",
+      "url": "https://www.bankier.pl/wiadomosc/Likwidacja-CBA-zatwierdzona-Sejm-podjal-kluczowa-decyzje-Kto-przejmie-ponad-1200-funkcjonariuszy-9097906.html",
+      "title": "Likwidacja CBA zatwierdzona. Sejm podjął kluczową decyzję. Kto przejmie ponad 1200 funkcjonariuszy?",
+      "content_html": "Sejm uchwalił w piątek ustawę likwidującą 1 października Centralne Biuro Antykorupcyjne. Po tej dacie - jeśli nowe przepisy wejdą w życie – kompetencje Biura przejmie policja, ABW i KAS, a ochroną antykorupcyjną będą zajmować się policja...",
+      "date_published": "2026-03-13T14:21:00+01:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Sejm-wybral-nowych-sedziow-Trybunalu-Konstytucyjnego-9098023.html",
+      "url": "https://www.bankier.pl/wiadomosc/Sejm-wybral-nowych-sedziow-Trybunalu-Konstytucyjnego-9098023.html",
+      "title": "Sejm wybrał nowych sędziów Trybunału Konstytucyjnego",
+      "content_html": "Sejm wybrał w piątek sześcioro sędziów Trybunału Konstytucyjnego - wszyscy to osoby, których kandydatury zostały zgłoszone przez Prezydium Sejmu. Poparcia nie zyskali dwaj kandydaci zgłoszeni przez klub PiS.",
+      "date_published": "2026-03-13T13:55:00+01:00",
+      "source": "Bankier.pl"
+    },
+    {
       "id": "https://biznes.pap.pl/wiadomosci/rynki/dzien-na-rynkach-futures-w-usa-rosna-iran-w-centrum-uwagi",
       "url": "https://biznes.pap.pl/wiadomosci/rynki/dzien-na-rynkach-futures-w-usa-rosna-iran-w-centrum-uwagi",
       "title": "DZIEŃ NA RYNKACH: Futures w USA rosną; Iran w centrum uwagi",
@@ -15,8 +47,8 @@
     {
       "id": "https://www.bankier.pl/wiadomosc/Action-szacuje-przychody-w-IV-kw-25-na-873-02-mln-zl-a-zysk-netto-na-18-1-mln-zl-9098004.html",
       "url": "https://www.bankier.pl/wiadomosc/Action-szacuje-przychody-w-IV-kw-25-na-873-02-mln-zl-a-zysk-netto-na-18-1-mln-zl-9098004.html",
-      "title": "Action szacuje przychody w IV kw. '25 na 873,02 mln zł, a zysk netto na 18,1 mln zł Grupa Action szacuje przychody ze sprzedaży w IV kwartale 2025 roku na 873,02 mln zł, a zysk netto na 18,1 mln zł - podała spółka w komunikacie.",
-      "content_html": "",
+      "title": "Action szacuje przychody w IV kw. '25 na 873,02 mln zł, a zysk netto na 18,1 mln zł",
+      "content_html": "Grupa Action szacuje przychody ze sprzedaży w IV kwartale 2025 roku na 873,02 mln zł, a zysk netto na 18,1 mln zł - podała spółka w komunikacie.",
       "date_published": "2026-03-13T13:38:00+01:00",
       "source": "Bankier.pl"
     },
@@ -35,6 +67,14 @@
       "content_html": "Grupa Action szacuje przychody ze sprzedaży w IV kwartale 2025 roku na 873,02 mln zł, a zysk netto na 18,1 mln zł - podała spółka w komunikacie.",
       "date_published": "2026-03-13T13:36:00+01:00",
       "source": "PAP Biznes"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Wzrost-PKB-w-USA-byl-nizszy-od-wczesniejszych-szacunkow-Wszystko-przez-shutdown-9097999.html",
+      "url": "https://www.bankier.pl/wiadomosc/Wzrost-PKB-w-USA-byl-nizszy-od-wczesniejszych-szacunkow-Wszystko-przez-shutdown-9097999.html",
+      "title": "Wzrost PKB w USA był niższy od wcześniejszych szacunków. Wszystko przez shutdown?",
+      "content_html": "Odczyt produktu krajowego brutto Stanów Zjednoczonych za ostatni kwartał 2025 roku ponownie okazał się wyraźnie niższy od oczekiwań.",
+      "date_published": "2026-03-13T13:35:00+01:00",
+      "source": "Bankier.pl"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Trump-zdejmuje-kolejne-sankcje-z-rosyjskiej-ropy-naftowej-9097677.html",
@@ -93,12 +133,28 @@
       "source": "Bankier.pl"
     },
     {
+      "id": "https://www.bankier.pl/wiadomosc/Szefowie-panstw-apeluja-o-zakaz-wjazdu-do-UE-dla-rosyjskich-zolnierzy-9097977.html",
+      "url": "https://www.bankier.pl/wiadomosc/Szefowie-panstw-apeluja-o-zakaz-wjazdu-do-UE-dla-rosyjskich-zolnierzy-9097977.html",
+      "title": "Szefowie państw apelują o zakaz wjazdu do UE dla rosyjskich żołnierzy",
+      "content_html": "Ośmioro szefów państw i rządów, w tym Donald Tusk, zaapelowało w liście do szefowej Komisji Europejskiej Ursuli von der Leyen i szefa Rady Europejskiej Antoniego Costy o wprowadzenie zakazu wjazdu i pobytu w strefie Schengen dla byłych i obecnych...",
+      "date_published": "2026-03-13T13:06:00+01:00",
+      "source": "Bankier.pl"
+    },
+    {
       "id": "https://biznes.pap.pl/wiadomosci/energia/sejm-przyjal-poprawki-senatu-do-noweli-prawa-energetycznego",
       "url": "https://biznes.pap.pl/wiadomosci/energia/sejm-przyjal-poprawki-senatu-do-noweli-prawa-energetycznego",
       "title": "Sejm przyjął poprawki Senatu do noweli Prawa energetycznego",
       "content_html": "Sejm zaakceptował w piątek senackie poprawki do noweli Prawa energetycznego. Dotyczą one poprawy ochrony odbiorców energii, procedur przyłączenia do sieci elektroenergetycznej oraz kwestii legislacyjn",
       "date_published": "2026-03-13T13:04:00+01:00",
       "source": "PAP Biznes"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Budujesz-dom-lub-inwestujesz-w-OZE-Szykuj-sie-na-nowe-wydatki-9097970.html",
+      "url": "https://www.bankier.pl/wiadomosc/Budujesz-dom-lub-inwestujesz-w-OZE-Szykuj-sie-na-nowe-wydatki-9097970.html",
+      "title": "Budujesz dom lub inwestujesz w OZE? Szykuj się na nowe wydatki",
+      "content_html": "Sejm zaakceptował w piątek senackie poprawki do noweli Prawa energetycznego. Dotyczą one poprawy ochrony odbiorców energii, procedur przyłączenia do sieci elektroenergetycznej oraz kwestii legislacyjno-porządkowych.",
+      "date_published": "2026-03-13T13:01:00+01:00",
+      "source": "Bankier.pl"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Rzad-omija-weto-prezydenta-Uchwala-przyjeta-ministrowie-moga-zawierac-umowy-9097935.html",
@@ -245,28 +301,12 @@
       "source": "Bankier.pl"
     },
     {
-      "id": "https://www.bankier.pl/wiadomosc/Likwidacja-CBA-zatwierdzona-Sejm-podjal-kluczowa-decyzje-Kto-przejmie-ponad-1200-funkcjonariuszy-9097906.html",
-      "url": "https://www.bankier.pl/wiadomosc/Likwidacja-CBA-zatwierdzona-Sejm-podjal-kluczowa-decyzje-Kto-przejmie-ponad-1200-funkcjonariuszy-9097906.html",
-      "title": "Likwidacja CBA zatwierdzona. Sejm podjął kluczową decyzję. Kto przejmie ponad 1200 funkcjonariuszy?",
-      "content_html": "Sejm uchwalił w piątek ustawę likwidującą 1 października Centralne Biuro Antykorupcyjne. Po tej dacie - jeśli nowe przepisy wejdą w życie – kompetencje Biura przejmie policja, ABW i KAS, a ochroną antykorupcyjną będą zajmować się policja...",
-      "date_published": "2026-03-13T12:01:00+01:00",
-      "source": "Bankier.pl"
-    },
-    {
       "id": "https://www.bankier.pl/wiadomosc/BP-z-promocja-na-paliwo-Ile-mozna-zaoszczedzic-9097915.html",
       "url": "https://www.bankier.pl/wiadomosc/BP-z-promocja-na-paliwo-Ile-mozna-zaoszczedzic-9097915.html",
       "title": "Promocja na paliwo na kolejnych stacjach. Ile można zaoszczędzić?",
       "content_html": "Choć do majówki jeszcze ponad miesiąc, kolejna sieć stacji paliw uruchomiła promocję, która pozwoli zaoszczędzić nieco na szalejących cenach paliw podczas tankowania. Tym razem upustami zaczęło kusić kierowców brytyjskie BP. Sprawdzamy,...",
       "date_published": "2026-03-13T12:00:00+01:00",
       "source": "Bankier.pl"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/gospodarka/rzad-przy-realizacji-safe-skorzysta-z-funduszu-wsparcia-sil-zbrojnych",
-      "url": "https://biznes.pap.pl/wiadomosci/gospodarka/rzad-przy-realizacji-safe-skorzysta-z-funduszu-wsparcia-sil-zbrojnych",
-      "title": "Rząd przy realizacji SAFE skorzysta z Funduszu Wsparcia Sił Zbrojnych - Kosiniak-Kamysz",
-      "content_html": "Przy realizacji unijnego programu SAFE rząd skorzysta z istniejącego Funduszu Wsparcia Sił Zbrojnych, zamiast z nowego instrumentu finansowego przy BGK, jaki przewidywała zawetowana przez prezydenta u",
-      "date_published": "2026-03-13T11:55:00+01:00",
-      "source": "PAP Biznes"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Kryzys-paliwowy-w-Polsce-Olej-napedowy-najdrozszy-od-3-lat-9097897.html",
@@ -419,6 +459,22 @@
       "content_html": "Cena miedzi w dostawach 3-miesięcznych na Londyńskiej Giełdzie Metali (LME) spada o 1,03 proc. do 12 848 USD za tonę. Analitycy wskazują, że na rynkach odbywa się realizacja zysków wobec niepewności z powodu wojny na Bliskim Wschodzie.",
       "date_published": "2026-03-13T09:40:00+01:00",
       "source": "Bankier.pl"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/gospodarka/rzad-w-piatek-przyjmie-uchwale-ws-programu-polska-zbrojna-bez-podpisu-ws-safe",
+      "url": "https://biznes.pap.pl/wiadomosci/gospodarka/rzad-w-piatek-przyjmie-uchwale-ws-programu-polska-zbrojna-bez-podpisu-ws-safe",
+      "title": "Rząd w piątek przyjmie uchwałę ws. programu Polska Zbrojna bez podpisu ws. SAFE - premier (opis)",
+      "content_html": "Rząd w piątek przyjmie uchwałę ws. realizacji programu Polska Zbrojna, który realizować będzie krajowe zbrojenia bez podpisu prezydenta ws. unijnych środków SAFE - poinformował premier Donald Tusk w t",
+      "date_published": "2026-03-13T09:37:00+01:00",
+      "source": "PAP Biznes"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/gospodarka/dzien-na-fxfi-na-koniec-tygodnia-zloty-i-spw-slabsze",
+      "url": "https://biznes.pap.pl/wiadomosci/gospodarka/dzien-na-fxfi-na-koniec-tygodnia-zloty-i-spw-slabsze",
+      "title": "DZIEŃ NA FX/FI: Na koniec tygodnia złoty i SPW słabsze",
+      "content_html": "W piątek polska waluta osłabiła się do 4,28 względem euro i do 3,74 względem dolara, a rentowności krajowych obligacji poszły w górę ponad 10 pb. Zdaniem analityków poza globalnymi zawirowaniami, na k",
+      "date_published": "2026-03-13T09:35:00+01:00",
+      "source": "PAP Biznes"
     },
     {
       "id": "https://biznes.pap.pl/wiadomosci/gospodarka/rzad-w-piatek-przyjmie-uchwale-ws-programu-polska-zbrojna-bez-podpisu",
@@ -1095,8 +1151,8 @@
     {
       "id": "https://www.bankier.pl/wiadomosc/KNF-zatwierdzila-prospekt-Syn2bio-debiut-na-GPW-planowany-w-kwietniu-9097453.html",
       "url": "https://www.bankier.pl/wiadomosc/KNF-zatwierdzila-prospekt-Syn2bio-debiut-na-GPW-planowany-w-kwietniu-9097453.html",
-      "title": "KNF zatwierdziła prospekt Syn2bio. Debiut na GPW planowany w kwietniu",
-      "content_html": "KNF zatwierdziła prospekt Syn2bio, spółki, do której notowany już na warszawskiej giełdzie Synektik zamierza wydzielić działalność związaną z badaniami nad kardioznacznikiem i przyszłą komercjalizacją radiofarmaceutyku - podało Syn2bio...",
+      "title": "KNF zatwierdziła prospekt Syn2bio. Debiut na GPW planowany w kwietniu KNF zatwierdziła prospekt Syn2bio, spółki, do której notowany już na warszawskiej giełdzie Synektik zamierza wydzielić działalność związaną z badaniami nad kardioznacznikiem i przyszłą komercjalizacją radiofarmaceutyku - podało Syn2bio w komunikacie prasowym. Debiut Syn2bio na GPW w Warszawie planowany jest ok. 16 kwietnia 2026 r.",
+      "content_html": "",
       "date_published": "2026-03-12T17:14:00+01:00",
       "source": "Bankier.pl"
     },
@@ -1119,8 +1175,8 @@
     {
       "id": "https://www.bankier.pl/wiadomosc/PGE-Obrot-zidentyfikowala-koniecznosc-utworzenia-w-IV-kw-2025-r-rezerwy-na-poziomie-605-mln-zl-9097440.html",
       "url": "https://www.bankier.pl/wiadomosc/PGE-Obrot-zidentyfikowala-koniecznosc-utworzenia-w-IV-kw-2025-r-rezerwy-na-poziomie-605-mln-zl-9097440.html",
-      "title": "PGE Obrót zidentyfikowała konieczność utworzenia w IV kw. 2025 r. rezerwy na poziomie 605 mln zł",
-      "content_html": "PGE Obrót zidentyfikowała konieczność utworzenia w IV kw. 2025 r. rezerwy na poziomie 605 mln zł w związku z otrzymaniem od Prezesa URE decyzji administracyjnej o obowiązku przekazania na rachunek Funduszu Wypłaty Różnicy Ceny kwoty 605 mln...",
+      "title": "PGE Obrót zidentyfikowała konieczność utworzenia w IV kw. 2025 r. rezerwy na poziomie 605 mln zł PGE Obrót zidentyfikowała konieczność utworzenia w IV kw. 2025 r. rezerwy na poziomie 605 mln zł w związku z otrzymaniem od Prezesa URE decyzji administracyjnej o obowiązku przekazania na rachunek Funduszu Wypłaty Różnicy Ceny kwoty 605 mln zł - podało PGE w komunikacie.",
+      "content_html": "",
       "date_published": "2026-03-12T17:02:00+01:00",
       "source": "Bankier.pl"
     },
@@ -1139,14 +1195,6 @@
       "content_html": "Przegląd najważniejszych wiadomości gospodarczych, krajowych i ze świata.",
       "date_published": "2026-03-12T17:00:00+01:00",
       "source": "PAP Biznes"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Wspolny-rynek-kapitalowy-UE-Duza-szostka-chce-przyspieszenia-9097339.html",
-      "url": "https://www.bankier.pl/wiadomosc/Wspolny-rynek-kapitalowy-UE-Duza-szostka-chce-przyspieszenia-9097339.html",
-      "title": "Wspólny rynek kapitałowy UE. \"Duża szóstka\" chce przyspieszenia",
-      "content_html": "Ministrowie finansów państw „dużej szóstki”, czyli najsilniejszych gospodarek UE, w tym Polski, zaapelowali we wspólnym liście o przyspieszenie integracji rynków kapitałowych. Chcą, by Komisja Europejska zaproponowała gruntowne uproszczenie...",
-      "date_published": "2026-03-12T16:45:00+01:00",
-      "source": "Bankier.pl"
     },
     {
       "id": "https://biznes.pap.pl/wiadomosci/gospodarka/gddkia-i-cpk-podpisaly-porozumienie-ws-drog-do-portu-polska",
@@ -1259,62 +1307,6 @@
       "content_html": "",
       "date_published": "2026-03-12T15:12:00+01:00",
       "source": "Bankier.pl"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/gospodarka/w-ramach-kpo-podpisano-dotad-umowy-na-180-mld-zl-czyli-783-proc-srodkow-mfipr",
-      "url": "https://biznes.pap.pl/wiadomosci/gospodarka/w-ramach-kpo-podpisano-dotad-umowy-na-180-mld-zl-czyli-783-proc-srodkow-mfipr",
-      "title": "W ramach KPO podpisano dotąd umowy na 180 mld zł, czyli 78,3 proc. środków - MFiPR",
-      "content_html": "Do tej pory w ramach Krajowego Planu Odbudowy (KPO) podpisano z beneficjentami 1 mln umów na kwotę 180 mld zł, co stanowi 78,3 proc. programu - wynika z danych resortu funduszy.",
-      "date_published": "2026-03-12T14:56:00+01:00",
-      "source": "PAP Biznes"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/rynki/po-otwarciu-sesji-dji-spada-o-125-proc-sp-500-znizkuje-083-proc",
-      "url": "https://biznes.pap.pl/wiadomosci/rynki/po-otwarciu-sesji-dji-spada-o-125-proc-sp-500-znizkuje-083-proc",
-      "title": "Po otwarciu sesji DJI spada o 1,25 proc., a S&P 500 zniżkuje 0,83 proc.",
-      "content_html": "Po otwarciu sesji w USA Dow Jones Industrial spada o 1,25 proc. do 48.824 pkt., S&P500 zniżkuje 0,83 proc. i wynosi 6.720 pkt.",
-      "date_published": "2026-03-12T14:36:00+01:00",
-      "source": "PAP Biznes"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Tauron-przygotuje-propozycje-wykorzystania-blokow-200-MW-po-2028-r-9097284.html",
-      "url": "https://www.bankier.pl/wiadomosc/Tauron-przygotuje-propozycje-wykorzystania-blokow-200-MW-po-2028-r-9097284.html",
-      "title": "Tauron przygotuje propozycję wykorzystania bloków 200 MW po 2028 r. Tauron przygotuje propozycję wykorzystania bloków klasy 200 MW po 2028 r., w perspektywie 2030-35 - zapowiedział w czwartek prezes koncernu Grzegorz Lot.",
-      "content_html": "",
-      "date_published": "2026-03-12T14:30:00+01:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/energia/dochody-rosji-z-ropy-spadly-w-lutym-do-najnizszego-poziomu-od-poczatku-inwazji",
-      "url": "https://biznes.pap.pl/wiadomosci/energia/dochody-rosji-z-ropy-spadly-w-lutym-do-najnizszego-poziomu-od-poczatku-inwazji",
-      "title": "Dochody Rosji z ropy spadły w lutym do najniższego poziomu od początku inwazji na Ukrainę",
-      "content_html": "Międzynarodowa Agencja Energetyczna (MAE) podała w czwartek, że dochody Rosji z ropy naftowej spadły w lutym do najniższego poziomu od początku inwazji na Ukrainę w 2022 r. Przyczyniły się do tego san",
-      "date_published": "2026-03-12T14:30:00+01:00",
-      "source": "PAP Biznes"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/firmy/tauron-przygotuje-propozycje-wykorzystania-blokow-200-mw-po-2028-r",
-      "url": "https://biznes.pap.pl/wiadomosci/firmy/tauron-przygotuje-propozycje-wykorzystania-blokow-200-mw-po-2028-r",
-      "title": "Tauron przygotuje propozycję wykorzystania bloków 200 MW po 2028 r.",
-      "content_html": "Tauron przygotuje propozycję wykorzystania bloków klasy 200 MW po 2028 r., w perspektywie 2030-35 - zapowiedział w czwartek prezes koncernu Grzegorz Lot.",
-      "date_published": "2026-03-12T14:28:00+01:00",
-      "source": "PAP Biznes"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Grupa-Tauron-zainwestuje-25-mld-zl-w-latach-2025-35-w-wojewodztwie-slaskim-9097260.html",
-      "url": "https://www.bankier.pl/wiadomosc/Grupa-Tauron-zainwestuje-25-mld-zl-w-latach-2025-35-w-wojewodztwie-slaskim-9097260.html",
-      "title": "Grupa Tauron zainwestuje 25 mld zł w latach 2025-35 w województwie śląskim Grupa Tauron w ciągle dekady 2025-35 zainwestuje 25 mld zł w województwie śląskim - podała spółka w komunikacie. Dodano, że lokalizacje, w których obecnie działają konwencjonalne elektrownie, zmienią się w nowoczesne huby, a południe kraju pokryje inteligentna sieć energetyczna.",
-      "content_html": "",
-      "date_published": "2026-03-12T14:12:00+01:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/firmy/grupa-tauron-zainwestuje-25-mld-zl-w-latach-2025-35-w-wojewodztwie-slaskim",
-      "url": "https://biznes.pap.pl/wiadomosci/firmy/grupa-tauron-zainwestuje-25-mld-zl-w-latach-2025-35-w-wojewodztwie-slaskim",
-      "title": "Grupa Tauron zainwestuje 25 mld zł w latach 2025-35 w województwie śląskim",
-      "content_html": "Grupa Tauron w ciągle dekady 2025-35 zainwestuje 25 mld zł w województwie śląskim - podała spółka w komunikacie. Dodano, że lokalizacje, w których obecnie działają konwencjonalne elektrownie, zmienią ",
-      "date_published": "2026-03-12T14:11:00+01:00",
-      "source": "PAP Biznes"
     }
   ]
 }
