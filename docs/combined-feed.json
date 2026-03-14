@@ -5,6 +5,38 @@
   "home_page_url": "https://www.bankier.pl",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/Polskie-lotniska-bija-rekordy-W-2035-r-nawet-100-mln-pasazerow-9095848.html",
+      "url": "https://www.bankier.pl/wiadomosc/Polskie-lotniska-bija-rekordy-W-2035-r-nawet-100-mln-pasazerow-9095848.html",
+      "title": "Polskie lotniska biją rekordy. W 2035 r. nawet 100 mln pasażerów",
+      "content_html": "Zgodnie z prognozami w 2035 r. polskie lotniska obsłużą 100 mln pasażerów - poinformował pełnomocnik rządu ds. CPK Maciej Lasek. Dodał, że z polskich portów w 2025 r. skorzystało ponad 66 mln podróżnych, a zgodnie z przewidywaniami w tym...",
+      "date_published": "2026-03-14T08:30:00+01:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Ocena-z-zachowania-to-przezytek-Szkola-to-nie-tylko-miejsce-do-zdobywania-wiedzy-9095888.html",
+      "url": "https://www.bankier.pl/wiadomosc/Ocena-z-zachowania-to-przezytek-Szkola-to-nie-tylko-miejsce-do-zdobywania-wiedzy-9095888.html",
+      "title": "\"Ocena z zachowania to przeżytek\". Szkoła to nie tylko miejsce do zdobywania wiedzy?",
+      "content_html": "Ocena z zachowania w polskich szkołach to „przeżytek”, choć na razie resort nie planuje zmian w tym zakresie - powiedziała ministra edukacji Barbara Nowacka na spotkaniu z młodzieżą w Gdańsku. Zaznaczyła, że szkoła to nie tylko miejsce...",
+      "date_published": "2026-03-14T08:30:00+01:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Ceny-paliw-moga-oszalec-USA-zbombardowaly-wyspe-Chark-9098337.html",
+      "url": "https://www.bankier.pl/wiadomosc/Ceny-paliw-moga-oszalec-USA-zbombardowaly-wyspe-Chark-9098337.html",
+      "title": "Ceny paliw mogą oszaleć. USA zbombardowały wyspę Chark",
+      "content_html": "Prezydent USA Donald Trump poinformował w piątek, że amerykańskie siły przeprowadziły „jedno z najsilniejszych bombardowań w historii Bliskiego Wschodu”, niszcząc „wszystkie cele militarne” na irańskiej wyspie Chark w Zatoce Perskiej...",
+      "date_published": "2026-03-14T08:15:00+01:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/gry-i-technologie/inwestorzy-tiktoka-wyplaca-administracji-trumpa-prowizje-w-wysokosci",
+      "url": "https://biznes.pap.pl/wiadomosci/gry-i-technologie/inwestorzy-tiktoka-wyplaca-administracji-trumpa-prowizje-w-wysokosci",
+      "title": "Inwestorzy TikToka wypłacą administracji Trumpa prowizję w wysokości 10 mld USD",
+      "content_html": "Nowi inwestorzy TikToka zapłacą administracji prezydenta Donalda Trumpa 10 mld dolarów prowizji. Jak podaje „New York Times”, środki te trafią do Departamentu Skarbu jako wynagrodzenie za udział rządu",
+      "date_published": "2026-03-14T08:10:00+01:00",
+      "source": "PAP Biznes"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Sad-Ostateczny-poddany-nadzwyczajnej-konserwacji-9090931.html",
       "url": "https://www.bankier.pl/wiadomosc/Sad-Ostateczny-poddany-nadzwyczajnej-konserwacji-9090931.html",
       "title": "\"Sąd Ostateczny\" poddany nadzwyczajnej konserwacji",
@@ -93,11 +125,27 @@
       "source": "Bankier.pl"
     },
     {
-      "id": "https://www.bankier.pl/wiadomosc/Ceny-paliw-moga-oszalec-USA-zbombardowaly-wyspe-Chark-9098337.html",
-      "url": "https://www.bankier.pl/wiadomosc/Ceny-paliw-moga-oszalec-USA-zbombardowaly-wyspe-Chark-9098337.html",
-      "title": "Ceny paliw mogą oszaleć. USA zbombardowały wyspę Chark",
-      "content_html": "Prezydent USA Donald Trump poinformował w piątek, że amerykańskie siły przeprowadziły „jedno z najsilniejszych bombardowań w historii Bliskiego Wschodu”, niszcząc „wszystkie cele militarne” na irańskiej wyspie Chark w Zatoce Perskiej...",
-      "date_published": "2026-03-14T00:30:00+01:00",
+      "id": "https://www.bankier.pl/wiadomosc/B-2-Stealth-nad-Iranem-Epicka-Furia-zniszczy-bunkry-atomowe-9098351.html",
+      "url": "https://www.bankier.pl/wiadomosc/B-2-Stealth-nad-Iranem-Epicka-Furia-zniszczy-bunkry-atomowe-9098351.html",
+      "title": "Bombowce B-2 Stealth nad Iranem. „Epicka Furia” zniszczy bunkry atomowe?",
+      "content_html": "Bombowce stealth B-2 zbombardowały w piątek odległe cele w Iranie w ramach trwającej operacji „Epicka Furia”, która rozpoczęła się pod koniec ubiegłego miesiąca, poinformowało Centralne Dowództwo USA (CENTCOM).",
+      "date_published": "2026-03-14T05:16:00+01:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/5-tankowcow-USA-uszkodzonych-w-iranskim-ataku-w-Arabii-Saudyjskiej-9098344.html",
+      "url": "https://www.bankier.pl/wiadomosc/5-tankowcow-USA-uszkodzonych-w-iranskim-ataku-w-Arabii-Saudyjskiej-9098344.html",
+      "title": "5 tankowców USA uszkodzonych w irańskim ataku w Arabii Saudyjskiej",
+      "content_html": "Pięć amerykańskich tankowców powietrznych zostało uszkodzonych podczas irańskiego ataku rakietowego na bazę lotniczą w Arabii Saudyjskiej w minionych dniach - poinformował w piątek dziennik „Wall Street Journal”, powołując się na dwóch...",
+      "date_published": "2026-03-14T03:30:00+01:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Ropa-oplacona-w-juanach-przeplynie-przez-Ormuz-9098335.html",
+      "url": "https://www.bankier.pl/wiadomosc/Ropa-oplacona-w-juanach-przeplynie-przez-Ormuz-9098335.html",
+      "title": "Ropa opłacona w juanach przepłynie przez Ormuz?",
+      "content_html": "Iran rozważa możliwość pozwolenia na przejście przez cieśninę Ormuz ograniczonej liczbie tankowców, jeśli ich załadunek jest rozliczany w chińskich juanach - poinformowała w piątek stacja CNN, powołując się na wysokiego rangą irańskiego...",
+      "date_published": "2026-03-13T23:53:00+01:00",
       "source": "Bankier.pl"
     },
     {
@@ -159,8 +207,8 @@
     {
       "id": "https://www.bankier.pl/wiadomosc/Sad-w-USA-zablokowal-sledztwo-przeciwko-szefowi-Fed-Jerome-owi-Powellowi-9098296.html",
       "url": "https://www.bankier.pl/wiadomosc/Sad-w-USA-zablokowal-sledztwo-przeciwko-szefowi-Fed-Jerome-owi-Powellowi-9098296.html",
-      "title": "Sąd w USA zablokował śledztwo przeciwko szefowi Fed Jerome'owi Powellowi",
-      "content_html": "Sędzia federalny w Waszyngtonie zablokował wystawione przez prokuraturę wezwania kierownictwa Rezerwy Federalnej do złożenia zeznań w śledztwie przeciwko jej prezesowi Jerome'owi Powellowi. Sędzia zarzucił administracji Donalda Trumpa motywację...",
+      "title": "Sąd w USA zablokował śledztwo przeciwko szefowi Fed Jerome'owi Powellowi Sędzia federalny w Waszyngtonie zablokował wystawione przez prokuraturę wezwania kierownictwa Rezerwy Federalnej do złożenia zeznań w śledztwie przeciwko jej prezesowi Jerome'owi Powellowi. Sędzia zarzucił administracji Donalda Trumpa motywację polityczną i brak dowodów.",
+      "content_html": "",
       "date_published": "2026-03-13T21:10:00+01:00",
       "source": "Bankier.pl"
     },
@@ -179,6 +227,22 @@
       "content_html": "Piątkowa sesja na Wall Street zakończyła się umiarkowanymi spadkami głównych indeksów, a inwestorzy nadal z niepokojem obserwowali rosnące ceny ropy naftowej. To już trzeci spadkowy tydzień dla ameryk",
       "date_published": "2026-03-13T21:07:00+01:00",
       "source": "PAP Biznes"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Rzadzenie-bez-nowych-ustaw-Tusk-ujawnia-plan-dzialania-9098293.html",
+      "url": "https://www.bankier.pl/wiadomosc/Rzadzenie-bez-nowych-ustaw-Tusk-ujawnia-plan-dzialania-9098293.html",
+      "title": "Rządzenie bez nowych ustaw? Tusk ujawnia plan działania",
+      "content_html": "Jeżeli trzeba będzie rządzić bez nowych ustaw, to będzie trudniej, ale wezmę to na klatę - powiedział premier Donald Tusk, odnosząc się do ustaw zawetowanych przez prezydenta Karola Nawrockiego. Te ważne ustawy są zawsze obiektem jego agresywnego...",
+      "date_published": "2026-03-13T21:04:00+01:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Szef-Hezbollahu-Jestesmy-przygotowani-na-dluga-konfrontacje-z-Izraelem-9098291.html",
+      "url": "https://www.bankier.pl/wiadomosc/Szef-Hezbollahu-Jestesmy-przygotowani-na-dluga-konfrontacje-z-Izraelem-9098291.html",
+      "title": "Szef Hezbollahu: Jesteśmy przygotowani na długą konfrontację z Izraelem",
+      "content_html": "Przywódca Hezbollahu Naim Kasem ogłosił w piątek, że ta libańska grupa zbrojna jest przygotowana na długą konfrontację z Izraelem i nie pozwoli mu się zniszczyć. Dodał, że nie boi się „gróźb wroga”. Izraelski minister obrony Israel...",
+      "date_published": "2026-03-13T21:00:00+01:00",
+      "source": "Bankier.pl"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Gaz-z-Cypru-dla-Europy-Padla-konkretna-data-9098276.html",
@@ -215,8 +279,16 @@
     {
       "id": "https://www.bankier.pl/wiadomosc/NWZ-Grupy-Azoty-zdecydowalo-o-nowej-emisji-do-33-726-465-serii-E-skierowanej-do-Skarbu-Panstwa-9098121.html",
       "url": "https://www.bankier.pl/wiadomosc/NWZ-Grupy-Azoty-zdecydowalo-o-nowej-emisji-do-33-726-465-serii-E-skierowanej-do-Skarbu-Panstwa-9098121.html",
-      "title": "NWZ Grupy Azoty zdecydowało o nowej emisji do 33.726.465 serii E skierowanej do Skarbu Państwa NWZ Grupy Azoty zdecydowało o nowej emisji do 33.726.465 akcji serii E o wartości nominalnej 5 zł za papier - podała spółka w komunikacie po walnym. W środę Skarb Państwa zgłosił projekt uchwały NWZ Grupy Azoty w sprawie podwyższenia kapitału zakładowego spółki poprzez emisję akcji serii E z wyłączeniem w całości prawa poboru.",
-      "content_html": "",
+      "title": "NWZ Grupy Azoty zdecydowało o nowej emisji do 33.726.465 serii E skierowanej do Skarbu Państwa",
+      "content_html": "NWZ Grupy Azoty zdecydowało o nowej emisji do 33.726.465 akcji serii E o wartości nominalnej 5 zł za papier - podała spółka w komunikacie po walnym. W środę Skarb Państwa zgłosił projekt uchwały NWZ Grupy Azoty w sprawie podwyższenia kapitału...",
+      "date_published": "2026-03-13T19:29:00+01:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Internet-smieje-sie-z-Marco-Rubio-w-za-duzych-butach-To-niecodzienny-prezent-od-samego-Trumpa-9098261.html",
+      "url": "https://www.bankier.pl/wiadomosc/Internet-smieje-sie-z-Marco-Rubio-w-za-duzych-butach-To-niecodzienny-prezent-od-samego-Trumpa-9098261.html",
+      "title": "Internet śmieje się z Marco Rubio w... za dużych butach. To niecodzienny prezent od samego Trumpa",
+      "content_html": "Prezydent USA Donald Trump przyznał w piątek, że daje w prezencie członkom swojej administracji pary eleganckich butów do garnituru. Podkreślił, że nie chce, aby jego współpracownicy chodzili w sportowych butach.",
       "date_published": "2026-03-13T19:29:00+01:00",
       "source": "Bankier.pl"
     },
@@ -229,12 +301,36 @@
       "source": "PAP Biznes"
     },
     {
+      "id": "https://www.bankier.pl/wiadomosc/Rzad-omija-weto-prezydenta-Uchwala-przyjeta-ministrowie-moga-zawierac-umowy-9097935.html",
+      "url": "https://www.bankier.pl/wiadomosc/Rzad-omija-weto-prezydenta-Uchwala-przyjeta-ministrowie-moga-zawierac-umowy-9097935.html",
+      "title": "Rząd omija weto prezydenta. Uchwała przyjęta, ministrowie mogą zawierać umowy",
+      "content_html": "Rada Ministrów przyjęła uchwałę w sprawie Programu Polska Zbrojna - podano w komunikacie po piątkowym posiedzeniu rządu. Pożyczka z unijnego programu SAFE ma zostać zaciągnięta przez Bank Gospodarstwa Krajowego na rzecz Funduszu Wsparcia Sił...",
+      "date_published": "2026-03-13T19:22:00+01:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Nawrocki-Decyzje-dotyczace-polskiego-bezpieczenstwa-sa-decyzjami-zwierzchnika-sil-zbrojnych-a-nie-Brukseli-9098255.html",
+      "url": "https://www.bankier.pl/wiadomosc/Nawrocki-Decyzje-dotyczace-polskiego-bezpieczenstwa-sa-decyzjami-zwierzchnika-sil-zbrojnych-a-nie-Brukseli-9098255.html",
+      "title": "Nawrocki: Decyzje dotyczące polskiego bezpieczeństwa są decyzjami zwierzchnika sił zbrojnych, a nie Brukseli",
+      "content_html": "Decyzje dotyczące polskiej suwerenności, bezpieczeństwa czy sił zbrojnych są decyzjami zwierzchnika sił zbrojnych, a nie Brukseli - powiedział prezydent Karol Nawrocki podczas spotkania z sympatykami w Chmielniku (woj. świętokrzyskie). Są granice...",
+      "date_published": "2026-03-13T19:08:00+01:00",
+      "source": "Bankier.pl"
+    },
+    {
       "id": "https://biznes.pap.pl/wiadomosci/firmy/nwz-grupy-azoty-zdecydowalo-o-nowej-emisji-do-33726465-akcji-serii-e-skierowanej",
       "url": "https://biznes.pap.pl/wiadomosci/firmy/nwz-grupy-azoty-zdecydowalo-o-nowej-emisji-do-33726465-akcji-serii-e-skierowanej",
       "title": "NWZ Grupy Azoty zdecydowało o nowej emisji do 33.726.465 akcji serii E skierowanej do Skarbu Państwa (opis)",
       "content_html": "NWZ Grupy Azoty zdecydowało o nowej emisji do 33.726.465 akcji serii E o wartości nominalnej 5 zł za papier - podała spółka w komunikacie po walnym. W środę Skarb Państwa zgłosił projekt uchwały NWZ G",
       "date_published": "2026-03-13T19:05:00+01:00",
       "source": "PAP Biznes"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Kolejne-weto-prezydenta-Tym-razem-chodzi-o-reforme-procedury-karnej-9098214.html",
+      "url": "https://www.bankier.pl/wiadomosc/Kolejne-weto-prezydenta-Tym-razem-chodzi-o-reforme-procedury-karnej-9098214.html",
+      "title": "Kolejne weto prezydenta. Tym razem chodzi o reformę procedury karnej",
+      "content_html": "Prezydent Karol Nawrocki podjął decyzję o zawetowaniu nowelizacji Kodeksu postępowania karnego z 27 lutego br. - poinformował rzecznik prezydenta Rafał Leśkiewicz. To obszerna reforma procedury karnej dotycząca m.in. zakazu korzystania z nielegalnych...",
+      "date_published": "2026-03-13T19:02:00+01:00",
+      "source": "Bankier.pl"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Merz-UE-chce-wspolpracy-energetycznej-z-Norwegia-i-Kanada-9098236.html",
@@ -314,14 +410,6 @@
       "title": "UE chce współpracy energetycznej z Norwegią i Kanadą - Merz",
       "content_html": "Unia Europejska chce zacieśnić współpracę energetyczną z Norwegią i Kanadą – zadeklarował w piątek kanclerz Niemiec Friedrich Merz po spotkaniu z premierem Norwegii Jonasem Gahrem Stoere i premierem K",
       "date_published": "2026-03-13T18:13:00+01:00",
-      "source": "PAP Biznes"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/rynki/dzien-na-rynkach-gieldy-w-europie-zakonczyly-sesje-na-minusach",
-      "url": "https://biznes.pap.pl/wiadomosci/rynki/dzien-na-rynkach-gieldy-w-europie-zakonczyly-sesje-na-minusach",
-      "title": "DZIEŃ NA RYNKACH: Giełdy w Europie zakończyły sesję na minusach",
-      "content_html": "W piątek europejskie rynki akcji zakończyły sesję na minusach. Inwestorzy analizowali trwający konflikt na Bliskim Wschodzie i jego długofalowy wpływ na wzrost gospodarczy i inflację. W centrum uwagi ",
-      "date_published": "2026-03-13T18:10:00+01:00",
       "source": "PAP Biznes"
     },
     {
@@ -523,6 +611,14 @@
       "content_html": "Czy Twój stary bank co miesiąc każe Ci płacić za prowadzenie rachunku, podstawowe przelewy do ZUS czy obsługę karty firmowej? Jeśli tak, to najwyższy czas na zmianę banku. Sprawdź, gdzie zyskasz najwięcej i zredukujesz koszty firmowe do zera...",
       "date_published": "2026-03-13T14:40:00+01:00",
       "source": "Bankier.pl"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/rynki/po-otwarciu-sesji-dji-rosnie-o-069-proc-sp-500-zwyzkuje-056-proc",
+      "url": "https://biznes.pap.pl/wiadomosci/rynki/po-otwarciu-sesji-dji-rosnie-o-069-proc-sp-500-zwyzkuje-056-proc",
+      "title": "Po otwarciu sesji DJI rośnie o 0,69 proc., a S&P 500 zwyżkuje 0,56 proc.",
+      "content_html": "Po otwarciu sesji w USA Dow Jones Industrial rośnie o 0,69 proc. do 47.000 pkt., S&P500 zwyżkuje 0,56 proc. i wynosi 6.709 pkt.",
+      "date_published": "2026-03-13T14:32:00+01:00",
+      "source": "PAP Biznes"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Hegseth-Chamenei-jest-ranny-i-prawdopodobnie-oszpecony-9098040.html",
@@ -933,35 +1029,11 @@
       "source": "PAP Biznes"
     },
     {
-      "id": "https://www.bankier.pl/wiadomosc/Trybunal-Stanu-dla-Tuska-Blaszczak-grozi-jesli-nielegalnie-wezmie-pozyczki-9097852.html",
-      "url": "https://www.bankier.pl/wiadomosc/Trybunal-Stanu-dla-Tuska-Blaszczak-grozi-jesli-nielegalnie-wezmie-pozyczki-9097852.html",
-      "title": "Trybunał Stanu dla Tuska? Błaszczak grozi: jeśli \"nielegalnie weźmie pożyczki”",
-      "content_html": "Jeśli premier Donald Tusk „nielegalnie weźmie pożyczki”, będzie to podstawą do postawienia go przed Trybunał Stanu po zmianie władzy - tak szef klubu PiS, b. szef MON Mariusz Błaszczak odniósł się do tego, że po decyzji prezydenta o wecie...",
-      "date_published": "2026-03-13T10:45:00+01:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Nadmiernych-moce-produkcyjne-Pekinu-Wladze-groza-USA-odwetem-za-dochodzenie-9097777.html",
-      "url": "https://www.bankier.pl/wiadomosc/Nadmiernych-moce-produkcyjne-Pekinu-Wladze-groza-USA-odwetem-za-dochodzenie-9097777.html",
-      "title": "Nadmiernych moce produkcyjne Pekinu? Władze grożą USA odwetem za dochodzenie",
-      "content_html": "Chińskie ministerstwo handlu skrytykowało w piątek decyzję USA o wszczęciu dochodzenia handlowego w sprawie nadmiernych mocy produkcyjnych Pekinu. Władze ChRL uznały działania Waszyngtonu za „typowy unilateralizm” i zapowiedziały gotowość...",
-      "date_published": "2026-03-13T10:42:00+01:00",
-      "source": "Bankier.pl"
-    },
-    {
       "id": "https://www.bankier.pl/wiadomosc/Inflacja-w-lutym-2026-byla-najnizsza-od-blisko-2-lat-Ale-marcowa-bedzie-znacznie-wyzsza-9097821.html",
       "url": "https://www.bankier.pl/wiadomosc/Inflacja-w-lutym-2026-byla-najnizsza-od-blisko-2-lat-Ale-marcowa-bedzie-znacznie-wyzsza-9097821.html",
-      "title": "Lutowa inflacja najniższa od blisko 2 lat. Ale marcowa będzie znacznie wyższa",
-      "content_html": "W skali roku ceny dóbr konsumpcyjnych rosły najwolniej od marca 2024 roku. Niestety wiemy już, że marcowa inflacja będzie wyraźnie wyższa od lutowej.",
+      "title": "Lutowa inflacja najniższa od blisko 2 lat. Ale marcowa będzie znacznie wyższa W skali roku ceny dóbr konsumpcyjnych rosły najwolniej od marca 2024 roku. Niestety wiemy już, że marcowa inflacja będzie wyraźnie wyższa od lutowej.",
+      "content_html": "",
       "date_published": "2026-03-13T10:39:00+01:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Turysta-w-kamperze-czy-szpieg-Grecki-wywiad-przesluchuje-obywatela-Polski-9097785.html",
-      "url": "https://www.bankier.pl/wiadomosc/Turysta-w-kamperze-czy-szpieg-Grecki-wywiad-przesluchuje-obywatela-Polski-9097785.html",
-      "title": "Turysta w kamperze czy szpieg? Grecki wywiad przesłuchuje obywatela Polski",
-      "content_html": "Greckie władze zatrzymały mężczyznę w pobliżu strategicznie ważnych obiektów marynarki wojennej w zatoce Suda na Krecie - poinformowała w piątek agencja AFP. Mężczyzna legitymujący się polskim paszportem jest podejrzewany o szpiegostwo -...",
-      "date_published": "2026-03-13T10:37:00+01:00",
       "source": "Bankier.pl"
     },
     {
@@ -979,22 +1051,6 @@
       "content_html": "Biorąc pod uwagę wydarzenia na Bliskim Wschodzie, lutowy odczyt inflacji na poziomie 2,1 proc. rdr może być najniższym w tym roku - oceniają analitycy. Ich zdaniem w marcu ceny paliw mogą popchnąć inf",
       "date_published": "2026-03-13T10:30:00+01:00",
       "source": "PAP Biznes"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/SAFE-Bylismy-na-to-przygotowani-Tusk-Historia-oceni-decyzje-prezydenta-9097804.html",
-      "url": "https://www.bankier.pl/wiadomosc/SAFE-Bylismy-na-to-przygotowani-Tusk-Historia-oceni-decyzje-prezydenta-9097804.html",
-      "title": "\"Byliśmy na to przygotowani\". Tusk: Historia oceni decyzję prezydenta, a weto nas nie zatrzyma",
-      "content_html": "Premier Donald Tusk poinformował w piątek, że rząd przyjmie uchwałę na podstawie, której zostanie zrealizowany program Polska Zbrojna. Będzie trudniej, ale zrobimy; weto prezydenta pod ustawą wdrażającą program SAFE nas nie zatrzyma - oświadczył...",
-      "date_published": "2026-03-13T10:29:00+01:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/USA-graja-na-podzial-starego-kontynentu-Kallas-Trump-chce-nas-podzielic-9097838.html",
-      "url": "https://www.bankier.pl/wiadomosc/USA-graja-na-podzial-starego-kontynentu-Kallas-Trump-chce-nas-podzielic-9097838.html",
-      "title": "USA grają na podział starego kontynentu. Kallas: Trump chce nas podzielić",
-      "content_html": "Administracja prezydenta USA Donalda Trumpa chce podzielić Unię Europejską i stosuje w tym celu taktyki używane przez przeciwników Wspólnoty - oceniła w opublikowanym w piątek wywiadzie dla dziennika „Financial Times” szefowa unijnej dyplomacji...",
-      "date_published": "2026-03-13T10:25:00+01:00",
-      "source": "Bankier.pl"
     },
     {
       "id": "https://biznes.pap.pl/wiadomosci/gospodarka/inflacja-cpi-w-lutym-rdr-21-proc-i-mdm-03-proc-w-styczniu-po-rewizji-rdr-21",
@@ -1019,30 +1075,6 @@
       "content_html": "Nadwyżka w obrotach towarowych handlu zagranicznego po styczniu wyniosła 0,7 mld euro - podał Główny Urząd Statystyczny.",
       "date_published": "2026-03-13T10:00:00+01:00",
       "source": "PAP Biznes"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Droga-ropa-uderzyla-w-zlotego-Dolar-mocno-zyskuje-a-kurs-euro-rosnie-9097801.html",
-      "url": "https://www.bankier.pl/wiadomosc/Droga-ropa-uderzyla-w-zlotego-Dolar-mocno-zyskuje-a-kurs-euro-rosnie-9097801.html",
-      "title": "Droga ropa uderzyła w złotego. Dolar mocno zyskuje, a kurs euro rośnie",
-      "content_html": "Powrót notowań ropy naftowej do trzycyfrowych poziomów negatywnie odbił się na kondycji polskiego złotego. Na niekorzyść naszej waluty działa też umacniający się dolar.",
-      "date_published": "2026-03-13T09:55:00+01:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/IKEA-przyspiesza-ekspansje-Nowy-format-sklepow-trafi-do-kolejnych-miast-9097767.html",
-      "url": "https://www.bankier.pl/wiadomosc/IKEA-przyspiesza-ekspansje-Nowy-format-sklepow-trafi-do-kolejnych-miast-9097767.html",
-      "title": "IKEA stawia na mniejszy format. W Polsce powstanie kolejny sklep kompaktowy",
-      "content_html": "Operator sklepów IKEA, Ingka Group, zapowiada otwarcie 20 nowych, mniejszych sklepów w ciągu najbliższych sześciu miesięcy w Europie i Ameryce Północnej. Firma chce być bliżej klientów z mniejszych miast i przedmieść, rozwijając jednocześnie...",
-      "date_published": "2026-03-13T09:50:00+01:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Ceny-miedzi-w-dol-Realizacja-zyskow-w-cieniu-wojny-na-Bliskim-Wschodzie-9097808.html",
-      "url": "https://www.bankier.pl/wiadomosc/Ceny-miedzi-w-dol-Realizacja-zyskow-w-cieniu-wojny-na-Bliskim-Wschodzie-9097808.html",
-      "title": "Ceny miedzi w dół. Realizacja zysków w cieniu wojny na Bliskim Wschodzie",
-      "content_html": "Cena miedzi w dostawach 3-miesięcznych na Londyńskiej Giełdzie Metali (LME) spada o 1,03 proc. do 12 848 USD za tonę. Analitycy wskazują, że na rynkach odbywa się realizacja zysków wobec niepewności z powodu wojny na Bliskim Wschodzie.",
-      "date_published": "2026-03-13T09:40:00+01:00",
-      "source": "Bankier.pl"
     },
     {
       "id": "https://biznes.pap.pl/wiadomosci/rynki/ceny-miedzi-na-lme-spadaja-inwestorzy-realizuja-zyski",
@@ -1098,70 +1130,6 @@
       "title": "Odsetek \"byków\" na GPW spadł do 29,5 proc., spadków oczekuje 41 proc. - INI",
       "content_html": "Odsetek inwestorów spodziewających się w ciągu sześciu miesięcy trendu wzrostowego na GPW spadł o 13,9 pkt. proc. i wyniósł 29,5 proc. Odsetek respondentów oczekujących trendu spadkowego wzrósł o 10,8",
       "date_published": "2026-03-13T09:02:00+01:00",
-      "source": "PAP Biznes"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Oferta-ZUE-o-wartosci-780-8-mln-zl-netto-najkorzystniejsza-w-przetargu-PKP-PLK-9097774.html",
-      "url": "https://www.bankier.pl/wiadomosc/Oferta-ZUE-o-wartosci-780-8-mln-zl-netto-najkorzystniejsza-w-przetargu-PKP-PLK-9097774.html",
-      "title": "Oferta ZUE o wartości 780,8 mln zł netto najkorzystniejsza w przetargu PKP PLK Oferta ZUE o wartości 780,8 mln zł netto została uznana za najkorzystniejszą w przetargu PKP PLK na opracowanie projektu wykonawczego i wykonanie robót budowlanych - poinformowała spółka w komunikacie.",
-      "content_html": "",
-      "date_published": "2026-03-13T08:50:00+01:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/firmy/oferta-zue-o-wartosci-7808-mln-zl-netto-najkorzystniejsza-w-przetargu-pkp-plk",
-      "url": "https://biznes.pap.pl/wiadomosci/firmy/oferta-zue-o-wartosci-7808-mln-zl-netto-najkorzystniejsza-w-przetargu-pkp-plk",
-      "title": "Oferta ZUE o wartości 780,8 mln zł netto najkorzystniejsza w przetargu PKP PLK",
-      "content_html": "Oferta ZUE o wartości 780,8 mln zł netto została uznana za najkorzystniejszą w przetargu PKP PLK na opracowanie projektu wykonawczego i wykonanie robót budowlanych - poinformowała spółka w komunikacie",
-      "date_published": "2026-03-13T08:49:00+01:00",
-      "source": "PAP Biznes"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/gospodarka/mf-bedzie-dostosowywalo-podaz-obligacji-do-warunkow-rynkowych-domanski",
-      "url": "https://biznes.pap.pl/wiadomosci/gospodarka/mf-bedzie-dostosowywalo-podaz-obligacji-do-warunkow-rynkowych-domanski",
-      "title": "MF będzie dostosowywało podaż obligacji do warunków rynkowych - Domański",
-      "content_html": "MF będzie dostosowywało podaż obligacji do warunków rynkowych - poinformował w Programie I Polskiego Radia minister finansów i gospodarki Andrzej Domański.",
-      "date_published": "2026-03-13T08:36:00+01:00",
-      "source": "PAP Biznes"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/firmy/dzien-na-gpw-mozliwa-kontynuacja-spadkow-0",
-      "url": "https://biznes.pap.pl/wiadomosci/firmy/dzien-na-gpw-mozliwa-kontynuacja-spadkow-0",
-      "title": "DZIEŃ NA GPW: Możliwa kontynuacja spadków",
-      "content_html": "Kontrakty na zachodnie indeksy sugerują, że początek piątkowej sesji na GPW może być lekko spadkowy. Rynki nadal będą śledzić doniesienia z Bliskiego Wschodu i notowania cen ropy. Zdaniem analityków, ",
-      "date_published": "2026-03-13T08:31:00+01:00",
-      "source": "PAP Biznes"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/rynki/dzien-na-rynkach-futures-w-europie-spadaja-indeksy-w-azji-na-minusach",
-      "url": "https://biznes.pap.pl/wiadomosci/rynki/dzien-na-rynkach-futures-w-europie-spadaja-indeksy-w-azji-na-minusach",
-      "title": "DZIEŃ NA RYNKACH: Futures w Europie spadają; indeksy w Azji na minusach",
-      "content_html": "Kontrakty w Europie zniżkują, podobnie jak indeksy w Azji. Na rynkach utrzymują się obawy, że wojna na Bliskim Wschodzie wpłynie na wzrost inflacji i perspektywy dla polityki monetarnej największych b",
-      "date_published": "2026-03-13T08:29:00+01:00",
-      "source": "PAP Biznes"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/DM-BOS-podniosl-wycene-akcji-Orlenu-do-144-zl-nadal-zaleca-ich-kupno-9097759.html",
-      "url": "https://www.bankier.pl/wiadomosc/DM-BOS-podniosl-wycene-akcji-Orlenu-do-144-zl-nadal-zaleca-ich-kupno-9097759.html",
-      "title": "DM BOŚ podniósł wycenę akcji Orlenu do 144 zł, nadal zaleca ich kupno Analitycy Domu Maklerskiego BOŚ w raporcie z 5 marca podnieśli cenę docelową akcji Orlenu w horyzoncie 12 miesięcy do 144 zł ze 100 zł wcześniej i podtrzymali dla nich rekomendację \"kupuj\".",
-      "content_html": "",
-      "date_published": "2026-03-13T08:18:00+01:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/rynki/najwazniejsze-indeksy-gieldowe-w-azji-680",
-      "url": "https://biznes.pap.pl/wiadomosci/rynki/najwazniejsze-indeksy-gieldowe-w-azji-680",
-      "title": "Najważniejsze indeksy giełdowe w Azji",
-      "content_html": "Poniżej aktualne indeksy wybranych giełd w Azji:",
-      "date_published": "2026-03-13T08:17:00+01:00",
-      "source": "PAP Biznes"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/firmy/dm-bos-podniosl-wycene-akcji-orlenu-do-144-zl-nadal-zaleca-ich-kupno",
-      "url": "https://biznes.pap.pl/wiadomosci/firmy/dm-bos-podniosl-wycene-akcji-orlenu-do-144-zl-nadal-zaleca-ich-kupno",
-      "title": "DM BOŚ podniósł wycenę akcji Orlenu do 144 zł, nadal zaleca ich kupno",
-      "content_html": "Analitycy Domu Maklerskiego BOŚ w raporcie z 5 marca podnieśli cenę docelową akcji Orlenu w horyzoncie 12 miesięcy do 144 zł ze 100 zł wcześniej i podtrzymali dla nich rekomendację \"kupuj\".",
-      "date_published": "2026-03-13T08:17:00+01:00",
       "source": "PAP Biznes"
     }
   ]
