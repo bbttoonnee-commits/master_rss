@@ -5,6 +5,30 @@
   "home_page_url": "https://www.bankier.pl",
   "items": [
     {
+      "id": "https://biznes.pap.pl/wiadomosci/ekonomia-biznes-i-finanse/skrot-wiadomosci-sobota-niedziela-14-15-marca-0",
+      "url": "https://biznes.pap.pl/wiadomosci/ekonomia-biznes-i-finanse/skrot-wiadomosci-sobota-niedziela-14-15-marca-0",
+      "title": "Skrót wiadomości: sobota-niedziela, 14-15 marca",
+      "content_html": "Przegląd najważniejszych wiadomości gospodarczych, krajowych i ze świata z soboty i niedzieli, 14-15 marca.",
+      "date_published": "2026-03-15T19:31:00+01:00",
+      "source": "PAP Biznes"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Rynek-polprzewodnikow-oszalal-Branza-zbliza-sie-do-biliona-dolarow-9094134.html",
+      "url": "https://www.bankier.pl/wiadomosc/Rynek-polprzewodnikow-oszalal-Branza-zbliza-sie-do-biliona-dolarow-9094134.html",
+      "title": "Rynek półprzewodników oszalał. Branża zbliża się do biliona dolarów Globalny rynek półprzewodników w 2026 roku zbliży się do 1 bln USD, po wzroście do 795,6 mld USD w 2025 roku - wynika z prognoz organizacji branżowej World Semiconductor Trade Statistics (WSTS).",
+      "content_html": "",
+      "date_published": "2026-03-15T19:30:00+01:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Port-Gdansk-umocnil-pozycje-wsrod-najwiekszych-portow-Europy-9098319.html",
+      "url": "https://www.bankier.pl/wiadomosc/Port-Gdansk-umocnil-pozycje-wsrod-najwiekszych-portow-Europy-9098319.html",
+      "title": "Port Gdańsk umocnił pozycję wśród największych portów Europy",
+      "content_html": "Port Gdańsk awansował pod względem przeładunków na ósme miejsce na kontynencie i szóste w Unii Europejskiej, wyprzedzając m.in. porty w Walencji, Amsterdamie i Konstancy - przekazała rzeczniczka spółki Regina Stawnicka. W 2025 roku w gdańskim...",
+      "date_published": "2026-03-15T19:00:00+01:00",
+      "source": "Bankier.pl"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Dziesiatki-tysiecy-osob-na-Marszu-Pokoju-premiera-Orbana-Padly-ostre-slowa-o-UE-9098591.html",
       "url": "https://www.bankier.pl/wiadomosc/Dziesiatki-tysiecy-osob-na-Marszu-Pokoju-premiera-Orbana-Padly-ostre-slowa-o-UE-9098591.html",
       "title": "Dziesiątki tysięcy osób na „Marszu Pokoju” premiera Orbana. Padły ostre słowa o UE",
@@ -394,22 +418,6 @@
       "title": "Część wpływowych duchownych kwestionuje przywódczą rolę Modżtaby Chameneiego",
       "content_html": "Stan fizyczny nowego najwyższego przywódcy Iranu, Modżtaby Chameneiego, jego niezdolność do utrzymywania regularnej komunikacji z prezydentem Masudem Pezeszkianem i ważnymi urzędnikami, wywołały krytykę i opór wśród niektórych wysokich rangą...",
       "date_published": "2026-03-14T20:05:00+01:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Starlink-na-czarnym-rynku-Tak-Iranczycy-omijaja-blokade-internetu-9096133.html",
-      "url": "https://www.bankier.pl/wiadomosc/Starlink-na-czarnym-rynku-Tak-Iranczycy-omijaja-blokade-internetu-9096133.html",
-      "title": "Starlink na czarnym rynku. Tak Irańczycy omijają blokadę internetu",
-      "content_html": "Irańczycy odcięci od dwóch tygodni od dostępu do internetu zostali zmuszeni do korzystania z nieoficjalnych i bardzo drogich usług, aby utrzymać kontakt z rodziną lub uzyskać dostęp do podstawowych informacji.",
-      "date_published": "2026-03-14T19:12:00+01:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/UE-przedluzyla-sankcje-na-Rosje-do-wrzesnia-Wegry-i-Slowacja-bez-sprzeciwu-9098464.html",
-      "url": "https://www.bankier.pl/wiadomosc/UE-przedluzyla-sankcje-na-Rosje-do-wrzesnia-Wegry-i-Slowacja-bez-sprzeciwu-9098464.html",
-      "title": "UE przedłużyła sankcje na Rosję do września. Węgry i Słowacja bez sprzeciwu",
-      "content_html": "Wszystkie 27 państw członkowskich w sobotę po południu zgodziły się przedłużyć sankcje indywidualne na Rosję o kolejne sześć miesięcy, czyli do połowy września tego roku. Przedłużenia sankcji, wbrew zapowiedziom, nie zablokowały Węgry...",
-      "date_published": "2026-03-14T18:35:00+01:00",
       "source": "Bankier.pl"
     }
   ]
