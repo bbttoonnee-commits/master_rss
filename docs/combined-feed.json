@@ -5,6 +5,14 @@
   "home_page_url": "https://www.bankier.pl",
   "items": [
     {
+      "id": "https://biznes.pap.pl/wiadomosci/firmy/remontowa-shipbuilding-dostarczyla-kolejny-prom-dla-norweskiego-armatora",
+      "url": "https://biznes.pap.pl/wiadomosci/firmy/remontowa-shipbuilding-dostarczyla-kolejny-prom-dla-norweskiego-armatora",
+      "title": "Remontowa Shipbuilding dostarczyła kolejny prom dla norweskiego armatora",
+      "content_html": "Gdańska stocznia Remontowa Shipbuilding zbudowała prom pasażersko-samochodowy o napędzie hybrydowym dla jednej z największych firm żeglugowych w Norwegii. Ma być przeznaczony do obsługi żeglugi w norw",
+      "date_published": "2026-03-18T23:24:00+01:00",
+      "source": "PAP Biznes"
+    },
+    {
       "id": "https://biznes.pap.pl/wiadomosci/gry-i-technologie/przychody-micronu-mocno-w-gore-popyt-na-pamiec-gwaltownie-rosnie",
       "url": "https://biznes.pap.pl/wiadomosci/gry-i-technologie/przychody-micronu-mocno-w-gore-popyt-na-pamiec-gwaltownie-rosnie",
       "title": "Przychody Micronu mocno w górę, popyt na pamięć gwałtownie rośnie",
@@ -189,14 +197,6 @@
       "source": "Bankier.pl"
     },
     {
-      "id": "https://biznes.pap.pl/wiadomosci/firmy/acrx-investments-zmniejszyl-udzial-w-akcjonariacie-pure-biologics-do-ponizej-5",
-      "url": "https://biznes.pap.pl/wiadomosci/firmy/acrx-investments-zmniejszyl-udzial-w-akcjonariacie-pure-biologics-do-ponizej-5",
-      "title": "ACRX Investments zmniejszył udział w akcjonariacie Pure Biologics do poniżej 5 proc.",
-      "content_html": "ACRX Investments, akcjonariusz spółki Pure Biologics, zmniejszył udział w akcjonariacie spółki do 4,98 proc. - podał Pure Biologics w komunikacie.",
-      "date_published": "2026-03-18T18:50:00+01:00",
-      "source": "PAP Biznes"
-    },
-    {
       "id": "https://www.bankier.pl/wiadomosc/Chiny-nie-planuja-inwazji-na-Tajwan-w-2027-r-a-Rosja-nie-chce-konca-wojny-9100466.html",
       "url": "https://www.bankier.pl/wiadomosc/Chiny-nie-planuja-inwazji-na-Tajwan-w-2027-r-a-Rosja-nie-chce-konca-wojny-9100466.html",
       "title": "\"Chiny nie planują inwazji na Tajwan w 2027 r., a Rosja nie chce końca wojny\"",
@@ -355,6 +355,14 @@
       "content_html": "Reforma Państwowej Inspekcji Pracy jest największą zmianą systemową tej instytucji od 20 lat – powiedziała w środę ministra pracy Agnieszka Dziemianowicz-Bąk. Zadeklarowała otwartość na rozmowy z Kancelarią Prezydenta w tej sprawie, podkreślając...",
       "date_published": "2026-03-18T16:14:00+01:00",
       "source": "Bankier.pl"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/firmy/santander-bp-chce-skupic-do-826-tys-akcji-wlasnych-na-potrzeby-programu",
+      "url": "https://biznes.pap.pl/wiadomosci/firmy/santander-bp-chce-skupic-do-826-tys-akcji-wlasnych-na-potrzeby-programu",
+      "title": "Santander BP chce skupić do 826 tys. akcji własnych na potrzeby programu motywacyjnego",
+      "content_html": "Santander Bank Polska, w ramach realizacji \"Programu Motywacyjnego VII\", planuje przeznaczyć na skup do 826 tys. akcji własnych w 2027 r. nie więcej niż 220,54 mln zł - poinformował bank w komunikacie",
+      "date_published": "2026-03-18T16:13:00+01:00",
+      "source": "PAP Biznes"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Przepustowosc-Naftoportu-wzrosnie-o-20-procent-Polska-zabezpiecza-sie-przed-kryzysem-9100344.html",
@@ -697,14 +705,6 @@
       "url": "https://biznes.pap.pl/wiadomosci/gospodarka/pasywna-konsolidacja-fiskalna-zbyt-malo-zatrzymac-wzrost-dlugu-dudek-rf",
       "title": "Pasywna konsolidacja fiskalna to zbyt mało, by zatrzymać wzrost długu – Dudek, RF (wywiad)",
       "content_html": "Pasywna konsolidacja fiskalna poprzez zamrożenie progów podatkowych i wyrastanie z nominalnych wydatków to zbyt mało, by zatrzymać wzrost długu – ocenia przewodniczący Rady Fiskalnej, Sławomir Dudek. ",
-      "date_published": "2026-03-18T12:25:00+01:00",
-      "source": "PAP Biznes"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/firmy/ge-aerospace-zainwestuje-ponad-110-mln-euro-min-w-polsce",
-      "url": "https://biznes.pap.pl/wiadomosci/firmy/ge-aerospace-zainwestuje-ponad-110-mln-euro-min-w-polsce",
-      "title": "GE Aerospace zainwestuje ponad 110 mln euro, m.in. w Polsce",
-      "content_html": "GE Aerospace ogłosiło plany inwestycji przekraczającej 110 mln euro w europejskie zakłady produkcyjne w 2026 roku - podała spółka w komunikacie prasowym. Inwestycje zostaną zrealizowane w pięciu kraja",
       "date_published": "2026-03-18T12:25:00+01:00",
       "source": "PAP Biznes"
     },
