@@ -5,11 +5,35 @@
   "home_page_url": "https://www.bankier.pl",
   "items": [
     {
-      "id": "https://www.bankier.pl/wiadomosc/Zysk-netto-CD-Projektu-z-dzialalnosci-kontynuowanej-w-IV-kw-wyniosl-174-2-mln-zl-wobec-konsensusu-97-4-mln-zl-opis-9101229.html",
-      "url": "https://www.bankier.pl/wiadomosc/Zysk-netto-CD-Projektu-z-dzialalnosci-kontynuowanej-w-IV-kw-wyniosl-174-2-mln-zl-wobec-konsensusu-97-4-mln-zl-opis-9101229.html",
-      "title": "Zysk netto CD Projektu z działalności kontynuowanej w IV kw. wyniósł 174,2 mln zł, wobec konsensusu 97,4 mln zł (opis)",
+      "id": "https://biznes.pap.pl/wiadomosci/rynki/dzien-na-rynkach-drugi-dzien-spadkow-na-wall-street-z-rzedu",
+      "url": "https://biznes.pap.pl/wiadomosci/rynki/dzien-na-rynkach-drugi-dzien-spadkow-na-wall-street-z-rzedu",
+      "title": "DZIEŃ NA RYNKACH: Drugi dzień spadków na Wall Street z rzędu",
+      "content_html": "Czwartkowa sesja na Wall Street zakończyła się spadkami głównych indeksów. Akcje spadały drugi dzień z rzędu, ale nieco osłabło tempo wzrostu cen ropy naftowej. W centrum uwagi były najnowsze dane mak",
+      "date_published": "2026-03-19T21:19:00+01:00",
+      "source": "PAP Biznes"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Wall-Street-znow-zrobila-Europe-w-konia-Byly-spadki-i-nie-ma-spadkow-9101241.html",
+      "url": "https://www.bankier.pl/wiadomosc/Wall-Street-znow-zrobila-Europe-w-konia-Byly-spadki-i-nie-ma-spadkow-9101241.html",
+      "title": "Wall Street znów zrobiła Europę w konia. Były spadki i nie ma spadków",
+      "content_html": "Amerykańscy inwestorzy pod koniec dnia zniwelowali straty i jak zwykle wystawili Stary Kontynent do wiatru.",
+      "date_published": "2026-03-19T21:07:00+01:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/ekonomia-biznes-i-finanse/skrot-wiadomosci-czwartek-19-marca-2100",
+      "url": "https://biznes.pap.pl/wiadomosci/ekonomia-biznes-i-finanse/skrot-wiadomosci-czwartek-19-marca-2100",
+      "title": "Skrót wiadomości - czwartek, 19 marca, 21.00",
+      "content_html": "Przegląd najważniejszych wiadomości gospodarczych, krajowych i ze świata.",
+      "date_published": "2026-03-19T21:05:00+01:00",
+      "source": "PAP Biznes"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Zysk-netto-CD-Projektu-z-dzialalnosci-kontynuowanej-w-IV-kw-wyniosl-174-2-mln-zl-wobec-konsensusu-97-4-mln-zl-9101181.html",
+      "url": "https://www.bankier.pl/wiadomosc/Zysk-netto-CD-Projektu-z-dzialalnosci-kontynuowanej-w-IV-kw-wyniosl-174-2-mln-zl-wobec-konsensusu-97-4-mln-zl-9101181.html",
+      "title": "CD Projekt rozbił bank. Gigantyczne zyski spółki, analitycy w szoku",
       "content_html": "Zysk netto z działalności kontynuowanej grupy CD Projekt w IV kwartale 2025 r. wyniósł 174,2 mln zł - wynika z wyliczeń PAP Biznes na podstawie raportu rocznego spółki. Zysk EBITDA wyniósł 167,7 mln zł. Konsensus zakładał 97,4 mln zł wyniku...",
-      "date_published": "2026-03-19T20:30:00+01:00",
+      "date_published": "2026-03-19T20:43:00+01:00",
       "source": "Bankier.pl"
     },
     {
@@ -173,14 +197,6 @@
       "source": "Bankier.pl"
     },
     {
-      "id": "https://www.bankier.pl/wiadomosc/Zysk-netto-CD-Projektu-z-dzialalnosci-kontynuowanej-w-IV-kw-wyniosl-174-2-mln-zl-wobec-konsensusu-97-4-mln-zl-9101181.html",
-      "url": "https://www.bankier.pl/wiadomosc/Zysk-netto-CD-Projektu-z-dzialalnosci-kontynuowanej-w-IV-kw-wyniosl-174-2-mln-zl-wobec-konsensusu-97-4-mln-zl-9101181.html",
-      "title": "CD Projekt rozbił bank. Gigantyczne zyski spółki, analitycy w szoku",
-      "content_html": "Zysk netto z działalności kontynuowanej grupy CD Projekt w IV kwartale 2025 r. wyniósł 174,2 mln zł - wynika z wyliczeń PAP Biznes na podstawie raportu rocznego spółki. Zysk EBITDA wyniósł 167,7 mln zł. Konsensus zakładał 97,4 mln zł wyniku...",
-      "date_published": "2026-03-19T18:24:00+01:00",
-      "source": "Bankier.pl"
-    },
-    {
       "id": "https://biznes.pap.pl/wiadomosci/firmy/wyniki-cd-projektu-w-iv-kw-2025-roku-vs-konsensus-pap-tabela-aktl",
       "url": "https://biznes.pap.pl/wiadomosci/firmy/wyniki-cd-projektu-w-iv-kw-2025-roku-vs-konsensus-pap-tabela-aktl",
       "title": "Wyniki CD Projektu w IV kw. 2025 roku vs. konsensus PAP (tabela, aktl.)",
@@ -203,14 +219,6 @@
       "content_html": "Prokurator w procesie byłych szefów KNF ws. nadzoru nad SKOK Wołomin zwrócił się do siedmiorga oskarżonych o zgody na cofnięcie wobec nich aktu oskarżenia - poinformowała PAP rzeczniczka Prokuratora Generalnego Anna Adamiak. Dodała, że decyzja...",
       "date_published": "2026-03-19T18:22:00+01:00",
       "source": "Bankier.pl"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/rynki/zamkniecia-na-gieldach-w-europie-tabela-2840",
-      "url": "https://biznes.pap.pl/wiadomosci/rynki/zamkniecia-na-gieldach-w-europie-tabela-2840",
-      "title": "Zamknięcia na giełdach w Europie (tabela)",
-      "content_html": "Poniżej zamknięcia i zmiany wybranych indeksów giełdowych w Europie.",
-      "date_published": "2026-03-19T18:01:00+01:00",
-      "source": "PAP Biznes"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/MOL-chce-wyplacic-lacznie-ok-300-HUF-dywidendy-na-akcje-9101161.html",
@@ -237,14 +245,6 @@
       "source": "Bankier.pl"
     },
     {
-      "id": "https://biznes.pap.pl/wiadomosci/firmy/mol-chce-wyplacic-lacznie-ok-300-huf-dywidendy-na-akcje-0",
-      "url": "https://biznes.pap.pl/wiadomosci/firmy/mol-chce-wyplacic-lacznie-ok-300-huf-dywidendy-na-akcje-0",
-      "title": "MOL chce wypłacić łącznie ok. 300 HUF dywidendy na akcję",
-      "content_html": "Rada Dyrektorów MOL proponuje przeznaczyć na wypłatę dywidendy łącznie ok. 241,2 mld HUF, co daje ok. 300 HUF dywidendy na akcję - podała spółka w komunikacie.",
-      "date_published": "2026-03-19T17:58:00+01:00",
-      "source": "PAP Biznes"
-    },
-    {
       "id": "https://www.bankier.pl/wiadomosc/Trump-zaprzecza-Izrael-ujawnia-kulisy-Zwrot-ws-zloza-South-Pars-9101111.html",
       "url": "https://www.bankier.pl/wiadomosc/Trump-zaprzecza-Izrael-ujawnia-kulisy-Zwrot-ws-zloza-South-Pars-9101111.html",
       "title": "Trump zaprzecza, Izrael ujawnia kulisy. Zwrot ws. złoża South Pars",
@@ -258,6 +258,14 @@
       "title": "Spadki na światowych giełdach. Odwrót WIG20, rajd węglowych spółek i efekt Biedronki",
       "content_html": "Giełda Papierów Wartościowych w Warszawie nie odstawała w czwartek od reszty światowych parkietów, które pogrążyły się w spadkach. Rosły ceny ropy i nie malało zagrożenie dla tankowców w Zatoce Perskiej. W WIG20 o tytuł najmocniej przecenionej...",
       "date_published": "2026-03-19T17:25:00+01:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Daleko-nie-poplyneli-Izrael-zatopil-iranska-flote-na-Morzu-Kaspijskim-9101104.html",
+      "url": "https://www.bankier.pl/wiadomosc/Daleko-nie-poplyneli-Izrael-zatopil-iranska-flote-na-Morzu-Kaspijskim-9101104.html",
+      "title": "Daleko nie popłynęli. Izrael zatopił irańską flotę na Morzu Kaspijskim",
+      "content_html": "Izraelskie lotnictwo zaatakowało w nocy ze środy na czwartek irański port Bandar-e Anzali nad Morzem Kaspijskim, niszcząc kilka okrętów marynarki wojennej i infrastrukturę portową - poinformował rzecznik izraelskiej armii ppłk Nadaw Szoszani...",
+      "date_published": "2026-03-19T17:09:00+01:00",
       "source": "Bankier.pl"
     },
     {
@@ -339,6 +347,22 @@
       "content_html": "Sześć państw - Francja, Wielka Brytania, Niemcy, Włochy, Holandia i Japonia – oznajmiło w czwartek, że są „gotowe do wniesienia wkładu” w zapewnienie bezpieczeństwa w cieśninie Ormuz. Cieśnina jest blokowana przez Iran w związku z amerykańsko-izraelskimi...",
       "date_published": "2026-03-19T16:00:00+01:00",
       "source": "Bankier.pl"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/gospodarka/euro-w-ebc-11489-usd-i-18246-jpy",
+      "url": "https://biznes.pap.pl/wiadomosci/gospodarka/euro-w-ebc-11489-usd-i-18246-jpy",
+      "title": "Euro w EBC: 1,1489 USD i 182,46 JPY",
+      "content_html": "Europejski Bank Centralny (EBC) ustalił kurs euro na 1,1489 USD i 182,46 JPY - podał bank na swojej stronie internetowej.",
+      "date_published": "2026-03-19T15:58:00+01:00",
+      "source": "PAP Biznes"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/energia/usa-moga-zdjac-sankcje-z-iranskiej-ropy-naftowej-bessent",
+      "url": "https://biznes.pap.pl/wiadomosci/energia/usa-moga-zdjac-sankcje-z-iranskiej-ropy-naftowej-bessent",
+      "title": "USA mogą zdjąć sankcje z irańskiej ropy naftowej - Bessent",
+      "content_html": "Sekretarz skarbu USA Scott Bessent zapowiedział w czwartek w wywiadzie dla Fox Business, że administracja Donalda Trumpa rozważa zniesienie sankcji z około 140 mln baryłek irańskiej ropy, znajdującej ",
+      "date_published": "2026-03-19T15:54:00+01:00",
+      "source": "PAP Biznes"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Orlen-wiecej-wart-od-Gazpromu-Tusk-chwali-sie-sukcesem-9100958.html",
@@ -1271,8 +1295,8 @@
     {
       "id": "https://www.bankier.pl/wiadomosc/Gaz-w-gore-kilkadziesiat-procent-Nowy-rozdzial-wojny-na-Bliskim-Wschodzie-znow-uderza-w-ceny-surowcow-9100679.html",
       "url": "https://www.bankier.pl/wiadomosc/Gaz-w-gore-kilkadziesiat-procent-Nowy-rozdzial-wojny-na-Bliskim-Wschodzie-znow-uderza-w-ceny-surowcow-9100679.html",
-      "title": "Ceny za gaz najwyższe od ponad trzech lat. Kolejne 30 proc. w górę po nowych atakach na Bliskim Wschodzie",
-      "content_html": "Globalne rynki stanęły w obliczu nowych wyzwań związanych z wojną na Bliskim Wschodzie. Środowe ataki na kluczową infrastrukturę gazową w Iranie i Katarze oznaczają krytyczne przejście od zakłóceń w łańcuchu dostaw do bezpośredniego zagrożenia...",
+      "title": "Ceny za gaz najwyższe od ponad trzech lat. Kolejne 30 proc. w górę po nowych atakach na Bliskim Wschodzie Globalne rynki stanęły w obliczu nowych wyzwań związanych z wojną na Bliskim Wschodzie. Środowe ataki na kluczową infrastrukturę gazową w Iranie i Katarze oznaczają krytyczne przejście od zakłóceń w łańcuchu dostaw do bezpośredniego zagrożenia dla fizycznej dostępności surowców. Ataki pchnęły ceny gazu w górę o około 30 procent, a inwestorzy porzucają nadzieje na szybkie rozwiązanie problemów na rynku energii, wyceniając ryzyko trwałego ubytku mocy produkcyjnych. Rynki finansowe traciły w efekcie ostatnich ataków.",
+      "content_html": "",
       "date_published": "2026-03-19T08:50:00+01:00",
       "source": "Bankier.pl"
     },
@@ -1475,38 +1499,6 @@
       "content_html": "",
       "date_published": "2026-03-18T22:45:00+01:00",
       "source": "Bankier.pl"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Przychody-Micronu-mocno-w-gore-popyt-na-pamiec-gwaltownie-rosnie-9100537.html",
-      "url": "https://www.bankier.pl/wiadomosc/Przychody-Micronu-mocno-w-gore-popyt-na-pamiec-gwaltownie-rosnie-9100537.html",
-      "title": "Przychody Micronu mocno w górę, popyt na pamięć gwałtownie rośnie Przychody firmy Micron w drugim kwartale roku fiskalnego (zakończonym 31 grudnia 2025 roku) wzrosły prawie trzykrotnie, przekraczając szacunki analityków, gdyż popyt na pamięć gwałtownie rośnie. Zysk na akcję technologicznego koncernu również przebił konsensus analityków.",
-      "content_html": "",
-      "date_published": "2026-03-18T21:18:00+01:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/gry-i-technologie/przychody-micronu-mocno-w-gore-popyt-na-pamiec-gwaltownie-rosnie",
-      "url": "https://biznes.pap.pl/wiadomosci/gry-i-technologie/przychody-micronu-mocno-w-gore-popyt-na-pamiec-gwaltownie-rosnie",
-      "title": "Przychody Micronu mocno w górę, popyt na pamięć gwałtownie rośnie",
-      "content_html": "Przychody firmy Micron w drugim kwartale roku fiskalnego (zakończonym 31 grudnia 2025 roku) wzrosły prawie trzykrotnie, przekraczając szacunki analityków, gdyż popyt na pamięć gwałtownie rośnie. Zysk ",
-      "date_published": "2026-03-18T21:17:00+01:00",
-      "source": "PAP Biznes"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/ekonomia-biznes-i-finanse/skrot-wiadomosci-sroda-18-marca-2115",
-      "url": "https://biznes.pap.pl/wiadomosci/ekonomia-biznes-i-finanse/skrot-wiadomosci-sroda-18-marca-2115",
-      "title": "Skrót wiadomości - środa, 18 marca, 21.15",
-      "content_html": "Przegląd najważniejszych wiadomości gospodarczych, krajowych i ze świata.",
-      "date_published": "2026-03-18T21:16:00+01:00",
-      "source": "PAP Biznes"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/rynki/dzien-na-rynkach-mocne-spadki-na-wall-street-wracaja-obawy-o-inflacje",
-      "url": "https://biznes.pap.pl/wiadomosci/rynki/dzien-na-rynkach-mocne-spadki-na-wall-street-wracaja-obawy-o-inflacje",
-      "title": "DZIEŃ NA RYNKACH: Mocne spadki na Wall Street, wracają obawy o inflację",
-      "content_html": "Środowa sesja na Wall Street zakończyła się mocnymi spadkami głównych indeksów, gdyż do głosu wróciły obawy o inflację w Stanach Zjednoczonych wywołane trwającym konfliktem na Bliskim Wschodzie. Amery",
-      "date_published": "2026-03-18T21:11:00+01:00",
-      "source": "PAP Biznes"
     }
   ]
 }
