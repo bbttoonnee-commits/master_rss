@@ -5,6 +5,30 @@
   "home_page_url": "https://www.bankier.pl",
   "items": [
     {
+      "id": "https://biznes.pap.pl/wiadomosci/ekonomia-biznes-i-finanse/skrot-wiadomosci-piatek-20-marca-2100",
+      "url": "https://biznes.pap.pl/wiadomosci/ekonomia-biznes-i-finanse/skrot-wiadomosci-piatek-20-marca-2100",
+      "title": "Skrót wiadomości - piątek, 20 marca, 21.00",
+      "content_html": "Przegląd najważniejszych wiadomości gospodarczych, krajowych i ze świata.",
+      "date_published": "2026-03-20T21:20:00+01:00",
+      "source": "PAP Biznes"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/rynki/dzien-na-rynkach-mocne-spadki-na-wall-street-rosnie-niepewnosc-na-bliskim",
+      "url": "https://biznes.pap.pl/wiadomosci/rynki/dzien-na-rynkach-mocne-spadki-na-wall-street-rosnie-niepewnosc-na-bliskim",
+      "title": "DZIEŃ NA RYNKACH: Mocne spadki na Wall Street, rośnie niepewność na Bliskim Wschodzie",
+      "content_html": "Piątkowa sesja na Wall Street zakończyła się mocnymi spadkami głównych indeksów, gdyż nic nie wskazuje na to, by konflikt USA i Izraela z Iranem, który doprowadził do gwałtownego wzrostu cen ropy naft",
+      "date_published": "2026-03-20T21:15:00+01:00",
+      "source": "PAP Biznes"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Bankier-pl-i-Krzysztof-Kolany-nagrodzeni-na-Invest-Cuffs-2026-9101860.html",
+      "url": "https://www.bankier.pl/wiadomosc/Bankier-pl-i-Krzysztof-Kolany-nagrodzeni-na-Invest-Cuffs-2026-9101860.html",
+      "title": "Bankier.pl i Krzysztof Kolany nagrodzeni na Invest Cuffs 2026",
+      "content_html": "Portal Bankier.pl został uhonorowany srebrnymi laurami w kategorii Media Rynku podczas trwającej właśnie w Krakowie konferencji Invest Cuffs 2026. Główną nagrodę w kategorii Dziennikarz Ekonomiczny zdobył Krzysztof Kolany - główny analityk...",
+      "date_published": "2026-03-20T20:35:00+01:00",
+      "source": "Bankier.pl"
+    },
+    {
       "id": "https://biznes.pap.pl/wiadomosci/firmy/inwestorzy-indywidualni-jak-i-profesjonalni-chetnie-inwestuja-w-obligacje",
       "url": "https://biznes.pap.pl/wiadomosci/firmy/inwestorzy-indywidualni-jak-i-profesjonalni-chetnie-inwestuja-w-obligacje",
       "title": "Inwestorzy indywidualni jak i profesjonalni chętnie inwestują w obligacje korporacyjne - Obligacje.pl",
@@ -47,7 +71,7 @@
     {
       "id": "https://www.bankier.pl/wiadomosc/Benefit-Systems-chce-osiagnac-od-6-4-mld-zl-do-7-mld-zl-skonsolidowanych-przychodow-w-27-9101894.html",
       "url": "https://www.bankier.pl/wiadomosc/Benefit-Systems-chce-osiagnac-od-6-4-mld-zl-do-7-mld-zl-skonsolidowanych-przychodow-w-27-9101894.html",
-      "title": "Benefit Systems chce osiągnąć od 6,4 mld zł do 7 mld zł skonsolidowanych przychodów w '27",
+      "title": "Więcej klubów, miliony użytkowników. Tak Benefit Systems zmieni rynek fitness do 2027 roku",
       "content_html": "Zarząd Benefit Systems przyjął zaktualizowaną strategię grupy kapitałowej obowiązującą do końca 2027 roku, uwzględniającą wpływ przejęcia tureckiej Grupy MAC, która zakłada m.in. osiągnięcie skonsolidowanych przychodów na poziomie...",
       "date_published": "2026-03-20T19:14:00+01:00",
       "source": "Bankier.pl"
@@ -63,7 +87,7 @@
     {
       "id": "https://www.bankier.pl/wiadomosc/Zysk-netto-Benefit-Systems-w-IV-kw-wyniosl-159-2-mln-zl-zgodnie-z-oczekiwaniami-9101890.html",
       "url": "https://www.bankier.pl/wiadomosc/Zysk-netto-Benefit-Systems-w-IV-kw-wyniosl-159-2-mln-zl-zgodnie-z-oczekiwaniami-9101890.html",
-      "title": "Zysk netto Benefit Systems w IV kw. wyniósł 159,2 mln zł, zgodnie z oczekiwaniami",
+      "title": "Zysk netto Benefit Systems w IV kw. wyniósł 159,2 mln zł",
       "content_html": "Zysk netto j.d. Benefit Systems w IV kwartale 2025 roku wyniósł 159,2 mln zł, wobec 114,6 mln zł przed rokiem - poinformowała spółka w raporcie. Konsensus PAP Biznes zakładał zysk netto j.d. w wysokości 158,3 mln zł.",
       "date_published": "2026-03-20T19:02:00+01:00",
       "source": "Bankier.pl"
@@ -173,14 +197,6 @@
       "source": "PAP Biznes"
     },
     {
-      "id": "https://www.bankier.pl/wiadomosc/Bankier-pl-i-Krzysztof-Kolany-nagrodzeni-na-Invest-Cuffs-2026-9101860.html",
-      "url": "https://www.bankier.pl/wiadomosc/Bankier-pl-i-Krzysztof-Kolany-nagrodzeni-na-Invest-Cuffs-2026-9101860.html",
-      "title": "Bankier.pl i Krzysztof Kolany nagrodzeni na Invest Cuffs 2026",
-      "content_html": "Portal Bankier.pl został uhonorowany srebrnymi laurami w kategorii Media Rynku podczas trwającej właśnie w Krakowie konferencji Invest Cuffs 2026. Główną nagrodę w kategorii Dziennikarz Ekonomiczny zdobył Krzysztof Kolany - główny analityk...",
-      "date_published": "2026-03-20T18:12:00+01:00",
-      "source": "Bankier.pl"
-    },
-    {
       "id": "https://www.bankier.pl/wiadomosc/Czarny-scenariusz-Jak-szok-naftowy-wplynalby-na-nasze-portfele-9101845.html",
       "url": "https://www.bankier.pl/wiadomosc/Czarny-scenariusz-Jak-szok-naftowy-wplynalby-na-nasze-portfele-9101845.html",
       "title": "Czarny scenariusz. Jak szok naftowy wpłynąłby na nasze portfele?",
@@ -259,22 +275,6 @@
       "content_html": "NATO poinformowało w piątek o „dostosowaniu\" swojej misji w Iraku (NMI) w związku z sytuacją w regionie Bliskiego Wschodu. Sojusz przekazał, że cały personel misji został bezpiecznie relokowany do Europy.",
       "date_published": "2026-03-20T17:19:00+01:00",
       "source": "Bankier.pl"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/firmy/wyniki-huuuge-w-iv-kw-2025-roku-vs-konsensus-pap-tabela",
-      "url": "https://biznes.pap.pl/wiadomosci/firmy/wyniki-huuuge-w-iv-kw-2025-roku-vs-konsensus-pap-tabela",
-      "title": "Wyniki Huuuge w IV kw. 2025 roku vs. konsensus PAP (tabela)",
-      "content_html": "Poniżej przedstawiono wyniki Huuuge w czwartym kwartale 2025 roku i ich odniesienie do konsensusu PAP Biznes oraz poprzednich wyników.",
-      "date_published": "2026-03-20T17:19:00+01:00",
-      "source": "PAP Biznes"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/gospodarka/ngr-konsultuje-rekomendacje-ws-stawki-zastepczej-dla-wibor-w-zmiennoproc",
-      "url": "https://biznes.pap.pl/wiadomosci/gospodarka/ngr-konsultuje-rekomendacje-ws-stawki-zastepczej-dla-wibor-w-zmiennoproc",
-      "title": "NGR konsultuje rekomendację ws. stawki zastępczej dla WIBOR w zmiennoproc. obligacjach",
-      "content_html": "Narodowa Grupa Robocza ds. reformy wskaźników referencyjnych (NGR) rozpoczęła konsultacje projektu rekomendacji dot. zasad stosowania stawki zastępczej dla WIBOR w zmiennoprocentowych papierach dłużny",
-      "date_published": "2026-03-20T17:19:00+01:00",
-      "source": "PAP Biznes"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Minister-Energii-ostrzega-Najwiekszy-kryzys-od-50-lat-Beda-decyzje-o-podatkach-9101796.html",
@@ -509,12 +509,28 @@
       "source": "Bankier.pl"
     },
     {
+      "id": "https://biznes.pap.pl/wiadomosci/firmy/sad-umorzyl-postepowanie-upadlosciowe-medapp",
+      "url": "https://biznes.pap.pl/wiadomosci/firmy/sad-umorzyl-postepowanie-upadlosciowe-medapp",
+      "title": "Sąd umorzył postępowanie upadłościowe MedApp",
+      "content_html": "Sąd Rejonowy dla Krakowa-Śródmieścia wydał postanowienie w przedmiocie umorzenia postępowania o ogłoszenie upadłości MedApp - poinformowała spółka w komunikacie.",
+      "date_published": "2026-03-20T14:01:00+01:00",
+      "source": "PAP Biznes"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Nowy-podatek-opakowaniowy-odroczony-Rzad-przesuwa-deadline-9101584.html",
       "url": "https://www.bankier.pl/wiadomosc/Nowy-podatek-opakowaniowy-odroczony-Rzad-przesuwa-deadline-9101584.html",
       "title": "Nowy podatek opakowaniowy odroczony. Rząd przesuwa deadline",
       "content_html": "Ministerstwo Klimatu i Środowiska przesuwa na 2027 r. plany wejścia w życie ustawy o rozszerzonej odpowiedzialności producenta - wynika z najnowszej wersji projektu ws. ROP. Najnowsze uzasadnienie i OSR projektu w załączniku do depeszy.",
       "date_published": "2026-03-20T14:00:00+01:00",
       "source": "Bankier.pl"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/gospodarka/przewidywane-splaty-zobowiazan-polski-w-najblizszych-12-miesiacach-wynosza-9",
+      "url": "https://biznes.pap.pl/wiadomosci/gospodarka/przewidywane-splaty-zobowiazan-polski-w-najblizszych-12-miesiacach-wynosza-9",
+      "title": "Przewidywane spłaty zobowiązań Polski w najbliższych 12 miesiącach wynoszą 8.802 mln euro - NBP",
+      "content_html": "Przewidywane na okres najbliższych 12 miesięcy obciążenie Polski spłatą zobowiązań zaciągniętych przez rząd na koniec lutego wyniosło 8.802 mln euro wobec 8.769 mln euro miesiąc wcześniej - wynika z d",
+      "date_published": "2026-03-20T14:00:00+01:00",
+      "source": "PAP Biznes"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Ukrainskie-jednostki-na-Bliskim-Wschodzie-Zelenski-USA-prosily-nas-o-pomoc-9101592.html",
@@ -1333,14 +1349,6 @@
       "source": "PAP Biznes"
     },
     {
-      "id": "https://www.bankier.pl/wiadomosc/Atom-wraca-ETS-uwiera-a-przemysl-traci-oddech-Niewiadomski-Europa-troche-sie-frajerzy-9100980.html",
-      "url": "https://www.bankier.pl/wiadomosc/Atom-wraca-ETS-uwiera-a-przemysl-traci-oddech-Niewiadomski-Europa-troche-sie-frajerzy-9100980.html",
-      "title": "\"GPW\" Atom wraca, ETS uwiera, a przemysł traci oddech. Niewiadomski: Europa trochę się frajerzy Bilion na energię, rewizja ETS i coraz większy niepokój o to, czy Europa nie płaci za transformację zbyt wysokiej ceny. Dziś gra toczy się już nie tylko o klimat, ale też o przemysł, inwestycje i gospodarcze przetrwanie w świecie coraz droższej energii i coraz twardszej geopolityki. O tym w najnowszym odcinku „GPW – Gospodarczy Punkt Widzenia” Aleksander Ogrodnik rozmawia z Michałem Niewiadomskim, analitykiem Bankier.pl i ekspertem od rynku energii",
-      "content_html": "",
-      "date_published": "2026-03-20T06:00:00+01:00",
-      "source": "Bankier.pl"
-    },
-    {
       "id": "https://www.bankier.pl/wiadomosc/Czesi-chca-przeprowadzic-Polakow-z-kawalerek-do-magazynow-Wystarczy-100-euro-na-poczatek-9101063.html",
       "url": "https://www.bankier.pl/wiadomosc/Czesi-chca-przeprowadzic-Polakow-z-kawalerek-do-magazynow-Wystarczy-100-euro-na-poczatek-9101063.html",
       "title": "WYWIAD Czesi chcą „przeprowadzić” Polaków z kawalerek... do magazynów. Wystarczy 100 euro na początek Inwestycje w sektorze komercyjnym zapewniają przewidywalne przychody i pozwalają czerpać bezpośrednie korzyści z rozwoju gospodarczego, jednak do tej pory cechowały się wysokim progiem wejścia. To się właśnie zmienia. Czeska grupa Accolade zapowiada nowy produkt inwestycyjny dla klientów detalicznych, który pozwoli na udział w zyskach z powierzchni magazynowo-przemysłowych. – Polska jest dziś jednym z najważniejszych rynków w naszym portfelu, to tu jest ponad 50% naszych obiektów – mówi Bankier.pl Małgorzata Sablińska, dyrektor ds. rozwoju biznesu i pozyskiwania kapitału w Accolade.",
@@ -1349,35 +1357,11 @@
       "source": "Bankier.pl"
     },
     {
-      "id": "https://biznes.pap.pl/wiadomosci/rynki/dzien-na-rynkach-drugi-dzien-spadkow-na-wall-street-z-rzedu",
-      "url": "https://biznes.pap.pl/wiadomosci/rynki/dzien-na-rynkach-drugi-dzien-spadkow-na-wall-street-z-rzedu",
-      "title": "DZIEŃ NA RYNKACH: Drugi dzień spadków na Wall Street z rzędu",
-      "content_html": "Czwartkowa sesja na Wall Street zakończyła się spadkami głównych indeksów. Akcje spadały drugi dzień z rzędu, ale nieco osłabło tempo wzrostu cen ropy naftowej. W centrum uwagi były najnowsze dane mak",
-      "date_published": "2026-03-19T21:19:00+01:00",
-      "source": "PAP Biznes"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Wall-Street-znow-zrobila-Europe-w-konia-Byly-spadki-i-nie-ma-spadkow-9101241.html",
-      "url": "https://www.bankier.pl/wiadomosc/Wall-Street-znow-zrobila-Europe-w-konia-Byly-spadki-i-nie-ma-spadkow-9101241.html",
-      "title": "Wall Street znów zrobiła Europę w konia. Były spadki i nie ma spadków Amerykańscy inwestorzy pod koniec dnia zniwelowali straty i jak zwykle wystawili Stary Kontynent do wiatru.",
+      "id": "https://www.bankier.pl/wiadomosc/Atom-wraca-ETS-uwiera-a-przemysl-traci-oddech-Niewiadomski-Europa-troche-sie-frajerzy-9100980.html",
+      "url": "https://www.bankier.pl/wiadomosc/Atom-wraca-ETS-uwiera-a-przemysl-traci-oddech-Niewiadomski-Europa-troche-sie-frajerzy-9100980.html",
+      "title": "\"GPW\" Atom wraca, ETS uwiera, a przemysł traci oddech. Niewiadomski: Europa trochę się frajerzy Bilion na energię, rewizja ETS i coraz większy niepokój o to, czy Europa nie płaci za transformację zbyt wysokiej ceny. Dziś gra toczy się już nie tylko o klimat, ale też o przemysł, inwestycje i gospodarcze przetrwanie w świecie coraz droższej energii i coraz twardszej geopolityki. O tym w najnowszym odcinku „GPW – Gospodarczy Punkt Widzenia” Aleksander Ogrodnik rozmawia z Michałem Niewiadomskim, analitykiem Bankier.pl i ekspertem od rynku energii",
       "content_html": "",
-      "date_published": "2026-03-19T21:07:00+01:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/ekonomia-biznes-i-finanse/skrot-wiadomosci-czwartek-19-marca-2100",
-      "url": "https://biznes.pap.pl/wiadomosci/ekonomia-biznes-i-finanse/skrot-wiadomosci-czwartek-19-marca-2100",
-      "title": "Skrót wiadomości - czwartek, 19 marca, 21.00",
-      "content_html": "Przegląd najważniejszych wiadomości gospodarczych, krajowych i ze świata.",
-      "date_published": "2026-03-19T21:05:00+01:00",
-      "source": "PAP Biznes"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Zysk-netto-CD-Projektu-z-dzialalnosci-kontynuowanej-w-IV-kw-wyniosl-174-2-mln-zl-wobec-konsensusu-97-4-mln-zl-9101181.html",
-      "url": "https://www.bankier.pl/wiadomosc/Zysk-netto-CD-Projektu-z-dzialalnosci-kontynuowanej-w-IV-kw-wyniosl-174-2-mln-zl-wobec-konsensusu-97-4-mln-zl-9101181.html",
-      "title": "CD Projekt rozbił bank. Gigantyczne zyski spółki, analitycy w szoku Zysk netto z działalności kontynuowanej grupy CD Projekt w IV kwartale 2025 r. wyniósł 174,2 mln zł - wynika z wyliczeń PAP Biznes na podstawie raportu rocznego spółki. Zysk EBITDA wyniósł 167,7 mln zł. Konsensus zakładał 97,4 mln zł wyniku netto z działalności kontynuowanej oraz 109,5 mln zł wyniku EBITDA.",
-      "content_html": "",
-      "date_published": "2026-03-19T20:43:00+01:00",
+      "date_published": "2026-03-20T06:00:00+01:00",
       "source": "Bankier.pl"
     }
   ]
