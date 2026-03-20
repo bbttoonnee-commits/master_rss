@@ -5,10 +5,82 @@
   "home_page_url": "https://www.bankier.pl",
   "items": [
     {
+      "id": "https://biznes.pap.pl/wiadomosci/firmy/dzien-na-gpw-piatkowa-sesja-moze-rozpoczac-sie-pozytywnie-5",
+      "url": "https://biznes.pap.pl/wiadomosci/firmy/dzien-na-gpw-piatkowa-sesja-moze-rozpoczac-sie-pozytywnie-5",
+      "title": "DZIEŃ NA GPW: Piątkowa sesja może rozpocząć się pozytywnie",
+      "content_html": "Kontrakty futures na europejskie indeksy świecą się na zielono, a amerykańskie kontrakty pozostają w okolicach zera, wskazując na potencjalnie dobre otwarcie rynku kasowego w Europie - ocenili anality",
+      "date_published": "2026-03-20T08:40:00+01:00",
+      "source": "PAP Biznes"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/firmy/odsetek-bykow-na-gpw-wzrosl-do-467-proc-spadkow-oczekuje-293-proc-ini",
+      "url": "https://biznes.pap.pl/wiadomosci/firmy/odsetek-bykow-na-gpw-wzrosl-do-467-proc-spadkow-oczekuje-293-proc-ini",
+      "title": "Odsetek \"byków\" na GPW wzrósł do 46,7 proc., spadków oczekuje 29,3 proc. - INI",
+      "content_html": "Odsetek inwestorów spodziewających się w ciągu sześciu miesięcy trendu wzrostowego na GPW wzrósł o 17,2 pkt. proc. i wyniósł 46,7 proc. Odsetek respondentów oczekujących trendu spadkowego spadł o 11,7",
+      "date_published": "2026-03-20T08:33:00+01:00",
+      "source": "PAP Biznes"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/rynki/dzien-na-rynkach-futures-w-europie-glownie-rosna-iran-w-centrum-uwagi",
+      "url": "https://biznes.pap.pl/wiadomosci/rynki/dzien-na-rynkach-futures-w-europie-glownie-rosna-iran-w-centrum-uwagi",
+      "title": "DZIEŃ NA RYNKACH: Futures w Europie głównie rosną; Iran w centrum uwagi",
+      "content_html": "Kontrakty w Europie głównie zwyżkują, w Azji w Chinach spadki indeksów. Na rynkach utrzymują się obawy, że wojna na Bliskim Wschodzie wpłynie na wzrost inflacji i perspektywy dla polityki monetarnej n",
+      "date_published": "2026-03-20T08:28:00+01:00",
+      "source": "PAP Biznes"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/transport-i-logistyka/przez-niedoszacowanie-projekt-rail-baltica-moze-byc-ukonczony-w",
+      "url": "https://biznes.pap.pl/wiadomosci/transport-i-logistyka/przez-niedoszacowanie-projekt-rail-baltica-moze-byc-ukonczony-w",
+      "title": "Przez niedoszacowanie projekt Rail Baltica może być ukończony w 2040 r. - Malepszak",
+      "content_html": "Przez niedoszacowanie projektu Rail Baltica i rosnące koszty tej inwestycji, może być ona ukończona nawet w 2040 r. - poinformował PAP wiceminister infrastruktury Piotr Malepszak. Dodał, że KDP w Pols",
+      "date_published": "2026-03-20T08:25:00+01:00",
+      "source": "PAP Biznes"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/rynki/najwazniejsze-indeksy-gieldowe-w-azji-685",
+      "url": "https://biznes.pap.pl/wiadomosci/rynki/najwazniejsze-indeksy-gieldowe-w-azji-685",
+      "title": "Najważniejsze indeksy giełdowe w Azji",
+      "content_html": "Poniżej aktualne indeksy wybranych giełd w Azji:",
+      "date_published": "2026-03-20T08:21:00+01:00",
+      "source": "PAP Biznes"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Agora-oczekuje-ze-dynamika-wydatkow-na-reklame-w-26-bedzie-na-poziomie-5-5-7-proc-9101376.html",
+      "url": "https://www.bankier.pl/wiadomosc/Agora-oczekuje-ze-dynamika-wydatkow-na-reklame-w-26-bedzie-na-poziomie-5-5-7-proc-9101376.html",
+      "title": "Agora oczekuje, że dynamika wydatków na reklamę w '26 będzie na poziomie 5,5-7 proc.",
+      "content_html": "Agora po analizie dostępnych danych oczekuje, że dynamika wydatków na reklamę w 2026 roku będzie na poziomie 5,5-7 proc. - podała spółka w raporcie kwartalnym.",
+      "date_published": "2026-03-20T08:20:00+01:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Agora-miala-w-IV-kw-44-3-mln-zl-zysku-netto-jd-EBITDA-wyniosla-102-8-mln-zl-9101374.html",
+      "url": "https://www.bankier.pl/wiadomosc/Agora-miala-w-IV-kw-44-3-mln-zl-zysku-netto-jd-EBITDA-wyniosla-102-8-mln-zl-9101374.html",
+      "title": "Agora pokazała karty. Ponad 100 mln zł zysku w jednym kwartale",
+      "content_html": "Grupa Agora miała w IV kw. 2025 roku 44,3 mln zł zysku netto j.d., o 6,9 proc. więcej rdr oraz 102,8 mln zł zysku EBITDA, o 1,9 proc. mniej niż rok wcześniej - podała spółka w raporcie kwartalnym.",
+      "date_published": "2026-03-20T08:18:00+01:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/firmy/agora-oczekuje-ze-dynamika-wydatkow-na-reklame-w-26-bedzie-na-poziomie-55-7-proc",
+      "url": "https://biznes.pap.pl/wiadomosci/firmy/agora-oczekuje-ze-dynamika-wydatkow-na-reklame-w-26-bedzie-na-poziomie-55-7-proc",
+      "title": "Agora oczekuje, że dynamika wydatków na reklamę w '26 będzie na poziomie 5,5-7 proc.",
+      "content_html": "Agora po analizie dostępnych danych oczekuje, że dynamika wydatków na reklamę w 2026 roku będzie na poziomie 5,5-7 proc. - podała spółka w raporcie kwartalnym.",
+      "date_published": "2026-03-20T08:18:00+01:00",
+      "source": "PAP Biznes"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/firmy/agora-miala-w-iv-kw-443-mln-zl-zysku-netto-jd-ebitda-wyniosla-1028-mln-zl",
+      "url": "https://biznes.pap.pl/wiadomosci/firmy/agora-miala-w-iv-kw-443-mln-zl-zysku-netto-jd-ebitda-wyniosla-1028-mln-zl",
+      "title": "Agora miała w IV kw. 44,3 mln zł zysku netto jd.; EBITDA wyniosła 102,8 mln zł",
+      "content_html": "Grupa Agora miała w IV kw. 2025 roku 44,3 mln zł zysku netto j.d., o 6,9 proc. więcej rdr oraz 102,8 mln zł zysku EBITDA, o 1,9 proc. mniej niż rok wcześniej - podała spółka w raporcie kwartalnym.",
+      "date_published": "2026-03-20T08:16:00+01:00",
+      "source": "PAP Biznes"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Wyniki-Sanok-Rubber-Company-w-IV-kw-2025-roku-vs-konsensus-PAP-tabela-9101365.html",
       "url": "https://www.bankier.pl/wiadomosc/Wyniki-Sanok-Rubber-Company-w-IV-kw-2025-roku-vs-konsensus-PAP-tabela-9101365.html",
-      "title": "Wyniki Sanok Rubber Company w IV kw. 2025 roku vs. konsensus PAP (tabela) Poniżej przedstawiamy wyniki Sanok Rubber Company w czwartym kwartale 2025 roku, według wyliczeń PAP Biznes, i ich odniesienie do konsensusu PAP Biznes.",
-      "content_html": "",
+      "title": "Wyniki Sanok Rubber Company w IV kw. 2025 roku vs. konsensus PAP (tabela)",
+      "content_html": "Poniżej przedstawiamy wyniki Sanok Rubber Company w czwartym kwartale 2025 roku, według wyliczeń PAP Biznes, i ich odniesienie do konsensusu PAP Biznes.",
       "date_published": "2026-03-20T07:50:00+01:00",
       "source": "Bankier.pl"
     },
@@ -141,14 +213,6 @@
       "source": "PAP Biznes"
     },
     {
-      "id": "https://biznes.pap.pl/wiadomosci/rynki/zamkniecia-na-gieldach-w-ameryce-polnocnej-i-poludniowej-tabela-3092",
-      "url": "https://biznes.pap.pl/wiadomosci/rynki/zamkniecia-na-gieldach-w-ameryce-polnocnej-i-poludniowej-tabela-3092",
-      "title": "Zamknięcia na giełdach w Ameryce Północnej i Południowej (tabela)",
-      "content_html": "Poniżej zamknięcia i zmiany indeksów w USA. Kanadzie, Meksyku, Brazylii, Chile, Kolumbii i Argentynie:",
-      "date_published": "2026-03-20T07:03:00+01:00",
-      "source": "PAP Biznes"
-    },
-    {
       "id": "https://www.bankier.pl/wiadomosc/Pieniadze-zaszyte-w-maskotkach-Skarbowka-rozbila-grupe-przestepcza-9101337.html",
       "url": "https://www.bankier.pl/wiadomosc/Pieniadze-zaszyte-w-maskotkach-Skarbowka-rozbila-grupe-przestepcza-9101337.html",
       "title": "Pieniądze zaszyte w maskotkach. Skarbówka rozbiła grupę przestępczą",
@@ -163,38 +227,6 @@
       "content_html": "Analitycy East Value Research, w raporcie 20 marca, obniżyli cenę docelową akcji austriackiej spółki Warimpex, notowanej m.in. na warszawskiej giełdzie, do 1 euro (4,28 zł) z 1,02 euro wcześniej.",
       "date_published": "2026-03-20T07:00:00+01:00",
       "source": "Bankier.pl"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/ekonomia-biznes-i-finanse/przewidywane-najwazniejsze-wydarzenia-gospodarcze-2026-03-20",
-      "url": "https://biznes.pap.pl/wiadomosci/ekonomia-biznes-i-finanse/przewidywane-najwazniejsze-wydarzenia-gospodarcze-2026-03-20",
-      "title": "Przewidywane najważniejsze wydarzenia gospodarcze 2026-03-20",
-      "content_html": "Przewidywane najważniejsze wydarzenia gospodarcze 2026-03-20",
-      "date_published": "2026-03-20T07:00:00+01:00",
-      "source": "PAP Biznes"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/rynki/kalendarium-rynku-newconnect-2026-03-20",
-      "url": "https://biznes.pap.pl/wiadomosci/rynki/kalendarium-rynku-newconnect-2026-03-20",
-      "title": "Kalendarium rynku NewConnect 2026-03-20",
-      "content_html": "Kalendarium rynku NewConnect 2026-03-20",
-      "date_published": "2026-03-20T07:00:00+01:00",
-      "source": "PAP Biznes"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/rynki/kalendarium-rynku-kapitalowego-gpw-2026-03-20",
-      "url": "https://biznes.pap.pl/wiadomosci/rynki/kalendarium-rynku-kapitalowego-gpw-2026-03-20",
-      "title": "Kalendarium rynku kapitałowego GPW 2026-03-20",
-      "content_html": "Kalendarium rynku kapitałowego GPW 2026-03-20",
-      "date_published": "2026-03-20T07:00:00+01:00",
-      "source": "PAP Biznes"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/firmy/east-value-research-obnizyl-cene-docelowa-akcji-warimpex-do-1-euro-0",
-      "url": "https://biznes.pap.pl/wiadomosci/firmy/east-value-research-obnizyl-cene-docelowa-akcji-warimpex-do-1-euro-0",
-      "title": "East Value Research obniżył cenę docelową akcji Warimpex do 1 euro",
-      "content_html": "Analitycy East Value Research, w raporcie 20 marca, obniżyli cenę docelową akcji austriackiej spółki Warimpex, notowanej m.in. na warszawskiej giełdzie, do 1 euro (4,28 zł) z 1,02 euro wcześniej.",
-      "date_published": "2026-03-20T06:57:00+01:00",
-      "source": "PAP Biznes"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Agenci-wreszcie-bez-masek-Waszyngton-zakazuje-zaslaniania-twarzy-przez-sluzby-9101316.html",
@@ -221,28 +253,12 @@
       "source": "Bankier.pl"
     },
     {
-      "id": "https://biznes.pap.pl/wiadomosci/przemysl/pcc-rokita-chce-przeznaczyc-zysk-za-25-na-kapital-zapasowy",
-      "url": "https://biznes.pap.pl/wiadomosci/przemysl/pcc-rokita-chce-przeznaczyc-zysk-za-25-na-kapital-zapasowy",
-      "title": "PCC Rokita chce przeznaczyć zysk za '25 na kapitał zapasowy",
-      "content_html": "Rada nadzorcza PCC Rokita pozytywnie zaopiniowała rekomendację zarządu dotyczącą przeznaczenia zysku spółki za 2025 r. w kwocie 65,7 mln zł na kapitał zapasowy - poinformowała spółka w komunikacie.",
-      "date_published": "2026-03-20T06:48:00+01:00",
-      "source": "PAP Biznes"
-    },
-    {
       "id": "https://www.bankier.pl/wiadomosc/Akcjonariusze-PolTREG-zdecydowali-o-podwyzszeniu-kapitalu-zakladowego-poprzez-emisje-akcji-9101330.html",
       "url": "https://www.bankier.pl/wiadomosc/Akcjonariusze-PolTREG-zdecydowali-o-podwyzszeniu-kapitalu-zakladowego-poprzez-emisje-akcji-9101330.html",
       "title": "Akcjonariusze PolTREG zdecydowali o podwyższeniu kapitału zakładowego poprzez emisję akcji",
       "content_html": "Akcjonariusze PolTREG zdecydowali o podwyższeniu kapitału zakładowego spółki poprzez emisję do 1.253.008 akcji serii O - wynika z podjętych przez NWZ uchwał.",
       "date_published": "2026-03-20T06:46:00+01:00",
       "source": "Bankier.pl"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/firmy/akcjonariusze-poltreg-zdecydowali-o-podwyzszeniu-kapitalu-zakladowego-poprzez",
-      "url": "https://biznes.pap.pl/wiadomosci/firmy/akcjonariusze-poltreg-zdecydowali-o-podwyzszeniu-kapitalu-zakladowego-poprzez",
-      "title": "Akcjonariusze PolTREG zdecydowali o podwyższeniu kapitału zakładowego poprzez emisję akcji",
-      "content_html": "Akcjonariusze PolTREG zdecydowali o podwyższeniu kapitału zakładowego spółki poprzez emisję do 1.253.008 akcji serii O - wynika z podjętych przez NWZ uchwał.",
-      "date_published": "2026-03-20T06:44:00+01:00",
-      "source": "PAP Biznes"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Wyplaty-13-emerytury-startuja-ZUS-podal-harmonogram-przelewow-9101306.html",
@@ -266,6 +282,30 @@
       "title": "Rekordowy sprzeciw Polaków. Chodzi o wysłanie wojska na wojnę",
       "content_html": "Polscy żołnierze nie powinni brać udziału w konflikcie na Bliskim Wschodzie, nawet wtedy, gdyby o to poprosiły Stany Zjednoczone - wynika z badania opinii publicznej przeprowadzonego przez IBRiS na zlecenie „Rzeczpospolitej\". Jego wyniki opublikowano...",
       "date_published": "2026-03-20T06:24:00+01:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Fala-nocnych-atakow-w-regionie-Rijad-prognozuje-droga-rope-9101320.html",
+      "url": "https://www.bankier.pl/wiadomosc/Fala-nocnych-atakow-w-regionie-Rijad-prognozuje-droga-rope-9101320.html",
+      "title": "Fala nocnych ataków w regionie. Rijad prognozuje drogą ropę",
+      "content_html": "Armia izraelska uderzyła w nocy z czwartku na piątek w infrastrukturę rządową w Teheranie, podczas gdy państwa Zatoki Perskiej przechwyciły liczne drony i rakiety wystrzelone z Iranu. Władze w Dauszy potępiły atak na swoje instalacje gazowe...",
+      "date_published": "2026-03-20T06:18:00+01:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/XTB-zloto-zmierza-do-najgorszego-tygodnia-od-1983-r-9101318.html",
+      "url": "https://www.bankier.pl/wiadomosc/XTB-zloto-zmierza-do-najgorszego-tygodnia-od-1983-r-9101318.html",
+      "title": "XTB: złoto zmierza do najgorszego tygodnia od 1983 r.",
+      "content_html": "Złoto zmierza do najgorszego tygodnia od 1983 roku i traci ok. 10 proc. w ujęciu tygodniowym - zauważyli analitycy XTB. Ich zdaniem wynika to z podwyższonej niepewności geopolitycznej i ryzyka stagflacyjnego.",
+      "date_published": "2026-03-20T06:11:00+01:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Promocje-na-paliwo-Orlen-BP-Circle-K-Shell-Amic-MOL-9100246.html",
+      "url": "https://www.bankier.pl/wiadomosc/Promocje-na-paliwo-Orlen-BP-Circle-K-Shell-Amic-MOL-9100246.html",
+      "title": "Ceny paliw straszą, ale można zaoszczędzić. Sprawdzamy wszystkie promocje na paliwo",
+      "content_html": "Choć ceny na stacjach benzynowych rosną z dnia na dzień i nie widać końca podwyżek, to poszczególne sieci kuszą promocjami na paliwo. Sprawdziliśmy, na jakie rabaty można liczyć, jakie warunki trzeba spełnić, by za paliwo płacić mniej i...",
+      "date_published": "2026-03-20T06:00:00+01:00",
       "source": "Bankier.pl"
     },
     {
@@ -405,6 +445,22 @@
       "source": "Bankier.pl"
     },
     {
+      "id": "https://biznes.pap.pl/wiadomosci/firmy/grupa-zabka-podtrzymuje-cel-srednio-do-wysokiego-jednocyfrowego-wzrostu-lfl-w-2026",
+      "url": "https://biznes.pap.pl/wiadomosci/firmy/grupa-zabka-podtrzymuje-cel-srednio-do-wysokiego-jednocyfrowego-wzrostu-lfl-w-2026",
+      "title": "Grupa Żabka podtrzymuje cel średnio do wysokiego jednocyfrowego wzrostu LFL w 2026 r.",
+      "content_html": "Grupa Żabka podtrzymuje oczekiwanie średnio do wysokiego jednocyfrowego wzrostu LFL w 2026 roku oraz w średnim terminie - podała spółka w komunikacie prasowym.",
+      "date_published": "2026-03-19T19:13:00+01:00",
+      "source": "PAP Biznes"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/firmy/zlozono-oferty-na-sprzedaz-1609990-akcji-asseco-business-solutions",
+      "url": "https://biznes.pap.pl/wiadomosci/firmy/zlozono-oferty-na-sprzedaz-1609990-akcji-asseco-business-solutions",
+      "title": "Złożono oferty na sprzedaż 1.609.990 akcji Asseco Business Solutions",
+      "content_html": "W odpowiedzi na zaproszenie do składania ofert sprzedaży akcji Asseco Business Solutions złożono 15 ofert na łączną liczbę 1.609.990 akcji - podała spółka w komunikacie.",
+      "date_published": "2026-03-19T19:12:00+01:00",
+      "source": "PAP Biznes"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Szef-Rheinmetallu-ostrzega-swiatowe-zapasy-pociskow-przeciwlotniczych-sa-na-wyczerpaniu-9101200.html",
       "url": "https://www.bankier.pl/wiadomosc/Szef-Rheinmetallu-ostrzega-swiatowe-zapasy-pociskow-przeciwlotniczych-sa-na-wyczerpaniu-9101200.html",
       "title": "Szef Rheinmetallu ostrzega: światowe zapasy pocisków przeciwlotniczych są na wyczerpaniu",
@@ -437,12 +493,52 @@
       "source": "Bankier.pl"
     },
     {
+      "id": "https://biznes.pap.pl/wiadomosci/firmy/grupa-zabka-miala-w-iv-kw-1134-mld-zl-skorygowanej-ebitda-wobec-1085-mld-zl",
+      "url": "https://biznes.pap.pl/wiadomosci/firmy/grupa-zabka-miala-w-iv-kw-1134-mld-zl-skorygowanej-ebitda-wobec-1085-mld-zl",
+      "title": "Grupa Żabka miała w IV kw. 1,134 mld zł skorygowanej EBITDA wobec 1,085 mld zł konsensusu",
+      "content_html": "Zabka Group zanotowała w czwartym kwartale 2025 roku 1,134 mld zł skorygowanej EBITDA wobec 987 mln zł rok wcześniej - wynika z wyliczeń PAP Biznes na podstawie raportu rocznego spółki. Analitycy spod",
+      "date_published": "2026-03-19T18:46:00+01:00",
+      "source": "PAP Biznes"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/firmy/wyniki-zabka-group-w-iv-kw-2025-roku-vs-konsensus-pap-tabela",
+      "url": "https://biznes.pap.pl/wiadomosci/firmy/wyniki-zabka-group-w-iv-kw-2025-roku-vs-konsensus-pap-tabela",
+      "title": "Wyniki Zabka Group w IV kw. 2025 roku vs. konsensus PAP (tabela)",
+      "content_html": "Poniżej przedstawiono wyniki Zabka Group w czwartym kwartale 2025 roku według wyliczeń PAP Biznes i ich odniesienie do konsensusu PAP Biznes.",
+      "date_published": "2026-03-19T18:30:00+01:00",
+      "source": "PAP Biznes"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/rynki/dzien-na-rynkach-indeksy-w-europie-na-minusach-obawy-o-dostawy-surowcow",
+      "url": "https://biznes.pap.pl/wiadomosci/rynki/dzien-na-rynkach-indeksy-w-europie-na-minusach-obawy-o-dostawy-surowcow",
+      "title": "DZIEŃ NA RYNKACH: Indeksy w Europie na minusach; obawy o dostawy surowców",
+      "content_html": "Europejskie indeksy zakończyły czwartkową sesję ze sporymi spadkami. Inwestorzy obawiają się o podaż gazu i ropy wobec eskalacji ataków na producentów surowców w Zatoce Perskiej. Rynki oceniają decyzj",
+      "date_published": "2026-03-19T18:29:00+01:00",
+      "source": "PAP Biznes"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Rozluznienie-na-Wschodzie-Trump-Nie-wysylam-wojsk-ladowych-do-Iranu-9101126.html",
       "url": "https://www.bankier.pl/wiadomosc/Rozluznienie-na-Wschodzie-Trump-Nie-wysylam-wojsk-ladowych-do-Iranu-9101126.html",
       "title": "Rozluźnienie na Wschodzie? Trump: Nie wysyłam wojsk lądowych do Iranu",
       "content_html": "Nie wysyłam wojsk do Iranu - powiedział w czwartek prezydent USA Donald Trump podczas spotkania z premierką Japonii Sanae Takaichi. Chwalił przy tym Japonię, że stawia czoła wyzwaniu, które spowodowała wojna na Bliskim Wschodzie.",
       "date_published": "2026-03-19T18:25:00+01:00",
       "source": "Bankier.pl"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/firmy/wyniki-cd-projektu-w-iv-kw-2025-roku-vs-konsensus-pap-tabela-aktl",
+      "url": "https://biznes.pap.pl/wiadomosci/firmy/wyniki-cd-projektu-w-iv-kw-2025-roku-vs-konsensus-pap-tabela-aktl",
+      "title": "Wyniki CD Projektu w IV kw. 2025 roku vs. konsensus PAP (tabela, aktl.)",
+      "content_html": "Poniżej przedstawiono wyniki grupy CD Projekt w czwartym kwartale 2025 roku i ich odniesienie do konsensusu PAP Biznes.",
+      "date_published": "2026-03-19T18:24:00+01:00",
+      "source": "PAP Biznes"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/firmy/zysk-netto-cd-projektu-z-dzialalnosci-kontynuowanej-w-iv-kw-wyniosl-1742-mln-zl",
+      "url": "https://biznes.pap.pl/wiadomosci/firmy/zysk-netto-cd-projektu-z-dzialalnosci-kontynuowanej-w-iv-kw-wyniosl-1742-mln-zl",
+      "title": "Zysk netto CD Projektu z działalności kontynuowanej w IV kw. wyniósł 174,2 mln zł, wobec konsensusu 97,4 mln zł",
+      "content_html": "Zysk netto z działalności kontynuowanej grupy CD Projekt w IV kwartale 2025 r. wyniósł 174,2 mln zł - wynika z wyliczeń PAP Biznes na podstawie raportu rocznego spółki. Zysk EBITDA wyniósł 167,7 mln z",
+      "date_published": "2026-03-19T18:23:00+01:00",
+      "source": "PAP Biznes"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Koniec-polowania-na-urzednikow-Sensacyjna-decyzja-prokuratury-ws-SKOK-Wolomin-9101178.html",
@@ -1149,14 +1245,6 @@
       "source": "PAP Biznes"
     },
     {
-      "id": "https://www.bankier.pl/wiadomosc/Premier-Holandii-broni-ETS-Bez-niego-importowalibysmy-miliony-ton-paliw-9100823.html",
-      "url": "https://www.bankier.pl/wiadomosc/Premier-Holandii-broni-ETS-Bez-niego-importowalibysmy-miliony-ton-paliw-9100823.html",
-      "title": "Premier Holandii broni ETS: „Bez niego importowalibyśmy miliony ton paliw”",
-      "content_html": "Premier Holandii Rob Jetten powiedział w czwartek w Brukseli, że system handlu emisjami ETS miał kluczowe znaczenie dla przyspieszenia transformacji w Europie i gdyby nie on, Unia Europejska importowałaby teraz miliony ton paliw kopalnych spoza Europy...",
-      "date_published": "2026-03-19T11:37:00+01:00",
-      "source": "Bankier.pl"
-    },
-    {
       "id": "https://biznes.pap.pl/wiadomosci/gospodarka/wojna-w-zatoce-ryzykiem-dla-produkcji-przemyslowej-po-slabym-starcie-roku",
       "url": "https://biznes.pap.pl/wiadomosci/gospodarka/wojna-w-zatoce-ryzykiem-dla-produkcji-przemyslowej-po-slabym-starcie-roku",
       "title": "Wojna w Zatoce ryzykiem dla produkcji przemysłowej po słabym starcie roku (opinia)",
@@ -1165,34 +1253,18 @@
       "source": "PAP Biznes"
     },
     {
-      "id": "https://www.bankier.pl/wiadomosc/Szef-MF-Nie-wykluczamy-obnizki-podatkow-na-paliwa-jesli-wysokie-ceny-sie-utrzymaja-9100741.html",
-      "url": "https://www.bankier.pl/wiadomosc/Szef-MF-Nie-wykluczamy-obnizki-podatkow-na-paliwa-jesli-wysokie-ceny-sie-utrzymaja-9100741.html",
-      "title": "Szef MF: Nie wykluczamy obniżki podatków na paliwa, jeśli wysokie ceny się utrzymają",
-      "content_html": "Po wybuchu konfliktu zbrojnego na Bliskim Wschodzie rząd analizuje sytuację na rynkach paliw, jeśli ich wysokie ceny będą się utrzymywać, podatki paliwowe mogą zostać obniżone, ale w perspektywie miesięcy a nie dni - wynika z czwartkowej wypowiedzi...",
-      "date_published": "2026-03-19T11:10:00+01:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Tyle-naprawde-zarobi-nauczyciel-Nowe-stawki-od-1-stycznia-2026-9100776.html",
-      "url": "https://www.bankier.pl/wiadomosc/Tyle-naprawde-zarobi-nauczyciel-Nowe-stawki-od-1-stycznia-2026-9100776.html",
-      "title": "Tyle naprawdę zarobi nauczyciel. Nowe stawki od 1 stycznia 2026",
-      "content_html": "Minimalne wynagrodzenie zasadnicze nauczycieli wzrasta od 151 zł do 186 zł brutto. Rozporządzenie w tej sprawie podpisały ministra edukacji Barbara Nowacka i ministra rodziny, pracy i polityki społecznej Agnieszka Dziemianowicz-Bąk - poinformowała...",
-      "date_published": "2026-03-19T11:10:00+01:00",
-      "source": "Bankier.pl"
-    },
-    {
       "id": "https://www.bankier.pl/wiadomosc/Mocna-przecena-srebra-i-zlota-Kwestia-Fedu-czy-poszukiwania-plynnosci-9100801.html",
       "url": "https://www.bankier.pl/wiadomosc/Mocna-przecena-srebra-i-zlota-Kwestia-Fedu-czy-poszukiwania-plynnosci-9100801.html",
-      "title": "Mocna przecena srebra i złota. Kwestia Fedu czy poszukiwania płynności?",
-      "content_html": "Wbrew „fundamentom” czwartkowy poranek przyniósł dalszą wyprzedaż kontraktów terminowych na złoto i srebro.",
+      "title": "Mocna przecena srebra i złota. Kwestia Fedu czy poszukiwania płynności? Wbrew „fundamentom” czwartkowy poranek przyniósł dalszą wyprzedaż kontraktów terminowych na złoto i srebro.",
+      "content_html": "",
       "date_published": "2026-03-19T11:09:00+01:00",
       "source": "Bankier.pl"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Stalexport-Autostrady-chce-wyplacic-0-73-zl-dywidendy-na-akcje-9100796.html",
       "url": "https://www.bankier.pl/wiadomosc/Stalexport-Autostrady-chce-wyplacic-0-73-zl-dywidendy-na-akcje-9100796.html",
-      "title": "Stalexport Autostrady chce wypłacić 0,73 zł dywidendy na akcję",
-      "content_html": "Zarząd spółki Stalexport Autostrady rekomenduje radzie nadzorczej i walnemu zgromadzeniu wypłatę 179,34 mln zł dywidendy z zysku osiągniętego w 2025 roku oraz 1,157 mln zł z zysków z lat ubiegłych (tj. łącznie 180,5 mln zł), co da 0,73 zł...",
+      "title": "Stalexport Autostrady chce wypłacić 0,73 zł dywidendy na akcję Zarząd spółki Stalexport Autostrady rekomenduje radzie nadzorczej i walnemu zgromadzeniu wypłatę 179,34 mln zł dywidendy z zysku osiągniętego w 2025 roku oraz 1,157 mln zł z zysków z lat ubiegłych (tj. łącznie 180,5 mln zł), co da 0,73 zł na akcję - podała spółka w komunikacie.",
+      "content_html": "",
       "date_published": "2026-03-19T11:02:00+01:00",
       "source": "Bankier.pl"
     },
@@ -1434,94 +1506,6 @@
       "title": "Ceny za gaz najwyższe od ponad trzech lat. Kolejne 30 proc. w górę po nowych atakach na Bliskim Wschodzie Globalne rynki stanęły w obliczu nowych wyzwań związanych z wojną na Bliskim Wschodzie. Środowe ataki na kluczową infrastrukturę gazową w Iranie i Katarze oznaczają krytyczne przejście od zakłóceń w łańcuchu dostaw do bezpośredniego zagrożenia dla fizycznej dostępności surowców. Ataki pchnęły ceny gazu w górę o około 30 procent, a inwestorzy porzucają nadzieje na szybkie rozwiązanie problemów na rynku energii, wyceniając ryzyko trwałego ubytku mocy produkcyjnych. Rynki finansowe traciły w efekcie ostatnich ataków.",
       "content_html": "",
       "date_published": "2026-03-19T08:50:00+01:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/firmy/dzien-na-gpw-czwartkowa-sesja-moze-rozpoczac-sie-od-spadkow-18",
-      "url": "https://biznes.pap.pl/wiadomosci/firmy/dzien-na-gpw-czwartkowa-sesja-moze-rozpoczac-sie-od-spadkow-18",
-      "title": "DZIEŃ NA GPW: Czwartkowa sesja może rozpocząć się od spadków",
-      "content_html": "Kontrakty futures na europejskie i amerykańskie indeksy wskazują na spadkowe otwarcie dzisiejszej sesji - ocenili analitycy. Wydarzeniem w lokalnym kalendarium makroekonomicznym będą dane z polskiej g",
-      "date_published": "2026-03-19T08:40:00+01:00",
-      "source": "PAP Biznes"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/firmy/biedronka-wyplaci-pracownikom-po-4-tys-zl-nagrody-za-25-przeznaczy-na-ten-cel",
-      "url": "https://biznes.pap.pl/wiadomosci/firmy/biedronka-wyplaci-pracownikom-po-4-tys-zl-nagrody-za-25-przeznaczy-na-ten-cel",
-      "title": "Biedronka wypłaci pracownikom po 4 tys. zł nagrody za '25; przeznaczy na ten cel ponad 300 mln zł",
-      "content_html": "Biedronka wypłaci w kwietniu po 4 tys. zł brutto nagrody specjalnej za 2025 r. dla 61,5 tys. pracowników - podała Biedronka w komunikacie prasowym. Łącznie na wypłatę nagród w tym roku sieć przeznaczy",
-      "date_published": "2026-03-19T08:36:00+01:00",
-      "source": "PAP Biznes"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/rynki/gaz-w-europie-bardzo-mocno-drozeje",
-      "url": "https://biznes.pap.pl/wiadomosci/rynki/gaz-w-europie-bardzo-mocno-drozeje",
-      "title": "Gaz w Europie bardzo mocno drożeje",
-      "content_html": "Ceny gazu w Europie bardzo mocno wzrosły w czwartek w reakcji na ataki Iranu na infrastrukturę energetyczną w Zatoce Perskiej - informują maklerzy.",
-      "date_published": "2026-03-19T08:35:00+01:00",
-      "source": "PAP Biznes"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/firmy/trwaja-prace-nad-rozwiazaniami-systemowymi-sluzace-finansowaniu-jsw-balczun-map",
-      "url": "https://biznes.pap.pl/wiadomosci/firmy/trwaja-prace-nad-rozwiazaniami-systemowymi-sluzace-finansowaniu-jsw-balczun-map",
-      "title": "Trwają prace nad rozwiązaniami systemowymi służące finansowaniu JSW - Balczun, MAP",
-      "content_html": "Trwają prace nad rozwiązaniami legislacyjnymi, które stworzą możliwość bardziej systemowego finansowania dla JSW - poinformował Wojciech Balczun, minister aktywów państwowych.",
-      "date_published": "2026-03-19T08:30:00+01:00",
-      "source": "PAP Biznes"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/gospodarka/japonska-agencja-jcr-potwierdzila-rating-polski-na-poziomie-z-perspektywa-8",
-      "url": "https://biznes.pap.pl/wiadomosci/gospodarka/japonska-agencja-jcr-potwierdzila-rating-polski-na-poziomie-z-perspektywa-8",
-      "title": "Japońska agencja JCR potwierdziła rating Polski na poziomie \"A\" z perspektywą stabilną",
-      "content_html": "Japan Credit Rating Agency potwierdziła długoterminowy rating Polski w walucie obcej na poziomie \"A\" oraz w walucie krajowej na poziomie \"A+\" - podała agencja w komunikacie. Perspektywy obu ratingów s",
-      "date_published": "2026-03-19T08:28:00+01:00",
-      "source": "PAP Biznes"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/rynki/dzien-na-rynkach-w-azji-na-gieldach-duze-spadki-indeksow-1",
-      "url": "https://biznes.pap.pl/wiadomosci/rynki/dzien-na-rynkach-w-azji-na-gieldach-duze-spadki-indeksow-1",
-      "title": "DZIEŃ NA RYNKACH: W Azji na giełdach duże spadki indeksów",
-      "content_html": "Na azjatyckich giełdach w czwartek notowane są duże spadki najważniejszych indeksów. To reakcja na wzrost cen ropy naftowej na światowych rynkach paliw po atakach na infrastrukturę energetyczną na Bli",
-      "date_published": "2026-03-19T08:22:00+01:00",
-      "source": "PAP Biznes"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/BM-PKO-BP-podniosl-rekomendacje-dla-Text-do-kupuj-cena-docelowa-45-zl-9100671.html",
-      "url": "https://www.bankier.pl/wiadomosc/BM-PKO-BP-podniosl-rekomendacje-dla-Text-do-kupuj-cena-docelowa-45-zl-9100671.html",
-      "title": "BM PKO BP podniósł rekomendację dla Text do \"kupuj\", cena docelowa 45 zł Analitycy BM PKO BP, w raporcie z 18 marca, podnieśli rekomendację dla Text do \"kupuj\" z \"trzymaj\" , a cena docelowa akcji została ustalona na 45 zł wobec 57 zł wcześniej.",
-      "content_html": "",
-      "date_published": "2026-03-19T08:06:00+01:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/firmy/bm-pko-bp-podniosl-rekomendacje-dla-text-do-kupuj-cena-docelowa-45-zl",
-      "url": "https://biznes.pap.pl/wiadomosci/firmy/bm-pko-bp-podniosl-rekomendacje-dla-text-do-kupuj-cena-docelowa-45-zl",
-      "title": "BM PKO BP podniósł rekomendację dla Text do \"kupuj\", cena docelowa 45 zł",
-      "content_html": "Analitycy BM PKO BP, w raporcie z 18 marca, podnieśli rekomendację dla Text do \"kupuj\" z \"trzymaj\" , a cena docelowa akcji została ustalona na 45 zł wobec 57 zł wcześniej.",
-      "date_published": "2026-03-19T08:04:00+01:00",
-      "source": "PAP Biznes"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/rynki/ceny-miedzi-w-londynie-najnizsze-od-xii-2025",
-      "url": "https://biznes.pap.pl/wiadomosci/rynki/ceny-miedzi-w-londynie-najnizsze-od-xii-2025",
-      "title": "Ceny miedzi w Londynie najniższe od XII 2025",
-      "content_html": "Notowania miedzi na giełdzie metali LME w Londynie spadają i są najniższe od grudnia 2025 r. w reakcji na eskalujący konflikt na Bliskim Wschodzie, co zwiększa ryzyka dla rozwoju globalnej gospodarki ",
-      "date_published": "2026-03-19T07:58:00+01:00",
-      "source": "PAP Biznes"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/rynki/najwazniejsze-indeksy-gieldowe-w-azji-684",
-      "url": "https://biznes.pap.pl/wiadomosci/rynki/najwazniejsze-indeksy-gieldowe-w-azji-684",
-      "title": "Najważniejsze indeksy giełdowe w Azji",
-      "content_html": "Poniżej aktualne indeksy wybranych giełd w Azji:",
-      "date_published": "2026-03-19T07:56:00+01:00",
-      "source": "PAP Biznes"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Tecnovatica-przejela-spolke-Grupa-Technologiczna-Pelikan-za-0-5-mln-zl-9100661.html",
-      "url": "https://www.bankier.pl/wiadomosc/Tecnovatica-przejela-spolke-Grupa-Technologiczna-Pelikan-za-0-5-mln-zl-9100661.html",
-      "title": "Tecnovatica przejęła spółkę Grupa Technologiczna Pelikan za 0,5 mln zł Tecnovatica kupiła 100 proc. udziałów w Grupie Technologicznej Pelikan, spółki z sektora nowoczesnych mediów, za 0,5 mln zł - poinformowała spółka w komunikacie.",
-      "content_html": "",
-      "date_published": "2026-03-19T07:52:00+01:00",
       "source": "Bankier.pl"
     }
   ]
