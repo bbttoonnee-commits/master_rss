@@ -5,6 +5,14 @@
   "home_page_url": "https://www.bankier.pl",
   "items": [
     {
+      "id": "https://biznes.pap.pl/wiadomosci/gospodarka/obnizke-stawki-vat-na-paliwa-rzad-trzyma-w-rezerwie-premier",
+      "url": "https://biznes.pap.pl/wiadomosci/gospodarka/obnizke-stawki-vat-na-paliwa-rzad-trzyma-w-rezerwie-premier",
+      "title": "Obniżkę stawki VAT na paliwa rząd \"trzyma w rezerwie\" - premier",
+      "content_html": "Ewentualną obniżkę stawki VAT na paliwa polski rząd \"trzyma w rezerwie\" na wypadek realizacji najczarniejszego scenariusza w konflikcie na Bliskim Wschodzie - poinformował premier Donald Tusk w TVN24.",
+      "date_published": "2026-03-20T21:35:00+01:00",
+      "source": "PAP Biznes"
+    },
+    {
       "id": "https://biznes.pap.pl/wiadomosci/ekonomia-biznes-i-finanse/skrot-wiadomosci-piatek-20-marca-2100",
       "url": "https://biznes.pap.pl/wiadomosci/ekonomia-biznes-i-finanse/skrot-wiadomosci-piatek-20-marca-2100",
       "title": "Skrót wiadomości - piątek, 20 marca, 21.00",
@@ -219,14 +227,6 @@
       "content_html": "Huuuge wypracował w IV kw. 25,2 mln USD skorygowanego zysku EBITDA, co oznacza wzrost o 1,5 proc. rdr - wynika z raportu rocznego. Konsensus PAP Biznes zakładał 23,9 mln USD skorygowanej EBITDA.",
       "date_published": "2026-03-20T17:52:00+01:00",
       "source": "Bankier.pl"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/firmy/huuuge-mial-w-iv-kw-252-mln-usd-skorygowanej-ebitda-wobec-239-mln-usd-konsensusu",
-      "url": "https://biznes.pap.pl/wiadomosci/firmy/huuuge-mial-w-iv-kw-252-mln-usd-skorygowanej-ebitda-wobec-239-mln-usd-konsensusu",
-      "title": "Huuuge miał w IV kw. 25,2 mln USD skorygowanej EBITDA, wobec 23,9 mln USD konsensusu",
-      "content_html": "Huuuge wypracował w IV kw. 25,2 mln USD skorygowanego zysku EBITDA, co oznacza wzrost o 1,5 proc. rdr - wynika z raportu rocznego. Konsensus PAP Biznes zakładał 23,9 mln USD skorygowanej EBITDA.",
-      "date_published": "2026-03-20T17:50:00+01:00",
-      "source": "PAP Biznes"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Jak-i-kogo-Fundacja-GPW-uczy-gieldy-i-inwestowania-9101829.html",
