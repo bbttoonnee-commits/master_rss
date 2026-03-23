@@ -5,10 +5,98 @@
   "home_page_url": "https://www.bankier.pl",
   "items": [
     {
+      "id": "https://biznes.pap.pl/wiadomosci/energia/usa-maja-glowne-punkty-porozumienia-z-iranem-jesli-dobrze-pojdzie-wojna-wkrotce",
+      "url": "https://biznes.pap.pl/wiadomosci/energia/usa-maja-glowne-punkty-porozumienia-z-iranem-jesli-dobrze-pojdzie-wojna-wkrotce",
+      "title": "USA mają główne punkty porozumienia z Iranem; jeśli dobrze pójdzie, wojna wkrótce się skończy - Trump (opis)",
+      "content_html": "Prezydent USA Donald Trump poinformował w poniedziałek, że podczas rozmów z Iranem obie strony uzgodniły „główne punkty porozumienia”. Ocenił, że wkrótce może dojść do zakończenia wojny. Sugerował też",
+      "date_published": "2026-03-23T16:25:00+01:00",
+      "source": "PAP Biznes"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Gawkowski-Polska-bezpieczna-w-sieci-Brak-cyberatakow-z-Bliskiego-Wschodu-9102707.html",
+      "url": "https://www.bankier.pl/wiadomosc/Gawkowski-Polska-bezpieczna-w-sieci-Brak-cyberatakow-z-Bliskiego-Wschodu-9102707.html",
+      "title": "Gawkowski: Polska bezpieczna w sieci. Brak cyberataków z Bliskiego Wschodu",
+      "content_html": "Nie zaobserwowano incydentów cyberbezpieczeństwa, które miałyby szeroki kontekst związany z atakami z państw prowadzących wojnę na Bliskim Wschodzie - poinformował w poniedziałek wicepremier i minister cyfryzacji Krzysztof Gawkowski. Dodał...",
+      "date_published": "2026-03-23T16:23:00+01:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Wybuch-niezidentyfikowanych-urzadzen-w-poblizu-budynkow-mieszkalnych-9102699.html",
+      "url": "https://www.bankier.pl/wiadomosc/Wybuch-niezidentyfikowanych-urzadzen-w-poblizu-budynkow-mieszkalnych-9102699.html",
+      "title": "Wybuch niezidentyfikowanych urządzeń w pobliżu budynków mieszkalnych",
+      "content_html": "Kilka przedmiotów nieznanego pochodzenia wybuchło w poniedziałek niedaleko domów mieszkalnych w mieście Bucza w obwodzie kijowskim - poinformowały lokalne władze. Dodały, że w wyniku zdarzenia dwóch policjantów zostało rannych.",
+      "date_published": "2026-03-23T16:11:00+01:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/DM-BDM-podwyzszyl-rekomendacje-Torpolu-do-akumuluj-cena-docelowa-wzrosla-do-68-1-zl-9102689.html",
+      "url": "https://www.bankier.pl/wiadomosc/DM-BDM-podwyzszyl-rekomendacje-Torpolu-do-akumuluj-cena-docelowa-wzrosla-do-68-1-zl-9102689.html",
+      "title": "\"Akumuluj\" dla Torpolu. Nowa rekomendacja widzi duży potencjał w wynikach 2026 roku",
+      "content_html": "Analitycy Domu Maklerskiego BDM, w raporcie z 23 marca, podwyższyli rekomendację Torpolu do \"akumuluj\" z \"trzymaj\", podwyższając cenę docelową do 68,1 zł z 62,2 zł wcześniej.",
+      "date_published": "2026-03-23T16:00:00+01:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/gospodarka/euro-w-ebc-11596-usd-i-18386-jpy",
+      "url": "https://biznes.pap.pl/wiadomosci/gospodarka/euro-w-ebc-11596-usd-i-18386-jpy",
+      "title": "Euro w EBC: 1,1596 USD i 183,86 JPY",
+      "content_html": "Europejski Bank Centralny (EBC) ustalił kurs euro na 1,1596 USD i 183,86 JPY - podał bank na swojej stronie internetowej.",
+      "date_published": "2026-03-23T15:59:00+01:00",
+      "source": "PAP Biznes"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/firmy/dm-bdm-podwyzszyl-rekomendacje-torpolu-do-akumuluj-cena-docelowa-wzrosla-do-681-zl",
+      "url": "https://biznes.pap.pl/wiadomosci/firmy/dm-bdm-podwyzszyl-rekomendacje-torpolu-do-akumuluj-cena-docelowa-wzrosla-do-681-zl",
+      "title": "DM BDM podwyższył rekomendację Torpolu do \"akumuluj\"; cena docelowa wzrosła do 68,1 zł",
+      "content_html": "Analitycy Domu Maklerskiego BDM, w raporcie z 23 marca, podwyższyli rekomendację Torpolu do \"akumuluj\" z \"trzymaj\", podwyższając cenę docelową do 68,1 zł z 62,2 zł wcześniej.",
+      "date_published": "2026-03-23T15:59:00+01:00",
+      "source": "PAP Biznes"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/BM-PKO-BP-chce-uruchomic-usluge-zarzadzania-funduszami-zelaznymi-9102682.html",
+      "url": "https://www.bankier.pl/wiadomosc/BM-PKO-BP-chce-uruchomic-usluge-zarzadzania-funduszami-zelaznymi-9102682.html",
+      "title": "PKO BP chce uniezależnić fundacje od grantów. Rusza usługa zarządzania kapitałem żelaznym",
+      "content_html": "BM PKO BP chce uruchomić usługę zarządzania funduszami żelaznymi dla organizacji non-profit typu fundacje i uczelnie wyższe - poinformował dyrektor BM PKO BP Samer Masri. Pierwsze umowy mogą być zawarte do końca 2026 roku.",
+      "date_published": "2026-03-23T15:54:00+01:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/firmy/bm-pko-bp-chce-uruchomic-usluge-zarzadzania-funduszami-zelaznymi",
+      "url": "https://biznes.pap.pl/wiadomosci/firmy/bm-pko-bp-chce-uruchomic-usluge-zarzadzania-funduszami-zelaznymi",
+      "title": "BM PKO BP chce uruchomić usługę zarządzania funduszami żelaznymi",
+      "content_html": "BM PKO BP chce uruchomić usługę zarządzania funduszami żelaznymi dla organizacji non-profit typu fundacje i uczelnie wyższe - poinformował dyrektor BM PKO BP Samer Masri. Pierwsze umowy mogą być zawar",
+      "date_published": "2026-03-23T15:52:00+01:00",
+      "source": "PAP Biznes"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Koniec-zlotej-ery-Dramatyczna-zmiana-prognoz-9102677.html",
+      "url": "https://www.bankier.pl/wiadomosc/Koniec-zlotej-ery-Dramatyczna-zmiana-prognoz-9102677.html",
+      "title": "Koniec \"złotej\" ery? Dramatyczna zmiana prognoz",
+      "content_html": "Przecena złota, którą widać w marcu, została wywołana m.in. dramatyczną zmianą oczekiwań co do polityki pieniężnej banków centralnych. Inwestorzy, którzy jeszcze niedawno spodziewali się obniżek lub stabilizacji stóp procentowych, teraz...",
+      "date_published": "2026-03-23T15:49:00+01:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Do-250-tys-zl-bez-prowizji-Sprawdzamy-kredyt-gotowkowy-w-UniCredit-9102465.html",
+      "url": "https://www.bankier.pl/wiadomosc/Do-250-tys-zl-bez-prowizji-Sprawdzamy-kredyt-gotowkowy-w-UniCredit-9102465.html",
+      "title": "Do 250 tys. zł bez prowizji. Sprawdzamy kredyt gotówkowy w UniCredit",
+      "content_html": "UniCredit oferuje kredyt gotówkowy, w którym można pożyczyć nawet 250 tys. zł bez prowizji. Maksymalnie spłatę można rozłożyć na 10 lat. Sprawdzamy, ile kosztuje takie pożyczka, kto może z niego skorzystać i jakie warunki trzeba spełnić...",
+      "date_published": "2026-03-23T15:40:00+01:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Wlochy-powiedzialy-nie-Czy-rzad-Meloni-bedzie-na-krawedzi-porazki-w-kluczowym-referendum-9102666.html",
+      "url": "https://www.bankier.pl/wiadomosc/Wlochy-powiedzialy-nie-Czy-rzad-Meloni-bedzie-na-krawedzi-porazki-w-kluczowym-referendum-9102666.html",
+      "title": "Włochy powiedziały \"nie\"? Czy rząd Meloni będzie na krawędzi porażki w kluczowym referendum",
+      "content_html": "Rząd Giorgii Meloni nieznacznie przegrał dwudniowe referendum w sprawie przyjętej przez parlament ustawy o reformie sądownictwa, której projekt przygotował. Wynika to z danych sondażu exit poll, jakie po zamknięciu lokali wyborczych o godz. 15...",
+      "date_published": "2026-03-23T15:39:00+01:00",
+      "source": "Bankier.pl"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Columbus-uruchomil-procedure-zwrotu-do-WFOSiGW-kwestionowanych-zaliczek-z-Czystego-Powietrza-9102662.html",
       "url": "https://www.bankier.pl/wiadomosc/Columbus-uruchomil-procedure-zwrotu-do-WFOSiGW-kwestionowanych-zaliczek-z-Czystego-Powietrza-9102662.html",
-      "title": "Koniec impasu z funduszami? Columbus oddaje 10 mln zł i żąda wypłaty zaległych środków Columbus Energy uruchomił procedurę natychmiastowego zwrotu do WFOŚiGW pobranych zaliczek w ramach programu priorytetowego \"Czyste Powietrze\" - podała spółka w komunikacie. Columbus do piątku zwróci ze środków własnych na rachunki bankowe WFOŚiGW kwotę w łącznej wysokości około 10 mln zł z należnymi odsetkami.",
-      "content_html": "",
+      "title": "Koniec impasu z funduszami? Columbus oddaje 10 mln zł i żąda wypłaty zaległych środków",
+      "content_html": "Columbus Energy uruchomił procedurę natychmiastowego zwrotu do WFOŚiGW pobranych zaliczek w ramach programu priorytetowego \"Czyste Powietrze\" - podała spółka w komunikacie. Columbus do piątku zwróci ze środków własnych na rachunki bankowe WFOŚiGW...",
       "date_published": "2026-03-23T15:34:00+01:00",
       "source": "Bankier.pl"
     },
@@ -143,7 +231,7 @@
     {
       "id": "https://www.bankier.pl/wiadomosc/Era-po-Buffecie-Berkshire-Hathaway-inwestuje-w-nowa-japonska-spolke-Tokyo-Marine-9102559.html",
       "url": "https://www.bankier.pl/wiadomosc/Era-po-Buffecie-Berkshire-Hathaway-inwestuje-w-nowa-japonska-spolke-Tokyo-Marine-9102559.html",
-      "title": "Podążają śladami Buffetta. Konglomerat inwestuje w nową japońską spółkę",
+      "title": "Era po Buffecie: Berkshire Hathaway inwestuje w nową japońską spółkę",
       "content_html": "Amerykański konglomerat Berkshire Hathaway, kierowany od początku roku przez nowego dyrektora generalnego Grega Abela, który zastąpił na tym stanowisku legendarnego Warrena Buffetta rozszerza swoją obecność w Japonii, inwestując 1,8 miliarda...",
       "date_published": "2026-03-23T14:07:00+01:00",
       "source": "Bankier.pl"
@@ -155,22 +243,6 @@
       "content_html": "Władze Iranu nie prowadzą pośredniej ani bezpośredniej komunikacji z USA - podała w poniedziałek irańska agencja Fars, powołując się na źródło. Wcześniej tego dnia Trump oznajmił, że trwają produktywne rozmowy ze stroną irańską.",
       "date_published": "2026-03-23T14:01:00+01:00",
       "source": "Bankier.pl"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/gospodarka/podaz-pieniadza-m3-w-lutym-wzrosla-o-106-proc-rdr-mdm-wzrosla-o-17-proc-nbp",
-      "url": "https://biznes.pap.pl/wiadomosci/gospodarka/podaz-pieniadza-m3-w-lutym-wzrosla-o-106-proc-rdr-mdm-wzrosla-o-17-proc-nbp",
-      "title": "Podaż pieniądza (M3) w lutym wzrosła o 10,6 proc. rdr, a mdm wzrosła o 1,7 proc. - NBP",
-      "content_html": "Podaż pieniądza (M3) w lutym 2026 r. wzrosła o 10,6 proc. rdr do 2.761.676,1 mln zł - podał Narodowy Bank Polski. W ujęciu miesięcznym podaż pieniądza wzrosła o 1,7 proc.",
-      "date_published": "2026-03-23T14:00:00+01:00",
-      "source": "PAP Biznes"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/rynki/dzien-na-rynkach-futures-w-usa-rosna-trump-mowi-o-rozmowach-z-iranem",
-      "url": "https://biznes.pap.pl/wiadomosci/rynki/dzien-na-rynkach-futures-w-usa-rosna-trump-mowi-o-rozmowach-z-iranem",
-      "title": "DZIEŃ NA RYNKACH: Futures w USA rosną; Trump mówi o rozmowach z Iranem",
-      "content_html": "Kontrakty w USA zwyżkują, podobnie jak indeksy w Europie. Giełdy odwróciły wcześniejsze spadki po zapewnieniach prezydenta USA D. Trumpa, że nie będzie atakował irańskich obiektów energetycznych po ro",
-      "date_published": "2026-03-23T13:56:00+01:00",
-      "source": "PAP Biznes"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/KE-za-nic-ma-protesty-Umowa-UE-Mercosur-bedzie-tymczasowo-stosowana-9102515.html",
@@ -205,14 +277,6 @@
       "source": "Bankier.pl"
     },
     {
-      "id": "https://biznes.pap.pl/wiadomosci/przemysl/gpw-zdecydowala-o-wprowadzeniu-27-marca-akcji-scanway-do-obrotu-na-glownym",
-      "url": "https://biznes.pap.pl/wiadomosci/przemysl/gpw-zdecydowala-o-wprowadzeniu-27-marca-akcji-scanway-do-obrotu-na-glownym",
-      "title": "GPW zdecydowała o wprowadzeniu 27 marca akcji Scanway do obrotu na głównym rynku",
-      "content_html": "Giełda Papierów Wartościowych w Warszawie podjęła uchwałę o wprowadzeniu z dniem 27 marca 2026 r. do obrotu giełdowego na głównym rynku akcji zwykłych na okaziciela serii A, B, C, D, E, F,G i H spółki",
-      "date_published": "2026-03-23T13:35:00+01:00",
-      "source": "PAP Biznes"
-    },
-    {
       "id": "https://www.bankier.pl/wiadomosc/Rzad-obnizy-podatek-od-paliw-i-bedzie-doplacac-do-rachunkow-9102568.html",
       "url": "https://www.bankier.pl/wiadomosc/Rzad-obnizy-podatek-od-paliw-i-bedzie-doplacac-do-rachunkow-9102568.html",
       "title": "Rząd obniży podatek od paliw i będzie dopłacać do rachunków",
@@ -243,14 +307,6 @@
       "content_html": "Świat przyzwyczaił się już do rosnących globalnych napięć i widma kolejnych konfliktów, ale czy inwestorzy są gotowi na nadpływające \"czarne łabędzie\"? Według najnowszego raportu World Economic Forum wkraczamy w erę głębokich konfrontacji...",
       "date_published": "2026-03-23T13:23:00+01:00",
       "source": "Bankier.pl"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/gospodarka/glapinski-i-sobon-przejeli-nadzor-nad-departamentami-nbp-po-m-kightley-i-p",
-      "url": "https://biznes.pap.pl/wiadomosci/gospodarka/glapinski-i-sobon-przejeli-nadzor-nad-departamentami-nbp-po-m-kightley-i-p",
-      "title": "A. Glapiński i A. Soboń przejęli nadzór nad departamentami NBP po M. Kightley i P. Pogonowskim",
-      "content_html": "Prezes NBP Adam Glapiński przejął nadzór w zarządzie NBP nad Departamentem Operacji Krajowych oraz Departamentem Administracji po wygaśnięciu kadencji w zarządzie Marty Kightley - wynika ze schematu o",
-      "date_published": "2026-03-23T13:17:00+01:00",
-      "source": "PAP Biznes"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Relacja-na-zywo-dla-Lawrowa-Bruksela-zada-od-Wegier-pilnych-wyjasnien-9102536.html",
@@ -317,12 +373,28 @@
       "source": "Bankier.pl"
     },
     {
+      "id": "https://biznes.pap.pl/wiadomosci/rynki/dzien-na-rynkach-futures-w-usa-rosna-ceny-ropy-spadaja-trump-odklada-dalsze-ataki",
+      "url": "https://biznes.pap.pl/wiadomosci/rynki/dzien-na-rynkach-futures-w-usa-rosna-ceny-ropy-spadaja-trump-odklada-dalsze-ataki",
+      "title": "DZIEŃ NA RYNKACH: Futures w USA rosną, ceny ropy spadają; Trump odkłada dalsze ataki na Iran",
+      "content_html": "Prezydent USA Donald Trump podał we wpisie na swojej platformie mediów społecznościowych Truth Social, że odkłada ataki na obiekty energetyczne Iranu wobec toczących się rozmów z władzami w Teheranie.",
+      "date_published": "2026-03-23T12:21:00+01:00",
+      "source": "PAP Biznes"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Bedzie-rzadowa-interwencja-ws-cen-paliw-Kosiniak-Kamysz-Jestesmy-gotowi-9102500.html",
       "url": "https://www.bankier.pl/wiadomosc/Bedzie-rzadowa-interwencja-ws-cen-paliw-Kosiniak-Kamysz-Jestesmy-gotowi-9102500.html",
       "title": "Będzie rządowa interwencja ws. cen paliw? Kosiniak-Kamysz: Jesteśmy gotowi",
       "content_html": "Wicepremier i minister obrony narodowej Władysław Kosiniak-Kamysz podkreślił w poniedziałek, że rząd jest „gotowy do interwencji” w kontekście obecnych cen paliw. Wyraził też optymizm, co do ustabilizowania się rynków w perspektywie kilkutygodniowej...",
       "date_published": "2026-03-23T12:13:00+01:00",
       "source": "Bankier.pl"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/gospodarka/tygodniowy-przeglad-z-regionu-polityka-i-gospodarka-16-22-marca",
+      "url": "https://biznes.pap.pl/wiadomosci/gospodarka/tygodniowy-przeglad-z-regionu-polityka-i-gospodarka-16-22-marca",
+      "title": "TYGODNIOWY PRZEGLĄD Z REGIONU: Polityka i Gospodarka, 16-22 marca",
+      "content_html": "Poniżej przedstawiamy przegląd wiadomości politycznych i makroekonomicznych z Europy Środkowo-Wschodniej oraz Grecji i Turcji z okresu 16-22 marca 2026 roku.",
+      "date_published": "2026-03-23T12:01:00+01:00",
+      "source": "PAP Biznes"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Miliardy-odtworzen-zero-sluchaczy-czyli-oszustwo-na-symulacje-slawy-warte-8-milionow-dolarow-9102431.html",
@@ -339,6 +411,22 @@
       "content_html": "Nowa edycja promocji na nowe środki Konta Oszczędnościowego Plus jest już nieco mniej korzystna dla klientów. Bank zachował niektóre parametry oferty, ale najważniejszy, czyli oprocentowanie, zostało obniżone o 0,25 pp.",
       "date_published": "2026-03-23T12:00:00+01:00",
       "source": "Bankier.pl"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/gospodarka/do-22-marca-podpisano-umowy-na-623-proc-funduszy-ue-na-lata-2021-2027-mfipr",
+      "url": "https://biznes.pap.pl/wiadomosci/gospodarka/do-22-marca-podpisano-umowy-na-623-proc-funduszy-ue-na-lata-2021-2027-mfipr",
+      "title": "Do 22 marca podpisano umowy na 62,3 proc. funduszy UE na lata 2021-2027 - MFiPR",
+      "content_html": "Do 22 marca podpisano 25.509 umów na unijne dofinansowanie projektów, które wykorzystają 62,3 proc. dostępnej puli środków z polityki spójności UE na lata 2021-2027 - poinformowało na stronie internet",
+      "date_published": "2026-03-23T12:00:00+01:00",
+      "source": "PAP Biznes"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/rynki/tygodniowy-przeglad-z-regionu-biznes-i-rynki-16-22-marca",
+      "url": "https://biznes.pap.pl/wiadomosci/rynki/tygodniowy-przeglad-z-regionu-biznes-i-rynki-16-22-marca",
+      "title": "TYGODNIOWY PRZEGLĄD Z REGIONU: Biznes i Rynki, 16-22 marca",
+      "content_html": "Poniżej przedstawiamy przegląd wiadomości o spółkach, sektorach gospodarki i rynkach finansowych Europy Środkowo-Wschodniej oraz Grecji i Turcji z okresu 16-22 marca 2026 roku.",
+      "date_published": "2026-03-23T12:00:00+01:00",
+      "source": "PAP Biznes"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Torpol-widzi-presje-konkurencyjna-na-rynku-nie-obawia-sie-o-kontrakt-dot-Warszawy-Wsch-9102487.html",
@@ -626,6 +714,14 @@
       "title": "Nakłady inwestycyjne przedsiębiorstw 2025 r. wzrosły o 3,2 proc. rdr do 217,6 mld zł - GUS (opis)",
       "content_html": "Nakłady inwestycyjne przedsiębiorstw w 2025 r. wyniosły 217,6 mld zł i były (w cenach stałych) o 3,2 proc. wyższe niż przed rokiem (kiedy notowano spadek o 7,8 proc.) - podał w komunikacie GUS.",
       "date_published": "2026-03-23T09:52:00+01:00",
+      "source": "PAP Biznes"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/rynki/dzien-na-rynkach-w-europie-na-gieldach-indeksy-mocno-w-dol",
+      "url": "https://biznes.pap.pl/wiadomosci/rynki/dzien-na-rynkach-w-europie-na-gieldach-indeksy-mocno-w-dol",
+      "title": "DZIEŃ NA RYNKACH: W Europie na giełdach indeksy mocno w dół",
+      "content_html": "Na europejskich giełdach notowane są mocne spadki indeksów. Główny wskaźnik Stoxx 600 Europe zmierza ku korekcie wobec rekordu z lutego, w miarę jak konflikt na Bliskim Wschodzie eskaluje. Na rynku wa",
+      "date_published": "2026-03-23T09:50:00+01:00",
       "source": "PAP Biznes"
     },
     {
@@ -1154,46 +1250,6 @@
       "title": "Koniec swobodnego tankowania. Słowenia wprowadza drastyczne ograniczenia",
       "content_html": "Rząd Słowenii tymczasowo ograniczył zakupy paliw na stacjach benzynowych do 50 litrów dziennie dla pojazdów prywatnych i 200 litrów dla firm i innych priorytetowych użytkowników, takich jak rolnicy - ogłosił premier Robert Golob, cytowany w...",
       "date_published": "2026-03-23T01:02:00+01:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Gwarancje-bezpieczenstwa-dla-Ukrainy-Witkoff-Rozmowy-konstruktywne-9102274.html",
-      "url": "https://www.bankier.pl/wiadomosc/Gwarancje-bezpieczenstwa-dla-Ukrainy-Witkoff-Rozmowy-konstruktywne-9102274.html",
-      "title": "Gwarancje bezpieczeństwa dla Ukrainy? Witkoff: Rozmowy konstruktywne",
-      "content_html": "Zakończona w niedzielę dwudniowa runda rozmów z delegacją Ukrainy na Florydzie była konstruktywna i skupiała się na sprawie gwarancji bezpieczeństwa dla Ukrainy oraz działaniach humanitarnych - poinformował specjalny wysłannik Białego Domu...",
-      "date_published": "2026-03-22T21:23:00+01:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Rosja-wraca-na-orbite-Udany-start-z-Bajkonuru-po-miesiacach-paralizu-9102245.html",
-      "url": "https://www.bankier.pl/wiadomosc/Rosja-wraca-na-orbite-Udany-start-z-Bajkonuru-po-miesiacach-paralizu-9102245.html",
-      "title": "Rosja wraca na orbitę? Udany start z Bajkonuru po miesiącach paraliżu",
-      "content_html": "Rosja wystrzeliła w niedzielę pierwszą rakietę z naprawionego stanowiska startowego w dzierżawionym przez SIEBIE kosmodromie Bajkonur w Kazachstanie, co oznacza, że przywrócona została możliwość lotu na Międzynarodową Stację Kosmiczną (ISS)...",
-      "date_published": "2026-03-22T20:11:00+01:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Ostateczny-szantaz-Teheranu-Jesli-Trump-zaatakuje-100-milionow-ludzi-zostanie-bez-wody-9102262.html",
-      "url": "https://www.bankier.pl/wiadomosc/Ostateczny-szantaz-Teheranu-Jesli-Trump-zaatakuje-100-milionow-ludzi-zostanie-bez-wody-9102262.html",
-      "title": "Ostateczny szantaż Teheranu: Jeśli Trump zaatakuje, 100 milionów ludzi zostanie bez wody",
-      "content_html": "Teheran ostrzegł w niedzielę, że w przypadku amerykańskiego ataku na irańskie elektrownie, instalacje odsalania wody w regionie mogą zostać zniszczone. W krajach Zatoki Perskiej zapewniają one ok. 70 proc. wody pitnej, a ich uszkodzenie mogłoby...",
-      "date_published": "2026-03-22T20:11:00+01:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Wojna-o-siarke-Dlaczego-blokada-Ciesniny-Ormuz-to-paraliz-Twojej-lodowki-i-telefonu-9102246.html",
-      "url": "https://www.bankier.pl/wiadomosc/Wojna-o-siarke-Dlaczego-blokada-Ciesniny-Ormuz-to-paraliz-Twojej-lodowki-i-telefonu-9102246.html",
-      "title": "Wojna o siarkę: Dlaczego blokada Cieśniny Ormuz to paraliż Twojej lodówki i telefonu?",
-      "content_html": "Po wybuchu wojny na Bliskim Wschodzie uwaga mediów skupia się na cenie ropy, ale blokada cieśniny Ormuz uderza także w podaż innego kluczowego surowca – siarki. Region Zatoki Perskiej odpowiada za połowę jej morskiego handlu, więc zakłócenia...",
-      "date_published": "2026-03-22T20:09:00+01:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Izrael-odcina-poludniowy-Liban-Masowe-wyburzenia-domow-i-mostow-9102220.html",
-      "url": "https://www.bankier.pl/wiadomosc/Izrael-odcina-poludniowy-Liban-Masowe-wyburzenia-domow-i-mostow-9102220.html",
-      "title": "Izrael odcina południowy Liban. Masowe wyburzenia domów i mostów",
-      "content_html": "Minister obrony Izraela Israel Kac oświadczył w niedzielę, że wraz z premierem Benjaminem Netanjahu polecił wojsku przyspieszenie wyburzania domów libańskich w „wioskach na linii frontu”, aby położyć kres zagrożeniom dla społeczności...",
-      "date_published": "2026-03-22T20:02:00+01:00",
       "source": "Bankier.pl"
     },
     {
