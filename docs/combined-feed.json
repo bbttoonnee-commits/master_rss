@@ -5,6 +5,14 @@
   "home_page_url": "https://www.bankier.pl",
   "items": [
     {
+      "id": "https://biznes.pap.pl/wiadomosci/rynki/dzien-na-rynkach-gieldy-w-usa-w-dol-ropa-i-rentownosci-obligacji-w-gore",
+      "url": "https://biznes.pap.pl/wiadomosci/rynki/dzien-na-rynkach-gieldy-w-usa-w-dol-ropa-i-rentownosci-obligacji-w-gore",
+      "title": "DZIEŃ NA RYNKACH: Giełdy w USA w dół, ropa i rentowności obligacji w górę",
+      "content_html": "Wtorkowa sesja na Wall Street zakończyła się spadkami głównych indeksów, gdyż ceny ropy naftowej ponownie wzrosły, a rentowność obligacji skarbowych poszła w górę po aukcji 2-letnich obligacji, którą ",
+      "date_published": "2026-03-24T22:11:00+01:00",
+      "source": "PAP Biznes"
+    },
+    {
       "id": "https://biznes.pap.pl/wiadomosci/energia/iran-zgodzil-sie-ze-nigdy-nie-pozyska-broni-jadrowej-trump-opis",
       "url": "https://biznes.pap.pl/wiadomosci/energia/iran-zgodzil-sie-ze-nigdy-nie-pozyska-broni-jadrowej-trump-opis",
       "title": "Iran zgodził się, że nigdy nie pozyska broni jądrowej - Trump (opis)",
@@ -15,8 +23,8 @@
     {
       "id": "https://www.bankier.pl/wiadomosc/Wall-Street-nabrala-watpliwosci-Spadkowa-sesja-za-Atlantykiem-9103648.html",
       "url": "https://www.bankier.pl/wiadomosc/Wall-Street-nabrala-watpliwosci-Spadkowa-sesja-za-Atlantykiem-9103648.html",
-      "title": "Wall Street nabrała wątpliwości. Spadkowa sesja za Atlantykiem Wtorkowa sesja na nowojorskich giełdach nie przyniosła kontynuacji poniedziałkowego odbicia. W zwyżkach przeszkodziły sprzeczne doniesienia na temat zawarcia pokoju z Iranem.",
-      "content_html": "",
+      "title": "Wall Street nabrała wątpliwości. Spadkowa sesja za Atlantykiem",
+      "content_html": "Wtorkowa sesja na nowojorskich giełdach nie przyniosła kontynuacji poniedziałkowego odbicia. W zwyżkach przeszkodziły sprzeczne doniesienia na temat zawarcia pokoju z Iranem.",
       "date_published": "2026-03-24T21:05:00+01:00",
       "source": "Bankier.pl"
     },
@@ -301,14 +309,6 @@
       "source": "PAP Biznes"
     },
     {
-      "id": "https://biznes.pap.pl/wiadomosci/rynki/dzien-na-rynkach-europejskie-gieldy-na-plusach-ale-niepewnosc-utrzymuje-sie",
-      "url": "https://biznes.pap.pl/wiadomosci/rynki/dzien-na-rynkach-europejskie-gieldy-na-plusach-ale-niepewnosc-utrzymuje-sie",
-      "title": "DZIEŃ NA RYNKACH: Europejskie giełdy na plusach, ale niepewność utrzymuje się",
-      "content_html": "Europejskie giełdy zakończyły wtorkową sesję na plusach; na Wall Street w pierwszych godzinach handlu panują mieszane nastroje. Inwestorzy analizują możliwe scenariusze rozwoju sytuacji na Bliskim Wsc",
-      "date_published": "2026-03-24T18:09:00+01:00",
-      "source": "PAP Biznes"
-    },
-    {
       "id": "https://www.bankier.pl/wiadomosc/NATO-przegrupowuje-okrety-Niemcy-wypelniaja-luke-po-Brytyjczykach-9103462.html",
       "url": "https://www.bankier.pl/wiadomosc/NATO-przegrupowuje-okrety-Niemcy-wypelniaja-luke-po-Brytyjczykach-9103462.html",
       "title": "NATO przegrupowuje okręty. Niemcy wypełniają lukę po Brytyjczykach",
@@ -467,6 +467,14 @@
       "content_html": "Elemental Battery Metals, spółka z Grupy Elemental, podpisała z?Komisją Europejską umowę o?dofinansowanie projektu Polvolt w?Zawierciu. Grant w?wysokości 150,692 mln euro pochodzi z?Innovation Fund - podała grupa w komunikacie prasowym.",
       "date_published": "2026-03-24T16:16:00+01:00",
       "source": "Bankier.pl"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/gospodarka/euro-w-ebc-11572-usd-i-18391-jpy",
+      "url": "https://biznes.pap.pl/wiadomosci/gospodarka/euro-w-ebc-11572-usd-i-18391-jpy",
+      "title": "Euro w EBC: 1,1572 USD i 183,91 JPY",
+      "content_html": "Europejski Bank Centralny (EBC) ustalił kurs euro na 1,1572 USD i 183,91 JPY - podał bank na swojej stronie internetowej.",
+      "date_published": "2026-03-24T16:06:00+01:00",
+      "source": "PAP Biznes"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Kryzys-jak-w-latach-70-Ostrzezenie-przed-przed-paralizem-przemyslu-i-miliardowymi-stratami-9103360.html",
