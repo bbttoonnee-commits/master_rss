@@ -5,12 +5,228 @@
   "home_page_url": "https://www.bankier.pl",
   "items": [
     {
+      "id": "https://biznes.pap.pl/wiadomosci/firmy/wp-holding-spodziewa-sie-w-i-kw-jednocyfrowego-wzrostu-przychodow-rdr-w-seg",
+      "url": "https://biznes.pap.pl/wiadomosci/firmy/wp-holding-spodziewa-sie-w-i-kw-jednocyfrowego-wzrostu-przychodow-rdr-w-seg",
+      "title": "WP Holding spodziewa się w I kw. jednocyfrowego wzrostu przychodów rdr w seg. reklama i subskrypcje",
+      "content_html": "Grupa WP Holding spodziewa się w I kwartale 2026 roku jednocyfrowego wzrostu przychodów rdr w segmencie reklama i subskrypcje - podała spółka w raporcie. Wyniki segmentu turystyka mogą pozostawać pod ",
+      "date_published": "2026-03-24T18:28:00+01:00",
+      "source": "PAP Biznes"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Kurierzy-napedzaja-PKB-Konkurencja-obnizyla-sredni-koszt-dostawy-do-11-zl-9103472.html",
+      "url": "https://www.bankier.pl/wiadomosc/Kurierzy-napedzaja-PKB-Konkurencja-obnizyla-sredni-koszt-dostawy-do-11-zl-9103472.html",
+      "title": "Kurierzy napędzają PKB. Konkurencja obniżyła średni koszt dostawy do 11 zł",
+      "content_html": "Znaczenie branży kurierskiej dla polskiej gospodarki systematycznie rośnie – wynika z raportu Zespołu Doradców Gospodarczych TOR. W 2025 r. sektor wygenerował ok. 27,2 mld zł wartości dodanej, co odpowiada blisko 0,75 proc. PKB, wobec 24,7 mld...",
+      "date_published": "2026-03-24T18:18:00+01:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Strata-netto-j-d-Wirtualnej-Polski-w-IV-kw-25-wyniosla-130-7-mln-zl-wobec-zysku-6-4-mln-zl-konsensusu-9103561.html",
+      "url": "https://www.bankier.pl/wiadomosc/Strata-netto-j-d-Wirtualnej-Polski-w-IV-kw-25-wyniosla-130-7-mln-zl-wobec-zysku-6-4-mln-zl-konsensusu-9103561.html",
+      "title": "Strata netto j.d. Wirtualnej Polski w IV kw. '25 wyniosła 130,7 mln zł wobec zysku 6,4 mln zł konsensusu",
+      "content_html": "Strata netto jednostki dominującej Wirtualnej Polski w czwartym kwartale 2025 wyniosła 130,7 mln zł - podała spółka w raporcie. Konsensus PAP Biznes zakładał 6,4 mln zł zysku j.d.",
+      "date_published": "2026-03-24T18:18:00+01:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/firmy/strata-netto-jd-wirtualnej-polski-w-iv-kw-25-wyniosla-1307-mln-zl-wobec-zysku-64",
+      "url": "https://biznes.pap.pl/wiadomosci/firmy/strata-netto-jd-wirtualnej-polski-w-iv-kw-25-wyniosla-1307-mln-zl-wobec-zysku-64",
+      "title": "Strata netto j.d. Wirtualnej Polski w IV kw. '25 wyniosła 130,7 mln zł wobec zysku 6,4 mln zł konsensusu",
+      "content_html": "Strata netto jednostki dominującej Wirtualnej Polski w czwartym kwartale 2025 wyniosła 130,7 mln zł - podała spółka w raporcie. Konsensus PAP Biznes zakładał 6,4 mln zł zysku j.d.",
+      "date_published": "2026-03-24T18:16:00+01:00",
+      "source": "PAP Biznes"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/rynki/dzien-na-rynkach-europejskie-gieldy-na-plusach-ale-niepewnosc-utrzymuje-sie",
+      "url": "https://biznes.pap.pl/wiadomosci/rynki/dzien-na-rynkach-europejskie-gieldy-na-plusach-ale-niepewnosc-utrzymuje-sie",
+      "title": "DZIEŃ NA RYNKACH: Europejskie giełdy na plusach, ale niepewność utrzymuje się",
+      "content_html": "Europejskie giełdy zakończyły wtorkową sesję na plusach; na Wall Street w pierwszych godzinach handlu panują mieszane nastroje. Inwestorzy analizują możliwe scenariusze rozwoju sytuacji na Bliskim Wsc",
+      "date_published": "2026-03-24T18:09:00+01:00",
+      "source": "PAP Biznes"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/NATO-przegrupowuje-okrety-Niemcy-wypelniaja-luke-po-Brytyjczykach-9103462.html",
+      "url": "https://www.bankier.pl/wiadomosc/NATO-przegrupowuje-okrety-Niemcy-wypelniaja-luke-po-Brytyjczykach-9103462.html",
+      "title": "NATO przegrupowuje okręty. Niemcy wypełniają lukę po Brytyjczykach",
+      "content_html": "Po przeniesieniu przez Wielką Brytanię niszczyciela HMS Dragon na Morze Śródziemne Niemcy wzmacniają obecność swojej marynarki wojennej na północnym Atlantyku. Fregata Sachsen przejęła dowodzenie nad stałą grupą zadaniową NATO - poinformował...",
+      "date_published": "2026-03-24T18:08:00+01:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Stopy-procentowe-sa-za-niskie-Joanna-Tyrowicz-za-podwyzka-do-4-75-proc-9103470.html",
+      "url": "https://www.bankier.pl/wiadomosc/Stopy-procentowe-sa-za-niskie-Joanna-Tyrowicz-za-podwyzka-do-4-75-proc-9103470.html",
+      "title": "Stopy procentowe są za niskie? Joanna Tyrowicz za podwyżką do 4,75 proc.",
+      "content_html": "Na ten moment odpowiedni poziom stopy procentowej to 4,75 proc. - oceniła członkini Rady Polityki Pieniężnej, Joanna Tyrowicz.",
+      "date_published": "2026-03-24T18:07:00+01:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Zamiast-120-euro-jedynie-50-euro-za-dobe-Przewoznicy-wywalczyli-stawki-za-parking-na-Bialorusi-9103452.html",
+      "url": "https://www.bankier.pl/wiadomosc/Zamiast-120-euro-jedynie-50-euro-za-dobe-Przewoznicy-wywalczyli-stawki-za-parking-na-Bialorusi-9103452.html",
+      "title": "Zamiast 120 euro jedynie 50 euro za dobę. Przewoźnicy wywalczyli stawki za „parking” na Białorusi",
+      "content_html": "Ogólnopolskie Stowarzyszenie Przewoźników z Białej Podlaskiej porozumiało się z władzami Białorusi, a zatrzymane w tym kraju pojazdy należące do polskich firm transportowych wrócą do Polski - poinformował we wtorek PAP prezes stowarzyszenia...",
+      "date_published": "2026-03-24T18:04:00+01:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/rynki/zamkniecia-na-gieldach-w-europie-tabela-2843",
+      "url": "https://biznes.pap.pl/wiadomosci/rynki/zamkniecia-na-gieldach-w-europie-tabela-2843",
+      "title": "Zamknięcia na giełdach w Europie (tabela)",
+      "content_html": "Poniżej zamknięcia i zmiany wybranych indeksów giełdowych w Europie.",
+      "date_published": "2026-03-24T18:01:00+01:00",
+      "source": "PAP Biznes"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Beneficjenci-kryzysu-w-Zatoce-od-amerykanskich-koncernow-po-chinskich-armatorow-9103423.html",
+      "url": "https://www.bankier.pl/wiadomosc/Beneficjenci-kryzysu-w-Zatoce-od-amerykanskich-koncernow-po-chinskich-armatorow-9103423.html",
+      "title": "Beneficjenci kryzysu w Zatoce: od amerykańskich koncernów po chińskich armatorów",
+      "content_html": "Na blokadzie Cieśniny Ormuz wygrywają ci, którzy mają węglowodory spoza Bliskiego Wschodu: Amerykanie, ale i Rosjanie – powiedział PAP Wojciech Jakóbik, analityk sektora energetycznego. W ocenie Ernesta Czermańskiego z UG sytuację w Zatoce...",
+      "date_published": "2026-03-24T17:59:00+01:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Wyniki-Wirtualnej-Polski-w-IV-kw-2025-roku-vs-konsensus-PAP-tabela-9103545.html",
+      "url": "https://www.bankier.pl/wiadomosc/Wyniki-Wirtualnej-Polski-w-IV-kw-2025-roku-vs-konsensus-PAP-tabela-9103545.html",
+      "title": "Wyniki Wirtualnej Polski w IV kw. 2025 roku vs. konsensus PAP (tabela)",
+      "content_html": "Poniżej przedstawiamy wyniki Wirtualnej Polski w czwartym kwartale 2025 roku i ich odniesienie do konsensusu PAP Biznes.",
+      "date_published": "2026-03-24T17:54:00+01:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/firmy/wyniki-wirtualnej-polski-w-iv-kw-2025-roku-vs-konsensus-pap-tabela",
+      "url": "https://biznes.pap.pl/wiadomosci/firmy/wyniki-wirtualnej-polski-w-iv-kw-2025-roku-vs-konsensus-pap-tabela",
+      "title": "Wyniki Wirtualnej Polski w IV kw. 2025 roku vs. konsensus PAP (tabela)",
+      "content_html": "Poniżej przedstawiamy wyniki Wirtualnej Polski w czwartym kwartale 2025 roku i ich odniesienie do konsensusu PAP Biznes.",
+      "date_published": "2026-03-24T17:52:00+01:00",
+      "source": "PAP Biznes"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Milionowe-oszustwa-w-NCBR-i-PARP-CBA-zatrzymalo-kolejnych-podejrzanych-9103400.html",
+      "url": "https://www.bankier.pl/wiadomosc/Milionowe-oszustwa-w-NCBR-i-PARP-CBA-zatrzymalo-kolejnych-podejrzanych-9103400.html",
+      "title": "Milionowe oszustwa w NCBR i PARP. CBA zatrzymało kolejnych podejrzanych",
+      "content_html": "Centralne Biuro Antykorupcyjne zatrzymało pięć osób, które miały oszukać Narodowe Centrum Badań i Rozwoju, wyłudzając środki na dofinansowanie projektów unijnych i rozliczając granty niezgodnie z przeznaczeniem.",
+      "date_published": "2026-03-24T17:49:00+01:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/To-zdrada-za-ktora-grozi-dozywocie-Wegierska-opozycja-uderza-w-Szijjarto-9103398.html",
+      "url": "https://www.bankier.pl/wiadomosc/To-zdrada-za-ktora-grozi-dozywocie-Wegierska-opozycja-uderza-w-Szijjarto-9103398.html",
+      "title": "„To zdrada, za którą grozi dożywocie”. Węgierska opozycja uderza w Szijjártó",
+      "content_html": "Minister spraw zagranicznych Węgier Peter Szijjarto przyznał, że konsultuje z Rosją tematy poruszane na forum Unii Europejskiej - przekazał we wtorek portal Telex, powołując się na rozmowę z szefem węgierskiej dyplomacji.",
+      "date_published": "2026-03-24T17:47:00+01:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Prezes-TK-pisze-do-prezydenta-Zapowiada-kroki-prawne-przeciwko-prokuratorom-9103376.html",
+      "url": "https://www.bankier.pl/wiadomosc/Prezes-TK-pisze-do-prezydenta-Zapowiada-kroki-prawne-przeciwko-prokuratorom-9103376.html",
+      "title": "Prezes TK pisze do prezydenta. Zapowiada kroki prawne przeciwko prokuratorom",
+      "content_html": "Prezes Trybunału Konstytucyjnego Bogdan Święczkowski zapowiada złożenie zawiadomienia ws. odmowy umorzenia śledztwa w sprawie, w której wnioskowano o uchylenie mu immunitetu. W liście do prezydenta Święczkowski wskazał, że prokuratura, kwestionując...",
+      "date_published": "2026-03-24T17:28:00+01:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Wielka-oblawa-na-falszerzy-euro-Robili-banknoty-50-i-100-euro-9103373.html",
+      "url": "https://www.bankier.pl/wiadomosc/Wielka-oblawa-na-falszerzy-euro-Robili-banknoty-50-i-100-euro-9103373.html",
+      "title": "Wielka obława na fałszerzy euro. Robili banknoty 50 i 100 euro",
+      "content_html": "Rumuńska policja zlikwidowała we wtorek w okręgu Suczawa, na północy kraju, dużą fabrykę fałszywych banknotów euro. Należała ona, jak twierdzą śledczy, do rumuńsko-bułgarskiej grupy przestępczej.",
+      "date_published": "2026-03-24T17:24:00+01:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/BFG-okreslil-wysokosc-skladki-BNP-Paribas-BP-na-fundusz-przymusowej-restrukturyzacji-na-ok-238-9-mln-zl-9103520.html",
+      "url": "https://www.bankier.pl/wiadomosc/BFG-okreslil-wysokosc-skladki-BNP-Paribas-BP-na-fundusz-przymusowej-restrukturyzacji-na-ok-238-9-mln-zl-9103520.html",
+      "title": "BFG określił wysokość składki BNP Paribas BP na fundusz przymusowej restrukturyzacji na ok. 238,9 mln zł",
+      "content_html": "Bankowy Fundusz Gwarancyjny określił wysokość składki na fundusz przymusowej restrukturyzacji od BNP Paribas Bank Polska w 2026 roku w kwocie ok. 238,9 mln zł z uwzględnieniem wysokości korekty składki za 2025 r. - poinformował bank w komunikacie...",
+      "date_published": "2026-03-24T17:24:00+01:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/firmy/bfg-okreslil-wysokosc-skladki-bnp-paribas-bp-na-fundusz-przymusowej-0",
+      "url": "https://biznes.pap.pl/wiadomosci/firmy/bfg-okreslil-wysokosc-skladki-bnp-paribas-bp-na-fundusz-przymusowej-0",
+      "title": "BFG określił wysokość składki BNP Paribas BP na fundusz przymusowej restrukturyzacji na ok. 238,9 mln zł",
+      "content_html": "Bankowy Fundusz Gwarancyjny określił wysokość składki na fundusz przymusowej restrukturyzacji od BNP Paribas Bank Polska w 2026 roku w kwocie ok. 238,9 mln zł z uwzględnieniem wysokości korekty składk",
+      "date_published": "2026-03-24T17:21:00+01:00",
+      "source": "PAP Biznes"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/gospodarka/dzien-na-fxfi-zloty-i-obligacje-z-lekkim-oslabieniem-rynek-spodziewa-sie",
+      "url": "https://biznes.pap.pl/wiadomosci/gospodarka/dzien-na-fxfi-zloty-i-obligacje-z-lekkim-oslabieniem-rynek-spodziewa-sie",
+      "title": "DZIEŃ NA FX/FI: Złoty i obligacje z lekkim osłabieniem; rynek spodziewa się podwyżek stóp proc.",
+      "content_html": "Wtorkowa sesja na krajowych rynkach FX i FI przebiegała spokojnie, przy niewielkim osłabieniu polskiej waluty i wzrostach rentowności krajowych obligacji. Zdaniem zarządzających, kontrakty terminowe n",
+      "date_published": "2026-03-24T17:21:00+01:00",
+      "source": "PAP Biznes"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Zarzad-Mennicy-Polskiej-rekomenduje-wyplate-1-5-zl-dywidendy-na-akcje-za-25-9103515.html",
+      "url": "https://www.bankier.pl/wiadomosc/Zarzad-Mennicy-Polskiej-rekomenduje-wyplate-1-5-zl-dywidendy-na-akcje-za-25-9103515.html",
+      "title": "Zarząd Mennicy Polskiej rekomenduje wypłatę 1,5 zł dywidendy na akcję za '25",
+      "content_html": "Zarząd Mennicy Polskiej rekomenduje wypłatę 1,5 zł dywidendy na akcję za 2025 rok, czyli łącznie na ten cel chce przeznaczyć 76,5 mln zł - podała spółka w komunikacie.",
+      "date_published": "2026-03-24T17:20:00+01:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/firmy/zarzad-mennicy-polskiej-rekomenduje-wyplate-15-zl-dywidendy-na-akcje-za-25",
+      "url": "https://biznes.pap.pl/wiadomosci/firmy/zarzad-mennicy-polskiej-rekomenduje-wyplate-15-zl-dywidendy-na-akcje-za-25",
+      "title": "Zarząd Mennicy Polskiej rekomenduje wypłatę 1,5 zł dywidendy na akcję za '25",
+      "content_html": "Zarząd Mennicy Polskiej rekomenduje wypłatę 1,5 zł dywidendy na akcję za 2025 rok, czyli łącznie na ten cel chce przeznaczyć 76,5 mln zł - podała spółka w komunikacie.",
+      "date_published": "2026-03-24T17:18:00+01:00",
+      "source": "PAP Biznes"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Kilkugroszowe-obnizki-na-stacjach-paliw-Analityk-studzi-optymizm-9103482.html",
+      "url": "https://www.bankier.pl/wiadomosc/Kilkugroszowe-obnizki-na-stacjach-paliw-Analityk-studzi-optymizm-9103482.html",
+      "title": "Kilkugroszowe obniżki na stacjach paliw? Analityk studzi optymizm",
+      "content_html": "Wtorkowa obniżka cen paliw Orlenu w hurcie powinna się przełożyć na kilku, może kilkunastogroszowe obniżki w handlu detalicznym - wskazał analityk portalu e-petrol.pl Jakub Bogucki. Zastrzegł jednak, że to nie oznacza jeszcze powrotu do niskich...",
+      "date_published": "2026-03-24T17:17:00+01:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Drony-uderzyly-w-serce-Lwowa-Zagrozone-bezcenne-polskie-dokumenty-NATO-poderwalo-mysliwce-9103488.html",
+      "url": "https://www.bankier.pl/wiadomosc/Drony-uderzyly-w-serce-Lwowa-Zagrozone-bezcenne-polskie-dokumenty-NATO-poderwalo-mysliwce-9103488.html",
+      "title": "Drony uderzyły w serce Lwowa. Zagrożone bezcenne polskie dokumenty. NATO poderwało myśliwce",
+      "content_html": "W centrum Lwowa w wyniku rosyjskiego ataku ucierpiał XVII-wieczny kościół św. Andrzeja wpisany na listę światowego dziedzictwa UNESCO; co najmniej dwie osoby zostały poważnie ranne - przekazała we wtorek premierka Ukrainy Julia Swyrydenko.",
+      "date_published": "2026-03-24T17:14:00+01:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Sesja-na-GPW-korekta-oczekiwan-na-pokoj-spadki-indeksow-i-rajd-Trans-Polonii-9103456.html",
+      "url": "https://www.bankier.pl/wiadomosc/Sesja-na-GPW-korekta-oczekiwan-na-pokoj-spadki-indeksow-i-rajd-Trans-Polonii-9103456.html",
+      "title": "Sesja na GPW: korekta oczekiwań na pokój, spadki indeksów i rajd Trans Polonii",
+      "content_html": "Po poniedziałkowym roller coasterze na rynkach, wtorek przyniósł ponowne ochłodzenie temperatury na giełdowych parkietach. WIG20, który zaczynał sesję od lekkich wzrostów, zakończył dzień pod kreską, ciągnięty w dół przez akcje banków...",
+      "date_published": "2026-03-24T17:12:00+01:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/PKP-CargoTabor-zlozylo-do-sadu-propozycje-ukladowe-dla-wierzycieli-9103480.html",
+      "url": "https://www.bankier.pl/wiadomosc/PKP-CargoTabor-zlozylo-do-sadu-propozycje-ukladowe-dla-wierzycieli-9103480.html",
+      "title": "Przełom w restrukturyzacji PKP CargoTabor. Podział wierzycieli na sześć grup",
+      "content_html": "PKP CargoTabor złożyło do Sądzie Rejonowym dla m.st. Warszawy propozycje układowe dla wierzycieli - podało PKP Cargo w komunikacie.",
+      "date_published": "2026-03-24T17:08:00+01:00",
+      "source": "Bankier.pl"
+    },
+    {
       "id": "https://biznes.pap.pl/wiadomosci/ekonomia-biznes-i-finanse/skrot-wiadomosci-wtorek-24-marca-1700",
       "url": "https://biznes.pap.pl/wiadomosci/ekonomia-biznes-i-finanse/skrot-wiadomosci-wtorek-24-marca-1700",
       "title": "Skrót wiadomości - wtorek, 24 marca, 17.00",
       "content_html": "Przegląd najważniejszych wiadomości gospodarczych, krajowych i ze świata.",
       "date_published": "2026-03-24T17:00:00+01:00",
       "source": "PAP Biznes"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Baza-na-Ksiezycu-za-20-mld-dolarow-Ambitny-harmonogram-NASA-9103453.html",
+      "url": "https://www.bankier.pl/wiadomosc/Baza-na-Ksiezycu-za-20-mld-dolarow-Ambitny-harmonogram-NASA-9103453.html",
+      "title": "Baza na Księżycu za 20 mld dolarów. Ambitny harmonogram NASA",
+      "content_html": "NASA jest zdecydowana powrócić na Księżyc przed końcem kadencji prezydenta Trumpa – powiedział we wtorek administrator NASA Jared Isaacman. Dodał, że agencja rezygnuje z orbitalnej stacji księżycowej Gateway, a zamiast niej zbuduje bazę na...",
+      "date_published": "2026-03-24T16:58:00+01:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Black-Hawki-i-Belle-pod-nowymi-rygorami-Rzad-zmienia-prawo-lotnicze-dla-sluzb-9103458.html",
+      "url": "https://www.bankier.pl/wiadomosc/Black-Hawki-i-Belle-pod-nowymi-rygorami-Rzad-zmienia-prawo-lotnicze-dla-sluzb-9103458.html",
+      "title": "Black Hawki i Belle pod nowymi rygorami. Rząd zmienia prawo lotnicze dla służb",
+      "content_html": "Rząd przyjął nowelizację przepisów o funkcjonowaniu lotnictwa służb porządku publicznego - policji i straży granicznej – poinformował resort spraw wewnętrznych i administracji w komunikacie po wtorkowym posiedzeniu Rady Ministrów.",
+      "date_published": "2026-03-24T16:55:00+01:00",
+      "source": "Bankier.pl"
     },
     {
       "id": "https://biznes.pap.pl/wiadomosci/firmy/dzien-na-gpw-sesja-pod-znakiem-spadkow-waznym-wsparciem-dla-wig20-poziomy-3135",
@@ -26,22 +242,6 @@
       "title": "Wolne środki z BGK trafią do Ministra Finansów. Nowy sposób na mniejsze potrzeby pożyczkowe",
       "content_html": "Wolne środki w funduszach prowadzonych przez Bank Gospodarstwa Krajowego trafią pod zarząd Ministerstwa Finansów - zakłada projekt nowelizacji ustawy o finansach publicznych, który we wtorek przyjął rząd.",
       "date_published": "2026-03-24T16:47:00+01:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/PKP-CargoTabor-zlozylo-do-sadu-propozycje-ukladowe-dla-wierzycieli-9103480.html",
-      "url": "https://www.bankier.pl/wiadomosc/PKP-CargoTabor-zlozylo-do-sadu-propozycje-ukladowe-dla-wierzycieli-9103480.html",
-      "title": "PKP CargoTabor złożyło do sądu propozycje układowe dla wierzycieli",
-      "content_html": "PKP CargoTabor złożyło do Sądzie Rejonowym dla m.st. Warszawy propozycje układowe dla wierzycieli - podało PKP Cargo w komunikacie.",
-      "date_published": "2026-03-24T16:42:00+01:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Ile-jest-krajowego-wkladu-w-najwiekszych-inwestycjach-Polska-zmierzy-jako-pierwsza-w-UE-9103454.html",
-      "url": "https://www.bankier.pl/wiadomosc/Ile-jest-krajowego-wkladu-w-najwiekszych-inwestycjach-Polska-zmierzy-jako-pierwsza-w-UE-9103454.html",
-      "title": "Ile jest krajowego wkładu w największych inwestycjach? Polska zmierzy jako pierwsza w UE",
-      "content_html": "W drugim półroczu Główny Urząd Statystyczny przeprowadzi pilotażowe badanie wśród firm z branży energetycznej, które ma dać odpowiedź na pytanie, ile w projektach w tej branży jest tzw. local content, czyli czynnika krajowego. Z czasem badania...",
-      "date_published": "2026-03-24T16:41:00+01:00",
       "source": "Bankier.pl"
     },
     {
@@ -69,14 +269,6 @@
       "source": "Bankier.pl"
     },
     {
-      "id": "https://biznes.pap.pl/wiadomosci/firmy/kghm-ma-memorandum-dot-wspolpracy-i-analiz-potencjalnych-projektow-surowcowych-w",
-      "url": "https://biznes.pap.pl/wiadomosci/firmy/kghm-ma-memorandum-dot-wspolpracy-i-analiz-potencjalnych-projektow-surowcowych-w",
-      "title": "KGHM ma memorandum dot. współpracy i analiz potencjalnych projektów surowcowych w Maroku",
-      "content_html": "KGHM Polska Miedź podpisała z Office National des Hydrocarbures et des Mines i Managem Group memorandum dotyczące współpracy i analiz potencjalnych inwestycji w sektorze surowców Maroka - podała grupa",
-      "date_published": "2026-03-24T16:22:00+01:00",
-      "source": "PAP Biznes"
-    },
-    {
       "id": "https://www.bankier.pl/wiadomosc/Afera-Epsteina-uderza-w-bank-Rothschildow-Przeszukania-w-paryskiej-siedzibie-9103444.html",
       "url": "https://www.bankier.pl/wiadomosc/Afera-Epsteina-uderza-w-bank-Rothschildow-Przeszukania-w-paryskiej-siedzibie-9103444.html",
       "title": "Afera Epsteina uderza w bank Rothschildów. Przeszukania w paryskiej siedzibie",
@@ -99,22 +291,6 @@
       "content_html": "Elemental Battery Metals, spółka z Grupy Elemental, podpisała z?Komisją Europejską umowę o?dofinansowanie projektu Polvolt w?Zawierciu. Grant w?wysokości 150,692 mln euro pochodzi z?Innovation Fund - podała grupa w komunikacie prasowym.",
       "date_published": "2026-03-24T16:16:00+01:00",
       "source": "Bankier.pl"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/firmy/spolka-z-grupy-elemental-podpisala-z-ke-umowe-o-dofinansowanie-projektu-polvolt",
-      "url": "https://biznes.pap.pl/wiadomosci/firmy/spolka-z-grupy-elemental-podpisala-z-ke-umowe-o-dofinansowanie-projektu-polvolt",
-      "title": "Spółka z Grupy Elemental podpisała z KE umowę o dofinansowanie projektu Polvolt",
-      "content_html": "Elemental Battery Metals, spółka z Grupy Elemental, podpisała z Komisją Europejską umowę o dofinansowanie projektu Polvolt w Zawierciu. Grant w wysokości 150,692 mln euro pochodzi z Innovation Fund - ",
-      "date_published": "2026-03-24T16:15:00+01:00",
-      "source": "PAP Biznes"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/gospodarka/euro-w-ebc-11572-usd-i-18391-jpy",
-      "url": "https://biznes.pap.pl/wiadomosci/gospodarka/euro-w-ebc-11572-usd-i-18391-jpy",
-      "title": "Euro w EBC: 1,1572 USD i 183,91 JPY",
-      "content_html": "Europejski Bank Centralny (EBC) ustalił kurs euro na 1,1572 USD i 183,91 JPY - podał bank na swojej stronie internetowej.",
-      "date_published": "2026-03-24T16:06:00+01:00",
-      "source": "PAP Biznes"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Kryzys-jak-w-latach-70-Ostrzezenie-przed-przed-paralizem-przemyslu-i-miliardowymi-stratami-9103360.html",
@@ -165,22 +341,6 @@
       "source": "Bankier.pl"
     },
     {
-      "id": "https://biznes.pap.pl/wiadomosci/firmy/ac-chce-przeznaczyc-caly-zysk-netto-za-25-na-kapital-zapasowy",
-      "url": "https://biznes.pap.pl/wiadomosci/firmy/ac-chce-przeznaczyc-caly-zysk-netto-za-25-na-kapital-zapasowy",
-      "title": "AC chce przeznaczyć cały zysk netto za '25 na kapitał zapasowy",
-      "content_html": "Zarząd AC, zgodnie z przyjętą w październiku strategią biznesową na lata 2025-2030, postanawia zarekomendować Walnemu Zgromadzeniu Akcjonariuszy przeznaczenie całego zysku netto za 2025 rok na kapitał",
-      "date_published": "2026-03-24T15:41:00+01:00",
-      "source": "PAP Biznes"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/firmy/rzad-przyjal-projekt-zwiekszajacy-efektywnosc-budowy-elektrowni-jadrowych-opis",
-      "url": "https://biznes.pap.pl/wiadomosci/firmy/rzad-przyjal-projekt-zwiekszajacy-efektywnosc-budowy-elektrowni-jadrowych-opis",
-      "title": "Rząd przyjął projekt zwiększający efektywność budowy elektrowni jądrowych (opis)",
-      "content_html": "Rząd przyjął projekt mający na celu przyspieszenie i uproszczenie realizacji inwestycji w obszarze energetyki jądrowej - podano w komunikacie po posiedzeniu Rady Ministrów.",
-      "date_published": "2026-03-24T15:32:00+01:00",
-      "source": "PAP Biznes"
-    },
-    {
       "id": "https://www.bankier.pl/wiadomosc/Marvipol-liczy-na-wyjscie-z-segmentu-magazynowego-do-konca-27-chce-rozwijac-segment-hotelowy-9103413.html",
       "url": "https://www.bankier.pl/wiadomosc/Marvipol-liczy-na-wyjscie-z-segmentu-magazynowego-do-konca-27-chce-rozwijac-segment-hotelowy-9103413.html",
       "title": "Marvipol liczy na wyjście z segmentu magazynowego do końca '27; chce rozwijać segment hotelowy",
@@ -189,36 +349,12 @@
       "source": "Bankier.pl"
     },
     {
-      "id": "https://biznes.pap.pl/wiadomosci/firmy/marvipol-liczy-na-wyjscie-z-segmentu-magazynowego-do-konca-27-chce-rozwijac",
-      "url": "https://biznes.pap.pl/wiadomosci/firmy/marvipol-liczy-na-wyjscie-z-segmentu-magazynowego-do-konca-27-chce-rozwijac",
-      "title": "Marvipol liczy na wyjście z segmentu magazynowego do końca '27; chce rozwijać segment hotelowy",
-      "content_html": "Marvipol Development liczy na wyjście z segmentu magazynowego do końca 2027 r. Grupa chce mocniej rozwijać segment hotelowy - poinformowali podczas wideokonferencji przedstawiciele spółki. W ocenie za",
-      "date_published": "2026-03-24T15:27:00+01:00",
-      "source": "PAP Biznes"
-    },
-    {
       "id": "https://www.bankier.pl/wiadomosc/Niewiadow-PGM-ma-memorandum-o-wspolpracy-ws-m-in-materialow-wysokoenergetycznych-9103406.html",
       "url": "https://www.bankier.pl/wiadomosc/Niewiadow-PGM-ma-memorandum-o-wspolpracy-ws-m-in-materialow-wysokoenergetycznych-9103406.html",
       "title": "Niewiadów - PGM ma memorandum o współpracy ws. m.in. materiałów wysokoenergetycznych",
       "content_html": "Spółka zależna od Niewiadów - PGM, Zakłady Sprzętu Precyzyjnego Niewiadów (ZSP), zawarła z czeską spółką Explosia memorandum o współpracy w zakresie materiałów wysokoenergetycznych oraz rozwoju projektów amunicyjnych - podał Niewiadów...",
       "date_published": "2026-03-24T15:24:00+01:00",
       "source": "Bankier.pl"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/firmy/niewiadow-pgm-ma-memorandum-o-wspolpracy-ws-min-materialow-wysokoenergetycznych",
-      "url": "https://biznes.pap.pl/wiadomosci/firmy/niewiadow-pgm-ma-memorandum-o-wspolpracy-ws-min-materialow-wysokoenergetycznych",
-      "title": "Niewiadów - PGM ma memorandum o współpracy ws. m.in. materiałów wysokoenergetycznych",
-      "content_html": "Spółka zależna od Niewiadów - PGM, Zakłady Sprzętu Precyzyjnego Niewiadów (ZSP), zawarła z czeską spółką Explosia memorandum o współpracy w zakresie materiałów wysokoenergetycznych oraz rozwoju projek",
-      "date_published": "2026-03-24T15:23:00+01:00",
-      "source": "PAP Biznes"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/gospodarka/rzad-przyjal-projekt-zakladajacy-sprawniejsze-zarzadzanie-dlugiem-publicznym",
-      "url": "https://biznes.pap.pl/wiadomosci/gospodarka/rzad-przyjal-projekt-zakladajacy-sprawniejsze-zarzadzanie-dlugiem-publicznym",
-      "title": "Rząd przyjął projekt zakładający sprawniejsze zarządzanie długiem publicznym",
-      "content_html": "Rząd przyjął we wtorek projekt zakładający sprawniejsze zarządzanie długiem publicznym - podano w komunikacie po posiedzeniu Rady Ministrów. Projekt zakłada m. in., że wolne środki w funduszach prowad",
-      "date_published": "2026-03-24T15:22:00+01:00",
-      "source": "PAP Biznes"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/PSL-sklada-wlasny-projekt-ws-finansowania-zbrojen-z-NBP-9103238.html",
@@ -277,6 +413,14 @@
       "source": "Bankier.pl"
     },
     {
+      "id": "https://biznes.pap.pl/wiadomosci/firmy/bgk-zaoferuje-na-przetargu-26-marca-4-serie-obligacji-fpc-za-min-500-mln-zl",
+      "url": "https://biznes.pap.pl/wiadomosci/firmy/bgk-zaoferuje-na-przetargu-26-marca-4-serie-obligacji-fpc-za-min-500-mln-zl",
+      "title": "BGK zaoferuje na przetargu 26 marca 4 serie obligacji FPC za min. 500 mln zł",
+      "content_html": "Bank Gospodarstwa Krajowego na przetargu 26 marca, w ramach emisji na rzecz Funduszu Przeciwdziałania COVID-19, zaoferuje papiery serii FPC0229, FPC0231, FPC0332 i FPC0235, podaż wyniesie minimalnie 5",
+      "date_published": "2026-03-24T15:00:00+01:00",
+      "source": "PAP Biznes"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/BFG-okreslil-wysokosc-skladki-Alior-Banku-na-fundusz-przymusowej-restrukturyzacji-na-86-8-mln-zl-9103372.html",
       "url": "https://www.bankier.pl/wiadomosc/BFG-okreslil-wysokosc-skladki-Alior-Banku-na-fundusz-przymusowej-restrukturyzacji-na-86-8-mln-zl-9103372.html",
       "title": "BFG określił wysokość składki Alior Banku na fundusz przymusowej restrukturyzacji na 86,8 mln zł",
@@ -291,6 +435,38 @@
       "content_html": "Bankowy Fundusz Gwarancyjny określił wysokość składki na fundusz przymusowej restrukturyzacji należnej od mBanku za 2026 r. na ok. 285,12 mln zł - poinformował bank w komunikacie.",
       "date_published": "2026-03-24T14:56:00+01:00",
       "source": "Bankier.pl"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/firmy/bfg-okreslil-wysokosc-skladki-alior-banku-na-fundusz-przymusowej-0",
+      "url": "https://biznes.pap.pl/wiadomosci/firmy/bfg-okreslil-wysokosc-skladki-alior-banku-na-fundusz-przymusowej-0",
+      "title": "BFG określił wysokość składki Alior Banku na fundusz przymusowej restrukturyzacji na 86,8 mln zł",
+      "content_html": "Bankowy Fundusz Gwarancyjny ustalił dla Alior Banku składkę na fundusz przymusowej restrukturyzacji banków w wysokości 86,8 mln zł - poinformował bank w komunikacie.",
+      "date_published": "2026-03-24T14:56:00+01:00",
+      "source": "PAP Biznes"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/firmy/bfg-okreslil-wysokosc-skladki-mbanku-na-fundusz-przymusowej-restrukturyzacji-na-0",
+      "url": "https://biznes.pap.pl/wiadomosci/firmy/bfg-okreslil-wysokosc-skladki-mbanku-na-fundusz-przymusowej-restrukturyzacji-na-0",
+      "title": "BFG określił wysokość składki mBanku na fundusz przymusowej restrukturyzacji na ok. 285,12 mln zł",
+      "content_html": "Bankowy Fundusz Gwarancyjny określił wysokość składki na fundusz przymusowej restrukturyzacji należnej od mBanku za 2026 r. na ok. 285,12 mln zł - poinformował bank w komunikacie.",
+      "date_published": "2026-03-24T14:54:00+01:00",
+      "source": "PAP Biznes"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/gospodarka/rzad-omawial-we-wtorek-scenariusze-dot-cen-paliw-decyzje-zalezne-od-przebiegu",
+      "url": "https://biznes.pap.pl/wiadomosci/gospodarka/rzad-omawial-we-wtorek-scenariusze-dot-cen-paliw-decyzje-zalezne-od-przebiegu",
+      "title": "Rząd omawiał we wtorek scenariusze dot. cen paliw; decyzje zależne od przebiegu wojny - rzecznik",
+      "content_html": "W czasie wtorkowego posiedzenia Rady Ministrów były omawiane scenariusze związane z cenami paliw w Polsce, a ewentualne decyzje w tej sprawie będą podejmowane w najbliższych dniach, w zależności od pr",
+      "date_published": "2026-03-24T14:51:00+01:00",
+      "source": "PAP Biznes"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/firmy/minister-domanski-liczy-na-inwestycje-brytyjskich-firm-zbrojeniowych-w-polsce",
+      "url": "https://biznes.pap.pl/wiadomosci/firmy/minister-domanski-liczy-na-inwestycje-brytyjskich-firm-zbrojeniowych-w-polsce",
+      "title": "Minister Domański liczy na inwestycje brytyjskich firm zbrojeniowych w Polsce",
+      "content_html": "Minister finansów i gospodarki Andrzej Domański liczy na nowe inwestycje brytyjskich firm zbrojeniowych w Polsce. Podczas rozmowy z dziennikarzami wspomniał, że decyzje w tej sprawie mogą zostać podję",
+      "date_published": "2026-03-24T14:39:00+01:00",
+      "source": "PAP Biznes"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/BFG-okreslil-wysokosc-skladki-ING-BS-na-fundusz-przymusowej-restrukturyzacji-na-246-mln-zl-9103357.html",
@@ -503,17 +679,9 @@
     {
       "id": "https://www.bankier.pl/wiadomosc/Fundusze-TFI-Allianz-Polska-maja-ponizej-5-proc-akcji-Dadelo-9103242.html",
       "url": "https://www.bankier.pl/wiadomosc/Fundusze-TFI-Allianz-Polska-maja-ponizej-5-proc-akcji-Dadelo-9103242.html",
-      "title": "Fundusze TFI Allianz Polska mają poniżej 5 proc. akcji Dadelo",
-      "content_html": "Fundusze zarządzane przez TFI Allianz Polska zmnieszyły zaangażowanie w akcjonariacie Dadelo do poniżej 5 proc. - poinformowała spółka w komunikacie.",
+      "title": "Fundusze TFI Allianz Polska mają poniżej 5 proc. akcji Dadelo Fundusze zarządzane przez TFI Allianz Polska zmnieszyły zaangażowanie w akcjonariacie Dadelo do poniżej 5 proc. - poinformowała spółka w komunikacie.",
+      "content_html": "",
       "date_published": "2026-03-24T12:22:00+01:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/12-godzin-i-do-domu-Ministerstwo-Zdrowia-wprowadza-elastyczne-leczenie-9103240.html",
-      "url": "https://www.bankier.pl/wiadomosc/12-godzin-i-do-domu-Ministerstwo-Zdrowia-wprowadza-elastyczne-leczenie-9103240.html",
-      "title": "12 godzin i do domu. Ministerstwo Zdrowia wprowadza elastyczne leczenie",
-      "content_html": "Ministerstwo Zdrowia chce, aby udzielanie świadczeń szpitalnych w niektórych przypadkach było możliwe bez formalnego przyjęcia pacjenta na hospitalizację. Nowe rozwiązanie miałoby wejść w życie 1 lipca – wynika z projektu rozporządzenia...",
-      "date_published": "2026-03-24T12:20:00+01:00",
       "source": "Bankier.pl"
     },
     {
@@ -725,6 +893,14 @@
       "source": "Bankier.pl"
     },
     {
+      "id": "https://www.bankier.pl/wiadomosc/Netanjahu-Trump-widzi-szanse-na-porozumienie-z-Iranem-9102948.html",
+      "url": "https://www.bankier.pl/wiadomosc/Netanjahu-Trump-widzi-szanse-na-porozumienie-z-Iranem-9102948.html",
+      "title": "Netanjahu: Trump widzi szansę na porozumienie z Iranem",
+      "content_html": "Premier Izraela Benjamin Netanjahu powiedział w poniedziałek, że rozmawiał z prezydentem USA Donaldem Trumpem i widzi on szanse na porozumienie z Iranem. Trump informował wcześniej, że Stany Zjednoczone prowadzą negocjacje pokojowe z Iranem, ale...",
+      "date_published": "2026-03-24T10:59:00+01:00",
+      "source": "Bankier.pl"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/TSUE-wydal-wyrok-ws-neosedziow-9103137.html",
       "url": "https://www.bankier.pl/wiadomosc/TSUE-wydal-wyrok-ws-neosedziow-9103137.html",
       "title": "TSUE wydał wyrok ws. neosędziów",
@@ -893,28 +1069,12 @@
       "source": "Bankier.pl"
     },
     {
-      "id": "https://biznes.pap.pl/wiadomosci/gospodarka/ceny-skupu-podstawowych-produktow-rolnych-w-lutym-rdr-spadly-o-99-proc-gus",
-      "url": "https://biznes.pap.pl/wiadomosci/gospodarka/ceny-skupu-podstawowych-produktow-rolnych-w-lutym-rdr-spadly-o-99-proc-gus",
-      "title": "Ceny skupu podstawowych produktów rolnych w lutym rdr spadły o 9,9 proc. - GUS",
-      "content_html": "W lutym ceny skupu podstawowych produktów rolnych, tj. pszenicy, żyta, żywca wołowego, żywca wieprzowego, drobiu i mleka krowiego w ujęciu rok do roku spadły o 9,9 proc. - podał Główny Urząd Statystyc",
-      "date_published": "2026-03-24T09:39:00+01:00",
-      "source": "PAP Biznes"
-    },
-    {
       "id": "https://www.bankier.pl/wiadomosc/Zakaz-prania-w-tygodniu-i-przymusowy-postoj-aut-Korea-wprowadza-drastyczne-oszczednosci-9103095.html",
       "url": "https://www.bankier.pl/wiadomosc/Zakaz-prania-w-tygodniu-i-przymusowy-postoj-aut-Korea-wprowadza-drastyczne-oszczednosci-9103095.html",
       "title": "Zakaz prania w tygodniu i przymusowy postój aut. Korea wprowadza drastyczne oszczędności",
       "content_html": "Prezydent Korei Płd. Li Dze Mjung wezwał we wtorek do podjęcia ogólnokrajowej kampanii oszczędzania energii w obliczu wojny na Bliskim Wschodzie. Rząd wprowadza system rotacyjny dla aut służbowych i planuje dodatkowy budżet w wysokości 25 bln...",
       "date_published": "2026-03-24T09:38:00+01:00",
       "source": "Bankier.pl"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/gospodarka/sprzedaz-hurtowa-przedsiebiorstw-handlowych-w-lutym-wzrosla-o-66-proc-rdr-gus",
-      "url": "https://biznes.pap.pl/wiadomosci/gospodarka/sprzedaz-hurtowa-przedsiebiorstw-handlowych-w-lutym-wzrosla-o-66-proc-rdr-gus",
-      "title": "Sprzedaż hurtowa przedsiębiorstw handlowych w lutym wzrosła o 6,6 proc. rdr - GUS",
-      "content_html": "Sprzedaż hurtowa przedsiębiorstw handlowych w lutym wzrosła o 6,6 proc. rdr, po spadku o 0,5 proc. miesiąc wcześniej, a mdm wzrosła o 5,2 proc. po spadku o 12,7 proc. poprzednio - podał Główny Urząd S",
-      "date_published": "2026-03-24T09:37:00+01:00",
-      "source": "PAP Biznes"
     },
     {
       "id": "https://biznes.pap.pl/wiadomosci/gospodarka/nowe-zamowienia-w-przemysle-na-eksport-w-lutym-spadly-o-30-proc-rdr-gus",
@@ -1053,35 +1213,19 @@
       "source": "Bankier.pl"
     },
     {
-      "id": "https://www.bankier.pl/wiadomosc/Kredytowa-lawina-w-Polsce-Sprzedaz-hipotek-wystrzelila-o-54-proc-9103062.html",
-      "url": "https://www.bankier.pl/wiadomosc/Kredytowa-lawina-w-Polsce-Sprzedaz-hipotek-wystrzelila-o-54-proc-9103062.html",
-      "title": "Kredytowa lawina w Polsce. Sprzedaż hipotek wystrzeliła o 54 proc.",
-      "content_html": "Banki udzieliły w lutym br. o 54,1 proc. więcej kredytów mieszkaniowych w porównaniu do lutego 2025 r. – podało we wtorek Biuro Informacji Kredytowej. Średnia kwota udzielonego w lutym kredytu mieszkaniowego wyniosła 454,05 tys. zł.",
-      "date_published": "2026-03-24T08:55:00+01:00",
+      "id": "https://www.bankier.pl/wiadomosc/Oferta-Mirbudu-w-wys-237-6-mln-zl-brutto-najkorzystniejsza-w-postepowaniu-Miasta-Stolecznego-Warszawa-9103085.html",
+      "url": "https://www.bankier.pl/wiadomosc/Oferta-Mirbudu-w-wys-237-6-mln-zl-brutto-najkorzystniejsza-w-postepowaniu-Miasta-Stolecznego-Warszawa-9103085.html",
+      "title": "Oferta Mirbudu w wys. 237,6 mln zł brutto najkorzystniejsza w postępowaniu Miasta Stołecznego Warszawa Oferta Mirbudu została wybrana jako najkorzystniejsza w postępowaniu Miasta Stołecznego Warszawa - Stołecznego Centrum Sportu AKTYWNA WARSZAWA - podał Mirbud w komunikacie. Wartość oferty to 237,6 mln zł brutto.",
+      "content_html": "",
+      "date_published": "2026-03-24T08:52:00+01:00",
       "source": "Bankier.pl"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Oferta-Mirbudu-najkorzystniejsza-na-rozbudowe-i-budowe-drogi-powiatowej-w-powiecie-slupeckim-9103083.html",
       "url": "https://www.bankier.pl/wiadomosc/Oferta-Mirbudu-najkorzystniejsza-na-rozbudowe-i-budowe-drogi-powiatowej-w-powiecie-slupeckim-9103083.html",
-      "title": "Oferta Mirbudu najkorzystniejsza na rozbudowę i budowę drogi powiatowej w powiecie słupeckim",
-      "content_html": "Oferta Mirbudu o wartości 137,9 mln zł brutto na rozbudowę i budowę drogi powiatowej w powiecie słupeckim została wybrana jako najkorzystniejsza - poinformowała spółka w komunikacie.",
+      "title": "Oferta Mirbudu najkorzystniejsza na rozbudowę i budowę drogi powiatowej w powiecie słupeckim Oferta Mirbudu o wartości 137,9 mln zł brutto na rozbudowę i budowę drogi powiatowej w powiecie słupeckim została wybrana jako najkorzystniejsza - poinformowała spółka w komunikacie.",
+      "content_html": "",
       "date_published": "2026-03-24T08:52:00+01:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Oferta-Mirbudu-w-wys-237-6-mln-zl-brutto-najkorzystniejsza-w-postepowaniu-Miasta-Stolecznego-Warszawa-9103085.html",
-      "url": "https://www.bankier.pl/wiadomosc/Oferta-Mirbudu-w-wys-237-6-mln-zl-brutto-najkorzystniejsza-w-postepowaniu-Miasta-Stolecznego-Warszawa-9103085.html",
-      "title": "Oferta Mirbudu w wys. 237,6 mln zł brutto najkorzystniejsza w postępowaniu Miasta Stołecznego Warszawa",
-      "content_html": "Oferta Mirbudu została wybrana jako najkorzystniejsza w postępowaniu Miasta Stołecznego Warszawa - Stołecznego Centrum Sportu AKTYWNA WARSZAWA - podał Mirbud w komunikacie. Wartość oferty to 237,6 mln zł brutto.",
-      "date_published": "2026-03-24T08:52:00+01:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Milion-nielegalnych-e-papierosow-na-rynku-CBSP-rozbilo-gang-pseudokibicow-9103052.html",
-      "url": "https://www.bankier.pl/wiadomosc/Milion-nielegalnych-e-papierosow-na-rynku-CBSP-rozbilo-gang-pseudokibicow-9103052.html",
-      "title": "Milion nielegalnych e-papierosów na rynku. CBŚP rozbiło gang pseudokibiców",
-      "content_html": "Nawet milion sztuk nielegalnych e-papierosów i płynów do nich – bez znaków akcyzy – mogła wprowadzić na rynek rozbita przez policjantów grupa przestępcza. Gang, w którego skład wchodziły osoby związane ze środowiskiem pseudokibiców,...",
-      "date_published": "2026-03-24T08:51:00+01:00",
       "source": "Bankier.pl"
     },
     {
@@ -1091,14 +1235,6 @@
       "content_html": "Oferta Mirbudu o wartości 137,9 mln zł brutto na rozbudowę i budowę drogi powiatowej w powiecie słupeckim została wybrana jako najkorzystniejsza - poinformowała spółka w komunikacie.",
       "date_published": "2026-03-24T08:51:00+01:00",
       "source": "PAP Biznes"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Filipiny-stawiaja-na-wegiel-by-ograniczyc-wzrost-cen-pradu-9103070.html",
-      "url": "https://www.bankier.pl/wiadomosc/Filipiny-stawiaja-na-wegiel-by-ograniczyc-wzrost-cen-pradu-9103070.html",
-      "title": "Filipiny stawiają na węgiel, by ograniczyć wzrost cen prądu",
-      "content_html": "Władze Filipin ogłosiły we wtorek „tymczasowe” zwiększenie produkcji energii z węgla, by ograniczyć wzrost cen prądu w obliczu zakłóceń w dostawach LNG z powodu wojny na Bliskim Wschodzie. Prezydent Ferdinand Marcos Jr. ostrzegł przed brakiem...",
-      "date_published": "2026-03-24T08:50:00+01:00",
-      "source": "Bankier.pl"
     },
     {
       "id": "https://biznes.pap.pl/wiadomosci/firmy/oferta-mirbudu-w-wys-2376-mln-zl-brutto-najkorzystniejsza-w-postepowaniu-miasta",
@@ -1111,8 +1247,8 @@
     {
       "id": "https://www.bankier.pl/wiadomosc/EBITDAaL-Play-wzrosl-w-IV-kw-o-1-proc-rdr-do-975-mln-zl-9103075.html",
       "url": "https://www.bankier.pl/wiadomosc/EBITDAaL-Play-wzrosl-w-IV-kw-o-1-proc-rdr-do-975-mln-zl-9103075.html",
-      "title": "EBITDAaL Play wzrósł w IV kw. o 1 proc. rdr do 975 mln zł",
-      "content_html": "Wynik EBITDAaL Play wzrósł w IV kw. 2025 roku o 1 proc. rdr do 975 mln zł, przy spadku marży EBITDAaL do 35,5 proc., tj. o 4,2 pp. Przychody wzrosły o 5,5 proc. rdr do 2,75 mld zł - podała spółka w komunikacie.",
+      "title": "EBITDAaL Play wzrósł w IV kw. o 1 proc. rdr do 975 mln zł Wynik EBITDAaL Play wzrósł w IV kw. 2025 roku o 1 proc. rdr do 975 mln zł, przy spadku marży EBITDAaL do 35,5 proc., tj. o 4,2 pp. Przychody wzrosły o 5,5 proc. rdr do 2,75 mld zł - podała spółka w komunikacie.",
+      "content_html": "",
       "date_published": "2026-03-24T08:46:00+01:00",
       "source": "Bankier.pl"
     },
@@ -1133,14 +1269,6 @@
       "source": "PAP Biznes"
     },
     {
-      "id": "https://www.bankier.pl/wiadomosc/Kupujacy-trzymaja-rynek-nieruchomosci-w-szachu-Nowy-rekord-w-USA-9103066.html",
-      "url": "https://www.bankier.pl/wiadomosc/Kupujacy-trzymaja-rynek-nieruchomosci-w-szachu-Nowy-rekord-w-USA-9103066.html",
-      "title": "Kupujący trzymają rynek nieruchomości w szachu. Nowy rekord w USA",
-      "content_html": "W lutym 2026 r. na amerykańskim rynku nieruchomości odnotowano rekordową nadwyżkę sprzedających nad kupującymi. Jak wynika z najnowszych danych Redfin, pragnących pozbyć się domu lub mieszkania o prawie 630 tys. więcej niż kupujących.",
-      "date_published": "2026-03-24T08:24:00+01:00",
-      "source": "Bankier.pl"
-    },
-    {
       "id": "https://biznes.pap.pl/wiadomosci/rynki/dzien-na-rynkach-w-azji-na-gieldach-indeksy-rosna-ale-optymizm-jest-raczej-kruchy",
       "url": "https://biznes.pap.pl/wiadomosci/rynki/dzien-na-rynkach-w-azji-na-gieldach-indeksy-rosna-ale-optymizm-jest-raczej-kruchy",
       "title": "DZIEŃ NA RYNKACH: W Azji na giełdach indeksy rosną, ale optymizm jest raczej kruchy",
@@ -1149,35 +1277,11 @@
       "source": "PAP Biznes"
     },
     {
-      "id": "https://www.bankier.pl/wiadomosc/Kim-Dzong-Un-Nigdy-nie-zrezygnujemy-ze-statusu-potegi-nuklearnej-9102991.html",
-      "url": "https://www.bankier.pl/wiadomosc/Kim-Dzong-Un-Nigdy-nie-zrezygnujemy-ze-statusu-potegi-nuklearnej-9102991.html",
-      "title": "Kim Dzong Un: Nigdy nie zrezygnujemy ze statusu potęgi nuklearnej",
-      "content_html": "Korea Północna nigdy nie zrezygnuje ze swojego statusu potęgi nuklearnej – oświadczył przywódca kraju Kim Dzong Un, który uznał Koreę Południową za „najbardziej wrogie państwo”. Jego słowa przytoczyła AFP za tamtejszymi mediami państwowymi...",
-      "date_published": "2026-03-24T08:04:00+01:00",
-      "source": "Bankier.pl"
-    },
-    {
       "id": "https://www.bankier.pl/wiadomosc/Gospodarstwa-domowe-wciaz-za-malo-inwestuja-w-akcje-ale-to-sie-zmienia-BM-PKO-BP-9103054.html",
       "url": "https://www.bankier.pl/wiadomosc/Gospodarstwa-domowe-wciaz-za-malo-inwestuja-w-akcje-ale-to-sie-zmienia-BM-PKO-BP-9103054.html",
-      "title": "Gospodarstwa domowe wciąż za mało inwestują w akcje, ale to się zmienia",
-      "content_html": "Polskie gospodarstwa domowe wciąż pozostają mocno niedoinwestowane w akcje, a ich oszczędności skoncentrowane są w instrumentach niskiego ryzyka - to wnioski z najnowszego raportu BM PKO BP, którego autorzy wskazują jednak, że inwestorzy detaliczni...",
+      "title": "BM PKO BP Gospodarstwa domowe wciąż za mało inwestują w akcje, ale to się zmienia Polskie gospodarstwa domowe wciąż pozostają mocno niedoinwestowane w akcje, a ich oszczędności skoncentrowane są w instrumentach niskiego ryzyka - to wnioski z najnowszego raportu BM PKO BP, którego autorzy wskazują jednak, że inwestorzy detaliczni zaczynają bardziej interesować się rynkiem kapitałowym.",
+      "content_html": "",
       "date_published": "2026-03-24T08:02:00+01:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/4-3-mln-Dunczykow-decyduje-o-przyszlosci-Kto-przejmie-wladze-9103055.html",
-      "url": "https://www.bankier.pl/wiadomosc/4-3-mln-Dunczykow-decyduje-o-przyszlosci-Kto-przejmie-wladze-9103055.html",
-      "title": "4,3 mln Duńczyków decyduje o przyszłości. Kto przejmie władzę?",
-      "content_html": "Ponad 4,3 mln Duńczyków, głosując we wtorek od godz. 8 w wyborach parlamentarnych, zdecyduje o kontynuacji rządów socjaldemokratycznej premierki Mette Frederiksen lub przejęciu władzy przez opozycyjną prawicę.",
-      "date_published": "2026-03-24T08:02:00+01:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Flagowy-przewoznik-Qatar-Airways-zawiesza-polaczenie-z-Warszawa-Siatka-lotow-w-glebokim-kryzysie-9102900.html",
-      "url": "https://www.bankier.pl/wiadomosc/Flagowy-przewoznik-Qatar-Airways-zawiesza-polaczenie-z-Warszawa-Siatka-lotow-w-glebokim-kryzysie-9102900.html",
-      "title": "Flagowy przewoźnik zawiesza połączenie z Warszawą. Siatka lotów w głębokim kryzysie",
-      "content_html": "Qatar Airways podjął drastyczną decyzję o bezterminowym wstrzymaniu rejsów na trasie Doha – Warszawa. Stolica Polski dołączyła do rosnącej listy miast wykreślonych z rozkładu lotów, co jest bezpośrednim efektem gwałtownego spadku popytu...",
-      "date_published": "2026-03-24T08:00:00+01:00",
       "source": "Bankier.pl"
     },
     {
@@ -1187,14 +1291,6 @@
       "content_html": "Polskie gospodarstwa domowe wciąż pozostają mocno niedoinwestowane w akcje, a ich oszczędności skoncentrowane są w instrumentach niskiego ryzyka - to wnioski z najnowszego raportu BM PKO BP, którego a",
       "date_published": "2026-03-24T08:00:00+01:00",
       "source": "PAP Biznes"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Ceny-miedzi-w-Londynie-powracaja-do-spadkow-po-krotkim-odbiciu-9103051.html",
-      "url": "https://www.bankier.pl/wiadomosc/Ceny-miedzi-w-Londynie-powracaja-do-spadkow-po-krotkim-odbiciu-9103051.html",
-      "title": "Ceny miedzi w Londynie powracają do spadków po krótkim odbiciu",
-      "content_html": "Notowania miedzi na giełdzie metali LME w Londynie powróciły do spadków po krótkotrwałym odbiciu podczas poniedziałkowej sesji - informują maklerzy.",
-      "date_published": "2026-03-24T07:59:00+01:00",
-      "source": "Bankier.pl"
     },
     {
       "id": "https://biznes.pap.pl/wiadomosci/rynki/ceny-miedzi-w-londynie-powracaja-do-spadkow-po-krotkim-odbiciu",
@@ -1213,44 +1309,12 @@
       "source": "PAP Biznes"
     },
     {
-      "id": "https://www.bankier.pl/wiadomosc/Ceny-ropy-znow-w-gore-Na-rynkach-obawy-o-mozliwe-przylaczenie-sie-innych-krajow-do-wojny-z-Iranem-9103047.html",
-      "url": "https://www.bankier.pl/wiadomosc/Ceny-ropy-znow-w-gore-Na-rynkach-obawy-o-mozliwe-przylaczenie-sie-innych-krajow-do-wojny-z-Iranem-9103047.html",
-      "title": "Ceny ropy znów w górę. Na rynkach obawy o możliwe przyłączenie się innych krajów do wojny z Iranem",
-      "content_html": "Ceny ropy naftowej znów idą w górę - odrabiając poniedziałkowe gwałtowne spadki - z powodu obaw o możliwe wciągnięcie innych państwa na Bliskim Wschodzie w wojnę z Iranem - informują maklerzy.",
-      "date_published": "2026-03-24T07:45:00+01:00",
-      "source": "Bankier.pl"
-    },
-    {
       "id": "https://biznes.pap.pl/wiadomosci/rynki/ceny-ropy-znow-w-gore-na-rynkach-obawy-o-mozliwe-przylaczenie-sie-innych-krajow-do",
       "url": "https://biznes.pap.pl/wiadomosci/rynki/ceny-ropy-znow-w-gore-na-rynkach-obawy-o-mozliwe-przylaczenie-sie-innych-krajow-do",
       "title": "Ceny ropy znów w górę; na rynkach obawy o możliwe przyłączenie się innych krajów do wojny z Iranem",
       "content_html": "Ceny ropy naftowej znów idą w górę - odrabiając poniedziałkowe gwałtowne spadki - z powodu obaw o możliwe wciągnięcie innych państwa na Bliskim Wschodzie w wojnę z Iranem - informują maklerzy.",
       "date_published": "2026-03-24T07:44:00+01:00",
       "source": "PAP Biznes"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Koniec-tajemnic-majatkowych-poslow-Polska-2050-chce-przeswietlic-fundacje-rodzinne-9103042.html",
-      "url": "https://www.bankier.pl/wiadomosc/Koniec-tajemnic-majatkowych-poslow-Polska-2050-chce-przeswietlic-fundacje-rodzinne-9103042.html",
-      "title": "Koniec tajemnic majątkowych posłów? Polska 2050 chce prześwietlić fundacje rodzinne",
-      "content_html": "Polska 2050 chce, by parlamentarzyści ujawniali w oświadczeniu majątkowym informacje o przynależności i majątku zgromadzonym w fundacji rodzinnej; projekt ma trafić do Sejmu na najbliższym lub kolejnym posiedzeniu - dowiedziała się PAP w ugrupowaniu...",
-      "date_published": "2026-03-24T07:43:00+01:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Izrael-ograniczyl-uzycie-tych-dronow-Stracil-juz-80-swojej-floty-9102921.html",
-      "url": "https://www.bankier.pl/wiadomosc/Izrael-ograniczyl-uzycie-tych-dronow-Stracil-juz-80-swojej-floty-9102921.html",
-      "title": "Izrael ograniczył użycie tych dronów. Stracił już 80% swojej floty?",
-      "content_html": "Izraelskie siły powietrzne ograniczyły atakowanie irańskich celów zaawansowanymi dronami Hermes-900 w związku z ogromnymi stratami, poniesionymi w ciągu trzech tygodni walk z Iranem - poinformował w poniedziałek branżowy portal DefenceSecurityAsia...",
-      "date_published": "2026-03-24T07:25:00+01:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Sery-wino-i-surowce-krytyczne-Von-der-Leyen-oglasza-sukces-w-Canberze-Europa-zyska-9102990.html",
-      "url": "https://www.bankier.pl/wiadomosc/Sery-wino-i-surowce-krytyczne-Von-der-Leyen-oglasza-sukces-w-Canberze-Europa-zyska-9102990.html",
-      "title": "Sery, wino i surowce krytyczne. Leyen ogłasza sukces w Canberze. Europa zyska?",
-      "content_html": "Unia Europejska i Australia zakończyły we wtorek negocjacje umowy o wolnym handlu oraz zawarły partnerstwo w dziedzinie bezpieczeństwa. Porozumienie handlowe ma ułatwić dostęp UE do surowców krytycznych, które posiada Australia, a których Wspólnota...",
-      "date_published": "2026-03-24T07:25:00+01:00",
-      "source": "Bankier.pl"
     },
     {
       "id": "https://biznes.pap.pl/wiadomosci/gospodarka/wartosc-udzielonych-kredytow-mieszkaniowych-w-ii-wzrosla-o-674-proc-rdr-bik",
@@ -1466,134 +1530,6 @@
       "title": "Wyniki Ten Square Games w IV kw. 2025 roku vs. konsensus PAP (tabela) Poniżej przedstawiono wyniki Ten Square Games w czwartym kwartale 2025 roku oraz ich odniesienie do konsensusu PAP Biznes.",
       "content_html": "",
       "date_published": "2026-03-23T18:30:00+01:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/firmy/wyniki-ten-square-games-w-iv-kw-2025-roku-vs-konsensus-pap-tabela-aktl",
-      "url": "https://biznes.pap.pl/wiadomosci/firmy/wyniki-ten-square-games-w-iv-kw-2025-roku-vs-konsensus-pap-tabela-aktl",
-      "title": "Wyniki Ten Square Games w IV kw. 2025 roku vs. konsensus PAP (tabela, aktl.)",
-      "content_html": "Poniżej przedstawiono wyniki Ten Square Games w czwartym kwartale 2025 roku oraz ich odniesienie do konsensusu PAP Biznes.",
-      "date_published": "2026-03-23T18:28:00+01:00",
-      "source": "PAP Biznes"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/firmy/skorygowana-ebitda-ten-square-games-w-iv-kw-25-wyniosla-185-mln-zl-wobec-208-mln-0",
-      "url": "https://biznes.pap.pl/wiadomosci/firmy/skorygowana-ebitda-ten-square-games-w-iv-kw-25-wyniosla-185-mln-zl-wobec-208-mln-0",
-      "title": "Skorygowana EBITDA Ten Square Games w IV kw. '25 wyniosła 18,5 mln zł wobec 20,8 mln zł konsensusu (aktl.)",
-      "content_html": "Skorygowana EBITDA grupy Ten Square Games w czwartym kwartale 2025 roku wyniosła 18,5 mln zł, a zysk operacyjny 11,7 mln zł - podał producent gier mobilnych w raporcie kwartalnym. Konsensus PAP Biznes",
-      "date_published": "2026-03-23T18:28:00+01:00",
-      "source": "PAP Biznes"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Sprzedaz-miedzi-przez-grupe-KGHM-wyniosla-w-lutym-50-tys-ton-i-byla-nizsza-o-18-proc-rdr-9102629.html",
-      "url": "https://www.bankier.pl/wiadomosc/Sprzedaz-miedzi-przez-grupe-KGHM-wyniosla-w-lutym-50-tys-ton-i-byla-nizsza-o-18-proc-rdr-9102629.html",
-      "title": "KGHM publikuje wyniki za luty. Produkcja miedzi w górę, ale sprzedaż pod presją Sprzedaż miedzi przez grupę KGHM wyniosła w lutym 2026 roku 50 tys. ton i była niższa o 18 proc. rdr. Produkcja miedzi płatnej wyniosła 53,8 tys. ton, czyli o 5 proc. więcej rdr - podała grupa w komunikacie dotyczącym wstępnych wyników produkcyjnych i sprzedażowych.",
-      "content_html": "",
-      "date_published": "2026-03-23T18:26:00+01:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Skorygowana-EBITDA-Ten-Square-Games-w-IV-kw-25-wyniosla-18-5-mln-zl-wobec-20-8-mln-zl-konsensusu-9102824.html",
-      "url": "https://www.bankier.pl/wiadomosc/Skorygowana-EBITDA-Ten-Square-Games-w-IV-kw-25-wyniosla-18-5-mln-zl-wobec-20-8-mln-zl-konsensusu-9102824.html",
-      "title": "Ten Square Games poniżej konsensusu. Nowe hity ratują wynik po słabszym roku \"Fishing Clash\" Skorygowana EBITDA grupy Ten Square Games w czwartym kwartale 2025 roku wyniosła 18,5 mln zł, a zysk operacyjny 11,7 mln zł - podał producent gier mobilnych w raporcie kwartalnym. Konsensus PAP Biznes zakładał 20,8 mln zł skorygowanej EBITDA oraz 15,9 mln zł wyniku EBIT.",
-      "content_html": "",
-      "date_published": "2026-03-23T18:18:00+01:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/firmy/sprzedaz-miedzi-przez-grupe-kghm-wyniosla-w-lutym-50-tys-ton-i-byla-nizsza-o-18-1",
-      "url": "https://biznes.pap.pl/wiadomosci/firmy/sprzedaz-miedzi-przez-grupe-kghm-wyniosla-w-lutym-50-tys-ton-i-byla-nizsza-o-18-1",
-      "title": "Sprzedaż miedzi przez grupę KGHM wyniosła w lutym 50 tys. ton i była niższa o 18 proc. rdr (opis2)",
-      "content_html": "Sprzedaż miedzi przez grupę KGHM wyniosła w lutym 2026 roku 50 tys. ton i była niższa o 18 proc. rdr. Produkcja miedzi płatnej wyniosła 53,8 tys. ton, czyli o 5 proc. więcej rdr - podała grupa w komun",
-      "date_published": "2026-03-23T18:18:00+01:00",
-      "source": "PAP Biznes"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/firmy/skorygowana-ebitda-ten-square-games-w-iv-kw-25-wyniosla-185-mln-zl-wobec-208-mln",
-      "url": "https://biznes.pap.pl/wiadomosci/firmy/skorygowana-ebitda-ten-square-games-w-iv-kw-25-wyniosla-185-mln-zl-wobec-208-mln",
-      "title": "Skorygowana EBITDA Ten Square Games w IV kw. '25 wyniosła 18,5 mln zł wobec 20,8 mln zł konsensusu",
-      "content_html": "Skorygowana EBITDA grupy Ten Square Games w czwartym kwartale 2025 roku wyniosła 18,5 mln zł, a zysk operacyjny 11,7 mln zł - podał producent gier mobilnych w raporcie kwartalnym. Konsensus PAP Biznes",
-      "date_published": "2026-03-23T18:17:00+01:00",
-      "source": "PAP Biznes"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/rynki/dzien-na-rynkach-indeksy-w-europie-glownie-na-plusach-rynki-licza-na-umowe-usa-z",
-      "url": "https://biznes.pap.pl/wiadomosci/rynki/dzien-na-rynkach-indeksy-w-europie-glownie-na-plusach-rynki-licza-na-umowe-usa-z",
-      "title": "DZIEŃ NA RYNKACH: Indeksy w Europie głównie na plusach; rynki liczą na umowę USA z Iranem",
-      "content_html": "Giełdy w Europie głównie zwyżkowały na koniec sesji w poniedziałek. Inwestorzy liczą na porozumienie USA z Iranem po zapewnieniach prezydenta USA o prowadzeniu rozmów z władzami w Teheranie.",
-      "date_published": "2026-03-23T18:04:00+01:00",
-      "source": "PAP Biznes"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/rynki/zamkniecia-na-gieldach-w-europie-tabela-2842",
-      "url": "https://biznes.pap.pl/wiadomosci/rynki/zamkniecia-na-gieldach-w-europie-tabela-2842",
-      "title": "Zamknięcia na giełdach w Europie (tabela)",
-      "content_html": "Poniżej zamknięcia i zmiany wybranych indeksów giełdowych w Europie.",
-      "date_published": "2026-03-23T17:58:00+01:00",
-      "source": "PAP Biznes"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/finanse/najistotniejszym-slabym-punktem-w-polskim-systemie-finansowym-stalo-sie-ryzyko",
-      "url": "https://biznes.pap.pl/wiadomosci/finanse/najistotniejszym-slabym-punktem-w-polskim-systemie-finansowym-stalo-sie-ryzyko",
-      "title": "Najistotniejszym słabym punktem w polskim systemie finansowym stało się ryzyko geopolityczne - KSF-M",
-      "content_html": "Obecnie najistotniejszym słabym punktem w polskim systemie finansowym stało się ryzyko geopolityczne, a z uwagi na wysoki poziom rezerw utworzonych przez banki i postępujący proces ugód zmniejszyło si",
-      "date_published": "2026-03-23T17:51:00+01:00",
-      "source": "PAP Biznes"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Ten-Square-Games-chce-wyplacic-10-zl-dywidendy-na-akcje-za-2025-rok-9102795.html",
-      "url": "https://www.bankier.pl/wiadomosc/Ten-Square-Games-chce-wyplacic-10-zl-dywidendy-na-akcje-za-2025-rok-9102795.html",
-      "title": "Ten Square Games chce wypłacić 10 zł dywidendy na akcję za 2025 rok Ten Square Games rekomenduje walnemu zgromadzeniu wypłatę 63,7 mln zł dywidendy z zysku netto za 2025 rok w wysokości 83,6 mln zł, co da 10 zł na akcję przy uwzględnieniu akcji własnych, które zostaną wydane w ramach rozliczenia programów motywacyjnych do dnia dywidendy - podała spółka w komunikacie.",
-      "content_html": "",
-      "date_published": "2026-03-23T17:40:00+01:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/firmy/ten-square-games-chce-wyplacic-10-zl-dywidendy-na-akcje-za-2025-rok",
-      "url": "https://biznes.pap.pl/wiadomosci/firmy/ten-square-games-chce-wyplacic-10-zl-dywidendy-na-akcje-za-2025-rok",
-      "title": "Ten Square Games chce wypłacić 10 zł dywidendy na akcję za 2025 rok",
-      "content_html": "Ten Square Games rekomenduje walnemu zgromadzeniu wypłatę 63,7 mln zł dywidendy z zysku netto za 2025 rok w wysokości 83,6 mln zł, co da 10 zł na akcję przy uwzględnieniu akcji własnych, które zostaną",
-      "date_published": "2026-03-23T17:38:00+01:00",
-      "source": "PAP Biznes"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Asseco-Poland-szacuje-zysk-netto-j-d-zwiazany-ze-sprzedaza-Sapiens-na-ok-499-mln-zl-9102778.html",
-      "url": "https://www.bankier.pl/wiadomosc/Asseco-Poland-szacuje-zysk-netto-j-d-zwiazany-ze-sprzedaza-Sapiens-na-ok-499-mln-zl-9102778.html",
-      "title": "Asseco Poland szacuje zysk netto j.d. związany ze sprzedażą Sapiens na ok. 499 mln zł Asseco Poland szacuje, że zysk netto przypisany akcjonariuszom jednostki dominującej związany z transakcją sprzedaży akcji spółki Sapiens wyniesie około 499 mln zł - podało Asseco Poland w komunikacie.",
-      "content_html": "",
-      "date_published": "2026-03-23T17:32:00+01:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/firmy/asseco-poland-szacuje-zysk-netto-jd-zwiazany-ze-sprzedaza-sapiens-na-ok-499-mln-zl",
-      "url": "https://biznes.pap.pl/wiadomosci/firmy/asseco-poland-szacuje-zysk-netto-jd-zwiazany-ze-sprzedaza-sapiens-na-ok-499-mln-zl",
-      "title": "Asseco Poland szacuje zysk netto j.d. związany ze sprzedażą Sapiens na ok. 499 mln zł",
-      "content_html": "Asseco Poland szacuje, że zysk netto przypisany akcjonariuszom jednostki dominującej związany z transakcją sprzedaży akcji spółki Sapiens wyniesie około 499 mln zł - podało Asseco Poland w komunikacie",
-      "date_published": "2026-03-23T17:31:00+01:00",
-      "source": "PAP Biznes"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/firmy/wyniki-ten-square-games-w-iv-kw-2025-roku-vs-konsensus-pap-tabela",
-      "url": "https://biznes.pap.pl/wiadomosci/firmy/wyniki-ten-square-games-w-iv-kw-2025-roku-vs-konsensus-pap-tabela",
-      "title": "Wyniki Ten Square Games w IV kw. 2025 roku vs. konsensus PAP (tabela)",
-      "content_html": "Poniżej przedstawiono wyniki Ten Square Games w czwartym kwartale 2025 roku oraz ich odniesienie do konsensusu PAP Biznes.",
-      "date_published": "2026-03-23T17:28:00+01:00",
-      "source": "PAP Biznes"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/firmy/sprzedaz-miedzi-przez-grupe-kghm-wyniosla-w-lutym-50-tys-ton-i-byla-nizsza-o-18-0",
-      "url": "https://biznes.pap.pl/wiadomosci/firmy/sprzedaz-miedzi-przez-grupe-kghm-wyniosla-w-lutym-50-tys-ton-i-byla-nizsza-o-18-0",
-      "title": "Sprzedaż miedzi przez grupę KGHM wyniosła w lutym 50 tys. ton i była niższa o 18 proc. rdr (opis)",
-      "content_html": "Sprzedaż miedzi przez grupę KGHM wyniosła w lutym 2026 roku 50 tys. ton i była niższa o 18 proc. rdr. Produkcja miedzi płatnej wyniosła 53,8 tys. ton, czyli o 5 proc. więcej rdr - podała grupa w komun",
-      "date_published": "2026-03-23T17:23:00+01:00",
-      "source": "PAP Biznes"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/WIG20-z-pelnym-wynurzeniem-po-TACO-Trumpa-Prezydent-USA-znow-to-zrobil-9102734.html",
-      "url": "https://www.bankier.pl/wiadomosc/WIG20-z-pelnym-wynurzeniem-po-TACO-Trumpa-Prezydent-USA-znow-to-zrobil-9102734.html",
-      "title": "WIG20 z pełnym wynurzeniem po TACO Trumpa. Prezydent USA znów to zrobił Za nami jedna z bardziej szalonych sesji tego roku na światowych giełdach. Krwista czerwień jaką jeszcze rano świeciły notowania głównych indeksów, w południe zamieniła się w wyrazistą zieleń. W przypadku WIG20 odbicie od dziennych minimów wyniosło ponad 4 proc., a wszystko przez prezydenta USA Donalda Trumpa, który wycofał się ze swojego ultimatum postawionego Iranowi.",
-      "content_html": "",
-      "date_published": "2026-03-23T17:05:00+01:00",
       "source": "Bankier.pl"
     }
   ]
