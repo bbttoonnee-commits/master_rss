@@ -5,10 +5,162 @@
   "home_page_url": "https://www.bankier.pl",
   "items": [
     {
+      "id": "https://biznes.pap.pl/wiadomosci/ekonomia-biznes-i-finanse/skrot-wiadomosci-wtorek-24-marca-1700",
+      "url": "https://biznes.pap.pl/wiadomosci/ekonomia-biznes-i-finanse/skrot-wiadomosci-wtorek-24-marca-1700",
+      "title": "Skrót wiadomości - wtorek, 24 marca, 17.00",
+      "content_html": "Przegląd najważniejszych wiadomości gospodarczych, krajowych i ze świata.",
+      "date_published": "2026-03-24T17:00:00+01:00",
+      "source": "PAP Biznes"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/firmy/dzien-na-gpw-sesja-pod-znakiem-spadkow-waznym-wsparciem-dla-wig20-poziomy-3135",
+      "url": "https://biznes.pap.pl/wiadomosci/firmy/dzien-na-gpw-sesja-pod-znakiem-spadkow-waznym-wsparciem-dla-wig20-poziomy-3135",
+      "title": "DZIEŃ NA GPW: Sesja pod znakiem spadków; ważnym wsparciem dla WIG20 poziomy 3.135-3.200 pkt.",
+      "content_html": "Spadki na giełdzie utrzymują się. Tracą m. in. spółki energetyczne, natomiast zyskują spółki handlu detalicznego. Zdaniem analityków, na GPW trwa średnioterminowa korekta spadkowa, a dla indeksu WIG20",
+      "date_published": "2026-03-24T16:48:00+01:00",
+      "source": "PAP Biznes"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Wolne-srodki-z-BGK-trafia-do-Ministra-Finansow-Nowy-sposob-na-mniejsze-potrzeby-pozyczkowe-9103467.html",
+      "url": "https://www.bankier.pl/wiadomosc/Wolne-srodki-z-BGK-trafia-do-Ministra-Finansow-Nowy-sposob-na-mniejsze-potrzeby-pozyczkowe-9103467.html",
+      "title": "Wolne środki z BGK trafią do Ministra Finansów. Nowy sposób na mniejsze potrzeby pożyczkowe",
+      "content_html": "Wolne środki w funduszach prowadzonych przez Bank Gospodarstwa Krajowego trafią pod zarząd Ministerstwa Finansów - zakłada projekt nowelizacji ustawy o finansach publicznych, który we wtorek przyjął rząd.",
+      "date_published": "2026-03-24T16:47:00+01:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/PKP-CargoTabor-zlozylo-do-sadu-propozycje-ukladowe-dla-wierzycieli-9103480.html",
+      "url": "https://www.bankier.pl/wiadomosc/PKP-CargoTabor-zlozylo-do-sadu-propozycje-ukladowe-dla-wierzycieli-9103480.html",
+      "title": "PKP CargoTabor złożyło do sądu propozycje układowe dla wierzycieli",
+      "content_html": "PKP CargoTabor złożyło do Sądzie Rejonowym dla m.st. Warszawy propozycje układowe dla wierzycieli - podało PKP Cargo w komunikacie.",
+      "date_published": "2026-03-24T16:42:00+01:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Ile-jest-krajowego-wkladu-w-najwiekszych-inwestycjach-Polska-zmierzy-jako-pierwsza-w-UE-9103454.html",
+      "url": "https://www.bankier.pl/wiadomosc/Ile-jest-krajowego-wkladu-w-najwiekszych-inwestycjach-Polska-zmierzy-jako-pierwsza-w-UE-9103454.html",
+      "title": "Ile jest krajowego wkładu w największych inwestycjach? Polska zmierzy jako pierwsza w UE",
+      "content_html": "W drugim półroczu Główny Urząd Statystyczny przeprowadzi pilotażowe badanie wśród firm z branży energetycznej, które ma dać odpowiedź na pytanie, ile w projektach w tej branży jest tzw. local content, czyli czynnika krajowego. Z czasem badania...",
+      "date_published": "2026-03-24T16:41:00+01:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/firmy/pkp-cargotabor-zlozylo-do-sadu-propozycje-ukladowe-dla-wierzycieli",
+      "url": "https://biznes.pap.pl/wiadomosci/firmy/pkp-cargotabor-zlozylo-do-sadu-propozycje-ukladowe-dla-wierzycieli",
+      "title": "PKP CargoTabor złożyło do sądu propozycje układowe dla wierzycieli",
+      "content_html": "PKP CargoTabor złożyło do Sądzie Rejonowym dla m.st. Warszawy propozycje układowe dla wierzycieli - podało PKP Cargo w komunikacie.",
+      "date_published": "2026-03-24T16:40:00+01:00",
+      "source": "PAP Biznes"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/gospodarka/na-ten-moment-odpowiedni-poziom-stopy-procentowej-475-proc-tyrowicz-rpp",
+      "url": "https://biznes.pap.pl/wiadomosci/gospodarka/na-ten-moment-odpowiedni-poziom-stopy-procentowej-475-proc-tyrowicz-rpp",
+      "title": "Na ten moment odpowiedni poziom stopy procentowej to 4,75 proc. - Tyrowicz, RPP",
+      "content_html": "Na ten moment odpowiedni poziom stopy procentowej to 4,75 proc. - oceniła członkini Rady Polityki Pieniężnej, Joanna Tyrowicz.",
+      "date_published": "2026-03-24T16:28:00+01:00",
+      "source": "PAP Biznes"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/KGHM-ma-memorandum-dot-wspolpracy-i-analiz-potencjalnych-projektow-surowcowych-w-Maroku-9103466.html",
+      "url": "https://www.bankier.pl/wiadomosc/KGHM-ma-memorandum-dot-wspolpracy-i-analiz-potencjalnych-projektow-surowcowych-w-Maroku-9103466.html",
+      "title": "KGHM ma memorandum dot. współpracy i analiz potencjalnych projektów surowcowych w Maroku",
+      "content_html": "KGHM Polska Miedź podpisała z Office National des Hydrocarbures et des Mines i Managem Group memorandum dotyczące współpracy i analiz potencjalnych inwestycji w sektorze surowców Maroka - podała grupa w komunikacie prasowym.",
+      "date_published": "2026-03-24T16:24:00+01:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/firmy/kghm-ma-memorandum-dot-wspolpracy-i-analiz-potencjalnych-projektow-surowcowych-w",
+      "url": "https://biznes.pap.pl/wiadomosci/firmy/kghm-ma-memorandum-dot-wspolpracy-i-analiz-potencjalnych-projektow-surowcowych-w",
+      "title": "KGHM ma memorandum dot. współpracy i analiz potencjalnych projektów surowcowych w Maroku",
+      "content_html": "KGHM Polska Miedź podpisała z Office National des Hydrocarbures et des Mines i Managem Group memorandum dotyczące współpracy i analiz potencjalnych inwestycji w sektorze surowców Maroka - podała grupa",
+      "date_published": "2026-03-24T16:22:00+01:00",
+      "source": "PAP Biznes"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Afera-Epsteina-uderza-w-bank-Rothschildow-Przeszukania-w-paryskiej-siedzibie-9103444.html",
+      "url": "https://www.bankier.pl/wiadomosc/Afera-Epsteina-uderza-w-bank-Rothschildow-Przeszukania-w-paryskiej-siedzibie-9103444.html",
+      "title": "Afera Epsteina uderza w bank Rothschildów. Przeszukania w paryskiej siedzibie",
+      "content_html": "Biuro banku Edmond de Rothschild w Paryżu zostało przeszukane 20 marca w związku ze sprawą amerykańskiego przestępcy seksualnego Jeffreya Epsteina - podała we wtorek AFP. Źródła agencji przekazały, że rewizje są częścią śledztwa prowadzonego...",
+      "date_published": "2026-03-24T16:19:00+01:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/ENA-po-nowemu-Cudzoziemcy-mieszkajacy-w-Polsce-z-takimi-samymi-prawami-jak-obywatele-9103442.html",
+      "url": "https://www.bankier.pl/wiadomosc/ENA-po-nowemu-Cudzoziemcy-mieszkajacy-w-Polsce-z-takimi-samymi-prawami-jak-obywatele-9103442.html",
+      "title": "ENA po nowemu. Cudzoziemcy mieszkający w Polsce z takimi samymi prawami jak obywatele",
+      "content_html": "Rząd przyjął we wtorek projekt mający ulepszyć stosowanie Europejskiego Nakazu Aresztowania (ENA). Nowe rozwiązania zapewnią równe traktowanie osób przebywających w Polsce, usprawnią współpracę sądów oraz przyspieszą postępowania - poinformowano...",
+      "date_published": "2026-03-24T16:17:00+01:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Spolka-z-Grupy-Elemental-podpisala-z-KE-umowe-o-dofinansowanie-projektu-Polvolt-9103457.html",
+      "url": "https://www.bankier.pl/wiadomosc/Spolka-z-Grupy-Elemental-podpisala-z-KE-umowe-o-dofinansowanie-projektu-Polvolt-9103457.html",
+      "title": "Spółka z Grupy Elemental podpisała z KE umowę o dofinansowanie projektu Polvolt",
+      "content_html": "Elemental Battery Metals, spółka z Grupy Elemental, podpisała z?Komisją Europejską umowę o?dofinansowanie projektu Polvolt w?Zawierciu. Grant w?wysokości 150,692 mln euro pochodzi z?Innovation Fund - podała grupa w komunikacie prasowym.",
+      "date_published": "2026-03-24T16:16:00+01:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/firmy/spolka-z-grupy-elemental-podpisala-z-ke-umowe-o-dofinansowanie-projektu-polvolt",
+      "url": "https://biznes.pap.pl/wiadomosci/firmy/spolka-z-grupy-elemental-podpisala-z-ke-umowe-o-dofinansowanie-projektu-polvolt",
+      "title": "Spółka z Grupy Elemental podpisała z KE umowę o dofinansowanie projektu Polvolt",
+      "content_html": "Elemental Battery Metals, spółka z Grupy Elemental, podpisała z Komisją Europejską umowę o dofinansowanie projektu Polvolt w Zawierciu. Grant w wysokości 150,692 mln euro pochodzi z Innovation Fund - ",
+      "date_published": "2026-03-24T16:15:00+01:00",
+      "source": "PAP Biznes"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/gospodarka/euro-w-ebc-11572-usd-i-18391-jpy",
+      "url": "https://biznes.pap.pl/wiadomosci/gospodarka/euro-w-ebc-11572-usd-i-18391-jpy",
+      "title": "Euro w EBC: 1,1572 USD i 183,91 JPY",
+      "content_html": "Europejski Bank Centralny (EBC) ustalił kurs euro na 1,1572 USD i 183,91 JPY - podał bank na swojej stronie internetowej.",
+      "date_published": "2026-03-24T16:06:00+01:00",
+      "source": "PAP Biznes"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Kryzys-jak-w-latach-70-Ostrzezenie-przed-przed-paralizem-przemyslu-i-miliardowymi-stratami-9103360.html",
+      "url": "https://www.bankier.pl/wiadomosc/Kryzys-jak-w-latach-70-Ostrzezenie-przed-przed-paralizem-przemyslu-i-miliardowymi-stratami-9103360.html",
+      "title": "Kryzys jak w latach 70.? Ostrzeżenie przed przed paraliżem przemysłu i miliardowymi stratami",
+      "content_html": "Wojna na Bliskim Wschodzie wpływa negatywnie nie tylko na rynki ropy i gazu, ale także kluczowych dla przemysłu wysokich technologii helu, bromu i siarki - ostrzega we wtorek niemiecki dziennik „Frankfurter Allgemeine Zeitung”.",
+      "date_published": "2026-03-24T16:03:00+01:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Koniec-trumpizmu-Eksperci-o-politycznej-porazce-prezydenta-USA-w-wojnie-z-Iranem-9103280.html",
+      "url": "https://www.bankier.pl/wiadomosc/Koniec-trumpizmu-Eksperci-o-politycznej-porazce-prezydenta-USA-w-wojnie-z-Iranem-9103280.html",
+      "title": "Koniec trumpizmu? Eksperci o politycznej porażce prezydenta USA w wojnie z Iranem",
+      "content_html": "Wojna z Iranem to polityczna porażka Donalda Trumpa, której nie zmieni żadna narracja – powiedział PAP prof. Piotr Mickiewicz z Uniwersytetu Gdańskiego. Z kolei brytyjski tygodnik „Spectator” napisał, że ten konflikt może oznaczać „koniec...",
+      "date_published": "2026-03-24T16:01:00+01:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Banki-moga-wylaczyc-serwis-na-PC-Wiekszosc-klientow-tego-nie-zauwazy-9103230.html",
+      "url": "https://www.bankier.pl/wiadomosc/Banki-moga-wylaczyc-serwis-na-PC-Wiekszosc-klientow-tego-nie-zauwazy-9103230.html",
+      "title": "Banki mogą wyłączyć serwis na PC. Większość klientów tego nie zauważy",
+      "content_html": "Jeszcze kilka lat temu logowanie do banku kojarzyło się z siedzeniem przed komputerem. Dziś trzy czwarte użytkowników bankowych aplikacji mobilnych w ogóle nie otwiera serwisu transakcyjnego na PC. Dane za IV kwartał 2025 r. pokazują, że migracja...",
+      "date_published": "2026-03-24T16:00:00+01:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Podatek-cyfrowy-w-pracach-rzadu-Rzad-szacuje-wplywy-na-miliardy-zlotych-9103433.html",
+      "url": "https://www.bankier.pl/wiadomosc/Podatek-cyfrowy-w-pracach-rzadu-Rzad-szacuje-wplywy-na-miliardy-zlotych-9103433.html",
+      "title": "Podatek cyfrowy w pracach rządu. Rząd szacuje wpływy na miliardy złotych",
+      "content_html": "Projekt ustawy o tzw. podatku cyfrowym został wpisany do wykazu prac rządu; zakłada do 3 proc. podatku od przychodów wielkich firm świadczących wybrane usługi cyfrowe w Polsce - przekazał we wtorek wicepremier i minister cyfryzacji Krzysztof Gawkowski...",
+      "date_published": "2026-03-24T15:50:00+01:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Specustawa-jadrowa-przyjeta-przez-rzad-Szlapka-Umozliwi-znaczne-przyspieszenie-prac-9103354.html",
+      "url": "https://www.bankier.pl/wiadomosc/Specustawa-jadrowa-przyjeta-przez-rzad-Szlapka-Umozliwi-znaczne-przyspieszenie-prac-9103354.html",
+      "title": "Specustawa jądrowa przyjęta przez rząd. Szłapka: Umożliwi znaczne przyspieszenie prac",
+      "content_html": "Rząd przyjął projekt mający na celu przyspieszenie i uproszczenie realizacji inwestycji w obszarze energetyki jądrowej - podano w komunikacie po posiedzeniu Rady Ministrów.",
+      "date_published": "2026-03-24T15:43:00+01:00",
+      "source": "Bankier.pl"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/AC-chce-przeznaczyc-caly-zysk-netto-za-25-na-kapital-zapasowy-9103425.html",
       "url": "https://www.bankier.pl/wiadomosc/AC-chce-przeznaczyc-caly-zysk-netto-za-25-na-kapital-zapasowy-9103425.html",
-      "title": "AC chce przeznaczyć cały zysk netto za '25 na kapitał zapasowy Zarząd AC, zgodnie z przyjętą w październiku strategią biznesową na lata 2025-2030, postanawia zarekomendować Walnemu Zgromadzeniu Akcjonariuszy przeznaczenie całego zysku netto za 2025 rok na kapitał zapasowy - podała spółka w komunikacie. (PAP Biznes)",
-      "content_html": "",
+      "title": "AC chce przeznaczyć cały zysk netto za '25 na kapitał zapasowy",
+      "content_html": "Zarząd AC, zgodnie z przyjętą w październiku strategią biznesową na lata 2025-2030, postanawia zarekomendować Walnemu Zgromadzeniu Akcjonariuszy przeznaczenie całego zysku netto za 2025 rok na kapitał zapasowy - podała spółka w komunikacie...",
       "date_published": "2026-03-24T15:42:00+01:00",
       "source": "Bankier.pl"
     },
@@ -85,36 +237,12 @@
       "source": "Bankier.pl"
     },
     {
-      "id": "https://biznes.pap.pl/wiadomosci/firmy/gus-uruchomi-w-polowie-roku-pilotaz-dot-pomiaru-local-content-w-energetyce-opis",
-      "url": "https://biznes.pap.pl/wiadomosci/firmy/gus-uruchomi-w-polowie-roku-pilotaz-dot-pomiaru-local-content-w-energetyce-opis",
-      "title": "GUS uruchomi w połowie roku pilotaż dot. pomiaru local content w energetyce (opis)",
-      "content_html": "Główny Urząd Statystyczny uruchomi w połowie roku pilotaż dotyczący mierzenia local content w sektorze energetycznym - poinformowała wiceprezeska GUS, Renata Bielak. W 2027 r. będzie realizowane badan",
-      "date_published": "2026-03-24T15:19:00+01:00",
-      "source": "PAP Biznes"
-    },
-    {
       "id": "https://www.bankier.pl/wiadomosc/Rzad-nie-prowadzi-prac-nad-wprowadzeniem-windfall-tax-9103350.html",
       "url": "https://www.bankier.pl/wiadomosc/Rzad-nie-prowadzi-prac-nad-wprowadzeniem-windfall-tax-9103350.html",
       "title": "Windfall tax w związku z cenami paliw? Minister Domański ucina spekulacje",
       "content_html": "Rząd nie prowadzi prac nad wprowadzeniem podatku windfall od nadmiarowych zysków w związku z rosnącymi cenami paliw - poinformował minister finansów i gospodarki Andrzej Domański. Nie ma decyzji o obniżce VAT lub akcyzy, ale zdaniem ministra najbardziej...",
       "date_published": "2026-03-24T15:18:00+01:00",
       "source": "Bankier.pl"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/firmy/trigon-dm-podniosl-cene-docelowa-akcji-torpolu-do-85-zl",
-      "url": "https://biznes.pap.pl/wiadomosci/firmy/trigon-dm-podniosl-cene-docelowa-akcji-torpolu-do-85-zl",
-      "title": "Trigon DM podniósł cenę docelową akcji Torpolu do 85 zł",
-      "content_html": "Analitycy Trigon DM, w raporcie z 16 marca, podwyższyli cenę docelową akcji Torpolu do 85 zł z 70 zł poprzednio oraz podtrzymali rekomendację \"kupuj\".",
-      "date_published": "2026-03-24T15:18:00+01:00",
-      "source": "PAP Biznes"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/firmy/rzad-planuje-w-iii-kw-przyjac-projekt-dot-wprowadzenia-3-proc-podatku-cyfrowego",
-      "url": "https://biznes.pap.pl/wiadomosci/firmy/rzad-planuje-w-iii-kw-przyjac-projekt-dot-wprowadzenia-3-proc-podatku-cyfrowego",
-      "title": "Rząd planuje w III kw. przyjąć projekt dot. wprowadzenia 3-proc. podatku cyfrowego",
-      "content_html": "Rząd planuje w III kw. przyjąć projekt dotyczący wprowadzenia 3-proc. podatku cyfrowego - podatek rekompensujący od wybranych usług, które są świadczone przez największe podmioty globalne operujące na",
-      "date_published": "2026-03-24T15:15:00+01:00",
-      "source": "PAP Biznes"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/XTPL-pozyskal-19-5-mln-zl-w-ramach-oferty-akcji-serii-Y-9103393.html",
@@ -133,14 +261,6 @@
       "source": "Bankier.pl"
     },
     {
-      "id": "https://biznes.pap.pl/wiadomosci/przemysl/xtpl-pozyskal-195-mln-zl-w-ramach-oferty-akcji-serii-y",
-      "url": "https://biznes.pap.pl/wiadomosci/przemysl/xtpl-pozyskal-195-mln-zl-w-ramach-oferty-akcji-serii-y",
-      "title": "XTPL pozyskał 19,5 mln zł w ramach oferty akcji serii Y",
-      "content_html": "XTPL, dostawca rozwiązań nanodruku, pozyskał 19,5 mln zł w ramach oferty akcji serii Y - poinformowała spółka w komunikacie.",
-      "date_published": "2026-03-24T15:10:00+01:00",
-      "source": "PAP Biznes"
-    },
-    {
       "id": "https://www.bankier.pl/wiadomosc/Kurs-TS-Games-spada-o-ponad-7-proc-przy-znizce-mWIG40-o-1-5-proc-9103389.html",
       "url": "https://www.bankier.pl/wiadomosc/Kurs-TS-Games-spada-o-ponad-7-proc-przy-znizce-mWIG40-o-1-5-proc-9103389.html",
       "title": "Kurs TS Games spada o ponad 7 proc. przy zniżce mWIG40 o 1,5 proc.",
@@ -155,30 +275,6 @@
       "content_html": "Bankowy Fundusz Gwarancyjny określił wysokość składki na fundusz przymusowej restrukturyzacji należnej od Santander Bank Polska w 2026 r. w kwocie ok. 435,9 mln zł z uwzględnieniem wysokości korekt składek za 2025 r. - poinformował bank w komunikacie...",
       "date_published": "2026-03-24T15:04:00+01:00",
       "source": "Bankier.pl"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/firmy/kurs-ts-games-spada-o-ponad-7-proc-przy-znizce-mwig40-o-15-proc",
-      "url": "https://biznes.pap.pl/wiadomosci/firmy/kurs-ts-games-spada-o-ponad-7-proc-przy-znizce-mwig40-o-15-proc",
-      "title": "Kurs TS Games spada o ponad 7 proc. przy zniżce mWIG40 o 1,5 proc.",
-      "content_html": "Kurs akcji Ten Square Games spada o 7,2 proc. do 97,8 zł, podczas gdy mWIG40 zniżkuje o 1,5 proc.",
-      "date_published": "2026-03-24T15:04:00+01:00",
-      "source": "PAP Biznes"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/gospodarka/psl-sklada-wlasny-projekt-ws-finansowania-zbrojen-z-nbp-liczy-na-poparcie-w-0",
-      "url": "https://biznes.pap.pl/wiadomosci/gospodarka/psl-sklada-wlasny-projekt-ws-finansowania-zbrojen-z-nbp-liczy-na-poparcie-w-0",
-      "title": "PSL składa własny projekt ws. finansowania zbrojeń z NBP, liczy na poparcie w koalicji (opis)",
-      "content_html": "Polskie Stronnictwo Ludowe złożyło we wtorek w Sejmie projekt ustawy o Polskim Funduszu Inwestycji Obronnych, korygujący projekt prezydencki w tej sprawie, w ramach którego zysk z NBP ma zasilać Fundu",
-      "date_published": "2026-03-24T15:03:00+01:00",
-      "source": "PAP Biznes"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/firmy/bfg-okreslil-wysokosc-skladki-santander-bp-na-fundusz-przymusowej-1",
-      "url": "https://biznes.pap.pl/wiadomosci/firmy/bfg-okreslil-wysokosc-skladki-santander-bp-na-fundusz-przymusowej-1",
-      "title": "BFG określił wysokość składki Santander BP na fundusz przymusowej restrukturyzacji na 435,9 mln zł",
-      "content_html": "Bankowy Fundusz Gwarancyjny określił wysokość składki na fundusz przymusowej restrukturyzacji należnej od Santander Bank Polska w 2026 r. w kwocie ok. 435,9 mln zł z uwzględnieniem wysokości korekt sk",
-      "date_published": "2026-03-24T15:02:00+01:00",
-      "source": "PAP Biznes"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/BFG-okreslil-wysokosc-skladki-Alior-Banku-na-fundusz-przymusowej-restrukturyzacji-na-86-8-mln-zl-9103372.html",
@@ -197,14 +293,6 @@
       "source": "Bankier.pl"
     },
     {
-      "id": "https://www.bankier.pl/wiadomosc/Specustawa-jadrowa-przyjeta-przez-rzad-Szlapka-Umozliwi-znaczne-przyspieszenie-prac-9103354.html",
-      "url": "https://www.bankier.pl/wiadomosc/Specustawa-jadrowa-przyjeta-przez-rzad-Szlapka-Umozliwi-znaczne-przyspieszenie-prac-9103354.html",
-      "title": "Specustawa jądrowa przyjęta przez rząd. Szłapka: Umożliwi znaczne przyspieszenie prac",
-      "content_html": "Rząd przyjął we wtorek projekt ustawy o przyspieszeniu budowy elektrowni jądrowej - poinformował rzecznik rząd Adam Szłapka na konferencji prasowej.",
-      "date_published": "2026-03-24T14:45:00+01:00",
-      "source": "Bankier.pl"
-    },
-    {
       "id": "https://www.bankier.pl/wiadomosc/BFG-okreslil-wysokosc-skladki-ING-BS-na-fundusz-przymusowej-restrukturyzacji-na-246-mln-zl-9103357.html",
       "url": "https://www.bankier.pl/wiadomosc/BFG-okreslil-wysokosc-skladki-ING-BS-na-fundusz-przymusowej-restrukturyzacji-na-246-mln-zl-9103357.html",
       "title": "BFG określił wysokość składki ING BŚ na fundusz przymusowej restrukturyzacji na 246 mln zł",
@@ -213,12 +301,60 @@
       "source": "Bankier.pl"
     },
     {
+      "id": "https://biznes.pap.pl/wiadomosci/firmy/bfg-okreslil-wysokosc-skladki-ing-bs-na-fundusz-przymusowej-restrukturyzacji-na",
+      "url": "https://biznes.pap.pl/wiadomosci/firmy/bfg-okreslil-wysokosc-skladki-ing-bs-na-fundusz-przymusowej-restrukturyzacji-na",
+      "title": "BFG określił wysokość składki ING BŚ na fundusz przymusowej restrukturyzacji na 246 mln zł",
+      "content_html": "Bankowy Fundusz Gwarancyjny określił wysokość rocznej składki na fundusz przymusowej restrukturyzacji banków należnej od grupy kapitałowej ING Banku Śląskiego w 2026 r. na 246 mln zł - poinformował ba",
+      "date_published": "2026-03-24T14:36:00+01:00",
+      "source": "PAP Biznes"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/rynki/po-otwarciu-sesji-dji-spada-o-077-proc-sp-500-znizkuje-063-proc",
+      "url": "https://biznes.pap.pl/wiadomosci/rynki/po-otwarciu-sesji-dji-spada-o-077-proc-sp-500-znizkuje-063-proc",
+      "title": "Po otwarciu sesji DJI spada o 0,77 proc., a S&P 500 zniżkuje 0,63 proc.",
+      "content_html": "Po otwarciu sesji w USA Dow Jones Industrial spada o 0,77 proc. do 45.851 pkt., S&P500 zniżkuje 0,63 proc. i wynosi 6.539 pkt.",
+      "date_published": "2026-03-24T14:35:00+01:00",
+      "source": "PAP Biznes"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/gospodarka/rzad-przyjal-we-wtorek-projekt-ustawy-o-przyspieszeniu-budowy-elektrowni",
+      "url": "https://biznes.pap.pl/wiadomosci/gospodarka/rzad-przyjal-we-wtorek-projekt-ustawy-o-przyspieszeniu-budowy-elektrowni",
+      "title": "Rząd przyjął we wtorek projekt ustawy o przyspieszeniu budowy elektrowni jądrowej",
+      "content_html": "Rząd przyjął we wtorek projekt ustawy o przyspieszeniu budowy elektrowni jądrowej - poinformował rzecznik rząd Adam Szłapka na konferencji prasowej.",
+      "date_published": "2026-03-24T14:35:00+01:00",
+      "source": "PAP Biznes"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Noble-Securities-obnizyl-rekomendacje-dla-Torpolu-do-sprzedaj-9103347.html",
       "url": "https://www.bankier.pl/wiadomosc/Noble-Securities-obnizyl-rekomendacje-dla-Torpolu-do-sprzedaj-9103347.html",
       "title": "Noble Securities obniżył rekomendację dla Torpolu do \"sprzedaj\"",
       "content_html": "Analitycy Noble Securities w raporcie z 18 marca obniżyli rekomendację dla Torpolu do \"sprzedaj\" z \"redukuj\", ale cenę docelową akcji tej spółki podnieśli do 53 zł wobec 46,2 zł wcześniej.",
       "date_published": "2026-03-24T14:30:00+01:00",
       "source": "Bankier.pl"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/rynki/dzien-na-rynkach-futures-w-usa-spadaja-nadzieja-porozumienia-na-bliskim-wschodzie",
+      "url": "https://biznes.pap.pl/wiadomosci/rynki/dzien-na-rynkach-futures-w-usa-spadaja-nadzieja-porozumienia-na-bliskim-wschodzie",
+      "title": "DZIEŃ NA RYNKACH: Futures w USA spadają; nadzieja porozumienia na Bliskim Wschodzie",
+      "content_html": "Kontrakty w USA zniżkują, podobnie jak indeksy w Europie. Giełdy odwróciły poniedziałkowe wzrosty po tym, jak irańskie władze zaprzeczyły, że rozmowy z prezydentem USA D. Trumpem miały miejsce. Ceny r",
+      "date_published": "2026-03-24T14:30:00+01:00",
+      "source": "PAP Biznes"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/firmy/noble-securities-obnizyl-rekomendacje-dla-torpolu-do-sprzedaj",
+      "url": "https://biznes.pap.pl/wiadomosci/firmy/noble-securities-obnizyl-rekomendacje-dla-torpolu-do-sprzedaj",
+      "title": "Noble Securities obniżył rekomendację dla Torpolu do \"sprzedaj\"",
+      "content_html": "Analitycy Noble Securities w raporcie z 18 marca obniżyli rekomendację dla Torpolu do \"sprzedaj\" z \"redukuj\", ale cenę docelową akcji tej spółki podnieśli do 53 zł wobec 46,2 zł wcześniej.",
+      "date_published": "2026-03-24T14:29:00+01:00",
+      "source": "PAP Biznes"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/firmy/rzad-nie-prowadzi-prac-nad-wprowadzeniem-windfall-tax",
+      "url": "https://biznes.pap.pl/wiadomosci/firmy/rzad-nie-prowadzi-prac-nad-wprowadzeniem-windfall-tax",
+      "title": "Rząd nie prowadzi prac nad wprowadzeniem windfall tax",
+      "content_html": "Rząd nie prowadzi obecnie prac nad wprowadzeniem podatku windfall tax w związku z rosnącymi cenami paliw - poinformował minister finansów i gospodarki Andrzej Domański.",
+      "date_published": "2026-03-24T14:28:00+01:00",
+      "source": "PAP Biznes"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Szkoly-same-zdecyduja-jak-uczniowie-beda-odbierac-telefony-Nowy-projekt-MEN-9103293.html",
@@ -586,14 +722,6 @@
       "title": "Jak upolować jednorożca w erze AI? \"Sztuczna inteligencja to już infrastruktura\"",
       "content_html": "Podczas gdy inwestorzy na publicznych parkietach giełdowych opierają się na historycznych danych, fundusze Venture Capital wyceniają przyszłość, która dopiero powstaje . Jak w dobie rewolucji sztucznej inteligencji odróżnić prawdziwą innowację...",
       "date_published": "2026-03-24T11:00:00+01:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Netanjahu-Trump-widzi-szanse-na-porozumienie-z-Iranem-9102948.html",
-      "url": "https://www.bankier.pl/wiadomosc/Netanjahu-Trump-widzi-szanse-na-porozumienie-z-Iranem-9102948.html",
-      "title": "Netanjahu: Trump widzi szansę na porozumienie z Iranem",
-      "content_html": "Premier Izraela Benjamin Netanjahu powiedział w poniedziałek, że rozmawiał z prezydentem USA Donaldem Trumpem i widzi on szanse na porozumienie z Iranem. Trump informował wcześniej, że Stany Zjednoczone prowadzą negocjacje pokojowe z Iranem, ale...",
-      "date_published": "2026-03-24T10:59:00+01:00",
       "source": "Bankier.pl"
     },
     {
@@ -1125,14 +1253,6 @@
       "source": "Bankier.pl"
     },
     {
-      "id": "https://www.bankier.pl/wiadomosc/Wynik-referendum-uderza-w-rzad-Meloni-Tlumy-na-ulicach-wloskich-miast-9102979.html",
-      "url": "https://www.bankier.pl/wiadomosc/Wynik-referendum-uderza-w-rzad-Meloni-Tlumy-na-ulicach-wloskich-miast-9102979.html",
-      "title": "Wynik referendum uderza w rząd Meloni. Tłumy na ulicach włoskich miast",
-      "content_html": "W Rzymie, Mediolanie, Bolonii, Neapolu i innych miastach we Włoszech odbyły się w poniedziałek manifestacje i wiece zwolenników opozycji po przegranej rządu Giorgii Meloni w zakończonym tego dnia referendum w sprawie rządowej reformy sądownictwa...",
-      "date_published": "2026-03-24T07:21:00+01:00",
-      "source": "Bankier.pl"
-    },
-    {
       "id": "https://biznes.pap.pl/wiadomosci/gospodarka/wartosc-udzielonych-kredytow-mieszkaniowych-w-ii-wzrosla-o-674-proc-rdr-bik",
       "url": "https://biznes.pap.pl/wiadomosci/gospodarka/wartosc-udzielonych-kredytow-mieszkaniowych-w-ii-wzrosla-o-674-proc-rdr-bik",
       "title": "Wartość udzielonych kredytów mieszkaniowych w II wzrosła o 67,4 proc. rdr - BIK",
@@ -1141,84 +1261,12 @@
       "source": "PAP Biznes"
     },
     {
-      "id": "https://www.bankier.pl/wiadomosc/PKO-BP-rezygnuje-z-otwierania-konta-przez-kuriera-Stawia-na-mObywatela-9103010.html",
-      "url": "https://www.bankier.pl/wiadomosc/PKO-BP-rezygnuje-z-otwierania-konta-przez-kuriera-Stawia-na-mObywatela-9103010.html",
-      "title": "PKO BP rezygnuje z otwierania konta przez kuriera. Stawia na mObywatela",
-      "content_html": "PKO BP planuje w kwietniu wyłączyć możliwość zdalnego otwierania konta osobistego z udziałem kuriera. Bank przekierowuje nowych klientów do procesu mobilnego, opartego na aplikacji mObywatel.",
-      "date_published": "2026-03-24T07:20:00+01:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Uniwersytet-Harvarda-w-opalach-Administracja-Trumpa-uderza-w-giganta-9102960.html",
-      "url": "https://www.bankier.pl/wiadomosc/Uniwersytet-Harvarda-w-opalach-Administracja-Trumpa-uderza-w-giganta-9102960.html",
-      "title": "Uniwersytet Harvarda w opałach. Administracja Trumpa uderza w giganta",
-      "content_html": "Ministerstwo edukacji USA wszczęło w poniedziałek dwa nowe dochodzenia wobec Uniwersytetu Harvarda, zarzucając uczelni faworyzowanie mniejszości etnicznych podczas przyjmowania studentów oraz brak ochrony żydowskich studentów przed nękaniem ze...",
-      "date_published": "2026-03-24T07:10:00+01:00",
-      "source": "Bankier.pl"
-    },
-    {
       "id": "https://biznes.pap.pl/wiadomosci/przemysl/liczba-nowo-zarejestrowanych-w-polsce-samochodow-w-ii-wzrosla-o-60-proc-rdr",
       "url": "https://biznes.pap.pl/wiadomosci/przemysl/liczba-nowo-zarejestrowanych-w-polsce-samochodow-w-ii-wzrosla-o-60-proc-rdr",
       "title": "Liczba nowo zarejestrowanych w Polsce samochodów w II wzrosła o 6,0 proc. rdr - ACEA",
       "content_html": "Liczba nowo zarejestrowanych samochodów osobowych w lutym w Polsce wyniosła 47.462 tj. wzrosła o 6,0 proc. rdr - wynika z szacunków europejskiego stowarzyszenia producentów motoryzacyjnych ACEA.",
       "date_published": "2026-03-24T07:07:00+01:00",
       "source": "PAP Biznes"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Politolodzy-o-wizycie-prezydenta-na-Wegrzech-to-byl-blad-9102928.html",
-      "url": "https://www.bankier.pl/wiadomosc/Politolodzy-o-wizycie-prezydenta-na-Wegrzech-to-byl-blad-9102928.html",
-      "title": "Politolodzy o wizycie prezydenta na Węgrzech: to był błąd",
-      "content_html": "Prezydent Polski Karol Nawrocki spotkał się w poniedziałek w Budapeszcie z premierem Węgier Viktorem Orbanem. Oba kraje obchodzą w poniedziałek Dzień Przyjaźni Polsko-Węgierskiej. Nawrocki spotkał się również z prezydentem Węgier Tamasem...",
-      "date_published": "2026-03-24T07:00:00+01:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Czechy-zaostrzaja-rygor-w-zbrojeniowce-Firmy-moga-stracic-licencje-po-ataku-w-Pardubicach-9102933.html",
-      "url": "https://www.bankier.pl/wiadomosc/Czechy-zaostrzaja-rygor-w-zbrojeniowce-Firmy-moga-stracic-licencje-po-ataku-w-Pardubicach-9102933.html",
-      "title": "Czechy zaostrzają rygor w zbrojeniówce. Firmy mogą stracić licencje po ataku w Pardubicach",
-      "content_html": "Rząd w Pradze zdecydował w poniedziałek, że państwo zaostrzy kontrole bezpieczeństwa w obiektach należących do 428 firm, które posiadają licencję na produkcję i eksport broni. Części z nich grozi cofnięcie zezwoleń. To reakcja na piątkowy...",
-      "date_published": "2026-03-24T07:00:00+01:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Solidarnosc-na-glodowce-w-kopalni-Orlenu-Trzech-protestujacych-trafilo-do-szpitala-9102940.html",
-      "url": "https://www.bankier.pl/wiadomosc/Solidarnosc-na-glodowce-w-kopalni-Orlenu-Trzech-protestujacych-trafilo-do-szpitala-9102940.html",
-      "title": "Solidarność na głodówce w kopalni Orlenu. Trzech protestujących trafiło do szpitala",
-      "content_html": "Trzech pracowników Inowrocławskich Kopalni Soli „Solino”, prowadzących od ponad tygodnia protest głodowy, trafiło do szpitala z powodu pogorszenia się stanu zdrowia - poinformował w poniedziałek wieczorem szef zakładowej organizacji NSZZ...",
-      "date_published": "2026-03-24T07:00:00+01:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Kaspijski-front-wojny-z-Iranem-Izrael-rozbil-flote-persow-na-Morzu-Kaspijskim-9102958.html",
-      "url": "https://www.bankier.pl/wiadomosc/Kaspijski-front-wojny-z-Iranem-Izrael-rozbil-flote-persow-na-Morzu-Kaspijskim-9102958.html",
-      "title": "Kaspijski front wojny z Iranem. Izrael rozbił flotę persów na Morzu Kaspijskim",
-      "content_html": "Izrael chronił Azerbejdżan, atakując w ubiegłym tygodniu irańską flotę na Morzu Kaspijskim; oba kraje zawarły przed rokiem tajną umowę o współpracy obronnej, która ma kluczowe znaczenie w trwającej wojnie USA i Izraela z Iranem, bo - teoretycznie...",
-      "date_published": "2026-03-24T07:00:00+01:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Tragedia-w-Nowym-Jorku-Po-wypadku-samolotu-Air-Canada-lotnisko-LaGuardia-wznowilo-prace-9102987.html",
-      "url": "https://www.bankier.pl/wiadomosc/Tragedia-w-Nowym-Jorku-Po-wypadku-samolotu-Air-Canada-lotnisko-LaGuardia-wznowilo-prace-9102987.html",
-      "title": "Tragedia w Nowym Jorku. Po wypadku samolotu Air Canada lotnisko wznowiło pracę",
-      "content_html": "Lotnisko LaGuardia w Nowym Jorku wznowiło działalność w poniedziałek po południu, po niemal 14 godzinach od nocnej kolizji samolotu Air Canada z wozem straży pożarnej. W wypadku zginęły dwie osoby, a kilkadziesiąt wymagało hospitalizacji.",
-      "date_published": "2026-03-24T07:00:00+01:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Polacy-w-Holandii-wypchnieci-poza-systemem-FNV-To-narzedzie-kontroli-i-zastraszania-9102994.html",
-      "url": "https://www.bankier.pl/wiadomosc/Polacy-w-Holandii-wypchnieci-poza-systemem-FNV-To-narzedzie-kontroli-i-zastraszania-9102994.html",
-      "title": "Polacy w Holandii wypchnięci „poza system”. FNV: To narzędzie kontroli i zastraszania",
-      "content_html": "Tysiące migrantów zarobkowych w Holandii, w tym Polaków, może pozostawać poza rejestrem mieszkańców. Związek zawodowy FNV alarmuje, że część agencji utrudnia meldunek, a związki i media od lat ujawniają fatalne warunki zakwaterowania pracowników...",
-      "date_published": "2026-03-24T07:00:00+01:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Nowa-ustawa-o-kredytach-UOKiK-odpiera-powazne-zarzuty-KNF-9103001.html",
-      "url": "https://www.bankier.pl/wiadomosc/Nowa-ustawa-o-kredytach-UOKiK-odpiera-powazne-zarzuty-KNF-9103001.html",
-      "title": "Nowa ustawa o kredytach. UOKiK odpiera poważne zarzuty KNF",
-      "content_html": "Urząd Ochrony Konkurencji i Konsumentów odpiera zarzuty, że stosuje tzw. gold plating w projekcie ustawy o kredycie konsumenckim – czytamy we wtorkowym wydaniu „Pulsu Biznesu”.",
-      "date_published": "2026-03-24T07:00:00+01:00",
-      "source": "Bankier.pl"
     },
     {
       "id": "https://biznes.pap.pl/wiadomosci/ekonomia-biznes-i-finanse/przewidywane-najwazniejsze-wydarzenia-gospodarcze-2026-03-24",
@@ -1247,8 +1295,8 @@
     {
       "id": "https://www.bankier.pl/wiadomosc/Grupa-Wielton-szacuje-ze-w-2025-r-miala-strate-EBITDA-w-wysokosci-6-6-mln-zl-9103033.html",
       "url": "https://www.bankier.pl/wiadomosc/Grupa-Wielton-szacuje-ze-w-2025-r-miala-strate-EBITDA-w-wysokosci-6-6-mln-zl-9103033.html",
-      "title": "Grupa Wielton szacuje, że w 2025 r. miała stratę EBITDA w wysokości 6,6 mln zł",
-      "content_html": "Grupa Wielton szacuje, że w 2025 r. miała skonsolidowaną stratę EBITDA w wysokości 6,6 mln zł oraz skonsolidowane przychody ze sprzedaży na poziomie 2,2 mld zł - podała spółka w komunikacie.",
+      "title": "Grupa Wielton szacuje, że w 2025 r. miała stratę EBITDA w wysokości 6,6 mln zł Grupa Wielton szacuje, że w 2025 r. miała skonsolidowaną stratę EBITDA w wysokości 6,6 mln zł oraz skonsolidowane przychody ze sprzedaży na poziomie 2,2 mld zł - podała spółka w komunikacie.",
+      "content_html": "",
       "date_published": "2026-03-24T06:54:00+01:00",
       "source": "Bankier.pl"
     },
@@ -1261,18 +1309,10 @@
       "source": "PAP Biznes"
     },
     {
-      "id": "https://www.bankier.pl/wiadomosc/Zielona-Tarcza-Wschod-nabiera-ksztaltow-Polska-wykorzysta-metode-z-II-wojny-swiatowej-9103000.html",
-      "url": "https://www.bankier.pl/wiadomosc/Zielona-Tarcza-Wschod-nabiera-ksztaltow-Polska-wykorzysta-metode-z-II-wojny-swiatowej-9103000.html",
-      "title": "„Zielona Tarcza Wschód” nabiera kształtów. Polska wykorzysta metodę z II wojny światowej",
-      "content_html": "Finalizujemy prace nad planem \"Zielonej Tarczy Wschód\". Ma polegać na wykorzystaniu m. in. bagien jako elementów systemów obronnych - mówi wiceminister klimatu i środowiska, Mikołaj Dorożała, w wywiadzie dla wtorkowego wydania „DGP”.",
-      "date_published": "2026-03-24T06:49:00+01:00",
-      "source": "Bankier.pl"
-    },
-    {
       "id": "https://www.bankier.pl/wiadomosc/Malgorzata-Krolak-nowym-prezesem-Grupy-Azoty-Police-Zmiany-w-zarzadzie-giganta-9102916.html",
       "url": "https://www.bankier.pl/wiadomosc/Malgorzata-Krolak-nowym-prezesem-Grupy-Azoty-Police-Zmiany-w-zarzadzie-giganta-9102916.html",
-      "title": "Małgorzata Królak nowym prezesem Grupy Azoty Police. Zmiany w zarządzie giganta",
-      "content_html": "Rada nadzorcza Grupy Azoty Police powołała Małgorzatę Królak na funkcję prezesa zarządu spółki z dniem 1 kwietnia 2026 r. oraz Dominika Nowaka na wiceprezesa z dniem 24 marca 2026 r. - przekazała spółka w poniedziałek w komunikacie giełdowym...",
+      "title": "Małgorzata Królak nowym prezesem Grupy Azoty Police. Zmiany w zarządzie giganta Rada nadzorcza Grupy Azoty Police powołała Małgorzatę Królak na funkcję prezesa zarządu spółki z dniem 1 kwietnia 2026 r. oraz Dominika Nowaka na wiceprezesa z dniem 24 marca 2026 r. - przekazała spółka w poniedziałek w komunikacie giełdowym.",
+      "content_html": "",
       "date_published": "2026-03-24T06:46:00+01:00",
       "source": "Bankier.pl"
     },
@@ -1555,54 +1595,6 @@
       "content_html": "",
       "date_published": "2026-03-23T17:05:00+01:00",
       "source": "Bankier.pl"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/firmy/inwestycje-w-suwerenna-chmure-w-polsce-powinny-wyniesc-nawet-10-mld-zl-rocznie-pwc",
-      "url": "https://biznes.pap.pl/wiadomosci/firmy/inwestycje-w-suwerenna-chmure-w-polsce-powinny-wyniesc-nawet-10-mld-zl-rocznie-pwc",
-      "title": "Inwestycje w suwerenną chmurę w Polsce powinny wynieść nawet 10 mld zł rocznie - PwC",
-      "content_html": "Wdrożenie rozwiązań chmury suwerennej wymaga dużej skali wydatków, a transformacja ta może szacunkowo kosztować nawet 10 mld zł rocznie w perspektywie 5-letniej - wynika z raportu PwC Polska \"Bezpiecz",
-      "date_published": "2026-03-23T17:03:00+01:00",
-      "source": "PAP Biznes"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/ekonomia-biznes-i-finanse/skrot-wiadomosci-poniedzialek-23-marca-1700",
-      "url": "https://biznes.pap.pl/wiadomosci/ekonomia-biznes-i-finanse/skrot-wiadomosci-poniedzialek-23-marca-1700",
-      "title": "Skrót wiadomości - poniedziałek, 23 marca, 17.00",
-      "content_html": "Przegląd najważniejszych wiadomości gospodarczych, krajowych i ze świata.",
-      "date_published": "2026-03-23T17:00:00+01:00",
-      "source": "PAP Biznes"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/energia/usa-maja-glowne-punkty-porozumienia-z-iranem-jesli-dobrze-pojdzie-wojna-wkrotce",
-      "url": "https://biznes.pap.pl/wiadomosci/energia/usa-maja-glowne-punkty-porozumienia-z-iranem-jesli-dobrze-pojdzie-wojna-wkrotce",
-      "title": "USA mają główne punkty porozumienia z Iranem; jeśli dobrze pójdzie, wojna wkrótce się skończy - Trump (opis)",
-      "content_html": "Prezydent USA Donald Trump poinformował w poniedziałek, że podczas rozmów z Iranem obie strony uzgodniły „główne punkty porozumienia”. Ocenił, że wkrótce może dojść do zakończenia wojny. Sugerował też",
-      "date_published": "2026-03-23T16:25:00+01:00",
-      "source": "PAP Biznes"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/DM-BDM-podwyzszyl-rekomendacje-Torpolu-do-akumuluj-cena-docelowa-wzrosla-do-68-1-zl-9102689.html",
-      "url": "https://www.bankier.pl/wiadomosc/DM-BDM-podwyzszyl-rekomendacje-Torpolu-do-akumuluj-cena-docelowa-wzrosla-do-68-1-zl-9102689.html",
-      "title": "\"Akumuluj\" dla Torpolu. Nowa rekomendacja widzi duży potencjał w wynikach 2026 roku Analitycy Domu Maklerskiego BDM, w raporcie z 23 marca, podwyższyli rekomendację Torpolu do \"akumuluj\" z \"trzymaj\", podwyższając cenę docelową do 68,1 zł z 62,2 zł wcześniej.",
-      "content_html": "",
-      "date_published": "2026-03-23T16:00:00+01:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/gospodarka/euro-w-ebc-11596-usd-i-18386-jpy",
-      "url": "https://biznes.pap.pl/wiadomosci/gospodarka/euro-w-ebc-11596-usd-i-18386-jpy",
-      "title": "Euro w EBC: 1,1596 USD i 183,86 JPY",
-      "content_html": "Europejski Bank Centralny (EBC) ustalił kurs euro na 1,1596 USD i 183,86 JPY - podał bank na swojej stronie internetowej.",
-      "date_published": "2026-03-23T15:59:00+01:00",
-      "source": "PAP Biznes"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/firmy/dm-bdm-podwyzszyl-rekomendacje-torpolu-do-akumuluj-cena-docelowa-wzrosla-do-681-zl",
-      "url": "https://biznes.pap.pl/wiadomosci/firmy/dm-bdm-podwyzszyl-rekomendacje-torpolu-do-akumuluj-cena-docelowa-wzrosla-do-681-zl",
-      "title": "DM BDM podwyższył rekomendację Torpolu do \"akumuluj\"; cena docelowa wzrosła do 68,1 zł",
-      "content_html": "Analitycy Domu Maklerskiego BDM, w raporcie z 23 marca, podwyższyli rekomendację Torpolu do \"akumuluj\" z \"trzymaj\", podwyższając cenę docelową do 68,1 zł z 62,2 zł wcześniej.",
-      "date_published": "2026-03-23T15:59:00+01:00",
-      "source": "PAP Biznes"
     }
   ]
 }
