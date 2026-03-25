@@ -5,6 +5,22 @@
   "home_page_url": "https://www.bankier.pl",
   "items": [
     {
+      "id": "https://biznes.pap.pl/wiadomosci/rynki/dzien-na-rynkach-gieldy-w-usa-rosly-w-oczekiwaniu-na-zlagodzenie-wojny-z-iranem",
+      "url": "https://biznes.pap.pl/wiadomosci/rynki/dzien-na-rynkach-gieldy-w-usa-rosly-w-oczekiwaniu-na-zlagodzenie-wojny-z-iranem",
+      "title": "DZIEŃ NA RYNKACH: Giełdy w USA rosły w oczekiwaniu na złagodzenie wojny z Iranem",
+      "content_html": "Środowa sesja na Wall Street przyniosła umiarkowane wzrosty głównych indeksów, gdyż inwestorzy mają nadzieję na złagodzenie konfliktu na Bliskim Wschodzie po tym jak prezydent Donald Trump przedstawił",
+      "date_published": "2026-03-25T21:06:00+01:00",
+      "source": "PAP Biznes"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/ekonomia-biznes-i-finanse/skrot-wiadomosci-sroda-25-marca-2100",
+      "url": "https://biznes.pap.pl/wiadomosci/ekonomia-biznes-i-finanse/skrot-wiadomosci-sroda-25-marca-2100",
+      "title": "Skrót wiadomości - środa, 25 marca, 21.00",
+      "content_html": "Przegląd najważniejszych wiadomości gospodarczych, krajowych i ze świata.",
+      "date_published": "2026-03-25T21:00:00+01:00",
+      "source": "PAP Biznes"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Izrael-chce-w-ciagu-48-godzin-zintensyfikowac-ataki-na-Iran-obawiajac-sie-rozejmu-9104304.html",
       "url": "https://www.bankier.pl/wiadomosc/Izrael-chce-w-ciagu-48-godzin-zintensyfikowac-ataki-na-Iran-obawiajac-sie-rozejmu-9104304.html",
       "title": "Izrael chce w ciągu 48 godzin zintensyfikować ataki na Iran, obawiając się rozejmu",
@@ -277,22 +293,6 @@
       "source": "Bankier.pl"
     },
     {
-      "id": "https://biznes.pap.pl/wiadomosci/ekonomia-biznes-i-finanse/skrot-wiadomosci-sroda-25-marca-1700",
-      "url": "https://biznes.pap.pl/wiadomosci/ekonomia-biznes-i-finanse/skrot-wiadomosci-sroda-25-marca-1700",
-      "title": "Skrót wiadomości - środa, 25 marca, 17.00",
-      "content_html": "Przegląd najważniejszych wiadomości gospodarczych, krajowych i ze świata.",
-      "date_published": "2026-03-25T17:00:00+01:00",
-      "source": "PAP Biznes"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/gospodarka/dzien-na-fxfi-pln-stabilny-wobec-glownych-walut-mozliwe-pogorszenie-nastrojow",
-      "url": "https://biznes.pap.pl/wiadomosci/gospodarka/dzien-na-fxfi-pln-stabilny-wobec-glownych-walut-mozliwe-pogorszenie-nastrojow",
-      "title": "DZIEŃ NA FX/FI: PLN stabilny wobec głównych walut; możliwe pogorszenie nastrojów przed weekendem",
-      "content_html": "W środę złoty pozostaje stabilny wobec euro i dolara, natomiast rentowności SPW spadły o 8-12 pb. Zdaniem strategów, sentyment może się pogorszyć wraz ze zbliżaniem się końca tygodnia i kurs EUR/PLN m",
-      "date_published": "2026-03-25T16:47:00+01:00",
-      "source": "PAP Biznes"
-    },
-    {
       "id": "https://www.bankier.pl/wiadomosc/Z-Google-do-BBC-Byly-szef-giganta-ma-ratowac-stacje-przed-Trumpem-9104170.html",
       "url": "https://www.bankier.pl/wiadomosc/Z-Google-do-BBC-Byly-szef-giganta-ma-ratowac-stacje-przed-Trumpem-9104170.html",
       "title": "Z Google do BBC. Były szef giganta ma ratować stację przed Trumpem",
@@ -461,12 +461,28 @@
       "source": "Bankier.pl"
     },
     {
+      "id": "https://biznes.pap.pl/wiadomosci/gospodarka/stopien-sfinansowania-potrzeb-pozyczkowych-brutto-26-wg-ustawy-budzetowej-3",
+      "url": "https://biznes.pap.pl/wiadomosci/gospodarka/stopien-sfinansowania-potrzeb-pozyczkowych-brutto-26-wg-ustawy-budzetowej-3",
+      "title": "Stopień sfinansowania potrzeb pożyczkowych brutto '26 wg ustawy budżetowej wynosi ok. 41 proc. - MF",
+      "content_html": "Stopień sfinansowania potrzeb pożyczkowych brutto 2026 r. wg ustawy budżetowej wynosi ok. 41 proc. - poinformował PAP Biznes resort finansów.",
+      "date_published": "2026-03-25T14:56:00+01:00",
+      "source": "PAP Biznes"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/BFG-okreslil-wysokosc-skladki-Banku-Millennium-na-fundusz-przymusowej-restrukturyzacji-na-116-8-mln-zl-9104067.html",
       "url": "https://www.bankier.pl/wiadomosc/BFG-okreslil-wysokosc-skladki-Banku-Millennium-na-fundusz-przymusowej-restrukturyzacji-na-116-8-mln-zl-9104067.html",
       "title": "BFG określił wysokość składki Banku Millennium na fundusz przymusowej restrukturyzacji na 116,8 mln zł",
       "content_html": "Bankowy Fundusz Gwarancyjny określił wysokość składki na fundusz przymusowej restrukturyzacji od Banku Millennium w 2026 roku w kwocie 116. 809.741,84 zł z uwzględnieniem wysokości korekty składki za 2025 r. - poinformował bank w komunikacie...",
       "date_published": "2026-03-25T14:46:00+01:00",
       "source": "Bankier.pl"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/rynki/po-otwarciu-sesji-dji-rosnie-o-1-proc-sp-500-zwyzkuje-097-proc",
+      "url": "https://biznes.pap.pl/wiadomosci/rynki/po-otwarciu-sesji-dji-rosnie-o-1-proc-sp-500-zwyzkuje-097-proc",
+      "title": "Po otwarciu sesji DJI rośnie o 1 proc., a S&P 500 zwyżkuje 0,97 proc.",
+      "content_html": "Po otwarciu sesji w USA Dow Jones Industrial rośnie o 1 proc. do 46.585 pkt., S&P500 zwyżkuje 0,97 proc. i wynosi 6.620 pkt.",
+      "date_published": "2026-03-25T14:46:00+01:00",
+      "source": "PAP Biznes"
     },
     {
       "id": "https://biznes.pap.pl/wiadomosci/firmy/bfg-okreslil-wysokosc-skladki-banku-millennium-na-fundusz-przymusowej",
@@ -1418,62 +1434,6 @@
       "title": "DZIEŃ NA RYNKACH: Giełdy w USA w dół, ropa i rentowności obligacji w górę",
       "content_html": "Wtorkowa sesja na Wall Street zakończyła się spadkami głównych indeksów, gdyż ceny ropy naftowej ponownie wzrosły, a rentowność obligacji skarbowych poszła w górę po aukcji 2-letnich obligacji, którą ",
       "date_published": "2026-03-24T22:11:00+01:00",
-      "source": "PAP Biznes"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/energia/iran-zgodzil-sie-ze-nigdy-nie-pozyska-broni-jadrowej-trump-opis",
-      "url": "https://biznes.pap.pl/wiadomosci/energia/iran-zgodzil-sie-ze-nigdy-nie-pozyska-broni-jadrowej-trump-opis",
-      "title": "Iran zgodził się, że nigdy nie pozyska broni jądrowej - Trump (opis)",
-      "content_html": "Iran zgodził się, że nigdy nie pozyska broni jądrowej - przekazał we wtorek prezydent USA Donald Trump. Poinformował, że przedstawiciele Teheranu przesłali mu „bardzo znaczący prezent” związany z cieś",
-      "date_published": "2026-03-24T21:07:00+01:00",
-      "source": "PAP Biznes"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Wall-Street-nabrala-watpliwosci-Spadkowa-sesja-za-Atlantykiem-9103648.html",
-      "url": "https://www.bankier.pl/wiadomosc/Wall-Street-nabrala-watpliwosci-Spadkowa-sesja-za-Atlantykiem-9103648.html",
-      "title": "Wall Street nabrała wątpliwości. Spadkowa sesja za Atlantykiem Wtorkowa sesja na nowojorskich giełdach nie przyniosła kontynuacji poniedziałkowego odbicia. W zwyżkach przeszkodziły sprzeczne doniesienia na temat zawarcia pokoju z Iranem.",
-      "content_html": "",
-      "date_published": "2026-03-24T21:05:00+01:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/ekonomia-biznes-i-finanse/skrot-wiadomosci-wtorek-24-marca-2100",
-      "url": "https://biznes.pap.pl/wiadomosci/ekonomia-biznes-i-finanse/skrot-wiadomosci-wtorek-24-marca-2100",
-      "title": "Skrót wiadomości - wtorek, 24 marca, 21.00",
-      "content_html": "Przegląd najważniejszych wiadomości gospodarczych, krajowych i ze świata.",
-      "date_published": "2026-03-24T21:02:00+01:00",
-      "source": "PAP Biznes"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/BFG-okreslil-wysokosc-skladki-B-Handlowego-na-fundusz-przymusowej-restrukturyzacji-na-132-5-mln-zl-9103644.html",
-      "url": "https://www.bankier.pl/wiadomosc/BFG-okreslil-wysokosc-skladki-B-Handlowego-na-fundusz-przymusowej-restrukturyzacji-na-132-5-mln-zl-9103644.html",
-      "title": "BFG określił wysokość składki B. Handlowego na fundusz przymusowej restrukturyzacji na 132,5 mln zł Bankowy Fundusz Gwarancyjny określił wysokość składki na fundusz przymusowej restrukturyzacji od Banku Handlowego w 2026 roku w kwocie 132.455.794,41 zł z uwzględnieniem wysokości korekty składki za 2025 r. - poinformował bank w komunikacie.",
-      "content_html": "",
-      "date_published": "2026-03-24T21:00:00+01:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/firmy/bfg-okreslil-wysokosc-skladki-b-handlowego-na-fundusz-przymusowej-restrukturyzacji",
-      "url": "https://biznes.pap.pl/wiadomosci/firmy/bfg-okreslil-wysokosc-skladki-b-handlowego-na-fundusz-przymusowej-restrukturyzacji",
-      "title": "BFG określił wysokość składki B. Handlowego na fundusz przymusowej restrukturyzacji na 132,5 mln zł",
-      "content_html": "Bankowy Fundusz Gwarancyjny określił wysokość składki na fundusz przymusowej restrukturyzacji od Banku Handlowego w 2026 roku w kwocie 132.455.794,41 zł z uwzględnieniem wysokości korekty składki za 2",
-      "date_published": "2026-03-24T20:57:00+01:00",
-      "source": "PAP Biznes"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/RN-Banku-Handlowego-zatwierdzila-polityke-dywidendowa-banku-na-25-27-9103642.html",
-      "url": "https://www.bankier.pl/wiadomosc/RN-Banku-Handlowego-zatwierdzila-polityke-dywidendowa-banku-na-25-27-9103642.html",
-      "title": "RN Banku Handlowego zatwierdziła politykę dywidendową banku na '25-27 Rada Nadzorcza Banku Handlowego zatwierdziła aktualizację polityki dywidendowej banku, zakładającej w latach 2025 - 2027 wypłatę dywidendy w wysokości minimum 75 proc. zysku netto za poprzedni rok obrotowy, z uwzględnieniem indywidualnych zaleceń KNF dotyczących wypłaty dywidendy w danym roku kalendarzowym - podał bank w komunikacie.",
-      "content_html": "",
-      "date_published": "2026-03-24T20:52:00+01:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/firmy/rn-banku-handlowego-zatwierdzila-polityke-dywidendowa-banku-na-25-27",
-      "url": "https://biznes.pap.pl/wiadomosci/firmy/rn-banku-handlowego-zatwierdzila-polityke-dywidendowa-banku-na-25-27",
-      "title": "RN Banku Handlowego zatwierdziła politykę dywidendową banku na '25-27",
-      "content_html": "Rada Nadzorcza Banku Handlowego zatwierdziła aktualizację polityki dywidendowej banku, zakładającej w latach 2025 - 2027 wypłatę dywidendy w wysokości minimum 75 proc. zysku netto za poprzedni rok obr",
-      "date_published": "2026-03-24T20:51:00+01:00",
       "source": "PAP Biznes"
     }
   ]
