@@ -5,6 +5,14 @@
   "home_page_url": "https://www.bankier.pl",
   "items": [
     {
+      "id": "https://biznes.pap.pl/wiadomosci/firmy/walne-zgromadzenie-robygu-zdecydowalo-o-mozliwej-emisji-nowych-akcji-w-ramach-ipo",
+      "url": "https://biznes.pap.pl/wiadomosci/firmy/walne-zgromadzenie-robygu-zdecydowalo-o-mozliwej-emisji-nowych-akcji-w-ramach-ipo",
+      "title": "Walne zgromadzenie Robygu zdecydowało o możliwej emisji nowych akcji w ramach IPO",
+      "content_html": "Walne zgromadzenie Robygu zdecydowało o możliwej emisji do 9,65 mln akcji serii B - poinformowała firma deweloperska w komunikacie. Ewentualna emisja akcji zostanie przeprowadzona w ramach oferty publ",
+      "date_published": "2026-03-25T23:43:00+01:00",
+      "source": "PAP Biznes"
+    },
+    {
       "id": "https://biznes.pap.pl/wiadomosci/rynki/dzien-na-rynkach-gieldy-w-usa-rosly-w-oczekiwaniu-na-zlagodzenie-wojny-z-iranem",
       "url": "https://biznes.pap.pl/wiadomosci/rynki/dzien-na-rynkach-gieldy-w-usa-rosly-w-oczekiwaniu-na-zlagodzenie-wojny-z-iranem",
       "title": "DZIEŃ NA RYNKACH: Giełdy w USA rosły w oczekiwaniu na złagodzenie wojny z Iranem",
@@ -261,14 +269,6 @@
       "source": "PAP Biznes"
     },
     {
-      "id": "https://biznes.pap.pl/wiadomosci/firmy/skonsolidowane-wyniki-kghm-w-iv-kw-2025-r-vs-konsensus-pap-tabela",
-      "url": "https://biznes.pap.pl/wiadomosci/firmy/skonsolidowane-wyniki-kghm-w-iv-kw-2025-r-vs-konsensus-pap-tabela",
-      "title": "Skonsolidowane wyniki KGHM w IV kw. 2025 r. vs konsensus PAP (tabela)",
-      "content_html": "Poniżej przedstawiono skonsolidowane wyniki KGHM w czwartym kwartale 2025 roku i ich odniesienie do konsensusu PAP Biznes.",
-      "date_published": "2026-03-25T17:22:00+01:00",
-      "source": "PAP Biznes"
-    },
-    {
       "id": "https://www.bankier.pl/wiadomosc/10-tysiecy-zlotych-kary-dla-wlascicieli-domow-Resort-rozwoju-idzie-na-wojne-z-dzikimi-hotelami-9104195.html",
       "url": "https://www.bankier.pl/wiadomosc/10-tysiecy-zlotych-kary-dla-wlascicieli-domow-Resort-rozwoju-idzie-na-wojne-z-dzikimi-hotelami-9104195.html",
       "title": "10 tysięcy złotych kary dla właścicieli domów. Resort rozwoju idzie na wojnę z „dzikimi” hotelami",
@@ -443,6 +443,14 @@
       "content_html": "Kurs akcji WP Holding spada o 6,2 proc. do 47,75 zł, podczas gdy mWIG40 rośnie o 1,5 proc.",
       "date_published": "2026-03-25T15:14:00+01:00",
       "source": "Bankier.pl"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/firmy/kurs-wp-holding-spada-o-ponad-6-proc-mwig40-rosnie-o-15-proc",
+      "url": "https://biznes.pap.pl/wiadomosci/firmy/kurs-wp-holding-spada-o-ponad-6-proc-mwig40-rosnie-o-15-proc",
+      "title": "Kurs WP Holding spada o ponad 6 proc.; mWIG40 rośnie o 1,5 proc.",
+      "content_html": "Kurs akcji WP Holding spada o 6,2 proc. do 47,75 zł, podczas gdy mWIG40 rośnie o 1,5 proc.",
+      "date_published": "2026-03-25T15:13:00+01:00",
+      "source": "PAP Biznes"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Wielkie-oszustwo-w-Czystym-powietrzu-CBA-zatrzymalo-prezesa-ktory-mial-wyludzic-miliony-9104044.html",
