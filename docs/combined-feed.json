@@ -5,6 +5,38 @@
   "home_page_url": "https://www.bankier.pl",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/Akcjonariusze-Energi-zdecydowali-o-podwyzszeniu-kapitalu-zakladowego-o-3-01-mld-zl-9108915.html",
+      "url": "https://www.bankier.pl/wiadomosc/Akcjonariusze-Energi-zdecydowali-o-podwyzszeniu-kapitalu-zakladowego-o-3-01-mld-zl-9108915.html",
+      "title": "Akcjonariusze Energi zdecydowali o podwyższeniu kapitału zakładowego o 3,01 mld zł",
+      "content_html": "Nadzwyczajne walne zgromadzenie akcjonariuszy spółki Energa zdecydowało o podwyższeniu kapitału zakładowego spółki o 3,01 mld zł do 7,5 mld zł - poinformowała spółka w czwartkowym raporcie giełdowym.",
+      "date_published": "2026-04-03T00:14:00+02:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Develia-kupi-nieruchomosci-w-Gdansku-stanowiace-tereny-dawnej-Stoczni-Cesarskiej-9108914.html",
+      "url": "https://www.bankier.pl/wiadomosc/Develia-kupi-nieruchomosci-w-Gdansku-stanowiace-tereny-dawnej-Stoczni-Cesarskiej-9108914.html",
+      "title": "Develia kupi nieruchomości w Gdańsku stanowiące tereny dawnej Stoczni Cesarskiej",
+      "content_html": "Develia zawarła z Gdansk Development Holding N.V., utworzonym przez dwóch belgijskich deweloperów: Alides i Revive, przedwstępną umowę dotyczącą nabycia 100 proc. spółki Stocznia Cesarska Development, będącej użytkownikiem wieczystym nieruchomości...",
+      "date_published": "2026-04-03T00:12:00+02:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/firmy/akcjonariusze-energi-zdecydowali-o-podwyzszeniu-kapitalu-zakladowego-o-301-mld-zl",
+      "url": "https://biznes.pap.pl/wiadomosci/firmy/akcjonariusze-energi-zdecydowali-o-podwyzszeniu-kapitalu-zakladowego-o-301-mld-zl",
+      "title": "Akcjonariusze Energi zdecydowali o podwyższeniu kapitału zakładowego o 3,01 mld zł",
+      "content_html": "Nadzwyczajne walne zgromadzenie akcjonariuszy spółki Energa zdecydowało o podwyższeniu kapitału zakładowego spółki o 3,01 mld zł do 7,5 mld zł - poinformowała spółka w czwartkowym raporcie giełdowym.",
+      "date_published": "2026-04-02T23:13:00+02:00",
+      "source": "PAP Biznes"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/firmy/develia-kupi-nieruchomosci-w-gdansku-stanowiace-tereny-dawnej-stoczni-cesarskiej",
+      "url": "https://biznes.pap.pl/wiadomosci/firmy/develia-kupi-nieruchomosci-w-gdansku-stanowiace-tereny-dawnej-stoczni-cesarskiej",
+      "title": "Develia kupi nieruchomości w Gdańsku stanowiące tereny dawnej Stoczni Cesarskiej",
+      "content_html": "Develia zawarła z Gdansk Development Holding N.V., utworzonym przez dwóch belgijskich deweloperów: Alides i Revive, przedwstępną umowę dotyczącą nabycia 100 proc. spółki Stocznia Cesarska Development,",
+      "date_published": "2026-04-02T23:10:00+02:00",
+      "source": "PAP Biznes"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Inwestorzy-chca-miec-akcje-na-Wielkanoc-Licza-na-otwarcie-Ciesniny-Ormuz-9108898.html",
       "url": "https://www.bankier.pl/wiadomosc/Inwestorzy-chca-miec-akcje-na-Wielkanoc-Licza-na-otwarcie-Ciesniny-Ormuz-9108898.html",
       "title": "Inwestorzy chcą mieć akcje na Wielkanoc. Liczą na otwarcie Cieśniny Ormuz?",
@@ -333,28 +365,12 @@
       "source": "PAP Biznes"
     },
     {
-      "id": "https://biznes.pap.pl/wiadomosci/firmy/mostostal-warszawa-odstepuje-od-budowy-s19-gddkia-uznaje-ruch-za-bezpodstawny",
-      "url": "https://biznes.pap.pl/wiadomosci/firmy/mostostal-warszawa-odstepuje-od-budowy-s19-gddkia-uznaje-ruch-za-bezpodstawny",
-      "title": "Mostostal Warszawa odstępuje od budowy S19, GDDKiA uznaje ruch za bezpodstawny",
-      "content_html": "Spółka Mostostal Warszawa odstąpiła w czwartek od kontraktu na zaprojektowanie i budowę podkarpackiego odcinka drogi ekspresowej S19 Domaradz–Iskrzynia (Krosno). Generalna Dyrekcja Dróg Krajowych i Au",
-      "date_published": "2026-04-02T17:47:00+02:00",
-      "source": "PAP Biznes"
-    },
-    {
       "id": "https://www.bankier.pl/wiadomosc/Sprzedaz-mieszkan-w-marcu-Polacy-ruszyli-do-biur-deweloperow-mimo-wojny-i-inflacji-9108713.html",
       "url": "https://www.bankier.pl/wiadomosc/Sprzedaz-mieszkan-w-marcu-Polacy-ruszyli-do-biur-deweloperow-mimo-wojny-i-inflacji-9108713.html",
       "title": "Sprzedaż mieszkań w marcu. Polacy ruszyli do biur deweloperów mimo wojny i inflacji",
       "content_html": "Sprzedaż mieszkań w siedmiu największych miastach w Polsce wzrosła w marcu o 19 proc. mdm do 5,1 tys. - wynika z szacunków Otodom Analytics. Firmy deweloperskie sprzedały wówczas o 1,5 tys. mieszkań więcej niż wprowadziły do oferty.",
       "date_published": "2026-04-02T17:42:00+02:00",
       "source": "Bankier.pl"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/firmy/grupa-ptwp-szacuje-w-25-ebitda-wzrosla-do-257-mln-zl",
-      "url": "https://biznes.pap.pl/wiadomosci/firmy/grupa-ptwp-szacuje-w-25-ebitda-wzrosla-do-257-mln-zl",
-      "title": "Grupa PTWP szacuje, w '25 EBITDA wzrosła do 25,7 mln zł",
-      "content_html": "Grupa PTWP szacuje, że w 2025 roku EBITDA wzrosła do 25,7 mln zł z 9 mln zł rok wcześniej, natomiast zysk netto wzrósł do 19,3 mln zł z 2,8 mln zł - poinformowała spółka w komunikacie.",
-      "date_published": "2026-04-02T17:42:00+02:00",
-      "source": "PAP Biznes"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Nie-tylko-Marywilska-i-OBI-Prokuratura-odkryla-plan-kolejnego-ataku-na-wielki-sklep-9108707.html",
@@ -437,12 +453,28 @@
       "source": "Bankier.pl"
     },
     {
+      "id": "https://biznes.pap.pl/wiadomosci/gospodarka/premier-powolal-zespol-ds-polityki-surowcowej-panstwa",
+      "url": "https://biznes.pap.pl/wiadomosci/gospodarka/premier-powolal-zespol-ds-polityki-surowcowej-panstwa",
+      "title": "Premier powołał zespół ds. polityki surowcowej państwa",
+      "content_html": "Szef rządu powołał zespół ds. polityki surowcowej państwa, który ma m.in. wspierać działania w zakresie aktualizacji polityki surowcowej kraju - wynika z zarządzenia prezesa Rady Ministrów. Jednocześn",
+      "date_published": "2026-04-02T16:25:00+02:00",
+      "source": "PAP Biznes"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Przelom-w-FIZ-Masz-certyfikaty-za-40-tys-euro-Nowe-prawo-ma-ulatwic-zycie-9108664.html",
       "url": "https://www.bankier.pl/wiadomosc/Przelom-w-FIZ-Masz-certyfikaty-za-40-tys-euro-Nowe-prawo-ma-ulatwic-zycie-9108664.html",
       "title": "Przełom w FIZ. Masz certyfikaty za 40 tys. euro? Nowe prawo ma ułatwić życie",
       "content_html": "Inwestor, który posiada już certyfikat niepublicznego FIZ o wartości równej 40 tys. euro, będzie mógł kolejne certyfikaty takiego funduszu kupować po niższej cenie – wynika z opublikowanego w czwartek projektu ustawy.",
       "date_published": "2026-04-02T16:23:00+02:00",
       "source": "Bankier.pl"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/firmy/dzien-na-gpw-gpw-pod-wplywem-negatywnego-globalnego-sentymentu",
+      "url": "https://biznes.pap.pl/wiadomosci/firmy/dzien-na-gpw-gpw-pod-wplywem-negatywnego-globalnego-sentymentu",
+      "title": "DZIEŃ NA GPW: GPW pod wpływem negatywnego globalnego sentymentu",
+      "content_html": "Główne indeksy warszawskiej giełdy lekko zniżkują. Tracą m. in. KGHM i Modivo, a banki notowane w WIG20 radzą sobie gorzej niż indeks. Zdaniem analityków, GPW jest pod wpływem negatywnego sentymentu n",
+      "date_published": "2026-04-02T16:15:00+02:00",
+      "source": "PAP Biznes"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Alarm-w-sektorze-bankowym-Sluzby-scigaja-grupe-powiazana-z-Iranem-9108659.html",
@@ -1173,22 +1205,6 @@
       "source": "Bankier.pl"
     },
     {
-      "id": "https://www.bankier.pl/wiadomosc/Kotecki-Marcowa-obnizka-stop-procentowych-byla-ostatnia-w-tym-roku-9108368.html",
-      "url": "https://www.bankier.pl/wiadomosc/Kotecki-Marcowa-obnizka-stop-procentowych-byla-ostatnia-w-tym-roku-9108368.html",
-      "title": "Kotecki: Marcowa obniżka stóp procentowych była ostatnią w tym roku",
-      "content_html": "Marcowa obniżka stóp procentowych była ostatnią w tym roku - ocenił w rozmowie z portalem WNP.PL członek Rady Polityki Pieniężnej Ludwik Kotecki.",
-      "date_published": "2026-04-02T09:26:00+02:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Krka-chce-wyplacic-9-1-euro-dywidendy-na-akcje-9108366.html",
-      "url": "https://www.bankier.pl/wiadomosc/Krka-chce-wyplacic-9-1-euro-dywidendy-na-akcje-9108366.html",
-      "title": "Krka chce wypłacić 9,1 euro dywidendy na akcję",
-      "content_html": "Zarząd i rada nadzorcza Krka rekomendują wypłatę 9,1 euro brutto dywidendy na akcję za 2025 rok, czyli 10,3 proc. więcej niż przed rokiem - poinformowała spółka w komunikacie.",
-      "date_published": "2026-04-02T09:22:00+02:00",
-      "source": "Bankier.pl"
-    },
-    {
       "id": "https://biznes.pap.pl/wiadomosci/gospodarka/dzien-na-fxfi-na-koniec-tygodnia-umiarkowany-wzrost-awersji-do-ryzyka",
       "url": "https://biznes.pap.pl/wiadomosci/gospodarka/dzien-na-fxfi-na-koniec-tygodnia-umiarkowany-wzrost-awersji-do-ryzyka",
       "title": "DZIEŃ NA FX/FI: Na koniec tygodnia umiarkowany wzrost awersji do ryzyka",
@@ -1253,6 +1269,14 @@
       "source": "PAP Biznes"
     },
     {
+      "id": "https://www.bankier.pl/wiadomosc/Kotecki-Marcowa-obnizka-stop-procentowych-byla-ostatnia-w-tym-roku-9108368.html",
+      "url": "https://www.bankier.pl/wiadomosc/Kotecki-Marcowa-obnizka-stop-procentowych-byla-ostatnia-w-tym-roku-9108368.html",
+      "title": "Kotecki: Marcowa obniżka stóp procentowych była ostatnią w tym roku Marcowa obniżka stóp procentowych była ostatnią w tym roku - ocenił w rozmowie z portalem WNP.PL członek Rady Polityki Pieniężnej Ludwik Kotecki.",
+      "content_html": "",
+      "date_published": "2026-04-02T08:26:00+02:00",
+      "source": "Bankier.pl"
+    },
+    {
       "id": "https://biznes.pap.pl/wiadomosci/gospodarka/kotecki-z-rpp-podtrzymuje-ze-marcowa-obnizka-stop-byla-ostatnia-w-tym-roku",
       "url": "https://biznes.pap.pl/wiadomosci/gospodarka/kotecki-z-rpp-podtrzymuje-ze-marcowa-obnizka-stop-byla-ostatnia-w-tym-roku",
       "title": "Kotecki z RPP podtrzymuje, że marcowa obniżka stóp była ostatnią w tym roku",
@@ -1267,6 +1291,14 @@
       "content_html": "Na azjatyckich giełdach indeksy mocno spadają po silnych zwyżkach podczas środowego handlu. Inwestorzy nerwowo reagują na zapowiedź USA, że wojna z Iranem potrwa kolejne kilka tygodni. Na rynku waluto",
       "date_published": "2026-04-02T08:24:00+02:00",
       "source": "PAP Biznes"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Krka-chce-wyplacic-9-1-euro-dywidendy-na-akcje-9108366.html",
+      "url": "https://www.bankier.pl/wiadomosc/Krka-chce-wyplacic-9-1-euro-dywidendy-na-akcje-9108366.html",
+      "title": "Krka chce wypłacić 9,1 euro dywidendy na akcję Zarząd i rada nadzorcza Krka rekomendują wypłatę 9,1 euro brutto dywidendy na akcję za 2025 rok, czyli 10,3 proc. więcej niż przed rokiem - poinformowała spółka w komunikacie.",
+      "content_html": "",
+      "date_published": "2026-04-02T08:22:00+02:00",
+      "source": "Bankier.pl"
     },
     {
       "id": "https://biznes.pap.pl/wiadomosci/firmy/krka-chce-wyplacic-91-euro-dywidendy-na-akcje",
