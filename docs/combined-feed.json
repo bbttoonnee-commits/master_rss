@@ -5,6 +5,62 @@
   "home_page_url": "https://www.bankier.pl",
   "items": [
     {
+      "id": "https://biznes.pap.pl/wiadomosci/rynki/po-otwarciu-sesji-dji-spada-o-008-proc-sp-500-zwyzkuje-014-proc",
+      "url": "https://biznes.pap.pl/wiadomosci/rynki/po-otwarciu-sesji-dji-spada-o-008-proc-sp-500-zwyzkuje-014-proc",
+      "title": "Po otwarciu sesji DJI spada o 0,08 proc., a S&P 500 zwyżkuje 0,14 proc.",
+      "content_html": "Po otwarciu sesji w USA Dow Jones Industrial spada o 0,08 proc. do 46.469 pkt., S&P500 zwyżkuje 0,14 proc. i wynosi 6.591 pkt.",
+      "date_published": "2026-04-06T15:32:00+02:00",
+      "source": "PAP Biznes"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/rynki/usa-i-izrael-zaatakowaly-kompleks-petrochemiczny-marvdasht-w-iranie-iranskie-media",
+      "url": "https://biznes.pap.pl/wiadomosci/rynki/usa-i-izrael-zaatakowaly-kompleks-petrochemiczny-marvdasht-w-iranie-iranskie-media",
+      "title": "USA i Izrael zaatakowały kompleks petrochemiczny Marvdasht w Iranie – irańskie media",
+      "content_html": "Irański kompleks petrochemiczny Marvdasht został zaatakowany przez Stany Zjednoczone i Izrael - poinformowały w poniedziałek irańskie media państwowe. To drugi atak wymierzony w zakłady petrochemiczne",
+      "date_published": "2026-04-06T15:25:00+02:00",
+      "source": "PAP Biznes"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Studenci-widma-i-atomowe-miliony-Jak-Rosja-finansuje-program-nuklearny-Kima-9106327.html",
+      "url": "https://www.bankier.pl/wiadomosc/Studenci-widma-i-atomowe-miliony-Jak-Rosja-finansuje-program-nuklearny-Kima-9106327.html",
+      "title": "Studenci-widma i atomowe miliony. Jak Rosja finansuje program nuklearny Kima",
+      "content_html": "Ponad 100 północnokoreańskich firm wojskowych i 76 rosyjskich przedsiębiorstw tworzy siatkę finansującą programy wojskowe i nuklearne w Korei Północnej – wynika z raportu NKHR. Śledztwo wykazało, że w ramach procederu w latach 2023-2025...",
+      "date_published": "2026-04-06T15:00:00+02:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Koszty-pracy-w-Polsce-Tak-wygladamy-na-tle-Europy-9107029.html",
+      "url": "https://www.bankier.pl/wiadomosc/Koszty-pracy-w-Polsce-Tak-wygladamy-na-tle-Europy-9107029.html",
+      "title": "Koszty pracy w Polsce. Tak wyglądamy na tle Europy",
+      "content_html": "Średnie godzinowe koszty pracy w Polsce w '25 wzrosły do 19,1 euro z 17,3 euro w '24 - podał Eurostat.",
+      "date_published": "2026-04-06T15:00:00+02:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Praca-w-policji-Lawina-chetnych-do-sluzby-Liczba-kandydatow-wzrosla-dwukrotnie-9107033.html",
+      "url": "https://www.bankier.pl/wiadomosc/Praca-w-policji-Lawina-chetnych-do-sluzby-Liczba-kandydatow-wzrosla-dwukrotnie-9107033.html",
+      "title": "Praca w policji. Lawina chętnych do służby. „Liczba kandydatów wzrosła dwukrotnie”",
+      "content_html": "Ministerstwo Spraw Wewnętrznych i Administracji poinformowało we wtorek, że w ciągu dwóch lat dwukrotnie wzrosła liczba chętnych do pracy w policji. W 2023 roku było 15 tys. kandydatów, a w 2025 roku - ponad 30 tys..",
+      "date_published": "2026-04-06T15:00:00+02:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Czechy-wciaz-bez-umowy-z-Watykanem-Konkordat-sprzeczny-z-konstytucja-9107762.html",
+      "url": "https://www.bankier.pl/wiadomosc/Czechy-wciaz-bez-umowy-z-Watykanem-Konkordat-sprzeczny-z-konstytucja-9107762.html",
+      "title": "Czechy wciąż bez umowy z Watykanem. Konkordat sprzeczny z konstytucją",
+      "content_html": "Czeski Sąd Konstytucyjny (US) orzekł w środę, że część umowy międzynarodowej między Czechami a Watykanem jest sprzeczna z krajowym porządkiem konstytucyjnym, co uniemożliwia dokończenie ratyfikacji porozumienia. Problematyczne kwestie dotyczą...",
+      "date_published": "2026-04-06T15:00:00+02:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Przybylo-samowoli-budowlanych-ale-legalizacji-bylo-duzo-wiecej-niz-rozbiorek-9109484.html",
+      "url": "https://www.bankier.pl/wiadomosc/Przybylo-samowoli-budowlanych-ale-legalizacji-bylo-duzo-wiecej-niz-rozbiorek-9109484.html",
+      "title": "Przybyło samowoli budowlanych, ale legalizacji było dużo więcej niż rozbiórek",
+      "content_html": "Rok 2025 przyniósł wyraźny wzrost liczby nakazów rozbiórki nielegalnie budowanych domów. Nadzór budowlany wydał aż 269 takich nakazów – najwięcej od pięciu lat. Jednocześnie, jak zauważają eksperci portalu GetHome.pl, zmniejszyła się...",
+      "date_published": "2026-04-06T15:00:00+02:00",
+      "source": "Bankier.pl"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/NASA-potwierdza-pozar-w-Noworosyjsku-Potezne-uderzenie-dronow-w-naftowe-serce-Kremla-9109731.html",
       "url": "https://www.bankier.pl/wiadomosc/NASA-potwierdza-pozar-w-Noworosyjsku-Potezne-uderzenie-dronow-w-naftowe-serce-Kremla-9109731.html",
       "title": "NASA potwierdza pożar w Noworosyjsku. Potężne uderzenie dronów w naftowe serce Kremla",
@@ -309,22 +365,6 @@
       "source": "PAP Biznes"
     },
     {
-      "id": "https://biznes.pap.pl/wiadomosci/rynki/ceny-miedzi-w-nowym-jorku-rosna-inne-gieldy-maja-wolne",
-      "url": "https://biznes.pap.pl/wiadomosci/rynki/ceny-miedzi-w-nowym-jorku-rosna-inne-gieldy-maja-wolne",
-      "title": "Ceny miedzi w Nowym Jorku rosną; inne giełdy mają wolne",
-      "content_html": "Notowania miedzi na giełdzie metali w Nowym Jorku rosną w poniedziałek. Inne globalne giełdy metali mają wolny świąteczny poniedziałek - informują maklerzy.",
-      "date_published": "2026-04-06T07:42:00+02:00",
-      "source": "PAP Biznes"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/rynki/na-rynkach-ropy-wahania-cen-opec-zdecydowal-o-symbolicznej-podwyzce-na-bliskim",
-      "url": "https://biznes.pap.pl/wiadomosci/rynki/na-rynkach-ropy-wahania-cen-opec-zdecydowal-o-symbolicznej-podwyzce-na-bliskim",
-      "title": "Na rynkach ropy wahania cen; OPEC+ zdecydował o symbolicznej podwyżce, a na Bliskim Wschodzie wrze",
-      "content_html": "Ceny ropy naftowej wahają się podczas poniedziałkowej sesji. Inwestorzy oceniają działania krajów OPEC+, które zdecydowały o symbolicznej podwyżce produkcji ropy, a na Bliskim Wschodzie wrze w trwając",
-      "date_published": "2026-04-06T07:28:00+02:00",
-      "source": "PAP Biznes"
-    },
-    {
       "id": "https://www.bankier.pl/wiadomosc/Orban-przeszedl-od-liberalnego-dysydenta-do-najlepszego-przyjaciela-Putina-w-UE-9106625.html",
       "url": "https://www.bankier.pl/wiadomosc/Orban-przeszedl-od-liberalnego-dysydenta-do-najlepszego-przyjaciela-Putina-w-UE-9106625.html",
       "title": "Orban przeszedł od liberalnego dysydenta do najlepszego przyjaciela Putina w UE",
@@ -450,46 +490,6 @@
       "title": "Niemiecki eksperyment z marihuaną. Ministrowie mówią o „kompletnej porażce”",
       "content_html": "Dwa lata po częściowej legalizacji marihuany w Niemczech spadła liczba przestępstw z nią związanych, ale czarny rynek wciąż pozostaje problemem - piszą w środę niemieckie media. Ministrowie współrządzącej CDU uznają reformę za błąd...",
       "date_published": "2026-04-05T17:00:00+02:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Adres-zamieszkania-zamiast-adresu-zameldowania-Czy-nadejda-zmiany-9106664.html",
-      "url": "https://www.bankier.pl/wiadomosc/Adres-zamieszkania-zamiast-adresu-zameldowania-Czy-nadejda-zmiany-9106664.html",
-      "title": "Adres zamieszkania zamiast adresu zameldowania. Czy nadejdą zmiany?",
-      "content_html": "Ministerstwo Spraw Wewnętrznych i Administracji pracuje nad rezygnacją z adresu zameldowania i adresu do doręczeń w dokumentach państwowych na rzecz miejsca zamieszkania.",
-      "date_published": "2026-04-05T15:00:00+02:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Wielka-reforma-i-ciecie-pytan-Egzamin-na-prawo-jazdy-musi-nadazac-za-rzeczywistoscia-9106898.html",
-      "url": "https://www.bankier.pl/wiadomosc/Wielka-reforma-i-ciecie-pytan-Egzamin-na-prawo-jazdy-musi-nadazac-za-rzeczywistoscia-9106898.html",
-      "title": "Wielka reforma i cięcie pytań. \"Egzamin na prawo jazdy musi nadążać za rzeczywistością\"",
-      "content_html": "Egzamin na prawo jazdy musi nadążać za rzeczywistością, od nowych technologii po zmieniające się zachowania i przepisy - powiedział PAP szef Instytutu Transportu Samochodowego prof. Marcin Ślęzak pytany o zapowiadaną rezygnację z egzaminu...",
-      "date_published": "2026-04-05T15:00:00+02:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Potezna-dziura-w-panstwowej-kasie-Rzad-na-celowniku-Komisji-Europejskiej-9108754.html",
-      "url": "https://www.bankier.pl/wiadomosc/Potezna-dziura-w-panstwowej-kasie-Rzad-na-celowniku-Komisji-Europejskiej-9108754.html",
-      "title": "Potężna dziura w państwowej kasie. Rząd na celowniku Komisji Europejskiej?",
-      "content_html": "W 2025 r. sektor finansów publicznych odnotował drugi pod względem wielkości deficyt w historii – wskazali analitycy PKO BP w czwartkowym komentarzu. Jednak ten poziom deficytu ma znaczenie przede wszystkim dla Komisji Europejskiej, która ocenia...",
-      "date_published": "2026-04-05T15:00:00+02:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Tak-Trump-moze-uderzyc-w-NATO-Politico-przepytalo-ekspertow-9109052.html",
-      "url": "https://www.bankier.pl/wiadomosc/Tak-Trump-moze-uderzyc-w-NATO-Politico-przepytalo-ekspertow-9109052.html",
-      "title": "Tak Trump może uderzyć w NATO. \"Politico\" przepytało ekspertów",
-      "content_html": "Portal Politico ocenił, powołując się na rozmowy z ekspertami, że amerykański prezydent Donald Trump ma kilka możliwości, aby zaszkodzić NATO, nawet bez formalnego opuszczania Sojuszu.",
-      "date_published": "2026-04-05T15:00:00+02:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Wysyp-nowych-regulacji-to-crashtest-dla-deweloperow-9109479.html",
-      "url": "https://www.bankier.pl/wiadomosc/Wysyp-nowych-regulacji-to-crashtest-dla-deweloperow-9109479.html",
-      "title": "Wysyp nowych regulacji to crashtest dla deweloperów",
-      "content_html": "Począwszy od 2026 roku deweloperzy wkroczyli w nową rzeczywistość regulacyjną. Zaostrzone wymogi techniczne, obowiązki wynikające z ustawy o ochronie ludności i obronie cywilnej oraz skutki reformy planowania przestrzennego - w opinii analityków...",
-      "date_published": "2026-04-05T15:00:00+02:00",
       "source": "Bankier.pl"
     }
   ]
