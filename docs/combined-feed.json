@@ -5,6 +5,54 @@
   "home_page_url": "https://www.bankier.pl",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/Grupa-Wielton-nie-otrzyma-wsparcia-dla-inwestycji-w-Belchatowie-9110343.html",
+      "url": "https://www.bankier.pl/wiadomosc/Grupa-Wielton-nie-otrzyma-wsparcia-dla-inwestycji-w-Belchatowie-9110343.html",
+      "title": "Grupa Wielton nie otrzyma wsparcia dla inwestycji w Bełchatowie",
+      "content_html": "Wielton Reefer, spółka z grupy kapitałowej Wielton, nie otrzyma wsparcia Łódzkiej Specjalnej Strefy Ekonomicznej na planowaną inwestycję w Bełchatowie zakładającą budowę zakładu produkcji naczep typu chłodnia - poinformował Wielton w komunikacie...",
+      "date_published": "2026-04-07T23:46:00+02:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Tailwind-wstrzymal-negocjacje-w-sprawie-kupna-Software-Mind-spolki-zaleznej-Ailleronu-9110341.html",
+      "url": "https://www.bankier.pl/wiadomosc/Tailwind-wstrzymal-negocjacje-w-sprawie-kupna-Software-Mind-spolki-zaleznej-Ailleronu-9110341.html",
+      "title": "Tailwind wstrzymał negocjacje w sprawie kupna Software Mind, spółki zależnej Ailleronu",
+      "content_html": "Tailwind zdecydował się na wstrzymanie rozmów dotyczących potencjalnej transakcji kupna akcji Software Mind z grupy kapitałowej Ailleron z powodu niekorzystnej sytuacji rynkowej - poinformował Ailleron w komunikacie.",
+      "date_published": "2026-04-07T23:38:00+02:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/gospodarka/ministerstwo-finansow-sprzedalo-obligacje-za-6-mld-usd",
+      "url": "https://biznes.pap.pl/wiadomosci/gospodarka/ministerstwo-finansow-sprzedalo-obligacje-za-6-mld-usd",
+      "title": "Ministerstwo finansów sprzedało obligacje za 6 mld USD",
+      "content_html": "Resort finansów sprzedał obligacje benchmarkowe nominowane w dolarach amerykańskich o wartości 6 mld USD - wynika z wtorkowego komunikatu Ministerstwa Finansów. Zdaniem resortu popyt potwierdza duże z",
+      "date_published": "2026-04-07T22:48:00+02:00",
+      "source": "PAP Biznes"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/firmy/grupa-wielton-nie-otrzyma-wsparcia-dla-inwestycji-w-belchatowie",
+      "url": "https://biznes.pap.pl/wiadomosci/firmy/grupa-wielton-nie-otrzyma-wsparcia-dla-inwestycji-w-belchatowie",
+      "title": "Grupa Wielton nie otrzyma wsparcia dla inwestycji w Bełchatowie",
+      "content_html": "Wielton Reefer, spółka z grupy kapitałowej Wielton, nie otrzyma wsparcia Łódzkiej Specjalnej Strefy Ekonomicznej na planowaną inwestycję w Bełchatowie zakładającą budowę zakładu produkcji naczep typu ",
+      "date_published": "2026-04-07T22:44:00+02:00",
+      "source": "PAP Biznes"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/firmy/tailwind-wstrzymal-negocjacje-w-sprawie-kupna-software-mind-spolki-zaleznej",
+      "url": "https://biznes.pap.pl/wiadomosci/firmy/tailwind-wstrzymal-negocjacje-w-sprawie-kupna-software-mind-spolki-zaleznej",
+      "title": "Tailwind wstrzymał negocjacje w sprawie kupna Software Mind, spółki zależnej Ailleronu",
+      "content_html": "Tailwind zdecydował się na wstrzymanie rozmów dotyczących potencjalnej transakcji kupna akcji Software Mind z grupy kapitałowej Ailleron z powodu niekorzystnej sytuacji rynkowej - poinformował Aillero",
+      "date_published": "2026-04-07T22:36:00+02:00",
+      "source": "PAP Biznes"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/rynki/dzien-na-rynkach-na-wall-street-przewaga-wzrostow-rynek-wyczekuje-wiesci-z-iranu",
+      "url": "https://biznes.pap.pl/wiadomosci/rynki/dzien-na-rynkach-na-wall-street-przewaga-wzrostow-rynek-wyczekuje-wiesci-z-iranu",
+      "title": "DZIEŃ NA RYNKACH: Na Wall Street przewaga wzrostów, rynek wyczekuje wieści z Iranu",
+      "content_html": "Wtorkowa sesja na Wall Street przyniosła przewagę wzrostów wśród głównych indeksów, a S&P 500 zyskał już piąty dzień z rzędu. Inwestorzy ciągle mają nadzieje na rozejm pomiędzy Iranem a USA i Izraelem",
+      "date_published": "2026-04-07T22:14:00+02:00",
+      "source": "PAP Biznes"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/CD-Projekt-udostepni-w-srode-darmowa-aktualizacje-Cyberpunka-2077-dla-PlayStation-5-Pro-9110309.html",
       "url": "https://www.bankier.pl/wiadomosc/CD-Projekt-udostepni-w-srode-darmowa-aktualizacje-Cyberpunka-2077-dla-PlayStation-5-Pro-9110309.html",
       "title": "CD Projekt udostępni w środę darmową aktualizację „Cyberpunka 2077” dla PlayStation 5 Pro",
@@ -269,44 +317,12 @@
       "source": "Bankier.pl"
     },
     {
-      "id": "https://biznes.pap.pl/wiadomosci/trump-powiedzial-fox-news-ze-moze-odroczyc-ultimatum-jesli-negocjacje-przyniosa-cos",
-      "url": "https://biznes.pap.pl/wiadomosci/trump-powiedzial-fox-news-ze-moze-odroczyc-ultimatum-jesli-negocjacje-przyniosa-cos",
-      "title": "Trump powiedział Fox News, że może odroczyć ultimatum, jeśli negocjacje przyniosą coś konkretnego",
-      "content_html": "Prezydent USA Donald Trump powiedział we wtorek dziennikarzowi Fox News, że nadal pozostaje przy swoim ultimatum zniszczenia irańskiej infrastruktury, ale dodał, że może się to zmienić, jeśli rozmowy ",
-      "date_published": "2026-04-07T17:21:00+02:00",
-      "source": "PAP Biznes"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/firmy/grupa-corpus-iuris-chce-umocnic-pozycje-w-branzy-windykacyjnej-wywiad",
-      "url": "https://biznes.pap.pl/wiadomosci/firmy/grupa-corpus-iuris-chce-umocnic-pozycje-w-branzy-windykacyjnej-wywiad",
-      "title": "Grupa Corpus Iuris chce umocnić pozycję w branży windykacyjnej (wywiad)",
-      "content_html": "Działająca w branży windykacyjnej Grupa Corpus Iuris spodziewa się w 2026 roku umiarkowanego wzrostu podaży bankowych portfeli NPL, liczy, że w tym roku zwiększy skalę działalności, a debiut na rynku ",
-      "date_published": "2026-04-07T17:18:00+02:00",
-      "source": "PAP Biznes"
-    },
-    {
       "id": "https://www.bankier.pl/wiadomosc/Miliardy-euro-dla-Polski-Resort-funduszy-publikuje-nowy-wykaz-9110183.html",
       "url": "https://www.bankier.pl/wiadomosc/Miliardy-euro-dla-Polski-Resort-funduszy-publikuje-nowy-wykaz-9110183.html",
       "title": "Miliardy euro dla Polski. Resort funduszy publikuje nowy wykaz",
       "content_html": "W związku ze zmianami wprowadzonymi w ramach trzeciej i czwartej rewizji KPO resort funduszy zaktualizował wykaz inwestycji oraz wartość środków przeznaczonych na wsparcie o charakterze bezzwrotnym - wynika z projektu rozporządzenia, który został...",
       "date_published": "2026-04-07T17:12:00+02:00",
       "source": "Bankier.pl"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/firmy/bumech-przejmuje-kopalnie-rud-cynku-miedzi-i-srebra-w-rpa-opis",
-      "url": "https://biznes.pap.pl/wiadomosci/firmy/bumech-przejmuje-kopalnie-rud-cynku-miedzi-i-srebra-w-rpa-opis",
-      "title": "Bumech przejmuje kopalnię rud cynku, miedzi i srebra w RPA (opis)",
-      "content_html": "Bumech podpisał umowę określającą zasady przejęcia kontroli nad kopalnią rud cynku, miedzi, srebra i metali towarzyszących Maranda w Limpopo w RPA - poinformowała spółka w komunikacie.",
-      "date_published": "2026-04-07T17:01:00+02:00",
-      "source": "PAP Biznes"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/ekonomia-biznes-i-finanse/skrot-wiadomosci-wtorek-7-kwietnia-1700",
-      "url": "https://biznes.pap.pl/wiadomosci/ekonomia-biznes-i-finanse/skrot-wiadomosci-wtorek-7-kwietnia-1700",
-      "title": "Skrót wiadomości - wtorek, 7 kwietnia, 17.00",
-      "content_html": "Przegląd najważniejszych wiadomości gospodarczych, krajowych i ze świata.",
-      "date_published": "2026-04-07T17:00:00+02:00",
-      "source": "PAP Biznes"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Katastrofa-kolejowa-we-Francji-Pociag-duzych-predkosci-uderzyl-w-ciezarowke-9109926.html",
@@ -443,6 +459,22 @@
       "content_html": "Jeden napastnik zginął, a dwóch zostało rannych w strzelaninie, jaka wywiązała się we wtorek w pobliżu konsulatu Izraela w Stambule - przekazał gubernator Stambułu Davut Gul, cytowany przez portal Times of Israel. Media informowały wcześniej...",
       "date_published": "2026-04-07T14:58:00+02:00",
       "source": "Bankier.pl"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/firmy/termin-prowadzenia-negocjacji-przez-grupe-recykl-ws-zakupu-hrv-wydluzony-do-konca",
+      "url": "https://biznes.pap.pl/wiadomosci/firmy/termin-prowadzenia-negocjacji-przez-grupe-recykl-ws-zakupu-hrv-wydluzony-do-konca",
+      "title": "Termin prowadzenia negocjacji przez Grupę Recykl ws. zakupu HRV wydłużony do końca '26",
+      "content_html": "Grupa Recykl podpisała aneks do umowy, w którym termin prowadzenia negocjacji w sprawie nabycia udziałów w niemieckiej spółce HRV został wydłużony do końca 2026 roku - poinformowała spółka w komunikac",
+      "date_published": "2026-04-07T14:55:00+02:00",
+      "source": "PAP Biznes"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/finanse/pfr-starter-science-ma-promowac-inwestycje-w-projekty-ze-swiata-nauki",
+      "url": "https://biznes.pap.pl/wiadomosci/finanse/pfr-starter-science-ma-promowac-inwestycje-w-projekty-ze-swiata-nauki",
+      "title": "PFR Starter Science ma promować inwestycje w projekty ze świata nauki",
+      "content_html": "Spółka PFR Ventures ogłosiła we wtorek nową możliwość, której celem jest pobudzenie inwestycji venture capital w projekty wywodzące się z uczelni. Jak podano, zarządzający funduszami, którzy podejmą d",
+      "date_published": "2026-04-07T14:54:00+02:00",
+      "source": "PAP Biznes"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Policyjny-Black-Hawk-i-zjazdy-na-linach-Trwa-akcja-antyterrorystow-w-Warszawie-9109879.html",
@@ -1173,22 +1205,6 @@
       "source": "Bankier.pl"
     },
     {
-      "id": "https://www.bankier.pl/wiadomosc/Rozpoczela-sie-wielka-rotacja-Uderzenie-na-Iran-zapalnikiem-dla-gieldowego-trendu-9100283.html",
-      "url": "https://www.bankier.pl/wiadomosc/Rozpoczela-sie-wielka-rotacja-Uderzenie-na-Iran-zapalnikiem-dla-gieldowego-trendu-9100283.html",
-      "title": "Rozpoczęła się wielka rotacja. Uderzenie na Iran zapalnikiem dla giełdowego trendu",
-      "content_html": "Przez poprzednie trzy lata na Wall Street królowały spółki technologiczne powiązane z boomem na AI. Ich czas powoli dobiega końca. Inwestorzy przypomnieli sobie o „najbardziej znienawidzonym segmencie rynku”.",
-      "date_published": "2026-04-07T07:00:00+02:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Ranking-najlepszych-kont-firmowych-kwiecien-2026-r-9108993.html",
-      "url": "https://www.bankier.pl/wiadomosc/Ranking-najlepszych-kont-firmowych-kwiecien-2026-r-9108993.html",
-      "title": "Konto firmowe za 0 zł bez dodatkowych warunków? Sprawdź najnowszy ranking",
-      "content_html": "Czołówka rankingu kont firmowych nie została wywrócona do góry nogami, ale względem poprzedniego kwartału w części ofert zaszły istotne zmiany w opłatach. W kwietniowym zestawieniu Bankier.pl sprawdzamy więc, jak dziś wypadają rachunki dla...",
-      "date_published": "2026-04-07T07:00:00+02:00",
-      "source": "Bankier.pl"
-    },
-    {
       "id": "https://biznes.pap.pl/wiadomosci/ekonomia-biznes-i-finanse/przewidywane-najwazniejsze-wydarzenia-gospodarcze-2026-04-07",
       "url": "https://biznes.pap.pl/wiadomosci/ekonomia-biznes-i-finanse/przewidywane-najwazniejsze-wydarzenia-gospodarcze-2026-04-07",
       "title": "Przewidywane najważniejsze wydarzenia gospodarcze 2026-04-07",
@@ -1245,20 +1261,12 @@
       "source": "Bankier.pl"
     },
     {
-      "id": "https://www.bankier.pl/wiadomosc/Na-Wall-Street-wzrosty-czwarty-dzien-z-rzedu-Iran-juz-nie-straszny-9109816.html",
-      "url": "https://www.bankier.pl/wiadomosc/Na-Wall-Street-wzrosty-czwarty-dzien-z-rzedu-Iran-juz-nie-straszny-9109816.html",
-      "title": "Na Wall Street wzrosty czwarty dzień z rzędu. Iran już nie straszny? Poniedziałkowa sesja na Wall Street przyniosła wzrosty głównych indeksów, a S&P 500 zyskał czwarty dzień z rzędu. Inwestorzy ciągle mają nadzieje na rozejm pomiędzy Iranem a USA i Izraelem tuż przed końcem wyznaczonego przez prezydenta Donalda Trumpa terminem ultimatum.",
+      "id": "https://www.bankier.pl/wiadomosc/Rozpoczela-sie-wielka-rotacja-Uderzenie-na-Iran-zapalnikiem-dla-gieldowego-trendu-9100283.html",
+      "url": "https://www.bankier.pl/wiadomosc/Rozpoczela-sie-wielka-rotacja-Uderzenie-na-Iran-zapalnikiem-dla-gieldowego-trendu-9100283.html",
+      "title": "Rozpoczęła się wielka rotacja. Uderzenie na Iran zapalnikiem dla giełdowego trendu Przez poprzednie trzy lata na Wall Street królowały spółki technologiczne powiązane z boomem na AI. Ich czas powoli dobiega końca. Inwestorzy przypomnieli sobie o „najbardziej znienawidzonym segmencie rynku”.",
       "content_html": "",
-      "date_published": "2026-04-06T22:12:00+02:00",
+      "date_published": "2026-04-07T06:00:00+02:00",
       "source": "Bankier.pl"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/rynki/dzien-na-rynkach-na-wall-street-wzrosty-czwarty-dzien-z-rzedu-0",
-      "url": "https://biznes.pap.pl/wiadomosci/rynki/dzien-na-rynkach-na-wall-street-wzrosty-czwarty-dzien-z-rzedu-0",
-      "title": "DZIEŃ NA RYNKACH: Na Wall Street wzrosty czwarty dzień z rzędu",
-      "content_html": "Poniedziałkowa sesja na Wall Street przyniosła wzrosty głównych indeksów, a S&P 500 zyskał czwarty dzień z rzędu. Inwestorzy ciągle mają nadzieje na rozejm pomiędzy Iranem a USA i Izraelem tuż przed k",
-      "date_published": "2026-04-06T22:10:00+02:00",
-      "source": "PAP Biznes"
     }
   ]
 }
