@@ -5,6 +5,14 @@
   "home_page_url": "https://www.bankier.pl",
   "items": [
     {
+      "id": "https://biznes.pap.pl/wiadomosci/trump-zgadza-sie-wstrzymac-bombardowania-i-ataki-na-iran-na-okres-dwoch-tygodni",
+      "url": "https://biznes.pap.pl/wiadomosci/trump-zgadza-sie-wstrzymac-bombardowania-i-ataki-na-iran-na-okres-dwoch-tygodni",
+      "title": "Trump zgadza się wstrzymać bombardowania i ataki na Iran na okres dwóch tygodni",
+      "content_html": "Prezydent USA Donald Trump ogłosił, że zgodził się na pakistańską propozycję dwutygodniowego zawieszenia broni pod warunkiem, że Iran zgodzi się na natychmiastowe otwarcie cieśniny Ormuz. Iran zapowie",
+      "date_published": "2026-04-08T05:36:00+02:00",
+      "source": "PAP Biznes"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Grupa-Wielton-nie-otrzyma-wsparcia-dla-inwestycji-w-Belchatowie-9110343.html",
       "url": "https://www.bankier.pl/wiadomosc/Grupa-Wielton-nie-otrzyma-wsparcia-dla-inwestycji-w-Belchatowie-9110343.html",
       "title": "Grupa Wielton nie otrzyma wsparcia dla inwestycji w Bełchatowie",
@@ -293,14 +301,6 @@
       "source": "Bankier.pl"
     },
     {
-      "id": "https://biznes.pap.pl/wiadomosci/firmy/ten-square-games-szacuje-przychody-w-i-kw-26-na-983-mln-zl",
-      "url": "https://biznes.pap.pl/wiadomosci/firmy/ten-square-games-szacuje-przychody-w-i-kw-26-na-983-mln-zl",
-      "title": "Ten Square Games szacuje przychody w I kw. '26 na 98,3 mln zł",
-      "content_html": "Szacunkowe skonsolidowane płatności użytkowników w grach, bez uwzględnienia przychodów odroczonych w czasie, grupy Ten Square Games w pierwszym kwartale 2026 roku wyniosły 98,3 mln zł - poinformowała ",
-      "date_published": "2026-04-07T17:32:00+02:00",
-      "source": "PAP Biznes"
-    },
-    {
       "id": "https://www.bankier.pl/wiadomosc/Tyle-kosztuje-paliwo-w-Niemczech-Usredniona-cena-diesla-doszla-do-2-5-euro-9110191.html",
       "url": "https://www.bankier.pl/wiadomosc/Tyle-kosztuje-paliwo-w-Niemczech-Usredniona-cena-diesla-doszla-do-2-5-euro-9110191.html",
       "title": "Tyle kosztuje paliwo w Niemczech. Uśredniona cena diesla doszła do 2,5 euro",
@@ -411,6 +411,14 @@
       "content_html": "Ministerstwo Finansów chce ujednolicić zasady korygowania elektronicznych ksiąg podatkowych, które przesyłane są do organów podatkowych – wynika z opublikowanej we wtorek informacji o planowanej nowelizacji Ordynacji podatkowej.",
       "date_published": "2026-04-07T15:42:00+02:00",
       "source": "Bankier.pl"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/rynki/po-otwarciu-sesji-dji-spada-o-024-proc-sp-500-znizkuje-030-proc",
+      "url": "https://biznes.pap.pl/wiadomosci/rynki/po-otwarciu-sesji-dji-spada-o-024-proc-sp-500-znizkuje-030-proc",
+      "title": "Po otwarciu sesji DJI spada o 0,24 proc., a S&P 500 zniżkuje 0,30 proc.",
+      "content_html": "Po otwarciu sesji w USA Dow Jones Industrial spada o 0,24 proc. do 46.556 pkt., S&P500 zniżkuje 0,30 proc. i wynosi 6.592 pkt.",
+      "date_published": "2026-04-07T15:37:00+02:00",
+      "source": "PAP Biznes"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Prezydent-pisze-do-premiera-Zadam-natychmiastowego-zaskarzenia-umowy-z-krajami-Mercosur-do-TSUE-9110094.html",
