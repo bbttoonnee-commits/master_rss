@@ -5,6 +5,30 @@
   "home_page_url": "https://www.bankier.pl",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/Na-Wall-Street-wzrostow-ciag-dalszy-S-P500-i-Nasdaq-odrabiaja-marcowe-straty-9111760.html",
+      "url": "https://www.bankier.pl/wiadomosc/Na-Wall-Street-wzrostow-ciag-dalszy-S-P500-i-Nasdaq-odrabiaja-marcowe-straty-9111760.html",
+      "title": "Na Wall Street wzrostów ciąg dalszy. S&P500 i Nasdaq odrabiają marcowe straty",
+      "content_html": "W czwartek na Wall Street akcje wzrosły drugi dzień z rzędu, mimo wzrostu cen ropy naftowej. Wzrósł optymizm wśród inwestorów, którzy wierzą, że kruche, dwutygodniowe zawieszenie broni między USA a Iranem może zostać utrzymane.",
+      "date_published": "2026-04-09T23:12:00+02:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/firmy/stokrotka-zwiekszyla-w-2025-roku-przychody-i-wynik-ebitda-otworzyla-33-nowe-sklepy",
+      "url": "https://biznes.pap.pl/wiadomosci/firmy/stokrotka-zwiekszyla-w-2025-roku-przychody-i-wynik-ebitda-otworzyla-33-nowe-sklepy",
+      "title": "Stokrotka zwiększyła w 2025 roku przychody i wynik EBITDA, otworzyła 33 nowe sklepy",
+      "content_html": "Maxima Grupe, prowadząca w Polsce sieć detaliczną Stokrotka, zwiększyła w 2025 roku przychody o 4,3 proc., a EBITDA poprawiła się o 6 proc. - poinformowała litewska spółka w komunikacie. Stokrotka w o",
+      "date_published": "2026-04-09T22:39:00+02:00",
+      "source": "PAP Biznes"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/rynki/dzien-na-rynkach-na-wall-street-ciag-dalszy-wzrostow",
+      "url": "https://biznes.pap.pl/wiadomosci/rynki/dzien-na-rynkach-na-wall-street-ciag-dalszy-wzrostow",
+      "title": "DZIEŃ NA RYNKACH: Na Wall Street ciąg dalszy wzrostów",
+      "content_html": "W czwartek na Wall Street akcje wzrosły drugi dzień z rzędu, mimo wzrostu cen ropy naftowej. Wzrósł optymizm wśród inwestorów, którzy wierzą, że kruche, dwutygodniowe zawieszenie broni między USA a Ir",
+      "date_published": "2026-04-09T22:11:00+02:00",
+      "source": "PAP Biznes"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Pat-w-TK-Prezydent-nie-uznaje-slubowania-sedziowie-groza-pozwami-9111728.html",
       "url": "https://www.bankier.pl/wiadomosc/Pat-w-TK-Prezydent-nie-uznaje-slubowania-sedziowie-groza-pozwami-9111728.html",
       "title": "Pat w TK. Prezydent nie uznaje ślubowania, sędziowie grożą pozwami",
@@ -317,28 +341,12 @@
       "source": "Bankier.pl"
     },
     {
-      "id": "https://biznes.pap.pl/wiadomosci/gospodarka/dzien-na-fxfi-notowania-pln-poprawily-sie-wobec-porannych-poziomow",
-      "url": "https://biznes.pap.pl/wiadomosci/gospodarka/dzien-na-fxfi-notowania-pln-poprawily-sie-wobec-porannych-poziomow",
-      "title": "DZIEŃ NA FX/FI: Notowania PLN poprawiły się wobec porannych poziomów",
-      "content_html": "W czwartek polska waluta osłabiała się do ok. 4,265/EUR, jednak po południu tendencja ta odwróciła się i EUR/PLN kończy dzień lekkim spadkiem. Rentowności obligacji skarbowych wzrosły. Zdaniem ekonomi",
-      "date_published": "2026-04-09T17:16:00+02:00",
-      "source": "PAP Biznes"
-    },
-    {
       "id": "https://www.bankier.pl/wiadomosc/Skrajnie-trudna-sytuacja-Azotow-i-JSW-Balczun-mowi-o-walce-o-plynnosc-9111547.html",
       "url": "https://www.bankier.pl/wiadomosc/Skrajnie-trudna-sytuacja-Azotow-i-JSW-Balczun-mowi-o-walce-o-plynnosc-9111547.html",
       "title": "Skrajnie trudna sytuacja Azotów i JSW. Balczun mówi o \"walce o płynność\"",
       "content_html": "Ministerstwo Aktywów Państwowych pracuje nad konstruktywnymi rozwiązaniami dla Grupy Azoty i Jastrzębskiej Spółki Węglowej (JSW), które znajdują się w skrajnie trudnej sytuacji finansowej - poinformował w czwartek minister aktywów państwowych...",
       "date_published": "2026-04-09T17:12:00+02:00",
       "source": "Bankier.pl"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/firmy/develia-planuje-emisje-obligacji",
-      "url": "https://biznes.pap.pl/wiadomosci/firmy/develia-planuje-emisje-obligacji",
-      "title": "Develia planuje emisję obligacji",
-      "content_html": "Develia planuje przeprowadzenie emisji obligacji najpóźniej do końca II kwartału 2026 roku w ramach ustanowionego wcześniej programu emisji - poinformowała spółka w komunikacie.",
-      "date_published": "2026-04-09T17:11:00+02:00",
-      "source": "PAP Biznes"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Sunex-szacuje-ze-mial-w-I-kw-42-2-mln-zl-skonsolidowanych-przychodow-8-4-proc-mniej-rdr-9111539.html",
@@ -443,6 +451,22 @@
       "content_html": "Prezydent Iranu Masud Pezeszkian ocenił w czwartek, że izraelskie ataki na Liban naruszają porozumienie o zawieszeniu broni i pozbawiają sensu negocjacje pokojowe z USA, które mają rozpocząć się w piątek. Dodał, że Teheran nie opuści narodu...",
       "date_published": "2026-04-09T15:34:00+02:00",
       "source": "Bankier.pl"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/rynki/po-otwarciu-sesji-dji-spada-o-044-proc-sp-500-znizkuje-015-proc",
+      "url": "https://biznes.pap.pl/wiadomosci/rynki/po-otwarciu-sesji-dji-spada-o-044-proc-sp-500-znizkuje-015-proc",
+      "title": "Po otwarciu sesji DJI spada o 0,44 proc., a S&P 500 zniżkuje 0,15 proc.",
+      "content_html": "Po otwarciu sesji w USA Dow Jones Industrial spada o 0,44 proc. do 47.705 pkt., S&P500 zniżkuje 0,15 proc. i wynosi 6.773 pkt.",
+      "date_published": "2026-04-09T15:33:00+02:00",
+      "source": "PAP Biznes"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/firmy/liczba-rachunkow-maklerskich-na-koniec-iii-wyniosla-2736-mln-kdpw",
+      "url": "https://biznes.pap.pl/wiadomosci/firmy/liczba-rachunkow-maklerskich-na-koniec-iii-wyniosla-2736-mln-kdpw",
+      "title": "Liczba rachunków maklerskich na koniec III wyniosła 2,736 mln - KDPW",
+      "content_html": "Pod koniec marca 2026 roku liczba rachunków papierów wartościowych, prowadzonych przez banki oraz domy i biura maklerskie działające w Polsce wzrosła do 2,736 mln z 2,675 mln na koniec lutego - podał ",
+      "date_published": "2026-04-09T15:32:00+02:00",
+      "source": "PAP Biznes"
     },
     {
       "id": "https://biznes.pap.pl/wiadomosci/firmy/xtb-w-ciagu-roku-pozyskalo-525452-tys-rachunkow-maklerskich-kdpw",
@@ -1317,14 +1341,6 @@
       "source": "PAP Biznes"
     },
     {
-      "id": "https://www.bankier.pl/wiadomosc/Wielki-strajk-Lufthansy-uderzy-w-glowne-lotniska-Ucierpia-tez-pasazerowie-w-Polsce-9111108.html",
-      "url": "https://www.bankier.pl/wiadomosc/Wielki-strajk-Lufthansy-uderzy-w-glowne-lotniska-Ucierpia-tez-pasazerowie-w-Polsce-9111108.html",
-      "title": "Wielki strajk Lufthansy uderzy w główne lotniska. Ucierpią też pasażerowie w Polsce",
-      "content_html": "Personel pokładowy Lufthansy przewiduje na piątek strajk - poinformował związek zawodowy Ufo. Oznacza to, że niemiecki przewoźnik ponownie będzie odwoływał loty, a zakłócenia dotyczyć będą prawdopodobnie też lotów tej linii do i z Polski...",
-      "date_published": "2026-04-09T08:23:00+02:00",
-      "source": "Bankier.pl"
-    },
-    {
       "id": "https://biznes.pap.pl/wiadomosci/rynki/ceny-miedzi-w-londynie-wycofuja-sie-z-najwyzszych-poziomow-od-3-tygodni",
       "url": "https://biznes.pap.pl/wiadomosci/rynki/ceny-miedzi-w-londynie-wycofuja-sie-z-najwyzszych-poziomow-od-3-tygodni",
       "title": "Ceny miedzi w Londynie wycofują się z najwyższych poziomów od 3 tygodni",
@@ -1474,14 +1490,6 @@
       "title": "Do wykupu w 2026 r. pozostaje dług o wartości nominalnej 172,1 mld zł - MF",
       "content_html": "Do wykupu w 2026 roku (wg stanu na 31 marca) pozostaje dług o wartości nominalnej 172,1 mld zł - podało ministerstwo finansów w komunikacie.",
       "date_published": "2026-04-09T05:56:00+02:00",
-      "source": "PAP Biznes"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/rynki/dzien-na-rynkach-na-wall-street-mocne-zwyzki-po-zawieszeniu-broni-dow-zyskal-ponad",
-      "url": "https://biznes.pap.pl/wiadomosci/rynki/dzien-na-rynkach-na-wall-street-mocne-zwyzki-po-zawieszeniu-broni-dow-zyskal-ponad",
-      "title": "DZIEŃ NA RYNKACH: Na Wall Street mocne zwyżki po zawieszeniu broni; Dow zyskał ponad 1,3 tys. pkt.",
-      "content_html": "Środowa sesja na Wall Street przyniosła mocne zwyżki, a indeks DJI wzrósł najmocniej od kwietnia 2025 roku. Na rynkach zapanował optymizm po uzgodnieniu dwutygodniowego zawieszenia broni w wojnie międ",
-      "date_published": "2026-04-08T23:05:00+02:00",
       "source": "PAP Biznes"
     }
   ]
