@@ -5,6 +5,38 @@
   "home_page_url": "https://www.bankier.pl",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/Znak-Produkt-Polski-bije-rekordy-popularnosci-9109841.html",
+      "url": "https://www.bankier.pl/wiadomosc/Znak-Produkt-Polski-bije-rekordy-popularnosci-9109841.html",
+      "title": "Znak \"Produkt Polski\" bije rekordy popularności",
+      "content_html": "Około 75 proc. osób uznało za ważne kupowanie żywności produkowanej w Polsce, z krajowych surowców - wynika z badania „Polska wieś i rolnictwo 2025”. Świadome kupowanie przyczynia się do rozwoju gospodarki - zaznaczyli przedstawiciele Krajowego...",
+      "date_published": "2026-04-11T09:00:00+02:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Koniec-ogrzewania-gazowego-coraz-blizej-Francja-oglasza-radykalny-plan-i-miliardy-na-doplaty-9112293.html",
+      "url": "https://www.bankier.pl/wiadomosc/Koniec-ogrzewania-gazowego-coraz-blizej-Francja-oglasza-radykalny-plan-i-miliardy-na-doplaty-9112293.html",
+      "title": "Koniec ogrzewania gazowego coraz bliżej. Francja ogłasza radykalny plan",
+      "content_html": "Premier Francji Sebastien Lecornu zapowiedział w piątek kroki mające przyspieszyć zwiększenie wykorzystania elektryczności zamiast importowanych źródeł energii: ropy i gazu. Premier mówił o tym w wystąpieniu telewizyjnym na temat kryzysu energetycznego...",
+      "date_published": "2026-04-10T21:25:00+02:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Ekwador-podniosl-cla-na-towary-z-Kolumbii-Relacje-coraz-gorsze-9112287.html",
+      "url": "https://www.bankier.pl/wiadomosc/Ekwador-podniosl-cla-na-towary-z-Kolumbii-Relacje-coraz-gorsze-9112287.html",
+      "title": "Ekwador podniósł cła na towary z Kolumbii. Relacje coraz gorsze",
+      "content_html": "Ekwador podniósł cła na towary z Kolumbii z 50 do 100 proc. - podały media ekwadorskie dodając, że państwa te mierzą się z największym kryzysem w relacjach dwustronnych. Prezydent Ekwadoru Daniel Noboa zarzuca sąsiadowi niewystarczającą walkę...",
+      "date_published": "2026-04-10T21:04:00+02:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/NWZ-JSW-Koks-podjelo-uchwale-o-dalszym-istnieniu-spolki-9112285.html",
+      "url": "https://www.bankier.pl/wiadomosc/NWZ-JSW-Koks-podjelo-uchwale-o-dalszym-istnieniu-spolki-9112285.html",
+      "title": "NWZ JSW Koks podjęło uchwałę o dalszym istnieniu spółki",
+      "content_html": "Nadzwyczajne Walne Zgromadzenie JSW Koks podjęło uchwałę o dalszym istnieniu spółki - podało JSW w komunikacie. (PAP Biznes)",
+      "date_published": "2026-04-10T20:40:00+02:00",
+      "source": "Bankier.pl"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Trump-traci-cierpliwosc-odblokowanie-Ormuzu-jedyna-karta-Iranu-9112276.html",
       "url": "https://www.bankier.pl/wiadomosc/Trump-traci-cierpliwosc-odblokowanie-Ormuzu-jedyna-karta-Iranu-9112276.html",
       "title": "Trump traci cierpliwość: odblokowanie Ormuzu jedyną kartą Iranu",
@@ -42,14 +74,6 @@
       "title": "Nowe otwarcie stor.agency. Spółka przechodzi pod kontrolę zarządu",
       "content_html": "Po zmianach właścicielskich stor.agency (dawniej Stor9) rozpoczyna kolejny etap działalności. Spółka przeszła pod pełną kontrolę zarządu, a wcześniejszy beneficjent rzeczywisty (Robert Lewandowski) po dokapitalizowaniu firmy i uregulowaniu...",
       "date_published": "2026-04-10T19:44:00+02:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/NWZ-JSW-Koks-podjelo-uchwale-o-dalszym-istnieniu-spolki-9112285.html",
-      "url": "https://www.bankier.pl/wiadomosc/NWZ-JSW-Koks-podjelo-uchwale-o-dalszym-istnieniu-spolki-9112285.html",
-      "title": "NWZ JSW Koks podjęło uchwałę o dalszym istnieniu spółki Nadzwyczajne Walne Zgromadzenie JSW Koks podjęło uchwałę o dalszym istnieniu spółki - podało JSW w komunikacie. (PAP Biznes)",
-      "content_html": "",
-      "date_published": "2026-04-10T19:40:00+02:00",
       "source": "Bankier.pl"
     },
     {
@@ -469,6 +493,14 @@
       "source": "Bankier.pl"
     },
     {
+      "id": "https://biznes.pap.pl/wiadomosci/firmy/archicom-sprzedal-w-i-kw-602-lokale-wobec-530-przed-rokiem",
+      "url": "https://biznes.pap.pl/wiadomosci/firmy/archicom-sprzedal-w-i-kw-602-lokale-wobec-530-przed-rokiem",
+      "title": "Archicom sprzedał w I kw. 602 lokale wobec 530 przed rokiem",
+      "content_html": "Grupa Archicom, w ramach swojej działalności oraz w ramach zarządzania projektami mieszkaniowymi dla grupy Echo Investment, zawarła w pierwszym kwartale 2026 roku 602 przedwstępne umowy sprzedaży loka",
+      "date_published": "2026-04-10T14:38:00+02:00",
+      "source": "PAP Biznes"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Afera-na-granicy-w-Bobrownikach-Funkcjonariusze-oskarzeni-o-gigantyczny-przemyt-9112023.html",
       "url": "https://www.bankier.pl/wiadomosc/Afera-na-granicy-w-Bobrownikach-Funkcjonariusze-oskarzeni-o-gigantyczny-przemyt-9112023.html",
       "title": "Afera na granicy w Bobrownikach. Funkcjonariusze oskarżeni o gigantyczny przemyt",
@@ -477,12 +509,36 @@
       "source": "Bankier.pl"
     },
     {
+      "id": "https://biznes.pap.pl/wiadomosci/gospodarka/mf-sprzedalo-dodatkowo-50-tyg-bony-za-394-mln-zl",
+      "url": "https://biznes.pap.pl/wiadomosci/gospodarka/mf-sprzedalo-dodatkowo-50-tyg-bony-za-394-mln-zl",
+      "title": "MF sprzedało dodatkowo 50-tyg. bony za 394 mln zł",
+      "content_html": "Ministerstwo Finansów sprzedało dodatkowo 50-tyg. bony skarbowe za 394,0 mln zł - podał resort w komunikacie.",
+      "date_published": "2026-04-10T14:30:00+02:00",
+      "source": "PAP Biznes"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/gospodarka/wedlug-nbp-polska-stala-sie-kluczowym-europejskim-hubem-obslugujacym-dostawy",
+      "url": "https://biznes.pap.pl/wiadomosci/gospodarka/wedlug-nbp-polska-stala-sie-kluczowym-europejskim-hubem-obslugujacym-dostawy",
+      "title": "Według NBP Polska stała się kluczowym europejskim hubem obsługującym dostawy z Dalekiego Wschodu (popr.)",
+      "content_html": "Według NBP Polska stała się kluczowym europejskim hubem obsługującym dostawy z Dalekiego Wschodu, a co za tym idzie zmieniło to zupełnie strukturę polskiego eksportu.",
+      "date_published": "2026-04-10T14:26:00+02:00",
+      "source": "PAP Biznes"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Rozmowy-pokojowe-z-Izraelem-Liban-wysle-delegacje-do-USA-9112016.html",
       "url": "https://www.bankier.pl/wiadomosc/Rozmowy-pokojowe-z-Izraelem-Liban-wysle-delegacje-do-USA-9112016.html",
       "title": "Rozmowy pokojowe z Izraelem. Liban wyśle delegację do USA",
       "content_html": "Liban weźmie udział w rozmowach z USA i Izraelem o zawieszeniu broni, do których ma dojść w przyszłym tygodniu w Waszyngtonie - poinformowała w piątek agencja Reutera, powołując się na wysokiego rangą libańskiego urzędnika.",
       "date_published": "2026-04-10T14:20:00+02:00",
       "source": "Bankier.pl"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/firmy/inwestorzy-zapisali-sie-na-hipoteczne-listy-zastawne-pko-banku-hipotecznego-o-wart",
+      "url": "https://biznes.pap.pl/wiadomosci/firmy/inwestorzy-zapisali-sie-na-hipoteczne-listy-zastawne-pko-banku-hipotecznego-o-wart",
+      "title": "Inwestorzy zapisali się na hipoteczne listy zastawne PKO Banku Hipotecznego o wart. ponad 1 mld zł",
+      "content_html": "Inwestorzy detaliczni zapisali się na hipoteczne listy zastawne PKO Banku Hipotecznego o wartości ponad miliarda złotych - podał bank w komunikacie prasowym. Grupa PKO Banku Polskiego zapowiada kolejn",
+      "date_published": "2026-04-10T14:19:00+02:00",
+      "source": "PAP Biznes"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Koniec-ery-Viktora-Orbana-Opozycja-idzie-po-pelna-wladze-9112012.html",
@@ -533,6 +589,14 @@
       "source": "Bankier.pl"
     },
     {
+      "id": "https://biznes.pap.pl/wiadomosci/firmy/pko-bh-chce-wychodzic-na-rynek-z-oferta-detalicznych-lz-czesciej-niz-raz-na-pol",
+      "url": "https://biznes.pap.pl/wiadomosci/firmy/pko-bh-chce-wychodzic-na-rynek-z-oferta-detalicznych-lz-czesciej-niz-raz-na-pol",
+      "title": "PKO BH chce wychodzić na rynek z ofertą detalicznych LZ częściej niż raz na pół roku",
+      "content_html": "PKO Bank Hipoteczny chce wychodzić na rynek z ofertą detalicznych hipotecznych listów zastawnych częściej niż raz na pół roku - poinformował prezes banku Wojciech Papierak.",
+      "date_published": "2026-04-10T13:52:00+02:00",
+      "source": "PAP Biznes"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Francja-walczy-z-suchymi-stacjami-Cysterny-wyjada-na-drogi-w-weekendy-i-swieta-9111995.html",
       "url": "https://www.bankier.pl/wiadomosc/Francja-walczy-z-suchymi-stacjami-Cysterny-wyjada-na-drogi-w-weekendy-i-swieta-9111995.html",
       "title": "Francja walczy z suchymi stacjami. Cysterny wyjadą na drogi w weekendy i święta",
@@ -555,6 +619,30 @@
       "content_html": "Creotech Instruments otrzymał od ESA informację o zaakceptowaniu ukończenia realizacji pozostałej części kamienia milowego nr 2 w projekcie \"Country awerness mission in land analysis - Camila\", co oznacza, iż kamień milowy został zrealizowany...",
       "date_published": "2026-04-10T13:38:00+02:00",
       "source": "Bankier.pl"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/gospodarka/wedlug-nbp-polska-stala-kluczowym-europejskim-hubem-obslugujacym-dostawy-z",
+      "url": "https://biznes.pap.pl/wiadomosci/gospodarka/wedlug-nbp-polska-stala-kluczowym-europejskim-hubem-obslugujacym-dostawy-z",
+      "title": "Według NBP Polska stała kluczowym europejskim hubem obsługującym dostawy z Bliskiego Wschodu",
+      "content_html": "Według NBP Polska staje stała kluczowym europejskim hubem obsługującym dostawy z Bliskiego Wschodu, a co za tym idzie zmieniło to zupełnie strukturę polskiego eksportu.",
+      "date_published": "2026-04-10T13:31:00+02:00",
+      "source": "PAP Biznes"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/firmy/wodorowe-projekty-z-udzialem-gaz-systemu-dopisane-do-listy-kluczowych-inwestycji-w",
+      "url": "https://biznes.pap.pl/wiadomosci/firmy/wodorowe-projekty-z-udzialem-gaz-systemu-dopisane-do-listy-kluczowych-inwestycji-w",
+      "title": "Wodorowe projekty z udziałem Gaz-Systemu dopisane do listy kluczowych inwestycji w UE",
+      "content_html": "Nordycko-Bałtycki Korytarz Wodorowy oraz Pomorski Klaster Zielonego Wodoru uzyskały unijny status projektów wspólnego zainteresowania (PCI – Projects of Common Interest) - poinformował operator. Dodał",
+      "date_published": "2026-04-10T13:26:00+02:00",
+      "source": "PAP Biznes"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/gospodarka/tendencje-w-imporcie-w-iv-kw-ksztaltowane-w-duzej-mierze-przez-tani-import-z",
+      "url": "https://biznes.pap.pl/wiadomosci/gospodarka/tendencje-w-imporcie-w-iv-kw-ksztaltowane-w-duzej-mierze-przez-tani-import-z",
+      "title": "Tendencje w imporcie w IV kw. kształtowane w dużej mierze przez tani import z Chin",
+      "content_html": "W IV kw. 2025 r. w imporcie do Polski główne tendencje były w dużej mierze kształtowane przez ekspansję tanich chińskich towarów na rynki europejskie - podał NBP w pełnym bilansie płatniczym za IV kw.",
+      "date_published": "2026-04-10T13:21:00+02:00",
+      "source": "PAP Biznes"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Ceny-paliw-na-sobote-Minister-energii-podal-stawki-9111975.html",
@@ -589,12 +677,44 @@
       "source": "Bankier.pl"
     },
     {
+      "id": "https://biznes.pap.pl/wiadomosci/rynki/analiza-sondazy-wskazuje-na-szanse-tiszy-na-wiekszosc-konstytucyjna-po-wyborach-na",
+      "url": "https://biznes.pap.pl/wiadomosci/rynki/analiza-sondazy-wskazuje-na-szanse-tiszy-na-wiekszosc-konstytucyjna-po-wyborach-na",
+      "title": "Analiza sondaży wskazuje na szanse Tiszy na większość konstytucyjną po wyborach na Węgrzech - media",
+      "content_html": "Analiza sondaży wyborczych, przeprowadzona w węgierskich mediach, wskazuje na zdecydowaną wygraną w wyborach 12 kwietnia opozycyjnej partii Tisza oraz możliwość uzyskania przez nią większości konstytu",
+      "date_published": "2026-04-10T13:14:00+02:00",
+      "source": "PAP Biznes"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/firmy/sfinks-mial-w-i-kw-513-mln-zl-przychodow-ze-sprzedazy-gastronomicznej-ok-2-proc",
+      "url": "https://biznes.pap.pl/wiadomosci/firmy/sfinks-mial-w-i-kw-513-mln-zl-przychodow-ze-sprzedazy-gastronomicznej-ok-2-proc",
+      "title": "Sfinks miał w I kw. 51,3 mln zł przychodów ze sprzedaży gastronomicznej, ok. 2 proc. więcej rdr",
+      "content_html": "Sfinks Polska miał w pierwszym kwartale 2026 roku 51,3 mln zł przychodów ze sprzedaży gastronomicznej z wyłączeniem sieci Piwiarnia, wobec 50,3 mln zł w I kwartale 2025 r., co oznacza wzrost o ok. 2 p",
+      "date_published": "2026-04-10T13:07:00+02:00",
+      "source": "PAP Biznes"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/gospodarka/transfery-z-pracy-cudzoziemcow-za-granice-w-iv-kw-25-spadly-o-386-proc-rdr-do",
+      "url": "https://biznes.pap.pl/wiadomosci/gospodarka/transfery-z-pracy-cudzoziemcow-za-granice-w-iv-kw-25-spadly-o-386-proc-rdr-do",
+      "title": "Transfery z pracy cudzoziemców za granicę w IV kw. '25 spadły o 38,6 proc. rdr do 2,4 mld zł - NBP",
+      "content_html": "W IV kwartale 2025 r. środki przekazane za granicę przez pracujących w Polsce cudzoziemców spadły o 38,6 proc. rdr do 2,4 mld zł - podał NBP w pełnym bilansie płatniczym za IV kwartał.",
+      "date_published": "2026-04-10T13:02:00+02:00",
+      "source": "PAP Biznes"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Tyle-miliardow-ma-na-kontach-rzad-To-rekordowa-rezerwa-9111953.html",
       "url": "https://www.bankier.pl/wiadomosc/Tyle-miliardow-ma-na-kontach-rzad-To-rekordowa-rezerwa-9111953.html",
       "title": "Tyle miliardów ma na kontach rząd. To rekordowa rezerwa",
       "content_html": "Ministerstwo Finansów nawet w przypadku negatywnego rozwoju wydarzeń na Bliskim Wschodzie nie powinno mieć problemów z pokryciem tegorocznych potrzeb pożyczkowych - napisał strateg banku PKO BP Mirosław Budzicki w piątkowym komentarzu.",
       "date_published": "2026-04-10T13:00:00+02:00",
       "source": "Bankier.pl"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/gospodarka/transfery-do-polski-od-emigrantow-w-iv-kw-25-wyniosly-49-mld-zl-34-proc-rdr",
+      "url": "https://biznes.pap.pl/wiadomosci/gospodarka/transfery-do-polski-od-emigrantow-w-iv-kw-25-wyniosly-49-mld-zl-34-proc-rdr",
+      "title": "Transfery do Polski od emigrantów w IV kw. '25 wyniosły 4,9 mld zł; -3,4 proc. rdr - NBP",
+      "content_html": "Transfery do Polski od emigrantów w IV kw. 2025 r. wyniosły 4,9 mld zł, o 3,4 proc. mniej niż w analogicznym kwartale poprzedniego roku, w związku z aktualizacją szacunków liczebności polskiej diaspor",
+      "date_published": "2026-04-10T13:00:00+02:00",
+      "source": "PAP Biznes"
     },
     {
       "id": "https://biznes.pap.pl/wiadomosci/gospodarka/wartosc-biz-w-2025-roku-w-polsce-wzrosla-o-48-mld-zl-do-613-mld-zl-nbp",
@@ -753,14 +873,6 @@
       "url": "https://www.bankier.pl/wiadomosc/Zloty-Bankier-2026-Przebudzenie-rynku-hipotek-podgrzalo-konkurencje-9110540.html",
       "title": "Przebudzenie rynku hipotek podgrzało konkurencję",
       "content_html": "Obniżki stóp procentowych dały w końcu paliwo rynkowi kredytów hipotecznych. Banki zaczęły mocniej konkurować o klientów, co przełożyło się na dynamiczne zmiany w cennikach. Jeśli dołożymy do tego kolejny etap cyfryzacji procesów, to...",
-      "date_published": "2026-04-10T12:00:00+02:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Bank-z-misja-2026-ING-Bank-Slaski-wyznacza-standard-mBank-i-Bank-Millennium-z-wyroznieniami-9110556.html",
-      "url": "https://www.bankier.pl/wiadomosc/Bank-z-misja-2026-ING-Bank-Slaski-wyznacza-standard-mBank-i-Bank-Millennium-z-wyroznieniami-9110556.html",
-      "title": "ING Bank Śląski wyznacza standard, mBank i Bank Millennium z wyróżnieniami",
-      "content_html": "Czy bank może dziś być kimś więcej niż dostawcą konta, kredytu czy aplikacji mobilnej? Coraz wyraźniej widać, że tak. W nowoczesnej bankowości liczy się już nie tylko oferta, technologia i wygoda, ale również sens, odpowiedzialność i...",
       "date_published": "2026-04-10T12:00:00+02:00",
       "source": "Bankier.pl"
     },
@@ -933,6 +1045,14 @@
       "source": "Bankier.pl"
     },
     {
+      "id": "https://www.bankier.pl/wiadomosc/Bank-z-misja-2026-ING-Bank-Slaski-wyznacza-standard-mBank-i-Bank-Millennium-z-wyroznieniami-9110556.html",
+      "url": "https://www.bankier.pl/wiadomosc/Bank-z-misja-2026-ING-Bank-Slaski-wyznacza-standard-mBank-i-Bank-Millennium-z-wyroznieniami-9110556.html",
+      "title": "BANK Z MISJĄ 2026 ING Bank Śląski wyznacza standard, mBank i Bank Millennium z wyróżnieniami Czy bank może dziś być kimś więcej niż dostawcą konta, kredytu czy aplikacji mobilnej? Coraz wyraźniej widać, że tak. W nowoczesnej bankowości liczy się już nie tylko oferta, technologia i wygoda, ale również sens, odpowiedzialność i realny wpływ na otoczenie. Właśnie z takiego założenia wyrasta nowa, ważna kategoria „Bank z misją” w ramach Złotego Bankiera.",
+      "content_html": "",
+      "date_published": "2026-04-10T11:00:00+02:00",
+      "source": "Bankier.pl"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Ukrainskie-niebo-z-nowa-ochrona-Zelenski-Nowa-partia-pociskow-do-Patriotow-juz-u-nas-9111890.html",
       "url": "https://www.bankier.pl/wiadomosc/Ukrainskie-niebo-z-nowa-ochrona-Zelenski-Nowa-partia-pociskow-do-Patriotow-juz-u-nas-9111890.html",
       "title": "Ukraińskie niebo z nową ochroną. Zełenski: Nowa partia pocisków do Patriotów już u nas",
@@ -1061,14 +1181,6 @@
       "source": "PAP Biznes"
     },
     {
-      "id": "https://www.bankier.pl/wiadomosc/Bitwa-o-Trybunal-Sedziowie-ida-zadac-dopuszczenia-do-pracy-9111859.html",
-      "url": "https://www.bankier.pl/wiadomosc/Bitwa-o-Trybunal-Sedziowie-ida-zadac-dopuszczenia-do-pracy-9111859.html",
-      "title": "Bitwa o Trybunał. Sędziowie idą \"żądać dopuszczenia do pracy\"",
-      "content_html": "Krystian Markiewicz - jeden z czwórki sędziów TK, którzy nie zostali dopuszczeni do pracy - zapowiedział w piątek, że pójdą oni w piątek do Trybunału, żądając dopuszczenia do pracy. Stwierdził też, że wyznaczenie pełnego składu TK bez...",
-      "date_published": "2026-04-10T09:57:00+02:00",
-      "source": "Bankier.pl"
-    },
-    {
       "id": "https://biznes.pap.pl/wiadomosci/gospodarka/43-proc-firm-w-26-planuje-zwiekszyc-naklady-na-it-wobec-32-proc-rok-wczesniej",
       "url": "https://biznes.pap.pl/wiadomosci/gospodarka/43-proc-firm-w-26-planuje-zwiekszyc-naklady-na-it-wobec-32-proc-rok-wczesniej",
       "title": "43 proc. firm w '26 planuje zwiększyć nakłady na IT; wobec 32 proc. rok wcześniej - Grant Thornton",
@@ -1083,22 +1195,6 @@
       "content_html": "W piątek krajowa waluta umocniła się do 4,25 względem euro, co zdaniem analityków może świadczyć o rynkowej \"odwilży\". Lekko spadły też rentowności krajowych obligacji, choć rynek FI pozostaje - w oce",
       "date_published": "2026-04-10T09:43:00+02:00",
       "source": "PAP Biznes"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Kierwinski-Ministra-zdrowia-dokonuje-niezbednych-zmian-dajmy-jej-pracowac-9111855.html",
-      "url": "https://www.bankier.pl/wiadomosc/Kierwinski-Ministra-zdrowia-dokonuje-niezbednych-zmian-dajmy-jej-pracowac-9111855.html",
-      "title": "Kierwiński: Ministra zdrowia dokonuje niezbędnych zmian, dajmy jej pracować",
-      "content_html": "Jolanta Sobierańska-Grenda dokonuje niezbędnych zmian, dajmy jej normalnie pracować - powiedział w piątek szef MSWiA Marcin Kierwiński, odnosząc się do zapowiedzi wotum nieufności wobec ministry zdrowia. Dodał, że PiS przez osiem lat doprowadziło...",
-      "date_published": "2026-04-10T09:42:00+02:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Zabieg-syna-senatora-pod-lupa-NFZ-Szef-MSWiA-broni-Lenza-szpital-potwierdza-braki-9111850.html",
-      "url": "https://www.bankier.pl/wiadomosc/Zabieg-syna-senatora-pod-lupa-NFZ-Szef-MSWiA-broni-Lenza-szpital-potwierdza-braki-9111850.html",
-      "title": "Zabieg syna senatora pod lupą NFZ. Szef MSWiA broni Lenza, szpital potwierdza braki",
-      "content_html": "Wiele z informacji na temat zabiegu przeprowadzonego w Powiatowym Szpitalu w Aleksandrowie Kujawskim u członka rodziny polityka KO jest nieprawdziwych - podkreślił w piątek szef MSWiA Marcin Kierwiński. Dodał, że po kontroli NFZ w placówce będzie...",
-      "date_published": "2026-04-10T09:30:00+02:00",
-      "source": "Bankier.pl"
     },
     {
       "id": "https://biznes.pap.pl/wiadomosci/rynki/ceny-miedzi-na-lme-rosna-rynki-licza-na-pokoj-usa-iran",
@@ -1219,6 +1315,14 @@
       "content_html": "Produkcja usług w styczniu w Polsce wzrosła o 4,0 proc. rdr - podał Eurostat.",
       "date_published": "2026-04-10T07:29:00+02:00",
       "source": "PAP Biznes"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Mniej-ale-lepiej-Stokrotka-zamyka-slabe-placowki-i-robi-rekordowe-zyski-9111762.html",
+      "url": "https://www.bankier.pl/wiadomosc/Mniej-ale-lepiej-Stokrotka-zamyka-slabe-placowki-i-robi-rekordowe-zyski-9111762.html",
+      "title": "Mniej, ale lepiej. Stokrotka zamyka słabe placówki i robi rekordowe zyski Maxima Grupe, prowadząca w Polsce sieć detaliczną Stokrotka, zwiększyła w 2025 roku przychody o 4,3 proc., a EBITDA poprawiła się o 6 proc. - poinformowała litewska spółka w komunikacie. Stokrotka w ostatnich miesiącach koncentrowała się na rozwoju sieci oraz optymalizacji swojego portfolio sklepów.",
+      "content_html": "",
+      "date_published": "2026-04-10T07:27:00+02:00",
+      "source": "Bankier.pl"
     },
     {
       "id": "https://biznes.pap.pl/wiadomosci/gospodarka/wskazniki-referencyjne-na-wybranych-rynkach-rozwinietych-tabela-118",
