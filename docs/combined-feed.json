@@ -5,6 +5,14 @@
   "home_page_url": "https://www.bankier.pl",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/Cyberprzestepcy-beda-masowo-wykorzystywac-AI-do-generowania-reklam-9110387.html",
+      "url": "https://www.bankier.pl/wiadomosc/Cyberprzestepcy-beda-masowo-wykorzystywac-AI-do-generowania-reklam-9110387.html",
+      "title": "Cyberprzestępcy będą masowo wykorzystywać AI do generowania reklam",
+      "content_html": "W tym roku cyberprzestępcy będą masowo wykorzystywać AI do generowania reklam fałszywych inwestycji - ocenił w rozmowie z PAP kierownik zespołu CSIRT KNF Karol Paciorek. Blokowanie fałszywych reklam w social mediach jest jak walka z Hydrą, ale...",
+      "date_published": "2026-04-11T12:00:00+02:00",
+      "source": "Bankier.pl"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Chiny-zezwolily-panstwowym-rafineriom-na-naruszenie-komercyjnych-rezerwy-ropy-9111882.html",
       "url": "https://www.bankier.pl/wiadomosc/Chiny-zezwolily-panstwowym-rafineriom-na-naruszenie-komercyjnych-rezerwy-ropy-9111882.html",
       "title": "Chiny zezwoliły państwowym rafineriom na naruszenie komercyjnych rezerwy ropy",
@@ -17,6 +25,14 @@
       "url": "https://www.bankier.pl/wiadomosc/Kruchy-rozejm-na-Bliskim-Wschodzie-Tyle-statkow-utknelo-w-ciesninie-Ormuz-9111885.html",
       "title": "Kruchy rozejm na Bliskim Wschodzie. Tyle statków utknęło w cieśninie Ormuz",
       "content_html": "W rejonie cieśniny Ormuz w Zatoce Perskiej nadal uwięzionych jest ponad 600 statków o wyporności powyżej 10 tys. ton, w tym 325 tankowców - poinformował emiracki magazyn „Gulf News”, powołując się na brytyjskie dane.",
+      "date_published": "2026-04-11T12:00:00+02:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Okazja-w-amerykanskiej-technologii-Od-dawna-nie-bylo-tak-tanio-9112256.html",
+      "url": "https://www.bankier.pl/wiadomosc/Okazja-w-amerykanskiej-technologii-Od-dawna-nie-bylo-tak-tanio-9112256.html",
+      "title": "O TYM MÓWI WALL STREET Okazja w amerykańskiej technologii? Od dawna nie było tak tanio Kruchy rozejm na Bliskim Wschodzie i wstrzymana żegluga w Cieśninie Ormuz wciąż stanowią zagrożenie, jednak eksperci do spraw inwestycji coraz głośniej mówią o otwierających się na rynku możliwościach.",
+      "content_html": "",
       "date_published": "2026-04-11T12:00:00+02:00",
       "source": "Bankier.pl"
     },
@@ -1042,78 +1058,6 @@
       "title": "Cena maksymalna na 11-13 IV dla benzyny Pb95 wynosi 6,14 zł/l, a dla ON 7,68 zł/l",
       "content_html": "Maksymalna cena dla benzyny Pb95 wynosi 6,14 zł/l, dla benzyny Pb98: 6,73 zł/l, a dla oleju napędowego: 7,68 zł/l - wynika z obwieszczenia ministra energii opublikowanego w Monitorze Polskim. Ceny te ",
       "date_published": "2026-04-10T12:07:00+02:00",
-      "source": "PAP Biznes"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/gospodarka/w-przyszlym-tygodniu-domanski-spotka-sie-z-sekretarzem-handlu-usa",
-      "url": "https://biznes.pap.pl/wiadomosci/gospodarka/w-przyszlym-tygodniu-domanski-spotka-sie-z-sekretarzem-handlu-usa",
-      "title": "W przyszłym tygodniu Domański spotka się z sekretarzem handlu USA",
-      "content_html": "W przyszłym tygodniu minister finansów i gospodarki Andrzej Domański będzie rozmawiał z sekretarzem handlu Stanów Zjednoczonych Howardem Lutnickiem m. in. na temat ceł. Domański będzie przebywał w Was",
-      "date_published": "2026-04-10T11:50:00+02:00",
-      "source": "PAP Biznes"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/rynki/dzien-na-rynkach-indeksy-w-europie-rosna-uwaga-na-negocjacjach-usa-iran",
-      "url": "https://biznes.pap.pl/wiadomosci/rynki/dzien-na-rynkach-indeksy-w-europie-rosna-uwaga-na-negocjacjach-usa-iran",
-      "title": "DZIEŃ NA RYNKACH: Indeksy w Europie rosną; uwaga na negocjacjach USA-Iran",
-      "content_html": "Giełdy w Europie są na plusach, a kontrakty w USA spadają. Inwestorzy oczekują na rozpoczęcie negocjacji ws. zakończenia wojny między Iranem i USA. Ceny ropy rosną.",
-      "date_published": "2026-04-10T11:49:00+02:00",
-      "source": "PAP Biznes"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/firmy/xtb-ma-licencje-kategorii-1-oraz-2-w-zjednoczonych-emiratach-arabskich",
-      "url": "https://biznes.pap.pl/wiadomosci/firmy/xtb-ma-licencje-kategorii-1-oraz-2-w-zjednoczonych-emiratach-arabskich",
-      "title": "XTB ma licencje kategorii 1 oraz 2 w Zjednoczonych Emiratach Arabskich",
-      "content_html": "XTB, polski fintech oferujący dostęp do globalnych rynków finansowych za pomocą platformy inwestycyjnej online i aplikacji mobilnej, uzyskała w Zjednoczonych Emiratach Arabskich licencje kategorii 1 o",
-      "date_published": "2026-04-10T11:33:00+02:00",
-      "source": "PAP Biznes"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/gospodarka/mf-sprzedalo-50-tyg-bony-za-3-mld-zl-przy-popycie-36-mld-zl-rentownosc-395",
-      "url": "https://biznes.pap.pl/wiadomosci/gospodarka/mf-sprzedalo-50-tyg-bony-za-3-mld-zl-przy-popycie-36-mld-zl-rentownosc-395",
-      "title": "MF sprzedało 50-tyg. bony za 3 mld zł, przy popycie 3,6 mld zł, rentowność 3,95 proc.",
-      "content_html": "Ministerstwo Finansów sprzedało 50-tyg. bony za 3,005 mld zł, przy popycie 3,605 mld zł i rentowności 3,95 proc. - podał resort w komunikacie.",
-      "date_published": "2026-04-10T11:30:00+02:00",
-      "source": "PAP Biznes"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/energia/obnizona-stawka-akcyzy-na-paliwa-zostanie-utrzymana-po-15-iv-domanski-opis",
-      "url": "https://biznes.pap.pl/wiadomosci/energia/obnizona-stawka-akcyzy-na-paliwa-zostanie-utrzymana-po-15-iv-domanski-opis",
-      "title": "Obniżona stawka akcyzy na paliwa zostanie utrzymana po 15 IV - Domański (opis)",
-      "content_html": "Obniżona stawka akcyzy na paliwa zostanie utrzymana po 15 kwietnia; MF zdecyduje, na jak długo - poinformował minister finansów i gospodarki Andrzej Domański. Jak zaznaczył, obecnie sytuacja na Bliski",
-      "date_published": "2026-04-10T11:29:00+02:00",
-      "source": "PAP Biznes"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/gospodarka/wplyw-sytuacji-na-bliskim-wschodzie-na-polska-gospodarke-mocno-ograniczony-0",
-      "url": "https://biznes.pap.pl/wiadomosci/gospodarka/wplyw-sytuacji-na-bliskim-wschodzie-na-polska-gospodarke-mocno-ograniczony-0",
-      "title": "Wpływ sytuacji na Bliskim Wschodzie na polską gospodarkę mocno ograniczony - Domański (opis)",
-      "content_html": "Wpływ sytuacji na Bliskim Wschodzie na polską gospodarkę jest na ten moment mocno ograniczony - ocenił minister finansów i gospodarki Andrzej Domański. Jak wskazał, obecnie nie widać potrzeby noweliza",
-      "date_published": "2026-04-10T11:17:00+02:00",
-      "source": "PAP Biznes"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/firmy/dzien-na-gpw-wig20-najslabszy-z-glownych-indeksow-przez-spadek-orlenu",
-      "url": "https://biznes.pap.pl/wiadomosci/firmy/dzien-na-gpw-wig20-najslabszy-z-glownych-indeksow-przez-spadek-orlenu",
-      "title": "DZIEŃ NA GPW: WIG20 najsłabszy z głównych indeksów przez spadek Orlenu",
-      "content_html": "Indeksy małych i średnich spółek rosną, natomiast WIG20 lekko spada. Większość blue chipów zwyżkuje, ale indeksowi ciąży spadek Orlenu o 2,9 proc. Rosną m. in. banki, a do najsilniejszych spółek w WIG",
-      "date_published": "2026-04-10T11:17:00+02:00",
-      "source": "PAP Biznes"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Euvic-ma-umowe-ramowa-z-COI-dot-wytwarzania-wdrazania-i-utrzymania-systemow-informatycznych-9111926.html",
-      "url": "https://www.bankier.pl/wiadomosc/Euvic-ma-umowe-ramowa-z-COI-dot-wytwarzania-wdrazania-i-utrzymania-systemow-informatycznych-9111926.html",
-      "title": "Euvic pomoże cyfryzować Polskę. Kontrakt z COI wart blisko 65 mln zł Euvic oraz 7 innych wykonawców zawarło z Centralnym Ośrodkiem Informatyki (COI) umowę ramową, której przedmiotem jest określenie warunków udzielania i realizacji zamówień wykonawczych obejmujących prace związane z wytwarzaniem, wdrażaniem lub utrzymywaniem systemów informatycznych - podała spółka w komunikacie.",
-      "content_html": "",
-      "date_published": "2026-04-10T11:14:00+02:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/firmy/euvic-ma-umowe-ramowa-z-coi-dot-wytwarzania-wdrazania-i-utrzymania-systemow",
-      "url": "https://biznes.pap.pl/wiadomosci/firmy/euvic-ma-umowe-ramowa-z-coi-dot-wytwarzania-wdrazania-i-utrzymania-systemow",
-      "title": "Euvic ma umowę ramową z COI dot. wytwarzania, wdrażania i utrzymania systemów informatycznych",
-      "content_html": "Euvic oraz 7 innych wykonawców zawarło z Centralnym Ośrodkiem Informatyki (COI) umowę ramową, której przedmiotem jest określenie warunków udzielania i realizacji zamówień wykonawczych obejmujących pra",
-      "date_published": "2026-04-10T11:13:00+02:00",
       "source": "PAP Biznes"
     }
   ]
