@@ -5,12 +5,36 @@
   "home_page_url": "https://www.bankier.pl",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/PGE-miala-w-2025-roku-3-5-mld-zl-straty-netto-j-d-zgodnie-z-szacunkami-9114666.html",
+      "url": "https://www.bankier.pl/wiadomosc/PGE-miala-w-2025-roku-3-5-mld-zl-straty-netto-j-d-zgodnie-z-szacunkami-9114666.html",
+      "title": "PGE miała w 2025 roku 3,5 mld zł straty netto j.d., zgodnie z szacunkami",
+      "content_html": "Grupa PGE miała w 2025 roku 3,5 mld zł skonsolidowanej straty netto j.d oraz ok. 12,89 mld zł powtarzalnej EBITDA - podała spółka w raporcie rocznym. Wyniki są zgodne z wcześniejszymi szacunkami spółki.",
+      "date_published": "2026-04-15T22:26:00+02:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Zaktualizowany-budzet-projektu-Nowa-Chemia-w-Orlenie-wynosi-35-8-mld-zl-9114656.html",
+      "url": "https://www.bankier.pl/wiadomosc/Zaktualizowany-budzet-projektu-Nowa-Chemia-w-Orlenie-wynosi-35-8-mld-zl-9114656.html",
+      "title": "Zaktualizowany budżet projektu Nowa Chemia w Orlenie wynosi 35,8 mld zł",
+      "content_html": "Rada nadzorcza Orlenu zaakceptowała zaktualizowany budżet projektu Nowa Chemia w wysokości 35,8 mld zł, w tym 4,6 mld zł kosztów finansowania - podał koncern w komunikacie.",
+      "date_published": "2026-04-15T21:58:00+02:00",
+      "source": "Bankier.pl"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Starmer-Nie-ulegne-presji-Trumpa-nie-damy-sie-wciagnac-w-wojne-9114651.html",
       "url": "https://www.bankier.pl/wiadomosc/Starmer-Nie-ulegne-presji-Trumpa-nie-damy-sie-wciagnac-w-wojne-9114651.html",
       "title": "Starmer: Nie ulegnę presji Trumpa, nie damy się wciągnąć w wojnę",
       "content_html": "Brytyjski premier Keir Starmer powtórzył w środę, że nie ulegnie presji amerykańskiego prezydenta Donalda Trumpa i nie pozwoli na wciągniecie kraju w wojnę na Bliskim Wschodzie. Wcześniej Trump po raz kolejny krytykował stan stosunków USA i...",
       "date_published": "2026-04-15T21:26:00+02:00",
       "source": "Bankier.pl"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/firmy/pge-miala-w-2025-roku-35-mld-zl-straty-netto-jd-zgodnie-z-szacunkami",
+      "url": "https://biznes.pap.pl/wiadomosci/firmy/pge-miala-w-2025-roku-35-mld-zl-straty-netto-jd-zgodnie-z-szacunkami",
+      "title": "PGE miała w 2025 roku 3,5 mld zł straty netto j.d., zgodnie z szacunkami",
+      "content_html": "Grupa PGE miała w 2025 roku 3,5 mld zł skonsolidowanej straty netto j.d oraz ok. 12,89 mld zł powtarzalnej EBITDA - podała spółka w raporcie rocznym. Wyniki są zgodne z wcześniejszymi szacunkami spółk",
+      "date_published": "2026-04-15T21:25:00+02:00",
+      "source": "PAP Biznes"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Wojna-domowa-w-PiS-Morawiecki-buduje-wlasna-armie-Kaczynski-grozi-wyrzuceniem-z-list-9114650.html",
@@ -41,14 +65,6 @@
       "url": "https://www.bankier.pl/wiadomosc/W-25-zysk-netto-Creotech-Instruments-wyniosl-13-6-mln-zl-9114636.html",
       "title": "W '25 zysk netto Creotech Instruments wyniósł 13,6 mln zł",
       "content_html": "W 2025 roku zysk netto Creotech Instruments wyniósł 13,6 mln zł, podczas gdy w 2024 roku spółka miała 20,5 mln zł straty netto - poinformowała spółka w raporcie rocznym.",
-      "date_published": "2026-04-15T20:58:00+02:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Zaktualizowany-budzet-projektu-Nowa-Chemia-w-Orlenie-wynosi-35-8-mld-zl-9114656.html",
-      "url": "https://www.bankier.pl/wiadomosc/Zaktualizowany-budzet-projektu-Nowa-Chemia-w-Orlenie-wynosi-35-8-mld-zl-9114656.html",
-      "title": "Zaktualizowany budżet projektu Nowa Chemia w Orlenie wynosi 35,8 mld zł Rada nadzorcza Orlenu zaakceptowała zaktualizowany budżet projektu Nowa Chemia w wysokości 35,8 mld zł, w tym 4,6 mld zł kosztów finansowania - podał koncern w komunikacie.",
-      "content_html": "",
       "date_published": "2026-04-15T20:58:00+02:00",
       "source": "Bankier.pl"
     },
@@ -357,14 +373,6 @@
       "source": "PAP Biznes"
     },
     {
-      "id": "https://biznes.pap.pl/wiadomosci/firmy/pko-bh-wyemitowal-hipoteczne-listy-zastawne-o-lacznej-wartosci-500-mln-euro",
-      "url": "https://biznes.pap.pl/wiadomosci/firmy/pko-bh-wyemitowal-hipoteczne-listy-zastawne-o-lacznej-wartosci-500-mln-euro",
-      "title": "PKO BH wyemitował hipoteczne listy zastawne o łącznej wartości 500 mln euro",
-      "content_html": "PKO Bank Hipoteczny przeprowadził emisję hipotecznych listów zastawnych o łącznej wartości nominalnej 500 mln euro. Wartość złożonych zapisów niemal pięciokrotnie przekroczyła wartość oferty - poinfor",
-      "date_published": "2026-04-15T17:29:00+02:00",
-      "source": "PAP Biznes"
-    },
-    {
       "id": "https://www.bankier.pl/wiadomosc/WP-Holding-ma-zgode-BMWE-na-sprzedaz-Invia-Flights-Germany-na-rzecz-Tongcheng-9114469.html",
       "url": "https://www.bankier.pl/wiadomosc/WP-Holding-ma-zgode-BMWE-na-sprzedaz-Invia-Flights-Germany-na-rzecz-Tongcheng-9114469.html",
       "title": "WP Holding ma zgodę BMWE na sprzedaż Invia Flights Germany na rzecz Tongcheng",
@@ -445,12 +453,36 @@
       "source": "Bankier.pl"
     },
     {
+      "id": "https://biznes.pap.pl/wiadomosci/firmy/w-i-kw-ozywil-sie-popyt-na-mieszkania-oferta-deweloperow-sie-skurczyla-otodom",
+      "url": "https://biznes.pap.pl/wiadomosci/firmy/w-i-kw-ozywil-sie-popyt-na-mieszkania-oferta-deweloperow-sie-skurczyla-otodom",
+      "title": "W I kw. ożywił się popyt na mieszkania, oferta deweloperów się skurczyła - Otodom",
+      "content_html": "Sprzedaż mieszkań w I kwartale wyniosła 12,7 tys., czyli o 6 proc. mniej niż w czwartym kwartale 2025 roku, ale o 31 proc. więcej rok do roku - wynika z danych Otodom. Do sprzedaży wprowadzono 8,8 tys",
+      "date_published": "2026-04-15T16:13:00+02:00",
+      "source": "PAP Biznes"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/KAS-ostrzega-kierowcow-Falszywe-wezwania-do-zaplaty-trafiaja-za-wycieraczki-9113594.html",
       "url": "https://www.bankier.pl/wiadomosc/KAS-ostrzega-kierowcow-Falszywe-wezwania-do-zaplaty-trafiaja-za-wycieraczki-9113594.html",
       "title": "Fałszywe mandaty za wycieraczkami samochodów. KAS ostrzega kierowców",
       "content_html": "Przestępcy podszywają się pod Krajową Administrację Skarbową i rozsyłają fałszywe ulotki z wezwaniem do zapłaty. Ministerstwo Finansów przypomina, że KAS nie wystawia mandatów w formie ulotek.",
       "date_published": "2026-04-15T16:09:00+02:00",
       "source": "Bankier.pl"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/firmy/gaz-system-ma-zostac-pierwszym-w-europie-operatorem-systemu-przesylu-wodoru",
+      "url": "https://biznes.pap.pl/wiadomosci/firmy/gaz-system-ma-zostac-pierwszym-w-europie-operatorem-systemu-przesylu-wodoru",
+      "title": "Gaz-System ma zostać pierwszym w Europie operatorem systemu przesyłu wodoru",
+      "content_html": "Komisja Europejska wydała pozytywną opinię w procesie certyfikacji operatora systemu przesyłowego wodoru dla Gaz-Systemu; spółka jako pierwsza w Europie przechodzi procedurę certyfikacyjną w tym obsza",
+      "date_published": "2026-04-15T16:07:00+02:00",
+      "source": "PAP Biznes"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/gospodarka/deficyt-budzetu-po-marcu-2026-r-wyniosl-ok-6956-mld-zl-mf",
+      "url": "https://biznes.pap.pl/wiadomosci/gospodarka/deficyt-budzetu-po-marcu-2026-r-wyniosl-ok-6956-mld-zl-mf",
+      "title": "Deficyt budżetu po marcu 2026 r. wyniósł ok. 69,56 mld zł - MF",
+      "content_html": "Deficyt budżetu po marcu 2026 r. wyniósł ok. 69,56 mld zł wobec 48,5 mld zł po lutym - podało Ministerstwo Finansów na stronach internetowych w oficjalnych danych. Dochody -wyniosły 125.183,2 mln zł, ",
+      "date_published": "2026-04-15T16:00:00+02:00",
+      "source": "PAP Biznes"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Koniec-chinskiej-broni-dla-Iranu-Trump-oglasza-sukces-przed-wizyta-w-Pekinie-9114383.html",
@@ -653,6 +685,14 @@
       "source": "PAP Biznes"
     },
     {
+      "id": "https://www.bankier.pl/wiadomosc/Elektrotim-widzi-ozywienie-w-przetargach-ale-tez-duza-konkurencje-i-presje-kosztowa-9114307.html",
+      "url": "https://www.bankier.pl/wiadomosc/Elektrotim-widzi-ozywienie-w-przetargach-ale-tez-duza-konkurencje-i-presje-kosztowa-9114307.html",
+      "title": "Elektrotim widzi ożywienie w przetargach, ale też dużą konkurencję i presję",
+      "content_html": "Elektrotim widzi ożywienie w przetargach, ale jednocześnie dużą konkurencję oraz presję kosztową. Spółka ocenia, że w swoim backlogu nie ma kontraktów z niską marżą - poinformowali przedstawiciele zarządu. W ich ocenie, przy niewielkich...",
+      "date_published": "2026-04-15T14:42:00+02:00",
+      "source": "Bankier.pl"
+    },
+    {
       "id": "https://biznes.pap.pl/wiadomosci/firmy/efektywne-alokowanie-srodkow-z-safe-moze-wzmocnic-equity-story-wielu-polskich-firm",
       "url": "https://biznes.pap.pl/wiadomosci/firmy/efektywne-alokowanie-srodkow-z-safe-moze-wzmocnic-equity-story-wielu-polskich-firm",
       "title": "Efektywne alokowanie środków z SAFE może wzmocnić equity story wielu polskich firm - Wood & Co. (wywiad)",
@@ -746,14 +786,6 @@
       "title": "I ty możesz nabyć „Rezerwy złota NBP”. Ruszyła sprzedaż nowych monet",
       "content_html": "Emisja w ramach nowej serii „Niezależny bank centralny” jest wysoce niecodzienna. I nie tylko dlatego, że jej tematem są sławne już rezerwy złota NBP.",
       "date_published": "2026-04-15T13:49:00+02:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Elektrotim-widzi-ozywienie-w-przetargach-ale-tez-duza-konkurencje-i-presje-kosztowa-9114307.html",
-      "url": "https://www.bankier.pl/wiadomosc/Elektrotim-widzi-ozywienie-w-przetargach-ale-tez-duza-konkurencje-i-presje-kosztowa-9114307.html",
-      "title": "Elektrotim widzi ożywienie w przetargach, ale też dużą konkurencję i presję Elektrotim widzi ożywienie w przetargach, ale jednocześnie dużą konkurencję oraz presję kosztową. Spółka ocenia, że w swoim backlogu nie ma kontraktów z niską marżą - poinformowali przedstawiciele zarządu. W ich ocenie, przy niewielkich zmianach, Elektrotim będzie w stanie zrealizować cel 1 mld zł przychodów rocznie.",
-      "content_html": "",
-      "date_published": "2026-04-15T13:42:00+02:00",
       "source": "Bankier.pl"
     },
     {
@@ -1245,14 +1277,6 @@
       "source": "PAP Biznes"
     },
     {
-      "id": "https://www.bankier.pl/wiadomosc/Rosja-rzuca-Chinom-energetyczne-kolo-ratunkowe-Lawrow-w-Pekinie-obiecuje-bezwarunkowe-dostawy-9114098.html",
-      "url": "https://www.bankier.pl/wiadomosc/Rosja-rzuca-Chinom-energetyczne-kolo-ratunkowe-Lawrow-w-Pekinie-obiecuje-bezwarunkowe-dostawy-9114098.html",
-      "title": "Rosja rzuca Chinom energetyczne koło ratunkowe. Ławrow w Pekinie obiecuje bezwarunkowe dostawy",
-      "content_html": "Przebywający w Pekinie szef MSZ Rosji Siergiej Ławrow zadeklarował w środę podczas spotkania z przywódcą ChRL Xi Jinpingiem gotowość swego kraju do zaspokojenia chińskich potrzeb energetycznych – podała AFP. Niedobory te są skutkiem wojny...",
-      "date_published": "2026-04-15T09:43:00+02:00",
-      "source": "Bankier.pl"
-    },
-    {
       "id": "https://biznes.pap.pl/wiadomosci/firmy/budimex-zakonczyl-kluczowy-etap-prac-przy-budowie-linii-104-w-limanowej",
       "url": "https://biznes.pap.pl/wiadomosci/firmy/budimex-zakonczyl-kluczowy-etap-prac-przy-budowie-linii-104-w-limanowej",
       "title": "Budimex zakończył kluczowy etap prac przy budowie linii 104 w Limanowej",
@@ -1538,38 +1562,6 @@
       "title": "Zamknięcia na giełdach w Ameryce Północnej i Południowej (tabela)",
       "content_html": "Poniżej zamknięcia i zmiany indeksów w USA. Kanadzie, Meksyku, Brazylii, Chile, Kolumbii i Argentynie:",
       "date_published": "2026-04-15T06:33:00+02:00",
-      "source": "PAP Biznes"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/rynki/dzien-na-rynkach-na-wall-street-kolejny-dzien-wzrostow-inwestorzy-maja-nadzieje-na",
-      "url": "https://biznes.pap.pl/wiadomosci/rynki/dzien-na-rynkach-na-wall-street-kolejny-dzien-wzrostow-inwestorzy-maja-nadzieje-na",
-      "title": "DZIEŃ NA RYNKACH: Na Wall Street kolejny dzień wzrostów; inwestorzy mają nadzieję na rozmowy USA-Iran",
-      "content_html": "Wtorkowa sesja na Wall Street zakończyła się wzrostami głównych indeksów. Inwestorzy liczą na kontynuację negocjacji między Iranem a USA i analizują wyniki spółek.",
-      "date_published": "2026-04-14T22:13:00+02:00",
-      "source": "PAP Biznes"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Bedzie-pokoj-z-Iranem-S-P500-odrobil-wojenne-straty-i-dotarl-w-poblize-7000-punktow-9113969.html",
-      "url": "https://www.bankier.pl/wiadomosc/Bedzie-pokoj-z-Iranem-S-P500-odrobil-wojenne-straty-i-dotarl-w-poblize-7000-punktow-9113969.html",
-      "title": "Będzie pokój z Iranem? S&P500 odrobił wojenne straty i dotarł w pobliże 7000 punktów Nadzieje na zakończenie wojny z Iranem i odblokowanie Cieśniny Ormuz we wtorek wyniosły indeks S&P500 najwyżej od lutego.",
-      "content_html": "",
-      "date_published": "2026-04-14T22:09:00+02:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Rada-nadzorcza-PZU-wybrala-zarzad-na-nowa-kadencje-Bogdan-Benczak-nadal-prezesem-9113965.html",
-      "url": "https://www.bankier.pl/wiadomosc/Rada-nadzorcza-PZU-wybrala-zarzad-na-nowa-kadencje-Bogdan-Benczak-nadal-prezesem-9113965.html",
-      "title": "Rada nadzorcza PZU wybrała zarząd na nową kadencję, Bogdan Benczak nadal prezesem Rada nadzorcza PZU powołała Bogdana Benczaka w skład zarządu nowej kadencji, powierzając mu pełnienie funkcji prezesa - poinformowała spółka w komunikacie.",
-      "content_html": "",
-      "date_published": "2026-04-14T21:50:00+02:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/firmy/rada-nadzorcza-pzu-wybrala-zarzad-na-nowa-kadencje-bogdan-benczak-nadal-prezesem",
-      "url": "https://biznes.pap.pl/wiadomosci/firmy/rada-nadzorcza-pzu-wybrala-zarzad-na-nowa-kadencje-bogdan-benczak-nadal-prezesem",
-      "title": "Rada nadzorcza PZU wybrała zarząd na nową kadencję, Bogdan Benczak nadal prezesem",
-      "content_html": "Rada nadzorcza PZU powołała Bogdana Benczaka w skład zarządu nowej kadencji, powierzając mu pełnienie funkcji prezesa - poinformowała spółka w komunikacie.",
-      "date_published": "2026-04-14T21:48:00+02:00",
       "source": "PAP Biznes"
     }
   ]
