@@ -5,6 +5,22 @@
   "home_page_url": "https://www.bankier.pl",
   "items": [
     {
+      "id": "https://biznes.pap.pl/wiadomosci/gry-i-technologie/amazon-zainwestuje-kolejne-25-miliardow-dolarow-w-anthropic",
+      "url": "https://biznes.pap.pl/wiadomosci/gry-i-technologie/amazon-zainwestuje-kolejne-25-miliardow-dolarow-w-anthropic",
+      "title": "Amazon zainwestuje kolejne 25 miliardów dolarów w Anthropic",
+      "content_html": "Amazon zgodził się zainwestować w Anthropic kwotę do 25 miliardów dolarów, co stanowi jego kolejną inwestycję w tę spółkę po 8 mld dolarów, które firma zainwestowała w startup zajmujący się sztuczną i",
+      "date_published": "2026-04-20T23:24:00+02:00",
+      "source": "PAP Biznes"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/gry-i-technologie/john-ternus-zastapi-tima-cooka-na-stanowisku-dyrektora-generalnego",
+      "url": "https://biznes.pap.pl/wiadomosci/gry-i-technologie/john-ternus-zastapi-tima-cooka-na-stanowisku-dyrektora-generalnego",
+      "title": "John Ternus zastąpi Tima Cooka na stanowisku dyrektora generalnego Apple",
+      "content_html": "John Ternus zastąpi Tima Cooka na stanowisku dyrektora generalnego Apple - poinformowała spółka. Cook obejmie stanowisko prezesa wykonawczego 1 września.",
+      "date_published": "2026-04-20T23:20:00+02:00",
+      "source": "PAP Biznes"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/System-nie-do-przejscia-Szpitale-powiatowe-protestuja-przeciwko-cieciom-NFZ-9116344.html",
       "url": "https://www.bankier.pl/wiadomosc/System-nie-do-przejscia-Szpitale-powiatowe-protestuja-przeciwko-cieciom-NFZ-9116344.html",
       "title": "System nie do przejścia. Szpitale powiatowe protestują przeciwko cięciom NFZ",
@@ -373,22 +389,6 @@
       "source": "PAP Biznes"
     },
     {
-      "id": "https://biznes.pap.pl/wiadomosci/firmy/wymog-mrel-trea-dla-bnp-paribas-bank-polska-wyznaczony-na-1574-proc",
-      "url": "https://biznes.pap.pl/wiadomosci/firmy/wymog-mrel-trea-dla-bnp-paribas-bank-polska-wyznaczony-na-1574-proc",
-      "title": "Wymóg MREL-TREA dla BNP Paribas Bank Polska wyznaczony na 15,74 proc.",
-      "content_html": "Wymóg MREL dla BNP Paribas Bank Polska został określony na poziomie indywidualnym na 15,74 proc. wartości całkowitej ekspozycji na ryzyko (TREA) oraz 5,91 proc. miary ekspozycji całkowitej (TEM) - poi",
-      "date_published": "2026-04-20T17:44:00+02:00",
-      "source": "PAP Biznes"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/firmy/grupa-diagnostyka-w-2025-r-odnotowala-wzrost-wolumenu-badan-o-81-proc-rdr",
-      "url": "https://biznes.pap.pl/wiadomosci/firmy/grupa-diagnostyka-w-2025-r-odnotowala-wzrost-wolumenu-badan-o-81-proc-rdr",
-      "title": "Grupa Diagnostyka w 2025 r. odnotowała wzrost wolumenu badań o 8,1 proc. rdr",
-      "content_html": "Grupa Diagnostyka w 2025 r. odnotowała wzrost wolumenu badań o 8,1 proc. rdr. Średnia cena badań wzrosła o 15 proc. rdr - podała spółka w raporcie.",
-      "date_published": "2026-04-20T17:33:00+02:00",
-      "source": "PAP Biznes"
-    },
-    {
       "id": "https://www.bankier.pl/wiadomosc/Aplisens-chce-wyplacic-0-9-zl-dywidendy-na-akcje-z-zysku-za-25-9116696.html",
       "url": "https://www.bankier.pl/wiadomosc/Aplisens-chce-wyplacic-0-9-zl-dywidendy-na-akcje-z-zysku-za-25-9116696.html",
       "title": "Aplisens chce wypłacić 0,9 zł dywidendy na akcję z zysku za '25",
@@ -557,12 +557,28 @@
       "source": "Bankier.pl"
     },
     {
+      "id": "https://biznes.pap.pl/wiadomosci/gospodarka/ponad-1-mld-zl-na-zielona-transformacje-i-sprawiedliwosc-w-ramach-funduszy",
+      "url": "https://biznes.pap.pl/wiadomosci/gospodarka/ponad-1-mld-zl-na-zielona-transformacje-i-sprawiedliwosc-w-ramach-funduszy",
+      "title": "Ponad 1 mld zł na zieloną transformację i sprawiedliwość w ramach funduszy norweskich - Szyszko",
+      "content_html": "Ponad 1 mld zł ma trafić na programy Zielona Transformacja oraz Sprawiedliwość w ramach funduszy norweskich i EOG - poinformował w poniedziałek wiceminister funduszy i polityki regionalnej Jan Szyszko",
+      "date_published": "2026-04-20T16:06:00+02:00",
+      "source": "PAP Biznes"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Zmiany-we-wnioskach-o-800-Rzad-szykuje-nowe-zasady-9116578.html",
       "url": "https://www.bankier.pl/wiadomosc/Zmiany-we-wnioskach-o-800-Rzad-szykuje-nowe-zasady-9116578.html",
       "title": "Zmiany we wnioskach o 800+. Rząd szykuje nowe zasady",
       "content_html": "Program 800+ czekają istotne modyfikacje. Ministerstwo Rodziny, Pracy i Polityki Społecznej przygotowało nowelizację, która ma na celu usprawnienie i jeszcze większą cyfryzację flagowego programu socjalnego. Choć kwota świadczenia na ten moment...",
       "date_published": "2026-04-20T16:00:00+02:00",
       "source": "Bankier.pl"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/firmy/develia-podwyzszyla-maksymalna-wartosc-programu-emisji-obligacji-do-850-mln-zl",
+      "url": "https://biznes.pap.pl/wiadomosci/firmy/develia-podwyzszyla-maksymalna-wartosc-programu-emisji-obligacji-do-850-mln-zl",
+      "title": "Develia podwyższyła maksymalną wartość programu emisji obligacji do 850 mln zł",
+      "content_html": "Develia podwyższyła maksymalną wartość programu emisji obligacji do 850 mln zł z 800 mln zł - poinformowała spółka w komunikacie. Jak podawano wcześniej, deweloper planuje przeprowadzenie emisji oblig",
+      "date_published": "2026-04-20T16:00:00+02:00",
+      "source": "PAP Biznes"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Rynek-paliw-w-Europie-pod-presja-ograniczonej-podazy-mimo-spadkow-cen-prezes-Unimotu-9116606.html",
