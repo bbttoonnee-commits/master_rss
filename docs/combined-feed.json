@@ -5,12 +5,44 @@
   "home_page_url": "https://www.bankier.pl",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/System-nie-do-przejscia-Szpitale-powiatowe-protestuja-przeciwko-cieciom-NFZ-9116344.html",
+      "url": "https://www.bankier.pl/wiadomosc/System-nie-do-przejscia-Szpitale-powiatowe-protestuja-przeciwko-cieciom-NFZ-9116344.html",
+      "title": "System nie do przejścia. Szpitale powiatowe protestują przeciwko cięciom NFZ",
+      "content_html": "Przynajmniej 40 szpitali powiatowych jest zagrożonych upadłością – powiedział PAP prezes Ogólnopolskiego Związku Pracodawców Szpitali Powiatowych Waldemar Malinowski po analizie raportu dotyczącego stanu finansów placówek. Związek apeluje...",
+      "date_published": "2026-04-20T22:38:00+02:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Trump-Izrael-nie-namowil-mnie-na-wojne-z-Iranem-9117531.html",
+      "url": "https://www.bankier.pl/wiadomosc/Trump-Izrael-nie-namowil-mnie-na-wojne-z-Iranem-9117531.html",
+      "title": "Trump: Izrael nie namówił mnie na wojnę z Iranem",
+      "content_html": "Izrael nie namówił mnie na wojnę z Iranem, przekonały mnie za to skutki ataku Hamasu z 7 października 2023 r. - powiedział w poniedziałek prezydent USA Donald Trump. Ponownie oskarżył media o publikowanie fałszywych wiadomości.",
+      "date_published": "2026-04-20T22:37:00+02:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/rynki/dzien-na-rynkach-lekkie-spadki-na-wall-street-po-kilku-dniach-rekordow",
+      "url": "https://biznes.pap.pl/wiadomosci/rynki/dzien-na-rynkach-lekkie-spadki-na-wall-street-po-kilku-dniach-rekordow",
+      "title": "DZIEŃ NA RYNKACH: Lekkie spadki na Wall Street po kilku dniach rekordów",
+      "content_html": "Poniedziałkowa sesja na Wall Street zakończyła się niewielkimi spadkami, które przerwały serię kilku dni wzrostów i rekordów indeksów S&P 500 i Nasdaq. Inwestorzy nadal śledzą wojnę USA z Iranem po es",
+      "date_published": "2026-04-20T22:07:00+02:00",
+      "source": "PAP Biznes"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Merz-zapowiada-podwojenie-wymiany-handlowej-z-Brazylia-9118220.html",
       "url": "https://www.bankier.pl/wiadomosc/Merz-zapowiada-podwojenie-wymiany-handlowej-z-Brazylia-9118220.html",
       "title": "Merz zapowiada podwojenie wymiany handlowej z Brazylią",
       "content_html": "Wymiana handlowa Niemiec z Brazylią powinna w najbliższych latach zostać podwojona – zadeklarował w poniedziałek kanclerz Friedrich Merz. Szef niemieckiego rządu wyraził gotowość do współpracy z Brazylią w zakresie metali ziem rzadkich,...",
       "date_published": "2026-04-20T21:08:00+02:00",
       "source": "Bankier.pl"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/ekonomia-biznes-i-finanse/skrot-wiadomosci-poniedzialek-20-kwietnia-2100",
+      "url": "https://biznes.pap.pl/wiadomosci/ekonomia-biznes-i-finanse/skrot-wiadomosci-poniedzialek-20-kwietnia-2100",
+      "title": "Skrót wiadomości - poniedziałek, 20 kwietnia, 21.00",
+      "content_html": "Przegląd najważniejszych wiadomości gospodarczych, krajowych i ze świata.",
+      "date_published": "2026-04-20T21:02:00+02:00",
+      "source": "PAP Biznes"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Brak-rady-nadzorczej-moze-utrudnic-licencje-Zondacrypto-9119055.html",
@@ -130,14 +162,6 @@
       "title": "Akt oskarżenia wobec byłych szefów KNF – formalnie wycofany",
       "content_html": "Prokuratura formalnie wycofała akt oskarżenia wobec członków b. kierownictwa KNF o nadzór nad SKOK Wołomin. Sąd w poniedziałek nie umorzył tego wątku; oskarżenie zostało podtrzymane na razie przez czterech z 11 oskarżycieli posiłkowych.",
       "date_published": "2026-04-20T20:10:00+02:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Trump-Izrael-nie-namowil-mnie-na-wojne-z-Iranem-9117531.html",
-      "url": "https://www.bankier.pl/wiadomosc/Trump-Izrael-nie-namowil-mnie-na-wojne-z-Iranem-9117531.html",
-      "title": "Trump: Izrael nie namówił mnie na wojnę z Iranem",
-      "content_html": "Izrael nie namówił mnie na wojnę z Iranem, przekonały mnie za to skutki ataku Hamasu z 7 października 2023 r. - powiedział w poniedziałek prezydent USA Donald Trump. Ponownie oskarżył media o publikowanie fałszywych wiadomości.",
-      "date_published": "2026-04-20T20:03:00+02:00",
       "source": "Bankier.pl"
     },
     {
@@ -365,22 +389,6 @@
       "source": "PAP Biznes"
     },
     {
-      "id": "https://biznes.pap.pl/wiadomosci/firmy/orlen-termika-z-umowa-na-1254-mln-zl-dofinansowania-budowy-instalacji-odzysku",
-      "url": "https://biznes.pap.pl/wiadomosci/firmy/orlen-termika-z-umowa-na-1254-mln-zl-dofinansowania-budowy-instalacji-odzysku",
-      "title": "Orlen Termika z umową na 125,4 mln zł dofinansowania budowy instalacji odzysku ciepła",
-      "content_html": "Narodowy Fundusz Ochrony Środowiska i Gospodarki Wodnej podpisał ze spółką Orlen Termika umowę na 125,4 mln zł dofinansowania budowy nowoczesnego układu odzysku ciepła ze ścieków z Przepompowni Żerań ",
-      "date_published": "2026-04-20T17:28:00+02:00",
-      "source": "PAP Biznes"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/firmy/grupa-diagnostyka-miala-w-iv-kw-369-mln-zl-zysku-netto-jd-wobec-445-mln-zl",
-      "url": "https://biznes.pap.pl/wiadomosci/firmy/grupa-diagnostyka-miala-w-iv-kw-369-mln-zl-zysku-netto-jd-wobec-445-mln-zl",
-      "title": "Grupa Diagnostyka miała w IV kw. 36,9 mln zł zysku netto j.d., wobec 44,5 mln zł konsensusu",
-      "content_html": "Grupa Diagnostyka miała w IV kw. 2025 roku 36,9 mln zł zysku netto j.d. - wynika z wyliczeń PAP Biznes na podstawie raportu rocznego. Konsensus PAP Biznes zakładał 44,5 mln zł zysku.",
-      "date_published": "2026-04-20T17:27:00+02:00",
-      "source": "PAP Biznes"
-    },
-    {
       "id": "https://www.bankier.pl/wiadomosc/Aplisens-chce-wyplacic-0-9-zl-dywidendy-na-akcje-z-zysku-za-25-9116696.html",
       "url": "https://www.bankier.pl/wiadomosc/Aplisens-chce-wyplacic-0-9-zl-dywidendy-na-akcje-z-zysku-za-25-9116696.html",
       "title": "Aplisens chce wypłacić 0,9 zł dywidendy na akcję z zysku za '25",
@@ -563,6 +571,14 @@
       "content_html": "Rynek paliw w Europie pozostaje napięty pod względem podaży, pomimo obserwowanych spadków cen - ocenia Adam Sikorski, prezes Unimotu, w przesłanym komentarzu. Jak wskazuje, zawieszenie broni między Iranem a USA poprawiło nastroje, ale nie przełożyło...",
       "date_published": "2026-04-20T15:56:00+02:00",
       "source": "Bankier.pl"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/rynki/po-otwarciu-sesji-dji-spada-o-012-proc-sp-500-znizkuje-015-proc",
+      "url": "https://biznes.pap.pl/wiadomosci/rynki/po-otwarciu-sesji-dji-spada-o-012-proc-sp-500-znizkuje-015-proc",
+      "title": "Po otwarciu sesji DJI spada o 0,12 proc., a S&P 500 zniżkuje 0,15 proc.",
+      "content_html": "Po otwarciu sesji w USA Dow Jones Industrial spada o 0,12 proc. do 49.420 pkt., S&P500 zniżkuje 0,15 proc. i wynosi 7.114 pkt.",
+      "date_published": "2026-04-20T15:38:00+02:00",
+      "source": "PAP Biznes"
     },
     {
       "id": "https://biznes.pap.pl/wiadomosci/firmy/oferta-atremu-za-595-mln-zl-brutto-wybrana-w-przetargu-enei-operator",
@@ -1061,14 +1077,6 @@
       "source": "Bankier.pl"
     },
     {
-      "id": "https://www.bankier.pl/wiadomosc/Rosja-traci-oczy-i-okrety-Bez-radaru-Podlot-i-kluczowych-transportowcow-9116432.html",
-      "url": "https://www.bankier.pl/wiadomosc/Rosja-traci-oczy-i-okrety-Bez-radaru-Podlot-i-kluczowych-transportowcow-9116432.html",
-      "title": "Rosja traci oczy i okręty. Bez radaru Podlot i kluczowych transportowców",
-      "content_html": "Wywiad wojskowy Ukrainy (HUR) poinformował o uderzeniach w dwa duże rosyjskie okręty desantowe na okupowanym Krymie. W wyniku ataku jednostki, które znajdowały się w Zatoce Sewastopolskiej, wyłączono z użycia – czytamy w opublikowanym w poniedziałek...",
-      "date_published": "2026-04-20T10:49:00+02:00",
-      "source": "Bankier.pl"
-    },
-    {
       "id": "https://biznes.pap.pl/wiadomosci/firmy/masa-przewiezionych-ladunkow-intermodalnych-w-25-wzrosla-o-26-proc-do-2838-mln-ton",
       "url": "https://biznes.pap.pl/wiadomosci/firmy/masa-przewiezionych-ladunkow-intermodalnych-w-25-wzrosla-o-26-proc-do-2838-mln-ton",
       "title": "Masa przewiezionych ładunków intermodalnych w '25 wzrosła o 2,6 proc. do 28,38 mln ton - UTK",
@@ -1355,14 +1363,6 @@
       "content_html": "",
       "date_published": "2026-04-20T06:00:00+02:00",
       "source": "Bankier.pl"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/gospodarka/tydzien-na-rynkach-pmi-za-iv-wysluchanie-warsha-posiedzenie-tcmb-wojna-w",
-      "url": "https://biznes.pap.pl/wiadomosci/gospodarka/tydzien-na-rynkach-pmi-za-iv-wysluchanie-warsha-posiedzenie-tcmb-wojna-w",
-      "title": "TYDZIEŃ NA RYNKACH: PMI za IV, wysłuchanie Warsha, posiedzenie TCMB, wojna w Iranie, wyniki w USA",
-      "content_html": "W kalendarzu na najbliższe dni znajdują się publikacje indeksów PMI z europejskich gospodarek za kwiecień, marcowa sprzedaż detaliczna z USA i wyniki spółek, a także decyzja banku centralnego Turcji (",
-      "date_published": "2026-04-19T21:11:00+02:00",
-      "source": "PAP Biznes"
     }
   ]
 }
