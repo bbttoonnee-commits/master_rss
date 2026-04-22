@@ -5,9 +5,33 @@
   "home_page_url": "https://www.bankier.pl",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/Trump-oglasza-dyplomatyczny-sukces-ale-fakty-przecza-wersji-Bialego-Domu-9121314.html",
+      "url": "https://www.bankier.pl/wiadomosc/Trump-oglasza-dyplomatyczny-sukces-ale-fakty-przecza-wersji-Bialego-Domu-9121314.html",
+      "title": "Trump ogłasza dyplomatyczny sukces, ale... fakty przeczą wersji Białego Domu",
+      "content_html": "Prezydent USA Donald Trump poinformował w środę, że Iran uszanował jego prośbę i odwołał zaplanowaną na ten dzień egzekucję ośmiu kobiet. Irańskie władze zaprzeczały, by planowały stracić te kobiety, a obrońcy praw człowieka utrzymują...",
+      "date_published": "2026-04-22T21:15:00+02:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Putin-zaciera-rece-a-rosyjska-ropa-wraca-w-chwale-Bessent-zwolnilismy-ja-z-sankcji-9121309.html",
+      "url": "https://www.bankier.pl/wiadomosc/Putin-zaciera-rece-a-rosyjska-ropa-wraca-w-chwale-Bessent-zwolnilismy-ja-z-sankcji-9121309.html",
+      "title": "Putin zaciera ręce, a rosyjska ropa wraca w chwale. Bessent: zwolniliśmy ją z sankcji",
+      "content_html": "Minister finansów USA Scott Bessent wyjaśnił w środę, że zdecydował się przedłużyć wyłączenie z sankcji na rosyjską ropę naftową na prośbę „najuboższych energetycznie krajów”. Twierdził też, że bez tego cena ropy osiągnęłaby...",
+      "date_published": "2026-04-22T21:08:00+02:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/ekonomia-biznes-i-finanse/skrot-wiadomosci-sroda-22-kwietnia-2100",
+      "url": "https://biznes.pap.pl/wiadomosci/ekonomia-biznes-i-finanse/skrot-wiadomosci-sroda-22-kwietnia-2100",
+      "title": "Skrót wiadomości - środa, 22 kwietnia, 21.00",
+      "content_html": "Przegląd najważniejszych wiadomości gospodarczych, krajowych i ze świata.",
+      "date_published": "2026-04-22T21:05:00+02:00",
+      "source": "PAP Biznes"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Strategia-local-content-kluczem-do-niezaleznosci-gospodarczej-nowelizacja-PZP-nie-jest-wymagana-debata-na-EKG-9121298.html",
       "url": "https://www.bankier.pl/wiadomosc/Strategia-local-content-kluczem-do-niezaleznosci-gospodarczej-nowelizacja-PZP-nie-jest-wymagana-debata-na-EKG-9121298.html",
-      "title": "Strategia local content kluczem do niezależności gospodarczej; nowelizacja PZP nie jest wymagana - debata na EKG",
+      "title": "Miliardy zostaną w Polsce. Jak spółki Skarbu Państwa chcą budować krajowy łańcuch dostaw",
       "content_html": "Budowa krajowego łańcucha dostaw to kwestia bezpieczeństwa i suwerenności Polski, a zamówienia publiczne mogą być narzędziem realizowania strategii państwa - ocenili uczestnicy środowej debaty podczas Europejskiego Kongresu Gospodarczego. Implementacja...",
       "date_published": "2026-04-22T20:46:00+02:00",
       "source": "Bankier.pl"
@@ -221,12 +245,28 @@
       "source": "PAP Biznes"
     },
     {
+      "id": "https://www.bankier.pl/wiadomosc/Astarta-sprzedala-w-I-kw-84-7-tys-ton-cukru-9121183.html",
+      "url": "https://www.bankier.pl/wiadomosc/Astarta-sprzedala-w-I-kw-84-7-tys-ton-cukru-9121183.html",
+      "title": "Astarta sprzedała w I kw. 84,7 tys. ton cukru",
+      "content_html": "Astarta Holding w pierwszym kwartale 2026 r. sprzedała 84,7 tys. ton cukru, co oznacza wzrost o 10 proc. rdr - podała spółka w komunikacie.",
+      "date_published": "2026-04-22T18:12:00+02:00",
+      "source": "Bankier.pl"
+    },
+    {
       "id": "https://biznes.pap.pl/wiadomosci/rynki/dzien-na-rynkach-spadki-na-gieldach-w-europie-niepokoj-o-rozmowy-usa-iran-0",
       "url": "https://biznes.pap.pl/wiadomosci/rynki/dzien-na-rynkach-spadki-na-gieldach-w-europie-niepokoj-o-rozmowy-usa-iran-0",
       "title": "DZIEŃ NA RYNKACH: Spadki na giełdach w Europie; niepokój o rozmowy USA-Iran",
       "content_html": "Indeksy w Europie zniżkowały na koniec sesji w środę. Inwestorzy niepokoją się o dalszy los rozejmu USA-Iran wobec rosnącego napięcia w cieśninie Ormuz.",
       "date_published": "2026-04-22T18:09:00+02:00",
       "source": "PAP Biznes"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/KGHM-moze-rozwazyc-nowe-produkty-we-wspolpracy-z-partnerami-w-tym-polska-nauka-prezes-9121177.html",
+      "url": "https://www.bankier.pl/wiadomosc/KGHM-moze-rozwazyc-nowe-produkty-we-wspolpracy-z-partnerami-w-tym-polska-nauka-prezes-9121177.html",
+      "title": "KGHM wchodzi w zbrojeniówkę i energetykę? Koncern chce produkować metale, których brakuje w Europie",
+      "content_html": "KGHM może rozważyć rozszerzenie łańcucha wartości o nowe produkty, we współpracy z polską nauką i partnerami - poinformował prezes KGHM Remigiusz Paszkiewicz. Jak poinformował, jeden z nich mógłby być wykorzystywany w sektorze militarnym...",
+      "date_published": "2026-04-22T18:06:00+02:00",
+      "source": "Bankier.pl"
     },
     {
       "id": "https://biznes.pap.pl/wiadomosci/firmy/orange-polska-podtrzymalo-niski-jednocyfrowy-wzrost-przychodow-3-5-proc-wzrost",
@@ -269,14 +309,6 @@
       "source": "Bankier.pl"
     },
     {
-      "id": "https://biznes.pap.pl/wiadomosci/firmy/cez-chce-wyplacic-42-czk-dywidendy-na-akcje",
-      "url": "https://biznes.pap.pl/wiadomosci/firmy/cez-chce-wyplacic-42-czk-dywidendy-na-akcje",
-      "title": "CEZ chce wypłacić 42 CZK dywidendy na akcję",
-      "content_html": "Rada dyrektorów CEZ proponuje wypłatę 42 CZK dywidendy na akcję za 2025 rok - podała spółka w komunikacie.",
-      "date_published": "2026-04-22T17:35:00+02:00",
-      "source": "PAP Biznes"
-    },
-    {
       "id": "https://www.bankier.pl/wiadomosc/Tarcza-nad-bazami-paliwowymi-PERN-stawia-na-systemy-antydronowe-9121155.html",
       "url": "https://www.bankier.pl/wiadomosc/Tarcza-nad-bazami-paliwowymi-PERN-stawia-na-systemy-antydronowe-9121155.html",
       "title": "Tarcza nad bazami paliwowymi. PERN stawia na systemy antydronowe",
@@ -317,27 +349,11 @@
       "source": "Bankier.pl"
     },
     {
-      "id": "https://www.bankier.pl/wiadomosc/Astarta-sprzedala-w-I-kw-84-7-tys-ton-cukru-9121183.html",
-      "url": "https://www.bankier.pl/wiadomosc/Astarta-sprzedala-w-I-kw-84-7-tys-ton-cukru-9121183.html",
-      "title": "Astarta sprzedała w I kw. 84,7 tys. ton cukru Astarta Holding w pierwszym kwartale 2026 r. sprzedała 84,7 tys. ton cukru, co oznacza wzrost o 10 proc. rdr - podała spółka w komunikacie.",
-      "content_html": "",
-      "date_published": "2026-04-22T17:12:00+02:00",
-      "source": "Bankier.pl"
-    },
-    {
       "id": "https://www.bankier.pl/wiadomosc/Ryanair-konczy-z-rejsami-na-wyspy-Ma-dosc-paralizu-wywolanego-unijnym-systemem-9121072.html",
       "url": "https://www.bankier.pl/wiadomosc/Ryanair-konczy-z-rejsami-na-wyspy-Ma-dosc-paralizu-wywolanego-unijnym-systemem-9121072.html",
       "title": "Ryanair kończy z rejsami na wyspy. Ma dość paraliżu wywołanego unijnym systemem",
       "content_html": "Nowy Europejski System Wjazdu/Wyjazdu (EES) wywołuje chaos na europejskich lotniskach i zmusza przewoźników do stanowczych kroków. Malta Air, spółka zależna Ryanair, ostrzega, że przez wydłużające się kolejki na granicy zlikwiduje całe...",
       "date_published": "2026-04-22T17:09:00+02:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/KGHM-moze-rozwazyc-nowe-produkty-we-wspolpracy-z-partnerami-w-tym-polska-nauka-prezes-9121177.html",
-      "url": "https://www.bankier.pl/wiadomosc/KGHM-moze-rozwazyc-nowe-produkty-we-wspolpracy-z-partnerami-w-tym-polska-nauka-prezes-9121177.html",
-      "title": "KGHM wchodzi w zbrojeniówkę i energetykę? Koncern chce produkować metale, których brakuje w Europie KGHM może rozważyć rozszerzenie łańcucha wartości o nowe produkty, we współpracy z polską nauką i partnerami - poinformował prezes KGHM Remigiusz Paszkiewicz. Jak poinformował, jeden z nich mógłby być wykorzystywany w sektorze militarnym.",
-      "content_html": "",
-      "date_published": "2026-04-22T17:06:00+02:00",
       "source": "Bankier.pl"
     },
     {
@@ -435,6 +451,14 @@
       "content_html": "Co najmniej trzy kontenerowce zostały zaatakowane w środę w cieśninie Ormuz - przekazała agencja Reutera, powołując się na źródła związane z bezpieczeństwem morskim oraz brytyjską agencję bezpieczeństwa żeglugi UKMTO.",
       "date_published": "2026-04-22T15:41:00+02:00",
       "source": "Bankier.pl"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/rynki/po-otwarciu-sesji-dji-rosnie-o-072-proc-sp-500-zwyzkuje-069-proc",
+      "url": "https://biznes.pap.pl/wiadomosci/rynki/po-otwarciu-sesji-dji-rosnie-o-072-proc-sp-500-zwyzkuje-069-proc",
+      "title": "Po otwarciu sesji DJI rośnie o 0,72 proc., a S&P 500 zwyżkuje 0,69 proc.",
+      "content_html": "Po otwarciu sesji w USA Dow Jones Industrial rośnie o 0,72 proc. do 49.512 pkt., S&P500 zwyżkuje 0,69 proc. i wynosi 7.113 pkt.",
+      "date_published": "2026-04-22T15:33:00+02:00",
+      "source": "PAP Biznes"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Katowice-oglaszaja-Shaft-K-Ponad-pol-miliarda-zlotych-na-projekt-ktory-zmieni-oblicze-Slaska-9121053.html",
@@ -1149,38 +1173,6 @@
       "source": "PAP Biznes"
     },
     {
-      "id": "https://www.bankier.pl/wiadomosc/Ceny-miedzi-w-Londynie-rosna-po-przedluzeniu-rozejmu-USA-Iran-9120799.html",
-      "url": "https://www.bankier.pl/wiadomosc/Ceny-miedzi-w-Londynie-rosna-po-przedluzeniu-rozejmu-USA-Iran-9120799.html",
-      "title": "Ceny miedzi w Londynie rosną po przedłużeniu rozejmu USA-Iran",
-      "content_html": "Notowania miedzi na giełdzie metali LME w Londynie rosną w reakcji na przedłużenie rozejmu USA-Iran - informują maklerzy.",
-      "date_published": "2026-04-22T09:07:00+02:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Koniec-tanich-surowcow-z-Chin-USA-chca-ustalic-ceny-minimalne-9120798.html",
-      "url": "https://www.bankier.pl/wiadomosc/Koniec-tanich-surowcow-z-Chin-USA-chca-ustalic-ceny-minimalne-9120798.html",
-      "title": "Koniec tanich surowców z Chin? USA chcą ustalić ceny minimalne",
-      "content_html": "Przedstawiciel USA ds. handlu Jamieson Greer powiedział sojusznikom Stanów Zjednoczonych, że muszą więcej płacić za krytyczne minerały pochodzące spoza Chin – poinformował w środę brytyjski dziennik „Financial Times”.",
-      "date_published": "2026-04-22T09:04:00+02:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Ceny-ropy-naftowej-spadaja-USA-przedluzyly-zawieszenie-broni-z-Iranem-9120795.html",
-      "url": "https://www.bankier.pl/wiadomosc/Ceny-ropy-naftowej-spadaja-USA-przedluzyly-zawieszenie-broni-z-Iranem-9120795.html",
-      "title": "Ceny ropy naftowej spadają. USA przedłużyły zawieszenie broni z Iranem",
-      "content_html": "Ceny ropy naftowej spadają po tym, jak USA przedłużyły zawieszenie broni w wojnie z Iranem - informują maklerzy.",
-      "date_published": "2026-04-22T09:01:00+02:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Panstwa-Arabskie-zadaja-od-Iranu-odszkodowania-za-wojne-Gra-o-setki-milionow-dolarow-9120778.html",
-      "url": "https://www.bankier.pl/wiadomosc/Panstwa-Arabskie-zadaja-od-Iranu-odszkodowania-za-wojne-Gra-o-setki-milionow-dolarow-9120778.html",
-      "title": "Państwa Arabskie żądają od Iranu odszkodowania za wojnę. Gra o setki milionów dolarów",
-      "content_html": "Liga Państw Arabskich wytacza najcięższe działa finansowe przeciwko Iranowi, domagając się astronomicznych odszkodowań za paraliż światowego handlu ropą i ataki na infrastrukturę podczas operacji „Epicka Furia”. Szacuje się, że rachunek...",
-      "date_published": "2026-04-22T08:57:00+02:00",
-      "source": "Bankier.pl"
-    },
-    {
       "id": "https://biznes.pap.pl/wiadomosci/rynki/najwazniejsze-indeksy-gieldowe-w-azji-707",
       "url": "https://biznes.pap.pl/wiadomosci/rynki/najwazniejsze-indeksy-gieldowe-w-azji-707",
       "title": "Najważniejsze indeksy giełdowe w Azji",
@@ -1229,12 +1221,28 @@
       "source": "PAP Biznes"
     },
     {
+      "id": "https://www.bankier.pl/wiadomosc/Ceny-miedzi-w-Londynie-rosna-po-przedluzeniu-rozejmu-USA-Iran-9120799.html",
+      "url": "https://www.bankier.pl/wiadomosc/Ceny-miedzi-w-Londynie-rosna-po-przedluzeniu-rozejmu-USA-Iran-9120799.html",
+      "title": "Ceny miedzi w Londynie rosną po przedłużeniu rozejmu USA-Iran Notowania miedzi na giełdzie metali LME w Londynie rosną w reakcji na przedłużenie rozejmu USA-Iran - informują maklerzy.",
+      "content_html": "",
+      "date_published": "2026-04-22T08:07:00+02:00",
+      "source": "Bankier.pl"
+    },
+    {
       "id": "https://biznes.pap.pl/wiadomosci/rynki/ceny-miedzi-w-londynie-rosna-po-przedluzeniu-rozejmu-usa-iran",
       "url": "https://biznes.pap.pl/wiadomosci/rynki/ceny-miedzi-w-londynie-rosna-po-przedluzeniu-rozejmu-usa-iran",
       "title": "Ceny miedzi w Londynie rosną po przedłużeniu rozejmu USA-Iran",
       "content_html": "Notowania miedzi na giełdzie metali LME w Londynie rosną w reakcji na przedłużenie rozejmu USA-Iran - informują maklerzy.",
       "date_published": "2026-04-22T08:06:00+02:00",
       "source": "PAP Biznes"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Ceny-ropy-naftowej-spadaja-USA-przedluzyly-zawieszenie-broni-z-Iranem-9120795.html",
+      "url": "https://www.bankier.pl/wiadomosc/Ceny-ropy-naftowej-spadaja-USA-przedluzyly-zawieszenie-broni-z-Iranem-9120795.html",
+      "title": "Ceny ropy naftowej spadają. USA przedłużyły zawieszenie broni z Iranem Ceny ropy naftowej spadają po tym, jak USA przedłużyły zawieszenie broni w wojnie z Iranem - informują maklerzy.",
+      "content_html": "",
+      "date_published": "2026-04-22T08:01:00+02:00",
+      "source": "Bankier.pl"
     },
     {
       "id": "https://biznes.pap.pl/wiadomosci/rynki/ceny-ropy-naftowej-spadaja",
@@ -1331,30 +1339,6 @@
       "content_html": "",
       "date_published": "2026-04-21T22:05:00+02:00",
       "source": "Bankier.pl"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/ekonomia-biznes-i-finanse/skrot-wiadomosci-wtorek-21-kwietnia-2100",
-      "url": "https://biznes.pap.pl/wiadomosci/ekonomia-biznes-i-finanse/skrot-wiadomosci-wtorek-21-kwietnia-2100",
-      "title": "Skrót wiadomości - wtorek, 21 kwietnia, 21.00",
-      "content_html": "Przegląd najważniejszych wiadomości gospodarczych, krajowych i ze świata.",
-      "date_published": "2026-04-21T21:04:00+02:00",
-      "source": "PAP Biznes"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Arctic-Paper-mial-w-IV-kw-21-3-mln-zl-straty-EBITDA-9120634.html",
-      "url": "https://www.bankier.pl/wiadomosc/Arctic-Paper-mial-w-IV-kw-21-3-mln-zl-straty-EBITDA-9120634.html",
-      "title": "Arctic Paper miał w IV kw. 21,3 mln zł straty EBITDA Arctic Paper w czwartym kwartale 2025 r. miał 21,3 mln zł straty EBITDA, a strata operacyjna wyniosła 60 mln zł - wynika z wyliczeń PAP Biznes na podstawie raportu spółki. W lutym Arctic Paper szacował stratę EBITDA na 33,5 mln zł, a stratę EBIT na 72,2 mln zł.",
-      "content_html": "",
-      "date_published": "2026-04-21T20:23:00+02:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/firmy/arctic-paper-mial-w-iv-kw-213-mln-zl-straty-ebitda-opis",
-      "url": "https://biznes.pap.pl/wiadomosci/firmy/arctic-paper-mial-w-iv-kw-213-mln-zl-straty-ebitda-opis",
-      "title": "Arctic Paper miał w IV kw. 21,3 mln zł straty EBITDA (opis)",
-      "content_html": "Arctic Paper w czwartym kwartale 2025 r. miał 21,3 mln zł straty EBITDA, a strata operacyjna wyniosła 60 mln zł - wynika z wyliczeń PAP Biznes na podstawie raportu spółki. W lutym Arctic Paper szacowa",
-      "date_published": "2026-04-21T20:14:00+02:00",
-      "source": "PAP Biznes"
     }
   ]
 }
