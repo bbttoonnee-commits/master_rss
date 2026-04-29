@@ -5,11 +5,59 @@
   "home_page_url": "https://www.bankier.pl",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/Zysk-netto-Banku-Pekao-w-I-kw-26-wyniosl-1232-mln-zl-powyzej-oczekiwan-9125492.html",
+      "url": "https://www.bankier.pl/wiadomosc/Zysk-netto-Banku-Pekao-w-I-kw-26-wyniosl-1232-mln-zl-powyzej-oczekiwan-9125492.html",
+      "title": "Zysk netto Banku Pekao w I kw. '26 wyniósł 1232 mln zł; powyżej oczekiwań",
+      "content_html": "Zysk netto grupy Banku Pekao SA w I kwartale 2026 r. spadł do 1.232 mln zł z 1.685 mln zł rok wcześniej - poinformował bank w raporcie. Zysk okazał się 5,1 proc. powyżej oczekiwań analityków, którzy prognozowali, że wyniesie on 1.172,3 mln...",
+      "date_published": "2026-04-30T01:36:00+02:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Wyniki-Banku-Pekao-w-I-kw-2026-roku-vs-konsensus-PAP-tabela-9125490.html",
+      "url": "https://www.bankier.pl/wiadomosc/Wyniki-Banku-Pekao-w-I-kw-2026-roku-vs-konsensus-PAP-tabela-9125490.html",
+      "title": "Wyniki Banku Pekao w I kw. 2026 roku vs. konsensus PAP (tabela)",
+      "content_html": "Poniżej przedstawiamy wyniki Banku Pekao w pierwszym kwartale 2026 roku i ich odniesienie do konsensusu PAP i poprzednich wyników.",
+      "date_published": "2026-04-30T01:20:00+02:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Wyniki-mBanku-w-I-kw-2026-roku-vs-konsensus-PAP-tabela-9125497.html",
+      "url": "https://www.bankier.pl/wiadomosc/Wyniki-mBanku-w-I-kw-2026-roku-vs-konsensus-PAP-tabela-9125497.html",
+      "title": "Wyniki mBanku w I kw. 2026 roku vs. konsensus PAP (tabela) Poniżej przedstawiamy wyniki grupy mBanku w pierwszym kwartale 2026 roku i ich odniesienie do konsensusu PAP i poprzednich wyników.",
+      "content_html": "",
+      "date_published": "2026-04-30T00:46:00+02:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/firmy/wyniki-mbanku-w-i-kw-2026-roku-vs-konsensus-pap-tabela",
+      "url": "https://biznes.pap.pl/wiadomosci/firmy/wyniki-mbanku-w-i-kw-2026-roku-vs-konsensus-pap-tabela",
+      "title": "Wyniki mBanku w I kw. 2026 roku vs. konsensus PAP (tabela)",
+      "content_html": "Poniżej przedstawiamy wyniki grupy mBanku w pierwszym kwartale 2026 roku i ich odniesienie do konsensusu PAP i poprzednich wyników.",
+      "date_published": "2026-04-30T00:45:00+02:00",
+      "source": "PAP Biznes"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/firmy/zysk-netto-banku-pekao-w-i-kw-26-wyniosl-1232-mln-zl-powyzej-oczekiwan",
+      "url": "https://biznes.pap.pl/wiadomosci/firmy/zysk-netto-banku-pekao-w-i-kw-26-wyniosl-1232-mln-zl-powyzej-oczekiwan",
+      "title": "Zysk netto Banku Pekao w I kw. '26 wyniósł 1232 mln zł; powyżej oczekiwań",
+      "content_html": "Zysk netto grupy Banku Pekao SA w I kwartale 2026 r. spadł do 1.232 mln zł z 1.685 mln zł rok wcześniej - poinformował bank w raporcie. Zysk okazał się 5,1 proc. powyżej oczekiwań analityków, którzy p",
+      "date_published": "2026-04-30T00:34:00+02:00",
+      "source": "PAP Biznes"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/firmy/wyniki-banku-pekao-w-i-kw-2026-roku-vs-konsensus-pap-tabela",
+      "url": "https://biznes.pap.pl/wiadomosci/firmy/wyniki-banku-pekao-w-i-kw-2026-roku-vs-konsensus-pap-tabela",
+      "title": "Wyniki Banku Pekao w I kw. 2026 roku vs. konsensus PAP (tabela)",
+      "content_html": "Poniżej przedstawiamy wyniki Banku Pekao w pierwszym kwartale 2026 roku i ich odniesienie do konsensusu PAP i poprzednich wyników.",
+      "date_published": "2026-04-30T00:18:00+02:00",
+      "source": "PAP Biznes"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Onde-ma-umowe-na-prace-budowlane-za-110-mln-zl-z-inwestorem-z-branzy-OZE-9125472.html",
       "url": "https://www.bankier.pl/wiadomosc/Onde-ma-umowe-na-prace-budowlane-za-110-mln-zl-z-inwestorem-z-branzy-OZE-9125472.html",
-      "title": "Onde ma umowę na prace budowlane za 110 mln zł z inwestorem z branży OZE Onde zawarł z polską spółką celową należącą do grupy kapitałowej inwestora z branży OZE umowę na wykonanie prac budowlanych o wartości 110 mln zł - poinformowała giełdowa spółka w komunikacie.",
-      "content_html": "",
-      "date_published": "2026-04-29T23:12:00+02:00",
+      "title": "Onde ma umowę na prace budowlane za 110 mln zł z inwestorem z branży OZE",
+      "content_html": "Onde zawarł z polską spółką celową należącą do grupy kapitałowej inwestora z branży OZE umowę na wykonanie prac budowlanych o wartości 110 mln zł - poinformowała giełdowa spółka w komunikacie.",
+      "date_published": "2026-04-30T00:12:00+02:00",
       "source": "Bankier.pl"
     },
     {
@@ -149,36 +197,12 @@
       "source": "Bankier.pl"
     },
     {
-      "id": "https://biznes.pap.pl/wiadomosci/firmy/medinice-zakonczylo-badanie-kliniczne-wyrobu-medycznego-coolcryo",
-      "url": "https://biznes.pap.pl/wiadomosci/firmy/medinice-zakonczylo-badanie-kliniczne-wyrobu-medycznego-coolcryo",
-      "title": "Medinice zakończyło badanie kliniczne wyrobu medycznego CoolCryo",
-      "content_html": "Medinice zakończyło badanie kliniczne wyrobu medycznego CoolCryo, co oznacza potwierdzenie kompletności danych oraz pozwala na formalne przejście do etapu analizy wyników i dalszych prac regulacyjnych",
-      "date_published": "2026-04-29T21:04:00+02:00",
-      "source": "PAP Biznes"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/firmy/budimex-otrzymal-informacje-o-uniewaznieniu-czynnosci-wyboru-oferty-dot-budowy",
-      "url": "https://biznes.pap.pl/wiadomosci/firmy/budimex-otrzymal-informacje-o-uniewaznieniu-czynnosci-wyboru-oferty-dot-budowy",
-      "title": "Budimex otrzymał informacje o unieważnieniu czynności wyboru oferty dot. budowy obwodnicy",
-      "content_html": "Budimex otrzymał informacje o unieważnieniu czynności wyboru oferty dotyczącej budowy obwodnicy miejscowości Szczekociny i Goleniowy w ciągu drogi krajowej nr 78 - podała spółka w komunikacie.",
-      "date_published": "2026-04-29T21:00:00+02:00",
-      "source": "PAP Biznes"
-    },
-    {
       "id": "https://www.bankier.pl/wiadomosc/Selena-FM-chce-wyplacic-2-5-zl-dywidendy-na-akcje-za-25-9125383.html",
       "url": "https://www.bankier.pl/wiadomosc/Selena-FM-chce-wyplacic-2-5-zl-dywidendy-na-akcje-za-25-9125383.html",
       "title": "Selena FM chce wypłacić 2,5 zł dywidendy na akcję za '25",
       "content_html": "Zarząd Selena FM rekomenduje walnemu zgromadzeniu przeznaczenie 54,1 mln zł z zysku za 2025 r. na dywidendę, co daje 2,5 zł na akcję - podała spółka w komunikacie.",
       "date_published": "2026-04-29T20:58:00+02:00",
       "source": "Bankier.pl"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/firmy/sfinks-mial-w-2025-r-964-mln-zl-ebitda-chce-rozszerzyc-biznes-hotelowy",
-      "url": "https://biznes.pap.pl/wiadomosci/firmy/sfinks-mial-w-2025-r-964-mln-zl-ebitda-chce-rozszerzyc-biznes-hotelowy",
-      "title": "Sfinks miał w 2025 r. 9,64 mln zł EBITDA; chce rozszerzyć biznes hotelowy",
-      "content_html": "Sfinks miał w 2025 r. 9,64 mln zł EBITDA w porównaniu do 14,64 mln zł rok wcześniej - podała spółka w komunikacie prasowym. Wskazano, że spółka chce rozszerzyć biznes hotelowy.",
-      "date_published": "2026-04-29T20:47:00+02:00",
-      "source": "PAP Biznes"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Orlen-pod-presja-podatkow-Miliardowe-zyski-mimo-lekkiego-spadku-rok-do-roku-9125377.html",
@@ -245,22 +269,6 @@
       "source": "Bankier.pl"
     },
     {
-      "id": "https://www.bankier.pl/wiadomosc/Kanclerz-Merz-ostro-o-sytuacji-w-Niemczech-Iluzja-dobrobytu-nie-przetrwa-9125335.html",
-      "url": "https://www.bankier.pl/wiadomosc/Kanclerz-Merz-ostro-o-sytuacji-w-Niemczech-Iluzja-dobrobytu-nie-przetrwa-9125335.html",
-      "title": "Kanclerz Merz ostro o sytuacji w Niemczech. „Iluzja dobrobytu nie przetrwa”",
-      "content_html": "Niemiecki kanclerz Friedrich Merz, komentując planowane reformy emerytur i ochrony zdrowia, powiedział w środę tygodnikowi „Spiegel”, że jest niezadowolony z atmosfery panującej w kraju. Ostrzegł, że Niemcy nie mogą kontynuować polityki...",
-      "date_published": "2026-04-29T19:35:00+02:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Polska-wlacza-sie-w-zabiegi-o-pokoj-na-Bliskim-Wschodzie-Nasza-dyplomacja-dziala-9125320.html",
-      "url": "https://www.bankier.pl/wiadomosc/Polska-wlacza-sie-w-zabiegi-o-pokoj-na-Bliskim-Wschodzie-Nasza-dyplomacja-dziala-9125320.html",
-      "title": "Polska włącza się w zabiegi o pokój na Bliskim Wschodzie. „Nasza dyplomacja działa”",
-      "content_html": "Wicepremier, szef MSZ Radosław rozmawiał telefonicznie ze swoim irańskim odpowiednikiem Abbasem Aragczim. Sikorski poinformował na platformie X po tej rozmowie, że ochrona cywilów, dążenie do pokoju w regionie oraz otwarcie Cieśniny Ormuz są...",
-      "date_published": "2026-04-29T19:23:00+02:00",
-      "source": "Bankier.pl"
-    },
-    {
       "id": "https://www.bankier.pl/wiadomosc/Mejza-wylatuje-z-klubu-PiS-Bochenek-Czlonkiem-partii-nigdy-nie-byl-9125207.html",
       "url": "https://www.bankier.pl/wiadomosc/Mejza-wylatuje-z-klubu-PiS-Bochenek-Czlonkiem-partii-nigdy-nie-byl-9125207.html",
       "title": "Mejza wylatuje z klubu PiS. Bochenek: Członkiem partii nigdy nie był",
@@ -301,6 +309,14 @@
       "source": "Bankier.pl"
     },
     {
+      "id": "https://biznes.pap.pl/wiadomosci/firmy/moodys-utrzymal-rating-orlenu-na-poziomie-a3-perspektywa-stabilna",
+      "url": "https://biznes.pap.pl/wiadomosci/firmy/moodys-utrzymal-rating-orlenu-na-poziomie-a3-perspektywa-stabilna",
+      "title": "Moody's utrzymał rating Orlenu na poziomie A3, perspektywa stabilna",
+      "content_html": "Moody's utrzymał długoterminowy rating Orlenu na poziomie A3, perspektywa stabilna - poinformował Moody's w komunikacie prasowym.",
+      "date_published": "2026-04-29T18:50:00+02:00",
+      "source": "PAP Biznes"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Zakladany-poziom-nakladow-inwestycyjnych-dla-GK-JSW-na-2026-rok-wyniesie-okolo-2-4-mld-zl-9125259.html",
       "url": "https://www.bankier.pl/wiadomosc/Zakladany-poziom-nakladow-inwestycyjnych-dla-GK-JSW-na-2026-rok-wyniesie-okolo-2-4-mld-zl-9125259.html",
       "title": "Miliardowe inwestycje i potężne oszczędności. JSW ujawnia kluczowe założenia",
@@ -323,6 +339,14 @@
       "content_html": "Amerykański resort finansów po raz kolejny odroczył termin wejścia w życie sankcji na spółkę Lukoil International, odpowiedzialną za zagraniczne aktywa rosyjskiego koncernu paliwowego Łukoil. Zwolnienie do końca maja ma na celu pozwolenie na...",
       "date_published": "2026-04-29T18:39:00+02:00",
       "source": "Bankier.pl"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/firmy/alior-bank-wyplaci-893-zl-dywidendy-na-akcje-z-zysku-za-2025-r",
+      "url": "https://biznes.pap.pl/wiadomosci/firmy/alior-bank-wyplaci-893-zl-dywidendy-na-akcje-z-zysku-za-2025-r",
+      "title": "Alior Bank wypłaci 8,93 zł dywidendy na akcję z zysku za 2025 r.",
+      "content_html": "Zwyczajne Walne Zgromadzenie Alior Bank zdecydowało o przeznaczeniu na dywidendę 1.165,8 mln zł z zysku za 2025 rok, czyli 8,93 zł dywidendy na akcję - poinformował bank w komunikacie.",
+      "date_published": "2026-04-29T18:35:00+02:00",
+      "source": "PAP Biznes"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Epicka-Furia-i-epickie-koszty-Wojna-z-Iranem-kosztowala-USA-25-mld-dolarow-9125245.html",
@@ -355,6 +379,14 @@
       "content_html": "Wasko rekomenduje wypłatę 9,1 mln zł z zysku netto za 2025 rok na dywidendę, co daje 0,1 zł na akcję - podała spółka w komunikacie.",
       "date_published": "2026-04-29T18:16:00+02:00",
       "source": "Bankier.pl"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/firmy/agora-rozpoczela-negocjacje-w-sprawie-zmiany-warunkow-opcji-menadzerskich-spolki",
+      "url": "https://biznes.pap.pl/wiadomosci/firmy/agora-rozpoczela-negocjacje-w-sprawie-zmiany-warunkow-opcji-menadzerskich-spolki",
+      "title": "Agora rozpoczęła negocjacje w sprawie zmiany warunków opcji menadżerskich spółki Helios",
+      "content_html": "Agora rozpoczęła negocjacje w sprawie zmiany warunków opcji menadżerskich spółki Helios - podała Agora w komunikacie.",
+      "date_published": "2026-04-29T18:14:00+02:00",
+      "source": "PAP Biznes"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Szansa-na-rekord-Orlenu-ledwo-wystarczyla-WIG20-finiszuje-na-zielono-ale-noty-za-styl-sa-fatalne-9125227.html",
@@ -1317,14 +1349,6 @@
       "source": "PAP Biznes"
     },
     {
-      "id": "https://biznes.pap.pl/wiadomosci/gospodarka/szara-strefa-w-polsce-w-25-stanowila-181-proc-pkb-w-26-bedzie-177-proc-ipag",
-      "url": "https://biznes.pap.pl/wiadomosci/gospodarka/szara-strefa-w-polsce-w-25-stanowila-181-proc-pkb-w-26-bedzie-177-proc-ipag",
-      "title": "Szara strefa w Polsce w '25 stanowiła 18,1 proc. PKB, w '26 będzie to 17,7 proc. - IPAG",
-      "content_html": "Szara strefa gospodarcza stanowiła w 2025 r. 18,1 proc. PKB, a prognoza na 2026 r. wynosi 17,7 proc., co oznacza to trzeci kolejny rok spadku tego udziału, głównie dzięki dobrej koniunkturze gospodarc",
-      "date_published": "2026-04-29T11:13:00+02:00",
-      "source": "PAP Biznes"
-    },
-    {
       "id": "https://www.bankier.pl/wiadomosc/Ceny-ropy-w-fazie-wahan-Inwestorzy-czekaja-na-kolejne-kroki-USA-i-Iranu-9124778.html",
       "url": "https://www.bankier.pl/wiadomosc/Ceny-ropy-w-fazie-wahan-Inwestorzy-czekaja-na-kolejne-kroki-USA-i-Iranu-9124778.html",
       "title": "Ceny ropy rosną. Inwestorzy czekają na kolejne kroki USA i Iranu",
@@ -1466,14 +1490,6 @@
       "title": "Lentex szacuje, że w I kw. '26 miał 3,6 mln zł zysku netto i 5,8 mln zł EBITDA",
       "content_html": "Lentex szacuje, że w I kwartale 2026 roku miał 3,6 mln zł zysku netto i 5,8 mln zł EBITDA. Szacowane przychody netto wyniosły 40,67 mln zł - podała spółka w komunikacie. (PAP Biznes)",
       "date_published": "2026-04-29T09:35:00+02:00",
-      "source": "PAP Biznes"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/rynki/dzien-na-rynkach-w-europie-na-gieldach-przewaga-zwyzek-indeksow-1",
-      "url": "https://biznes.pap.pl/wiadomosci/rynki/dzien-na-rynkach-w-europie-na-gieldach-przewaga-zwyzek-indeksow-1",
-      "title": "DZIEŃ NA RYNKACH: W Europie na giełdach przewaga zwyżek indeksów",
-      "content_html": "Na europejskich giełdach przeważają zwyżki indeksów. Uwaga inwestorów skupia się na doniesieniach dotyczących Bliskiego Wschodu i na zbliżającym się ogłoszeniu decyzji monetarnej Fed oraz wynikach kwa",
-      "date_published": "2026-04-29T09:27:00+02:00",
       "source": "PAP Biznes"
     },
     {
