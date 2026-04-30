@@ -5,11 +5,43 @@
   "home_page_url": "https://www.bankier.pl",
   "items": [
     {
+      "id": "https://biznes.pap.pl/wiadomosci/ekonomia-biznes-i-finanse/skrot-wiadomosci-czwartek-30-kwietnia-2100",
+      "url": "https://biznes.pap.pl/wiadomosci/ekonomia-biznes-i-finanse/skrot-wiadomosci-czwartek-30-kwietnia-2100",
+      "title": "Skrót wiadomości - czwartek, 30 kwietnia, 21.00",
+      "content_html": "Przegląd najważniejszych wiadomości gospodarczych, krajowych i ze świata.",
+      "date_published": "2026-04-30T21:00:00+02:00",
+      "source": "PAP Biznes"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/PTWP-chce-wyplacic-5-89-zl-dywidendy-na-akcje-za-25-9126349.html",
+      "url": "https://www.bankier.pl/wiadomosc/PTWP-chce-wyplacic-5-89-zl-dywidendy-na-akcje-za-25-9126349.html",
+      "title": "PTWP chce wypłacić 5,89 zł dywidendy na akcję za '25 Zarząd Polskiego Towarzystwa Wspierania Przedsiębiorczości chce wypłacić na dywidendę łącznie 9, 46 mln zł, co daje 5,89 zł brutto na akcję - podała spółka w komunikacie.",
+      "content_html": "",
+      "date_published": "2026-04-30T20:38:00+02:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/firmy/ptwp-chce-wyplacic-589-zl-dywidendy-na-akcje-za-25",
+      "url": "https://biznes.pap.pl/wiadomosci/firmy/ptwp-chce-wyplacic-589-zl-dywidendy-na-akcje-za-25",
+      "title": "PTWP chce wypłacić 5,89 zł dywidendy na akcję za '25",
+      "content_html": "Zarząd Polskiego Towarzystwa Wspierania Przedsiębiorczości chce wypłacić na dywidendę łącznie 9, 46 mln zł, co daje 5,89 zł brutto na akcję - podała spółka w komunikacie.",
+      "date_published": "2026-04-30T20:37:00+02:00",
+      "source": "PAP Biznes"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Ile-naprawde-dostalismy-z-Unii-Resort-funduszy-ujawnia-rachunki-9126141.html",
       "url": "https://www.bankier.pl/wiadomosc/Ile-naprawde-dostalismy-z-Unii-Resort-funduszy-ujawnia-rachunki-9126141.html",
       "title": "Ile naprawdę dostaliśmy z Unii? Resort funduszy ujawnia rachunki",
       "content_html": "Od wejścia do Unii Europejskiej Polska otrzymała ponad 273 mld euro, a po uwzględnieniu wpłat do budżetu UE, do końca lutego tego roku Polska zyskała ponad 171 mld euro - podał resort funduszy i polityki regionalnej w związku z 22. rocznicą...",
       "date_published": "2026-04-30T20:00:00+02:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Resort-cyfryzacji-chce-elektronicznego-dowodu-rejestracyjnego-A-to-nie-koniec-9126294.html",
+      "url": "https://www.bankier.pl/wiadomosc/Resort-cyfryzacji-chce-elektronicznego-dowodu-rejestracyjnego-A-to-nie-koniec-9126294.html",
+      "title": "Resort cyfryzacji chce elektronicznego dowodu rejestracyjnego. A to nie koniec",
+      "content_html": "Wprowadzenie cyfrowych dowodów rejestracyjnych, umożliwienie zgłoszenia online utraty tablic rejestracyjnych czy złożenia wniosku o wydanie prawa jazdy w mObywatelu - zakłada opublikowany w czwartek projekt nowelizacji Prawa o ruchu drogowym autorstwa...",
+      "date_published": "2026-04-30T19:59:00+02:00",
       "source": "Bankier.pl"
     },
     {
@@ -317,14 +349,6 @@
       "source": "Bankier.pl"
     },
     {
-      "id": "https://www.bankier.pl/wiadomosc/Eurocash-nie-przewiduje-dodatkowych-kosztow-transformacji-zaklada-stopniowa-poprawe-wynikow-wywiad-9126121.html",
-      "url": "https://www.bankier.pl/wiadomosc/Eurocash-nie-przewiduje-dodatkowych-kosztow-transformacji-zaklada-stopniowa-poprawe-wynikow-wywiad-9126121.html",
-      "title": "Eurocash nie przewiduje dodatkowych kosztów transformacji. Zakłada stopniową poprawę wyników",
-      "content_html": "Grupa Eurocash, która w wynikach za 2025 rok ujęła blisko 300 mln zł rezerw restrukturyzacyjnych, nie przewiduje dodatkowych kosztów transformacji – poinformowali PAP Biznes przedstawiciele grupy. Program optymalizacji kosztowej przebiega zgodnie...",
-      "date_published": "2026-04-30T17:02:00+02:00",
-      "source": "Bankier.pl"
-    },
-    {
       "id": "https://biznes.pap.pl/wiadomosci/gospodarka/dzien-na-fxfi-pln-lekko-mocniejszy-do-eur-rentownosci-spw-na-lokalnych",
       "url": "https://biznes.pap.pl/wiadomosci/gospodarka/dzien-na-fxfi-pln-lekko-mocniejszy-do-eur-rentownosci-spw-na-lokalnych",
       "title": "DZIEŃ NA FX/FI: PLN lekko mocniejszy do EUR; rentowności SPW na lokalnych maksimach",
@@ -357,14 +381,6 @@
       "source": "PAP Biznes"
     },
     {
-      "id": "https://biznes.pap.pl/wiadomosci/gospodarka/odwolano-zarzad-i-rn-polskiej-agencji-inwestycji-i-handlu",
-      "url": "https://biznes.pap.pl/wiadomosci/gospodarka/odwolano-zarzad-i-rn-polskiej-agencji-inwestycji-i-handlu",
-      "title": "Odwołano zarząd i RN Polskiej Agencji Inwestycji i Handlu",
-      "content_html": "29 kwietnia odwołana została rada nadzorcza, a z dniem 30 kwietnia odwołany został zarząd Agencji Inwestycji i Handlu - poinformował podmiot w komunikacie prasowym. Dodano, że 29 kwietnia powołana zos",
-      "date_published": "2026-04-30T16:55:00+02:00",
-      "source": "PAP Biznes"
-    },
-    {
       "id": "https://www.bankier.pl/wiadomosc/Hotel-Golebiewski-w-Pobierowie-w-koncu-przyjmie-gosci-Na-start-udostepni-500-pokoi-9126062.html",
       "url": "https://www.bankier.pl/wiadomosc/Hotel-Golebiewski-w-Pobierowie-w-koncu-przyjmie-gosci-Na-start-udostepni-500-pokoi-9126062.html",
       "title": "Hotel Gołębiewski w Pobierowie w końcu przyjmie gości. Na start udostępni 500 pokoi",
@@ -379,14 +395,6 @@
       "content_html": "Utrzymywanie przez lata tej samej osoby na stanowisku prezesa NFZ może być czynnikiem utrudniającym zasadniczą reformę systemu ochrony zdrowia – uważa były minister zdrowia dr Marek Balicki. Według niego za kryzys w ochronie zdrowia w znacznym...",
       "date_published": "2026-04-30T16:49:00+02:00",
       "source": "Bankier.pl"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/firmy/tauron-zdecydowal-o-rozpoczeciu-realizacji-budowy-kogeneracyjnego-zrodla-ciepla-w",
-      "url": "https://biznes.pap.pl/wiadomosci/firmy/tauron-zdecydowal-o-rozpoczeciu-realizacji-budowy-kogeneracyjnego-zrodla-ciepla-w",
-      "title": "Tauron zdecydował o rozpoczęciu realizacji budowy kogeneracyjnego źródła ciepła w Łagiszy",
-      "content_html": "Zarząd Tauronu zatwierdził decyzję Komitetu Inwestycyjnego o rozpoczęciu realizacji projektu budowy kogeneracyjnego źródła ciepła w lokalizacji Łagisza w Będzinie - poinformował Tauron w komunikacie. ",
-      "date_published": "2026-04-30T16:49:00+02:00",
-      "source": "PAP Biznes"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Dolnoslaskie-Zaprezentowano-koncepcje-rewitalizacji-siechnickiej-elektrocieplowni-9126102.html",
@@ -437,6 +445,14 @@
       "source": "Bankier.pl"
     },
     {
+      "id": "https://www.bankier.pl/wiadomosc/Eurocash-nie-przewiduje-dodatkowych-kosztow-transformacji-zaklada-stopniowa-poprawe-wynikow-wywiad-9126121.html",
+      "url": "https://www.bankier.pl/wiadomosc/Eurocash-nie-przewiduje-dodatkowych-kosztow-transformacji-zaklada-stopniowa-poprawe-wynikow-wywiad-9126121.html",
+      "title": "Eurocash nie przewiduje dodatkowych kosztów transformacji. Zakłada stopniową poprawę wyników Grupa Eurocash, która w wynikach za 2025 rok ujęła blisko 300 mln zł rezerw restrukturyzacyjnych, nie przewiduje dodatkowych kosztów transformacji – poinformowali PAP Biznes przedstawiciele grupy. Program optymalizacji kosztowej przebiega zgodnie z planem, z kwartału na kwartał spółka oczekuje stopniowej poprawy wyników.",
+      "content_html": "",
+      "date_published": "2026-04-30T16:02:00+02:00",
+      "source": "Bankier.pl"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Trump-rozmawial-z-Putinem-Kallas-Wiele-pytan-bez-odpowiedzi-9126053.html",
       "url": "https://www.bankier.pl/wiadomosc/Trump-rozmawial-z-Putinem-Kallas-Wiele-pytan-bez-odpowiedzi-9126053.html",
       "title": "Trump rozmawiał z Putinem. Kallas: Wiele pytań bez odpowiedzi",
@@ -453,12 +469,28 @@
       "source": "Bankier.pl"
     },
     {
+      "id": "https://biznes.pap.pl/wiadomosci/gospodarka/po-majowce-mozliwe-dalsze-podwyzki-cen-paliw-o-10-15-grl-bm-reflex",
+      "url": "https://biznes.pap.pl/wiadomosci/gospodarka/po-majowce-mozliwe-dalsze-podwyzki-cen-paliw-o-10-15-grl-bm-reflex",
+      "title": "Po majówce możliwe dalsze podwyżki cen paliw o 10-15 gr./l - BM Reflex",
+      "content_html": "Po majówce możliwe są dalsze wzrosty cen paliw o ok. 10 gr./l dla benzyny Pb95, o ok. 15 gr./l dla ON - oceniają analitycy BM Reflex.",
+      "date_published": "2026-04-30T15:36:00+02:00",
+      "source": "PAP Biznes"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Kaczynski-Mejza-sam-zrezygnowal-z-czlonkostwa-w-klubie-PiS-9126016.html",
       "url": "https://www.bankier.pl/wiadomosc/Kaczynski-Mejza-sam-zrezygnowal-z-czlonkostwa-w-klubie-PiS-9126016.html",
       "title": "Kaczyński: Mejza sam zrezygnował z członkostwa w klubie PiS",
       "content_html": "Prezes PiS Jarosław Kaczyński poinformował w czwartek, że poseł Łukasz Mejza przestał być członkiem klubu parlamentarnego PiS, ponieważ sam zrezygnował z członkostwa. To zamyka sprawę - podkreślił.",
       "date_published": "2026-04-30T15:27:00+02:00",
       "source": "Bankier.pl"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/gospodarka/kas-objela-dzialaniami-audytowymi-w-zakresie-srodkow-publicznych-166",
+      "url": "https://biznes.pap.pl/wiadomosci/gospodarka/kas-objela-dzialaniami-audytowymi-w-zakresie-srodkow-publicznych-166",
+      "title": "KAS objęła działaniami audytowymi w zakresie środków publicznych 166 podmiotów",
+      "content_html": "Krajowa Administracja Skarbowa (KAS) objęła działaniami audytowymi w zakresie środków publicznych 166 podmiotów - poinformował w komunikacie resort finansów. Jak wskazał MF, łączna kwota nieprawidłowo",
+      "date_published": "2026-04-30T15:22:00+02:00",
+      "source": "PAP Biznes"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Orzel-Bialy-chce-wyplacic-1-35-zl-dywidendy-na-akcje-za-2025-r-9126009.html",
@@ -1061,30 +1093,6 @@
       "source": "PAP Biznes"
     },
     {
-      "id": "https://www.bankier.pl/wiadomosc/Inflacja-w-gore-ale-zloty-nie-stracil-Kurs-euro-przekroczyl-4-25-zl-9125769.html",
-      "url": "https://www.bankier.pl/wiadomosc/Inflacja-w-gore-ale-zloty-nie-stracil-Kurs-euro-przekroczyl-4-25-zl-9125769.html",
-      "title": "Inflacja w górę, ale złoty nie stracił. Kurs euro przekroczył 4,25 zł",
-      "content_html": "Dalsze wzrosty cen ropy naftowej pogorszyła sytuację polskiego złotego, w efekcie czego kurs euro przekroczył barierę 4,25 zł.",
-      "date_published": "2026-04-30T11:22:00+02:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Rekordowy-Diss-na-raka-Pieniadze-ze-zbiorki-Latwoganga-juz-ratuja-zycie-9125691.html",
-      "url": "https://www.bankier.pl/wiadomosc/Rekordowy-Diss-na-raka-Pieniadze-ze-zbiorki-Latwoganga-juz-ratuja-zycie-9125691.html",
-      "title": "Fundacja już dzieli pieniądze ze zbiórki Łatwoganga. Pierwsze miliony trafiają do chorych",
-      "content_html": "Zbiórka Łatwoganga na Siepomaga.pl została zamknięta z robiącą wrażenie kwotą prawie 228 mln zł. Z kolei na kilkudniowym streamie influencer zebrał ponad 280 mln zł. Ta zbiórka wymyka się wszelkim dotychczasowym rekordom, a \"Diss na raka\"...",
-      "date_published": "2026-04-30T11:20:00+02:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Robyg-w-I-kw-zakontraktowal-ok-620-lokali-o-24-proc-wiecej-rdr-9125762.html",
-      "url": "https://www.bankier.pl/wiadomosc/Robyg-w-I-kw-zakontraktowal-ok-620-lokali-o-24-proc-wiecej-rdr-9125762.html",
-      "title": "Robyg w I kw. zakontraktował ok. 620 lokali, o 24 proc. więcej rdr",
-      "content_html": "Robyg w pierwszym kwartale 2026 roku zakontraktował 620 lokali, co oznacza wzrost o 24 proc. rdr - podała spółka w komunikacie prasowym.",
-      "date_published": "2026-04-30T11:18:00+02:00",
-      "source": "Bankier.pl"
-    },
-    {
       "id": "https://biznes.pap.pl/wiadomosci/firmy/mozliwa-kontynuacja-umiarkowanych-wzrostow-cen-gruntow-pod-zabudowe-mieszkaniowa",
       "url": "https://biznes.pap.pl/wiadomosci/firmy/mozliwa-kontynuacja-umiarkowanych-wzrostow-cen-gruntow-pod-zabudowe-mieszkaniowa",
       "title": "Możliwa kontynuacja umiarkowanych wzrostów cen gruntów pod zabudowę mieszkaniową - PKO BP (opinia)",
@@ -1107,30 +1115,6 @@
       "content_html": "Stopa bezrobocia, po dostosowaniu sezonowym, według metodologii Eurostatu, wyniosła w marcu w Polsce 3,3 proc. wobec 3,2 proc. w lutym - podał Eurostat.",
       "date_published": "2026-04-30T11:03:00+02:00",
       "source": "PAP Biznes"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Powazne-utrudnienia-w-przelewach-Masz-czas-tylko-do-16-00-w-czwartek-9123426.html",
-      "url": "https://www.bankier.pl/wiadomosc/Powazne-utrudnienia-w-przelewach-Masz-czas-tylko-do-16-00-w-czwartek-9123426.html",
-      "title": "Poważne utrudnienia w przelewach. Masz czas tylko do 16:00 w czwartek",
-      "content_html": "Zlecone po godzinie 16.00 w czwartek, 30 kwietnia przelewy międzybankowe zostaną rozliczone dopiero w poniedziałek, 4 maja - poinformowała Krajowa Izba Rozliczeniowa (KIR). Zastrzegła, że system płatności natychmiastowych będzie działał bez...",
-      "date_published": "2026-04-30T11:00:00+02:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/mBank-chce-w-26-w-kredytach-rosnac-szybciej-niz-rynek-9125746.html",
-      "url": "https://www.bankier.pl/wiadomosc/mBank-chce-w-26-w-kredytach-rosnac-szybciej-niz-rynek-9125746.html",
-      "title": "mBank chce w '26 w kredytach rosnąć szybciej niż rynek",
-      "content_html": "Niskie koszty ryzyka mBanku w segmencie korporacyjnym w I kwartale miały charakter jednorazowy, bank podtrzymuje, że koszty ryzyka prawnego związanego z kredytami walutowymi nie będą już tak mocno obciążały wyników i chce, by jego kredyty rosły...",
-      "date_published": "2026-04-30T10:58:00+02:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Naprawa-gigantycznego-kabla-zakonczona-Prad-ze-Szwecji-znow-plynie-do-Polski-9125743.html",
-      "url": "https://www.bankier.pl/wiadomosc/Naprawa-gigantycznego-kabla-zakonczona-Prad-ze-Szwecji-znow-plynie-do-Polski-9125743.html",
-      "title": "Naprawa gigantycznego kabla zakończona. Prąd ze Szwecji znów płynie do Polski",
-      "content_html": "Naprawa kabla Polska-Szwecja zakończyła się, połączeniem znów płynie energia elektryczna - poinformowały Polskie Sieci Elektroenergetyczne.",
-      "date_published": "2026-04-30T10:56:00+02:00",
-      "source": "Bankier.pl"
     },
     {
       "id": "https://biznes.pap.pl/wiadomosci/firmy/erste-bank-polska-spodziewa-sie-ze-koszty-integracji-w-26-nie-przekrocza-250-mln",
@@ -1197,6 +1181,14 @@
       "source": "PAP Biznes"
     },
     {
+      "id": "https://www.bankier.pl/wiadomosc/Robyg-w-I-kw-zakontraktowal-ok-620-lokali-o-24-proc-wiecej-rdr-9125762.html",
+      "url": "https://www.bankier.pl/wiadomosc/Robyg-w-I-kw-zakontraktowal-ok-620-lokali-o-24-proc-wiecej-rdr-9125762.html",
+      "title": "Robyg w I kw. zakontraktował ok. 620 lokali, o 24 proc. więcej rdr Robyg w pierwszym kwartale 2026 roku zakontraktował 620 lokali, co oznacza wzrost o 24 proc. rdr - podała spółka w komunikacie prasowym.",
+      "content_html": "",
+      "date_published": "2026-04-30T10:18:00+02:00",
+      "source": "Bankier.pl"
+    },
+    {
       "id": "https://biznes.pap.pl/wiadomosci/firmy/robyg-w-i-kw-zakontraktowal-ok-620-lokali-o-24-proc-wiecej-rdr",
       "url": "https://biznes.pap.pl/wiadomosci/firmy/robyg-w-i-kw-zakontraktowal-ok-620-lokali-o-24-proc-wiecej-rdr",
       "title": "Robyg w I kw. zakontraktował ok. 620 lokali, o 24 proc. więcej rdr",
@@ -1259,6 +1251,22 @@
       "content_html": "Inflacja CPI w kwietniu wyniosła 3,2 proc. rdr, powyżej konsensusu rynkowego. Wyższy od oczekiwań odczyt CPI i wzrost inflacji bazowej może przełożyć się na zaostrzenie retoryki Rady Polityki Pieniężn",
       "date_published": "2026-04-30T10:06:00+02:00",
       "source": "PAP Biznes"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/mBank-chce-w-26-w-kredytach-rosnac-szybciej-niz-rynek-9125746.html",
+      "url": "https://www.bankier.pl/wiadomosc/mBank-chce-w-26-w-kredytach-rosnac-szybciej-niz-rynek-9125746.html",
+      "title": "mBank chce w '26 w kredytach rosnąć szybciej niż rynek Niskie koszty ryzyka mBanku w segmencie korporacyjnym w I kwartale miały charakter jednorazowy, bank podtrzymuje, że koszty ryzyka prawnego związanego z kredytami walutowymi nie będą już tak mocno obciążały wyników i chce, by jego kredyty rosły w tempie szybszym niż na rynku - poinformowali przedstawiciele banku.",
+      "content_html": "",
+      "date_published": "2026-04-30T09:58:00+02:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Naprawa-gigantycznego-kabla-zakonczona-Prad-ze-Szwecji-znow-plynie-do-Polski-9125743.html",
+      "url": "https://www.bankier.pl/wiadomosc/Naprawa-gigantycznego-kabla-zakonczona-Prad-ze-Szwecji-znow-plynie-do-Polski-9125743.html",
+      "title": "Naprawa gigantycznego kabla zakończona. Prąd ze Szwecji znów płynie do Polski Naprawa kabla Polska-Szwecja zakończyła się, połączeniem znów płynie energia elektryczna - poinformowały Polskie Sieci Elektroenergetyczne.",
+      "content_html": "",
+      "date_published": "2026-04-30T09:56:00+02:00",
+      "source": "Bankier.pl"
     },
     {
       "id": "https://biznes.pap.pl/wiadomosci/firmy/mbank-chce-w-26-w-kredytach-rosnac-szybciej-niz-rynek",
@@ -1971,94 +1979,6 @@
       "content_html": "Port Gdańsk w I kwartale 2026 roku osiągnął poziom 20,9 mln ton łącznego wolumenu obsłużonych ładunków, co oznacza wzrost o 13,6 proc. rok do roku - poinformowała spółka w komunikacie prasowym. Spółka",
       "date_published": "2026-04-29T21:36:00+02:00",
       "source": "PAP Biznes"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Medinice-zakonczylo-badanie-kliniczne-wyrobu-medycznego-CoolCryo-9125426.html",
-      "url": "https://www.bankier.pl/wiadomosc/Medinice-zakonczylo-badanie-kliniczne-wyrobu-medycznego-CoolCryo-9125426.html",
-      "title": "Medinice zakończyło badanie kliniczne wyrobu medycznego CoolCryo Medinice zakończyło badanie kliniczne wyrobu medycznego CoolCryo, co oznacza potwierdzenie kompletności danych oraz pozwala na formalne przejście do etapu analizy wyników i dalszych prac regulacyjnych - podało Medinice w komunikacie.",
-      "content_html": "",
-      "date_published": "2026-04-29T21:06:00+02:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/firmy/medinice-zakonczylo-badanie-kliniczne-wyrobu-medycznego-coolcryo",
-      "url": "https://biznes.pap.pl/wiadomosci/firmy/medinice-zakonczylo-badanie-kliniczne-wyrobu-medycznego-coolcryo",
-      "title": "Medinice zakończyło badanie kliniczne wyrobu medycznego CoolCryo",
-      "content_html": "Medinice zakończyło badanie kliniczne wyrobu medycznego CoolCryo, co oznacza potwierdzenie kompletności danych oraz pozwala na formalne przejście do etapu analizy wyników i dalszych prac regulacyjnych",
-      "date_published": "2026-04-29T21:04:00+02:00",
-      "source": "PAP Biznes"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Budimex-otrzymal-informacje-o-uniewaznieniu-czynnosci-wyboru-oferty-dot-budowy-obwodnicy-9125424.html",
-      "url": "https://www.bankier.pl/wiadomosc/Budimex-otrzymal-informacje-o-uniewaznieniu-czynnosci-wyboru-oferty-dot-budowy-obwodnicy-9125424.html",
-      "title": "Budimex otrzymał informacje o unieważnieniu czynności wyboru oferty dot. budowy obwodnicy Budimex otrzymał informacje o unieważnieniu czynności wyboru oferty dotyczącej budowy obwodnicy miejscowości Szczekociny i Goleniowy w ciągu drogi krajowej nr 78 - podała spółka w komunikacie.",
-      "content_html": "",
-      "date_published": "2026-04-29T21:02:00+02:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/firmy/budimex-otrzymal-informacje-o-uniewaznieniu-czynnosci-wyboru-oferty-dot-budowy",
-      "url": "https://biznes.pap.pl/wiadomosci/firmy/budimex-otrzymal-informacje-o-uniewaznieniu-czynnosci-wyboru-oferty-dot-budowy",
-      "title": "Budimex otrzymał informacje o unieważnieniu czynności wyboru oferty dot. budowy obwodnicy",
-      "content_html": "Budimex otrzymał informacje o unieważnieniu czynności wyboru oferty dotyczącej budowy obwodnicy miejscowości Szczekociny i Goleniowy w ciągu drogi krajowej nr 78 - podała spółka w komunikacie.",
-      "date_published": "2026-04-29T21:00:00+02:00",
-      "source": "PAP Biznes"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Decyzja-FOMC-w-kwietniu-2026-Az-cztery-glosy-sprzeciwu-wobec-decyzji-9124999.html",
-      "url": "https://www.bankier.pl/wiadomosc/Decyzja-FOMC-w-kwietniu-2026-Az-cztery-glosy-sprzeciwu-wobec-decyzji-9124999.html",
-      "title": "Ostatnia decyzja FOMC pod wodzą Powella. Aż cztery głosy sprzeciwu Zgodnie z powszechnymi oczekiwaniami ekonomistów i inwestorów przedział stopy funduszy federalnych został utrzymany na niezmienionym poziomie. Sensacją były aż cztery głosy przeciwko ustępującemu prezesowi.",
-      "content_html": "",
-      "date_published": "2026-04-29T20:59:00+02:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Sfinks-mial-w-2025-r-9-64-mln-zl-EBITDA-chce-rozszerzyc-biznes-hotelowy-9125417.html",
-      "url": "https://www.bankier.pl/wiadomosc/Sfinks-mial-w-2025-r-9-64-mln-zl-EBITDA-chce-rozszerzyc-biznes-hotelowy-9125417.html",
-      "title": "Sfinks miał w 2025 r. 9,64 mln zł EBITDA; chce rozszerzyć biznes hotelowy Sfinks miał w 2025 r. 9,64 mln zł EBITDA w porównaniu do 14,64 mln zł rok wcześniej - podała spółka w komunikacie prasowym. Wskazano, że spółka chce rozszerzyć biznes hotelowy.",
-      "content_html": "",
-      "date_published": "2026-04-29T20:50:00+02:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/firmy/sfinks-mial-w-2025-r-964-mln-zl-ebitda-chce-rozszerzyc-biznes-hotelowy",
-      "url": "https://biznes.pap.pl/wiadomosci/firmy/sfinks-mial-w-2025-r-964-mln-zl-ebitda-chce-rozszerzyc-biznes-hotelowy",
-      "title": "Sfinks miał w 2025 r. 9,64 mln zł EBITDA; chce rozszerzyć biznes hotelowy",
-      "content_html": "Sfinks miał w 2025 r. 9,64 mln zł EBITDA w porównaniu do 14,64 mln zł rok wcześniej - podała spółka w komunikacie prasowym. Wskazano, że spółka chce rozszerzyć biznes hotelowy.",
-      "date_published": "2026-04-29T20:47:00+02:00",
-      "source": "PAP Biznes"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/EBITDA-Eurocashu-wyniosla-w-2025-r-541-9-mln-zl-tj-spadla-o-40-1-proc-rdr-9125379.html",
-      "url": "https://www.bankier.pl/wiadomosc/EBITDA-Eurocashu-wyniosla-w-2025-r-541-9-mln-zl-tj-spadla-o-40-1-proc-rdr-9125379.html",
-      "title": "EBITDA Eurocashu wyniosła w 2025 r. 541,9 mln zł, tj. spadła o 40,1 proc. rdr EBITDA Eurocashu wyniosła w 2025 r. 541,9 mln zł, tj. spadła o 40,1 proc. rdr, a strata netto grupy, z uwzględnieniem działalności zaniechanej (Inmedio) osiągnęła poziom 311,7 mln zł - poinformowała spółka w raporcie rocznym.",
-      "content_html": "",
-      "date_published": "2026-04-29T20:29:00+02:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/DM-BOS-podniosl-wycene-akcji-Cloud-Technologies-do-73-2-zl-9125390.html",
-      "url": "https://www.bankier.pl/wiadomosc/DM-BOS-podniosl-wycene-akcji-Cloud-Technologies-do-73-2-zl-9125390.html",
-      "title": "DM BOŚ podniósł wycenę akcji Cloud Technologies do 73,2 zł Analitycy DM BOŚ, w raporcie z 29 kwietnia, podwyższyli wycenę akcji Cloud Technologies w horyzoncie 12-miesięcznym do 73,2 zł z 60 zł wcześniej oraz potrzymali rekomendację \"trzymaj\".",
-      "content_html": "",
-      "date_published": "2026-04-29T20:18:00+02:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Asseco-BS-planuje-wyplacic-3-75-zl-dywidendy-na-akcje-9125386.html",
-      "url": "https://www.bankier.pl/wiadomosc/Asseco-BS-planuje-wyplacic-3-75-zl-dywidendy-na-akcje-9125386.html",
-      "title": "Asseco BS planuje wypłacić 3,75 zł dywidendy na akcję Asseco Business Solutions chce wypłacić dywidendę w wysokości 3,75 zł na akcję - wynika z uchwał ZWZ zwołanego na 27 maja. Łącznie na ten cel ma trafić 125,3 mln zł.",
-      "content_html": "",
-      "date_published": "2026-04-29T20:06:00+02:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Selena-FM-chce-wyplacic-2-5-zl-dywidendy-na-akcje-za-25-9125383.html",
-      "url": "https://www.bankier.pl/wiadomosc/Selena-FM-chce-wyplacic-2-5-zl-dywidendy-na-akcje-za-25-9125383.html",
-      "title": "Selena FM chce wypłacić 2,5 zł dywidendy na akcję za '25 Zarząd Selena FM rekomenduje walnemu zgromadzeniu przeznaczenie 54,1 mln zł z zysku za 2025 r. na dywidendę, co daje 2,5 zł na akcję - podała spółka w komunikacie.",
-      "content_html": "",
-      "date_published": "2026-04-29T19:58:00+02:00",
-      "source": "Bankier.pl"
     }
   ]
 }
