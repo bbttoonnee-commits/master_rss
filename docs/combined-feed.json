@@ -5,12 +5,28 @@
   "home_page_url": "https://www.bankier.pl",
   "items": [
     {
+      "id": "https://biznes.pap.pl/wiadomosci/gry-i-technologie/apple-z-wyzszymi-kwartalnymi-zyskami-i-przychodami-rozczarowala",
+      "url": "https://biznes.pap.pl/wiadomosci/gry-i-technologie/apple-z-wyzszymi-kwartalnymi-zyskami-i-przychodami-rozczarowala",
+      "title": "Apple z wyższymi kwartalnymi zyskami i przychodami, rozczarowała sprzedaż iPhone'ów",
+      "content_html": "Apple ogłosił zyski i przychody za drugi kwartał roku obrotowego, które przewyższyły szacunki analityków, dzięki wzrostom w sektorze usług. Sprzedaż iPhone’ów po raz drugi w ciągu trzech kwartałów oka",
+      "date_published": "2026-04-30T22:52:00+02:00",
+      "source": "PAP Biznes"
+    },
+    {
       "id": "https://biznes.pap.pl/wiadomosci/rynki/dzien-na-rynkach-wall-street-mocno-w-gore-sp-500-mial-najlepszy-miesiac-od-5-lat",
       "url": "https://biznes.pap.pl/wiadomosci/rynki/dzien-na-rynkach-wall-street-mocno-w-gore-sp-500-mial-najlepszy-miesiac-od-5-lat",
       "title": "DZIEŃ NA RYNKACH: Wall Street mocno w górę, S&P 500 miał najlepszy miesiąc od 5 lat",
       "content_html": "Czwartkowa sesja na Wall Street zakończyła się mocnymi wzrostami głównych indeksów, a Dow Jones zyskał prawie 800 punktów. Dla S&P 500 kwiecień był najlepszym miesiącem od ponad pięciu lat.",
       "date_published": "2026-04-30T22:07:00+02:00",
       "source": "PAP Biznes"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/PTWP-chce-wyplacic-5-89-zl-dywidendy-na-akcje-za-25-9126349.html",
+      "url": "https://www.bankier.pl/wiadomosc/PTWP-chce-wyplacic-5-89-zl-dywidendy-na-akcje-za-25-9126349.html",
+      "title": "PTWP chce wypłacić 5,89 zł dywidendy na akcję za '25",
+      "content_html": "Zarząd Polskiego Towarzystwa Wspierania Przedsiębiorczości chce wypłacić na dywidendę łącznie 9, 46 mln zł, co daje 5,89 zł brutto na akcję - podała spółka w komunikacie.",
+      "date_published": "2026-04-30T21:38:00+02:00",
+      "source": "Bankier.pl"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Wiceprezes-Grupy-Azoty-Miroslaw-Ptasinski-zrezygnowal-ze-stanowiska-9126209.html",
@@ -74,14 +90,6 @@
       "title": "Najważniejsze ćwiczenia od czasów zimnej wojny. Macron zabrał głos",
       "content_html": "Prezydent Emmanuel Macron oświadczył w czwartek, że ćwiczenia wojskowe Orion są „wyraźnym sygnałem” zarówno dla sojuszników Francji, jak i dla jej przeciwników. Macron odwiedził w czwartek Mailly-le-Camp, gdzie przebiegały ćwiczenia...",
       "date_published": "2026-04-30T20:40:00+02:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/PTWP-chce-wyplacic-5-89-zl-dywidendy-na-akcje-za-25-9126349.html",
-      "url": "https://www.bankier.pl/wiadomosc/PTWP-chce-wyplacic-5-89-zl-dywidendy-na-akcje-za-25-9126349.html",
-      "title": "PTWP chce wypłacić 5,89 zł dywidendy na akcję za '25 Zarząd Polskiego Towarzystwa Wspierania Przedsiębiorczości chce wypłacić na dywidendę łącznie 9, 46 mln zł, co daje 5,89 zł brutto na akcję - podała spółka w komunikacie.",
-      "content_html": "",
-      "date_published": "2026-04-30T20:38:00+02:00",
       "source": "Bankier.pl"
     },
     {
@@ -429,14 +437,6 @@
       "source": "Bankier.pl"
     },
     {
-      "id": "https://biznes.pap.pl/wiadomosci/ekonomia-biznes-i-finanse/skrot-wiadomosci-czwartek-30-kwietnia-1700",
-      "url": "https://biznes.pap.pl/wiadomosci/ekonomia-biznes-i-finanse/skrot-wiadomosci-czwartek-30-kwietnia-1700",
-      "title": "Skrót wiadomości - czwartek, 30 kwietnia, 17.00",
-      "content_html": "Przegląd najważniejszych wiadomości gospodarczych, krajowych i ze świata.",
-      "date_published": "2026-04-30T17:00:00+02:00",
-      "source": "PAP Biznes"
-    },
-    {
       "id": "https://www.bankier.pl/wiadomosc/Hotel-Golebiewski-w-Pobierowie-w-koncu-przyjmie-gosci-Na-start-udostepni-500-pokoi-9126062.html",
       "url": "https://www.bankier.pl/wiadomosc/Hotel-Golebiewski-w-Pobierowie-w-koncu-przyjmie-gosci-Na-start-udostepni-500-pokoi-9126062.html",
       "title": "Hotel Gołębiewski w Pobierowie w końcu przyjmie gości. Na start udostępni 500 pokoi",
@@ -507,6 +507,14 @@
       "content_html": "Szefowa unijnej dyplomacji Kaja Kallas skomentowała w czwartek informacje Białego Domu i Kremla o tym, że przywódcy USA i Rosji, Donald Trump i Władimir Putin, przeprowadzili w środę półtoragodzinną rozmowę telefoniczną, m.in. na temat Ukrainy...",
       "date_published": "2026-04-30T15:59:00+02:00",
       "source": "Bankier.pl"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/rynki/po-otwarciu-sesji-dji-rosnie-o-073-proc-sp-500-w-gore-o-017-proc",
+      "url": "https://biznes.pap.pl/wiadomosci/rynki/po-otwarciu-sesji-dji-rosnie-o-073-proc-sp-500-w-gore-o-017-proc",
+      "title": "Po otwarciu sesji DJI rośnie o 0,73 proc., a S&P 500 w górę o 0,17 proc.",
+      "content_html": "Po otwarciu sesji w USA Dow Jones Industrial rośnie o 0,73 proc. do 49.220 pkt., S&P500 zyskuje 0,17 proc. i wynosi 7.147 pkt.",
+      "date_published": "2026-04-30T15:46:00+02:00",
+      "source": "PAP Biznes"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Tym-beda-zyly-rynki-amerykanski-rynek-pracy-kontra-wyniki-gieldowych-korporacji-9126032.html",
@@ -1899,54 +1907,6 @@
       "content_html": "Poniżej przedstawiamy wyniki Banku Pekao w pierwszym kwartale 2026 roku i ich odniesienie do konsensusu PAP i poprzednich wyników.",
       "date_published": "2026-04-30T00:18:00+02:00",
       "source": "PAP Biznes"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Onde-ma-umowe-na-prace-budowlane-za-110-mln-zl-z-inwestorem-z-branzy-OZE-9125472.html",
-      "url": "https://www.bankier.pl/wiadomosc/Onde-ma-umowe-na-prace-budowlane-za-110-mln-zl-z-inwestorem-z-branzy-OZE-9125472.html",
-      "title": "Onde ma umowę na prace budowlane za 110 mln zł z inwestorem z branży OZE Onde zawarł z polską spółką celową należącą do grupy kapitałowej inwestora z branży OZE umowę na wykonanie prac budowlanych o wartości 110 mln zł - poinformowała giełdowa spółka w komunikacie.",
-      "content_html": "",
-      "date_published": "2026-04-29T23:12:00+02:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/firmy/onde-ma-umowe-na-prace-budowlane-za-110-mln-zl-z-inwestorem-z-branzy-oze",
-      "url": "https://biznes.pap.pl/wiadomosci/firmy/onde-ma-umowe-na-prace-budowlane-za-110-mln-zl-z-inwestorem-z-branzy-oze",
-      "title": "Onde ma umowę na prace budowlane za 110 mln zł z inwestorem z branży OZE",
-      "content_html": "Onde zawarł z polską spółką celową należącą do grupy kapitałowej inwestora z branży OZE umowę na wykonanie prac budowlanych o wartości 110 mln zł - poinformowała giełdowa spółka w komunikacie.",
-      "date_published": "2026-04-29T23:11:00+02:00",
-      "source": "PAP Biznes"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Na-Wall-Street-drugi-dzien-z-przewaga-spadkow-w-centrum-uwagi-Fed-9125464.html",
-      "url": "https://www.bankier.pl/wiadomosc/Na-Wall-Street-drugi-dzien-z-przewaga-spadkow-w-centrum-uwagi-Fed-9125464.html",
-      "title": "Na Wall Street drugi dzień z przewagą spadków, w centrum uwagi Fed Środowa sesja na Wall Street zakończyła się przewagą spadków wśród głównych indeksów, podobnie jak dzień wcześniej. Inwestorzy analizowali komentarze prezesa Fed po posiedzeniu Rezerwy Federalnej w oczekiwaniu na publikację wyników za pierwszy kwartał przez największe firmy technologiczne.",
-      "content_html": "",
-      "date_published": "2026-04-29T23:01:00+02:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Alphabet-pokazal-lepsze-od-oczekiwan-wyniki-kwartalne-akcje-w-gore-9125461.html",
-      "url": "https://www.bankier.pl/wiadomosc/Alphabet-pokazal-lepsze-od-oczekiwan-wyniki-kwartalne-akcje-w-gore-9125461.html",
-      "title": "Alphabet pokazał lepsze od oczekiwań wyniki kwartalne, akcje w górę Alphabet, właściciel Google, opublikował wyniki za pierwszy kwartał po zamknięciu sesji w środę, wykazując przychody przewyższające oczekiwania, wzmocnione rosnącym rozwojem działalności w chmurze. Po opublikowaniu raportu akcje koncernu wzrosły o ponad 5 proc.",
-      "content_html": "",
-      "date_published": "2026-04-29T22:54:00+02:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/gry-i-technologie/alphabet-pokazal-lepsze-od-oczekiwan-wyniki-kwartalne-akcje-w-gore",
-      "url": "https://biznes.pap.pl/wiadomosci/gry-i-technologie/alphabet-pokazal-lepsze-od-oczekiwan-wyniki-kwartalne-akcje-w-gore",
-      "title": "Alphabet pokazał lepsze od oczekiwań wyniki kwartalne, akcje w górę",
-      "content_html": "Alphabet, właściciel Google, opublikował wyniki za pierwszy kwartał po zamknięciu sesji w środę, wykazując przychody przewyższające oczekiwania, wzmocnione rosnącym rozwojem działalności w chmurze. Po",
-      "date_published": "2026-04-29T22:51:00+02:00",
-      "source": "PAP Biznes"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Meta-przebila-oczekiwania-pod-wzgledem-przychodow-ale-rozczarowala-liczba-uzytkownikow-9125457.html",
-      "url": "https://www.bankier.pl/wiadomosc/Meta-przebila-oczekiwania-pod-wzgledem-przychodow-ale-rozczarowala-liczba-uzytkownikow-9125457.html",
-      "title": "Meta przebiła oczekiwania pod względem przychodów, ale rozczarowała liczbą użytkowników Akcje Meta Platforms spadają w środę w handlu pozasesyjnym o ponad 5 proc. po tym, jak spółka poinformowała o niższych od oczekiwań nakładach inwestycyjnych i nie zrealizowała wzrostu liczby użytkowników.",
-      "content_html": "",
-      "date_published": "2026-04-29T22:40:00+02:00",
-      "source": "Bankier.pl"
     }
   ]
 }
