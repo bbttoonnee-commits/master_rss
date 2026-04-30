@@ -5,12 +5,76 @@
   "home_page_url": "https://www.bankier.pl",
   "items": [
     {
+      "id": "https://biznes.pap.pl/wiadomosci/rynki/dzien-na-rynkach-wall-street-mocno-w-gore-sp-500-mial-najlepszy-miesiac-od-5-lat",
+      "url": "https://biznes.pap.pl/wiadomosci/rynki/dzien-na-rynkach-wall-street-mocno-w-gore-sp-500-mial-najlepszy-miesiac-od-5-lat",
+      "title": "DZIEŃ NA RYNKACH: Wall Street mocno w górę, S&P 500 miał najlepszy miesiąc od 5 lat",
+      "content_html": "Czwartkowa sesja na Wall Street zakończyła się mocnymi wzrostami głównych indeksów, a Dow Jones zyskał prawie 800 punktów. Dla S&P 500 kwiecień był najlepszym miesiącem od ponad pięciu lat.",
+      "date_published": "2026-04-30T22:07:00+02:00",
+      "source": "PAP Biznes"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Wiceprezes-Grupy-Azoty-Miroslaw-Ptasinski-zrezygnowal-ze-stanowiska-9126209.html",
+      "url": "https://www.bankier.pl/wiadomosc/Wiceprezes-Grupy-Azoty-Miroslaw-Ptasinski-zrezygnowal-ze-stanowiska-9126209.html",
+      "title": "Wiceprezes Grupy Azoty Mirosław Ptasiński zrezygnował ze stanowiska",
+      "content_html": "Wiceprezes Grupy Azoty Mirosław Ptasiński zrezygnował ze stanowiska oraz z członkostwa w zarządzie spółki - poinformowała spółka w czwartkowym komunikacie giełdowym. Ptasiński zrezygnował również z członkostwa w radzie nadzorczej Grupy...",
+      "date_published": "2026-04-30T21:30:00+02:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Polska-regionalnym-hubem-LNG-MSZ-USA-wyrazily-poparcie-dla-aspiracji-9126343.html",
+      "url": "https://www.bankier.pl/wiadomosc/Polska-regionalnym-hubem-LNG-MSZ-USA-wyrazily-poparcie-dla-aspiracji-9126343.html",
+      "title": "Polska regionalnym hubem LNG? MSZ: USA wyraziły poparcie dla aspiracji",
+      "content_html": "Stany Zjednoczone wyraziły poparcie dla aspiracji Polski, aby stać się regionalnym hubem LNG – poinformowało Ministerstwo Spraw Zagranicznych (MSZ) w oświadczeniu opublikowanym po czwartkowej rundzie Dialogu Strategicznego między Polską a USA...",
+      "date_published": "2026-04-30T21:20:00+02:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Leyen-Przedsiebiorcy-musza-odczuc-korzysci-z-umowy-UE-Mercosur-9126344.html",
+      "url": "https://www.bankier.pl/wiadomosc/Leyen-Przedsiebiorcy-musza-odczuc-korzysci-z-umowy-UE-Mercosur-9126344.html",
+      "title": "Leyen: Przedsiębiorcy muszą odczuć korzyści z umowy UE-Mercosur",
+      "content_html": "Przedsiębiorcy muszą natychmiast odczuć korzyści z umowy handlowej z Mercosurem - oceniła w czwartek przewodnicząca KE Ursula von der Leyen. Porozumienie wchodzi w życie 1 maja. KE szacuje, że do 2040 r. roczny eksport UE do Ameryki Południowej...",
+      "date_published": "2026-04-30T21:20:00+02:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Rekordowo-dlugi-shutdown-dobiega-konca-Resort-bezpieczenstwa-dostanie-pieniadze-9126321.html",
+      "url": "https://www.bankier.pl/wiadomosc/Rekordowo-dlugi-shutdown-dobiega-konca-Resort-bezpieczenstwa-dostanie-pieniadze-9126321.html",
+      "title": "Rekordowo długi shutdown dobiega końca. Resort bezpieczeństwa dostanie pieniądze",
+      "content_html": "Izba Reprezentantów USA uchwaliła w czwartek ustawę o finansowaniu większości działań ministerstwa bezpieczeństwa krajowego. Po podpisaniu aktu prawnego przez prezydenta Donalda Trumpa zakończy się rekordowo długi, 76-dniowy shutdown (paraliż)...",
+      "date_published": "2026-04-30T21:12:00+02:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Dramatyczne-wiesci-z-Londynu-Sluzby-podnosza-stopien-zagrozenia-9126337.html",
+      "url": "https://www.bankier.pl/wiadomosc/Dramatyczne-wiesci-z-Londynu-Sluzby-podnosza-stopien-zagrozenia-9126337.html",
+      "title": "Dramatyczne wieści z Londynu. Służby podnoszą stopień zagrożenia",
+      "content_html": "Poziom zagrożenia terrorystycznego w Wielkiej Brytanii został podniesiony w piątek ze znacznego na poważne - poinformowała minister spraw wewnętrznych Shabana Mahmood. Decyzję podjęto dzień po zaatakowaniu w Londynie przez nożownika dwóch mężczyzn...",
+      "date_published": "2026-04-30T21:06:00+02:00",
+      "source": "Bankier.pl"
+    },
+    {
       "id": "https://biznes.pap.pl/wiadomosci/ekonomia-biznes-i-finanse/skrot-wiadomosci-czwartek-30-kwietnia-2100",
       "url": "https://biznes.pap.pl/wiadomosci/ekonomia-biznes-i-finanse/skrot-wiadomosci-czwartek-30-kwietnia-2100",
       "title": "Skrót wiadomości - czwartek, 30 kwietnia, 21.00",
       "content_html": "Przegląd najważniejszych wiadomości gospodarczych, krajowych i ze świata.",
       "date_published": "2026-04-30T21:00:00+02:00",
       "source": "PAP Biznes"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Wielki-final-obwodnicy-Gliwic-Miasto-oglasza-przetarg-na-ostatni-odcinek-9126330.html",
+      "url": "https://www.bankier.pl/wiadomosc/Wielki-final-obwodnicy-Gliwic-Miasto-oglasza-przetarg-na-ostatni-odcinek-9126330.html",
+      "title": "Wielki finał obwodnicy Gliwic. Miasto ogłasza przetarg na ostatni odcinek",
+      "content_html": "Gliwicki samorząd zamawia budowę brakującego odcinka miejskiej obwodnicy, który połączy ulice Bojkowską i Rybnicką – wynika z czwartkowej informacji miasta. Na oferty dot. budowy 1,7-kilometrowego połączenia Zarząd Dróg Miejskich czeka do...",
+      "date_published": "2026-04-30T20:51:00+02:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Najwazniejsze-cwiczenia-od-czasow-zimnej-wojny-Macron-zabral-glos-9126319.html",
+      "url": "https://www.bankier.pl/wiadomosc/Najwazniejsze-cwiczenia-od-czasow-zimnej-wojny-Macron-zabral-glos-9126319.html",
+      "title": "Najważniejsze ćwiczenia od czasów zimnej wojny. Macron zabrał głos",
+      "content_html": "Prezydent Emmanuel Macron oświadczył w czwartek, że ćwiczenia wojskowe Orion są „wyraźnym sygnałem” zarówno dla sojuszników Francji, jak i dla jej przeciwników. Macron odwiedził w czwartek Mailly-le-Camp, gdzie przebiegały ćwiczenia...",
+      "date_published": "2026-04-30T20:40:00+02:00",
+      "source": "Bankier.pl"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/PTWP-chce-wyplacic-5-89-zl-dywidendy-na-akcje-za-25-9126349.html",
@@ -171,14 +235,6 @@
       "content_html": "Zarząd WP Holding rekomenduje, by wypłacić akcjonariuszom 1,30 zł dywidendy na akcję, czyli łącznie 38,7 mln zł - poinformowała spółka w komunikacie.",
       "date_published": "2026-04-30T18:29:00+02:00",
       "source": "PAP Biznes"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Wiceprezes-Grupy-Azoty-Miroslaw-Ptasinski-zrezygnowal-ze-stanowiska-9126209.html",
-      "url": "https://www.bankier.pl/wiadomosc/Wiceprezes-Grupy-Azoty-Miroslaw-Ptasinski-zrezygnowal-ze-stanowiska-9126209.html",
-      "title": "Wiceprezes Grupy Azoty Mirosław Ptasiński zrezygnował ze stanowiska",
-      "content_html": "Wiceprezes Grupy Azoty Mirosław Ptasiński zrezygnował z stanowiska oraz z członkostwa w zarządzie spółki - poinformowała spółka w czwartkowym komunikacie giełdowym.",
-      "date_published": "2026-04-30T18:22:00+02:00",
-      "source": "Bankier.pl"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Klub-parlamentarny-PiS-sie-sypie-Janusz-Kowalski-zlozyl-rezygnacje-9126205.html",
@@ -349,6 +405,14 @@
       "source": "Bankier.pl"
     },
     {
+      "id": "https://www.bankier.pl/wiadomosc/Eurocash-nie-przewiduje-dodatkowych-kosztow-transformacji-zaklada-stopniowa-poprawe-wynikow-wywiad-9126121.html",
+      "url": "https://www.bankier.pl/wiadomosc/Eurocash-nie-przewiduje-dodatkowych-kosztow-transformacji-zaklada-stopniowa-poprawe-wynikow-wywiad-9126121.html",
+      "title": "Eurocash nie przewiduje dodatkowych kosztów transformacji. Zakłada stopniową poprawę wyników",
+      "content_html": "Grupa Eurocash, która w wynikach za 2025 rok ujęła blisko 300 mln zł rezerw restrukturyzacyjnych, nie przewiduje dodatkowych kosztów transformacji – poinformowali PAP Biznes przedstawiciele grupy. Program optymalizacji kosztowej przebiega zgodnie...",
+      "date_published": "2026-04-30T17:02:00+02:00",
+      "source": "Bankier.pl"
+    },
+    {
       "id": "https://biznes.pap.pl/wiadomosci/gospodarka/dzien-na-fxfi-pln-lekko-mocniejszy-do-eur-rentownosci-spw-na-lokalnych",
       "url": "https://biznes.pap.pl/wiadomosci/gospodarka/dzien-na-fxfi-pln-lekko-mocniejszy-do-eur-rentownosci-spw-na-lokalnych",
       "title": "DZIEŃ NA FX/FI: PLN lekko mocniejszy do EUR; rentowności SPW na lokalnych maksimach",
@@ -370,14 +434,6 @@
       "title": "Skrót wiadomości - czwartek, 30 kwietnia, 17.00",
       "content_html": "Przegląd najważniejszych wiadomości gospodarczych, krajowych i ze świata.",
       "date_published": "2026-04-30T17:00:00+02:00",
-      "source": "PAP Biznes"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/firmy/cztery-oferty-tauron-cieplo-wygraly-aukcje-ure-na-premie-kogeneracyjna",
-      "url": "https://biznes.pap.pl/wiadomosci/firmy/cztery-oferty-tauron-cieplo-wygraly-aukcje-ure-na-premie-kogeneracyjna",
-      "title": "Cztery oferty Tauron Ciepło wygrały aukcję URE na premię kogeneracyjną",
-      "content_html": "Cztery oferty złożone przez Tauron Ciepło w odniesieniu do czterech jednostek wytwórczych o łącznej zainstalowanej elektrycznej mocy przekraczającej 100 MW wygrały aukcję na premię kogeneracyjną przep",
-      "date_published": "2026-04-30T16:59:00+02:00",
       "source": "PAP Biznes"
     },
     {
@@ -445,14 +501,6 @@
       "source": "Bankier.pl"
     },
     {
-      "id": "https://www.bankier.pl/wiadomosc/Eurocash-nie-przewiduje-dodatkowych-kosztow-transformacji-zaklada-stopniowa-poprawe-wynikow-wywiad-9126121.html",
-      "url": "https://www.bankier.pl/wiadomosc/Eurocash-nie-przewiduje-dodatkowych-kosztow-transformacji-zaklada-stopniowa-poprawe-wynikow-wywiad-9126121.html",
-      "title": "Eurocash nie przewiduje dodatkowych kosztów transformacji. Zakłada stopniową poprawę wyników Grupa Eurocash, która w wynikach za 2025 rok ujęła blisko 300 mln zł rezerw restrukturyzacyjnych, nie przewiduje dodatkowych kosztów transformacji – poinformowali PAP Biznes przedstawiciele grupy. Program optymalizacji kosztowej przebiega zgodnie z planem, z kwartału na kwartał spółka oczekuje stopniowej poprawy wyników.",
-      "content_html": "",
-      "date_published": "2026-04-30T16:02:00+02:00",
-      "source": "Bankier.pl"
-    },
-    {
       "id": "https://www.bankier.pl/wiadomosc/Trump-rozmawial-z-Putinem-Kallas-Wiele-pytan-bez-odpowiedzi-9126053.html",
       "url": "https://www.bankier.pl/wiadomosc/Trump-rozmawial-z-Putinem-Kallas-Wiele-pytan-bez-odpowiedzi-9126053.html",
       "title": "Trump rozmawiał z Putinem. Kallas: Wiele pytań bez odpowiedzi",
@@ -467,6 +515,14 @@
       "content_html": "Dogasającemu powoli sezonowi publikacji wyników kwartalnych na Wall Street towarzyszyć będzie początek sezony raportowego na GPW. Nie zabraknie też polskich akcentów: decyzji RPP oraz oceny kredytowej Polski w wykonaniu agencji S&P.",
       "date_published": "2026-04-30T15:37:00+02:00",
       "source": "Bankier.pl"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/firmy/polska-w-przyszlym-tygodniu-powinna-byc-gotowa-do-podpisania-umowy-safe-kosiniak",
+      "url": "https://biznes.pap.pl/wiadomosci/firmy/polska-w-przyszlym-tygodniu-powinna-byc-gotowa-do-podpisania-umowy-safe-kosiniak",
+      "title": "Polska w przyszłym tygodniu powinna być gotowa do podpisania umowy SAFE - Kosiniak-Kamysz",
+      "content_html": "Wszystko wskazuje na to, że w przyszłym tygodniu Polska będzie gotowa do podpisania umowy pożyczkowej w ramach unijnego instrumentu SAFE - poinformował wicepremier i szef MON Władysław Kosiniak-Kamysz",
+      "date_published": "2026-04-30T15:37:00+02:00",
+      "source": "PAP Biznes"
     },
     {
       "id": "https://biznes.pap.pl/wiadomosci/gospodarka/po-majowce-mozliwe-dalsze-podwyzki-cen-paliw-o-10-15-grl-bm-reflex",
@@ -1066,14 +1122,6 @@
       "title": "Syrski podpisał rozkaz o obowiązkowej rotacji żołnierzy na froncie po dwóch miesiącach",
       "content_html": "Naczelny dowódca Sił Zbrojnych Ukrainy generał Ołeksandr Syrski podpisał w czwartek rozkaz dotyczący obowiązkowej rotacji, który przewiduje służbę na pierwszej linii frontu w okresie nie dłuższym niż dwa miesiące, a następnie wymianę...",
       "date_published": "2026-04-30T11:36:00+02:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Spadl-udzial-firm-planujacych-podwyzki-plac-w-horyzoncie-roku-9125777.html",
-      "url": "https://www.bankier.pl/wiadomosc/Spadl-udzial-firm-planujacych-podwyzki-plac-w-horyzoncie-roku-9125777.html",
-      "title": "Spadł udział firm planujących podwyżki płac w horyzoncie roku",
-      "content_html": "Spadł udział przedsiębiorstw przewidujących podniesienie płac w horyzoncie roku, przy nieznacznym wzroście średniej wysokości planowanej podwyżki - wynika z najnowszego raportu NBP \"Szybki Monitoring\" (SM). W horyzoncie kwartału wzrósł odsetek...",
-      "date_published": "2026-04-30T11:34:00+02:00",
       "source": "Bankier.pl"
     },
     {
@@ -1899,86 +1947,6 @@
       "content_html": "",
       "date_published": "2026-04-29T22:40:00+02:00",
       "source": "Bankier.pl"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/gry-i-technologie/meta-przebila-oczekiwania-pod-wzgledem-przychodow-ale-rozczarowala",
-      "url": "https://biznes.pap.pl/wiadomosci/gry-i-technologie/meta-przebila-oczekiwania-pod-wzgledem-przychodow-ale-rozczarowala",
-      "title": "Meta przebiła oczekiwania pod względem przychodów, ale rozczarowała liczbą użytkowników",
-      "content_html": "Akcje Meta Platforms spadają w środę w handlu pozasesyjnym o ponad 5 proc. po tym, jak spółka poinformowała o niższych od oczekiwań nakładach inwestycyjnych i nie zrealizowała wzrostu liczby użytkowni",
-      "date_published": "2026-04-29T22:38:00+02:00",
-      "source": "PAP Biznes"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Amazon-z-lepszymi-od-oczekiwan-wynikami-kwartalnymi-ale-inwestorzy-przyjeli-je-chlodno-9125453.html",
-      "url": "https://www.bankier.pl/wiadomosc/Amazon-z-lepszymi-od-oczekiwan-wynikami-kwartalnymi-ale-inwestorzy-przyjeli-je-chlodno-9125453.html",
-      "title": "Amazon z lepszymi od oczekiwań wynikami kwartalnymi, ale inwestorzy przyjęli je chłodno Amazon w środę opublikował lepsze od oczekiwań zyski i przychody za pierwszy kwartał oraz poinformował o wzroście o 29 proc. sprzedaży usług w chmurze, co przewyższyło oczekiwania analityków.",
-      "content_html": "",
-      "date_published": "2026-04-29T22:28:00+02:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/gry-i-technologie/amazon-z-lepszymi-od-oczekiwan-wynikami-kwartalnymi-ale-inwestorzy",
-      "url": "https://biznes.pap.pl/wiadomosci/gry-i-technologie/amazon-z-lepszymi-od-oczekiwan-wynikami-kwartalnymi-ale-inwestorzy",
-      "title": "Amazon z lepszymi od oczekiwań wynikami kwartalnymi, ale inwestorzy przyjęli je chłodno",
-      "content_html": "Amazon w środę opublikował lepsze od oczekiwań zyski i przychody za pierwszy kwartał oraz poinformował o wzroście o 29 proc. sprzedaży usług w chmurze, co przewyższyło oczekiwania analityków.",
-      "date_published": "2026-04-29T22:26:00+02:00",
-      "source": "PAP Biznes"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Kwartalne-wyniki-Microsoftu-lepsze-od-oczekiwan-ale-akcje-ida-w-dol-9125447.html",
-      "url": "https://www.bankier.pl/wiadomosc/Kwartalne-wyniki-Microsoftu-lepsze-od-oczekiwan-ale-akcje-ida-w-dol-9125447.html",
-      "title": "Kwartalne wyniki Microsoftu lepsze od oczekiwań, ale akcje idą w dół Microsoft w środę ogłosił lepsze od oczekiwań analityków wyniki finansowe za trzeci kwartał roku fiskalnego. Firma nadal notuje wzrost, analitycy spodziewają się 16-procentowego wzrostu przychodów w obecnym kwartale w porównaniu z rokiem poprzednim.",
-      "content_html": "",
-      "date_published": "2026-04-29T22:18:00+02:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/gry-i-technologie/kwartalne-wyniki-microsoftu-lepsze-od-oczekiwan-ale-akcje-ida-w-dol",
-      "url": "https://biznes.pap.pl/wiadomosci/gry-i-technologie/kwartalne-wyniki-microsoftu-lepsze-od-oczekiwan-ale-akcje-ida-w-dol",
-      "title": "Kwartalne wyniki Microsoftu lepsze od oczekiwań, ale akcje idą w dół",
-      "content_html": "Microsoft w środę ogłosił lepsze od oczekiwań analityków wyniki finansowe za trzeci kwartał roku fiskalnego. Firma nadal notuje wzrost, analitycy spodziewają się 16-procentowego wzrostu przychodów w o",
-      "date_published": "2026-04-29T22:17:00+02:00",
-      "source": "PAP Biznes"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/rynki/dzien-na-rynkach-na-wall-street-drugi-dzien-z-przewaga-spadkow-w-centrum-uwagi-fed",
-      "url": "https://biznes.pap.pl/wiadomosci/rynki/dzien-na-rynkach-na-wall-street-drugi-dzien-z-przewaga-spadkow-w-centrum-uwagi-fed",
-      "title": "DZIEŃ NA RYNKACH: Na Wall Street drugi dzień z przewagą spadków, w centrum uwagi Fed",
-      "content_html": "Środowa sesja na Wall Street zakończyła się przewagą spadków wśród głównych indeksów, podobnie jak dzień wcześniej. Inwestorzy analizowali komentarze prezesa Fed po posiedzeniu Rezerwy Federalnej w oc",
-      "date_published": "2026-04-29T22:10:00+02:00",
-      "source": "PAP Biznes"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/ekonomia-biznes-i-finanse/skrot-wiadomosci-sroda-29-kwietnia-2152",
-      "url": "https://biznes.pap.pl/wiadomosci/ekonomia-biznes-i-finanse/skrot-wiadomosci-sroda-29-kwietnia-2152",
-      "title": "Skrót wiadomości - środa, 29 kwietnia, 21.52",
-      "content_html": "Przegląd najważniejszych wiadomości gospodarczych, krajowych i ze świata.",
-      "date_published": "2026-04-29T21:55:00+02:00",
-      "source": "PAP Biznes"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/gospodarka/perspektywy-gospodarcze-w-usa-pozostaja-wysoce-niepewne-powell-fed-opis",
-      "url": "https://biznes.pap.pl/wiadomosci/gospodarka/perspektywy-gospodarcze-w-usa-pozostaja-wysoce-niepewne-powell-fed-opis",
-      "title": "Perspektywy gospodarcze w USA pozostają wysoce niepewne – Powell, Fed (opis)",
-      "content_html": "Perspektywy gospodarcze w USA pozostają wysoce niepewne - poinformował prezes Fedu Jerome Powell podczas środowej konferencji po posiedzeniu Rezerwy. Powell ocenił, że niezależność Fedu jest zagrożona",
-      "date_published": "2026-04-29T21:52:00+02:00",
-      "source": "PAP Biznes"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Grupa-Azoty-miala-5-1-mld-zl-straty-netto-w-2025-roku-9125438.html",
-      "url": "https://www.bankier.pl/wiadomosc/Grupa-Azoty-miala-5-1-mld-zl-straty-netto-w-2025-roku-9125438.html",
-      "title": "Grupa Azoty miała 5,1 mld zł straty netto w 2025 roku Grupa Azoty zanotowała ponad 5,1 mld zł straty netto wobec 1,1 mld zł rok wcześniej - poinformowała spółka w środę w raporcie rocznym. Jednocześnie grupa wypracowała dodatni wynik EBITDA kształtujący się na poziomie 322,7 mln zł, wobec ujemnej rok wcześniej na poziomie 330 mln zł.",
-      "content_html": "",
-      "date_published": "2026-04-29T21:38:00+02:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/firmy/port-gdansk-w-i-kwartale-zwiekszyl-wolumen-obsluzonych-ladunkow-o-136-proc",
-      "url": "https://biznes.pap.pl/wiadomosci/firmy/port-gdansk-w-i-kwartale-zwiekszyl-wolumen-obsluzonych-ladunkow-o-136-proc",
-      "title": "Port Gdańsk w I kwartale zwiększył wolumen obsłużonych ładunków o 13,6 proc.",
-      "content_html": "Port Gdańsk w I kwartale 2026 roku osiągnął poziom 20,9 mln ton łącznego wolumenu obsłużonych ładunków, co oznacza wzrost o 13,6 proc. rok do roku - poinformowała spółka w komunikacie prasowym. Spółka",
-      "date_published": "2026-04-29T21:36:00+02:00",
-      "source": "PAP Biznes"
     }
   ]
 }
