@@ -5,6 +5,14 @@
   "home_page_url": "https://www.bankier.pl",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/Co-drugi-Polak-na-L4-ZUS-podal-najnowsze-dane-o-zwolnieniach-9124030.html",
+      "url": "https://www.bankier.pl/wiadomosc/Co-drugi-Polak-na-L4-ZUS-podal-najnowsze-dane-o-zwolnieniach-9124030.html",
+      "title": "Co drugi Polak na L4. ZUS podał najnowsze dane o zwolnieniach",
+      "content_html": "W 2025 r. ZUS zarejestrował 27,5 mln zaświadczeń lekarskich o czasowej niezdolności do pracy, co przełożyło się na 290,5 mln dni absencji chorobowej – o 0,2 proc. więcej rdr. Największy przyrost odnotowano w nieobecnościach w pracy z tytułu...",
+      "date_published": "2026-05-02T15:00:00+02:00",
+      "source": "Bankier.pl"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Ultraprzetworzone-pesto-z-supermarketow-Tylko-trzy-sa-do-przyjecia-9123040.html",
       "url": "https://www.bankier.pl/wiadomosc/Ultraprzetworzone-pesto-z-supermarketow-Tylko-trzy-sa-do-przyjecia-9123040.html",
       "title": "Ultraprzetworzone pesto z supermarketów. Tylko trzy są do przyjęcia",
@@ -163,14 +171,6 @@
       "content_html": "Po blisko 2/3 sezonu publikacji wyników finansowych zarówno odsetek spółek z indeksu S&P 500, które odnotowały pozytywne niespodzianki w zyskach, jak i skala tych niespodzianek przewyższają ostatnie ś",
       "date_published": "2026-05-02T09:50:00+02:00",
       "source": "PAP Biznes"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Zwyciestwo-ruchu-antyaborcyjnego-w-USA-Dostep-do-pigulek-mocno-ograniczony-9126744.html",
-      "url": "https://www.bankier.pl/wiadomosc/Zwyciestwo-ruchu-antyaborcyjnego-w-USA-Dostep-do-pigulek-mocno-ograniczony-9126744.html",
-      "title": "Zwycięstwo ruchu antyaborcyjnego w USA. Dostęp do pigułek mocno ograniczony",
-      "content_html": "Federalny sąd apelacyjny w USA tymczasowo zamroził przepisy umożliwiające zdalne przepisywanie i wysyłanie pocztą pigułek aborcyjnych – poinformował portal Axios. Aborcje dokonywane tym sposobem stanowią 60 proc. wszystkich zabiegów przerywania...",
-      "date_published": "2026-05-02T09:37:00+02:00",
-      "source": "Bankier.pl"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/MSZ-modernizuje-Odyseusza-W-wakacje-ma-byc-dostepny-takze-w-mObywatelu-9119992.html",
@@ -514,38 +514,6 @@
       "title": "Konie kontra elektryki. Fiakrzy oskarżają resort klimatu o łamanie ustaleń",
       "content_html": "Minister Paulina Hennig-Kloska poinformowała o zatwierdzeniu dofinansowania zakupu kolejnych 16 pojazdów elektrycznych, które zastąpią konie na trasie do Morskiego Oka. Wozacy zarzucają, że może to naruszać wcześniejsze ustalenia i prowadzić...",
       "date_published": "2026-05-01T16:00:00+02:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/3-tys-metrow-kwadratowych-w-centrum-czeka-Poszukiwany-inwestor-dla-Czerwonej-Chirurgii-9121718.html",
-      "url": "https://www.bankier.pl/wiadomosc/3-tys-metrow-kwadratowych-w-centrum-czeka-Poszukiwany-inwestor-dla-Czerwonej-Chirurgii-9121718.html",
-      "title": "3 tys. metrów kwadratowych w centrum czeka. Poszukiwany inwestor dla \"Czerwonej Chirurgii”",
-      "content_html": "Agencja Rozwoju Miasta Krakowa ogłosiła przetarg na dziesięcioletnią dzierżawę zabytkowego budynku tzw. Czerwonej Chirurgii przy ul. Kopernika 21. Wybrany inwestor ma prowadzić tam działalność z poszanowaniem charakteru miejsca oraz obowiązujących...",
-      "date_published": "2026-05-01T15:00:00+02:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Srednio-ale-bez-strachu-przed-bieda-Poziom-zycia-Polakow-w-2026-roku-9123508.html",
-      "url": "https://www.bankier.pl/wiadomosc/Srednio-ale-bez-strachu-przed-bieda-Poziom-zycia-Polakow-w-2026-roku-9123508.html",
-      "title": "Średnio, ale bez strachu przed biedą. Poziom życia Polaków w 2026 roku",
-      "content_html": "49 proc. gospodarstw domowych ocenia, że żyje na średnim poziomie - wynika z badania CBOS.",
-      "date_published": "2026-05-01T15:00:00+02:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Ukraina-buduje-potezna-linie-obrony-General-przyznaje-Widac-ja-juz-z-kosmosu-9124219.html",
-      "url": "https://www.bankier.pl/wiadomosc/Ukraina-buduje-potezna-linie-obrony-General-przyznaje-Widac-ja-juz-z-kosmosu-9124219.html",
-      "title": "Ukraina buduje potężną linię obrony. Generał przyznaje: Widać ją już z kosmosu",
-      "content_html": "Ukraina buduje wielowarstwową linię obrony przed Rosją, która prowadzi od północnych krańców Zbiornika Kijowskiego na rzece Dniepr do miasta Sumy na północnym wschodzie kraju – powiadomił szef ukraińskich wojsk inżynieryjnych, gen. Wasyl...",
-      "date_published": "2026-05-01T15:00:00+02:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Ksiazeczki-mieszkaniowe-z-PRL-wciaz-w-obiegu-Srednia-premia-to-ponad-21-tys-zl-9124278.html",
-      "url": "https://www.bankier.pl/wiadomosc/Ksiazeczki-mieszkaniowe-z-PRL-wciaz-w-obiegu-Srednia-premia-to-ponad-21-tys-zl-9124278.html",
-      "title": "Książeczki mieszkaniowe z PRL wciąż w obiegu. Średnia premia to ponad 21 tys. zł",
-      "content_html": "Książeczka mieszkaniowa z czasów PRL nadal ma swoją wartość, a jej zagubienie nie przekreśla szans na otrzymanie pieniędzy od państwa - wynika z raportu portalu RynekPierwotny.pl. Według danych PKO BP w obiegu pozostaje 962 tys. książeczek...",
-      "date_published": "2026-05-01T15:00:00+02:00",
       "source": "Bankier.pl"
     }
   ]
