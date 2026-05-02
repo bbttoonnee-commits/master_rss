@@ -5,14 +5,6 @@
   "home_page_url": "https://www.bankier.pl",
   "items": [
     {
-      "id": "https://www.bankier.pl/wiadomosc/NATO-wspolpracuje-by-zrozumiec-decyzje-USA-Tusk-ostrzega-przed-rozpadem-9126771.html",
-      "url": "https://www.bankier.pl/wiadomosc/NATO-wspolpracuje-by-zrozumiec-decyzje-USA-Tusk-ostrzega-przed-rozpadem-9126771.html",
-      "title": "NATO „współpracuje, by zrozumieć” decyzję USA. Tusk ostrzega przed rozpadem",
-      "content_html": "Rzeczniczka NATO Allison Hart poinformowała w sobotę, że Sojusz współpracuje ze Stanami Zjednoczonymi w celu zrozumienia szczegółów decyzji administracji w Waszyngtonie o planowanym wycofaniu części wojsk amerykańskich z Niemiec. „Największym...",
-      "date_published": "2026-05-02T16:58:00+02:00",
-      "source": "Bankier.pl"
-    },
-    {
       "id": "https://www.bankier.pl/wiadomosc/Nowi-generalowie-w-Wojsku-Polskim-Prezydent-wreczyl-nominacje-9126805.html",
       "url": "https://www.bankier.pl/wiadomosc/Nowi-generalowie-w-Wojsku-Polskim-Prezydent-wreczyl-nominacje-9126805.html",
       "title": "Nowi generałowie w Wojsku Polskim. Prezydent wręczył nominacje",
@@ -161,6 +153,14 @@
       "url": "https://www.bankier.pl/wiadomosc/Platne-akcje-ratunkowe-wzorem-Slowacji-Dyskusja-o-finansowaniu-TOPR-i-GOPR-9123113.html",
       "title": "Płatne akcje ratunkowe wzorem Słowacji? Dyskusja o finansowaniu TOPR i GOPR",
       "content_html": "Proponowana przez resort klimatu zmiana zasad finansowania ratownictwa górskiego może uszczuplić budżety parków narodowych i zwiększyć koszty dla turystów – ocenia Tatrzański Park Narodowy. Natomiast TOPR jest za doprecyzowaniem przepisów...",
+      "date_published": "2026-05-02T11:00:00+02:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Branza-beauty-i-medyczna-w-strachu-Gigantyczne-podwyzki-uderza-w-tysiace-firm-9123120.html",
+      "url": "https://www.bankier.pl/wiadomosc/Branza-beauty-i-medyczna-w-strachu-Gigantyczne-podwyzki-uderza-w-tysiace-firm-9123120.html",
+      "title": "Branża beauty i medyczna w strachu. Gigantyczne podwyżki uderzą w tysiące firm",
+      "content_html": "Importowane z Malezji i Chin rękawice ochronne drożeją i są coraz trudniej dostępne w Polsce. Organizacja Pracodawców Przemysłu Medycznego Technomed przekazała PAP, że w marcu ceny surowców skoczyły o 25 proc. i nadal rosną. Powodem jest kryzys...",
       "date_published": "2026-05-02T11:00:00+02:00",
       "source": "Bankier.pl"
     },
@@ -442,70 +442,6 @@
       "title": "AI na służbie Pentagonu. Siedmiu gigantów otwiera swoje systemy dla wojska",
       "content_html": "Pentagon poinformował w piątek o zawarciu umów z siedmioma firmami z sektora sztucznej inteligencji (AI) w sprawie wykorzystania ich narzędzi w tajnych pracach ministerstwa obrony USA.",
       "date_published": "2026-05-01T17:47:00+02:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Pan-Nikt-stracil-Oscara-Statuetka-za-film-o-Putinie-przepadla-bez-wiesci-9126581.html",
-      "url": "https://www.bankier.pl/wiadomosc/Pan-Nikt-stracil-Oscara-Statuetka-za-film-o-Putinie-przepadla-bez-wiesci-9126581.html",
-      "title": "„Pan Nikt” stracił Oscara. Statuetka za film o Putinie przepadła bez wieści",
-      "content_html": "Statuetka Oscara, zdobyta przez rosyjskiego reżysera Pawła Tałankina za film dokumentalny „Pan Nikt kontra Putin”, zaginęła podczas lotu z Nowego Jorku do Niemiec – powiadomił w czwartek współreżyser nagrodzonego obrazu David Borenstein...",
-      "date_published": "2026-05-01T17:03:00+02:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/EBC-szykuje-sie-do-dzialania-Prezes-Bundesbanku-ostrzega-przed-pogorszeniem-perspektyw-9126555.html",
-      "url": "https://www.bankier.pl/wiadomosc/EBC-szykuje-sie-do-dzialania-Prezes-Bundesbanku-ostrzega-przed-pogorszeniem-perspektyw-9126555.html",
-      "title": "EBC szykuje się do działania. Prezes Bundesbanku ostrzega przed pogorszeniem perspektyw",
-      "content_html": "Europejski Bank Centralny będzie musiał podwyższyć stopy procentowe w czerwcu, jeśli nie nastąpi znacząca zmiana perspektyw gospodarczych - poinformował prezes Bundesbanku i członek Rady Prezesów EBC Joachim Nagel.",
-      "date_published": "2026-05-01T17:01:00+02:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Zero-ofiar-i-miliony-dolarow-oszczednosci-Seul-chwali-sie-swoim-metrem-9122277.html",
-      "url": "https://www.bankier.pl/wiadomosc/Zero-ofiar-i-miliony-dolarow-oszczednosci-Seul-chwali-sie-swoim-metrem-9122277.html",
-      "title": "Zero ofiar i miliony dolarów oszczędności. Seul chwali się swoim metrem",
-      "content_html": "Instalacja przeszklonych drzwi i ścian peronowych na stacjach seulskiego metra przyczyniła się do spadku liczby wypadków śmiertelnych do zera w zeszłym roku – przekazała w piątek agencja Yonhap. Przed wprowadzeniem tego rozwiązania na torach...",
-      "date_published": "2026-05-01T17:00:00+02:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Estonia-wzywa-UE-do-surowego-karania-sabotazystow-Rosja-robi-tyle-na-ile-jej-pozwalamy-9123331.html",
-      "url": "https://www.bankier.pl/wiadomosc/Estonia-wzywa-UE-do-surowego-karania-sabotazystow-Rosja-robi-tyle-na-ile-jej-pozwalamy-9123331.html",
-      "title": "Estonia wzywa UE do surowego karania sabotażystów: Rosja robi tyle, na ile jej pozwalamy",
-      "content_html": "Estońska agencja bezpieczeństwa wewnętrznego KAPO wzywa europejskich partnerów do przyspieszenia działań w celu bardziej zdecydowanego karania sabotażystów działających na rzecz Rosji - poinformował brytyjski dziennik „Financial Times”...",
-      "date_published": "2026-05-01T17:00:00+02:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Paradoks-polskiego-spiskowca-Algorytmy-i-krotkie-wideo-to-pulapka-9123532.html",
-      "url": "https://www.bankier.pl/wiadomosc/Paradoks-polskiego-spiskowca-Algorytmy-i-krotkie-wideo-to-pulapka-9123532.html",
-      "title": "Paradoks polskiego spiskowca. \"Algorytmy i krótkie wideo to pułapka\"",
-      "content_html": "Młody wiek, wyższe wykształcenie czy życie w dużym mieście nie gwarantują odporności na dezinformację - wynika z opublikowanego raportu „Paradoks spiskowy”, opracowanego przez Naukową i Akademicką Sieć Komputerową - Państwowy Instytut...",
-      "date_published": "2026-05-01T17:00:00+02:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Pekin-oskarza-influencerow-o-sianie-defetyzmu-Zachod-chce-by-nasza-mlodziez-lezala-plackiem-9126557.html",
-      "url": "https://www.bankier.pl/wiadomosc/Pekin-oskarza-influencerow-o-sianie-defetyzmu-Zachod-chce-by-nasza-mlodziez-lezala-plackiem-9126557.html",
-      "title": "Pekin oskarża influencerów o sianie defetyzmu. \"Zachód chce, by nasza młodzież leżała plackiem”",
-      "content_html": "Chiński resort bezpieczeństwa państwowego oskarżył obce siły o promowanie wśród młodzieży zjawiska „leżenia plackiem”, co ma osłabiać rozwój kraju – podał w piątek dziennik „Financial Times”. Trend polega na odrzuceniu wyczerpującej...",
-      "date_published": "2026-05-01T16:57:00+02:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Prawo-nie-moze-udawac-ze-ich-nie-ma-Kotula-o-sadowej-drodze-dla-par-jednoplciowych-9126569.html",
-      "url": "https://www.bankier.pl/wiadomosc/Prawo-nie-moze-udawac-ze-ich-nie-ma-Kotula-o-sadowej-drodze-dla-par-jednoplciowych-9126569.html",
-      "title": "„Prawo nie może udawać, że ich nie ma”. Kotula o sądowej drodze par jednopłciowych",
-      "content_html": "Coraz więcej par jednopłciowych decyduje się na pójście do sądu – oceniła w piątkowej rozmowie z radiową Trójką Katarzyna Kotula. Dodała, że polskie sądy stają po stronie polskich obywateli.",
-      "date_published": "2026-05-01T16:52:00+02:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Sojuz-5-na-orbicie-Rosja-wprowadza-rakiete-zdolna-wyniesc-17-ton-ladunku-9126575.html",
-      "url": "https://www.bankier.pl/wiadomosc/Sojuz-5-na-orbicie-Rosja-wprowadza-rakiete-zdolna-wyniesc-17-ton-ladunku-9126575.html",
-      "title": "Sojuz-5 na orbicie. Rosja wprowadza rakietę zdolną wynieść 17 ton ładunku",
-      "content_html": "Rosja z powodzeniem przeprowadziła pierwszy testowy start nowej rakiety Sojuz-5 z kosmodromu Bajkonur w Kazachstanie – poinformowała w piątek agencja Reutera, powołując się na rosyjską agencję kosmiczną Roskosmos.",
-      "date_published": "2026-05-01T16:42:00+02:00",
       "source": "Bankier.pl"
     }
   ]
