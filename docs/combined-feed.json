@@ -5,11 +5,59 @@
   "home_page_url": "https://www.bankier.pl",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/Dzieci-ponizej-13-lat-na-Instagramie-Komisja-Europejska-uderza-w-Mete-9124941.html",
+      "url": "https://www.bankier.pl/wiadomosc/Dzieci-ponizej-13-lat-na-Instagramie-Komisja-Europejska-uderza-w-Mete-9124941.html",
+      "title": "Dzieci poniżej 13 lat na Instagramie. Komisja Europejska uderza w Metę",
+      "content_html": "Komisja Europejska zarzuciła koncernowi Meta naruszenie unijnych przepisów o usługach cyfrowych (DSA), ponieważ firma nie zapobiegała korzystaniu z Instagrama i Facebooka przez dzieci poniżej 13. roku życia.",
+      "date_published": "2026-05-02T21:00:00+02:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Uzbrojeni-napastnicy-porwali-tankowiec-u-wybrzezy-Jemenu-Statek-plynie-do-Somalii-9126828.html",
+      "url": "https://www.bankier.pl/wiadomosc/Uzbrojeni-napastnicy-porwali-tankowiec-u-wybrzezy-Jemenu-Statek-plynie-do-Somalii-9126828.html",
+      "title": "Uzbrojeni napastnicy porwali tankowiec u wybrzeży Jemenu. Statek płynie do Somalii",
+      "content_html": "Niezidentyfikowani uzbrojeni napastnicy porwali tankowiec u wybrzeży jemeńskiej prowincji Szabwa w Zatoce Adeńskiej i skierowali go w stronę Somalii – poinformowała w sobotę jemeńska straż przybrzeżna.",
+      "date_published": "2026-05-02T19:10:00+02:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/NATO-wspolpracuje-by-zrozumiec-decyzje-USA-Tusk-ostrzega-przed-rozpadem-9126771.html",
+      "url": "https://www.bankier.pl/wiadomosc/NATO-wspolpracuje-by-zrozumiec-decyzje-USA-Tusk-ostrzega-przed-rozpadem-9126771.html",
+      "title": "NATO „współpracuje, by zrozumieć” decyzję USA. Tusk ostrzega przed rozpadem",
+      "content_html": "Rzeczniczka NATO Allison Hart poinformowała w sobotę, że Sojusz współpracuje ze Stanami Zjednoczonymi w celu zrozumienia szczegółów decyzji administracji w Waszyngtonie o planowanym wycofaniu części wojsk amerykańskich z Niemiec. „Największym...",
+      "date_published": "2026-05-02T19:08:00+02:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Marihuana-jak-paracetamol-Donald-Trump-dotrzymal-obietnicy-9121892.html",
+      "url": "https://www.bankier.pl/wiadomosc/Marihuana-jak-paracetamol-Donald-Trump-dotrzymal-obietnicy-9121892.html",
+      "title": "Marihuana jak paracetamol? Donald Trump dotrzymał obietnicy",
+      "content_html": "Ministerstwo sprawiedliwości USA zmieniło w czwartek klasyfikację produktów z marihuany zatwierdzonych przez federalnego regulatora oraz władze stanowe z najwyższej kategorii restrykcji do kategorii III, znacznie łagodząc przepisy. To najdalej...",
+      "date_published": "2026-05-02T19:00:00+02:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Parlament-Europejski-wezwal-do-przyjecia-jednej-definicji-gwaltu-w-calej-UE-9124427.html",
+      "url": "https://www.bankier.pl/wiadomosc/Parlament-Europejski-wezwal-do-przyjecia-jednej-definicji-gwaltu-w-calej-UE-9124427.html",
+      "title": "PE wezwał do przyjęcia jednej definicji gwałtu w całej UE",
+      "content_html": "Parlament Europejski wezwał Komisję Europejską do opracowania przepisów ustanawiających w całej Unii Europejskiej wspólną definicję gwałtu. Zawierałaby ona brak wyrażonej w dowolnej formie, świadomej zgody, którą w każdej chwili można...",
+      "date_published": "2026-05-02T19:00:00+02:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Gigant-taniego-latania-Spirit-Airlines-oglasza-likwidacje-Pogrzebaly-go-ceny-paliwa-9126787.html",
+      "url": "https://www.bankier.pl/wiadomosc/Gigant-taniego-latania-Spirit-Airlines-oglasza-likwidacje-Pogrzebaly-go-ceny-paliwa-9126787.html",
+      "title": "Gigant taniego latania ogłasza natychmiastową likwidację. Pogrzebały go ceny paliwa",
+      "content_html": "Amerykańskie linie lotnicze Spirit Airlines poinformowały w sobotę, że odwołują wszystkie swoje loty. Nie powiodły się bowiem rozmowy z wierzycielami przewoźnika na temat programu ratunkowego zaproponowanego przez Donalda Trumpa w wysokości...",
+      "date_published": "2026-05-02T18:40:00+02:00",
+      "source": "Bankier.pl"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Odsetek-bykow-na-GPW-spadl-do-48-4-proc-spadkow-oczekuje-25-0-proc-9126823.html",
       "url": "https://www.bankier.pl/wiadomosc/Odsetek-bykow-na-GPW-spadl-do-48-4-proc-spadkow-oczekuje-25-0-proc-9126823.html",
-      "title": "Odsetek \"byków\" na GPW spadł do 48,4 proc., spadków oczekuje 25,0 proc. Odsetek inwestorów spodziewających się w ciągu sześciu miesięcy trendu wzrostowego na GPW spadł o 4,7 pkt. proc. i wyniósł 48,4 proc. Odsetek respondentów oczekujących trendu spadkowego wzrósł o 1,6 pkt. proc. do 25,0 proc. - wynika z cotygodniowego sondażu Indeksu Nastrojów Inwestorów.",
-      "content_html": "",
-      "date_published": "2026-05-02T17:36:00+02:00",
+      "title": "Odsetek \"byków\" na GPW spadł do 48,4 proc., spadków oczekuje 25,0 proc.",
+      "content_html": "Odsetek inwestorów spodziewających się w ciągu sześciu miesięcy trendu wzrostowego na GPW spadł o 4,7 pkt. proc. i wyniósł 48,4 proc. Odsetek respondentów oczekujących trendu spadkowego wzrósł o 1,6 pkt. proc. do 25,0 proc. - wynika z cotygodniowego...",
+      "date_published": "2026-05-02T18:36:00+02:00",
       "source": "Bankier.pl"
     },
     {
@@ -26,6 +74,14 @@
       "title": "Szansa na pokój przepadła. Trump odrzuca otwarcie Cieśniny Ormuz",
       "content_html": "Odrzucona przez prezydenta USA Donalda Trumpa propozycja Iranu przewidywała otwarcie cieśniny Ormuz, pozostawiając rozmowy o irańskim programie jądrowym na później – poinformowała w sobotę agencja Reutera, powołując się na wysokiego rangą...",
       "date_published": "2026-05-02T17:32:00+02:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/ZEA-Wladze-zniesiono-ograniczenia-ruchu-lotniczego-wprowadzone-wraz-z-wojna-9126817.html",
+      "url": "https://www.bankier.pl/wiadomosc/ZEA-Wladze-zniesiono-ograniczenia-ruchu-lotniczego-wprowadzone-wraz-z-wojna-9126817.html",
+      "title": "Koniec z trybem awaryjnym. Dubaj i Abu Zabi wznawiają normalne loty",
+      "content_html": "Ruch lotniczy w przestrzeni powietrznej Zjednoczonych Emiratów Arabskich odbywa się według normalnych procedur – podał w sobotę w serwisie X emiracki urząd lotnictwa cywilnego. Władze zniosły środki ostrożności wprowadzone 28 lutego na początku...",
+      "date_published": "2026-05-02T17:26:00+02:00",
       "source": "Bankier.pl"
     },
     {
@@ -58,14 +114,6 @@
       "title": "Koniec absurdalnych limitów? Rząd luzuje zasady przewozu ubrań i butów",
       "content_html": "Proponujemy złagodzenie zasad stosowania systemu SENT dla transportu odzieży i obuwia – powiedział w środę w Sejmie wiceminister finansów Zbigniew Stawicki. Dodał, że nowe regulacje powinny wejść w życie w ciągu tygodnia–dwóch.",
       "date_published": "2026-05-02T17:00:00+02:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/NATO-wspolpracuje-by-zrozumiec-decyzje-USA-Tusk-ostrzega-przed-rozpadem-9126771.html",
-      "url": "https://www.bankier.pl/wiadomosc/NATO-wspolpracuje-by-zrozumiec-decyzje-USA-Tusk-ostrzega-przed-rozpadem-9126771.html",
-      "title": "NATO „współpracuje, by zrozumieć” decyzję USA. Tusk ostrzega przed rozpadem",
-      "content_html": "Rzeczniczka NATO Allison Hart poinformowała w sobotę, że Sojusz współpracuje ze Stanami Zjednoczonymi w celu zrozumienia szczegółów decyzji administracji w Waszyngtonie o planowanym wycofaniu części wojsk amerykańskich z Niemiec. „Największym...",
-      "date_published": "2026-05-02T16:58:00+02:00",
       "source": "Bankier.pl"
     },
     {
@@ -122,30 +170,6 @@
       "title": "„Uratowały” homary przed zjedzeniem. Teraz grozi im więzienie",
       "content_html": "Wysokie kary finansowe, a także areszt grożą we Włoszech dwóm Amerykankom, które wykupiły wszystkie homary z restauracji w Pompejach, a następnie uwolniły je na plaży. Kobiety mogą mieć poważne kłopoty z prawem za wypuszczenie do morza gatunków...",
       "date_published": "2026-05-02T13:00:00+02:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Kryzys-wodny-w-Polsce-staje-sie-faktem-Ponizej-progu-bezpieczenstwa-ONZ-9124733.html",
-      "url": "https://www.bankier.pl/wiadomosc/Kryzys-wodny-w-Polsce-staje-sie-faktem-Ponizej-progu-bezpieczenstwa-ONZ-9124733.html",
-      "title": "Kryzys wodny w Polsce staje się faktem. Poniżej progu bezpieczeństwa ONZ",
-      "content_html": "Polska należy do krajów o najniższych zasobach wody przypadających na mieszkańca w Unii Europejskiej, a zmiany klimatu dodatkowo pogłębiają problem. Niestabilna sytuacja hydrologiczna to zagrożenie dla mieszkańców, ale także dla rolnictwa...",
-      "date_published": "2026-05-02T13:00:00+02:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Energia-jak-czarna-skrzynka-Polskie-firmy-budza-sie-dopiero-przy-placeniu-faktury-9124735.html",
-      "url": "https://www.bankier.pl/wiadomosc/Energia-jak-czarna-skrzynka-Polskie-firmy-budza-sie-dopiero-przy-placeniu-faktury-9124735.html",
-      "title": "Energia jak „czarna skrzynka”. Polskie firmy budzą się dopiero przy płaceniu faktury",
-      "content_html": "Prawie połowa przedsiębiorstw w Polsce nie kontroluje zużycia energii, a ponad jedna trzecia nie planuje inwestycji w tym obszarze - wynika z raportu Schneider Electric. Jednocześnie firmy mierzą się z wysokimi...",
-      "date_published": "2026-05-02T13:00:00+02:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Trump-wycofuje-wojska-amerykanskie-z-Niemiec-Dzieli-NATO-na-grzecznych-i-niegrzecznych-9126694.html",
-      "url": "https://www.bankier.pl/wiadomosc/Trump-wycofuje-wojska-amerykanskie-z-Niemiec-Dzieli-NATO-na-grzecznych-i-niegrzecznych-9126694.html",
-      "title": "Trump wycofuje wojska amerykańskie z Niemiec. Niemcy: To było do przewidzenia",
-      "content_html": "Szef Pentagonu Pete Hegseth podjął decyzję o wycofaniu ok. 5 tys. żołnierzy z Niemiec - poinformował w piątek rzecznik resortu Sean Parnell cytowany przez Fox News.",
-      "date_published": "2026-05-02T12:16:00+02:00",
       "source": "Bankier.pl"
     },
     {
@@ -443,62 +467,6 @@
       "content_html": "Portfel zamówień Pekabeksu ma rekordową wartość 2,3 mld zł - poinformowała spółka z branży budowlanej w komunikacie prasowym. Spółka wdraża plan naprawczy, którego celem jest odzyskanie rentowności w bieżącym roku, a następnie jej stopniowa...",
       "date_published": "2026-05-01T19:30:00+02:00",
       "source": "Bankier.pl"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Historyczny-szczyt-S-P-500-Apple-napedza-Wall-Street-podczas-gdy-Europa-swietuje-9126643.html",
-      "url": "https://www.bankier.pl/wiadomosc/Historyczny-szczyt-S-P-500-Apple-napedza-Wall-Street-podczas-gdy-Europa-swietuje-9126643.html",
-      "title": "Historyczny szczyt S&P 500. Apple napędza Wall Street, podczas gdy Europa świętuje",
-      "content_html": "Pierwsze godziny piątkowej sesji na Wall Street przebiegają pod znakiem niewielkich wzrostów. Giełdy europejskie są w większości nieczynne z powodu Święta Pracy. S&P 500 osiągnął nowy, dzienny szczyt wszech czasów, wspierany przez akcje...",
-      "date_published": "2026-05-01T19:12:00+02:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Spoofing-drogie-auta-i-falszywe-czeki-Lupy-wywozili-do-Polski-9122424.html",
-      "url": "https://www.bankier.pl/wiadomosc/Spoofing-drogie-auta-i-falszywe-czeki-Lupy-wywozili-do-Polski-9122424.html",
-      "title": "Spoofing, drogie auta i fałszywe czeki. Łupy wywozili do Polski",
-      "content_html": "Włoska Gwardia Finansowa przy wsparciu polskich służb rozbiła grupę przestępczą wyspecjalizowaną w oszustwach przy handlu luksusowymi autami - podała w piątek agencja ANSA. Samochody wywożono do Polski. Zarzuty postawiono dziewięciu osobom...",
-      "date_published": "2026-05-01T19:00:00+02:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Loty-tansze-o-18-proc-ale-wyjazdy-krotsze-Raport-z-majowkowych-rezerwacji-9123914.html",
-      "url": "https://www.bankier.pl/wiadomosc/Loty-tansze-o-18-proc-ale-wyjazdy-krotsze-Raport-z-majowkowych-rezerwacji-9123914.html",
-      "title": "Loty tańsze o 18 proc., ale wyjazdy krótsze. Raport z majówkowych rezerwacji",
-      "content_html": "Włochy i Hiszpania są najpopularniejszymi kierunkami zagranicznych wyjazdów na majówkę - wynika z informacji przekazanych PAP przez przedstawicieli branży turystycznej. W kraju największą popularnością cieszy się Bałtyk.",
-      "date_published": "2026-05-01T19:00:00+02:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/przemysl/trump-zapowiada-podwyzke-cla-na-samochody-z-ue-do-25-proc-opis",
-      "url": "https://biznes.pap.pl/wiadomosci/przemysl/trump-zapowiada-podwyzke-cla-na-samochody-z-ue-do-25-proc-opis",
-      "title": "Trump zapowiada podwyżkę cła na samochody z UE do 25 proc. (opis)",
-      "content_html": "Prezydent USA Donald Trump zapowiedział w piątek, że w przyszłym tygodniu podwyższy cła na samochody z UE do 25 proc. Zarzucił Unii Europejskiej, że nie przestrzega umowy handlowej ze Stanami Zjednocz",
-      "date_published": "2026-05-01T18:57:00+02:00",
-      "source": "PAP Biznes"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/przemysl/ml-system-zamknal-2025-rok-strata-netto-ma-rekordowy-portfel-zamowien-270-mln",
-      "url": "https://biznes.pap.pl/wiadomosci/przemysl/ml-system-zamknal-2025-rok-strata-netto-ma-rekordowy-portfel-zamowien-270-mln",
-      "title": "ML System zamknął 2025 rok stratą netto, ma rekordowy portfel zamówień 270 mln zł",
-      "content_html": "Grupa ML System zamknęła 2025 rok przychodami na poziomie 122,8 mln zł, o 24,3 proc. mniej w porównaniu z 2024 rokiem, przy stracie netto 42,4 mln zł (wobec 40,8 mln zł straty w roku 2024) - poinformo",
-      "date_published": "2026-05-01T18:48:00+02:00",
-      "source": "PAP Biznes"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/firmy/portfel-zamowien-pekabeksu-ma-rekordowa-wartosc-23-mld-zl-spolka-wdraza-plan",
-      "url": "https://biznes.pap.pl/wiadomosci/firmy/portfel-zamowien-pekabeksu-ma-rekordowa-wartosc-23-mld-zl-spolka-wdraza-plan",
-      "title": "Portfel zamówień Pekabeksu ma rekordową wartość 2,3 mld zł, spółka wdraża plan naprawczy",
-      "content_html": "Portfel zamówień Pekabeksu ma rekordową wartość 2,3 mld zł - poinformowała spółka z branży budowlanej w komunikacie prasowym. Spółka wdraża plan naprawczy, którego celem jest odzyskanie rentowności w ",
-      "date_published": "2026-05-01T18:29:00+02:00",
-      "source": "PAP Biznes"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/rynki/dzien-na-rynkach-na-wall-steet-male-wzrosty-wiekszosc-gield-w-europie-zamknieta",
-      "url": "https://biznes.pap.pl/wiadomosci/rynki/dzien-na-rynkach-na-wall-steet-male-wzrosty-wiekszosc-gield-w-europie-zamknieta",
-      "title": "DZIEŃ NA RYNKACH: Na Wall Steet małe wzrosty, większość giełd w Europie zamknięta",
-      "content_html": "Pierwsze godziny piątkowej sesji na Wall Street przebiegają pod znakiem niewielkich wzrostów. Giełdy europejskie są w większości nieczynne z powodu Święta Pracy. S&P 500 osiągnął nowy, dzienny szczyt ",
-      "date_published": "2026-05-01T18:10:00+02:00",
-      "source": "PAP Biznes"
     }
   ]
 }
