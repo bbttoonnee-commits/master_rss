@@ -5,6 +5,30 @@
   "home_page_url": "https://www.bankier.pl",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/Odyseja-polskiego-zlota-Jak-narodowy-skarb-przetrwal-wojne-dzieki-tajnej-ewakuacji-9124377.html",
+      "url": "https://www.bankier.pl/wiadomosc/Odyseja-polskiego-zlota-Jak-narodowy-skarb-przetrwal-wojne-dzieki-tajnej-ewakuacji-9124377.html",
+      "title": "Historia utraty kontroli na polskim złotem i wielkiej ewakuacji rezerw. Proces w Nowym Jorku, termity i rumuńskie zaskórniaki",
+      "content_html": "Dzisiejsze rezerwy złota Narodowego Banku Polskiego, przekraczające 580 ton, budzą zasłużony podziw i wzbudzają poczucie stabilności finansowej państwa. Jednak w burzliwej historii Polski istniał moment, gdy cały „skarb narodowy” ważył...",
+      "date_published": "2026-05-03T16:00:00+02:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Obrazony-jak-dzieciak-Trump-wykonuje-robote-za-Putina-Szok-w-Niemczech-9126935.html",
+      "url": "https://www.bankier.pl/wiadomosc/Obrazony-jak-dzieciak-Trump-wykonuje-robote-za-Putina-Szok-w-Niemczech-9126935.html",
+      "title": "„Obrażony jak dzieciak Trump wykonuje robotę za Putina”. Szok w Niemczech",
+      "content_html": "Niemiecka prasa bije na alarm: USA nie tylko zapowiedziały redukcję swoich sił w Niemczech, ale też – jak twierdzą amerykańskie gazety - odwołały planowane rozmieszczenie systemu rakiet średniego zasięgu, ważnego elementu odstraszania Rosji...",
+      "date_published": "2026-05-03T15:56:00+02:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Sztuczna-inteligencja-lamie-przepisy-zaplaci-Waymo-i-Tesla-Policja-z-nowymi-uprawnieniami-9126898.html",
+      "url": "https://www.bankier.pl/wiadomosc/Sztuczna-inteligencja-lamie-przepisy-zaplaci-Waymo-i-Tesla-Policja-z-nowymi-uprawnieniami-9126898.html",
+      "title": "Sztuczna inteligencja łamie przepisy, zapłaci Waymo i Tesla. Policja z nowymi uprawnieniami",
+      "content_html": "Policja w amerykańskim stanie Kalifornia będzie mogła wystawiać mandaty samochodom autonomicznym, które złamały przepisu ruchu drogowego. Odpowiednie regulacje zostały przyjęte przez stanowy Departament Motoryzacji - podała stacja BBC.",
+      "date_published": "2026-05-03T15:53:00+02:00",
+      "source": "Bankier.pl"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/OPEC-zwieksza-limity-wydobycia-ropy-Eksperci-To-zmiana-tylko-na-papierze-9126962.html",
       "url": "https://www.bankier.pl/wiadomosc/OPEC-zwieksza-limity-wydobycia-ropy-Eksperci-To-zmiana-tylko-na-papierze-9126962.html",
       "title": "OPEC+ zwiększa limity wydobycia ropy. Eksperci: To zmiana tylko na papierze",
@@ -19,6 +43,14 @@
       "content_html": "Otwarte starcie o fundamenty polskiego państwa w rocznicę uchwalenia historycznej Konstytucji 3 Maja. Podczas gdy prezydent Karol Nawrocki nawołuje do zakończenia paraliżującej państwo „dwuwładzy” i powołuje zespół do napisania nowej ustawy...",
       "date_published": "2026-05-03T15:25:00+02:00",
       "source": "Bankier.pl"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/rynki/po-wyjsciu-zea-kraje-opec-zwiekszyly-limity-wydobycia-na-czerwiec",
+      "url": "https://biznes.pap.pl/wiadomosci/rynki/po-wyjsciu-zea-kraje-opec-zwiekszyly-limity-wydobycia-na-czerwiec",
+      "title": "Po wyjściu ZEA kraje OPEC+ zwiększyły limity wydobycia na czerwiec",
+      "content_html": "Arabia Saudyjska, Rosja i pięć innych państw OPEC+ zwiększyło w niedzielę limity wydobycia ropy na czerwiec w ramach „współpracy na rzecz stabilności rynku naftowego”. W wydanym w tej sprawie komunika",
+      "date_published": "2026-05-03T15:20:00+02:00",
+      "source": "PAP Biznes"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Polski-nauczyciel-uksztaltowal-liderow-Doliny-Krzemowej-Netflix-opowie-jego-historie-9121674.html",
@@ -319,9 +351,9 @@
     {
       "id": "https://www.bankier.pl/wiadomosc/Odsetek-bykow-na-GPW-spadl-do-48-4-proc-spadkow-oczekuje-25-0-proc-9126823.html",
       "url": "https://www.bankier.pl/wiadomosc/Odsetek-bykow-na-GPW-spadl-do-48-4-proc-spadkow-oczekuje-25-0-proc-9126823.html",
-      "title": "Odsetek \"byków\" na GPW spadł do 48,4 proc., spadków oczekuje 25,0 proc. Odsetek inwestorów spodziewających się w ciągu sześciu miesięcy trendu wzrostowego na GPW spadł o 4,7 pkt. proc. i wyniósł 48,4 proc. Odsetek respondentów oczekujących trendu spadkowego wzrósł o 1,6 pkt. proc. do 25,0 proc. - wynika z cotygodniowego sondażu Indeksu Nastrojów Inwestorów.",
-      "content_html": "",
-      "date_published": "2026-05-02T17:36:00+02:00",
+      "title": "Odsetek \"byków\" na GPW spadł do 48,4 proc., spadków oczekuje 25,0 proc.",
+      "content_html": "Odsetek inwestorów spodziewających się w ciągu sześciu miesięcy trendu wzrostowego na GPW spadł o 4,7 pkt. proc. i wyniósł 48,4 proc. Odsetek respondentów oczekujących trendu spadkowego wzrósł o 1,6 pkt. proc. do 25,0 proc. - wynika z cotygodniowego...",
+      "date_published": "2026-05-02T18:36:00+02:00",
       "source": "Bankier.pl"
     },
     {
@@ -331,6 +363,14 @@
       "content_html": "Odsetek inwestorów spodziewających się w ciągu sześciu miesięcy trendu wzrostowego na GPW spadł o 4,7 pkt. proc. i wyniósł 48,4 proc. Odsetek respondentów oczekujących trendu spadkowego wzrósł o 1,6 p",
       "date_published": "2026-05-02T17:34:00+02:00",
       "source": "PAP Biznes"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Szansa-na-pokoj-przepadla-Trump-odrzuca-otwarcie-Ciesniny-Ormuz-9126813.html",
+      "url": "https://www.bankier.pl/wiadomosc/Szansa-na-pokoj-przepadla-Trump-odrzuca-otwarcie-Ciesniny-Ormuz-9126813.html",
+      "title": "Szansa na pokój przepadła. Trump odrzuca otwarcie Cieśniny Ormuz",
+      "content_html": "Odrzucona przez prezydenta USA Donalda Trumpa propozycja Iranu przewidywała otwarcie cieśniny Ormuz, pozostawiając rozmowy o irańskim programie jądrowym na później – poinformowała w sobotę agencja Reutera, powołując się na wysokiego rangą...",
+      "date_published": "2026-05-02T17:32:00+02:00",
+      "source": "Bankier.pl"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/ZEA-Wladze-zniesiono-ograniczenia-ruchu-lotniczego-wprowadzone-wraz-z-wojna-9126817.html",
@@ -370,14 +410,6 @@
       "title": "Koniec absurdalnych limitów? Rząd luzuje zasady przewozu ubrań i butów",
       "content_html": "Proponujemy złagodzenie zasad stosowania systemu SENT dla transportu odzieży i obuwia – powiedział w środę w Sejmie wiceminister finansów Zbigniew Stawicki. Dodał, że nowe regulacje powinny wejść w życie w ciągu tygodnia–dwóch.",
       "date_published": "2026-05-02T17:00:00+02:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Nowi-generalowie-w-Wojsku-Polskim-Prezydent-wreczyl-nominacje-9126805.html",
-      "url": "https://www.bankier.pl/wiadomosc/Nowi-generalowie-w-Wojsku-Polskim-Prezydent-wreczyl-nominacje-9126805.html",
-      "title": "Nowi generałowie w Wojsku Polskim. Prezydent wręczył nominacje",
-      "content_html": "Prezydent Karol Nawrocki wręczył w sobotę 12 nominacji na stopnie generalskie i jeden admiralski. W swoim wystąpieniu prezydent podkreślił, że należy umacniać nasze sojusze, w tym w NATO. Jak dodał, od tego są polscy generałowie ale przede...",
-      "date_published": "2026-05-02T16:19:00+02:00",
       "source": "Bankier.pl"
     }
   ]
