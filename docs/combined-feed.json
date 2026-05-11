@@ -5,19 +5,27 @@
   "home_page_url": "https://www.bankier.pl",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/Orlen-dokona-odpisow-w-raporcie-za-I-kwartal-2026-roku-na-1-145-mld-zl-9131275.html",
+      "url": "https://www.bankier.pl/wiadomosc/Orlen-dokona-odpisow-w-raporcie-za-I-kwartal-2026-roku-na-1-145-mld-zl-9131275.html",
+      "title": "Orlen dokona odpisów w raporcie za I kwartał 2026 roku na 1,145 mld zł",
+      "content_html": "Orlen w skonsolidowanym sprawozdaniu finansowym za I kwartał 2026 roku dokona odpisów aktualizujących wartość aktywów o łącznej wysokości 1,145 mld zł, w szczególności nakładów w wysokości 0,880 mld zł związanych z realizacją projektu...",
+      "date_published": "2026-05-11T23:08:00+02:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/rynki/dzien-na-rynkach-wall-street-z-rekordem-indeksu-sp-500-pomimo-zlych-wiesci-z-iranu",
+      "url": "https://biznes.pap.pl/wiadomosci/rynki/dzien-na-rynkach-wall-street-z-rekordem-indeksu-sp-500-pomimo-zlych-wiesci-z-iranu",
+      "title": "DZIEŃ NA RYNKACH: Wall Street z rekordem indeksu S&P 500 pomimo złych wieści z Iranu",
+      "content_html": "Poniedziałek na Wall Street przyniósł lekkie wzrosty, a S&P 500 pierwszy raz w historii zamknął dzień na poziomie powyżej 7.400 punktów. Stało się tak pomimo kolejnego niepowodzenia rozmów USA z Irane",
+      "date_published": "2026-05-11T22:19:00+02:00",
+      "source": "PAP Biznes"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Biura-podrozy-zaplaca-za-bitwy-o-lezaki-To-uzasadnienie-przelomowego-wyroku-9130729.html",
       "url": "https://www.bankier.pl/wiadomosc/Biura-podrozy-zaplaca-za-bitwy-o-lezaki-To-uzasadnienie-przelomowego-wyroku-9130729.html",
       "title": "Brak leżaka słono kosztuje. Ten wyrok to koszmar dla biur podróży",
       "content_html": "Niemiecki turysta wygrał w sądzie batalię z biurem podróży o absurdalne \"rezerwacje leżaków\", na których inni goście hotelowi mieli zostawiać ręczniki. Ten wyrok nie mógł przyjść w lepszym momencie - reszta biur podróży powinna się mieć...",
       "date_published": "2026-05-11T22:18:00+02:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Orlen-dokona-odpisow-w-raporcie-za-I-kwartal-2026-roku-na-1-145-mld-zl-9131275.html",
-      "url": "https://www.bankier.pl/wiadomosc/Orlen-dokona-odpisow-w-raporcie-za-I-kwartal-2026-roku-na-1-145-mld-zl-9131275.html",
-      "title": "Orlen dokona odpisów w raporcie za I kwartał 2026 roku na 1,145 mld zł Orlen w skonsolidowanym sprawozdaniu finansowym za I kwartał 2026 roku dokona odpisów aktualizujących wartość aktywów o łącznej wysokości 1,145 mld zł, w szczególności nakładów w wysokości 0,880 mld zł związanych z realizacją projektu Nowa Chemia - poinformowała spółka w komunikacie.",
-      "content_html": "",
-      "date_published": "2026-05-11T22:08:00+02:00",
       "source": "Bankier.pl"
     },
     {
@@ -333,14 +341,6 @@
       "source": "Bankier.pl"
     },
     {
-      "id": "https://biznes.pap.pl/wiadomosci/firmy/energa-rozpoczyna-emisje-akcji-serii-cc",
-      "url": "https://biznes.pap.pl/wiadomosci/firmy/energa-rozpoczyna-emisje-akcji-serii-cc",
-      "title": "Energa rozpoczyna emisję akcji serii CC",
-      "content_html": "Energa opublikowała dokument informacyjny i rozpoczyna emisję akcji serii CC - poinformowała spółka w komunikacie.",
-      "date_published": "2026-05-11T17:44:00+02:00",
-      "source": "PAP Biznes"
-    },
-    {
       "id": "https://www.bankier.pl/wiadomosc/Noble-Securities-obnizyl-cene-docelowa-akcji-Creepy-Jar-do-616-zl-9131096.html",
       "url": "https://www.bankier.pl/wiadomosc/Noble-Securities-obnizyl-cene-docelowa-akcji-Creepy-Jar-do-616-zl-9131096.html",
       "title": "Noble Securities obniżył cenę docelową akcji Creepy Jar do 616 zł",
@@ -411,6 +411,14 @@
       "content_html": "Opublikowany w poniedziałek projekt nowelizacji przewiduje zakaz waloryzacji ceny lokalu na niekorzyść nabywcy po podpisaniu umowy deweloperskiej lub umowy zobowiązującej. W przypadku niewywiązania się dewelopera z zobowiązań, zwrot opłaty rezerwacyjnej...",
       "date_published": "2026-05-11T16:57:00+02:00",
       "source": "Bankier.pl"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/gospodarka/prezydent-podpisal-ustawe-dot-zmian-w-srw-zwiazanych-z-klauzula-obronna",
+      "url": "https://biznes.pap.pl/wiadomosci/gospodarka/prezydent-podpisal-ustawe-dot-zmian-w-srw-zwiazanych-z-klauzula-obronna",
+      "title": "Prezydent podpisał ustawę dot. zmian w SRW związanych z klauzulą obronną",
+      "content_html": "Prezydent podpisał nowelizację ustawy o finansach publicznych oraz niektórych innych ustaw (druk sejmowy nr 2388) - poinformowała kancelaria prezydenta Karola Nawrockiego. Ustawa ta wprowadza zmiany w",
+      "date_published": "2026-05-11T16:54:00+02:00",
+      "source": "PAP Biznes"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Unijne-limity-na-emisje-KE-oglasza-zmiany-w-grze-sa-miliardy-euro-9131028.html",
@@ -1269,14 +1277,6 @@
       "source": "PAP Biznes"
     },
     {
-      "id": "https://www.bankier.pl/wiadomosc/Allegro-odzyskalo-pozycje-lidera-wsrod-platform-zakupowych-w-kwietniu-Mediapanel-9130725.html",
-      "url": "https://www.bankier.pl/wiadomosc/Allegro-odzyskalo-pozycje-lidera-wsrod-platform-zakupowych-w-kwietniu-Mediapanel-9130725.html",
-      "title": "Allegro odzyskało pozycję lidera wśród platform zakupowych w kwietniu",
-      "content_html": "Allegro odzyskało pozycję lidera wśród platform zakupowych w kwietniu - wynika z badania Mediapanel. Drugie w kolejności było Temu.",
-      "date_published": "2026-05-11T09:02:00+02:00",
-      "source": "Bankier.pl"
-    },
-    {
       "id": "https://biznes.pap.pl/wiadomosci/firmy/medicalgorithmics-zawarl-z-inwestorem-list-intencyjny-dot-potencjalnej-inwestycji",
       "url": "https://biznes.pap.pl/wiadomosci/firmy/medicalgorithmics-zawarl-z-inwestorem-list-intencyjny-dot-potencjalnej-inwestycji",
       "title": "Medicalgorithmics zawarł z inwestorem list intencyjny dot. potencjalnej inwestycji w spółkę",
@@ -1331,6 +1331,14 @@
       "content_html": "Notowania miedzi na giełdzie metali LME w Londynie rosną i mogą zaliczyć najwyższy poziom na zamknięciu handlu w historii. Inwestorzy na rynkach metali zdają się ignorować impas w relacjach pomiędzy U",
       "date_published": "2026-05-11T08:10:00+02:00",
       "source": "PAP Biznes"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Allegro-odzyskalo-pozycje-lidera-wsrod-platform-zakupowych-w-kwietniu-Mediapanel-9130725.html",
+      "url": "https://www.bankier.pl/wiadomosc/Allegro-odzyskalo-pozycje-lidera-wsrod-platform-zakupowych-w-kwietniu-Mediapanel-9130725.html",
+      "title": "MEDIAPANEL Allegro odzyskało pozycję lidera wśród platform zakupowych w kwietniu Allegro odzyskało pozycję lidera wśród platform zakupowych w kwietniu - wynika z badania Mediapanel. Drugie w kolejności było Temu.",
+      "content_html": "",
+      "date_published": "2026-05-11T08:02:00+02:00",
+      "source": "Bankier.pl"
     },
     {
       "id": "https://biznes.pap.pl/wiadomosci/firmy/allegro-odzyskalo-pozycje-lidera-wsrod-platform-zakupowych-w-kwietniu-mediapanel",
