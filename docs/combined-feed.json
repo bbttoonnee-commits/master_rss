@@ -5,19 +5,395 @@
   "home_page_url": "https://www.bankier.pl",
   "items": [
     {
-      "id": "https://biznes.pap.pl/wiadomosci/rynki/ceny-miedzi-w-londynie-blisko-rekordowych-poziomow-1",
-      "url": "https://biznes.pap.pl/wiadomosci/rynki/ceny-miedzi-w-londynie-blisko-rekordowych-poziomow-1",
+      "id": "https://biznes.pap.pl/wiadomosci/firmy/ceny-transakcyjne-nieruchomosci-na-rynku-pierwotnym-w-i-kw-spadly-rdr-o-03-proc-0",
+      "url": "https://biznes.pap.pl/wiadomosci/firmy/ceny-transakcyjne-nieruchomosci-na-rynku-pierwotnym-w-i-kw-spadly-rdr-o-03-proc-0",
+      "title": "Ceny transakcyjne nieruchomości na rynku pierwotnym w I kw. spadły rdr o 0,3 proc. - NBP (opis)",
+      "content_html": "Ceny transakcyjne na 7 największych rynkach nieruchomości w I kwartale 2026 roku spadły rdr o 0,3 proc. na rynku pierwotnym - podał NBP.",
+      "date_published": "2026-05-12T11:05:00+02:00",
+      "source": "PAP Biznes"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Kurs-euro-znow-idzie-w-gore-Drozejaca-ropa-oslabia-zlotego-9131433.html",
+      "url": "https://www.bankier.pl/wiadomosc/Kurs-euro-znow-idzie-w-gore-Drozejaca-ropa-oslabia-zlotego-9131433.html",
+      "title": "Kurs euro znów idzie w górę. Drożejąca ropa osłabia złotego",
+      "content_html": "We wtorek rano notowania euro i dolara podążały w górę wykresów, czemu towarzyszył wzrost cen ropy naftowej.",
+      "date_published": "2026-05-12T10:54:00+02:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Koniec-ukladu-z-Iranem-Teheran-grozi-atomem-a-Trump-mowi-o-wznowieniu-walk-9131426.html",
+      "url": "https://www.bankier.pl/wiadomosc/Koniec-ukladu-z-Iranem-Teheran-grozi-atomem-a-Trump-mowi-o-wznowieniu-walk-9131426.html",
+      "title": "Koniec układu z Iranem? Teheran grozi atomem, a Trump mówi o wznowieniu walk",
+      "content_html": "Jeśli Iran ponownie stałby się celem ataku, mógłby zacząć wzbogacanie uranu do poziomu 90 proc., czyli odpowiedniego do celów wojskowych - oświadczył we wtorek rzecznik parlamentarnej komisji ds. bezpieczeństwa narodowego i polityki zagranicznej...",
+      "date_published": "2026-05-12T10:51:00+02:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Niewiadow-PGM-planuje-pozyskac-z-emisji-akcji-z-ok-200-220-mln-zl-9131428.html",
+      "url": "https://www.bankier.pl/wiadomosc/Niewiadow-PGM-planuje-pozyskac-z-emisji-akcji-z-ok-200-220-mln-zl-9131428.html",
+      "title": "Niewiadów - PGM planuje pozyskać z emisji akcji z ok. 200-220 mln zł",
+      "content_html": "Główny akcjonariusz NWZ Niewiadów Polska Grupa Militarna (podmiot należący do Elżbiety Lubińskiej) przeprowadzi sprzedaż ponad 12 mln istniejących akcji spółki w ramach ABB. Środki pozyskane w ten sposób zostaną przez niego w całości przeznaczone...",
+      "date_published": "2026-05-12T10:44:00+02:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Allegro-uruchomilo-nowa-aplikacje-na-ChatGPT-9131454.html",
+      "url": "https://www.bankier.pl/wiadomosc/Allegro-uruchomilo-nowa-aplikacje-na-ChatGPT-9131454.html",
+      "title": "Allegro uruchomiło nową aplikację na ChatGPT Allegro uruchomiło nową aplikację na ChatGPT - podało Allegro w komunikacie prasowym.",
+      "content_html": "",
+      "date_published": "2026-05-12T10:44:00+02:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/firmy/allegro-uruchomilo-nowa-aplikacje-na-chatgpt",
+      "url": "https://biznes.pap.pl/wiadomosci/firmy/allegro-uruchomilo-nowa-aplikacje-na-chatgpt",
+      "title": "Allegro uruchomiło nową aplikację na ChatGPT",
+      "content_html": "Allegro uruchomiło nową aplikację na ChatGPT - podało Allegro w komunikacie prasowym.",
+      "date_published": "2026-05-12T10:42:00+02:00",
+      "source": "PAP Biznes"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Polenergia-sfinalizowala-sprzedaz-100-proc-akcji-spolki-Polenergia-Fotowoltaika-9131422.html",
+      "url": "https://www.bankier.pl/wiadomosc/Polenergia-sfinalizowala-sprzedaz-100-proc-akcji-spolki-Polenergia-Fotowoltaika-9131422.html",
+      "title": "Polenergia sfinalizowała sprzedaż 100 proc. akcji spółki Polenergia Fotowoltaika",
+      "content_html": "Polenergia sfinalizowała sprzedaż 100 proc. akcji spółki Polenergia Fotowoltaika. Nowym właścicielem został inwestor branżowy działający w polskim sektorze elektroenergetycznym, Grupa ELQ - podała Polenergia w komunikacie prasowym.",
+      "date_published": "2026-05-12T10:38:00+02:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/firmy/srednia-cena-gazu-zakupionego-w-krajach-spoza-ue-i-efta-w-i-kw-spadla-do-12937",
+      "url": "https://biznes.pap.pl/wiadomosci/firmy/srednia-cena-gazu-zakupionego-w-krajach-spoza-ue-i-efta-w-i-kw-spadla-do-12937",
+      "title": "Średnia cena gazu zakupionego w krajach spoza UE i EFTA w I kw. spadła do 129,37 zł/MWh - URE",
+      "content_html": "Średnia cena gazu zakupionego w krajach nie będących członkami UE i EFTA w I kwartale spadła do 129,37 zł/MWh ze 178,63 zł/MWh w I kwartale 2025 roku - podał URE w komunikacie.",
+      "date_published": "2026-05-12T10:38:00+02:00",
+      "source": "PAP Biznes"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/firmy/monitor-kadrowy-zestawienie-od-5-do-11-maja-1",
+      "url": "https://biznes.pap.pl/wiadomosci/firmy/monitor-kadrowy-zestawienie-od-5-do-11-maja-1",
+      "title": "Monitor kadrowy - zestawienie od 5 do 11 maja",
+      "content_html": "Przegląd informacji o zmianach personalnych w spółkach notowanych na rynku głównym GPW",
+      "date_published": "2026-05-12T10:34:00+02:00",
+      "source": "PAP Biznes"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/UniCredit-planuje-wykup-oraz-emisje-nowej-serii-obligacji-9131417.html",
+      "url": "https://www.bankier.pl/wiadomosc/UniCredit-planuje-wykup-oraz-emisje-nowej-serii-obligacji-9131417.html",
+      "title": "UniCredit planuje wykup oraz emisję nowej serii obligacji",
+      "content_html": "Włoski bank UniCredit ogłasza ofertę wykupu jednej serii obligacji oraz emisję nowych obligacji podporządkowanych typu Tier 2 denominowanych w euro - poinformował UniCredit w komunikacie.",
+      "date_published": "2026-05-12T10:28:00+02:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/firmy/ceny-transakcyjne-nieruchomosci-na-rynku-pierwotnym-w-i-kw-spadly-rdr-o-03-proc",
+      "url": "https://biznes.pap.pl/wiadomosci/firmy/ceny-transakcyjne-nieruchomosci-na-rynku-pierwotnym-w-i-kw-spadly-rdr-o-03-proc",
+      "title": "Ceny transakcyjne nieruchomości na rynku pierwotnym w I kw. spadły rdr o 0,3 proc. - NBP",
+      "content_html": "Ceny transakcyjne na 7 największych rynkach nieruchomości w I kwartale spadły rdr o 0,3 proc. na rynku pierwotnym - podał NBP.",
+      "date_published": "2026-05-12T10:24:00+02:00",
+      "source": "PAP Biznes"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/800-plus-i-zasilki-to-za-malo-Polacy-wola-norweski-socjal-tam-biora-miliony-9131382.html",
+      "url": "https://www.bankier.pl/wiadomosc/800-plus-i-zasilki-to-za-malo-Polacy-wola-norweski-socjal-tam-biora-miliony-9131382.html",
+      "title": "800+ i zasiłki to za mało? Polacy wolą norweski socjal - tam biorą miliony",
+      "content_html": "Polacy w Norwegii wyrastają na absolutnych liderów pod względem pobieranych świadczeń socjalnych. Dane norweskiego urzędu NAV, udostępnione \"Business Insiderowi\", pokazują, że transfery płynące do naszych rodaków idą w miliardy koron rocznie...",
+      "date_published": "2026-05-12T10:20:00+02:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Hossa-zbliza-sie-do-szczytu-Wpis-na-Facebooku-wysadzil-z-siodla-indeks-KOSPI-9131407.html",
+      "url": "https://www.bankier.pl/wiadomosc/Hossa-zbliza-sie-do-szczytu-Wpis-na-Facebooku-wysadzil-z-siodla-indeks-KOSPI-9131407.html",
+      "title": "Hossa zbliża się do szczytu? Wpis na Facebooku wysadził z siodła indeks KOSPI",
+      "content_html": "Komentarze opublikowane we wtorek na Facebooku przez szefa doradców prezydenta ds. polityki, Kim Yong-beoma, zafundowały inwestorom na koreańskiej giełdzie prawdziwy rollercoaster. Zszokowany rynek w panice próbował rozszyfrować rzeczywisty zasięg...",
+      "date_published": "2026-05-12T10:20:00+02:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Oferta-Budimeksu-najkorzystniejsza-w-przetargu-na-budowe-mostu-Muhlendamm-Berlin-Mitte-9131411.html",
+      "url": "https://www.bankier.pl/wiadomosc/Oferta-Budimeksu-najkorzystniejsza-w-przetargu-na-budowe-mostu-Muhlendamm-Berlin-Mitte-9131411.html",
+      "title": "Oferta Budimeksu najkorzystniejsza w przetargu na budowę mostu Mühlendamm",
+      "content_html": "Oferta konsorcjum w składzie: Budimex, Budimex Bau GmbH oraz Mostostal Kraków została wybrana jako najkorzystniejsza w przetargu na budowę mostu Mühlendamm - Berlin Mitte - podał Budimex w komunikacie. Wartość oferty to ok. 63 mln euro netto.",
+      "date_published": "2026-05-12T10:14:00+02:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Ranking-kredytow-hipotecznych-maj-2026-najlepsze-kredyty-hipoteczne-9129935.html",
+      "url": "https://www.bankier.pl/wiadomosc/Ranking-kredytow-hipotecznych-maj-2026-najlepsze-kredyty-hipoteczne-9129935.html",
+      "title": "Ranking kredytów hipotecznych. Hipoteki nadal drożeją, stała rata idzie w górę",
+      "content_html": "Taniej już było – tak prezentuje się sytuacja na rynku stałoprocentowych hipotek. W porównaniu z połową kwietnia stawki w zdecydowanej większości banków poszły w górę. Skala podwyżek nie jest szokująca, ale przy półmilionowym kredycie...",
+      "date_published": "2026-05-12T10:12:00+02:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Zdolnosc-kredytowa-dochod-15-tys-zl-maj-2026-9130836.html",
+      "url": "https://www.bankier.pl/wiadomosc/Zdolnosc-kredytowa-dochod-15-tys-zl-maj-2026-9130836.html",
+      "title": "Zdolność kredytowa się osuwa. Nawet kilkadziesiąt tysięcy mniej hipoteki",
+      "content_html": "Czasy rosnącej zdolności kredytowej na razie minęły. Rodzina z dochodem 15 tys. zł jeszcze dwa miesiące temu mogła liczyć na średnio 1,2 mln zł finansowania. W maju ten sam profil kredytobiorcy dostanie o ok. 40 tys. zł mniej.",
+      "date_published": "2026-05-12T10:09:00+02:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Ceny-paliw-na-stacjach-ida-w-dol-Orlen-tnie-stawki-w-hurcie-9131409.html",
+      "url": "https://www.bankier.pl/wiadomosc/Ceny-paliw-na-stacjach-ida-w-dol-Orlen-tnie-stawki-w-hurcie-9131409.html",
+      "title": "Ceny paliw na stacjach idą w dół. Orlen tnie stawki w hurcie",
+      "content_html": "Orlen obniżył we wtorek hurtowe ceny oleju napędowego Ekodiesel o 85 zł, a benzyny bezołowiowej Eurosuper 95 o 14 zł i jednocześnie podniósł hurtową cenę benzyny bezołowiowej Super Plus 98 o 53 zł za metr sześc. - wynika z danych opublikowanych...",
+      "date_published": "2026-05-12T10:09:00+02:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Wzrosty-cen-gazu-w-Europie-nie-ustaja-9131404.html",
+      "url": "https://www.bankier.pl/wiadomosc/Wzrosty-cen-gazu-w-Europie-nie-ustaja-9131404.html",
+      "title": "Wzrosty cen gazu w Europie nie ustają",
+      "content_html": "Ceny gazu w Europie rosną kolejny dzień w reakcji na wątpliwości prezydenta USA Donalda Trumpa co do zawieszenia broni z Iranem - informują maklerzy.",
+      "date_published": "2026-05-12T10:06:00+02:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Finanse-Zbigniewa-Ziobry-Ile-poszukiwany-posel-zarobi-w-TV-Republice-9130875.html",
+      "url": "https://www.bankier.pl/wiadomosc/Finanse-Zbigniewa-Ziobry-Ile-poszukiwany-posel-zarobi-w-TV-Republice-9130875.html",
+      "title": "Finanse Zbigniewa Ziobry. Ile poszukiwany poseł zarobi w TV Republice?",
+      "content_html": "Zbigniew Ziobro z Węgier przeprowadził się do USA. Jak zapowiedział minister sprawiedliwości Waldemar Żurek, Polska wystąpi o ekstradycję. Najprawdopodobniej posiada także amerykańską wizę, mimo wcześniejszych zapewnień ambasady, że \"USA...",
+      "date_published": "2026-05-12T10:00:00+02:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Enea-sfinalizowala-kupno-farmy-wiatrowej-Zaklikow-o-mocy-10-MW-9131397.html",
+      "url": "https://www.bankier.pl/wiadomosc/Enea-sfinalizowala-kupno-farmy-wiatrowej-Zaklikow-o-mocy-10-MW-9131397.html",
+      "title": "Enea sfinalizowała kupno farmy wiatrowej Zaklików o mocy 10 MW",
+      "content_html": "Grupa Enea oraz Greenvolt Power sfinalizowały transakcję sprzedaży Farmy Wiatrowej Zaklików o mocy 10 MW, zlokalizowanej w województwie podkarpackim, na rzecz Enei Nowa Energia - podała Enea w komunikacie prasowym.",
+      "date_published": "2026-05-12T09:58:00+02:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/gospodarka/dzien-na-fxfi-stabilizacja-eurpln-ok-424-na-rynku-dlugu-obligacje-pod-lekka",
+      "url": "https://biznes.pap.pl/wiadomosci/gospodarka/dzien-na-fxfi-stabilizacja-eurpln-ok-424-na-rynku-dlugu-obligacje-pod-lekka",
+      "title": "DZIEŃ NA FX/FI: Stabilizacja EUR/PLN ok. 4,24, na rynku długu obligacje pod lekką presją",
+      "content_html": "We wtorek możliwa jest stabilizacja kursu EUR/PLN w pobliżu 4,24, przy prawdopodobieństwie wzrostu kursu USD/PLN powyżej 3,61, a większe ruchy możliwe są po krajowych danych makro w drugiej części tyg",
+      "date_published": "2026-05-12T09:56:00+02:00",
+      "source": "PAP Biznes"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/firmy/niewiadow-pgm-planuje-pozyskac-z-emisji-akcji-ok-200-220-mln-zl",
+      "url": "https://biznes.pap.pl/wiadomosci/firmy/niewiadow-pgm-planuje-pozyskac-z-emisji-akcji-ok-200-220-mln-zl",
+      "title": "Niewiadów - PGM planuje pozyskać z emisji akcji ok. 200-220 mln zł",
+      "content_html": "Główny akcjonariusz NWZ Niewiadów Polska Grupa Militarna (podmiot należący do Elżbiety Lubińskiej) przeprowadzi sprzedaż ponad 12 mln istniejących akcji spółki w ramach ABB. Środki pozyskane w ten spo",
+      "date_published": "2026-05-12T09:43:00+02:00",
+      "source": "PAP Biznes"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/firmy/dzien-na-gpw-glowne-indeksy-znizkuja-wig20-w-dol-ponad-18-proc",
+      "url": "https://biznes.pap.pl/wiadomosci/firmy/dzien-na-gpw-glowne-indeksy-znizkuja-wig20-w-dol-ponad-18-proc",
+      "title": "DZIEŃ NA GPW: Główne indeksy zniżkują, WIG20 w dół ponad 1,8 proc.",
+      "content_html": "We wtorek rano główne indeksy GPW idą w dół, WIG20 zniżkuje ponad 1,8 proc. Wśród blue chipów nad kreską znajdują się jedynie notowania Orlenu i Aliora. Po wynikach zniżkują kursy TSG i Answear.",
+      "date_published": "2026-05-12T09:41:00+02:00",
+      "source": "PAP Biznes"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/gospodarka/liczba-cudzoziemcow-wykonujacych-w-polsce-prace-w-koncu-listopada-wyniosla",
+      "url": "https://biznes.pap.pl/wiadomosci/gospodarka/liczba-cudzoziemcow-wykonujacych-w-polsce-prace-w-koncu-listopada-wyniosla",
+      "title": "Liczba cudzoziemców wykonujących w Polsce pracę w końcu listopada wyniosła 1.138,0 tys. osób",
+      "content_html": "Liczba cudzoziemców wykonujących w Polsce pracę w końcu listopada 2025 r. wyniosła 1.138,0 tys. osób, o 6,4 proc. więcej rdr - podał GUS. W porównaniu do poprzedniego miesiąca ich liczba spadła o 0,1 ",
+      "date_published": "2026-05-12T09:39:00+02:00",
+      "source": "PAP Biznes"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/gospodarka/w-najblizszych-godzinach-przedluzenie-ograniczenia-cen-paliw-do-konca-maja-me",
+      "url": "https://biznes.pap.pl/wiadomosci/gospodarka/w-najblizszych-godzinach-przedluzenie-ograniczenia-cen-paliw-do-konca-maja-me",
+      "title": "W najbliższych godzinach przedłużenie ograniczenia cen paliw do końca maja - ME",
+      "content_html": "Przedłużenie o kolejna dwa tygodnie rządowego programu „Ceny Paliwa Niżej”, który obowiązuje obecnie do 15 maja, planowane jest w najbliższych godzinach - poinformował we wtorek szef resortu energii M",
+      "date_published": "2026-05-12T09:38:00+02:00",
+      "source": "PAP Biznes"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/firmy/polenergia-sfinalizowala-sprzedaz-100-proc-akcji-spolki-polenergia-fotowoltaika",
+      "url": "https://biznes.pap.pl/wiadomosci/firmy/polenergia-sfinalizowala-sprzedaz-100-proc-akcji-spolki-polenergia-fotowoltaika",
+      "title": "Polenergia sfinalizowała sprzedaż 100 proc. akcji spółki Polenergia Fotowoltaika",
+      "content_html": "Polenergia sfinalizowała sprzedaż 100 proc. akcji spółki Polenergia Fotowoltaika. Nowym właścicielem został inwestor branżowy działający w polskim sektorze elektroenergetycznym, Grupa ELQ - podała Pol",
+      "date_published": "2026-05-12T09:36:00+02:00",
+      "source": "PAP Biznes"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/rynki/dzien-na-rynkach-w-europie-na-gieldach-duze-spadki-indeksow-3",
+      "url": "https://biznes.pap.pl/wiadomosci/rynki/dzien-na-rynkach-w-europie-na-gieldach-duze-spadki-indeksow-3",
+      "title": "DZIEŃ NA RYNKACH: W Europie na giełdach duże spadki indeksów",
+      "content_html": "Na europejskich giełdach najważniejsze indeksy zniżkują po ponad 1 proc. Inwestorzy analizują wyniki kwartalne spółek z Europy i zastanawiają się nad komentarzami prezydenta USA dot. Iranu. Na rynku w",
+      "date_published": "2026-05-12T09:34:00+02:00",
+      "source": "PAP Biznes"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Atomowy-transport-dla-Kim-Dzong-Una-Tajemniczy-rosyjski-statek-na-dnie-9131364.html",
+      "url": "https://www.bankier.pl/wiadomosc/Atomowy-transport-dla-Kim-Dzong-Una-Tajemniczy-rosyjski-statek-na-dnie-9131364.html",
+      "title": "Atomowy transport dla Kima. Tajemniczy rosyjski statek na dnie",
+      "content_html": "W grudniu 2024 roku 60 mil morskich od hiszpańskiej Kartageny doszło do incydentu, który brzmi jak scenariusz thrillera szpiegowskiego. Rosyjski statek towarowy Ursa Major, oficjalnie przewożący dźwigi i puste kontenery, zatonął w niejasnych okolicznościach...",
+      "date_published": "2026-05-12T09:30:00+02:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Oferta-Elektrotimu-o-wartosci-80-95-mln-zl-najkorzystniejsza-w-przetargu-Tauron-Dystrybucja-9131380.html",
+      "url": "https://www.bankier.pl/wiadomosc/Oferta-Elektrotimu-o-wartosci-80-95-mln-zl-najkorzystniejsza-w-przetargu-Tauron-Dystrybucja-9131380.html",
+      "title": "Oferta Elektrotimu o wartości 80,95 mln zł najkorzystniejsza w przetargu Tauron Dystrybucja",
+      "content_html": "Oferta Elektrotimu o wartości 80,95 mln zł netto została wybrana jako najkorzystniejsza w postępowaniu prowadzonym przez Tauron Dystrybucja na przebudowę rozdzielni 110kV w stacji 400/110kV Pasikurowice - podał Elektrotim w komunikacie.",
+      "date_published": "2026-05-12T09:28:00+02:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Jest-kilka-scenariuszy-uwolnienia-rezerw-kapitalowych-w-PZU-i-Pekao-Balczun-MAP-9131381.html",
+      "url": "https://www.bankier.pl/wiadomosc/Jest-kilka-scenariuszy-uwolnienia-rezerw-kapitalowych-w-PZU-i-Pekao-Balczun-MAP-9131381.html",
+      "title": "Szef MAP: Jest kilka scenariuszy uwolnienia rezerw kapitałowych w PZU i Pekao",
+      "content_html": "Jest kilka scenariuszy uwolnienia rezerw kapitałowych w grupie PZU i Pekao obok podstawowego projektu reorganizacji kapitałowej - poinformował w TVP Info minister aktywów państwowych Wojciech Balczun.",
+      "date_published": "2026-05-12T09:28:00+02:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Ceny-miedzi-w-Londynie-blisko-rekordowych-poziomow-9131368.html",
+      "url": "https://www.bankier.pl/wiadomosc/Ceny-miedzi-w-Londynie-blisko-rekordowych-poziomow-9131368.html",
       "title": "Ceny miedzi w Londynie blisko rekordowych poziomów",
       "content_html": "Notowania miedzi na giełdzie metali LME w Londynie są blisko rekordowych poziomów w reakcji na odrzucenie przez USA propozycji pokojowej przedstawionej przez Iran - informują maklerzy.",
-      "date_published": "2026-05-12T08:04:00+02:00",
-      "source": "PAP Biznes"
+      "date_published": "2026-05-12T09:05:00+02:00",
+      "source": "Bankier.pl"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Arctic-Paper-mial-w-I-kw-2-6-mln-zl-zysku-EBITDA-powyzej-konsensusu-9131366.html",
       "url": "https://www.bankier.pl/wiadomosc/Arctic-Paper-mial-w-I-kw-2-6-mln-zl-zysku-EBITDA-powyzej-konsensusu-9131366.html",
-      "title": "Zaskoczenie w wynikach Arctic Paper. EBITDA dużo wyższa od prognoz Arctic Paper miał w pierwszym kwartale 2026 roku 2,6 mln zł zysku EBITDA - poinformował producent papieru graficznego i celulozy w raporcie. Wynik jest lepszy od oczekiwań analityków, którzy liczyli na 1,5 mln zł zysku EBITDA.",
-      "content_html": "",
-      "date_published": "2026-05-12T08:02:00+02:00",
+      "title": "Zaskoczenie w wynikach Arctic Paper. EBITDA dużo wyższa od prognoz",
+      "content_html": "Arctic Paper miał w pierwszym kwartale 2026 roku 2,6 mln zł zysku EBITDA - poinformował producent papieru graficznego i celulozy w raporcie. Wynik jest lepszy od oczekiwań analityków, którzy liczyli na 1,5 mln zł zysku EBITDA.",
+      "date_published": "2026-05-12T09:02:00+02:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Grupa-Azoty-rozmawia-z-MRiT-ws-rekompensat-kosztow-posrednich-na-produkcje-nawozow-MAP-9131365.html",
+      "url": "https://www.bankier.pl/wiadomosc/Grupa-Azoty-rozmawia-z-MRiT-ws-rekompensat-kosztow-posrednich-na-produkcje-nawozow-MAP-9131365.html",
+      "title": "Grupa Azoty rozmawia z MRiT ws. rekompensat kosztów pośrednich na produkcję nawozów",
+      "content_html": "Zarząd Grupy Azoty rozmawia z Ministerstwem Rozwoju i Technologii w sprawie rekompensat kosztów pośrednich na produkcję nawozów - poinformował w odpowiedzi na interpelację poselską szef resortu aktywów państwowych Wojciech Balczun.",
+      "date_published": "2026-05-12T08:54:00+02:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Ropa-drozeje-bo-prezydent-USA-poddaje-w-watpliwosc-rozejm-z-Iranem-9131362.html",
+      "url": "https://www.bankier.pl/wiadomosc/Ropa-drozeje-bo-prezydent-USA-poddaje-w-watpliwosc-rozejm-z-Iranem-9131362.html",
+      "title": "Ropa drożeje, bo prezydent USA poddaje w wątpliwość rozejm z Iranem",
+      "content_html": "Ceny ropy naftowej na globalnych giełdach kontynuują wzrosty po tym, jak prezydent USA Donald Trump poddał w wątpliwość rozejm Stanów Zjednoczonych z Iranem po odrzuceniu ostatniej oferty pokojowej złożonej przez Teheran - informują maklerzy...",
+      "date_published": "2026-05-12T08:48:00+02:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Wojna-domowa-w-PiS-o-Zbigniewa-Ziobre-Harcerze-uderzaja-w-bylego-ministra-9131357.html",
+      "url": "https://www.bankier.pl/wiadomosc/Wojna-domowa-w-PiS-o-Zbigniewa-Ziobre-Harcerze-uderzaja-w-bylego-ministra-9131357.html",
+      "title": "Wojna domowa w PiS o Zbigniewa Ziobrę. „Harcerze” uderzają w byłego ministra",
+      "content_html": "Posłowie PiS związani ze Zbigniewem Ziobrą i źródła z kierownictwa partii w rozmowach z PAP pozytywnie oceniają wyjazd b. szefa MS do USA. Z kolei politycy utożsamiani z frakcją M. Morawieckiego twierdzą, że Ziobro szkodzi wizerunkowi partii...",
+      "date_published": "2026-05-12T08:37:00+02:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Polacy-chca-zmian-w-Konstytucji-Znamy-wyniki-najnowszego-sondazu-9131346.html",
+      "url": "https://www.bankier.pl/wiadomosc/Polacy-chca-zmian-w-Konstytucji-Znamy-wyniki-najnowszego-sondazu-9131346.html",
+      "title": "Polacy chcą zmian w Konstytucji? Znamy wyniki najnowszego sondażu",
+      "content_html": "Łącznie 42,3 procent ankietowanych uznało, że Polska potrzebuje zmian w konstytucji; przeciwne zdanie miało łącznie 36 proc. respondentów – wynika z opublikowanego we wtorek sondażu UCE Research na zlecenie Onetu.",
+      "date_published": "2026-05-12T08:32:00+02:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Wielka-bitwa-o-kryptowaluty-w-Sejmie-Cztery-projekty-na-stole-a-w-tle-weta-prezydenta-9131334.html",
+      "url": "https://www.bankier.pl/wiadomosc/Wielka-bitwa-o-kryptowaluty-w-Sejmie-Cztery-projekty-na-stole-a-w-tle-weta-prezydenta-9131334.html",
+      "title": "Wielka bitwa o kryptowaluty w Sejmie. Cztery projekty na stole, a w tle weta prezydenta",
+      "content_html": "We wtorek Sejm ma rozpatrzyć cztery projekty ustaw regulujących rynek kryptoaktywów; wśród nich są dwa projekty poselskie oraz propozycja rządu i prezydenta. Będzie to trzecia próba uregulowania tego rynku, dwie poprzednie ustawy rządu zawetował...",
+      "date_published": "2026-05-12T08:31:00+02:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Tomasz-Sakiewicz-wezwany-przez-prokurature-Chodzi-o-prace-Ziobry-w-USA-9131277.html",
+      "url": "https://www.bankier.pl/wiadomosc/Tomasz-Sakiewicz-wezwany-przez-prokurature-Chodzi-o-prace-Ziobry-w-USA-9131277.html",
+      "title": "Tomasz Sakiewicz wezwany przez prokuraturę. Chodzi o pracę Ziobry w USA",
+      "content_html": "Prokuratorzy zdecydowali o wezwaniu jako świadka prezesa i redaktora naczelnego TV Republika Tomasza Sakiewicza, aby wyjaśnić, dlaczego poszukiwany Zbigniew Ziobro stał się korespondentem tej telewizji i czy to ma związek z przestępstwem poplecznictwa...",
+      "date_published": "2026-05-12T08:25:00+02:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Areszt-dla-Zbigniewa-Ziobry-za-wolny-Nikt-nie-przeczyta-tysiecy-tomow-w-kilka-dni-9131289.html",
+      "url": "https://www.bankier.pl/wiadomosc/Areszt-dla-Zbigniewa-Ziobry-za-wolny-Nikt-nie-przeczyta-tysiecy-tomow-w-kilka-dni-9131289.html",
+      "title": "Areszt dla Zbigniewa Ziobry za wolny? \"Nikt nie przeczyta tysięcy tomów w kilka dni\"",
+      "content_html": "Wrześniowy termin rozpoznania zażalenia na areszt Zbigniewa Ziobry został wyznaczony zgodnie z możliwościami sędziów - powiedziała w poniedziałek PAP rzeczniczka Sądu Okręgowego w Warszawie sędzia Anna Ptaszek. Mamy bardzo obszerną sprawę...",
+      "date_published": "2026-05-12T08:21:00+02:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Rzad-zamrozi-ceny-paliw-na-dluzej-Motyka-Wszystko-wskazuje-na-kolejne-dwa-tygodnie-9131266.html",
+      "url": "https://www.bankier.pl/wiadomosc/Rzad-zamrozi-ceny-paliw-na-dluzej-Motyka-Wszystko-wskazuje-na-kolejne-dwa-tygodnie-9131266.html",
+      "title": "Rząd zamrozi ceny paliw na dłużej? Motyka: Wszystko wskazuje na kolejne dwa tygodnie",
+      "content_html": "Wszystko wskazuje na to, że program Ceny Paliw Niżej zostanie przedłużony o kolejne dwa tygodnie - poinformował w poniedziałek minister energii Miłosz Motyka. Program zakłada obniżone stawki VAT i akcyzy na paliwa, a także mechanizm maksymalnej...",
+      "date_published": "2026-05-12T08:15:00+02:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Operacja-Ekonomiczna-Furia-uderza-w-sojusznikow-Iranu-Na-liscie-firmy-z-Bialorusi-i-Chin-9131296.html",
+      "url": "https://www.bankier.pl/wiadomosc/Operacja-Ekonomiczna-Furia-uderza-w-sojusznikow-Iranu-Na-liscie-firmy-z-Bialorusi-i-Chin-9131296.html",
+      "title": "Operacja \"Ekonomiczna Furia\" uderza w sojuszników Iranu. Na liście firmy z Białorusi i Chin",
+      "content_html": "Amerykański resort finansów objął sankcjami firmy z Białorusi, Chin, Hongkongu i Dubaju za dostarczanie broni i komponentów do budowy dronów Iranowi. Białoruska firma miała pośredniczyć w sprowadzaniu towarów z Chin do Iranu.",
+      "date_published": "2026-05-12T08:15:00+02:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Pulapka-na-osmoklasistow-Dobre-oceny-to-za-malo-by-dostac-sie-do-wymarzonej-szkoly-9131305.html",
+      "url": "https://www.bankier.pl/wiadomosc/Pulapka-na-osmoklasistow-Dobre-oceny-to-za-malo-by-dostac-sie-do-wymarzonej-szkoly-9131305.html",
+      "title": "Pułapka na ósmoklasistów. Dobre oceny to za mało, by dostać się do wymarzonej szkoły",
+      "content_html": "Test ma kluczowe znaczenie w procesie rekrutacji do szkół ponadpodstawowych. W teorii ma wyrównane szanse, w praktyce ujawnia nierówności edukacyjne - czytamy we wtorkowym wydaniu „Dziennika Gazety Prawnej”.",
+      "date_published": "2026-05-12T08:12:00+02:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Korea-Polnocna-zarabia-miliardy-na-wojnie-Zysk-bliski-rocznemu-PKB-9131262.html",
+      "url": "https://www.bankier.pl/wiadomosc/Korea-Polnocna-zarabia-miliardy-na-wojnie-Zysk-bliski-rocznemu-PKB-9131262.html",
+      "title": "Korea Północna zarabia miliardy na wojnie. \"Zysk bliski rocznemu PKB\"",
+      "content_html": "Korea Północna zarobiła przez trzy lata do 13 mld dolarów na pomocy Rosji w wojnie z Ukrainą - podliczył w poniedziałek portal Nikkei Asia. Korea Płn. dostarcza Rosji uzbrojenie, wysłała też na wojnę tysiące żołnierzy. Zyski z wojny mogą...",
+      "date_published": "2026-05-12T08:10:00+02:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Unia-uderza-sankcjami-w-Izrael-Netanjahu-odpowiada-moralne-bankructwo-9131298.html",
+      "url": "https://www.bankier.pl/wiadomosc/Unia-uderza-sankcjami-w-Izrael-Netanjahu-odpowiada-moralne-bankructwo-9131298.html",
+      "title": "Unia uderza sankcjami w Izrael. Netanjahu odpowiada: moralne bankructwo",
+      "content_html": "Premier Izraela Benjamin Netanjahu przekazał w poniedziałek, że ogłoszone tego dnia przez Unię Europejską nowe sankcje na ekstremistycznych izraelskich osadników są nieakceptowalne i pokazują „moralne bankructwo” Europy.",
+      "date_published": "2026-05-12T08:10:00+02:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/6-proc-dla-kazdego-od-Trade-Republic-Bank-nokautuje-konkurencje-9131143.html",
+      "url": "https://www.bankier.pl/wiadomosc/6-proc-dla-kazdego-od-Trade-Republic-Bank-nokautuje-konkurencje-9131143.html",
+      "title": "6 proc. dla każdego od Trade Republic. Bank nokautuje konkurencję",
+      "content_html": "Trade Republic szykuje najmocniejsze uderzenie od momentu wejścia do Polski. Proponuje 6 proc. oprocentowania gotówki dla wszystkich klientów. Równolegle firma zapowiada uruchomienie całodobowej obsługi klienta przez telefon oraz „zatrudnia”...",
+      "date_published": "2026-05-12T08:00:00+02:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Amerykanscy-dyplomaci-zdziwieni-Ziobra-Kwestionuje-sie-wymiar-sprawiedliwosci-sojusznika-9131258.html",
+      "url": "https://www.bankier.pl/wiadomosc/Amerykanscy-dyplomaci-zdziwieni-Ziobra-Kwestionuje-sie-wymiar-sprawiedliwosci-sojusznika-9131258.html",
+      "title": "Amerykańscy dyplomaci zdziwieni Ziobrą. \"Kwestionuje się wymiar sprawiedliwości sojusznika\"",
+      "content_html": "Sprawa wyjazdu Zbigniewa Ziobry do USA jest bardzo niecodzienna; nie wpłynie w istotny sposób na relacje polsko-amerykańskie – powiedział PAP Matthew Boyse, były wysoki rangą dyplomata. Wyraził też sceptycyzm wobec doniesień, że decyzję o...",
+      "date_published": "2026-05-12T08:00:00+02:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/ZEA-potajemnie-zaatakowaly-Iran-WSJ-ujawnia-kulisy-ataku-w-przededniu-rozejmu-9131297.html",
+      "url": "https://www.bankier.pl/wiadomosc/ZEA-potajemnie-zaatakowaly-Iran-WSJ-ujawnia-kulisy-ataku-w-przededniu-rozejmu-9131297.html",
+      "title": "ZEA potajemnie zaatakowały Iran. \"WSJ\" ujawnia kulisy ataku w przededniu rozejmu",
+      "content_html": "Siły zbrojne Zjednoczonych Emiratów Arabskich przeprowadziły potajemne ataki na Iran - podał w poniedziałek „Wall Street Journal”. Celem uderzeń była m.in. irańska rafineria na wyspie Lawan.",
+      "date_published": "2026-05-12T08:00:00+02:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Ozywienie-na-linii-Turcja-Bruksela-Erdogan-domaga-sie-szybkiej-modernizacji-unii-celnej-9131299.html",
+      "url": "https://www.bankier.pl/wiadomosc/Ozywienie-na-linii-Turcja-Bruksela-Erdogan-domaga-sie-szybkiej-modernizacji-unii-celnej-9131299.html",
+      "title": "Ożywienie na linii Turcja-Bruksela. Erdogan domaga się szybkiej modernizacji unii celnej",
+      "content_html": "Prezydent Turcji Recep Tayyip Erdogan spotkał się w poniedziałek w Stambule z belgijską królową Matyldą. Turecki przywódca podkreślił, że zawirowania geopolityczne wzmacniają potrzebę zacieśniania więzi Turcji z Unią Europejską - przekazała...",
+      "date_published": "2026-05-12T08:00:00+02:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Trump-blokuje-plan-Mosadu-Izrael-chcial-uzbroic-Kurdow-i-wyslac-do-Iranu-9131302.html",
+      "url": "https://www.bankier.pl/wiadomosc/Trump-blokuje-plan-Mosadu-Izrael-chcial-uzbroic-Kurdow-i-wyslac-do-Iranu-9131302.html",
+      "title": "Trump blokuje plan Mosadu. Izrael chciał uzbroić Kurdów i wysłać do Iranu",
+      "content_html": "Prezydent USA Donald Trump zawetował pomysł ułatwienia powstania Kurdów przeciwko irańskiemu reżimowi - poinformował portal izraelskiego dziennika „Jerusalem Post”.",
+      "date_published": "2026-05-12T08:00:00+02:00",
       "source": "Bankier.pl"
     },
     {
@@ -29,11 +405,19 @@
       "source": "PAP Biznes"
     },
     {
-      "id": "https://www.bankier.pl/wiadomosc/Grupa-Azoty-rozmawia-z-MRiT-ws-rekompensat-kosztow-posrednich-na-produkcje-nawozow-MAP-9131365.html",
-      "url": "https://www.bankier.pl/wiadomosc/Grupa-Azoty-rozmawia-z-MRiT-ws-rekompensat-kosztow-posrednich-na-produkcje-nawozow-MAP-9131365.html",
-      "title": "Grupa Azoty rozmawia z MRiT ws. rekompensat kosztów pośrednich na produkcję nawozów Zarząd Grupy Azoty rozmawia z Ministerstwem Rozwoju i Technologii w sprawie rekompensat kosztów pośrednich na produkcję nawozów - poinformował w odpowiedzi na interpelację poselską szef resortu aktywów państwowych Wojciech Balczun.",
-      "content_html": "",
-      "date_published": "2026-05-12T07:54:00+02:00",
+      "id": "https://www.bankier.pl/wiadomosc/Trump-powiedzial-Fox-News-ze-rozwaza-uczynienie-Wenezueli-51-stanem-USA-9131233.html",
+      "url": "https://www.bankier.pl/wiadomosc/Trump-powiedzial-Fox-News-ze-rozwaza-uczynienie-Wenezueli-51-stanem-USA-9131233.html",
+      "title": "Trump powiedział Fox News, że rozważa uczynienie Wenezueli 51. stanem USA",
+      "content_html": "Prezydent Donald Trump powiedział w poniedziałek w rozmowie telefonicznej ze stacją Fox News, że „poważnie rozważa uczynienie Wenezueli 51. stanem” USA - przekazał reporter telewizji. Prezydent utrzymywał, że Wenezuelczycy go kochają.",
+      "date_published": "2026-05-12T07:56:00+02:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Jak-Ziobro-wjechal-do-Stanow-bez-paszportu-USA-odmawiaja-informacji-o-wizach-9131288.html",
+      "url": "https://www.bankier.pl/wiadomosc/Jak-Ziobro-wjechal-do-Stanow-bez-paszportu-USA-odmawiaja-informacji-o-wizach-9131288.html",
+      "title": "Jak Ziobro wjechał do Stanów bez paszportu? USA odmawiają informacji o wizach",
+      "content_html": "Departament Stanu USA odmówił w poniedziałek określenia, w jakim trybie do Stanów Zjednoczonych przybył były minister sprawiedliwości Zbigniew Ziobro, powołując się na poufność danych dotyczących wydawanych wiz.",
+      "date_published": "2026-05-12T07:53:00+02:00",
       "source": "Bankier.pl"
     },
     {
@@ -43,6 +427,22 @@
       "content_html": "Zarząd Grupy Azoty rozmawia z Ministerstwem Rozwoju i Technologii w sprawie rekompensat kosztów pośrednich na produkcję nawozów - poinformował w odpowiedzi na interpelację poselską szef resortu aktywó",
       "date_published": "2026-05-12T07:53:00+02:00",
       "source": "PAP Biznes"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Globalny-gigant-wchodzi-do-Polski-Pinsent-Masons-otwiera-biuro-w-Warszawie-9131343.html",
+      "url": "https://www.bankier.pl/wiadomosc/Globalny-gigant-wchodzi-do-Polski-Pinsent-Masons-otwiera-biuro-w-Warszawie-9131343.html",
+      "title": "Globalny gigant wchodzi do Polski. Pinsent Masons otwiera biuro w Warszawie",
+      "content_html": "Firma prawnicza Pinsent Masons otwiera biuro w Warszawie i rozpoczyna działalność z ponad 40-osobową strukturą - poinformowano w komunikacie prasowym.",
+      "date_published": "2026-05-12T07:52:00+02:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Byly-szef-biura-prezydenta-Ukrainy-podejrzany-o-udzial-w-zorganizowanej-grupie-przestepczej-9131250.html",
+      "url": "https://www.bankier.pl/wiadomosc/Byly-szef-biura-prezydenta-Ukrainy-podejrzany-o-udzial-w-zorganizowanej-grupie-przestepczej-9131250.html",
+      "title": "Były szef biura prezydenta Ukrainy podejrzany o udział w zorganizowanej grupie przestępczej",
+      "content_html": "Były szef Biura Prezydenta Ukrainy Andrij Jermak jest podejrzany o udział w zorganizowanej grupie przestępczej powiązanej z legalizacją 460 mln hrywien (37,6 mln złotych) – powiadomiła w poniedziałek Specjalna Prokuratura Antykorupcyjna Ukrainy...",
+      "date_published": "2026-05-12T07:50:00+02:00",
+      "source": "Bankier.pl"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Donald-Trump-chce-zniesc-podatek-od-paliw-Zrobmy-to-9131269.html",
@@ -141,14 +541,6 @@
       "source": "Bankier.pl"
     },
     {
-      "id": "https://www.bankier.pl/wiadomosc/Zdolnosc-kredytowa-dochod-15-tys-zl-maj-2026-9130836.html",
-      "url": "https://www.bankier.pl/wiadomosc/Zdolnosc-kredytowa-dochod-15-tys-zl-maj-2026-9130836.html",
-      "title": "Zdolność kredytowa się osuwa. Nawet kilkadziesiąt tysięcy mniej hipoteki",
-      "content_html": "Czasy rosnącej zdolności kredytowej na razie minęły. Rodzina z dochodem 15 tys. zł jeszcze dwa miesiące temu mogła liczyć na średnio 1,2 mln zł finansowania. W maju ten sam profil kredytobiorcy dostanie o ok. 40 tys. zł mniej.",
-      "date_published": "2026-05-12T07:00:00+02:00",
-      "source": "Bankier.pl"
-    },
-    {
       "id": "https://www.bankier.pl/wiadomosc/Ranking-lokat-na-3-miesiace-maj-2026-r-Niespodzianka-na-lokatach-dwa-banki-daja-6-9130978.html",
       "url": "https://www.bankier.pl/wiadomosc/Ranking-lokat-na-3-miesiace-maj-2026-r-Niespodzianka-na-lokatach-dwa-banki-daja-6-9130978.html",
       "title": "Najlepsze lokaty kwartalne. Przełom na depozytach – stawka rośnie do 6%",
@@ -197,14 +589,6 @@
       "source": "PAP Biznes"
     },
     {
-      "id": "https://www.bankier.pl/wiadomosc/Globalny-gigant-wchodzi-do-Polski-Pinsent-Masons-otwiera-biuro-w-Warszawie-9131343.html",
-      "url": "https://www.bankier.pl/wiadomosc/Globalny-gigant-wchodzi-do-Polski-Pinsent-Masons-otwiera-biuro-w-Warszawie-9131343.html",
-      "title": "Globalny gigant wchodzi do Polski. Pinsent Masons otwiera biuro w Warszawie Firma prawnicza Pinsent Masons otwiera biuro w Warszawie i rozpoczyna działalność z ponad 40-osobową strukturą - poinformowano w komunikacie prasowym.",
-      "content_html": "",
-      "date_published": "2026-05-12T06:52:00+02:00",
-      "source": "Bankier.pl"
-    },
-    {
       "id": "https://www.bankier.pl/wiadomosc/Polska-wciaz-ma-powazny-problem-Srednia-wieku-pielegniarek-to-55-lat-9131321.html",
       "url": "https://www.bankier.pl/wiadomosc/Polska-wciaz-ma-powazny-problem-Srednia-wieku-pielegniarek-to-55-lat-9131321.html",
       "title": "Polska wciąż ma poważny problem. Średnia wieku pielęgniarek to 55 lat",
@@ -226,6 +610,22 @@
       "title": "Rentowności obligacji wybranych państw (tabela)",
       "content_html": "Poniżej zestawienie rentowności obligacji wybranych państw.",
       "date_published": "2026-05-12T06:31:00+02:00",
+      "source": "PAP Biznes"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/rynki/notowania-metali-bazowych-wegla-i-paliw-tabela-2520",
+      "url": "https://biznes.pap.pl/wiadomosci/rynki/notowania-metali-bazowych-wegla-i-paliw-tabela-2520",
+      "title": "Notowania metali bazowych, węgla i paliw (tabela)",
+      "content_html": "Notowania metali bazowych na London Metal Exchange, uprawnień EUA do emisji CO2, ceny węgla energetycznego ARA na przyszły rok oraz ceny paliw.",
+      "date_published": "2026-05-12T06:31:00+02:00",
+      "source": "PAP Biznes"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/rynki/zamkniecia-na-gieldach-w-ameryce-polnocnej-i-poludniowej-tabela-3128",
+      "url": "https://biznes.pap.pl/wiadomosci/rynki/zamkniecia-na-gieldach-w-ameryce-polnocnej-i-poludniowej-tabela-3128",
+      "title": "Zamknięcia na giełdach w Ameryce Północnej i Południowej (tabela)",
+      "content_html": "Poniżej zamknięcia i zmiany indeksów w USA. Kanadzie, Meksyku, Brazylii, Chile, Kolumbii i Argentynie:",
+      "date_published": "2026-05-12T06:30:00+02:00",
       "source": "PAP Biznes"
     },
     {
@@ -253,6 +653,14 @@
       "source": "Bankier.pl"
     },
     {
+      "id": "https://biznes.pap.pl/wiadomosci/rynki/dzien-na-rynkach-wall-street-z-rekordem-indeksu-sp-500-pomimo-zlych-wiesci-z-iranu",
+      "url": "https://biznes.pap.pl/wiadomosci/rynki/dzien-na-rynkach-wall-street-z-rekordem-indeksu-sp-500-pomimo-zlych-wiesci-z-iranu",
+      "title": "DZIEŃ NA RYNKACH: Wall Street z rekordem indeksu S&P 500 pomimo złych wieści z Iranu",
+      "content_html": "Poniedziałek na Wall Street przyniósł lekkie wzrosty, a S&P 500 pierwszy raz w historii zamknął dzień na poziomie powyżej 7.400 punktów. Stało się tak pomimo kolejnego niepowodzenia rozmów USA z Irane",
+      "date_published": "2026-05-11T22:19:00+02:00",
+      "source": "PAP Biznes"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Biura-podrozy-zaplaca-za-bitwy-o-lezaki-To-uzasadnienie-przelomowego-wyroku-9130729.html",
       "url": "https://www.bankier.pl/wiadomosc/Biura-podrozy-zaplaca-za-bitwy-o-lezaki-To-uzasadnienie-przelomowego-wyroku-9130729.html",
       "title": "Brak leżaka słono kosztuje. Ten wyrok to koszmar dla biur podróży",
@@ -261,19 +669,19 @@
       "source": "Bankier.pl"
     },
     {
+      "id": "https://biznes.pap.pl/wiadomosci/firmy/orlen-dokona-odpisow-w-raporcie-za-i-kwartal-2026-roku-na-1145-mld-zl",
+      "url": "https://biznes.pap.pl/wiadomosci/firmy/orlen-dokona-odpisow-w-raporcie-za-i-kwartal-2026-roku-na-1145-mld-zl",
+      "title": "Orlen dokona odpisów w raporcie za I kwartał 2026 roku na 1,145 mld zł",
+      "content_html": "Orlen w skonsolidowanym sprawozdaniu finansowym za I kwartał 2026 roku dokona odpisów aktualizujących wartość aktywów o łącznej wysokości 1,145 mld zł, w szczególności nakładów w wysokości 0,880 mld z",
+      "date_published": "2026-05-11T22:06:00+02:00",
+      "source": "PAP Biznes"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Afera-w-szpitalu-Tomasz-Lenz-wyrzucony-z-partii-Znamy-kulisy-decyzji-ws-zabiegu-bez-kolejki-9131238.html",
       "url": "https://www.bankier.pl/wiadomosc/Afera-w-szpitalu-Tomasz-Lenz-wyrzucony-z-partii-Znamy-kulisy-decyzji-ws-zabiegu-bez-kolejki-9131238.html",
       "title": "Afera w szpitalu. Tomasz Lenz wyrzucony z partii. Znamy kulisy decyzji ws. zabiegu bez kolejki",
       "content_html": "Senator Tomasz Lenz został wykluczony z Koalicji Obywatelskiej i klubu parlamentarnego . Ma to związek z zabiegiem jego syna, który został wykonany poza kolejką w szpitalu w Aleksandrowie. Decyzję - jak poinformował wieczorem przewodniczący klubu...",
       "date_published": "2026-05-11T22:04:00+02:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Byly-szef-biura-prezydenta-Ukrainy-podejrzany-o-udzial-w-zorganizowanej-grupie-przestepczej-9131250.html",
-      "url": "https://www.bankier.pl/wiadomosc/Byly-szef-biura-prezydenta-Ukrainy-podejrzany-o-udzial-w-zorganizowanej-grupie-przestepczej-9131250.html",
-      "title": "Były szef biura prezydenta Ukrainy podejrzany o udział w zorganizowanej grupie przestępczej",
-      "content_html": "Były szef Biura Prezydenta Ukrainy Andrij Jermak jest podejrzany o udział w zorganizowanej grupie przestępczej powiązanej z legalizacją 460 mln hrywien (37,6 mln złotych) – powiadomiła w poniedziałek Specjalna Prokuratura Antykorupcyjna Ukrainy...",
-      "date_published": "2026-05-11T21:52:00+02:00",
       "source": "Bankier.pl"
     },
     {
@@ -285,12 +693,12 @@
       "source": "Bankier.pl"
     },
     {
-      "id": "https://www.bankier.pl/wiadomosc/Trump-powiedzial-Fox-News-ze-rozwaza-uczynienie-Wenezueli-51-stanem-USA-9131233.html",
-      "url": "https://www.bankier.pl/wiadomosc/Trump-powiedzial-Fox-News-ze-rozwaza-uczynienie-Wenezueli-51-stanem-USA-9131233.html",
-      "title": "Trump powiedział Fox News, że rozważa uczynienie Wenezueli 51. stanem USA",
-      "content_html": "Prezydent Donald Trump powiedział w poniedziałek w rozmowie telefonicznej ze stacją Fox News, że „poważnie rozważa uczynienie Wenezueli 51. stanem” USA - przekazał reporter telewizji. Prezydent utrzymywał, że Wenezuelczycy go kochają.",
-      "date_published": "2026-05-11T20:44:00+02:00",
-      "source": "Bankier.pl"
+      "id": "https://biznes.pap.pl/wiadomosci/ekonomia-biznes-i-finanse/skrot-wiadomosci-poniedzialek-11-maja-2100",
+      "url": "https://biznes.pap.pl/wiadomosci/ekonomia-biznes-i-finanse/skrot-wiadomosci-poniedzialek-11-maja-2100",
+      "title": "Skrót wiadomości - poniedziałek, 11 maja, 21.00",
+      "content_html": "Przegląd najważniejszych wiadomości gospodarczych, krajowych i ze świata.",
+      "date_published": "2026-05-11T21:00:00+02:00",
+      "source": "PAP Biznes"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Answear-mial-w-I-kw-6-6-mln-zl-zysku-EBITDA-zgodnie-z-oczekiwaniami-9131232.html",
@@ -365,12 +773,28 @@
       "source": "Bankier.pl"
     },
     {
+      "id": "https://biznes.pap.pl/wiadomosci/firmy/answear-mial-w-i-kw-66-mln-zl-zysku-ebitda-zgodnie-z-oczekiwaniami",
+      "url": "https://biznes.pap.pl/wiadomosci/firmy/answear-mial-w-i-kw-66-mln-zl-zysku-ebitda-zgodnie-z-oczekiwaniami",
+      "title": "Answear miał w I kw. 6,6 mln zł zysku EBITDA, zgodnie z oczekiwaniami",
+      "content_html": "Answear miał w pierwszym kwartale 2026 roku 6,6 mln zł zysku EBITDA oraz 6,8 mln zł straty netto - poinformowała spółka w raporcie kwartalnym. Konsensus zakładał 6,7 mln zł wyniku EBITDA oraz 6,5 mln ",
+      "date_published": "2026-05-11T19:37:00+02:00",
+      "source": "PAP Biznes"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Informacja-na-platformie-X-dot-zmian-w-zarzadzie-KGHM-nie-byla-ujawnieniem-informacji-poufnej-UKNF-9131196.html",
       "url": "https://www.bankier.pl/wiadomosc/Informacja-na-platformie-X-dot-zmian-w-zarzadzie-KGHM-nie-byla-ujawnieniem-informacji-poufnej-UKNF-9131196.html",
       "title": "Afera wokół giganta KGHM. Wiemy, co ustaliła KNF w sprawie „wycieku” kluczowych informacji",
       "content_html": "Wcześniejsze przekazanie na platformie X informacji o odwołaniu części zarządu KGHM nie stanowiło bezprawnego ujawnienia informacji poufnej - poinformowała KNF w komunikacie. Oceniono jednak, że praktyka stosowana przez KGHM przy ocenie kryteriów...",
       "date_published": "2026-05-11T19:26:00+02:00",
       "source": "Bankier.pl"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/firmy/wyniki-answear-w-i-kw-2026-roku-vs-konsensus-pap-tabela",
+      "url": "https://biznes.pap.pl/wiadomosci/firmy/wyniki-answear-w-i-kw-2026-roku-vs-konsensus-pap-tabela",
+      "title": "Wyniki Answear w I kw. 2026 roku vs. konsensus PAP (tabela)",
+      "content_html": "Poniżej przedstawiono wyniki Answear w pierwszym kwartale 2026 roku i ich odniesienie do konsensusu PAP Biznes oraz poprzednich wyników.",
+      "date_published": "2026-05-11T19:20:00+02:00",
+      "source": "PAP Biznes"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Kolejne-dwa-weta-Jedno-dotyczy-likwidacji-CBA-9131078.html",
@@ -391,7 +815,7 @@
     {
       "id": "https://www.bankier.pl/wiadomosc/Alimenciarze-bez-paszportu-Dluznicy-alimentacyjni-nie-wyjada-z-kraju-dopoki-nie-splaca-zobowiazan-wobec-dzieci-9131176.html",
       "url": "https://www.bankier.pl/wiadomosc/Alimenciarze-bez-paszportu-Dluznicy-alimentacyjni-nie-wyjada-z-kraju-dopoki-nie-splaca-zobowiazan-wobec-dzieci-9131176.html",
-      "title": "Alimenciarze bez paszportu? Dłużnicy alimentacyjni nie wyjadą z kraju dopóki nie spłacą zobowiązań wobec dzieci",
+      "title": "Nowy bat na alimenciarzy. Koniec z wyjazdami na zagraniczne wakacje",
       "content_html": "Departament Stanu USA ogłosił, że rozpocznie procedurę unieważniania paszportów Amerykanom, którzy są winni znaczne kwoty z tytułu alimentów na dzieci.",
       "date_published": "2026-05-11T18:58:00+02:00",
       "source": "Bankier.pl"
@@ -403,6 +827,22 @@
       "content_html": "Mostostal Warszawa szacuje, że w pierwszym kwartale 2026 r. miał 9,7 mln zł straty netto j.d., a przychody wyniosły 251 mln zł - podała spółka w komunikacie.",
       "date_published": "2026-05-11T18:56:00+02:00",
       "source": "Bankier.pl"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/firmy/grupa-unimot-szacuje-ze-w-i-kw-miala-101-mln-zl-skorygowanej-ebitda-powyzej",
+      "url": "https://biznes.pap.pl/wiadomosci/firmy/grupa-unimot-szacuje-ze-w-i-kw-miala-101-mln-zl-skorygowanej-ebitda-powyzej",
+      "title": "Grupa Unimot szacuje, że w I kw. miała 101 mln zł skorygowanej EBITDA, powyżej oczekiwań",
+      "content_html": "Grupa Unimot szacuje, że w I kwartale 2026 roku miała 101 mln zł skorygowanej EBITDA, wobec 47 mln zł w analogicznym okresie 2025 roku - podała spółka w komunikacie. Konsensus PAP Biznes zakładał, że ",
+      "date_published": "2026-05-11T18:52:00+02:00",
+      "source": "PAP Biznes"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/energia/zawieszenie-broni-bliskie-zapasci-trump-opis",
+      "url": "https://biznes.pap.pl/wiadomosci/energia/zawieszenie-broni-bliskie-zapasci-trump-opis",
+      "title": "Zawieszenie broni bliskie zapaści - Trump (opis)",
+      "content_html": "Prezydent USA Donald Trump zasugerował, że bliski jest decyzji o zerwaniu zawieszenia broni z Iranem, nazywając irańską propozycję porozumienia „głupią”. Jednocześnie powiedział, że zamierza prowadzić",
+      "date_published": "2026-05-11T18:51:00+02:00",
+      "source": "PAP Biznes"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Energa-rozpoczyna-emisje-akcji-serii-CC-9131168.html",
@@ -421,28 +861,28 @@
       "source": "Bankier.pl"
     },
     {
-      "id": "https://www.bankier.pl/wiadomosc/Czechy-powoluja-pelnomocnika-ds-zobowiazan-sojuszniczych-wobec-NATO-9131163.html",
-      "url": "https://www.bankier.pl/wiadomosc/Czechy-powoluja-pelnomocnika-ds-zobowiazan-sojuszniczych-wobec-NATO-9131163.html",
-      "title": "Czechy powołują pełnomocnika ds zobowiązań sojuszniczych wobec NATO",
-      "content_html": "Czeski rząd w poniedziałek utworzył nowe stanowisko pełnomocnika do spraw wypełniania zobowiązań wobec NATO i powołał na nie Jakuba Landovskiego, byłego ambasadora przy NATO. Ma on doprowadzić do uznawania przez Sojusz czeskich wydatków na...",
-      "date_published": "2026-05-11T18:40:00+02:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Skorygowana-EBITDA-Ten-Square-Games-w-I-kw-wyniosla-18-9-mln-zl-wobec-konsensusu-18-1-mln-zl-9131158.html",
-      "url": "https://www.bankier.pl/wiadomosc/Skorygowana-EBITDA-Ten-Square-Games-w-I-kw-wyniosla-18-9-mln-zl-wobec-konsensusu-18-1-mln-zl-9131158.html",
-      "title": "Gamingowy gigant z Wrocławia publikuje raport. 18,9 mln zł zysku i ważny sygnał dla graczy",
-      "content_html": "Ten Square Games wypracował w pierwszym kwartale 2026 roku 18,9 mln zł skorygowanej EBITDA wobec 30,5 mln zł rok wcześniej - poinformowała spółka w raporcie kwartalnym. Konsensus PAP Biznes zakładał 18,1 mln zł skorygowanej EBITDA.",
-      "date_published": "2026-05-11T18:36:00+02:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Pekao-zdecydowal-o-wczesniejszym-wykupie-obligacji-podporzadkowanych-serii-D-oraz-D1-9131148.html",
-      "url": "https://www.bankier.pl/wiadomosc/Pekao-zdecydowal-o-wczesniejszym-wykupie-obligacji-podporzadkowanych-serii-D-oraz-D1-9131148.html",
-      "title": "Pekao zdecydował o wcześniejszym wykupie obligacji podporządkowanych serii D oraz D1",
-      "content_html": "Bank Pekao zdecydował o wcześniejszym wykupie obligacji podporządkowanych serii D oraz D1 - poinformował bank w komunikacie.",
+      "id": "https://biznes.pap.pl/wiadomosci/firmy/informacja-na-platformie-x-dot-zmian-w-zarzadzie-kghm-nie-byla-ujawnieniem",
+      "url": "https://biznes.pap.pl/wiadomosci/firmy/informacja-na-platformie-x-dot-zmian-w-zarzadzie-kghm-nie-byla-ujawnieniem",
+      "title": "Informacja na platformie X dot. zmian w zarządzie KGHM nie była ujawnieniem informacji poufnej - UKNF",
+      "content_html": "Wcześniejsze przekazanie na platformie X informacji o odwołaniu części zarządu KGHM nie stanowiło bezprawnego ujawnienia informacji poufnej - poinformowała KNF w komunikacie. Oceniono jednak, że prakt",
       "date_published": "2026-05-11T18:24:00+02:00",
-      "source": "Bankier.pl"
+      "source": "PAP Biznes"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/rynki/dzien-na-rynkach-mieszane-zamkniecie-gield-w-europie-0",
+      "url": "https://biznes.pap.pl/wiadomosci/rynki/dzien-na-rynkach-mieszane-zamkniecie-gield-w-europie-0",
+      "title": "DZIEŃ NA RYNKACH: Mieszane zamknięcie giełd w Europie",
+      "content_html": "W poniedziałek europejskie indeksy odnotowały mieszane zamknięcie w związku z impasem w negocjacjach pokojowych między USA i Iranem. Tuż przed zamknięciem handlu akcjami w Europie prezydent Donald Tru",
+      "date_published": "2026-05-11T18:10:00+02:00",
+      "source": "PAP Biznes"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/rynki/zamkniecia-na-gieldach-w-europie-tabela-2868",
+      "url": "https://biznes.pap.pl/wiadomosci/rynki/zamkniecia-na-gieldach-w-europie-tabela-2868",
+      "title": "Zamknięcia na giełdach w Europie (tabela)",
+      "content_html": "Poniżej zamknięcia i zmiany wybranych indeksów giełdowych w Europie.",
+      "date_published": "2026-05-11T18:03:00+02:00",
+      "source": "PAP Biznes"
     },
     {
       "id": "https://biznes.pap.pl/wiadomosci/firmy/mostostal-warszawa-szacuje-ze-mial-97-mln-zl-straty-netto-jd-w-i-kw-26",
@@ -459,14 +899,6 @@
       "content_html": "Cena oleju napędowego w Niemczech po raz pierwszy od początku marca spadła poniżej 2 euro za litr. Według automobilklubu ADAC, w weekend litr diesla kosztował średnio 1,984 euro, zbliżając się do ceny benzyny E10, która wynosła 1,968 euro...",
       "date_published": "2026-05-11T17:53:00+02:00",
       "source": "Bankier.pl"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/firmy/skorygowana-ebitda-ten-square-games-w-i-kw-wyniosla-189-mln-zl-wobec-konsensusu-0",
-      "url": "https://biznes.pap.pl/wiadomosci/firmy/skorygowana-ebitda-ten-square-games-w-i-kw-wyniosla-189-mln-zl-wobec-konsensusu-0",
-      "title": "Skorygowana EBITDA Ten Square Games w I kw. wyniosła 18,9 mln zł wobec konsensusu 18,1 mln zł (opis)",
-      "content_html": "Ten Square Games wypracował w pierwszym kwartale 2026 roku 18,9 mln zł skorygowanej EBITDA wobec 30,5 mln zł rok wcześniej - poinformowała spółka w raporcie kwartalnym. Konsensus PAP Biznes zakładał 1",
-      "date_published": "2026-05-11T17:53:00+02:00",
-      "source": "PAP Biznes"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/1-2-mln-zl-na-konferencje-CPAC-Sledczy-sprawdzili-watek-marki-Zondacrypto-9131106.html",
@@ -507,6 +939,14 @@
       "content_html": "Fitch Ratings potwierdził długoterminowy rating IDR Kernela na poziomie \"CCC-\" - podał Fitch w komunikacie.",
       "date_published": "2026-05-11T17:38:00+02:00",
       "source": "PAP Biznes"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Skorygowana-EBITDA-Ten-Square-Games-w-I-kw-wyniosla-18-9-mln-zl-wobec-konsensusu-18-1-mln-zl-9131158.html",
+      "url": "https://www.bankier.pl/wiadomosc/Skorygowana-EBITDA-Ten-Square-Games-w-I-kw-wyniosla-18-9-mln-zl-wobec-konsensusu-18-1-mln-zl-9131158.html",
+      "title": "Gamingowy gigant z Wrocławia publikuje raport. 18,9 mln zł zysku i ważny sygnał dla graczy Ten Square Games wypracował w pierwszym kwartale 2026 roku 18,9 mln zł skorygowanej EBITDA wobec 30,5 mln zł rok wcześniej - poinformowała spółka w raporcie kwartalnym. Konsensus PAP Biznes zakładał 18,1 mln zł skorygowanej EBITDA.",
+      "content_html": "",
+      "date_published": "2026-05-11T17:36:00+02:00",
+      "source": "Bankier.pl"
     },
     {
       "id": "https://biznes.pap.pl/wiadomosci/firmy/prezydent-podpisal-ustawe-likwidujaca-biala-liste-uslug-dozwolonych-dla-firm",
@@ -555,6 +995,14 @@
       "content_html": "Ziścił się ostatni warunek zawieszający transakcję wyjścia Banku Handlowego z działalności detalicznej - poinformował bank w komunikacie.",
       "date_published": "2026-05-11T17:28:00+02:00",
       "source": "PAP Biznes"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Pekao-zdecydowal-o-wczesniejszym-wykupie-obligacji-podporzadkowanych-serii-D-oraz-D1-9131148.html",
+      "url": "https://www.bankier.pl/wiadomosc/Pekao-zdecydowal-o-wczesniejszym-wykupie-obligacji-podporzadkowanych-serii-D-oraz-D1-9131148.html",
+      "title": "Pekao zdecydował o wcześniejszym wykupie obligacji podporządkowanych serii D oraz D1 Bank Pekao zdecydował o wcześniejszym wykupie obligacji podporządkowanych serii D oraz D1 - poinformował bank w komunikacie.",
+      "content_html": "",
+      "date_published": "2026-05-11T17:24:00+02:00",
+      "source": "Bankier.pl"
     },
     {
       "id": "https://biznes.pap.pl/wiadomosci/firmy/pekao-zdecydowal-o-wczesniejszym-wykupie-obligacji-podporzadkowanych-serii-d-oraz",
@@ -765,30 +1213,6 @@
       "source": "PAP Biznes"
     },
     {
-      "id": "https://www.bankier.pl/wiadomosc/Polski-kapitan-statku-MV-Hondius-to-byly-niezwykle-ciezkie-tygodnie-9131001.html",
-      "url": "https://www.bankier.pl/wiadomosc/Polski-kapitan-statku-MV-Hondius-to-byly-niezwykle-ciezkie-tygodnie-9131001.html",
-      "title": "Polski kapitan statku MV Hondius: to były niezwykle ciężkie tygodnie",
-      "content_html": "Kilka ostatnich tygodni było niezwykle ciężkich, ale moja misja nie kończy się wraz z przybyciem na Wyspy Kanaryjskie – powiedział Jan Dobrogowski, polski kapitan wycieczkowca MV Hondius, na którym wykryto ognisko hantawirusa.",
-      "date_published": "2026-05-11T15:57:00+02:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/MON-podpisalo-porozumienie-z-PKP-Cargo-ws-kolejowego-transportu-wojskowego-krotka-9130931.html",
-      "url": "https://www.bankier.pl/wiadomosc/MON-podpisalo-porozumienie-z-PKP-Cargo-ws-kolejowego-transportu-wojskowego-krotka-9130931.html",
-      "title": "MON podpisało porozumienie z PKP Cargo ws. kolejowego transportu wojskowego",
-      "content_html": "Podpisane w poniedziałek porozumienie między MON a PKP Cargo dotyczy kolejowego transportu wojskowego, w tym m.in. dbania o ważne dla obronności linie kolejne czy zapasy taboru. - To zabezpieczenie nie tylko na wypadek konfliktu, ale też m.in. dla...",
-      "date_published": "2026-05-11T15:56:00+02:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/W-Gdansku-powolano-Pomorska-Rade-Kompetencji-Jadrowych-9130998.html",
-      "url": "https://www.bankier.pl/wiadomosc/W-Gdansku-powolano-Pomorska-Rade-Kompetencji-Jadrowych-9130998.html",
-      "title": "W Gdańsku powołano Pomorską Radę Kompetencji Jądrowych",
-      "content_html": "W Gdańsku zainaugurowano działalność Pomorskiej Rady Kompetencji Jądrowych. Gremium ma połączyć potrzeby przemysłu z ofertą edukacyjną regionu i przygotować kadry do budowy pierwszej w Polsce elektrowni jądrowej.",
-      "date_published": "2026-05-11T15:55:00+02:00",
-      "source": "Bankier.pl"
-    },
-    {
       "id": "https://biznes.pap.pl/wiadomosci/gospodarka/trwaja-analizy-dotyczace-budowy-metra-w-najwiekszych-polskich-miastach",
       "url": "https://biznes.pap.pl/wiadomosci/gospodarka/trwaja-analizy-dotyczace-budowy-metra-w-najwiekszych-polskich-miastach",
       "title": "Trwają analizy dotyczące budowy metra w największych polskich miastach - Klimczak, MI",
@@ -821,38 +1245,6 @@
       "source": "PAP Biznes"
     },
     {
-      "id": "https://www.bankier.pl/wiadomosc/Placa-minimalna-w-2027-roku-Ekspert-z-ZUS-podal-kwote-9130964.html",
-      "url": "https://www.bankier.pl/wiadomosc/Placa-minimalna-w-2027-roku-Ekspert-z-ZUS-podal-kwote-9130964.html",
-      "title": "Płaca minimalna w 2027 roku. Ekspert z ZUS podał kwotę",
-      "content_html": "Po poniedziałkowych danych GUS gwarantowany poziom płacy minimalnej w 2027 r. wyniesie 4 860,47 zł - poinformował reprezentujący organizację pracodawców w radzie nadzorczej ZUS, Łukasz Kozłowski, powołując się na własne wyliczenia.",
-      "date_published": "2026-05-11T15:06:00+02:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Ropa-i-zloto-znow-poplyna-do-Europy-Przelomowy-ruch-UE-po-14-latach-sankcji-9130965.html",
-      "url": "https://www.bankier.pl/wiadomosc/Ropa-i-zloto-znow-poplyna-do-Europy-Przelomowy-ruch-UE-po-14-latach-sankcji-9130965.html",
-      "title": "Ropa i złoto znów popłyną do Europy. Przełomowy ruch UE po 14 latach sankcji",
-      "content_html": "Szefowie dyplomacji krajów UE zdecydowali poniedziałek o zakończeniu częściowego zawieszenia umowy handlowej z Syrią, co oznacza zniesienie kontyngentów na handel z tym krajem m.in. metalami i ropą. Decyzja uchyla obowiązującą od 2011 r. sankcję...",
-      "date_published": "2026-05-11T15:06:00+02:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/PGE-i-Orsted-rozpoczely-instalacje-fundamentow-turbin-dla-projektu-Baltica-2-9130961.html",
-      "url": "https://www.bankier.pl/wiadomosc/PGE-i-Orsted-rozpoczely-instalacje-fundamentow-turbin-dla-projektu-Baltica-2-9130961.html",
-      "title": "To największy projekt OZE w Polsce. PGE i Orsted rozpoczęły instalację fundamentów turbin dla projektu Baltica 2",
-      "content_html": "Na Morzu Bałtyckim rozpoczęła się instalacja fundamentów turbin, tzw. monopali na terenie budowy morskiej farmy wiatrowej Baltica 2, projektu realizowanego wspólnie przez PGE i Orsted - poinformowali przedstawiciele spółek.",
-      "date_published": "2026-05-11T15:02:00+02:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Uszczelnienie-800-plus-dla-Ukraincow-ZUS-odrzuca-tysiace-wnioskow-9130834.html",
-      "url": "https://www.bankier.pl/wiadomosc/Uszczelnienie-800-plus-dla-Ukraincow-ZUS-odrzuca-tysiace-wnioskow-9130834.html",
-      "title": "Uszczelnienie 800 plus dla Ukraińców. ZUS odrzuca tysiące wniosków",
-      "content_html": "Rodziny z Ukrainy złożyły 117,5 tys. wniosków o 800 plus już na nowych zasadach w porównaniu do około 150 tys. comiesięcznych przelewów robionych w 2025 roku - podaje \"Gazeta Wyborcza\". Jak na razie przyznano około 50,5 tys. świadczeń.",
-      "date_published": "2026-05-11T15:00:00+02:00",
-      "source": "Bankier.pl"
-    },
-    {
       "id": "https://biznes.pap.pl/wiadomosci/gospodarka/mf-na-przetargu-sprzedazy-13-maja-zaoferuje-szesc-serii-obligacji-lacznie-za",
       "url": "https://biznes.pap.pl/wiadomosci/gospodarka/mf-na-przetargu-sprzedazy-13-maja-zaoferuje-szesc-serii-obligacji-lacznie-za",
       "title": "MF na przetargu sprzedaży 13 maja zaoferuje sześć serii obligacji łącznie za 6-11 mld zł",
@@ -861,28 +1253,20 @@
       "source": "PAP Biznes"
     },
     {
-      "id": "https://www.bankier.pl/wiadomosc/Miliony-na-system-Hermes-Prokuratura-czeka-na-kluczowe-dane-z-Bulgarii-9130951.html",
-      "url": "https://www.bankier.pl/wiadomosc/Miliony-na-system-Hermes-Prokuratura-czeka-na-kluczowe-dane-z-Bulgarii-9130951.html",
-      "title": "Miliony na system Hermes. Prokuratura czeka na kluczowe dane z Bułgarii",
-      "content_html": "Prokuratura Regionalna w Rzeszowie, prowadząca śledztwo w sprawie zakupu przez Prokuraturę Krajową oprogramowania Hermes, czeka na dane i korespondencję zabezpieczone w firmie Circles Bulgaria, która instalowała w tej prokuraturze sprzęt i serwery...",
-      "date_published": "2026-05-11T14:50:00+02:00",
-      "source": "Bankier.pl"
+      "id": "https://biznes.pap.pl/wiadomosci/firmy/dzien-na-gpw-glowne-indeksy-kontynuuja-wzrosty-wsrod-blue-chipow-najmocniejsze-pge",
+      "url": "https://biznes.pap.pl/wiadomosci/firmy/dzien-na-gpw-glowne-indeksy-kontynuuja-wzrosty-wsrod-blue-chipow-najmocniejsze-pge",
+      "title": "DZIEŃ NA GPW: Główne indeksy kontynuują wzrosty; wśród blue chipów najmocniejsze PGE i Orlen",
+      "content_html": "Główne indeksy kontynuują wzrosty w dalszej części poniedziałkowej sesji, w indeksie największych spółek najmocniej drożeją papiery PGE i Orlenu.",
+      "date_published": "2026-05-11T14:34:00+02:00",
+      "source": "PAP Biznes"
     },
     {
-      "id": "https://www.bankier.pl/wiadomosc/List-intencyjny-Krakowa-i-uczelni-ws-wspolpracy-przy-budowie-metra-podpisany-9130948.html",
-      "url": "https://www.bankier.pl/wiadomosc/List-intencyjny-Krakowa-i-uczelni-ws-wspolpracy-przy-budowie-metra-podpisany-9130948.html",
-      "title": "List intencyjny Krakowa i uczelni ws. współpracy przy budowie metra podpisany",
-      "content_html": "Władze Krakowa i uczelni podpisały w poniedziałek list intencyjny ws. współpracy w zakresie prac badawczo-rozwojowych przy budowie metra. Prezydent miasta liczy, że budowa rozpocznie się około 2030 r. Jeszcze w maju planowane jest ogłoszenie...",
-      "date_published": "2026-05-11T14:44:00+02:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Premier-Starmer-Nie-odejde-udowodnie-watpiacym-we-mnie-ze-sie-myla-9130937.html",
-      "url": "https://www.bankier.pl/wiadomosc/Premier-Starmer-Nie-odejde-udowodnie-watpiacym-we-mnie-ze-sie-myla-9130937.html",
-      "title": "Premier Starmer: Nie odejdę, udowodnię wątpiącym we mnie, że się mylą",
-      "content_html": "Brytyjski premier Keir Starmer zapewnił w poniedziałek, że udowodni wątpiącym w niego, iż się mylą oraz że nie zrezygnuje ze stanowiska. Obiecał m.in. dalsze zbliżenie z Unią Europejską, co jego zdaniem uczyni kraj silniejszym.",
-      "date_published": "2026-05-11T14:27:00+02:00",
-      "source": "Bankier.pl"
+      "id": "https://biznes.pap.pl/wiadomosci/gospodarka/dzien-na-fxfi-zloty-w-przedziale-422-425eur-z-ryzykiem-oslabienia",
+      "url": "https://biznes.pap.pl/wiadomosci/gospodarka/dzien-na-fxfi-zloty-w-przedziale-422-425eur-z-ryzykiem-oslabienia",
+      "title": "DZIEŃ NA FX/FI: Złoty w przedziale 4,22-4,25/EUR, z ryzykiem osłabienia",
+      "content_html": "Kurs EUR/PLN powinien utrzymać się w przedziale 4,22-4,25, z asymetrycznym ryzykiem po stronie nieco słabszego złotego względem aktualnych poziomów - prognozują w raporcie ekonomiści Banku Millennium.",
+      "date_published": "2026-05-11T14:08:00+02:00",
+      "source": "PAP Biznes"
     },
     {
       "id": "https://biznes.pap.pl/wiadomosci/gospodarka/po-danych-gus-gwarantowany-poziom-placy-minimalnej-w-2027-r-wyniesie-486047",
@@ -893,20 +1277,20 @@
       "source": "PAP Biznes"
     },
     {
+      "id": "https://www.bankier.pl/wiadomosc/PGE-i-Orsted-rozpoczely-instalacje-fundamentow-turbin-dla-projektu-Baltica-2-9130961.html",
+      "url": "https://www.bankier.pl/wiadomosc/PGE-i-Orsted-rozpoczely-instalacje-fundamentow-turbin-dla-projektu-Baltica-2-9130961.html",
+      "title": "To największy projekt OZE w Polsce. PGE i Orsted rozpoczęły instalację fundamentów turbin dla projektu Baltica 2 Na Morzu Bałtyckim rozpoczęła się instalacja fundamentów turbin, tzw. monopali na terenie budowy morskiej farmy wiatrowej Baltica 2, projektu realizowanego wspólnie przez PGE i Orsted - poinformowali przedstawiciele spółek.",
+      "content_html": "",
+      "date_published": "2026-05-11T14:02:00+02:00",
+      "source": "Bankier.pl"
+    },
+    {
       "id": "https://biznes.pap.pl/wiadomosci/firmy/pge-i-orsted-rozpoczely-instalacje-fundamentow-turbin-dla-projektu-baltica-2",
       "url": "https://biznes.pap.pl/wiadomosci/firmy/pge-i-orsted-rozpoczely-instalacje-fundamentow-turbin-dla-projektu-baltica-2",
       "title": "PGE i Ørsted rozpoczęły instalację fundamentów turbin dla projektu Baltica 2",
       "content_html": "Na Morzu Bałtyckim rozpoczęła się instalacja fundamentów turbin, tzw. monopali na terenie budowy morskiej farmy wiatrowej Baltica 2, projektu realizowanego wspólnie przez PGE i Ørsted - poinformowali ",
       "date_published": "2026-05-11T14:01:00+02:00",
       "source": "PAP Biznes"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Marvipol-Development-wyplaci-1-11-zl-dywidendy-na-akcje-9130924.html",
-      "url": "https://www.bankier.pl/wiadomosc/Marvipol-Development-wyplaci-1-11-zl-dywidendy-na-akcje-9130924.html",
-      "title": "Marvipol Development wypłaci 1,11 zł dywidendy na akcję",
-      "content_html": "Marvipol Development przeznaczy 46,23 mln zł na dywidendę, co daje 1,11 zł brutto na akcję - podała spółka w komunikacie.",
-      "date_published": "2026-05-11T14:00:00+02:00",
-      "source": "Bankier.pl"
     },
     {
       "id": "https://biznes.pap.pl/wiadomosci/gospodarka/mkis-pracuje-nad-nowym-modelem-wsparcia-klastrow-energii-po-uwagach-ke",
@@ -917,62 +1301,6 @@
       "source": "PAP Biznes"
     },
     {
-      "id": "https://www.bankier.pl/wiadomosc/Wegry-na-krawedzi-Peter-Magyar-zada-dymisji-prezydenta-i-marionetek-Orbana-9130920.html",
-      "url": "https://www.bankier.pl/wiadomosc/Wegry-na-krawedzi-Peter-Magyar-zada-dymisji-prezydenta-i-marionetek-Orbana-9130920.html",
-      "title": "Węgry na krawędzi. Peter Magyar żąda dymisji prezydenta i \"marionetek Orbana\"",
-      "content_html": "Premier Węgier Peter Magyar wezwał w poniedziałek na Facebooku do poparcia jego apelu o dymisję prezydenta Tamasa Sulyoka i innych osób, które nazwał „marionetkami Viktora Orbana”. Trzy godziny po publikacji wpis zebrał ponad 190 tys. polubień...",
-      "date_published": "2026-05-11T13:57:00+02:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Zloty-fundusz-PZU-juz-na-gieldzie-Do-konca-roku-bez-oplaty-za-zarzadzanie-9130912.html",
-      "url": "https://www.bankier.pl/wiadomosc/Zloty-fundusz-PZU-juz-na-gieldzie-Do-konca-roku-bez-oplaty-za-zarzadzanie-9130912.html",
-      "title": "Złoty fundusz PZU już na giełdzie. Do końca roku bez opłaty za zarządzanie",
-      "content_html": "PZU ETF GOLD Portfelowy – to nazwa nowego funduszu inwestycyjnego, który pojawił się w poniedziałek w notowaniach na warszawskim parkiecie. To już trzeci produkt ETF wprowadzony na GPW przez Towarzystwo Funduszy Inwestycyjnych PZU. Do końca roku...",
-      "date_published": "2026-05-11T13:50:00+02:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Drony-za-rope-i-nie-tylko-Zelenski-Okolo-20-krajow-wspolpracuje-z-Ukraina-9130914.html",
-      "url": "https://www.bankier.pl/wiadomosc/Drony-za-rope-i-nie-tylko-Zelenski-Okolo-20-krajow-wspolpracuje-z-Ukraina-9130914.html",
-      "title": "Drony za ropę i nie tylko. Zełenski: Około 20 krajów współpracuje z Ukrainą",
-      "content_html": "Około 20 krajów współpracuje z Ukrainą przy projektach dronowych; podpisano już cztery umowy, przygotowywane są pierwsze kontrakty, a z kolejnymi państwami trwają rozmowy - przekazał w poniedziałek prezydent Ukrainy Wołodymyr Zełenski po...",
-      "date_published": "2026-05-11T13:50:00+02:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Zbigniew-Ziobro-w-USA-Prokuratura-sprawdza-kto-pomogl-mu-w-ucieczce-9130814.html",
-      "url": "https://www.bankier.pl/wiadomosc/Zbigniew-Ziobro-w-USA-Prokuratura-sprawdza-kto-pomogl-mu-w-ucieczce-9130814.html",
-      "title": "Zbigniew Ziobro w USA. Prokuratura sprawdza, kto pomógł mu w ucieczce",
-      "content_html": "Od niedzieli prowadzone są czynności zmierzające do ustalenia, czy inne osoby pomagały Zbigniewowi Ziobrze w ucieczce oraz uniknięciu odpowiedzialności karnej, utrudniając tym samym śledztwo dotyczące Funduszu Sprawiedliwości - poinformowała...",
-      "date_published": "2026-05-11T13:44:00+02:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/XTB-rozpoczyna-skup-akcji-wlasnych-9130894.html",
-      "url": "https://www.bankier.pl/wiadomosc/XTB-rozpoczyna-skup-akcji-wlasnych-9130894.html",
-      "title": "XTB rozpoczyna skup akcji własnych",
-      "content_html": "XTB rozpoczyna skup akcji własnych - podała spółka w komunikacie. XTB zamierza nabyć akcje własne za kwotę nie wyższą niż 10.661.280,00 zł i w ilości 76.152 sztuki akcji.",
-      "date_published": "2026-05-11T13:24:00+02:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Profil-Zaufany-nie-dziala-Resort-Cyfryzacji-ostrzega-przed-utrudnieniami-9130796.html",
-      "url": "https://www.bankier.pl/wiadomosc/Profil-Zaufany-nie-dziala-Resort-Cyfryzacji-ostrzega-przed-utrudnieniami-9130796.html",
-      "title": "Awaria Profilu Zaufanego. Użytkownicy nie mieli dostępu do systemu",
-      "content_html": "W poniedziałek miała miejsce awaria rządowej usługi. Ministerstwo Cyfryzacji poinformowało o problemach w dostępie do Profilu Zaufanego. Użytkownicy nie mogli zalogować się do systemu, a tym samym uwierzytelniać się przy użyciu tej usługi...",
-      "date_published": "2026-05-11T13:19:00+02:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Wielka-fuzja-PZU-i-Pekao-tylko-w-sferze-marzen-Czy-ktos-jeszcze-w-nia-wierzy-9130813.html",
-      "url": "https://www.bankier.pl/wiadomosc/Wielka-fuzja-PZU-i-Pekao-tylko-w-sferze-marzen-Czy-ktos-jeszcze-w-nia-wierzy-9130813.html",
-      "title": "Wielka fuzja PZU i Pekao tylko w sferze marzeń. Czy ktoś jeszcze w nią wierzy?",
-      "content_html": "Mija rok od ogłoszenia ambitnego planu stworzenia polskiego giganta finansowego poprzez połączenie PZU i Banku Pekao. Obecnie to kontrolowany przez Skarb Państwa ubezpieczyciel wraz z PFR kontrolują drugi co do wielkości bank w kraju, jednak fuzja...",
-      "date_published": "2026-05-11T13:15:00+02:00",
-      "source": "Bankier.pl"
-    },
-    {
       "id": "https://biznes.pap.pl/wiadomosci/firmy/pkp-cargo-ma-porozumienie-z-mon-w-obszarze-transportu-kolejowego-na-potrzeby",
       "url": "https://biznes.pap.pl/wiadomosci/firmy/pkp-cargo-ma-porozumienie-z-mon-w-obszarze-transportu-kolejowego-na-potrzeby",
       "title": "PKP Cargo ma porozumienie z MON w obszarze transportu kolejowego na potrzeby obronności państwa",
@@ -981,19 +1309,11 @@
       "source": "PAP Biznes"
     },
     {
-      "id": "https://www.bankier.pl/wiadomosc/Paliwo-tanieje-od-wtorku-Minister-Energii-oglosil-nowe-ceny-maksymalne-9130880.html",
-      "url": "https://www.bankier.pl/wiadomosc/Paliwo-tanieje-od-wtorku-Minister-Energii-oglosil-nowe-ceny-maksymalne-9130880.html",
-      "title": "Paliwo tanieje od wtorku. Minister Energii ogłosił nowe ceny maksymalne",
-      "content_html": "We wtorek litr benzyny 95 ma kosztować nie więcej niż 6,30 zł, benzyny 98 - 6,81 zł, a oleju napędowego - 6,93 zł - wynika z poniedziałkowego obwieszczenia Ministra Energii. Oznacza to spadek wobec cen maksymalnych, które obowiązywały w weekend...",
-      "date_published": "2026-05-11T13:12:00+02:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Umowa-UE-Mercosur-pod-lupa-TSUE-Polska-chce-wstrzymania-handlu-9130838.html",
-      "url": "https://www.bankier.pl/wiadomosc/Umowa-UE-Mercosur-pod-lupa-TSUE-Polska-chce-wstrzymania-handlu-9130838.html",
-      "title": "Umowa UE-Mercosur pod lupą TSUE? Polska chce wstrzymania handlu",
-      "content_html": "Wiceminister spraw zagranicznych Marcin Bosacki potwierdził w poniedziałek w Brukseli, że Polska skierowała do Trybunału Sprawiedliwości UE skargę na umowę Unii z Mercosurem, a także wniosek o wstrzymanie stosowania umowy do czasu wydania przez...",
-      "date_published": "2026-05-11T13:07:00+02:00",
+      "id": "https://www.bankier.pl/wiadomosc/Marvipol-Development-wyplaci-1-11-zl-dywidendy-na-akcje-9130924.html",
+      "url": "https://www.bankier.pl/wiadomosc/Marvipol-Development-wyplaci-1-11-zl-dywidendy-na-akcje-9130924.html",
+      "title": "Marvipol Development wypłaci 1,11 zł dywidendy na akcję Marvipol Development przeznaczy 46,23 mln zł na dywidendę, co daje 1,11 zł brutto na akcję - podała spółka w komunikacie.",
+      "content_html": "",
+      "date_published": "2026-05-11T13:00:00+02:00",
       "source": "Bankier.pl"
     },
     {
@@ -1005,6 +1325,14 @@
       "source": "PAP Biznes"
     },
     {
+      "id": "https://www.bankier.pl/wiadomosc/Zloty-fundusz-PZU-juz-na-gieldzie-Do-konca-roku-bez-oplaty-za-zarzadzanie-9130912.html",
+      "url": "https://www.bankier.pl/wiadomosc/Zloty-fundusz-PZU-juz-na-gieldzie-Do-konca-roku-bez-oplaty-za-zarzadzanie-9130912.html",
+      "title": "Złoty fundusz PZU już na giełdzie. Do końca roku bez opłaty za zarządzanie PZU ETF GOLD Portfelowy – to nazwa nowego funduszu inwestycyjnego, który pojawił się w poniedziałek w notowaniach na warszawskim parkiecie. To już trzeci produkt ETF wprowadzony na GPW przez Towarzystwo Funduszy Inwestycyjnych PZU. Do końca roku można w nie inwestować bez ponoszenia opłat za zarządzanie.",
+      "content_html": "",
+      "date_published": "2026-05-11T12:50:00+02:00",
+      "source": "Bankier.pl"
+    },
+    {
       "id": "https://biznes.pap.pl/wiadomosci/rynki/dzien-na-rynkach-futures-w-usa-lekko-spadaja",
       "url": "https://biznes.pap.pl/wiadomosci/rynki/dzien-na-rynkach-futures-w-usa-lekko-spadaja",
       "title": "DZIEŃ NA RYNKACH: Futures w USA lekko spadają",
@@ -1013,12 +1341,28 @@
       "source": "PAP Biznes"
     },
     {
+      "id": "https://www.bankier.pl/wiadomosc/XTB-rozpoczyna-skup-akcji-wlasnych-9130894.html",
+      "url": "https://www.bankier.pl/wiadomosc/XTB-rozpoczyna-skup-akcji-wlasnych-9130894.html",
+      "title": "XTB rozpoczyna skup akcji własnych XTB rozpoczyna skup akcji własnych - podała spółka w komunikacie. XTB zamierza nabyć akcje własne za kwotę nie wyższą niż 10.661.280,00 zł i w ilości 76.152 sztuki akcji.",
+      "content_html": "",
+      "date_published": "2026-05-11T12:24:00+02:00",
+      "source": "Bankier.pl"
+    },
+    {
       "id": "https://biznes.pap.pl/wiadomosci/firmy/xtb-rozpoczyna-skup-akcji-wlasnych",
       "url": "https://biznes.pap.pl/wiadomosci/firmy/xtb-rozpoczyna-skup-akcji-wlasnych",
       "title": "XTB rozpoczyna skup akcji własnych",
       "content_html": "XTB rozpoczyna skup akcji własnych - podała spółka w komunikacie. XTB zamierza nabyć akcje własne za kwotę nie wyższą niż 10.661.280,00 zł i w ilości 76.152 sztuki akcji.",
       "date_published": "2026-05-11T12:22:00+02:00",
       "source": "PAP Biznes"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Wielka-fuzja-PZU-i-Pekao-tylko-w-sferze-marzen-Czy-ktos-jeszcze-w-nia-wierzy-9130813.html",
+      "url": "https://www.bankier.pl/wiadomosc/Wielka-fuzja-PZU-i-Pekao-tylko-w-sferze-marzen-Czy-ktos-jeszcze-w-nia-wierzy-9130813.html",
+      "title": "Wielka fuzja PZU i Pekao tylko w sferze marzeń. Czy ktoś jeszcze w nią wierzy? Mija rok od ogłoszenia ambitnego planu stworzenia polskiego giganta finansowego poprzez połączenie PZU i Banku Pekao. Obecnie to kontrolowany przez Skarb Państwa ubezpieczyciel wraz z PFR kontrolują drugi co do wielkości bank w kraju, jednak fuzja oparta na tzw. kompromisie duńskim miała te role odwrócić. Zgodnie z założeniami, to Bank Pekao miał przejąć PZU, co stało się sensacją rynkową w czerwcu 2025 roku - czytamy w \"Business Insider\".",
+      "content_html": "",
+      "date_published": "2026-05-11T12:15:00+02:00",
+      "source": "Bankier.pl"
     },
     {
       "id": "https://biznes.pap.pl/wiadomosci/firmy/cena-maksymalna-na-12-v-dla-benzyny-pb95-wynosi-630-zll-dla-693-zll",
@@ -1123,270 +1467,6 @@
       "content_html": "Nie można wykluczyć, że jeszcze w maju rząd przyjmie projekt KPEiK - poinformował minister energii Miłosz Motyka.",
       "date_published": "2026-05-11T11:28:00+02:00",
       "source": "PAP Biznes"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Asbis-nawiazal-wspolprace-z-wydawca-Ubuntu-9130832.html",
-      "url": "https://www.bankier.pl/wiadomosc/Asbis-nawiazal-wspolprace-z-wydawca-Ubuntu-9130832.html",
-      "title": "Asbis nawiązał współpracę z wydawcą Ubuntu Grupa Asbis nawiązała współpracę z brytyjską firmą Canonical, wydawcą Ubuntu - poinformował Asbis w komunikacie prasowym.",
-      "content_html": "",
-      "date_published": "2026-05-11T11:04:00+02:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/firmy/asbis-nawiazal-wspolprace-z-wydawca-ubuntu",
-      "url": "https://biznes.pap.pl/wiadomosci/firmy/asbis-nawiazal-wspolprace-z-wydawca-ubuntu",
-      "title": "Asbis nawiązał współpracę z wydawcą Ubuntu",
-      "content_html": "Grupa Asbis nawiązała współpracę z brytyjską firmą Canonical, wydawcą Ubuntu - poinformował Asbis w komunikacie prasowym.",
-      "date_published": "2026-05-11T11:02:00+02:00",
-      "source": "PAP Biznes"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/gospodarka/do-10-maja-podpisano-umowy-na-637-proc-funduszy-ue-na-lata-2021-2027-mfipr",
-      "url": "https://biznes.pap.pl/wiadomosci/gospodarka/do-10-maja-podpisano-umowy-na-637-proc-funduszy-ue-na-lata-2021-2027-mfipr",
-      "title": "Do 10 maja podpisano umowy na 63,7 proc. funduszy UE na lata 2021-2027 - MFiPR",
-      "content_html": "Do 10 maja podpisano 27.254 umowy na unijne dofinansowanie projektów, które wykorzystają 63,7 proc. dostępnej puli środków z polityki spójności UE na lata 2021-2027 - poinformowało na stronie internet",
-      "date_published": "2026-05-11T11:01:00+02:00",
-      "source": "PAP Biznes"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Sevenet-ma-umowe-z-NFZ-o-wartosci-8-8-mln-zl-brutto-9130820.html",
-      "url": "https://www.bankier.pl/wiadomosc/Sevenet-ma-umowe-z-NFZ-o-wartosci-8-8-mln-zl-brutto-9130820.html",
-      "title": "Sevenet ma umowę z NFZ o wartości 8,8 mln zł brutto Sevenet ma umowę z Narodowym Funduszem Zdrowia na usługi serwisowe dla produktów Cisco przez 2 lata - podała spółka w komunikacie. Wartość umowy to 8,8 mln zł brutto.",
-      "content_html": "",
-      "date_published": "2026-05-11T10:48:00+02:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Wmurowano-kamien-wegielny-pod-elektrownie-gazowo-parowa-w-Gdansku-9130821.html",
-      "url": "https://www.bankier.pl/wiadomosc/Wmurowano-kamien-wegielny-pod-elektrownie-gazowo-parowa-w-Gdansku-9130821.html",
-      "title": "Wielka inwestycja w Gdańsku. Energa buduje potężną elektrownię W poniedziałek wmurowano kamień węgielny pod elektrownię gazowo-parową w Gdańsku, budowaną przez grupę Energa. Na placu budowy trwają prace ziemne, dostawa turbozespołu planowana jest na 2027 r.",
-      "content_html": "",
-      "date_published": "2026-05-11T10:48:00+02:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/gry-i-technologie/sevenet-ma-umowe-z-nfz-o-wartosci-88-mln-zl-brutto",
-      "url": "https://biznes.pap.pl/wiadomosci/gry-i-technologie/sevenet-ma-umowe-z-nfz-o-wartosci-88-mln-zl-brutto",
-      "title": "Sevenet ma umowę z NFZ o wartości 8,8 mln zł brutto",
-      "content_html": "Sevenet ma umowę z Narodowym Funduszem Zdrowia na usługi serwisowe dla produktów Cisco przez 2 lata - podała spółka w komunikacie. Wartość umowy to 8,8 mln zł brutto.",
-      "date_published": "2026-05-11T10:47:00+02:00",
-      "source": "PAP Biznes"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/firmy/wmurowano-kamien-wegielny-pod-elektrownie-gazowo-parowa-w-gdansku",
-      "url": "https://biznes.pap.pl/wiadomosci/firmy/wmurowano-kamien-wegielny-pod-elektrownie-gazowo-parowa-w-gdansku",
-      "title": "Wmurowano kamień węgielny pod elektrownię gazowo-parową w Gdańsku",
-      "content_html": "W poniedziałek wmurowano kamień węgielny pod elektrownię gazowo-parową w Gdańsku, budowaną przez grupę Energa. Na placu budowy trwają prace ziemne, dostawa turbozespołu planowana jest na 2027 r.",
-      "date_published": "2026-05-11T10:46:00+02:00",
-      "source": "PAP Biznes"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Allegro-rozpoczelo-wspolprace-z-OpenAI-9130818.html",
-      "url": "https://www.bankier.pl/wiadomosc/Allegro-rozpoczelo-wspolprace-z-OpenAI-9130818.html",
-      "title": "Allegro rozpoczęło współpracę z OpenAI. \"To dopiero początek zmian\" Allegro rozpoczęło współpracę z OpenAI - podało Allegro w komunikacie prasowym. Porozumienie daje Allegro dostęp do technologii AI i wsparcie w rozwijaniu projektów na platformie e-commerce.",
-      "content_html": "",
-      "date_published": "2026-05-11T10:42:00+02:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/firmy/allegro-rozpoczelo-wspolprace-z-openai",
-      "url": "https://biznes.pap.pl/wiadomosci/firmy/allegro-rozpoczelo-wspolprace-z-openai",
-      "title": "Allegro rozpoczęło współpracę z OpenAI",
-      "content_html": "Allegro rozpoczęło współpracę z OpenAI - podało Allegro w komunikacie prasowym. Porozumienie daje Allegro dostęp do technologii AI i wsparcie w rozwijaniu projektów na platformie e-commerce.",
-      "date_published": "2026-05-11T10:41:00+02:00",
-      "source": "PAP Biznes"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/firmy/dzien-na-gpw-na-gieldzie-rosna-wszystkie-glowne-indeksy-w-wig20-najmocniejsze",
-      "url": "https://biznes.pap.pl/wiadomosci/firmy/dzien-na-gpw-na-gieldzie-rosna-wszystkie-glowne-indeksy-w-wig20-najmocniejsze",
-      "title": "DZIEŃ NA GPW: Na giełdzie rosną wszystkie główne indeksy; w WIG20 najmocniejsze walory Orlenu",
-      "content_html": "W pierwszych godzinach po rozpoczęciu poniedziałkowej sesji wszystkie główne indeksy GPW rosną, wśród blue chipów najmocniej drożeją papiery Orlenu. Creotech Quantum rośnie o ponad 15 proc.",
-      "date_published": "2026-05-11T10:39:00+02:00",
-      "source": "PAP Biznes"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Polpharma-idzie-na-zakupy-Ponad-miliard-zlotych-na-przejecie-giganta-z-Rumunii-9130806.html",
-      "url": "https://www.bankier.pl/wiadomosc/Polpharma-idzie-na-zakupy-Ponad-miliard-zlotych-na-przejecie-giganta-z-Rumunii-9130806.html",
-      "title": "Polpharma idzie na zakupy. Ponad miliard złotych na przejęcie giganta z Rumunii Zakłady Farmaceutyczne Polpharma zawarły umowę w sprawie przejęcia 88,43 proc. akcji rumuńskiego producenta farmaceutyków Biofarm - podał Biofarm w komunikacie. Polpharma zobowiązała się do przejęcia akcji w drodze oferty publicznej, oferując po 1,379 RON (ok. 1,12 zł) za walor, co oznacza, że wartość oferty może sięgnąć ok. 1.106 mln zł.",
-      "content_html": "",
-      "date_published": "2026-05-11T10:18:00+02:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/firmy/polpharma-chce-przejec-rumunskiego-producenta-farmaceutykow-biofarm-za-ok-11-mld",
-      "url": "https://biznes.pap.pl/wiadomosci/firmy/polpharma-chce-przejec-rumunskiego-producenta-farmaceutykow-biofarm-za-ok-11-mld",
-      "title": "Polpharma chce przejęć rumuńskiego producenta farmaceutyków Biofarm za ok. 1,1 mld zł",
-      "content_html": "Zakłady Farmaceutyczne Polpharma zawarły umowę w sprawie przejęcia 88,43 proc. akcji rumuńskiego producenta farmaceutyków Biofarm - podał Biofarm w komunikacie. Polpharma zobowiązała się do przejęcia ",
-      "date_published": "2026-05-11T10:16:00+02:00",
-      "source": "PAP Biznes"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/firmy/obroty-centrow-handlowych-w-marcu-byly-o-41-proc-wyzsze-rdr-prch",
-      "url": "https://biznes.pap.pl/wiadomosci/firmy/obroty-centrow-handlowych-w-marcu-byly-o-41-proc-wyzsze-rdr-prch",
-      "title": "Obroty centrów handlowych w marcu były o 4,1 proc. wyższe rdr - PRCH",
-      "content_html": "W marcu 2026 r. obroty w centrach handlowych wzrosły o 4,1 proc., a odwiedzalność o 3,4 proc. rdr - poinformowała Polska Rada Centrów Handlowych w komunikacie prasowym.",
-      "date_published": "2026-05-11T10:11:00+02:00",
-      "source": "PAP Biznes"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/firmy/kontrakty-i-umowy-spolek-przeglad-tygodniowy-448",
-      "url": "https://biznes.pap.pl/wiadomosci/firmy/kontrakty-i-umowy-spolek-przeglad-tygodniowy-448",
-      "title": "Kontrakty i umowy spółek - przegląd tygodniowy",
-      "content_html": "Przegląd ważniejszych informacji o umowach i kontraktach zawieranych przez spółki publiczne od 4 do 10 maja",
-      "date_published": "2026-05-11T09:55:00+02:00",
-      "source": "PAP Biznes"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/rynki/dzien-na-rynkach-w-europie-na-gieldach-indeksy-sie-wahaja-13",
-      "url": "https://biznes.pap.pl/wiadomosci/rynki/dzien-na-rynkach-w-europie-na-gieldach-indeksy-sie-wahaja-13",
-      "title": "DZIEŃ NA RYNKACH: W Europie na giełdach indeksy się wahają",
-      "content_html": "Na europejskich giełdach najważniejsze indeksy idą w różnych kierunkach. Inwestorzy oceniają rozwój sytuacji na Bliskim Wschodzie, gdzie na razie nie widać zbliżającego się końca konfliktu USA z Irane",
-      "date_published": "2026-05-11T09:44:00+02:00",
-      "source": "PAP Biznes"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Sedzia-Komisarz-przedluzyl-termin-na-zlozenie-przez-PKP-Cargo-propozycji-ukladowych-9130783.html",
-      "url": "https://www.bankier.pl/wiadomosc/Sedzia-Komisarz-przedluzyl-termin-na-zlozenie-przez-PKP-Cargo-propozycji-ukladowych-9130783.html",
-      "title": "Kluczowa data dla PKP Cargo. Sędzia-Komisarz nie chce już czekać Sędzia-Komisarz wydał zarządzenie, w którym wyznaczył PKP Cargo ponowny ostateczny termin na złożenie propozycji układowych, które zostaną poddane pod głosowanie w dalszej procedurze na dzień 30 czerwca 2026 roku - podała spółka w komunikacie.",
-      "content_html": "",
-      "date_published": "2026-05-11T09:36:00+02:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/transport-i-logistyka/sedzia-komisarz-przedluzyl-termin-na-zlozenie-przez-pkp-cargo",
-      "url": "https://biznes.pap.pl/wiadomosci/transport-i-logistyka/sedzia-komisarz-przedluzyl-termin-na-zlozenie-przez-pkp-cargo",
-      "title": "Sędzia-Komisarz przedłużył termin na złożenie przez PKP Cargo propozycji układowych",
-      "content_html": "Sędzia-Komisarz wydał zarządzenie, w którym wyznaczył PKP Cargo ponowny ostateczny termin na złożenie propozycji układowych, które zostaną poddane pod głosowanie w dalszej procedurze na dzień 30 czerw",
-      "date_published": "2026-05-11T09:35:00+02:00",
-      "source": "PAP Biznes"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/gospodarka/przecietne-wynagrodzenie-w-i-kw-2026-r-wzroslo-o-67-proc-rdr-i-wynioslo",
-      "url": "https://biznes.pap.pl/wiadomosci/gospodarka/przecietne-wynagrodzenie-w-i-kw-2026-r-wzroslo-o-67-proc-rdr-i-wynioslo",
-      "title": "Przeciętne wynagrodzenie w I kw. 2026 r. wzrosło o 6,7 proc. rdr i wyniosło 9.562,88 zł - GUS",
-      "content_html": "Przeciętne miesięczne wynagrodzenie brutto w I kwartale 2026 roku wzrosło o 6,70 proc. rdr i wyniosło 9.562,88 zł - podał GUS.",
-      "date_published": "2026-05-11T09:33:00+02:00",
-      "source": "PAP Biznes"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/gospodarka/dzien-na-fxfi-pln-slabszy-nie-sprzyja-brak-deeskalacji-na-bliskim-wschodzie",
-      "url": "https://biznes.pap.pl/wiadomosci/gospodarka/dzien-na-fxfi-pln-slabszy-nie-sprzyja-brak-deeskalacji-na-bliskim-wschodzie",
-      "title": "DZIEŃ NA FX/FI: PLN słabszy, nie sprzyja brak deeskalacji na Bliskim Wschodzie",
-      "content_html": "W rozpoczynającym się tygodniu w centrum uwagi rynków wciąż znajdować się będą doniesienia z Bliskiego Wschodu; brak sygnałów bliskiego udrożnienia cieśniny Ormuz może chłodzić rynkowe nastroje - ocen",
-      "date_published": "2026-05-11T09:14:00+02:00",
-      "source": "PAP Biznes"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/gospodarka/18-proc-gmin-nie-rozpoczelo-jeszcze-prac-nad-strategia-rozwoju-grant-thornton",
-      "url": "https://biznes.pap.pl/wiadomosci/gospodarka/18-proc-gmin-nie-rozpoczelo-jeszcze-prac-nad-strategia-rozwoju-grant-thornton",
-      "title": "18 proc. gmin nie rozpoczęło jeszcze prac nad strategią rozwoju - Grant Thornton",
-      "content_html": "18 proc. gmin nie rozpoczęło jeszcze prac nad strategią rozwoju - wynika z raportu Grant Thornton „Strategiczna luka w polskich samorządach\".",
-      "date_published": "2026-05-11T09:10:00+02:00",
-      "source": "PAP Biznes"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/rynki/najwazniejsze-indeksy-gieldowe-w-azji-719",
-      "url": "https://biznes.pap.pl/wiadomosci/rynki/najwazniejsze-indeksy-gieldowe-w-azji-719",
-      "title": "Najważniejsze indeksy giełdowe w Azji",
-      "content_html": "Poniżej aktualne indeksy wybranych giełd w Azji:",
-      "date_published": "2026-05-11T09:08:00+02:00",
-      "source": "PAP Biznes"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/firmy/zestawienie-dostepnych-ulg-i-grantow-innowacyjnych-w-polsce-kpmg",
-      "url": "https://biznes.pap.pl/wiadomosci/firmy/zestawienie-dostepnych-ulg-i-grantow-innowacyjnych-w-polsce-kpmg",
-      "title": "Zestawienie dostępnych ulg i grantów innowacyjnych w Polsce - KPMG",
-      "content_html": "Poniżej przedstawiamy przygotowane dla PAP Biznes przez ekspertów międzynarodowej firmy doradczej KPMG zestawienie dostępnych dla polskich przedsiębiorców ulg i grantów innowacyjnych, w tym badawczo-r",
-      "date_published": "2026-05-11T09:05:00+02:00",
-      "source": "PAP Biznes"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/firmy/ulgi-innowacyjne-bez-limitow-ale-wciaz-niewykorzystane-gielarek-leyton",
-      "url": "https://biznes.pap.pl/wiadomosci/firmy/ulgi-innowacyjne-bez-limitow-ale-wciaz-niewykorzystane-gielarek-leyton",
-      "title": "Ulgi innowacyjne bez limitów, ale wciąż niewykorzystane - Gielarek, Leyton",
-      "content_html": "Ulgi innowacyjne, w tym badawczo-rozwojowa, są w Polsce dostępne bez limitów i naborów, jednak korzysta z nich mniej niż 40 proc. uprawnionych firm - ocenia w rozmowie z PAP Biznes Partnership Manager",
-      "date_published": "2026-05-11T09:05:00+02:00",
-      "source": "PAP Biznes"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/firmy/ulgi-innowacyjne-warte-ponad-11-mld-zl-dotacje-trudniej-dostepne-majkowski-kpmg",
-      "url": "https://biznes.pap.pl/wiadomosci/firmy/ulgi-innowacyjne-warte-ponad-11-mld-zl-dotacje-trudniej-dostepne-majkowski-kpmg",
-      "title": "Ulgi innowacyjne warte ponad 11 mld zł, dotacje trudniej dostępne - Majkowski, KPMG",
-      "content_html": "W rozliczeniach za 2024 r. przedsiębiorcy skorzystali z ulg innowacyjno‑rozwojowych ponad 12,3 tys. razy, odliczając łącznie 11,36 mld zł - wynika z danych cytowanych przez Wojciecha Majkowskiego, par",
-      "date_published": "2026-05-11T09:05:00+02:00",
-      "source": "PAP Biznes"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Medicalgorithmics-zawarl-z-inwestorem-list-intencyjny-dot-potencjalnej-inwestycji-w-spolke-9130754.html",
-      "url": "https://www.bankier.pl/wiadomosc/Medicalgorithmics-zawarl-z-inwestorem-list-intencyjny-dot-potencjalnej-inwestycji-w-spolke-9130754.html",
-      "title": "Medicalgorithmics zawarł z inwestorem list intencyjny dot. potencjalnej inwestycji w spółkę Medicalgorithmics zawarł z luksemburską spółką holdingową, należącą do grupy zajmującej się technologiami medycznymi, niewiążący list intencyjny, dotyczący zamiaru zbadania potencjalnej inwestycji w Medicalgorithmics - podała spółka w komunikacie.",
-      "content_html": "",
-      "date_published": "2026-05-11T09:00:00+02:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/firmy/medicalgorithmics-zawarl-z-inwestorem-list-intencyjny-dot-potencjalnej-inwestycji",
-      "url": "https://biznes.pap.pl/wiadomosci/firmy/medicalgorithmics-zawarl-z-inwestorem-list-intencyjny-dot-potencjalnej-inwestycji",
-      "title": "Medicalgorithmics zawarł z inwestorem list intencyjny dot. potencjalnej inwestycji w spółkę",
-      "content_html": "Medicalgorithmics zawarł z luksemburską spółką holdingową, należącą do grupy zajmującej się technologiami medycznymi, niewiążący list intencyjny, dotyczący zamiaru zbadania potencjalnej inwestycji w M",
-      "date_published": "2026-05-11T08:57:00+02:00",
-      "source": "PAP Biznes"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Gaz-w-Europie-zyskuje-bo-USA-oceniaja-propozycje-Iranu-jako-nie-do-przyjecia-9130750.html",
-      "url": "https://www.bankier.pl/wiadomosc/Gaz-w-Europie-zyskuje-bo-USA-oceniaja-propozycje-Iranu-jako-nie-do-przyjecia-9130750.html",
-      "title": "Gaz w Europie zyskuje, bo USA oceniają propozycje Iranu jako \"nie do przyjęcia\" Ceny gazu w Europie rosną w nowym tygodniu handlu po tym, jak USA odrzuciły propozycje pokojowe Iranu mające na celu zakończenie wojny na Bliskim Wschodzie - informują maklerzy.",
-      "content_html": "",
-      "date_published": "2026-05-11T08:56:00+02:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/rynki/gaz-w-europie-zyskuje-bo-usa-oceniaja-propozycje-iranu-jako-nie-do-przyjecia",
-      "url": "https://biznes.pap.pl/wiadomosci/rynki/gaz-w-europie-zyskuje-bo-usa-oceniaja-propozycje-iranu-jako-nie-do-przyjecia",
-      "title": "Gaz w Europie zyskuje, bo USA oceniają propozycje Iranu jako \"nie do przyjęcia\"",
-      "content_html": "Ceny gazu w Europie rosną w nowym tygodniu handlu po tym, jak USA odrzuciły propozycje pokojowe Iranu mające na celu zakończenie wojny na Bliskim Wschodzie - informują maklerzy.",
-      "date_published": "2026-05-11T08:53:00+02:00",
-      "source": "PAP Biznes"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/firmy/dzien-na-gpw-poniedzialkowa-sesja-moze-rozpoczac-sie-neutralnie-niewykluczony",
-      "url": "https://biznes.pap.pl/wiadomosci/firmy/dzien-na-gpw-poniedzialkowa-sesja-moze-rozpoczac-sie-neutralnie-niewykluczony",
-      "title": "DZIEŃ NA GPW: Poniedziałkowa sesja może rozpocząć się neutralnie; niewykluczony spadkowy przebieg dnia",
-      "content_html": "Poniedziałkowa sesja na GPW może otworzyć się w okolicach neutralnych poziomów, na co wskazują europejskie kontrakty terminowe. Analitycy oceniają, że na Starym Kontynencie niewykluczony jest negatywn",
-      "date_published": "2026-05-11T08:46:00+02:00",
-      "source": "PAP Biznes"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Trigon-DM-zaleca-trzymaj-Orlen-cena-docelowa-152-7-zl-9130738.html",
-      "url": "https://www.bankier.pl/wiadomosc/Trigon-DM-zaleca-trzymaj-Orlen-cena-docelowa-152-7-zl-9130738.html",
-      "title": "Trigon DM zaleca \"trzymaj\" Orlen. Jaka jest cena docelowa? Analitycy Trigon DM, w raporcie z 6 maja, zalecają dla akcji Orlenu rekomendację \"trzymaj\" z ceną docelową 152,7 zł na akcję.",
-      "content_html": "",
-      "date_published": "2026-05-11T08:24:00+02:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/firmy/trigon-dm-zaleca-trzymaj-orlen-cena-docelowa-1527-zl",
-      "url": "https://biznes.pap.pl/wiadomosci/firmy/trigon-dm-zaleca-trzymaj-orlen-cena-docelowa-1527-zl",
-      "title": "Trigon DM zaleca \"trzymaj\" Orlen; cena docelowa 152,7 zł",
-      "content_html": "Analitycy Trigon DM, w raporcie z 6 maja, zalecają dla akcji Orlenu rekomendację \"trzymaj\" z ceną docelową 152,7 zł na akcję.",
-      "date_published": "2026-05-11T08:23:00+02:00",
-      "source": "PAP Biznes"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/rynki/dzien-na-rynkach-w-azji-na-gieldach-inwestorzy-w-mieszanych-nastrojach-1",
-      "url": "https://biznes.pap.pl/wiadomosci/rynki/dzien-na-rynkach-w-azji-na-gieldach-inwestorzy-w-mieszanych-nastrojach-1",
-      "title": "DZIEŃ NA RYNKACH: W Azji na giełdach inwestorzy w mieszanych nastrojach",
-      "content_html": "Na azjatyckich giełdach indeksy się wahają. Inwestorzy są w mieszanych nastrojach po tym, jak prezydent USA Donald Trump odrzucił najnowszą propozycję pokojową Iranu. Gracze podwajają jednak inwestycj",
-      "date_published": "2026-05-11T08:21:00+02:00",
-      "source": "PAP Biznes"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Ropa-drozeje-po-fiasku-rozmow-USA-Iran-Trump-Calkowicie-nieakceptowalna-odpowiedz-9130721.html",
-      "url": "https://www.bankier.pl/wiadomosc/Ropa-drozeje-po-fiasku-rozmow-USA-Iran-Trump-Calkowicie-nieakceptowalna-odpowiedz-9130721.html",
-      "title": "Ropa drożeje po fiasku rozmów USA-Iran. Trump: Całkowicie nieakceptowalna odpowiedź Perspektywa zakończenia trwającej od 10 tygodni wojny na Bliskim Wschodzie znów się oddala. Irańska odpowiedź na propozycję pokojową Stanów Zjednoczonych, została uznana przez Donalda Trumpa za \"całkowicie nieakceptowalną\". W reakcji na doniesienia, które pojawiły się w niedzielę 10 maja, ropa znów zaczęła drożeć. Mimo to większość azjatyckich rynków akcji rozpoczęła nowy tydzień od wzrostów.",
-      "content_html": "",
-      "date_published": "2026-05-11T08:20:00+02:00",
-      "source": "Bankier.pl"
     }
   ]
 }
