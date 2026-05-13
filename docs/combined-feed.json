@@ -5,6 +5,38 @@
   "home_page_url": "https://www.bankier.pl",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/Wyniki-grupy-Allegro-w-I-kw-2026-roku-vs-konsensus-PAP-tabela-9132699.html",
+      "url": "https://www.bankier.pl/wiadomosc/Wyniki-grupy-Allegro-w-I-kw-2026-roku-vs-konsensus-PAP-tabela-9132699.html",
+      "title": "Wyniki grupy Allegro w I kw. 2026 roku vs. konsensus PAP (tabela)",
+      "content_html": "Poniżej przedstawiamy wyniki Allegro w pierwszym kwartale 2026 roku oraz ich odniesienie do konsensusu PAP Biznes.",
+      "date_published": "2026-05-14T01:16:00+02:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Grupa-Allegro-w-I-kw-2026-miala-931-8-mln-zl-skorygowanej-EBITDA-powyzej-oczekiwan-9132702.html",
+      "url": "https://www.bankier.pl/wiadomosc/Grupa-Allegro-w-I-kw-2026-miala-931-8-mln-zl-skorygowanej-EBITDA-powyzej-oczekiwan-9132702.html",
+      "title": "Grupa Allegro w I kw. 2026 miała 931,8 mln zł skorygowanej EBITDA, powyżej oczekiwań Grupa Allegro w pierwszym kwartale 2026 zwiększyła skorygowany wynik EBITDA o 23,6 proc., do 931,8 mln zł wobec 867,6 mln zł konsensusu PAP Biznes. Grupa podniosła całoroczne oczekiwania GMV dla segmentu International do 40-45 proc., a przychodów do 25-35 proc. - poinformowała spółka w komunikacie.",
+      "content_html": "",
+      "date_published": "2026-05-14T00:36:00+02:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/firmy/grupa-allegro-w-i-kw-2026-miala-9318-mln-zl-skorygowanej-ebitda-powyzej-oczekiwan",
+      "url": "https://biznes.pap.pl/wiadomosci/firmy/grupa-allegro-w-i-kw-2026-miala-9318-mln-zl-skorygowanej-ebitda-powyzej-oczekiwan",
+      "title": "Grupa Allegro w I kw. 2026 miała 931,8 mln zł skorygowanej EBITDA, powyżej oczekiwań",
+      "content_html": "Grupa Allegro w pierwszym kwartale 2026 zwiększyła skorygowany wynik EBITDA o 23,6 proc., do 931,8 mln zł wobec 867,6 mln zł konsensusu PAP Biznes. Grupa podniosła całoroczne oczekiwania GMV dla segme",
+      "date_published": "2026-05-14T00:34:00+02:00",
+      "source": "PAP Biznes"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/firmy/wyniki-grupy-allegro-w-i-kw-2026-roku-vs-konsensus-pap-tabela",
+      "url": "https://biznes.pap.pl/wiadomosci/firmy/wyniki-grupy-allegro-w-i-kw-2026-roku-vs-konsensus-pap-tabela",
+      "title": "Wyniki grupy Allegro w I kw. 2026 roku vs. konsensus PAP (tabela)",
+      "content_html": "Poniżej przedstawiamy wyniki Allegro w pierwszym kwartale 2026 roku oraz ich odniesienie do konsensusu PAP Biznes.",
+      "date_published": "2026-05-14T00:15:00+02:00",
+      "source": "PAP Biznes"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Wyzsza-inflacja-nie-zatrzymala-hossy-na-Wall-Street-Jeden-bank-widzi-S-P500-na-8000-pkt-9132682.html",
       "url": "https://www.bankier.pl/wiadomosc/Wyzsza-inflacja-nie-zatrzymala-hossy-na-Wall-Street-Jeden-bank-widzi-S-P500-na-8000-pkt-9132682.html",
       "title": "Wyższa inflacja nie zatrzymała hossy na Wall Street. Jeden bank widzi S&P500 na 8000 pkt.",
@@ -221,22 +253,6 @@
       "source": "Bankier.pl"
     },
     {
-      "id": "https://biznes.pap.pl/wiadomosci/firmy/fitch-podniosl-dlugoterminowy-rating-idr-banku-millenium-do-bbb-z-bbb-ze-stabilna",
-      "url": "https://biznes.pap.pl/wiadomosci/firmy/fitch-podniosl-dlugoterminowy-rating-idr-banku-millenium-do-bbb-z-bbb-ze-stabilna",
-      "title": "Fitch podniósł długoterminowy rating IDR Banku Millenium do \"BBB\" z \"BBB-\" ze stabilną perspektywą",
-      "content_html": "Agencja Fitch podniosła długoterminowy rating IDR Banku Millennium w walucie obcej i krajowej do \"BBB\" z \"BBB-\", uznając perspektywę za stabilną - podała agencja Fitch w komunikacie.",
-      "date_published": "2026-05-13T19:36:00+02:00",
-      "source": "PAP Biznes"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/firmy/fitch-podniosl-dlugoterminowy-rating-idr-erste-bp-do-z-z-stabilna-perspektywa",
-      "url": "https://biznes.pap.pl/wiadomosci/firmy/fitch-podniosl-dlugoterminowy-rating-idr-erste-bp-do-z-z-stabilna-perspektywa",
-      "title": "Fitch podniósł długoterminowy rating IDR Erste BP do \"A\" z \"A-\" z stabilną perspektywą",
-      "content_html": "Fitch podniósł długoterminowy rating IDR w walucie obcej i krajowej oraz długoterminowe ratingi niezabezpieczonego długu senioralnego Erste Banku Polska do poziomu \"A\" z \"A-\" - podała agencja Fitch w ",
-      "date_published": "2026-05-13T19:25:00+02:00",
-      "source": "PAP Biznes"
-    },
-    {
       "id": "https://www.bankier.pl/wiadomosc/Helio-szacuje-zysk-netto-w-III-kw-2025-2026-na-5-6-mln-zl-wobec-4-6-mln-zl-rok-wczesniej-9132588.html",
       "url": "https://www.bankier.pl/wiadomosc/Helio-szacuje-zysk-netto-w-III-kw-2025-2026-na-5-6-mln-zl-wobec-4-6-mln-zl-rok-wczesniej-9132588.html",
       "title": "Helio szacuje zysk netto w III kw. 2025/2026 na 5,6 mln zł, wobec 4,6 mln zł rok wcześniej",
@@ -250,14 +266,6 @@
       "title": "„Prywatny człowiek” i geopolityka. Nawrocki o Ziobrze: Nie wpłynie na relacje polsko-amerykańskie",
       "content_html": "Prezydent Karol Nawrocki ocenił, że nie wyobraża sobie, by obecność b. szefa MS Zbigniewa Ziobry w USA mogła wpłynąć na relacje polsko-amerykańskie. Ważne są kwestie militarne, wojskowe, bezpieczeństwa; inni zajmują się wizą dla prywatnego...",
       "date_published": "2026-05-13T19:15:00+02:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Pretekst-do-ataku-na-kraje-baltyckie-Moskwa-przyjmuje-prawo-o-zbrojnej-ochronie-9132581.html",
-      "url": "https://www.bankier.pl/wiadomosc/Pretekst-do-ataku-na-kraje-baltyckie-Moskwa-przyjmuje-prawo-o-zbrojnej-ochronie-9132581.html",
-      "title": "Pretekst do ataku na kraje bałtyckie? Moskwa przyjmuje prawo o zbrojnej „ochronie”",
-      "content_html": "Duma Państwowa, niższa izba parlamentu Rosji, przyjęła w drugim, a następnie trzecim, ostatecznym czytaniu, ustawę, która zezwala Władimirowi Putinowi wysyłać wojska w celu ochrony Rosjan poza granicami kraju – przekazały w środę ukraińskie...",
-      "date_published": "2026-05-13T19:12:00+02:00",
       "source": "Bankier.pl"
     },
     {
@@ -395,6 +403,14 @@
       "content_html": "Marszałek Sejmu Włodzimierz Czarzasty ocenił, że poczucie bezpieczeństwa na świecie jest w tej chwili zagrożone. Nie podoba mi się to - podkreślił. Jak ocenił, Polska powinna inwestować w bezpieczeństwo, budować fabryki zbrojeniowe, a Warszawa...",
       "date_published": "2026-05-13T17:12:00+02:00",
       "source": "Bankier.pl"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/gospodarka/euro-w-ebc-11715-usd-i-18483-jpy",
+      "url": "https://biznes.pap.pl/wiadomosci/gospodarka/euro-w-ebc-11715-usd-i-18483-jpy",
+      "title": "Euro w EBC: 1,1715 USD i 184,83 JPY",
+      "content_html": "Europejski Bank Centralny (EBC) ustalił kurs euro na 1,1715 USD i 184,83 JPY - podał bank na swojej stronie internetowej.",
+      "date_published": "2026-05-13T17:10:00+02:00",
+      "source": "PAP Biznes"
     },
     {
       "id": "https://biznes.pap.pl/wiadomosci/firmy/allegro-pracuje-nad-kolejnymi-premierami-w-obszarze-nowych-biznesow-prezes",
@@ -1627,30 +1643,6 @@
       "content_html": "",
       "date_published": "2026-05-13T05:48:00+02:00",
       "source": "Bankier.pl"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/firmy/indeks-msci-poland-small-cap-opusci-amrest-holdings",
-      "url": "https://biznes.pap.pl/wiadomosci/firmy/indeks-msci-poland-small-cap-opusci-amrest-holdings",
-      "title": "Indeks MSCI Poland Small Cap opuści Amrest Holdings",
-      "content_html": "W wyniku kwartalnej rewizji, indeks MSCI Poland Small Cap opuści Amrest Holdings - podano na stronoie MSCI.",
-      "date_published": "2026-05-13T05:46:00+02:00",
-      "source": "PAP Biznes"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Mostostal-Warszawa-potrzebuje-dofinansowania-w-celu-kontynuowania-normalnej-dzialanosci-9131966.html",
-      "url": "https://www.bankier.pl/wiadomosc/Mostostal-Warszawa-potrzebuje-dofinansowania-w-celu-kontynuowania-normalnej-dzialanosci-9131966.html",
-      "title": "Mostostal Warszawa potrzebuje pół miliarda zł. Spółka planuje ratunkową emisję akcji Mostostal Warszawa potrzebuje dofinansowania w wysokości 425-570 mln zł w celu kontynuowania normalnej działalności - poinformowała spółka w komunikacie. Sposobem na jego zapewnienie ma być emisja nowych akcji Zarząd w odpowiedzi na pytania głównego akcjonariusza przedstawił obecny stan finansowy spółki.",
-      "content_html": "",
-      "date_published": "2026-05-13T00:04:00+02:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/firmy/mostostal-warszawa-potrzebuje-dofinansowania-w-celu-kontynuowania-normalnej",
-      "url": "https://biznes.pap.pl/wiadomosci/firmy/mostostal-warszawa-potrzebuje-dofinansowania-w-celu-kontynuowania-normalnej",
-      "title": "Mostostal Warszawa potrzebuje dofinansowania w celu kontynuowania normalnej działaności",
-      "content_html": "Mostostal Warszawa potrzebuje dofinansowania w wysokości 425-570 mln zł w celu kontynuowania normalnej działalności - poinformowała spółka w komunikacie. Sposobem na jego zapewnienie ma być emisja now",
-      "date_published": "2026-05-13T00:03:00+02:00",
-      "source": "PAP Biznes"
     }
   ]
 }
