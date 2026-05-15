@@ -5,6 +5,14 @@
   "home_page_url": "https://www.bankier.pl",
   "items": [
     {
+      "id": "https://biznes.pap.pl/wiadomosci/rynki/dzien-na-rynkach-wall-street-konczy-tydzien-spadkami-po-przecenie-firm",
+      "url": "https://biznes.pap.pl/wiadomosci/rynki/dzien-na-rynkach-wall-street-konczy-tydzien-spadkami-po-przecenie-firm",
+      "title": "DZIEŃ NA RYNKACH: Wall Street kończy tydzień spadkami po przecenie firm technologicznych",
+      "content_html": "W piątek indeksy na Wall Street spadły w ślad za zniżkami akcji spółek technologicznych i wzrostem rentowności obligacji skarbowych. Stało się tak po zakończeniu szczytu prezydenta USA Donalda Trumpa ",
+      "date_published": "2026-05-15T22:20:00+02:00",
+      "source": "PAP Biznes"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Pentagon-anulowal-wyslanie-brygady-do-Polski-Dowodca-US-Army-najlepsza-opcja-redukcji-wojsk-w-Europie-9134082.html",
       "url": "https://www.bankier.pl/wiadomosc/Pentagon-anulowal-wyslanie-brygady-do-Polski-Dowodca-US-Army-najlepsza-opcja-redukcji-wojsk-w-Europie-9134082.html",
       "title": "Pentagon anulował wysłanie brygady do Polski. Dowódca US Army: najlepsza opcja redukcji wojsk w Europie",
@@ -269,14 +277,6 @@
       "source": "Bankier.pl"
     },
     {
-      "id": "https://biznes.pap.pl/wiadomosci/gospodarka/deficyt-budzetu-po-kwietniu-2026-r-wyniosl-ok-8929-mld-zl-mf-opis",
-      "url": "https://biznes.pap.pl/wiadomosci/gospodarka/deficyt-budzetu-po-kwietniu-2026-r-wyniosl-ok-8929-mld-zl-mf-opis",
-      "title": "Deficyt budżetu po kwietniu 2026 r. wyniósł ok. 89,29 mld zł - MF (opis)",
-      "content_html": "Deficyt budżetu po kwietniu 2026 r. wyniósł 89.294,3 mln zł, tj. 32,9 proc. planu - wynika z szacunków Ministerstwa Finansów, opublikowanych na stronie resortu. W okresie styczeń-kwiecień 2026 r. doch",
-      "date_published": "2026-05-15T17:24:00+02:00",
-      "source": "PAP Biznes"
-    },
-    {
       "id": "https://www.bankier.pl/wiadomosc/Kalendarz-inwestora-Wyniki-Nvidii-PKB-Niemiec-i-maraton-raportow-z-GPW-9134032.html",
       "url": "https://www.bankier.pl/wiadomosc/Kalendarz-inwestora-Wyniki-Nvidii-PKB-Niemiec-i-maraton-raportow-z-GPW-9134032.html",
       "title": "Gorący tydzień na rynkach. Czy wyniki Nvidii i dane z polskiej gospodarki zaskoczą?",
@@ -371,6 +371,14 @@
       "content_html": "Jastrzębska Spółka Węglowa szacuje, że w pierwszym kwartale 2026 roku miała stratę EBITDA w wysokości 238,6 mln zł, a stratę netto na poziomie 615,9 mln zł - podała spółka w komunikacie. Konsensus PAP Biznes zakładał stratę EBITDA na...",
       "date_published": "2026-05-15T15:50:00+02:00",
       "source": "Bankier.pl"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/gospodarka/mozliwe-lekkie-podwyzki-cen-benzyny-i-diesla-spadac-moga-ceny-autogazu-bm",
+      "url": "https://biznes.pap.pl/wiadomosci/gospodarka/mozliwe-lekkie-podwyzki-cen-benzyny-i-diesla-spadac-moga-ceny-autogazu-bm",
+      "title": "Możliwe lekkie podwyżki cen benzyny i diesla, spadać mogą ceny autogazu - BM Reflex",
+      "content_html": "W przyszłym tygodniu prawdopodobne są lekkie podwyżki cen benzyny i diesla, spadać mogą z kolei ceny autogazu - oceniają analitycy BM Reflex.",
+      "date_published": "2026-05-15T15:50:00+02:00",
+      "source": "PAP Biznes"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Oficjalne-aktywa-NBP-Polska-zwieksza-zapasy-zlota-9133975.html",
@@ -1322,22 +1330,6 @@
       "title": "Zonda, polityczny chaos i polskie zaprzepaszczone szanse. Misiura: Exodus już się dzieje Do końca okresu przejściowego dla unijnego rozporządzenia MiCA zostało już niewiele czasu, a Polska wciąż nie ma przepisów, które pozwoliłyby firmom krypto działać w nowym porządku regulacyjnym. W tle mamy polityczny spór, legislacyjny chaos i aferę Zonda Krypto, która z hukiem przetoczyła się przez polski rynek. Czy to tylko historia jednego spektakularnego upadku, czy raczej opowieść o państwie, które przespało moment regulacyjny? O tym w najnowszym odcinku „GPW – Gospodarczy Punkt Widzenia” rozmawiamy z Michałem Misiurą, redaktor Bankier.pl i ekspertem od rynku kryptowalut.",
       "content_html": "",
       "date_published": "2026-05-15T06:00:00+02:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/rynki/dzien-na-rynkach-gieldy-w-usa-w-gore-dow-jones-przebil-poziom-50000-punktow",
-      "url": "https://biznes.pap.pl/wiadomosci/rynki/dzien-na-rynkach-gieldy-w-usa-w-gore-dow-jones-przebil-poziom-50000-punktow",
-      "title": "DZIEŃ NA RYNKACH: Giełdy w USA w górę, Dow Jones przebił poziom 50.000 punktów",
-      "content_html": "Czwartkowa sesja na Wall Street zakończyła się wzrostami głównych indeksów. Dow Jones przekroczył poziom 50.000 punktów, a S&P 500 jest na najwyższym poziomie w historii. Zwyżki na rynkach akcji nastą",
-      "date_published": "2026-05-14T22:14:00+02:00",
-      "source": "PAP Biznes"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/S-P500-i-Nasdaq-srubuja-rekordy-Akcje-Cisco-drozeja-jak-w-roku-2002-9133474.html",
-      "url": "https://www.bankier.pl/wiadomosc/S-P500-i-Nasdaq-srubuja-rekordy-Akcje-Cisco-drozeja-jak-w-roku-2002-9133474.html",
-      "title": "S&P500 i Nasdaq śrubują rekordy. Akcje Cisco drożeją jak w roku 2002 Dwa główne nowojorskie indeksy giełdowe zameldowały się z nowymi rekordami wszech czasów. Nowego szczytu wciąż nie ustanowiło średnia przemysłowa Dow Jonesa, a motorem zwyżek w dalszym ciągu była branża technologiczna.",
-      "content_html": "",
-      "date_published": "2026-05-14T22:10:00+02:00",
       "source": "Bankier.pl"
     }
   ]
