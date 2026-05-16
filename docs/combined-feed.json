@@ -5,6 +5,38 @@
   "home_page_url": "https://www.bankier.pl",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/Nastroje-w-budownictwie-najgorsze-od-ponad-trzech-lat-9131436.html",
+      "url": "https://www.bankier.pl/wiadomosc/Nastroje-w-budownictwie-najgorsze-od-ponad-trzech-lat-9131436.html",
+      "title": "Nastroje w budownictwie najgorsze od ponad trzech lat",
+      "content_html": "Subindeks Barometru EFL dla budownictwa spadł w drugim kwartale 2026 r. do 47,1 pkt. z 51,4 pkt. kwartał wcześniej. To najniższy poziom od końca 2022 r. Firmy wyraźnie ograniczyły oczekiwania dotyczące sprzedaży i poprawy płynności finansowej...",
+      "date_published": "2026-05-16T13:00:00+02:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Powazny-blad-polskich-przedsiebiorcow-Boja-sie-skarbowki-i-traca-fortune-9130757.html",
+      "url": "https://www.bankier.pl/wiadomosc/Powazny-blad-polskich-przedsiebiorcow-Boja-sie-skarbowki-i-traca-fortune-9130757.html",
+      "title": "Poważny błąd polskich przedsiębiorców. Boją się skarbówki i tracą fortunę",
+      "content_html": "Ulgi innowacyjne, w tym badawczo-rozwojowa, są w Polsce dostępne bez limitów i naborów, jednak korzysta z nich mniej niż 40 proc. uprawnionych firm - ocenia w rozmowie z PAP Biznes Partnership Manager Leyton Aleksander Gielarek. Jego zdaniem kluczowe...",
+      "date_published": "2026-05-16T12:00:00+02:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Mediolan-wycisza-miasto-Caloroczny-zakaz-petard-i-karuzela-mandatow-9131939.html",
+      "url": "https://www.bankier.pl/wiadomosc/Mediolan-wycisza-miasto-Caloroczny-zakaz-petard-i-karuzela-mandatow-9131939.html",
+      "title": "Mediolan wycisza miasto. Całoroczny zakaz petard i karuzela mandatów",
+      "content_html": "W Mediolanie nie tylko w sylwestra, ale przez cały rok będzie obowiązywać zakaz odpalania petard i rac w trosce o zwierzęta, środowisko i zdrowie mieszkańców. Przewiduje to rozporządzenie przyjęte przez radę miasta. Za złamanie nowych przepisów...",
+      "date_published": "2026-05-16T12:00:00+02:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Ucieczka-przed-paragonami-grozy-Polowa-Polakow-wybiera-maj-zamiast-sierpnia-9132011.html",
+      "url": "https://www.bankier.pl/wiadomosc/Ucieczka-przed-paragonami-grozy-Polowa-Polakow-wybiera-maj-zamiast-sierpnia-9132011.html",
+      "title": "Ucieczka przed \"paragonami grozy\". Połowa Polaków wybiera maj zamiast sierpnia",
+      "content_html": "W tym roku 49 proc. Polaków wyjedzie na wakacje wiosną lub wczesnym latem, jeszcze przed rozpoczęciem sezonu - wynika z badania „Polaków portfel własny: Sezon na wydatki”. Najczęściej takie decyzje są podyktowane niższymi cenami niż w szczycie...",
+      "date_published": "2026-05-16T12:00:00+02:00",
+      "source": "Bankier.pl"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Przeswietlamy-UniCredit-darmowe-Konto-Osobiste-i-zyskowne-dodatki-9134302.html",
       "url": "https://www.bankier.pl/wiadomosc/Przeswietlamy-UniCredit-darmowe-Konto-Osobiste-i-zyskowne-dodatki-9134302.html",
       "title": "Darmowe bankowanie w Polsce. Oto wyjątkowa oferta bez haczyków",
@@ -349,6 +381,22 @@
       "source": "Bankier.pl"
     },
     {
+      "id": "https://www.bankier.pl/wiadomosc/DM-BDM-podwyzszyl-cene-docelowa-dla-akcji-ATM-Grupa-do-5-41-zl-9134265.html",
+      "url": "https://www.bankier.pl/wiadomosc/DM-BDM-podwyzszyl-cene-docelowa-dla-akcji-ATM-Grupa-do-5-41-zl-9134265.html",
+      "title": "DM BDM podwyższył cenę docelową dla akcji ATM Grupa",
+      "content_html": "Analitycy DM BDM, w raporcie z 15 maja, podwyższyli cenę docelową akcji ATM Grupa do 5,41 z 5,06 zł wcześniej, podtrzymując rekomendację \"kupuj\".",
+      "date_published": "2026-05-15T19:56:00+02:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Linia-produkcyjna-w-projekcie-BACTEROMIC-uzyska-gotowosc-pozniej-niz-planowano-Scope-Fluidics-9134259.html",
+      "url": "https://www.bankier.pl/wiadomosc/Linia-produkcyjna-w-projekcie-BACTEROMIC-uzyska-gotowosc-pozniej-niz-planowano-Scope-Fluidics-9134259.html",
+      "title": "Scope Fluidics ma opóźnienie. Linia produkcyjna w projekcie BACTEROMIC uzyska gotowość później niż planowano",
+      "content_html": "Obecnie trwają poszukiwania lokalizacji dla półautomatycznej linii produkcyjnej paneli systemu BACTEROMIC i uzyskanie gotowości tej linii nastąpi później niż planowano - poinformował Scope Fluidics w komunikacie. Ogłoszony w lutym plan zakładał...",
+      "date_published": "2026-05-15T19:50:00+02:00",
+      "source": "Bankier.pl"
+    },
+    {
       "id": "https://biznes.pap.pl/wiadomosci/firmy/cognor-mial-w-i-kw-11-mln-zl-straty-netto-lepiej-od-oczekiwan",
       "url": "https://biznes.pap.pl/wiadomosci/firmy/cognor-mial-w-i-kw-11-mln-zl-straty-netto-lepiej-od-oczekiwan",
       "title": "Cognor miał w I kw. 1,1 mln zł straty netto; lepiej od oczekiwań",
@@ -357,12 +405,28 @@
       "source": "PAP Biznes"
     },
     {
+      "id": "https://www.bankier.pl/wiadomosc/Milton-Essex-ma-umowe-o-wspolpracy-z-Creotech-Quantum-9134247.html",
+      "url": "https://www.bankier.pl/wiadomosc/Milton-Essex-ma-umowe-o-wspolpracy-z-Creotech-Quantum-9134247.html",
+      "title": "Milton Essex ma umowę o współpracy z Creotech Quantum",
+      "content_html": "Milton Essex podpisał umowę o współpracy z Creotech Quantum - poinformowała spółka w komunikacie.",
+      "date_published": "2026-05-15T19:30:00+02:00",
+      "source": "Bankier.pl"
+    },
+    {
       "id": "https://biznes.pap.pl/wiadomosci/firmy/bartlomiej-babuska-zrezygnowal-z-funkcji-prezesa-agencji-rozwoju-przemyslu",
       "url": "https://biznes.pap.pl/wiadomosci/firmy/bartlomiej-babuska-zrezygnowal-z-funkcji-prezesa-agencji-rozwoju-przemyslu",
       "title": "Bartłomiej Babuśka zrezygnował z funkcji prezesa Agencji Rozwoju Przemysłu",
       "content_html": "Bartłomiej Babuśka złożył w piątek rezygnację z funkcji prezesa zarządu Agencji Rozwoju Przemysłu, a powodem decyzji są nowe wyzwania zawodowe - podała Agencja. Wg. informacji Rady ds. Współpracy z Uk",
       "date_published": "2026-05-15T19:23:00+02:00",
       "source": "PAP Biznes"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Bio-Planet-wyplaci-0-63-zl-dywidendy-na-akcje-za-2025-rok-9134213.html",
+      "url": "https://www.bankier.pl/wiadomosc/Bio-Planet-wyplaci-0-63-zl-dywidendy-na-akcje-za-2025-rok-9134213.html",
+      "title": "Bio Planet wypłaci 0,63 zł dywidendy na akcję za 2025 rok",
+      "content_html": "Akcjonariusze Bio Planet zdecydowali w sprawie wypłaty dywidendy z zysku za 2025 r. w wysokości 0,63 zł na akcję, czyli łącznie 1,89 mln zł - poinformowała spółka w komunikacie.",
+      "date_published": "2026-05-15T19:21:00+02:00",
+      "source": "Bankier.pl"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/USA-beda-bronic-Tajwanu-Trump-Tylko-jedna-osoba-wie-9133902.html",
@@ -389,28 +453,12 @@
       "source": "Bankier.pl"
     },
     {
-      "id": "https://www.bankier.pl/wiadomosc/DM-BDM-podwyzszyl-cene-docelowa-dla-akcji-ATM-Grupa-do-5-41-zl-9134265.html",
-      "url": "https://www.bankier.pl/wiadomosc/DM-BDM-podwyzszyl-cene-docelowa-dla-akcji-ATM-Grupa-do-5-41-zl-9134265.html",
-      "title": "DM BDM podwyższył cenę docelową dla akcji ATM Grupa Analitycy DM BDM, w raporcie z 15 maja, podwyższyli cenę docelową akcji ATM Grupa do 5,41 z 5,06 zł wcześniej, podtrzymując rekomendację \"kupuj\".",
-      "content_html": "",
-      "date_published": "2026-05-15T18:56:00+02:00",
-      "source": "Bankier.pl"
-    },
-    {
       "id": "https://biznes.pap.pl/wiadomosci/firmy/dm-bdm-podwyzszyl-cene-docelowa-dla-akcji-atm-grupa-do-541-zl",
       "url": "https://biznes.pap.pl/wiadomosci/firmy/dm-bdm-podwyzszyl-cene-docelowa-dla-akcji-atm-grupa-do-541-zl",
       "title": "DM BDM podwyższył cenę docelową dla akcji ATM Grupa do 5,41 zł",
       "content_html": "Analitycy DM BDM, w raporcie z 15 maja, podwyższyli cenę docelową akcji ATM Grupa do 5,41 z 5,06 zł wcześniej, podtrzymując rekomendację \"kupuj\".",
       "date_published": "2026-05-15T18:55:00+02:00",
       "source": "PAP Biznes"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Linia-produkcyjna-w-projekcie-BACTEROMIC-uzyska-gotowosc-pozniej-niz-planowano-Scope-Fluidics-9134259.html",
-      "url": "https://www.bankier.pl/wiadomosc/Linia-produkcyjna-w-projekcie-BACTEROMIC-uzyska-gotowosc-pozniej-niz-planowano-Scope-Fluidics-9134259.html",
-      "title": "Scope Fluidics ma opóźnienie. Linia produkcyjna w projekcie BACTEROMIC uzyska gotowość później niż planowano Obecnie trwają poszukiwania lokalizacji dla półautomatycznej linii produkcyjnej paneli systemu BACTEROMIC i uzyskanie gotowości tej linii nastąpi później niż planowano - poinformował Scope Fluidics w komunikacie. Ogłoszony w lutym plan zakładał posiadanie wewnętrznie zwalidowanej linii na początku drugiej połowy 2026 r.",
-      "content_html": "",
-      "date_published": "2026-05-15T18:50:00+02:00",
-      "source": "Bankier.pl"
     },
     {
       "id": "https://biznes.pap.pl/wiadomosci/firmy/linia-produkcyjna-w-projekcie-bacteromic-uzyska-gotowosc-pozniej-niz-planowano",
@@ -437,14 +485,6 @@
       "source": "Bankier.pl"
     },
     {
-      "id": "https://www.bankier.pl/wiadomosc/Milton-Essex-ma-umowe-o-wspolpracy-z-Creotech-Quantum-9134247.html",
-      "url": "https://www.bankier.pl/wiadomosc/Milton-Essex-ma-umowe-o-wspolpracy-z-Creotech-Quantum-9134247.html",
-      "title": "Milton Essex ma umowę o współpracy z Creotech Quantum Milton Essex podpisał umowę o współpracy z Creotech Quantum - poinformowała spółka w komunikacie.",
-      "content_html": "",
-      "date_published": "2026-05-15T18:30:00+02:00",
-      "source": "Bankier.pl"
-    },
-    {
       "id": "https://biznes.pap.pl/wiadomosci/przemysl/milton-essex-ma-umowe-o-wspolpracy-z-creotech-quantum",
       "url": "https://biznes.pap.pl/wiadomosci/przemysl/milton-essex-ma-umowe-o-wspolpracy-z-creotech-quantum",
       "title": "Milton Essex ma umowę o współpracy z Creotech Quantum",
@@ -457,14 +497,6 @@
       "url": "https://www.bankier.pl/wiadomosc/Potezna-przecena-na-rynku-akcji-i-duze-zmiany-na-spolkach-10-na-Dino-i-8-6-na-KGHM-9134167.html",
       "title": "Potężna przecena na rynku akcji i duże zmiany na spółkach. +10% na Dino i -8,6% na KGHM",
       "content_html": "Krajowe indeksy podążyły śladem rynków bazowych, które wystraszyły rosnące rentowności amerykańskich obligacji, co wynika z coraz większych szans na wzrost stóp procentowych w USA. U podstaw obaw stoją rosnące ceny ropy, bo choć „epicka...",
-      "date_published": "2026-05-15T18:21:00+02:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Bio-Planet-wyplaci-0-63-zl-dywidendy-na-akcje-za-2025-rok-9134213.html",
-      "url": "https://www.bankier.pl/wiadomosc/Bio-Planet-wyplaci-0-63-zl-dywidendy-na-akcje-za-2025-rok-9134213.html",
-      "title": "Bio Planet wypłaci 0,63 zł dywidendy na akcję za 2025 rok Akcjonariusze Bio Planet zdecydowali w sprawie wypłaty dywidendy z zysku za 2025 r. w wysokości 0,63 zł na akcję, czyli łącznie 1,89 mln zł - poinformowała spółka w komunikacie.",
-      "content_html": "",
       "date_published": "2026-05-15T18:21:00+02:00",
       "source": "Bankier.pl"
     },
@@ -853,14 +885,6 @@
       "source": "PAP Biznes"
     },
     {
-      "id": "https://biznes.pap.pl/wiadomosci/gospodarka/deficyt-ca-w-marcu-2026-r-wyniosl-234-mln-euro-vs-konsensus-deficytu-12625",
-      "url": "https://biznes.pap.pl/wiadomosci/gospodarka/deficyt-ca-w-marcu-2026-r-wyniosl-234-mln-euro-vs-konsensus-deficytu-12625",
-      "title": "Deficyt C/A w marcu 2026 r. wyniósł 234 mln euro vs konsensus deficytu 1.262,5 mln euro - NBP",
-      "content_html": "Deficyt na rachunku bieżącym Polski w marcu 2026 wyniósł 234 mln euro vs konsensusu deficytu na poziomie 1.262,5 mln euro - podał Narodowy Bank Polski. Eksport wzrósł o 7,4 proc. rdr wobec konsensusu ",
-      "date_published": "2026-05-15T14:00:00+02:00",
-      "source": "PAP Biznes"
-    },
-    {
       "id": "https://www.bankier.pl/wiadomosc/Woodpecker-rozpoczal-przeglad-opcji-strategicznych-9133833.html",
       "url": "https://www.bankier.pl/wiadomosc/Woodpecker-rozpoczal-przeglad-opcji-strategicznych-9133833.html",
       "title": "Woodpecker rozpoczął przegląd opcji strategicznych",
@@ -875,22 +899,6 @@
       "content_html": "Z dużą ulgą mogli odetchnąć przede wszystkim posiadacze aut z silnikiem Diesla, ponieważ ceny oleju napędowego powróciły poniżej 7 zł/l.",
       "date_published": "2026-05-15T13:45:00+02:00",
       "source": "Bankier.pl"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/firmy/tauron-zawarl-z-bgk-umowe-pozyczki-do-2271-mln-zl-na-finansowanie-farm",
-      "url": "https://biznes.pap.pl/wiadomosci/firmy/tauron-zawarl-z-bgk-umowe-pozyczki-do-2271-mln-zl-na-finansowanie-farm",
-      "title": "Tauron zawarł z BGK umowę pożyczki do 227,1 mln zł na finansowanie farm fotowoltaicznych",
-      "content_html": "Spółka z grupy Tauron, Tauron Zielona Energia, zawarł z BGK umowę pożyczki do 227,1 mln zł na budowę farm fotowoltaicznych i magazynu energii w ramach środków z KPO i zwiększania odporności w ramach I",
-      "date_published": "2026-05-15T13:42:00+02:00",
-      "source": "PAP Biznes"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/firmy/budimex-polimex-i-sinevia-beda-wspolpracowac-ws-udzialu-w-odbudowie-ukrainy-opis",
-      "url": "https://biznes.pap.pl/wiadomosci/firmy/budimex-polimex-i-sinevia-beda-wspolpracowac-ws-udzialu-w-odbudowie-ukrainy-opis",
-      "title": "Budimex, Polimex i Sinevia będą współpracować ws. udziału w odbudowie Ukrainy (opis)",
-      "content_html": "Budimex, kontrolowany przez państwo Polimex Mostostal oraz działająca w strukturach MON-u Sinevia podpisały porozumienie w Ministerstwie Aktywów Państwowych w sprawie współpracy przy odbudowie Ukrainy",
-      "date_published": "2026-05-15T13:41:00+02:00",
-      "source": "PAP Biznes"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Mial-byc-spokoj-byl-parking-za-800-zlotych-Wyjazdy-do-sanatorium-z-wlasnym-portfelem-9133801.html",
@@ -925,14 +933,6 @@
       "source": "Bankier.pl"
     },
     {
-      "id": "https://biznes.pap.pl/wiadomosci/gospodarka/premier-zwrocil-bez-kontrasygnaty-postanowienia-prezydenta-o-powolaniu-4",
-      "url": "https://biznes.pap.pl/wiadomosci/gospodarka/premier-zwrocil-bez-kontrasygnaty-postanowienia-prezydenta-o-powolaniu-4",
-      "title": "Premier zwrócił bez kontrasygnaty postanowienia prezydenta o powołaniu 4 członków zarządu NBP (opis)",
-      "content_html": "Prezes Rady Ministrów zwrócił bez kontrasygnaty postanowienia Prezydenta RP dotyczące powołania członków zarządu Narodowego Banku Polskiego: Marty Kightley, Ludwika Koteckiego, Przemysława Litwiniuka ",
-      "date_published": "2026-05-15T13:24:00+02:00",
-      "source": "PAP Biznes"
-    },
-    {
       "id": "https://www.bankier.pl/wiadomosc/Wojna-o-Trybunal-Konstytucyjny-PiS-idzie-do-prokuratury-9133809.html",
       "url": "https://www.bankier.pl/wiadomosc/Wojna-o-Trybunal-Konstytucyjny-PiS-idzie-do-prokuratury-9133809.html",
       "title": "Wojna o Trybunał Konstytucyjny. PiS idzie do prokuratury",
@@ -947,14 +947,6 @@
       "content_html": "Analitycy DM BDM, w raporcie z 8 maja, podwyższyli cenę docelową akcji Budimeksu do 615,2 zł z 514,1 zł poprzednio oraz obniżyli rekomendację do \"redukuj\" z \"akumuluj\".",
       "date_published": "2026-05-15T13:12:00+02:00",
       "source": "Bankier.pl"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/firmy/atal-zaklada-wyzszy-poziom-sprzedazy-kwartal-do-kwartalu",
-      "url": "https://biznes.pap.pl/wiadomosci/firmy/atal-zaklada-wyzszy-poziom-sprzedazy-kwartal-do-kwartalu",
-      "title": "Atal zakłada wyższy poziom sprzedaży kwartał do kwartału",
-      "content_html": "Atal zakłada wyższy poziom sprzedaży w II kwartale 2026 r. niż w kwartale poprzednim - poinformowali przedstawiciele spółki na konferencji prasowej.",
-      "date_published": "2026-05-15T13:09:00+02:00",
-      "source": "PAP Biznes"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Sejm-uchwalil-ustawe-antySLAPP-ma-chronic-uczestnikow-debaty-publicznej-9133797.html",
@@ -981,164 +973,12 @@
       "source": "Bankier.pl"
     },
     {
-      "id": "https://biznes.pap.pl/wiadomosci/firmy/woodpecker-rozpoczal-przeglad-opcji-strategicznych",
-      "url": "https://biznes.pap.pl/wiadomosci/firmy/woodpecker-rozpoczal-przeglad-opcji-strategicznych",
-      "title": "Woodpecker rozpoczął przegląd opcji strategicznych",
-      "content_html": "Woodpecker zdecydował o rozpoczęciu procesu przeglądu opcji strategicznych - poinformowała spółka w komunikacie.",
-      "date_published": "2026-05-15T12:50:00+02:00",
-      "source": "PAP Biznes"
-    },
-    {
       "id": "https://www.bankier.pl/wiadomosc/Strategiczny-sojusz-Indii-i-ZEA-Tak-mocarstwa-reaguja-na-grozby-Teheranu-9133788.html",
       "url": "https://www.bankier.pl/wiadomosc/Strategiczny-sojusz-Indii-i-ZEA-Tak-mocarstwa-reaguja-na-grozby-Teheranu-9133788.html",
       "title": "Strategiczny sojusz Indii i ZEA. Tak mocarstwa reagują na groźby Teheranu",
       "content_html": "Podczas wizyty premiera Indii Narendry Modiego w Zjednoczonych Emiratach Arabskich podpisano kilka dwustronnych porozumień, dotyczących m.in. strategicznej współpracy obronnej, dostaw paliw i inwestycji – poinformowała w piątek agencja Reutera...",
       "date_published": "2026-05-15T12:48:00+02:00",
       "source": "Bankier.pl"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/firmy/budimex-polimex-i-sinevia-beda-wspolpracowac-ws-udzialu-w-odbudowie-ukrainy",
-      "url": "https://biznes.pap.pl/wiadomosci/firmy/budimex-polimex-i-sinevia-beda-wspolpracowac-ws-udzialu-w-odbudowie-ukrainy",
-      "title": "Budimex, Polimex i Sinevia będą współpracować ws. udziału w odbudowie Ukrainy - Balczun",
-      "content_html": "Budimex, lider w polski sektorze budowlanym, kontrolowany przez państwo Polimex oraz działająca w strukturach MON-u Sinevia łączą swoje siły, by wspólnie brać udział w potencjalnych projektach, które ",
-      "date_published": "2026-05-15T12:39:00+02:00",
-      "source": "PAP Biznes"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/South-China-Morning-Post-Putin-zlozy-20-maja-wizyte-w-Chinach-9133781.html",
-      "url": "https://www.bankier.pl/wiadomosc/South-China-Morning-Post-Putin-zlozy-20-maja-wizyte-w-Chinach-9133781.html",
-      "title": "„South China Morning Post”: Putin złoży 20 maja wizytę w Chinach",
-      "content_html": "Przywódca Rosji Władimir Putin przyjedzie 20 maja z wizytą do stolicy Chin, Pekinu - poinformował w piątek dziennik „South China Morning Post”, powołując się na źródła. Rzecznik Kremla Dmitrij Pieskow potwierdził tego samego dnia, że...",
-      "date_published": "2026-05-15T12:37:00+02:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Sejm-uchwalil-ustawe-o-utworzeniu-Wojskowej-Akademii-Medycznej-w-Lodzi-9133772.html",
-      "url": "https://www.bankier.pl/wiadomosc/Sejm-uchwalil-ustawe-o-utworzeniu-Wojskowej-Akademii-Medycznej-w-Lodzi-9133772.html",
-      "title": "Sejm uchwalił ustawę o utworzeniu Wojskowej Akademii Medycznej w Łodzi",
-      "content_html": "Sejm uchwalił w piątek ustawę o utworzeniu Wojskowej Akademii Medycznej (WAM). Zakłada ona powołanie w Łodzi, od 1 lipca br., uczelni kształcącej wojskowych medyków, m.in. lekarzy i ratowników. To reaktywacja zlikwidowanej ponad 20 lat temu...",
-      "date_published": "2026-05-15T12:30:00+02:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/A-pod-nakretka-pustka-Czy-kultowe-napisy-Tymbarku-znikna-na-stale-9133603.html",
-      "url": "https://www.bankier.pl/wiadomosc/A-pod-nakretka-pustka-Czy-kultowe-napisy-Tymbarku-znikna-na-stale-9133603.html",
-      "title": "Pustka pod nakrętką to nie błąd. Tymbark odda swój kapsel konsumentom",
-      "content_html": "Konsumenci marki Tymbark od kilkunastu dni sygnalizują w mediach społecznościowych nietypową zmianę w produktach flagowego producenta napojów. Chodzi o brak charakterystycznych krótkich haseł, które od lat umieszczane były po wewnętrznej stronie...",
-      "date_published": "2026-05-15T12:27:00+02:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/firmy/ceny-maksymalne-paliw-na-stacjach-w-dniach-11-18-v-tabela",
-      "url": "https://biznes.pap.pl/wiadomosci/firmy/ceny-maksymalne-paliw-na-stacjach-w-dniach-11-18-v-tabela",
-      "title": "Ceny maksymalne paliw na stacjach w dniach 11-18 V (tabela)",
-      "content_html": "Ogłaszane przez ministra energii ceny maksymalne wybranych paliw na stacjach spadły na koniec tygodnia; niższe stawki będą obowiązywać do poniedziałku, 18 maja, włącznie.",
-      "date_published": "2026-05-15T12:24:00+02:00",
-      "source": "PAP Biznes"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/firmy/w-przyszlym-tygodniu-prawdopodobna-stabilizacja-cen-benzyny-e-petrol",
-      "url": "https://biznes.pap.pl/wiadomosci/firmy/w-przyszlym-tygodniu-prawdopodobna-stabilizacja-cen-benzyny-e-petrol",
-      "title": "W przyszłym tygodniu prawdopodobna stabilizacja cen benzyny - e-petrol",
-      "content_html": "W przyszłym tygodniu prawdopodobna jest stabilizacja cen benzyny oraz dalsze, niewielkie obniżki cen diesla i autogazu - prognozują analitycy e-petrol.",
-      "date_published": "2026-05-15T12:23:00+02:00",
-      "source": "PAP Biznes"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/gospodarka/dluzsza-wojna-na-bliskim-wsch-zwieksza-ryzyko-przekroczenia-przez-cpi-gornej",
-      "url": "https://biznes.pap.pl/wiadomosci/gospodarka/dluzsza-wojna-na-bliskim-wsch-zwieksza-ryzyko-przekroczenia-przez-cpi-gornej",
-      "title": "Dłuższa wojna na Bliskim Wsch. zwiększa ryzyko przekroczenia przez CPI górnej granicy celu (opinia)",
-      "content_html": "Przedłużanie się konfliktu na Bliskim Wschodzie i ewentualny, dalszy wzrost cen ropy naftowej zwiększają ryzyko przekroczenia przez inflację CPI poziomu górnej granicy odchyleń od celu NBP, tj. 3,5 pr",
-      "date_published": "2026-05-15T12:23:00+02:00",
-      "source": "PAP Biznes"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/firmy/cena-maksymalna-na-16-18-v-dla-benzyny-pb95-wynosi-637-zll-dla-682-zll",
-      "url": "https://biznes.pap.pl/wiadomosci/firmy/cena-maksymalna-na-16-18-v-dla-benzyny-pb95-wynosi-637-zll-dla-682-zll",
-      "title": "Cena maksymalna na 16-18 V dla benzyny Pb95 wynosi 6,37 zł/l, a dla ON 6,82 zł/l",
-      "content_html": "Maksymalna cena dla benzyny Pb95 wynosi 6,37 zł/l, dla benzyny Pb98 6,93 zł/l, a dla oleju napędowego 6,82 zł/l - wynika z obwieszczenia ministra energii opublikowanego w Monitorze Polskim. Ceny te bę",
-      "date_published": "2026-05-15T12:22:00+02:00",
-      "source": "PAP Biznes"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/PKP-Cargo-zlozylo-wniosek-o-zmiane-terminu-przekazania-projektu-propozycji-ukladowych-radzie-wierzycieli-9133753.html",
-      "url": "https://www.bankier.pl/wiadomosc/PKP-Cargo-zlozylo-wniosek-o-zmiane-terminu-przekazania-projektu-propozycji-ukladowych-radzie-wierzycieli-9133753.html",
-      "title": "PKP Cargo złożyło wniosek o zmianę terminu przekazania projektu propozycji układowych radzie wierzycieli",
-      "content_html": "PKP Cargo w restrukturyzacji złożyło wniosek do Sędziego-Komisarza o zmianę terminu przekazania projektu ostatecznych propozycji układowych radzie wierzycieli, z 22 maja na 29 maja 2026 roku - podała spółka w komunikacie.",
-      "date_published": "2026-05-15T12:16:00+02:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/firmy/dm-bdm-podwyzszyl-cene-docelowa-akcji-budimeksu-do-6152-zl",
-      "url": "https://biznes.pap.pl/wiadomosci/firmy/dm-bdm-podwyzszyl-cene-docelowa-akcji-budimeksu-do-6152-zl",
-      "title": "DM BDM podwyższył cenę docelową akcji Budimeksu do 615,2 zł",
-      "content_html": "Analitycy DM BDM, w raporcie z 8 maja, podwyższyli cenę docelową akcji Budimeksu do 615,2 zł z 514,1 zł poprzednio oraz obniżyli rekomendację do \"redukuj\" z \"akumuluj\".",
-      "date_published": "2026-05-15T12:11:00+02:00",
-      "source": "PAP Biznes"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/RockGame-zadebiutowal-na-NewConnect-9133748.html",
-      "url": "https://www.bankier.pl/wiadomosc/RockGame-zadebiutowal-na-NewConnect-9133748.html",
-      "title": "RockGame zadebiutował na NewConnect",
-      "content_html": "RockGame, producent i wydawca gier wideo na komputery osobiste oraz konsole, zadebiutował w piątek na rynku NewConnect. Na otwarciu kurs akcji spółki wzrósł o 15,05 proc. do 24 zł.",
-      "date_published": "2026-05-15T12:08:00+02:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Trump-Chiny-zgodzily-sie-zamowic-200-samolotow-Boeinga-9133377.html",
-      "url": "https://www.bankier.pl/wiadomosc/Trump-Chiny-zgodzily-sie-zamowic-200-samolotow-Boeinga-9133377.html",
-      "title": "Trump: Chiny zgodziły się zamówić 200 samolotów Boeinga",
-      "content_html": "Przewodniczący Chińskiej Republiki Ludowej Xi Jinping zgodził się zamówić 200 samolotów amerykańskiej firmy Boeing – ogłosił prezydent USA Donald Trump w wywiadzie dla stacji Fox News po czwartkowych rozmowach z Xi w Pekinie.",
-      "date_published": "2026-05-15T12:07:00+02:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Sejm-po-raz-trzeci-uchwalil-ustawe-o-rynku-kryptoaktywow-9133687.html",
-      "url": "https://www.bankier.pl/wiadomosc/Sejm-po-raz-trzeci-uchwalil-ustawe-o-rynku-kryptoaktywow-9133687.html",
-      "title": "Sejm po raz trzeci uchwalił ustawę o rynku kryptoaktywów",
-      "content_html": "Sejm w piątek po raz trzeci uchwalił ustawę o rynku kryptoaktywów, która zakłada, że Komisja Nadzoru Finansowego będzie sprawować nadzór nad tym rynkiem. Dwie poprzednie rządowe ustawy w tej sprawie zostały zawetowane przez prezydenta Karola...",
-      "date_published": "2026-05-15T12:06:00+02:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Nowy-podatek-dla-sektora-gazowego-Rzad-chce-sfinansowac-tansze-paliwa-kosztem-gigantow-9133745.html",
-      "url": "https://www.bankier.pl/wiadomosc/Nowy-podatek-dla-sektora-gazowego-Rzad-chce-sfinansowac-tansze-paliwa-kosztem-gigantow-9133745.html",
-      "title": "Nowy podatek dla sektora gazowego. Rząd chce sfinansować tańsze paliwa kosztem gigantów",
-      "content_html": "Podatek od nadmiarowych zysków może dotyczyć m.in. sektora gazowego - wynika z wypowiedzi ministra energii Miłosza Motyki w PR24. Poinformował, że to, kto będzie potencjalnym płatnikiem i jaki będzie mechanizm podatku, jest dzisiaj na etapie...",
-      "date_published": "2026-05-15T12:06:00+02:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/rynki/dzien-na-rynkach-indeksy-w-europie-spadaja-futures-w-usa-tez-na-minusach",
-      "url": "https://biznes.pap.pl/wiadomosci/rynki/dzien-na-rynkach-indeksy-w-europie-spadaja-futures-w-usa-tez-na-minusach",
-      "title": "DZIEŃ NA RYNKACH: Indeksy w Europie spadają, futures w USA też na minusach",
-      "content_html": "Giełdy w Europie zniżkują, podobnie jak kontrakty w USA. Analitycy wskazują, że pat w negocjacjach USA–Iran osłabił apetyt na ryzyko. Ceny ropy zwyżkują",
-      "date_published": "2026-05-15T11:50:00+02:00",
-      "source": "PAP Biznes"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Benefit-Systems-podtrzymuje-zalozenia-na-ten-rok-9133728.html",
-      "url": "https://www.bankier.pl/wiadomosc/Benefit-Systems-podtrzymuje-zalozenia-na-ten-rok-9133728.html",
-      "title": "Benefit Systems podtrzymuje założenia na ten rok",
-      "content_html": "Benefit Systems podtrzymuje po pierwszym kwartale założenia na ten rok - poinformował Marcin Fojudzki, członek zarządu Benefit Systems.",
-      "date_published": "2026-05-15T11:48:00+02:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Milczaca-zgoda-w-urzedzie-Sejm-zdecydowal-o-zmianach-9133717.html",
-      "url": "https://www.bankier.pl/wiadomosc/Milczaca-zgoda-w-urzedzie-Sejm-zdecydowal-o-zmianach-9133717.html",
-      "title": "Milcząca zgoda w urzędzie. Sejm zdecydował o zmianach",
-      "content_html": "Sejm uchwalił w piątek ustawę poszerzającą katalog spraw urzędowych, które będzie można załatwić w trybie tzw. milczącej zgody.",
-      "date_published": "2026-05-15T11:37:00+02:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/firmy/pkp-cargo-zlozylo-wniosek-o-zmiane-terminu-przekazania-projektu-propozycji",
-      "url": "https://biznes.pap.pl/wiadomosci/firmy/pkp-cargo-zlozylo-wniosek-o-zmiane-terminu-przekazania-projektu-propozycji",
-      "title": "PKP Cargo złożyło wniosek o zmianę terminu przekazania projektu propozycji układowych radzie wierzycieli",
-      "content_html": "PKP Cargo w restrukturyzacji złożyło wniosek do Sędziego-Komisarza o zmianę terminu przekazania projektu ostatecznych propozycji układowych radzie wierzycieli, z 22 maja na 29 maja 2026 roku - podała ",
-      "date_published": "2026-05-15T11:15:00+02:00",
-      "source": "PAP Biznes"
     }
   ]
 }
