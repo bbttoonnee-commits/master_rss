@@ -5,6 +5,14 @@
   "home_page_url": "https://www.bankier.pl",
   "items": [
     {
+      "id": "https://biznes.pap.pl/wiadomosci/ekonomia-biznes-i-finanse/skrot-wiadomosci-sobota-niedziela-16-17-maja-0",
+      "url": "https://biznes.pap.pl/wiadomosci/ekonomia-biznes-i-finanse/skrot-wiadomosci-sobota-niedziela-16-17-maja-0",
+      "title": "Skrót wiadomości: sobota-niedziela, 16-17 maja",
+      "content_html": "Przegląd najważniejszych wiadomości gospodarczych, krajowych i ze świata z soboty i niedzieli, 16-17 maja",
+      "date_published": "2026-05-17T19:40:00+02:00",
+      "source": "PAP Biznes"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Co-druga-polska-firma-rozczarowana-wdrozeniem-sztucznej-inteligencji-9131194.html",
       "url": "https://www.bankier.pl/wiadomosc/Co-druga-polska-firma-rozczarowana-wdrozeniem-sztucznej-inteligencji-9131194.html",
       "title": "Co druga polska firma rozczarowana wdrożeniem sztucznej inteligencji",
@@ -458,46 +466,6 @@
       "title": "Prezydent: Nie ma demokracji bez wolnych mediów",
       "content_html": "Nie ma demokracji bez wolnych mediów, nie ma wolności słowa, tam gdzie dziennikarze zaczynają żyć pod presją interwencji służb - podkreślił prezydent Karol Nawrocki. Podziękował szefowi BBN za inicjatywę ws. wyjaśnienia „okoliczności...",
       "date_published": "2026-05-16T20:00:00+02:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Goraco-wokol-TV-Republika-Policja-stanowczo-dementuje-doniesienia-9134059.html",
-      "url": "https://www.bankier.pl/wiadomosc/Goraco-wokol-TV-Republika-Policja-stanowczo-dementuje-doniesienia-9134059.html",
-      "title": "Gorąco wokół TV Republika. Policja stanowczo dementuje doniesienia",
-      "content_html": "Komenda Rejonowa Policji Warszawa II stanowczo dementuje informacje przekazywane na antenie stacji telewizyjnej Republika dotyczące interwencji przy ulicy Wiktorskiej w Warszawie – przekazała policja.",
-      "date_published": "2026-05-16T19:53:00+02:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Przelom-w-sprawie-smierci-gwiazdora-Przyjaciol-Zapadl-wazny-wyrok-9132686.html",
-      "url": "https://www.bankier.pl/wiadomosc/Przelom-w-sprawie-smierci-gwiazdora-Przyjaciol-Zapadl-wazny-wyrok-9132686.html",
-      "title": "Przełom w sprawie śmierci gwiazdora „Przyjaciół”. Zapadł ważny wyrok",
-      "content_html": "Były doradca ds. uzależnień Erik Fleming, który dostarczył aktorowi Matthew Perry'emu ketaminę, co doprowadziło do jego zgonu, został skazany przez sąd federalny w Los Angeles na dwa lata więzienia. Fleming przyznał się do spisku w celu przekazania...",
-      "date_published": "2026-05-16T19:30:00+02:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Zaskakujacy-raport-o-produktywnosci-Polacy-i-Ukraincy-buduja-potege-Danii-9130977.html",
-      "url": "https://www.bankier.pl/wiadomosc/Zaskakujacy-raport-o-produktywnosci-Polacy-i-Ukraincy-buduja-potege-Danii-9130977.html",
-      "title": "Zaskakujący raport o produktywności. Polacy i Ukraińcy budują potęgę Danii",
-      "content_html": "Zagraniczni pracownicy wnoszą coraz większy wkład w gospodarkę Danii – wynika z raportu organizacji przedsiębiorców Dansk Erhverv, opublikowanego w poniedziałek. Na duńskim rynku wśród międzynarodowej siły roboczej dominują Polacy, trzecią...",
-      "date_published": "2026-05-16T19:00:00+02:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/UOKiK-idzie-na-wojne-z-jednorazowym-sprzetem-Chce-dodatkowego-roku-rekojmi-9131881.html",
-      "url": "https://www.bankier.pl/wiadomosc/UOKiK-idzie-na-wojne-z-jednorazowym-sprzetem-Chce-dodatkowego-roku-rekojmi-9131881.html",
-      "title": "UOKiK idzie na wojnę z jednorazowym sprzętem. Chce dodatkowego roku rękojmi",
-      "content_html": "Konsumenci mają zyskać dodatkowy rok rękojmi, jeśli zdecydują się na naprawę produktu - wynika z założeń do przygotowywanego przez UOKiK projektu noweli ustawy o prawach konsumenta, opublikowanych we wtorek w wykazie prac legislacyjnych i programowych...",
-      "date_published": "2026-05-16T19:00:00+02:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Uznanski-Wisniewski-Potrzebujemy-strategii-rozwojowej-dla-sektora-kosmicznego-9133342.html",
-      "url": "https://www.bankier.pl/wiadomosc/Uznanski-Wisniewski-Potrzebujemy-strategii-rozwojowej-dla-sektora-kosmicznego-9133342.html",
-      "title": "Uznański-Wiśniewski: Potrzebujemy strategii rozwojowej dla sektora kosmicznego",
-      "content_html": "Żeby dobrze wykorzystać potencjał misji kosmicznej — tak, by nie stała się tylko symbolem — trzeba zbudować strategię rozwojową dla sektora kosmicznego — powiedział PAP uczestnik tej misji, Sławosz Uznański-Wiśniewski. Zdaniem rektora...",
-      "date_published": "2026-05-16T18:56:00+02:00",
       "source": "Bankier.pl"
     }
   ]
