@@ -5,6 +5,70 @@
   "home_page_url": "https://www.bankier.pl",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/Wyniki-Nvidii-imponujace-pytanie-czy-pozwola-wciaz-mowic-o-wieloletnim-supercyklu-AI-opinia-9136736.html",
+      "url": "https://www.bankier.pl/wiadomosc/Wyniki-Nvidii-imponujace-pytanie-czy-pozwola-wciaz-mowic-o-wieloletnim-supercyklu-AI-opinia-9136736.html",
+      "title": "Wyniki Nvidii imponujące, pytanie czy pozwolą wciąż mówić o wieloletnim supercyklu AI (opinia)",
+      "content_html": "Wyniki Nvidii w pierwszym kwartale roku fiskalnego 2027 okazały się \"imponujące\" i lepsze od oczekiwań rynku - ocenia Mikołaj Sobierajski, analityk rynku akcji XTB. Jego zdaniem, pytanie tylko, czy będą one wystarczająco dobre, by dalej podtrzymywać...",
+      "date_published": "2026-05-21T00:38:00+02:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Wyniki-11-bit-studios-w-I-kw-2026-roku-vs-konsensus-PAP-tabela-9136729.html",
+      "url": "https://www.bankier.pl/wiadomosc/Wyniki-11-bit-studios-w-I-kw-2026-roku-vs-konsensus-PAP-tabela-9136729.html",
+      "title": "Wyniki 11 bit studios w I kw. 2026 roku vs. konsensus PAP (tabela)",
+      "content_html": "Poniżej przedstawiamy wyniki 11 bit studios w pierwszym kwartale 2026 roku oraz ich odniesienie do konsensusu PAP i wyników poprzednich okresów.",
+      "date_published": "2026-05-21T00:08:00+02:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Wyniki-Celon-Pharma-w-I-kw-2026-roku-vs-konsensus-PAP-tabela-9136728.html",
+      "url": "https://www.bankier.pl/wiadomosc/Wyniki-Celon-Pharma-w-I-kw-2026-roku-vs-konsensus-PAP-tabela-9136728.html",
+      "title": "Wyniki Celon Pharma w I kw. 2026 roku vs. konsensus PAP (tabela)",
+      "content_html": "Poniżej przedstawiono wyniki Celon Pharma w pierwszym kwartale 2026 roku według wyliczeń PAP Biznes oraz ich odniesienie do konsensusu i wyników poprzednich okresów.",
+      "date_published": "2026-05-21T00:04:00+02:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/gry-i-technologie/spacex-sklada-wniosek-o-notowanie-na-nasdaq-moze-zadebiutowac-w",
+      "url": "https://biznes.pap.pl/wiadomosci/gry-i-technologie/spacex-sklada-wniosek-o-notowanie-na-nasdaq-moze-zadebiutowac-w",
+      "title": "SpaceX składa wniosek o notowanie na Nasdaq, może zadebiutować w czerwcu",
+      "content_html": "Firma SpaceX Elona Muska oficjalnie zmierza na giełdę i może zadebiutować na Nasdaq w przyszłym miesiącu. Jak pisze CNBC, prawdopodobnie będzie to rekordowa oferta publiczna, po której najbogatszy czł",
+      "date_published": "2026-05-20T23:41:00+02:00",
+      "source": "PAP Biznes"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/gry-i-technologie/wyniki-nvidii-imponujace-pytanie-czy-pozwola-wciaz-mowic-o-wieloletnim",
+      "url": "https://biznes.pap.pl/wiadomosci/gry-i-technologie/wyniki-nvidii-imponujace-pytanie-czy-pozwola-wciaz-mowic-o-wieloletnim",
+      "title": "Wyniki Nvidii imponujące, pytanie czy pozwolą wciąż mówić o wieloletnim supercyklu AI (opinia)",
+      "content_html": "Wyniki Nvidii w pierwszym kwartale roku fiskalnego 2027 okazały się \"imponujące\" i lepsze od oczekiwań rynku - ocenia Mikołaj Sobierajski, analityk rynku akcji XTB. Jego zdaniem, pytanie tylko, czy bę",
+      "date_published": "2026-05-20T23:36:00+02:00",
+      "source": "PAP Biznes"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/firmy/wyniki-11-bit-studios-w-i-kw-2026-roku-vs-konsensus-pap-tabela",
+      "url": "https://biznes.pap.pl/wiadomosci/firmy/wyniki-11-bit-studios-w-i-kw-2026-roku-vs-konsensus-pap-tabela",
+      "title": "Wyniki 11 bit studios w I kw. 2026 roku vs. konsensus PAP (tabela)",
+      "content_html": "Poniżej przedstawiamy wyniki 11 bit studios w pierwszym kwartale 2026 roku oraz ich odniesienie do konsensusu PAP i wyników poprzednich okresów.",
+      "date_published": "2026-05-20T23:06:00+02:00",
+      "source": "PAP Biznes"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/firmy/wyniki-celon-pharma-w-i-kw-2026-roku-vs-konsensus-pap-tabela",
+      "url": "https://biznes.pap.pl/wiadomosci/firmy/wyniki-celon-pharma-w-i-kw-2026-roku-vs-konsensus-pap-tabela",
+      "title": "Wyniki Celon Pharma w I kw. 2026 roku vs. konsensus PAP (tabela)",
+      "content_html": "Poniżej przedstawiono wyniki Celon Pharma w pierwszym kwartale 2026 roku według wyliczeń PAP Biznes oraz ich odniesienie do konsensusu i wyników poprzednich okresów.",
+      "date_published": "2026-05-20T23:02:00+02:00",
+      "source": "PAP Biznes"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/gry-i-technologie/skorygowany-zysk-na-akcje-nvidii-wyniosl-187-usd-powyzej-oczekiwan",
+      "url": "https://biznes.pap.pl/wiadomosci/gry-i-technologie/skorygowany-zysk-na-akcje-nvidii-wyniosl-187-usd-powyzej-oczekiwan",
+      "title": "Skorygowany zysk na akcję Nvidii wyniósł 1,87 USD, powyżej oczekiwań",
+      "content_html": "Skorygowany zysk na akcję (EPS) firmy Nvidia w pierwszym kwartale 2026 roku wyniósł 1,87 USD Według danych LSEG analitycy oczekiwali, że skorygowany zysk na akcję wyniesie 1,76 USD na akcję. Wyższe od",
+      "date_published": "2026-05-20T22:41:00+02:00",
+      "source": "PAP Biznes"
+    },
+    {
       "id": "https://biznes.pap.pl/wiadomosci/rynki/dzien-na-rynkach-wall-street-w-gore-bo-slabna-obawy-o-stopy-proc-i-ceny-ropy",
       "url": "https://biznes.pap.pl/wiadomosci/rynki/dzien-na-rynkach-wall-street-w-gore-bo-slabna-obawy-o-stopy-proc-i-ceny-ropy",
       "title": "DZIEŃ NA RYNKACH: Wall Street w górę, bo słabną obawy o stopy proc. i ceny ropy",
@@ -197,36 +261,12 @@
       "source": "PAP Biznes"
     },
     {
-      "id": "https://biznes.pap.pl/wiadomosci/gry-i-technologie/cyberfolks-mialo-w-i-kw-793-mln-zl-zysku-ebitda-wobec-738-mln-zl",
-      "url": "https://biznes.pap.pl/wiadomosci/gry-i-technologie/cyberfolks-mialo-w-i-kw-793-mln-zl-zysku-ebitda-wobec-738-mln-zl",
-      "title": "cyber_Folks miało w I kw. 79,3 mln zł zysku EBITDA wobec 73,8 mln zł konsensusu",
-      "content_html": "Grupa cyber_Folks w pierwszym kwartale 2026 roku wypracowała 79,3 mln zł zysku EBITDA oraz 22,9 mln zł zysku netto j.d. - podała spółka w raporcie. Konsensus PAP Biznes zakładał 73,8 mln zł wyniku EBI",
-      "date_published": "2026-05-20T18:53:00+02:00",
-      "source": "PAP Biznes"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/firmy/grupa-tauron-miala-w-i-kw-209-mld-zl-ebitda-zgodnie-z-szacunkami",
-      "url": "https://biznes.pap.pl/wiadomosci/firmy/grupa-tauron-miala-w-i-kw-209-mld-zl-ebitda-zgodnie-z-szacunkami",
-      "title": "Grupa Tauron miała w I kw. 2,09 mld zł EBITDA, zgodnie z szacunkami",
-      "content_html": "Grupa Tauron miała w I kwartale 2026 roku 2,09 mld zł EBITDA i 979 mln zł zysku netto - podał Tauron w raporcie kwartalnym. Wyniki za I kw. okazały się zgodne z wcześniejszymi szacunkami spółki.",
-      "date_published": "2026-05-20T18:49:00+02:00",
-      "source": "PAP Biznes"
-    },
-    {
       "id": "https://www.bankier.pl/wiadomosc/Podatku-od-aut-spalinowych-w-Polsce-nie-bedzie-KE-zaakceptowala-zmiany-w-polskim-KPO-9136562.html",
       "url": "https://www.bankier.pl/wiadomosc/Podatku-od-aut-spalinowych-w-Polsce-nie-bedzie-KE-zaakceptowala-zmiany-w-polskim-KPO-9136562.html",
       "title": "Polski sukces w Brukseli. Podatku od aut spalinowych u nas nie będzie",
       "content_html": "Rzecznik Komisji Europejskiej Maciej Berestecki poinformował w środę, że KE zaakceptowała zmiany w polskim Krajowym Planie Odbudowy (KPO). Chodziło o usunięcie z planu reformy przewidującej nałożenie podatków od aut spalinowych. Zmianę wynegocjował...",
       "date_published": "2026-05-20T18:46:00+02:00",
       "source": "Bankier.pl"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/firmy/zysk-netto-shopera-w-i-kw-26-wyniosl-12-mln-zl-oczekiwano-118-mln-zl-zysku",
-      "url": "https://biznes.pap.pl/wiadomosci/firmy/zysk-netto-shopera-w-i-kw-26-wyniosl-12-mln-zl-oczekiwano-118-mln-zl-zysku",
-      "title": "Zysk netto Shopera w I kw. '26 wyniósł 12 mln zł; oczekiwano 11,8 mln zł zysku",
-      "content_html": "Zysk netto j.d. Shopera w I kwartale 2026 r. wyniósł 12 mln zł wobec 9,8 mln zł zysku rok wcześniej - poinformowała spółka w raporcie. Wynik okazał się 2 proc. wyższy od oczekiwań analityków, którzy p",
-      "date_published": "2026-05-20T18:35:00+02:00",
-      "source": "PAP Biznes"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Sesja-mocnych-bankow-i-Orlenu-Producent-rowerow-odjezdza-peletonowi-9136473.html",
@@ -245,28 +285,12 @@
       "source": "Bankier.pl"
     },
     {
-      "id": "https://biznes.pap.pl/wiadomosci/rynki/dzien-na-rynkach-indeksy-gieldowe-w-europie-na-plusach-3",
-      "url": "https://biznes.pap.pl/wiadomosci/rynki/dzien-na-rynkach-indeksy-gieldowe-w-europie-na-plusach-3",
-      "title": "DZIEŃ NA RYNKACH: Indeksy giełdowe w Europie na plusach",
-      "content_html": "Giełdy w Europie zwyżkowały na koniec sesji w środę. Inwestorzy oceniają najnowsze doniesienia dotyczące wojny bliskowschodniej.",
-      "date_published": "2026-05-20T18:28:00+02:00",
-      "source": "PAP Biznes"
-    },
-    {
       "id": "https://www.bankier.pl/wiadomosc/Ryvu-Therapeutics-bedzie-rozwijac-RVU120-w-kierunku-leczenia-ostrej-bialaczki-szpikowej-9136558.html",
       "url": "https://www.bankier.pl/wiadomosc/Ryvu-Therapeutics-bedzie-rozwijac-RVU120-w-kierunku-leczenia-ostrej-bialaczki-szpikowej-9136558.html",
       "title": "Ryvu Therapeutics będzie rozwijać RVU120 w kierunku leczenia ostrej białaczki szpikowej",
       "content_html": "Ryvu Therapeutics podjął decyzję o ukierunkowaniu rozwoju romacyklibu (RVU120) na leczenie ostrej białaczki szpikowej (AML), w szczególności u pacjentów z jej nawrotową/oporną formą po wcześniejszej terapii wenetoklaksem, co stanowi obszar...",
       "date_published": "2026-05-20T18:22:00+02:00",
       "source": "Bankier.pl"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/firmy/elektrotim-wyplaci-2-zl-dywidendy-z-zysku-netto-za-25",
-      "url": "https://biznes.pap.pl/wiadomosci/firmy/elektrotim-wyplaci-2-zl-dywidendy-z-zysku-netto-za-25",
-      "title": "Elektrotim wypłaci 2 zł dywidendy z zysku netto za '25",
-      "content_html": "Walne zgromadzenie Elektrotimu zdecydowało o przeznaczeniu blisko 20 mln zł z zysku za 2025 r. na wypłatę dywidendy, co daje 2 zł na akcję - podała spółka w komunikacie.",
-      "date_published": "2026-05-20T18:21:00+02:00",
-      "source": "PAP Biznes"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Poznan-ma-nowy-pomnik-krola-Historyczny-dzien-w-stolicy-Wielkopolski-9136556.html",
@@ -341,6 +365,14 @@
       "source": "Bankier.pl"
     },
     {
+      "id": "https://biznes.pap.pl/wiadomosci/gry-i-technologie/wyniki-cyberfolks-w-i-kw-2026-roku-vs-konsensus-pap-tabela",
+      "url": "https://biznes.pap.pl/wiadomosci/gry-i-technologie/wyniki-cyberfolks-w-i-kw-2026-roku-vs-konsensus-pap-tabela",
+      "title": "Wyniki cyber_Folks w I kw. 2026 roku vs. konsensus PAP (tabela)",
+      "content_html": "Poniżej przedstawiono wyniki cyber_Folks w pierwszym kwartale 2026 roku i ich odniesienie do konsensusu PAP Biznes oraz poprzednich wyników.",
+      "date_published": "2026-05-20T17:37:00+02:00",
+      "source": "PAP Biznes"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/KNF-zatwierdzila-prospekt-mBank-Hipotecznego-sporzadzonego-w-zwiazku-z-oferta-publiczna-LZ-9136504.html",
       "url": "https://www.bankier.pl/wiadomosc/KNF-zatwierdzila-prospekt-mBank-Hipotecznego-sporzadzonego-w-zwiazku-z-oferta-publiczna-LZ-9136504.html",
       "title": "KNF zatwierdziła prospekt mBank Hipotecznego sporządzonego w związku z ofertą publiczną LZ",
@@ -349,12 +381,52 @@
       "source": "Bankier.pl"
     },
     {
+      "id": "https://biznes.pap.pl/wiadomosci/firmy/wyniki-shopera-w-i-kw-2026-roku-vs-konsensus-pap-tabela",
+      "url": "https://biznes.pap.pl/wiadomosci/firmy/wyniki-shopera-w-i-kw-2026-roku-vs-konsensus-pap-tabela",
+      "title": "Wyniki Shopera w I kw. 2026 roku vs. konsensus PAP (tabela)",
+      "content_html": "Poniżej przedstawiono wyniki Shopera w pierwszym kwartale 2026 roku i ich odniesienie do konsensusu PAP Biznes.",
+      "date_published": "2026-05-20T17:31:00+02:00",
+      "source": "PAP Biznes"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/firmy/wyniki-cyfrowego-polsatu-w-i-kw-2026-roku-vs-konsensus-pap-tabela-popr",
+      "url": "https://biznes.pap.pl/wiadomosci/firmy/wyniki-cyfrowego-polsatu-w-i-kw-2026-roku-vs-konsensus-pap-tabela-popr",
+      "title": "Wyniki Cyfrowego Polsatu w I kw. 2026 roku vs. konsensus PAP (tabela, popr.)",
+      "content_html": "Poniżej przedstawiono wyniki Cyfrowego Polsatu w pierwszym kwartale 2026 roku i ich odniesienie do konsensusu PAP Biznes.",
+      "date_published": "2026-05-20T17:28:00+02:00",
+      "source": "PAP Biznes"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/firmy/grupa-enea-miala-w-i-kw-155-mld-zl-zysku-ebitda-zgodnie-z-szacunkami",
+      "url": "https://biznes.pap.pl/wiadomosci/firmy/grupa-enea-miala-w-i-kw-155-mld-zl-zysku-ebitda-zgodnie-z-szacunkami",
+      "title": "Grupa Enea miała w I kw. 1,55 mld zł zysku EBITDA, zgodnie z szacunkami",
+      "content_html": "Grupa Enea miała w I kw. 2026 roku 1.548 mln zł zysku EBITDA, a zysk netto przypadający na akcjonariuszy jednostki dominującej wyniósł 929 mln zł - poinformowała spółka w raporcie kwartalnym. Wyniki s",
+      "date_published": "2026-05-20T17:27:00+02:00",
+      "source": "PAP Biznes"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/26-statkow-przeszlo-przez-iranska-kontrole-Marynarka-Straznikow-Rewolucji-odkrywa-karty-9136496.html",
       "url": "https://www.bankier.pl/wiadomosc/26-statkow-przeszlo-przez-iranska-kontrole-Marynarka-Straznikow-Rewolucji-odkrywa-karty-9136496.html",
       "title": "26 statków przeszło przez „irańską kontrolę”. Marynarka Strażników Rewolucji odkrywa karty",
       "content_html": "Marynarka Wojenna Korpusu Strażników Rewolucji Islamskiej (IRGC) oświadczyła w środę, że w ciągu ostatniej doby 26 statków, przepłynęło przez cieśninę Ormuz we współpracy z Iranem - podała agencja Reutera.",
       "date_published": "2026-05-20T17:25:00+02:00",
       "source": "Bankier.pl"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/firmy/wyniki-cyfrowego-polsatu-w-i-kw-2026-roku-vs-konsensus-pap-tabela",
+      "url": "https://biznes.pap.pl/wiadomosci/firmy/wyniki-cyfrowego-polsatu-w-i-kw-2026-roku-vs-konsensus-pap-tabela",
+      "title": "Wyniki Cyfrowego Polsatu w I kw. 2026 roku vs. konsensus PAP (tabela)",
+      "content_html": "Poniżej przedstawiono wyniki Cyfrowego Polsatu w pierwszym kwartale 2026 roku i ich odniesienie do konsensusu PAP Biznes.",
+      "date_published": "2026-05-20T17:21:00+02:00",
+      "source": "PAP Biznes"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/firmy/ryvu-therapeutics-bedzie-rozwijac-rvu120-w-kierunku-leczenia-ostrej-bialaczki",
+      "url": "https://biznes.pap.pl/wiadomosci/firmy/ryvu-therapeutics-bedzie-rozwijac-rvu120-w-kierunku-leczenia-ostrej-bialaczki",
+      "title": "Ryvu Therapeutics będzie rozwijać RVU120 w kierunku leczenia ostrej białaczki szpikowej",
+      "content_html": "Ryvu Therapeutics podjął decyzję o ukierunkowaniu rozwoju romacyklibu (RVU120) na leczenie ostrej białaczki szpikowej (AML), w szczególności u pacjentów z jej nawrotową/oporną formą po wcześniejszej t",
+      "date_published": "2026-05-20T17:21:00+02:00",
+      "source": "PAP Biznes"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Zbigniew-Ziobro-uciekl-do-USA-jako-dziennikarz-Nowe-ustalenia-prokuratury-9136344.html",
@@ -651,14 +723,6 @@
       "content_html": "Premier Czech Andrej Babisz powiedział w środę po spotkaniu z ministrem obrony Jaromirem Zuną, że w koncepcji rozwoju sił zbrojnych ważna jest rozbudowa obrony przeciwlotniczej i dlatego rząd chce dokupić cztery nowe izraelskie systemy obrony...",
       "date_published": "2026-05-20T14:43:00+02:00",
       "source": "Bankier.pl"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/firmy/dm-bdm-obnizyl-rekomendacje-biomaxima-do-akumuluj-cene-docelowa-do-121-zl",
-      "url": "https://biznes.pap.pl/wiadomosci/firmy/dm-bdm-obnizyl-rekomendacje-biomaxima-do-akumuluj-cene-docelowa-do-121-zl",
-      "title": "DM BDM obniżył rekomendację BioMaxima do \"akumuluj\", cenę docelową do 12,1 zł",
-      "content_html": "Analitycy DM BDM, w raporcie z 20 maja, obniżyli rekomendację dla spółki BioMaxima do \"akumuluj\" z \"kupuj\", a cenę docelową akcji spółki do 12,1 zł z 17 zł poprzednio.",
-      "date_published": "2026-05-20T14:43:00+02:00",
-      "source": "PAP Biznes"
     },
     {
       "id": "https://biznes.pap.pl/wiadomosci/firmy/grupa-modivo-ogranicza-rozwoj-sieci-worldbox-w-tym-roku",
@@ -1245,36 +1309,12 @@
       "source": "Bankier.pl"
     },
     {
-      "id": "https://www.bankier.pl/wiadomosc/Pasywnie-czy-aktywnie-Rozne-mozliwosci-inwestycyjne-9136091.html",
-      "url": "https://www.bankier.pl/wiadomosc/Pasywnie-czy-aktywnie-Rozne-mozliwosci-inwestycyjne-9136091.html",
-      "title": "Bardzo trudno być pasywnym inwestorem. Jak nieświadomie stać się spekulantem?",
-      "content_html": "Współczesny inwestor indywidualny stając przed dylematem w co zainwestować swoje środki ma do wyboru wachlarz możliwości. To cel determinuje strategię (nie na odwrót), a w ramach wybranej strategii można skorzystać z wielu narzędzi, które...",
-      "date_published": "2026-05-20T10:51:00+02:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Tragedia-na-Malediwach-Wydobyto-ciala-2-ostatnich-nurkow-9136138.html",
-      "url": "https://www.bankier.pl/wiadomosc/Tragedia-na-Malediwach-Wydobyto-ciala-2-ostatnich-nurkow-9136138.html",
-      "title": "Tragedia na Malediwach. Wydobyto ciała 2 ostatnich nurków",
-      "content_html": "Na Malediwach wydobyto z groty ciała dwóch ostatnich ofiar wypadku, w którym podczas nurkowania zginęło pięcioro Włochów - podały w środę źródła w MSZ w Rzymie, cytowane przez Ansę. Akcja przebiegała w trudnych warunkach i uczestniczyli...",
-      "date_published": "2026-05-20T10:50:00+02:00",
-      "source": "Bankier.pl"
-    },
-    {
       "id": "https://biznes.pap.pl/wiadomosci/firmy/pekao-wprowadzil-program-lojalnosciowy-dla-swoich-akcjonariuszy-indywidualnych",
       "url": "https://biznes.pap.pl/wiadomosci/firmy/pekao-wprowadzil-program-lojalnosciowy-dla-swoich-akcjonariuszy-indywidualnych",
       "title": "Pekao wprowadził program lojalnościowy dla swoich akcjonariuszy indywidualnych",
       "content_html": "Bank Pekao wprowadził program o charakterze lojalnościowym dla swoich akcjonariuszy indywidualnych - poinformowała spółka w komunikacie.",
       "date_published": "2026-05-20T10:50:00+02:00",
       "source": "PAP Biznes"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Grupa-Azoty-pozytywnie-ocenia-europejski-plan-dla-branzy-nawozowej-prezes-9136119.html",
-      "url": "https://www.bankier.pl/wiadomosc/Grupa-Azoty-pozytywnie-ocenia-europejski-plan-dla-branzy-nawozowej-prezes-9136119.html",
-      "title": "Grupa Azoty chwali unijny plan dla branży nawozowej. \"Ważny i długo oczekiwany sygnał\"",
-      "content_html": "Przyjęty przez Komisję Europejską plan działań dla branży nawozowej spełnia wiele jej postulatów, szczególnie istotne jest dostrzeżenie problemu rosnącej luki konkurencyjnej pomiędzy Europą a innymi regionami świata - ocenił prezes Grupy...",
-      "date_published": "2026-05-20T10:48:00+02:00",
-      "source": "Bankier.pl"
     },
     {
       "id": "https://biznes.pap.pl/wiadomosci/firmy/podatek-windfall-tax-moze-kosztowac-orlen-6-mld-zl-unimot-60-200-mln-zl-trigon",
@@ -1307,6 +1347,22 @@
       "content_html": "Najnowsze, majowe badania Głównego Urzędu Statystycznego wskazują na przesunięcie oczekiwań w Polsce w kierunku niższej inflacji - wynika z danych GUS.",
       "date_published": "2026-05-20T09:57:00+02:00",
       "source": "PAP Biznes"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Pasywnie-czy-aktywnie-Rozne-mozliwosci-inwestycyjne-9136091.html",
+      "url": "https://www.bankier.pl/wiadomosc/Pasywnie-czy-aktywnie-Rozne-mozliwosci-inwestycyjne-9136091.html",
+      "title": "Bardzo trudno być pasywnym inwestorem. Jak nieświadomie stać się spekulantem? Współczesny inwestor indywidualny stając przed dylematem w co zainwestować swoje środki ma do wyboru wachlarz możliwości. To cel determinuje strategię (nie na odwrót), a w ramach wybranej strategii można skorzystać z wielu narzędzi, które oferuje rynek finansowy. Cel, jak np. zebranie kapitału na emeryturę albo sfinansowanie studiów dorastających dzieci, może zostać wypracowany za pomocą diametralnie różnych instrumentów, a ich wybór jest procesem, w którym uwzględnić należy horyzont inwestycyjny, proporcje potencjalnego zysku do podejmowanego ryzyka oraz koszty.",
+      "content_html": "",
+      "date_published": "2026-05-20T09:51:00+02:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Grupa-Azoty-pozytywnie-ocenia-europejski-plan-dla-branzy-nawozowej-prezes-9136119.html",
+      "url": "https://www.bankier.pl/wiadomosc/Grupa-Azoty-pozytywnie-ocenia-europejski-plan-dla-branzy-nawozowej-prezes-9136119.html",
+      "title": "Grupa Azoty chwali unijny plan dla branży nawozowej. \"Ważny i długo oczekiwany sygnał\" Przyjęty przez Komisję Europejską plan działań dla branży nawozowej spełnia wiele jej postulatów, szczególnie istotne jest dostrzeżenie problemu rosnącej luki konkurencyjnej pomiędzy Europą a innymi regionami świata - ocenił prezes Grupy Azoty Marcin Celejewski. Jak dodał, o skuteczności Fertiliser Action Plan zdecydują konkretne rozwiązania legislacyjne i finansowe.",
+      "content_html": "",
+      "date_published": "2026-05-20T09:48:00+02:00",
+      "source": "Bankier.pl"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Trans-Polonia-ma-umowe-o-wartosci-ok-250-mln-zl-na-przewoz-produktow-niebezpiecznych-9136135.html",
@@ -1746,22 +1802,6 @@
       "title": "Które spółki z GPW rozdzielą zysk przed urlopem? Ranking „ostatniej szansy” Od 20 maja do 25 czerwca, kiedy rozpoczynają się wakacje, jest realna szansa załapać się na 54. dywidendy od spółek notowanych na warszawskim parkiecie głównym i NewConnect. Harmonogram podziału zysków z krajowej giełdy w tegorocznym sezonie przedurlopowym jest wyjątkowo napięty i ciągle się zmienia, ale na liście płatników już znajdziemy zarówno solidne banki, dużych deweloperów, jak i reprezentantów sektora przemysłowego wracających do wypłaty.",
       "content_html": "",
       "date_published": "2026-05-20T06:00:00+02:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/rynki/dzien-na-rynkach-spadki-na-wall-street-akcje-ciagna-w-dol-rekordowe-rentownosci",
-      "url": "https://biznes.pap.pl/wiadomosci/rynki/dzien-na-rynkach-spadki-na-wall-street-akcje-ciagna-w-dol-rekordowe-rentownosci",
-      "title": "DZIEŃ NA RYNKACH: Spadki na Wall Street, akcje ciągną w dół rekordowe rentowności obligacji",
-      "content_html": "We wtorek ceny akcji na amerykańskich giełdach spadły, ponieważ wzrost rentowności obligacji do najwyższego poziomu od prawie 19 lat zagroził rynkowi byka, obciążając amerykańskich konsumentów i hamuj",
-      "date_published": "2026-05-19T22:16:00+02:00",
-      "source": "PAP Biznes"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/S-P500-trzeci-dzien-w-dol-Rentownosci-obligacji-niepokoja-inwestorow-9135938.html",
-      "url": "https://www.bankier.pl/wiadomosc/S-P500-trzeci-dzien-w-dol-Rentownosci-obligacji-niepokoja-inwestorow-9135938.html",
-      "title": "S&P500 trzeci dzień w dół. Rentowności obligacji niepokoją inwestorów Najwyższe od 2007 roku rentowności 30-letnich obligacji rządu USA podkopały wiarę w bardziej niż obfite wyceny akcji na Wall Street.",
-      "content_html": "",
-      "date_published": "2026-05-19T22:13:00+02:00",
       "source": "Bankier.pl"
     }
   ]
