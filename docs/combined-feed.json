@@ -5,11 +5,395 @@
   "home_page_url": "https://www.bankier.pl",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/Fatalne-wiesci-z-Brukseli-Nowe-prognozy-KE-uderza-nas-po-kieszeniach-9137032.html",
+      "url": "https://www.bankier.pl/wiadomosc/Fatalne-wiesci-z-Brukseli-Nowe-prognozy-KE-uderza-nas-po-kieszeniach-9137032.html",
+      "title": "Fatalne wieści z Brukseli. Nowe prognozy KE uderzą nas po kieszeniach",
+      "content_html": "Komisja Europejska obniżyła prognozę wzrostu PKB dla UE na 2026 r. z 1,4 proc. do 1,1 proc. Jednocześnie podwyższyła prognozę inflacji z 2,1 do 3,1 proc. Według KE szok energetyczny wywołany konfliktem na Bliskim Wschodzie wstrząsa nastrojami...",
+      "date_published": "2026-05-21T13:19:00+02:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/LPP-notuje-w-maju-dodatnie-LFL-we-wszystkich-markach-poza-Mohito-9137055.html",
+      "url": "https://www.bankier.pl/wiadomosc/LPP-notuje-w-maju-dodatnie-LFL-we-wszystkich-markach-poza-Mohito-9137055.html",
+      "title": "LPP notuje w maju dodatnie LFL we wszystkich markach poza Mohito",
+      "content_html": "LPP notuje w maju dodatnie dynamiki sprzedaży porównywalnej LFL we wszystkich markach poza Mohito – poinformował wiceprezes Marcin Bójko.",
+      "date_published": "2026-05-21T13:10:00+02:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Kosiniak-Kamysz-Mamy-prawo-oczekiwac-od-USA-solidarnosci-i-obecnosci-wojsk-9136960.html",
+      "url": "https://www.bankier.pl/wiadomosc/Kosiniak-Kamysz-Mamy-prawo-oczekiwac-od-USA-solidarnosci-i-obecnosci-wojsk-9136960.html",
+      "title": "Kosiniak-Kamysz: Mamy prawo oczekiwać od USA solidarności i obecności wojsk",
+      "content_html": "Szef MON, wicepremier Władysław Kosiniak-Kamysz podkreślił, że Polska ma prawo oczekiwać od USA solidarności w domenie bezpieczeństwa i będzie o nią zabiegać. Solidarności, która stanowi o tym, że żołnierze amerykańscy są obecni w systemie...",
+      "date_published": "2026-05-21T12:58:00+02:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Przelomowy-wyrok-ETPCz-ws-sedziow-Arbitralna-decyzja-Lecha-Kaczynskiego-z-2008-roku-kosztowna-dla-budzetu-9137045.html",
+      "url": "https://www.bankier.pl/wiadomosc/Przelomowy-wyrok-ETPCz-ws-sedziow-Arbitralna-decyzja-Lecha-Kaczynskiego-z-2008-roku-kosztowna-dla-budzetu-9137045.html",
+      "title": "Przełomowy wyrok ETPCz ws. sędziów. Arbitralna decyzja Lecha Kaczyńskiego z 2008 roku kosztowna dla budżetu",
+      "content_html": "Europejski Trybunał Praw Człowieka (ETPCz) uznał w czwartek, że Polska naruszyła art. 6 Europejskiej Konwencji Praw Człowieka (mówiący o prawie do sądu) w sprawie dotyczącej odmowy powołań na stanowiska sędziowskie w 2008 r.",
+      "date_published": "2026-05-21T12:57:00+02:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Polska-starzeje-sie-najszybciej-w-UE-W-dekade-mamy-taki-odsetek-seniorow-9137044.html",
+      "url": "https://www.bankier.pl/wiadomosc/Polska-starzeje-sie-najszybciej-w-UE-W-dekade-mamy-taki-odsetek-seniorow-9137044.html",
+      "title": "Polska starzeje się najszybciej w UE. W dekadę mamy taki odsetek seniorów",
+      "content_html": "Polska starzeje się najszybciej ze wszystkich krajów UE - wynika z danych demograficznych Eurostatu.",
+      "date_published": "2026-05-21T12:56:00+02:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/EuroPMI-za-maj-2026-recesja-wrocila-do-strefy-euro-9136996.html",
+      "url": "https://www.bankier.pl/wiadomosc/EuroPMI-za-maj-2026-recesja-wrocila-do-strefy-euro-9136996.html",
+      "title": "EuroPMI: recesja wróciła do strefy euro. Usługi spadają jak kamienie",
+      "content_html": "Kryzys paliwowy zdołował koniunkturę w europejskim sektorze usługowym, generującym większość PKB strefy euro – wynika ze wstępnych majowych odczytów PMI",
+      "date_published": "2026-05-21T12:50:00+02:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Rezerwy-zlota-Banku-Rosji-mniejsze-niz-przed-wybuchem-wojny-Inni-kupuja-oni-sprzedaja-9136991.html",
+      "url": "https://www.bankier.pl/wiadomosc/Rezerwy-zlota-Banku-Rosji-mniejsze-niz-przed-wybuchem-wojny-Inni-kupuja-oni-sprzedaja-9136991.html",
+      "title": "Rezerwy złota Banku Rosji mniejsze niż przed wybuchem wojny. Poszło już prawie 30 ton",
+      "content_html": "Bank Centralny Rosji kontynuuje sprzedaż złota ze swoich rezerw, które spadły już do najniższego poziomu od 2021 r., a więc czasu sprzed wybuchu wojny na Ukrainie. Gdyby bank sprzedał kruszec po cenie rynkowej, sprzedaż mogłaby przynieść około...",
+      "date_published": "2026-05-21T12:30:00+02:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Chinczycy-omina-europejskie-cla-Beda-produkowac-samochody-we-Francji-9136992.html",
+      "url": "https://www.bankier.pl/wiadomosc/Chinczycy-omina-europejskie-cla-Beda-produkowac-samochody-we-Francji-9136992.html",
+      "title": "Chińczycy ominą europejskie cła. Będą produkować samochody we Francji",
+      "content_html": "Dongfeng – trzeci największy chiński producent aut, podpisał umowę ze Stellantisem. Na jej mocy będzie produkował elektryczne samochody z logo Voyah we francuskim Rennes, dzięki czemu Chińczycy unikną ceł nałożonych przez Komisję Europejską...",
+      "date_published": "2026-05-21T12:30:00+02:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/To-kwestia-godzin-Mysliwce-F-35-Husarze-niedlugo-doleca-do-Polski-9137010.html",
+      "url": "https://www.bankier.pl/wiadomosc/To-kwestia-godzin-Mysliwce-F-35-Husarze-niedlugo-doleca-do-Polski-9137010.html",
+      "title": "To kwestia godzin. Myśliwce F-35 \"Husarze\" niedługo dolecą do Polski",
+      "content_html": "Pierwsze samoloty F-35 w ciągu kilkudziesięciu godzin znajdą się w bazie w Polsce - przekazał w czwartek wicepremier, szef MON Władysław Kosiniak-Kamysz. Uroczyste przyjęcie pierwszych samolotów w bazie lotniczej w Łasku zaplanowane jest na...",
+      "date_published": "2026-05-21T12:27:00+02:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/LPP-podtrzymuje-cele-finansowe-na-2026-rok-9137003.html",
+      "url": "https://www.bankier.pl/wiadomosc/LPP-podtrzymuje-cele-finansowe-na-2026-rok-9137003.html",
+      "title": "LPP podtrzymuje cele finansowe na 2026 rok",
+      "content_html": "Grupa LPP podtrzymuje cele finansowe na 2026 rok – poinformował wiceprezes Marcin Bójko.",
+      "date_published": "2026-05-21T12:20:00+02:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Konsensus-EBITDA-Tauronu-w-26-wymaga-spelnienia-wielu-czynnikow-wiceprezes-9137064.html",
+      "url": "https://www.bankier.pl/wiadomosc/Konsensus-EBITDA-Tauronu-w-26-wymaga-spelnienia-wielu-czynnikow-wiceprezes-9137064.html",
+      "title": "Konsensus EBITDA Tauronu w '26 wymaga spełnienia wielu czynników - wiceprezes Konsensus rynkowy na wynik EBITDA grupy Tauronu w 2026 roku jest ambitny, ale możliwy do realizacji pod warunkiem spełnienia szeregu istotnych warunków, w tym niezależnych od samej spółki - poinformował wiceprezes Tauronu Krzysztof Surma.",
+      "content_html": "",
+      "date_published": "2026-05-21T12:20:00+02:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/firmy/konsensus-ebitda-tauronu-w-26-wymaga-spelnienia-wielu-czynnikow-wiceprezes",
+      "url": "https://biznes.pap.pl/wiadomosci/firmy/konsensus-ebitda-tauronu-w-26-wymaga-spelnienia-wielu-czynnikow-wiceprezes",
+      "title": "Konsensus EBITDA Tauronu w '26 wymaga spełnienia wielu czynników - wiceprezes",
+      "content_html": "Konsensus rynkowy na wynik EBITDA grupy Tauronu w 2026 roku jest ambitny, ale możliwy do realizacji pod warunkiem spełnienia szeregu istotnych warunków, w tym niezależnych od samej spółki - poinformow",
+      "date_published": "2026-05-21T12:18:00+02:00",
+      "source": "PAP Biznes"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Wojna-o-Trybunal-Konstytucyjny-przenosi-sie-do-Europy-Rzad-Tuska-wydal-wyrok-9136994.html",
+      "url": "https://www.bankier.pl/wiadomosc/Wojna-o-Trybunal-Konstytucyjny-przenosi-sie-do-Europy-Rzad-Tuska-wydal-wyrok-9136994.html",
+      "title": "Wojna o Trybunał Konstytucyjny przenosi się do Europy. Rząd Tuska wydał wyrok",
+      "content_html": "Odpowiedź rządu ws. sytuacji czworga sędziów, którzy nie zostali dotąd dopuszczeni do wykonywania obowiązków w TK, została przekazana do Europejskiego Trybunału Praw Człowieka; w ocenie rządu cztery skarżące osoby są sędziami TK - poinformował...",
+      "date_published": "2026-05-21T12:11:00+02:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/firmy/lpp-notuje-w-maju-dodatnie-lfl-we-wszystkich-markach-poza-mohito",
+      "url": "https://biznes.pap.pl/wiadomosci/firmy/lpp-notuje-w-maju-dodatnie-lfl-we-wszystkich-markach-poza-mohito",
+      "title": "LPP notuje w maju dodatnie LFL we wszystkich markach poza Mohito",
+      "content_html": "LPP notuje w maju dodatnie dynamiki sprzedaży porównywalnej LFL we wszystkich markach poza Mohito – poinformował wiceprezes Marcin Bójko.",
+      "date_published": "2026-05-21T12:09:00+02:00",
+      "source": "PAP Biznes"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/firmy/cena-maksymalna-na-22-v-dla-benzyny-pb95-wynosi-648-zll-dla-691-zll",
+      "url": "https://biznes.pap.pl/wiadomosci/firmy/cena-maksymalna-na-22-v-dla-benzyny-pb95-wynosi-648-zll-dla-691-zll",
+      "title": "Cena maksymalna na 22 V dla benzyny Pb95 wynosi 6,48 zł/l, a dla ON 6,91 zł/l",
+      "content_html": "Maksymalna cena dla benzyny Pb95 wynosi 6,48 zł/l, dla benzyny Pb98 7,06 zł/l, a dla oleju napędowego 6,91 zł/l - wynika z obwieszczenia ministra energii opublikowanego w Monitorze Polskim. Ceny te bę",
+      "date_published": "2026-05-21T12:03:00+02:00",
+      "source": "PAP Biznes"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Horror-na-TikToku-Twarda-pornografia-ukryta-pod-filtrami-z-kapibara-i-bajkami-9136989.html",
+      "url": "https://www.bankier.pl/wiadomosc/Horror-na-TikToku-Twarda-pornografia-ukryta-pod-filtrami-z-kapibara-i-bajkami-9136989.html",
+      "title": "Horror na TikToku. Twarda pornografia ukryta pod filtrami z kapibarą i bajkami",
+      "content_html": "Na TikToku pojawiły się filtry zawierające twarde treści pornograficzne ukryte pod niewinnymi nazwami – alarmuje KidsAlert. Organizacja podkreśla, że o zagrożeniu informują przede wszystkim same dzieci, publikujące w sieci listy niebezpiecznych...",
+      "date_published": "2026-05-21T12:02:00+02:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/gospodarka/polska-starzeje-sie-najszybciej-ze-wszystkich-krajow-ue-eurostat",
+      "url": "https://biznes.pap.pl/wiadomosci/gospodarka/polska-starzeje-sie-najszybciej-ze-wszystkich-krajow-ue-eurostat",
+      "title": "Polska starzeje się najszybciej ze wszystkich krajów UE - Eurostat",
+      "content_html": "Polska starzeje się najszybciej ze wszystkich krajów UE - wynika z danych demograficznych Eurostatu.",
+      "date_published": "2026-05-21T11:55:00+02:00",
+      "source": "PAP Biznes"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Deweloperzy-wreszcie-wzieli-sie-za-budowe-mieszkan-Takiego-kwietnia-w-historii-jeszcze-nie-bylo-9136940.html",
+      "url": "https://www.bankier.pl/wiadomosc/Deweloperzy-wreszcie-wzieli-sie-za-budowe-mieszkan-Takiego-kwietnia-w-historii-jeszcze-nie-bylo-9136940.html",
+      "title": "Deweloperzy wreszcie wzięli się za budowę mieszkań. Takiego kwietnia w historii jeszcze nie było",
+      "content_html": "W kwietniu 2026 r. deweloperzy zaczęli budować ponad 15 tys. mieszkań – wynika z danych Głównego Urzędu Statystycznego. Za nami tym samym najlepszy kwiecień w historii. Deweloperzy mogli cieszyć się także największą w historii liczbą uzyskanych...",
+      "date_published": "2026-05-21T11:45:00+02:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Szok-energetyczny-w-Europie-Skromna-reakcja-rzadow-9136963.html",
+      "url": "https://www.bankier.pl/wiadomosc/Szok-energetyczny-w-Europie-Skromna-reakcja-rzadow-9136963.html",
+      "title": "Europa zaciska pasa. Skromna reakcja na nowy szok energetyczny",
+      "content_html": "Zaledwie 0,1 proc. PKB – tyle rządy strefy euro przeznaczyły dotychczas na łagodzenie skutków rosnących rachunków za energię wywołanych napięciami na Bliskim Wschodzie. Najnowszy raport UniCredit wskazuje na wstrzemięźliwość europejskich...",
+      "date_published": "2026-05-21T11:45:00+02:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Kurs-euro-pozostaje-stabilny-Dolar-nieco-ochlonal-9136969.html",
+      "url": "https://www.bankier.pl/wiadomosc/Kurs-euro-pozostaje-stabilny-Dolar-nieco-ochlonal-9136969.html",
+      "title": "Kurs euro pozostaje stabilny. Dolar nieco ochłonął",
+      "content_html": "Przy wszystkich globalnych zawirowaniach kurs euro do złotego pozostaje spokojną ostoją. Większa zmienność zapanowała na rynku dolara, który w czwartek rano oddawał środowe zyski.",
+      "date_published": "2026-05-21T11:36:00+02:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/gospodarka/mf-sprzedalo-szesc-serii-obligacji-lacznie-za-10001-mld-zl-przy-popycie-na",
+      "url": "https://biznes.pap.pl/wiadomosci/gospodarka/mf-sprzedalo-szesc-serii-obligacji-lacznie-za-10001-mld-zl-przy-popycie-na",
+      "title": "MF sprzedało sześć serii obligacji łącznie za 10,001 mld zł, przy popycie na poziomie 13,283 mld zł",
+      "content_html": "Ministerstwo Finansów sprzedało obligacje serii OK0129, NZ0331, PS0731, DS1034, DS0436, NZ0936 za łącznie 10.001,75 mln zł, przy popycie 13.283,75 mln zł - podał resort w komunikacie.",
+      "date_published": "2026-05-21T11:32:00+02:00",
+      "source": "PAP Biznes"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/gospodarka/ke-prognozuje-dla-polski-deficyt-gg-w-26-na-poziomie-65-proc-pkb-w-27-na",
+      "url": "https://biznes.pap.pl/wiadomosci/gospodarka/ke-prognozuje-dla-polski-deficyt-gg-w-26-na-poziomie-65-proc-pkb-w-27-na",
+      "title": "KE prognozuje dla Polski deficyt gg w '26 na poziomie 6,5 proc. PKB, w '27 na poziomie 6,3 proc.",
+      "content_html": "Komisja Europejska prognozuje, że deficyt sektora general government (gg) w Polsce w 2026 r. wyniesie 6,5 proc. PKB, w 2027 r. obniży się do 6,3 proc. PKB - podano w wiosennych prognozach KE, co stano",
+      "date_published": "2026-05-21T11:30:00+02:00",
+      "source": "PAP Biznes"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/gospodarka/ke-prognozuje-wzrost-pkb-polski-w-26-na-poziomie-35-proc-rdr-w-27-na-28-0",
+      "url": "https://biznes.pap.pl/wiadomosci/gospodarka/ke-prognozuje-wzrost-pkb-polski-w-26-na-poziomie-35-proc-rdr-w-27-na-28-0",
+      "title": "KE prognozuje wzrost PKB Polski w '26 na poziomie 3,5 proc. rdr, w '27 na 2,8 proc.",
+      "content_html": "Komisja Europejska prognozuje wzrost gospodarczy w Polsce w 2026 r. na poziomie 3,5 proc. rdr, a w 2027 r. na 2,8 proc. - wynika z wiosennej rundy prognoz KE, bez zmian względem jesiennych prognoz KE.",
+      "date_published": "2026-05-21T11:30:00+02:00",
+      "source": "PAP Biznes"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/gospodarka/perspektywy-dla-przemyslu-pogorszyly-sie-ale-inwestycje-pozostana-mocne-pekao",
+      "url": "https://biznes.pap.pl/wiadomosci/gospodarka/perspektywy-dla-przemyslu-pogorszyly-sie-ale-inwestycje-pozostana-mocne-pekao",
+      "title": "Perspektywy dla przemysłu pogorszyły się, ale inwestycje pozostaną mocne - Pekao SA (opinia)",
+      "content_html": "Perspektywy dla przemysłu pogorszyły się, ale inwestycje pozostaną mocne - oceniają ekonomiści Pekao SA, komentując dane GUS.",
+      "date_published": "2026-05-21T11:28:00+02:00",
+      "source": "PAP Biznes"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/firmy/nizszy-capex-w-transformacji-energetyki-wysokie-i-zmienne-ceny-energii-po-35-baker",
+      "url": "https://biznes.pap.pl/wiadomosci/firmy/nizszy-capex-w-transformacji-energetyki-wysokie-i-zmienne-ceny-energii-po-35-baker",
+      "title": "Niższy CAPEX w transformacji energetyki to wysokie i zmienne ceny energii po '35 - Baker Tilly TPA",
+      "content_html": "Wolniejsza transformacja elektroenergetyki (scenariusz WEM) oznaczałaby, że pomimo niższego łącznego CAPEX systemowego utrzymane zostaną wysokie i zmienne ceny energii - wynika z raportu \"Ile kosztuje",
+      "date_published": "2026-05-21T11:22:00+02:00",
+      "source": "PAP Biznes"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/firmy/lpp-podtrzymuje-cele-finansowe-na-2026-rok",
+      "url": "https://biznes.pap.pl/wiadomosci/firmy/lpp-podtrzymuje-cele-finansowe-na-2026-rok",
+      "title": "LPP podtrzymuje cele finansowe na 2026 rok",
+      "content_html": "Grupa LPP podtrzymuje cele finansowe na 2026 rok – poinformował wiceprezes Marcin Bójko.",
+      "date_published": "2026-05-21T11:19:00+02:00",
+      "source": "PAP Biznes"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/gospodarka/zakonczenie-cyklu-obnizek-oslabi-fale-refinansowan-kredytow-w-kolejnych",
+      "url": "https://biznes.pap.pl/wiadomosci/gospodarka/zakonczenie-cyklu-obnizek-oslabi-fale-refinansowan-kredytow-w-kolejnych",
+      "title": "Zakończenie cyklu obniżek osłabi falę refinansowań kredytów w kolejnych kwartałach - PIE",
+      "content_html": "Zakończenie cyklu obniżek stóp procentowych osłabi falę refinansowań kredytów w kolejnych kwartałach - oceniają analitycy Polskiego Instytutu Ekonomicznego.",
+      "date_published": "2026-05-21T11:17:00+02:00",
+      "source": "PAP Biznes"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Fala-egzekucji-w-Iranie-Kolejne-wyroki-smierci-i-wstrzasajacy-raport-9136955.html",
+      "url": "https://www.bankier.pl/wiadomosc/Fala-egzekucji-w-Iranie-Kolejne-wyroki-smierci-i-wstrzasajacy-raport-9136955.html",
+      "title": "Fala egzekucji w Iranie. Kolejne wyroki śmierci i wstrząsający raport",
+      "content_html": "W Iranie wykonano wyroki śmierci na dwóch osobach skazanych za przynależność do „organizacji terrorystycznej i utworzenie grupy mającej na celu naruszanie bezpieczeństwa kraju” - przekazała w czwartek agencja Tasnim.",
+      "date_published": "2026-05-21T11:14:00+02:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Gaming-Factory-wyznaczylo-date-premiery-drugiego-DLC-do-gry-JDM-na-25-VI-9136952.html",
+      "url": "https://www.bankier.pl/wiadomosc/Gaming-Factory-wyznaczylo-date-premiery-drugiego-DLC-do-gry-JDM-na-25-VI-9136952.html",
+      "title": "Gaming Factory wyznaczyło datę premiery drugiego DLC do gry \"JDM\" na 25 VI",
+      "content_html": "Gaming Factory wyznaczyło datę premiery drugiego płatnego dodatku do gry \"JDM: Japanese Drift Master\" zatytułowanego \"American Classics\" na 25 czerwca 2026 roku - podała spółka w komunikacie prasowym. DLC zadebiutuje na wszystkich platformach...",
+      "date_published": "2026-05-21T11:10:00+02:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/firmy/dzien-na-gpw-wig20-lekko-spada-po-kilka-proc-zwyzkuja-cyberfolks-i-shoper",
+      "url": "https://biznes.pap.pl/wiadomosci/firmy/dzien-na-gpw-wig20-lekko-spada-po-kilka-proc-zwyzkuja-cyberfolks-i-shoper",
+      "title": "DZIEŃ NA GPW: WIG20 lekko spada; po kilka proc. zwyżkują cyber_Folks i Shoper",
+      "content_html": "W pierwszych godzinach czwartkowej sesji WIG20 lekko spada, lepiej radzą sobie indeksy średnich i małych spółek. Przecenione są akcje m. in. Modivo, KGHM i Orlenu. Po kilka proc. zwyżkują akcje cyber_",
+      "date_published": "2026-05-21T11:05:00+02:00",
+      "source": "PAP Biznes"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Zwolnia-200-osob-W-tym-miescie-zaczyna-brakowac-pracy-9136945.html",
+      "url": "https://www.bankier.pl/wiadomosc/Zwolnia-200-osob-W-tym-miescie-zaczyna-brakowac-pracy-9136945.html",
+      "title": "Producent części do AGD redukuje załogę. Bez pracy nawet 200 osób",
+      "content_html": "Firma Diehl Controls z Namysłowa, produkująca części do urządzeń AGD zamierza zredukować liczebność załogi. Zatrudnienie ma się tam zmniejszyć nawet o 20 procent. Oznacza to, że bez pracy zostanie blisko 200 osób – podaje lokalny portal...",
+      "date_published": "2026-05-21T11:03:00+02:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Klimatyczne-referendum-27-wrzesnia-To-35-lat-programu-800-plus-9136689.html",
+      "url": "https://www.bankier.pl/wiadomosc/Klimatyczne-referendum-27-wrzesnia-To-35-lat-programu-800-plus-9136689.html",
+      "title": "Referendum klimatycznego nie będzie? Senat blokuje wielki plan prezydenta",
+      "content_html": "Senat nie wyraził w środę zgody na zarządzenie przez prezydenta Karola Nawrockiego referendum w sprawie unijnej polityki klimatycznej. Przeciwko podjęciu przez Senat uchwały w tej sprawie było 62 senatorów, za opowiedziało się 32, od głosu...",
+      "date_published": "2026-05-21T10:41:00+02:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Polski-przemysl-schodzi-na-ziemie-Efekt-bazy-uderzyl-w-kwietniowa-produkcje-9136917.html",
+      "url": "https://www.bankier.pl/wiadomosc/Polski-przemysl-schodzi-na-ziemie-Efekt-bazy-uderzyl-w-kwietniowa-produkcje-9136917.html",
+      "title": "Polski przemysł schodzi na ziemię. Efekt bazy uderzył w kwietniową produkcję",
+      "content_html": "Po spektakularnym marcowym wystrzale polski sektor wytwórczy zaliczył wyraźne hamowanie. Najnowsze dane Głównego Urzędu Statystycznego pokazują, że produkcja przemysłowa utrzymała się na plusie w ujęciu rocznym, ale w porównaniu do poprzedniego...",
+      "date_published": "2026-05-21T10:33:00+02:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Rewolucja-w-JP-Morgan-Gigant-z-Wall-Street-stawia-na-AI-Bedziemy-zatrudniac-mniej-bankierow-9136845.html",
+      "url": "https://www.bankier.pl/wiadomosc/Rewolucja-w-JP-Morgan-Gigant-z-Wall-Street-stawia-na-AI-Bedziemy-zatrudniac-mniej-bankierow-9136845.html",
+      "title": "AI do finansów, bankierzy na bruk. Przełomowe słowa szefa JP Morgan",
+      "content_html": "\"Będziemy zatrudniać więcej specjalistów od sztucznej inteligencji niż bankierów\" takie rewolucyjne dla branży słowa wypowiedział dyrektor generalny JP Morgan Jamie Dimon w wywiadzie dla \"Bloomberga\". Co za tym idzie, zmniejszy się znacznie...",
+      "date_published": "2026-05-21T10:32:00+02:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/VeloBank-przedluza-promocje-6-zostaje-ale-sa-tez-zmiany-9136911.html",
+      "url": "https://www.bankier.pl/wiadomosc/VeloBank-przedluza-promocje-6-zostaje-ale-sa-tez-zmiany-9136911.html",
+      "title": "6% zostaje na stole. VeloBank nie rezygnuje z czołowej stawki na rynku",
+      "content_html": "VeloBank przedłuża promocję Elastycznego Konta Oszczędnościowego i co najważniejsze z perspektywy przyszłych klientów – zachowuje dotychczas obowiązującą stawkę maksymalną. 6 proc. w skali roku można zyskać, spełniając warunki dodatkowe...",
+      "date_published": "2026-05-21T10:31:00+02:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Polski-rynek-pracy-w-kwietniu-2026-Place-rosna-najwolniej-od-5-lat-a-zatrudnienie-spada-9136904.html",
+      "url": "https://www.bankier.pl/wiadomosc/Polski-rynek-pracy-w-kwietniu-2026-Place-rosna-najwolniej-od-5-lat-a-zatrudnienie-spada-9136904.html",
+      "title": "Płace rosną najwolniej od 5 lat. Zatrudnienie nadal maleje",
+      "content_html": "Płace rosły w najwolniejszym tempie od 5 lat, a liczba zatrudnionych cały czas malała. Jest to przedłużenie trendów obserwowanych przez ostatnie cztery lata.",
+      "date_published": "2026-05-21T10:30:00+02:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Szef-MSZ-Polska-potepia-postepowanie-Izraela-wobec-aktywistow-Global-Sumud-Flotilla-9136902.html",
+      "url": "https://www.bankier.pl/wiadomosc/Szef-MSZ-Polska-potepia-postepowanie-Izraela-wobec-aktywistow-Global-Sumud-Flotilla-9136902.html",
+      "title": "Szef MSZ: Polska potępia postępowanie Izraela wobec aktywistów Global Sumud Flotilla",
+      "content_html": "Polska potępia postępowanie władz Izraela wobec zatrzymanych aktywistów Global Sumud Flotilla; domagamy się uwolnienia polskich obywateli - oświadczył w czwartek szef MSZ Radosław Sikorski. Poinformował, że polecił wezwać chargé d’affaires...",
+      "date_published": "2026-05-21T10:19:00+02:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Synektik-rozpoczyna-dzialalnosc-operacyjna-na-rynku-ukrainskim-9136901.html",
+      "url": "https://www.bankier.pl/wiadomosc/Synektik-rozpoczyna-dzialalnosc-operacyjna-na-rynku-ukrainskim-9136901.html",
+      "title": "Synektik podbija nowy, wielki rynek. Zainstalują 20 robotów da Vinci w dwa lata",
+      "content_html": "Synektik rozpoczyna działalność operacyjną na rynku ukraińskim. W perspektywie dwóch lat Synektik zamierza zainstalować w Ukrainie około 20 systemów robotycznych da Vinci - podała spółka w komunikacie.",
+      "date_published": "2026-05-21T10:18:00+02:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Prasa-ujawnia-Putin-stal-sie-wasalem-Chin-Xi-wyciska-go-jak-cytryne-9136886.html",
+      "url": "https://www.bankier.pl/wiadomosc/Prasa-ujawnia-Putin-stal-sie-wasalem-Chin-Xi-wyciska-go-jak-cytryne-9136886.html",
+      "title": "Prasa ujawnia: Putin stał się wasalem Chin. \"Xi wyciska go jak cytrynę\"",
+      "content_html": "Wojny prowadzone przez Rosję i USA osłabiły pozycję obu krajów wobec Chin; Władimir Putin całkowicie uzależnił swój kraj od Pekinu, a Donald Trump nie zdołał zmusić Chin do ustępstw wojną celną; Xi Jinping czeka spokojnie na kolejne błędy...",
+      "date_published": "2026-05-21T10:03:00+02:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/1-2-miliarda-zysku-w-trzy-miesiace-Play-podbija-polskie-domy-9136880.html",
+      "url": "https://www.bankier.pl/wiadomosc/1-2-miliarda-zysku-w-trzy-miesiace-Play-podbija-polskie-domy-9136880.html",
+      "title": "1,2 miliarda zysku w trzy miesiące. Play podbija polskie domy",
+      "content_html": "Grupa Play miała w I kw. 2026 roku 1,2 mld zł EBITDAaL, o 9,7 proc. więcej rdr oraz 2,7 mld zł przychodów całkowitych, o 3,9 proc. więcej rdr - podała spółka w komunikacie prasowym.",
+      "date_published": "2026-05-21T09:52:00+02:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Orlen-ponownie-obnizyl-hurtowe-ceny-paliw-Diesel-tanieje-o-50-zl-9136876.html",
+      "url": "https://www.bankier.pl/wiadomosc/Orlen-ponownie-obnizyl-hurtowe-ceny-paliw-Diesel-tanieje-o-50-zl-9136876.html",
+      "title": "Orlen ponownie obniżył hurtowe ceny paliw. Diesel tanieje o 50 zł",
+      "content_html": "Orlen obniżył w czwartek hurtowe ceny benzyny bezołowiowej Eurosuper 95 o 23 zł, benzyny bezołowiowej Super Plus 98 o 2 zł, a oleju napędowego Ekodiesel o 50 zł na metr sześc. - wynika z danych opublikowanych przez koncern. Poprzednio, w środę...",
+      "date_published": "2026-05-21T09:51:00+02:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Ceny-mieszkan-w-Warszawie-przekroczyly-20-tys-zl-mkw-9136875.html",
+      "url": "https://www.bankier.pl/wiadomosc/Ceny-mieszkan-w-Warszawie-przekroczyly-20-tys-zl-mkw-9136875.html",
+      "title": "Mieszkania w Warszawie już średnio za 20 tys. zł/mkw. Dlaczego kupujący nie powinni się tym przejmować?",
+      "content_html": "W pierwszej połowie maja średnia cena ofertowa notowana na warszawskim rynku pierwotnym przekroczyła 20 tys. zł/mkw. – wynika z danych Otodom. To pierwsza taka sytuacja w historii. W aktach notarialnych tak drastycznych podwyżek jednak nie widać...",
+      "date_published": "2026-05-21T09:49:00+02:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Zysk-netto-Debicy-spadl-w-I-kw-do-33-3-mln-zl-otoczenie-branzowe-pozostaje-niesprzyjajace-9136872.html",
+      "url": "https://www.bankier.pl/wiadomosc/Zysk-netto-Debicy-spadl-w-I-kw-do-33-3-mln-zl-otoczenie-branzowe-pozostaje-niesprzyjajace-9136872.html",
+      "title": "Zysk netto Dębicy spadł w I kw. do 33,3 mln zł. Otoczenie branżowe pozostaje niesprzyjające",
+      "content_html": "Firma Oponiarska Dębica odnotowała w pierwszym kwartale 2026 r. spadek zysku netto do 33,3 mln zł z 42,9 mln zł przed rokiem - poinformowała spółka w komunikacie prasowym. W ocenie spółki otoczenie branżowe pozostaje niesprzyjające.",
+      "date_published": "2026-05-21T09:46:00+02:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Cwiczenia-na-Bialorusi-Rosja-rozmiescila-glowice-w-magazynach-polowych-9136854.html",
+      "url": "https://www.bankier.pl/wiadomosc/Cwiczenia-na-Bialorusi-Rosja-rozmiescila-glowice-w-magazynach-polowych-9136854.html",
+      "title": "Ćwiczenia na Białorusi. Rosja rozmieściła głowice w magazynach polowych",
+      "content_html": "Rosyjskie ministerstwo obrony przekazało w czwartek, że w ramach trwających ćwiczeń rozmieszczono ładunki nuklearne w magazynach polowych na terenie Białorusi. Wcześniej informowano, że w ramach tych samych ćwiczeń głowice nuklearne zostały...",
+      "date_published": "2026-05-21T09:45:00+02:00",
+      "source": "Bankier.pl"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Polska-ofensywa-w-Kongresie-przynosi-efekty-Nagla-ewolucja-planow-Trumpa-9136720.html",
       "url": "https://www.bankier.pl/wiadomosc/Polska-ofensywa-w-Kongresie-przynosi-efekty-Nagla-ewolucja-planow-Trumpa-9136720.html",
       "title": "Polska ofensywa w Kongresie przynosi efekty. Nagła ewolucja planów Trumpa",
       "content_html": "Administracja Trumpa zamierzała całkowicie odwołać wysłanie brygady pancernej do Polski i nie zastępować jej, a teraz się z tym wstrzymali — powiedział w środę szef komisji sił zbrojnych Izby Reprezentantów Mike Rogers, cytowany przez portal...",
       "date_published": "2026-05-21T09:44:00+02:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/cyber-Folks-i-Shoper-ustalily-plan-polaczenia-kapital-cyber-Folks-zostanie-podwyzszony-poprzez-emisje-9136871.html",
+      "url": "https://www.bankier.pl/wiadomosc/cyber-Folks-i-Shoper-ustalily-plan-polaczenia-kapital-cyber-Folks-zostanie-podwyzszony-poprzez-emisje-9136871.html",
+      "title": "cyber_Folks i Shoper ustaliły plan połączenia. Kapitał zostanie podwyższony",
+      "content_html": "cyber_Folks i Shoper ustaliły plan połączenia, w wyniku którego na cyber_Folks przeniesiony zostanie majątek Shopera. Jednocześnie podwyższony zostanie kapitał zakładowy cyber_Folks w drodze emisji akcji, które wydane zostaną akcjonariuszom...",
+      "date_published": "2026-05-21T09:44:00+02:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Auto-Partner-mial-w-I-kw-2026-roku-62-1-mln-zl-zysku-netto-zgodnie-z-szacunkami-9136870.html",
+      "url": "https://www.bankier.pl/wiadomosc/Auto-Partner-mial-w-I-kw-2026-roku-62-1-mln-zl-zysku-netto-zgodnie-z-szacunkami-9136870.html",
+      "title": "Ponad miliard przychodu i potężny skok EBITDA. Auto Partner nokautuje rynkowe statystyki",
+      "content_html": "Grupa Auto Partner miała w I kw. 2026 roku 62,1 mln zł zysku netto, 1,17 mld zł przychodów oraz 88,1 mln zł zysku operacyjnego - podała spółka w raporcie. Raportowane wyniki były zgodne z wcześniejszymi szacunkami.",
+      "date_published": "2026-05-21T09:42:00+02:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Asbis-szacuje-ze-przychody-w-kwietniu-wzrosly-o-74-proc-rdr-do-ok-444-mln-USD-9136869.html",
+      "url": "https://www.bankier.pl/wiadomosc/Asbis-szacuje-ze-przychody-w-kwietniu-wzrosly-o-74-proc-rdr-do-ok-444-mln-USD-9136869.html",
+      "title": "Efekt AI i boom w Ukrainie. Serwery i komponenty serwerowe kluczowym motorem wzrostu Asbisu",
+      "content_html": "Grupa Asbis szacuje, że jej skonsolidowane przychody za kwiecień 2026 r. wyniosły ok. 444 mln USD i były o ok. 74 proc. wyższe od przychodów wypracowanych w kwietniu 2025 r. - poinformowała spółka w komunikacie.",
+      "date_published": "2026-05-21T09:40:00+02:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Kolejny-udany-atak-na-rafinerie-w-Syzraniu-Ukraina-paralizuje-rosyjski-przemysl-naftowy-9136868.html",
+      "url": "https://www.bankier.pl/wiadomosc/Kolejny-udany-atak-na-rafinerie-w-Syzraniu-Ukraina-paralizuje-rosyjski-przemysl-naftowy-9136868.html",
+      "title": "Kolejny udany atak na rafinerię w Syzraniu. Ukraina paraliżuje rosyjski przemysł naftowy",
+      "content_html": "Pożar wybuchł w rafinerii ropy naftowej w mieście Syzrań w obwodzie samarskim, na południowym wschodzie europejskiej części Rosji, po doniesieniach o „zagrożeniu dronowym”; dwie osoby zginęły w wyniku ataku ukraińskich bezzałogowców -...",
+      "date_published": "2026-05-21T09:38:00+02:00",
       "source": "Bankier.pl"
     },
     {
@@ -19,6 +403,14 @@
       "content_html": "Grupa VRG w pierwszym kwartale 2026 roku miała 154 tys. zł straty netto oraz 356,5 mln zł przychodów wobec odpowiednio 6 mln zł zysku netto i 293,6 mln zł przychodów w analogicznym okresie 2025 roku - podała spółka w komunikacie prasowym.",
       "date_published": "2026-05-21T09:36:00+02:00",
       "source": "Bankier.pl"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/firmy/speedwell-zakupil-dzialke-w-warszawie-o-pow-648-ha-pod-realizacje-parku",
+      "url": "https://biznes.pap.pl/wiadomosci/firmy/speedwell-zakupil-dzialke-w-warszawie-o-pow-648-ha-pod-realizacje-parku",
+      "title": "Speedwell zakupił działkę w Warszawie o pow. 6,48 ha pod realizację parku biznesowego",
+      "content_html": "Speedwell Development sfinalizował transakcję zakupu działki inwestycyjnej o powierzchni 6,48 ha zlokalizowanej na warszawskim Targówku, na której planuje realizację parku biznesowego - poinformował S",
+      "date_published": "2026-05-21T09:30:00+02:00",
+      "source": "PAP Biznes"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Neuca-miala-w-I-kw-129-mln-zl-EBITDA-wobec-118-8-mln-zl-konsensusu-9136857.html",
@@ -37,12 +429,44 @@
       "source": "Bankier.pl"
     },
     {
+      "id": "https://biznes.pap.pl/wiadomosci/firmy/synektik-rozpoczyna-dzialalnosc-operacyjna-na-rynku-ukrainskim",
+      "url": "https://biznes.pap.pl/wiadomosci/firmy/synektik-rozpoczyna-dzialalnosc-operacyjna-na-rynku-ukrainskim",
+      "title": "Synektik rozpoczyna działalność operacyjną na rynku ukraińskim",
+      "content_html": "Synektik rozpoczyna działalność operacyjną na rynku ukraińskim. W perspektywie dwóch lat Synektik zamierza zainstalować w Ukrainie około 20 systemów robotycznych da Vinci - podała spółka w komunikacie",
+      "date_published": "2026-05-21T09:16:00+02:00",
+      "source": "PAP Biznes"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Geopolityczny-klincz-dusi-miedz-Trump-grozi-Iranowi-a-rynki-czekaja-9136846.html",
       "url": "https://www.bankier.pl/wiadomosc/Geopolityczny-klincz-dusi-miedz-Trump-grozi-Iranowi-a-rynki-czekaja-9136846.html",
       "title": "Geopolityczny klincz dusi miedź. Trump grozi Iranowi, a rynki czekają",
       "content_html": "Notowania miedzi na giełdzie metali LME w Londynie się wahają. USA wskazują, że są w końcowej fazie rozmów z Iranem, ale oba kraje nadal grożą sobie eskalacją konfliktu - informują maklerzy.",
       "date_published": "2026-05-21T09:13:00+02:00",
       "source": "Bankier.pl"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/gry-i-technologie/cyberfolks-i-shoper-ustalily-plan-polaczenia-kapital-cyberfolks-0",
+      "url": "https://biznes.pap.pl/wiadomosci/gry-i-technologie/cyberfolks-i-shoper-ustalily-plan-polaczenia-kapital-cyberfolks-0",
+      "title": "cyber_Folks i Shoper ustaliły plan połączenia; kapitał cyber_Folks zostanie podwyższony poprzez emisję (opis)",
+      "content_html": "cyber_Folks i Shoper ustaliły plan połączenia, w wyniku którego na cyber_Folks przeniesiony zostanie majątek Shopera. Jednocześnie podwyższony zostanie kapitał zakładowy cyber_Folks w drodze emisji ak",
+      "date_published": "2026-05-21T09:11:00+02:00",
+      "source": "PAP Biznes"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/firmy/dzien-na-gpw-sesja-moze-rozpoczac-sie-od-spadkow-w-centrum-uwagi-dane-pmi",
+      "url": "https://biznes.pap.pl/wiadomosci/firmy/dzien-na-gpw-sesja-moze-rozpoczac-sie-od-spadkow-w-centrum-uwagi-dane-pmi",
+      "title": "DZIEŃ NA GPW: Sesja może rozpocząć się od spadków; w centrum uwagi dane PMI",
+      "content_html": "Notowania kontraktów na europejskie indeksy sugerują, że początek czwartkowej sesji na GPW może być spadkowy. Zdaniem ekonomistów, globalnie głównym punktem dnia będą wstępne majowe dane PMI dla główn",
+      "date_published": "2026-05-21T09:07:00+02:00",
+      "source": "PAP Biznes"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/gospodarka/dzien-na-fxfi-zloty-powinienm-pozostac-stabilny-przed-rynkami-porcja-danych",
+      "url": "https://biznes.pap.pl/wiadomosci/gospodarka/dzien-na-fxfi-zloty-powinienm-pozostac-stabilny-przed-rynkami-porcja-danych",
+      "title": "DZIEŃ NA FX/FI: Złoty powinienm pozostać stabilny, przed rynkami porcja danych makro",
+      "content_html": "Złoty powinienm pozostać stabilny, mimo światowych zawirowań, a uwaga inwestorów może w czwartek zwrócić się na porcję danych GUS, które mogą pozwolić ocenę sytuacji makro na początku drugiego kwartał",
+      "date_published": "2026-05-21T09:06:00+02:00",
+      "source": "PAP Biznes"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Cyfrowy-Polsat-w-nowej-strategii-chce-zaktualizowac-polityke-dywidendowa-9136842.html",
@@ -77,14 +501,6 @@
       "source": "PAP Biznes"
     },
     {
-      "id": "https://www.bankier.pl/wiadomosc/Zysk-netto-Debicy-spadl-w-I-kw-do-33-3-mln-zl-otoczenie-branzowe-pozostaje-niesprzyjajace-9136872.html",
-      "url": "https://www.bankier.pl/wiadomosc/Zysk-netto-Debicy-spadl-w-I-kw-do-33-3-mln-zl-otoczenie-branzowe-pozostaje-niesprzyjajace-9136872.html",
-      "title": "Zysk netto Dębicy spadł w I kw. do 33,3 mln zł; otoczenie branżowe pozostaje niesprzyjające Firma Oponiarska Dębica odnotowała w pierwszym kwartale 2026 r. spadek zysku netto do 33,3 mln zł z 42,9 mln zł przed rokiem - poinformowała spółka w komunikacie prasowym. W ocenie spółki otoczenie branżowe pozostaje niesprzyjające.",
-      "content_html": "",
-      "date_published": "2026-05-21T08:46:00+02:00",
-      "source": "Bankier.pl"
-    },
-    {
       "id": "https://biznes.pap.pl/wiadomosci/firmy/zysk-netto-debicy-spadl-w-i-kw-do-333-mln-zl-otoczenie-branzowe-pozostaje",
       "url": "https://biznes.pap.pl/wiadomosci/firmy/zysk-netto-debicy-spadl-w-i-kw-do-333-mln-zl-otoczenie-branzowe-pozostaje",
       "title": "Zysk netto Dębicy spadł w I kw. do 33,3 mln zł; otoczenie branżowe pozostaje niesprzyjające",
@@ -101,27 +517,11 @@
       "source": "Bankier.pl"
     },
     {
-      "id": "https://www.bankier.pl/wiadomosc/cyber-Folks-i-Shoper-ustalily-plan-polaczenia-kapital-cyber-Folks-zostanie-podwyzszony-poprzez-emisje-9136871.html",
-      "url": "https://www.bankier.pl/wiadomosc/cyber-Folks-i-Shoper-ustalily-plan-polaczenia-kapital-cyber-Folks-zostanie-podwyzszony-poprzez-emisje-9136871.html",
-      "title": "cyber_Folks i Shoper ustaliły plan połączenia; kapitał cyber_Folks zostanie podwyższony poprzez emisję cyber_Folks i Shoper ustaliły plan połączenia, w wyniku którego na cyber_Folks przeniesiony zostanie majątek Shopera. Jednocześnie podwyższony zostanie kapitał zakładowy cyber_Folks w drodze emisji akcji, które wydane zostaną akcjonariuszom Shopera. Emisja obejmie 3.215.165 akcji serii F - podały w spółki w komunikatach.",
-      "content_html": "",
-      "date_published": "2026-05-21T08:44:00+02:00",
-      "source": "Bankier.pl"
-    },
-    {
       "id": "https://www.bankier.pl/wiadomosc/Miliardowy-cios-w-Gazprom-Kazachski-sad-sciga-rosyjskiego-giganta-dla-Naftohazu-9136715.html",
       "url": "https://www.bankier.pl/wiadomosc/Miliardowy-cios-w-Gazprom-Kazachski-sad-sciga-rosyjskiego-giganta-dla-Naftohazu-9136715.html",
       "title": "Miliardowy cios w Gazprom. Kazachski sąd ściga rosyjskiego giganta dla Naftohazu",
       "content_html": "Sąd w Kazachstanie zezwolił na przymusowe wyegzekwowanie od rosyjskiego Gazpromu kwoty 1,4 mld dolarów na rzecz państwowej grupy energetycznej Naftohaz Ukrainy zgodnie z orzeczeniem międzynarodowego sądu arbitrażowego – poinformował w środę...",
       "date_published": "2026-05-21T08:43:00+02:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Auto-Partner-mial-w-I-kw-2026-roku-62-1-mln-zl-zysku-netto-zgodnie-z-szacunkami-9136870.html",
-      "url": "https://www.bankier.pl/wiadomosc/Auto-Partner-mial-w-I-kw-2026-roku-62-1-mln-zl-zysku-netto-zgodnie-z-szacunkami-9136870.html",
-      "title": "Auto Partner miał w I kw. 2026 roku 62,1 mln zł zysku netto, zgodnie z szacunkami Grupa Auto Partner miała w I kw. 2026 roku 62,1 mln zł zysku netto, 1,17 mld zł przychodów oraz 88,1 mln zł zysku operacyjnego - podała spółka w raporcie. Raportowane wyniki były zgodne z wcześniejszymi szacunkami.",
-      "content_html": "",
-      "date_published": "2026-05-21T08:42:00+02:00",
       "source": "Bankier.pl"
     },
     {
@@ -139,14 +539,6 @@
       "content_html": "Grupa Auto Partner miała w I kw. 2026 roku 62,1 mln zł zysku netto, 1,17 mld zł przychodów oraz 88,1 mln zł zysku operacyjnego - podała spółka w raporcie. Raportowane wyniki były zgodne z wcześniejszy",
       "date_published": "2026-05-21T08:41:00+02:00",
       "source": "PAP Biznes"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Asbis-szacuje-ze-przychody-w-kwietniu-wzrosly-o-74-proc-rdr-do-ok-444-mln-USD-9136869.html",
-      "url": "https://www.bankier.pl/wiadomosc/Asbis-szacuje-ze-przychody-w-kwietniu-wzrosly-o-74-proc-rdr-do-ok-444-mln-USD-9136869.html",
-      "title": "Asbis szacuje, że przychody w kwietniu wzrosły o 74 proc. rdr, do ok. 444 mln USD Grupa Asbis szacuje, że jej skonsolidowane przychody za kwiecień 2026 r. wyniosły ok. 444 mln USD i były o ok. 74 proc. wyższe od przychodów wypracowanych w kwietniu 2025 r. - poinformowała spółka w komunikacie.",
-      "content_html": "",
-      "date_published": "2026-05-21T08:40:00+02:00",
-      "source": "Bankier.pl"
     },
     {
       "id": "https://biznes.pap.pl/wiadomosci/firmy/asbis-szacuje-ze-przychody-w-kwietniu-wzrosly-o-74-proc-rdr-do-ok-444-mln-usd",
@@ -231,7 +623,7 @@
     {
       "id": "https://www.bankier.pl/wiadomosc/Zapatero-oskarzony-o-handel-wplywami-Sanchez-odpiera-Nie-bedzie-dymisji-rzadu-9136762.html",
       "url": "https://www.bankier.pl/wiadomosc/Zapatero-oskarzony-o-handel-wplywami-Sanchez-odpiera-Nie-bedzie-dymisji-rzadu-9136762.html",
-      "title": "Zapatero oskarżony o handel wpływami, Sanchez odpiera: Nie będzie dymisji rządu",
+      "title": "Zapatero oskarżony o handel wpływami. Sanchez odpiera: Nie będzie dymisji rządu",
       "content_html": "Szef rządu Hiszpanii Pedro Sanchez zadeklarował w środę swoje poparcie oskarżonemu we wtorek przez sąd o handel wpływami byłemu socjalistycznemu premierowi tego kraju Jose Luisowi Zapatero. Wykluczył też możliwość przedterminowych wyborów...",
       "date_published": "2026-05-21T08:23:00+02:00",
       "source": "Bankier.pl"
@@ -293,60 +685,12 @@
       "source": "Bankier.pl"
     },
     {
-      "id": "https://www.bankier.pl/wiadomosc/SpaceX-idzie-na-gielde-To-moze-byc-najwieksze-IPO-swiata-9136738.html",
-      "url": "https://www.bankier.pl/wiadomosc/SpaceX-idzie-na-gielde-To-moze-byc-najwieksze-IPO-swiata-9136738.html",
-      "title": "SpaceX idzie na giełdę. To może być największe IPO świata",
-      "content_html": "Firma SpaceX Elona Muska oficjalnie zmierza na giełdę i może zadebiutować na Nasdaq w przyszłym miesiącu. Jak pisze CNBC, prawdopodobnie będzie to rekordowa oferta publiczna, po której najbogatszy człowiek na świecie stanie na czele dwóch odrębnych...",
-      "date_published": "2026-05-21T08:15:00+02:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Rzad-nie-odpuszcza-na-granicy-z-Bialorusia-Blokada-azylu-na-granicy-przedluzona-9136776.html",
-      "url": "https://www.bankier.pl/wiadomosc/Rzad-nie-odpuszcza-na-granicy-z-Bialorusia-Blokada-azylu-na-granicy-przedluzona-9136776.html",
-      "title": "Rząd nie odpuszcza na granicy z Białorusią. Blokada azylu na granicy przedłużona",
-      "content_html": "Od 21 maja na kolejne 60 dni zostało przedłużone czasowe ograniczenie prawa do złożenia wniosku o udzielenie ochrony międzynarodowej na granicy z Białorusią. W ocenie rządu nie ustały przyczyny wprowadzenia tego ograniczenia.",
-      "date_published": "2026-05-21T08:13:00+02:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Trump-chcial-ukarac-Niemcy-ale-uderzyl-w-Polske-9136752.html",
-      "url": "https://www.bankier.pl/wiadomosc/Trump-chcial-ukarac-Niemcy-ale-uderzyl-w-Polske-9136752.html",
-      "title": "Trump chciał ukarać Niemcy, ale uderzył w Polskę",
-      "content_html": "Prezydent USA Donald Trump chciał ukarać Niemcy, ale uderzył w Polskę, choć ostatecznie amerykańscy żołnierze wycofywani z Bawarii mogą trafić nad Wisłę - pisze w środę niemiecki dziennik „Sueddeutsche Zeitung” w kontekście zmian w...",
-      "date_published": "2026-05-21T08:12:00+02:00",
-      "source": "Bankier.pl"
-    },
-    {
       "id": "https://biznes.pap.pl/wiadomosci/rynki/ceny-miedzi-w-londynie-sie-wahaja",
       "url": "https://biznes.pap.pl/wiadomosci/rynki/ceny-miedzi-w-londynie-sie-wahaja",
       "title": "Ceny miedzi w Londynie się wahają",
       "content_html": "Notowania miedzi na giełdzie metali LME w Londynie się wahają. USA wskazują, że są w końcowej fazie rozmów z Iranem, ale oba kraje nadal grożą sobie eskalacją konfliktu - informują maklerzy.",
       "date_published": "2026-05-21T08:12:00+02:00",
       "source": "PAP Biznes"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Pekin-ksztalci-rosyjskie-kadry-Chinsko-rosyjskie-elity-lacza-sily-przeciw-Zachodowi-9136764.html",
-      "url": "https://www.bankier.pl/wiadomosc/Pekin-ksztalci-rosyjskie-kadry-Chinsko-rosyjskie-elity-lacza-sily-przeciw-Zachodowi-9136764.html",
-      "title": "Pekin kształci rosyjskie kadry. Chińsko-rosyjskie elity łączą siły przeciw Zachodowi",
-      "content_html": "Pekin i Moskwa wiążą przyszłość swoich elit akademickich, technologicznych i wojskowych. Równocześnie kurczy się współpraca akademicka Chin z USA — zwraca w czwartek uwagę „Dziennik Gazeta Prawna”.",
-      "date_published": "2026-05-21T08:11:00+02:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Koniec-pewnej-ery-InPost-i-Domar-to-tylko-wierzcholek-gory-lodowej-9136765.html",
-      "url": "https://www.bankier.pl/wiadomosc/Koniec-pewnej-ery-InPost-i-Domar-to-tylko-wierzcholek-gory-lodowej-9136765.html",
-      "title": "Koniec pewnej ery? InPost i Domar to tylko wierzchołek góry lodowej",
-      "content_html": "Codziennie właściciela zmieniają co najmniej trzy polskie przedsiębiorstwa. Eksperci wskazują na skutki pandemii, sukcesje w firmach rodzinnych oraz rosnące znaczenie sztucznej inteligencji – podaje w czwartek „Rzeczpospolita”.",
-      "date_published": "2026-05-21T08:10:00+02:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Sikorski-Rosja-przegra-a-NATO-sie-nie-rozpadnie-9136766.html",
-      "url": "https://www.bankier.pl/wiadomosc/Sikorski-Rosja-przegra-a-NATO-sie-nie-rozpadnie-9136766.html",
-      "title": "Sikorski: Rosja przegra, a NATO się nie rozpadnie",
-      "content_html": "Nie można wykluczyć, że Rosja ponownie zdecyduje się na jakąś awanturę, licząc np. na rozpad NATO. Tyle że Rosja przegra, a NATO się nie rozpadnie - ocenił w wywiadzie dla czwartkowego wydania „Dziennika Gazety Prawnej” szef MSZ Radosław...",
-      "date_published": "2026-05-21T08:10:00+02:00",
-      "source": "Bankier.pl"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Pepco-chce-w-26-zrealizowac-skup-akcji-oczekuje-zwiekszania-wskaznika-wyplaty-dywidendy-w-kolejnych-latach-opis-9136844.html",
@@ -365,20 +709,20 @@
       "source": "PAP Biznes"
     },
     {
-      "id": "https://www.bankier.pl/wiadomosc/Uwalniamy-Kube-Trump-oglasza-upadek-rezimu-a-prokuratura-sciga-Raula-Castro-9136727.html",
-      "url": "https://www.bankier.pl/wiadomosc/Uwalniamy-Kube-Trump-oglasza-upadek-rezimu-a-prokuratura-sciga-Raula-Castro-9136727.html",
-      "title": "\"Uwalniamy Kubę\". Trump ogłasza upadek reżimu, a prokuratura ściga Raula Castro",
-      "content_html": "Prezydent USA Donald Trump oświadczył w środę, że „uwalnia Kubę\" i zapewnił, że nie będzie potrzeby eskalacji wobec wyspy. Prezydent powiedział, że Kuba się „rozpada”, a reżim traci kontrolę nad sytuacją. Odmówił odpowiedzi na pytanie...",
-      "date_published": "2026-05-21T08:04:00+02:00",
-      "source": "Bankier.pl"
+      "id": "https://biznes.pap.pl/wiadomosci/firmy/cyfrowy-polsat-w-nowej-strategii-chce-zaktualizowac-polityke-dywidendowa",
+      "url": "https://biznes.pap.pl/wiadomosci/firmy/cyfrowy-polsat-w-nowej-strategii-chce-zaktualizowac-polityke-dywidendowa",
+      "title": "Cyfrowy Polsat w nowej strategii chce zaktualizować politykę dywidendową",
+      "content_html": "Cyfrowy Polsat w nowej strategii chce zaktualizować politykę dywidendową - podała spółka w prezentacji wynikowej. Strategia ma również określić mierzalne cele dla telekomunikacji i mediów oraz potencj",
+      "date_published": "2026-05-21T08:00:00+02:00",
+      "source": "PAP Biznes"
     },
     {
-      "id": "https://www.bankier.pl/wiadomosc/Operacja-Snieg-Achmata-Ukraincy-zlikwidowali-szkole-dronow-65-kadetow-nie-zyje-9136730.html",
-      "url": "https://www.bankier.pl/wiadomosc/Operacja-Snieg-Achmata-Ukraincy-zlikwidowali-szkole-dronow-65-kadetow-nie-zyje-9136730.html",
-      "title": "Operacja \"Śnieg Achmata\". Ukraińcy zlikwidowali szkołę dronów, 65 kadetów nie żyje",
-      "content_html": "Siły Systemów Bezzałogowych (SBS) i Służba Bezpieczeństwa Ukrainy zaatakowały na okupowanym przez Rosję terytorium Ukrainy obiekt szkolący rosyjskich operatorów dronów oraz produkujący amunicję i części do bezzałogowców. Podczas operacji...",
-      "date_published": "2026-05-21T08:02:00+02:00",
-      "source": "Bankier.pl"
+      "id": "https://biznes.pap.pl/wiadomosci/firmy/pepco-group-mialo-w-i-pol-202526-r-516-mln-euro-bazowej-ebitda-wobec-439-mln-0",
+      "url": "https://biznes.pap.pl/wiadomosci/firmy/pepco-group-mialo-w-i-pol-202526-r-516-mln-euro-bazowej-ebitda-wobec-439-mln-0",
+      "title": "Pepco Group miało w I poł. 2025/26 r. 516 mln euro bazowej EBITDA, wobec 439 mln euro rok wcześniej (opis)",
+      "content_html": "Pepco Group miało w I poł. 2025/26 r. 516 mln euro bazowej EBITDA, wobec 439 mln euro rok wcześniej - podała spółka w komunikacie. Przychody grupy w ujęciu porównywalnym (LFL) z wyłączeniem towarów sz",
+      "date_published": "2026-05-21T07:59:00+02:00",
+      "source": "PAP Biznes"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/11-bit-studios-w-I-kw-mialo-5-9-mln-zl-zysku-EBITDA-wobec-5-5-mln-zl-konsensusu-9136814.html",
@@ -389,6 +733,46 @@
       "source": "Bankier.pl"
     },
     {
+      "id": "https://biznes.pap.pl/wiadomosci/rynki/ceny-ropy-rosna-donald-trump-wznawia-naciski-na-iran-ten-grozi-odwetem",
+      "url": "https://biznes.pap.pl/wiadomosci/rynki/ceny-ropy-rosna-donald-trump-wznawia-naciski-na-iran-ten-grozi-odwetem",
+      "title": "Ceny ropy rosną; Donald Trump wznawia naciski na Iran, a ten grozi odwetem",
+      "content_html": "Ceny ropy naftowej na globalnych giełdach rosną w czwartek po tym, jak Stany Zjednoczone i Iran grożą eskalacją konfliktu w obliczu trwającego od wielu tygodni impasu na Bliskim Wschodzie, który nie d",
+      "date_published": "2026-05-21T07:54:00+02:00",
+      "source": "PAP Biznes"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/gospodarka/cena-uprawnien-eua-w-iii-kw-wyniesie-srednio-80-euro-cake-kobize",
+      "url": "https://biznes.pap.pl/wiadomosci/gospodarka/cena-uprawnien-eua-w-iii-kw-wyniesie-srednio-80-euro-cake-kobize",
+      "title": "Cena uprawnień EUA w III kw. wyniesie średnio 80 euro - CAKE, KOBIZE",
+      "content_html": "Cena uprawnień EUA w III kw. wyniesie średnio 80 euro - ocenia w raporcie Centrum Analiz Klimatyczno-Energetycznych (CAKE/KOBIZE).",
+      "date_published": "2026-05-21T07:37:00+02:00",
+      "source": "PAP Biznes"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/firmy/przychody-lfl-pepco-w-ciagu-6-tygodni-do-16-maja-wzrosly-o-15-proc-z-wylaczeniem",
+      "url": "https://biznes.pap.pl/wiadomosci/firmy/przychody-lfl-pepco-w-ciagu-6-tygodni-do-16-maja-wzrosly-o-15-proc-z-wylaczeniem",
+      "title": "Przychody LFL Pepco w ciągu 6 tygodni do 16 maja wzrosły o 1,5 proc., z wyłączeniem FMCG",
+      "content_html": "Przychody Pepco w trzecim kwartale, w ciągu 6 tygodni do 16 maja 2026 r. wzrosły w ujęciu LFL o 1,5 proc. z wyłączeniem FMCG - podała spółka w komunikacie.",
+      "date_published": "2026-05-21T07:36:00+02:00",
+      "source": "PAP Biznes"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/gospodarka/w-kwietniu-ceny-eua-stabilne-w-przedziale-70-76-euro-kobize",
+      "url": "https://biznes.pap.pl/wiadomosci/gospodarka/w-kwietniu-ceny-eua-stabilne-w-przedziale-70-76-euro-kobize",
+      "title": "W kwietniu ceny EUA stabilne, w przedziale 70-76 euro - KOBIZE",
+      "content_html": "W kwietniu ceny EUA stabilne, w przedziale 70-76 euro - poinformował w raporcie Krajowy Ośrodek Bilansowania i Zarządzania Emisjami.",
+      "date_published": "2026-05-21T07:32:00+02:00",
+      "source": "PAP Biznes"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/firmy/pepco-chce-w-26-zrealizowac-skup-akcji-oczekuje-zwiekszania-wskaznika-wyplaty",
+      "url": "https://biznes.pap.pl/wiadomosci/firmy/pepco-chce-w-26-zrealizowac-skup-akcji-oczekuje-zwiekszania-wskaznika-wyplaty",
+      "title": "Pepco chce w '26 zrealizować skup akcji; oczekuje zwiększania wskaźnika wypłaty dywidendy w kolejnych latach",
+      "content_html": "Pepco Group chce w roku obrotowym 2026 dokonać jednorazowego zwrotu kapitału akcjonariuszom w wysokości do 400 mln euro w formie proporcjonalnego skupu akcji realizowanego w drodze wezwania do sprzeda",
+      "date_published": "2026-05-21T07:31:00+02:00",
+      "source": "PAP Biznes"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Wall-Street-w-gore-Slabna-obawy-o-stopy-procentowe-i-ceny-ropy-9136714.html",
       "url": "https://www.bankier.pl/wiadomosc/Wall-Street-w-gore-Slabna-obawy-o-stopy-procentowe-i-ceny-ropy-9136714.html",
       "title": "Historyczny rekord w cieniu dyplomacji. Giełdy rosną, a obligacje spadają po deklaracji Trumpa",
@@ -397,11 +781,75 @@
       "source": "Bankier.pl"
     },
     {
-      "id": "https://www.bankier.pl/wiadomosc/Klimatyczne-referendum-27-wrzesnia-To-35-lat-programu-800-plus-9136689.html",
-      "url": "https://www.bankier.pl/wiadomosc/Klimatyczne-referendum-27-wrzesnia-To-35-lat-programu-800-plus-9136689.html",
-      "title": "Referendum klimatycznego nie będzie? Senat blokuje wielki plan prezydenta",
-      "content_html": "Senat nie wyraził w środę zgody na zarządzenie przez prezydenta Karola Nawrockiego referendum w sprawie unijnej polityki klimatycznej. Przeciwko podjęciu przez Senat uchwały w tej sprawie było 62 senatorów, za opowiedziało się 32, od głosu...",
-      "date_published": "2026-05-21T07:24:00+02:00",
+      "id": "https://biznes.pap.pl/wiadomosci/firmy/pepco-group-podtrzymuje-ze-bazowej-ebitda-mssf-16-wzrosnie-w-tempie-niskich",
+      "url": "https://biznes.pap.pl/wiadomosci/firmy/pepco-group-podtrzymuje-ze-bazowej-ebitda-mssf-16-wzrosnie-w-tempie-niskich",
+      "title": "Pepco Group podtrzymuje, że bazowej EBITDA (MSSF 16) wzrośnie w tempie niskich kilkunastu proc. rdr",
+      "content_html": "Pepco Group podtrzymało prognozę wzrostu bazowej EBITDA na koniec roku obrotowego 2026 o niskie kilkanaście proc. w ujęciu rdr - podała spółka w raporcie za I półrocze 2025/26. Wzrost bazowej EBITDA w",
+      "date_published": "2026-05-21T07:26:00+02:00",
+      "source": "PAP Biznes"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/firmy/pepco-group-mialo-w-i-pol-202526-r-516-mln-euro-bazowej-ebitda-wobec-439-mln-euro",
+      "url": "https://biznes.pap.pl/wiadomosci/firmy/pepco-group-mialo-w-i-pol-202526-r-516-mln-euro-bazowej-ebitda-wobec-439-mln-euro",
+      "title": "Pepco Group miało w I poł. 2025/26 r. 516 mln euro bazowej EBITDA, wobec 439 mln euro rok wcześniej",
+      "content_html": "Pepco Group miało w I poł. 2025/26 r. 516 mln euro bazowej EBITDA, wobec 439 mln euro rok wcześniej - podała spółka w komunikacie. Przychody grupy w ujęciu porównywalnym (LFL) z wyłączeniem towarów sz",
+      "date_published": "2026-05-21T07:16:00+02:00",
+      "source": "PAP Biznes"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Selvita-rozpoczyna-przeglad-opcji-strategicznych-9136787.html",
+      "url": "https://www.bankier.pl/wiadomosc/Selvita-rozpoczyna-przeglad-opcji-strategicznych-9136787.html",
+      "title": "Trzęsienie ziemi w polskim biotech. Selvita szuka inwestora i może zejść z giełdy",
+      "content_html": "Backlog Selvity na 2026 r. wynosi 246,5 mln zł wobec 249,9 mln zł rok wcześniej - podała spółka w komunikacie prasowym. Selvita rozpoczęła proces przeglądu opcji strategicznych.",
+      "date_published": "2026-05-21T07:08:00+02:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Wyniki-Neuki-w-I-kw-2026-roku-vs-konsensus-PAP-tabela-9136788.html",
+      "url": "https://www.bankier.pl/wiadomosc/Wyniki-Neuki-w-I-kw-2026-roku-vs-konsensus-PAP-tabela-9136788.html",
+      "title": "Wyniki Neuki w I kw. 2026 roku vs. konsensus PAP (tabela)",
+      "content_html": "Poniżej przedstawiamy wyniki spółki Neuca w pierwszym kwartale 2026 roku i ich odniesienie do konsensusu PAP Biznes oraz poprzednich wyników.",
+      "date_published": "2026-05-21T07:08:00+02:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Rezerwy-polskiego-zlota-rosna-To-twardy-dowod-na-suwerennosc-kraju-9135481.html",
+      "url": "https://www.bankier.pl/wiadomosc/Rezerwy-polskiego-zlota-rosna-To-twardy-dowod-na-suwerennosc-kraju-9135481.html",
+      "title": "Rezerwy polskiego złota rosną. To twardy dowód na suwerenność kraju",
+      "content_html": "W obliczu końca globalnego spokoju i powrotu do geopolitycznej rywalizacji mocarstw, Narodowy Bank Polski realizuje bezprecedensową strategię. NBP bije rekordy w zakupach fizycznego złota, budując potężną \"wojenną skrzynię\" i windując Polskę...",
+      "date_published": "2026-05-21T07:00:00+02:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Nawet-5000-zl-za-konto-firmowe-Banki-ruszyly-z-duzymi-promocjami-dla-przedsiebiorcow-9136040.html",
+      "url": "https://www.bankier.pl/wiadomosc/Nawet-5000-zl-za-konto-firmowe-Banki-ruszyly-z-duzymi-promocjami-dla-przedsiebiorcow-9136040.html",
+      "title": "Nawet 5000 zł za konto firmowe. Banki ruszyły z dużymi promocjami dla przedsiębiorców",
+      "content_html": "Premie za otwarcie konta firmowego znów rosną. W maju przedsiębiorcy mogą zgarnąć nawet 5000 zł bonusu za założenie rachunku i wykonywanie określonych aktywności. Sprawdziliśmy, które banki oferują dziś najwyższe premie pieniężne dla...",
+      "date_published": "2026-05-21T07:00:00+02:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Rynek-pracy-bezwzgledny-dla-matek-Wiekszosc-Polakow-widzi-potezna-sciane-9136169.html",
+      "url": "https://www.bankier.pl/wiadomosc/Rynek-pracy-bezwzgledny-dla-matek-Wiekszosc-Polakow-widzi-potezna-sciane-9136169.html",
+      "title": "Rynek pracy bezwzględny dla matek. Większość Polaków widzi potężną ścianę",
+      "content_html": "Zjawisko „kary za macierzyństwo” to wciąż brutalna rzeczywistość polskiego rynku pracy. Z najnowszego badania wynika jednoznacznie: aż 71% Polaków widzi niechęć pracodawców do zatrudniania matek małych dzieci, a 70% dostrzega barierę w...",
+      "date_published": "2026-05-21T07:00:00+02:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Od-rosnacych-stawek-w-ogloszeniach-nie-da-sie-uciec-choc-indeks-cen-mieszkan-hamuje-9136229.html",
+      "url": "https://www.bankier.pl/wiadomosc/Od-rosnacych-stawek-w-ogloszeniach-nie-da-sie-uciec-choc-indeks-cen-mieszkan-hamuje-9136229.html",
+      "title": "Od rosnących stawek w ogłoszeniach nie da się uciec, choć indeks cen mieszkań hamuje",
+      "content_html": "Marzec przyniósł uspokojenie tempa wzrostu indeksu obrazującego sytuację na rynku mieszkaniowych, przygotowanego przez Cenatorium. Oczekiwania sprzedających, zwłaszcza na rynku wtórnym, nadal jednak rosną. Jak zauważają eksperci, wciąż warto...",
+      "date_published": "2026-05-21T07:00:00+02:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Firmy-maja-duze-problemy-z-Aplikacja-Podatnika-KSeF-Jak-mozna-je-rozwiazac-9136374.html",
+      "url": "https://www.bankier.pl/wiadomosc/Firmy-maja-duze-problemy-z-Aplikacja-Podatnika-KSeF-Jak-mozna-je-rozwiazac-9136374.html",
+      "title": "Firmy mają duże problemy z Aplikacją Podatnika KSeF. Jak je rozwiązać?",
+      "content_html": "Miało być prościej, a wyszło jak zawsze. Przedsiębiorcy korzystający z Krajowego Systemu e-Faktur poprzez Aplikację Podatnika zgłaszają wiele trudności z jej użytkowaniem. Jakie są często wskazywane niedogodności i jak można sobie z nimi...",
+      "date_published": "2026-05-21T07:00:00+02:00",
       "source": "Bankier.pl"
     },
     {
@@ -427,6 +875,30 @@
       "content_html": "Poniżej przedstawiamy wyniki Selvity w pierwszym kwartale 2026 roku i ich odniesienie do konsensusu i poprzednich wyników.",
       "date_published": "2026-05-21T07:00:00+02:00",
       "source": "Bankier.pl"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/ekonomia-biznes-i-finanse/przewidywane-najwazniejsze-wydarzenia-gospodarcze-2026-05-21",
+      "url": "https://biznes.pap.pl/wiadomosci/ekonomia-biznes-i-finanse/przewidywane-najwazniejsze-wydarzenia-gospodarcze-2026-05-21",
+      "title": "Przewidywane najważniejsze wydarzenia gospodarcze 2026-05-21",
+      "content_html": "Przewidywane najważniejsze wydarzenia gospodarcze 2026-05-21",
+      "date_published": "2026-05-21T07:00:00+02:00",
+      "source": "PAP Biznes"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/rynki/kalendarium-rynku-newconnect-2026-05-21",
+      "url": "https://biznes.pap.pl/wiadomosci/rynki/kalendarium-rynku-newconnect-2026-05-21",
+      "title": "Kalendarium rynku NewConnect 2026-05-21",
+      "content_html": "Kalendarium rynku NewConnect 2026-05-21",
+      "date_published": "2026-05-21T07:00:00+02:00",
+      "source": "PAP Biznes"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/rynki/kalendarium-rynku-kapitalowego-gpw-2026-05-21",
+      "url": "https://biznes.pap.pl/wiadomosci/rynki/kalendarium-rynku-kapitalowego-gpw-2026-05-21",
+      "title": "Kalendarium rynku kapitałowego GPW 2026-05-21",
+      "content_html": "Kalendarium rynku kapitałowego GPW 2026-05-21",
+      "date_published": "2026-05-21T07:00:00+02:00",
+      "source": "PAP Biznes"
     },
     {
       "id": "https://biznes.pap.pl/wiadomosci/firmy/11-bit-studios-w-i-kw-mialo-59-mln-zl-zysku-ebitda-wobec-55-mln-zl-konsensusu",
@@ -459,22 +931,6 @@
       "content_html": "Poniżej zamknięcia i zmiany indeksów w USA. Kanadzie, Meksyku, Brazylii, Chile, Kolumbii i Argentynie:",
       "date_published": "2026-05-21T06:30:00+02:00",
       "source": "PAP Biznes"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Wyniki-Neuki-w-I-kw-2026-roku-vs-konsensus-PAP-tabela-9136788.html",
-      "url": "https://www.bankier.pl/wiadomosc/Wyniki-Neuki-w-I-kw-2026-roku-vs-konsensus-PAP-tabela-9136788.html",
-      "title": "Wyniki Neuki w I kw. 2026 roku vs. konsensus PAP (tabela) Poniżej przedstawiamy wyniki spółki Neuca w pierwszym kwartale 2026 roku i ich odniesienie do konsensusu PAP Biznes oraz poprzednich wyników.",
-      "content_html": "",
-      "date_published": "2026-05-21T06:08:00+02:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Selvita-rozpoczyna-przeglad-opcji-strategicznych-9136787.html",
-      "url": "https://www.bankier.pl/wiadomosc/Selvita-rozpoczyna-przeglad-opcji-strategicznych-9136787.html",
-      "title": "Trzęsienie ziemi w polskim biotech. Selvita szuka inwestora i może zejść z giełdy Backlog Selvity na 2026 r. wynosi 246,5 mln zł wobec 249,9 mln zł rok wcześniej - podała spółka w komunikacie prasowym. Selvita rozpoczęła proces przeglądu opcji strategicznych.",
-      "content_html": "",
-      "date_published": "2026-05-21T06:08:00+02:00",
-      "source": "Bankier.pl"
     },
     {
       "id": "https://biznes.pap.pl/wiadomosci/firmy/selvita-rozpoczyna-przeglad-opcji-strategicznych",
@@ -813,76 +1269,60 @@
       "source": "PAP Biznes"
     },
     {
-      "id": "https://www.bankier.pl/wiadomosc/Poznan-ma-nowy-pomnik-krola-Historyczny-dzien-w-stolicy-Wielkopolski-9136556.html",
-      "url": "https://www.bankier.pl/wiadomosc/Poznan-ma-nowy-pomnik-krola-Historyczny-dzien-w-stolicy-Wielkopolski-9136556.html",
-      "title": "Poznań ma nowy pomnik króla. Historyczny dzień w stolicy Wielkopolski",
-      "content_html": "Pomnik Przemysła II odsłonięto w środę w Poznaniu. Monument przedstawiający polskiego króla siedzącego na koniu ma upamiętniać związanego ze stolicą Wielkopolski władcę i przypominać, że Poznań był również miastem królewskim.",
+      "id": "https://biznes.pap.pl/wiadomosci/firmy/wyniki-cyfrowego-polsatu-w-i-kw-2026-roku-vs-konsensus-pap-tabela-poprawiona",
+      "url": "https://biznes.pap.pl/wiadomosci/firmy/wyniki-cyfrowego-polsatu-w-i-kw-2026-roku-vs-konsensus-pap-tabela-poprawiona",
+      "title": "Wyniki Cyfrowego Polsatu w I kw. 2026 roku vs. konsensus PAP (tabela, poprawiona)",
+      "content_html": "Poniżej przedstawiono wyniki Cyfrowego Polsatu w pierwszym kwartale 2026 roku i ich odniesienie do konsensusu PAP Biznes.",
       "date_published": "2026-05-20T18:20:00+02:00",
-      "source": "Bankier.pl"
+      "source": "PAP Biznes"
     },
     {
-      "id": "https://www.bankier.pl/wiadomosc/Sledzili-ruchy-wojsk-NATO-ABW-zatrzymalo-Polakow-podejrzanych-o-szpiegostwo-dla-Rosji-9136094.html",
-      "url": "https://www.bankier.pl/wiadomosc/Sledzili-ruchy-wojsk-NATO-ABW-zatrzymalo-Polakow-podejrzanych-o-szpiegostwo-dla-Rosji-9136094.html",
-      "title": "Szykowali dywersje na zlecenie FSB. ABW zatrzymało Polaków podejrzanych o szpiegostwo dla Rosji",
-      "content_html": "Funkcjonariusze ABW zatrzymali trzy osoby podejrzane o działania szpiegowskie na rzecz Federacji Rosyjskiej - poinformował w środę minister koordynator służb specjalnych Tomasz Siemoniak. Przekazał, że zatrzymani to Polacy w wieku od 48 do 62...",
-      "date_published": "2026-05-20T18:17:00+02:00",
-      "source": "Bankier.pl"
+      "id": "https://biznes.pap.pl/wiadomosci/firmy/cd-projekt-chce-przeznaczyc-caly-zysk-za-25-na-kapital-zapasowy",
+      "url": "https://biznes.pap.pl/wiadomosci/firmy/cd-projekt-chce-przeznaczyc-caly-zysk-za-25-na-kapital-zapasowy",
+      "title": "CD Projekt chce przeznaczyć cały zysk za '25 na kapitał zapasowy",
+      "content_html": "CD Projekt rekomenduje walnemu zgromadzeniu całości zysku netto za 2025 r. na kapitał zapasowy spółki - podał deweloper gier w komunikacie. Jednocześnie zarząd dodał, że podtrzymuje założenia przyjęte",
+      "date_published": "2026-05-20T18:16:00+02:00",
+      "source": "PAP Biznes"
     },
     {
-      "id": "https://www.bankier.pl/wiadomosc/Prawomocny-wyrok-za-tragedie-w-Szczyrku-Sad-zdecydowal-9136409.html",
-      "url": "https://www.bankier.pl/wiadomosc/Prawomocny-wyrok-za-tragedie-w-Szczyrku-Sad-zdecydowal-9136409.html",
-      "title": "Prawomocny wyrok za tragedię w Szczyrku. Sąd zdecydował",
-      "content_html": "Sąd Apelacyjny w Katowicach utrzymał w środę w mocy wyroki skazujące na kilkuletnie kary więzienia sześcioro oskarżonych w sprawie wybuchu gazu w Szczyrku w grudniu 2019 r. W wyniku eksplozji, która całkowicie zniszczyła trzykondygnacyjny dom...",
-      "date_published": "2026-05-20T18:13:00+02:00",
-      "source": "Bankier.pl"
+      "id": "https://biznes.pap.pl/wiadomosci/firmy/unibep-szacuje-zysk-ebit-w-i-kwartale-na-09-mln-zl-strata-netto-wyniosla-55-mln-zl",
+      "url": "https://biznes.pap.pl/wiadomosci/firmy/unibep-szacuje-zysk-ebit-w-i-kwartale-na-09-mln-zl-strata-netto-wyniosla-55-mln-zl",
+      "title": "Unibep szacuje zysk EBIT w I kwartale na 0,9 mln zł, strata netto wyniosła 5,5 mln zł",
+      "content_html": "Grupa Unibep szacuje, że jej zysk operacyjny w pierwszym kwartale 2026 roku wyniósł 0,9 mln zł, przychody 329 mln zł, a strata netto przypadająca akcjonariuszom j.d. wyniosła 5,5 mln zł - poinformował",
+      "date_published": "2026-05-20T18:12:00+02:00",
+      "source": "PAP Biznes"
     },
     {
-      "id": "https://www.bankier.pl/wiadomosc/Grupa-Kino-Polska-szacuje-ze-w-I-kw-miala-20-1-mln-zl-zysku-netto-9136538.html",
-      "url": "https://www.bankier.pl/wiadomosc/Grupa-Kino-Polska-szacuje-ze-w-I-kw-miala-20-1-mln-zl-zysku-netto-9136538.html",
-      "title": "Grupa Kino Polska szacuje, że w I kw. miała 20,1 mln zł zysku netto",
-      "content_html": "Grupa Kino Polska szacuje, że miała w pierwszym kwartale 2026 roku 20,1 mln zł zysku netto, więcej o 6 proc. rdr, a przychody osiągnęły 78,9 mln zł, czyli były o 3 proc. wyższe rdr - podała spółka w komunikacie.",
-      "date_published": "2026-05-20T18:10:00+02:00",
-      "source": "Bankier.pl"
+      "id": "https://biznes.pap.pl/wiadomosci/konsument/cyfrowy-polsat-mial-w-i-kw-847-mln-zl-skor-ebitda-wobec-8242-mln-zl-konsensusu",
+      "url": "https://biznes.pap.pl/wiadomosci/konsument/cyfrowy-polsat-mial-w-i-kw-847-mln-zl-skor-ebitda-wobec-8242-mln-zl-konsensusu",
+      "title": "Cyfrowy Polsat miał w I kw. 847 mln zł skor. EBITDA wobec 824,2 mln zł konsensusu",
+      "content_html": "Cyfrowy Polsat miał I kw. 2026 roku 847 mln zł skorygowanej EBITDA oraz 3.635 mln zł przychodów - podała spółka w raporcie. Konsensus PAP Biznes zakładał 824,2 mln zł skorygowanej EBITDA oraz 3.597,8 ",
+      "date_published": "2026-05-20T18:08:00+02:00",
+      "source": "PAP Biznes"
     },
     {
-      "id": "https://www.bankier.pl/wiadomosc/Poczobut-Musze-wrocic-na-Bialorus-Wrzesien-jest-deadlinem-9136539.html",
-      "url": "https://www.bankier.pl/wiadomosc/Poczobut-Musze-wrocic-na-Bialorus-Wrzesien-jest-deadlinem-9136539.html",
-      "title": "Poczobut: Muszę wrócić na Białoruś. Wrzesień jest deadlinem",
-      "content_html": "Wrzesień jest takim deadline'em, kiedy już muszę wrócić na Białoruś - powiedział w środę Andrzej Poczobut. Dziennikarz i działacz mniejszości polskiej, pytany, czy nie obawia się, że z powrotem trafi do białoruskiego więzienia, powiedział...",
-      "date_published": "2026-05-20T18:10:00+02:00",
-      "source": "Bankier.pl"
+      "id": "https://biznes.pap.pl/wiadomosci/rynki/zamkniecia-na-gieldach-w-europie-tabela-2871",
+      "url": "https://biznes.pap.pl/wiadomosci/rynki/zamkniecia-na-gieldach-w-europie-tabela-2871",
+      "title": "Zamknięcia na giełdach w Europie (tabela)",
+      "content_html": "Poniżej zamknięcia i zmiany wybranych indeksów giełdowych w Europie.",
+      "date_published": "2026-05-20T17:59:00+02:00",
+      "source": "PAP Biznes"
     },
     {
-      "id": "https://www.bankier.pl/wiadomosc/Polityka-klimatyczna-UE-Burzliwa-debata-w-Parlamencie-Europejskim-9136525.html",
-      "url": "https://www.bankier.pl/wiadomosc/Polityka-klimatyczna-UE-Burzliwa-debata-w-Parlamencie-Europejskim-9136525.html",
-      "title": "Polityka klimatyczna UE. Burzliwa debata w Parlamencie Europejskim",
-      "content_html": "Konserwatyści, z których inicjatywy odbyła się w środę w Parlamencie Europejskim w Strasburgu debata na temat ETS, opowiadali się za wyjściem z unijnego systemu handlu emisjami. Europosłowie KO przekonywali, że ETS wymaga głębokiej reformy...",
-      "date_published": "2026-05-20T18:00:00+02:00",
-      "source": "Bankier.pl"
+      "id": "https://biznes.pap.pl/wiadomosci/firmy/bruksela-daje-zielone-swiatlo-dla-piatej-rewizji-kpo-mfipr-opis",
+      "url": "https://biznes.pap.pl/wiadomosci/firmy/bruksela-daje-zielone-swiatlo-dla-piatej-rewizji-kpo-mfipr-opis",
+      "title": "Bruksela daje zielone światło dla piątej rewizji KPO - MFiPR (opis)",
+      "content_html": "Komisja Europejska zatwierdziła V rewizję Krajowego Planu Odbudowy; najważniejszą zmianą jest odejście od opłat dla właścicieli samochodów spalinowych - poinformował resort funduszy i polityki regiona",
+      "date_published": "2026-05-20T17:50:00+02:00",
+      "source": "PAP Biznes"
     },
     {
-      "id": "https://www.bankier.pl/wiadomosc/Solidarnosc-protestuje-w-Warszawie-Ruszyl-marsz-przeciwko-unijnej-polityce-klimatycznej-9136234.html",
-      "url": "https://www.bankier.pl/wiadomosc/Solidarnosc-protestuje-w-Warszawie-Ruszyl-marsz-przeciwko-unijnej-polityce-klimatycznej-9136234.html",
-      "title": "Solidarność przeszła ulicami Warszawy w sprzeciwie wobec unijnej polityce klimatycznej",
-      "content_html": "W środę w Warszawie pod hasłem „Razem dla Polski i Polaków” związkowcy z NSZZ „Solidarność” zorganizowali antyrządową manifestację, podczas której domagają się m.in. referendum w sprawie unijnej polityki klimatycznej. Protestujący...",
-      "date_published": "2026-05-20T17:53:00+02:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Grupa-Modivo-chce-uruchomic-nowa-siec-off-price-pod-marka-Shockprice-9136414.html",
-      "url": "https://www.bankier.pl/wiadomosc/Grupa-Modivo-chce-uruchomic-nowa-siec-off-price-pod-marka-Shockprice-9136414.html",
-      "title": "Grupa Modivo chce uruchomić nową sieć off-price, pod marką Shockprice",
-      "content_html": "Grupa Modivo chce uruchomić nową sieć off-price, pod marką Shockprice, w mniejszych miastach – poinformował prezes Dariusz Miłek.",
-      "date_published": "2026-05-20T17:48:00+02:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Rubio-zaoferowal-Kubanczykom-nowa-sciezke-relacji-z-USA-9136515.html",
-      "url": "https://www.bankier.pl/wiadomosc/Rubio-zaoferowal-Kubanczykom-nowa-sciezke-relacji-z-USA-9136515.html",
-      "title": "Rubio zaoferował Kubańczykom „nową ścieżkę” relacji z USA",
-      "content_html": "Sekretarz stanu Marco Rubio w przesłaniu wideo do Kubańczyków zaoferował im „nową ścieżkę” i rozdział w relacjach między USA i Kubą. Zaznaczył, że jedyną przeszkodą są rządzący wyspą.",
-      "date_published": "2026-05-20T17:47:00+02:00",
-      "source": "Bankier.pl"
+      "id": "https://biznes.pap.pl/wiadomosci/przemysl/wyniki-pcc-rokita-w-i-kw-2026-roku-vs-konsensus-pap-tabela",
+      "url": "https://biznes.pap.pl/wiadomosci/przemysl/wyniki-pcc-rokita-w-i-kw-2026-roku-vs-konsensus-pap-tabela",
+      "title": "Wyniki PCC Rokita w I kw. 2026 roku vs. konsensus PAP (tabela)",
+      "content_html": "Poniżej przedstawiono wyniki PCC Rokita w pierwszym kwartale 2026 roku i ich odniesienie do konsensusu PAP Biznes.",
+      "date_published": "2026-05-20T17:45:00+02:00",
+      "source": "PAP Biznes"
     },
     {
       "id": "https://biznes.pap.pl/wiadomosci/gry-i-technologie/wyniki-cyberfolks-w-i-kw-2026-roku-vs-konsensus-pap-tabela",
@@ -891,14 +1331,6 @@
       "content_html": "Poniżej przedstawiono wyniki cyber_Folks w pierwszym kwartale 2026 roku i ich odniesienie do konsensusu PAP Biznes oraz poprzednich wyników.",
       "date_published": "2026-05-20T17:37:00+02:00",
       "source": "PAP Biznes"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/KNF-zatwierdzila-prospekt-mBank-Hipotecznego-sporzadzonego-w-zwiazku-z-oferta-publiczna-LZ-9136504.html",
-      "url": "https://www.bankier.pl/wiadomosc/KNF-zatwierdzila-prospekt-mBank-Hipotecznego-sporzadzonego-w-zwiazku-z-oferta-publiczna-LZ-9136504.html",
-      "title": "KNF zatwierdziła prospekt mBank Hipotecznego sporządzonego w związku z ofertą publiczną LZ",
-      "content_html": "Komisja Nadzoru Finansowego zatwierdziła prospekt mBank Hipotecznego sporządzonego w związku z ofertą publiczną hipotecznych listów zastawnych emitowanych w ramach programu emisji hipotecznych listów zastawnych do łącznej wartości 10 mld zł...",
-      "date_published": "2026-05-20T17:36:00+02:00",
-      "source": "Bankier.pl"
     },
     {
       "id": "https://biznes.pap.pl/wiadomosci/firmy/wyniki-shopera-w-i-kw-2026-roku-vs-konsensus-pap-tabela",
@@ -925,14 +1357,6 @@
       "source": "PAP Biznes"
     },
     {
-      "id": "https://www.bankier.pl/wiadomosc/26-statkow-przeszlo-przez-iranska-kontrole-Marynarka-Straznikow-Rewolucji-odkrywa-karty-9136496.html",
-      "url": "https://www.bankier.pl/wiadomosc/26-statkow-przeszlo-przez-iranska-kontrole-Marynarka-Straznikow-Rewolucji-odkrywa-karty-9136496.html",
-      "title": "26 statków przeszło przez „irańską kontrolę”. Marynarka Strażników Rewolucji odkrywa karty",
-      "content_html": "Marynarka Wojenna Korpusu Strażników Rewolucji Islamskiej (IRGC) oświadczyła w środę, że w ciągu ostatniej doby 26 statków, przepłynęło przez cieśninę Ormuz we współpracy z Iranem - podała agencja Reutera.",
-      "date_published": "2026-05-20T17:25:00+02:00",
-      "source": "Bankier.pl"
-    },
-    {
       "id": "https://biznes.pap.pl/wiadomosci/firmy/wyniki-cyfrowego-polsatu-w-i-kw-2026-roku-vs-konsensus-pap-tabela",
       "url": "https://biznes.pap.pl/wiadomosci/firmy/wyniki-cyfrowego-polsatu-w-i-kw-2026-roku-vs-konsensus-pap-tabela",
       "title": "Wyniki Cyfrowego Polsatu w I kw. 2026 roku vs. konsensus PAP (tabela)",
@@ -949,19 +1373,11 @@
       "source": "PAP Biznes"
     },
     {
-      "id": "https://www.bankier.pl/wiadomosc/Zbigniew-Ziobro-uciekl-do-USA-jako-dziennikarz-Nowe-ustalenia-prokuratury-9136344.html",
-      "url": "https://www.bankier.pl/wiadomosc/Zbigniew-Ziobro-uciekl-do-USA-jako-dziennikarz-Nowe-ustalenia-prokuratury-9136344.html",
-      "title": "Zbigniew Ziobro uciekł do USA z Mediolanu. Nowe ustalenia prokuratury",
-      "content_html": "Prokuratura od kilku dni ma oficjalną informację, że b. minister sprawiedliwości Zbigniew Ziobro opuścił Europę 9 maja i wyleciał do Stanów Zjednoczonych z Mediolanu – podał w środę rzecznik Prokuratury Krajowej prok. Przemysław Nowak...",
-      "date_published": "2026-05-20T17:19:00+02:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Bruksela-ulega-Trumpowi-Znamy-kulisy-nocnego-porozumienia-celnego-9136486.html",
-      "url": "https://www.bankier.pl/wiadomosc/Bruksela-ulega-Trumpowi-Znamy-kulisy-nocnego-porozumienia-celnego-9136486.html",
-      "title": "Bruksela ulega Trumpowi? Znamy kulisy nocnego porozumienia celnego",
-      "content_html": "Komisarz UE ds. handlu Marosz Szefczovicz poinformował już swoich odpowiedników w USA o porozumieniu w sprawie umowy celnej - przekazała rzeczniczka Komisji Europejskiej Paula Pinho. Jak podkreśliła, KE zamierza teraz porozumieć się ze Stanami...",
-      "date_published": "2026-05-20T17:09:00+02:00",
+      "id": "https://www.bankier.pl/wiadomosc/Grupa-Kino-Polska-szacuje-ze-w-I-kw-miala-20-1-mln-zl-zysku-netto-9136538.html",
+      "url": "https://www.bankier.pl/wiadomosc/Grupa-Kino-Polska-szacuje-ze-w-I-kw-miala-20-1-mln-zl-zysku-netto-9136538.html",
+      "title": "Grupa Kino Polska szacuje, że w I kw. miała 20,1 mln zł zysku netto Grupa Kino Polska szacuje, że miała w pierwszym kwartale 2026 roku 20,1 mln zł zysku netto, więcej o 6 proc. rdr, a przychody osiągnęły 78,9 mln zł, czyli były o 3 proc. wyższe rdr - podała spółka w komunikacie.",
+      "content_html": "",
+      "date_published": "2026-05-20T17:10:00+02:00",
       "source": "Bankier.pl"
     },
     {
@@ -997,11 +1413,19 @@
       "source": "PAP Biznes"
     },
     {
-      "id": "https://www.bankier.pl/wiadomosc/Zelenski-W-Rosji-istnieje-piec-scenariuszy-rozszerzenia-wojny-na-polnocna-Ukraine-9136458.html",
-      "url": "https://www.bankier.pl/wiadomosc/Zelenski-W-Rosji-istnieje-piec-scenariuszy-rozszerzenia-wojny-na-polnocna-Ukraine-9136458.html",
-      "title": "Zełenski: W Rosji istnieje pięć scenariuszy rozszerzenia wojny na północną Ukrainę",
-      "content_html": "W Rosji istnieje pięć scenariuszy rozszerzenia wojny na północną Ukrainę dlatego siły ukraińskie zostaną wzmocnione na kierunku czernihowsko-kijowskim - przekazał w środę prezydent Ukrainy Wołodymyr Zełenski. Dodał, że Rosja przygotowuje...",
-      "date_published": "2026-05-20T16:38:00+02:00",
+      "id": "https://www.bankier.pl/wiadomosc/Grupa-Modivo-chce-uruchomic-nowa-siec-off-price-pod-marka-Shockprice-9136414.html",
+      "url": "https://www.bankier.pl/wiadomosc/Grupa-Modivo-chce-uruchomic-nowa-siec-off-price-pod-marka-Shockprice-9136414.html",
+      "title": "Grupa Modivo chce uruchomić nową sieć off-price, pod marką Shockprice Grupa Modivo chce uruchomić nową sieć off-price, pod marką Shockprice, w mniejszych miastach – poinformował prezes Dariusz Miłek.",
+      "content_html": "",
+      "date_published": "2026-05-20T16:48:00+02:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/KNF-zatwierdzila-prospekt-mBank-Hipotecznego-sporzadzonego-w-zwiazku-z-oferta-publiczna-LZ-9136504.html",
+      "url": "https://www.bankier.pl/wiadomosc/KNF-zatwierdzila-prospekt-mBank-Hipotecznego-sporzadzonego-w-zwiazku-z-oferta-publiczna-LZ-9136504.html",
+      "title": "KNF zatwierdziła prospekt mBank Hipotecznego sporządzonego w związku z ofertą publiczną LZ Komisja Nadzoru Finansowego zatwierdziła prospekt mBank Hipotecznego sporządzonego w związku z ofertą publiczną hipotecznych listów zastawnych emitowanych w ramach programu emisji hipotecznych listów zastawnych do łącznej wartości 10 mld zł - podała KNF w komunikacie.",
+      "content_html": "",
+      "date_published": "2026-05-20T16:36:00+02:00",
       "source": "Bankier.pl"
     },
     {
@@ -1013,28 +1437,12 @@
       "source": "PAP Biznes"
     },
     {
-      "id": "https://www.bankier.pl/wiadomosc/Grupa-Modivo-zaklada-ze-CAPEX-w-26-nie-przekroczy-700-mln-zl-9136450.html",
-      "url": "https://www.bankier.pl/wiadomosc/Grupa-Modivo-zaklada-ze-CAPEX-w-26-nie-przekroczy-700-mln-zl-9136450.html",
-      "title": "Grupa Modivo zakłada, że CAPEX w ’26 nie przekroczy 700 mln zł",
-      "content_html": "Grupa Modivo zakłada, że CAPEX w 2026 roku nie przekroczy 700 mln zł – poinformował wiceprezes Łukasz Stelmach.",
-      "date_published": "2026-05-20T16:34:00+02:00",
-      "source": "Bankier.pl"
-    },
-    {
       "id": "https://biznes.pap.pl/wiadomosci/firmy/modivo-koncentruje-sie-na-price-wystartuje-z-nowym-brandem-opis",
       "url": "https://biznes.pap.pl/wiadomosci/firmy/modivo-koncentruje-sie-na-price-wystartuje-z-nowym-brandem-opis",
       "title": "Modivo koncentruje się na off-price, wystartuje z nowym brandem (opis)",
       "content_html": "Grupa Modivo chce się skoncentrować na rozwoju biznesu off-price, wystartuje z nową marką w tym segmencie, ShockPrice – poinformowali przedstawiciele spółki na konferencji prasowej. Grupa ogranicza ro",
       "date_published": "2026-05-20T16:34:00+02:00",
       "source": "PAP Biznes"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Ed-Invest-wyplaci-0-13-zl-dywidendy-na-akcje-za-25-i-0-5-zl-na-akcje-z-zysku-lat-ubieglych-9136447.html",
-      "url": "https://www.bankier.pl/wiadomosc/Ed-Invest-wyplaci-0-13-zl-dywidendy-na-akcje-za-25-i-0-5-zl-na-akcje-z-zysku-lat-ubieglych-9136447.html",
-      "title": "Ed Invest wypłaci 0,13 zł dywidendy na akcję za '25 i 0,5 zł na akcję z zysku lat ubiegłych",
-      "content_html": "Walne zgromadzenie Ed Invest zdecydowało o wypłacie 1,29 mln zł dywidendy z zysku za 2025 rok, co daje 0,13 zł na akcję - poinformowała deweloperska spółka w komunikacie. Ponadto akcjonariusze zdecydowali o wypłacie dywidendy z zysku za lat ubiegłych...",
-      "date_published": "2026-05-20T16:32:00+02:00",
-      "source": "Bankier.pl"
     },
     {
       "id": "https://biznes.pap.pl/wiadomosci/gospodarka/komisja-europejska-zamierza-negocjowac-z-usa-obnizenie-cel-na-stal-i",
@@ -1045,36 +1453,12 @@
       "source": "PAP Biznes"
     },
     {
-      "id": "https://www.bankier.pl/wiadomosc/Fotowoltaika-po-raz-pierwszy-przebila-magiczna-bariere-Rekordowa-produkcja-i-wielki-eksport-do-sasiadow-9136435.html",
-      "url": "https://www.bankier.pl/wiadomosc/Fotowoltaika-po-raz-pierwszy-przebila-magiczna-bariere-Rekordowa-produkcja-i-wielki-eksport-do-sasiadow-9136435.html",
-      "title": "Fotowoltaika po raz pierwszy przebiła magiczną barierę. Rekordowa produkcja i wielki eksport do sąsiadów",
-      "content_html": "Polskie Sieci Elektroenergetyczne odnotowały w środę rekord generacji energii elektrycznej ze źródeł fotowoltaicznych; przed południem wyniósł on 14 565 MW - poinformował operator.",
-      "date_published": "2026-05-20T16:24:00+02:00",
-      "source": "Bankier.pl"
-    },
-    {
       "id": "https://biznes.pap.pl/wiadomosci/firmy/dzien-na-gpw-wig20-nadrabia-wtorkowy-spadek-rynek-ciagna-w-gore-m-banki",
       "url": "https://biznes.pap.pl/wiadomosci/firmy/dzien-na-gpw-wig20-nadrabia-wtorkowy-spadek-rynek-ciagna-w-gore-m-banki",
       "title": "DZIEŃ NA GPW: WIG20 nadrabia wtorkowy spadek; rynek ciągną w górę m. in. banki",
       "content_html": "WIG20 nadrabia wtorkowy spadek i znajduje się lekko poniżej poziomu 3.600 pkt. Rosną m. in. banki i Orlen. Modivo, które rano było liderem wzrostów w indeksie, obecnie jest jednym z najsłabszych w WIG",
       "date_published": "2026-05-20T16:19:00+02:00",
       "source": "PAP Biznes"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Nowo-wybrani-sedziowie-Oczekujemy-jak-najszybszego-zwolania-pierwszego-posiedzenia-KRS-9136422.html",
-      "url": "https://www.bankier.pl/wiadomosc/Nowo-wybrani-sedziowie-Oczekujemy-jak-najszybszego-zwolania-pierwszego-posiedzenia-KRS-9136422.html",
-      "title": "Nowo wybrani sędziowie: Oczekujemy jak najszybszego zwołania pierwszego posiedzenia KRS",
-      "content_html": "Grupa 13 wybranych w minionym tygodniu do Krajowej Rady Sądownictwa sędziów zadeklarowała w środę chęć przystąpienia do pracy i wykonywania obowiązków. – Oczekujemy, że pierwsze posiedzenie KRS zostanie zwołane jak najszybciej – powiedział...",
-      "date_published": "2026-05-20T16:11:00+02:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Dlug-Polski-przebil-bolesna-bariere-Ponad-2-biliony-zlotych-na-liczniku-9136419.html",
-      "url": "https://www.bankier.pl/wiadomosc/Dlug-Polski-przebil-bolesna-bariere-Ponad-2-biliony-zlotych-na-liczniku-9136419.html",
-      "title": "Dług Polski przebił bolesną barierę. Ponad 2 biliony złotych na liczniku",
-      "content_html": "Zadłużenie Skarbu Państwa na koniec kwietnia 2026 r. wzrosło o 38,1 mld zł (+1,9 proc.) mdm i wyniosło ok. 2.088,8 mld zł - podał resort finansów w szacunkowych danych.",
-      "date_published": "2026-05-20T16:08:00+02:00",
-      "source": "Bankier.pl"
     },
     {
       "id": "https://biznes.pap.pl/wiadomosci/gospodarka/euro-w-ebc-11600-usd-i-18448-jpy",
@@ -1085,38 +1469,6 @@
       "source": "PAP Biznes"
     },
     {
-      "id": "https://www.bankier.pl/wiadomosc/Grupa-Muza-szacuje-ze-miala-w-I-kwartale-26-przychody-na-poziomie-10-1-mln-zl-9136416.html",
-      "url": "https://www.bankier.pl/wiadomosc/Grupa-Muza-szacuje-ze-miala-w-I-kwartale-26-przychody-na-poziomie-10-1-mln-zl-9136416.html",
-      "title": "Grupa Muza szacuje, że miała w I kwartale '26 przychody na poziomie 10,1 mln zł",
-      "content_html": "Grupa Muza szacuje, że miała w pierwszym kwartale 2026 roku 10,1 mln zł przychodu, wobec 9,16 mln zł w analogicznym okresie 2025 r. - podała spółka w komunikacie. Szacowany skonsolidowany zysk netto w tym okresie wyniósł 572 tys. zł wobec 41...",
-      "date_published": "2026-05-20T16:02:00+02:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Wybor-oferty-konsorcjum-Unibepu-na-budowe-linii-kolejowej-na-odc-Gdansk-Gdynia-uniewazniony-9136412.html",
-      "url": "https://www.bankier.pl/wiadomosc/Wybor-oferty-konsorcjum-Unibepu-na-budowe-linii-kolejowej-na-odc-Gdansk-Gdynia-uniewazniony-9136412.html",
-      "title": "Wybór oferty konsorcjum Unibepu na budowę linii kolejowej na odc. Gdańsk-Gdynia unieważniony",
-      "content_html": "Wybór oferty konsorcjum z Unibepem jako liderem na realizację zadania \"Zaprojektowanie i wykonanie robót pn.: \"Odcinek C - roboty budowlane na linii kolejowej nr 201 odc. Gdańsk Osowa - Gdynia Główna\" został unieważniony - poinformowała spółka...",
-      "date_published": "2026-05-20T15:58:00+02:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/5-50-dla-wyjatkowo-wysokiej-kwoty-w-promocji-ING-Bank-dorzuca-600-zl-za-konto-9136378.html",
-      "url": "https://www.bankier.pl/wiadomosc/5-50-dla-wyjatkowo-wysokiej-kwoty-w-promocji-ING-Bank-dorzuca-600-zl-za-konto-9136378.html",
-      "title": "Zegar tyka – 5,50% na wysoką kwotę do 1 czerwca. Do pakietu 600 zł za konto",
-      "content_html": "W połowie maja ING Bank Śląski przedłużył swoją promocyjną ofertę Otwartego Konta Oszczędnościowego. Tym razem ważność promocji została prolongowana tylko o 3 tygodnie. Do 1 czerwca br. klienci mogą skorzystać ze stawki w wysokości 5...",
-      "date_published": "2026-05-20T15:55:00+02:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/DM-BDM-obnizyl-rekomendacje-BioMaxima-do-akumuluj-cene-docelowa-do-12-1-zl-9136396.html",
-      "url": "https://www.bankier.pl/wiadomosc/DM-BDM-obnizyl-rekomendacje-BioMaxima-do-akumuluj-cene-docelowa-do-12-1-zl-9136396.html",
-      "title": "DM BDM obniżył rekomendację BioMaxima do \"akumuluj\", cenę docelową do 12,1 zł",
-      "content_html": "Analitycy DM BDM, w raporcie z 20 maja, obniżyli rekomendację dla spółki BioMaxima do \"akumuluj\" z \"kupuj\", a cenę docelową akcji spółki do 12,1 zł z 17 zł poprzednio.",
-      "date_published": "2026-05-20T15:44:00+02:00",
-      "source": "Bankier.pl"
-    },
-    {
       "id": "https://biznes.pap.pl/wiadomosci/gospodarka/z-kpo-wyplacone-juz-70-mld-zl-na-zrealizowane-projekty-mfipr",
       "url": "https://biznes.pap.pl/wiadomosci/gospodarka/z-kpo-wyplacone-juz-70-mld-zl-na-zrealizowane-projekty-mfipr",
       "title": "Z KPO wypłacone już 70 mld zł na zrealizowane projekty - MFiPR",
@@ -1125,11 +1477,11 @@
       "source": "PAP Biznes"
     },
     {
-      "id": "https://www.bankier.pl/wiadomosc/Grupa-Modivo-ogranicza-rozwoj-sieci-Worldbox-w-tym-roku-9136394.html",
-      "url": "https://www.bankier.pl/wiadomosc/Grupa-Modivo-ogranicza-rozwoj-sieci-Worldbox-w-tym-roku-9136394.html",
-      "title": "Grupa Modivo ogranicza rozwój sieci Worldbox w tym roku",
-      "content_html": "Grupa Modivo ogranicza rozwój sieci Worldbox w tym roku o 70 proc. względem pierwotnych planów – wynika z prezentacji spółki.",
-      "date_published": "2026-05-20T15:42:00+02:00",
+      "id": "https://www.bankier.pl/wiadomosc/Grupa-Modivo-zaklada-ze-CAPEX-w-26-nie-przekroczy-700-mln-zl-9136450.html",
+      "url": "https://www.bankier.pl/wiadomosc/Grupa-Modivo-zaklada-ze-CAPEX-w-26-nie-przekroczy-700-mln-zl-9136450.html",
+      "title": "Grupa Modivo zakłada, że CAPEX w ’26 nie przekroczy 700 mln zł Grupa Modivo zakłada, że CAPEX w 2026 roku nie przekroczy 700 mln zł – poinformował wiceprezes Łukasz Stelmach.",
+      "content_html": "",
+      "date_published": "2026-05-20T15:34:00+02:00",
       "source": "Bankier.pl"
     },
     {
@@ -1149,28 +1501,20 @@
       "source": "PAP Biznes"
     },
     {
+      "id": "https://www.bankier.pl/wiadomosc/Ed-Invest-wyplaci-0-13-zl-dywidendy-na-akcje-za-25-i-0-5-zl-na-akcje-z-zysku-lat-ubieglych-9136447.html",
+      "url": "https://www.bankier.pl/wiadomosc/Ed-Invest-wyplaci-0-13-zl-dywidendy-na-akcje-za-25-i-0-5-zl-na-akcje-z-zysku-lat-ubieglych-9136447.html",
+      "title": "Ed Invest wypłaci 0,13 zł dywidendy na akcję za '25 i 0,5 zł na akcję z zysku lat ubiegłych Walne zgromadzenie Ed Invest zdecydowało o wypłacie 1,29 mln zł dywidendy z zysku za 2025 rok, co daje 0,13 zł na akcję - poinformowała deweloperska spółka w komunikacie. Ponadto akcjonariusze zdecydowali o wypłacie dywidendy z zysku za lat ubiegłych w wysokości 0,50 zł na akcję.",
+      "content_html": "",
+      "date_published": "2026-05-20T15:32:00+02:00",
+      "source": "Bankier.pl"
+    },
+    {
       "id": "https://biznes.pap.pl/wiadomosci/firmy/ed-invest-wyplaci-013-zl-dywidendy-na-akcje-za-25-i-05-zl-na-akcje-z-zysku-lat",
       "url": "https://biznes.pap.pl/wiadomosci/firmy/ed-invest-wyplaci-013-zl-dywidendy-na-akcje-za-25-i-05-zl-na-akcje-z-zysku-lat",
       "title": "Ed Invest wypłaci 0,13 zł dywidendy na akcję za '25 i 0,5 zł na akcję z zysku lat ubiegłych",
       "content_html": "Walne zgromadzenie Ed Invest zdecydowało o wypłacie 1,29 mln zł dywidendy z zysku za 2025 rok, co daje 0,13 zł na akcję - poinformowała deweloperska spółka w komunikacie. Ponadto akcjonariusze zdecydo",
       "date_published": "2026-05-20T15:30:00+02:00",
       "source": "PAP Biznes"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Parlament-Europejski-wyrazil-zgode-na-przystapienie-Kanady-do-programu-SAFE-9136383.html",
-      "url": "https://www.bankier.pl/wiadomosc/Parlament-Europejski-wyrazil-zgode-na-przystapienie-Kanady-do-programu-SAFE-9136383.html",
-      "title": "Parlament Europejski wyraził zgodę na przystąpienie Kanady do programu SAFE",
-      "content_html": "Parlament Europejski udzielił w środę w Strasburgu formalną zgodę na umowę między UE a Kanadą w ramach unijnego programu zbrojeniowego SAFE. Oznacza to, że państwa europejskie będą mogły wspólnie z Kanadą realizować projekty obronne.",
-      "date_published": "2026-05-20T15:29:00+02:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Kierowcy-zaplaca-wiecej-za-badania-psychologiczne-Resort-zdrowia-chce-podniesc-stawke-9136364.html",
-      "url": "https://www.bankier.pl/wiadomosc/Kierowcy-zaplaca-wiecej-za-badania-psychologiczne-Resort-zdrowia-chce-podniesc-stawke-9136364.html",
-      "title": "Kierowcy zapłacą więcej za badania psychologiczne. Resort zdrowia chce podnieść stawkę",
-      "content_html": "Podwyższenie wysokości opłat za obowiązkowe badania psychologiczne dla kierowców ze 150 zł do 200 zł przewiduje nowy projekt rozporządzenia MZ, który opublikowano na stronach Rządowego Centrum Legislacji. Wyższa stawka obejmie m.in. kierowców...",
-      "date_published": "2026-05-20T15:12:00+02:00",
-      "source": "Bankier.pl"
     },
     {
       "id": "https://biznes.pap.pl/wiadomosci/gospodarka/zadluzenie-skarbu-panstwa-na-koniec-kwietnia-wzroslo-o-19-proc-mdm-do-ok",
@@ -1181,11 +1525,11 @@
       "source": "PAP Biznes"
     },
     {
-      "id": "https://www.bankier.pl/wiadomosc/Historyczny-przelom-w-Rzymie-Meloni-i-Modi-oglaszaja-specjalne-partnerstwo-9136351.html",
-      "url": "https://www.bankier.pl/wiadomosc/Historyczny-przelom-w-Rzymie-Meloni-i-Modi-oglaszaja-specjalne-partnerstwo-9136351.html",
-      "title": "Historyczny przełom w Rzymie. Meloni i Modi ogłaszają specjalne partnerstwo",
-      "content_html": "Włochy i Indie podnoszą poziom dwustronnych relacji do specjalnego partnerstwa strategicznego- ogłosiła premier Giorgia Meloni po spotkaniu z szefem rządu Indii Narendrą Modim w środę w Rzymie. To pierwsza wizyta premiera Indii we Włoszech od...",
-      "date_published": "2026-05-20T15:04:00+02:00",
+      "id": "https://www.bankier.pl/wiadomosc/Grupa-Muza-szacuje-ze-miala-w-I-kwartale-26-przychody-na-poziomie-10-1-mln-zl-9136416.html",
+      "url": "https://www.bankier.pl/wiadomosc/Grupa-Muza-szacuje-ze-miala-w-I-kwartale-26-przychody-na-poziomie-10-1-mln-zl-9136416.html",
+      "title": "Grupa Muza szacuje, że miała w I kwartale '26 przychody na poziomie 10,1 mln zł Grupa Muza szacuje, że miała w pierwszym kwartale 2026 roku 10,1 mln zł przychodu, wobec 9,16 mln zł w analogicznym okresie 2025 r. - podała spółka w komunikacie. Szacowany skonsolidowany zysk netto w tym okresie wyniósł 572 tys. zł wobec 41 tys. zł zysku rok wcześniej. (PAP Biznes)",
+      "content_html": "",
+      "date_published": "2026-05-20T15:02:00+02:00",
       "source": "Bankier.pl"
     },
     {
@@ -1197,20 +1541,20 @@
       "source": "PAP Biznes"
     },
     {
+      "id": "https://www.bankier.pl/wiadomosc/Wybor-oferty-konsorcjum-Unibepu-na-budowe-linii-kolejowej-na-odc-Gdansk-Gdynia-uniewazniony-9136412.html",
+      "url": "https://www.bankier.pl/wiadomosc/Wybor-oferty-konsorcjum-Unibepu-na-budowe-linii-kolejowej-na-odc-Gdansk-Gdynia-uniewazniony-9136412.html",
+      "title": "Wybór oferty konsorcjum Unibepu na budowę linii kolejowej na odc. Gdańsk-Gdynia unieważniony Wybór oferty konsorcjum z Unibepem jako liderem na realizację zadania \"Zaprojektowanie i wykonanie robót pn.: \"Odcinek C - roboty budowlane na linii kolejowej nr 201 odc. Gdańsk Osowa - Gdynia Główna\" został unieważniony - poinformowała spółka w komunikacie.",
+      "content_html": "",
+      "date_published": "2026-05-20T14:58:00+02:00",
+      "source": "Bankier.pl"
+    },
+    {
       "id": "https://biznes.pap.pl/wiadomosci/firmy/grupa-modivo-chce-uruchomic-nowa-siec-price-pod-marka-shockprice",
       "url": "https://biznes.pap.pl/wiadomosci/firmy/grupa-modivo-chce-uruchomic-nowa-siec-price-pod-marka-shockprice",
       "title": "Grupa Modivo chce uruchomić nową sieć off-price, pod marką Shockprice",
       "content_html": "Grupa Modivo chce uruchomić nową sieć off-price, pod marką Shockprice, w mniejszych miastach – poinformował prezes Dariusz Miłek.",
       "date_published": "2026-05-20T14:58:00+02:00",
       "source": "PAP Biznes"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Murapol-w-26-chce-zwiekszyc-sprzedaz-o-10-proc-rdr-nie-spodziewa-sie-wzrostu-cen-lokali-9136343.html",
-      "url": "https://www.bankier.pl/wiadomosc/Murapol-w-26-chce-zwiekszyc-sprzedaz-o-10-proc-rdr-nie-spodziewa-sie-wzrostu-cen-lokali-9136343.html",
-      "title": "Murapol w '26 chce zwiększyć sprzedaż o 10 proc. rdr; nie spodziewa się wzrostu cen lokali",
-      "content_html": "Murapol w kwietniu sprzedał 235 mieszkań, a w całym 2026 r. chce zwiększyć sprzedaż o ok. 10 proc. rdr - poinformował zarząd podczas wideokonferencji. Zarząd nie spodziewa się wzrostu cen mieszkań na rynku, który nadal charakteryzuje się...",
-      "date_published": "2026-05-20T14:56:00+02:00",
-      "source": "Bankier.pl"
     },
     {
       "id": "https://biznes.pap.pl/wiadomosci/firmy/wybor-oferty-konsorcjum-unibepu-na-budowe-linii-kolejowej-na-odc-gdansk-gdynia",
@@ -1221,20 +1565,20 @@
       "source": "PAP Biznes"
     },
     {
-      "id": "https://biznes.pap.pl/wiadomosci/energia/pern-podwoil-moce-przeladunkowe-bazy-paliw-w-nowej-wsi-wielkiej-dzieki-nowej",
-      "url": "https://biznes.pap.pl/wiadomosci/energia/pern-podwoil-moce-przeladunkowe-bazy-paliw-w-nowej-wsi-wielkiej-dzieki-nowej",
-      "title": "PERN podwoił moce przeładunkowe bazy paliw w Nowej Wsi Wielkiej dzięki nowej inwestycji",
-      "content_html": "PERN oddał do eksploatacji masowy front kolejowy w Bazie Paliw w Nowej Wsi Wielkiej (woj. kujawsko-pomorskie) - podała spółka. Inwestycja umożliwia jednoczesny przeładunek do 36 wagonów-cystern i dwuk",
-      "date_published": "2026-05-20T14:50:00+02:00",
-      "source": "PAP Biznes"
+      "id": "https://www.bankier.pl/wiadomosc/DM-BDM-obnizyl-rekomendacje-BioMaxima-do-akumuluj-cene-docelowa-do-12-1-zl-9136396.html",
+      "url": "https://www.bankier.pl/wiadomosc/DM-BDM-obnizyl-rekomendacje-BioMaxima-do-akumuluj-cene-docelowa-do-12-1-zl-9136396.html",
+      "title": "DM BDM obniżył rekomendację BioMaxima do \"akumuluj\", cenę docelową do 12,1 zł Analitycy DM BDM, w raporcie z 20 maja, obniżyli rekomendację dla spółki BioMaxima do \"akumuluj\" z \"kupuj\", a cenę docelową akcji spółki do 12,1 zł z 17 zł poprzednio.",
+      "content_html": "",
+      "date_published": "2026-05-20T14:44:00+02:00",
+      "source": "Bankier.pl"
     },
     {
-      "id": "https://biznes.pap.pl/wiadomosci/firmy/dm-bdm-obnizyl-rekomendacje-biomaxima-do-akumuluj-cene-docelowa-do-121-zl",
-      "url": "https://biznes.pap.pl/wiadomosci/firmy/dm-bdm-obnizyl-rekomendacje-biomaxima-do-akumuluj-cene-docelowa-do-121-zl",
-      "title": "DM BDM obniżył rekomendację BioMaxima do \"akumuluj\", cenę docelową do 12,1 zł",
-      "content_html": "Analitycy DM BDM, w raporcie z 20 maja, obniżyli rekomendację dla spółki BioMaxima do \"akumuluj\" z \"kupuj\", a cenę docelową akcji spółki do 12,1 zł z 17 zł poprzednio.",
-      "date_published": "2026-05-20T14:43:00+02:00",
-      "source": "PAP Biznes"
+      "id": "https://www.bankier.pl/wiadomosc/Grupa-Modivo-ogranicza-rozwoj-sieci-Worldbox-w-tym-roku-9136394.html",
+      "url": "https://www.bankier.pl/wiadomosc/Grupa-Modivo-ogranicza-rozwoj-sieci-Worldbox-w-tym-roku-9136394.html",
+      "title": "Grupa Modivo ogranicza rozwój sieci Worldbox w tym roku Grupa Modivo ogranicza rozwój sieci Worldbox w tym roku o 70 proc. względem pierwotnych planów – wynika z prezentacji spółki.",
+      "content_html": "",
+      "date_published": "2026-05-20T14:42:00+02:00",
+      "source": "Bankier.pl"
     },
     {
       "id": "https://biznes.pap.pl/wiadomosci/firmy/grupa-modivo-ogranicza-rozwoj-sieci-worldbox-w-tym-roku",
@@ -1291,6 +1635,14 @@
       "content_html": "Wartość sprzedaży w aptekach w Polsce w kwietniu wzrosła o 8,7 proc. rdr do 5.459 mln zł - poinformowała w raporcie firma badawcza PEX PharmaSequence.",
       "date_published": "2026-05-20T14:04:00+02:00",
       "source": "PAP Biznes"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Murapol-w-26-chce-zwiekszyc-sprzedaz-o-10-proc-rdr-nie-spodziewa-sie-wzrostu-cen-lokali-9136343.html",
+      "url": "https://www.bankier.pl/wiadomosc/Murapol-w-26-chce-zwiekszyc-sprzedaz-o-10-proc-rdr-nie-spodziewa-sie-wzrostu-cen-lokali-9136343.html",
+      "title": "Murapol w '26 chce zwiększyć sprzedaż o 10 proc. rdr; nie spodziewa się wzrostu cen lokali Murapol w kwietniu sprzedał 235 mieszkań, a w całym 2026 r. chce zwiększyć sprzedaż o ok. 10 proc. rdr - poinformował zarząd podczas wideokonferencji. Zarząd nie spodziewa się wzrostu cen mieszkań na rynku, który nadal charakteryzuje się wysoką podażą.",
+      "content_html": "",
+      "date_published": "2026-05-20T13:56:00+02:00",
+      "source": "Bankier.pl"
     },
     {
       "id": "https://biznes.pap.pl/wiadomosci/finanse/wartosc-akcji-spolek-z-gpw-bedacych-w-posiadaniu-ofe-wzrosla-w-kwietniu-o-ok",
@@ -1410,366 +1762,6 @@
       "title": "ARP i grupa TFK mają listy intencyjne ws. współpracy z PGE Baltica i Orlen Neptun Agencja Rozwoju Przemysłu i grupa TFK podpisały listy intencyjne z PGE Baltica i Orlen Neptun ws. współpracy przy instalacji i serwisowaniu podmorskich kabli dla farm wiatrowych na Bałtyku z wykorzystaniem specjalnego statku - kablowca - poinformowała ARP w komunikacie.",
       "content_html": "",
       "date_published": "2026-05-20T12:46:00+02:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Dektra-chce-wyplacic-0-3-zl-dywidendy-na-akcje-9136270.html",
-      "url": "https://www.bankier.pl/wiadomosc/Dektra-chce-wyplacic-0-3-zl-dywidendy-na-akcje-9136270.html",
-      "title": "Dektra chce wypłacić 0,3 zł dywidendy na akcję Dektra planuje, że łączna kwota dywidendy za rok 2025 r. wyniesie 331,2 tys. zł, co stanowić będzie 0,3 zł dywidendy na akcję - poinformowała spółka w komunikacie.",
-      "content_html": "",
-      "date_published": "2026-05-20T12:32:00+02:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/firmy/dektra-chce-wyplacic-03-zl-dywidendy-na-akcje-0",
-      "url": "https://biznes.pap.pl/wiadomosci/firmy/dektra-chce-wyplacic-03-zl-dywidendy-na-akcje-0",
-      "title": "Dektra chce wypłacić 0,3 zł dywidendy na akcję",
-      "content_html": "Dektra planuje, że łączna kwota dywidendy za rok 2025 r. wyniesie 331,2 tys. zł, co stanowić będzie 0,3 zł dywidendy na akcję - poinformowała spółka w komunikacie.",
-      "date_published": "2026-05-20T12:30:00+02:00",
-      "source": "PAP Biznes"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/firmy/von-der-leyen-zapowiedziala-nowe-inicjatywy-legislacyjne-w-sprawie-polprzewodnikow",
-      "url": "https://biznes.pap.pl/wiadomosci/firmy/von-der-leyen-zapowiedziala-nowe-inicjatywy-legislacyjne-w-sprawie-polprzewodnikow",
-      "title": "Von der Leyen zapowiedziała nowe inicjatywy legislacyjne w sprawie półprzewodników i AI",
-      "content_html": "Szefowa Komisji Europejskiej Ursula von der Leyen zapowiedziała w środę w Strasburgu nowe inicjatywy legislacyjne UE dotyczące półprzewodników i sztucznej inteligencji, w tym „Chips Act 2.0\" oraz prze",
-      "date_published": "2026-05-20T12:25:00+02:00",
-      "source": "PAP Biznes"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Tauron-z-zysku-za-25-wyplaci-0-20-zl-dywidendy-na-akcje-9136258.html",
-      "url": "https://www.bankier.pl/wiadomosc/Tauron-z-zysku-za-25-wyplaci-0-20-zl-dywidendy-na-akcje-9136258.html",
-      "title": "Tauron z zysku za '25 wypłaci 0,20 zł dywidendy na akcję Zwyczajne walne zgromadzenie Tauronu zdecydowało o przeznaczeniu na dywidendę 350,5 mln zł na wypłatę dywidendy dla akcjonariuszy spółki, co daje 0,20 zł na jedną akcję - poinformowała spółka w komunikacie.",
-      "content_html": "",
-      "date_published": "2026-05-20T12:24:00+02:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/firmy/tauron-z-zysku-za-25-wyplaci-020-zl-dywidendy-na-akcje",
-      "url": "https://biznes.pap.pl/wiadomosci/firmy/tauron-z-zysku-za-25-wyplaci-020-zl-dywidendy-na-akcje",
-      "title": "Tauron z zysku za '25 wypłaci 0,20 zł dywidendy na akcję",
-      "content_html": "Zwyczajne walne zgromadzenie Tauronu zdecydowało o przeznaczeniu na dywidendę 350,5 mln zł na wypłatę dywidendy dla akcjonariuszy spółki, co daje 0,20 zł na jedną akcję - poinformowała spółka w komuni",
-      "date_published": "2026-05-20T12:23:00+02:00",
-      "source": "PAP Biznes"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/DM-BDM-obnizyl-rekomendacje-Synthaverse-do-redukuj-9136242.html",
-      "url": "https://www.bankier.pl/wiadomosc/DM-BDM-obnizyl-rekomendacje-Synthaverse-do-redukuj-9136242.html",
-      "title": "DM BDM obniżył rekomendację Synthaverse do \"redukuj\" Analitycy DM BDM, w raporcie z 20 maja, obniżyli rekomendację Synthaverse do \"redukuj\" z \"kupuj\", a cenę docelową akcji spółki do 2,6 zł z 5 zł poprzednio.",
-      "content_html": "",
-      "date_published": "2026-05-20T12:16:00+02:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/firmy/dm-bdm-obnizyl-rekomendacje-synthaverse-do-redukuj",
-      "url": "https://biznes.pap.pl/wiadomosci/firmy/dm-bdm-obnizyl-rekomendacje-synthaverse-do-redukuj",
-      "title": "DM BDM obniżył rekomendację Synthaverse do \"redukuj\"",
-      "content_html": "Analitycy DM BDM, w raporcie z 20 maja, obniżyli rekomendację Synthaverse do \"redukuj\" z \"kupuj\", a cenę docelową akcji spółki do 2,6 zł z 5 zł poprzednio.",
-      "date_published": "2026-05-20T12:14:00+02:00",
-      "source": "PAP Biznes"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/firmy/cena-maksymalna-na-21-v-dla-benzyny-pb95-wynosi-650-zll-dla-697-zll",
-      "url": "https://biznes.pap.pl/wiadomosci/firmy/cena-maksymalna-na-21-v-dla-benzyny-pb95-wynosi-650-zll-dla-697-zll",
-      "title": "Cena maksymalna na 21 V dla benzyny Pb95 wynosi 6,50 zł/l, a dla ON 6,97 zł/l",
-      "content_html": "Maksymalna cena dla benzyny Pb95 wynosi 6,50 zł/l, dla benzyny Pb98 7,06 zł/l, a dla oleju napędowego 6,97 zł/l - wynika z obwieszczenia ministra energii opublikowanego w Monitorze Polskim. Ceny te bę",
-      "date_published": "2026-05-20T12:13:00+02:00",
-      "source": "PAP Biznes"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Instal-Krakow-chce-wyplacic-1-5-zl-dywidendy-na-akcje-za-2025-r-9136230.html",
-      "url": "https://www.bankier.pl/wiadomosc/Instal-Krakow-chce-wyplacic-1-5-zl-dywidendy-na-akcje-za-2025-r-9136230.html",
-      "title": "Instal Kraków chce wypłacić 1,5 zł dywidendy na akcję za 2025 r. Instal Kraków rekomenduje walnemu zgromadzeniu wypłatę 10,9 mln zł z zysku za 2025 na dywidendę, co daje 1,5 zł na akcję - podała spółka w komunikacie.",
-      "content_html": "",
-      "date_published": "2026-05-20T12:08:00+02:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/firmy/instal-krakow-chce-wyplacic-15-zl-dywidendy-na-akcje-za-2025-r",
-      "url": "https://biznes.pap.pl/wiadomosci/firmy/instal-krakow-chce-wyplacic-15-zl-dywidendy-na-akcje-za-2025-r",
-      "title": "Instal Kraków chce wypłacić 1,5 zł dywidendy na akcję za 2025 r.",
-      "content_html": "Instal Kraków rekomenduje walnemu zgromadzeniu wypłatę 10,9 mln zł z zysku za 2025 na dywidendę, co daje 1,5 zł na akcję - podała spółka w komunikacie.",
-      "date_published": "2026-05-20T12:06:00+02:00",
-      "source": "PAP Biznes"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/ARP-i-Grupa-TFK-podpisaly-listy-intencyjne-ws-wykorzystania-polskiego-kablowca-przy-polskim-offshorze-9136226.html",
-      "url": "https://www.bankier.pl/wiadomosc/ARP-i-Grupa-TFK-podpisaly-listy-intencyjne-ws-wykorzystania-polskiego-kablowca-przy-polskim-offshorze-9136226.html",
-      "title": "ARP i Grupa TFK podpisały listy intencyjne ws. wykorzystania polskiego kablowca przy polskim offshorze ARP i Grupa TFK podpisały listy intencyjne dotyczące wykorzystania polskiego statku kablowca do instalacji i serwisowania polskich farm wiatrowych powstających na Morzu Bałtyckim - poinformowała ARP. Kablowiec ma być gotowy w 2029 r., gdy rozpocznie się II faza budowy polskich farm wiatrowych na Bałtyku.",
-      "content_html": "",
-      "date_published": "2026-05-20T12:04:00+02:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/firmy/arp-i-grupa-tfk-podpisaly-listy-intencyjne-ws-wykorzystania-polskiego-kablowca",
-      "url": "https://biznes.pap.pl/wiadomosci/firmy/arp-i-grupa-tfk-podpisaly-listy-intencyjne-ws-wykorzystania-polskiego-kablowca",
-      "title": "ARP i Grupa TFK podpisały listy intencyjne ws. wykorzystania polskiego kablowca przy polskim offshorze",
-      "content_html": "ARP i Grupa TFK podpisały listy intencyjne dotyczące wykorzystania polskiego statku kablowca do instalacji i serwisowania polskich farm wiatrowych powstających na Morzu Bałtyckim - poinformowała ARP. ",
-      "date_published": "2026-05-20T12:03:00+02:00",
-      "source": "PAP Biznes"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Dom-Development-zdecydowal-o-wejsciu-na-rynek-poznanski-9136216.html",
-      "url": "https://www.bankier.pl/wiadomosc/Dom-Development-zdecydowal-o-wejsciu-na-rynek-poznanski-9136216.html",
-      "title": "Dom Development zdecydował o wejściu na rynek poznański Dom Development zdecydował w sprawie utworzenia w Poznaniu nowej spółki, która będzie prowadziła działalność deweloperską na tamtym rynku w segmencie mieszkaniowym - poinformowała spółka w komunikacie. (PAP Biznes)",
-      "content_html": "",
-      "date_published": "2026-05-20T11:48:00+02:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/firmy/dom-development-zdecydowal-o-wejsciu-na-rynek-poznanski",
-      "url": "https://biznes.pap.pl/wiadomosci/firmy/dom-development-zdecydowal-o-wejsciu-na-rynek-poznanski",
-      "title": "Dom Development zdecydował o wejściu na rynek poznański",
-      "content_html": "Dom Development zdecydował w sprawie utworzenia w Poznaniu nowej spółki, która będzie prowadziła działalność deweloperską na tamtym rynku w segmencie mieszkaniowym - poinformowała spółka w komunikacie",
-      "date_published": "2026-05-20T11:45:00+02:00",
-      "source": "PAP Biznes"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Apator-oczekuje-utrzymania-trendu-wzrostu-sprzedazy-w-26-to-moze-byc-rekordowy-rok-dla-segmentu-gazu-9136213.html",
-      "url": "https://www.bankier.pl/wiadomosc/Apator-oczekuje-utrzymania-trendu-wzrostu-sprzedazy-w-26-to-moze-byc-rekordowy-rok-dla-segmentu-gazu-9136213.html",
-      "title": "Apator oczekuje utrzymania trendu wzrostu sprzedaży w '26. To może być rekordowy rok dla segmentu gazu Apator oczekuje utrzymania trendu wzrostu sprzedaży w 2026 r. i widzi szanse na rekordowy rok dla segmentu gazu. Celuje także w poprawę marży EBITDA - poinformowali przedstawiciele zarządu Apatora podczas wideokonferencji. Zarząd nie widzi obecnie przestrzeni do podwyższenia poziomu wypłat w polityce dywidendowej.",
-      "content_html": "",
-      "date_published": "2026-05-20T11:44:00+02:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/firmy/apator-oczekuje-utrzymania-trendu-wzrostu-sprzedazy-w-26-moze-byc-rekordowy-rok",
-      "url": "https://biznes.pap.pl/wiadomosci/firmy/apator-oczekuje-utrzymania-trendu-wzrostu-sprzedazy-w-26-moze-byc-rekordowy-rok",
-      "title": "Apator oczekuje utrzymania trendu wzrostu sprzedaży w '26; to może być rekordowy rok dla segmentu gazu",
-      "content_html": "Apator oczekuje utrzymania trendu wzrostu sprzedaży w 2026 r. i widzi szanse na rekordowy rok dla segmentu gazu. Celuje także w poprawę marży EBITDA - poinformowali przedstawiciele zarządu Apatora pod",
-      "date_published": "2026-05-20T11:42:00+02:00",
-      "source": "PAP Biznes"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Inflacja-w-Unii-Europejskiej-w-kwietniu-2026-Juz-w-zadnym-kraju-eurolandu-nie-ma-2-9136184.html",
-      "url": "https://www.bankier.pl/wiadomosc/Inflacja-w-Unii-Europejskiej-w-kwietniu-2026-Juz-w-zadnym-kraju-eurolandu-nie-ma-2-9136184.html",
-      "title": "Inflacja w Unii Europejskiej przekroczyła 3 proc. Już w żadnym kraju eurolandu nie ma 2 proc. Bezapelacyjnym inflacyjnym liderem Europy pozostaje Rumunia, ale dzielnie goni ją Bułgaria. Ale dobrze nie jest już w zdecydowanej większości krajów Unii.",
-      "content_html": "",
-      "date_published": "2026-05-20T11:40:00+02:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/nieruchomosci/srednia-cena-ofertowa-mieszkan-deweloperskich-w-warszawie-przekroczyla-20",
-      "url": "https://biznes.pap.pl/wiadomosci/nieruchomosci/srednia-cena-ofertowa-mieszkan-deweloperskich-w-warszawie-przekroczyla-20",
-      "title": "Średnia cena ofertowa mieszkań deweloperskich w Warszawie przekroczyła 20 tys. zł m kw. - Otodom",
-      "content_html": "W połowie maja 2026 roku średnia cena ofertowa mieszkań deweloperskich w Warszawie po raz pierwszy w historii przekroczyła poziom 20 tys. zł m kw, co było efektem wprowadzenia do sprzedaży nowych, dro",
-      "date_published": "2026-05-20T11:05:00+02:00",
-      "source": "PAP Biznes"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/gospodarka/inflacja-wedlug-hicp-w-polsce-w-kwietniu-wyniosla-34-proc-rdr-eurostat",
-      "url": "https://biznes.pap.pl/wiadomosci/gospodarka/inflacja-wedlug-hicp-w-polsce-w-kwietniu-wyniosla-34-proc-rdr-eurostat",
-      "title": "Inflacja według HICP w Polsce w kwietniu wyniosła 3,4 proc. rdr - Eurostat",
-      "content_html": "Inflacja liczona według HICP w Polsce w kwietniu w ujęciu rocznym wyniosła 3,4 proc., wobec 3,2 proc. w marcu - podał Eurostat. Miesięcznie ceny wzrosły o 0,6 proc.",
-      "date_published": "2026-05-20T11:01:00+02:00",
-      "source": "PAP Biznes"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Podatek-winfall-tax-moze-kosztowac-Orlen-6-mld-zl-a-Unimot-60-200-mln-zl-Trigon-opinia-9136180.html",
-      "url": "https://www.bankier.pl/wiadomosc/Podatek-winfall-tax-moze-kosztowac-Orlen-6-mld-zl-a-Unimot-60-200-mln-zl-Trigon-opinia-9136180.html",
-      "title": "OPINIA Rząd szykuje potężny windfall tax. Orlen zapłaci nawet 6 miliardów złotych Przedstawiony projekt ustawy o podatku od nadzwyczajnych zysków może oznaczać dla Orlenu 6 mld zł dodatkowego podatku, a dla Unimotu może on sięgnąć 60-200 mln zł - wynika z szacunków Michała Kozaka, analityka Trigon DM.",
-      "content_html": "",
-      "date_published": "2026-05-20T10:55:00+02:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Pekao-wprowadzil-program-lojalnosciowy-dla-swoich-akcjonariuszy-indywidualnych-9136183.html",
-      "url": "https://www.bankier.pl/wiadomosc/Pekao-wprowadzil-program-lojalnosciowy-dla-swoich-akcjonariuszy-indywidualnych-9136183.html",
-      "title": "Pekao wprowadził program lojalnościowy dla swoich akcjonariuszy indywidualnych Bank Pekao wprowadził program o charakterze lojalnościowym dla swoich akcjonariuszy indywidualnych - poinformowała spółka w komunikacie.",
-      "content_html": "",
-      "date_published": "2026-05-20T10:52:00+02:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/firmy/pekao-wprowadzil-program-lojalnosciowy-dla-swoich-akcjonariuszy-indywidualnych",
-      "url": "https://biznes.pap.pl/wiadomosci/firmy/pekao-wprowadzil-program-lojalnosciowy-dla-swoich-akcjonariuszy-indywidualnych",
-      "title": "Pekao wprowadził program lojalnościowy dla swoich akcjonariuszy indywidualnych",
-      "content_html": "Bank Pekao wprowadził program o charakterze lojalnościowym dla swoich akcjonariuszy indywidualnych - poinformowała spółka w komunikacie.",
-      "date_published": "2026-05-20T10:50:00+02:00",
-      "source": "PAP Biznes"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Inwestorzy-nie-ufaja-wladzy-Rynek-dlugu-zada-coraz-wyzszej-rentownosci-obligacji-9135641.html",
-      "url": "https://www.bankier.pl/wiadomosc/Inwestorzy-nie-ufaja-wladzy-Rynek-dlugu-zada-coraz-wyzszej-rentownosci-obligacji-9135641.html",
-      "title": "Inwestorzy nie ufają władzy. Rynek długu żąda coraz wyższej rentowności obligacji Rentowności długoterminowych obligacji Stanów Zjednoczonych, Niemiec czy Japonii osiągnęły najwyższe poziomu od kilkudziesięciu lat.",
-      "content_html": "",
-      "date_published": "2026-05-20T10:49:00+02:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/firmy/podatek-windfall-tax-moze-kosztowac-orlen-6-mld-zl-unimot-60-200-mln-zl-trigon",
-      "url": "https://biznes.pap.pl/wiadomosci/firmy/podatek-windfall-tax-moze-kosztowac-orlen-6-mld-zl-unimot-60-200-mln-zl-trigon",
-      "title": "Podatek windfall tax może kosztować Orlen 6 mld zł, a Unimot 60-200 mln zł - Trigon (opinia)",
-      "content_html": "Przedstawiony projekt ustawy o podatku od nadzwyczajnych zysków może oznaczać dla Orlenu 6 mld zł dodatkowego podatku, a dla Unimotu może on sięgnąć 60-200 mln zł - wynika z szacunków Michała Kozaka, ",
-      "date_published": "2026-05-20T10:46:00+02:00",
-      "source": "PAP Biznes"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/RN-Polimeksu-Mostostal-odwolala-z-zarzadu-Miroslawa-Soltysiaka-9136167.html",
-      "url": "https://www.bankier.pl/wiadomosc/RN-Polimeksu-Mostostal-odwolala-z-zarzadu-Miroslawa-Soltysiaka-9136167.html",
-      "title": "RN Polimeksu Mostostal odwołała z zarządu Mirosława Sołtysiaka Rada nadzorcza Polimeksu Mostostal odwołała ze składu zarządu Mirosława Sołtysiaka - poinformowała spółka w komunikacie.",
-      "content_html": "",
-      "date_published": "2026-05-20T10:30:00+02:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/firmy/rn-polimeksu-mostostal-odwolala-z-zarzadu-miroslawa-soltysiaka",
-      "url": "https://biznes.pap.pl/wiadomosci/firmy/rn-polimeksu-mostostal-odwolala-z-zarzadu-miroslawa-soltysiaka",
-      "title": "RN Polimeksu Mostostal odwołała z zarządu Mirosława Sołtysiaka",
-      "content_html": "Rada nadzorcza Polimeksu Mostostal odwołała ze składu zarządu Mirosława Sołtysiaka - poinformowała spółka w komunikacie.",
-      "date_published": "2026-05-20T10:29:00+02:00",
-      "source": "PAP Biznes"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/EFL-przeprowadzil-emisje-obligacji-o-wartosci-250-mln-zl-9136154.html",
-      "url": "https://www.bankier.pl/wiadomosc/EFL-przeprowadzil-emisje-obligacji-o-wartosci-250-mln-zl-9136154.html",
-      "title": "EFL przeprowadził emisję obligacji o wartości 250 mln zł Europejski Fundusz Leasingowy przeprowadził emisję obligacji o wartości 250 mln zł skierowaną do polskich inwestorów instytucjonalnych - poinformowała spółka w komunikacie.",
-      "content_html": "",
-      "date_published": "2026-05-20T10:10:00+02:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/firmy/efl-przeprowadzil-emisje-obligacji-o-wartosci-250-mln-zl",
-      "url": "https://biznes.pap.pl/wiadomosci/firmy/efl-przeprowadzil-emisje-obligacji-o-wartosci-250-mln-zl",
-      "title": "EFL przeprowadził emisję obligacji o wartości 250 mln zł",
-      "content_html": "Europejski Fundusz Leasingowy przeprowadził emisję obligacji o wartości 250 mln zł skierowaną do polskich inwestorów instytucjonalnych - poinformowała spółka w komunikacie.",
-      "date_published": "2026-05-20T10:09:00+02:00",
-      "source": "PAP Biznes"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/gospodarka/w-maju-przesuniecie-oczekiwan-inflacyjnych-konsumentow-w-kierunku-nizszej-0",
-      "url": "https://biznes.pap.pl/wiadomosci/gospodarka/w-maju-przesuniecie-oczekiwan-inflacyjnych-konsumentow-w-kierunku-nizszej-0",
-      "title": "W maju przesunięcie oczekiwań inflacyjnych konsumentów w kierunku niższej inflacji - GUS (opis)",
-      "content_html": "Najnowsze, majowe badania Głównego Urzędu Statystycznego wskazują na przesunięcie oczekiwań w Polsce w kierunku niższej inflacji - wynika z danych GUS.",
-      "date_published": "2026-05-20T09:57:00+02:00",
-      "source": "PAP Biznes"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Pasywnie-czy-aktywnie-Rozne-mozliwosci-inwestycyjne-9136091.html",
-      "url": "https://www.bankier.pl/wiadomosc/Pasywnie-czy-aktywnie-Rozne-mozliwosci-inwestycyjne-9136091.html",
-      "title": "Bardzo trudno być pasywnym inwestorem. Jak nieświadomie stać się spekulantem? Współczesny inwestor indywidualny stając przed dylematem w co zainwestować swoje środki ma do wyboru wachlarz możliwości. To cel determinuje strategię (nie na odwrót), a w ramach wybranej strategii można skorzystać z wielu narzędzi, które oferuje rynek finansowy. Cel, jak np. zebranie kapitału na emeryturę albo sfinansowanie studiów dorastających dzieci, może zostać wypracowany za pomocą diametralnie różnych instrumentów, a ich wybór jest procesem, w którym uwzględnić należy horyzont inwestycyjny, proporcje potencjalnego zysku do podejmowanego ryzyka oraz koszty.",
-      "content_html": "",
-      "date_published": "2026-05-20T09:51:00+02:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Grupa-Azoty-pozytywnie-ocenia-europejski-plan-dla-branzy-nawozowej-prezes-9136119.html",
-      "url": "https://www.bankier.pl/wiadomosc/Grupa-Azoty-pozytywnie-ocenia-europejski-plan-dla-branzy-nawozowej-prezes-9136119.html",
-      "title": "Grupa Azoty chwali unijny plan dla branży nawozowej. \"Ważny i długo oczekiwany sygnał\" Przyjęty przez Komisję Europejską plan działań dla branży nawozowej spełnia wiele jej postulatów, szczególnie istotne jest dostrzeżenie problemu rosnącej luki konkurencyjnej pomiędzy Europą a innymi regionami świata - ocenił prezes Grupy Azoty Marcin Celejewski. Jak dodał, o skuteczności Fertiliser Action Plan zdecydują konkretne rozwiązania legislacyjne i finansowe.",
-      "content_html": "",
-      "date_published": "2026-05-20T09:48:00+02:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Trans-Polonia-ma-umowe-o-wartosci-ok-250-mln-zl-na-przewoz-produktow-niebezpiecznych-9136135.html",
-      "url": "https://www.bankier.pl/wiadomosc/Trans-Polonia-ma-umowe-o-wartosci-ok-250-mln-zl-na-przewoz-produktow-niebezpiecznych-9136135.html",
-      "title": "Trans Polonia ma umowę o wartości ok. 250 mln zł na przewóz produktów niebezpiecznych Trans Polonia podpisała z Orlen Paliwa umowę o wartości ok. 250 mln zł na przewóz produktów niebezpiecznych - poinformowała spółka w komunikacie.",
-      "content_html": "",
-      "date_published": "2026-05-20T09:48:00+02:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/firmy/trans-polonia-ma-umowe-o-wartosci-ok-250-mln-zl-na-przewoz-produktow",
-      "url": "https://biznes.pap.pl/wiadomosci/firmy/trans-polonia-ma-umowe-o-wartosci-ok-250-mln-zl-na-przewoz-produktow",
-      "title": "Trans Polonia ma umowę o wartości ok. 250 mln zł na przewóz produktów niebezpiecznych",
-      "content_html": "Trans Polonia podpisała z Orlen Paliwa umowę o wartości ok. 250 mln zł na przewóz produktów niebezpiecznych - poinformowała spółka w komunikacie.",
-      "date_published": "2026-05-20T09:46:00+02:00",
-      "source": "PAP Biznes"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/rynki/dzien-na-rynkach-w-europie-na-gieldach-indeksy-ponizej-kreski-3",
-      "url": "https://biznes.pap.pl/wiadomosci/rynki/dzien-na-rynkach-w-europie-na-gieldach-indeksy-ponizej-kreski-3",
-      "title": "DZIEŃ NA RYNKACH: W Europie na giełdach indeksy poniżej kreski",
-      "content_html": "Na europejskich giełdach najważniejsze indeksy są w środę poniżej kreski. Inwestorzy oceniają najnowsze doniesienia dotyczące wojny bliskowschodniej i wpływ wysokich cen energii na inflację. Na rynku ",
-      "date_published": "2026-05-20T09:43:00+02:00",
-      "source": "PAP Biznes"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/ML-System-szacuje-skons-zysk-EBITDA-w-I-kw-na-0-4-mln-zl-9136099.html",
-      "url": "https://www.bankier.pl/wiadomosc/ML-System-szacuje-skons-zysk-EBITDA-w-I-kw-na-0-4-mln-zl-9136099.html",
-      "title": "ML System szacuje skons. zysk EBITDA w I kw. na 0,4 mln zł ML System szacuje skonsolidowany zysk EBITDA w pierwszym kwartale 2026 roku na 0,4 mln zł, a skonsolidowaną stratę netto na 6 mln zł - podała spółka w komunikacie. W analogicznym okresie poprzedniego roku spółka odnotowała skonsolidowaną stratę EBITDA na poziomie 8 mln zł i stratę netto w wysokości 17,4 mln zł.",
-      "content_html": "",
-      "date_published": "2026-05-20T09:41:00+02:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/konsument/w-maju-poprawa-nastrojow-konsumenckich-dotyczacych-obecnej-i-przyszlej",
-      "url": "https://biznes.pap.pl/wiadomosci/konsument/w-maju-poprawa-nastrojow-konsumenckich-dotyczacych-obecnej-i-przyszlej",
-      "title": "W maju poprawa nastrojów konsumenckich dotyczących obecnej i przyszłej sytuacji - GUS",
-      "content_html": "W maju odnotowano poprawę nastrojów konsumenckich, dotyczących zarówno obecnej, jak i przyszłej sytuacji - podał Główny Urząd Statystyczny.",
-      "date_published": "2026-05-20T09:39:00+02:00",
-      "source": "PAP Biznes"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/gospodarka/w-maju-przesuniecie-oczekiwan-inflacyjnych-konsumentow-w-kierunku-nizszej",
-      "url": "https://biznes.pap.pl/wiadomosci/gospodarka/w-maju-przesuniecie-oczekiwan-inflacyjnych-konsumentow-w-kierunku-nizszej",
-      "title": "W maju przesunięcie oczekiwań inflacyjnych konsumentów w kierunku niższej inflacji - GUS",
-      "content_html": "Najnowsze, majowe badania Głównego Urzędu Statystycznego wskazują na przesunięcie oczekiwań w Polsce w kierunku niższej inflacji - wynika z danych GUS.",
-      "date_published": "2026-05-20T09:34:00+02:00",
-      "source": "PAP Biznes"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Oferta-Mirbudu-o-wartosci-683-5-mln-zl-na-rozbudowe-obwodnicy-Kalisza-najkorzystniejsza-9136118.html",
-      "url": "https://www.bankier.pl/wiadomosc/Oferta-Mirbudu-o-wartosci-683-5-mln-zl-na-rozbudowe-obwodnicy-Kalisza-najkorzystniejsza-9136118.html",
-      "title": "Oferta Mirbudu o wartości 683,5 mln zł na rozbudowę obwodnicy Kalisza najkorzystniejsza Oferta Mirbudu o wartości 683,5 mln zł brutto na zaprojektowanie i rozbudowę obwodnicy Kalisza została wybrana jako najkorzystniejsza - poinformowała spółka w komunikacie.",
-      "content_html": "",
-      "date_published": "2026-05-20T09:28:00+02:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/firmy/oferta-mirbudu-o-wartosci-6835-mln-zl-na-rozbudowe-obwodnicy-kalisza",
-      "url": "https://biznes.pap.pl/wiadomosci/firmy/oferta-mirbudu-o-wartosci-6835-mln-zl-na-rozbudowe-obwodnicy-kalisza",
-      "title": "Oferta Mirbudu o wartości 683,5 mln zł na rozbudowę obwodnicy Kalisza najkorzystniejsza",
-      "content_html": "Oferta Mirbudu o wartości 683,5 mln zł brutto na zaprojektowanie i rozbudowę obwodnicy Kalisza została wybrana jako najkorzystniejsza - poinformowała spółka w komunikacie.",
-      "date_published": "2026-05-20T09:27:00+02:00",
-      "source": "PAP Biznes"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/firmy/grupa-azoty-pozytywnie-ocenia-europejski-plan-dla-branzy-nawozowej-prezes",
-      "url": "https://biznes.pap.pl/wiadomosci/firmy/grupa-azoty-pozytywnie-ocenia-europejski-plan-dla-branzy-nawozowej-prezes",
-      "title": "Grupa Azoty pozytywnie ocenia europejski plan dla branży nawozowej - prezes",
-      "content_html": "Przyjęty przez Komisję Europejską plan działań dla branży nawozowej spełnia wiele jej postulatów, szczególnie istotne jest dostrzeżenie problemu rosnącej luki konkurencyjnej pomiędzy Europą a innymi r",
-      "date_published": "2026-05-20T09:25:00+02:00",
-      "source": "PAP Biznes"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/przemysl/ml-system-szacuje-skons-zysk-ebitda-w-i-kw-na-04-mln-zl-opis",
-      "url": "https://biznes.pap.pl/wiadomosci/przemysl/ml-system-szacuje-skons-zysk-ebitda-w-i-kw-na-04-mln-zl-opis",
-      "title": "ML System szacuje skons. zysk EBITDA w I kw. na 0,4 mln zł (opis)",
-      "content_html": "ML System szacuje skonsolidowany zysk EBITDA w pierwszym kwartale 2026 roku na 0,4 mln zł, a skonsolidowaną stratę netto na 6 mln zł - podała spółka w komunikacie. W analogicznym okresie poprzedniego ",
-      "date_published": "2026-05-20T09:21:00+02:00",
-      "source": "PAP Biznes"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/rynki/ceny-gazu-w-europie-raz-rosna-raz-spadaja-ale-sa-blisko-6-tygodniowego-maksimum",
-      "url": "https://biznes.pap.pl/wiadomosci/rynki/ceny-gazu-w-europie-raz-rosna-raz-spadaja-ale-sa-blisko-6-tygodniowego-maksimum",
-      "title": "Ceny gazu w Europie raz rosną, raz spadają, ale są blisko 6-tygodniowego maksimum",
-      "content_html": "Ceny gazu w Europie w środę raz rosną, a raz spadają, ale są blisko 6-tygodniowego maksimum - informują maklerzy.",
-      "date_published": "2026-05-20T09:18:00+02:00",
-      "source": "PAP Biznes"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/gospodarka/dzien-na-fxfi-zloty-w-srode-powinien-pozostac-stabilny-sytuacja-na-rynku",
-      "url": "https://biznes.pap.pl/wiadomosci/gospodarka/dzien-na-fxfi-zloty-w-srode-powinien-pozostac-stabilny-sytuacja-na-rynku",
-      "title": "DZIEŃ NA FX/FI: Złoty w środę powinien pozostać stabilny, sytuacja na rynku długu jest bardzo napięta",
-      "content_html": "Złoty w środę powinien pozostać stabilny, sytuacja na rynku długu jest bardzo napięta - uważają analitycy.",
-      "date_published": "2026-05-20T09:12:00+02:00",
-      "source": "PAP Biznes"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/przemysl/ml-system-szacuje-skons-zysk-ebitda-w-i-kw-na-04-mln-zl",
-      "url": "https://biznes.pap.pl/wiadomosci/przemysl/ml-system-szacuje-skons-zysk-ebitda-w-i-kw-na-04-mln-zl",
-      "title": "ML System szacuje skons. zysk EBITDA w I kw. na 0,4 mln zł",
-      "content_html": "ML System szacuje skonsolidowany zysk EBITDA w pierwszym kwartale 2026 roku na 0,4 mln zł, a skonsolidowaną stratę netto na 6 mln zł - podała spółka w komunikacie. W analogicznym okresie poprzedniego ",
-      "date_published": "2026-05-20T09:09:00+02:00",
-      "source": "PAP Biznes"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Bogdanka-miala-w-I-kw-2026-roku-22-1-mln-zl-skons-straty-netto-zgodnie-z-szacunkami-9136043.html",
-      "url": "https://www.bankier.pl/wiadomosc/Bogdanka-miala-w-I-kw-2026-roku-22-1-mln-zl-skons-straty-netto-zgodnie-z-szacunkami-9136043.html",
-      "title": "Ponad 22 miliony złotych na minusie. Bogdanka odczuła kryzys na rynku węgla Bogdanka miała w I kwartale 2026 roku 22,1 mln zł skonsolidowanej straty netto i 702,6 mln zł przychodów - wynika z raportu kwartalnego. Wyniki są zgodne z szacunkami.",
-      "content_html": "",
-      "date_published": "2026-05-20T08:58:00+02:00",
       "source": "Bankier.pl"
     }
   ]
