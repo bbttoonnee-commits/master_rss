@@ -5,11 +5,83 @@
   "home_page_url": "https://www.bankier.pl",
   "items": [
     {
+      "id": "https://biznes.pap.pl/wiadomosci/ekonomia-biznes-i-finanse/skrot-wiadomosci-wtorek-26-maja-2100",
+      "url": "https://biznes.pap.pl/wiadomosci/ekonomia-biznes-i-finanse/skrot-wiadomosci-wtorek-26-maja-2100",
+      "title": "Skrót wiadomości - wtorek, 26 maja, 21.00",
+      "content_html": "Przegląd najważniejszych wiadomości gospodarczych, krajowych i ze świata.",
+      "date_published": "2026-05-26T21:00:00+02:00",
+      "source": "PAP Biznes"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Wszystko-wyszlo-IDEALNIE-Trump-ucina-plotki-o-stanie-zdrowia-9139916.html",
+      "url": "https://www.bankier.pl/wiadomosc/Wszystko-wyszlo-IDEALNIE-Trump-ucina-plotki-o-stanie-zdrowia-9139916.html",
+      "title": "„Wszystko wyszło IDEALNIE”. Trump ucina plotki o stanie zdrowia",
+      "content_html": "Niemal 80-letni prezydent USA Donald Trump zapewnił we wtorek po badaniach okresowych, które przeszedł w szpitalu pod Waszyngtonem, że „wszystko wyszło idealnie”. Nie ujawnił szczegółów dotyczących wyników badań.",
+      "date_published": "2026-05-26T20:55:00+02:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Islandia-nagle-chce-do-Unii-Europejskiej-Referendum-dzieki-grozbom-Trumpa-9139914.html",
+      "url": "https://www.bankier.pl/wiadomosc/Islandia-nagle-chce-do-Unii-Europejskiej-Referendum-dzieki-grozbom-Trumpa-9139914.html",
+      "title": "Islandia nagle chce do Unii Europejskiej. Referendum dzięki groźbom Trumpa",
+      "content_html": "„New York Times” zauważył we wtorek, że Islandia nie spieszyła się dawnej do Unii Europejskiej, ale groźby prezydenta Donalda Trumpa pod adresem Grenlandii zmieniły jej nastawienie. Wyspa nie ma armii i liczyła na gwarancje USA w kwestii bezpieczeństwa...",
+      "date_published": "2026-05-26T20:51:00+02:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Przemyslaw-Baszak-zrezygnowal-z-zasiadania-w-radzie-nadzorczej-Orlenu-9139918.html",
+      "url": "https://www.bankier.pl/wiadomosc/Przemyslaw-Baszak-zrezygnowal-z-zasiadania-w-radzie-nadzorczej-Orlenu-9139918.html",
+      "title": "Przemysław Baszak zrezygnował z zasiadania w radzie nadzorczej Orlenu",
+      "content_html": "Przemysław Baszak zrezygnował we wtorek z pełnienia funkcji członka rady nadzorczej Orlenu z upływem dnia 28 maja - poinformowała spółka. Nie podano powodów rezygnacji. Baszak został powołany do rady nadzorczej Orlenu w listopadzie 2025 r...",
+      "date_published": "2026-05-26T20:40:00+02:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Gala-MMA-u-prezydenta-USA-Ruszyly-przygotowania-na-80-urodziny-Donalda-Trumpa-9139855.html",
+      "url": "https://www.bankier.pl/wiadomosc/Gala-MMA-u-prezydenta-USA-Ruszyly-przygotowania-na-80-urodziny-Donalda-Trumpa-9139855.html",
+      "title": "Gala MMA na trawniku Białego Domu. Zbliżają się obchody 80. urodzin Trumpa",
+      "content_html": "Na terenie Białego Domu ruszyły przygotowania do gali mieszanych sztuk walki (MMA) federacji UFC, która odbędzie się 14 czerwca, w Dniu Flagi USA i w 80. urodziny prezydenta USA Donalda Trumpa - poinformowała stacja Fox Sports. Budowana arena ma...",
+      "date_published": "2026-05-26T20:20:00+02:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/USA-nie-daly-wizy-rosyjskiemu-wiceministrowi-z-MSZ-Ostry-protest-Moskwy-a-policzek-dla-Chin-9139888.html",
+      "url": "https://www.bankier.pl/wiadomosc/USA-nie-daly-wizy-rosyjskiemu-wiceministrowi-z-MSZ-Ostry-protest-Moskwy-a-policzek-dla-Chin-9139888.html",
+      "title": "USA nie dały wizy rosyjskiemu wiceministrowi z MSZ. Ostry protest Moskwy, a policzek dla Chin",
+      "content_html": "Ambasador Rosji przy ONZ Wasilij Niebienzia powiedział we wtorek, że USA nie wydały wizy wiceszefowi rosyjskiego MSZ Aleksandrowi Alimowowi, który miał wziąć udział w spotkaniu Rady Bezpieczeństwa ONZ. Uznał to za naruszenie zobowiązań USA...",
+      "date_published": "2026-05-26T20:18:00+02:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Digital-Network-chce-wyplacic-4-46-zl-dywidendy-na-akcje-9139900.html",
+      "url": "https://www.bankier.pl/wiadomosc/Digital-Network-chce-wyplacic-4-46-zl-dywidendy-na-akcje-9139900.html",
+      "title": "Digital Network chce wypłacić 4,46 zł dywidendy na akcję",
+      "content_html": "Zarząd Digital Network rekomenduje, by spółka za 2025 rok wypłaciła 4,46 zł dywidendy na akcję - podała spółka w komunikacie.",
+      "date_published": "2026-05-26T20:14:00+02:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Kryzys-polityczny-w-Turcji-Policja-uzyla-armatek-wodnych-przeciwko-opozycji-9139834.html",
+      "url": "https://www.bankier.pl/wiadomosc/Kryzys-polityczny-w-Turcji-Policja-uzyla-armatek-wodnych-przeciwko-opozycji-9139834.html",
+      "title": "Kryzys polityczny w Turcji. Policja użyła armatek wodnych przeciwko opozycji",
+      "content_html": "Oddziały tureckiej policji do rozpędzania tłumów użyły we wtorek w Izmirze armatek wodnych przeciwko zwolennikom usuniętego przez sąd ze stanowiska lidera Republikańskiej Partii Ludowej (CHP) Ozgura Ozela - przekazała agencja Anka.",
+      "date_published": "2026-05-26T20:09:00+02:00",
+      "source": "Bankier.pl"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Izrael-rozszerza-operacje-ladowa-w-Libanie-Wojsko-przekroczylo-zolta-linie-9139875.html",
       "url": "https://www.bankier.pl/wiadomosc/Izrael-rozszerza-operacje-ladowa-w-Libanie-Wojsko-przekroczylo-zolta-linie-9139875.html",
       "title": "Izrael rozszerza operację lądową w Libanie. Wojsko przekroczyło „żółtą linię”",
       "content_html": "Rozszerzamy operację lądową w Libanie poza żółtą linię - poinformował we wtorek dziennik „L'Orient-le-Jour”, cytując komunikat Sił Obronnych Izraela. Tzw. żółta linia jest granicą okupowanej przez Izrael części południowego Libanu...",
       "date_published": "2026-05-26T20:05:00+02:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/USA-po-cichu-eskortuja-statki-przez-ciesnine-Ormuz-Armia-zaprzecza-9139890.html",
+      "url": "https://www.bankier.pl/wiadomosc/USA-po-cichu-eskortuja-statki-przez-ciesnine-Ormuz-Armia-zaprzecza-9139890.html",
+      "title": "USA po cichu eskortują statki przez cieśninę Ormuz. Armia zaprzecza",
+      "content_html": "Marynarka wojenna Stanów Zjednoczonych po cichu pomaga statkom handlowym przepływać przez blokowaną przez Iran cieśninę Ormuz - podał we wtorek „Wall Street Journal”, powołując się na przedstawicieli amerykańskich sił zbrojnych. Amerykańskie...",
+      "date_published": "2026-05-26T20:02:00+02:00",
       "source": "Bankier.pl"
     },
     {
@@ -82,14 +154,6 @@
       "title": "BoomBit miał w I kw. 2026 roku 9 mln zł EBITDA wobec 5,1 mln zł EBITDA rok wcześniej",
       "content_html": "Skonsolidowana i skorygowana EBITDA grupy BoomBit wyniosła w I kw. 2026 roku 9 mln zł wobec 5,1 mln zł rok wcześniej, co oznacza wzrost o 78 proc. rdr - podała spółka w komunikacie prasowym. W tym okresie przychody ze sprzedaży wyniosły 67,8...",
       "date_published": "2026-05-26T19:18:00+02:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Digital-Network-chce-wyplacic-4-46-zl-dywidendy-na-akcje-9139900.html",
-      "url": "https://www.bankier.pl/wiadomosc/Digital-Network-chce-wyplacic-4-46-zl-dywidendy-na-akcje-9139900.html",
-      "title": "Digital Network chce wypłacić 4,46 zł dywidendy na akcję Zarząd Digital Network rekomenduje, by spółka za 2025 rok wypłaciła 4,46 zł dywidendy na akcję - podała spółka w komunikacie.",
-      "content_html": "",
-      "date_published": "2026-05-26T19:14:00+02:00",
       "source": "Bankier.pl"
     },
     {
@@ -341,14 +405,6 @@
       "source": "Bankier.pl"
     },
     {
-      "id": "https://biznes.pap.pl/wiadomosci/firmy/wyniki-huuuge-w-i-kw-2026-roku-vs-konsensus-pap-tabela",
-      "url": "https://biznes.pap.pl/wiadomosci/firmy/wyniki-huuuge-w-i-kw-2026-roku-vs-konsensus-pap-tabela",
-      "title": "Wyniki Huuuge w I kw. 2026 roku vs. konsensus PAP (tabela)",
-      "content_html": "Poniżej przedstawiono wyniki Huuuge w pierwszym kwartale 2026 roku i ich odniesienie do konsensusu PAP Biznes oraz poprzednich wyników.",
-      "date_published": "2026-05-26T17:16:00+02:00",
-      "source": "PAP Biznes"
-    },
-    {
       "id": "https://www.bankier.pl/wiadomosc/Od-prezesa-PiS-po-matke-prezydenta-MSWiA-mowi-o-zorganizowanej-grupie-9139678.html",
       "url": "https://www.bankier.pl/wiadomosc/Od-prezesa-PiS-po-matke-prezydenta-MSWiA-mowi-o-zorganizowanej-grupie-9139678.html",
       "title": "Od prezesa PiS po matkę prezydenta. MSWiA mówi o zorganizowanej grupie",
@@ -483,6 +539,22 @@
       "content_html": "Analitycy Noble Securities w raporcie z 26 maja wznowili wydawanie rekomendacji dla Aplisensu od zalecenia \"akumuluj\" z ceną docelową akcji na poziomie 21,52 zł.",
       "date_published": "2026-05-26T15:02:00+02:00",
       "source": "Bankier.pl"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/firmy/rzad-przyjal-rozporzadzenie-ws-ulatwienia-modernizacji-farm-wiatrowych",
+      "url": "https://biznes.pap.pl/wiadomosci/firmy/rzad-przyjal-rozporzadzenie-ws-ulatwienia-modernizacji-farm-wiatrowych",
+      "title": "Rząd przyjął rozporządzenie ws. ułatwienia modernizacji farm wiatrowych",
+      "content_html": "Rząd przyjął rozporządzenie wprowadzające do polskiego prawa zasady repoweringu, a więc szybkiej i bezpiecznej ścieżki modernizacji istniejących farm wiatrowych na lądzie - poinformowała we wtorek min",
+      "date_published": "2026-05-26T15:00:00+02:00",
+      "source": "PAP Biznes"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/firmy/bgk-zaoferuje-na-przetargu-28-maja-obligacje-fpc-za-min-500-mln-zl",
+      "url": "https://biznes.pap.pl/wiadomosci/firmy/bgk-zaoferuje-na-przetargu-28-maja-obligacje-fpc-za-min-500-mln-zl",
+      "title": "BGK zaoferuje na przetargu 28 maja obligacje FPC za min. 500 mln zł",
+      "content_html": "Bank Gospodarstwa Krajowego na przetargu 28 maja, w ramach emisji na rzecz Funduszu Przeciwdziałania COVID-19, zaoferuje papiery serii FPC0229, FPC0231, FPC0332 i FPC0235, podaż wyniesie minimalnie 50",
+      "date_published": "2026-05-26T15:00:00+02:00",
+      "source": "PAP Biznes"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Czesi-i-Polacy-lacza-sily-Beda-produkowac-potezne-silniki-wojskowe-9139572.html",
@@ -853,6 +925,14 @@
       "source": "Bankier.pl"
     },
     {
+      "id": "https://www.bankier.pl/wiadomosc/Allegro-wejdzie-do-Ukrainy-Nadchodzi-starcie-gigantow-u-wschodniego-sasiada-9139427.html",
+      "url": "https://www.bankier.pl/wiadomosc/Allegro-wejdzie-do-Ukrainy-Nadchodzi-starcie-gigantow-u-wschodniego-sasiada-9139427.html",
+      "title": "Allegro wejdzie do Ukrainy. Nadchodzi starcie gigantów u wschodniego sąsiada",
+      "content_html": "Gigant e-commerce, Allegro, przygotowuje się do ekspansji na rynek ukraiński, o czym nieoficjalnie dowiedział się serwis wiadomoscihandlowe.pl. Cała operacja została podzielona na kilka etapów, z których pierwszy ruszy już w czerwcu 2026 roku...",
+      "date_published": "2026-05-26T12:30:00+02:00",
+      "source": "Bankier.pl"
+    },
+    {
       "id": "https://biznes.pap.pl/wiadomosci/gospodarka/banki-udzielily-w-i-kw-731-tys-kredytow-mieszkaniowych-wzrost-o-139-proc-kdk",
       "url": "https://biznes.pap.pl/wiadomosci/gospodarka/banki-udzielily-w-i-kw-731-tys-kredytow-mieszkaniowych-wzrost-o-139-proc-kdk",
       "title": "Banki udzieliły w I kw. 73,1 tys. kredytów mieszkaniowych, wzrost o 13,9 proc. kdk - AMRON",
@@ -869,12 +949,28 @@
       "source": "PAP Biznes"
     },
     {
+      "id": "https://www.bankier.pl/wiadomosc/200-mln-euro-na-cala-UE-to-zdecydowanie-za-malo-Minister-rolnictwa-zapowiada-krajowa-pomoc-9139459.html",
+      "url": "https://www.bankier.pl/wiadomosc/200-mln-euro-na-cala-UE-to-zdecydowanie-za-malo-Minister-rolnictwa-zapowiada-krajowa-pomoc-9139459.html",
+      "title": "200 mln euro na całą UE to „zdecydowanie za mało”. Minister rolnictwa zapowiada krajową pomoc",
+      "content_html": "Minister rolnictwa Stefan Krajewski powiedział we wtorek w Brukseli, że unijna rezerwa w wysokości 200 mln euro jest zdecydowanie za mała, by pomóc rolnikom w związku z sytuacją na rynku nawozowym i anomaliami pogodowymi. Zapowiedział, że Polska...",
+      "date_published": "2026-05-26T12:27:00+02:00",
+      "source": "Bankier.pl"
+    },
+    {
       "id": "https://biznes.pap.pl/wiadomosci/firmy/kruk-wyplaci-20-zl-dywidendy-na-akcje",
       "url": "https://biznes.pap.pl/wiadomosci/firmy/kruk-wyplaci-20-zl-dywidendy-na-akcje",
       "title": "Kruk wypłaci 20 zł dywidendy na akcję",
       "content_html": "Obradujące we wtorek zwyczajne walne zgromadzenie Kruka zdecydowało o przeznaczeniu na dywidendę 390,9 mln zł, co daje 20 zł dywidendy na akcję.",
       "date_published": "2026-05-26T12:24:00+02:00",
       "source": "PAP Biznes"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Kurs-Ferrari-nurkuje-po-premierze-modelu-Luce-Strategiczny-blad-9139442.html",
+      "url": "https://www.bankier.pl/wiadomosc/Kurs-Ferrari-nurkuje-po-premierze-modelu-Luce-Strategiczny-blad-9139442.html",
+      "title": "O \"Luce\" na kursie Ferrari. Pierwszy elektryk stajni spowodował wyprzedaż akcji",
+      "content_html": "Ferrari oficjalnie zaprezentowało Luce – swój pierwszy w pełni elektryczny model, nad którym pracował m.in. legendarny projektant Apple, Jony Ive. Mimo imponujących osiągów auta, rynek zareagował gwałtowną wyprzedażą akcji, któremu nowy...",
+      "date_published": "2026-05-26T12:20:00+02:00",
+      "source": "Bankier.pl"
     },
     {
       "id": "https://biznes.pap.pl/wiadomosci/firmy/grupa-pracuj-koncentruje-sie-na-akwizycjach-uzupelniajacych-o-mniejszej-skali",
@@ -909,6 +1005,14 @@
       "source": "PAP Biznes"
     },
     {
+      "id": "https://www.bankier.pl/wiadomosc/Celon-Pharma-przygotowuje-sie-do-wprowadzenia-leku-Reduzek-na-rynek-od-I-kw-2028-r-9139441.html",
+      "url": "https://www.bankier.pl/wiadomosc/Celon-Pharma-przygotowuje-sie-do-wprowadzenia-leku-Reduzek-na-rynek-od-I-kw-2028-r-9139441.html",
+      "title": "Celon Pharma przygotowuje się do wprowadzenia leku Reduzek na rynek od I kw. 2028 r.",
+      "content_html": "Celon Pharma szacuje zaawansowanie inwestycji na Słowacji na 60-70 proc. i przygotowuje się do wprowadzenia leku Reduzek na rynek od I kw. 2028 r. - poinformowali przedstawiciele spółki.",
+      "date_published": "2026-05-26T12:02:00+02:00",
+      "source": "Bankier.pl"
+    },
+    {
       "id": "https://biznes.pap.pl/wiadomosci/firmy/grupa-pracuj-spodziewa-sie-wzrostu-przychodow-z-serwisow-rekrutacyjnych-na",
       "url": "https://biznes.pap.pl/wiadomosci/firmy/grupa-pracuj-spodziewa-sie-wzrostu-przychodow-z-serwisow-rekrutacyjnych-na",
       "title": "Grupa Pracuj spodziewa się wzrostu przychodów z serwisów rekrutacyjnych na poziomie 7-9 proc.",
@@ -925,12 +1029,36 @@
       "source": "PAP Biznes"
     },
     {
+      "id": "https://www.bankier.pl/wiadomosc/Chamenei-Kraje-arabskie-nie-beda-juz-tarcza-dla-amerykanskich-baz-9139399.html",
+      "url": "https://www.bankier.pl/wiadomosc/Chamenei-Kraje-arabskie-nie-beda-juz-tarcza-dla-amerykanskich-baz-9139399.html",
+      "title": "Chamenei: Kraje arabskie nie będą już tarczą dla amerykańskich baz",
+      "content_html": "Najwyższy duchowo-polityczny przywódca Iranu Modżtaba Chamenei oświadczył we wtorek, że kraje arabskie Zatoki Perskiej nie będą już tarczą dla amerykańskich baz w regionie.",
+      "date_published": "2026-05-26T11:58:00+02:00",
+      "source": "Bankier.pl"
+    },
+    {
       "id": "https://biznes.pap.pl/wiadomosci/energia/me-proponuje-zmiany-w-przepisach-dot-uszczelnienia-systemu-zapasow-obowiazkowych",
       "url": "https://biznes.pap.pl/wiadomosci/energia/me-proponuje-zmiany-w-przepisach-dot-uszczelnienia-systemu-zapasow-obowiazkowych",
       "title": "ME proponuje zmiany w przepisach dot. uszczelnienia systemu zapasów obowiązkowych ropy i paliw",
       "content_html": "Ministerstwo Energii zaproponowało rozwiązania, które mają uszczelnić system zapasów obowiązkowych ropy naftowej i paliw, poprzez zapobieganie uchylania się od obowiązków i ponoszenia kosztów związany",
       "date_published": "2026-05-26T11:53:00+02:00",
       "source": "PAP Biznes"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Ubezpieczyciele-chca-uproszczenia-zasad-Wspolny-apel-szesciu-najwiekszych-rynkow-Europy-9139435.html",
+      "url": "https://www.bankier.pl/wiadomosc/Ubezpieczyciele-chca-uproszczenia-zasad-Wspolny-apel-szesciu-najwiekszych-rynkow-Europy-9139435.html",
+      "title": "Ubezpieczyciele chcą uproszczenia zasad. Wspólny apel sześciu największych rynków Europy",
+      "content_html": "Sześć największych rynków ubezpieczeniowych UE wystosowało wspólny apel o uproszczenie regulacji dotyczących sektora oraz przyjęcie bardziej ambitnego podejścia do wzmacniania konkurencyjności europejskiej gospodarki - poinformowała we wtorek...",
+      "date_published": "2026-05-26T11:45:00+02:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Zbigniew-Kapinski-u-sterow-Sadu-Najwyzszego-Dlaczego-prezydent-zignorowal-ostrzezenia-Cenckiewicza-9139424.html",
+      "url": "https://www.bankier.pl/wiadomosc/Zbigniew-Kapinski-u-sterow-Sadu-Najwyzszego-Dlaczego-prezydent-zignorowal-ostrzezenia-Cenckiewicza-9139424.html",
+      "title": "Zbigniew Kapiński u sterów Sądu Najwyższego. Dlaczego prezydent zignorował ostrzeżenia Cenckiewicza?",
+      "content_html": "Powołując Zbigniewa Kapińskiego na I prezesa SN, prezydent Karol Nawrocki wykonał swą prerogatywę, nie ulegając żadnym naciskom i sugestiom, ocenił kandydaturę merytorycznie – podkreślił rzecznik prezydenta Rafał Leśkiewicz. Podchodzimy...",
+      "date_published": "2026-05-26T11:44:00+02:00",
+      "source": "Bankier.pl"
     },
     {
       "id": "https://biznes.pap.pl/wiadomosci/konsument/unijna-rezerwa-200-mln-euro-na-kryzysy-w-rolnictwie-za-malo-krajewski",
@@ -949,11 +1077,11 @@
       "source": "PAP Biznes"
     },
     {
-      "id": "https://www.bankier.pl/wiadomosc/Allegro-wejdzie-do-Ukrainy-Nadchodzi-starcie-gigantow-u-wschodniego-sasiada-9139427.html",
-      "url": "https://www.bankier.pl/wiadomosc/Allegro-wejdzie-do-Ukrainy-Nadchodzi-starcie-gigantow-u-wschodniego-sasiada-9139427.html",
-      "title": "Allegro wejdzie do Ukrainy. Nadchodzi starcie gigantów u wschodniego sąsiada Gigant e-commerce, Allegro, przygotowuje się do ekspansji na rynek ukraiński, o czym nieoficjalnie dowiedział się serwis wiadomoscihandlowe.pl. Cała operacja została podzielona na kilka etapów, z których pierwszy ruszy już w czerwcu 2026 roku.",
-      "content_html": "",
-      "date_published": "2026-05-26T11:30:00+02:00",
+      "id": "https://www.bankier.pl/wiadomosc/Niemieckie-media-o-Nawrockim-najlepszy-przyjaciel-Trumpa-w-Europie-Wschodniej-9139421.html",
+      "url": "https://www.bankier.pl/wiadomosc/Niemieckie-media-o-Nawrockim-najlepszy-przyjaciel-Trumpa-w-Europie-Wschodniej-9139421.html",
+      "title": "Niemieckie media o Nawrockim: najlepszy przyjaciel Trumpa w Europie Wschodniej",
+      "content_html": "Decyzja prezydenta Donalda Trumpa o wysłaniu do Polski dodatkowych żołnierzy USA podyktowana była bardziej sympatią do prezydenta RP Karola Nawrockiego niż względami wojskowymi - pisze we wtorek „Handelsblatt”. Według niemieckiego dziennika...",
+      "date_published": "2026-05-26T11:29:00+02:00",
       "source": "Bankier.pl"
     },
     {
@@ -973,27 +1101,11 @@
       "source": "Bankier.pl"
     },
     {
-      "id": "https://www.bankier.pl/wiadomosc/Kurs-Ferrari-nurkuje-po-premierze-modelu-Luce-Strategiczny-blad-9139442.html",
-      "url": "https://www.bankier.pl/wiadomosc/Kurs-Ferrari-nurkuje-po-premierze-modelu-Luce-Strategiczny-blad-9139442.html",
-      "title": "O \"Luce\" na kursie Ferrari. Pierwszy elektryk stajni spowodował wyprzedaż akcji Ferrari oficjalnie zaprezentowało Luce – swój pierwszy w pełni elektryczny model, nad którym pracował m.in. legendarny projektant Apple, Jony Ive. Mimo imponujących osiągów auta, rynek zareagował gwałtowną wyprzedażą akcji, któremu nowy samochód najwyraźniej nie przypadł do gustu. Nowy model bowiem wyraźnie nie przystaje do bezkompromisowego stylu sportowej elegancji, z jakiej dotychczas słynęła marka Ferrari.",
-      "content_html": "",
-      "date_published": "2026-05-26T11:20:00+02:00",
-      "source": "Bankier.pl"
-    },
-    {
       "id": "https://www.bankier.pl/wiadomosc/Szukaja-korzeni-i-uciekaja-do-Europy-Bogaci-Amerykanie-zabezpieczaja-przyszlosc-obywatelstwami-9139364.html",
       "url": "https://www.bankier.pl/wiadomosc/Szukaja-korzeni-i-uciekaja-do-Europy-Bogaci-Amerykanie-zabezpieczaja-przyszlosc-obywatelstwami-9139364.html",
       "title": "Szukają korzeni i uciekają do Europy. Bogaci Amerykanie zabezpieczają przyszłość obywatelstwami",
       "content_html": "Współczesny rynek migracji przechodzi bezprecedensową transformację – Stany Zjednoczone oficjalnie wyprzedziły Chiny i stały się globalnym liderem pod względem liczby zamożnych obywateli poszukujących alternatywnego paszportu lub prawa stałego...",
       "date_published": "2026-05-26T11:10:00+02:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Celon-Pharma-przygotowuje-sie-do-wprowadzenia-leku-Reduzek-na-rynek-od-I-kw-2028-r-9139441.html",
-      "url": "https://www.bankier.pl/wiadomosc/Celon-Pharma-przygotowuje-sie-do-wprowadzenia-leku-Reduzek-na-rynek-od-I-kw-2028-r-9139441.html",
-      "title": "Celon Pharma przygotowuje się do wprowadzenia leku Reduzek na rynek od I kw. 2028 r. Celon Pharma szacuje zaawansowanie inwestycji na Słowacji na 60-70 proc. i przygotowuje się do wprowadzenia leku Reduzek na rynek od I kw. 2028 r. - poinformowali przedstawiciele spółki.",
-      "content_html": "",
-      "date_published": "2026-05-26T11:02:00+02:00",
       "source": "Bankier.pl"
     },
     {
@@ -1149,14 +1261,6 @@
       "source": "PAP Biznes"
     },
     {
-      "id": "https://www.bankier.pl/wiadomosc/Noble-Securities-obniza-rekomendacje-dla-Apatora-do-akumuluj-9139343.html",
-      "url": "https://www.bankier.pl/wiadomosc/Noble-Securities-obniza-rekomendacje-dla-Apatora-do-akumuluj-9139343.html",
-      "title": "Noble Securities obniża rekomendację dla Apatora do \"akumuluj\"",
-      "content_html": "Analitycy Noble Securities, w raporcie z 21 maja, obniżyli rekomendację dla Apatora do \"akumuluj\" z \"kupuj\", z ceną docelową na poziomie 30,3 zł.",
-      "date_published": "2026-05-26T09:26:00+02:00",
-      "source": "Bankier.pl"
-    },
-    {
       "id": "https://biznes.pap.pl/wiadomosci/rynki/dzien-na-rynkach-w-europie-na-gieldach-wahania-najwazniejszych-indeksow-1",
       "url": "https://biznes.pap.pl/wiadomosci/rynki/dzien-na-rynkach-w-europie-na-gieldach-wahania-najwazniejszych-indeksow-1",
       "title": "DZIEŃ NA RYNKACH: W Europie na giełdach wahania najważniejszych indeksów",
@@ -1171,22 +1275,6 @@
       "content_html": "Ceny gazu w Europie rosną po poniedziałkowych spadkach. Inwestorzy spoglądają na Bliski Wschód i oceniają działania USA i Iranu w celu osiągnięcia porozumienia pokojowego - informują maklerzy.",
       "date_published": "2026-05-26T09:11:00+02:00",
       "source": "PAP Biznes"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Psycholozka-Wspolczesne-matki-zyja-pod-gigantyczna-presja-9139331.html",
-      "url": "https://www.bankier.pl/wiadomosc/Psycholozka-Wspolczesne-matki-zyja-pod-gigantyczna-presja-9139331.html",
-      "title": "Psycholożka: Współczesne matki żyją pod gigantyczną presją",
-      "content_html": "Lęk, chłód emocjonalny i brak granic często przechodzą z pokolenia na pokolenie — powiedziała PAP prof. Katarzyna Schier. Jej zdaniem współczesne matki żyją pod gigantyczną presją, a dzieci dziedziczą nie tylko geny, ale także sposób...",
-      "date_published": "2026-05-26T09:00:00+02:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Ceny-miedzi-w-Londynie-kontynuuja-wzrosty-9139341.html",
-      "url": "https://www.bankier.pl/wiadomosc/Ceny-miedzi-w-Londynie-kontynuuja-wzrosty-9139341.html",
-      "title": "Ceny miedzi w Londynie kontynuują wzrosty",
-      "content_html": "Notowania miedzi na giełdzie metali LME w Londynie kontynuują wzrosty, a inwestorzy śledzą działania USA i Iranu w kierunku zawarcia porozumienia pokojowego - informują maklerzy.",
-      "date_published": "2026-05-26T08:59:00+02:00",
-      "source": "Bankier.pl"
     },
     {
       "id": "https://biznes.pap.pl/wiadomosci/rynki/najwazniejsze-indeksy-gieldowe-w-azji-729",
@@ -1205,14 +1293,6 @@
       "source": "PAP Biznes"
     },
     {
-      "id": "https://www.bankier.pl/wiadomosc/Ceny-ropy-na-swiecie-podazaja-w-roznych-kierunkach-9139336.html",
-      "url": "https://www.bankier.pl/wiadomosc/Ceny-ropy-na-swiecie-podazaja-w-roznych-kierunkach-9139336.html",
-      "title": "Ceny ropy na świecie podążają w różnych kierunkach",
-      "content_html": "Ceny ropy naftowej na globalnych giełdach podążają we wtorek w różnych kierunkach. Inwestorzy oceniają sytuację geopolityczną związaną z Bliskim Wschodem - informują maklerzy.",
-      "date_published": "2026-05-26T08:41:00+02:00",
-      "source": "Bankier.pl"
-    },
-    {
       "id": "https://biznes.pap.pl/wiadomosci/gospodarka/dzien-na-fxfi-po-nocnym-uderzeniu-usa-na-iran-mozliwe-oslabienie-aktywow-w",
       "url": "https://biznes.pap.pl/wiadomosci/gospodarka/dzien-na-fxfi-po-nocnym-uderzeniu-usa-na-iran-mozliwe-oslabienie-aktywow-w",
       "title": "DZIEŃ NA FX/FI: Po nocnym uderzeniu USA na Iran możliwe osłabienie aktywów w kraju",
@@ -1229,11 +1309,11 @@
       "source": "PAP Biznes"
     },
     {
-      "id": "https://www.bankier.pl/wiadomosc/Uderzenia-w-Kijow-i-ostrzezenie-dla-cudzoziemcow-Rosja-oglasza-serie-metodycznych-atakow-9139128.html",
-      "url": "https://www.bankier.pl/wiadomosc/Uderzenia-w-Kijow-i-ostrzezenie-dla-cudzoziemcow-Rosja-oglasza-serie-metodycznych-atakow-9139128.html",
-      "title": "Uderzenia w Kijów i ostrzeżenie dla cudzoziemców. Rosja ogłasza serię \"metodycznych ataków\"",
-      "content_html": "Oświadczenie MSZ Rosji, które zapowiedziało serię uderzeń w obiekty w Kijowie i zaleciło cudzoziemcom opuszczenie miasta, oznacza zamiar kontynuowania terroru wobec ludności cywilnej – ocenił w poniedziałek szef ukraińskiego rządowego Centrum...",
-      "date_published": "2026-05-26T08:24:00+02:00",
+      "id": "https://www.bankier.pl/wiadomosc/Noble-Securities-obniza-rekomendacje-dla-Apatora-do-akumuluj-9139343.html",
+      "url": "https://www.bankier.pl/wiadomosc/Noble-Securities-obniza-rekomendacje-dla-Apatora-do-akumuluj-9139343.html",
+      "title": "Noble Securities obniża rekomendację dla Apatora do \"akumuluj\" Analitycy Noble Securities, w raporcie z 21 maja, obniżyli rekomendację dla Apatora do \"akumuluj\" z \"kupuj\", z ceną docelową na poziomie 30,3 zł.",
+      "content_html": "",
+      "date_published": "2026-05-26T08:26:00+02:00",
       "source": "Bankier.pl"
     },
     {
@@ -1253,70 +1333,6 @@
       "source": "PAP Biznes"
     },
     {
-      "id": "https://www.bankier.pl/wiadomosc/Wspolny-front-16-panstw-czlonkowskich-Polska-mowi-nie-zasadzie-pieniadze-za-reformy-9139260.html",
-      "url": "https://www.bankier.pl/wiadomosc/Wspolny-front-16-panstw-czlonkowskich-Polska-mowi-nie-zasadzie-pieniadze-za-reformy-9139260.html",
-      "title": "Wspólny front 16 państw członkowskich. Polska mówi \"nie\" zasadzie \"pieniądze za reformy\"",
-      "content_html": "16 państw Unii Europejskiej, w tym Polska, wezwało w poniedziałek we wspólnej deklaracji do zwiększenia środków na regiony i rolnictwo w nowym unijnym budżecie na lata 2028-2034. Według nich gospodarowanie tymi środkami powinno pozostać wyłączną...",
-      "date_published": "2026-05-26T08:20:00+02:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Trump-oglasza-stan-wyjatkowy-Grozba-poteznej-eksplozji-ewakuowano-50-tysiecy-ludzi-9139274.html",
-      "url": "https://www.bankier.pl/wiadomosc/Trump-oglasza-stan-wyjatkowy-Grozba-poteznej-eksplozji-ewakuowano-50-tysiecy-ludzi-9139274.html",
-      "title": "Trump ogłasza stan wyjątkowy. Groźba potężnej eksplozji, ewakuowano 50 tysięcy ludzi",
-      "content_html": "Prezydent USA Donald Trump zatwierdził w poniedziałek wniosek Kalifornii o ogłoszenie federalnego stanu wyjątkowego w hrabstwie Orange, co – jak podkreślają władze – ma przyspieszyć działania ochronne po groźnym wycieku chemikaliów. Ma...",
-      "date_published": "2026-05-26T08:20:00+02:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Byly-premier-Hiszpanii-bral-lapowki-za-ratowanie-bankruta-Sledczy-nie-wierza-w-wersje-o-pamiatkach-9139275.html",
-      "url": "https://www.bankier.pl/wiadomosc/Byly-premier-Hiszpanii-bral-lapowki-za-ratowanie-bankruta-Sledczy-nie-wierza-w-wersje-o-pamiatkach-9139275.html",
-      "title": "Były premier Hiszpanii brał łapówki za ratowanie bankruta. Śledczy nie wierzą w wersję o pamiątkach",
-      "content_html": "W biurze byłego premiera Hiszpanii Jose Luisa Zapatero, objętego śledztwem dotyczącym korupcji, funkcjonariusze policji znaleźli cenną biżuterię - przekazał w poniedziałek madrycki dziennik „El Pais”.",
-      "date_published": "2026-05-26T08:20:00+02:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/50-trupow-od-powrotu-Trumpa-CNN-ujawnia-przerazajace-fakty-z-obozow-dla-imigrantow-9139291.html",
-      "url": "https://www.bankier.pl/wiadomosc/50-trupow-od-powrotu-Trumpa-CNN-ujawnia-przerazajace-fakty-z-obozow-dla-imigrantow-9139291.html",
-      "title": "50 trupów od powrotu Trumpa. CNN ujawnia przerażające fakty z obozów dla imigrantów",
-      "content_html": "Napięcia wokół ośrodka imigracyjnego Delaney Hall w Newark, w stanie New Jersey w USA, osiągnęły punkt krytyczny po miesiącach zarzutów o nieludzkie traktowanie. 300 osób uczestniczy w strajku głodowym - poinformowała CNN.",
-      "date_published": "2026-05-26T08:16:00+02:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Ailleron-mial-w-I-kw-2026-r-6-1-mln-zl-zysku-netto-j-d-9139329.html",
-      "url": "https://www.bankier.pl/wiadomosc/Ailleron-mial-w-I-kw-2026-r-6-1-mln-zl-zysku-netto-j-d-9139329.html",
-      "title": "Ailleron miał w I kw. 2026 r. 6,1 mln zł zysku netto j.d.",
-      "content_html": "Ailleron miał w pierwszym kwartale 2026 roku 6,1 mln zł zysku netto jednostki dominującej, w porównaniu do 0,7 mln zł rok wcześniej - podała spółka w raporcie. Z kolei zysk operacyjny w tym okresie wyniósł 13,4 mln zł, wobec 15,1 mln zł przed...",
-      "date_published": "2026-05-26T08:16:00+02:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Poczatek-alertow-z-powodu-upalow-Dzis-w-12-miastach-9139251.html",
-      "url": "https://www.bankier.pl/wiadomosc/Poczatek-alertow-z-powodu-upalow-Dzis-w-12-miastach-9139251.html",
-      "title": "Początek alertów z powodu upałów. Dziś w 12 miastach",
-      "content_html": "W 12 miastach we Włoszech obowiązywać będzie we wtorek alert w powodu upałów. Ogłosiło go ministerstwo zdrowia, które rozpoczęło, jak w minionych latach, publikację biuletynów z oznakowaniem stopnia zagrożenia związanego z wysokimi temperaturami...",
-      "date_published": "2026-05-26T08:11:00+02:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Archicom-celuje-w-26-w-przekazanie-3-3-2-tys-lokali-9139326.html",
-      "url": "https://www.bankier.pl/wiadomosc/Archicom-celuje-w-26-w-przekazanie-3-3-2-tys-lokali-9139326.html",
-      "title": "Archicom celuje w '26 w przekazanie 3-3,2 tys. lokali",
-      "content_html": "Archicom w całym 2026 r. celuje w przekazanie 3-3,2 tys. lokali i podtrzymuje cel sprzedaży na poziomie 3,2-3,5 tys. mieszkań rocznie - podał deweloper w komunikacie prasowym.",
-      "date_published": "2026-05-26T08:06:00+02:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Skor-EBITDA-Grupy-Pracuj-w-I-kw-2026-r-wyniosla-97-8-mln-zl-wobec-89-3-mln-zl-konsensusu-9139312.html",
-      "url": "https://www.bankier.pl/wiadomosc/Skor-EBITDA-Grupy-Pracuj-w-I-kw-2026-r-wyniosla-97-8-mln-zl-wobec-89-3-mln-zl-konsensusu-9139312.html",
-      "title": "Rynek pracy pod lupą inwestorów. Grupa Pracuj pokazuje wyniki",
-      "content_html": "Skorygowana EBITDA Grupy Pracuj w pierwszym kwartale 2026 r. wyniosła 97,8 mln zł, wobec 96,7 mln zł rok wcześniej - wynika z raportu spółki. Konsensus PAP Biznes zakładał 89,3 mln zł skorygowanej EBITDA.",
-      "date_published": "2026-05-26T08:03:00+02:00",
-      "source": "Bankier.pl"
-    },
-    {
       "id": "https://biznes.pap.pl/wiadomosci/rynki/ceny-miedzi-w-londynie-kontynuuja-wzrosty",
       "url": "https://biznes.pap.pl/wiadomosci/rynki/ceny-miedzi-w-londynie-kontynuuja-wzrosty",
       "title": "Ceny miedzi w Londynie kontynuują wzrosty",
@@ -1333,6 +1349,14 @@
       "source": "PAP Biznes"
     },
     {
+      "id": "https://www.bankier.pl/wiadomosc/Ailleron-mial-w-I-kw-2026-r-6-1-mln-zl-zysku-netto-j-d-9139329.html",
+      "url": "https://www.bankier.pl/wiadomosc/Ailleron-mial-w-I-kw-2026-r-6-1-mln-zl-zysku-netto-j-d-9139329.html",
+      "title": "Ailleron miał w I kw. 2026 r. 6,1 mln zł zysku netto j.d. Ailleron miał w pierwszym kwartale 2026 roku 6,1 mln zł zysku netto jednostki dominującej, w porównaniu do 0,7 mln zł rok wcześniej - podała spółka w raporcie. Z kolei zysk operacyjny w tym okresie wyniósł 13,4 mln zł, wobec 15,1 mln zł przed rokiem.",
+      "content_html": "",
+      "date_published": "2026-05-26T07:16:00+02:00",
+      "source": "Bankier.pl"
+    },
+    {
       "id": "https://biznes.pap.pl/wiadomosci/firmy/ailleron-mial-w-i-kw-2026-r-61-mln-zl-zysku-netto-jd",
       "url": "https://biznes.pap.pl/wiadomosci/firmy/ailleron-mial-w-i-kw-2026-r-61-mln-zl-zysku-netto-jd",
       "title": "Ailleron miał w I kw. 2026 r. 6,1 mln zł zysku netto j.d.",
@@ -1341,12 +1365,28 @@
       "source": "PAP Biznes"
     },
     {
+      "id": "https://www.bankier.pl/wiadomosc/Archicom-celuje-w-26-w-przekazanie-3-3-2-tys-lokali-9139326.html",
+      "url": "https://www.bankier.pl/wiadomosc/Archicom-celuje-w-26-w-przekazanie-3-3-2-tys-lokali-9139326.html",
+      "title": "Archicom celuje w '26 w przekazanie 3-3,2 tys. lokali Archicom w całym 2026 r. celuje w przekazanie 3-3,2 tys. lokali i podtrzymuje cel sprzedaży na poziomie 3,2-3,5 tys. mieszkań rocznie - podał deweloper w komunikacie prasowym.",
+      "content_html": "",
+      "date_published": "2026-05-26T07:06:00+02:00",
+      "source": "Bankier.pl"
+    },
+    {
       "id": "https://biznes.pap.pl/wiadomosci/firmy/archicom-celuje-w-26-w-przekazanie-3-32-tys-lokali",
       "url": "https://biznes.pap.pl/wiadomosci/firmy/archicom-celuje-w-26-w-przekazanie-3-32-tys-lokali",
       "title": "Archicom celuje w '26 w przekazanie 3-3,2 tys. lokali",
       "content_html": "Archicom w całym 2026 r. celuje w przekazanie 3-3,2 tys. lokali i podtrzymuje cel sprzedaży na poziomie 3,2-3,5 tys. mieszkań rocznie - podał deweloper w komunikacie prasowym.",
       "date_published": "2026-05-26T07:05:00+02:00",
       "source": "PAP Biznes"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Skor-EBITDA-Grupy-Pracuj-w-I-kw-2026-r-wyniosla-97-8-mln-zl-wobec-89-3-mln-zl-konsensusu-9139312.html",
+      "url": "https://www.bankier.pl/wiadomosc/Skor-EBITDA-Grupy-Pracuj-w-I-kw-2026-r-wyniosla-97-8-mln-zl-wobec-89-3-mln-zl-konsensusu-9139312.html",
+      "title": "Rynek pracy pod lupą inwestorów. Grupa Pracuj pokazuje wyniki Skorygowana EBITDA Grupy Pracuj w pierwszym kwartale 2026 r. wyniosła 97,8 mln zł, wobec 96,7 mln zł rok wcześniej - wynika z raportu spółki. Konsensus PAP Biznes zakładał 89,3 mln zł skorygowanej EBITDA.",
+      "content_html": "",
+      "date_published": "2026-05-26T07:03:00+02:00",
+      "source": "Bankier.pl"
     },
     {
       "id": "https://biznes.pap.pl/wiadomosci/ekonomia-biznes-i-finanse/przewidywane-najwazniejsze-wydarzenia-gospodarcze-2026-05-26",
@@ -1490,30 +1530,6 @@
       "title": "Modivo w wyniku za 2025 wykaże odpis na 155,7 mln zł z tytułu utraty wartości firmy",
       "content_html": "Modivo w wyniku za 2025 roku wykaże odpis w wysokości 155,7 mln zł z tytułu utraty wartości firmy w związku z przeprowadzoną alokacją ceny nabycia udziałów w Worldbox (dawniej MKRI) - poinformowało Mo",
       "date_published": "2026-05-25T22:14:00+02:00",
-      "source": "PAP Biznes"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/ekonomia-biznes-i-finanse/skrot-wiadomosci-poniedzialek-25-maja-2100",
-      "url": "https://biznes.pap.pl/wiadomosci/ekonomia-biznes-i-finanse/skrot-wiadomosci-poniedzialek-25-maja-2100",
-      "title": "Skrót wiadomości - poniedziałek, 25 maja, 21.00",
-      "content_html": "Przegląd najważniejszych wiadomości gospodarczych, krajowych i ze świata.",
-      "date_published": "2026-05-25T21:01:00+02:00",
-      "source": "PAP Biznes"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Diagnostyka-wyplaci-4-4-zl-dywidendy-na-akcje-9139218.html",
-      "url": "https://www.bankier.pl/wiadomosc/Diagnostyka-wyplaci-4-4-zl-dywidendy-na-akcje-9139218.html",
-      "title": "Diagnostyka wypłaci 4,4 zł dywidendy na akcję Walne zgromadzenie Diagnostyki zdecydowało o przeznaczeniu 148,53 mln zł z zysku za 2025 r. na wypłatę dywidendy, co daje 4,40 zł na akcję - podała spółka w komunikacie.",
-      "content_html": "",
-      "date_published": "2026-05-25T20:28:00+02:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/firmy/diagnostyka-wyplaci-44-zl-dywidendy-na-akcje",
-      "url": "https://biznes.pap.pl/wiadomosci/firmy/diagnostyka-wyplaci-44-zl-dywidendy-na-akcje",
-      "title": "Diagnostyka wypłaci 4,4 zł dywidendy na akcję",
-      "content_html": "Walne zgromadzenie Diagnostyki zdecydowało o przeznaczeniu 148,53 mln zł z zysku za 2025 r. na wypłatę dywidendy, co daje 4,40 zł na akcję - podała spółka w komunikacie.",
-      "date_published": "2026-05-25T20:27:00+02:00",
       "source": "PAP Biznes"
     }
   ]
