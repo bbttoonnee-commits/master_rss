@@ -5,6 +5,14 @@
   "home_page_url": "https://www.bankier.pl",
   "items": [
     {
+      "id": "https://biznes.pap.pl/wiadomosci/rynki/dzien-na-rynkach-wall-street-lekko-w-gore-glowne-indeksy-z-rekordami",
+      "url": "https://biznes.pap.pl/wiadomosci/rynki/dzien-na-rynkach-wall-street-lekko-w-gore-glowne-indeksy-z-rekordami",
+      "title": "DZIEŃ NA RYNKACH: Wall Street lekko w górę, główne indeksy z rekordami",
+      "content_html": "Środowa sesja na Wall Street zakończyła się lekkimi wzrostami głównych indeksów, a Dow i S&P 500 ustanowiły nowe historyczne rekordy. Ostatnie silne zwyżki akcji producentów półprzewodników, w tym Mic",
+      "date_published": "2026-05-27T22:14:00+02:00",
+      "source": "PAP Biznes"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Szerokie-poparcie-koalicji-dla-statusu-osoby-najblizszej-PiS-i-Konfederacja-chca-odrzucenia-projektow-9140763.html",
       "url": "https://www.bankier.pl/wiadomosc/Szerokie-poparcie-koalicji-dla-statusu-osoby-najblizszej-PiS-i-Konfederacja-chca-odrzucenia-projektow-9140763.html",
       "title": "Szerokie poparcie koalicji dla statusu osoby najbliższej. PiS i Konfederacja chcą odrzucenia projektów",
@@ -277,14 +285,6 @@
       "source": "Bankier.pl"
     },
     {
-      "id": "https://biznes.pap.pl/wiadomosci/przemysl/sniezka-w-i-kw-2026-r-miala-287-mln-zl-ebitda-wobec-257-mln-zl-konsensusu",
-      "url": "https://biznes.pap.pl/wiadomosci/przemysl/sniezka-w-i-kw-2026-r-miala-287-mln-zl-ebitda-wobec-257-mln-zl-konsensusu",
-      "title": "Śnieżka w I kw. 2026 r. miała 28,7 mln zł EBITDA wobec 25,7 mln zł konsensusu",
-      "content_html": "Śnieżka w I kw. 2026 r. miała 28,7 mln zł EBITDA wobec 25,7 mln zł konsensusu PAP Biznes. W tym okresie zysk netto j.d. wyniósł 13,8 mln zł, a konsensus zakładał 10,3 mln zł zysku netto j.d.",
-      "date_published": "2026-05-27T17:47:00+02:00",
-      "source": "PAP Biznes"
-    },
-    {
       "id": "https://www.bankier.pl/wiadomosc/Wysylka-bagazu-za-granice-InPost-Cennik-porownanie-z-Ryanairem-i-haczyki-9140415.html",
       "url": "https://www.bankier.pl/wiadomosc/Wysylka-bagazu-za-granice-InPost-Cennik-porownanie-z-Ryanairem-i-haczyki-9140415.html",
       "title": "Walizka w paczkomacie. Ile kosztuje nowa usługa InPostu i czy się to opłaca podróżnym?",
@@ -411,6 +411,14 @@
       "content_html": "Polski sektor mleczarski świętuje ogromny sukces na arenie międzynarodowej, otwierając kolejny rozdział w relacjach handlowych z Azją. Rodzimi producenci i przetwórcy mleka zyskali właśnie zupełnie nowe, szerokie możliwości zbytu na niezwykle...",
       "date_published": "2026-05-27T14:45:00+02:00",
       "source": "Bankier.pl"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/firmy/negatywna-reakcja-rynku-na-dlc-do-wiedzmina-3-spowodowana-obawami-o-potencjalny",
+      "url": "https://biznes.pap.pl/wiadomosci/firmy/negatywna-reakcja-rynku-na-dlc-do-wiedzmina-3-spowodowana-obawami-o-potencjalny",
+      "title": "Negatywna reakcja rynku na DLC do \"Wiedźmina 3\" spowodowana obawami o potencjalny debiut \"Wiedźmina 4\" w '27 (opinia)",
+      "content_html": "Negatywna reakcja rynku na zapowiedź trzeciego dodatku do \"Wiedźmina 3\" pt. \"Pieśni przeszłości\" jest spowodowana obawami o debiut \"Wiedźmina 4\" w przyszłym roku - oceniają analitycy. Ich zdaniem prem",
+      "date_published": "2026-05-27T14:40:00+02:00",
+      "source": "PAP Biznes"
     },
     {
       "id": "https://biznes.pap.pl/wiadomosci/gospodarka/dzien-na-fxfi-zloty-stabilny-wobec-euro-lekko-umacnia-sie-do-dolara",
