@@ -5,6 +5,30 @@
   "home_page_url": "https://www.bankier.pl",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/Trwa-festiwal-rekordow-na-Wall-Street-To-juz-powoli-staje-sie-nudne-9144210.html",
+      "url": "https://www.bankier.pl/wiadomosc/Trwa-festiwal-rekordow-na-Wall-Street-To-juz-powoli-staje-sie-nudne-9144210.html",
+      "title": "Trwa festiwal rekordów na Wall Street. To już powoli staje się nudne",
+      "content_html": "Poniedziałkowa sesja na nowojorskich giełdach przyniosła kolejne nowe rekordy Dow Jonesa, S&P500 i Nasdaqa. Motorem napędowym hossy pozostają spółki korzystające na boomie na generatywną AI.",
+      "date_published": "2026-06-01T23:05:00+02:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/rynki/dzien-na-rynkach-gieldy-w-usa-wzrosly-indeksy-sp-500-i-nasdaq-z-rekordami",
+      "url": "https://biznes.pap.pl/wiadomosci/rynki/dzien-na-rynkach-gieldy-w-usa-wzrosly-indeksy-sp-500-i-nasdaq-z-rekordami",
+      "title": "DZIEŃ NA RYNKACH: Giełdy w USA wzrosły; indeksy S&P 500 i Nasdaq z rekordami",
+      "content_html": "Indeksy w USA zwyżkowały na koniec sesji w poniedziałek, a S&P 500 i Nasdaq ustanowiły nowe historyczne rekordy. Analitycy wskazują, że na obawami o geopolitykę przeważają oczekiwania dotyczące wzrost",
+      "date_published": "2026-06-01T22:15:00+02:00",
+      "source": "PAP Biznes"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Chaos-na-lotniskach-sie-poglebia-Linie-lotnicze-apeluja-o-zapas-czasu-i-wode-9142976.html",
+      "url": "https://www.bankier.pl/wiadomosc/Chaos-na-lotniskach-sie-poglebia-Linie-lotnicze-apeluja-o-zapas-czasu-i-wode-9142976.html",
+      "title": "Chaos na lotniskach się pogłębia. Linie lotnicze apelują o zapas czasu i wody",
+      "content_html": "Przyjeżdżajcie trzy godziny przed odlotem, weźcie ze sobą wodę i ładowarkę do telefonu, a przetrwacie kolejki - taki komunikat Wizz Air skierował do Brytyjczyków, którzy muszą się zmierzyć z konsekwencjami brexitu w postaci m.in. kontroli...",
+      "date_published": "2026-06-01T21:42:00+02:00",
+      "source": "Bankier.pl"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Merz-zwola-narade-panstw-E5-w-tym-Polski-by-uzgodnic-strategie-przed-szczytem-NATO-9144158.html",
       "url": "https://www.bankier.pl/wiadomosc/Merz-zwola-narade-panstw-E5-w-tym-Polski-by-uzgodnic-strategie-przed-szczytem-NATO-9144158.html",
       "title": "Merz zwoła naradę państw E5, w tym Polski, by uzgodnić strategię przed szczytem NATO",
@@ -19,6 +43,14 @@
       "content_html": "Prezydent USA Donald Trump ogłosił w poniedziałek, że przywódcy Izraela i Hezbollahu zgodzili się wstrzymać walki w Libanie. Trump oznajmił też, że żadne izraelskie wojska nie pójdą do Bejrutu.",
       "date_published": "2026-06-01T21:10:00+02:00",
       "source": "Bankier.pl"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/ekonomia-biznes-i-finanse/skrot-wiadomosci-poniedzialek-1-czerwca-2100",
+      "url": "https://biznes.pap.pl/wiadomosci/ekonomia-biznes-i-finanse/skrot-wiadomosci-poniedzialek-1-czerwca-2100",
+      "title": "Skrót wiadomości - poniedziałek, 1 czerwca, 21.00",
+      "content_html": "Przegląd najważniejszych wiadomości gospodarczych, krajowych i ze świata.",
+      "date_published": "2026-06-01T21:00:00+02:00",
+      "source": "PAP Biznes"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/InPost-zwieksza-inwestycje-we-Francji-do-1-4-mld-euro-9144132.html",
@@ -261,28 +293,12 @@
       "source": "PAP Biznes"
     },
     {
-      "id": "https://biznes.pap.pl/wiadomosci/firmy/atal-ustanowil-program-emisji-obligacji-o-wartosci-do-200-mln-zl",
-      "url": "https://biznes.pap.pl/wiadomosci/firmy/atal-ustanowil-program-emisji-obligacji-o-wartosci-do-200-mln-zl",
-      "title": "Atal ustanowił program emisji obligacji o wartości do 200 mln zł",
-      "content_html": "Zarząd Atalu wyraził zgodę na utworzenie programu emisji obligacji o łącznej wartości nominalnej do kwoty 200 mln zł - poinformował deweloper w komunikacie.",
-      "date_published": "2026-06-01T17:38:00+02:00",
-      "source": "PAP Biznes"
-    },
-    {
       "id": "https://www.bankier.pl/wiadomosc/Zmiany-w-Wojsku-Polskim-Jest-nowy-dowodca-operacyjny-9143597.html",
       "url": "https://www.bankier.pl/wiadomosc/Zmiany-w-Wojsku-Polskim-Jest-nowy-dowodca-operacyjny-9143597.html",
       "title": "Zmiany w Wojsku Polskim. Jest nowy dowódca operacyjny",
       "content_html": "Prezydent Karol Nawrocki podpisał postanowienie o mianowaniu z dniem 2 czerwca gen. dyw. pil. Ireneusza Nowaka na stanowisko Dowódcy Operacyjnego Rodzajów Sił Zbrojnych - przekazał szef BBN Bartosz Grodecki. Do tej pory stanowisko Dowódcy Operacyjnego...",
       "date_published": "2026-06-01T17:35:00+02:00",
       "source": "Bankier.pl"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/firmy/cyberfolks-chce-sprzedac-maks-434-mln-akcji-vercom-w-abb",
-      "url": "https://biznes.pap.pl/wiadomosci/firmy/cyberfolks-chce-sprzedac-maks-434-mln-akcji-vercom-w-abb",
-      "title": "cyber_Folks chce sprzedać maks. 4,34 mln akcji Vercom w ABB",
-      "content_html": "cyber_Folks chce sprzedać w ABB nie więcej niż 4.340.405 akcji Vercom, stanowiących nie więcej niż 19,53 proc. jej akcji - podał cyber_Folks w komunikacie.",
-      "date_published": "2026-06-01T17:34:00+02:00",
-      "source": "PAP Biznes"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/KE-5-9-mld-euro-z-pierwszej-transzy-pozyczki-dla-Ukrainy-ma-byc-na-drony-9143672.html",
@@ -469,6 +485,14 @@
       "source": "Bankier.pl"
     },
     {
+      "id": "https://biznes.pap.pl/wiadomosci/firmy/mi-zdecydowal-o-kolejnym-zwiekszeniu-waloryzacji-kontraktow-drogowych-do-25-proc",
+      "url": "https://biznes.pap.pl/wiadomosci/firmy/mi-zdecydowal-o-kolejnym-zwiekszeniu-waloryzacji-kontraktow-drogowych-do-25-proc",
+      "title": "MI zdecydował o kolejnym zwiększeniu waloryzacji kontraktów drogowych - do 25 proc. - GDDKiA",
+      "content_html": "Minister Infrastruktury zdecydował o zwiększeniu poziomu waloryzacji kontraktów realizowanych przez GDDKiA, w których oferty były składane przed rozpoczęciem rosyjskiej agresji na Ukrainę - podała GDD",
+      "date_published": "2026-06-01T15:11:00+02:00",
+      "source": "PAP Biznes"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Balticon-chce-wyplacic-0-22-zl-dywidendy-na-akcje-9143506.html",
       "url": "https://www.bankier.pl/wiadomosc/Balticon-chce-wyplacic-0-22-zl-dywidendy-na-akcje-9143506.html",
       "title": "Balticon chce wypłacić 0,22 zł dywidendy na akcję",
@@ -483,6 +507,14 @@
       "content_html": "\"Zejście na plaże jak na klatce schodowej\" - to tylko jeden z komentarzy po tym, jak w mediach społecznościowych pojawiły się filmiki pokazujące wejście na plażę, które przypomina bardziej te przy domkach letniskowych, a nie hotelu, który...",
       "date_published": "2026-06-01T15:00:00+02:00",
       "source": "Bankier.pl"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/firmy/akcjonariusz-vrg-proponuje-wyplate-005-zl-dywidendy-na-akcje-z-zyskow-z-lat",
+      "url": "https://biznes.pap.pl/wiadomosci/firmy/akcjonariusz-vrg-proponuje-wyplate-005-zl-dywidendy-na-akcje-z-zyskow-z-lat",
+      "title": "Akcjonariusz VRG proponuje wypłatę 0,05 zł dywidendy na akcję z zysków z lat ubiegłych",
+      "content_html": "Akcjonariusz VRG - Colian - zgłosił projekt uchwały na walne zgromadzenie, proponując przeznaczenie na dywidendę 11,7 mln zł z zysków z lat ubiegłych, co dałoby wypłatę 0,05 zł na akcję - podano w pro",
+      "date_published": "2026-06-01T15:00:00+02:00",
+      "source": "PAP Biznes"
     },
     {
       "id": "https://biznes.pap.pl/wiadomosci/gospodarka/mf-na-przetargu-zamiany-3-czerwca-sprzeda-szesc-serii-obligacji-odkupi-piec",
@@ -773,6 +805,14 @@
       "source": "Bankier.pl"
     },
     {
+      "id": "https://biznes.pap.pl/wiadomosci/firmy/wirtualna-polska-bedzie-kontynuowala-inwestycje-w-segment-mediowy",
+      "url": "https://biznes.pap.pl/wiadomosci/firmy/wirtualna-polska-bedzie-kontynuowala-inwestycje-w-segment-mediowy",
+      "title": "Wirtualna Polska będzie kontynuowała inwestycje w segment mediowy",
+      "content_html": "Wirtualna Polska będzie kontynuowała inwestycje w segment mediowy - poinformował podczas wideokonferencji prezes WP Holding Jacek Świderski. Wskazał, że po spadkach przychodów w segmencie turystycznym",
+      "date_published": "2026-06-01T12:54:00+02:00",
+      "source": "PAP Biznes"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Amica-nie-widzi-zaklocen-w-lancuchach-dostaw-spodziewa-sie-wzrostu-cen-surowcow-9143387.html",
       "url": "https://www.bankier.pl/wiadomosc/Amica-nie-widzi-zaklocen-w-lancuchach-dostaw-spodziewa-sie-wzrostu-cen-surowcow-9143387.html",
       "title": "Amica nie widzi zakłóceń w łańcuchach dostaw. Spodziewa się wzrostu cen surowców",
@@ -811,6 +851,14 @@
       "content_html": "Organy skarbowe skierowały 245 zawiadomień do prokuratury oraz 126 zawiadomień do Rzecznika Dyscypliny Finansów Publicznych w wyniku działań audytowych – poinformowało w poniedziałek Ministerstwo Finansów.",
       "date_published": "2026-06-01T12:42:00+02:00",
       "source": "Bankier.pl"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/firmy/cena-maksymalna-na-2-vi-dla-benzyny-pb95-wynosi-595-zll-dla-626-zll",
+      "url": "https://biznes.pap.pl/wiadomosci/firmy/cena-maksymalna-na-2-vi-dla-benzyny-pb95-wynosi-595-zll-dla-626-zll",
+      "title": "Cena maksymalna na 2 VI dla benzyny Pb95 wynosi 5,95 zł/l, a dla ON 6,26 zł/l",
+      "content_html": "Maksymalna cena dla benzyny Pb95 wynosi 5,95 zł/l, dla benzyny Pb98 6,54 zł/l, a dla oleju napędowego 6,26 zł/l - wynika z obwieszczenia ministra energii opublikowanego w Monitorze Polskim. Ceny te bę",
+      "date_published": "2026-06-01T12:40:00+02:00",
+      "source": "PAP Biznes"
     },
     {
       "id": "https://biznes.pap.pl/wiadomosci/firmy/grupa-azoty-pracuje-z-ministerstwem-rolnictwa-nad-rozwiazaniami-dla-rynku-nawozow",
@@ -1149,6 +1197,14 @@
       "source": "PAP Biznes"
     },
     {
+      "id": "https://biznes.pap.pl/wiadomosci/firmy/grupa-tarczynski-miala-w-i-kw-2026-r-556-mln-zl-przychodow-tj-o-71-proc-wiecej-rdr",
+      "url": "https://biznes.pap.pl/wiadomosci/firmy/grupa-tarczynski-miala-w-i-kw-2026-r-556-mln-zl-przychodow-tj-o-71-proc-wiecej-rdr",
+      "title": "Grupa Tarczyński miała w I kw. 2026 r. 556 mln zł przychodów, tj. o 7,1 proc. więcej rdr",
+      "content_html": "Grupa Tarczyński wypracowała w I kwartale 2026 roku 556 mln zł przychodów ze sprzedaży, co stanowi wzrost o 7,1 proc. rdr - podała spółka w komunikacie prasowym. Wynik EBITDA ukształtował się na pozio",
+      "date_published": "2026-06-01T10:02:00+02:00",
+      "source": "PAP Biznes"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Nowy-mega-park-rozrywki-dla-rodzin-Inwestycja-za-ponad-50-mln-euro-9143233.html",
       "url": "https://www.bankier.pl/wiadomosc/Nowy-mega-park-rozrywki-dla-rodzin-Inwestycja-za-ponad-50-mln-euro-9143233.html",
       "title": "Nowy megapark rozrywki dla rodzin. Inwestycja za ponad 50 mln euro",
@@ -1229,22 +1285,6 @@
       "source": "PAP Biznes"
     },
     {
-      "id": "https://www.bankier.pl/wiadomosc/Medicalgorithmics-zawarlo-partnerstwo-technologiczne-z-wloskim-Accyourate-9143235.html",
-      "url": "https://www.bankier.pl/wiadomosc/Medicalgorithmics-zawarlo-partnerstwo-technologiczne-z-wloskim-Accyourate-9143235.html",
-      "title": "Medicalgorithmics zawarło partnerstwo technologiczne z włoskim Accyourate",
-      "content_html": "Medicalgorithmics zawarło partnerstwo technologiczne z Accyourate – włoską firmą wearable healthcare - dotyczące integracji algorytmu DRAI oraz oprogramowania DRP z rozwiązaniami włoskiej spółki - podało Medicalgorithmics w komunikacie.",
-      "date_published": "2026-06-01T09:32:00+02:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Rosyjscy-miliarderzy-wciaz-sie-bogaca-Dominuje-przemysl-9143234.html",
-      "url": "https://www.bankier.pl/wiadomosc/Rosyjscy-miliarderzy-wciaz-sie-bogaca-Dominuje-przemysl-9143234.html",
-      "title": "Rosyjscy miliarderzy wciąż się bogacą. Dominuje przemysł",
-      "content_html": "Mimo dynamicznie zmieniających się warunków gospodarczych, najbogatsi obywatele Federacji Rosyjskiej wciąż pomnażają swoje kapitały. Od początku 2026 roku majątek dwudziestu rosyjskich miliarderów z prestiżowego rankingu Bloomberg Billionaires...",
-      "date_published": "2026-06-01T09:28:00+02:00",
-      "source": "Bankier.pl"
-    },
-    {
       "id": "https://biznes.pap.pl/wiadomosci/firmy/kurs-lubawy-rosnie-o-21-proc-indeks-mwig40-lekko-znizkuje",
       "url": "https://biznes.pap.pl/wiadomosci/firmy/kurs-lubawy-rosnie-o-21-proc-indeks-mwig40-lekko-znizkuje",
       "title": "Kurs Lubawy rośnie o 21 proc.; indeks mWIG40 lekko zniżkuje",
@@ -1299,6 +1339,14 @@
       "content_html": "Efekt mnożnikowy nowych wydatków w ramach programu SAFE powinien być względnie silny, ponieważ kapitał i zamówienia zaczynają płynąć do obszarów, które dotąd pozostawały poza głównym nurtem wzrostu go",
       "date_published": "2026-06-01T08:33:00+02:00",
       "source": "PAP Biznes"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Medicalgorithmics-zawarlo-partnerstwo-technologiczne-z-wloskim-Accyourate-9143235.html",
+      "url": "https://www.bankier.pl/wiadomosc/Medicalgorithmics-zawarlo-partnerstwo-technologiczne-z-wloskim-Accyourate-9143235.html",
+      "title": "Medicalgorithmics zawarło partnerstwo technologiczne z włoskim Accyourate Medicalgorithmics zawarło partnerstwo technologiczne z Accyourate – włoską firmą wearable healthcare - dotyczące integracji algorytmu DRAI oraz oprogramowania DRP z rozwiązaniami włoskiej spółki - podało Medicalgorithmics w komunikacie.",
+      "content_html": "",
+      "date_published": "2026-06-01T08:32:00+02:00",
+      "source": "Bankier.pl"
     },
     {
       "id": "https://biznes.pap.pl/wiadomosci/firmy/medicalgorithmics-zawarlo-partnerstwo-technologiczne-z-wloskim-accyourate",
