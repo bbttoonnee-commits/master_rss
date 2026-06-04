@@ -5,6 +5,14 @@
   "home_page_url": "https://www.bankier.pl",
   "items": [
     {
+      "id": "https://biznes.pap.pl/wiadomosci/rynki/dzien-na-rynkach-mocne-wzrosty-dow-jones-w-tyle-zostaly-spolki-technologiczne",
+      "url": "https://biznes.pap.pl/wiadomosci/rynki/dzien-na-rynkach-mocne-wzrosty-dow-jones-w-tyle-zostaly-spolki-technologiczne",
+      "title": "DZIEŃ NA RYNKACH: Mocne wzrosty Dow Jones, w tyle zostały spółki technologiczne",
+      "content_html": "Czwartkowa sesja na amerykańskich giełdach zakończyła się mocnym wzrostem Dow Jones. Zyskał też S&P 500, ale skala jego wzrostu była ograniczona ze względu na przerzucanie się inwestorów z akcji spółe",
+      "date_published": "2026-06-04T22:09:00+02:00",
+      "source": "PAP Biznes"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Oszalales-Gdyby-nie-ja-siedzialbys-w-wiezieniu-Potezna-awantura-Trumpa-z-Netanjahu-9146398.html",
       "url": "https://www.bankier.pl/wiadomosc/Oszalales-Gdyby-nie-ja-siedzialbys-w-wiezieniu-Potezna-awantura-Trumpa-z-Netanjahu-9146398.html",
       "title": "\"Oszalałeś? Gdyby nie ja, siedziałbyś w więzieniu\". Potężna awantura Trumpa z Netanjahu",
@@ -619,14 +627,6 @@
       "content_html": "Ceny ropy naftowej na rynkach paliw spadają w czasie czwartkowej sesji po kilku dniach zwyżek. Ważna dla rynków ropy okazała się decyzja Izraela i Libanu - informują maklerzy.",
       "date_published": "2026-06-04T08:02:00+02:00",
       "source": "Bankier.pl"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/rynki/ceny-miedzi-w-londynie-znizkuja-kolejny-dzien",
-      "url": "https://biznes.pap.pl/wiadomosci/rynki/ceny-miedzi-w-londynie-znizkuja-kolejny-dzien",
-      "title": "Ceny miedzi w Londynie zniżkują kolejny dzień",
-      "content_html": "Notowania miedzi na giełdzie metali LME w Londynie zniżkują kolejny dzień, a inwestorzy śledzą sytuację na Bliskim Wschodzie, gdzie prezydent USA Donald Trump kontynuuje swoje wysiłki na rzecz zawarci",
-      "date_published": "2026-06-04T07:15:00+02:00",
-      "source": "PAP Biznes"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Koniec-z-przegrzewaniem-elektroniki-Nadchodza-plastiki-o-niezwyklych-wlasciwosciach-9140878.html",
