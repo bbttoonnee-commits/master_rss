@@ -5,6 +5,38 @@
   "home_page_url": "https://www.bankier.pl",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/Atak-terrorystyczny-w-Izraelu-Zginal-31-latek-ranni-w-stanie-krytycznym-9147131.html",
+      "url": "https://www.bankier.pl/wiadomosc/Atak-terrorystyczny-w-Izraelu-Zginal-31-latek-ranni-w-stanie-krytycznym-9147131.html",
+      "title": "Atak terrorystyczny w Izraelu. Zginął 31-latek, ranni w stanie krytycznym",
+      "content_html": "Jedna osoba zginęła, a co najmniej cztery zostały ranne w podwójnym ataku terrorystycznym, do którego doszło w niedzielę przed południem w środkowej części Izraela - poinformowały izraelskie służby ratunkowe, cytowane przez portal Times...",
+      "date_published": "2026-06-07T21:23:00+02:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Minister-przyrownuje-czlonkow-UPA-do-polskich-bohaterow-Czarnek-zada-dymisji-Donalda-Tuska-9147161.html",
+      "url": "https://www.bankier.pl/wiadomosc/Minister-przyrownuje-czlonkow-UPA-do-polskich-bohaterow-Czarnek-zada-dymisji-Donalda-Tuska-9147161.html",
+      "title": "Minister przyrównuje członków UPA do polskich bohaterów. Czarnek żąda dymisji Donalda Tuska",
+      "content_html": "Przemysław Czarnek (PiS) zażądał w niedzielę dymisji rządu Donalda Tuska. Powodem były słowa wiceministra nauki Karola Szeptyckiego, który w wywiadzie radiowym określił członków UPA jako „trochę takich ukraińskich żołnierzy niezłomnych”...",
+      "date_published": "2026-06-07T21:20:00+02:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/ekonomia-biznes-i-finanse/skrot-wiadomosci-sobota-niedziela-6-7-czerwca-0",
+      "url": "https://biznes.pap.pl/wiadomosci/ekonomia-biznes-i-finanse/skrot-wiadomosci-sobota-niedziela-6-7-czerwca-0",
+      "title": "Skrót wiadomości: sobota-niedziela, 6-7 czerwca",
+      "content_html": "Przegląd najważniejszych wiadomości gospodarczych, krajowych i ze świata z soboty i niedzieli, 6-7 czerwca.",
+      "date_published": "2026-06-07T19:45:00+02:00",
+      "source": "PAP Biznes"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Izrael-uderza-w-dowodztwo-Hezbollahu-Iran-zapowiada-zdecydowana-i-bolesna-odpowiedz-9147176.html",
+      "url": "https://www.bankier.pl/wiadomosc/Izrael-uderza-w-dowodztwo-Hezbollahu-Iran-zapowiada-zdecydowana-i-bolesna-odpowiedz-9147176.html",
+      "title": "Izrael uderza w dowództwo Hezbollahu. Iran zapowiada „zdecydowaną i bolesną odpowiedź”",
+      "content_html": "Izraelskie siły zaatakowały w niedzielę południowe przedmieścia Bejrutu, a celem były „centra dowodzenia” Hezbollahu - poinformował w oświadczeniu premier Benjamin Netanjahu. Zginęły dwie osoby, a 11 zostało rannych. Iran zagroził „zdecydowaną...",
+      "date_published": "2026-06-07T19:19:00+02:00",
+      "source": "Bankier.pl"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Rynek-ropy-w-uscisku-wojny-Odejscie-ZEA-spadajaca-podaz-i-widmo-powrotu-inflacji-z-lat-70-9147171.html",
       "url": "https://www.bankier.pl/wiadomosc/Rynek-ropy-w-uscisku-wojny-Odejscie-ZEA-spadajaca-podaz-i-widmo-powrotu-inflacji-z-lat-70-9147171.html",
       "title": "Rynek ropy w uścisku wojny. Odejście ZEA, spadająca podaż i widmo powrotu inflacji z lat 70.",
@@ -41,14 +73,6 @@
       "url": "https://www.bankier.pl/wiadomosc/Przedsiebiorcy-chca-ulgi-na-adopcje-AI-Maja-uwagi-do-projektu-polityki-sztucznej-inteligencji-9146016.html",
       "title": "Przedsiębiorcy chcą „ulgi na adopcję AI”. Mają uwagi do projektu polityki sztucznej inteligencji",
       "content_html": "Firmy zrzeszone w organizacji AI Chamber w uwagach do projektu polityki rozwoju sztucznej inteligencji postulują m.in. wprowadzenie ulgi dla przedsiębiorstw wdrażających tę technologię. AI Chamber zaapelowało też o stworzenie zwięzłego planu...",
-      "date_published": "2026-06-07T18:30:00+02:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Minister-przyrownuje-czlonkow-UPA-do-polskich-bohaterow-Czarnek-zada-dymisji-Donalda-Tuska-9147161.html",
-      "url": "https://www.bankier.pl/wiadomosc/Minister-przyrownuje-czlonkow-UPA-do-polskich-bohaterow-Czarnek-zada-dymisji-Donalda-Tuska-9147161.html",
-      "title": "Minister przyrównuje członków UPA do polskich bohaterów. Czarnek żąda dymisji Donalda Tuska",
-      "content_html": "Przemysław Czarnek (PiS) zażądał w niedzielę dymisji rządu Donalda Tuska. Powodem były słowa wiceministra nauki Karola Szeptyckiego, który w wywiadzie radiowym określił członków UPA jako „trochę takich ukraińskich żołnierzy niezłomnych”...",
       "date_published": "2026-06-07T18:30:00+02:00",
       "source": "Bankier.pl"
     },
@@ -121,14 +145,6 @@
       "url": "https://www.bankier.pl/wiadomosc/Kultowa-kawiarnia-moze-przetrwac-Miasto-wyciaga-reke-dlug-przekracza-2-mln-zl-9147130.html",
       "title": "Kultowa kawiarnia może przetrwać. Miasto wyciąga rękę, dług przekracza 2 mln zł",
       "content_html": "Warszawska kawiarnia A. Blikle, działająca przy Nowym Świecie od 1869 r., może uniknąć eksmisji mimo zadłużenia przekraczającego 2 mln zł. Jak poinformował w niedzielę portal Wyborcza.pl, stołeczni radni mają zdecydować o rozłożeniu należności...",
-      "date_published": "2026-06-07T16:00:00+02:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Atak-terrorystyczny-w-Izraelu-Zginal-31-latek-ranni-w-stanie-krytycznym-9147131.html",
-      "url": "https://www.bankier.pl/wiadomosc/Atak-terrorystyczny-w-Izraelu-Zginal-31-latek-ranni-w-stanie-krytycznym-9147131.html",
-      "title": "Atak terrorystyczny w Izraelu. Zginął 31-latek, ranni w stanie krytycznym",
-      "content_html": "Jedna osoba zginęła, a co najmniej cztery zostały ranne w podwójnym ataku terrorystycznym, do którego doszło w niedzielę przed południem w środkowej części Izraela - poinformowały izraelskie służby ratunkowe, cytowane przez portal Times...",
       "date_published": "2026-06-07T16:00:00+02:00",
       "source": "Bankier.pl"
     },
@@ -330,54 +346,6 @@
       "title": "Inwestorzy odwracają się od mieszkań. W USA transakcji najmniej od pandemii",
       "content_html": "Wyśrubowane ceny, wysoki koszt kredytu i niska opłacalność najmu – te czynniki odpowiadają za niemrawą aktywność inwestorów na amerykańskim rynku nieruchomości. Wskaźnik zakupów inwestycyjnych spadł do wartości najniższych od początku...",
       "date_published": "2026-06-07T07:00:00+02:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Rodzina-krolewska-bez-nalezytej-ochrony-Skandal-w-Windsorze-9144214.html",
-      "url": "https://www.bankier.pl/wiadomosc/Rodzina-krolewska-bez-nalezytej-ochrony-Skandal-w-Windsorze-9144214.html",
-      "title": "Rodzina królewska bez należytej ochrony. Skandal w Windsorze",
-      "content_html": "Brytyjska policja odsunęła od ochrony rodziny królewskiej 23 funkcjonariuszy za niedopełnienie obowiązków służbowych. Jak poinformowano w opublikowanym w poniedziałek oświadczeniu przyczyną tej decyzji było m.in. spanie na służbie.",
-      "date_published": "2026-06-06T20:30:00+02:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Nagie-zdjecia-Groka-Brytyjski-premier-popiera-pozew-przeciwko-xAI-9146426.html",
-      "url": "https://www.bankier.pl/wiadomosc/Nagie-zdjecia-Groka-Brytyjski-premier-popiera-pozew-przeciwko-xAI-9146426.html",
-      "title": "Nagie zdjęcia Groka. Brytyjski premier popiera pozew przeciwko xAI",
-      "content_html": "Brytyjski premier Keir Staremr poparł pozew posłanki Jess Asato przeciwko firmie Elona Muska xAI za generowanie jej zdjęć w bikini. Deputowana Partii Pracy zarzuca xAI, że tworząc chatbota Grok nie podjęła działań, by „uniemożliwić tworzenie...",
-      "date_published": "2026-06-06T20:30:00+02:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Puste-konto-unijnego-funduszu-dla-Ukrainy-Slowacja-dostala-grosze-za-mysliwce-MiG-29-i-system-S-300-9146924.html",
-      "url": "https://www.bankier.pl/wiadomosc/Puste-konto-unijnego-funduszu-dla-Ukrainy-Slowacja-dostala-grosze-za-mysliwce-MiG-29-i-system-S-300-9146924.html",
-      "title": "Puste konto unijnego funduszu dla Ukrainy. Słowacja dostała grosze za myśliwce MiG-29 i system S-300.",
-      "content_html": "Premier Słowacji Robert Fico zapowiedział, że omówi z przewodniczącą Komisji Europejskiej Ursulą von der Leyen sprawę zwrotu kosztów za sprzęt wojskowy przekazany Ukrainie po rosyjskiej inwazji z lutego 2022 r. Wypłaty miały być realizowane...",
-      "date_published": "2026-06-06T20:30:00+02:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Glebokie-pekniecie-na-Balkanach-USA-groza-wycofaniem-sie-z-Bosni-przez-spor-z-Unia-Europejska-9147024.html",
-      "url": "https://www.bankier.pl/wiadomosc/Glebokie-pekniecie-na-Balkanach-USA-groza-wycofaniem-sie-z-Bosni-przez-spor-z-Unia-Europejska-9147024.html",
-      "title": "Głębokie pęknięcie na Bałkanach. USA grożą wycofaniem się z Bośni przez spór z Unią",
-      "content_html": "Rośnie spór pomiędzy USA i Unią Europejską w sprawie wyboru nowego Wysokiego Przedstawiciela wspólnoty międzynarodowej w Bośni i Hercegowinie. Stany Zjednoczone zagroziły rozważeniem swojego zaangażowania w sprawy tego bałkańskiego kraju...",
-      "date_published": "2026-06-06T20:30:00+02:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Rozejm-z-8-kwietnia-w-gruzach-USA-i-Iran-wymieniaja-ciosy-w-ciesninie-Ormuz-9147029.html",
-      "url": "https://www.bankier.pl/wiadomosc/Rozejm-z-8-kwietnia-w-gruzach-USA-i-Iran-wymieniaja-ciosy-w-ciesninie-Ormuz-9147029.html",
-      "title": "Rozejm z 8 kwietnia w gruzach. USA i Iran wymieniają ciosy w cieśninie Ormuz",
-      "content_html": "Resort dyplomacji Iranu oskarżył w sobotę USA o rażące naruszenie zawieszenia broni obowiązującego od 8 kwietnia i zamach na „narodową suwerenność i terytorialną integralność Republiki Islamskiej” w związku z atakiem amerykańskich wojsk...",
-      "date_published": "2026-06-06T20:30:00+02:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Ostry-zgrzyt-w-Normandii-Hegseth-bojkotuje-ceremonie-i-porownuje-migracje-do-inwazji-9147031.html",
-      "url": "https://www.bankier.pl/wiadomosc/Ostry-zgrzyt-w-Normandii-Hegseth-bojkotuje-ceremonie-i-porownuje-migracje-do-inwazji-9147031.html",
-      "title": "Ostry zgrzyt w Normandii. Hegseth bojkotuje ceremonię i porównuje migrację do inwazji",
-      "content_html": "Szef Pentagonu Pete Hegseth podczas sobotnich obchodów 82. rocznicy lądowania aliantów w Normandii wezwał kraje europejskie, by podjęły więcej działań na rzecz własnej obronności. Hegseth nie uczestniczył w Normandii w ceremonii międzynarodowej...",
-      "date_published": "2026-06-06T20:30:00+02:00",
       "source": "Bankier.pl"
     }
   ]
