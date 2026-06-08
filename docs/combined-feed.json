@@ -5,6 +5,22 @@
   "home_page_url": "https://www.bankier.pl",
   "items": [
     {
+      "id": "https://biznes.pap.pl/wiadomosci/rynki/dzien-na-rynkach-na-wall-street-uspokojenie-po-piatkowej-wyprzedazy-akcji",
+      "url": "https://biznes.pap.pl/wiadomosci/rynki/dzien-na-rynkach-na-wall-street-uspokojenie-po-piatkowej-wyprzedazy-akcji",
+      "title": "DZIEŃ NA RYNKACH: Na Wall Street uspokojenie po piątkowej wyprzedaży akcji",
+      "content_html": "S&P 500 i Nasdaq Composite wzrosły na koniec poniedziałkowej sesji na amerykańskich giełdach, a akcje producentów chipów odbiły po piątkowej zapaści. Akcje Micron Technology, który przewodził ostatnie",
+      "date_published": "2026-06-08T22:13:00+02:00",
+      "source": "PAP Biznes"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/ekonomia-biznes-i-finanse/skrot-wiadomosci-poniedzialek-8-czerwca-2100",
+      "url": "https://biznes.pap.pl/wiadomosci/ekonomia-biznes-i-finanse/skrot-wiadomosci-poniedzialek-8-czerwca-2100",
+      "title": "Skrót wiadomości - poniedziałek, 8 czerwca, 21.00",
+      "content_html": "Przegląd najważniejszych wiadomości gospodarczych, krajowych i ze świata.",
+      "date_published": "2026-06-08T21:00:00+02:00",
+      "source": "PAP Biznes"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Wynagrodzenia-w-Polsce-Place-w-euro-wystrzelily-w-kosmos-9147833.html",
       "url": "https://www.bankier.pl/wiadomosc/Wynagrodzenia-w-Polsce-Place-w-euro-wystrzelily-w-kosmos-9147833.html",
       "title": "Wynagrodzenia w Polsce. Płace w euro wystrzeliły w kosmos",
@@ -253,14 +269,6 @@
       "source": "Bankier.pl"
     },
     {
-      "id": "https://biznes.pap.pl/wiadomosci/ekonomia-biznes-i-finanse/skrot-wiadomosci-poniedzialek-8-czerwca-1700",
-      "url": "https://biznes.pap.pl/wiadomosci/ekonomia-biznes-i-finanse/skrot-wiadomosci-poniedzialek-8-czerwca-1700",
-      "title": "Skrót wiadomości - poniedziałek, 8 czerwca, 17.00",
-      "content_html": "Przegląd najważniejszych wiadomości gospodarczych, krajowych i ze świata.",
-      "date_published": "2026-06-08T17:00:00+02:00",
-      "source": "PAP Biznes"
-    },
-    {
       "id": "https://www.bankier.pl/wiadomosc/18-GW-offshore-u-do-2040-r-Morska-energetyka-wiatrowa-filarem-transformacji-9147617.html",
       "url": "https://www.bankier.pl/wiadomosc/18-GW-offshore-u-do-2040-r-Morska-energetyka-wiatrowa-filarem-transformacji-9147617.html",
       "title": "18 gigawatów do 2040 r. Morska energetyka wiatrowa filarem transformacji",
@@ -283,14 +291,6 @@
       "content_html": "Państwa członkowskie w ramach Rady UE zdecydowały w poniedziałek o nałożeniu sankcji na dwóch Irańczyków oraz jeden irański podmiot za działania zagrażające swobodzie żeglugi w regionie Zatoki Perskiej, w szczególności za blokowanie cieśniny...",
       "date_published": "2026-06-08T16:45:00+02:00",
       "source": "Bankier.pl"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/firmy/w-wezwaniu-na-akcje-wp-holding-zawarto-transakcje-na-lacznie-3828130-akcji",
-      "url": "https://biznes.pap.pl/wiadomosci/firmy/w-wezwaniu-na-akcje-wp-holding-zawarto-transakcje-na-lacznie-3828130-akcji",
-      "title": "W wezwaniu na akcje WP Holding zawarto transakcje na łącznie 3.828.130 akcji",
-      "content_html": "W wezwaniu na akcje WP Holding zawarto transakcje na łącznie 3.828.130 akcji, nabywanych po cenie 59,00 zł za akcję - podał podmiot pośredniczący Erste Biuro Maklerskie.",
-      "date_published": "2026-06-08T16:45:00+02:00",
-      "source": "PAP Biznes"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/MBF-Group-podpisal-wiazace-deklaracje-dotyczace-objecia-akcji-nowej-emisji-spolki-9147642.html",
@@ -371,6 +371,22 @@
       "content_html": "Szefowa unijnej dyplomacji Kaja Kallas potwierdziła w poniedziałek, że Węgry wycofały weto w sprawie 6,6 mld euro z Instrumentu na rzecz Pokoju (EPF), z którego państwa otrzymywały zwrot kosztów za zakupy broni dla Ukrainy. Kallas dodała, że...",
       "date_published": "2026-06-08T15:40:00+02:00",
       "source": "Bankier.pl"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/rynki/po-otwarciu-sesji-dji-rosnie-o-04-proc-sp-500-rosnie-o-075-proc",
+      "url": "https://biznes.pap.pl/wiadomosci/rynki/po-otwarciu-sesji-dji-rosnie-o-04-proc-sp-500-rosnie-o-075-proc",
+      "title": "Po otwarciu sesji DJI rośnie o 0,4 proc., a S&P 500 rośnie o 0,75 proc.",
+      "content_html": "Po otwarciu sesji w USA Dow Jones Industrial rośnie o 0,4 proc. do 51.069 pkt., S&P500 zyskuje 0,75 proc. i wynosi 7.439 pkt.",
+      "date_published": "2026-06-08T15:36:00+02:00",
+      "source": "PAP Biznes"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/firmy/mbf-group-podpisal-wiazace-deklaracje-dotyczace-objecia-akcji-nowej-emisji-spolki",
+      "url": "https://biznes.pap.pl/wiadomosci/firmy/mbf-group-podpisal-wiazace-deklaracje-dotyczace-objecia-akcji-nowej-emisji-spolki",
+      "title": "MBF Group podpisał wiążące deklaracje dotyczące objęcia akcji nowej emisji spółki",
+      "content_html": "MBF Group podpisał wiążące deklaracje dotyczące objęcia akcji nowej emisji spółki - podało MBF Group w komunikacie. Wskazano, że pozyskiwany kapitał przeznaczony będzie przede wszystkim na finansowani",
+      "date_published": "2026-06-08T15:35:00+02:00",
+      "source": "PAP Biznes"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Powstanie-lacznik-autostrady-A4-i-Wschodniej-Obwodnicy-Wroclawia-9147570.html",
@@ -819,14 +835,6 @@
       "content_html": "Hotel Gołębiewski w Pobierowie wzbudza równie silne emocje w Polsce, co i za granicą. Niemieckie media rozpisują się o zbliżającym się wielkimi krokami otwarciu, które przełożono na 10 czerwca. W jednym wszyscy są zgodni - ceny zaskakują...",
       "date_published": "2026-06-08T11:21:00+02:00",
       "source": "Bankier.pl"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/gospodarka/polska-wsrod-krajow-z-najwyzszym-kosztem-obslugi-dlugu-w-ue",
-      "url": "https://biznes.pap.pl/wiadomosci/gospodarka/polska-wsrod-krajow-z-najwyzszym-kosztem-obslugi-dlugu-w-ue",
-      "title": "Polska wśród krajów z najwyższym kosztem obsługi długu w UE",
-      "content_html": "Polska należy do krajów Unii Europejskiej o najwyższym koszcie obsługi długu publicznego – wynika z danych Eurostatu. Wskaźnik ten wyniósł w Polsce 4,5 proc. w 2025 r., co plasuje kraj w ścisłej czołó",
-      "date_published": "2026-06-08T11:17:00+02:00",
-      "source": "PAP Biznes"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Wojna-na-exit-polle-dziesiatki-aresztowan-i-zarzuty-o-korupcje-Gorace-wybory-w-Armenii-9147212.html",
