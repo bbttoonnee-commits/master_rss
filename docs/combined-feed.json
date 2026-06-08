@@ -5,20 +5,28 @@
   "home_page_url": "https://www.bankier.pl",
   "items": [
     {
-      "id": "https://biznes.pap.pl/wiadomosci/rynki/dzien-na-rynkach-na-wall-street-uspokojenie-po-piatkowej-wyprzedazy-akcji",
-      "url": "https://biznes.pap.pl/wiadomosci/rynki/dzien-na-rynkach-na-wall-street-uspokojenie-po-piatkowej-wyprzedazy-akcji",
-      "title": "DZIEŃ NA RYNKACH: Na Wall Street uspokojenie po piątkowej wyprzedaży akcji",
-      "content_html": "S&P 500 i Nasdaq Composite wzrosły na koniec poniedziałkowej sesji na amerykańskich giełdach, a akcje producentów chipów odbiły po piątkowej zapaści. Akcje Micron Technology, który przewodził ostatnie",
-      "date_published": "2026-06-08T22:13:00+02:00",
-      "source": "PAP Biznes"
+      "id": "https://www.bankier.pl/wiadomosc/Zysk-netto-grupy-AB-w-II-kwartale-2025-26-wzrosl-do-40-7-mln-zl-powyzej-konsensusu-9147913.html",
+      "url": "https://www.bankier.pl/wiadomosc/Zysk-netto-grupy-AB-w-II-kwartale-2025-26-wzrosl-do-40-7-mln-zl-powyzej-konsensusu-9147913.html",
+      "title": "Zysk netto grupy AB w II kwartale 2025/26 wzrósł do 40,7 mln zł, powyżej konsensusu",
+      "content_html": "Zysk netto grupy AB w drugim kwartale roku obrotowego 2025/26 wzrósł o 17 proc. rok do roku, do 40,7 mln zł - wynika z wyliczeń PAP Biznes na podstawie raportu półrocznego spółki. Wynik jest o 2,5 proc. wyższy od konsensusu PAP Biznes.",
+      "date_published": "2026-06-09T01:06:00+02:00",
+      "source": "Bankier.pl"
     },
     {
-      "id": "https://biznes.pap.pl/wiadomosci/ekonomia-biznes-i-finanse/skrot-wiadomosci-poniedzialek-8-czerwca-2100",
-      "url": "https://biznes.pap.pl/wiadomosci/ekonomia-biznes-i-finanse/skrot-wiadomosci-poniedzialek-8-czerwca-2100",
-      "title": "Skrót wiadomości - poniedziałek, 8 czerwca, 21.00",
-      "content_html": "Przegląd najważniejszych wiadomości gospodarczych, krajowych i ze świata.",
-      "date_published": "2026-06-08T21:00:00+02:00",
-      "source": "PAP Biznes"
+      "id": "https://www.bankier.pl/wiadomosc/Wyniki-AB-w-II-kwartale-2025-26-vs-konsensus-PAP-Biznes-tabela-popr-9147914.html",
+      "url": "https://www.bankier.pl/wiadomosc/Wyniki-AB-w-II-kwartale-2025-26-vs-konsensus-PAP-Biznes-tabela-popr-9147914.html",
+      "title": "Wyniki AB w II kwartale 2025/26 vs konsensus PAP Biznes (tabela, popr.)",
+      "content_html": "Poniżej przedstawiono wyniki AB w drugim kwartale 2025/26 oraz ich odniesienie do konsensusu PAP Biznes i wyników poprzednich okresów.",
+      "date_published": "2026-06-09T01:06:00+02:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Wyniki-AB-w-II-kwartale-2025-26-vs-konsensus-PAP-Biznes-tabela-9147908.html",
+      "url": "https://www.bankier.pl/wiadomosc/Wyniki-AB-w-II-kwartale-2025-26-vs-konsensus-PAP-Biznes-tabela-9147908.html",
+      "title": "Wyniki AB w II kwartale 2025/26 vs konsensus PAP Biznes (tabela)",
+      "content_html": "Poniżej przedstawiono wyniki AB w drugim kwartale 2025/26 oraz ich odniesienie do konsensusu PAP Biznes i wyników poprzednich okresów.",
+      "date_published": "2026-06-09T00:44:00+02:00",
+      "source": "Bankier.pl"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Wynagrodzenia-w-Polsce-Place-w-euro-wystrzelily-w-kosmos-9147833.html",
@@ -61,14 +69,6 @@
       "source": "Bankier.pl"
     },
     {
-      "id": "https://biznes.pap.pl/wiadomosci/firmy/rn-banku-pocztowego-wybrala-jedrzeja-marciniaka-na-wiceprezesa-tymczasowo",
-      "url": "https://biznes.pap.pl/wiadomosci/firmy/rn-banku-pocztowego-wybrala-jedrzeja-marciniaka-na-wiceprezesa-tymczasowo",
-      "title": "RN Banku Pocztowego wybrała Jędrzeja Marciniaka na wiceprezesa, tymczasowo kierującego pracami zarządu",
-      "content_html": "RN Banku Pocztowego powołała z dniem 1 lipca 2026 r. Jędrzeja Marciniaka do składu zarządu banku i powierzyła mu pełnienie funkcji wiceprezesa zarządu oraz tymczasowe kierowanie pracami zarządu, tj. d",
-      "date_published": "2026-06-08T19:29:00+02:00",
-      "source": "PAP Biznes"
-    },
-    {
       "id": "https://www.bankier.pl/wiadomosc/Cloud-Technologies-wyplaci-1-10-zl-dywidendy-na-akcje-9147794.html",
       "url": "https://www.bankier.pl/wiadomosc/Cloud-Technologies-wyplaci-1-10-zl-dywidendy-na-akcje-9147794.html",
       "title": "Cloud Technologies wypłaci 1,10 zł dywidendy na akcję",
@@ -83,22 +83,6 @@
       "content_html": "Celon Pharma zawarła umowę licencyjną i dostawy z Pharmalink Drug Store w celu komercjalizacji preparatów semaglutydu Celon Pharma, w wielodawkowych penach do wstrzyknięć podskórnych - podała spółka w komunikacie. Szacowana minimalna wartość...",
       "date_published": "2026-06-08T19:08:00+02:00",
       "source": "Bankier.pl"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/energia/rada-ministrow-przyjela-zaktualizowany-kpeik-me-opis2",
-      "url": "https://biznes.pap.pl/wiadomosci/energia/rada-ministrow-przyjela-zaktualizowany-kpeik-me-opis2",
-      "title": "Rada Ministrów przyjęła zaktualizowany KPEiK - ME (opis2)",
-      "content_html": "Rząd przyjął zaktualizowany Krajowy Plan w dziedzinie Energii i Klimatu; w 2040 r. moce OZE odpowiadać będą za prawie 60 proc. całkowitych mocy zainstalowanych w systemie - podał resort energii na str",
-      "date_published": "2026-06-08T19:08:00+02:00",
-      "source": "PAP Biznes"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/energia/rada-ministrow-przyjela-zaktualizowany-kpeik-me-opis",
-      "url": "https://biznes.pap.pl/wiadomosci/energia/rada-ministrow-przyjela-zaktualizowany-kpeik-me-opis",
-      "title": "Rada Ministrów przyjęła zaktualizowany KPEiK - ME (opis)",
-      "content_html": "Rząd przyjął zaktualizowany Krajowy Plan w dziedzinie Energii i Klimatu; w 2040 r. moce OZE odpowiadać będą za prawie 60 proc. całkowitych mocy zainstalowanych w systemie - podał resort energii na str",
-      "date_published": "2026-06-08T18:52:00+02:00",
-      "source": "PAP Biznes"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Projekt-wspolnego-mysliwca-FCAS-Przelomowy-sojusz-przeszedl-do-historii-9147774.html",
@@ -133,44 +117,12 @@
       "source": "Bankier.pl"
     },
     {
-      "id": "https://biznes.pap.pl/wiadomosci/firmy/cloud-technologies-wyplaci-110-zl-dywidendy-na-akcje",
-      "url": "https://biznes.pap.pl/wiadomosci/firmy/cloud-technologies-wyplaci-110-zl-dywidendy-na-akcje",
-      "title": "Cloud Technologies wypłaci 1,10 zł dywidendy na akcję",
-      "content_html": "Cloud Technologies przeznaczy na wypłatę dywidendy łącznie 4,8 mln zł z zysku netto za 2025 rok, co daje 1,10 zł dywidendy na akcję - poinformowała spółka w komunikacie.",
-      "date_published": "2026-06-08T18:21:00+02:00",
-      "source": "PAP Biznes"
-    },
-    {
       "id": "https://www.bankier.pl/wiadomosc/Poltreg-otrzymal-patent-pochodny-od-amerykanskiego-urzedu-patentowego-9147742.html",
       "url": "https://www.bankier.pl/wiadomosc/Poltreg-otrzymal-patent-pochodny-od-amerykanskiego-urzedu-patentowego-9147742.html",
       "title": "Poltreg otrzymał patent pochodny od amerykańskiego urzędu patentowego",
       "content_html": "Poltreg otrzymał patent pochodny (rozszerzenie ochrony patentowej) od amerykańskiego urzędu patentowego dotyczącego metody wytwarzania preparatu limfocytów Tregs do wcześniejszego patentu pn. \"Szczepionka do leczenia cukrzycy typu 1 u dzieci, użycie...",
       "date_published": "2026-06-08T18:14:00+02:00",
       "source": "Bankier.pl"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/firmy/celon-pharma-ma-umowe-w-zakresie-komercjalizacji-leku-reduzek-w-wybranych-krajach",
-      "url": "https://biznes.pap.pl/wiadomosci/firmy/celon-pharma-ma-umowe-w-zakresie-komercjalizacji-leku-reduzek-w-wybranych-krajach",
-      "title": "Celon Pharma ma umowę w zakresie komercjalizacji leku Reduzek w wybranych krajach Zatoki Perskiej",
-      "content_html": "Celon Pharma zawarła umowę licencyjną i dostawy z Pharmalink Drug Store w celu komercjalizacji preparatów semaglutydu Celon Pharma, w wielodawkowych penach do wstrzyknięć podskórnych - podała spółka w",
-      "date_published": "2026-06-08T18:06:00+02:00",
-      "source": "PAP Biznes"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/rynki/dzien-na-rynkach-przewaga-spadkow-indeksow-w-europie-na-poczatku-tygodnia-8",
-      "url": "https://biznes.pap.pl/wiadomosci/rynki/dzien-na-rynkach-przewaga-spadkow-indeksow-w-europie-na-poczatku-tygodnia-8",
-      "title": "DZIEŃ NA RYNKACH: Przewaga spadków indeksów w Europie na początku tygodnia",
-      "content_html": "Indeksy na europejskich giełdach głównie zniżkowały na koniec sesji w poniedziałek. Inwestorzy oczekują na posiedzenie EBC w tym tygodniu, po którym spodziewają się, że bank centralny podniesie stopy ",
-      "date_published": "2026-06-08T18:04:00+02:00",
-      "source": "PAP Biznes"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/rynki/zamkniecia-na-gieldach-w-europie-tabela-2880",
-      "url": "https://biznes.pap.pl/wiadomosci/rynki/zamkniecia-na-gieldach-w-europie-tabela-2880",
-      "title": "Zamknięcia na giełdach w Europie (tabela)",
-      "content_html": "Poniżej zamknięcia i zmiany wybranych indeksów giełdowych w Europie.",
-      "date_published": "2026-06-08T18:01:00+02:00",
-      "source": "PAP Biznes"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/W-wezwaniu-na-akcje-WP-Holding-zawarto-transakcje-na-lacznie-3-828-130-akcji-9147718.html",
@@ -189,14 +141,6 @@
       "source": "Bankier.pl"
     },
     {
-      "id": "https://biznes.pap.pl/wiadomosci/przemysl/creotech-instruments-rozpoczyna-abb-na-nie-wiecej-niz-650000-akcji-spolki",
-      "url": "https://biznes.pap.pl/wiadomosci/przemysl/creotech-instruments-rozpoczyna-abb-na-nie-wiecej-niz-650000-akcji-spolki",
-      "title": "Creotech Instruments rozpoczyna ABB na nie więcej niż 650.000 akcji spółki",
-      "content_html": "Creotech Instruments rozpoczął proces przyspieszonej budowy księgi popytu w związku z emisją do 650.000 akcji zwykłych na okaziciela serii M z wyłączeniem prawa poboru - podał Creotech Instruments w k",
-      "date_published": "2026-06-08T17:43:00+02:00",
-      "source": "PAP Biznes"
-    },
-    {
       "id": "https://www.bankier.pl/wiadomosc/Akcjonariusz-Danks-chce-aby-spolka-wyplacila-0-35-zl-dywidendy-na-akcje-z-kapitalow-zapasowych-9147709.html",
       "url": "https://www.bankier.pl/wiadomosc/Akcjonariusz-Danks-chce-aby-spolka-wyplacila-0-35-zl-dywidendy-na-akcje-z-kapitalow-zapasowych-9147709.html",
       "title": "Akcjonariusz Danks chce, aby spółka wypłaciła 0,35 zł dywidendy na akcję z kapitałów zapasowych",
@@ -213,28 +157,12 @@
       "source": "Bankier.pl"
     },
     {
-      "id": "https://biznes.pap.pl/wiadomosci/firmy/przychody-grupy-boombit-w-maju-wyniosly-1852-mln-zl",
-      "url": "https://biznes.pap.pl/wiadomosci/firmy/przychody-grupy-boombit-w-maju-wyniosly-1852-mln-zl",
-      "title": "Przychody grupy BoomBit w maju wyniosły 18,52 mln zł",
-      "content_html": "Grupa BoomBit odnotowała w maju 2026 roku przychody ze sprzedaży na poziomie 18,52 mln zł, co oznacza wzrost o 16,4 proc. rdr oraz spadek o 2,7 proc. w porównaniu z poprzednim miesiącem - poinformował",
-      "date_published": "2026-06-08T17:23:00+02:00",
-      "source": "PAP Biznes"
-    },
-    {
       "id": "https://www.bankier.pl/wiadomosc/DM-BDM-obnizyl-cene-docelowa-akcji-Elektrotimu-do-53-7-zl-9147690.html",
       "url": "https://www.bankier.pl/wiadomosc/DM-BDM-obnizyl-cene-docelowa-akcji-Elektrotimu-do-53-7-zl-9147690.html",
       "title": "DM BDM obniżył cenę docelową akcji Elektrotimu do 53,7 zł",
       "content_html": "Analitycy DM BDM, w raporcie z 8 czerwca, obniżyli cenę docelową akcji Elektrotimu do 53,7 zł z 54,6 zł poprzednio, jednocześnie podtrzymując rekomendację \"trzymaj\".",
       "date_published": "2026-06-08T17:16:00+02:00",
       "source": "Bankier.pl"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/firmy/poltreg-otrzymal-patent-pochodny-od-amerykanskiego-urzedu-patentowego",
-      "url": "https://biznes.pap.pl/wiadomosci/firmy/poltreg-otrzymal-patent-pochodny-od-amerykanskiego-urzedu-patentowego",
-      "title": "Poltreg otrzymał patent pochodny od amerykańskiego urzędu patentowego",
-      "content_html": "Poltreg otrzymał patent pochodny (rozszerzenie ochrony patentowej) od amerykańskiego urzędu patentowego dotyczącego metody wytwarzania preparatu limfocytów Tregs do wcześniejszego patentu pn. \"Szczepi",
-      "date_published": "2026-06-08T17:12:00+02:00",
-      "source": "PAP Biznes"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/URE-przedluzyl-obowiazywanie-taryfy-gazowej-myOrlen-do-konca-2026-r-9147687.html",
@@ -341,6 +269,38 @@
       "source": "Bankier.pl"
     },
     {
+      "id": "https://biznes.pap.pl/wiadomosci/firmy/ure-przedluzyl-obowiazywanie-taryfy-gazowej-myorlen-do-konca-2026-r",
+      "url": "https://biznes.pap.pl/wiadomosci/firmy/ure-przedluzyl-obowiazywanie-taryfy-gazowej-myorlen-do-konca-2026-r",
+      "title": "URE przedłużył obowiązywanie taryfy gazowej myOrlen do końca 2026 r.",
+      "content_html": "Prezes Urzędu Regulacji Energetyki przedłużył do 31 grudnia 2026 r. okres obowiązywania taryfy myOrlen na sprzedaż paliw gazowych - poinformował URE w komunikacie.",
+      "date_published": "2026-06-08T16:07:00+02:00",
+      "source": "PAP Biznes"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/firmy/echo-investment-dokona-wczesniejszego-calkowitego-wykupu-obligacji-serii-3i2023",
+      "url": "https://biznes.pap.pl/wiadomosci/firmy/echo-investment-dokona-wczesniejszego-calkowitego-wykupu-obligacji-serii-3i2023",
+      "title": "Echo Investment dokona wcześniejszego całkowitego wykupu obligacji serii 3I/2023, 4I/2024 i 6I/2024",
+      "content_html": "Echo Investment dokona wcześniejszego całkowitego wykupu obligacji serii 3I/2023, 4I/2024 i 6I/2024 - podała spółka w komunikacie.",
+      "date_published": "2026-06-08T16:04:00+02:00",
+      "source": "PAP Biznes"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/gospodarka/agencja-fitch-obnizyla-prognoze-wzrostu-pkb-polski-w-26-do-33-proc-w-27",
+      "url": "https://biznes.pap.pl/wiadomosci/gospodarka/agencja-fitch-obnizyla-prognoze-wzrostu-pkb-polski-w-26-do-33-proc-w-27",
+      "title": "Agencja Fitch obniżyła prognozę wzrostu PKB Polski w '26 do 3,3 proc., w '27 podtrzymała 2,9 proc.",
+      "content_html": "Agencja Fitch Global Ratings obniżyła prognozę dynamiki PKB Polski w 2026 r. do 3,3 proc. z 3,6 proc., na 2027 r. podtrzymała 2,9 proc. - wynika z czerwcowej rundy prognostycznej agencji. Fitch spodzi",
+      "date_published": "2026-06-08T16:03:00+02:00",
+      "source": "PAP Biznes"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/gospodarka/euro-w-ebc-11540-usd-i-18460-jpy",
+      "url": "https://biznes.pap.pl/wiadomosci/gospodarka/euro-w-ebc-11540-usd-i-18460-jpy",
+      "title": "Euro w EBC: 1,1540 USD i 184,60 JPY",
+      "content_html": "Europejski Bank Centralny (EBC) ustalił kurs euro na 1,1540 USD i 184,60 JPY - podał bank na swojej stronie internetowej.",
+      "date_published": "2026-06-08T15:58:00+02:00",
+      "source": "PAP Biznes"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Coraz-wiecej-panstw-modernizuje-arsenaly-atomowe-SIPRI-ostrzega-przed-eskalacja-9147571.html",
       "url": "https://www.bankier.pl/wiadomosc/Coraz-wiecej-panstw-modernizuje-arsenaly-atomowe-SIPRI-ostrzega-przed-eskalacja-9147571.html",
       "title": "Coraz więcej państw modernizuje arsenały atomowe. SIPRI ostrzega przed eskalacją",
@@ -357,12 +317,36 @@
       "source": "Bankier.pl"
     },
     {
+      "id": "https://biznes.pap.pl/wiadomosci/energia/18-gw-offshoreu-do-2040-r-w-ambitnym-scenariuszu-nowego-kpeik-me-aktl",
+      "url": "https://biznes.pap.pl/wiadomosci/energia/18-gw-offshoreu-do-2040-r-w-ambitnym-scenariuszu-nowego-kpeik-me-aktl",
+      "title": "18 GW offshore'u do 2040 r. w ambitnym scenariuszu nowego KPEiK - ME (aktl.)",
+      "content_html": "W ambitnym scenariuszu Krajowego Planu w dziedzinie Energii i Klimatu (KPEiK) będzie zapisane 18 GW dla morskiej energetyki wiatrowej do 2040 r. - poinformował minister energii Miłosz Motyka.",
+      "date_published": "2026-06-08T15:54:00+02:00",
+      "source": "PAP Biznes"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Polska-spelnia-kryteria-wejscia-do-MSCI-DM-upgrade-bylby-korzystny-choc-niesie-ryzyka-9147586.html",
       "url": "https://www.bankier.pl/wiadomosc/Polska-spelnia-kryteria-wejscia-do-MSCI-DM-upgrade-bylby-korzystny-choc-niesie-ryzyka-9147586.html",
       "title": "Polska w MSCI DM. \"Upgrade byłby korzystny, choć niesie ryzyka\"",
       "content_html": "Polska spełnia wszystkie kryteria MSCI wymagane do reklasyfikacji do grona rynków rozwiniętych i teoretycznie może trafić na watch listę już w czerwcu. Według analityków, ewentualny upgrade, choć wizerunkowo korzystny dla polskiej giełdy, może...",
       "date_published": "2026-06-08T15:50:00+02:00",
       "source": "Bankier.pl"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/firmy/projekt-przyspieszajacy-budowe-oze-wkrotce-na-rzadzie-hennig-kloska",
+      "url": "https://biznes.pap.pl/wiadomosci/firmy/projekt-przyspieszajacy-budowe-oze-wkrotce-na-rzadzie-hennig-kloska",
+      "title": "Projekt przyspieszający budowę OZE wkrótce na rządzie - Hennig-Kloska",
+      "content_html": "Komitet Stały Rady Ministrów przyjął niedawno projekt ustawy o odnawialnych źródłach energii, która pozwoli na równoległe procedowanie decyzji środowiskowych i pozwoleń na budowę OZE - poinformowała n",
+      "date_published": "2026-06-08T15:46:00+02:00",
+      "source": "PAP Biznes"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/firmy/obrot-akcjami-dust-zostal-zawieszony-do-konca-sesji-w-poniedzialek-gpw",
+      "url": "https://biznes.pap.pl/wiadomosci/firmy/obrot-akcjami-dust-zostal-zawieszony-do-konca-sesji-w-poniedzialek-gpw",
+      "title": "Obrót akcjami The Dust został zawieszony do końca sesji w poniedziałek - GPW",
+      "content_html": "Obrót akcjami The Dust został zawieszony do końca sesji w poniedziałek, jednocześnie unieważniono kursy zawarte w tym dniu na tym instrumencie - podało GPW w komunikacie.",
+      "date_published": "2026-06-08T15:44:00+02:00",
+      "source": "PAP Biznes"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Wegry-wycofaly-weto-w-sprawie-6-6-mld-euro-na-bron-dla-Ukrainy-9147576.html",
@@ -837,6 +821,14 @@
       "source": "Bankier.pl"
     },
     {
+      "id": "https://biznes.pap.pl/wiadomosci/gospodarka/polska-wsrod-krajow-z-najwyzszym-kosztem-obslugi-dlugu-w-ue",
+      "url": "https://biznes.pap.pl/wiadomosci/gospodarka/polska-wsrod-krajow-z-najwyzszym-kosztem-obslugi-dlugu-w-ue",
+      "title": "Polska wśród krajów z najwyższym kosztem obsługi długu w UE",
+      "content_html": "Polska należy do krajów Unii Europejskiej o najwyższym koszcie obsługi długu publicznego – wynika z danych Eurostatu. Wskaźnik ten wyniósł w Polsce 4,5 proc. w 2025 r., co plasuje kraj w ścisłej czołó",
+      "date_published": "2026-06-08T11:17:00+02:00",
+      "source": "PAP Biznes"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Wojna-na-exit-polle-dziesiatki-aresztowan-i-zarzuty-o-korupcje-Gorace-wybory-w-Armenii-9147212.html",
       "url": "https://www.bankier.pl/wiadomosc/Wojna-na-exit-polle-dziesiatki-aresztowan-i-zarzuty-o-korupcje-Gorace-wybory-w-Armenii-9147212.html",
       "title": "Wojna na exit polle, dziesiątki aresztowań i zarzuty o korupcję. Gorące wybory w Armenii",
@@ -1221,22 +1213,6 @@
       "source": "PAP Biznes"
     },
     {
-      "id": "https://www.bankier.pl/wiadomosc/Skarby-Jagiellonow-wracaja-Niemcy-oddadza-Polsce-bezcenne-dziela-sztuki-9147258.html",
-      "url": "https://www.bankier.pl/wiadomosc/Skarby-Jagiellonow-wracaja-Niemcy-oddadza-Polsce-bezcenne-dziela-sztuki-9147258.html",
-      "title": "Skarby Jagiellonów wracają. Niemcy oddadzą Polsce bezcenne dzieła sztuki",
-      "content_html": "Na 35. rocznicę podpisania traktatu o dobrym sąsiedztwie Niemcy zwrócą Polsce m.in. pierścień Jagiellonów i inne zagrabione dzieła sztuki – pisze poniedziałkowa „Gazeta Wyborcza”.",
-      "date_published": "2026-06-08T07:44:00+02:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Wielkie-zmiany-w-budzecie-UE-Bruksela-chce-opodatkowac-kryptowaluty-i-hazard-9147254.html",
-      "url": "https://www.bankier.pl/wiadomosc/Wielkie-zmiany-w-budzecie-UE-Bruksela-chce-opodatkowac-kryptowaluty-i-hazard-9147254.html",
-      "title": "Wielkie zmiany w budżecie UE. Bruksela chce opodatkować kryptowaluty i hazard",
-      "content_html": "Unia Europejska szuka pomysłów na nowe źródła finansowania wieloletniego budżetu UE na lata 2028-2034. Wśród propozycji jest m.in. wdrożenie podatku od gier hazardowych online czy od zysków z kryptowalut....",
-      "date_published": "2026-06-08T07:35:00+02:00",
-      "source": "Bankier.pl"
-    },
-    {
       "id": "https://biznes.pap.pl/wiadomosci/gospodarka/iata-prognozuje-wzrost-liczby-pasazerow-w-ruchu-lotniczym-w-26-o-44-proc-rdr",
       "url": "https://biznes.pap.pl/wiadomosci/gospodarka/iata-prognozuje-wzrost-liczby-pasazerow-w-ruchu-lotniczym-w-26-o-44-proc-rdr",
       "title": "IATA prognozuje wzrost liczby pasażerów w ruchu lotniczym w '26 o 4,4 proc. rdr",
@@ -1251,14 +1227,6 @@
       "content_html": "Wydajność pracy w Polsce w przeliczeniu na zatrudnioną osobę wzrosła w Polsce w I kwartale o 2,2 proc. rdr - podał Eurostat.",
       "date_published": "2026-06-08T07:23:00+02:00",
       "source": "PAP Biznes"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Skandal-przy-budowie-konsulatu-USA-Menedzer-aresztowany-na-lotnisku-9144134.html",
-      "url": "https://www.bankier.pl/wiadomosc/Skandal-przy-budowie-konsulatu-USA-Menedzer-aresztowany-na-lotnisku-9144134.html",
-      "title": "Skandal przy budowie konsulatu USA. Menedżer aresztowany na lotnisku",
-      "content_html": "Koło Mediolanu podczas próby wyjazdu z Włoch aresztowany został menedżer amerykańskiej firmy, która buduje nową siedzibę konsulatu USA w tym mieście - podały włoskie media. Prokuratura zarzuca menedżerowi włoskiego oddziału firmy, obywatelowi...",
-      "date_published": "2026-06-08T07:00:00+02:00",
-      "source": "Bankier.pl"
     },
     {
       "id": "https://biznes.pap.pl/wiadomosci/ekonomia-biznes-i-finanse/przewidywane-najwazniejsze-wydarzenia-gospodarcze-2026-06-08",
