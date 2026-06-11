@@ -5,6 +5,14 @@
   "home_page_url": "https://www.bankier.pl",
   "items": [
     {
+      "id": "https://biznes.pap.pl/wiadomosci/rynki/dzien-na-rynkach-gieldy-w-usa-mocno-w-gore-jest-duza-szansa-na-porozumienie-z",
+      "url": "https://biznes.pap.pl/wiadomosci/rynki/dzien-na-rynkach-gieldy-w-usa-mocno-w-gore-jest-duza-szansa-na-porozumienie-z",
+      "title": "DZIEŃ NA RYNKACH: Giełdy w USA mocno w górę, jest duża szansa na porozumienie z Iranem",
+      "content_html": "Czwartkowa sesja na Wall Street przyniosła mocne wzrosty głównych indeksów po tym, jak dzień wcześniej z kolei silnie one traciły. Powodem zmienności nastrojów są doniesienia z Bliskiego Wschodu - tym",
+      "date_published": "2026-06-11T22:42:00+02:00",
+      "source": "PAP Biznes"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Wielka-Brytania-bez-pieniedzy-na-wojsko-Minister-rzucil-papierami-i-ostro-uderzyl-w-premiera-9149752.html",
       "url": "https://www.bankier.pl/wiadomosc/Wielka-Brytania-bez-pieniedzy-na-wojsko-Minister-rzucil-papierami-i-ostro-uderzyl-w-premiera-9149752.html",
       "title": "Wielka Brytania bez pieniędzy na wojsko. Minister rzucił papierami i ostro uderzył w premiera",
@@ -301,14 +309,6 @@
       "source": "PAP Biznes"
     },
     {
-      "id": "https://biznes.pap.pl/wiadomosci/firmy/grupa-modivo-miala-w-i-kw-202627-r-81-mln-zl-straty-netto-j-d-wobec-954-mln-zl-0",
-      "url": "https://biznes.pap.pl/wiadomosci/firmy/grupa-modivo-miala-w-i-kw-202627-r-81-mln-zl-straty-netto-j-d-wobec-954-mln-zl-0",
-      "title": "Grupa Modivo miała w I kw. 2026/27 r. 8,1 mln zł straty netto j. d. wobec 95,4 mln zł zysku rok wcześniej (opis)",
-      "content_html": "Grupa Modivo miała w pierwszym kwartale roku obrotowego 2026/27 8,1 mln zł straty netto jednostki dominującej wobec 95,4 mln zł zysku netto w analogicznym okresie rok wcześniej - poinformowała spółka ",
-      "date_published": "2026-06-11T18:03:00+02:00",
-      "source": "PAP Biznes"
-    },
-    {
       "id": "https://www.bankier.pl/wiadomosc/Kontrole-biometryczne-i-odciski-palcow-Prezydent-podjal-ostateczna-decyzje-9149930.html",
       "url": "https://www.bankier.pl/wiadomosc/Kontrole-biometryczne-i-odciski-palcow-Prezydent-podjal-ostateczna-decyzje-9149930.html",
       "title": "Kontrole biometryczne i odciski palców. Prezydent podjął ostateczną decyzję",
@@ -419,6 +419,14 @@
       "content_html": "Akcjonariusze spółki Abak zdecydują o przeznaczeniu na dywidendę 1,1 mln zł z zysku za 2025 r., co dałoby 0,40 zł dywidendy na akcję - wynika z projektów uchwał walnego zgromadzenia zwołanego na 30 czerwca.",
       "date_published": "2026-06-11T17:12:00+02:00",
       "source": "Bankier.pl"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/firmy/wyniki-lpp-w-i-kw-202627-roku-vs-konsensus-pap-tabela",
+      "url": "https://biznes.pap.pl/wiadomosci/firmy/wyniki-lpp-w-i-kw-202627-roku-vs-konsensus-pap-tabela",
+      "title": "Wyniki LPP w I kw. 2026/27 roku vs. konsensus PAP (tabela)",
+      "content_html": "Poniżej przedstawiamy wyniki grupy LPP w pierwszym kwartale 2026/27 roku oraz ich odniesienie do konsensusu PAP Biznes.",
+      "date_published": "2026-06-11T17:06:00+02:00",
+      "source": "PAP Biznes"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Decora-przeznaczy-na-wyplate-dywidendy-42-1-mln-zl-z-zysku-za-25-9149879.html",
@@ -861,12 +869,28 @@
       "source": "Bankier.pl"
     },
     {
+      "id": "https://biznes.pap.pl/wiadomosci/gospodarka/ebc-podniosl-stopy-proc-o-25-pb-ryzyka-dla-wzrostu-inflacji-nasilily-sie",
+      "url": "https://biznes.pap.pl/wiadomosci/gospodarka/ebc-podniosl-stopy-proc-o-25-pb-ryzyka-dla-wzrostu-inflacji-nasilily-sie",
+      "title": "EBC podniósł stopy proc. o 25 pb.; ryzyka dla wzrostu inflacji nasiliły się",
+      "content_html": "Rada Prezesów Europejskiego Banku Centralnego podniosła stopy procentowe o 25 pb. - poinformowano w komunikacie po posiedzeniu. Bank podał, że wojna USA i Izraela z Iranem generuje presję inflacyjną.",
+      "date_published": "2026-06-11T14:23:00+02:00",
+      "source": "PAP Biznes"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Lentex-oglosi-zaproszenie-do-skladania-ofert-sprzedazy-akcji-wlasnych-9149704.html",
       "url": "https://www.bankier.pl/wiadomosc/Lentex-oglosi-zaproszenie-do-skladania-ofert-sprzedazy-akcji-wlasnych-9149704.html",
       "title": "Lentex ogłosi zaproszenie do składania ofert sprzedaży akcji własnych",
       "content_html": "Zarząd Lenteksu podjął uchwałę w sprawie zamiaru nabycia 1.000.000 akcji własnych, o łącznej wartości nominalnej 12.500.000 zł, stanowiących 2,5 proc. kapitału zakładowego spółki, po cenie 12,50 zł - poinformowała spółka w komunikacie...",
       "date_published": "2026-06-11T14:22:00+02:00",
       "source": "Bankier.pl"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/firmy/aktywa-pzu-pte-przekroczyly-45-mld-zl-spolka-chce-utrzymywac-aktywna-polityke",
+      "url": "https://biznes.pap.pl/wiadomosci/firmy/aktywa-pzu-pte-przekroczyly-45-mld-zl-spolka-chce-utrzymywac-aktywna-polityke",
+      "title": "Aktywa PZU PTE przekroczyły 45 mld zł, spółka chce utrzymywać aktywną politykę właścicielską",
+      "content_html": "Aktywa netto funduszy emerytalnych zarządzanych przez PZU PTE przekroczyły 45 mld zł, a zarząd chce mocniej przekonywać, że długoterminowe inwestowanie na rynkach akcji przynosi wymierne korzyści. PZU",
+      "date_published": "2026-06-11T14:19:00+02:00",
+      "source": "PAP Biznes"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Krakow-zyskal-bezposrednie-polaczenie-lotnicze-z-Abu-Zabi-w-ZEA-9149666.html",
@@ -883,6 +907,14 @@
       "content_html": "Sejm uchwalił w czwartek ustawę o zakazie patostreamingu. Zakłada ona kryminalizację rozpowszechniania w sieci treści przedstawiających popełnienie czynu zabronionego i pozorowanie popełnienia takiego czynu.",
       "date_published": "2026-06-11T14:01:00+02:00",
       "source": "Bankier.pl"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/rynki/dzien-na-rynkach-futures-w-usa-rosna-ebc-w-centrum-uwagi-1",
+      "url": "https://biznes.pap.pl/wiadomosci/rynki/dzien-na-rynkach-futures-w-usa-rosna-ebc-w-centrum-uwagi-1",
+      "title": "DZIEŃ NA RYNKACH: Futures w USA rosną; EBC w centrum uwagi",
+      "content_html": "Kontrakty w USA zwyżkują, podobnie jak indeksy w Europie. Inwestorzy oczekują na decyzję EBC ws. polityki monetarnej, a także śledzą informacje nt. najnowszych ataków między USA a Iranem. Obligacje um",
+      "date_published": "2026-06-11T14:01:00+02:00",
+      "source": "PAP Biznes"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Mobbing-to-uporczywe-nekanie-Rzad-zmienia-definicje-w-Kodeksie-pracy-9149664.html",
@@ -1397,14 +1429,6 @@
       "source": "PAP Biznes"
     },
     {
-      "id": "https://biznes.pap.pl/wiadomosci/firmy/wyniki-synektik-w-ii-kw-202526-roku-vs-konsensus-pap-tabela-popr",
-      "url": "https://biznes.pap.pl/wiadomosci/firmy/wyniki-synektik-w-ii-kw-202526-roku-vs-konsensus-pap-tabela-popr",
-      "title": "Wyniki Synektik w II kw. 2025/26 roku vs. konsensus PAP (tabela, popr.)",
-      "content_html": "Poniżej przedstawiamy wyniki Synektik w drugim kwartale roku obrotowego 2025/26 (według wyliczeń PAP Biznes) oraz ich odniesienie do konsensusu i wcześniejszych wyników.",
-      "date_published": "2026-06-11T08:02:00+02:00",
-      "source": "PAP Biznes"
-    },
-    {
       "id": "https://www.bankier.pl/wiadomosc/Synektik-mial-58-5-mln-zl-wyniku-EBITDA-w-II-kw-powyzej-oczekiwan-9149441.html",
       "url": "https://www.bankier.pl/wiadomosc/Synektik-mial-58-5-mln-zl-wyniku-EBITDA-w-II-kw-powyzej-oczekiwan-9149441.html",
       "title": "Synektik miał 58,5 mln zł wyniku EBITDA w II kw., powyżej oczekiwań EBITDA grupy Synektik w drugim kwartale roku obrotowego 2025/26 wyniosła 58,5 mln zł - poinformował giełdowy dostawca technologii medycznych oraz producent radiofarmaceutyków w komunikacie. Ankietowani przez PAP Biznes analitycy spodziewali się wyniku EBITDA na poziomie 56,2 mln zł.",
@@ -1515,22 +1539,6 @@
       "content_html": "Poniżej zamknięcia i zmiany indeksów w USA. Kanadzie, Meksyku, Brazylii, Chile, Kolumbii i Argentynie:",
       "date_published": "2026-06-11T06:29:00+02:00",
       "source": "PAP Biznes"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/rynki/dzien-na-rynkach-na-wall-street-mocne-spadki-trump-grozi-ponownymi-atakami-na-iran",
-      "url": "https://biznes.pap.pl/wiadomosci/rynki/dzien-na-rynkach-na-wall-street-mocne-spadki-trump-grozi-ponownymi-atakami-na-iran",
-      "title": "DZIEŃ NA RYNKACH: Na Wall Street mocne spadki, Trump grozi ponownymi atakami na Iran",
-      "content_html": "Giełdy w USA mocno spadły w środę po tym, jak prezydent Donald Trump zasugerował, że negocjacje z Iranem trwają zbyt długo i zagroził podjęciem dalszych działań. Wśród liderów przeceny byli producenci",
-      "date_published": "2026-06-10T22:07:00+02:00",
-      "source": "PAP Biznes"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Poglebia-sie-korekta-na-Wall-Street-S-P500-ponownie-pod-kreska-9149361.html",
-      "url": "https://www.bankier.pl/wiadomosc/Poglebia-sie-korekta-na-Wall-Street-S-P500-ponownie-pod-kreska-9149361.html",
-      "title": "Pogłębia się korekta na Wall Street. S&P500 ponownie pod kreską Inwestorom nie mogła podobać się najwyższa od 3 lat inflacja oraz coraz bardziej mglista perspektywa zakończenia wojny z Iranem.",
-      "content_html": "",
-      "date_published": "2026-06-10T22:04:00+02:00",
-      "source": "Bankier.pl"
     }
   ]
 }
