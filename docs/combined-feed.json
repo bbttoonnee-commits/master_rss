@@ -5,6 +5,22 @@
   "home_page_url": "https://www.bankier.pl",
   "items": [
     {
+      "id": "https://biznes.pap.pl/wiadomosci/gry-i-technologie/trump-nie-uwaza-juz-anthropic-za-zagrozenie-dla-bezpieczenstwa",
+      "url": "https://biznes.pap.pl/wiadomosci/gry-i-technologie/trump-nie-uwaza-juz-anthropic-za-zagrozenie-dla-bezpieczenstwa",
+      "title": "Trump nie uważa już Anthropic za zagrożenie dla bezpieczeństwa narodowego",
+      "content_html": "Jak wynika z wywiadu dla „The Axios Show” opublikowanego w piątek, prezydent Donald Trump stwierdził, że być może uważał firmę Anthropic , zajmującą się sztuczną inteligencją, za zagrożenie dla bezpie",
+      "date_published": "2026-06-20T10:59:00+02:00",
+      "source": "PAP Biznes"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/firmy/firmy-z-usa-gotowe-inwestowac-w-polsce-w-fabryke-paliwa-do-smr-i-komponenty-dla",
+      "url": "https://biznes.pap.pl/wiadomosci/firmy/firmy-z-usa-gotowe-inwestowac-w-polsce-w-fabryke-paliwa-do-smr-i-komponenty-dla",
+      "title": "Firmy z USA gotowe inwestować w Polsce w fabrykę paliwa do SMR i komponenty dla satelitów",
+      "content_html": "Amerykańska spółka X-Energy deklaruje gotowość do zainwestowania w Polsce blisko 1 mld dolarów w ramach Zielonego Okręgu Przemysłowego Kaszubia. Z kolei Quantum Space rozważa produkcję w Polsce kompon",
+      "date_published": "2026-06-20T10:51:00+02:00",
+      "source": "PAP Biznes"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Zatrzymano-podejrzewanego-o-udzial-w-zabojstwie-Rosjanina-w-Bialej-Podlaskiej-9153450.html",
       "url": "https://www.bankier.pl/wiadomosc/Zatrzymano-podejrzewanego-o-udzial-w-zabojstwie-Rosjanina-w-Bialej-Podlaskiej-9153450.html",
       "title": "Zatrzymano podejrzewanego o udział w zabójstwie Rosjanina w Białej Podlaskiej",
@@ -477,14 +493,6 @@
       "source": "Bankier.pl"
     },
     {
-      "id": "https://biznes.pap.pl/wiadomosci/finanse/ryzyko-geopolityczne-najistotniejszym-slabym-punktem-systemu-finansowego-w",
-      "url": "https://biznes.pap.pl/wiadomosci/finanse/ryzyko-geopolityczne-najistotniejszym-slabym-punktem-systemu-finansowego-w",
-      "title": "Ryzyko geopolityczne najistotniejszym słabym punktem systemu finansowego w Polsce - KSF-M",
-      "content_html": "Obecnie najistotniejszym słabym punktem w polskim systemie finansowym pozostaje ryzyko geopolityczne, a kolejne miejsca zajęły ryzyka związane ze stosowaniem sankcji kredytu darmowego, z portfelem kre",
-      "date_published": "2026-06-19T16:40:00+02:00",
-      "source": "PAP Biznes"
-    },
-    {
       "id": "https://www.bankier.pl/wiadomosc/Prof-Marta-Postula-Inwestujmy-w-technologie-w-ludzi-i-nie-obawiajmy-sie-trudnych-decyzji-9154561.html",
       "url": "https://www.bankier.pl/wiadomosc/Prof-Marta-Postula-Inwestujmy-w-technologie-w-ludzi-i-nie-obawiajmy-sie-trudnych-decyzji-9154561.html",
       "title": "Prof. Marta Postuła: Inwestujmy w technologie, w ludzi i nie obawiajmy się trudnych decyzji",
@@ -499,14 +507,6 @@
       "content_html": "Prezydent USA Donald Trump powiedział w piątek, że nie zawarł porozumienia z Iranem z desperacji, twierdząc, że to Iran był zdesperowany. Prezydent podkreślił, że Iran jest „skończony” i nie dostanie od USA ani centa.",
       "date_published": "2026-06-19T16:38:00+02:00",
       "source": "Bankier.pl"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/finanse/wzrasta-popyt-na-nieruchomosci-ale-nie-widac-ryzyka-zaklocen-podazy-ksf-m",
-      "url": "https://biznes.pap.pl/wiadomosci/finanse/wzrasta-popyt-na-nieruchomosci-ale-nie-widac-ryzyka-zaklocen-podazy-ksf-m",
-      "title": "Wzrasta popyt na nieruchomości, ale nie widać ryzyka zakłóceń podaży - KSF-M",
-      "content_html": "Wzrasta popyt na zakup nieruchomości, ale wysoka dostępność ofert powoduje, że nie zachodzi ryzyko wystąpienia zakłóceń po stronie podażowej - podano w komunikacie Komitetu Stabilności Finansowej dot.",
-      "date_published": "2026-06-19T16:38:00+02:00",
-      "source": "PAP Biznes"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Ostatnia-prosta-po-pieniadze-z-UE-Rzad-goni-czas-i-sklada-kolejny-wniosek-o-platnosc-z-KPO-9154550.html",
@@ -701,6 +701,14 @@
       "source": "Bankier.pl"
     },
     {
+      "id": "https://biznes.pap.pl/wiadomosci/przemysl/integracja-z-mcaa-otworzy-nowa-faze-rozwoju-pcc-rokita-wiceprezes-wywiad",
+      "url": "https://biznes.pap.pl/wiadomosci/przemysl/integracja-z-mcaa-otworzy-nowa-faze-rozwoju-pcc-rokita-wiceprezes-wywiad",
+      "title": "Integracja z MCAA otworzy nową fazę rozwoju PCC Rokita - wiceprezes (wywiad)",
+      "content_html": "Planowana integracja PCC Rokita z PCC MCAA otworzy nową fazę rozwoju polskiej spółce, gdyż pozwoli uzyskać dostęp do niecyklicznych rynków końcowych i otworzy ścieżkę ekspansji w USA - ocenia w rozmow",
+      "date_published": "2026-06-19T13:31:00+02:00",
+      "source": "PAP Biznes"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Mirbud-wyplaci-0-2-zl-dywidendy-na-akcje-za-2025-rok-9154372.html",
       "url": "https://www.bankier.pl/wiadomosc/Mirbud-wyplaci-0-2-zl-dywidendy-na-akcje-za-2025-rok-9154372.html",
       "title": "Mirbud wypłaci 0,2 zł dywidendy na akcję za 2025 rok",
@@ -755,262 +763,6 @@
       "content_html": "W piątek prezydent Karol Nawrocki podpisał nowelizację Ordynacji podatkowej - poinformowała Kancelaria Prezydenta. Celem nowelizacji jest publikacja interpretacji dotyczących podatków lokalnych w ogólnopolskiej bazie interpretacji.",
       "date_published": "2026-06-19T12:59:00+02:00",
       "source": "Bankier.pl"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Spolka-zalezna-Trakcji-ma-umowe-na-Litwie-za-24-2-mln-euro-9154318.html",
-      "url": "https://www.bankier.pl/wiadomosc/Spolka-zalezna-Trakcji-ma-umowe-na-Litwie-za-24-2-mln-euro-9154318.html",
-      "title": "Spółka zależna Trakcji ma umowę na Litwie za 24,2 mln euro",
-      "content_html": "Spółka zależna Trakcji, AB Kauno tiltai, podpisała umowę z AB Via Lietuva (litewski zarządca dróg krajowych) dotyczącą przebudowy odcinka drogi A5 Kowno-Mariampol-Suwałki od km 16,465 do km 23,32 - podała Trakcja w komunikacie. Wartość umowy...",
-      "date_published": "2026-06-19T12:36:00+02:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/firmy/instal-krakow-wyplaci-25-zl-dywidendy-na-akcje-z-zysku-25",
-      "url": "https://biznes.pap.pl/wiadomosci/firmy/instal-krakow-wyplaci-25-zl-dywidendy-na-akcje-z-zysku-25",
-      "title": "Instal Kraków wypłaci 2,5 zł dywidendy na akcję z zysku '25",
-      "content_html": "Akcjonariusze Instalu Kraków zdecydowali, by z zysku netto za 2025 rok przeznaczyć na dywidendę 18,2 mln zł, co daje 2,5 zł dywidendy na akcję - poinformowała spółka w komunikacie.",
-      "date_published": "2026-06-19T12:36:00+02:00",
-      "source": "PAP Biznes"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Bank-Millennium-placi-5-50-oszczedzajacym-Nowa-promocja-banku-9154263.html",
-      "url": "https://www.bankier.pl/wiadomosc/Bank-Millennium-placi-5-50-oszczedzajacym-Nowa-promocja-banku-9154263.html",
-      "title": "5,50% do 200 tys. zł w Banku Millennium. Promocja przedłużona przez bank",
-      "content_html": "Bank Millennium przedłużył obowiązywanie promocji Konta Oszczędnościowego Profit na kolejny okres. Najważniejsze parametry oferty pozostały bez zmian. Bank zachował podwyższoną stawkę w wysokości 5,50 proc. dla kwoty nieprzekraczającej 200...",
-      "date_published": "2026-06-19T12:30:00+02:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Cloud-Technologies-celuje-w-gorna-granice-prognozy-sprzedazy-danych-na-26-planuje-akwizycje-9154312.html",
-      "url": "https://www.bankier.pl/wiadomosc/Cloud-Technologies-celuje-w-gorna-granice-prognozy-sprzedazy-danych-na-26-planuje-akwizycje-9154312.html",
-      "title": "Cloud Technologies celuje w górną granicę prognozy sprzedaży danych na '26; planuje akwizycje",
-      "content_html": "Cloud Technologies, po rekordowym pierwszym kwartale, celuje obecnie w górną granicę tegorocznej prognozy sprzedaży danych na poziomie 16-18 mln USD - poinformował PAP Biznes prezes Piotr Prajsnar. Spółka rozmawia z kilkoma podmiotami w USA i liczy...",
-      "date_published": "2026-06-19T12:30:00+02:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/firmy/mirbud-wyplaci-02-zl-dywidendy-na-akcje-za-2025-rok",
-      "url": "https://biznes.pap.pl/wiadomosci/firmy/mirbud-wyplaci-02-zl-dywidendy-na-akcje-za-2025-rok",
-      "title": "Mirbud wypłaci 0,2 zł dywidendy na akcję za 2025 rok",
-      "content_html": "Walne zgromadzenie Mirbudu zdecydowało o wypłacie 22 mln zł dywidendy z zysku netto za 2025 rok, co daje 0,2 zł na akcję - podała spółka w komunikacie po walnym.",
-      "date_published": "2026-06-19T12:26:00+02:00",
-      "source": "PAP Biznes"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/firmy/zmiany-demograficzne-beda-wzmacnialy-rozwoj-handlu-internetowego-zombirt-jll",
-      "url": "https://biznes.pap.pl/wiadomosci/firmy/zmiany-demograficzne-beda-wzmacnialy-rozwoj-handlu-internetowego-zombirt-jll",
-      "title": "Zmiany demograficzne będą wzmacniały rozwój handlu internetowego - Zombirt, JLL (wywiad)",
-      "content_html": "Pięć największych miast w Polsce generuje obecnie około 30 proc. wartości krajowego handlu internetowego, a znaczenie największych aglomeracji będzie dalej rosło – poinformował PAP Biznes Jan Jakub Zo",
-      "date_published": "2026-06-19T12:22:00+02:00",
-      "source": "PAP Biznes"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/firmy/cena-maksymalna-na-20-22-vi-dla-benzyny-pb95-wynosi-594-zll-dla-612-zll",
-      "url": "https://biznes.pap.pl/wiadomosci/firmy/cena-maksymalna-na-20-22-vi-dla-benzyny-pb95-wynosi-594-zll-dla-612-zll",
-      "title": "Cena maksymalna na 20-22 VI dla benzyny Pb95 wynosi 5,94 zł/l, a dla ON 6,12 zł/l",
-      "content_html": "Maksymalna cena dla benzyny Pb95 wynosi 5,94 zł/l, dla benzyny Pb98 to 6,61 zł/l, a dla oleju napędowego 6,12 zł/l - wynika z obwieszczenia ministra energii opublikowanego w Monitorze Polskim. Ceny te",
-      "date_published": "2026-06-19T12:19:00+02:00",
-      "source": "PAP Biznes"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Cloud-Technologies-celuje-w-gorna-granice-prognozy-sprzedazy-danych-na-26-planuje-akwizycje-9154303.html",
-      "url": "https://www.bankier.pl/wiadomosc/Cloud-Technologies-celuje-w-gorna-granice-prognozy-sprzedazy-danych-na-26-planuje-akwizycje-9154303.html",
-      "title": "Cloud Technologies celuje w górną granicę prognozy sprzedaży danych na '26; planuje akwizycje",
-      "content_html": "Cloud Technologies, po rekordowym pierwszym kwartale, celuje obecnie w górną granicę tegorocznej prognozy sprzedaży danych na poziomie 16-18 mln USD - poinformował PAP Biznes prezes Piotr Prajsnar. Spółka rozmawia z kilkoma podmiotami w USA i liczy...",
-      "date_published": "2026-06-19T12:16:00+02:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/firmy/w-przyszlym-tygodniu-mozliwe-obnizki-cen-paliw-na-stacjach-benzynowych-e-petrol",
-      "url": "https://biznes.pap.pl/wiadomosci/firmy/w-przyszlym-tygodniu-mozliwe-obnizki-cen-paliw-na-stacjach-benzynowych-e-petrol",
-      "title": "W przyszłym tygodniu możliwe obniżki cen paliw na stacjach benzynowych - e-petrol",
-      "content_html": "W przyszłym tygodniu możliwe są obniżki cen paliw na stacjach benzynowych - prognozują analitycy e-petrol.",
-      "date_published": "2026-06-19T12:13:00+02:00",
-      "source": "PAP Biznes"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Modella-Capital-zglosila-zamiar-przejecia-kontroli-nad-Dealz-Poland-UOKiK-9154292.html",
-      "url": "https://www.bankier.pl/wiadomosc/Modella-Capital-zglosila-zamiar-przejecia-kontroli-nad-Dealz-Poland-UOKiK-9154292.html",
-      "title": "Dealz Poland zmienia właściciela? Fundusz z Londynu wchodzi do gry",
-      "content_html": "Modella Capital Limited, specjalistyczny butikowy fundusz inwestycyjny skoncentrowany na sektorze detalicznym i konsumenckim, zgłosiła zamiar przejęcia kontroli nad Dealz Poland - podano na stronie UOKiK.",
-      "date_published": "2026-06-19T12:04:00+02:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Wraca-spor-o-budzet-UE-Kanclerz-Niemiec-Unia-nie-powinna-sie-dalej-zadluzac-9154294.html",
-      "url": "https://www.bankier.pl/wiadomosc/Wraca-spor-o-budzet-UE-Kanclerz-Niemiec-Unia-nie-powinna-sie-dalej-zadluzac-9154294.html",
-      "title": "Wraca spór o budżet UE. Kanclerz Niemiec: Unia nie powinna się dalej zadłużać",
-      "content_html": "Kanclerz Niemiec Friedrich Merz ocenił w piątek, że przedłożona propozycja nowego budżetu UE jest „abstrakcyjnie wysoka\", i powtórzył, że Berlin nie zgodzi się na dalsze zadłużanie Unii. Wieloletni budżet unijny jest głównym tematem drugiego...",
-      "date_published": "2026-06-19T12:04:00+02:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/rynki/dzien-na-rynkach-przewaga-wzrostow-indeksow-w-europie-w-usa-gieldy-zamkniete",
-      "url": "https://biznes.pap.pl/wiadomosci/rynki/dzien-na-rynkach-przewaga-wzrostow-indeksow-w-europie-w-usa-gieldy-zamkniete",
-      "title": "DZIEŃ NA RYNKACH: Przewaga wzrostów indeksów w Europie; w USA giełdy zamknięte",
-      "content_html": "Giełdy w Europie głównie zwyżkują, a w USA rynki są nieczynne z powodu święta. Inwestorzy oceniają ostatnie informacje nt. negocjacji pokojowych między USA a Iranem.",
-      "date_published": "2026-06-19T12:04:00+02:00",
-      "source": "PAP Biznes"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Rewolucja-w-rejestrze-zastawow-Automatyczne-wykreslanie-po-20-latach-9154289.html",
-      "url": "https://www.bankier.pl/wiadomosc/Rewolucja-w-rejestrze-zastawow-Automatyczne-wykreslanie-po-20-latach-9154289.html",
-      "title": "Rewolucja w rejestrze zastawów. Automatyczne wykreślanie po 20 latach",
-      "content_html": "Sejm przyjął w piątek nowelizację odciążającą sądy rejestrowe w sprawach dotyczących wydawania i doręczania postanowień o wykreśleniu zastawów rejestrowych.",
-      "date_published": "2026-06-19T12:01:00+02:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Przelom-w-Kodeksie-pracy-Nowa-definicja-mobbingu-i-wyzsze-zadoscuczynienia-dla-ofiar-9154236.html",
-      "url": "https://www.bankier.pl/wiadomosc/Przelom-w-Kodeksie-pracy-Nowa-definicja-mobbingu-i-wyzsze-zadoscuczynienia-dla-ofiar-9154236.html",
-      "title": "Przełom w Kodeksie pracy. Nowa definicja mobbingu i wyższe zadośćuczynienia dla ofiar",
-      "content_html": "Uproszczenie definicji mobbingu, wzrost najniższego zadośćuczynienia za jego stosowanie oraz zobowiązanie pracodawców do określenia reguł, procedur i częstotliwości przeciwdziałania mobbingowi – zakłada nowelizacja Kodeksu pracy, którą...",
-      "date_published": "2026-06-19T12:00:00+02:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Sejm-uchylil-immunitet-Zbigniewowi-Ziobrze-Chodzi-o-prywatny-akt-oskarzenia-9154273.html",
-      "url": "https://www.bankier.pl/wiadomosc/Sejm-uchylil-immunitet-Zbigniewowi-Ziobrze-Chodzi-o-prywatny-akt-oskarzenia-9154273.html",
-      "title": "Sejm uchylił immunitet Zbigniewowi Ziobrze. Chodzi o prywatny akt oskarżenia",
-      "content_html": "Sejm uchylił w piątek bezwzględną większością głosów immunitet b. szefowi MS Zbigniewowi Ziobrze w związku z prywatnym aktem oskarżenia prokuratora krajowego Dariusza Korneluka. Chodzi o słowa byłego ministra z ubiegłorocznej konferencji...",
-      "date_published": "2026-06-19T11:42:00+02:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Wiatr-wieje-w-oczy-zlotemu-Mocny-dolar-i-slabnacy-jen-to-nie-jest-dobre-polaczenie-9154268.html",
-      "url": "https://www.bankier.pl/wiadomosc/Wiatr-wieje-w-oczy-zlotemu-Mocny-dolar-i-slabnacy-jen-to-nie-jest-dobre-polaczenie-9154268.html",
-      "title": "Wiatr wieje w oczy złotemu. Mocny dolar i słabnący jen to nie jest dobre połączenie",
-      "content_html": "Umacniający się dolar sam w sobie działa przeciwko takim walutom jak polski złoty. A dodatkowym wyzwaniem dla polskiej waluty jest osłabienie jena japońskiego.",
-      "date_published": "2026-06-19T11:34:00+02:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/firmy/spolka-zalezna-trakcji-ma-umowe-na-litwie-za-242-mln-euro",
-      "url": "https://biznes.pap.pl/wiadomosci/firmy/spolka-zalezna-trakcji-ma-umowe-na-litwie-za-242-mln-euro",
-      "title": "Spółka zależna Trakcji ma umowę na Litwie za 24,2 mln euro",
-      "content_html": "Spółka zależna Trakcji, AB Kauno tiltai, podpisała umowę z AB Via Lietuva (litewski zarządca dróg krajowych) dotyczącą przebudowy odcinka drogi A5 Kowno-Mariampol-Suwałki od km 16,465 do km 23,32 - po",
-      "date_published": "2026-06-19T11:34:00+02:00",
-      "source": "PAP Biznes"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Koniec-z-powielaniem-obowiazkow-Sejm-znowelizowal-ustawe-o-Krajowej-Sieci-Onkologicznej-9154266.html",
-      "url": "https://www.bankier.pl/wiadomosc/Koniec-z-powielaniem-obowiazkow-Sejm-znowelizowal-ustawe-o-Krajowej-Sieci-Onkologicznej-9154266.html",
-      "title": "Koniec z powielaniem obowiązków. Sejm znowelizował ustawę o Krajowej Sieci Onkologicznej",
-      "content_html": "Sejm uchwalił w piątek rządową nowelizację ustawy o Krajowej Sieci Onkologicznej. Przepisy mają na celu m.in. doprecyzowanie roli koordynatora opieki oraz wprowadzenie elektronicznej karty diagnostyki i leczenia onkologicznego (DiLO).",
-      "date_published": "2026-06-19T11:33:00+02:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/EBRD-sprzedal-4-36-mln-akcji-BNP-Paribas-Bank-Polska-9154256.html",
-      "url": "https://www.bankier.pl/wiadomosc/EBRD-sprzedal-4-36-mln-akcji-BNP-Paribas-Bank-Polska-9154256.html",
-      "title": "EBRD sprzedał 4,36 mln akcji BNP Paribas Bank Polska",
-      "content_html": "Europejski Bank Odbudowy i Rozwoju (EBOR) sprzedał 4,36 mln akcji BNP Paribas Bank Polska. Cena akcji w ABB została ustalona na 155 zł - podał EBRD w komunikacie prasowym. Transakcja kończy proces dezinwestycji EBRD w BNP Paribas BP.",
-      "date_published": "2026-06-19T11:24:00+02:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/gry-i-technologie/cloud-technologies-celuje-w-gorna-granice-prognozy-sprzedazy-danych-na",
-      "url": "https://biznes.pap.pl/wiadomosci/gry-i-technologie/cloud-technologies-celuje-w-gorna-granice-prognozy-sprzedazy-danych-na",
-      "title": "Cloud Technologies celuje w górną granicę prognozy sprzedaży danych na '26; planuje akwizycje",
-      "content_html": "Cloud Technologies, po rekordowym pierwszym kwartale, celuje obecnie w górną granicę tegorocznej prognozy sprzedaży danych na poziomie 16-18 mln USD - poinformował PAP Biznes prezes Piotr Prajsnar. Sp",
-      "date_published": "2026-06-19T11:15:00+02:00",
-      "source": "PAP Biznes"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Sejm-uszczelnia-ustawe-deweloperska-i-szykuje-kary-Ceny-i-metraze-w-ujednoliconym-formacie-9154248.html",
-      "url": "https://www.bankier.pl/wiadomosc/Sejm-uszczelnia-ustawe-deweloperska-i-szykuje-kary-Ceny-i-metraze-w-ujednoliconym-formacie-9154248.html",
-      "title": "Sejm uszczelnia ustawę deweloperską i szykuje kary. Ceny i metraże w ujednoliconym formacie",
-      "content_html": "Sejm uchwalił w piątek nowelizację ustawy, która nakłada na deweloperów obowiązek udostępniania informacji w portalu dane.gov.pl, m.in. o cenach i metrażu nieruchomości, według jednolitego formatu. Niezastosowanie się do tego obowiązku ma...",
-      "date_published": "2026-06-19T11:12:00+02:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/firmy/dzien-na-gpw-male-zmiany-glownych-indeksow-sesja-pod-znakiem-wygasania-kontraktow",
-      "url": "https://biznes.pap.pl/wiadomosci/firmy/dzien-na-gpw-male-zmiany-glownych-indeksow-sesja-pod-znakiem-wygasania-kontraktow",
-      "title": "DZIEŃ NA GPW: Małe zmiany głównych indeksów; sesja pod znakiem wygasania kontraktów",
-      "content_html": "Pierwsze godziny sesji upływają przy niewielkich zmianach głównych indeksów. Wśród blue chipów najmocniej spada KGHM, do najsłabszych należą banki. O 2,4 proc. rosną Kęty, a Allegro trzeci dzień z rzę",
-      "date_published": "2026-06-19T11:11:00+02:00",
-      "source": "PAP Biznes"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/firmy/modella-capital-zglosila-zamiar-przejecia-kontroli-nad-dealz-poland-uokik",
-      "url": "https://biznes.pap.pl/wiadomosci/firmy/modella-capital-zglosila-zamiar-przejecia-kontroli-nad-dealz-poland-uokik",
-      "title": "Modella Capital zgłosiła zamiar przejęcia kontroli nad Dealz Poland - UOKiK",
-      "content_html": "Modella Capital Limited, specjalistyczny butikowy fundusz inwestycyjny skoncentrowany na sektorze detalicznym i konsumenckim, zgłosiła zamiar przejęcia kontroli nad Dealz Poland - podano na stronie UO",
-      "date_published": "2026-06-19T11:02:00+02:00",
-      "source": "PAP Biznes"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/W-Chicago-otwarto-Centrum-Prezydenckie-Baracka-Obamy-9154100.html",
-      "url": "https://www.bankier.pl/wiadomosc/W-Chicago-otwarto-Centrum-Prezydenckie-Baracka-Obamy-9154100.html",
-      "title": "W Chicago otwarto Centrum Prezydenckie Baracka Obamy",
-      "content_html": "Z udziałem czterech byłych prezydentów USA otwarto w czwartek w Chicago Obama Presidential Center. Kompleks o wartości 850 mln dolarów poświęcony jest Barackowi Obamie.",
-      "date_published": "2026-06-19T11:00:00+02:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Produkcja-przemyslowa-w-Polsce-wzrosla-w-maju-2026-Polski-przemysl-wrzucil-drugi-bieg-9154185.html",
-      "url": "https://www.bankier.pl/wiadomosc/Produkcja-przemyslowa-w-Polsce-wzrosla-w-maju-2026-Polski-przemysl-wrzucil-drugi-bieg-9154185.html",
-      "title": "Polski przemysł wrzucił drugi bieg. Ale jeszcze się nie rozpędził",
-      "content_html": "Majowe statystyki z polskiego przemysłu wypadły lepiej od oczekiwań ekonomistów, ale wciąż nie było rewelacji. Krajowy sektor wytwórczy pozostaje względnie odporny za globalne zawirowania, ale nadal nie może nabrać rozpędu typowego dla fazy...",
-      "date_published": "2026-06-19T10:58:00+02:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Wyplata-odszkodowan-od-Berlina-Jest-jasne-stanowisko-polskiego-Sejmu-9154222.html",
-      "url": "https://www.bankier.pl/wiadomosc/Wyplata-odszkodowan-od-Berlina-Jest-jasne-stanowisko-polskiego-Sejmu-9154222.html",
-      "title": "Wypłata odszkodowań od Berlina? Jest jasne stanowisko polskiego Sejmu",
-      "content_html": "Niemcy mają obowiązek zrealizować wszelkie zobowiązania wynikające ze skutków II wojny światowej dla Polski - głosi przyjęta w piątek uchwała Sejmu. „Szczególnie pilnym problemem jest wypłata odszkodowań dla żyjących więźniów obozów...",
-      "date_published": "2026-06-19T10:51:00+02:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Trigon-DM-rekomenduje-kupno-akcji-PCC-Rokita-cena-docelowa-78-1-zl-9154218.html",
-      "url": "https://www.bankier.pl/wiadomosc/Trigon-DM-rekomenduje-kupno-akcji-PCC-Rokita-cena-docelowa-78-1-zl-9154218.html",
-      "title": "Trigon DM rekomenduje kupno akcji PCC Rokita, cena docelowa 78,1 zł",
-      "content_html": "Analitycy Trigon DM, w raporcie z 17 czerwca, zarekomendowali \"kupuj\" akcje PCC Rokita, z ceną docelową na poziomie 78,1 zł, co daje potencjał wzrostu o 18 proc.",
-      "date_published": "2026-06-19T10:50:00+02:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Iran-tworzy-elitarne-jednostki-Uderzaja-na-sasiadow-z-terytorium-Iraku-9154219.html",
-      "url": "https://www.bankier.pl/wiadomosc/Iran-tworzy-elitarne-jednostki-Uderzaja-na-sasiadow-z-terytorium-Iraku-9154219.html",
-      "title": "Iran tworzy elitarne jednostki. Uderzają na sąsiadów z terytorium Iraku",
-      "content_html": "Korpus Strażników Rewolucji Islamskiej (IRGC) utworzył w Iraku tajne komórki, których zadaniem było przeprowadzanie ataków dronowych na państwa Zatoki Perskiej, w których stacjonują wojska amerykańskie – podała w piątek agencja Reutera...",
-      "date_published": "2026-06-19T10:50:00+02:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/firmy/avallon-mbo-zainwestowal-w-spolke-inglot",
-      "url": "https://biznes.pap.pl/wiadomosci/firmy/avallon-mbo-zainwestowal-w-spolke-inglot",
-      "title": "Avallon MBO zainwestował w spółkę Inglot",
-      "content_html": "Avallon MBO, fundusz private equity specjalizujący się w wykupach menedżerskich, zainwestował w spółkę Inglot, polską markę kosmetyczną o międzynarodowej skali - podał fundusz w komunikacie prasowym. ",
-      "date_published": "2026-06-19T10:43:00+02:00",
-      "source": "PAP Biznes"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/nieruchomosci/sejm-za-nakazaniem-deweloperom-publikacji-min-cen-mieszkan-w-jednolitym",
-      "url": "https://biznes.pap.pl/wiadomosci/nieruchomosci/sejm-za-nakazaniem-deweloperom-publikacji-min-cen-mieszkan-w-jednolitym",
-      "title": "Sejm za nakazaniem deweloperom publikacji m.in. cen mieszkań w jednolitym formacie na dane.gov.pl",
-      "content_html": "Sejm uchwalił w piątek nowelizację ustawy, która nakłada na deweloperów obowiązek udostępniania informacji w portalu dane.gov.pl, m.in. o cenach i metrażu nieruchomości, według jednolitego formatu. Ni",
-      "date_published": "2026-06-19T10:34:00+02:00",
-      "source": "PAP Biznes"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/gospodarka/magdalena-sobkowiak-czarnecka-z-nominacja-na-sekretarza-stanu-w-ministerstwie",
-      "url": "https://biznes.pap.pl/wiadomosci/gospodarka/magdalena-sobkowiak-czarnecka-z-nominacja-na-sekretarza-stanu-w-ministerstwie",
-      "title": "Magdalena Sobkowiak-Czarnecka z nominacją na sekretarza stanu w Ministerstwie Obrony",
-      "content_html": "Wicepremier i minister obrony narodowej Władysław Kosiniak-Kamysz wręczył Magdalenie Sobkowiak-Czarneckiej nominację na sekretarza stanu w Ministerstwie Obrony Narodowej - podał resort obrony w komuni",
-      "date_published": "2026-06-19T10:31:00+02:00",
-      "source": "PAP Biznes"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/firmy/ebrd-sprzedal-436-mln-akcji-bnp-paribas-bank-polska",
-      "url": "https://biznes.pap.pl/wiadomosci/firmy/ebrd-sprzedal-436-mln-akcji-bnp-paribas-bank-polska",
-      "title": "EBRD sprzedał 4,36 mln akcji BNP Paribas Bank Polska",
-      "content_html": "Europejski Bank Odbudowy i Rozwoju (EBOR) sprzedał 4,36 mln akcji BNP Paribas Bank Polska. Cena akcji w ABB została ustalona na 155 zł - podał EBRD w komunikacie prasowym. Transakcja kończy proces dez",
-      "date_published": "2026-06-19T10:23:00+02:00",
-      "source": "PAP Biznes"
     }
   ]
 }
