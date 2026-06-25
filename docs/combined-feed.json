@@ -5,6 +5,22 @@
   "home_page_url": "https://www.bankier.pl",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/URC-Gdansk-Local-content-jako-szansa-dla-polskich-firm-w-inwestycjach-i-odbudowie-Ukrainy-9158371.html",
+      "url": "https://www.bankier.pl/wiadomosc/URC-Gdansk-Local-content-jako-szansa-dla-polskich-firm-w-inwestycjach-i-odbudowie-Ukrainy-9158371.html",
+      "title": "URC Gdańsk/ Local content jako szansa dla polskich firm w inwestycjach i odbudowie Ukrainy",
+      "content_html": "Istotą local content jest promowanie polskich rozwiązań i budowanie potencjału krajowych firm — wskazywali przedstawiciele Enei, PGE, Tauronu i PGZ na Konferencji na rzecz Odbudowy Ukrainy w Gdańsku. Mówili też o roli polskich firm w odbudowie...",
+      "date_published": "2026-06-26T00:29:00+02:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/rynki/dzien-na-rynkach-nasdaq-spadl-czwarta-sesje-z-rzedu-liderem-wzrostow-micron",
+      "url": "https://biznes.pap.pl/wiadomosci/rynki/dzien-na-rynkach-nasdaq-spadl-czwarta-sesje-z-rzedu-liderem-wzrostow-micron",
+      "title": "DZIEŃ NA RYNKACH: Nasdaq spadł czwartą sesję z rzędu, liderem wzrostów Micron Technology",
+      "content_html": "Czwartkowa sesja na amerykańskich giełdach ponownie zakończyła się z przewagą spadków, a Nasdaq zakończył handel na minusie czwarty dzień z rzędu. Liderem spadków był Apple, który ogłosił podwyżki cen",
+      "date_published": "2026-06-25T22:11:00+02:00",
+      "source": "PAP Biznes"
+    },
+    {
       "id": "https://biznes.pap.pl/wiadomosci/firmy/grupa-ebi-przeznaczy-470-mln-euro-na-wsparcie-ukrainy",
       "url": "https://biznes.pap.pl/wiadomosci/firmy/grupa-ebi-przeznaczy-470-mln-euro-na-wsparcie-ukrainy",
       "title": "Grupa EBI przeznaczy 470 mln euro na wsparcie Ukrainy",
@@ -266,14 +282,6 @@
       "title": "BGK przystąpił do funduszu odbudowy Ukrainy tworzonego przez europejskie banki rozwoju",
       "content_html": "Bank Gospodarstwa Krajowego podpisał w czwartek umowę o przystąpieniu do Europejskiego Flagowego Funduszu na rzecz Odbudowy Ukrainy - poinformował BGK. Fundusz utworzyły Europejski Bank Inwestycyjny (",
       "date_published": "2026-06-25T18:03:00+02:00",
-      "source": "PAP Biznes"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/rynki/zamkniecia-na-gieldach-w-europie-tabela-2891",
-      "url": "https://biznes.pap.pl/wiadomosci/rynki/zamkniecia-na-gieldach-w-europie-tabela-2891",
-      "title": "Zamknięcia na giełdach w Europie (tabela)",
-      "content_html": "Poniżej zamknięcia i zmiany wybranych indeksów giełdowych w Europie.",
-      "date_published": "2026-06-25T17:59:00+02:00",
       "source": "PAP Biznes"
     },
     {
@@ -1269,19 +1277,35 @@
       "source": "PAP Biznes"
     },
     {
-      "id": "https://www.bankier.pl/wiadomosc/Movie-Games-sprzedalo-od-premiery-ok-17-9-tys-egzemplarzy-gry-DDS-2-na-platformach-konsolowych-9157501.html",
-      "url": "https://www.bankier.pl/wiadomosc/Movie-Games-sprzedalo-od-premiery-ok-17-9-tys-egzemplarzy-gry-DDS-2-na-platformach-konsolowych-9157501.html",
-      "title": "Udany tydzień Movie Games. Drug Dealer Simulator 2 podbija konsole PS5 i Xbox",
-      "content_html": "Gra Drug Dealer Simulator 2, która miała swoją premierę na platformach Sony PlayStation 5 oraz Xbox Series X/S 17 czerwca 2026 roku w ciągu 7 dni od dnia premiery została sprzedana w liczbie 17.889 sztuk - podało Movie Games w komunikacie.",
-      "date_published": "2026-06-25T09:24:00+02:00",
-      "source": "Bankier.pl"
-    },
-    {
       "id": "https://biznes.pap.pl/wiadomosci/gospodarka/dzien-na-fxfi-zloty-moze-sie-umocnic-kluczowe-dane-z-usa",
       "url": "https://biznes.pap.pl/wiadomosci/gospodarka/dzien-na-fxfi-zloty-moze-sie-umocnic-kluczowe-dane-z-usa",
       "title": "DZIEŃ NA FX/FI: Złoty może się umocnić; kluczowe dane z USA",
       "content_html": "W czwartek w centrum uwagi inwestorów znajdą się dane z USA, w tym finalny odczyt PKB za I kw. 2026 r. i majowe odczyty inflacji PCE - wskazują w porannych raportach ekonomiści. Przy braku negatywnego",
       "date_published": "2026-06-25T09:20:00+02:00",
+      "source": "PAP Biznes"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/gospodarka/rekomendacje-ws-zmian-w-ksztaltowaniu-taryf-za-prad-przedstawione-zostana-me",
+      "url": "https://biznes.pap.pl/wiadomosci/gospodarka/rekomendacje-ws-zmian-w-ksztaltowaniu-taryf-za-prad-przedstawione-zostana-me",
+      "title": "Rekomendacje ws. zmian w kształtowaniu taryf za prąd przedstawione zostaną ME do końca czerwca",
+      "content_html": "Rekomendacje w sprawie zmian w kształtowaniu taryf za prąd przedstawione zostaną ministrowi energii do końca czerwca, a nie jak podano we wcześniejszej formie zarządzenia do końca kwietnia - podano na",
+      "date_published": "2026-06-25T09:09:00+02:00",
+      "source": "PAP Biznes"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/rynki/najwazniejsze-indeksy-gieldowe-w-azji-751",
+      "url": "https://biznes.pap.pl/wiadomosci/rynki/najwazniejsze-indeksy-gieldowe-w-azji-751",
+      "title": "Najważniejsze indeksy giełdowe w Azji",
+      "content_html": "Poniżej aktualne indeksy wybranych giełd w Azji:",
+      "date_published": "2026-06-25T08:57:00+02:00",
+      "source": "PAP Biznes"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/firmy/elemental-inwestuje-1-mld-usd-w-hub-metali-krytycznych-nie-wyklucza-gieldy-za-3-5",
+      "url": "https://biznes.pap.pl/wiadomosci/firmy/elemental-inwestuje-1-mld-usd-w-hub-metali-krytycznych-nie-wyklucza-gieldy-za-3-5",
+      "title": "Elemental inwestuje 1 mld USD w hub metali krytycznych, nie wyklucza giełdy za 3-5 lat (wywiad)",
+      "content_html": "Elemental Holding realizuje wart ponad 1 mld USD program inwestycyjny w Polsce i rozwija działalność globalną, w tym w Ameryce Płn i Azji - poinformował PAP Biznes prezes Paweł Jarski. Spółka koncentr",
+      "date_published": "2026-06-25T08:45:00+02:00",
       "source": "PAP Biznes"
     },
     {
@@ -1307,6 +1331,14 @@
       "content_html": "Kontrakty terminowe na zagraniczne indeksy głównie zwyżkują, co sugeruje, że czwartkowa sesja na GPW może rozpocząć się od wzrostów. W ocenie analityków, widoczna jest poprawa nastrojów po publikacji ",
       "date_published": "2026-06-25T08:38:00+02:00",
       "source": "PAP Biznes"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Movie-Games-sprzedalo-od-premiery-ok-17-9-tys-egzemplarzy-gry-DDS-2-na-platformach-konsolowych-9157501.html",
+      "url": "https://www.bankier.pl/wiadomosc/Movie-Games-sprzedalo-od-premiery-ok-17-9-tys-egzemplarzy-gry-DDS-2-na-platformach-konsolowych-9157501.html",
+      "title": "Udany tydzień Movie Games. Drug Dealer Simulator 2 podbija konsole PS5 i Xbox Gra Drug Dealer Simulator 2, która miała swoją premierę na platformach Sony PlayStation 5 oraz Xbox Series X/S 17 czerwca 2026 roku w ciągu 7 dni od dnia premiery została sprzedana w liczbie 17.889 sztuk - podało Movie Games w komunikacie.",
+      "content_html": "",
+      "date_published": "2026-06-25T08:24:00+02:00",
+      "source": "Bankier.pl"
     },
     {
       "id": "https://biznes.pap.pl/wiadomosci/konsument/movie-games-sprzedalo-od-premiery-ok-179-tys-egzemplarzy-gry-dds-2-na",
@@ -1443,22 +1475,6 @@
       "content_html": "",
       "date_published": "2026-06-25T06:00:00+02:00",
       "source": "Bankier.pl"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/ENTR-Investments-sprzedal-w-ABB-7-02-proc-akcji-Enter-Air-po-48-zl-za-sztuke-9157413.html",
-      "url": "https://www.bankier.pl/wiadomosc/ENTR-Investments-sprzedal-w-ABB-7-02-proc-akcji-Enter-Air-po-48-zl-za-sztuke-9157413.html",
-      "title": "ENTR Investments sprzedał w ABB 7,02 proc. akcji Enter Air, po 48 zł za sztukę ENTR Investments sprzedał w procesie przyspieszonej budowy księgi popytu łącznie 1.231.022 akcje Enter Air, stanowiące około 7,02 proc. kapitału tej spółki, po 48 zł za sztukę - poinformowała Ipopema Securities, która pełniła funkcję wyłącznego globalnego koordynatora i prowadzącego księgę popytu w ramach oferty.",
-      "content_html": "",
-      "date_published": "2026-06-24T23:20:00+02:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/firmy/entr-investments-sprzedal-w-abb-702-proc-akcji-enter-air-po-48-zl-za-sztuke",
-      "url": "https://biznes.pap.pl/wiadomosci/firmy/entr-investments-sprzedal-w-abb-702-proc-akcji-enter-air-po-48-zl-za-sztuke",
-      "title": "ENTR Investments sprzedał w ABB 7,02 proc. akcji Enter Air, po 48 zł za sztukę",
-      "content_html": "ENTR Investments sprzedał w procesie przyspieszonej budowy księgi popytu łącznie 1.231.022 akcje Enter Air, stanowiące około 7,02 proc. kapitału tej spółki, po 48 zł za sztukę - poinformowała Ipopema ",
-      "date_published": "2026-06-24T23:19:00+02:00",
-      "source": "PAP Biznes"
     }
   ]
 }
