@@ -5,12 +5,28 @@
   "home_page_url": "https://www.bankier.pl",
   "items": [
     {
+      "id": "https://biznes.pap.pl/wiadomosci/rynki/dzien-na-rynkach-nasdaq-spadl-piaty-dzien-z-rzedu-mocna-przecena-producentow",
+      "url": "https://biznes.pap.pl/wiadomosci/rynki/dzien-na-rynkach-nasdaq-spadl-piaty-dzien-z-rzedu-mocna-przecena-producentow",
+      "title": "DZIEŃ NA RYNKACH: Nasdaq spadł piąty dzień z rzędu, mocna przecena producentów chipów",
+      "content_html": "Piątkowa sesja na Wall Street zakończyła się spadkami głównych indeksów, a Nasdaq zniżkował piąty dzień z rzędu. Kolejny dzień trwała przecena akcji producentów półprzewodników.",
+      "date_published": "2026-06-26T22:22:00+02:00",
+      "source": "PAP Biznes"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Liban-Izrael-i-USA-podpisali-porozumienie-Rubio-oglasza-sukces-ale-ostrzega-9159063.html",
       "url": "https://www.bankier.pl/wiadomosc/Liban-Izrael-i-USA-podpisali-porozumienie-Rubio-oglasza-sukces-ale-ostrzega-9159063.html",
       "title": "Liban, Izrael i USA podpisali porozumienie. Rubio ogłasza sukces, ale ostrzega",
       "content_html": "Przedstawiciele Libanu, Izraela i USA podpisali w piątek w Waszyngtonie trójstronne porozumienie ramowe, które wyznacza drogę do przyszłego porozumienia pokojowego.",
       "date_published": "2026-06-26T21:28:00+02:00",
       "source": "Bankier.pl"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/ekonomia-biznes-i-finanse/skrot-wiadomosci-piatek-26-czerwca-2100",
+      "url": "https://biznes.pap.pl/wiadomosci/ekonomia-biznes-i-finanse/skrot-wiadomosci-piatek-26-czerwca-2100",
+      "title": "Skrót wiadomości - piątek, 26 czerwca, 21.00",
+      "content_html": "Przegląd najważniejszych wiadomości gospodarczych, krajowych i ze świata.",
+      "date_published": "2026-06-26T21:01:00+02:00",
+      "source": "PAP Biznes"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Kliczko-Kijow-buduje-system-wysp-energetycznych-by-przetrwac-kolejna-zime-9159058.html",
@@ -277,28 +293,12 @@
       "source": "Bankier.pl"
     },
     {
-      "id": "https://biznes.pap.pl/wiadomosci/ekonomia-biznes-i-finanse/skrot-wiadomosci-piatek-26-czerwca-1730",
-      "url": "https://biznes.pap.pl/wiadomosci/ekonomia-biznes-i-finanse/skrot-wiadomosci-piatek-26-czerwca-1730",
-      "title": "Skrót wiadomości - piątek, 26 czerwca, 17.30",
-      "content_html": "Przegląd najważniejszych wiadomości gospodarczych, krajowych i ze świata.",
-      "date_published": "2026-06-26T17:26:00+02:00",
-      "source": "PAP Biznes"
-    },
-    {
       "id": "https://www.bankier.pl/wiadomosc/Opor-wobec-AI-dopiero-sie-rozkreca-ale-juz-staje-sie-tematem-debat-wyborczych-9158862.html",
       "url": "https://www.bankier.pl/wiadomosc/Opor-wobec-AI-dopiero-sie-rozkreca-ale-juz-staje-sie-tematem-debat-wyborczych-9158862.html",
       "title": "Opór wobec AI dopiero się rozkręca, ale już staje się tematem debat wyborczych",
       "content_html": "Opór wobec sektora sztucznej inteligencji (AI) dopiero się rozkręca, ale już staje się tematem debat wyborczych, zwłaszcza w USA. Winne są zastraszające prognozy dotyczące rynku pracy i samodzielnych, złośliwych modeli. Nie należy jednak zatrzymywać...",
       "date_published": "2026-06-26T17:20:00+02:00",
       "source": "Bankier.pl"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/gospodarka/dzien-na-fxfi-eurpln-stabilny-po-oslabieniu-sie-dolara-rentownosci-spw-nadal",
-      "url": "https://biznes.pap.pl/wiadomosci/gospodarka/dzien-na-fxfi-eurpln-stabilny-po-oslabieniu-sie-dolara-rentownosci-spw-nadal",
-      "title": "DZIEŃ NA FX/FI: EUR/PLN stabilny po osłabieniu się dolara; rentowności SPW nadal spadają",
-      "content_html": "Ostatni dzień tygodnia przyniósł stabilizację na rynku złotego, po tym, jak dolar wyraźnie osłabił się. Kurs EUR/PLN kończy sesję w okolicy poziomu odniesienia, a USD/PLN wzrósł. Kolejny dzień spadały",
-      "date_published": "2026-06-26T17:16:00+02:00",
-      "source": "PAP Biznes"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Wspieraja-potezne-Abramsy-beda-powstawac-w-Polsce-Rusza-wspolpraca-z-Amerykanami-9158818.html",
@@ -555,6 +555,14 @@
       "content_html": "Amerykańska armia rozważa przebudowę części swoich baz w Zatoce Perskiej i przeniesienie innych z dala od irańskich rakiet i dronów - podał w piątek dziennik „Wall Street Journal” („WSJ”). Jedną z ewentualnych lokalizacji jest Izrael...",
       "date_published": "2026-06-26T14:22:00+02:00",
       "source": "Bankier.pl"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/energia/polska-jest-coraz-lepiej-przygotowana-na-ekstremalne-upaly-motyka",
+      "url": "https://biznes.pap.pl/wiadomosci/energia/polska-jest-coraz-lepiej-przygotowana-na-ekstremalne-upaly-motyka",
+      "title": "Polska jest coraz lepiej przygotowana na ekstremalne upały - Motyka",
+      "content_html": "Ekstremalne upały są wyzwaniem dla systemu, ale Polska jest coraz lepiej przygotowana na takie zjawiska m.in. dzięki modernizacji sieci - ocenił minister energii Miłosz Motyka. Jego zdaniem polski sys",
+      "date_published": "2026-06-26T14:21:00+02:00",
+      "source": "PAP Biznes"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Eurosnack-wyplaci-0-15-zl-dywidendy-na-akcje-za-25-9158694.html",
@@ -949,14 +957,6 @@
       "source": "Bankier.pl"
     },
     {
-      "id": "https://biznes.pap.pl/wiadomosci/firmy/nanogroup-podpisalo-umowe-inwestycyjna-z-auxilius-pharma",
-      "url": "https://biznes.pap.pl/wiadomosci/firmy/nanogroup-podpisalo-umowe-inwestycyjna-z-auxilius-pharma",
-      "title": "NanoGroup podpisało umowę inwestycyjną z Auxilius Pharma",
-      "content_html": "NanoGroup podpisało umowę inwestycyjną z Auxilius Pharma, która zakłada m.in. wymianę akcji spółek, w efekcie której NanoGroup zwiększy swoje zaangażowanie kapitałowe w Auxilius Pharma do 100 proc. - ",
-      "date_published": "2026-06-26T10:22:00+02:00",
-      "source": "PAP Biznes"
-    },
-    {
       "id": "https://www.bankier.pl/wiadomosc/Orlen-podnosi-ceny-w-hurcie-Ostatnie-dni-taniego-paliwa-na-stacjach-9158498.html",
       "url": "https://www.bankier.pl/wiadomosc/Orlen-podnosi-ceny-w-hurcie-Ostatnie-dni-taniego-paliwa-na-stacjach-9158498.html",
       "title": "Orlen podnosi ceny w hurcie. Ostatnie dni taniego paliwa na stacjach",
@@ -1307,22 +1307,6 @@
       "content_html": "",
       "date_published": "2026-06-26T06:00:00+02:00",
       "source": "Bankier.pl"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/rynki/dzien-na-rynkach-nasdaq-spadl-czwarta-sesje-z-rzedu-liderem-wzrostow-micron",
-      "url": "https://biznes.pap.pl/wiadomosci/rynki/dzien-na-rynkach-nasdaq-spadl-czwarta-sesje-z-rzedu-liderem-wzrostow-micron",
-      "title": "DZIEŃ NA RYNKACH: Nasdaq spadł czwartą sesję z rzędu, liderem wzrostów Micron Technology",
-      "content_html": "Czwartkowa sesja na amerykańskich giełdach ponownie zakończyła się z przewagą spadków, a Nasdaq zakończył handel na minusie czwarty dzień z rzędu. Liderem spadków był Apple, który ogłosił podwyżki cen",
-      "date_published": "2026-06-25T22:11:00+02:00",
-      "source": "PAP Biznes"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/firmy/grupa-ebi-przeznaczy-470-mln-euro-na-wsparcie-ukrainy",
-      "url": "https://biznes.pap.pl/wiadomosci/firmy/grupa-ebi-przeznaczy-470-mln-euro-na-wsparcie-ukrainy",
-      "title": "Grupa EBI przeznaczy 470 mln euro na wsparcie Ukrainy",
-      "content_html": "Grupa Europejskiego Banku Inwestycyjnego przeznaczy 470 mln euro w postaci pożyczek i dotacji w ramach nowego finansowania - poinformował bank w czwartek podczas URC w Gdańsku. Inwestycje mają przyspi",
-      "date_published": "2026-06-25T21:57:00+02:00",
-      "source": "PAP Biznes"
     }
   ]
 }
