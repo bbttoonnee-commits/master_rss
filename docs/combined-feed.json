@@ -5,6 +5,326 @@
   "home_page_url": "https://www.bankier.pl",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/Kino-Polska-wyplaci-1-18-zl-dywidendy-na-akcje-za-25-9160165.html",
+      "url": "https://www.bankier.pl/wiadomosc/Kino-Polska-wyplaci-1-18-zl-dywidendy-na-akcje-za-25-9160165.html",
+      "title": "Kino Polska wypłaci 1,18 zł dywidendy na akcję za '25",
+      "content_html": "Akcjonariusze Kino Polska zdecydowali o wypłacie ok. 23,4 mln zł dywidendy z zysku netto za 2025 rok, co daje 1,18 zł brutto na akcję - podała spółka w komunikacie.",
+      "date_published": "2026-06-29T19:02:00+02:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Oferty-Tauronu-PGE-i-Kogeneracji-wygraly-aukcje-URE-na-premie-kogeneracyjna-9160144.html",
+      "url": "https://www.bankier.pl/wiadomosc/Oferty-Tauronu-PGE-i-Kogeneracji-wygraly-aukcje-URE-na-premie-kogeneracyjna-9160144.html",
+      "title": "Miliardy dla gigantów energetycznych. PGE, Tauron i Kogeneracja wygrały aukcję URE",
+      "content_html": "Oferty złożone przez PGE Energia Ciepła, Tauron Wytwarzanie i Zespół Elektrociepłowni Wrocławskich Kogeneracja wygrały aukcję na premię kogeneracyjną przeprowadzoną przez prezes Urzędu Regulacji Energetyki w dniach 22-24 czerwca - poinformował...",
+      "date_published": "2026-06-29T18:50:00+02:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Sad-Najwyzszy-nie-pozwolil-Trumpowi-zwolnic-gubernatorki-Fed-9160143.html",
+      "url": "https://www.bankier.pl/wiadomosc/Sad-Najwyzszy-nie-pozwolil-Trumpowi-zwolnic-gubernatorki-Fed-9160143.html",
+      "title": "Dwa oblicza Sądu Najwyższego. Trump zablokowany w banku centralnym, ale triumfuje w agencjach federalnych",
+      "content_html": "Sąd Najwyższy USA orzekł w poniedziałek, że prezydent Donald Trump postąpił niezgodnie z prawem, zwalniając Lisę Cook, jedną z członkiń Rady Gubernatorów Rezerwy Federalnej. W odrębnym orzeczeniu sąd rozszerzył jednak uprawnienia prezydenta...",
+      "date_published": "2026-06-29T18:48:00+02:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Makolab-wyplaci-0-22-zl-dywidendy-na-akcje-9160137.html",
+      "url": "https://www.bankier.pl/wiadomosc/Makolab-wyplaci-0-22-zl-dywidendy-na-akcje-9160137.html",
+      "title": "Makolab wypłaci 0,22 zł dywidendy na akcję",
+      "content_html": "Walne zgromadzenie Makolabu zdecydowało o wypłacie 1,54 mln zł dywidendy z zysku netto za 2025 rok, co daje 0,22 zł na akcję - podała spółka w komunikacie.",
+      "date_published": "2026-06-29T18:44:00+02:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Console-Labs-wyplaci-0-5-zl-dywidendy-na-akcje-9160126.html",
+      "url": "https://www.bankier.pl/wiadomosc/Console-Labs-wyplaci-0-5-zl-dywidendy-na-akcje-9160126.html",
+      "title": "Console Labs wypłaci 0,5 zł dywidendy na akcję",
+      "content_html": "Akcjonariusze Console Labs zdecydowali o przeznaczeniu łącznie 0,5 mln zł z zysku netto za 2025 rok na wypłatę dywidendy, co daje 0,5 zł na akcję - podała spółka w komunikacie.",
+      "date_published": "2026-06-29T18:34:00+02:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Automatyka-Pomiary-Sterowanie-wyplaci-0-38-zl-dywidendy-na-akcje-9160122.html",
+      "url": "https://www.bankier.pl/wiadomosc/Automatyka-Pomiary-Sterowanie-wyplaci-0-38-zl-dywidendy-na-akcje-9160122.html",
+      "title": "Automatyka-Pomiary-Sterowanie wypłaci 0,38 zł dywidendy na akcję",
+      "content_html": "Akcjonariusze spółki Automatyka-Pomiary-Sterowanie zdecydowali o przeznaczeniu 2,01 mln zł na wypłatę dywidendy, co daje 0,38 zł dywidendy na akcję - podała spółka w komunikacie.",
+      "date_published": "2026-06-29T18:32:00+02:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/SFD-wyplaci-0-04-zl-dywidendy-na-akcje-9160115.html",
+      "url": "https://www.bankier.pl/wiadomosc/SFD-wyplaci-0-04-zl-dywidendy-na-akcje-9160115.html",
+      "title": "SFD wypłaci 0,04 zł dywidendy na akcję",
+      "content_html": "Walne zgromadzenie SFD zdecydowało, że na dywidendę trafił 1,76 mln zł, co daje 0,04 zł dywidendy na akcję - poinformowała spółka w komunikacie.",
+      "date_published": "2026-06-29T18:28:00+02:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Sad-Najwyzszy-USA-miazdzy-skarge-Trumpa-Glosy-korespondencyjne-liczone-legalnie-9160116.html",
+      "url": "https://www.bankier.pl/wiadomosc/Sad-Najwyzszy-USA-miazdzy-skarge-Trumpa-Glosy-korespondencyjne-liczone-legalnie-9160116.html",
+      "title": "Sąd Najwyższy miażdży skargę Trumpa. Głosy korespondencyjne liczone legalnie",
+      "content_html": "Sąd Najwyższy USA odrzucił popieraną przez Donalda Trumpa skargę sądową kwestionującą legalność przepisów stanowych pozwalających na liczenie głosów korespondencyjnych, które nadeszły już po zamknięciu urn wyborczych.",
+      "date_published": "2026-06-29T18:28:00+02:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Bio-Planet-pozyskal-714-5-tys-zl-z-emisji-akcji-serii-E-9160188.html",
+      "url": "https://www.bankier.pl/wiadomosc/Bio-Planet-pozyskal-714-5-tys-zl-z-emisji-akcji-serii-E-9160188.html",
+      "title": "Bio Planet pozyskał 714,5 tys. zł z emisji akcji serii E Łączna wartość środków pozyskanych przez Bio Planet z emisji akcji serii E wyniosła 714,5 tys. zł - podała spółka w komunikacie.",
+      "content_html": "",
+      "date_published": "2026-06-29T18:28:00+02:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Przecena-KGHM-odbicie-CD-Projektu-i-125-zl-Orlenu-Koszmar-inwestorow-na-akcjach-mPay-9160114.html",
+      "url": "https://www.bankier.pl/wiadomosc/Przecena-KGHM-odbicie-CD-Projektu-i-125-zl-Orlenu-Koszmar-inwestorow-na-akcjach-mPay-9160114.html",
+      "title": "Przecena KGHM, odbicie CD Projektu i 125 zł Orlenu. Koszmar inwestorów na akcjach mPay",
+      "content_html": "Choć krajowe blue chipy próbowały walczyć o wzrostowy wynik poniedziałkowej sesji, ostatecznie przewagę zyskały niedźwiedzie. GPW wpisała się niemrawy nastrój panujący na europejskich giełdach podczas gdy Wall Street próbowało odbijać...",
+      "date_published": "2026-06-29T18:27:00+02:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Akcjonariusze-Scanway-chca-sprzedac-w-ABB-do-263-500-akcji-9160109.html",
+      "url": "https://www.bankier.pl/wiadomosc/Akcjonariusze-Scanway-chca-sprzedac-w-ABB-do-263-500-akcji-9160109.html",
+      "title": "Akcjonariusze Scanway chcą sprzedać w ABB do 263.500 akcji",
+      "content_html": "Akcjonariusze spółki Scanway chcą sprzedać do 263.500 akcji spółki w ramach procesu przyspieszonej budowy księgi popytu. Planowane jest także przeprowadzenie następczej emisji do 209.000 nowych akcji - poinformowała spółka w komunikacie.",
+      "date_published": "2026-06-29T18:26:00+02:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/OSGE-zwrocilo-sie-do-resortu-energii-o-rozpoczecie-prac-nad-wsparciem-dla-SMR-ow-9160108.html",
+      "url": "https://www.bankier.pl/wiadomosc/OSGE-zwrocilo-sie-do-resortu-energii-o-rozpoczecie-prac-nad-wsparciem-dla-SMR-ow-9160108.html",
+      "title": "Orlen i Synthos idą po rządowe pieniądze na atom. Chcą gwarancji dla 14 reaktorów SMR",
+      "content_html": "Orlen Synthos Green Energy zwróciło się do Ministra Energii o rozpoczęcie prac nad systemem wsparcia dla budowy floty małych reaktorów modułowych GE Vernova Hitachi BWRX-300 - podała spółka na swojej stronie internetowej. Dodała, że zabiega...",
+      "date_published": "2026-06-29T18:24:00+02:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Wielki-krok-w-programie-ORKA-Polska-kupuje-okrety-podwodne-i-laczy-sily-ze-Szwedami-9159754.html",
+      "url": "https://www.bankier.pl/wiadomosc/Wielki-krok-w-programie-ORKA-Polska-kupuje-okrety-podwodne-i-laczy-sily-ze-Szwedami-9159754.html",
+      "title": "Podwodne F-35 dla Polski. Historyczny sojusz ze Szwecją za 20 miliardów złotych",
+      "content_html": "W obecności szefów rządów Polski i Szwecji, Donalda Tuska i Ulfa Kristerssona, podpisana została w Gdyni umowa na zakup dla polskiej Marynarki Wojennej trzech szwedzkich okrętów podwodnych A26. To nie jest zwieńczenie współpracy, a jeden z jej...",
+      "date_published": "2026-06-29T18:19:00+02:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/KNF-cofnal-zezwolenie-mPay-na-uslugi-platnicze-w-charakterze-krajowej-instytucji-platniczej-9159653.html",
+      "url": "https://www.bankier.pl/wiadomosc/KNF-cofnal-zezwolenie-mPay-na-uslugi-platnicze-w-charakterze-krajowej-instytucji-platniczej-9159653.html",
+      "title": "Spółka mPay o decyzji KNF: nie było żadnego zawiadomienia. Na giełdzie akcje przeceniono o 50%",
+      "content_html": "KNF cofnął zezwolenie mPay na świadczenie usług płatniczych w charakterze krajowej instytucji płatniczej - podała Komisja Nadzoru Finansowego w komunikacie. Decyzja jest natychmiast wykonalna.",
+      "date_published": "2026-06-29T18:04:00+02:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Ipopema-Securities-przeznaczy-18-mln-zl-na-wyplate-dywidendy-z-zysku-za-25-9160072.html",
+      "url": "https://www.bankier.pl/wiadomosc/Ipopema-Securities-przeznaczy-18-mln-zl-na-wyplate-dywidendy-z-zysku-za-25-9160072.html",
+      "title": "Ipopema Securities przeznaczy 18 mln zł na wypłatę dywidendy z zysku za '25",
+      "content_html": "Walne zgromadzenie Ipopema Securities zdecydowało o przeznaczeniu całego zysku netto za 2025 rok w wysokości 18,03 mln zł na wypłatę dywidendy - poinformowała spółka w komunikacie.",
+      "date_published": "2026-06-29T17:58:00+02:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Ostateczna-porazka-Trumpa-Sad-Najwyzszy-USA-nakazuje-zaplate-5-mln-dolarow-9160066.html",
+      "url": "https://www.bankier.pl/wiadomosc/Ostateczna-porazka-Trumpa-Sad-Najwyzszy-USA-nakazuje-zaplate-5-mln-dolarow-9160066.html",
+      "title": "Ostateczna porażka Trumpa. Sąd Najwyższy USA nakazuje zapłatę 5 mln dolarów",
+      "content_html": "Sąd Najwyższy USA odmówił w poniedziałek rozpatrzenia skargi Donalda Trumpa na wyrok z 2023, przyznający publicystce E. Jean Carroll 5 mln dolarów odszkodowania za napaść seksualną i pomówienie. Oznacza to, że wyrok ten pozostanie w mocy.",
+      "date_published": "2026-06-29T17:53:00+02:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Bat-na-cyberprzestepcow-Prezydent-podpisal-nowe-kary-za-narzedzia-hakerskie-9160059.html",
+      "url": "https://www.bankier.pl/wiadomosc/Bat-na-cyberprzestepcow-Prezydent-podpisal-nowe-kary-za-narzedzia-hakerskie-9160059.html",
+      "title": "Bat na cyberprzestępców. Prezydent podpisał nowe kary za narzędzia hakerskie",
+      "content_html": "Prezydent Karol Nawrocki podpisał w poniedziałek nowelizację Kodeksu karnego dotyczącą przeciwdziałaniu atakom na systemy informatyczne. Nowelizacja jest wdrożeniem artykułu unijnej dyrektywy.",
+      "date_published": "2026-06-29T17:50:00+02:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/firmy/oferty-tauronu-pge-i-kogeneracji-wygraly-aukcje-ure-na-premie-kogeneracyjna",
+      "url": "https://biznes.pap.pl/wiadomosci/firmy/oferty-tauronu-pge-i-kogeneracji-wygraly-aukcje-ure-na-premie-kogeneracyjna",
+      "title": "Oferty Tauronu, PGE i Kogeneracji wygrały aukcję URE na premię kogeneracyjną",
+      "content_html": "Oferty złożone przez PGE Energia Ciepła, Tauron Wytwarzanie i Zespół Elektrociepłowni Wrocławskich Kogeneracja wygrały aukcję na premię kogeneracyjną przeprowadzoną przez prezes Urzędu Regulacji Energ",
+      "date_published": "2026-06-29T17:48:00+02:00",
+      "source": "PAP Biznes"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/firmy/makolab-wyplaci-022-zl-dywidendy-na-akcje",
+      "url": "https://biznes.pap.pl/wiadomosci/firmy/makolab-wyplaci-022-zl-dywidendy-na-akcje",
+      "title": "Makolab wypłaci 0,22 zł dywidendy na akcję",
+      "content_html": "Walne zgromadzenie Makolabu zdecydowało o wypłacie 1,54 mln zł dywidendy z zysku netto za 2025 rok, co daje 0,22 zł na akcję - podała spółka w komunikacie.",
+      "date_published": "2026-06-29T17:43:00+02:00",
+      "source": "PAP Biznes"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/UTrump-triumfuje-Iran-poprosil-o-spotkanie-Pilny-rozejm-i-tajne-rozmowy-w-Dosze-9159913.html",
+      "url": "https://www.bankier.pl/wiadomosc/UTrump-triumfuje-Iran-poprosil-o-spotkanie-Pilny-rozejm-i-tajne-rozmowy-w-Dosze-9159913.html",
+      "title": "Trump triumfuje: Iran poprosił o spotkanie. Pilny rozejm i rozmowy w Dosze",
+      "content_html": "Prezydent Stanów Zjednoczonych Donald Trump zapowiedział w poniedziałek, że Iran poprosił o spotkanie z przedstawicielami władz USA. Do rozmów ma dojść we wtorek w stolicy Kataru, Dosze.",
+      "date_published": "2026-06-29T17:32:00+02:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/firmy/console-labs-wyplaci-05-zl-dywidendy-na-akcje",
+      "url": "https://biznes.pap.pl/wiadomosci/firmy/console-labs-wyplaci-05-zl-dywidendy-na-akcje",
+      "title": "Console Labs wypłaci 0,5 zł dywidendy na akcję",
+      "content_html": "Akcjonariusze Console Labs zdecydowali o przeznaczeniu łącznie 0,5 mln zł z zysku netto za 2025 rok na wypłatę dywidendy, co daje 0,5 zł na akcję - podała spółka w komunikacie.",
+      "date_published": "2026-06-29T17:31:00+02:00",
+      "source": "PAP Biznes"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/firmy/automatyka-pomiary-sterowanie-wyplaci-038-zl-dywidendy-na-akcje-1",
+      "url": "https://biznes.pap.pl/wiadomosci/firmy/automatyka-pomiary-sterowanie-wyplaci-038-zl-dywidendy-na-akcje-1",
+      "title": "Automatyka-Pomiary-Sterowanie wypłaci 0,38 zł dywidendy na akcję",
+      "content_html": "Akcjonariusze spółki Automatyka-Pomiary-Sterowanie zdecydowali o przeznaczeniu 2,01 mln zł na wypłatę dywidendy, co daje 0,38 zł dywidendy na akcję - podała spółka w komunikacie.",
+      "date_published": "2026-06-29T17:30:00+02:00",
+      "source": "PAP Biznes"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/konsument/sfd-wyplaci-004-zl-dywidendy-na-akcje",
+      "url": "https://biznes.pap.pl/wiadomosci/konsument/sfd-wyplaci-004-zl-dywidendy-na-akcje",
+      "title": "SFD wypłaci 0,04 zł dywidendy na akcję",
+      "content_html": "Walne zgromadzenie SFD zdecydowało, że na dywidendę trafił 1,76 mln zł, co daje 0,04 zł dywidendy na akcję - poinformowała spółka w komunikacie.",
+      "date_published": "2026-06-29T17:26:00+02:00",
+      "source": "PAP Biznes"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/przemysl/akcjonariusze-scanway-chca-sprzedac-w-abb-do-263500-akcji",
+      "url": "https://biznes.pap.pl/wiadomosci/przemysl/akcjonariusze-scanway-chca-sprzedac-w-abb-do-263500-akcji",
+      "title": "Akcjonariusze Scanway chcą sprzedać w ABB do 263.500 akcji",
+      "content_html": "Akcjonariusze spółki Scanway chcą sprzedać do 263.500 akcji spółki w ramach procesu przyspieszonej budowy księgi popytu. Planowane jest także przeprowadzenie następczej emisji do 209.000 nowych akcji ",
+      "date_published": "2026-06-29T17:25:00+02:00",
+      "source": "PAP Biznes"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/firmy/osge-zwrocilo-sie-do-resortu-energii-o-rozpoczecie-prac-nad-wsparciem-dla-smr-ow",
+      "url": "https://biznes.pap.pl/wiadomosci/firmy/osge-zwrocilo-sie-do-resortu-energii-o-rozpoczecie-prac-nad-wsparciem-dla-smr-ow",
+      "title": "OSGE zwróciło się do resortu energii o rozpoczęcie prac nad wsparciem dla SMR-ów",
+      "content_html": "Orlen Synthos Green Energy zwróciło się do Ministra Energii o rozpoczęcie prac nad systemem wsparcia dla budowy floty małych reaktorów modułowych GE Vernova Hitachi BWRX-300 - podała spółka na swojej ",
+      "date_published": "2026-06-29T17:23:00+02:00",
+      "source": "PAP Biznes"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Mo-Bruk-wyplaci-15-23-zl-dywidendy-na-akcje-9160009.html",
+      "url": "https://www.bankier.pl/wiadomosc/Mo-Bruk-wyplaci-15-23-zl-dywidendy-na-akcje-9160009.html",
+      "title": "Mo-Bruk wypłaci 15,23 zł dywidendy na akcję",
+      "content_html": "Walne zgromadzenie Mo-Bruku zdecydowało o wypłacie 15,23 zł dywidendy na akcję - poinformowała spółka w komunikacie. Akcjonariusze zdecydowali także w sprawie wprowadzenia programu motywacyjnego na lata 2026-2030.",
+      "date_published": "2026-06-29T17:18:00+02:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/SP-chce-w-lipcu-podjac-decyzje-w-sprawie-przyszlosci-Torpolu-Malepszak-9159986.html",
+      "url": "https://www.bankier.pl/wiadomosc/SP-chce-w-lipcu-podjac-decyzje-w-sprawie-przyszlosci-Torpolu-Malepszak-9159986.html",
+      "title": "Gigant pójdzie pod młotek? CPK analizuje miliony i liczy wartość Torpolu",
+      "content_html": "Skarb Państwa chce w lipcu podjąć decyzję w sprawie przyszłości Torpolu, w którym posiada udziały - poinformował PAP Biznes Piotr Malepszak, wiceminister infrastruktury, pełnomocnik rządu do spraw CPK. Dodał, że pojawiły się podmioty zainteresowane...",
+      "date_published": "2026-06-29T17:02:00+02:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/ekonomia-biznes-i-finanse/skrot-wiadomosci-poniedzialek-29-czerwca-1700",
+      "url": "https://biznes.pap.pl/wiadomosci/ekonomia-biznes-i-finanse/skrot-wiadomosci-poniedzialek-29-czerwca-1700",
+      "title": "Skrót wiadomości - poniedziałek, 29 czerwca, 17.00",
+      "content_html": "Przegląd najważniejszych wiadomości gospodarczych, krajowych i ze świata.",
+      "date_published": "2026-06-29T17:00:00+02:00",
+      "source": "PAP Biznes"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/firmy/ipopema-securities-przeznaczy-18-mln-zl-na-wyplate-dywidendy-z-zysku-za-25",
+      "url": "https://biznes.pap.pl/wiadomosci/firmy/ipopema-securities-przeznaczy-18-mln-zl-na-wyplate-dywidendy-z-zysku-za-25",
+      "title": "Ipopema Securities przeznaczy 18 mln zł na wypłatę dywidendy z zysku za '25",
+      "content_html": "Walne zgromadzenie Ipopema Securities zdecydowało o przeznaczeniu całego zysku netto za 2025 rok w wysokości 18,03 mln zł na wypłatę dywidendy - poinformowała spółka w komunikacie.",
+      "date_published": "2026-06-29T16:57:00+02:00",
+      "source": "PAP Biznes"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Urzednik-sie-spozni-Masz-automatyczna-zgode-Prezydent-podpisal-przelomowe-prawo-9159971.html",
+      "url": "https://www.bankier.pl/wiadomosc/Urzednik-sie-spozni-Masz-automatyczna-zgode-Prezydent-podpisal-przelomowe-prawo-9159971.html",
+      "title": "Urzędnik się spóźni? Masz automatyczną zgodę. Prezydent podpisał przełomowe prawo",
+      "content_html": "Prezydent podpisał ustawę o zmianie niektórych ustaw w celu uproszczenia procedur administracyjnych w sprawach rozstrzyganych w drodze decyzji administracyjnych albo załatwianych milcząco – podała w poniedziałek Kancelaria Prezydenta.",
+      "date_published": "2026-06-29T16:48:00+02:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/transport-i-logistyka/port-polska-chce-w-przyszlosci-pociagi-w-polsce-kursowaly-o",
+      "url": "https://biznes.pap.pl/wiadomosci/transport-i-logistyka/port-polska-chce-w-przyszlosci-pociagi-w-polsce-kursowaly-o",
+      "title": "Port Polska chce by w przyszłości pociągi w Polsce kursowały o stałych porach i częściej niż teraz",
+      "content_html": "Wprowadzenie stałych godziny odjazdów, a także zwiększenie częstotliwości kursowania pociągów np. co godzinę, czy dwie - przewiduje projekt Horyzontalnego Rozkładu Jazdy, którego założenia w poniedzia",
+      "date_published": "2026-06-29T16:46:00+02:00",
+      "source": "PAP Biznes"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Stacje-ORLEN-w-nowej-odslonie-Od-punktu-tankowania-do-kompleksowej-przestrzeni-uslugowej-9159662.html",
+      "url": "https://www.bankier.pl/wiadomosc/Stacje-ORLEN-w-nowej-odslonie-Od-punktu-tankowania-do-kompleksowej-przestrzeni-uslugowej-9159662.html",
+      "title": "Stacje ORLEN w nowej odsłonie. Od punktu tankowania do kompleksowej przestrzeni usługowej",
+      "content_html": "Stacje paliw już dawno przestały być miejscem, w którym tylko tankujemy swój pojazd. Przykładem jest ORLEN, który rozpoczął prawdziwą zmianę ukierunkowaną na potrzeby klienta. Rozbudowa miejskiego formatu convenience ma zagwarantować błyskawiczne...",
+      "date_published": "2026-06-29T16:45:00+02:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/firmy/mo-bruk-wyplaci-1523-zl-dywidendy-na-akcje-opis",
+      "url": "https://biznes.pap.pl/wiadomosci/firmy/mo-bruk-wyplaci-1523-zl-dywidendy-na-akcje-opis",
+      "title": "Mo-Bruk wypłaci 15,23 zł dywidendy na akcję (opis)",
+      "content_html": "Walne zgromadzenie Mo-Bruku zdecydowało o wypłacie 15,23 zł dywidendy na akcję - poinformowała spółka w komunikacie. Akcjonariusze zdecydowali także w sprawie wprowadzenia programu motywacyjnego na la",
+      "date_published": "2026-06-29T16:37:00+02:00",
+      "source": "PAP Biznes"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/firmy/mo-bruk-wyplaci-1523-zl-dywidendy-na-akcje",
+      "url": "https://biznes.pap.pl/wiadomosci/firmy/mo-bruk-wyplaci-1523-zl-dywidendy-na-akcje",
+      "title": "Mo-Bruk wypłaci 15,23 zł dywidendy na akcję",
+      "content_html": "Walne zgromadzenie Mo-Bruku zdecydowało o wypłacie 15,23 zł dywidendy na akcję - poinformowała spółka w komunikacie.",
+      "date_published": "2026-06-29T16:17:00+02:00",
+      "source": "PAP Biznes"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Ekopol-wyplaci-0-24-zl-dywidendy-na-akcje-zwykla-i-0-36-zl-na-akcje-uprzywilejowana-9159942.html",
+      "url": "https://www.bankier.pl/wiadomosc/Ekopol-wyplaci-0-24-zl-dywidendy-na-akcje-zwykla-i-0-36-zl-na-akcje-uprzywilejowana-9159942.html",
+      "title": "Ekopol wypłaci 0,24 zł dywidendy na akcję zwykłą i 0,36 zł na akcję uprzywilejowaną",
+      "content_html": "Walne zgromadzenie spółki Ekopol Górnośląski Holding zdecydowało o przeznaczeniu na wypłatę dywidendy 748,2 tys. zł, co daje 24 grosze na akcję zwykłą i 36 groszy na akcję uprzywilejowaną - poinformowała spółka w komunikacie.",
+      "date_published": "2026-06-29T16:08:00+02:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Jacht-Putina-plynie-pod-eskorta-niszczyciela-gonia-go-okrety-NATO-9159935.html",
+      "url": "https://www.bankier.pl/wiadomosc/Jacht-Putina-plynie-pod-eskorta-niszczyciela-gonia-go-okrety-NATO-9159935.html",
+      "title": "Jacht Putina płynie pod eskortą niszczyciela. Monitorują go Niemcy i Duńczycy",
+      "content_html": "Superjacht Graceful, należący - według mediów - do przywódcy Rosji Władimira Putina, przepłynął cieśniny należące do Danii i kieruje się na Morze Północne – powiadomił w poniedziałek duński nadawca publiczny DR. Statek eskortuje rosyjska...",
+      "date_published": "2026-06-29T16:00:00+02:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/LSI-Software-wyplaci-2-zl-dywidendy-na-akcje-z-zysku-za-25-9159930.html",
+      "url": "https://www.bankier.pl/wiadomosc/LSI-Software-wyplaci-2-zl-dywidendy-na-akcje-z-zysku-za-25-9159930.html",
+      "title": "LSI Software wypłaci 2 zł dywidendy na akcję z zysku za '25",
+      "content_html": "Zwyczajne walne zgromadzenie LSI Software zdecydowało o przeznaczeniu na dywidendę 5,33 mln zł dywidendy z zysku netto za 2025 rok, co daje 2 zł na akcję - podała spółka w komunikacie.",
+      "date_published": "2026-06-29T15:56:00+02:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Policja-pilnuje-dystrybutorow-w-Rosji-za-kanister-groza-kary-9159925.html",
+      "url": "https://www.bankier.pl/wiadomosc/Policja-pilnuje-dystrybutorow-w-Rosji-za-kanister-groza-kary-9159925.html",
+      "title": "Policja pilnuje dystrybutorów w Rosji, za kanister grożą kary",
+      "content_html": "W Irkucku policja pełni dyżury na stacjach benzynowych, pilnując, by klienci nie nalewali paliwa do kanistrów - przekazał w poniedziałek portal IrCity, powołując się na informacje przekazane przez lokalny resort spraw wewnętrznych.",
+      "date_published": "2026-06-29T15:53:00+02:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/NBP-ujawnia-dane-Polskie-banki-zarobily-17-6-mld-zl-ale-zyski-topnieja-9159910.html",
+      "url": "https://www.bankier.pl/wiadomosc/NBP-ujawnia-dane-Polskie-banki-zarobily-17-6-mld-zl-ale-zyski-topnieja-9159910.html",
+      "title": "NBP ujawnia dane: Polskie banki zarobiły 17,6 mld zł, ale zyski topnieją",
+      "content_html": "Zysk netto sektora bankowego w okresie styczeń-maj 2026 roku wyniósł 17,61 mld zł, czyli spadł o 15,6 proc. rdr - poinformował Narodowy Bank Polski. W samym maju zysk wyniósł 4,39 mld zł.",
+      "date_published": "2026-06-29T15:40:00+02:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Wakacje-na-Gieldzie-2026-Zapraszamy-do-konkursu-Bankier-pl-i-GPW-w-Warszawie-9159613.html",
+      "url": "https://www.bankier.pl/wiadomosc/Wakacje-na-Gieldzie-2026-Zapraszamy-do-konkursu-Bankier-pl-i-GPW-w-Warszawie-9159613.html",
+      "title": "Słońce, plaża i... zyski! Zapraszamy na nową edycję konkursu Wakacje na Giełdzie",
+      "content_html": "Kto powiedział, że na urlopie trzeba robić sobie wolne od rynkowych emocji? Z początkiem lipca Bankier.pl oraz Giełda Papierów Wartościowych zapraszają na kolejną odsłonę gry inwestycyjnej Wakacje na Giełdzie. Wskakuj na wirtualny parkiet...",
+      "date_published": "2026-06-29T15:39:00+02:00",
+      "source": "Bankier.pl"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Vuczic-9159896.html",
       "url": "https://www.bankier.pl/wiadomosc/Vuczic-9159896.html",
       "title": "Bruksela reaguje na trzęsienie ziemi w Serbii. Vuczić odchodzi, jesienią wybory",
@@ -24,7 +344,7 @@
       "id": "https://www.bankier.pl/wiadomosc/Polskie-urzedy-coraz-bardziej-cyfrowe-Debata-ekspertow-NASK-9159878.html",
       "url": "https://www.bankier.pl/wiadomosc/Polskie-urzedy-coraz-bardziej-cyfrowe-Debata-ekspertow-NASK-9159878.html",
       "title": "Polskie urzędy coraz bardziej cyfrowe. Debata ekspertów NASK",
-      "content_html": "Zapraszamy do obejrzenia debaty ekspertów NASK nt. upowszechnienia usługi EZD RP.",
+      "content_html": "Zapraszamy do obejrzenia debaty ekspertów NASK nt. upowszechnienia usługi EZD RP. Przedstawiciele instytutu podsumowali skalę szkoleń, w których udział wzięło już ponad 167 tysięcy pracowników sektora publicznego. W dyskusji podkreślono,...",
       "date_published": "2026-06-29T15:13:00+02:00",
       "source": "Bankier.pl"
     },
@@ -45,51 +365,11 @@
       "source": "Bankier.pl"
     },
     {
-      "id": "https://www.bankier.pl/wiadomosc/LSI-Software-wyplaci-2-zl-dywidendy-na-akcje-z-zysku-za-25-9159930.html",
-      "url": "https://www.bankier.pl/wiadomosc/LSI-Software-wyplaci-2-zl-dywidendy-na-akcje-z-zysku-za-25-9159930.html",
-      "title": "LSI Software wypłaci 2 zł dywidendy na akcję z zysku za '25 Zwyczajne walne zgromadzenie LSI Software zdecydowało o przeznaczeniu na dywidendę 5,33 mln zł dywidendy z zysku netto za 2025 rok, co daje 2 zł na akcję - podała spółka w komunikacie.",
-      "content_html": "",
-      "date_published": "2026-06-29T14:56:00+02:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/firmy/lsi-software-wyplaci-2-zl-dywidendy-na-akcje-z-zysku-za-25",
-      "url": "https://biznes.pap.pl/wiadomosci/firmy/lsi-software-wyplaci-2-zl-dywidendy-na-akcje-z-zysku-za-25",
-      "title": "LSI Software wypłaci 2 zł dywidendy na akcję z zysku za '25",
-      "content_html": "Zwyczajne walne zgromadzenie LSI Software zdecydowało o przeznaczeniu na dywidendę 5,33 mln zł dywidendy z zysku netto za 2025 rok, co daje 2 zł na akcję - podała spółka w komunikacie.",
-      "date_published": "2026-06-29T14:54:00+02:00",
-      "source": "PAP Biznes"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/firmy/bgk-podpisal-porozumienie-ze-szwedzka-agencja-kredytow-eksportowych",
-      "url": "https://biznes.pap.pl/wiadomosci/firmy/bgk-podpisal-porozumienie-ze-szwedzka-agencja-kredytow-eksportowych",
-      "title": "BGK podpisał porozumienie ze szwedzką agencją kredytów eksportowych",
-      "content_html": "Bank Gospodarstwa Krajowego podpisał w Gdyni porozumienie Memorandum of Understanding (MoU) ze szwedzką agencją kredytów eksportowych (EKN), która zamierza wesprzeć kontrakt realizowany w ramach progr",
-      "date_published": "2026-06-29T14:53:00+02:00",
-      "source": "PAP Biznes"
-    },
-    {
       "id": "https://www.bankier.pl/wiadomosc/Koniec-szczucia-na-lekarzy-Rezydenci-pokazali-raport-z-321-szpitali-9159846.html",
       "url": "https://www.bankier.pl/wiadomosc/Koniec-szczucia-na-lekarzy-Rezydenci-pokazali-raport-z-321-szpitali-9159846.html",
       "title": "Koniec szczucia na lekarzy? Rezydenci pokazali raport z 321 szpitali",
       "content_html": "Porozumienie Rezydentów OZZL zaapelowało do MZ o zakończenie partyjnej narracji i szczucia na medyków. Jak podkreślili lekarze, potrzebna jest merytoryczna debata, ponieważ emocjonalne komunikaty o wynagrodzeniach w szpitalach budują fałszywy...",
       "date_published": "2026-06-29T14:49:00+02:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Wielki-krok-w-programie-ORKA-Polska-kupuje-okrety-podwodne-i-laczy-sily-ze-Szwedami-9159754.html",
-      "url": "https://www.bankier.pl/wiadomosc/Wielki-krok-w-programie-ORKA-Polska-kupuje-okrety-podwodne-i-laczy-sily-ze-Szwedami-9159754.html",
-      "title": "Potężny krok w zabezpieczeniu Bałtyku. Polska podpisała umowę na zakup okrętów podwodnych",
-      "content_html": "Polska Grupa Zbrojeniowa i Saab podpisały Memorandum of Understanding, otwierające drogę do budowy w Polsce kompetencji w zakresie serwisowania i utrzymania okrętów podwodnych nowego typu - podała spółka. Dodała, że porozumienie zakłada wspólne...",
-      "date_published": "2026-06-29T14:47:00+02:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Wakacje-na-Gieldzie-2026-Zapraszamy-do-konkursu-Bankier-pl-i-GPW-w-Warszawie-9159613.html",
-      "url": "https://www.bankier.pl/wiadomosc/Wakacje-na-Gieldzie-2026-Zapraszamy-do-konkursu-Bankier-pl-i-GPW-w-Warszawie-9159613.html",
-      "title": "Słońce, plaża i... zyski! Zapraszamy na nową edycję konkursu Wakacje na Giełdzie Kto powiedział, że na urlopie trzeba robić sobie wolne od rynkowych emocji? Z początkiem lipca Bankier.pl oraz Giełda Papierów Wartościowych zapraszają na kolejną odsłonę gry inwestycyjnej Wakacje na Giełdzie. Wskakuj na wirtualny parkiet prosto z leżaka, testuj swoje strategie bez ryzyka i graj o fantastyczne nagrody!",
-      "content_html": "",
-      "date_published": "2026-06-29T14:39:00+02:00",
       "source": "Bankier.pl"
     },
     {
@@ -99,14 +379,6 @@
       "content_html": "Zysk netto sektora bankowego w okresie styczeń-maj 2026 roku wyniósł 17,61 mld zł, czyli spadł o 15,6 proc. rdr - poinformował Narodowy Bank Polski. W samym maju zysk wyniósł 4,39 mld zł.",
       "date_published": "2026-06-29T14:39:00+02:00",
       "source": "PAP Biznes"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/KNF-cofnal-zezwolenie-mPay-na-uslugi-platnicze-w-charakterze-krajowej-instytucji-platniczej-9159653.html",
-      "url": "https://www.bankier.pl/wiadomosc/KNF-cofnal-zezwolenie-mPay-na-uslugi-platnicze-w-charakterze-krajowej-instytucji-platniczej-9159653.html",
-      "title": "Krach na akcjach mPay. Spółka komentuje",
-      "content_html": "KNF cofnął zezwolenie mPay na świadczenie usług płatniczych w charakterze krajowej instytucji płatniczej - podała Komisja Nadzoru Finansowego w komunikacie. Decyzja jest natychmiast wykonalna.",
-      "date_published": "2026-06-29T14:33:00+02:00",
-      "source": "Bankier.pl"
     },
     {
       "id": "https://biznes.pap.pl/wiadomosci/firmy/zysk-netto-sektora-bankowego-w-i-v-26-wyniosl-176-mld-zl-spadl-156-proc-rdr-nbp",
@@ -293,6 +565,14 @@
       "source": "Bankier.pl"
     },
     {
+      "id": "https://biznes.pap.pl/wiadomosci/firmy/pgz-i-saab-rozwaza-utworzenie-spolki-celowej-na-rzecz-serwisu-w-ramach-programu",
+      "url": "https://biznes.pap.pl/wiadomosci/firmy/pgz-i-saab-rozwaza-utworzenie-spolki-celowej-na-rzecz-serwisu-w-ramach-programu",
+      "title": "PGZ i Saab rozważą utworzenie spółki celowej na rzecz serwisu w ramach programu ORKA",
+      "content_html": "Polska Grupa Zbrojeniowa i Saab podpisały Memorandum of Understanding, otwierające drogę do budowy w Polsce kompetencji w zakresie serwisowania i utrzymania okrętów podwodnych nowego typu - podała spó",
+      "date_published": "2026-06-29T12:36:00+02:00",
+      "source": "PAP Biznes"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Rzad-podjal-decyzje-w-sprawie-14-emerytury-Wiemy-kiedy-pieniadze-trafia-na-konta-9159690.html",
       "url": "https://www.bankier.pl/wiadomosc/Rzad-podjal-decyzje-w-sprawie-14-emerytury-Wiemy-kiedy-pieniadze-trafia-na-konta-9159690.html",
       "title": "Rząd podjął decyzję w sprawie 14. emerytury. Wiemy, kiedy pieniądze trafią na konta",
@@ -309,12 +589,36 @@
       "source": "Bankier.pl"
     },
     {
+      "id": "https://biznes.pap.pl/wiadomosci/gry-i-technologie/przedsiebiorcy-nie-oferuja-uslug-w-modelu-zero-rating-uke",
+      "url": "https://biznes.pap.pl/wiadomosci/gry-i-technologie/przedsiebiorcy-nie-oferuja-uslug-w-modelu-zero-rating-uke",
+      "title": "Przedsiębiorcy nie oferują usług w modelu \"zero rating\" - UKE",
+      "content_html": "UKE wskazuje, że obecnie przedsiębiorcy nie oferują usług rozliczanych w modelu \"zero rating\" (nieliczenie transmisji danych z określonych aplikacji lub serwisów) - podał urząd w sprawozdaniu prezesa ",
+      "date_published": "2026-06-29T12:19:00+02:00",
+      "source": "PAP Biznes"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Miliardy-dolarow-wracaja-do-Iranu-Katar-odmraza-polowe-fortuny-9159667.html",
       "url": "https://www.bankier.pl/wiadomosc/Miliardy-dolarow-wracaja-do-Iranu-Katar-odmraza-polowe-fortuny-9159667.html",
       "title": "Miliardy dolarów wracają do Iranu. Katar odmraża połowę fortuny",
       "content_html": "Prezydent Iranu Masud Pezeszkian poinformował w poniedziałek, że po zniesieniu sankcji naftowych i petrochemicznych w ramach porozumienia z USA uwolnionych i zwróconych Teheranowi zostanie 6 z 12 mld dolarów irańskich aktywów, zamrożonych w Katarze...",
       "date_published": "2026-06-29T12:02:00+02:00",
       "source": "Bankier.pl"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/rynki/tygodniowy-przeglad-z-regionu-biznes-i-rynki-22-28-czerwca",
+      "url": "https://biznes.pap.pl/wiadomosci/rynki/tygodniowy-przeglad-z-regionu-biznes-i-rynki-22-28-czerwca",
+      "title": "TYGODNIOWY PRZEGLĄD Z REGIONU: Biznes i Rynki, 22-28 czerwca",
+      "content_html": "Poniżej przedstawiamy przegląd wiadomości o spółkach, sektorach gospodarki i rynkach finansowych Europy Środkowo-Wschodniej oraz Grecji i Turcji z okresu 22-28 czerwca 2026 roku.",
+      "date_published": "2026-06-29T12:00:00+02:00",
+      "source": "PAP Biznes"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/gospodarka/tygodniowy-przeglad-z-regionu-polityka-i-gospodarka-22-28-czerwca",
+      "url": "https://biznes.pap.pl/wiadomosci/gospodarka/tygodniowy-przeglad-z-regionu-polityka-i-gospodarka-22-28-czerwca",
+      "title": "TYGODNIOWY PRZEGLĄD Z REGIONU: Polityka i gospodarka, 22-28 czerwca",
+      "content_html": "Poniżej przedstawiamy przegląd wiadomości politycznych i makroekonomicznych z Europy Środkowo-Wschodniej oraz Grecji i Turcji z 22-28 czerwca 2026 roku.",
+      "date_published": "2026-06-29T12:00:00+02:00",
+      "source": "PAP Biznes"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Liban-przede-wszystkim-Rzad-w-Bejrucie-podpisuje-historyczne-porozumienie-z-Izraelem-9159656.html",
@@ -357,6 +661,22 @@
       "source": "Bankier.pl"
     },
     {
+      "id": "https://biznes.pap.pl/wiadomosci/firmy/sprzedaz-supermarketow-w-polsce-w-maju-spadla-rdr-o-13-proc-pih-cmr",
+      "url": "https://biznes.pap.pl/wiadomosci/firmy/sprzedaz-supermarketow-w-polsce-w-maju-spadla-rdr-o-13-proc-pih-cmr",
+      "title": "Sprzedaż supermarketów w Polsce w maju spadła rdr o 1,3 proc. - PIH, CMR",
+      "content_html": "Sprzedaż detaliczna supermarketów w Polsce w maju spadła o 1,3 proc. rdr - wynika z szacunków Polskiej Izby Handlu i firmy badawczej CMR.",
+      "date_published": "2026-06-29T11:38:00+02:00",
+      "source": "PAP Biznes"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/firmy/sprzedaz-sklepow-maloformatowych-w-v-nie-zmienila-sie-rdr-pih-cmr",
+      "url": "https://biznes.pap.pl/wiadomosci/firmy/sprzedaz-sklepow-maloformatowych-w-v-nie-zmienila-sie-rdr-pih-cmr",
+      "title": "Sprzedaż sklepów małoformatowych w V nie zmieniła się rdr - PIH, CMR",
+      "content_html": "Sprzedaż detaliczna sklepów małoformatowych w maju nie zmieniła się w relacji rok do roku - wynika z szacunków Polskiej Izby Handlu i firmy badawczej CMR.",
+      "date_published": "2026-06-29T11:37:00+02:00",
+      "source": "PAP Biznes"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Wielki-przekret-przy-zakupie-elektrykow-CBA-wkroczylo-do-akcji-9159645.html",
       "url": "https://www.bankier.pl/wiadomosc/Wielki-przekret-przy-zakupie-elektrykow-CBA-wkroczylo-do-akcji-9159645.html",
       "title": "Wielki przekręt przy zakupie \"elektryków\". CBA wkroczyło do akcji",
@@ -365,12 +685,52 @@
       "source": "Bankier.pl"
     },
     {
+      "id": "https://biznes.pap.pl/wiadomosci/gospodarka/wskaznik-nastrojow-w-gospodarce-polski-w-czerwcu-wyniosl-1006-pkt-ke",
+      "url": "https://biznes.pap.pl/wiadomosci/gospodarka/wskaznik-nastrojow-w-gospodarce-polski-w-czerwcu-wyniosl-1006-pkt-ke",
+      "title": "Wskaźnik nastrojów w gospodarce Polski w czerwcu wyniósł 100,6 pkt. - KE",
+      "content_html": "Wskaźnik nastrojów w polskiej gospodarce (Economic Sentiment Indicator - ESI) w czerwcu wyniósł 100,6 pkt. wobec 100,3 pkt. przed miesiącem - wynika z danych Komisji Europejskiej.",
+      "date_published": "2026-06-29T11:31:00+02:00",
+      "source": "PAP Biznes"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/gospodarka/wyplata-14-emerytury-nastapi-we-wrzesniu-0",
+      "url": "https://biznes.pap.pl/wiadomosci/gospodarka/wyplata-14-emerytury-nastapi-we-wrzesniu-0",
+      "title": "Wypłata 14. emerytury nastąpi we wrześniu",
+      "content_html": "Wypłata 14. emerytury nastąpi we wrześniu 2026 r., podobnie jak przed rokiem. Stosowny projekt rozporządzenia przygotowuje resort pracy - podano w wykazie prac rządu.",
+      "date_published": "2026-06-29T11:30:00+02:00",
+      "source": "PAP Biznes"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/gospodarka/wskaznik-oczekiwan-inflacyjnych-w-polsce-w-czerwcu-spadl-do-202-pkt-ke",
+      "url": "https://biznes.pap.pl/wiadomosci/gospodarka/wskaznik-oczekiwan-inflacyjnych-w-polsce-w-czerwcu-spadl-do-202-pkt-ke",
+      "title": "Wskaźnik oczekiwań inflacyjnych w Polsce w czerwcu spadł do 20,2 pkt. - KE",
+      "content_html": "Wskaźnik oczekiwań inflacyjnych konsumentów w Polsce w czerwcu spadł do 20,2 pkt. z 24,7 pkt. w maju - wynika z danych Komisji Europejskiej.",
+      "date_published": "2026-06-29T11:29:00+02:00",
+      "source": "PAP Biznes"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/gospodarka/sredni-czas-poszukiwania-nowej-pracy-w-polsce-wzrosl-do-45-miesiaca-randstad",
+      "url": "https://biznes.pap.pl/wiadomosci/gospodarka/sredni-czas-poszukiwania-nowej-pracy-w-polsce-wzrosl-do-45-miesiaca-randstad",
+      "title": "Średni czas poszukiwania nowej pracy w Polsce wzrósł do 4,5 miesiąca – Randstad",
+      "content_html": "Średni czas poszukiwania nowej pracy w Polsce wzrósł do 4,5 miesiąca, co jest najwyższym wynikiem w historii pomiarów – wynika z 61. edycji raportu Monitor Rynku Pracy, przygotowanego przez Instytut B",
+      "date_published": "2026-06-29T11:28:00+02:00",
+      "source": "PAP Biznes"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Chaos-w-Wenezueli-sie-poglebia-Ochotnicy-golymi-rekami-przeszukuja-gruzy-9159642.html",
       "url": "https://www.bankier.pl/wiadomosc/Chaos-w-Wenezueli-sie-poglebia-Ochotnicy-golymi-rekami-przeszukuja-gruzy-9159642.html",
       "title": "Chaos w Wenezueli się pogłębia. Ochotnicy gołymi rękami przeszukują gruzy",
       "content_html": "Niewystarczająca liczba ratowników, problemy ze sprzętem i dostępnością paliwa oraz chaos logistyczny sprawiają, że sytuacja po ubiegłotygodniowym podwójnym trzęsieniu ziemi staje się w Wenezueli coraz bardziej krytyczna - podają media. Ochotnicy...",
       "date_published": "2026-06-29T11:24:00+02:00",
       "source": "Bankier.pl"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/gospodarka/do-28-czerwca-podpisano-umowy-na-670-proc-funduszy-ue-na-lata-2021-2027-mfipr",
+      "url": "https://biznes.pap.pl/wiadomosci/gospodarka/do-28-czerwca-podpisano-umowy-na-670-proc-funduszy-ue-na-lata-2021-2027-mfipr",
+      "title": "Do 28 czerwca podpisano umowy na 67,0 proc. funduszy UE na lata 2021-2027 - MFiPR",
+      "content_html": "Do 28 czerwca podpisano 28.883 umowy na unijne dofinansowanie projektów, które wykorzystają 67,0 proc. dostępnej puli środków z polityki spójności UE na lata 2021-2027 - poinformowało na stronie inter",
+      "date_published": "2026-06-29T11:17:00+02:00",
+      "source": "PAP Biznes"
     },
     {
       "id": "https://biznes.pap.pl/wiadomosci/firmy/oplaty-celne-od-przesylek-spoza-ue-zwieksza-zainteresowanie-bazami-logistycznymi-w",
@@ -403,14 +763,6 @@
       "content_html": "Pierwsza w tym tygodniu sesja na GPW przebiega w neutralnej atmosferze. Zmiany głównych indeksów są niewielkie, przy czym lekko rośnie sWIG80, po siedmiu z rzędu spadkowych sesjach. Jedną z najsłabszy",
       "date_published": "2026-06-29T10:59:00+02:00",
       "source": "PAP Biznes"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Afera-w-Szpitalu-Poludniowym-Byly-ordynator-stawil-sie-w-prokuraturze-9159627.html",
-      "url": "https://www.bankier.pl/wiadomosc/Afera-w-Szpitalu-Poludniowym-Byly-ordynator-stawil-sie-w-prokuraturze-9159627.html",
-      "title": "Afera w Szpitalu Południowym. Były ordynator stawił się w prokuraturze",
-      "content_html": "Były ordynator chirurgii z Warszawskiego Szpitala Południowego Emil Jędrzejewski stawił się w poniedziałek wraz z pełnomocnikiem na przesłuchanie w Prokuraturze Okręgowej w Warszawie. To już drugie przesłuchanie lekarza w śledztwie dotyczącym...",
-      "date_published": "2026-06-29T10:58:00+02:00",
-      "source": "Bankier.pl"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Placisz-za-lekarza-a-dostajesz-ankiete-UOKiK-bezlitosny-dla-znanego-receptomatu-9159609.html",
@@ -987,110 +1339,6 @@
       "content_html": "Przegląd najważniejszych wiadomości gospodarczych, krajowych i ze świata z soboty i niedzieli, 27-28 czerwca.",
       "date_published": "2026-06-28T21:02:00+02:00",
       "source": "PAP Biznes"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Padl-nowy-rekord-ciepla-w-Polsce-40-5-st-C-w-Slubicach-9159456.html",
-      "url": "https://www.bankier.pl/wiadomosc/Padl-nowy-rekord-ciepla-w-Polsce-40-5-st-C-w-Slubicach-9159456.html",
-      "title": "Padł nowy rekord ciepła w Polsce. 40,5 st. C w Słubicach",
-      "content_html": "W niedzielę w Słubicach odnotowano 40,5 st. C; to nowy rekord ciepła w historii pomiarów - przekazała rzeczniczka Instytutu Meteorologii i Gospodarki Wodnej Agnieszka Prasek. Jak dodała, drugą najwyższą odnotowaną tego dnia temperaturę - 40...",
-      "date_published": "2026-06-28T21:01:00+02:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Potezne-uderzenie-w-korupcje-Zatrzymano-47-osob-w-tym-ministra-9159474.html",
-      "url": "https://www.bankier.pl/wiadomosc/Potezne-uderzenie-w-korupcje-Zatrzymano-47-osob-w-tym-ministra-9159474.html",
-      "title": "Potężne uderzenie w korupcję. Zatrzymano 47 osób, w tym ministra",
-      "content_html": "Irackie siły bezpieczeństwa aresztowały w niedzielę 47 osób, w tym parlamentarzystów i wysokich urzędników, w ramach szerszej operacji antykorupcyjnej - poinformowała agencja INA. Te działania mają pokazać determinację nowego premiera Alego...",
-      "date_published": "2026-06-28T20:42:00+02:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Stala-baza-amerykanskiej-armii-w-Polsce-Kosiniak-Kamysz-wskazal-dwa-polskie-miasta-9159421.html",
-      "url": "https://www.bankier.pl/wiadomosc/Stala-baza-amerykanskiej-armii-w-Polsce-Kosiniak-Kamysz-wskazal-dwa-polskie-miasta-9159421.html",
-      "title": "Stała baza amerykańskiej armii w Polsce? Kosiniak-Kamysz wskazał dwa miasta",
-      "content_html": "Rozmowy z USA w sprawie utworzenia stałej bazy wojskowej w Polsce weszły w kolejny etap – przekazał wicepremier, szef MON Władysław Kosiniak-Kamysz. Jak dodał, w Pentagonie trwa „przegląd sił”, który ma stanowić podstawę dalszych decyzji...",
-      "date_published": "2026-06-28T20:36:00+02:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Brexit-oslabil-Wielka-Brytanie-Skurczone-mocarstwo-po-dekadzie-9155581.html",
-      "url": "https://www.bankier.pl/wiadomosc/Brexit-oslabil-Wielka-Brytanie-Skurczone-mocarstwo-po-dekadzie-9155581.html",
-      "title": "Brexit osłabił Wielką Brytanię. „Skurczone mocarstwo” po dekadzie",
-      "content_html": "Brexit wbrew niektórym prognozom nie zrujnował Zjednoczonego Królestwa, ale sprawił, że stało się ono gospodarczo mniejszym mocarstwem, kraj nie upadł, lecz wyraźnie osłabił pozycję w europejskim systemie gospodarczym - oceniono w opublikowanym...",
-      "date_published": "2026-06-28T19:57:00+02:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Koniec-mitu-o-brawurze-zetek-Tylko-28-proc-jest-sklonnych-do-ryzykownych-inwestycji-9155170.html",
-      "url": "https://www.bankier.pl/wiadomosc/Koniec-mitu-o-brawurze-zetek-Tylko-28-proc-jest-sklonnych-do-ryzykownych-inwestycji-9155170.html",
-      "title": "Koniec mitu o brawurze zetek. Tylko 28 proc. jest skłonnych do ryzykownych inwestycji",
-      "content_html": "Ryzykowne podejście zetek do inwestycji to mit - wskazuje badanie Erste TFI. Połowa inwestujących młodych wybiera bezpieczne instrumenty, a mniej niż co trzeci gotowy jest na większe ryzyko. Z kolei osoby, które nie inwestują,...",
-      "date_published": "2026-06-28T19:35:00+02:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Silny-podzial-w-glowach-nie-w-pogladach-Nowy-raport-o-Polsce-9155756.html",
-      "url": "https://www.bankier.pl/wiadomosc/Silny-podzial-w-glowach-nie-w-pogladach-Nowy-raport-o-Polsce-9155756.html",
-      "title": "Silny podział w głowach, nie w poglądach. Nowy raport o Polsce",
-      "content_html": "Chociaż nie widać silnej polaryzacji w poglądach Polaków, jeśli chodzi o ocenę najważniejszych wyzwań dla kraju, to ponad dwie trzecie badanych uważa, że nasze społeczeństwo jest silnie spolaryzowane – wynika z raportu „Stan polaryzacji...",
-      "date_published": "2026-06-28T19:00:00+02:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Aragczi-Obce-ingerencje-w-Ormuz-tylko-zwieksza-napiecia-9159459.html",
-      "url": "https://www.bankier.pl/wiadomosc/Aragczi-Obce-ingerencje-w-Ormuz-tylko-zwieksza-napiecia-9159459.html",
-      "title": "Aragczi: Obce ingerencje w Ormuz tylko zwiększą napięcia",
-      "content_html": "Szef dyplomacji Iranu Abbas Aragczi oświadczył w niedzielę, że tylko jego państwo jest odpowiedzialne za cieśninę Ormuz, a próby ingerencji z zewnątrz i narzucania nowych ustaleń wzmocnią napięcia. Umowa między USA i Iranem zakłada odblokowanie...",
-      "date_published": "2026-06-28T18:50:00+02:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Efekt-Magyara-na-Wegrzech-Az-80-proc-badanych-chce-natychmiastowego-przyjecia-euro-9157144.html",
-      "url": "https://www.bankier.pl/wiadomosc/Efekt-Magyara-na-Wegrzech-Az-80-proc-badanych-chce-natychmiastowego-przyjecia-euro-9157144.html",
-      "title": "Efekt Magyara na Węgrzech. Aż 80 proc. badanych chce natychmiastowego przyjęcia euro",
-      "content_html": "80 proc. Węgrów popiera wejście do strefy euro, co daje najwyższy wynik spośród państw UE bez wspólnej waluty. W Polsce zastąpienie złotego euro popiera 43 proc. badanych. Według opublikowanego raportu Czechy i Szwecja spełniają trzy z czterech...",
-      "date_published": "2026-06-28T17:09:00+02:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Rosnie-zainteresowanie-polskimi-modelami-jezykowymi-Bielik-wkrotce-bedzie-mowic-w-50-jezykach-9151793.html",
-      "url": "https://www.bankier.pl/wiadomosc/Rosnie-zainteresowanie-polskimi-modelami-jezykowymi-Bielik-wkrotce-bedzie-mowic-w-50-jezykach-9151793.html",
-      "title": "Rośnie zainteresowanie polskimi modelami językowymi. Bielik wkrótce będzie „mówić” w 50 językach",
-      "content_html": "Bielik to jeden z polskich modeli językowych AI, który w odróżnieniu od zagranicznych jest wyspecjalizowany w języku polskim. Jego przewagą dla krajowych użytkowników jest to, że można...",
-      "date_published": "2026-06-28T15:50:00+02:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Powstanie-ogolnopolska-infolinia-dla-ofiar-przestepstw-9155570.html",
-      "url": "https://www.bankier.pl/wiadomosc/Powstanie-ogolnopolska-infolinia-dla-ofiar-przestepstw-9155570.html",
-      "title": "Powstanie ogólnopolska infolinia dla ofiar przestępstw",
-      "content_html": "W ciągu dwóch miesięcy od podpisania umowy, pod numerem 116 006 ma ruszyć ogólnopolska infolinia wsparcia dla osób pokrzywdzonych przestępstwem oraz świadków - wynika z poniedziałkowej informacji Ministerstwa Sprawiedliwości. Właśnie rozstrzygnięto...",
-      "date_published": "2026-06-28T15:49:00+02:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Katastrofa-smiglowca-Saudi-Aramco-Nikt-nie-przezyl-9159428.html",
-      "url": "https://www.bankier.pl/wiadomosc/Katastrofa-smiglowca-Saudi-Aramco-Nikt-nie-przezyl-9159428.html",
-      "title": "Katastrofa śmigłowca Saudi Aramco. Nikt nie przeżył",
-      "content_html": "Czternaście osób zginęło w niedzielę w Arabii Saudyjskiej w wypadku śmigłowca należącego do państwowego koncernu naftowego Saudi Aramco; do zdarzenia doszło w mieście Ras Tanura we wschodniej części kraju – poinformowała państwowa saudyjska...",
-      "date_published": "2026-06-28T15:27:00+02:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Tragedia-we-Francji-Samolot-rozbil-sie-tuz-po-starcie-nikt-nie-przezyl-9159423.html",
-      "url": "https://www.bankier.pl/wiadomosc/Tragedia-we-Francji-Samolot-rozbil-sie-tuz-po-starcie-nikt-nie-przezyl-9159423.html",
-      "title": "Tragedia we Francji. Samolot rozbił się tuż po starcie, nikt nie przeżył",
-      "content_html": "We Francji zginęło w niedzielę 11 osób znajdujących się na pokładzie cywilnego samolotu, który rozbił się w miejscowości Tomblaine koło Nancy na północnym wschodzie kraju. Na miejsce katastrofy udaje się szef francuskiego MSW Laurent Nunez...",
-      "date_published": "2026-06-28T15:22:00+02:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Panteon-Narodowy-Zelenski-Nikt-nie-bedzie-nam-mowil-jakich-bohaterow-szanowac-9159420.html",
-      "url": "https://www.bankier.pl/wiadomosc/Panteon-Narodowy-Zelenski-Nikt-nie-bedzie-nam-mowil-jakich-bohaterow-szanowac-9159420.html",
-      "title": "Zełenski: Nikt nie będzie nam mówił, jakich bohaterów szanować",
-      "content_html": "Prezydent Ukrainy Wołodymyr Zełenski wniósł do Rady Najwyższej (parlamentu) projekt ustawy o budowie Panteonu Narodowego z imionami osób, które walczyły o wolną Ukrainę. Nikt nie będzie nam mówił, jakich bohaterów szanować – powiedział...",
-      "date_published": "2026-06-28T15:11:00+02:00",
-      "source": "Bankier.pl"
     }
   ]
 }
