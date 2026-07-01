@@ -5,11 +5,123 @@
   "home_page_url": "https://www.bankier.pl",
   "items": [
     {
-      "id": "https://www.bankier.pl/wiadomosc/Wall-Street-konczy-polrocze-poteznymi-wzrostami-Dow-Jones-na-historycznym-szczycie-9161503.html",
-      "url": "https://www.bankier.pl/wiadomosc/Wall-Street-konczy-polrocze-poteznymi-wzrostami-Dow-Jones-na-historycznym-szczycie-9161503.html",
-      "title": "Wall Street kończy półrocze potężnymi wzrostami. Dow Jones na historycznym szczycie",
-      "content_html": "Wtorkowa sesja na Wall Street zakończyła się wzrostami głównych indeksów. Dow Jones zanotował najlepsze pierwsze półrocze od pięciu lat, a Nasdaq miał najlepszy kwartał od 2020 roku. Rynki akcji miały bardzo udane pierwsze sześć miesięcy...",
-      "date_published": "2026-07-01T00:56:00+02:00",
+      "id": "https://www.bankier.pl/wiadomosc/Ropa-na-swiecie-drozeje-dwie-wazne-sprawy-w-centrum-uwagi-inwestorow-9161600.html",
+      "url": "https://www.bankier.pl/wiadomosc/Ropa-na-swiecie-drozeje-dwie-wazne-sprawy-w-centrum-uwagi-inwestorow-9161600.html",
+      "title": "Koniec naftowego horroru? Ceny ropy najniżej od czasu pandemii, rynki czekają na finał wojny",
+      "content_html": "Ropa na świecie drożeje po najmocniejszym spadku notowań w II kw. od czasu pandemii Covid-19. Inwestorzy monitorują przebieg rozmów pokojowych USA-Iran i powrót żeglugi w cieśninie Ormuz - podają maklerzy.",
+      "date_published": "2026-07-01T08:46:00+02:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Bariera-6-tysiecy-zlotych-pekla-Zobacz-nowy-cennik-hurtowy-Orlenu-9161599.html",
+      "url": "https://www.bankier.pl/wiadomosc/Bariera-6-tysiecy-zlotych-pekla-Zobacz-nowy-cennik-hurtowy-Orlenu-9161599.html",
+      "title": "Bariera 6 tysięcy złotych pękła. Zobacz nowy cennik hurtowy Orlenu",
+      "content_html": "Cena hurtowa benzyny Eurosuper 95 wzrosła o 70 zł do 5.327 zł za m. sześc. - wynika z cennika na 1 lipca opublikowanego przez Orlen.",
+      "date_published": "2026-07-01T08:32:00+02:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Anthropic-odzyskuje-wolnosc-eksportu-Administracja-Trumpa-odpuszcza-restrykcje-9161538.html",
+      "url": "https://www.bankier.pl/wiadomosc/Anthropic-odzyskuje-wolnosc-eksportu-Administracja-Trumpa-odpuszcza-restrykcje-9161538.html",
+      "title": "Anthropic odzyskuje wolność eksportu. Administracja Trumpa odpuszcza restrykcje",
+      "content_html": "Firma Anthropic ogłosiła we wtorek, że ministerstwo handlu USA zniosło ograniczenia eksportowe nałożone wcześniej na stworzone przez nią zaawansowane modele sztucznej inteligencji Fable i Mythos. Z powodu restrykcji modele te były niedostępne...",
+      "date_published": "2026-07-01T08:27:00+02:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/105-lat-KPCh-gospodarka-zwalnia-nowych-pomyslow-brak-Rutynowe-hasla-Xi-9161568.html",
+      "url": "https://www.bankier.pl/wiadomosc/105-lat-KPCh-gospodarka-zwalnia-nowych-pomyslow-brak-Rutynowe-hasla-Xi-9161568.html",
+      "title": "105 lat KPCh: gospodarka zwalnia, nowych pomysłów brak. Rutynowe hasła Xi",
+      "content_html": "Chiński przywódca Xi Jinping oświadczył w środę w Pekinie podczas obchodów 105. rocznicy powstania Komunistycznej Partii Chin, że ugrupowanie musi zachować żelazną dyscyplinę w obliczu narastających zagrożeń, chroniąc dotychczasowe osiągnięcia...",
+      "date_published": "2026-07-01T08:25:00+02:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Kryptowalutowa-proznia-w-Polsce-Ustawa-zawetowana-a-firmy-uciekly-za-granice-9161555.html",
+      "url": "https://www.bankier.pl/wiadomosc/Kryptowalutowa-proznia-w-Polsce-Ustawa-zawetowana-a-firmy-uciekly-za-granice-9161555.html",
+      "title": "Kryptowalutowa próżnia w Polsce. Ustawa zawetowana, a firmy uciekły za granicę",
+      "content_html": "Nawet jeśli ustawa o kryptowalutach zostanie w końcu uchwalona i podpisana przez prezydenta, jej wpływ na polski rynek będzie niewielki - oceniła radczyni prawna Anna Sekura-Konopka. Firmy, które chciały tu działać przeniosły się już za granicę...",
+      "date_published": "2026-07-01T08:19:00+02:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Spolka-Scope-Fluidics-ma-umowe-na-przeprowadzenie-badan-klinicznych-panelu-PBC-systemu-BACTEROMIC-9161610.html",
+      "url": "https://www.bankier.pl/wiadomosc/Spolka-Scope-Fluidics-ma-umowe-na-przeprowadzenie-badan-klinicznych-panelu-PBC-systemu-BACTEROMIC-9161610.html",
+      "title": "Spółka Scope Fluidics ma umowę na przeprowadzenie badań klinicznych panelu PBC systemu BACTEROMIC Spółka Scope Fluidics podpisała z COMAC Medical umowę na przeprowadzenie badań klinicznych panelu PBC systemu BACTEROMIC - poinformował Scope Fluidics w komunikacie.",
+      "content_html": "",
+      "date_published": "2026-07-01T08:18:00+02:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Nie-staz-a-odpowiedzialnosc-Oto-zawody-w-ktorych-zarobisz-najwiecej-9161540.html",
+      "url": "https://www.bankier.pl/wiadomosc/Nie-staz-a-odpowiedzialnosc-Oto-zawody-w-ktorych-zarobisz-najwiecej-9161540.html",
+      "title": "Nie staż, a odpowiedzialność? Oto zawody, w których zarobisz najwięcej",
+      "content_html": "Aż o 86 proc. rośnie całkowite wynagrodzenie eksperta, który awansował na starszego eksperta – wynika z raportu płacowego firmy Sedlak & Sedlak. Najlepiej płaci branża nowych technologii, ale bardzo dobrze można zarobić także poza IT...",
+      "date_published": "2026-07-01T08:17:00+02:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Koniec-taniego-tankowania-Od-1-lipca-ceny-paliw-na-stacjach-ostro-w-gore-9161543.html",
+      "url": "https://www.bankier.pl/wiadomosc/Koniec-taniego-tankowania-Od-1-lipca-ceny-paliw-na-stacjach-ostro-w-gore-9161543.html",
+      "title": "Podwyżki wjechały na stacje paliw. Przestał obowiązywać pakiet CPN",
+      "content_html": "W związku z wygaśnięciem pakietu CPN ceny paliw na stacjach wzrosną o ok. 30-50 gr/l a różnice cen między stacjami paliw staną się znów bardziej wyraźne - powiedziała PAP Urszula Cieślak, analityczka biura Reflex.",
+      "date_published": "2026-07-01T08:15:00+02:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Wszystkie-miliardy-Trumpa-1-4-mld-dolarow-dochodu-z-kryptowalut-9161546.html",
+      "url": "https://www.bankier.pl/wiadomosc/Wszystkie-miliardy-Trumpa-1-4-mld-dolarow-dochodu-z-kryptowalut-9161546.html",
+      "title": "Wszystkie miliardy Trumpa. 1,4 mld dolarów dochodu z kryptowalut",
+      "content_html": "Rodzina prezydenta USA Donalda Trump osiągnęła w 2025 roku ponad 1,4 mld dolarów dochodu z przedsięwzięć kryptowalutowych – podała agencja Reutera, powołując się na deklarację Trumpa. Oznacza to, że większość dochodu prezydenta pochodziła...",
+      "date_published": "2026-07-01T08:15:00+02:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Koniec-z-przywiazaniem-do-jednej-apteki-Od-1-lipca-wchodzi-rewolucyjna-zmiana-w-receptach-9161566.html",
+      "url": "https://www.bankier.pl/wiadomosc/Koniec-z-przywiazaniem-do-jednej-apteki-Od-1-lipca-wchodzi-rewolucyjna-zmiana-w-receptach-9161566.html",
+      "title": "Koniec z przywiązaniem do jednej apteki. Od 1 lipca wchodzi rewolucyjna zmiana w receptach",
+      "content_html": "Od 1 lipca pacjenci nie muszą w jednej aptece zrealizować całej recepty. Centrum e-zdrowia uruchomiło możliwość dzielenia e-recept, przystąpienie do programu jest dla aptek dobrowolne.",
+      "date_published": "2026-07-01T08:05:00+02:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Kryzys-w-opiece-nad-seniorami-Polska-masowo-blokuje-wizy-dla-pracownikow-9161544.html",
+      "url": "https://www.bankier.pl/wiadomosc/Kryzys-w-opiece-nad-seniorami-Polska-masowo-blokuje-wizy-dla-pracownikow-9161544.html",
+      "title": "Kryzys w opiece nad seniorami. Polska masowo blokuje wizy dla pracowników",
+      "content_html": "Polska masowo blokuje wizy pracownicze dla osób ze Wschodu, które mają opiekować się naszymi seniorami – alarmują pracodawcy. Nie działa już nawet procedura szybkiej ścieżki – pisze w środę „Gazeta Wyborcza”.",
+      "date_published": "2026-07-01T08:03:00+02:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/spor-o-zarobki-medykow-Niemal-polowa-Polakow-uwaza-ze-lekarze-zarabiaja-za-duzo-9161542.html",
+      "url": "https://www.bankier.pl/wiadomosc/spor-o-zarobki-medykow-Niemal-polowa-Polakow-uwaza-ze-lekarze-zarabiaja-za-duzo-9161542.html",
+      "title": "Spór o zarobki medyków. Niemal połowa Polaków uważa, że lekarze zarabiają za dużo",
+      "content_html": "Wynagrodzenia lekarzy ponownie znalazły się w centrum uwagi opinii publicznej. Z najnowszego sondażu wynika, że niemal połowa Polaków uznaje zarobki medyków za zbyt wysokie – czytamy w środę w „Dzienniku Gazecie Prawnej”.",
+      "date_published": "2026-07-01T08:01:00+02:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Zasilki-chorobowe-na-nowych-zasadach-ZUS-oglosil-duze-ulatwienia-dla-Polakow-9161570.html",
+      "url": "https://www.bankier.pl/wiadomosc/Zasilki-chorobowe-na-nowych-zasadach-ZUS-oglosil-duze-ulatwienia-dla-Polakow-9161570.html",
+      "title": "Zasiłki chorobowe na nowych zasadach. ZUS ogłosił duże ułatwienia dla Polaków",
+      "content_html": "Z początkiem lipca weszły w życie uproszczone zasady składania wniosków o ustalenie prawa do zasiłków z ubezpieczenia chorobowego - przekazał Zakład Ubezpieczeń Społecznych. Zmiany ułatwią proces składania wniosków w formie elektronicznej...",
+      "date_published": "2026-07-01T08:00:00+02:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Ponad-milion-wnioskow-o-legalizacje-Premier-Hiszpanii-Bez-migrantow-stracimy-miliardy-9160842.html",
+      "url": "https://www.bankier.pl/wiadomosc/Ponad-milion-wnioskow-o-legalizacje-Premier-Hiszpanii-Bez-migrantow-stracimy-miliardy-9160842.html",
+      "title": "Ponad milion wniosków o legalizację. Premier Hiszpanii: Bez migrantów stracimy miliardy",
+      "content_html": "Bez imigracji Hiszpania straciłaby znaczną część swojego PKB – ocenił we wtorek premier Hiszpanii Pedro Sanchez, broniąc zapoczątkowanego przez jego rząd szeroko zakrojonego procesu legalizacji imigrantów. Do tej pory wnioski złożyło ponad...",
+      "date_published": "2026-07-01T07:58:00+02:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Rosyjskie-interesy-w-Instytucie-Pileckiego-Sprawe-prawnika-bada-ABW-9161539.html",
+      "url": "https://www.bankier.pl/wiadomosc/Rosyjskie-interesy-w-Instytucie-Pileckiego-Sprawe-prawnika-bada-ABW-9161539.html",
+      "title": "Rosyjskie interesy w Instytucie Pileckiego? Sprawę prawnika bada ABW",
+      "content_html": "Prokurentem oddziału Instytutu Pileckiego został prezes kancelarii prawnej, którego Pandora Papers powiązała z Rosjanami. Sprawą zajęło się ABW. Jak uważają eksperci, placówki kulturalne są naturalnym celem operacji wpływu – czytamy w...",
+      "date_published": "2026-07-01T07:56:00+02:00",
       "source": "Bankier.pl"
     },
     {
@@ -17,7 +129,199 @@
       "url": "https://www.bankier.pl/wiadomosc/Tranzyt-przez-Ormuz-tylko-przez-60-dni-Iran-Jestesmy-gotowi-na-wojne-9161462.html",
       "title": "Tranzyt przez Ormuz tylko przez 60 dni? Iran: Jesteśmy gotowi na wojnę",
       "content_html": "Główny irański negocjator Mohammad Bagher Ghalibaf powiedział we wtorek w wywiadzie dla irańskiej telewizji państwowej, że bezpłatny tranzyt statków przez cieśninę Ormuz obowiązuje tylko przez 60 dni, zgodnie z ustaleniami zawartymi we wstępnym...",
-      "date_published": "2026-07-01T00:55:00+02:00",
+      "date_published": "2026-07-01T07:48:00+02:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/NBP-podal-nowe-dane-Banki-placa-za-nasze-oszczednosci-coraz-mniej-9161581.html",
+      "url": "https://www.bankier.pl/wiadomosc/NBP-podal-nowe-dane-Banki-placa-za-nasze-oszczednosci-coraz-mniej-9161581.html",
+      "title": "NBP podał nowe dane. Banki płacą za nasze oszczędności coraz mniej",
+      "content_html": "Średnie oprocentowanie nowo przyjętych depozytów od gospodarstw domowych w maju wyniosło 2,94 proc. wobec 2,98 proc. w kwietniu - podał NBP.",
+      "date_published": "2026-07-01T07:46:00+02:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Ponad-12-miliardow-zlotych-w-jeden-miesiac-NBP-ujawnia-jak-zadluzaja-sie-Polacy-9161580.html",
+      "url": "https://www.bankier.pl/wiadomosc/Ponad-12-miliardow-zlotych-w-jeden-miesiac-NBP-ujawnia-jak-zadluzaja-sie-Polacy-9161580.html",
+      "title": "Ponad 12 miliardów złotych w jeden miesiąc. NBP ujawnia, jak zadłużają się Polacy",
+      "content_html": "Banki udzieliły w maju kredytów na cele konsumpcyjne za 12.149 mln zł wobec 12.143 mln zł w kwietniu - podał NBP.",
+      "date_published": "2026-07-01T07:44:00+02:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Larq-zamierza-nabyc-akcje-wlasne-w-ramach-wezwania-po-cenie-2-14-zl-szt-9161577.html",
+      "url": "https://www.bankier.pl/wiadomosc/Larq-zamierza-nabyc-akcje-wlasne-w-ramach-wezwania-po-cenie-2-14-zl-szt-9161577.html",
+      "title": "Larq zamierza nabyć akcje własne w ramach wezwania po cenie 2,14 zł/szt.",
+      "content_html": "Zarząd Larq postanowił o nabyciu akcji własnych - podała spółka w komunikacie. Nabycie akcji zostanie przeprowadzone przez spółkę w ramach wezwania do zapisywania się na sprzedaż akcji po cenie 2,14 zł za akcję.",
+      "date_published": "2026-07-01T07:36:00+02:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/gospodarka/cena-hurtowa-benzyny-eurosuper-95-wzrosla-o-70-zl-do-5327-zl-za-m-szesc-orlen",
+      "url": "https://biznes.pap.pl/wiadomosci/gospodarka/cena-hurtowa-benzyny-eurosuper-95-wzrosla-o-70-zl-do-5327-zl-za-m-szesc-orlen",
+      "title": "Cena hurtowa benzyny Eurosuper 95 wzrosła o 70 zł do 5.327 zł za m sześc. - Orlen",
+      "content_html": "Cena hurtowa benzyny Eurosuper 95 wzrosła o 70 zł do 5.327 zł za m. sześc. - wynika z cennika na 1 lipca opublikowanego przez Orlen.",
+      "date_published": "2026-07-01T07:31:00+02:00",
+      "source": "PAP Biznes"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/firmy/deweloperzy-coraz-rzadziej-licza-na-dalsze-przyspieszenie-sprzedazy-mieszkan",
+      "url": "https://biznes.pap.pl/wiadomosci/firmy/deweloperzy-coraz-rzadziej-licza-na-dalsze-przyspieszenie-sprzedazy-mieszkan",
+      "title": "Deweloperzy coraz rzadziej liczą na dalsze przyspieszenie sprzedaży mieszkań - Tabelaofert.pl",
+      "content_html": "Deweloperzy coraz rzadziej liczą na dalsze przyspieszenie sprzedaży mieszkań, a coraz częściej zakładają jej spadek. Jednocześnie spada optymizm co do wzrostu cen - wynika z najnowszego Indeksu Nastro",
+      "date_published": "2026-07-01T07:24:00+02:00",
+      "source": "PAP Biznes"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Promocje-na-paliwo-Orlen-BP-Circle-K-Shell-Amic-Moya-MOL-9160353.html",
+      "url": "https://www.bankier.pl/wiadomosc/Promocje-na-paliwo-Orlen-BP-Circle-K-Shell-Amic-Moya-MOL-9160353.html",
+      "title": "Tańsze tankowanie przedłużone na wakacje. Prześwietlamy promocje na paliwo",
+      "content_html": "Choć program „Ceny Paliw Niżej” pod postacią obniżonej stawki VAT na paliwo i maksymalnych cen paliw, przeszedł do historii, to kierowcy wciąż mogą nieco odetchnąć przy dystrybutorach. Największe sieci stacji paliw przedłużyły zapoczątkowane...",
+      "date_published": "2026-07-01T07:00:00+02:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Konto-firmowe-i-ksiegowosc-w-jednym-miejscu-Sprawdzamy-ile-kosztuja-takie-uslugi-w-bankach-9160483.html",
+      "url": "https://www.bankier.pl/wiadomosc/Konto-firmowe-i-ksiegowosc-w-jednym-miejscu-Sprawdzamy-ile-kosztuja-takie-uslugi-w-bankach-9160483.html",
+      "title": "Konto firmowe i księgowość w jednym miejscu. Sprawdzamy, ile kosztują takie usługi w bankach",
+      "content_html": "Banki coraz częściej próbują przyciągać przedsiębiorców nie tylko rachunkiem firmowym, ale też dodatkowymi usługami wspierającymi prowadzenie biznesu. Przeanalizowaliśmy jakie opcje księgowe oferują w pakiecie z kontem firmowym i ile trzeba...",
+      "date_published": "2026-07-01T07:00:00+02:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Zgarnij-700-zl-gotowki-i-darmowa-karte-dla-podroznikow-od-BNP-Paribas-9160606.html",
+      "url": "https://www.bankier.pl/wiadomosc/Zgarnij-700-zl-gotowki-i-darmowa-karte-dla-podroznikow-od-BNP-Paribas-9160606.html",
+      "title": "Zgarnij 700 zł gotówki i darmową kartę dla podróżników od BNP Paribas",
+      "content_html": "Planujesz zagraniczne wyjazdy, a przy okazji chcesz zasilić swój domowy budżet? BNP Paribas kusi promocją \"Podróżnik\", która jest skrojona pod wakacyjne wojaże. Do wzięcia jest nawet 700 zł premii gotówkowej.",
+      "date_published": "2026-07-01T07:00:00+02:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Ranking-kont-osobistych-Sprawdzamy-koszty-natychmiastowych-transferow-w-lipcu-2026-r-9160828.html",
+      "url": "https://www.bankier.pl/wiadomosc/Ranking-kont-osobistych-Sprawdzamy-koszty-natychmiastowych-transferow-w-lipcu-2026-r-9160828.html",
+      "title": "Najnowszy ranking kont osobistych. Ani grosza za przelewy ekspresowe w dwóch bankach",
+      "content_html": "Czas to pieniądz, szczególnie gdy termin płatności mija w dni wolne od pracy, a tradycyjne sesje Elixir nie działają. W takich momentach kluczowa staje się cena przelewu ekspresowego, która dla wielu klientów może być decydującym czynnikiem...",
+      "date_published": "2026-07-01T07:00:00+02:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/O-tym-wsparciu-wiele-osob-nie-wie-Dodatkowy-zasilek-dla-chorych-na-nadcisnienie-Ile-mozna-dostac-9160985.html",
+      "url": "https://www.bankier.pl/wiadomosc/O-tym-wsparciu-wiele-osob-nie-wie-Dodatkowy-zasilek-dla-chorych-na-nadcisnienie-Ile-mozna-dostac-9160985.html",
+      "title": "O tym wsparciu wie niewielu. Dodatkowy zasiłek dla osób z nadciśnieniem. Ile wynosi?",
+      "content_html": "Na nadciśnienie tętnicze choruje w Polsce około 11 milionów osób. Znaczna część z nich może ubiegać się o comiesięczne dofinansowanie z tytułu tej choroby. Kryteria dochodowe nie mają tu znaczenia. Jednak sama diagnoza nie wystarczy, trzeba...",
+      "date_published": "2026-07-01T07:00:00+02:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Cyfrowy-pieniadz-pelen-kontrowersji-Drogi-Europy-i-USA-rozchodza-sie-coraz-bardziej-9160990.html",
+      "url": "https://www.bankier.pl/wiadomosc/Cyfrowy-pieniadz-pelen-kontrowersji-Drogi-Europy-i-USA-rozchodza-sie-coraz-bardziej-9160990.html",
+      "title": "Pieniądz przyszłości czy koniec prywatności? Europa idzie w cyfrowe euro, a USA szykuje twardy zakaz",
+      "content_html": "Europa chce cyfrowego pieniądza banku centralnego, Stany Zjednoczone stawiają na zupełnie inny, prywatny model. Tę różnicę podkreśliły dobitnie ostatnie wydarzenia po obu stronach oceanu. CBDC ma otwartą drogę na Kontynencie, Wyspy stoją na...",
+      "date_published": "2026-07-01T07:00:00+02:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Zamawiasz-na-Temu-Shein-lub-AliExpress-UE-naklada-3-euro-cla-za-kazda-rzecz-9161010.html",
+      "url": "https://www.bankier.pl/wiadomosc/Zamawiasz-na-Temu-Shein-lub-AliExpress-UE-naklada-3-euro-cla-za-kazda-rzecz-9161010.html",
+      "title": "Zamawiasz na Temu, Shein lub AliExpress? UE nakłada 3 euro cła za każdą rzecz",
+      "content_html": "W środę 1 lipca w Unii Europejskiej wygasną dotychczasowe zwolnienia celne dla paczek o wartości do 150 euro pochodzących spoza UE. Na przesyłki zostaną nałożone tymczasowe cła w wysokości 3 euro za przedmiot. Ma to powstrzymać falę tanich...",
+      "date_published": "2026-07-01T07:00:00+02:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Stawka-jest-wysoka-a-ryzyko-zerowe-Rusza-goraca-gieldowa-rywalizacja-9161329.html",
+      "url": "https://www.bankier.pl/wiadomosc/Stawka-jest-wysoka-a-ryzyko-zerowe-Rusza-goraca-gieldowa-rywalizacja-9161329.html",
+      "title": "Stawka jest wysoka, a ryzyko zerowe! Rusza gorąca giełdowa rywalizacja",
+      "content_html": "Leżak, zimny napój i... inwestycje! Od dzisiaj masz niepowtarzalną okazję, by dołączyć do naszej wielkiej letniej rozgrywki w konkursie Wakacje na Giełdzie. Właśnie uruchomiliśmy rejestrację! To idealny moment, aby sprawdzić swój inwestorski...",
+      "date_published": "2026-07-01T07:00:00+02:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/ekonomia-biznes-i-finanse/przewidywane-najwazniejsze-wydarzenia-gospodarcze-2026-07-01",
+      "url": "https://biznes.pap.pl/wiadomosci/ekonomia-biznes-i-finanse/przewidywane-najwazniejsze-wydarzenia-gospodarcze-2026-07-01",
+      "title": "Przewidywane najważniejsze wydarzenia gospodarcze 2026-07-01",
+      "content_html": "Przewidywane najważniejsze wydarzenia gospodarcze 2026-07-01",
+      "date_published": "2026-07-01T07:00:00+02:00",
+      "source": "PAP Biznes"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/rynki/kalendarium-rynku-newconnect-2026-07-01",
+      "url": "https://biznes.pap.pl/wiadomosci/rynki/kalendarium-rynku-newconnect-2026-07-01",
+      "title": "Kalendarium rynku NewConnect 2026-07-01",
+      "content_html": "Kalendarium rynku NewConnect 2026-07-01",
+      "date_published": "2026-07-01T07:00:00+02:00",
+      "source": "PAP Biznes"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/rynki/kalendarium-rynku-kapitalowego-gpw-2026-07-01",
+      "url": "https://biznes.pap.pl/wiadomosci/rynki/kalendarium-rynku-kapitalowego-gpw-2026-07-01",
+      "title": "Kalendarium rynku kapitałowego GPW 2026-07-01",
+      "content_html": "Kalendarium rynku kapitałowego GPW 2026-07-01",
+      "date_published": "2026-07-01T07:00:00+02:00",
+      "source": "PAP Biznes"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/firmy/srednie-oprocentowanie-nowo-przyjetych-depozytow-od-gosp-domowych-w-v-wynioslo-294",
+      "url": "https://biznes.pap.pl/wiadomosci/firmy/srednie-oprocentowanie-nowo-przyjetych-depozytow-od-gosp-domowych-w-v-wynioslo-294",
+      "title": "Średnie oprocentowanie nowo przyjętych depozytów od gosp. domowych w V wyniosło 2,94 proc.",
+      "content_html": "Średnie oprocentowanie nowo przyjętych depozytów od gospodarstw domowych w maju wyniosło 2,94 proc. wobec 2,98 proc. w kwietniu - podał NBP.",
+      "date_published": "2026-07-01T06:44:00+02:00",
+      "source": "PAP Biznes"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/firmy/banki-udzielily-w-v-kredytow-na-nieruchomosci-mieszkaniowe-za-9665-mln-zl-nbp",
+      "url": "https://biznes.pap.pl/wiadomosci/firmy/banki-udzielily-w-v-kredytow-na-nieruchomosci-mieszkaniowe-za-9665-mln-zl-nbp",
+      "title": "Banki udzieliły w V kredytów na nieruchomości mieszkaniowe za 9.665 mln zł - NBP",
+      "content_html": "Banki udzieliły w maju kredytów na nieruchomości mieszkaniowe o wartości 9.665 mln zł wobec 9.473 mln zł w kwietniu, o 2 proc. więcej mdm - podał NBP.",
+      "date_published": "2026-07-01T06:43:00+02:00",
+      "source": "PAP Biznes"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/firmy/banki-udzielily-w-v-kredytow-na-cele-konsumpcyjne-za-12149-mln-zl-nbp",
+      "url": "https://biznes.pap.pl/wiadomosci/firmy/banki-udzielily-w-v-kredytow-na-cele-konsumpcyjne-za-12149-mln-zl-nbp",
+      "title": "Banki udzieliły w V kredytów na cele konsumpcyjne za 12.149 mln zł - NBP",
+      "content_html": "Banki udzieliły w maju kredytów na cele konsumpcyjne za 12.149 mln zł wobec 12.143 mln zł w kwietniu - podał NBP.",
+      "date_published": "2026-07-01T06:42:00+02:00",
+      "source": "PAP Biznes"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/firmy/banki-udzielily-w-v-kredytow-przedsiebiorstwom-na-kwote-11369-mln-zl-nbp",
+      "url": "https://biznes.pap.pl/wiadomosci/firmy/banki-udzielily-w-v-kredytow-przedsiebiorstwom-na-kwote-11369-mln-zl-nbp",
+      "title": "Banki udzieliły w V kredytów przedsiębiorstwom na kwotę 11.369 mln zł - NBP",
+      "content_html": "Banki udzieliły w maju kredytów przedsiębiorstwom na kwotę 11.369 mln zł wobec 10.828 mln zł w kwietniu, co daje wzrost o 5 proc. - podał NBP.",
+      "date_published": "2026-07-01T06:39:00+02:00",
+      "source": "PAP Biznes"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/firmy/larq-zamierza-nabyc-akcje-wlasne-w-ramach-wezwania-po-cenie-214-zlszt",
+      "url": "https://biznes.pap.pl/wiadomosci/firmy/larq-zamierza-nabyc-akcje-wlasne-w-ramach-wezwania-po-cenie-214-zlszt",
+      "title": "Larq zamierza nabyć akcje własne w ramach wezwania po cenie 2,14 zł/szt.",
+      "content_html": "Zarząd Larq postanowił o nabyciu akcji własnych - podała spółka w komunikacie. Nabycie akcji zostanie przeprowadzone przez spółkę w ramach wezwania do zapisywania się na sprzedaż akcji po cenie 2,14 z",
+      "date_published": "2026-07-01T06:34:00+02:00",
+      "source": "PAP Biznes"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/rynki/rentownosci-obligacji-wybranych-panstw-tabela-2645",
+      "url": "https://biznes.pap.pl/wiadomosci/rynki/rentownosci-obligacji-wybranych-panstw-tabela-2645",
+      "title": "Rentowności obligacji wybranych państw (tabela)",
+      "content_html": "Poniżej zestawienie rentowności obligacji wybranych państw.",
+      "date_published": "2026-07-01T06:32:00+02:00",
+      "source": "PAP Biznes"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/rynki/notowania-metali-bazowych-wegla-i-paliw-tabela-2556",
+      "url": "https://biznes.pap.pl/wiadomosci/rynki/notowania-metali-bazowych-wegla-i-paliw-tabela-2556",
+      "title": "Notowania metali bazowych, węgla i paliw (tabela)",
+      "content_html": "Notowania metali bazowych na London Metal Exchange, uprawnień EUA do emisji CO2, ceny węgla energetycznego ARA na przyszły rok oraz ceny paliw.",
+      "date_published": "2026-07-01T06:31:00+02:00",
+      "source": "PAP Biznes"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Wall-Street-konczy-polrocze-poteznymi-wzrostami-Dow-Jones-na-historycznym-szczycie-9161503.html",
+      "url": "https://www.bankier.pl/wiadomosc/Wall-Street-konczy-polrocze-poteznymi-wzrostami-Dow-Jones-na-historycznym-szczycie-9161503.html",
+      "title": "Wall Street kończy półrocze potężnymi wzrostami. Dow Jones na historycznym szczycie",
+      "content_html": "Wtorkowa sesja na Wall Street zakończyła się wzrostami głównych indeksów. Dow Jones zanotował najlepsze pierwsze półrocze od pięciu lat, a Nasdaq miał najlepszy kwartał od 2020 roku. Rynki akcji miały bardzo udane pierwsze sześć miesięcy...",
+      "date_published": "2026-07-01T00:56:00+02:00",
       "source": "Bankier.pl"
     },
     {
@@ -53,44 +357,12 @@
       "source": "Bankier.pl"
     },
     {
-      "id": "https://biznes.pap.pl/wiadomosci/firmy/genomed-wyplaci-150-zl-dywidendy-z-zysku-za-2025-rok",
-      "url": "https://biznes.pap.pl/wiadomosci/firmy/genomed-wyplaci-150-zl-dywidendy-z-zysku-za-2025-rok",
-      "title": "Genomed wypłaci 1,50 zł dywidendy z zysku za 2025 rok",
-      "content_html": "Walne zgromadzenie Genomed zdecydowało o wypłacie 1,9 mln zł dywidendy z zysku netto za 2025 rok, co daje 1,50 zł dywidendy na akcję - podała spółka w komunikacie.",
-      "date_published": "2026-06-30T22:35:00+02:00",
-      "source": "PAP Biznes"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/firmy/esotiq-henderson-wyplaci-3-zl-dywidendy-na-akcje",
-      "url": "https://biznes.pap.pl/wiadomosci/firmy/esotiq-henderson-wyplaci-3-zl-dywidendy-na-akcje",
-      "title": "Esotiq & Henderson wypłaci 3 zł dywidendy na akcję",
-      "content_html": "Walne zgromadzenie Esotiq & Henderson zdecydowało o przeznaczeniu z zysku netto za 2025 rok kwoty 5,87 mln zł na dywidendę dla akcjonariuszy, co oznacza wypłatę w wysokości 3 zł na akcję - poinformowa",
-      "date_published": "2026-06-30T22:31:00+02:00",
-      "source": "PAP Biznes"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/firmy/playway-wyplaci-1739-zl-dywidendy-na-akcje-za-25",
-      "url": "https://biznes.pap.pl/wiadomosci/firmy/playway-wyplaci-1739-zl-dywidendy-na-akcje-za-25",
-      "title": "PlayWay wypłaci 17,39 zł dywidendy na akcję za '25",
-      "content_html": "Walne zgromadzenie PlayWay zdecydowało o przeznaczeniu 115,9 mln zł na dywidendę za 2025 rok, co daje 17,39 zł na akcję - podał producent gier wideo w komunikacie.",
-      "date_published": "2026-06-30T22:25:00+02:00",
-      "source": "PAP Biznes"
-    },
-    {
       "id": "https://www.bankier.pl/wiadomosc/Falszywy-alarm-o-porwaniu-na-pokladzie-samolotu-LOT-u-Izrael-poderwal-mysliwce-9161083.html",
       "url": "https://www.bankier.pl/wiadomosc/Falszywy-alarm-o-porwaniu-na-pokladzie-samolotu-LOT-u-Izrael-poderwal-mysliwce-9161083.html",
       "title": "Fałszywy alarm o porwaniu na pokładzie samolotu LOT-u. Izrael poderwał myśliwce",
       "content_html": "Przyczyną nadania komunikatu o zagrożeniu podczas rejsu LO155 lecącego z Warszawy do Tel Awiwu było błędne ustawienie transpondera - powiedział PAP rzecznik PLL LOT Krzysztof Moczulski. Narzędzie pokazywało zagrożenie, powiadomiona została...",
       "date_published": "2026-06-30T22:20:00+02:00",
       "source": "Bankier.pl"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/rynki/dzien-na-rynkach-wall-street-w-gore-dow-mial-najlepsze-pierwsze-polrocze-od-5-lat",
-      "url": "https://biznes.pap.pl/wiadomosci/rynki/dzien-na-rynkach-wall-street-w-gore-dow-mial-najlepsze-pierwsze-polrocze-od-5-lat",
-      "title": "DZIEŃ NA RYNKACH: Wall Street w górę, Dow miał najlepsze pierwsze półrocze od 5 lat",
-      "content_html": "Wtorkowa sesja na Wall Street zakończyła się wzrostami głównych indeksów. Dow Jones zanotował najlepsze pierwsze półrocze od pięciu lat, a Nasdaq miał najlepszy kwartał od 2020 roku. Rynki akcji miały",
-      "date_published": "2026-06-30T22:17:00+02:00",
-      "source": "PAP Biznes"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Prezydent-Nawrocki-uderza-w-politykow-Mam-obowiazek-narzucac-wole-narodu-9160942.html",
@@ -106,14 +378,6 @@
       "title": "Miliardy i bogaci darczyńcy przejmą amerykańską politykę? Przełomowa decyzja w USA",
       "content_html": "Sąd Najwyższy USA zniósł we wtorek istniejące od dekad ograniczenia dotyczące kwot, jakie partie polityczne mogą wydawać na kampanie wyborcze we współpracy z konkretnymi kandydatami. Według krytyków orzeczenie sprzyja korupcji i faworyzuje...",
       "date_published": "2026-06-30T21:58:00+02:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Ponad-milion-wnioskow-o-legalizacje-Premier-Hiszpanii-Bez-migrantow-stracimy-miliardy-9160842.html",
-      "url": "https://www.bankier.pl/wiadomosc/Ponad-milion-wnioskow-o-legalizacje-Premier-Hiszpanii-Bez-migrantow-stracimy-miliardy-9160842.html",
-      "title": "Ponad milion wniosków o legalizację. Premier Hiszpanii: Bez migrantów stracimy miliardy",
-      "content_html": "Bez imigracji Hiszpania straciłaby znaczną część swojego PKB – ocenił we wtorek premier Hiszpanii Pedro Sanchez, broniąc zapoczątkowanego przez jego rząd szeroko zakrojonego procesu legalizacji imigrantów. Do tej pory wnioski złożyło ponad...",
-      "date_published": "2026-06-30T21:56:00+02:00",
       "source": "Bankier.pl"
     },
     {
@@ -179,14 +443,6 @@
       "content_html": "Sąd Najwyższy USA uznał we wtorek rozporządzenie wykonawcze prezydenta Donalda Trumpa o ograniczeniu prawa do nabycia obywatelstwa USA wraz z urodzeniem na terytorium kraju (ius soli) za niezgodne z konstytucją.",
       "date_published": "2026-06-30T21:08:00+02:00",
       "source": "Bankier.pl"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/ekonomia-biznes-i-finanse/skrot-wiadomosci-wtorek-30-czerwca-2100",
-      "url": "https://biznes.pap.pl/wiadomosci/ekonomia-biznes-i-finanse/skrot-wiadomosci-wtorek-30-czerwca-2100",
-      "title": "Skrót wiadomości - wtorek, 30 czerwca, 21.00",
-      "content_html": "Przegląd najważniejszych wiadomości gospodarczych, krajowych i ze świata.",
-      "date_published": "2026-06-30T21:04:00+02:00",
-      "source": "PAP Biznes"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Amica-wyplaci-2-5-zl-dywidendy-na-akcje-9161358.html",
@@ -285,22 +541,6 @@
       "source": "Bankier.pl"
     },
     {
-      "id": "https://biznes.pap.pl/wiadomosci/firmy/amica-wyplaci-25-zl-dywidendy-na-akcje",
-      "url": "https://biznes.pap.pl/wiadomosci/firmy/amica-wyplaci-25-zl-dywidendy-na-akcje",
-      "title": "Amica wypłaci 2,5 zł dywidendy na akcję",
-      "content_html": "Walne zgromadzenie Amica zdecydowało o wypłacie 2,5 zł dywidendy na akcję, co daje w sumie kwotę 19,18 mln zł - poinformowała spółka w komunikacie.",
-      "date_published": "2026-06-30T19:50:00+02:00",
-      "source": "PAP Biznes"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/firmy/pa-nova-wyplaci-1-zl-dywidendy-na-akcje-za-2025-rok",
-      "url": "https://biznes.pap.pl/wiadomosci/firmy/pa-nova-wyplaci-1-zl-dywidendy-na-akcje-za-2025-rok",
-      "title": "P.A. Nova wypłaci 1 zł dywidendy na akcję za 2025 rok",
-      "content_html": "Walne zgromadzenie spółki P.A. Nova zdecydowało o wypłacie 9,97 mln zł dywidendy za 2025 rok, co daje 1 zł na akcję - podała spółka w komunikacie.",
-      "date_published": "2026-06-30T19:48:00+02:00",
-      "source": "PAP Biznes"
-    },
-    {
       "id": "https://www.bankier.pl/wiadomosc/Mercator-Medical-wyplaci-1-64-zl-dywidendy-na-akcje-9161290.html",
       "url": "https://www.bankier.pl/wiadomosc/Mercator-Medical-wyplaci-1-64-zl-dywidendy-na-akcje-9161290.html",
       "title": "Mercator Medical wypłaci 1,64 zł dywidendy na akcję",
@@ -333,14 +573,6 @@
       "source": "Bankier.pl"
     },
     {
-      "id": "https://biznes.pap.pl/wiadomosci/przemysl/zamet-wyplaci-029-zl-dywidendy-na-akcje-za-25",
-      "url": "https://biznes.pap.pl/wiadomosci/przemysl/zamet-wyplaci-029-zl-dywidendy-na-akcje-za-25",
-      "title": "Zamet wypłaci 0,29 zł dywidendy na akcję za '25",
-      "content_html": "Akcjonariusze Zametu zdecydowali o wypłacie 30,7 mln zł dywidendy z zysku netto za 2025 rok, powiększonej o zyski spółki z lat ubiegłych, co daje 0,29 zł na akcję - podała spółka w komunikacie.",
-      "date_published": "2026-06-30T19:14:00+02:00",
-      "source": "PAP Biznes"
-    },
-    {
       "id": "https://www.bankier.pl/wiadomosc/Voxel-wyplaci-2-5-zl-dywidendy-na-akcje-za-25-9161237.html",
       "url": "https://www.bankier.pl/wiadomosc/Voxel-wyplaci-2-5-zl-dywidendy-na-akcje-za-25-9161237.html",
       "title": "Voxel wypłaci 2,5 zł dywidendy na akcję za '25",
@@ -355,14 +587,6 @@
       "content_html": "Zdaniem marszałka Sejmu Włodzimierza Czarzastego i wiceprzewodniczącej Bundestagu Andrei Lindholz, Polska i Niemcy są ważnymi partnerami, którzy powinni rozwijać współpracę także w przyszłości. Przedstawiciele parlamentów obydwu państw...",
       "date_published": "2026-06-30T19:01:00+02:00",
       "source": "Bankier.pl"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/transport-i-logistyka/balticon-wyplaci-022-zl-dywidendy-na-akcje",
-      "url": "https://biznes.pap.pl/wiadomosci/transport-i-logistyka/balticon-wyplaci-022-zl-dywidendy-na-akcje",
-      "title": "Balticon wypłaci 0,22 zł dywidendy na akcję",
-      "content_html": "Walne zgromadzenie spółki Balticon zdecydowało o wypłacie 683,1 tys. zł dywidendy z zysku netto za 2025 rok, co daje 0,22 zł na akcję - podała spółka w komunikacie.",
-      "date_published": "2026-06-30T18:56:00+02:00",
-      "source": "PAP Biznes"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Verbicom-wyplaci-0-01-zl-dywidendy-na-akcje-za-25-9161208.html",
@@ -501,6 +725,30 @@
       "source": "Bankier.pl"
     },
     {
+      "id": "https://biznes.pap.pl/wiadomosci/gospodarka/potencjal-do-dalszego-umocnienia-spw-ograniczony-pln-nie-powinien-sie",
+      "url": "https://biznes.pap.pl/wiadomosci/gospodarka/potencjal-do-dalszego-umocnienia-spw-ograniczony-pln-nie-powinien-sie",
+      "title": "Potencjał do dalszego umocnienia SPW ograniczony; PLN nie powinien się osłabiać - BGK (opinia)",
+      "content_html": "Potencjał do dalszego umocnienia SPW na razie pozostaje ograniczony - oceniają ekonomiści Banku Gospodarstwa Krajowego. W scenariuszu bazowym ekonomiści BGK nie oczekują dalszego osłabienia złotego.",
+      "date_published": "2026-06-30T18:04:00+02:00",
+      "source": "PAP Biznes"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/gospodarka/we-wrzesniu-cpi-osiagnie-lokalny-szczyt-powyzej-3-proc-pozniej-bedzie-spadac",
+      "url": "https://biznes.pap.pl/wiadomosci/gospodarka/we-wrzesniu-cpi-osiagnie-lokalny-szczyt-powyzej-3-proc-pozniej-bedzie-spadac",
+      "title": "We wrześniu CPI osiągnie lokalny szczyt powyżej 3 proc., później będzie spadać - BGK (opinia)",
+      "content_html": "We wrześniu inflacja CPI w Polsce osiągnie lokalny szczyt powyżej 3 proc., w dalszej perspektywie powinna się ona obniżać, zwłaszcza w horyzoncie wiosny 2027 r. - oceniają ekonomiści Banku Gospodarstw",
+      "date_published": "2026-06-30T18:03:00+02:00",
+      "source": "PAP Biznes"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/firmy/voxel-wyplaci-25-zl-dywidendy-na-akcje-za-25",
+      "url": "https://biznes.pap.pl/wiadomosci/firmy/voxel-wyplaci-25-zl-dywidendy-na-akcje-za-25",
+      "title": "Voxel wypłaci 2,5 zł dywidendy na akcję za '25",
+      "content_html": "Akcjonariusze spółki Voxel zdecydowali o przeznaczeniu na dywidendę 26,3 mln zł z zysku netto za 2025 rok, co daje 2,5 zł dywidendy na akcję - poinformowała spółka w komunikacie.",
+      "date_published": "2026-06-30T18:03:00+02:00",
+      "source": "PAP Biznes"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Stoczek-Natura-z-Grupy-Makarony-Polskie-nabyl-100-proc-udzialow-w-spolce-Joyfood-za-5-9-mln-zl-9161096.html",
       "url": "https://www.bankier.pl/wiadomosc/Stoczek-Natura-z-Grupy-Makarony-Polskie-nabyl-100-proc-udzialow-w-spolce-Joyfood-za-5-9-mln-zl-9161096.html",
       "title": "Stoczek Natura z Grupy Makarony Polskie nabył 100 proc. udziałów w spółce Joyfood za 5,9 mln zł",
@@ -525,6 +773,14 @@
       "source": "Bankier.pl"
     },
     {
+      "id": "https://biznes.pap.pl/wiadomosci/firmy/verbicom-wyplaci-001-zl-dywidendy-na-akcje-za-25",
+      "url": "https://biznes.pap.pl/wiadomosci/firmy/verbicom-wyplaci-001-zl-dywidendy-na-akcje-za-25",
+      "title": "Verbicom wypłaci 0,01 zł dywidendy na akcję za '25",
+      "content_html": "Zwyczajne walne zgromadzenie spółki Verbicom zdecydowało o przeznaczeniu 80,2 tys. zł na dywidendę, co daje 0,01 zł na akcję - wynika z uchwał podjętych na walnym zgromadzeniu.",
+      "date_published": "2026-06-30T17:48:00+02:00",
+      "source": "PAP Biznes"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/5-miliardow-zlotych-na-nowe-technologie-Pakt-dla-czystego-przemyslu-w-Polsce-9160960.html",
       "url": "https://www.bankier.pl/wiadomosc/5-miliardow-zlotych-na-nowe-technologie-Pakt-dla-czystego-przemyslu-w-Polsce-9160960.html",
       "title": "5 miliardów złotych na nowe technologie. Pakt dla czystego przemysłu w Polsce",
@@ -533,12 +789,36 @@
       "source": "Bankier.pl"
     },
     {
+      "id": "https://biznes.pap.pl/wiadomosci/firmy/ntt-system-wyplaci-022-zl-dywidendy-na-akcje-za-25",
+      "url": "https://biznes.pap.pl/wiadomosci/firmy/ntt-system-wyplaci-022-zl-dywidendy-na-akcje-za-25",
+      "title": "NTT System wypłaci 0,22 zł dywidendy na akcję za '25",
+      "content_html": "Walne zgromadzenie NTT System zdecydowało, że z zysku za 2025 r. na dywidendę trafi 2,98 mln zł, co daje 0,22 zł dywidendy na akcję - podała spółka w komunikacie.",
+      "date_published": "2026-06-30T17:41:00+02:00",
+      "source": "PAP Biznes"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/firmy/develia-kupila-dzialke-w-warszawie-za-1217-mln-zl-pod-107-lokali-mieszkalnych",
+      "url": "https://biznes.pap.pl/wiadomosci/firmy/develia-kupila-dzialke-w-warszawie-za-1217-mln-zl-pod-107-lokali-mieszkalnych",
+      "title": "Develia kupiła działkę w Warszawie za 12,17 mln zł pod 107 lokali mieszkalnych",
+      "content_html": "Spółka zależna Develii - Develia Warszawa - kupiła działkę w Warszawie przy ulicy Anilinowej za 12,17 mln zł pod 106 lokali mieszkalnych - podała spółka w komunikacie. Planowany termin rozpoczęcia spr",
+      "date_published": "2026-06-30T17:33:00+02:00",
+      "source": "PAP Biznes"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Narzekamy-na-polityke-ale-zyje-nam-sie-swietnie-Polska-podzielona-na-pol-9160933.html",
       "url": "https://www.bankier.pl/wiadomosc/Narzekamy-na-polityke-ale-zyje-nam-sie-swietnie-Polska-podzielona-na-pol-9160933.html",
       "title": "Narzekamy na politykę, ale żyje nam się świetnie. Polska podzielona na pół",
       "content_html": "W połowie czerwca 31 proc. badanych uważało, że sytuacja w naszym kraju zmierza w dobrym kierunku, odmiennego zdania było 48 proc., a poglądu na ten temat nie miało 21 proc. – wynika z sondażu CBOS. Oceny sytuacji w kraju pogorszyły się w...",
       "date_published": "2026-06-30T17:32:00+02:00",
       "source": "Bankier.pl"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/firmy/atal-przydzielil-obligacje-o-wartosci-260-mln-zl",
+      "url": "https://biznes.pap.pl/wiadomosci/firmy/atal-przydzielil-obligacje-o-wartosci-260-mln-zl",
+      "title": "Atal przydzielił obligacje o wartości 260 mln zł",
+      "content_html": "Atal przydzielił obligacje o wartości 260 mln zł - poinformował deweloper w komunikacie. Wpłaty zostały dokonane na wszystkie 260.000 sztuk obligacji zwykłych na okaziciela serii BF na okres 2 lat i 1",
+      "date_published": "2026-06-30T17:29:00+02:00",
+      "source": "PAP Biznes"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/JSW-i-ARP-zawarly-aneks-do-umowy-sprzedazy-udzialow-w-spolkach-PBSz-i-JZR-9161021.html",
@@ -555,6 +835,22 @@
       "content_html": "Aplisens zaprosił akcjonariuszy do sprzedaży do 251.243 akcji własnych, oferując po 19,5 zł za jeden walor - podała spółka w komunikacie.",
       "date_published": "2026-06-30T17:02:00+02:00",
       "source": "Bankier.pl"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/gospodarka/dzien-na-fxfi-zloty-slabszy-po-danych-inflacyjnych",
+      "url": "https://biznes.pap.pl/wiadomosci/gospodarka/dzien-na-fxfi-zloty-slabszy-po-danych-inflacyjnych",
+      "title": "DZIEŃ NA FX/FI: Złoty słabszy po danych inflacyjnych",
+      "content_html": "Po publikacji krajowych danych inflacyjnych złoty osłabił się, a kurs EUR/PLN na krótko przebił poziom 4,3. Rentowności obligacji spadły. Zdaniem analityków, w średnim terminie złoty może pozostać sła",
+      "date_published": "2026-06-30T17:01:00+02:00",
+      "source": "PAP Biznes"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/ekonomia-biznes-i-finanse/skrot-wiadomosci-wtorek-30-czerwca-1700",
+      "url": "https://biznes.pap.pl/wiadomosci/ekonomia-biznes-i-finanse/skrot-wiadomosci-wtorek-30-czerwca-1700",
+      "title": "Skrót wiadomości - wtorek, 30 czerwca, 17.00",
+      "content_html": "Przegląd najważniejszych wiadomości gospodarczych, krajowych i ze świata.",
+      "date_published": "2026-06-30T17:00:00+02:00",
+      "source": "PAP Biznes"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Forever-Entertainment-wyplaci-0-1-zl-dywidendy-na-akcje-za-2025-rok-9160991.html",
@@ -605,12 +901,28 @@
       "source": "Bankier.pl"
     },
     {
+      "id": "https://biznes.pap.pl/wiadomosci/firmy/dzien-na-gpw-na-gieldzie-odreagowanie-spadkow-kruk-rosnie-o-ponad-5-proc",
+      "url": "https://biznes.pap.pl/wiadomosci/firmy/dzien-na-gpw-na-gieldzie-odreagowanie-spadkow-kruk-rosnie-o-ponad-5-proc",
+      "title": "DZIEŃ NA GPW: Na giełdzie odreagowanie spadków; Kruk rośnie o ponad 5 proc.",
+      "content_html": "Wtorek przyniósł na warszawską giełdę odreagowanie i główne indeksy rosną, przeważnie po 0,8-1 proc. Najmocniejszą spółką w WIG20 jest Kruk, ze zwyżką o ponad 5 proc. Dobrze radzą sobie KGHM i Budimex",
+      "date_published": "2026-06-30T16:31:00+02:00",
+      "source": "PAP Biznes"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Euro-Tax-wyplaci-0-35-zl-dywidendy-na-akcje-9160928.html",
       "url": "https://www.bankier.pl/wiadomosc/Euro-Tax-wyplaci-0-35-zl-dywidendy-na-akcje-9160928.html",
       "title": "Euro-Tax wypłaci 0,35 zł dywidendy na akcję",
       "content_html": "Akcjonariusze Euro-Tax .pl zdecydowali, że spółka wypłaci w formie dywidendy z zysku za 2025 rok oraz w części z pozostającego w spółce kapitału zapasowego łącznie 1,75 mln zł, czyli 0,35 zł na akcję - podała spółka w komunikacie.",
       "date_published": "2026-06-30T16:30:00+02:00",
       "source": "Bankier.pl"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/gospodarka/obciazenie-kosztami-uprawnien-do-emisji-co2-pozostanie-wysokie-przez",
+      "url": "https://biznes.pap.pl/wiadomosci/gospodarka/obciazenie-kosztami-uprawnien-do-emisji-co2-pozostanie-wysokie-przez",
+      "title": "Obciążenie kosztami uprawnień do emisji CO2 pozostanie wysokie przez najbliższe 15 lat - ING (opinia)",
+      "content_html": "Obciążenie z tytułu kosztów unijnych uprawnień do emisji CO2 pozostanie wysokie przez najbliższe 15 lat, dlatego sprawne i konsekwentne wdrożenie programu inwestycji energetycznych przewidzianych w KP",
+      "date_published": "2026-06-30T16:19:00+02:00",
+      "source": "PAP Biznes"
     },
     {
       "id": "https://biznes.pap.pl/wiadomosci/gospodarka/euro-w-ebc-11394-usd-i-18508-jpy",
@@ -749,22 +1061,6 @@
       "source": "PAP Biznes"
     },
     {
-      "id": "https://www.bankier.pl/wiadomosc/Digital-Network-wyplaci-5-zl-dywidendy-na-akcje-9160830.html",
-      "url": "https://www.bankier.pl/wiadomosc/Digital-Network-wyplaci-5-zl-dywidendy-na-akcje-9160830.html",
-      "title": "Digital Network wypłaci 5 zł dywidendy na akcję",
-      "content_html": "Akcjonariusze Digital Network zdecydowali, że spółka wypłaci 22,8 mln zł dywidendy, czyli 5 zł na akcję - wynika z uchwał podjętych na WZA.",
-      "date_published": "2026-06-30T15:36:00+02:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Mniej-niz-jedno-euro-rocznie-dla-Czarnogory-Tyle-bedzie-nas-kosztowac-nowy-czlonek-Unii-Europejskiej-Czarnogora-9160751.html",
-      "url": "https://www.bankier.pl/wiadomosc/Mniej-niz-jedno-euro-rocznie-dla-Czarnogory-Tyle-bedzie-nas-kosztowac-nowy-czlonek-Unii-Europejskiej-Czarnogora-9160751.html",
-      "title": "Mniej niż jedno euro rocznie. Tyle będzie nas kosztować nowy członek UE",
-      "content_html": "Rzecznik Komisji Europejskiej Guillaume Mercier powiedział we wtorek, że wejście Czarnogóry do Unii Europejskiej będzie kosztować 3,2 mld euro, co oznacza mniej niż jedno euro na jednego mieszkańca UE rocznie. To o ten kraj Wspólnota może się...",
-      "date_published": "2026-06-30T15:35:00+02:00",
-      "source": "Bankier.pl"
-    },
-    {
       "id": "https://biznes.pap.pl/wiadomosci/rynki/po-otwarciu-sesji-dji-rosnie-o-006-proc-sp-500-rosnie-o-003-proc",
       "url": "https://biznes.pap.pl/wiadomosci/rynki/po-otwarciu-sesji-dji-rosnie-o-006-proc-sp-500-rosnie-o-003-proc",
       "title": "Po otwarciu sesji DJI rośnie o 0,06 proc., a S&P 500 rośnie o 0,03 proc.",
@@ -773,76 +1069,12 @@
       "source": "PAP Biznes"
     },
     {
-      "id": "https://www.bankier.pl/wiadomosc/Inflacja-znowu-wystrzeli-ale-NBP-nie-wpadnie-w-panike-Zaskakujaca-prognoza-dla-gospodarki-9160750.html",
-      "url": "https://www.bankier.pl/wiadomosc/Inflacja-znowu-wystrzeli-ale-NBP-nie-wpadnie-w-panike-Zaskakujaca-prognoza-dla-gospodarki-9160750.html",
-      "title": "Inflacja znowu wystrzeli, ale NBP nie wpadnie w panikę. Zaskakująca prognoza dla gospodarki",
-      "content_html": "Powrót CPI w Polsce do celu w III kw. 2027 r., w połączeniu z projekcją NBP wskazującą na stabilizację inflacji w celu w średnim okresie, pozwoli RPP wznowić łagodzenie polityki pieniężnej - prognozują ekonomiści PKO BP. W bazowym scenariuszu...",
-      "date_published": "2026-06-30T15:30:00+02:00",
-      "source": "Bankier.pl"
-    },
-    {
       "id": "https://biznes.pap.pl/wiadomosci/firmy/euro-tax-wyplaci-035-zl-dywidendy-na-akcje",
       "url": "https://biznes.pap.pl/wiadomosci/firmy/euro-tax-wyplaci-035-zl-dywidendy-na-akcje",
       "title": "Euro-Tax wypłaci 0,35 zł dywidendy na akcję",
       "content_html": "Akcjonariusze Euro-Tax .pl zdecydowali, że spółka wypłaci w formie dywidendy z zysku za 2025 rok oraz w części z pozostającego w spółce kapitału zapasowego łącznie 1,75 mln zł, czyli 0,35 zł na akcję ",
       "date_published": "2026-06-30T15:25:00+02:00",
       "source": "PAP Biznes"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Oferta-konsorcjum-Budimeksu-za-302-5-mln-zl-najkorzystniejsza-w-przetargu-PKP-PLK-9160808.html",
-      "url": "https://www.bankier.pl/wiadomosc/Oferta-konsorcjum-Budimeksu-za-302-5-mln-zl-najkorzystniejsza-w-przetargu-PKP-PLK-9160808.html",
-      "title": "Oferta konsorcjum Budimeksu za 302,5 mln zł najkorzystniejsza w przetargu PKP PLK",
-      "content_html": "Oferta konsorcjum, którego liderem jest Budimex, za 302,5 mln zł netto została wybrana przez PKP Polskie Linie Kolejowe jako najkorzystniejsza w przetargu na modernizację odcinka linii kolejowej nr 16 Łęczyca - Kutno - podała spółka w komunikacie...",
-      "date_published": "2026-06-30T15:24:00+02:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/przemysl/liftero-dlugoterminowo-celuje-w-produkcje-kilkudziesieciu-systemow-napedowych",
-      "url": "https://biznes.pap.pl/wiadomosci/przemysl/liftero-dlugoterminowo-celuje-w-produkcje-kilkudziesieciu-systemow-napedowych",
-      "title": "Liftero długoterminowo celuje w produkcję kilkudziesięciu systemów napędowych rocznie (wywiad)",
-      "content_html": "Liftero, polski producent napędów kosmicznych, w perspektywie 18-24 miesięcy zamierza przeskalować produkcję do poziomu co najmniej kilkudziesięciu systemów napędowych rocznie, aby być gotowym na skal",
-      "date_published": "2026-06-30T15:24:00+02:00",
-      "source": "PAP Biznes"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Chca-inwestowac-ale-nie-wiedza-jak-Co-mlodzi-Polacy-naprawde-robia-z-pieniedzmi-9160683.html",
-      "url": "https://www.bankier.pl/wiadomosc/Chca-inwestowac-ale-nie-wiedza-jak-Co-mlodzi-Polacy-naprawde-robia-z-pieniedzmi-9160683.html",
-      "title": "Chcą inwestować, ale... nie wiedzą jak. Co młodzi Polacy naprawdę robią z pieniędzmi?",
-      "content_html": "Prawie połowa nieinwestujących młodych Polaków wciąż wierzy, że bez ogromnego kapitału nie da się wejść \"do gry\". Co więcej, chęci do inwestowania blokuje nie tylko brak środków, ale strach przed oszustwem i brak jasnej instrukcji: \"od...",
-      "date_published": "2026-06-30T15:22:00+02:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Spolka-Mentzen-wyplaci-0-87-zl-dywidendy-na-akcje-9160800.html",
-      "url": "https://www.bankier.pl/wiadomosc/Spolka-Mentzen-wyplaci-0-87-zl-dywidendy-na-akcje-9160800.html",
-      "title": "Spółka Mentzen wypłaci 0,87 zł dywidendy na akcję",
-      "content_html": "Zwyczajne Walne Zgromadzenie spółki Mentzen zdecydowało, aby na dywidendę przeznaczyć 912,2 tys. zł z zysku netto za 2025 r., co da 0,87 zł na akcję - podała spółka w komunikacie. Pozostałą kwotę, w wysokości 5,98 tys. zł spółka przeznaczy...",
-      "date_published": "2026-06-30T15:20:00+02:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Prokuratura-uderza-w-uklad-samorzadowy-Byly-prezydent-Zielonej-Gory-z-zarzutami-9160790.html",
-      "url": "https://www.bankier.pl/wiadomosc/Prokuratura-uderza-w-uklad-samorzadowy-Byly-prezydent-Zielonej-Gory-z-zarzutami-9160790.html",
-      "title": "Prokuratura uderza w układ samorządowy. Były prezydent Zielonej Góry z zarzutami",
-      "content_html": "Do 10 lat więzienia grozi byłemu prezydentowi Zielonej Góry, który miał brać udział w fikcyjnym zatrudnianiu przez samorząd osób, pracujących na rzecz Zielonogórskiego Klubu Żużlowego - podała we wtorek prokuratura. W tej sprawie zarzuty...",
-      "date_published": "2026-06-30T15:16:00+02:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/gospodarka/stopien-sfinansowania-potrzeb-pozyczkowych-brutto-2026-wynosi-obecnie-ok-63",
-      "url": "https://biznes.pap.pl/wiadomosci/gospodarka/stopien-sfinansowania-potrzeb-pozyczkowych-brutto-2026-wynosi-obecnie-ok-63",
-      "title": "Stopień sfinansowania potrzeb pożyczkowych brutto 2026 wynosi obecnie ok. 63 proc. - Drop, MF",
-      "content_html": "Stopień sfinansowania tegorocznych potrzeb pożyczkowych brutto budżetu państwa wynosi ok. 63 proc. - poinformował wiceminister finansów Jurand Drop w komentarzu do podaży SPW. (PAP Biznes)",
-      "date_published": "2026-06-30T15:07:00+02:00",
-      "source": "PAP Biznes"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Prawie-pol-biliona-euro-na-minusie-ale-jest-i-nadwyzka-Najnowsze-dane-NBP-o-polskiej-gospodarce-9160766.html",
-      "url": "https://www.bankier.pl/wiadomosc/Prawie-pol-biliona-euro-na-minusie-ale-jest-i-nadwyzka-Najnowsze-dane-NBP-o-polskiej-gospodarce-9160766.html",
-      "title": "Prawie pół biliona euro na minusie, ale jest i nadwyżka. Najnowsze dane NBP o polskiej gospodarce",
-      "content_html": "Zadłużenie zagraniczne brutto Polski wzrosło w I kw. '26 do 481.875 mln euro z 465.040 mln euro w IV kw. 2025 r, po korekcie - podał Narodowy Bank Polski.",
-      "date_published": "2026-06-30T15:06:00+02:00",
-      "source": "Bankier.pl"
     },
     {
       "id": "https://biznes.pap.pl/wiadomosci/gospodarka/stan-srodkow-na-rachunkach-budzetowych-na-koniec-czerwca-wyniesie-ponad-250",
@@ -893,44 +1125,12 @@
       "source": "PAP Biznes"
     },
     {
-      "id": "https://www.bankier.pl/wiadomosc/Nie-do-udzwigniecia-finansowo-Berlin-zada-drastycznych-ciec-w-kasie-UE-9160701.html",
-      "url": "https://www.bankier.pl/wiadomosc/Nie-do-udzwigniecia-finansowo-Berlin-zada-drastycznych-ciec-w-kasie-UE-9160701.html",
-      "title": "\"Nie do udźwignięcia finansowo\". Berlin żąda drastycznych cięć w kasie UE",
-      "content_html": "Niemcy chcą, by budżet UE na lata 2028-2034 był mniejszy o ok. 400 mld euro w stosunku do propozycji Komisji Europejskiej - wynika z wewnętrznego dokumentu niemieckiego rządu, do którego dostęp uzyskała agencja Reutera. Zdaniem Berlina plany te...",
-      "date_published": "2026-06-30T14:52:00+02:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Napieta-sytuacja-w-polskiej-energetyce-PSE-oglasza-okres-przywolania-na-rynku-mocy-9160707.html",
-      "url": "https://www.bankier.pl/wiadomosc/Napieta-sytuacja-w-polskiej-energetyce-PSE-oglasza-okres-przywolania-na-rynku-mocy-9160707.html",
-      "title": "Napięta sytuacja w polskiej energetyce. PSE ogłasza okres przywołania na rynku mocy",
-      "content_html": "Okres przywołania na rynku mocy obowiązuje w godz. 18-22 we wtorek wobec wcześniej ogłoszonych godz. 18-21 - poinformowały Polskie Sieci Elektroenergetyczne (PSE). Nie ma to wpływu na odbiorców indywidualnych; działanie takie wynika m.in. z wysokiego...",
-      "date_published": "2026-06-30T14:51:00+02:00",
-      "source": "Bankier.pl"
-    },
-    {
       "id": "https://biznes.pap.pl/wiadomosci/firmy/abak-wyplaci-040-zl-dywidendy-na-akcje",
       "url": "https://biznes.pap.pl/wiadomosci/firmy/abak-wyplaci-040-zl-dywidendy-na-akcje",
       "title": "Abak wypłaci 0,40 zł dywidendy na akcję",
       "content_html": "Akcjonariusze Abak zdecydowali, by z zysku netto za 2025 rok przeznaczyć na dywidendę 1,08 mln zł, co daje 0,40 zł dywidendy na akcję - poinformowała w komunikacie grupa specjalizująca się w usługach ",
       "date_published": "2026-06-30T14:49:00+02:00",
       "source": "PAP Biznes"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Efekt-Tesli-na-akcjach-SpaceX-Starlink-zarabia-ale-xAI-poteznie-traci-9160741.html",
-      "url": "https://www.bankier.pl/wiadomosc/Efekt-Tesli-na-akcjach-SpaceX-Starlink-zarabia-ale-xAI-poteznie-traci-9160741.html",
-      "title": "Efekt Tesli na akcjach SpaceX? Starlink zarabia, ale... xAI potężnie traci",
-      "content_html": "Akcje SpaceX będą narażone na podobne wahania i działania spekulacyjne jak akcje innej spółki, z którą również związany jest Elon Musk, czyli Tesla - powiedział PAP Biznes Aleksander Jerzewski, ESALIENS TFI. Wskazał, że do 30 proc. emisji...",
-      "date_published": "2026-06-30T14:46:00+02:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Koniec-z-placem-manewrowym-Rzad-szykuje-rewolucje-w-prawach-jazdy-B-9160697.html",
-      "url": "https://www.bankier.pl/wiadomosc/Koniec-z-placem-manewrowym-Rzad-szykuje-rewolucje-w-prawach-jazdy-B-9160697.html",
-      "title": "Koniec z placem manewrowym. Rząd szykuje rewolucję w prawach jazdy B",
-      "content_html": "Cyfrowa karta kursanta, zniesienie wymogu egzaminu na placu manewrowym dla kategorii B lub B1, czy ograniczona liczba podejść do egzaminu praktycznego tego samego dnia - to niektóre z założeń projektu ustawy, który zakłada reformę systemu szkolenia...",
-      "date_published": "2026-06-30T14:39:00+02:00",
-      "source": "Bankier.pl"
     },
     {
       "id": "https://biznes.pap.pl/wiadomosci/gospodarka/podstawowe-wyzwanie-ppk-partycypacja-ew-zmiany-celowane-i-nieduze-marczuk",
@@ -941,20 +1141,20 @@
       "source": "PAP Biznes"
     },
     {
-      "id": "https://www.bankier.pl/wiadomosc/Trans-Polonia-wyplaci-0-21-zl-dywidendy-na-akcje-9160726.html",
-      "url": "https://www.bankier.pl/wiadomosc/Trans-Polonia-wyplaci-0-21-zl-dywidendy-na-akcje-9160726.html",
-      "title": "Trans Polonia wypłaci 0,21 zł dywidendy na akcję",
-      "content_html": "Akcjonariusze Trans Polonii zdecydowali, że spółka przeznaczy 4,7 mln zł z kapitału zapasowego na wypłatę dywidendy, co da 0,21 zł na akcję - poinformowała spółka w komunikacie.",
-      "date_published": "2026-06-30T14:38:00+02:00",
-      "source": "Bankier.pl"
-    },
-    {
       "id": "https://biznes.pap.pl/wiadomosci/gospodarka/sobkowiak-czarnecka-pelnomocniczka-rzadu-ds-wzmocnienia-odpornosci-panstwa-0",
       "url": "https://biznes.pap.pl/wiadomosci/gospodarka/sobkowiak-czarnecka-pelnomocniczka-rzadu-ds-wzmocnienia-odpornosci-panstwa-0",
       "title": "Sobkowiak-Czarnecka pełnomocniczką rządu ds. wzmocnienia odporności państwa (opis)",
       "content_html": "Nową pełnomocniczką rządu do spraw wzmocnienia odporności państwa będzie Magdalena Sobkowiak-Czarnecka, która przestaje pełnić funkcję pełnomocnika rządu do spraw wdrażania instrumentu SAFE - poinform",
       "date_published": "2026-06-30T14:37:00+02:00",
       "source": "PAP Biznes"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Digital-Network-wyplaci-5-zl-dywidendy-na-akcje-9160830.html",
+      "url": "https://www.bankier.pl/wiadomosc/Digital-Network-wyplaci-5-zl-dywidendy-na-akcje-9160830.html",
+      "title": "Digital Network wypłaci 5 zł dywidendy na akcję Akcjonariusze Digital Network zdecydowali, że spółka wypłaci 22,8 mln zł dywidendy, czyli 5 zł na akcję - wynika z uchwał podjętych na WZA.",
+      "content_html": "",
+      "date_published": "2026-06-30T14:36:00+02:00",
+      "source": "Bankier.pl"
     },
     {
       "id": "https://biznes.pap.pl/wiadomosci/rynki/dzien-na-rynkach-futures-w-usa-rosna-ii-kw-na-gieldach-ze-zwyzkami",
@@ -973,38 +1173,6 @@
       "source": "PAP Biznes"
     },
     {
-      "id": "https://www.bankier.pl/wiadomosc/Rekord-na-pokladach-LOT-u-Historyczny-wynik-i-ponad-10-miliardow-zlotych-przychodu-9160695.html",
-      "url": "https://www.bankier.pl/wiadomosc/Rekord-na-pokladach-LOT-u-Historyczny-wynik-i-ponad-10-miliardow-zlotych-przychodu-9160695.html",
-      "title": "Rekord na pokładach LOT-u. Historyczny wynik i ponad 10 miliardów złotych przychodu",
-      "content_html": "Polskie Linie Lotnicze LOT zanotowały w 2025 roku 350 mln zysku netto i 422 mln zł zysku na działalności operacyjnej przy przychodach na poziomie 10,22 mld zł - podał przewoźnik w komunikacie prasowym. W ubiegłym roku LOT przewiózł 11,7 mln...",
-      "date_published": "2026-06-30T14:33:00+02:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Hortico-wyplaci-0-29-zl-dywidendy-na-akcje-9160708.html",
-      "url": "https://www.bankier.pl/wiadomosc/Hortico-wyplaci-0-29-zl-dywidendy-na-akcje-9160708.html",
-      "title": "Hortico wypłaci 0,29 zł dywidendy na akcję",
-      "content_html": "Walne zgromadzenie Hortico zdecydowało o wypłacie 3,75 mln zł z zysku netto za 2025 rok na dywidendę, co daje 0,29 zł na akcję - podała spółka w komunikacie.",
-      "date_published": "2026-06-30T14:32:00+02:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Wysokie-ceny-nie-przestraszyly-pasazerow-Branza-lotnicza-odbudowuje-sie-po-wojennych-zawirowaniach-9160671.html",
-      "url": "https://www.bankier.pl/wiadomosc/Wysokie-ceny-nie-przestraszyly-pasazerow-Branza-lotnicza-odbudowuje-sie-po-wojennych-zawirowaniach-9160671.html",
-      "title": "Wysokie ceny nie przestraszyły pasażerów. IATA pokazała dane",
-      "content_html": "Pasażerski ruch lotniczy odbudowuje się po wojennych zawirowaniach - podało Międzynarodowe Zrzeszenie Przewoźników Powietrznych (IATA) w raporcie.",
-      "date_published": "2026-06-30T14:30:00+02:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/PKP-Cargo-zmienil-propozycje-dla-czesci-grup-w-celu-zapewnienia-finansowania-wykonania-ukladu-9160694.html",
-      "url": "https://www.bankier.pl/wiadomosc/PKP-Cargo-zmienil-propozycje-dla-czesci-grup-w-celu-zapewnienia-finansowania-wykonania-ukladu-9160694.html",
-      "title": "Wielka restrukturyzacja PKP Cargo. Spółka zmienia zasady spłaty długów.",
-      "content_html": "Zarząd PKP Cargo przyjął zmienione propozycje układowe w postępowaniu sanacyjnym dla części grup wierzycieli w celu zapewnienia finansowania wykonania układu, w tym uchwały nadzwyczajnego walnego zgromadzenia z 26 czerwca 2026 roku, dotyczącej...",
-      "date_published": "2026-06-30T14:30:00+02:00",
-      "source": "Bankier.pl"
-    },
-    {
       "id": "https://biznes.pap.pl/wiadomosci/gospodarka/wejscie-czarnogory-do-unii-bedzie-kosztowac-32-mld-euro-ke",
       "url": "https://biznes.pap.pl/wiadomosci/gospodarka/wejscie-czarnogory-do-unii-bedzie-kosztowac-32-mld-euro-ke",
       "title": "Wejście Czarnogóry do Unii będzie kosztować 3,2 mld euro - KE",
@@ -1013,20 +1181,28 @@
       "source": "PAP Biznes"
     },
     {
-      "id": "https://www.bankier.pl/wiadomosc/Dom-Development-wprowadzil-do-sprzedazy-w-166-mieszkan-w-Warszawie-9160699.html",
-      "url": "https://www.bankier.pl/wiadomosc/Dom-Development-wprowadzil-do-sprzedazy-w-166-mieszkan-w-Warszawie-9160699.html",
-      "title": "Dom Development wprowadził do sprzedaży w 166 mieszkań w Warszawie",
-      "content_html": "Dom Development wprowadził do sprzedaży 166 mieszkań w inwestycji Apartamentów Myśliborska Park na warszawskiej Białołęce - poinformował deweloper w komunikacie prasowym. (PAP Biznes)",
-      "date_published": "2026-06-30T14:26:00+02:00",
+      "id": "https://www.bankier.pl/wiadomosc/Oferta-konsorcjum-Budimeksu-za-302-5-mln-zl-najkorzystniejsza-w-przetargu-PKP-PLK-9160808.html",
+      "url": "https://www.bankier.pl/wiadomosc/Oferta-konsorcjum-Budimeksu-za-302-5-mln-zl-najkorzystniejsza-w-przetargu-PKP-PLK-9160808.html",
+      "title": "Oferta konsorcjum Budimeksu za 302,5 mln zł najkorzystniejsza w przetargu PKP PLK Oferta konsorcjum, którego liderem jest Budimex, za 302,5 mln zł netto została wybrana przez PKP Polskie Linie Kolejowe jako najkorzystniejsza w przetargu na modernizację odcinka linii kolejowej nr 16 Łęczyca - Kutno - podała spółka w komunikacie.",
+      "content_html": "",
+      "date_published": "2026-06-30T14:24:00+02:00",
       "source": "Bankier.pl"
     },
     {
-      "id": "https://biznes.pap.pl/wiadomosci/firmy/oferta-konsorcjum-budimeksu-za-3025-mln-zl-najkorzystniejsza-w-przetargu-pkp-plk",
-      "url": "https://biznes.pap.pl/wiadomosci/firmy/oferta-konsorcjum-budimeksu-za-3025-mln-zl-najkorzystniejsza-w-przetargu-pkp-plk",
-      "title": "Oferta konsorcjum Budimeksu za 302,5 mln zł najkorzystniejsza w przetargu PKP PLK",
-      "content_html": "Oferta konsorcjum, którego liderem jest Budimex, za 302,5 mln zł netto została wybrana przez PKP Polskie Linie Kolejowe jako najkorzystniejsza w przetargu na modernizację odcinka linii kolejowej nr 16",
-      "date_published": "2026-06-30T14:23:00+02:00",
-      "source": "PAP Biznes"
+      "id": "https://www.bankier.pl/wiadomosc/Chca-inwestowac-ale-nie-wiedza-jak-Co-mlodzi-Polacy-naprawde-robia-z-pieniedzmi-9160683.html",
+      "url": "https://www.bankier.pl/wiadomosc/Chca-inwestowac-ale-nie-wiedza-jak-Co-mlodzi-Polacy-naprawde-robia-z-pieniedzmi-9160683.html",
+      "title": "RAPORT Chcą inwestować, ale... nie wiedzą jak. Co młodzi Polacy naprawdę robią z pieniędzmi? Prawie połowa nieinwestujących młodych Polaków wciąż wierzy, że bez ogromnego kapitału nie da się wejść \"do gry\". Co więcej, chęci do inwestowania blokuje nie tylko brak środków, ale strach przed oszustwem i brak jasnej instrukcji: \"od czego zacząć?\". Sprawdzamy najnowszy raport Erste TFI i konfrontujemy go z sondą uliczną, gdzie przyglądamy się: jak generacja \"Z\" zmienia zasady gry, dlaczego chętniej wybiera obligacje niż kryptowaluty i jak nie wpaść w pułapkę TikTokowych 'guru' finansowych, którzy obiecują szybki zysk.",
+      "content_html": "",
+      "date_published": "2026-06-30T14:22:00+02:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Spolka-Mentzen-wyplaci-0-87-zl-dywidendy-na-akcje-9160800.html",
+      "url": "https://www.bankier.pl/wiadomosc/Spolka-Mentzen-wyplaci-0-87-zl-dywidendy-na-akcje-9160800.html",
+      "title": "Spółka Mentzen wypłaci 0,87 zł dywidendy na akcję Zwyczajne Walne Zgromadzenie spółki Mentzen zdecydowało, aby na dywidendę przeznaczyć 912,2 tys. zł z zysku netto za 2025 r., co da 0,87 zł na akcję - podała spółka w komunikacie. Pozostałą kwotę, w wysokości 5,98 tys. zł spółka przeznaczy na kapitał zapasowy.",
+      "content_html": "",
+      "date_published": "2026-06-30T14:20:00+02:00",
+      "source": "Bankier.pl"
     },
     {
       "id": "https://biznes.pap.pl/wiadomosci/gospodarka/sobkowiak-czarnecka-pelnomocniczka-rzadu-ds-wzmocnienia-odpornosci-panstwa",
@@ -1077,12 +1253,28 @@
       "source": "PAP Biznes"
     },
     {
+      "id": "https://www.bankier.pl/wiadomosc/Efekt-Tesli-na-akcjach-SpaceX-Starlink-zarabia-ale-xAI-poteznie-traci-9160741.html",
+      "url": "https://www.bankier.pl/wiadomosc/Efekt-Tesli-na-akcjach-SpaceX-Starlink-zarabia-ale-xAI-poteznie-traci-9160741.html",
+      "title": "WYWIAD Efekt Tesli na akcjach SpaceX? Starlink zarabia, ale... xAI potężnie traci Akcje SpaceX będą narażone na podobne wahania i działania spekulacyjne jak akcje innej spółki, z którą również związany jest Elon Musk, czyli Tesla - powiedział PAP Biznes Aleksander Jerzewski, ESALIENS TFI. Wskazał, że do 30 proc. emisji akcji SpaceX było przeznaczone dla inwestorów indywidualnych, a to zwiększa prawdopodobieństwo występowania gwałtownych ruchów cenowych.",
+      "content_html": "",
+      "date_published": "2026-06-30T13:46:00+02:00",
+      "source": "Bankier.pl"
+    },
+    {
       "id": "https://biznes.pap.pl/wiadomosci/gospodarka/wzrost-pkb-polski-w-26-wyniesie-35-proc-w-27-r-spowolni-do-28-proc-pko-bp",
       "url": "https://biznes.pap.pl/wiadomosci/gospodarka/wzrost-pkb-polski-w-26-wyniesie-35-proc-w-27-r-spowolni-do-28-proc-pko-bp",
       "title": "Wzrost PKB Polski w '26 wyniesie 3,5 proc., w '27 r. spowolni do 2,8 proc. - PKO BP (opinia)",
       "content_html": "Ekonomiści PKO BP podtrzymali swoją prognozę wzrostu PKB Polski w 2026 r. na poziomie 3,5 proc.; w 2027 r. prognozują spowolnienie wzrostu do 2,8 proc. - wynika z najnowszego raportu banku. Ekonomiści",
       "date_published": "2026-06-30T13:45:00+02:00",
       "source": "PAP Biznes"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Trans-Polonia-wyplaci-0-21-zl-dywidendy-na-akcje-9160726.html",
+      "url": "https://www.bankier.pl/wiadomosc/Trans-Polonia-wyplaci-0-21-zl-dywidendy-na-akcje-9160726.html",
+      "title": "Trans Polonia wypłaci 0,21 zł dywidendy na akcję Akcjonariusze Trans Polonii zdecydowali, że spółka przeznaczy 4,7 mln zł z kapitału zapasowego na wypłatę dywidendy, co da 0,21 zł na akcję - poinformowała spółka w komunikacie.",
+      "content_html": "",
+      "date_published": "2026-06-30T13:38:00+02:00",
+      "source": "Bankier.pl"
     },
     {
       "id": "https://biznes.pap.pl/wiadomosci/firmy/trans-polonia-wyplaci-021-zl-dywidendy-na-akcje-0",
@@ -1093,11 +1285,19 @@
       "source": "PAP Biznes"
     },
     {
-      "id": "https://www.bankier.pl/wiadomosc/Linia-produkcyjna-w-projekcie-BACTEROMIC-uzyska-gotowosc-najdalej-w-I-pol-27-Scope-Fluidics-9160645.html",
-      "url": "https://www.bankier.pl/wiadomosc/Linia-produkcyjna-w-projekcie-BACTEROMIC-uzyska-gotowosc-najdalej-w-I-pol-27-Scope-Fluidics-9160645.html",
-      "title": "Linia produkcyjna w projekcie BACTEROMIC uzyska gotowość najdalej w I poł. '27 - Scope Fluidics",
-      "content_html": "Dzięki pozyskaniu nowej lokalizacji, półautomatycza linia produkcyjna paneli systemu BACTEROMIC powinna osiągnąć gotowość produkcyjną w ciągu kilku miesięcy, jednak nie później niż w pierwszej połowie 2027 roku - poinformował Scope Fluidics...",
-      "date_published": "2026-06-30T13:34:00+02:00",
+      "id": "https://www.bankier.pl/wiadomosc/Rekord-na-pokladach-LOT-u-Historyczny-wynik-i-ponad-10-miliardow-zlotych-przychodu-9160695.html",
+      "url": "https://www.bankier.pl/wiadomosc/Rekord-na-pokladach-LOT-u-Historyczny-wynik-i-ponad-10-miliardow-zlotych-przychodu-9160695.html",
+      "title": "Rekord na pokładach LOT-u. Historyczny wynik i ponad 10 miliardów złotych przychodu Polskie Linie Lotnicze LOT zanotowały w 2025 roku 350 mln zysku netto i 422 mln zł zysku na działalności operacyjnej przy przychodach na poziomie 10,22 mld zł - podał przewoźnik w komunikacie prasowym. W ubiegłym roku LOT przewiózł 11,7 mln pasażerów, co oznacza wzrost o 9,4 proc. rdr i najwyższy wynik w historii spółki.",
+      "content_html": "",
+      "date_published": "2026-06-30T13:33:00+02:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Hortico-wyplaci-0-29-zl-dywidendy-na-akcje-9160708.html",
+      "url": "https://www.bankier.pl/wiadomosc/Hortico-wyplaci-0-29-zl-dywidendy-na-akcje-9160708.html",
+      "title": "Hortico wypłaci 0,29 zł dywidendy na akcję Walne zgromadzenie Hortico zdecydowało o wypłacie 3,75 mln zł z zysku netto za 2025 rok na dywidendę, co daje 0,29 zł na akcję - podała spółka w komunikacie.",
+      "content_html": "",
+      "date_published": "2026-06-30T13:32:00+02:00",
       "source": "Bankier.pl"
     },
     {
@@ -1109,28 +1309,28 @@
       "source": "PAP Biznes"
     },
     {
+      "id": "https://www.bankier.pl/wiadomosc/PKP-Cargo-zmienil-propozycje-dla-czesci-grup-w-celu-zapewnienia-finansowania-wykonania-ukladu-9160694.html",
+      "url": "https://www.bankier.pl/wiadomosc/PKP-Cargo-zmienil-propozycje-dla-czesci-grup-w-celu-zapewnienia-finansowania-wykonania-ukladu-9160694.html",
+      "title": "Wielka restrukturyzacja PKP Cargo. Spółka zmienia zasady spłaty długów. Zarząd PKP Cargo przyjął zmienione propozycje układowe w postępowaniu sanacyjnym dla części grup wierzycieli w celu zapewnienia finansowania wykonania układu, w tym uchwały nadzwyczajnego walnego zgromadzenia z 26 czerwca 2026 roku, dotyczącej podwyższenia kapitału zakładowego - podała spółka w komunikacie.",
+      "content_html": "",
+      "date_published": "2026-06-30T13:30:00+02:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Dom-Development-wprowadzil-do-sprzedazy-w-166-mieszkan-w-Warszawie-9160699.html",
+      "url": "https://www.bankier.pl/wiadomosc/Dom-Development-wprowadzil-do-sprzedazy-w-166-mieszkan-w-Warszawie-9160699.html",
+      "title": "Dom Development wprowadził do sprzedaży w 166 mieszkań w Warszawie Dom Development wprowadził do sprzedaży 166 mieszkań w inwestycji Apartamentów Myśliborska Park na warszawskiej Białołęce - poinformował deweloper w komunikacie prasowym. (PAP Biznes)",
+      "content_html": "",
+      "date_published": "2026-06-30T13:26:00+02:00",
+      "source": "Bankier.pl"
+    },
+    {
       "id": "https://biznes.pap.pl/wiadomosci/firmy/dom-development-wprowadzil-do-sprzedazy-w-166-mieszkan-w-warszawie",
       "url": "https://biznes.pap.pl/wiadomosci/firmy/dom-development-wprowadzil-do-sprzedazy-w-166-mieszkan-w-warszawie",
       "title": "Dom Development wprowadził do sprzedaży w 166 mieszkań w Warszawie",
       "content_html": "Dom Development wprowadził do sprzedaży 166 mieszkań w inwestycji Apartamenty Myśliborska Park na warszawskiej Białołęce - poinformował deweloper w komunikacie prasowym. (PAP Biznes)",
       "date_published": "2026-06-30T13:24:00+02:00",
       "source": "PAP Biznes"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Przelew-ekspresowy-vs-zwykly-kiedy-naprawde-warto-doplacac-9160589.html",
-      "url": "https://www.bankier.pl/wiadomosc/Przelew-ekspresowy-vs-zwykly-kiedy-naprawde-warto-doplacac-9160589.html",
-      "title": "Przelew ekspresowy vs zwykły - kiedy naprawdę warto dopłacać?",
-      "content_html": "Przelew zwykły jest darmowy, ale potrafi iść kilkanaście godzin. Ekspresowy dociera w kilka sekund i kosztuje zwykle kilka złotych. Pytanie nie brzmi, który jest lepszy, tylko kiedy te kilka złotych faktycznie się zwraca.",
-      "date_published": "2026-06-30T13:22:00+02:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/OpenAI-i-Anthropic-przed-gieldowym-debiutem-Claude-detronizuje-ChatGPT-w-biznesie-9160630.html",
-      "url": "https://www.bankier.pl/wiadomosc/OpenAI-i-Anthropic-przed-gieldowym-debiutem-Claude-detronizuje-ChatGPT-w-biznesie-9160630.html",
-      "title": "OpenAI i Anthropic przed giełdowym debiutem. Claude detronizuje ChatGPT w biznesie",
-      "content_html": "Przyjmując założenie, że OpenAI i Anthropic miałyby wejść na giełdę w niedalekim odstępie czasu, można uznać, że kolejność w przypadku tych dwóch firm nie będzie miała wielkiego znaczenia - poinformował PAP Biznes Aleksander Jerzewski...",
-      "date_published": "2026-06-30T13:22:00+02:00",
-      "source": "Bankier.pl"
     },
     {
       "id": "https://biznes.pap.pl/wiadomosci/firmy/pkp-cargo-zmienil-propozycje-dla-czesci-grup-w-celu-zapewnienia-finansowania",
@@ -1157,28 +1357,20 @@
       "source": "PAP Biznes"
     },
     {
-      "id": "https://www.bankier.pl/wiadomosc/Rekordowe-123-mld-euro-na-horyzoncie-Polska-pozostanie-beneficjentem-netto-w-nowym-budzecie-UE-9160599.html",
-      "url": "https://www.bankier.pl/wiadomosc/Rekordowe-123-mld-euro-na-horyzoncie-Polska-pozostanie-beneficjentem-netto-w-nowym-budzecie-UE-9160599.html",
-      "title": "Rekordowe 123 mld euro na horyzoncie. Polska pozostanie beneficjentem netto w nowym budżecie UE",
-      "content_html": "Przyszły budżet UE na lata 2028-2034 to jest na pewno budżet, w którym Polska jest beneficjentem netto, a co będzie w kolejnym budżecie nie wiadomo - poinformowała we wtorek ministra funduszy i polityki regionalnej Katarzyna Pełczyńska-Nałęcz...",
-      "date_published": "2026-06-30T12:50:00+02:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Noble-Securities-obnizylo-rekomendacje-11-bit-studios-do-redukuj-cena-docelowa-w-dol-do-116-zl-9160593.html",
-      "url": "https://www.bankier.pl/wiadomosc/Noble-Securities-obnizylo-rekomendacje-11-bit-studios-do-redukuj-cena-docelowa-w-dol-do-116-zl-9160593.html",
-      "title": "Noble Securities obniżyło rekomendację 11 bit studios do \"redukuj\"; cena docelowa w dół do 116 zł",
-      "content_html": "Analitycy Noble Securities, w raporcie z 30 czerwca, obniżyli cenę docelową akcji 11 bit studios w horyzoncie 12-miesięcznym do 116 z 155 zł wcześniej, a rekomendację obniżyli do \"redukuj\" z \"trzymaj\".",
-      "date_published": "2026-06-30T12:44:00+02:00",
-      "source": "Bankier.pl"
-    },
-    {
       "id": "https://biznes.pap.pl/wiadomosci/gospodarka/podpisano-umowy-na-400-mln-zl-dofinansowania-z-funduszu-wsparcia-technologii",
       "url": "https://biznes.pap.pl/wiadomosci/gospodarka/podpisano-umowy-na-400-mln-zl-dofinansowania-z-funduszu-wsparcia-technologii",
       "title": "Podpisano umowy na 400 mln zł dofinansowania z Funduszu Wsparcia Technologii Krytycznych - MFiPR",
       "content_html": "Podpisano dotąd 23 umowy na ok. 400 mln zł dofinansowania z utworzonego w zeszłym roku Funduszu Wsparcia Technologii Krytycznych - poinformowała we wtorek ministra funduszy i polityki regionalnej Kata",
       "date_published": "2026-06-30T12:42:00+02:00",
       "source": "PAP Biznes"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Linia-produkcyjna-w-projekcie-BACTEROMIC-uzyska-gotowosc-najdalej-w-I-pol-27-Scope-Fluidics-9160645.html",
+      "url": "https://www.bankier.pl/wiadomosc/Linia-produkcyjna-w-projekcie-BACTEROMIC-uzyska-gotowosc-najdalej-w-I-pol-27-Scope-Fluidics-9160645.html",
+      "title": "Linia produkcyjna w projekcie BACTEROMIC uzyska gotowość najdalej w I poł. '27 - Scope Fluidics Dzięki pozyskaniu nowej lokalizacji, półautomatycza linia produkcyjna paneli systemu BACTEROMIC powinna osiągnąć gotowość produkcyjną w ciągu kilku miesięcy, jednak nie później niż w pierwszej połowie 2027 roku - poinformował Scope Fluidics w komunikacie.",
+      "content_html": "",
+      "date_published": "2026-06-30T12:34:00+02:00",
+      "source": "Bankier.pl"
     },
     {
       "id": "https://biznes.pap.pl/wiadomosci/firmy/linia-produkcyjna-w-projekcie-bacteromic-uzyska-gotowosc-najdalej-w-i-pol-27-scope",
@@ -1189,11 +1381,11 @@
       "source": "PAP Biznes"
     },
     {
-      "id": "https://www.bankier.pl/wiadomosc/Od-bizuterii-po-hale-produkcyjne-Skarbowka-przenosi-licytacje-do-sieci-9160422.html",
-      "url": "https://www.bankier.pl/wiadomosc/Od-bizuterii-po-hale-produkcyjne-Skarbowka-przenosi-licytacje-do-sieci-9160422.html",
-      "title": "Od biżuterii po hale produkcyjne. Skarbówka przenosi licytacje do sieci",
-      "content_html": "Elektroniczne licytacje skarbowe, które startują w lipcu, pod pewnymi względami będą jak sklep internetowy – powiedział PAP wiceminister finansów i szef KAS Marcin Łoboda. Jednak – jak przyznał - przynajmniej na razie nie będzie można zamówić...",
-      "date_published": "2026-06-30T12:30:00+02:00",
+      "id": "https://www.bankier.pl/wiadomosc/OpenAI-i-Anthropic-przed-gieldowym-debiutem-Claude-detronizuje-ChatGPT-w-biznesie-9160630.html",
+      "url": "https://www.bankier.pl/wiadomosc/OpenAI-i-Anthropic-przed-gieldowym-debiutem-Claude-detronizuje-ChatGPT-w-biznesie-9160630.html",
+      "title": "OpenAI i Anthropic przed giełdowym debiutem. Claude detronizuje ChatGPT w biznesie Przyjmując założenie, że OpenAI i Anthropic miałyby wejść na giełdę w niedalekim odstępie czasu, można uznać, że kolejność w przypadku tych dwóch firm nie będzie miała wielkiego znaczenia - poinformował PAP Biznes Aleksander Jerzewski, ESALIENS TFI. Podał, że na rynku firm technologicznych nastrój osłabł, przez co napływają informacje o możliwym przesunięciu w czasie debiutu twórcy ChatGPT.",
+      "content_html": "",
+      "date_published": "2026-06-30T12:22:00+02:00",
       "source": "Bankier.pl"
     },
     {
@@ -1211,30 +1403,6 @@
       "content_html": "Przyjmując założenie, że OpenAI i Anthropic miałyby wejść na giełdę w niedalekim odstępie czasu, można uznać, że kolejność w przypadku tych dwóch firm nie będzie miała wielkiego znaczenia - poinformow",
       "date_published": "2026-06-30T12:20:00+02:00",
       "source": "PAP Biznes"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Bilion-euro-luki-inwestycyjnej-w-regionie-Prezes-BGK-wzywa-do-mobilizacji-kapitalu-9160575.html",
-      "url": "https://www.bankier.pl/wiadomosc/Bilion-euro-luki-inwestycyjnej-w-regionie-Prezes-BGK-wzywa-do-mobilizacji-kapitalu-9160575.html",
-      "title": "Bilion euro luki inwestycyjnej w regionie. Prezes BGK wzywa do mobilizacji kapitału",
-      "content_html": "Luka inwestycyjna w infrastrukturę w regionie Europy Środkowo-Wschodniej sięga 1 bln euro - poinformował we wtorek prezes Banku Gospodarstwa Krajowego Mirosław Czekaj. Podkreślił, że Europa potrzebuje kapitału - nie tylko publicznego, ale również...",
-      "date_published": "2026-06-30T12:17:00+02:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/BEWI-Poland-oglosil-wezwanie-do-sprzedazy-180-051-akcji-Izobloku-po-40-zl-za-sztuke-9160570.html",
-      "url": "https://www.bankier.pl/wiadomosc/BEWI-Poland-oglosil-wezwanie-do-sprzedazy-180-051-akcji-Izobloku-po-40-zl-za-sztuke-9160570.html",
-      "title": "BEWI Poland ogłosił wezwanie do sprzedaży 180.051 akcji Izobloku, po 40 zł za sztukę",
-      "content_html": "BEWI Poland ogłosił wezwanie do sprzedaży 180.051 akcji Izobloku, po 40 zł za sztukę - poinformował pośredniczący w wezwaniu BM PKO BP.",
-      "date_published": "2026-06-30T12:14:00+02:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Miliardy-z-KPO-na-ostatniej-prostej-Ostatnia-transza-trafi-do-Polski-w-grudniu-9160571.html",
-      "url": "https://www.bankier.pl/wiadomosc/Miliardy-z-KPO-na-ostatniej-prostej-Ostatnia-transza-trafi-do-Polski-w-grudniu-9160571.html",
-      "title": "Miliardy z KPO na ostatniej prostej. Ostatnia transza trafi do Polski w grudniu",
-      "content_html": "Pomimo 2-letniego opóźnienia w wydatkowaniu środków z Krajowego Planu Odbudowy, Polska będzie w stanie zainwestować ponad 90 proc. środków z tego planu - poinformowała we wtorek ministra funduszy i polityki regionalnej Katarzyna Pełczyńska-Nałęcz...",
-      "date_published": "2026-06-30T12:14:00+02:00",
-      "source": "Bankier.pl"
     },
     {
       "id": "https://biznes.pap.pl/wiadomosci/gry-i-technologie/w-26-przedsiebiorcy-telekomunikacyjni-planuja-naklady-na",
@@ -1261,6 +1429,14 @@
       "source": "PAP Biznes"
     },
     {
+      "id": "https://www.bankier.pl/wiadomosc/Noble-Securities-obnizylo-rekomendacje-11-bit-studios-do-redukuj-cena-docelowa-w-dol-do-116-zl-9160593.html",
+      "url": "https://www.bankier.pl/wiadomosc/Noble-Securities-obnizylo-rekomendacje-11-bit-studios-do-redukuj-cena-docelowa-w-dol-do-116-zl-9160593.html",
+      "title": "Noble Securities obniżyło rekomendację 11 bit studios do \"redukuj\"; cena docelowa w dół do 116 zł Analitycy Noble Securities, w raporcie z 30 czerwca, obniżyli cenę docelową akcji 11 bit studios w horyzoncie 12-miesięcznym do 116 z 155 zł wcześniej, a rekomendację obniżyli do \"redukuj\" z \"trzymaj\".",
+      "content_html": "",
+      "date_published": "2026-06-30T11:44:00+02:00",
+      "source": "Bankier.pl"
+    },
+    {
       "id": "https://biznes.pap.pl/wiadomosci/firmy/noble-securities-obnizylo-rekomendacje-11-bit-studios-do-redukuj-cena-docelowa-w",
       "url": "https://biznes.pap.pl/wiadomosci/firmy/noble-securities-obnizylo-rekomendacje-11-bit-studios-do-redukuj-cena-docelowa-w",
       "title": "Noble Securities obniżyło rekomendację 11 bit studios do \"redukuj\"; cena docelowa w dół do 116 zł",
@@ -1283,6 +1459,14 @@
       "content_html": "Wskaźniki makro wciąż wskazują na utrzymującą się lukę między krajami Europy Środkowo-Wschodniej a bardziej rozwiniętymi częściami Europy; niezbędne jest wprowadzenie polityk, które pozwolą lepiej mob",
       "date_published": "2026-06-30T11:22:00+02:00",
       "source": "PAP Biznes"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/BEWI-Poland-oglosil-wezwanie-do-sprzedazy-180-051-akcji-Izobloku-po-40-zl-za-sztuke-9160570.html",
+      "url": "https://www.bankier.pl/wiadomosc/BEWI-Poland-oglosil-wezwanie-do-sprzedazy-180-051-akcji-Izobloku-po-40-zl-za-sztuke-9160570.html",
+      "title": "BEWI Poland ogłosił wezwanie do sprzedaży 180.051 akcji Izobloku, po 40 zł za sztukę BEWI Poland ogłosił wezwanie do sprzedaży 180.051 akcji Izobloku, po 40 zł za sztukę - poinformował pośredniczący w wezwaniu BM PKO BP.",
+      "content_html": "",
+      "date_published": "2026-06-30T11:14:00+02:00",
+      "source": "Bankier.pl"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Akcjonariusze-Medinice-zdecydowali-o-emisji-akcji-serii-O-bez-prawa-poboru-9160568.html",
@@ -1571,134 +1755,6 @@
       "content_html": "Po wzrostowej sesji na Wall Street kontrakty terminowe na najważniejsze indeksy europejskie sugerują otwarcie wtorkowej sesji na plusie - oceniają analitycy.",
       "date_published": "2026-06-30T08:27:00+02:00",
       "source": "PAP Biznes"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/rynki/dzien-na-rynkach-w-azji-przewazaja-wzrosty-indeksow",
-      "url": "https://biznes.pap.pl/wiadomosci/rynki/dzien-na-rynkach-w-azji-przewazaja-wzrosty-indeksow",
-      "title": "DZIEŃ NA RYNKACH: W Azji przeważają wzrosty indeksów",
-      "content_html": "Na azjatyckich giełdach główne indeksy przeważnie idą w górę, a regionalny wskaźnik MSCI - dla Azji i Pacyfiku, zalicza kończący się II kw. jako najlepszy od niemal 20 lat, po zwyżce w ciągu ostatnich",
-      "date_published": "2026-06-30T08:22:00+02:00",
-      "source": "PAP Biznes"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/gospodarka/pakiet-cpn-byl-tymczasowy-domanski",
-      "url": "https://biznes.pap.pl/wiadomosci/gospodarka/pakiet-cpn-byl-tymczasowy-domanski",
-      "title": "Pakiet CPN był tymczasowy - Domański",
-      "content_html": "Pakiet regulacji obniżający ceny paliw na stacjach był programem tymczasowym - poinformował w Polsat News, minister finansów i gospodarki Andrzej Domański.",
-      "date_published": "2026-06-30T08:10:00+02:00",
-      "source": "PAP Biznes"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/rynki/ceny-miedzi-w-londynie-rosna-w-ostatnim-dniu-czerwca",
-      "url": "https://biznes.pap.pl/wiadomosci/rynki/ceny-miedzi-w-londynie-rosna-w-ostatnim-dniu-czerwca",
-      "title": "Ceny miedzi w Londynie rosną w ostatnim dniu czerwca",
-      "content_html": "Notowania miedzi na giełdzie metali LME w Londynie rosną w ostatnim dniu czerwca i II kw. - informują maklerzy.",
-      "date_published": "2026-06-30T08:03:00+02:00",
-      "source": "PAP Biznes"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/rynki/ropa-na-swiecie-tanieje-bedzie-najmocniejszy-kwartalny-spadek-cen-od-czasu",
-      "url": "https://biznes.pap.pl/wiadomosci/rynki/ropa-na-swiecie-tanieje-bedzie-najmocniejszy-kwartalny-spadek-cen-od-czasu",
-      "title": "Ropa na świecie tanieje; będzie najmocniejszy kwartalny spadek cen od czasu pandemii",
-      "content_html": "Ropa na świecie tanieje we wtorek, w ostatnim dniu II kwartału, który okazuje się czasem najmocniejszych spadków cen surowca od czasu pandemii Covid-19 - podają maklerzy.",
-      "date_published": "2026-06-30T08:02:00+02:00",
-      "source": "PAP Biznes"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Bitcoin-pod-presja-Najwiekszy-publiczny-skarbiec-dopuszcza-sprzedaz-BTC-9160409.html",
-      "url": "https://www.bankier.pl/wiadomosc/Bitcoin-pod-presja-Najwiekszy-publiczny-skarbiec-dopuszcza-sprzedaz-BTC-9160409.html",
-      "title": "Bitcoin pod presją. Największy publiczny skarbiec dopuszcza sprzedaż BTC Notowania najważniejszych kryptowalut zanotowały we wtorek spadki, a kurs bitcoina znalazł się znów poniżej psychologicznej granicy 60 000 USD. Negatywny sentyment na rynku cyfrowych aktywów to efekt zbiegu dwóch czynników: gwałtownego osłabienia japońskiego jena do dolara, oraz decyzji spółki Strategy. Największy korporacyjny posiadacz bitcoinów na świecie oficjalnie dopuścił możliwość wyprzedaży części swoich rezerw.",
-      "content_html": "",
-      "date_published": "2026-06-30T08:00:00+02:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/ekonomia-biznes-i-finanse/przewidywane-najwazniejsze-wydarzenia-gospodarcze-2026-06-30",
-      "url": "https://biznes.pap.pl/wiadomosci/ekonomia-biznes-i-finanse/przewidywane-najwazniejsze-wydarzenia-gospodarcze-2026-06-30",
-      "title": "Przewidywane najważniejsze wydarzenia gospodarcze 2026-06-30",
-      "content_html": "Przewidywane najważniejsze wydarzenia gospodarcze 2026-06-30",
-      "date_published": "2026-06-30T07:00:00+02:00",
-      "source": "PAP Biznes"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/rynki/kalendarium-rynku-newconnect-2026-06-30",
-      "url": "https://biznes.pap.pl/wiadomosci/rynki/kalendarium-rynku-newconnect-2026-06-30",
-      "title": "Kalendarium rynku NewConnect 2026-06-30",
-      "content_html": "Kalendarium rynku NewConnect 2026-06-30",
-      "date_published": "2026-06-30T07:00:00+02:00",
-      "source": "PAP Biznes"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/rynki/kalendarium-rynku-kapitalowego-gpw-2026-06-30",
-      "url": "https://biznes.pap.pl/wiadomosci/rynki/kalendarium-rynku-kapitalowego-gpw-2026-06-30",
-      "title": "Kalendarium rynku kapitałowego GPW 2026-06-30",
-      "content_html": "Kalendarium rynku kapitałowego GPW 2026-06-30",
-      "date_published": "2026-06-30T07:00:00+02:00",
-      "source": "PAP Biznes"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Agora-wyplaci-0-50-zl-dywidendy-na-akcje-z-zysku-za-25-9160397.html",
-      "url": "https://www.bankier.pl/wiadomosc/Agora-wyplaci-0-50-zl-dywidendy-na-akcje-z-zysku-za-25-9160397.html",
-      "title": "Agora wypłaci 0,50 zł dywidendy na akcję z zysku za '25 Agora przeznaczy na wypłatę dywidendy 23,29 mln zł z zysku netto za 2025 rok, co daje 0,50 zł na akcję - podała spółka w komunikacie.",
-      "content_html": "",
-      "date_published": "2026-06-30T06:38:00+02:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/firmy/agora-wyplaci-050-zl-dywidendy-na-akcje-z-zysku-za-25",
-      "url": "https://biznes.pap.pl/wiadomosci/firmy/agora-wyplaci-050-zl-dywidendy-na-akcje-z-zysku-za-25",
-      "title": "Agora wypłaci 0,50 zł dywidendy na akcję z zysku za '25",
-      "content_html": "Agora przeznaczy na wypłatę dywidendy 23,29 mln zł z zysku netto za 2025 rok, co daje 0,50 zł na akcję - podała spółka w komunikacie.",
-      "date_published": "2026-06-30T06:36:00+02:00",
-      "source": "PAP Biznes"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/rynki/rentownosci-obligacji-wybranych-panstw-tabela-2644",
-      "url": "https://biznes.pap.pl/wiadomosci/rynki/rentownosci-obligacji-wybranych-panstw-tabela-2644",
-      "title": "Rentowności obligacji wybranych państw (tabela)",
-      "content_html": "Poniżej zestawienie rentowności obligacji wybranych państw.",
-      "date_published": "2026-06-30T06:33:00+02:00",
-      "source": "PAP Biznes"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/rynki/notowania-metali-bazowych-wegla-i-paliw-tabela-2555",
-      "url": "https://biznes.pap.pl/wiadomosci/rynki/notowania-metali-bazowych-wegla-i-paliw-tabela-2555",
-      "title": "Notowania metali bazowych, węgla i paliw (tabela)",
-      "content_html": "Notowania metali bazowych na London Metal Exchange, uprawnień EUA do emisji CO2, ceny węgla energetycznego ARA na przyszły rok oraz ceny paliw.",
-      "date_published": "2026-06-30T06:33:00+02:00",
-      "source": "PAP Biznes"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/rynki/zamkniecia-na-gieldach-w-ameryce-polnocnej-i-poludniowej-tabela-3163",
-      "url": "https://biznes.pap.pl/wiadomosci/rynki/zamkniecia-na-gieldach-w-ameryce-polnocnej-i-poludniowej-tabela-3163",
-      "title": "Zamknięcia na giełdach w Ameryce Północnej i Południowej (tabela)",
-      "content_html": "Poniżej zamknięcia i zmiany indeksów w USA. Kanadzie, Meksyku, Brazylii, Chile, Kolumbii i Argentynie:",
-      "date_published": "2026-06-30T06:32:00+02:00",
-      "source": "PAP Biznes"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/gospodarka/wartosc-udzielonych-kredytow-mieszkaniowych-w-v-wzrosla-o-588-proc-rdr-bik",
-      "url": "https://biznes.pap.pl/wiadomosci/gospodarka/wartosc-udzielonych-kredytow-mieszkaniowych-w-v-wzrosla-o-588-proc-rdr-bik",
-      "title": "Wartość udzielonych kredytów mieszkaniowych w V wzrosła o 58,8 proc. rdr - BIK",
-      "content_html": "Wartość udzielonych kredytów mieszkaniowych w maju wzrosła w Polsce o 58,8 proc. rdr do 13,129 mld zł, najwięcej w historii - podało Biuro Informacji Kredytowej (BIK).",
-      "date_published": "2026-06-30T06:25:00+02:00",
-      "source": "PAP Biznes"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Podwyzek-stop-jednak-nie-bedzie-Rynek-wycofal-sie-z-zakladu-na-drozszy-kredyt-9159793.html",
-      "url": "https://www.bankier.pl/wiadomosc/Podwyzek-stop-jednak-nie-bedzie-Rynek-wycofal-sie-z-zakladu-na-drozszy-kredyt-9159793.html",
-      "title": "Podwyżek stóp jednak nie będzie? Rynek wycofał się z zakładu na droższy kredyt Odblokowanie Cieśniny Ormuz i spadek cen ropy naftowej sprawiły, że uczestnicy rynku terminowego wycofali się z zakładów na wzrost stóp procentowych w Polsce.",
-      "content_html": "",
-      "date_published": "2026-06-30T06:00:00+02:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Gorace-prognozy-na-gieldowe-lato-Gwiazdy-stawiaja-na-krypto-strach-i-kosmiczne-zyski-z-AI-9160182.html",
-      "url": "https://www.bankier.pl/wiadomosc/Gorace-prognozy-na-gieldowe-lato-Gwiazdy-stawiaja-na-krypto-strach-i-kosmiczne-zyski-z-AI-9160182.html",
-      "title": "PORTFEL GWIAZD BANKIER.PL Gorące prognozy na giełdowe lato. Gwiazdy stawiają na krypto-strach i kosmiczne zyski z AI Portfel Gwiazd Bankiera wchodzi w kolejny miesiąc, a raczej dwa, wakacyjne. Po dynamicznym pierwszym półroczu i dużej zmienności na światowych rynkach uczestnicy naszego projektu ponownie wskazali aktywa, które ich zdaniem mają największy potencjał w najbliższych tygodniach.",
-      "content_html": "",
-      "date_published": "2026-06-30T06:00:00+02:00",
-      "source": "Bankier.pl"
     }
   ]
 }
