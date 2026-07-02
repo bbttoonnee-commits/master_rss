@@ -5,6 +5,14 @@
   "home_page_url": "https://www.bankier.pl",
   "items": [
     {
+      "id": "https://biznes.pap.pl/wiadomosci/rynki/dzien-na-rynkach-mieszana-sesja-na-wall-street-na-koniec-skroconego-tygodnia",
+      "url": "https://biznes.pap.pl/wiadomosci/rynki/dzien-na-rynkach-mieszana-sesja-na-wall-street-na-koniec-skroconego-tygodnia",
+      "title": "DZIEŃ NA RYNKACH: Mieszana sesja na Wall Street na koniec skróconego tygodnia",
+      "content_html": "Czwartkowa sesja na Wall Street zakończyła się mieszanymi wynikami głównych indeksów. Drugi dzień z rzędu słabiej zachowywał się Nasdaq, któremu ciążyły spadające notowania producentów półprzewodników",
+      "date_published": "2026-07-02T22:23:00+02:00",
+      "source": "PAP Biznes"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Prezydent-przeciw-ustawie-morskiej-To-realizacja-Zielonego-Ladu-9162917.html",
       "url": "https://www.bankier.pl/wiadomosc/Prezydent-przeciw-ustawie-morskiej-To-realizacja-Zielonego-Ladu-9162917.html",
       "title": "Prezydent przeciw ustawie morskiej. \"To realizacja Zielonego Ładu\"",
@@ -533,14 +541,6 @@
       "source": "Bankier.pl"
     },
     {
-      "id": "https://biznes.pap.pl/wiadomosci/gospodarka/euro-w-ebc-11399-usd-i-18419-jpy",
-      "url": "https://biznes.pap.pl/wiadomosci/gospodarka/euro-w-ebc-11399-usd-i-18419-jpy",
-      "title": "Euro w EBC: 1,1399 USD i 184,19 JPY",
-      "content_html": "Europejski Bank Centralny (EBC) ustalił kurs euro na 1,1399 USD i 184,19 JPY - podał bank na swojej stronie internetowej.",
-      "date_published": "2026-07-02T15:59:00+02:00",
-      "source": "PAP Biznes"
-    },
-    {
       "id": "https://www.bankier.pl/wiadomosc/Wyrok-NSA-ws-Turowa-Skargi-organizacji-ekologicznych-oddalone-9162670.html",
       "url": "https://www.bankier.pl/wiadomosc/Wyrok-NSA-ws-Turowa-Skargi-organizacji-ekologicznych-oddalone-9162670.html",
       "title": "Wyrok NSA ws. Turowa. Skargi organizacji ekologicznych oddalone",
@@ -715,6 +715,14 @@
       "content_html": "Głównym motorem zwyżek na giełdach pozostają solidne podwyżki prognoz zysków spółek, a inwestorzy mogą liczyć na dwucyfrowe stopy zwrotu w perspektywie najbliższych 12 miesięcy – przewidują analitycy z think tanku The Investment Institute...",
       "date_published": "2026-07-02T13:46:00+02:00",
       "source": "Bankier.pl"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/firmy/robyg-spodziewa-sie-lepszego-sprzedazowo-ii-polr-w-calym-26-liczy-na-sprzedaz-28",
+      "url": "https://biznes.pap.pl/wiadomosci/firmy/robyg-spodziewa-sie-lepszego-sprzedazowo-ii-polr-w-calym-26-liczy-na-sprzedaz-28",
+      "title": "Robyg spodziewa się lepszego sprzedażowo II półr.; w całym '26 liczy na sprzedaż 2,8 tys. mieszkań",
+      "content_html": "Robyg spodziewa się lepszego sprzedażowo drugiego półrocza, a w całym 2026 r. liczy na ok. 2,8 tys. sprzedanych mieszkań – poinformował PAP Biznes Oscar Kazanelson, przewodniczący rady nadzorczej Roby",
+      "date_published": "2026-07-02T13:46:00+02:00",
+      "source": "PAP Biznes"
     },
     {
       "id": "https://biznes.pap.pl/wiadomosci/gospodarka/nbp-szacuje-niezrealizowany-zysk-na-rezerwach-zlota-na-koniec-maja-na",
@@ -1299,46 +1307,6 @@
       "content_html": "",
       "date_published": "2026-07-02T06:00:00+02:00",
       "source": "Bankier.pl"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/PCC-SE-sprzedal-w-ABB-2-2-mln-akcji-PCC-Rokita-po-57-zl-za-sztuke-aktl-9162311.html",
-      "url": "https://www.bankier.pl/wiadomosc/PCC-SE-sprzedal-w-ABB-2-2-mln-akcji-PCC-Rokita-po-57-zl-za-sztuke-aktl-9162311.html",
-      "title": "PCC SE sprzedał w ABB 2,2 mln akcji PCC Rokita, po 57 zł za sztukę Akcjonariusz PCC Rokita - PCC SE - sprzedał w ramach przyspieszonej budowy księgi popytu 2,2 mln akcji spółki, stanowiących 10,86 proc. kapitału zakładowego, po 57 zł za szt. - podała chemiczna spółka. Waldemar Preussner, właściciel PCC SE, zapewnia, że pozostanie długoterminowym inwestorem w PCC Rokita.",
-      "content_html": "",
-      "date_published": "2026-07-01T23:30:00+02:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/przemysl/pcc-se-sprzedal-w-abb-22-mln-akcji-pcc-rokita-po-57-zl-za-sztuke-aktl",
-      "url": "https://biznes.pap.pl/wiadomosci/przemysl/pcc-se-sprzedal-w-abb-22-mln-akcji-pcc-rokita-po-57-zl-za-sztuke-aktl",
-      "title": "PCC SE sprzedał w ABB 2,2 mln akcji PCC Rokita, po 57 zł za sztukę (aktl.)",
-      "content_html": "Akcjonariusz PCC Rokita - PCC SE - sprzedał w ramach przyspieszonej budowy księgi popytu 2,2 mln akcji spółki, stanowiących 10,86 proc. kapitału zakładowego, po 57 zł za szt. - podała chemiczna spółka",
-      "date_published": "2026-07-01T23:29:00+02:00",
-      "source": "PAP Biznes"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/firmy/poczta-polska-miala-103-mln-zl-zysku-za-piec-miesiecy-2026-roku",
-      "url": "https://biznes.pap.pl/wiadomosci/firmy/poczta-polska-miala-103-mln-zl-zysku-za-piec-miesiecy-2026-roku",
-      "title": "Poczta Polska miała 103 mln zł zysku za pięć miesięcy 2026 roku",
-      "content_html": "Poczta Polska miała 103 mln zł zysku za pięć miesięcy 2026 r.; w tym samym okresie 2025 r. było to 105,6 mln zł zysku - wynika z informacji przedstawionej w środę przez Pocztę podczas posiedzenia sejm",
-      "date_published": "2026-07-01T23:22:00+02:00",
-      "source": "PAP Biznes"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/przemysl/pcc-se-sprzedal-w-abb-22-mln-akcji-pcc-rokita-po-57-zl-za-sztuke",
-      "url": "https://biznes.pap.pl/wiadomosci/przemysl/pcc-se-sprzedal-w-abb-22-mln-akcji-pcc-rokita-po-57-zl-za-sztuke",
-      "title": "PCC SE sprzedał w ABB 2,2 mln akcji PCC Rokita, po 57 zł za sztukę",
-      "content_html": "Akcjonariusz PCC Rokita - PCC SE - sprzedał w ramach przyspieszonej budowy księgi popytu 2,2 mln akcji spółki, stanowiących 10,86 proc. udziału w kapitale zakładowym, po 57 zł za sztukę - podała chemi",
-      "date_published": "2026-07-01T23:18:00+02:00",
-      "source": "PAP Biznes"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/rynki/dzien-na-rynkach-gieldy-w-usa-koncza-dzien-na-lekkich-minusach-0",
-      "url": "https://biznes.pap.pl/wiadomosci/rynki/dzien-na-rynkach-gieldy-w-usa-koncza-dzien-na-lekkich-minusach-0",
-      "title": "DZIEŃ NA RYNKACH: Giełdy w USA kończą dzień na lekkich minusach",
-      "content_html": "Środowa sesja na Wall Street zakończyła się lekkimi spadkami głównych indeksów, a Dow Jones zanotował minimalną zniżkę po dwóch dniach nowych historycznych rekordów. Słabiej zachowywał się Nasdaq, któ",
-      "date_published": "2026-07-01T22:08:00+02:00",
-      "source": "PAP Biznes"
     }
   ]
 }
