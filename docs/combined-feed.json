@@ -45,6 +45,14 @@
       "source": "Bankier.pl"
     },
     {
+      "id": "https://biznes.pap.pl/wiadomosci/ekonomia-biznes-i-finanse/skrot-wiadomosci-piatek-3-lipca-2100",
+      "url": "https://biznes.pap.pl/wiadomosci/ekonomia-biznes-i-finanse/skrot-wiadomosci-piatek-3-lipca-2100",
+      "title": "Skrót wiadomości - piątek, 3 lipca, 21.00",
+      "content_html": "Przegląd najważniejszych wiadomości gospodarczych, krajowych i ze świata.",
+      "date_published": "2026-07-03T21:01:00+02:00",
+      "source": "PAP Biznes"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Z-nami-nie-ma-co-zaczynac-Polski-rzad-ostrzega-Putina-9163451.html",
       "url": "https://www.bankier.pl/wiadomosc/Z-nami-nie-ma-co-zaczynac-Polski-rzad-ostrzega-Putina-9163451.html",
       "title": "„Z nami nie ma co zaczynać”. Polski rząd ostrzega Putina",
@@ -385,14 +393,6 @@
       "url": "https://biznes.pap.pl/wiadomosci/gospodarka/euro-w-ebc-11448-usd-i-18448-jpy",
       "title": "Euro w EBC: 1,1448 USD i 184,48 JPY",
       "content_html": "Europejski Bank Centralny (EBC) ustalił kurs euro na 1,1448 USD i 184,48 JPY - podał bank na swojej stronie internetowej.",
-      "date_published": "2026-07-03T16:19:00+02:00",
-      "source": "PAP Biznes"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/firmy/dzien-na-gpw-glowne-indeksy-wzrosly-w-skali-tygodnia-o-1-3-proc-przed-gielda-dobry",
-      "url": "https://biznes.pap.pl/wiadomosci/firmy/dzien-na-gpw-glowne-indeksy-wzrosly-w-skali-tygodnia-o-1-3-proc-przed-gielda-dobry",
-      "title": "DZIEŃ NA GPW: Główne indeksy wzrosły w skali tygodnia o 1-3 proc.; przed giełdą dobry okres",
-      "content_html": "Po południu na giełdzie utrzymuje się niewielka zmienność głównych indeksów, natomiast cały tydzień kończą one wzrostami o ok. 1-3 proc. Poprawiły się notowania spółek energetycznych, natomiast WIG Ba",
       "date_published": "2026-07-03T16:19:00+02:00",
       "source": "PAP Biznes"
     },
@@ -1274,14 +1274,6 @@
       "title": "DZIEŃ NA RYNKACH: Mieszana sesja na Wall Street na koniec skróconego tygodnia",
       "content_html": "Czwartkowa sesja na Wall Street zakończyła się mieszanymi wynikami głównych indeksów. Drugi dzień z rzędu słabiej zachowywał się Nasdaq, któremu ciążyły spadające notowania producentów półprzewodników",
       "date_published": "2026-07-02T22:23:00+02:00",
-      "source": "PAP Biznes"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/ekonomia-biznes-i-finanse/skrot-wiadomosci-czwartek-2-lipca-2100",
-      "url": "https://biznes.pap.pl/wiadomosci/ekonomia-biznes-i-finanse/skrot-wiadomosci-czwartek-2-lipca-2100",
-      "title": "Skrót wiadomości - czwartek, 2 lipca, 21.00",
-      "content_html": "Przegląd najważniejszych wiadomości gospodarczych, krajowych i ze świata.",
-      "date_published": "2026-07-02T21:01:00+02:00",
       "source": "PAP Biznes"
     }
   ]
