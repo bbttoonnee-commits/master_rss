@@ -5,6 +5,14 @@
   "home_page_url": "https://www.bankier.pl",
   "items": [
     {
+      "id": "https://biznes.pap.pl/wiadomosci/rynki/dzien-na-rynkach-gieldy-w-usa-z-przewaga-spadkow-trump-grozi-nowymi-atakami-na",
+      "url": "https://biznes.pap.pl/wiadomosci/rynki/dzien-na-rynkach-gieldy-w-usa-z-przewaga-spadkow-trump-grozi-nowymi-atakami-na",
+      "title": "DZIEŃ NA RYNKACH: Giełdy w USA z przewagą spadków, Trump grozi nowymi atakami na Iran",
+      "content_html": "Środowa sesja na Wall Street zakończyła się przewagą spadków wśród głównych indeksów, gdyż powrócił temat wojny na Bliskim Wschodzie, a prezydent Donald Trump grozi kolejnymi atakami na Iran. Mocno dr",
+      "date_published": "2026-07-08T22:17:00+02:00",
+      "source": "PAP Biznes"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Jastrzebie-podnosza-glowe-Czesc-Fedu-chciala-podwyzki-stop-procentowych-w-USA-9165581.html",
       "url": "https://www.bankier.pl/wiadomosc/Jastrzebie-podnosza-glowe-Czesc-Fedu-chciala-podwyzki-stop-procentowych-w-USA-9165581.html",
       "title": "Jastrzębie podnoszą głowę. Część Fedu chciała podwyżki stóp procentowych w USA",
@@ -282,14 +290,6 @@
       "title": "Globalne makro, w tym surowce i CPI szczególnie ważne dla RPP, dalsze decyzje zależą od danych (opis)",
       "content_html": "W lipcu, w ocenie RPP, szczególnie istotna była sytuacja makro wokół polskiej gospodarki, w tym ceny surowców i inflacji w kontekście zmiennej geopolityki - podano w komunikacie po posiedzeniu RPP. Ra",
       "date_published": "2026-07-08T16:33:00+02:00",
-      "source": "PAP Biznes"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/firmy/11-bit-studios-sprzedal-1-mln-kopii-gry-frostpunk-2",
-      "url": "https://biznes.pap.pl/wiadomosci/firmy/11-bit-studios-sprzedal-1-mln-kopii-gry-frostpunk-2",
-      "title": "11 bit studios sprzedał 1 mln kopii gry \"Frostpunk 2\"",
-      "content_html": "11 bit studios sprzedało 1 mln egzemplarzy gry \"Frostpunk 2\" - podało konto tytułu na platformie X.",
-      "date_published": "2026-07-08T16:32:00+02:00",
       "source": "PAP Biznes"
     },
     {
@@ -621,6 +621,14 @@
       "source": "Bankier.pl"
     },
     {
+      "id": "https://biznes.pap.pl/wiadomosci/firmy/srednia-predkosc-pociagow-pasazerskich-w-25-wyniosla-556-kmh-wzrost-o-04-kmh-rdr",
+      "url": "https://biznes.pap.pl/wiadomosci/firmy/srednia-predkosc-pociagow-pasazerskich-w-25-wyniosla-556-kmh-wzrost-o-04-kmh-rdr",
+      "title": "Średnia prędkość pociągów pasażerskich w '25 wyniosła 55,6 km/h; wzrost o 0,4 km/h rdr - UTK",
+      "content_html": "Średnia prędkość pociągów pasażerskich w 2025 r. wyniosła 55,6 km/h; to wzrost o 0,4 km/h w porównaniu z rokiem 2024 r. - podał Urząd Transportu Kolejowego w komunikacie.",
+      "date_published": "2026-07-08T11:21:00+02:00",
+      "source": "PAP Biznes"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Absurdalny-spor-skarbowek-w-Polsce-Chodzi-o-miliony-zl-kary-dla-Gazpromu-9165140.html",
       "url": "https://www.bankier.pl/wiadomosc/Absurdalny-spor-skarbowek-w-Polsce-Chodzi-o-miliony-zl-kary-dla-Gazpromu-9165140.html",
       "title": "Absurdalny spór skarbówek w Polsce. Chodzi o miliony zł kary dla Gazpromu",
@@ -785,14 +793,6 @@
       "url": "https://biznes.pap.pl/wiadomosci/gry-i-technologie/iceye-utworzyl-spolke-iceye-germany",
       "title": "Iceye utworzył spółkę Iceye Germany",
       "content_html": "Iceye utworzył spółkę Iceye Germany z siedzibami w Berlinie i Monachium oraz powołał na jej prezesa Philippa Herkelmanna - podał Iceye w komunikacie.",
-      "date_published": "2026-07-08T10:15:00+02:00",
-      "source": "PAP Biznes"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/gospodarka/sprzedaz-obligacji-detalicznych-w-czerwcu-wyniosla-ok-86-mld-zl-mf",
-      "url": "https://biznes.pap.pl/wiadomosci/gospodarka/sprzedaz-obligacji-detalicznych-w-czerwcu-wyniosla-ok-86-mld-zl-mf",
-      "title": "Sprzedaż obligacji detalicznych w czerwcu wyniosła ok. 8,6 mld zł - MF",
-      "content_html": "Sprzedaż obligacji detalicznych w czerwcu 2026 r. wyniosła 8.623,8 mln zł wobec 5.398,5 mln zł miesiąc wcześniej - podał resort finansów w komunikacie.",
       "date_published": "2026-07-08T10:15:00+02:00",
       "source": "PAP Biznes"
     },
@@ -1282,46 +1282,6 @@
       "title": "Kosiniak-Kamysz: Otoczenie prezydenta kłamie. Karol Nawrocki odpowiada szefowi MON",
       "content_html": "Otoczenie prezydenta kłamie, twierdząc, że Karol Nawrocki nie wiedział o sprzęcie przekazywanym Ukrainie - oświadczył wicepremier, szef MON Władysław Kosiniak-Kamysz. Decyzję podjął Pan - odpowiedział szefowi MON prezydent.",
       "date_published": "2026-07-08T00:03:00+02:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/ICE-pytane-o-wize-Ziobry-Wniosek-o-ekstradycje-niemal-gotowy-9164956.html",
-      "url": "https://www.bankier.pl/wiadomosc/ICE-pytane-o-wize-Ziobry-Wniosek-o-ekstradycje-niemal-gotowy-9164956.html",
-      "title": "ICE pytane o wizę Ziobry. Wniosek o ekstradycję niemal gotowy",
-      "content_html": "Minister sprawiedliwości, prokurator generalny Waldemar Żurek zapowiedział, że przygotowuje pismo skierowane do amerykańskiej służby imigracyjnej ICE, by zapytać, na jakiej podstawie b. szef MS Zbigniew Ziobro przebywa w Stanach Zjednoczonych...",
-      "date_published": "2026-07-07T23:31:00+02:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Rakiety-dla-Ukrainy-prosto-od-amerykanskiego-producenta-Cztery-kraje-lacza-sily-9164957.html",
-      "url": "https://www.bankier.pl/wiadomosc/Rakiety-dla-Ukrainy-prosto-od-amerykanskiego-producenta-Cztery-kraje-lacza-sily-9164957.html",
-      "title": "Rakiety dla Ukrainy prosto od amerykańskiego producenta. Cztery kraje łączą siły",
-      "content_html": "Norwegia, Kanada, Dania i Niemcy wspólnie kupią pociski do systemów Patriot dla Ukrainy – poinformował we wtorek wieczorem norweski rząd. Nowe dostawy mają być realizowane w ramach programu PURL, w którym NATO koordynuje zakup w USA zaawansowanego...",
-      "date_published": "2026-07-07T23:26:00+02:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Koniec-naftowego-rozejmu-USA-przywracaja-sankcje-na-iranska-rope-9164958.html",
-      "url": "https://www.bankier.pl/wiadomosc/Koniec-naftowego-rozejmu-USA-przywracaja-sankcje-na-iranska-rope-9164958.html",
-      "title": "Koniec naftowego rozejmu. USA przywracają sankcje na irańską ropę",
-      "content_html": "Amerykański resort finansów cofnął we wtorek wydaną wcześniej licencję, zawieszającą sankcje na sprzedaż irańskiej ropy naftowej. Pozwolił jednocześnie na dalsze kupowanie irańskiego surowca do 17 lipca, o ile środki będą wpłacane na...",
-      "date_published": "2026-07-07T23:22:00+02:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/rynki/dzien-na-rynkach-gieldy-w-usa-w-dol-wyprzedaz-akcji-producentow-chipow",
-      "url": "https://biznes.pap.pl/wiadomosci/rynki/dzien-na-rynkach-gieldy-w-usa-w-dol-wyprzedaz-akcji-producentow-chipow",
-      "title": "DZIEŃ NA RYNKACH: Giełdy w USA w dół, wyprzedaż akcji producentów chipów",
-      "content_html": "Wtorkowa sesja na Wall Street zakończyła się spadkami głównych indeksów, a Dow Jones spadł poniżej 53 tys. punktów po tym jak dzień wcześniej po pierwszy raz w historii zamknął dzień powyżej tego pozi",
-      "date_published": "2026-07-07T22:27:00+02:00",
-      "source": "PAP Biznes"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Znow-zamieszanie-w-polprzewodnikach-Nasdaq-mocno-w-dol-9164968.html",
-      "url": "https://www.bankier.pl/wiadomosc/Znow-zamieszanie-w-polprzewodnikach-Nasdaq-mocno-w-dol-9164968.html",
-      "title": "Znów zamieszanie w półprzewodnikach. Nasdaq mocno w dół Nasdaq zaliczył solidna przecenę, ale Dow Jones wyznaczył nowy rekord wszech czasów.",
-      "content_html": "",
-      "date_published": "2026-07-07T22:05:00+02:00",
       "source": "Bankier.pl"
     }
   ]
