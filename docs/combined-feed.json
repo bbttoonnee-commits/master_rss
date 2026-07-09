@@ -5,6 +5,14 @@
   "home_page_url": "https://www.bankier.pl",
   "items": [
     {
+      "id": "https://biznes.pap.pl/wiadomosci/rynki/dzien-na-rynkach-wzrosty-na-wall-street-mimo-obaw-o-sytuacje-na-bliskim-wschodzie",
+      "url": "https://biznes.pap.pl/wiadomosci/rynki/dzien-na-rynkach-wzrosty-na-wall-street-mimo-obaw-o-sytuacje-na-bliskim-wschodzie",
+      "title": "DZIEŃ NA RYNKACH: Wzrosty na Wall Street mimo obaw o sytuację na Bliskim Wschodzie",
+      "content_html": "Czwartkowa sesja na Wall Street zakończyła się wzrostami głównych indeksów mimo obaw o nasilenie napięć między Stanami Zjednoczonymi a Iranem. W górę poszły notowania spółek z branży półprzewodników, ",
+      "date_published": "2026-07-09T22:18:00+02:00",
+      "source": "PAP Biznes"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Patrioty-made-in-Ukraine-Zelenski-omowil-z-Trumpem-kwestie-licencji-9166161.html",
       "url": "https://www.bankier.pl/wiadomosc/Patrioty-made-in-Ukraine-Zelenski-omowil-z-Trumpem-kwestie-licencji-9166161.html",
       "title": "Patrioty \"made in Ukraine\"? Zełenski omówił z Trumpem kwestie licencji",
@@ -37,6 +45,14 @@
       "source": "Bankier.pl"
     },
     {
+      "id": "https://biznes.pap.pl/wiadomosci/ekonomia-biznes-i-finanse/skrot-wiadomosci-czwartek-9-lipca-2100",
+      "url": "https://biznes.pap.pl/wiadomosci/ekonomia-biznes-i-finanse/skrot-wiadomosci-czwartek-9-lipca-2100",
+      "title": "Skrót wiadomości - czwartek, 9 lipca, 21.00",
+      "content_html": "Przegląd najważniejszych wiadomości gospodarczych, krajowych i ze świata.",
+      "date_published": "2026-07-09T21:00:00+02:00",
+      "source": "PAP Biznes"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Wielki-opor-wobec-poboru-Rozwscieczony-tlum-wywrocil-pojazd-armii-9166138.html",
       "url": "https://www.bankier.pl/wiadomosc/Wielki-opor-wobec-poboru-Rozwscieczony-tlum-wywrocil-pojazd-armii-9166138.html",
       "title": "Wielki opór wobec poboru. Rozwścieczony tłum wywrócił pojazd armii",
@@ -67,6 +83,14 @@
       "content_html": "Europoseł Daniel Obajtek w czwartek próbował siłą wejść do protestujących w IKS „Solino”, lecz nie został wpuszczony. Obajtek chciał przeprowadzić „interwencję poselską”, choć mandat europosła nie przyznaje takich uprawnień. Doszło...",
       "date_published": "2026-07-09T20:29:00+02:00",
       "source": "Bankier.pl"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/firmy/iron-wolf-studio-rozpoczal-przeglad-opcji-strategicznych",
+      "url": "https://biznes.pap.pl/wiadomosci/firmy/iron-wolf-studio-rozpoczal-przeglad-opcji-strategicznych",
+      "title": "Iron Wolf Studio rozpoczął przegląd opcji strategicznych",
+      "content_html": "Iron Wolf Studio rozpoczął przegląd opcji strategicznych - poinformowała spółka w komunikacie.",
+      "date_published": "2026-07-09T20:08:00+02:00",
+      "source": "PAP Biznes"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Naleznosci-PAZP-zablokowane-W-tle-miliardowy-wyrok-dla-Pfizera-9166085.html",
@@ -309,22 +333,6 @@
       "source": "PAP Biznes"
     },
     {
-      "id": "https://biznes.pap.pl/wiadomosci/gospodarka/rpp-przesuwa-termin-wrzesniowego-posiedzenia-na-8-9-wrzesnia-konferencja-10",
-      "url": "https://biznes.pap.pl/wiadomosci/gospodarka/rpp-przesuwa-termin-wrzesniowego-posiedzenia-na-8-9-wrzesnia-konferencja-10",
-      "title": "RPP przesuwa termin wrześniowego posiedzenia na 8-9 września, konferencja 10 września",
-      "content_html": "Rada Polityki Pieniężnej zmieniła termin wrześniowego posiedzenia RPP - odbędzie się ono w dniach 8 – 9 września 2026 r. (wtorek – środa), zamiast 1 – 2 września - podał NBP w komunikacie.",
-      "date_published": "2026-07-09T16:42:00+02:00",
-      "source": "PAP Biznes"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/firmy/ronson-development-sprzedal-w-ii-kwartale-150-lokali",
-      "url": "https://biznes.pap.pl/wiadomosci/firmy/ronson-development-sprzedal-w-ii-kwartale-150-lokali",
-      "title": "Ronson Development sprzedał w II kwartale 150 lokali",
-      "content_html": "Ronson Development sprzedał w drugim kwartale 2026 roku 150 lokali i przekazał w tym czasie 83 lokale - poinformowała spółka we wstępnych danych.",
-      "date_published": "2026-07-09T16:23:00+02:00",
-      "source": "PAP Biznes"
-    },
-    {
       "id": "https://www.bankier.pl/wiadomosc/Hiszpanskie-media-Europa-powinna-uniezaleznic-swoje-bezpieczenstwo-od-USA-9165993.html",
       "url": "https://www.bankier.pl/wiadomosc/Hiszpanskie-media-Europa-powinna-uniezaleznic-swoje-bezpieczenstwo-od-USA-9165993.html",
       "title": "Hiszpańskie media: Europa powinna uniezależnić swoje bezpieczeństwo od USA",
@@ -339,14 +347,6 @@
       "content_html": "Na polecenie Prokuratury Okręgowej w Warszawie agenci CBA od rana prowadzą czynności w ramach śledztwa w sprawie nieprawidłowości w warszawskim Szpitalu Południowym – poinformował w czwartek rzecznik ministra koordynatora służb specjalnych...",
       "date_published": "2026-07-09T16:11:00+02:00",
       "source": "Bankier.pl"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/gospodarka/euro-w-ebc-11435-usd-i-18572-jpy",
-      "url": "https://biznes.pap.pl/wiadomosci/gospodarka/euro-w-ebc-11435-usd-i-18572-jpy",
-      "title": "Euro w EBC: 1,1435 USD i 185,72 JPY",
-      "content_html": "Europejski Bank Centralny (EBC) ustalił kurs euro na 1,1435 USD i 185,72 JPY - podał bank na swojej stronie internetowej.",
-      "date_published": "2026-07-09T15:56:00+02:00",
-      "source": "PAP Biznes"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Portfel-zamowien-grupy-Mirbud-na-koniec-czerwca-wynosil-8-87-mld-zl-9165972.html",
@@ -1242,14 +1242,6 @@
       "title": "Trigon DM wskazał 15 swoich faworytów na lipiec",
       "content_html": "Analitycy Trigon Dom Maklerski w strategii na lipiec wskazali 15 spółek jako swoje top picks. Utrzymują oni pozytywną opinię na temat globalnych rynków akcji, wspieraną przez przyspieszający cykl inwe",
       "date_published": "2026-07-09T06:00:00+02:00",
-      "source": "PAP Biznes"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/rynki/dzien-na-rynkach-gieldy-w-usa-z-przewaga-spadkow-trump-grozi-nowymi-atakami-na",
-      "url": "https://biznes.pap.pl/wiadomosci/rynki/dzien-na-rynkach-gieldy-w-usa-z-przewaga-spadkow-trump-grozi-nowymi-atakami-na",
-      "title": "DZIEŃ NA RYNKACH: Giełdy w USA z przewagą spadków, Trump grozi nowymi atakami na Iran",
-      "content_html": "Środowa sesja na Wall Street zakończyła się przewagą spadków wśród głównych indeksów, gdyż powrócił temat wojny na Bliskim Wschodzie, a prezydent Donald Trump grozi kolejnymi atakami na Iran. Mocno dr",
-      "date_published": "2026-07-08T22:17:00+02:00",
       "source": "PAP Biznes"
     }
   ]
