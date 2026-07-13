@@ -5,6 +5,14 @@
   "home_page_url": "https://www.bankier.pl",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/Eskalacja-napiecia-na-Bliskim-Wschodzie-Spadki-na-Wall-Street-9167624.html",
+      "url": "https://www.bankier.pl/wiadomosc/Eskalacja-napiecia-na-Bliskim-Wschodzie-Spadki-na-Wall-Street-9167624.html",
+      "title": "Eskalacja napięcia na Bliskim Wschodzie. Spadki na Wall Street",
+      "content_html": "Amerykańskie giełdy spadły w poniedziałek po tym, jak prezydent Donald Trump ogłosił, że ponownie wprowadza blokadę irańskiej żeglugi przez Cieśninę Ormuz, co spowodowało wzrost cen ropy naftowej.",
+      "date_published": "2026-07-13T23:16:00+02:00",
+      "source": "Bankier.pl"
+    },
+    {
       "id": "https://biznes.pap.pl/wiadomosci/rynki/dzien-na-rynkach-gieldy-w-usa-w-dol-po-eskalacji-napiecia-na-bliskim-wschodzie",
       "url": "https://biznes.pap.pl/wiadomosci/rynki/dzien-na-rynkach-gieldy-w-usa-w-dol-po-eskalacji-napiecia-na-bliskim-wschodzie",
       "title": "DZIEŃ NA RYNKACH: Giełdy w USA w dół po eskalacji napięcia na Bliskim Wschodzie",
@@ -443,6 +451,14 @@
       "content_html": "Wyzwaniem dla krajowego i globalnego rynku paliwa lotniczego jest nie jego dostępność, ale poziom cen. Koszt paliwa lotniczego dla PLL LOT w 2026 r. wzrośnie do ok. 3,6 mld zł z pierwotnie planowanych 2,3 mld zł - podał resort infrastruktury w...",
       "date_published": "2026-07-13T14:49:00+02:00",
       "source": "Bankier.pl"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/gospodarka/dzien-na-fxfi-notowania-eurpln-moga-stabilizowac-sie-w-przedziale-432-435",
+      "url": "https://biznes.pap.pl/wiadomosci/gospodarka/dzien-na-fxfi-notowania-eurpln-moga-stabilizowac-sie-w-przedziale-432-435",
+      "title": "DZIEŃ NA FX/FI: Notowania EUR/PLN mogą stabilizować się w przedziale 4,32-4,35",
+      "content_html": "W najbliższych dniach możliwa jest stabilizacja EUR/PLN w przedziale 4,32-4,35 - oceniają ekonomiści Banku Millennium. Notowania USD/PLN również nie powinny istotnie się zmieniać.",
+      "date_published": "2026-07-13T14:43:00+02:00",
+      "source": "PAP Biznes"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Wojanki-i-Palionki-pod-lupa-UOKiK-Influencerzy-zwracali-sie-bezposrednio-do-dzieci-9167144.html",
@@ -1165,19 +1181,19 @@
       "source": "PAP Biznes"
     },
     {
-      "id": "https://www.bankier.pl/wiadomosc/Elevion-z-grupy-CEZ-kupi-100-proc-wloskiej-firmy-BTS-Biogas-9167108.html",
-      "url": "https://www.bankier.pl/wiadomosc/Elevion-z-grupy-CEZ-kupi-100-proc-wloskiej-firmy-BTS-Biogas-9167108.html",
-      "title": "Elevion z grupy CEZ kupi 100 proc. włoskiej firmy BTS Biogas",
-      "content_html": "Grupa Elevion podpisała umowę kupna 100 proc. udziałów we włoskiej firmie BTS Biogas, wzmacniając pozycję w sektorze biogazu i biometanu - poinformował w komunikacie czeski koncern energetyczny CEZ, właściciel Grupy Elevion.",
-      "date_published": "2026-07-13T07:32:00+02:00",
-      "source": "Bankier.pl"
-    },
-    {
       "id": "https://biznes.pap.pl/wiadomosci/firmy/dodatkowy-spadek-sprzedazy-piwa-po-podwyzce-akcyzy-siegnie-ok-5-proc-browary",
       "url": "https://biznes.pap.pl/wiadomosci/firmy/dodatkowy-spadek-sprzedazy-piwa-po-podwyzce-akcyzy-siegnie-ok-5-proc-browary",
       "title": "Dodatkowy spadek sprzedaży piwa po podwyżce akcyzy sięgnie ok. 5 proc. - Browary Polskie",
       "content_html": "Dodatkowy spadek sprzedaży piwa po podwyżce akcyzy wyniesie ok. 5 proc. - ocenia Związek Pracodawców Przemysłu Piwowarskiego w Polsce - Browary Polskie.",
       "date_published": "2026-07-13T07:28:00+02:00",
+      "source": "PAP Biznes"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/firmy/ronson-development-sprzedal-w-ii-kwartale-150-lokali-o-75-proc-wiecej-rdr",
+      "url": "https://biznes.pap.pl/wiadomosci/firmy/ronson-development-sprzedal-w-ii-kwartale-150-lokali-o-75-proc-wiecej-rdr",
+      "title": "Ronson Development sprzedał w II kwartale 150 lokali, o 75 proc. więcej rdr",
+      "content_html": "Ronson Development sprzedał w II kwartale 2026 roku 150 lokali, osiągając wzrost o 72 proc. w porównaniu z analogicznym okresem ubiegłego roku oraz o 23 proc. względem I kwartału. Po półroczu sprzedaż",
+      "date_published": "2026-07-13T07:14:00+02:00",
       "source": "PAP Biznes"
     },
     {
@@ -1235,6 +1251,14 @@
       "content_html": "Poniżej zamknięcia i zmiany indeksów w USA. Kanadzie, Meksyku, Brazylii, Chile, Kolumbii i Argentynie:",
       "date_published": "2026-07-13T06:33:00+02:00",
       "source": "PAP Biznes"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Elevion-z-grupy-CEZ-kupi-100-proc-wloskiej-firmy-BTS-Biogas-9167108.html",
+      "url": "https://www.bankier.pl/wiadomosc/Elevion-z-grupy-CEZ-kupi-100-proc-wloskiej-firmy-BTS-Biogas-9167108.html",
+      "title": "Elevion z grupy CEZ kupi 100 proc. włoskiej firmy BTS Biogas Grupa Elevion podpisała umowę kupna 100 proc. udziałów we włoskiej firmie BTS Biogas, wzmacniając pozycję w sektorze biogazu i biometanu - poinformował w komunikacie czeski koncern energetyczny CEZ, właściciel Grupy Elevion.",
+      "content_html": "",
+      "date_published": "2026-07-13T06:32:00+02:00",
+      "source": "Bankier.pl"
     },
     {
       "id": "https://biznes.pap.pl/wiadomosci/firmy/elevion-z-grupy-cez-kupi-100-proc-wloskiej-firmy-bts-biogas",
