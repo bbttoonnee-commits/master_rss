@@ -5,6 +5,14 @@
   "home_page_url": "https://www.bankier.pl",
   "items": [
     {
+      "id": "https://biznes.pap.pl/wiadomosci/rynki/dzien-na-rynkach-gieldy-w-usa-w-dol-po-eskalacji-napiecia-na-bliskim-wschodzie",
+      "url": "https://biznes.pap.pl/wiadomosci/rynki/dzien-na-rynkach-gieldy-w-usa-w-dol-po-eskalacji-napiecia-na-bliskim-wschodzie",
+      "title": "DZIEŃ NA RYNKACH: Giełdy w USA w dół po eskalacji napięcia na Bliskim Wschodzie",
+      "content_html": "Amerykańskie giełdy spadły w poniedziałek po tym, jak prezydent Donald Trump ogłosił, że ponownie wprowadza blokadę irańskiej żeglugi przez Cieśninę Ormuz, co spowodowało wzrost cen ropy naftowej.",
+      "date_published": "2026-07-13T22:15:00+02:00",
+      "source": "PAP Biznes"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Parlament-przyjal-poprawke-do-konstytucji-w-celu-usuniecia-prezydenta-9167586.html",
       "url": "https://www.bankier.pl/wiadomosc/Parlament-przyjal-poprawke-do-konstytucji-w-celu-usuniecia-prezydenta-9167586.html",
       "title": "Parlament przyjął poprawkę do konstytucji w celu usunięcia prezydenta",
@@ -27,6 +35,14 @@
       "content_html": "Prezydent Francji Emmanuel Macron powiedział w poniedziałek, że Ukraina chce kupić 16 samolotów Rafale i systemy obrony powietrznej SAMP/T. Macron mówił o tym na konferencji prasowej po spotkaniu w Paryżu koalicji chętnych.",
       "date_published": "2026-07-13T21:06:00+02:00",
       "source": "Bankier.pl"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/ekonomia-biznes-i-finanse/skrot-wiadomosci-poniedzialek-13-lipca-2100",
+      "url": "https://biznes.pap.pl/wiadomosci/ekonomia-biznes-i-finanse/skrot-wiadomosci-poniedzialek-13-lipca-2100",
+      "title": "Skrót wiadomości - poniedziałek, 13 lipca, 21.00",
+      "content_html": "Przegląd najważniejszych wiadomości gospodarczych, krajowych i ze świata.",
+      "date_published": "2026-07-13T21:01:00+02:00",
+      "source": "PAP Biznes"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Agencja-ONZ-sprzeciwiamy-sie-oplatom-za-tranzyt-przez-ciesniny-morskie-9167580.html",
@@ -365,14 +381,6 @@
       "source": "PAP Biznes"
     },
     {
-      "id": "https://biznes.pap.pl/wiadomosci/gospodarka/rzad-wkrotce-zajmie-sie-wsparciem-poszkodowanych-w-czystym-powietrzu-bolesta",
-      "url": "https://biznes.pap.pl/wiadomosci/gospodarka/rzad-wkrotce-zajmie-sie-wsparciem-poszkodowanych-w-czystym-powietrzu-bolesta",
-      "title": "Rząd wkrótce zajmie się wsparciem poszkodowanych w Czystym Powietrzu - Bolesta, MKiŚ (wywiad)",
-      "content_html": "Stały komitet RM przyjął już projekt ustawy ws. wsparcia beneficjentów Czystego Powietrza poszkodowanych przez nierzetelnych wykonawców, w następnym kroku zajmie się nim rząd - poinformował PAP Biznes",
-      "date_published": "2026-07-13T16:18:00+02:00",
-      "source": "PAP Biznes"
-    },
-    {
       "id": "https://www.bankier.pl/wiadomosc/Konsorcjum-z-Budimeksem-z-najtansza-oferta-na-budowe-odcinka-D35-w-Czechach-9167397.html",
       "url": "https://www.bankier.pl/wiadomosc/Konsorcjum-z-Budimeksem-z-najtansza-oferta-na-budowe-odcinka-D35-w-Czechach-9167397.html",
       "title": "Konsorcjum z Budimeksem z najtańszą ofertą na budowę odcinka D35 w Czechach",
@@ -387,14 +395,6 @@
       "content_html": "Pół tysiąca litrów alkoholu. Tyle zostało w sejmowych lodówkach po wprowadzeniu prohibicji - informuje \"Fakt\". Zgodnie z przepisami kancelaria nie może go ani sprzedać, ani pozwolić parlamentarzystom wypić. Znalazło się jednak trzecie wyjście...",
       "date_published": "2026-07-13T16:00:00+02:00",
       "source": "Bankier.pl"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/firmy/system-edison-ma-certyfikat-ce-otwiera-synektikowi-europejski-etap-komercjalizacji",
-      "url": "https://biznes.pap.pl/wiadomosci/firmy/system-edison-ma-certyfikat-ce-otwiera-synektikowi-europejski-etap-komercjalizacji",
-      "title": "System Edison ma certyfikat CE; otwiera to Synektikowi europejski etap komercjalizacji",
-      "content_html": "System Edison uzyskał certyfikat CE dopuszczający rozwiązanie do stosowania na rynku Unii Europejskiej. Dla grupy Synektik, wyłącznego dystrybutora systemu w Polsce, Czechach, Słowacji oraz w krajach ",
-      "date_published": "2026-07-13T15:56:00+02:00",
-      "source": "PAP Biznes"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Macron-Francja-i-Europa-sa-gotowe-bronic-wolnosci-nawet-za-cene-krwi-9167345.html",
@@ -451,6 +451,14 @@
       "content_html": "Prezes Urzędu Ochrony Konkurencji i Konsumentów postawił zarzuty influencerom w związku z podejrzeniem stosowania agresywnych praktyk reklamowych wobec dzieci - poinformował w poniedziałek UOKiK. Postępowania dotyczą twórców internetowych prowadzących...",
       "date_published": "2026-07-13T14:40:00+02:00",
       "source": "Bankier.pl"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/rynki/dzien-na-rynkach-futures-w-usa-spadaja-obawy-o-eskalacje-usa-iran",
+      "url": "https://biznes.pap.pl/wiadomosci/rynki/dzien-na-rynkach-futures-w-usa-spadaja-obawy-o-eskalacje-usa-iran",
+      "title": "DZIEŃ NA RYNKACH: Futures w USA spadają; obawy o eskalację USA-Iran",
+      "content_html": "Kontrakty w USA zniżkują, a indeksy w Europie są głównie na minusach. Inwestorzy obawiają się o eskalację wojenną w Zatoce perskiej po wzajemnych atakach USA i Iranu. Ceny ropy mocno rosną.",
+      "date_published": "2026-07-13T14:34:00+02:00",
+      "source": "PAP Biznes"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Sikorski-Reakcje-na-wystapienie-ambasadora-w-Ukrainie-brzmia-jak-reakcja-KC-PZPR-9167314.html",
@@ -1170,14 +1178,6 @@
       "title": "Dodatkowy spadek sprzedaży piwa po podwyżce akcyzy sięgnie ok. 5 proc. - Browary Polskie",
       "content_html": "Dodatkowy spadek sprzedaży piwa po podwyżce akcyzy wyniesie ok. 5 proc. - ocenia Związek Pracodawców Przemysłu Piwowarskiego w Polsce - Browary Polskie.",
       "date_published": "2026-07-13T07:28:00+02:00",
-      "source": "PAP Biznes"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/firmy/ronson-development-sprzedal-w-ii-kwartale-150-lokali-o-75-proc-wiecej-rdr",
-      "url": "https://biznes.pap.pl/wiadomosci/firmy/ronson-development-sprzedal-w-ii-kwartale-150-lokali-o-75-proc-wiecej-rdr",
-      "title": "Ronson Development sprzedał w II kwartale 150 lokali, o 75 proc. więcej rdr",
-      "content_html": "Ronson Development sprzedał w II kwartale 2026 roku 150 lokali, osiągając wzrost o 72 proc. w porównaniu z analogicznym okresem ubiegłego roku oraz o 23 proc. względem I kwartału. Po półroczu sprzedaż",
-      "date_published": "2026-07-13T07:14:00+02:00",
       "source": "PAP Biznes"
     },
     {
