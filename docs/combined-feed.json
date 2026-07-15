@@ -5,6 +5,14 @@
   "home_page_url": "https://www.bankier.pl",
   "items": [
     {
+      "id": "https://biznes.pap.pl/wiadomosci/ekonomia-biznes-i-finanse/skrot-wiadomosci-sroda-15-lipca-2100",
+      "url": "https://biznes.pap.pl/wiadomosci/ekonomia-biznes-i-finanse/skrot-wiadomosci-sroda-15-lipca-2100",
+      "title": "Skrót wiadomości - środa, 15 lipca, 21.00",
+      "content_html": "Przegląd najważniejszych wiadomości gospodarczych, krajowych i ze świata.",
+      "date_published": "2026-07-15T21:00:00+02:00",
+      "source": "PAP Biznes"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Nawrocka-uderza-w-rozlamowcow-PiS-stawia-ultimatum-i-grozi-wyrzuceniem-9168777.html",
       "url": "https://www.bankier.pl/wiadomosc/Nawrocka-uderza-w-rozlamowcow-PiS-stawia-ultimatum-i-grozi-wyrzuceniem-9168777.html",
       "title": "Nawrocka uderza w rozłamowców. PiS stawia ultimatum i grozi wyrzuceniem",
@@ -293,14 +301,6 @@
       "source": "Bankier.pl"
     },
     {
-      "id": "https://biznes.pap.pl/wiadomosci/rynki/po-otwarciu-sesji-dji-rosnie-o-032-proc-sp-500-zyskuje-042-proc",
-      "url": "https://biznes.pap.pl/wiadomosci/rynki/po-otwarciu-sesji-dji-rosnie-o-032-proc-sp-500-zyskuje-042-proc",
-      "title": "Po otwarciu sesji DJI rośnie o 0,32 proc., a S&P 500 zyskuje 0,42 proc.",
-      "content_html": "Po otwarciu sesji w USA Dow Jones Industrial rośnie 0,32 proc. do 52.675 pkt., S&P500 zyskuje 0,42 proc. i wynosi 7.575 pkt.",
-      "date_published": "2026-07-15T15:37:00+02:00",
-      "source": "PAP Biznes"
-    },
-    {
       "id": "https://www.bankier.pl/wiadomosc/USA-uderzaja-w-Iran-a-Trump-rozwaza-inwazje-Teheran-Ropa-nie-poplynie-od-nikogo-9168537.html",
       "url": "https://www.bankier.pl/wiadomosc/USA-uderzaja-w-Iran-a-Trump-rozwaza-inwazje-Teheran-Ropa-nie-poplynie-od-nikogo-9168537.html",
       "title": "USA uderzają w Iran, a Trump rozważa inwazję. Teheran: Ropa nie popłynie od nikogo",
@@ -467,6 +467,14 @@
       "content_html": "Prezydent Karol Nawrocki został przesłuchany w charakterze świadka w śledztwie dotyczącym nieodpłatnego korzystania z pokoi i apartamentów należących do Muzeum II Wojny Światowej w Gdańsku – potwierdziła PAP Prokuratura Okręgowa w Gdańsku...",
       "date_published": "2026-07-15T11:45:00+02:00",
       "source": "Bankier.pl"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/gospodarka/mfna-przetargu-sprzedalo-obligacje-za-1103-mld-zl-przy-popycie-na-poziomie",
+      "url": "https://biznes.pap.pl/wiadomosci/gospodarka/mfna-przetargu-sprzedalo-obligacje-za-1103-mld-zl-przy-popycie-na-poziomie",
+      "title": "MFna przetargu sprzedało obligacje za 11,03 mld zł, przy popycie na poziomie 13,2 mld",
+      "content_html": "Ministerstwo Finansów na przetargu sprzedało 7 serii obligacji (OK0129, NZ0331, PS0731, DS1034, DS0436 i NZ0936 i WS 0437) za 11.033,570 mln zł, przy popycie na poziomie 13.186, 570 mln zł - podał res",
+      "date_published": "2026-07-15T11:34:00+02:00",
+      "source": "PAP Biznes"
     },
     {
       "id": "https://biznes.pap.pl/wiadomosci/nieruchomosci/wolumen-najmu-na-warszawskim-rynku-biurowym-w-i-pol-26-wzrosl-o-38-proc",
@@ -1059,38 +1067,6 @@
       "content_html": "Amerykańskie giełdy zakończyły wtorkową sesję niewielkimi wzrostami głównych indeksów dzięki danym o inflacji i odbiciu notowań akcji producentów chipów. W centrum uwagi były też wyniki kwartalne najw",
       "date_published": "2026-07-14T22:33:00+02:00",
       "source": "PAP Biznes"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/firmy/pogotowie-strajkowe-w-grupie-azoty-pulawy",
-      "url": "https://biznes.pap.pl/wiadomosci/firmy/pogotowie-strajkowe-w-grupie-azoty-pulawy",
-      "title": "Pogotowie strajkowe w Grupie Azoty Puławy",
-      "content_html": "Dwie działające w Grupie Azoty Puławy organizacje związkowe ogłosiły pogotowie strajkowe i przedstawiły listę 13 żądań, które dotyczą warunków pracy, płacy, praw i wolności związkowych. Grupa Azoty po",
-      "date_published": "2026-07-14T22:12:00+02:00",
-      "source": "PAP Biznes"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/USA-groza-Brazylii-clami-za-darmowy-system-platnosci-na-smartfony-9168229.html",
-      "url": "https://www.bankier.pl/wiadomosc/USA-groza-Brazylii-clami-za-darmowy-system-platnosci-na-smartfony-9168229.html",
-      "title": "USA grożą Brazylii cłami za... darmowy system płatności na smartfony",
-      "content_html": "Brazylijski system płatności bezgotówkowych PIX, umożliwiający płacenie za pomocą smartfona, znalazł się na celowniku Waszyngtonu, który uznał go za konkurencję dla amerykańskich kart kredytowych. Przedstawiciel USA ds. handlu Jamieson Greer...",
-      "date_published": "2026-07-14T21:57:00+02:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Trump-traci-cierpliwosc-Zdecydowane-zadanie-wobec-Izraela-9168224.html",
-      "url": "https://www.bankier.pl/wiadomosc/Trump-traci-cierpliwosc-Zdecydowane-zadanie-wobec-Izraela-9168224.html",
-      "title": "Trump traci cierpliwość? Zdecydowane żądanie wobec Izraela",
-      "content_html": "Prezydent USA Donald Trump powiedział premierowi Izraela Benjaminowi Netanjahu, że powinien zacząć wycofywać wojska z Syrii i Libanu - podał we wtorek portal Axios. Izraelska armia okupuje część obu tych państw, a Netanjahu deklarował wcześniej...",
-      "date_published": "2026-07-14T21:51:00+02:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Nowe-plany-dla-WOT-cyberwojsk-i-Zandarmerii-Szef-MON-podpisal-kluczowe-dokumenty-9168226.html",
-      "url": "https://www.bankier.pl/wiadomosc/Nowe-plany-dla-WOT-cyberwojsk-i-Zandarmerii-Szef-MON-podpisal-kluczowe-dokumenty-9168226.html",
-      "title": "Nowe plany dla WOT, cyberwojsk i Żandarmerii. Szef MON podpisał kluczowe dokumenty",
-      "content_html": "Wicepremier, minister obrony narodowej Władysław Kosiniak-Kamysz poinformował we wtorek, że zatwierdził kolejne elementy planów pochodnych do Programu Rozwoju Sił Zbrojnych RP na lata 2025-2039 dla Wojsk Obrony Terytorialnej, Żandarmerii Wojskowej...",
-      "date_published": "2026-07-14T21:49:00+02:00",
-      "source": "Bankier.pl"
     }
   ]
 }
