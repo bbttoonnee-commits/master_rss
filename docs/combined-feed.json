@@ -5,6 +5,22 @@
   "home_page_url": "https://www.bankier.pl",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/S-P-500-po-cichu-podchodzi-pod-szczyt-hossy-Skromne-wzrosty-pomimo-Iranu-9168845.html",
+      "url": "https://www.bankier.pl/wiadomosc/S-P-500-po-cichu-podchodzi-pod-szczyt-hossy-Skromne-wzrosty-pomimo-Iranu-9168845.html",
+      "title": "S&P 500 po cichu podchodzi pod szczyt hossy. Skromne wzrosty pomimo Iranu",
+      "content_html": "Amerykańskie giełdy zakończyły środową sesję umiarkowanymi wzrostami głównych indeksów, a inwestorzy analizują sytuację na Bliskim Wschodzie, najnowsze dane o inflacji i kwartalne wyniki spółek.",
+      "date_published": "2026-07-15T23:14:00+02:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/rynki/dzien-na-rynkach-na-wall-street-wzrosty-w-centrum-uwagi-inflacja-i-wyniki-spolek",
+      "url": "https://biznes.pap.pl/wiadomosci/rynki/dzien-na-rynkach-na-wall-street-wzrosty-w-centrum-uwagi-inflacja-i-wyniki-spolek",
+      "title": "DZIEŃ NA RYNKACH: Na Wall Street wzrosty, w centrum uwagi inflacja i wyniki spółek",
+      "content_html": "Amerykańskie giełdy zakończyły środową sesję umiarkowanymi wzrostami głównych indeksów, a inwestorzy analizują sytuację na Bliskim Wschodzie, najnowsze dane o inflacji i kwartalne wyniki spółek. Mocno",
+      "date_published": "2026-07-15T22:13:00+02:00",
+      "source": "PAP Biznes"
+    },
+    {
       "id": "https://biznes.pap.pl/wiadomosci/ekonomia-biznes-i-finanse/skrot-wiadomosci-sroda-15-lipca-2100",
       "url": "https://biznes.pap.pl/wiadomosci/ekonomia-biznes-i-finanse/skrot-wiadomosci-sroda-15-lipca-2100",
       "title": "Skrót wiadomości - środa, 15 lipca, 21.00",
@@ -285,14 +301,6 @@
       "source": "PAP Biznes"
     },
     {
-      "id": "https://biznes.pap.pl/wiadomosci/firmy/best-zainwestowal-w-ii-kwartale-1897-mln-zl-w-portfele-wierzytelnosci-opis",
-      "url": "https://biznes.pap.pl/wiadomosci/firmy/best-zainwestowal-w-ii-kwartale-1897-mln-zl-w-portfele-wierzytelnosci-opis",
-      "title": "Best zainwestował w II kwartale 189,7 mln zł w portfele wierzytelności (opis)",
-      "content_html": "Best zainwestował w drugim kwartale 2026 roku 189,7 mln zł w portfele wierzytelności, co oznacza wzrost o 15 proc. rdr - poinformowała spółka w komunikacie.",
-      "date_published": "2026-07-15T15:43:00+02:00",
-      "source": "PAP Biznes"
-    },
-    {
       "id": "https://www.bankier.pl/wiadomosc/1000-zl-gadzety-i-unikalne-doswiadczenie-na-Tour-de-Pologne-od-Raisin-Wystartowal-specjalny-konkurs-9168598.html",
       "url": "https://www.bankier.pl/wiadomosc/1000-zl-gadzety-i-unikalne-doswiadczenie-na-Tour-de-Pologne-od-Raisin-Wystartowal-specjalny-konkurs-9168598.html",
       "title": "1000 zł, gadżety i unikalne doświadczenie na Tour de Pologne od Raisin. Wystartował specjalny konkurs",
@@ -410,14 +418,6 @@
       "title": "Niemiecka prasa o Trumpie: czy prezydent USA jest poczytalny?",
       "content_html": "Niemiecka prasa zwraca w środę uwagę na szybkie wycofanie się Donalda Trumpa z pomysłu pobierania opłat za eskortę statków w cieśninie Ormuz, nazywając prezydenta USA „chorągiewką na wietrze” i powątpiewając w jego poczytalność.",
       "date_published": "2026-07-15T12:45:00+02:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Zelenski-odznaczyl-przewodniczaca-KE-von-der-Leyen-Orderem-Europy-9168435.html",
-      "url": "https://www.bankier.pl/wiadomosc/Zelenski-odznaczyl-przewodniczaca-KE-von-der-Leyen-Orderem-Europy-9168435.html",
-      "title": "Zełenski odznaczył przewodniczącą KE von der Leyen Orderem Europy",
-      "content_html": "Prezydent Ukrainy Wołodymyr Zełenski odznaczył w środę przewodniczącą Komisji Europejskiej Ursulę von der Leyen Orderem Europy – ustanowionym przez Ukrainę odznaczeniem przyznawanym osobom wspierającym obronę niepodległości kraju oraz jego...",
-      "date_published": "2026-07-15T12:25:00+02:00",
       "source": "Bankier.pl"
     },
     {
@@ -1034,38 +1034,6 @@
       "title": "Zamknięcia na giełdach w Ameryce Północnej i Południowej (tabela)",
       "content_html": "Poniżej zamknięcia i zmiany indeksów w USA. Kanadzie, Meksyku, Brazylii, Chile, Kolumbii i Argentynie:",
       "date_published": "2026-07-15T06:29:00+02:00",
-      "source": "PAP Biznes"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Pogotowie-strajkowe-w-Grupie-Azoty-Pulawy-9168256.html",
-      "url": "https://www.bankier.pl/wiadomosc/Pogotowie-strajkowe-w-Grupie-Azoty-Pulawy-9168256.html",
-      "title": "Pogotowie strajkowe w Grupie Azoty Puławy. 13 żądań związkowców",
-      "content_html": "Dwie działające w Grupie Azoty Puławy organizacje związkowe ogłosiły pogotowie strajkowe i przedstawiły listę 13 żądań, które dotyczą warunków pracy, płacy, praw i wolności związkowych. Grupa Azoty poinformowała o trudnej sytuacji spółki...",
-      "date_published": "2026-07-14T23:14:00+02:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Amerykanska-inflacja-niczym-kon-na-bialym-rycerzu-Jeden-odczyt-odwrocil-losy-sesji-9168255.html",
-      "url": "https://www.bankier.pl/wiadomosc/Amerykanska-inflacja-niczym-kon-na-bialym-rycerzu-Jeden-odczyt-odwrocil-losy-sesji-9168255.html",
-      "title": "Amerykańska inflacja niczym koń na białym rycerzu. Jeden odczyt odwrócił losy sesji",
-      "content_html": "To mógł być dzień, który zapowiadał się jako jednoznacznie spadkowy. I wtedy nadszedł wręcz podejrzanie „miękki” odczyt inflacyjny, który odwrócił losy sesji.",
-      "date_published": "2026-07-14T23:11:00+02:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Szef-MON-Powolujemy-Komponent-Obrony-Pogranicza-9168253.html",
-      "url": "https://www.bankier.pl/wiadomosc/Szef-MON-Powolujemy-Komponent-Obrony-Pogranicza-9168253.html",
-      "title": "Szef MON: Powołujemy Komponent Obrony Pogranicza",
-      "content_html": "Wicepremier, minister obrony narodowej Władysław Kosiniak-Kamysz poinformował we wtorek o powołaniu Komponentu Obrony Pogranicza, który ma być kolejnym etapem wzmacniania wschodniej granicy Polski. Jak zapowiedział, w środę przedstawi szczegóły...",
-      "date_published": "2026-07-14T23:04:00+02:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/rynki/dzien-na-rynkach-gieldy-w-usa-w-gore-w-centrum-uwagi-wyniki-bankow-i-dane-o",
-      "url": "https://biznes.pap.pl/wiadomosci/rynki/dzien-na-rynkach-gieldy-w-usa-w-gore-w-centrum-uwagi-wyniki-bankow-i-dane-o",
-      "title": "DZIEŃ NA RYNKACH: Giełdy w USA w górę, w centrum uwagi wyniki banków i dane o inflacji",
-      "content_html": "Amerykańskie giełdy zakończyły wtorkową sesję niewielkimi wzrostami głównych indeksów dzięki danym o inflacji i odbiciu notowań akcji producentów chipów. W centrum uwagi były też wyniki kwartalne najw",
-      "date_published": "2026-07-14T22:33:00+02:00",
       "source": "PAP Biznes"
     }
   ]
