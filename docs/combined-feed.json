@@ -5,6 +5,14 @@
   "home_page_url": "https://www.bankier.pl",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/Amnestia-dla-katalonskich-separatystow-z-zielonym-swiatlem-od-TSUE-9169391.html",
+      "url": "https://www.bankier.pl/wiadomosc/Amnestia-dla-katalonskich-separatystow-z-zielonym-swiatlem-od-TSUE-9169391.html",
+      "title": "Amnestia dla katalońskich separatystów z zielonym światłem od TSUE",
+      "content_html": "Uchwalona w 2024 r. hiszpańska ustawa o amnestii dla katalońskich separatystów nie narusza prawa unijnego – orzekł w czwartek Trybunał Sprawiedliwości UE (TSUE) w odpowiedzi na pytania prejudycjalne dwóch hiszpańskich sądów.",
+      "date_published": "2026-07-16T21:28:00+02:00",
+      "source": "Bankier.pl"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Po-meczu-Argentyna-Anglia-napiecie-rosnie-Poszlo-o-Falklandy-9169389.html",
       "url": "https://www.bankier.pl/wiadomosc/Po-meczu-Argentyna-Anglia-napiecie-rosnie-Poszlo-o-Falklandy-9169389.html",
       "title": "Po meczu Argentyna–Anglia napięcie rośnie. Poszło o Falklandy",
@@ -19,6 +27,14 @@
       "content_html": "Skala zmian wprowadzanych przez premiera Węgier Petera Magyara jest tak duża, że nawet przeciwnicy autorytaryzmu z czasów Viktora Orbana zastanawiają się, czy nie działa on zbyt szybko i radykalnie - zauważył w czwartek dziennik „Financial...",
       "date_published": "2026-07-16T21:07:00+02:00",
       "source": "Bankier.pl"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/ekonomia-biznes-i-finanse/skrot-wiadomosci-czwartek-16-lipca-2100",
+      "url": "https://biznes.pap.pl/wiadomosci/ekonomia-biznes-i-finanse/skrot-wiadomosci-czwartek-16-lipca-2100",
+      "title": "Skrót wiadomości - czwartek, 16 lipca, 21.00",
+      "content_html": "Przegląd najważniejszych wiadomości gospodarczych, krajowych i ze świata.",
+      "date_published": "2026-07-16T21:00:00+02:00",
+      "source": "PAP Biznes"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/NYT-Rubio-faktycznie-rzadzi-Wenezuela-USA-kontroluja-finanse-i-sektor-ropy-9169383.html",
@@ -173,6 +189,14 @@
       "source": "PAP Biznes"
     },
     {
+      "id": "https://www.bankier.pl/wiadomosc/MOL-spodziewa-sie-w-lipcu-pierwszej-raty-100-mln-USD-odszkodowania-za-pozar-rafinerii-w-25-9169292.html",
+      "url": "https://www.bankier.pl/wiadomosc/MOL-spodziewa-sie-w-lipcu-pierwszej-raty-100-mln-USD-odszkodowania-za-pozar-rafinerii-w-25-9169292.html",
+      "title": "MOL spodziewa się w lipcu pierwszej raty 100 mln USD odszkodowania za pożar rafinerii w '25",
+      "content_html": "W ramach trwającej oceny strat wynikających z przestoju spowodowanego pożarem instalacji destylacji ropy naftowej AV3 w Rafinerii Dunaj w październiku 2025 roku, konsorcjum ubezpieczycieli wydało oficjalne potwierdzenie uznania odpowiedzialności...",
+      "date_published": "2026-07-16T18:00:00+02:00",
+      "source": "Bankier.pl"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Ukraina-ma-nowego-premiera-Parlament-powolal-Serhija-Koreckiego-na-stanowisko-szefa-rzadu-9169028.html",
       "url": "https://www.bankier.pl/wiadomosc/Ukraina-ma-nowego-premiera-Parlament-powolal-Serhija-Koreckiego-na-stanowisko-szefa-rzadu-9169028.html",
       "title": "Ukraina ma nowego premiera. Parlament powołał Serhija Koreckiego na stanowisko szefa rządu",
@@ -225,14 +249,6 @@
       "url": "https://www.bankier.pl/wiadomosc/Fundusze-inwestycyjne-z-kolejnym-rekordem-W-czerwcu-aktywa-wzrosly-o-7-9-mld-zl-9169253.html",
       "title": "Fundusze inwestycyjne z kolejnym rekordem. W czerwcu aktywa wzrosły o 7,9 mld zł",
       "content_html": "Aktywa krajowych funduszy inwestycyjnych wzrosły w czerwcu o 7,9 mld zł, do rekordowych 476,2 mld zł - wynika z komunikatu Analiz.pl, na podstawie danych IZFiA. Miesięczna dynamika wyniosła 1,7 proc.",
-      "date_published": "2026-07-16T17:00:00+02:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/MOL-spodziewa-sie-w-lipcu-pierwszej-raty-100-mln-USD-odszkodowania-za-pozar-rafinerii-w-25-9169292.html",
-      "url": "https://www.bankier.pl/wiadomosc/MOL-spodziewa-sie-w-lipcu-pierwszej-raty-100-mln-USD-odszkodowania-za-pozar-rafinerii-w-25-9169292.html",
-      "title": "MOL spodziewa się w lipcu pierwszej raty 100 mln USD odszkodowania za pożar rafinerii w '25 W ramach trwającej oceny strat wynikających z przestoju spowodowanego pożarem instalacji destylacji ropy naftowej AV3 w Rafinerii Dunaj w październiku 2025 roku, konsorcjum ubezpieczycieli wydało oficjalne potwierdzenie uznania odpowiedzialności za zdarzenie - podał MOL w komunikacie. MOL spodziewa się w lipcu pierwszej raty płatności odszkodowania w wys. 100 mln USD.",
-      "content_html": "",
       "date_published": "2026-07-16T17:00:00+02:00",
       "source": "Bankier.pl"
     },
@@ -387,14 +403,6 @@
       "content_html": "Jesteś uczestnikiem gry inwestycyjnej Wakacje na giełdzie? Zwiększ swoje szanse na wygraną z subskrypcją Pulsu Biznesu! Konkurs trwa - zapraszamy do udziału, walki o nagrody i giełdowej edukacji.",
       "date_published": "2026-07-16T15:35:00+02:00",
       "source": "Bankier.pl"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/rynki/po-otwarciu-sesji-dji-rosnie-o-023-proc-sp-500-traci-02-proc-1",
-      "url": "https://biznes.pap.pl/wiadomosci/rynki/po-otwarciu-sesji-dji-rosnie-o-023-proc-sp-500-traci-02-proc-1",
-      "title": "Po otwarciu sesji DJI rośnie o 0,23 proc., a S&P 500 traci 0,2 proc.",
-      "content_html": "Po otwarciu sesji w USA Dow Jones Industrial rośnie 0,23 proc. do 52.777 pkt., S&P500 traci 0,2 proc. i wynosi 7.555 pkt.",
-      "date_published": "2026-07-16T15:32:00+02:00",
-      "source": "PAP Biznes"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Beda-nowe-zasady-naliczania-oplat-za-prad-Skorzysta-przemysl-energochlonny-9169176.html",
@@ -1077,14 +1085,6 @@
       "source": "Bankier.pl"
     },
     {
-      "id": "https://www.bankier.pl/wiadomosc/Pentagon-niszczy-iranski-potencjal-rakietowy-Dwie-serie-poteznych-uderzen-powietrznych-w-ciagu-jednej-doby-9168866.html",
-      "url": "https://www.bankier.pl/wiadomosc/Pentagon-niszczy-iranski-potencjal-rakietowy-Dwie-serie-poteznych-uderzen-powietrznych-w-ciagu-jednej-doby-9168866.html",
-      "title": "Pentagon niszczy irański potencjał rakietowy. Dwie serie potężnych uderzeń powietrznych w ciągu jednej doby",
-      "content_html": "Amerykańskie siły przeprowadziły kolejną serię ataków na cele w Iranie - poinformowało w środę wieczorem czasu wschodnioamerykańskiego Centralne Dowództwo USA (CENTCOM). Zbombardowano m.in. centra dowodzenia. To druga fala amerykańskich uderzeń...",
-      "date_published": "2026-07-16T07:53:00+02:00",
-      "source": "Bankier.pl"
-    },
-    {
       "id": "https://biznes.pap.pl/wiadomosci/gospodarka/senat-chce-szerszego-uzasadnienia-konstrukcji-podatku-od-wartosci-aktywow-w",
       "url": "https://biznes.pap.pl/wiadomosci/gospodarka/senat-chce-szerszego-uzasadnienia-konstrukcji-podatku-od-wartosci-aktywow-w",
       "title": "Senat chce szerszego uzasadnienia konstrukcji podatku od wartości aktywów w ustawie o OKI",
@@ -1218,14 +1218,6 @@
       "title": "DZIEŃ NA RYNKACH: Na Wall Street wzrosty, w centrum uwagi inflacja i wyniki spółek",
       "content_html": "Amerykańskie giełdy zakończyły środową sesję umiarkowanymi wzrostami głównych indeksów, a inwestorzy analizują sytuację na Bliskim Wschodzie, najnowsze dane o inflacji i kwartalne wyniki spółek. Mocno",
       "date_published": "2026-07-15T22:13:00+02:00",
-      "source": "PAP Biznes"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/ekonomia-biznes-i-finanse/skrot-wiadomosci-sroda-15-lipca-2100",
-      "url": "https://biznes.pap.pl/wiadomosci/ekonomia-biznes-i-finanse/skrot-wiadomosci-sroda-15-lipca-2100",
-      "title": "Skrót wiadomości - środa, 15 lipca, 21.00",
-      "content_html": "Przegląd najważniejszych wiadomości gospodarczych, krajowych i ze świata.",
-      "date_published": "2026-07-15T21:00:00+02:00",
       "source": "PAP Biznes"
     }
   ]
