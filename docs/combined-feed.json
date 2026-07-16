@@ -5,6 +5,30 @@
   "home_page_url": "https://www.bankier.pl",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/Iran-grozi-blokada-Morza-Czarnego-Nasdaq-mocno-w-dol-9169414.html",
+      "url": "https://www.bankier.pl/wiadomosc/Iran-grozi-blokada-Morza-Czarnego-Nasdaq-mocno-w-dol-9169414.html",
+      "title": "Iran grozi blokadą Morza Czerwonego. Nasdaq mocno w dół",
+      "content_html": "Groźba eskalacji wojny na Bliskim Wschodzie przysłoniła niezłe dane napływające z gospodarki USA i doprowadziła do silnej przeceny akcji spółek technologicznych.",
+      "date_published": "2026-07-16T23:05:00+02:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/gry-i-technologie/wyniki-kwartalne-netfliksa-zgodne-z-oczekiwaniami-ale-akcje-ida-w-dol",
+      "url": "https://biznes.pap.pl/wiadomosci/gry-i-technologie/wyniki-kwartalne-netfliksa-zgodne-z-oczekiwaniami-ale-akcje-ida-w-dol",
+      "title": "Wyniki kwartalne Netfliksa zgodne z oczekiwaniami, ale akcje idą w dół",
+      "content_html": "Przychody i zyski Netfliksa za drugi kwartał są zgodne z szacunkami Wall Street. Wzrost przychodów wynikał ze wzrostu liczby członków, cen i wyższych przychodów z reklam. Akcje platformy streamingowej",
+      "date_published": "2026-07-16T22:16:00+02:00",
+      "source": "PAP Biznes"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/rynki/dzien-na-rynkach-na-wall-street-spadki-ich-liderem-producenci-chipow",
+      "url": "https://biznes.pap.pl/wiadomosci/rynki/dzien-na-rynkach-na-wall-street-spadki-ich-liderem-producenci-chipow",
+      "title": "DZIEŃ NA RYNKACH: Na Wall Street spadki, ich liderem producenci chipów",
+      "content_html": "Czwartkowa sesja na Wall Street zakończyła się spadkami głównych indeksów, a liderami zniżek byli producenci chipów. W centrum uwagi inwestorów pozostają wyniki kwartalne spółek oraz najnowsze dane ma",
+      "date_published": "2026-07-16T22:10:00+02:00",
+      "source": "PAP Biznes"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Amnestia-dla-katalonskich-separatystow-z-zielonym-swiatlem-od-TSUE-9169391.html",
       "url": "https://www.bankier.pl/wiadomosc/Amnestia-dla-katalonskich-separatystow-z-zielonym-swiatlem-od-TSUE-9169391.html",
       "title": "Amnestia dla katalońskich separatystów z zielonym światłem od TSUE",
@@ -349,14 +373,6 @@
       "source": "PAP Biznes"
     },
     {
-      "id": "https://biznes.pap.pl/wiadomosci/gospodarka/w-ramach-kpo-podpisano-umowy-na-ok-2267-mld-zl-czyli-95-proc-srodkow-mfipr",
-      "url": "https://biznes.pap.pl/wiadomosci/gospodarka/w-ramach-kpo-podpisano-umowy-na-ok-2267-mld-zl-czyli-95-proc-srodkow-mfipr",
-      "title": "W ramach KPO podpisano umowy na ok. 226,7 mld zł, czyli 95 proc. środków - MFiPR",
-      "content_html": "W ramach Krajowego Planu Odbudowy podpisano już ponad 1,1 mln umów na ponad 226,7 mld zł, co stanowi blisko 95 proc. środków KPO - poinformowało Ministerstwo Funduszy i Polityki Regionalnej.",
-      "date_published": "2026-07-16T15:55:00+02:00",
-      "source": "PAP Biznes"
-    },
-    {
       "id": "https://www.bankier.pl/wiadomosc/Rzad-nie-planuje-przejecia-Qemetiki-Nie-ma-przeslanek-9169198.html",
       "url": "https://www.bankier.pl/wiadomosc/Rzad-nie-planuje-przejecia-Qemetiki-Nie-ma-przeslanek-9169198.html",
       "title": "Rząd nie planuje przejęcia Qemetiki. \"Nie ma przesłanek\"",
@@ -379,14 +395,6 @@
       "content_html": "Obywatel Ukrainy Illia K. odpowie przed wrocławskim sądem za akty dywersji, których dokonywał na zlecenie obcego wywiadu. Oskarżony, według prokuratury, malował na elewacjach budynków hasła gloryfikujące UPA, a także przygotowywał dywersję...",
       "date_published": "2026-07-16T15:49:00+02:00",
       "source": "Bankier.pl"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/firmy/wejscie-inwestora-moze-przyspieszyc-ekspansje-zabki-akcje-mocno-w-gore-opinia",
-      "url": "https://biznes.pap.pl/wiadomosci/firmy/wejscie-inwestora-moze-przyspieszyc-ekspansje-zabki-akcje-mocno-w-gore-opinia",
-      "title": "Wejście inwestora może przyspieszyć ekspansję Żabki, akcje mocno w górę (opinia)",
-      "content_html": "Potencjalne wejście do Grupy Żabka dużego, japońskiego koncernu handlowego pokazuje, że strategia firmy jest wiarygodna, jej know-how wartościowy, a polskie spółki mogą być atrakcyjne dla inwestorów z",
-      "date_published": "2026-07-16T15:48:00+02:00",
-      "source": "PAP Biznes"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Jest-wyrok-dla-Lukasza-Zaka-20-lat-wiezienia-za-tragedie-na-Trasie-Lazienkowskiej-9169106.html",
@@ -547,6 +555,14 @@
       "content_html": "Ministerstwo Obrony Narodowej chce, aby polskie wojsko i infrastruktura mogły błyskawicznie reagować na zagrożenia wojenne bez zbędnej biurokracji. Trwają zaawansowane prace nad wprowadzeniem stanu pełnej gotowości państwa do wojny. Nowe przepisy...",
       "date_published": "2026-07-16T13:35:00+02:00",
       "source": "Bankier.pl"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/firmy/chec-zakupu-mieszkania-na-rynku-wtornym-deklaruje-49-proc-ankietowanych-raport",
+      "url": "https://biznes.pap.pl/wiadomosci/firmy/chec-zakupu-mieszkania-na-rynku-wtornym-deklaruje-49-proc-ankietowanych-raport",
+      "title": "Chęć zakupu mieszkania na rynku wtórnym deklaruje 49 proc. ankietowanych - raport Otodom",
+      "content_html": "W II kw. 2026 roku chęć zakupu nieruchomości na rynku wtórnym deklaruje 49 proc. ankietowanych, tyle samo co w analogicznym okresie poprzedniego roku – wynika z raportu \"Monitor Nastrojów Klientów Nie",
+      "date_published": "2026-07-16T13:33:00+02:00",
+      "source": "PAP Biznes"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Goraco-w-Kijowie-kluczowy-minister-odchodzi-z-rzadu-9168818.html",
@@ -1077,14 +1093,6 @@
       "source": "Bankier.pl"
     },
     {
-      "id": "https://www.bankier.pl/wiadomosc/Otwarta-rana-zamknieta-po-trzech-wiekach-Hiszpania-burzy-plot-graniczny-z-Gibraltarem-9168831.html",
-      "url": "https://www.bankier.pl/wiadomosc/Otwarta-rana-zamknieta-po-trzech-wiekach-Hiszpania-burzy-plot-graniczny-z-Gibraltarem-9168831.html",
-      "title": "„Otwarta rana” zamknięta po trzech wiekach. Hiszpania burzy płot graniczny z Gibraltarem",
-      "content_html": "Porozumienie w sprawie statusu Gibraltaru usuwa „trwającą od trzech stuleci otwartą ranę” – powiedział w środę premier Hiszpanii Pedro Sanchez podczas uroczystości rozbiórki ogrodzenia na granicy Hiszpanii z Gibraltarem.",
-      "date_published": "2026-07-16T08:00:00+02:00",
-      "source": "Bankier.pl"
-    },
-    {
       "id": "https://biznes.pap.pl/wiadomosci/gospodarka/senat-chce-szerszego-uzasadnienia-konstrukcji-podatku-od-wartosci-aktywow-w",
       "url": "https://biznes.pap.pl/wiadomosci/gospodarka/senat-chce-szerszego-uzasadnienia-konstrukcji-podatku-od-wartosci-aktywow-w",
       "title": "Senat chce szerszego uzasadnienia konstrukcji podatku od wartości aktywów w ustawie o OKI",
@@ -1202,22 +1210,6 @@
       "title": "Średnia cena koszyka zakupowego w czerwcu spadła o 1,78 proc. mdm - ASM SFA",
       "content_html": "Średnia cena koszyka zakupowego w czerwcu spadła w Polsce o 1,78 proc. mdm, czyli o 5,90 zł i wyniosła 325,64 zł - podała agencja badawcza ASM SFA.",
       "date_published": "2026-07-16T05:49:00+02:00",
-      "source": "PAP Biznes"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/S-P-500-po-cichu-podchodzi-pod-szczyt-hossy-Skromne-wzrosty-pomimo-Iranu-9168845.html",
-      "url": "https://www.bankier.pl/wiadomosc/S-P-500-po-cichu-podchodzi-pod-szczyt-hossy-Skromne-wzrosty-pomimo-Iranu-9168845.html",
-      "title": "S&P 500 po cichu podchodzi pod szczyt hossy. Skromne wzrosty pomimo Iranu Amerykańskie giełdy zakończyły środową sesję umiarkowanymi wzrostami głównych indeksów, a inwestorzy analizują sytuację na Bliskim Wschodzie, najnowsze dane o inflacji i kwartalne wyniki spółek.",
-      "content_html": "",
-      "date_published": "2026-07-15T22:14:00+02:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/rynki/dzien-na-rynkach-na-wall-street-wzrosty-w-centrum-uwagi-inflacja-i-wyniki-spolek",
-      "url": "https://biznes.pap.pl/wiadomosci/rynki/dzien-na-rynkach-na-wall-street-wzrosty-w-centrum-uwagi-inflacja-i-wyniki-spolek",
-      "title": "DZIEŃ NA RYNKACH: Na Wall Street wzrosty, w centrum uwagi inflacja i wyniki spółek",
-      "content_html": "Amerykańskie giełdy zakończyły środową sesję umiarkowanymi wzrostami głównych indeksów, a inwestorzy analizują sytuację na Bliskim Wschodzie, najnowsze dane o inflacji i kwartalne wyniki spółek. Mocno",
-      "date_published": "2026-07-15T22:13:00+02:00",
       "source": "PAP Biznes"
     }
   ]
