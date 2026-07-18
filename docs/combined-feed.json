@@ -5,6 +5,38 @@
   "home_page_url": "https://www.bankier.pl",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/Nowy-rekord-swiata-Jedna-strona-komiksu-za-14-mln-zl-9168323.html",
+      "url": "https://www.bankier.pl/wiadomosc/Nowy-rekord-swiata-Jedna-strona-komiksu-za-14-mln-zl-9168323.html",
+      "title": "Nowy rekord świata. Jedna strona komiksu za 14 mln zł",
+      "content_html": "Oryginalna plansza z pierwszym pojawieniem się Iron Mana poszła na aukcji Heritage Auctions za 3,875 mln dolarów. To rekord świata dla oryginalnych plansz komiksowych. Rysunek Dona Hecka z 1963 r. przebił dotychczasowego lidera o pół miliona. Sześciu...",
+      "date_published": "2026-07-18T07:00:00+02:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Inflacja-trafia-w-cel-paliwowy-koszmar-nawiedzil-stacje-i-S-P-500-coraz-bardziej-zalezny-od-technologii-9169562.html",
+      "url": "https://www.bankier.pl/wiadomosc/Inflacja-trafia-w-cel-paliwowy-koszmar-nawiedzil-stacje-i-S-P-500-coraz-bardziej-zalezny-od-technologii-9169562.html",
+      "title": "Inflacja trafia w cel, paliwowy koszmar nawiedził stacje i S&P 500 coraz bardziej zależny od technologii",
+      "content_html": "Cześć, tu Inwestor Wojtek. D zisiejszy przegląd zaczynamy od danych, na które czekali ekonomiści i inwestorzy. Inflacja w Polsce znalazła się dokładnie w celu Narodowego Banku Polskiego, a najnowsze odczyty sugerują, że presja cenowa pozostaje...",
+      "date_published": "2026-07-18T07:00:00+02:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Raport-z-Toru-Jastrzab-Ostatni-taniec-gwardii-Hyundaia-9169597.html",
+      "url": "https://www.bankier.pl/wiadomosc/Raport-z-Toru-Jastrzab-Ostatni-taniec-gwardii-Hyundaia-9169597.html",
+      "title": "Raport z Toru Jastrząb: Ostatni taniec gwardii Hyundaia",
+      "content_html": "Na zaproszenie Hyundai Polska, jako redakcja Bankier.pl, zameldowaliśmy się na Torze Jastrząb. Cel był prosty: wziąć udział w Hyundai Product Days 2026 i sprawdzić, jak radzi sobie marka, która w ostatnich latach sukcesywnie zwiększa swój udział...",
+      "date_published": "2026-07-18T07:00:00+02:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Zarabiamy-swietnie-ale-nie-wiemy-jak-dlugo-to-jeszcze-potrwa-9169965.html",
+      "url": "https://www.bankier.pl/wiadomosc/Zarabiamy-swietnie-ale-nie-wiemy-jak-dlugo-to-jeszcze-potrwa-9169965.html",
+      "title": "„Zarabiamy świetnie, ale nie wiemy, jak długo to jeszcze potrwa”",
+      "content_html": "Na Wall Street panuje radość z kolejnych doskonałych wyników finansowych spółek. Pojawia się jednak również niepokój o to, jak i kiedy ta impreza się skończy. Część ekspertów martwi się zachowaniem inwestorów, inni z kolei szukają okazji...",
+      "date_published": "2026-07-18T07:00:00+02:00",
+      "source": "Bankier.pl"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Ciag-dalszy-spadkow-na-Nasdaqu-Ale-szeroki-rynek-nie-wyglada-tak-zle-9170059.html",
       "url": "https://www.bankier.pl/wiadomosc/Ciag-dalszy-spadkow-na-Nasdaqu-Ale-szeroki-rynek-nie-wyglada-tak-zle-9170059.html",
       "title": "Ciąg dalszy spadków na Nasdaqu. Ale szeroki rynek nie wygląda tak źle",
@@ -1125,14 +1157,6 @@
       "source": "Bankier.pl"
     },
     {
-      "id": "https://www.bankier.pl/wiadomosc/Ruszyly-roboty-przy-drodze-do-elektrowni-jadrowej-Zaawansowanie-przekroczylo-5-proc-9169465.html",
-      "url": "https://www.bankier.pl/wiadomosc/Ruszyly-roboty-przy-drodze-do-elektrowni-jadrowej-Zaawansowanie-przekroczylo-5-proc-9169465.html",
-      "title": "Ruszyły roboty przy drodze do elektrowni jądrowej. Zaawansowanie przekroczyło 5 proc.",
-      "content_html": "Nie ma zagrożenia dla terminów budowy drogi krajowej do elektrowni jądrowej Lubiatowo-Kopalino. GDDKiA zapewnia, że procedury przebiegają standardowo, a decyzje ZRID zostaną wydane w III kwartale br.",
-      "date_published": "2026-07-17T08:30:00+02:00",
-      "source": "Bankier.pl"
-    },
-    {
       "id": "https://biznes.pap.pl/wiadomosci/rynki/aktywa-krajowych-funduszy-esg-w-i-polroczu-przekroczyly-36-mld-zl-analizypl",
       "url": "https://biznes.pap.pl/wiadomosci/rynki/aktywa-krajowych-funduszy-esg-w-i-polroczu-przekroczyly-36-mld-zl-analizypl",
       "title": "Aktywa krajowych funduszy ESG w I półroczu przekroczyły 36 mld zł - Analizy.pl",
@@ -1141,124 +1165,12 @@
       "source": "PAP Biznes"
     },
     {
-      "id": "https://www.bankier.pl/wiadomosc/Zurek-po-wyrokach-TSUE-To-kolejny-krok-do-przywrocenia-praworzadnosci-9169397.html",
-      "url": "https://www.bankier.pl/wiadomosc/Zurek-po-wyrokach-TSUE-To-kolejny-krok-do-przywrocenia-praworzadnosci-9169397.html",
-      "title": "Żurek po wyrokach TSUE: To kolejny krok do przywrócenia praworządności",
-      "content_html": "Kolejne decyzje Trybunału Sprawiedliwości UE przybliżają nas do przywracania praworządności i do tego, „by Sąd Najwyższy był naprawdę Sądem Najwyższym” - ocenił minister sprawiedliwości Waldemar Żurek. Odniósł się w ten sposób do...",
-      "date_published": "2026-07-17T08:28:00+02:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Obligacje-korporacyjne-z-nowymi-indeksami-Teraz-beda-szukac-plynnosci-9169431.html",
-      "url": "https://www.bankier.pl/wiadomosc/Obligacje-korporacyjne-z-nowymi-indeksami-Teraz-beda-szukac-plynnosci-9169431.html",
-      "title": "Kogo przyciągną \"husarze\"? Ważny rynek bardziej przejrzysty, teraz powalczy o płynność",
-      "content_html": "Inwestorzy dostali do rąk dwa nowe wskaźniki, pozwalające mierzyć koniunkturę na rynku obligacji korporacyjnych, a na jesień warszawska giełda zapowiada ogłoszenie reform mających rozruszać rynek Catalyst. Dziś długiem emitowanym na polskim...",
-      "date_published": "2026-07-17T08:27:00+02:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Tragiczna-noc-w-Odessie-Rosyjskie-rakiety-uderzyly-w-blok-mieszkalny-i-przedszkole-9169435.html",
-      "url": "https://www.bankier.pl/wiadomosc/Tragiczna-noc-w-Odessie-Rosyjskie-rakiety-uderzyly-w-blok-mieszkalny-i-przedszkole-9169435.html",
-      "title": "Tragiczna noc w Odessie. Rosyjskie rakiety uderzyły w blok mieszkalny i przedszkole",
-      "content_html": "Dwie osoby zginęły, a osiem zostało rannych w wyniku rosyjskich ataków powietrznych na Odessę na południu Ukrainy, przeprowadzonych w nocy z czwartku na piątek - poinformował zastępca mera miasta Ołeksandr Fiłatow.",
-      "date_published": "2026-07-17T08:25:00+02:00",
-      "source": "Bankier.pl"
-    },
-    {
       "id": "https://biznes.pap.pl/wiadomosci/rynki/najwazniejsze-indeksy-gieldowe-w-azji-767",
       "url": "https://biznes.pap.pl/wiadomosci/rynki/najwazniejsze-indeksy-gieldowe-w-azji-767",
       "title": "Najważniejsze indeksy giełdowe w Azji",
       "content_html": "Poniżej aktualne indeksy wybranych giełd w Azji:",
       "date_published": "2026-07-17T08:24:00+02:00",
       "source": "PAP Biznes"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/firmy/w-i-kw-systemem-blik-zrealizowano-7550-mln-zlecen-o-40-proc-mniej-kdk-nbp",
-      "url": "https://biznes.pap.pl/wiadomosci/firmy/w-i-kw-systemem-blik-zrealizowano-7550-mln-zlecen-o-40-proc-mniej-kdk-nbp",
-      "title": "W I kw. systemem BLIK zrealizowano 755,0 mln zleceń, o 4,0 proc. mniej kdk - NBP",
-      "content_html": "W I kwartale systemem BLIK zrealizowano 755,0 mln zleceń, o 4,0 proc. mniej kdk - podał w raporcie NBP.",
-      "date_published": "2026-07-17T07:53:00+02:00",
-      "source": "PAP Biznes"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/rynki/rentownosci-obligacji-wybranych-panstw-tabela-2657",
-      "url": "https://biznes.pap.pl/wiadomosci/rynki/rentownosci-obligacji-wybranych-panstw-tabela-2657",
-      "title": "Rentowności obligacji wybranych państw (tabela)",
-      "content_html": "Poniżej zestawienie rentowności obligacji wybranych państw.",
-      "date_published": "2026-07-17T07:32:00+02:00",
-      "source": "PAP Biznes"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/rynki/notowania-metali-bazowych-wegla-i-paliw-tabela-2568",
-      "url": "https://biznes.pap.pl/wiadomosci/rynki/notowania-metali-bazowych-wegla-i-paliw-tabela-2568",
-      "title": "Notowania metali bazowych, węgla i paliw (tabela)",
-      "content_html": "Notowania metali bazowych na London Metal Exchange, uprawnień EUA do emisji CO2, ceny węgla energetycznego ARA na przyszły rok oraz ceny paliw.",
-      "date_published": "2026-07-17T07:32:00+02:00",
-      "source": "PAP Biznes"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/rynki/zamkniecia-na-gieldach-w-ameryce-polnocnej-i-poludniowej-tabela-3176",
-      "url": "https://biznes.pap.pl/wiadomosci/rynki/zamkniecia-na-gieldach-w-ameryce-polnocnej-i-poludniowej-tabela-3176",
-      "title": "Zamknięcia na giełdach w Ameryce Północnej i Południowej (tabela)",
-      "content_html": "Poniżej zamknięcia i zmiany indeksów w USA. Kanadzie, Meksyku, Brazylii, Chile, Kolumbii i Argentynie:",
-      "date_published": "2026-07-17T07:32:00+02:00",
-      "source": "PAP Biznes"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/firmy/wartosc-rynku-aptecznego-po-15-dniach-lipca-wzrosla-o-49-proc-rdr-pex",
-      "url": "https://biznes.pap.pl/wiadomosci/firmy/wartosc-rynku-aptecznego-po-15-dniach-lipca-wzrosla-o-49-proc-rdr-pex",
-      "title": "Wartość rynku aptecznego po 15 dniach lipca wzrosła o 4,9 proc. rdr - PEX PharmaSequence",
-      "content_html": "Wartość rynku aptecznego po 15 dniach lipca wzrosła o 4,9 proc. rdr - poinformowała w raporcie firma badawcza PEX PharmaSequence.",
-      "date_published": "2026-07-17T07:31:00+02:00",
-      "source": "PAP Biznes"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Netflix-rozczarowal-rynek-Akcje-traca-9-mimo-solidnych-wynikow-9169417.html",
-      "url": "https://www.bankier.pl/wiadomosc/Netflix-rozczarowal-rynek-Akcje-traca-9-mimo-solidnych-wynikow-9169417.html",
-      "title": "Netflix rozczarował rynek? Akcje tracą 9% mimo solidnych wyników Przychody i zyski Netfliksa za drugi kwartał są zgodne z szacunkami Wall Street. Wzrost przychodów wynikał ze wzrostu liczby członków, cen i wyższych przychodów z reklam. Akcje platformy streamingowej w handlu pozasesyjnym idą jednak ok 9 proc. w dół.",
-      "content_html": "",
-      "date_published": "2026-07-17T07:22:00+02:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/ekonomia-biznes-i-finanse/przewidywane-najwazniejsze-wydarzenia-gospodarcze-2026-07-17",
-      "url": "https://biznes.pap.pl/wiadomosci/ekonomia-biznes-i-finanse/przewidywane-najwazniejsze-wydarzenia-gospodarcze-2026-07-17",
-      "title": "Przewidywane najważniejsze wydarzenia gospodarcze 2026-07-17",
-      "content_html": "Przewidywane najważniejsze wydarzenia gospodarcze 2026-07-17 - 2026-07-23",
-      "date_published": "2026-07-17T07:00:00+02:00",
-      "source": "PAP Biznes"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/rynki/kalendarium-rynku-newconnect-2026-07-17",
-      "url": "https://biznes.pap.pl/wiadomosci/rynki/kalendarium-rynku-newconnect-2026-07-17",
-      "title": "Kalendarium rynku NewConnect 2026-07-17",
-      "content_html": "Kalendarium rynku NewConnect 2026-07-17 - 2026-07-23",
-      "date_published": "2026-07-17T07:00:00+02:00",
-      "source": "PAP Biznes"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/rynki/kalendarium-rynku-kapitalowego-gpw-2026-07-17",
-      "url": "https://biznes.pap.pl/wiadomosci/rynki/kalendarium-rynku-kapitalowego-gpw-2026-07-17",
-      "title": "Kalendarium rynku kapitałowego GPW 2026-07-17",
-      "content_html": "Kalendarium rynku kapitałowego GPW 2026-07-17 - 2026-07-23",
-      "date_published": "2026-07-17T07:00:00+02:00",
-      "source": "PAP Biznes"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Krotka-gra-szybkie-zyski-Tuszkiewicz-Najlepszy-czas-na-start-jest-wlasnie-dzis-9169034.html",
-      "url": "https://www.bankier.pl/wiadomosc/Krotka-gra-szybkie-zyski-Tuszkiewicz-Najlepszy-czas-na-start-jest-wlasnie-dzis-9169034.html",
-      "title": "WAKACJE NA GIEŁDZIE Krótka gra, szybkie zyski? Tuszkiewicz: Najlepszy czas na start jest właśnie dziś Giełda to nie tylko liczby, wykresy i potężne zyski, ale przede wszystkim prawdziwa szkoła emocji, charakteru i radzenia sobie ze stresem. Każdy inwestor pamięta swoje pierwsze kroki – nierzadko stawiane w szkolnych ławkach podczas wirtualnych symulacji, które potrafią zaszczepić rynkową pasję na całe życie. Czy da się uniknąć bolesnego zderzenia z giełdową rzeczywistością, gdy przechodzimy na prawdziwe pieniądze? Jak skutecznie pomnożyć wirtualny kapitał, gdy mamy na to tylko kilka letnich tygodni? O blaskach i cieniach tradingu, pułapkach dla początkujących oraz strategiach na rynkowy sukces rozmawiają Aleksander Ogrodnik oraz Marcin Tuszkiewicz, CEO Investio i Squaber.com",
-      "content_html": "",
-      "date_published": "2026-07-17T06:00:00+02:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Handel-uwolniony-na-handlowych-gigantach-Same-dobre-informacje-dotyczace-Allegro-Pepco-i-Zabki-9169264.html",
-      "url": "https://www.bankier.pl/wiadomosc/Handel-uwolniony-na-handlowych-gigantach-Same-dobre-informacje-dotyczace-Allegro-Pepco-i-Zabki-9169264.html",
-      "title": "Promocje cenowe na Allegro, Pepco i Żabce się skończyły. Akcje najdroższe od lat Na GPW furorę robią spółki zajmujące się szeroko pojętym handlem. Zarówno akcje Allegro, Pepco i Grupy Żabka biją tegorocznymi stopami zwrotu szeroki indeks, napędzane pozytywnymi doniesieniami, wynikami i zainteresowaniem zagranicznego kapitału.",
-      "content_html": "",
-      "date_published": "2026-07-17T06:00:00+02:00",
-      "source": "Bankier.pl"
     }
   ]
 }
