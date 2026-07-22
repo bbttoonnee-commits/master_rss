@@ -5,6 +5,14 @@
   "home_page_url": "https://www.bankier.pl",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/Na-Wall-Street-tylko-lekkie-spadki-Inwestorzy-czekali-na-wyniki-Google-a-9172042.html",
+      "url": "https://www.bankier.pl/wiadomosc/Na-Wall-Street-tylko-lekkie-spadki-Inwestorzy-czekali-na-wyniki-Google-a-9172042.html",
+      "title": "Na Wall Street tylko lekkie spadki. Inwestorzy czekali na wyniki Google'a",
+      "content_html": "Środa na Wall Street zakończyła się lekkimi spadkami głównych indeksów, a w centrum uwagi są wyniki Tesli i Alphabetu, które pokażą swoje kwartalne dokonania po zakończeniu sesji. Mocno drożała ropa naftowa.",
+      "date_published": "2026-07-22T23:10:00+02:00",
+      "source": "Bankier.pl"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Senat-bez-poprawek-do-ustawy-o-Osobistych-Kontach-Inwestycyjnych-9172037.html",
       "url": "https://www.bankier.pl/wiadomosc/Senat-bez-poprawek-do-ustawy-o-Osobistych-Kontach-Inwestycyjnych-9172037.html",
       "title": "Senat bez poprawek do ustawy o Osobistych Kontach Inwestycyjnych",
@@ -13,12 +21,44 @@
       "source": "Bankier.pl"
     },
     {
+      "id": "https://biznes.pap.pl/wiadomosci/gry-i-technologie/zyski-tesli-ponizej-oczekiwan-pomimo-wzrostu-przychodow",
+      "url": "https://biznes.pap.pl/wiadomosci/gry-i-technologie/zyski-tesli-ponizej-oczekiwan-pomimo-wzrostu-przychodow",
+      "title": "Zyski Tesli poniżej oczekiwań pomimo wzrostu przychodów",
+      "content_html": "Tesla zanotowała słabsze od oczekiwań zyski za drugi kwartał, mimo że przychody przekroczyły szacunki. Producent samochodów elektrycznych pokazał ujemne przepływy pieniężne i wzrost wydatków inwestycy",
+      "date_published": "2026-07-22T22:37:00+02:00",
+      "source": "PAP Biznes"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/przychody-i-wydatki-inwestycyjne-alphabet-w-drugim-kwartale-powyzej-oczekiwan",
+      "url": "https://biznes.pap.pl/wiadomosci/przychody-i-wydatki-inwestycyjne-alphabet-w-drugim-kwartale-powyzej-oczekiwan",
+      "title": "Przychody i wydatki inwestycyjne Alphabet w drugim kwartale powyżej oczekiwań",
+      "content_html": "Alphabet, spółka macierzysta Google, opublikował wyniki finansowe za drugi kwartał roku obrotowego. Wyższe od oczekiwań okazały się przychody koncernu, ale również jego wydatki inwestycyjne.",
+      "date_published": "2026-07-22T22:24:00+02:00",
+      "source": "PAP Biznes"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/rynki/dzien-na-rynkach-gieldy-w-usa-wrocily-do-lekkich-spadkow",
+      "url": "https://biznes.pap.pl/wiadomosci/rynki/dzien-na-rynkach-gieldy-w-usa-wrocily-do-lekkich-spadkow",
+      "title": "DZIEŃ NA RYNKACH: Giełdy w USA wróciły do lekkich spadków",
+      "content_html": "Środa na Wall Street zakończyła się lekkimi spadkami głównych indeksów, a w centrum uwagi są wyniki amerykańskich spółek, w tym Tesli i Alphabet, które pokażą swoje kwartalne dokonania po zakończeniu ",
+      "date_published": "2026-07-22T22:09:00+02:00",
+      "source": "PAP Biznes"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Examobile-zakonczyl-przeglad-opcji-strategicznych-9172012.html",
       "url": "https://www.bankier.pl/wiadomosc/Examobile-zakonczyl-przeglad-opcji-strategicznych-9172012.html",
       "title": "Examobile zakończył przegląd opcji strategicznych",
       "content_html": "Examobile zakończył przegląd opcji strategicznych i zarząd w porozumieniu z Radą Nadzorczą planuje podjąć działania ukierunkowane na rozwój nowych obszarów wzrostu, obejmujące w szczególności stopniową optymalizację i ograniczanie zaangażowania...",
       "date_published": "2026-07-22T22:00:00+02:00",
       "source": "Bankier.pl"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/rynki/senat-bez-poprawek-do-ustawy-o-osobistych-kontach-inwestycyjnych",
+      "url": "https://biznes.pap.pl/wiadomosci/rynki/senat-bez-poprawek-do-ustawy-o-osobistych-kontach-inwestycyjnych",
+      "title": "Senat bez poprawek do ustawy o Osobistych Kontach Inwestycyjnych",
+      "content_html": "Senat w środę nie zaproponował poprawek do ustawy o Osobistych Kontach Inwestycyjnych; teraz trafi ona na biurko prezydenta. Nowe przepisy zakładają, że aktywa inwestycyjne na koncie będą zwolnione z ",
+      "date_published": "2026-07-22T21:52:00+02:00",
+      "source": "PAP Biznes"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Acciona-Construccion-Polonia-gotowy-do-udzialu-w-emisji-Mostostalu-Warszawa-ale-czeka-na-decyzje-KNF-9171995.html",
@@ -221,14 +261,6 @@
       "source": "Bankier.pl"
     },
     {
-      "id": "https://biznes.pap.pl/wiadomosci/firmy/pko-bp-zawarl-transakcje-sekurytyzacji-syntetycznej-na-portfelu-kredytow",
-      "url": "https://biznes.pap.pl/wiadomosci/firmy/pko-bp-zawarl-transakcje-sekurytyzacji-syntetycznej-na-portfelu-kredytow",
-      "title": "PKO BP zawarł transakcję sekurytyzacji syntetycznej na portfelu kredytów korporacyjnych",
-      "content_html": "PKO BP zawarł pakiet umów dotyczących sekurytyzacji syntetycznej realizowanej na portfelu kredytów korporacyjnych o łącznej wartości nominalnej wynoszącej 8.500 mln zł - poinformował bank w komunikaci",
-      "date_published": "2026-07-22T18:16:00+02:00",
-      "source": "PAP Biznes"
-    },
-    {
       "id": "https://www.bankier.pl/wiadomosc/Ryvu-ma-aneks-z-Berlin-Chemie-do-globalnej-umowy-licencyjnej-dot-dapolsertibu-9171909.html",
       "url": "https://www.bankier.pl/wiadomosc/Ryvu-ma-aneks-z-Berlin-Chemie-do-globalnej-umowy-licencyjnej-dot-dapolsertibu-9171909.html",
       "title": "Ryvu ma aneks z Berlin-Chemie do globalnej umowy licencyjnej dot. dapolsertibu",
@@ -237,28 +269,20 @@
       "source": "Bankier.pl"
     },
     {
-      "id": "https://biznes.pap.pl/wiadomosci/rynki/dzien-na-rynkach-wzrosty-na-gieldach-w-europie-oczekiwanie-na-wyniki-alphabet",
-      "url": "https://biznes.pap.pl/wiadomosci/rynki/dzien-na-rynkach-wzrosty-na-gieldach-w-europie-oczekiwanie-na-wyniki-alphabet",
-      "title": "DZIEŃ NA RYNKACH: Wzrosty na giełdach w Europie; oczekiwanie na wyniki Alphabet",
-      "content_html": "Indeksy w Europie zwyżkowały na koniec sesji w środę. Inwestorzy oczekują na wyniki Alphabet, aby ocenić czy rynek AI nadal ma duży potencjał do wzrostu.",
-      "date_published": "2026-07-22T18:03:00+02:00",
-      "source": "PAP Biznes"
+      "id": "https://www.bankier.pl/wiadomosc/Saudyjska-ropa-w-pulapce-Rebelianci-oglaszaja-blokade-tankowce-zmieniaja-kurs-9171882.html",
+      "url": "https://www.bankier.pl/wiadomosc/Saudyjska-ropa-w-pulapce-Rebelianci-oglaszaja-blokade-tankowce-zmieniaja-kurs-9171882.html",
+      "title": "Saudyjska ropa w pułapce. Rebelianci ogłaszają blokadę, tankowce zmieniają kurs",
+      "content_html": "Cztery tankowce płynące przez Morze Czerwone zmieniły swoje trasy, gdy jemeńscy rebelianci Huti zagrozili blokadą położonych tam saudyjskich portów - poinformował w środę Reuters. Unijna misja wojskowa Aspides ostrzegła, by jednostki związane...",
+      "date_published": "2026-07-22T17:29:00+02:00",
+      "source": "Bankier.pl"
     },
     {
-      "id": "https://biznes.pap.pl/wiadomosci/rynki/zamkniecia-na-gieldach-w-europie-tabela-2905",
-      "url": "https://biznes.pap.pl/wiadomosci/rynki/zamkniecia-na-gieldach-w-europie-tabela-2905",
-      "title": "Zamknięcia na giełdach w Europie (tabela)",
-      "content_html": "Poniżej zamknięcia i zmiany wybranych indeksów giełdowych w Europie.",
-      "date_published": "2026-07-22T18:00:00+02:00",
-      "source": "PAP Biznes"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/firmy/digital-network-szacuje-w-ii-kw-609-mln-zl-skons-przychodow-o-198-proc-wiecej-rdr",
-      "url": "https://biznes.pap.pl/wiadomosci/firmy/digital-network-szacuje-w-ii-kw-609-mln-zl-skons-przychodow-o-198-proc-wiecej-rdr",
-      "title": "Digital Network szacuje w II kw. 60,9 mln zł skons. przychodów, o 198 proc. więcej rdr",
-      "content_html": "Digital Network szacuje, że w drugim kwartale 2026 roku miał 60,9 mln zł skonsolidowanych przychodów, o 198 proc. więcej rdr - podała spółka w komunikacie.",
-      "date_published": "2026-07-22T17:38:00+02:00",
-      "source": "PAP Biznes"
+      "id": "https://www.bankier.pl/wiadomosc/Przemysl-budownictwo-i-konsumpcja-ida-jak-burza-PZU-podnosi-prognoze-wzrostu-PKB-do-3-6-procent-9171881.html",
+      "url": "https://www.bankier.pl/wiadomosc/Przemysl-budownictwo-i-konsumpcja-ida-jak-burza-PZU-podnosi-prognoze-wzrostu-PKB-do-3-6-procent-9171881.html",
+      "title": "Przemysł, budownictwo i konsumpcja idą jak burza. PZU podnosi prognozę wzrostu PKB do 3,6 procent",
+      "content_html": "Czerwcowe dane makro potwierdzają dobrą kondycję polskiej gospodarki, a wzrost aktywności obejmuje przemysł, budownictwo i konsumpcję - ocenił w środę główny ekonomista PZU Dawid Pachucki. Po lepszych od oczekiwań danych, PZU podniósł prognozę...",
+      "date_published": "2026-07-22T17:26:00+02:00",
+      "source": "Bankier.pl"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Mniejszy-import-wyzszy-eksport-Znamy-bilans-w-handlu-z-Mercosur-9171879.html",
@@ -389,6 +413,14 @@
       "source": "Bankier.pl"
     },
     {
+      "id": "https://biznes.pap.pl/wiadomosci/firmy/pewne-elementy-stale-w-taryfie-za-prad-moga-byc-przeniesione-do-czesci-zmiennej",
+      "url": "https://biznes.pap.pl/wiadomosci/firmy/pewne-elementy-stale-w-taryfie-za-prad-moga-byc-przeniesione-do-czesci-zmiennej",
+      "title": "Pewne elementy stałe w taryfie za prąd mogą być przeniesione do części zmiennej - prezes PSE (wywiad)",
+      "content_html": "W związku z nową strukturą rynku energii należy rozpowszechnić taryfy dynamiczne, nie tylko oferty dynamiczne na energię, ale też taryfy dystrybucyjne czy nawet przesyłową - ocenił w rozmowie z PAP Bi",
+      "date_published": "2026-07-22T15:10:00+02:00",
+      "source": "PAP Biznes"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Polacy-coraz-gorzej-patrza-w-przyszlosc-Polowa-uwaza-ze-kraj-zmierza-w-zlym-kierunku-9171748.html",
       "url": "https://www.bankier.pl/wiadomosc/Polacy-coraz-gorzej-patrza-w-przyszlosc-Polowa-uwaza-ze-kraj-zmierza-w-zlym-kierunku-9171748.html",
       "title": "Polacy coraz gorzej patrzą w przyszłość. Połowa uważa, że kraj zmierza w złym kierunku",
@@ -469,6 +501,14 @@
       "source": "Bankier.pl"
     },
     {
+      "id": "https://biznes.pap.pl/wiadomosci/nieruchomosci/w-i-pol-26-ponad-3-mld-euro-transakcji-na-rynku-nieruchomosci-komercyjnych",
+      "url": "https://biznes.pap.pl/wiadomosci/nieruchomosci/w-i-pol-26-ponad-3-mld-euro-transakcji-na-rynku-nieruchomosci-komercyjnych",
+      "title": "W I poł. '26 ponad 3 mld euro transakcji na rynku nieruchomości komercyjnych - Knight Frank",
+      "content_html": "W pierwszej połowie 2026 roku łączny wolumen transakcji na rynku nieruchomości komercyjnych przekroczył 3 mld euro, co oznacza wzrost o 77 proc. rok do roku - poinformował Knight Frank w raporcie.",
+      "date_published": "2026-07-22T14:33:00+02:00",
+      "source": "PAP Biznes"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Bochenek-ostrzega-dzialaczy-PiS-Rozwoj-Plus-prowadzi-dzialalnosc-rozlamowa-9171710.html",
       "url": "https://www.bankier.pl/wiadomosc/Bochenek-ostrzega-dzialaczy-PiS-Rozwoj-Plus-prowadzi-dzialalnosc-rozlamowa-9171710.html",
       "title": "Bochenek ostrzega działaczy PiS. \"Rozwój Plus\" prowadzi działalność rozłamową",
@@ -477,12 +517,28 @@
       "source": "Bankier.pl"
     },
     {
+      "id": "https://biznes.pap.pl/wiadomosci/gospodarka/w-lipcu-pogorszyly-sie-niemal-wszystkie-wskazniki-nastrojow-dot-sytuacji-w",
+      "url": "https://biznes.pap.pl/wiadomosci/gospodarka/w-lipcu-pogorszyly-sie-niemal-wszystkie-wskazniki-nastrojow-dot-sytuacji-w",
+      "title": "W lipcu pogorszyły się niemal wszystkie wskaźniki nastrojów dot. sytuacji w kraju - CBOS",
+      "content_html": "W lipcu pogorszyły się niemal wszystkie wskaźniki nastrojów społecznych dotyczące sytuacji w kraju – wynika z sondażu CBOS.",
+      "date_published": "2026-07-22T14:30:00+02:00",
+      "source": "PAP Biznes"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Tarcza-Wschod-projektem-calego-NATO-Polska-czeka-na-francuskie-wojska-9171703.html",
       "url": "https://www.bankier.pl/wiadomosc/Tarcza-Wschod-projektem-calego-NATO-Polska-czeka-na-francuskie-wojska-9171703.html",
       "title": "Tarcza Wschód projektem całego NATO. Polska czeka na francuskie wojska",
       "content_html": "Trwa rekonesans przed wparciem wojsk francuskich w ramach programu Tarcza Wschód - poinformował w środę na platformie X szef MON, wicepremier Władysław Kosiniak-Kamysz. Podkreślił przy tym, że Tarcza Wschód staje się wspólnym projektem sojuszników...",
       "date_published": "2026-07-22T14:26:00+02:00",
       "source": "Bankier.pl"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/firmy/sprzedaz-miedzi-przez-grupe-kghm-wyniosla-w-vi-636-tys-ton-wzrost-o-1-proc-rdr",
+      "url": "https://biznes.pap.pl/wiadomosci/firmy/sprzedaz-miedzi-przez-grupe-kghm-wyniosla-w-vi-636-tys-ton-wzrost-o-1-proc-rdr",
+      "title": "Sprzedaż miedzi przez grupę KGHM wyniosła w VI 63,6 tys. ton, wzrost o 1 proc. rdr",
+      "content_html": "Sprzedaż miedzi przez grupę KGHM wyniosła w czerwcu 63,6 tys. ton i była wyższa o 1 proc. rdr, a produkcja miedzi płatnej wyniosła 59,3 tys. ton i była wyższa o 3 proc. rdr - podała grupa w komunikaci",
+      "date_published": "2026-07-22T14:23:00+02:00",
+      "source": "PAP Biznes"
     },
     {
       "id": "https://biznes.pap.pl/wiadomosci/rynki/dzien-na-rynkach-futures-w-usa-spadaja-rynki-czekaja-na-wyniki-alphabet-za-ii-kw",
@@ -651,14 +707,6 @@
       "content_html": "Po zakończeniu programu Zintegrowanej Sieci Kolejowej w ciągu roku w Polsce pociągami podróżować będzie 800 mln pasażerów - wskazał w środę premier Donald Tusk. Zgodnie z zapowiedziami przedstawicieli rządu, w 2027 r. polska kolej przewiezie...",
       "date_published": "2026-07-22T12:53:00+02:00",
       "source": "Bankier.pl"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/firmy/blik-bedzie-blokowac-platnosci-kierowane-do-nielegalnych-serwisow-hazardowych",
-      "url": "https://biznes.pap.pl/wiadomosci/firmy/blik-bedzie-blokowac-platnosci-kierowane-do-nielegalnych-serwisow-hazardowych",
-      "title": "BLIK będzie blokować płatności kierowane do nielegalnych serwisów hazardowych",
-      "content_html": "Polski Standard Płatności, operator BLIKA, otrzymał zgodę prezesa Narodowego Banku Polskiego na wprowadzenie mechanizmu blokującego transakcje związane z domenami wpisanymi do rejestru serwisów hazard",
-      "date_published": "2026-07-22T12:31:00+02:00",
-      "source": "PAP Biznes"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Orban-grzmi-po-akcji-prokuratury-Fidesz-traci-serwery-i-stanowiska-w-panstwie-9171614.html",
@@ -1093,12 +1141,36 @@
       "source": "Bankier.pl"
     },
     {
+      "id": "https://biznes.pap.pl/wiadomosci/firmy/advent-fedex-ar-ppf-przedluzyli-do-18-ix-zapisy-w-wezwaniu-na-inpost",
+      "url": "https://biznes.pap.pl/wiadomosci/firmy/advent-fedex-ar-ppf-przedluzyli-do-18-ix-zapisy-w-wezwaniu-na-inpost",
+      "title": "Advent, FedEx, A&R, PPF przedłużyli do 18 IX zapisy w wezwaniu na InPost",
+      "content_html": "Advent, FedEx, A&R, PPF przedłużyli okres przyjmowania zapisów w wezwaniu na wszystkie akcje InPostu do 18 września 2026 r. w związku ze zaktualizowanym harmonogramem uzyskiwania pozostałych zgód anty",
+      "date_published": "2026-07-22T08:37:00+02:00",
+      "source": "PAP Biznes"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Burmistrz-Nowego-Jorku-wycofuje-sie-z-grozby-aresztowania-Netanjahu-9171469.html",
       "url": "https://www.bankier.pl/wiadomosc/Burmistrz-Nowego-Jorku-wycofuje-sie-z-grozby-aresztowania-Netanjahu-9171469.html",
       "title": "Burmistrz Nowego Jorku wycofuje się z groźby aresztowania Netanjahu",
       "content_html": "Burmistrz Nowego Jorku Zohran Mamdani przyznał we wtorek, że nie ma uprawnień, by aresztować premiera Izraela Benjamina Netanjahu. Wcześniej Mamdani oskarżył Izrael o ludobójstwo w Strefie Gazy i zagroził, że aresztuje Netanjahu, jeśli izraelski...",
       "date_published": "2026-07-22T08:30:00+02:00",
       "source": "Bankier.pl"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/firmy/dzien-na-gpw-srodowa-sesja-moze-rozpoczac-sie-od-wzrostow-34",
+      "url": "https://biznes.pap.pl/wiadomosci/firmy/dzien-na-gpw-srodowa-sesja-moze-rozpoczac-sie-od-wzrostow-34",
+      "title": "DZIEŃ NA GPW: Środowa sesja może rozpocząć się od wzrostów",
+      "content_html": "W środę rano zwyżkują kontrakty terminowe na kluczowe indeksy europejskie, co sugeruje otwarcie na GPW powyżej kreski, ale utrzymanie wzrostów podczas sesji może być trudniejsze niż we wtorek - ocenil",
+      "date_published": "2026-07-22T08:30:00+02:00",
+      "source": "PAP Biznes"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/rynki/dzien-na-rynkach-w-azji-na-gieldach-wahania-najwazniejszych-indeksow-4",
+      "url": "https://biznes.pap.pl/wiadomosci/rynki/dzien-na-rynkach-w-azji-na-gieldach-wahania-najwazniejszych-indeksow-4",
+      "title": "DZIEŃ NA RYNKACH: W Azji na giełdach wahania najważniejszych indeksów",
+      "content_html": "Na azjatyckich giełdach w środę najważniejsze indeksy wahają się. Akcje producentów chipów kontynuują zwyżki, bo inwestorzy obstawiają, że rynek AI nadal ma duży potencjał do wzrostu. Na rynku walutow",
+      "date_published": "2026-07-22T08:24:00+02:00",
+      "source": "PAP Biznes"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Pakiet-zmian-w-ochronie-zdrowia-Limity-plac-czasu-pracy-i-nowe-uprawnienia-NFZ-9171403.html",
@@ -1138,14 +1210,6 @@
       "title": "Szef FIFA nowym sekretarzem generalnym ONZ? Trump ma swojego faworyta",
       "content_html": "Prezydent USA Donald Trump chce, by kolejnym sekretarzem generalnym ONZ został prezydent FIFA Gianni Infantino – poinformował we wtorek „New York Post”, powołując się na źródła z otoczenia Białego Domu. Gazeta zwraca uwagę, iż nie wiadomo...",
       "date_published": "2026-07-22T08:10:00+02:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Trump-zatwierdzil-przelomowe-porozumienie-nuklearne-z-Arabia-Saudyjska-9171451.html",
-      "url": "https://www.bankier.pl/wiadomosc/Trump-zatwierdzil-przelomowe-porozumienie-nuklearne-z-Arabia-Saudyjska-9171451.html",
-      "title": "Trump zatwierdził przełomowe porozumienie nuklearne z Arabią Saudyjską",
-      "content_html": "Prezydent USA Donald Trump zatwierdził porozumienie z Arabią Saudyjską na temat stworzenia w tym kraju cywilnego programu nuklearnego i potencjalnie ośrodka wzbogacania uranu – podał we wtorek dziennik „Wall Street Journal”, powołując się...",
-      "date_published": "2026-07-22T08:07:00+02:00",
       "source": "Bankier.pl"
     },
     {
@@ -1242,22 +1306,6 @@
       "title": "Nie ma zagrożenia takiego wybuchu inflacji jak w 2022 roku - Tyrowicz, RPP",
       "content_html": "Nie ma zagrożenia takiego wybuchu inflacji jak w 2022 roku, ale obecny poziom stóp sprzyja stymulacji gospodarki - poinformowała w wywiadzie dla Dziennika Gazety Prawnej, członek RPP Joanna Tyrowicz.",
       "date_published": "2026-07-22T06:05:00+02:00",
-      "source": "PAP Biznes"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/rynki/dzien-na-rynkach-gieldy-w-usa-w-gore-sp-500-przerwal-serie-3-spadkowych-dni",
-      "url": "https://biznes.pap.pl/wiadomosci/rynki/dzien-na-rynkach-gieldy-w-usa-w-gore-sp-500-przerwal-serie-3-spadkowych-dni",
-      "title": "DZIEŃ NA RYNKACH: Giełdy w USA w górę, S&P 500 przerwał serię 3 spadkowych dni",
-      "content_html": "Wtorkowa sesja na Wall Street zakończyła się solidnymi wzrostami głównych indeksów, a S&P 500 przerwał serię trzech spadkowych dni z rzędu. Inwestorzy wrócili do kupowania akcji producentów półprzewod",
-      "date_published": "2026-07-21T22:28:00+02:00",
-      "source": "PAP Biznes"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/firmy/przerob-ropy-w-rafineriach-orlenu-spadl-w-ii-kwartale-rdr-o-7-proc-do-9165-mln-ton",
-      "url": "https://biznes.pap.pl/wiadomosci/firmy/przerob-ropy-w-rafineriach-orlenu-spadl-w-ii-kwartale-rdr-o-7-proc-do-9165-mln-ton",
-      "title": "Przerób ropy w rafineriach Orlenu spadł w II kwartale rdr o 7 proc. do 9,165 mln ton",
-      "content_html": "Przerób ropy w rafineriach Orlenu wyniósł w drugim kwartale 9,165 mln ton, o 7 proc. mniej niż rok wcześniej, a poziom wykorzystania mocy w tych zakładach sięgnął 86 proc. wobec 93 proc. w II kw. 2025",
-      "date_published": "2026-07-21T22:11:00+02:00",
       "source": "PAP Biznes"
     }
   ]
