@@ -5,6 +5,14 @@
   "home_page_url": "https://www.bankier.pl",
   "items": [
     {
+      "id": "https://biznes.pap.pl/wiadomosci/firmy/ue-zaplaci-za-ze-nalozyla-kare-na-google-trump",
+      "url": "https://biznes.pap.pl/wiadomosci/firmy/ue-zaplaci-za-ze-nalozyla-kare-na-google-trump",
+      "title": "UE zapłaci za to, że nałożyła karę na Google - Trump",
+      "content_html": "Prezydent USA Donald Trump skrytykował w piątek Unię Europejską w związku z nałożeniem przez nią kary na Google. Zarzucił Brukseli, że jest to działanie nielegalne i dyskryminujące i zapowiedział, że ",
+      "date_published": "2026-07-24T20:25:00+02:00",
+      "source": "PAP Biznes"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Fabryka-rakiet-Patriot-w-Polsce-zamiast-w-Ukrainie-Amerykanie-uslyszeli-oferte-z-ulga-9173153.html",
       "url": "https://www.bankier.pl/wiadomosc/Fabryka-rakiet-Patriot-w-Polsce-zamiast-w-Ukrainie-Amerykanie-uslyszeli-oferte-z-ulga-9173153.html",
       "title": "Fabryka rakiet Patriot w Polsce zamiast w Ukrainie? „Amerykanie usłyszeli ofertę z ulgą”",
@@ -277,14 +285,6 @@
       "source": "PAP Biznes"
     },
     {
-      "id": "https://biznes.pap.pl/wiadomosci/gospodarka/prezydent-kieruje-do-tk-ustawe-o-tzw-windfall-tax-od-spolek-paliwowych-opis2",
-      "url": "https://biznes.pap.pl/wiadomosci/gospodarka/prezydent-kieruje-do-tk-ustawe-o-tzw-windfall-tax-od-spolek-paliwowych-opis2",
-      "title": "Prezydent kieruje do TK ustawę o tzw. windfall tax od spółek paliwowych (opis2)",
-      "content_html": "Prezydent Karol Nawrocki kieruje do Trybunału Konstytucyjnego ustawę o podatku od nadzwyczajnych zysków osiągniętych w okresie od marca do grudnia 2026 r. ze zbycia paliw ciekłych - poinformowała kanc",
-      "date_published": "2026-07-24T15:38:00+02:00",
-      "source": "PAP Biznes"
-    },
-    {
       "id": "https://www.bankier.pl/wiadomosc/Decyzja-Ministerstwa-Handlu-Chin-nie-bedzie-miala-krytycznego-znaczenia-dla-VIGO-Photonics-zarzad-9172970.html",
       "url": "https://www.bankier.pl/wiadomosc/Decyzja-Ministerstwa-Handlu-Chin-nie-bedzie-miala-krytycznego-znaczenia-dla-VIGO-Photonics-zarzad-9172970.html",
       "title": "Chińskie sankcje odwetowe uderzają w polskie podmioty. VIGO Photonics uspokaja",
@@ -499,6 +499,14 @@
       "content_html": "Niewiążące badanie rynku potwierdziło zainteresowanie firm realizacją Nordycko-Bałtyckiego Korytarza Wodorowego - podał w piątek Gaz-System, który jest jednym z partnerów tego projektu.",
       "date_published": "2026-07-24T11:52:00+02:00",
       "source": "Bankier.pl"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/gospodarka/nowe-amerykanskie-cla-zgodne-z-zawartym-wczesniej-porozumieniem-miedzy-ue-i",
+      "url": "https://biznes.pap.pl/wiadomosci/gospodarka/nowe-amerykanskie-cla-zgodne-z-zawartym-wczesniej-porozumieniem-miedzy-ue-i",
+      "title": "Nowe amerykańskie cła zgodne z zawartym wcześniej porozumieniem między UE i USA - KE",
+      "content_html": "Komisja Europejska poinformowała, że ogłoszone przez amerykańską administrację nowe cła są zgodne ze zobowiązaniami taryfowymi wynikającymi z tzw. wspólnego oświadczenia UE i USA. To oświadczenie to p",
+      "date_published": "2026-07-24T11:50:00+02:00",
+      "source": "PAP Biznes"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Okradaly-sad-w-ktorym-pracowaly-Zuchwale-ksiegowe-skazane-na-wiezienie-9172815.html",
@@ -1090,30 +1098,6 @@
       "title": "Wyniki Intela powyżej oczekiwań, sprzedaż wzrosła najmocniej od 15 lat",
       "content_html": "Intel opublikował wyniki finansowe za drugi kwartał, które przekroczyły szacunki analityków. Firma zanotowała najszybszy wzrost sprzedaży od prawie 15 lat dzięki „bezprecedensowemu” popytowi.",
       "date_published": "2026-07-23T22:22:00+02:00",
-      "source": "PAP Biznes"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/rynki/dzien-na-rynkach-silne-spadki-na-wall-street-mocna-przecena-akcji-alphabet-i-tesli",
-      "url": "https://biznes.pap.pl/wiadomosci/rynki/dzien-na-rynkach-silne-spadki-na-wall-street-mocna-przecena-akcji-alphabet-i-tesli",
-      "title": "DZIEŃ NA RYNKACH: Silne spadki na Wall Street, mocna przecena akcji Alphabet i Tesli",
-      "content_html": "Czwartkowa sesja na Wall Street zakończyła się mocnymi spadkami głównych indeksów, a Dow Jones stracił ponad 500 punktów. Spadkom na giełdzie towarzyszyła silnie drożejąca ropa naftowa. Wśród spółek l",
-      "date_published": "2026-07-23T22:14:00+02:00",
-      "source": "PAP Biznes"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Google-ukarane-na-890-mln-euro-za-faworyzowanie-wlasnych-uslug-i-blokowanie-konkurencji-9172277.html",
-      "url": "https://www.bankier.pl/wiadomosc/Google-ukarane-na-890-mln-euro-za-faworyzowanie-wlasnych-uslug-i-blokowanie-konkurencji-9172277.html",
-      "title": "Google ukarane na 890 mln euro za faworyzowanie własnych usług i blokowanie konkurencji",
-      "content_html": "Komisja Europejska poinformowała w czwartek o nałożeniu kary w wysokości 890 mln euro na Google. Według KE koncern złamał unijne przepisy Aktu o rynkach cyfrowych (DMA), faworyzując własne usługi w wyszukiwarce Google i ograniczając dostęp...",
-      "date_published": "2026-07-23T21:27:00+02:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/ekonomia-biznes-i-finanse/skrot-wiadomosci-czwartek-23-lipca-2100",
-      "url": "https://biznes.pap.pl/wiadomosci/ekonomia-biznes-i-finanse/skrot-wiadomosci-czwartek-23-lipca-2100",
-      "title": "Skrót wiadomości - czwartek, 23 lipca, 21.00",
-      "content_html": "Przegląd najważniejszych wiadomości gospodarczych, krajowych i ze świata.",
-      "date_published": "2026-07-23T21:00:00+02:00",
       "source": "PAP Biznes"
     }
   ]
