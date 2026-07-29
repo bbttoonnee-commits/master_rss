@@ -5,12 +5,52 @@
   "home_page_url": "https://www.bankier.pl",
   "items": [
     {
+      "id": "https://biznes.pap.pl/wiadomosci/gry-i-technologie/microsoft-pokazal-wyzsze-od-oczekiwan-zyski-i-przychody-mocno-rosnie",
+      "url": "https://biznes.pap.pl/wiadomosci/gry-i-technologie/microsoft-pokazal-wyzsze-od-oczekiwan-zyski-i-przychody-mocno-rosnie",
+      "title": "Microsoft pokazał wyższe od oczekiwań zyski i przychody, mocno rośnie segment Azure",
+      "content_html": "Microsoft pokazał lepsze od oczekiwań zyski i przychody w czwartym kwartale swojego roku fiskalnego. Głównym motorem wzrostów koncernu jest segment chmurowy Azure, którego przychody rok do roku wzrosł",
+      "date_published": "2026-07-29T22:30:00+02:00",
+      "source": "PAP Biznes"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/gry-i-technologie/meta-rozczarowala-wynikami-kwartalnymi-i-prognoza-przychodow",
+      "url": "https://biznes.pap.pl/wiadomosci/gry-i-technologie/meta-rozczarowala-wynikami-kwartalnymi-i-prognoza-przychodow",
+      "title": "Meta rozczarowała wynikami kwartalnymi i prognozą przychodów",
+      "content_html": "Meta Platforms, właściciel m.in. Facebooka, pokazała gorsze od oczekiwań wyniki finansowe za drugi kwartał 2026 roku, do tego rozczarowała inwestorów słabymi prognozami przychodów w trzecim kwartale.",
+      "date_published": "2026-07-29T22:18:00+02:00",
+      "source": "PAP Biznes"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/rynki/dzien-na-rynkach-gieldy-w-usa-mocno-w-dol-dow-stracil-ponad-1100-pkt-po",
+      "url": "https://biznes.pap.pl/wiadomosci/rynki/dzien-na-rynkach-gieldy-w-usa-mocno-w-dol-dow-stracil-ponad-1100-pkt-po",
+      "title": "DZIEŃ NA RYNKACH: Giełdy w USA mocno w dół, Dow stracił ponad 1100 pkt po posiedzeniu Fed",
+      "content_html": "Środowa sesja na Wall Street zakończyła się mocną wyprzedażą akcji w reakcji na wyniki posiedzenia Fed. Inwestorzy nabrali obaw, że Rezerwa Federalna może pozostawać w tyle w walce z inflacją, gdyż ba",
+      "date_published": "2026-07-29T22:08:00+02:00",
+      "source": "PAP Biznes"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Nieoczywiste-posiedzenie-FOMC-Stopy-w-Ameryce-jednak-bez-zmian-9174826.html",
       "url": "https://www.bankier.pl/wiadomosc/Nieoczywiste-posiedzenie-FOMC-Stopy-w-Ameryce-jednak-bez-zmian-9174826.html",
       "title": "Nieoczywiste posiedzenie FOMC. Stopy w Ameryce jednak bez zmian",
       "content_html": "Federalny Komitet Otwartego Rynku zdecydował się utrzymać stopy procentowe na niezmienionym poziomie. Było to pierwsze od wielu lat posiedzenie FOMC, którego wynik nie był z góry przesądzony.",
       "date_published": "2026-07-29T21:40:00+02:00",
       "source": "Bankier.pl"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/ekonomia-biznes-i-finanse/skrot-wiadomosci-sroda-29-lipca-2135",
+      "url": "https://biznes.pap.pl/wiadomosci/ekonomia-biznes-i-finanse/skrot-wiadomosci-sroda-29-lipca-2135",
+      "title": "Skrót wiadomości - środa, 29 lipca, 21.35",
+      "content_html": "Przegląd najważniejszych wiadomości gospodarczych, krajowych i ze świata.",
+      "date_published": "2026-07-29T21:34:00+02:00",
+      "source": "PAP Biznes"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/gospodarka/stopy-proc-moga-byc-czescia-rozwiazania-jesli-inflacja-pozostanie-podwyzszona",
+      "url": "https://biznes.pap.pl/wiadomosci/gospodarka/stopy-proc-moga-byc-czescia-rozwiazania-jesli-inflacja-pozostanie-podwyzszona",
+      "title": "Stopy proc. mogą być częścią rozwiązania, jeśli inflacja pozostanie podwyższona – Warsh, Fed (opis)",
+      "content_html": "Stopy proc. mogą być częścią rozwiązania, jeśli inflacja pozostanie podwyższona - poinformował prezes Fedu Kevin Warsh podczas środowej konferencji po posiedzeniu Rezerwy. Warsh dodał, że dyskusja pod",
+      "date_published": "2026-07-29T21:33:00+02:00",
+      "source": "PAP Biznes"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Polacy-leca-walczyc-z-zywiolem-Strazacy-dolacza-do-ratowania-Francji-i-Hiszpanii-9175126.html",
@@ -173,14 +213,6 @@
       "source": "PAP Biznes"
     },
     {
-      "id": "https://biznes.pap.pl/wiadomosci/firmy/xtb-szacuje-ze-w-ii-kw-2026-r-mialo-4922-mln-zl-zysku-netto-powyzej-konsensusu-0",
-      "url": "https://biznes.pap.pl/wiadomosci/firmy/xtb-szacuje-ze-w-ii-kw-2026-r-mialo-4922-mln-zl-zysku-netto-powyzej-konsensusu-0",
-      "title": "XTB szacuje, że w II kw. 2026 r. miało 492,2 mln zł zysku netto; powyżej konsensusu (opis)",
-      "content_html": "XTB szacuje, że w II kw. 2026 r. miało 492,2 mln zł zysku netto, a konsensus PAP Biznes zakładał zysk netto na poziomie 379,9 mln zł. Skonsolidowane przychody osiągnęły poziom 992,6 mln zł, wobec kons",
-      "date_published": "2026-07-29T17:55:00+02:00",
-      "source": "PAP Biznes"
-    },
-    {
       "id": "https://www.bankier.pl/wiadomosc/Spolka-zalezna-Unimotu-glownym-dostawca-energii-cieplnej-dla-Czechowic-Dziedzic-od-30-9175071.html",
       "url": "https://www.bankier.pl/wiadomosc/Spolka-zalezna-Unimotu-glownym-dostawca-energii-cieplnej-dla-Czechowic-Dziedzic-od-30-9175071.html",
       "title": "Spółka zależna Unimotu głównym dostawcą energii cieplnej dla Czechowic-Dziedzic od '30",
@@ -205,14 +237,6 @@
       "source": "Bankier.pl"
     },
     {
-      "id": "https://biznes.pap.pl/wiadomosci/firmy/xtb-szacuje-ze-w-ii-kw-2026-r-mialo-4922-mln-zl-zysku-netto-powyzej-konsensusu",
-      "url": "https://biznes.pap.pl/wiadomosci/firmy/xtb-szacuje-ze-w-ii-kw-2026-r-mialo-4922-mln-zl-zysku-netto-powyzej-konsensusu",
-      "title": "XTB szacuje, że w II kw. 2026 r. miało 492,2 mln zł zysku netto; powyżej konsensusu",
-      "content_html": "XTB szacuje, że w II kw. 2026 r. miało 492,2 mln zł zysku netto, a konsensus PAP Biznes zakładał zysk netto na poziomie 379,9 mln zł. Skonsolidowane przychody osiągnęły poziom 992,6 mln zł, wobec kons",
-      "date_published": "2026-07-29T17:34:00+02:00",
-      "source": "PAP Biznes"
-    },
-    {
       "id": "https://www.bankier.pl/wiadomosc/Oferta-Budimeksu-za-195-5-mln-zl-netto-oceniona-najwyzej-w-przetargu-PSE-na-rozbudowe-stacji-Elk-Bis-9175057.html",
       "url": "https://www.bankier.pl/wiadomosc/Oferta-Budimeksu-za-195-5-mln-zl-netto-oceniona-najwyzej-w-przetargu-PSE-na-rozbudowe-stacji-Elk-Bis-9175057.html",
       "title": "Oferta Budimeksu za 195,5 mln zł netto oceniona najwyżej w przetargu PSE na rozbudowę stacji Ełk Bis",
@@ -229,14 +253,6 @@
       "source": "Bankier.pl"
     },
     {
-      "id": "https://biznes.pap.pl/wiadomosci/firmy/wstepne-wyniki-xtb-w-ii-kw-2026-roku-vs-konsensus-pap-tabela",
-      "url": "https://biznes.pap.pl/wiadomosci/firmy/wstepne-wyniki-xtb-w-ii-kw-2026-roku-vs-konsensus-pap-tabela",
-      "title": "Wstępne wyniki XTB w II kw. 2026 roku vs. konsensus PAP (tabela)",
-      "content_html": "Poniżej przedstawiono wstępne wyniki XTB w drugim kwartale 2026 roku i ich odniesienie do konsensusu PAP Biznes oraz poprzednich wyników.",
-      "date_published": "2026-07-29T17:25:00+02:00",
-      "source": "PAP Biznes"
-    },
-    {
       "id": "https://www.bankier.pl/wiadomosc/Stop-patonajmowi-w-blokach-Pelczynska-Nalecz-Zglosimy-poprawki-do-projektu-9175053.html",
       "url": "https://www.bankier.pl/wiadomosc/Stop-patonajmowi-w-blokach-Pelczynska-Nalecz-Zglosimy-poprawki-do-projektu-9175053.html",
       "title": "Stop patonajmowi w blokach? Pełczyńska-Nałęcz: Zgłosimy poprawki do projektu",
@@ -251,22 +267,6 @@
       "content_html": "Utworzona przez prezydenta USA Donalda Trumpa Rada Pokoju nie poczyniła postępów w realizacji zapowiadanych działań – powiedziała w rozmowie z „Sueddeutsche Zeitung” przewodnicząca Zgromadzenia Ogólnego ONZ Annalena Baerbock.",
       "date_published": "2026-07-29T17:19:00+02:00",
       "source": "Bankier.pl"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/firmy/atrem-szacuje-ze-w-i-ii-kw-mial-1411-mln-zl-przychodow-backlog-na-koniec-vi-3438",
-      "url": "https://biznes.pap.pl/wiadomosci/firmy/atrem-szacuje-ze-w-i-ii-kw-mial-1411-mln-zl-przychodow-backlog-na-koniec-vi-3438",
-      "title": "Atrem szacuje, że w I-II kw. miał 141,1 mln zł przychodów; backlog na koniec VI to 343,8 mln zł",
-      "content_html": "Atrem szacuje, że w pierwszych sześciu miesiącach 2026 roku miał 141,1 mln zł skonsolidowanych przychodów, co oznacza wzrost o 38 proc. rdr - podała spółka w komunikacie. Portfel zamówień spółki na ko",
-      "date_published": "2026-07-29T17:19:00+02:00",
-      "source": "PAP Biznes"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/firmy/grupa-kety-ii-kw-26-miala-241-mln-zl-zysku-netto-jd-wczesniej-szacowano-234-mln-zl",
-      "url": "https://biznes.pap.pl/wiadomosci/firmy/grupa-kety-ii-kw-26-miala-241-mln-zl-zysku-netto-jd-wczesniej-szacowano-234-mln-zl",
-      "title": "Grupa Kęty II kw. '26 miała 241 mln zł zysku netto j.d., wcześniej szacowano 234 mln zł",
-      "content_html": "Grupa Kęty w II kw. 2026 roku miała 241 mln zł zysku netto jednostki dominującej oraz 379 mln zł EBITDA. Rok wcześniej grupa zanotowała 169 mln zł zysku netto i 295 mln zł EBITDA - podała spółka w rap",
-      "date_published": "2026-07-29T17:17:00+02:00",
-      "source": "PAP Biznes"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Akcyzowa-wyrywa-w-budzecie-Polacy-pija-mniej-wodki-wplywy-tapnely-o-13-procent-9175043.html",
@@ -1189,6 +1189,30 @@
       "source": "PAP Biznes"
     },
     {
+      "id": "https://biznes.pap.pl/wiadomosci/rynki/rentownosci-obligacji-wybranych-panstw-tabela-2665",
+      "url": "https://biznes.pap.pl/wiadomosci/rynki/rentownosci-obligacji-wybranych-panstw-tabela-2665",
+      "title": "Rentowności obligacji wybranych państw (tabela)",
+      "content_html": "Poniżej zestawienie rentowności obligacji wybranych państw.",
+      "date_published": "2026-07-29T06:33:00+02:00",
+      "source": "PAP Biznes"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/rynki/notowania-metali-bazowych-wegla-i-paliw-tabela-2576",
+      "url": "https://biznes.pap.pl/wiadomosci/rynki/notowania-metali-bazowych-wegla-i-paliw-tabela-2576",
+      "title": "Notowania metali bazowych, węgla i paliw (tabela)",
+      "content_html": "Notowania metali bazowych na London Metal Exchange, uprawnień EUA do emisji CO2, ceny węgla energetycznego ARA na przyszły rok oraz ceny paliw.",
+      "date_published": "2026-07-29T06:33:00+02:00",
+      "source": "PAP Biznes"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/rynki/zamkniecia-na-gieldach-w-ameryce-polnocnej-i-poludniowej-tabela-3184",
+      "url": "https://biznes.pap.pl/wiadomosci/rynki/zamkniecia-na-gieldach-w-ameryce-polnocnej-i-poludniowej-tabela-3184",
+      "title": "Zamknięcia na giełdach w Ameryce Północnej i Południowej (tabela)",
+      "content_html": "Poniżej zamknięcia i zmiany indeksów w USA. Kanadzie, Meksyku, Brazylii, Chile, Kolumbii i Argentynie:",
+      "date_published": "2026-07-29T06:32:00+02:00",
+      "source": "PAP Biznes"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Gleboka-rotacja-na-Wall-Street-Nasdaq-znow-w-dol-a-zyskuja-tradycyjne-spolki-9174614.html",
       "url": "https://www.bankier.pl/wiadomosc/Gleboka-rotacja-na-Wall-Street-Nasdaq-znow-w-dol-a-zyskuja-tradycyjne-spolki-9174614.html",
       "title": "Głęboka rotacja na Wall Street. Nasdaq znów w dół, a zyskują tradycyjne spółki Wtorkowa sesja na Wall Street zakończyła się przewagą wzrostów wśród głównych indeksów, ale kolejny dzień z rzędu zniżkował Nasdaq. Inwestorzy w dalszym ciągu odwracają się od akcji producentów półprzewodników. W centrum uwagi w tym tygodniu są wyniki spółek i posiedzenie Fed.",
@@ -1205,19 +1229,19 @@
       "source": "Bankier.pl"
     },
     {
+      "id": "https://biznes.pap.pl/wiadomosci/firmy/zysk-netto-mbanku-w-ii-kw-26-wyniosl-106-mld-zl-zgodny-z-oczekiwaniami",
+      "url": "https://biznes.pap.pl/wiadomosci/firmy/zysk-netto-mbanku-w-ii-kw-26-wyniosl-106-mld-zl-zgodny-z-oczekiwaniami",
+      "title": "Zysk netto mBanku w II kw. '26 wyniósł 1,06 mld zł; zgodny z oczekiwaniami",
+      "content_html": "Zysk netto grupy mBanku w II kwartale 2026 r. wzrósł do 1.060 mln zł z 959 mln zł rok wcześniej - poinformował bank w raporcie. Zysk okazał się 1,9 proc. powyżej oczekiwań analityków, którzy prognozow",
+      "date_published": "2026-07-29T05:56:00+02:00",
+      "source": "PAP Biznes"
+    },
+    {
       "id": "https://biznes.pap.pl/wiadomosci/firmy/wyniki-mbanku-w-ii-kw-2026-roku-vs-konsensus-pap-tabela",
       "url": "https://biznes.pap.pl/wiadomosci/firmy/wyniki-mbanku-w-ii-kw-2026-roku-vs-konsensus-pap-tabela",
       "title": "Wyniki mBanku w II kw. 2026 roku vs. konsensus PAP (tabela)",
       "content_html": "Poniżej przedstawiamy wyniki grupy mBanku w drugim kwartale 2026 roku i ich odniesienie do konsensusu PAP i poprzednich wyników.",
       "date_published": "2026-07-29T05:47:00+02:00",
-      "source": "PAP Biznes"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/rynki/dzien-na-rynkach-gieldy-w-usa-w-gore-wyjatkiem-nasdaq-i-producenci-polprzewodnikow",
-      "url": "https://biznes.pap.pl/wiadomosci/rynki/dzien-na-rynkach-gieldy-w-usa-w-gore-wyjatkiem-nasdaq-i-producenci-polprzewodnikow",
-      "title": "DZIEŃ NA RYNKACH: Giełdy w USA w górę, wyjątkiem Nasdaq i producenci półprzewodników",
-      "content_html": "Wtorkowa sesja na Wall Street zakończyła się przewagą wzrostów wśród głównych indeksów, ale kolejny dzień z rzędu zniżkował Nasdaq. Inwestorzy w dalszym ciągu odwracają się od akcji producentów półprz",
-      "date_published": "2026-07-28T22:10:00+02:00",
       "source": "PAP Biznes"
     }
   ]
