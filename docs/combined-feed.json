@@ -5,12 +5,52 @@
   "home_page_url": "https://www.bankier.pl",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/Tak-miasto-walczy-o-mlodych-mieszkancow-Do-kupienia-dzialki-z-50-procentowym-rabatem-9173873.html",
+      "url": "https://www.bankier.pl/wiadomosc/Tak-miasto-walczy-o-mlodych-mieszkancow-Do-kupienia-dzialki-z-50-procentowym-rabatem-9173873.html",
+      "title": "Tak miasto walczy o młodych mieszkańców. Do kupienia działki z 50-procentowym rabatem",
+      "content_html": "Miasto Suwałki (Podlaskie) ogłosiło przetarg na sprzedaż 5 działek budowlanych z 50-proc. bonifikatą dla osób do 40. roku życia. Samorząd sprzedał już ponad 40 takich nieruchomości. Ma to zachęcić młodych do budowy domu i zamieszkania w...",
+      "date_published": "2026-08-02T15:00:00+02:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/W-Wielkiej-Brytanii-po-raz-pierwszy-w-historii-wyprodukowano-oliwe-z-krajowych-drzewek-9173884.html",
+      "url": "https://www.bankier.pl/wiadomosc/W-Wielkiej-Brytanii-po-raz-pierwszy-w-historii-wyprodukowano-oliwe-z-krajowych-drzewek-9173884.html",
+      "title": "W Wielkiej Brytanii po raz pierwszy w historii wyprodukowano oliwę z krajowych drzewek",
+      "content_html": "W Wielkiej Brytanii po raz pierwszy w historii wyprodukowano oliwę z rosnących na wyspach drzewek - przekazał francuski portal RFI. Gaj należy do najdalej wysuniętych na północ komercyjnych upraw oliwek.",
+      "date_published": "2026-08-02T15:00:00+02:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Zirytowani-halasem-mieszkancy-wzywaja-policje-Nocne-zniwa-to-nie-fanaberia-9174479.html",
+      "url": "https://www.bankier.pl/wiadomosc/Zirytowani-halasem-mieszkancy-wzywaja-policje-Nocne-zniwa-to-nie-fanaberia-9174479.html",
+      "title": "Zirytowani hałasem mieszkańcy wzywają policję. \"Nocne żniwa to nie fanaberia\"",
+      "content_html": "O bezpieczeństwo podczas żniw zaapelował do rolników wicemarszałek woj. wielkopolskiego Krzysztof Grabowski. Zwrócił się też do innych mieszkańców wsi, by w czasie nocnej, generującej hałas, pracy maszyn nie utrudniać zbiorów wzywając...",
+      "date_published": "2026-08-02T15:00:00+02:00",
+      "source": "Bankier.pl"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Ameryka-rzadza-80-i-90-latkowie-Wyborcy-mowia-dosc-Czas-na-przymusowe-emerytury-9175160.html",
       "url": "https://www.bankier.pl/wiadomosc/Ameryka-rzadza-80-i-90-latkowie-Wyborcy-mowia-dosc-Czas-na-przymusowe-emerytury-9175160.html",
       "title": "Ameryką rządzą 80- i 90-latkowie. Wyborcy mówią dość: Czas na przymusowe emerytury",
       "content_html": "Średnia wieku członków obecnego Kongresu USA jest jedną z najwyższych w historii - zauważyła w środę stacja CNN. Ponad jedna trzecia senatorów ma 70 lat i więcej. Większość Amerykanów uważa, że duża liczba kongresmenów w podeszłym...",
       "date_published": "2026-08-02T15:00:00+02:00",
       "source": "Bankier.pl"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Ochrona-zdrowia-kosztowala-271-8-mld-zl-Gdzie-trafia-najszerszy-strumien-pieniedzy-9175454.html",
+      "url": "https://www.bankier.pl/wiadomosc/Ochrona-zdrowia-kosztowala-271-8-mld-zl-Gdzie-trafia-najszerszy-strumien-pieniedzy-9175454.html",
+      "title": "Ochrona zdrowia kosztowała 271,8 mld zł. Gdzie trafia najszerszy strumień pieniędzy?",
+      "content_html": "Nakłady publiczne na ochronę zdrowia były w roku 2025 o 21,6 mld zł wyższe - to 10,3 proc. - od analogicznych nakładów poniesionych w 2024 r. - podał w czwartek Główny Urząd Statystyczny.",
+      "date_published": "2026-08-02T15:00:00+02:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/rynki/quercus-tfi-pozytywnie-o-rynku-dlugu-akcje-i-surowce-neutralnie-minus-opinia",
+      "url": "https://biznes.pap.pl/wiadomosci/rynki/quercus-tfi-pozytywnie-o-rynku-dlugu-akcje-i-surowce-neutralnie-minus-opinia",
+      "title": "Quercus TFI pozytywnie o rynku długu, akcje i surowce \"neutralnie minus\" (opinia)",
+      "content_html": "Zarządzający Quercus TFI na kolejne miesiące 2026 roku mają pozytywne nastawienie do funduszy dłużnych, natomiast ich ocenę akcji i surowców określają jako \"neutralnie minus\" - napisał prezes Quercus ",
+      "date_published": "2026-08-02T13:45:00+02:00",
+      "source": "PAP Biznes"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Polska-Agencja-Wywiadu-w-top-10-Europy-Wybrzmialy-jednak-mocne-slowa-o-polityce-9176251.html",
@@ -139,6 +179,14 @@
       "content_html": "Udział specjalistów w zatrudnieniu w Polsce jest wyższy od średniej UE, jednak przewaga absolwentów kierunków społecznych nad technicznymi i inżynieryjnymi wskazuje na niedopasowanie szkolnictwa wyższego do potrzeb nowoczesnej gospodarki - uważają...",
       "date_published": "2026-08-02T12:52:00+02:00",
       "source": "Bankier.pl"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/uderzenie-na-iran-odwolane-pod-warunkiem-szybkiego-zawarcia-porozumienia-trump",
+      "url": "https://biznes.pap.pl/wiadomosci/uderzenie-na-iran-odwolane-pod-warunkiem-szybkiego-zawarcia-porozumienia-trump",
+      "title": "Uderzenie na Iran odwołane pod warunkiem szybkiego zawarcia porozumienia - Trump",
+      "content_html": "Prezydent USA Donald Trump ogłosił w sobotę, że zgodził się wstrzymać uderzenie na Iran. Uwarunkował to możliwością szybkiego zawarcia porozumienia z Teheranem zakładającego otwarcie cieśniny Ormuz i ",
+      "date_published": "2026-08-02T12:33:00+02:00",
+      "source": "PAP Biznes"
     },
     {
       "id": "https://biznes.pap.pl/wiadomosci/firmy/sezon-publikacji-wynikow-firm-w-usa-na-polmetku-statystyki-najlepsze-od-lat",
