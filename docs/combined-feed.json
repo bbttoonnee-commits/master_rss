@@ -5,6 +5,38 @@
   "home_page_url": "https://www.bankier.pl",
   "items": [
     {
+      "id": "https://biznes.pap.pl/wiadomosci/firmy/paramount-podnosi-prognozy-zyskow-na-caly-rok-pozostaje-pewny-fuzji-z-wbd",
+      "url": "https://biznes.pap.pl/wiadomosci/firmy/paramount-podnosi-prognozy-zyskow-na-caly-rok-pozostaje-pewny-fuzji-z-wbd",
+      "title": "Paramount podnosi prognozy zysków na cały rok, pozostaje „pewny” fuzji z WBD",
+      "content_html": "Paramount Skydance podniósł prognozę skorygowanego zysku EBITDA na cały rok 2026, publikując we wtorek raport o zyskach za drugi kwartał. Firma nadal przygotowuje się do fuzji z Warner Bros. Discovery",
+      "date_published": "2026-08-04T22:31:00+02:00",
+      "source": "PAP Biznes"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/gry-i-technologie/przychody-spacex-wzrosly-w-drugim-kwartale-o-92-proc-ale-akcje-ida-w",
+      "url": "https://biznes.pap.pl/wiadomosci/gry-i-technologie/przychody-spacex-wzrosly-w-drugim-kwartale-o-92-proc-ale-akcje-ida-w",
+      "title": "Przychody SpaceX wzrosły w drugim kwartale o 92 proc., ale akcje idą w dół",
+      "content_html": "Przychody należącego do Elona Muska SpaceX w drugim kwartale wzrosły rok do roku o 92 proc., przebijając wyraźnie oczekiwania analityków. Akcje producenta rakiet idą jednak w dół w handlu pozasesyjnym",
+      "date_published": "2026-08-04T22:21:00+02:00",
+      "source": "PAP Biznes"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Euforia-na-Wall-Street-S-P500-wybil-przez-sufit-9177963.html",
+      "url": "https://www.bankier.pl/wiadomosc/Euforia-na-Wall-Street-S-P500-wybil-przez-sufit-9177963.html",
+      "title": "Euforia na Wall Street. S&P500 wybił przez sufit S&P500 z impetem wybił się na nowe szczyty wszech czasów. Dow Jones ustanowił nowy historyczny rekord. A Nasdaq zaliczył trzecią silnie wzrostową sesję z rzędu.",
+      "content_html": "",
+      "date_published": "2026-08-04T22:20:00+02:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/rynki/dzien-na-rynkach-gieldy-w-usa-koncza-dzien-na-nowych-szczytach",
+      "url": "https://biznes.pap.pl/wiadomosci/rynki/dzien-na-rynkach-gieldy-w-usa-koncza-dzien-na-nowych-szczytach",
+      "title": "DZIEŃ NA RYNKACH: Giełdy w USA kończą dzień na nowych szczytach",
+      "content_html": "Wtorkowa sesja na Wall Street przyniosła dalszy ciąg mocnych wzrostów i nowe historyczne rekordy głównych indeksów. Dow zyskał ponad 900 punktów, a S&P 500 po raz pierwszy zamknął dzień powyżej 7.700 ",
+      "date_published": "2026-08-04T22:09:00+02:00",
+      "source": "PAP Biznes"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Zmarl-publicysta-i-dziennikarz-Andrzej-Morozowski-od-lat-zwiazany-z-TVN-podal-TVN24-PAP-9177846.html",
       "url": "https://www.bankier.pl/wiadomosc/Zmarl-publicysta-i-dziennikarz-Andrzej-Morozowski-od-lat-zwiazany-z-TVN-podal-TVN24-PAP-9177846.html",
       "title": "Zmarł publicysta i dziennikarz Andrzej Morozowski, od lat związany z TVN",
@@ -365,22 +397,6 @@
       "source": "PAP Biznes"
     },
     {
-      "id": "https://biznes.pap.pl/wiadomosci/gospodarka/rzad-chce-przyjac-w-iii-kw-projekt-uszczelniajacy-opodatkowanie-fundacji",
-      "url": "https://biznes.pap.pl/wiadomosci/gospodarka/rzad-chce-przyjac-w-iii-kw-projekt-uszczelniajacy-opodatkowanie-fundacji",
-      "title": "Rząd chce przyjąć w III kw. projekt uszczelniający opodatkowanie fundacji rodzinnej",
-      "content_html": "Rząd chce przyjąć w III kw. projekt uszczelniający opodatkowanie fundacji rodzinnej - wynika z wykazu prac legislacyjnych i programowych Rady Ministrów.",
-      "date_published": "2026-08-04T16:34:00+02:00",
-      "source": "PAP Biznes"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/firmy/dzien-na-gpw-wzrost-apetytu-na-ryzyko-winduje-indeksy-gpw-na-nowe-szczyty",
-      "url": "https://biznes.pap.pl/wiadomosci/firmy/dzien-na-gpw-wzrost-apetytu-na-ryzyko-winduje-indeksy-gpw-na-nowe-szczyty",
-      "title": "DZIEŃ NA GPW: Wzrost apetytu na ryzyko winduje indeksy GPW na nowe szczyty",
-      "content_html": "Poprawa sytuacji geopolitycznej spowodowała wzrost apetytu na ryzyko, co winduje indeksy warszawskiej giełdy na nowe szczyty. WIG przekroczył poziom 151.000 pkt., a WIG20 zbliżył się do 4.000 pkt. Poz",
-      "date_published": "2026-08-04T16:32:00+02:00",
-      "source": "PAP Biznes"
-    },
-    {
       "id": "https://www.bankier.pl/wiadomosc/Wielki-powrot-bocianow-w-Holandii-Bylo-ich-16-dzis-sa-ich-tysiace-9177775.html",
       "url": "https://www.bankier.pl/wiadomosc/Wielki-powrot-bocianow-w-Holandii-Bylo-ich-16-dzis-sa-ich-tysiace-9177775.html",
       "title": "Wielki powrót bocianów w Holandii. Było ich 16, dziś są ich tysiące",
@@ -419,14 +435,6 @@
       "content_html": "Rzecznik rządu Adam Szłapka stwierdził we wtorek, że „znając historię powiązania z ruchem kibicowskim” prezydenta Karola Nawrockiego nie dziwi go decyzja o ułaskawieniu jednego z liderów środowiska kibiców Legii Warszawa Piotra Staruchowicza...",
       "date_published": "2026-08-04T15:58:00+02:00",
       "source": "Bankier.pl"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/gospodarka/euro-w-ebc-11515-usd-i-18126-jpy",
-      "url": "https://biznes.pap.pl/wiadomosci/gospodarka/euro-w-ebc-11515-usd-i-18126-jpy",
-      "title": "Euro w EBC: 1,1515 USD i 181,26 JPY",
-      "content_html": "Europejski Bank Centralny (EBC) ustalił kurs euro na 1,1515 USD i 181,26 JPY- podał bank na swojej stronie internetowej.",
-      "date_published": "2026-08-04T15:58:00+02:00",
-      "source": "PAP Biznes"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Bilans-wodny-rosnie-lecz-susza-rolnicza-wciaz-grozna-Znamy-najnowsze-dane-9177751.html",
@@ -1122,54 +1130,6 @@
       "title": "Goldman Sachs liderem obrotów na rynku akcji GPW w lipcu, drugi BoFA",
       "content_html": "Goldman Sachs w lipcu 2026 roku był liderem obrotów na rynku akcji w transakcjach sesyjnych GPW. Na drugim miejscu znalazł się Bank of America Securities - podała GPW na stronie internetowej.",
       "date_published": "2026-08-03T23:18:00+02:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/25-stanow-przeciwko-nowym-clom-Administracja-Trumpa-znow-pozwana-9177445.html",
-      "url": "https://www.bankier.pl/wiadomosc/25-stanow-przeciwko-nowym-clom-Administracja-Trumpa-znow-pozwana-9177445.html",
-      "title": "25 stanów przeciwko nowym cłom. Administracja Trumpa znów pozwana",
-      "content_html": "Grupa 25 amerykańskich stanów rządzonych przez Demokratów pozwała w poniedziałek administrację prezydenta Donalda Trumpa, kwestionując ogłoszone przez nią niedawno cła wobec 60 partnerów handlowych - poinformowało biuro prokuratora generalnego...",
-      "date_published": "2026-08-03T23:07:00+02:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/gry-i-technologie/przychody-kwartalne-i-prognozy-snap-powyzej-oczekiwan-akcje-ida-mocno",
-      "url": "https://biznes.pap.pl/wiadomosci/gry-i-technologie/przychody-kwartalne-i-prognozy-snap-powyzej-oczekiwan-akcje-ida-mocno",
-      "title": "Przychody kwartalne i prognozy Snap powyżej oczekiwań, akcje idą mocno w górę",
-      "content_html": "Snap pokazał przychody za drugi kwartał lepsze od oczekiwań i opublikował prognozę na bieżący okres, która przewyższyła szacunki analityków. Akcje rosną o około 12 proc. w handlu pozasesyjnym.",
-      "date_published": "2026-08-03T22:42:00+02:00",
-      "source": "PAP Biznes"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/gry-i-technologie/kwartalne-wyniki-palantir-wyraznie-przebily-oczekiwania-kurs-mocno",
-      "url": "https://biznes.pap.pl/wiadomosci/gry-i-technologie/kwartalne-wyniki-palantir-wyraznie-przebily-oczekiwania-kurs-mocno",
-      "title": "Kwartalne wyniki Palantir wyraźnie przebiły oczekiwania, kurs mocno rośnie",
-      "content_html": "Palantir, amerykańska firma zajmująca się oprogramowaniem AI, pokazała bardzo mocne wyniki za drugi kwartał 2026 roku i podniosła całoroczną prognozę przychodów do 8,15-8,16 mld USD. Akcje spółki w ha",
-      "date_published": "2026-08-03T22:25:00+02:00",
-      "source": "PAP Biznes"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/firmy/goldman-sachs-liderem-obrotow-na-rynku-akcji-gpw-w-lipcu-drugi-bofa",
-      "url": "https://biznes.pap.pl/wiadomosci/firmy/goldman-sachs-liderem-obrotow-na-rynku-akcji-gpw-w-lipcu-drugi-bofa",
-      "title": "Goldman Sachs liderem obrotów na rynku akcji GPW w lipcu, drugi BoFA",
-      "content_html": "Goldman Sachs w lipcu 2026 roku był liderem obrotów na rynku akcji w transakcjach sesyjnych GPW. Na drugim miejscu znalazł się Bank of America Securities - podała GPW na stronie internetowej.",
-      "date_published": "2026-08-03T22:16:00+02:00",
-      "source": "PAP Biznes"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/rynki/dzien-na-rynkach-na-wall-street-dobre-nastroje-i-mocne-wzrosty-dji-na-szczycie",
-      "url": "https://biznes.pap.pl/wiadomosci/rynki/dzien-na-rynkach-na-wall-street-dobre-nastroje-i-mocne-wzrosty-dji-na-szczycie",
-      "title": "DZIEŃ NA RYNKACH: Na Wall Street dobre nastroje i mocne wzrosty, DJI na szczycie",
-      "content_html": "Pierwsza sierpniowa sesja na Wall Street zakończyła się solidnymi wzrostami, Dow Jones znalazł się na najwyższym poziomie w historii, a akcje największych spółek technologicznych gwałtownie zyskały. C",
-      "date_published": "2026-08-03T22:08:00+02:00",
-      "source": "PAP Biznes"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Zwyzka-ulgi-na-Wall-Street-Rekordowy-kurs-zamkniecia-Dow-Jonesa-9177444.html",
-      "url": "https://www.bankier.pl/wiadomosc/Zwyzka-ulgi-na-Wall-Street-Rekordowy-kurs-zamkniecia-Dow-Jonesa-9177444.html",
-      "title": "Zwyżka ulgi na Wall Street. Rekordowy kurs zamknięcia Dow Jonesa Nadzieja na odblokowanie dostaw ropy naftowej z Zatoki Perskiej w poniedziałek była głównym katalizatorem zwyżki ulgi na nowojorskich giełdach. Stara średnia przemysłowa Dow Jonesa wyznaczyła nowy historyczny rekord liczony po kursach zamknięcia.",
-      "content_html": "",
-      "date_published": "2026-08-03T22:06:00+02:00",
       "source": "Bankier.pl"
     }
   ]
