@@ -5,6 +5,14 @@
   "home_page_url": "https://www.bankier.pl",
   "items": [
     {
+      "id": "https://biznes.pap.pl/wiadomosci/rynki/dzien-na-rynkach-na-wall-street-mieszana-sesja-dji-w-gore-nasdaq-w-dol",
+      "url": "https://biznes.pap.pl/wiadomosci/rynki/dzien-na-rynkach-na-wall-street-mieszana-sesja-dji-w-gore-nasdaq-w-dol",
+      "title": "DZIEŃ NA RYNKACH: Na Wall Street mieszana sesja; DJI w górę, Nasdaq w dół",
+      "content_html": "Środowa sesja na Wall Street zakończyła się mieszanymi wynikami głównych indeksów. Wzrostowi Dow Jones pomogły zwyżkujące notowania Nvidii, słabiej zachowywał się Nasdaq.",
+      "date_published": "2026-08-05T22:14:00+02:00",
+      "source": "PAP Biznes"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/PiS-ostatecznie-traci-dotacje-i-subwencje-Pieniedzy-dla-przekreciarzy-nie-ma-i-nie-bedzie-9178469.html",
       "url": "https://www.bankier.pl/wiadomosc/PiS-ostatecznie-traci-dotacje-i-subwencje-Pieniedzy-dla-przekreciarzy-nie-ma-i-nie-bedzie-9178469.html",
       "title": "PiS ostatecznie traci dotację i subwencję. „Pieniędzy dla przekręciarzy nie ma i nie będzie”",
@@ -19,6 +27,14 @@
       "content_html": "Projekt ustawy budżetowej na rok 2027 zostanie przedstawiony do końca sierpnia tego roku - poinformował w środę minister finansów i gospodarki Andrzej Domański.",
       "date_published": "2026-08-05T21:32:00+02:00",
       "source": "Bankier.pl"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/ekonomia-biznes-i-finanse/skrot-wiadomosci-sroda-5-sierpnia-2100",
+      "url": "https://biznes.pap.pl/wiadomosci/ekonomia-biznes-i-finanse/skrot-wiadomosci-sroda-5-sierpnia-2100",
+      "title": "Skrót wiadomości - środa, 5 sierpnia, 21.00",
+      "content_html": "Przegląd najważniejszych wiadomości gospodarczych, krajowych i ze świata.",
+      "date_published": "2026-08-05T21:04:00+02:00",
+      "source": "PAP Biznes"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Kolejny-tajemniczy-zamach-w-Rosji-Producent-dronow-Upyr-walczy-o-zycie-po-wybuchu-9178470.html",
@@ -221,14 +237,6 @@
       "source": "PAP Biznes"
     },
     {
-      "id": "https://biznes.pap.pl/wiadomosci/firmy/pej-przekazal-bechtelowi-teren-pod-budowe-elektrowni-jadrowej-opis",
-      "url": "https://biznes.pap.pl/wiadomosci/firmy/pej-przekazal-bechtelowi-teren-pod-budowe-elektrowni-jadrowej-opis",
-      "title": "PEJ przekazał Bechtelowi teren pod budowę elektrowni jądrowej (opis)",
-      "content_html": "Polskie Elektrownie Jądrowe (PEJ) przekazały generalnemu wykonawcy, firmie Bechtel, teren pod budowę pierwszej polskiej elektrowni jądrowej - poinformowała w środę spółka. Dodała, że jednocześnie na p",
-      "date_published": "2026-08-05T16:23:00+02:00",
-      "source": "PAP Biznes"
-    },
-    {
       "id": "https://www.bankier.pl/wiadomosc/11-bit-studios-wyznaczylo-premiere-pelnej-wersji-gry-Moonlighter-2-na-2-wrzesnia-9178338.html",
       "url": "https://www.bankier.pl/wiadomosc/11-bit-studios-wyznaczylo-premiere-pelnej-wersji-gry-Moonlighter-2-na-2-wrzesnia-9178338.html",
       "title": "11 bit studios wyznaczyło premierę pełnej wersji gry \"Moonlighter 2\" na 2 września",
@@ -243,14 +251,6 @@
       "content_html": "Polskie Elektrownie Jądrowe (PEJ) przekazały generalnemu wykonawcy, firmie Bechtel, teren pod budowę pierwszej polskiej elektrowni jądrowej - poinformowała w środę spółka.",
       "date_published": "2026-08-05T16:18:00+02:00",
       "source": "Bankier.pl"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/gospodarka/euro-w-ebc-11554usd-i-18208-jpy",
-      "url": "https://biznes.pap.pl/wiadomosci/gospodarka/euro-w-ebc-11554usd-i-18208-jpy",
-      "title": "Euro w EBC: 1,1554USD i 182,08 JPY",
-      "content_html": "Europejski Bank Centralny (EBC) ustalił kurs euro na 1,1554 USD i 182,08 JPY- podał bank na swojej stronie internetowej.",
-      "date_published": "2026-08-05T16:05:00+02:00",
-      "source": "PAP Biznes"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Telefon-z-Teheranu-do-nowego-szefa-Hamasu-Prezydent-Iranu-zapewnia-o-pelnym-wsparciu-9178313.html",
@@ -1195,46 +1195,6 @@
       "content_html": "We wtorek spółka Advanded Micro Devices opublikowała wyniki finansowe za drugi kwartał, które okazały się lepsze od oczekiwań. Przychody AMD wzrosły o 50 proc., a sprzedaż centrów danych podwoiła się.",
       "date_published": "2026-08-04T22:44:00+02:00",
       "source": "PAP Biznes"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/firmy/paramount-podnosi-prognozy-zyskow-na-caly-rok-pozostaje-pewny-fuzji-z-wbd",
-      "url": "https://biznes.pap.pl/wiadomosci/firmy/paramount-podnosi-prognozy-zyskow-na-caly-rok-pozostaje-pewny-fuzji-z-wbd",
-      "title": "Paramount podnosi prognozy zysków na cały rok, pozostaje „pewny” fuzji z WBD",
-      "content_html": "Paramount Skydance podniósł prognozę skorygowanego zysku EBITDA na cały rok 2026, publikując we wtorek raport o zyskach za drugi kwartał. Firma nadal przygotowuje się do fuzji z Warner Bros. Discovery",
-      "date_published": "2026-08-04T22:31:00+02:00",
-      "source": "PAP Biznes"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/gry-i-technologie/przychody-spacex-wzrosly-w-drugim-kwartale-o-92-proc-ale-akcje-ida-w",
-      "url": "https://biznes.pap.pl/wiadomosci/gry-i-technologie/przychody-spacex-wzrosly-w-drugim-kwartale-o-92-proc-ale-akcje-ida-w",
-      "title": "Przychody SpaceX wzrosły w drugim kwartale o 92 proc., ale akcje idą w dół",
-      "content_html": "Przychody należącego do Elona Muska SpaceX w drugim kwartale wzrosły rok do roku o 92 proc., przebijając wyraźnie oczekiwania analityków. Akcje producenta rakiet idą jednak w dół w handlu pozasesyjnym",
-      "date_published": "2026-08-04T22:21:00+02:00",
-      "source": "PAP Biznes"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/rynki/dzien-na-rynkach-gieldy-w-usa-koncza-dzien-na-nowych-szczytach",
-      "url": "https://biznes.pap.pl/wiadomosci/rynki/dzien-na-rynkach-gieldy-w-usa-koncza-dzien-na-nowych-szczytach",
-      "title": "DZIEŃ NA RYNKACH: Giełdy w USA kończą dzień na nowych szczytach",
-      "content_html": "Wtorkowa sesja na Wall Street przyniosła dalszy ciąg mocnych wzrostów i nowe historyczne rekordy głównych indeksów. Dow zyskał ponad 900 punktów, a S&P 500 po raz pierwszy zamknął dzień powyżej 7.700 ",
-      "date_published": "2026-08-04T22:09:00+02:00",
-      "source": "PAP Biznes"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Zmarl-publicysta-i-dziennikarz-Andrzej-Morozowski-od-lat-zwiazany-z-TVN-podal-TVN24-PAP-9177846.html",
-      "url": "https://www.bankier.pl/wiadomosc/Zmarl-publicysta-i-dziennikarz-Andrzej-Morozowski-od-lat-zwiazany-z-TVN-podal-TVN24-PAP-9177846.html",
-      "title": "Zmarł publicysta i dziennikarz Andrzej Morozowski, od lat związany z TVN",
-      "content_html": "On był dziennikarstwem – powiedziała o zmarłym koledze Brygida Grysiak, dziennikarka telewizyjna. 4 sierpnia zmarł nasz kolega, autorytet Andrzej Morozowski - przekazał Tomasz Sianecki na antenie TVN24. Stacja uczciła pamięć dziennikarza minutą...",
-      "date_published": "2026-08-04T21:26:00+02:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/USA-Media-Iran-moze-pozwolic-Europejczykom-na-rozminowanie-Ormuzu-9177944.html",
-      "url": "https://www.bankier.pl/wiadomosc/USA-Media-Iran-moze-pozwolic-Europejczykom-na-rozminowanie-Ormuzu-9177944.html",
-      "title": "Europa rozminuje cieśninę Ormuz? Iran gotowy na ustępstwa",
-      "content_html": "Iran rozważa możliwość pozwolenia krajom europejskim na udział w rozminowaniu cieśniny Ormuz - napisał we wtorek serwis Bloomberg. Władze w Teheranie deklarowały wcześniej publicznie, że nie dopuszczą innych krajów do takich działań.",
-      "date_published": "2026-08-04T21:08:00+02:00",
-      "source": "Bankier.pl"
     }
   ]
 }
