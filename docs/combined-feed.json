@@ -5,6 +5,14 @@
   "home_page_url": "https://www.bankier.pl",
   "items": [
     {
+      "id": "https://biznes.pap.pl/wiadomosci/rynki/dzien-na-rynkach-na-wall-street-rekordy-na-koniec-tygodnia",
+      "url": "https://biznes.pap.pl/wiadomosci/rynki/dzien-na-rynkach-na-wall-street-rekordy-na-koniec-tygodnia",
+      "title": "DZIEŃ NA RYNKACH: Na Wall Street rekordy na koniec tygodnia",
+      "content_html": "Piątkowa sesja na Wall Street zakończyła się wzrostami głównych indeksów, gdyż inwestorzy zinterpretowali nieoczekiwaną utratę miejsc pracy w lipcu jako sygnał, że Rezerwa Federalna nie będzie musiała",
+      "date_published": "2026-08-07T23:05:00+02:00",
+      "source": "PAP Biznes"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Placa-minimalna-w-gore-Rzad-proponuje-nowe-stawki-od-stycznia-2027-r-9179551.html",
       "url": "https://www.bankier.pl/wiadomosc/Placa-minimalna-w-gore-Rzad-proponuje-nowe-stawki-od-stycznia-2027-r-9179551.html",
       "title": "Płaca minimalna w górę. Rząd proponuje nowe stawki od stycznia 2027 r.",
@@ -333,14 +341,6 @@
       "source": "Bankier.pl"
     },
     {
-      "id": "https://biznes.pap.pl/wiadomosci/rynki/po-otwarciu-sesji-dji-rosnie-o-005-proc-sp500-zyskuje-033-proc",
-      "url": "https://biznes.pap.pl/wiadomosci/rynki/po-otwarciu-sesji-dji-rosnie-o-005-proc-sp500-zyskuje-033-proc",
-      "title": "Po otwarciu sesji DJI rośnie o 0,05 proc., a S&P500 zyskuje 0,33 proc.",
-      "content_html": "Po otwarciu sesji w USA Dow Jones Industrial rośnie o 0,05 proc. do 53.913 pkt., S&P500 zyskuje 0,33 proc. i wynosi 7.735 pkt.",
-      "date_published": "2026-08-07T15:34:00+02:00",
-      "source": "PAP Biznes"
-    },
-    {
       "id": "https://www.bankier.pl/wiadomosc/USA-zatrudnienie-zmalalo-a-bezrobocie-spadlo-w-lipcu-2026-roku-9179399.html",
       "url": "https://www.bankier.pl/wiadomosc/USA-zatrudnienie-zmalalo-a-bezrobocie-spadlo-w-lipcu-2026-roku-9179399.html",
       "title": "Zatrudnienie zmalało, a bezrobocie spadło. Podwyżki stóp w Fedzie jednak nie będzie?",
@@ -531,6 +531,14 @@
       "content_html": "Gabinet byłego premiera Węgier Viktora Orbana zamierzał kupić w najdroższej dzielnicy Brukseli nieruchomość za 20 mln euro, aby otworzyć luksusową restaurację promującą węgierską gastronomię – poinformował w piątek tygodnik „HVG”...",
       "date_published": "2026-08-07T13:27:00+02:00",
       "source": "Bankier.pl"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/firmy/mostostal-zabrze-ma-list-intencyjny-z-zagranicznym-podmiotem-dot-budowy-instalacji",
+      "url": "https://biznes.pap.pl/wiadomosci/firmy/mostostal-zabrze-ma-list-intencyjny-z-zagranicznym-podmiotem-dot-budowy-instalacji",
+      "title": "Mostostal Zabrze ma list intencyjny z zagranicznym podmiotem dot. budowy instalacji chemicznej w Niemczech",
+      "content_html": "Spółka zależna Mostostalu Zabrze - Mostostal Zabrze Realizacje Przemysłowe (MZRP) - podpisała list intencyjny z podmiotem zagranicznym, dotyczący budowy nowej instalacji chemicznej w Niemczech - podał",
+      "date_published": "2026-08-07T13:21:00+02:00",
+      "source": "PAP Biznes"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Kurs-Polimeksu-Mostostal-rosnie-o-ponad-9-proc-przy-lekkiej-zwyzce-mWIG40-9179351.html",
