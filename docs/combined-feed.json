@@ -21,6 +21,14 @@
       "source": "Bankier.pl"
     },
     {
+      "id": "https://biznes.pap.pl/wiadomosci/ekonomia-biznes-i-finanse/skrot-wiadomosci-piatek-7-sierpnia-2100",
+      "url": "https://biznes.pap.pl/wiadomosci/ekonomia-biznes-i-finanse/skrot-wiadomosci-piatek-7-sierpnia-2100",
+      "title": "Skrót wiadomości - piątek, 7 sierpnia, 21.00",
+      "content_html": "Przegląd najważniejszych wiadomości gospodarczych, krajowych i ze świata.",
+      "date_published": "2026-08-07T21:00:00+02:00",
+      "source": "PAP Biznes"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Warszawa-publikuje-audyty-SOR-ow-44-zalecenia-dla-Szpitala-Poludniowego-9179588.html",
       "url": "https://www.bankier.pl/wiadomosc/Warszawa-publikuje-audyty-SOR-ow-44-zalecenia-dla-Szpitala-Poludniowego-9179588.html",
       "title": "Warszawa publikuje audyty SOR-ów. 44 zalecenia dla Szpitala Południowego",
@@ -371,14 +379,6 @@
       "content_html": "Prezydent Karol Nawrocki podpisał ustawę, zakładającą, że podmioty nadzorowane przez KNF będą z góry uiszczać opłaty przy składaniu wniosków w zakresie zezwoleń, zgód oraz wpisu do rejestru, a nie po zakończeniu postępowania, jak obecnie...",
       "date_published": "2026-08-07T15:11:00+02:00",
       "source": "Bankier.pl"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/gospodarka/w-przyszlym-tygodniu-przeceny-powinny-objac-wiekszosc-stacji-paliw-bm-reflex",
-      "url": "https://biznes.pap.pl/wiadomosci/gospodarka/w-przyszlym-tygodniu-przeceny-powinny-objac-wiekszosc-stacji-paliw-bm-reflex",
-      "title": "W przyszłym tygodniu przeceny powinny objąć większość stacji paliw - BM Reflex",
-      "content_html": "Pierwsze stacje paliw obniżyły ceny jeszcze przed weekendem, a w przyszłym tygodniu przeceny powinny objąć większość rynku - oceniają analitycy BM Reflex. Ich zdaniem średnia cena benzyny Pb 95 na sta",
-      "date_published": "2026-08-07T15:09:00+02:00",
-      "source": "PAP Biznes"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Rada-UE-nalozyla-nowe-sankcje-na-rosyjski-sektor-zbrojeniowy-9179433.html",
@@ -1299,14 +1299,6 @@
       "content_html": "",
       "date_published": "2026-08-07T06:00:00+02:00",
       "source": "Bankier.pl"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/rynki/dzien-na-rynkach-na-wall-street-spadki-i-realizacja-zyskow",
-      "url": "https://biznes.pap.pl/wiadomosci/rynki/dzien-na-rynkach-na-wall-street-spadki-i-realizacja-zyskow",
-      "title": "DZIEŃ NA RYNKACH: Na Wall Street spadki i realizacja zysków",
-      "content_html": "Czwartkowa sesja na Wall Street przyniosła spadki głównych indeksów, a inwestorzy uważnie obserwowali sytuację na Bliskim Wschodzie, gdzie negocjowano porozumienie w sprawie ponownego otwarcia kluczow",
-      "date_published": "2026-08-06T22:10:00+02:00",
-      "source": "PAP Biznes"
     }
   ]
 }
