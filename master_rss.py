@@ -35,7 +35,7 @@ HOURS_BACK = 24
 # Pelna tresc depesz PAP pobierana TUTAJ, a nie na serwerze: biznes.pap.pl blokuje
 # IP serwera przez Incapsule od ~2026-05-18 (sonda 2026-08-09 potwierdzila, ze runnery
 # GitHuba przechodza). Serwer czyta gotowy JSON i nie dotyka pap.pl.
-MAX_CONTENT_CHARS = 3000     # tyle wystarcza do analizy AI i notatki w vaulcie
+MAX_CONTENT_CHARS = 4000     # tyle wystarcza do analizy AI i notatki w vaulcie
 MAX_NOWYCH_POBRAN = 40       # bezpiecznik: gorny limit wejsc na artykuly w jednym przebiegu
 TZ_WARSAW = pytz.timezone("Europe/Warsaw")
 
