@@ -5,12 +5,44 @@
   "home_page_url": "https://www.bankier.pl",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/Francja-pobila-rekord-ciepla-Lipiec-okazal-sie-najgoretszy-od-1900-roku-9177666.html",
+      "url": "https://www.bankier.pl/wiadomosc/Francja-pobila-rekord-ciepla-Lipiec-okazal-sie-najgoretszy-od-1900-roku-9177666.html",
+      "title": "Francja pobiła rekord ciepła. Lipiec okazał się najgorętszy od 1900 roku",
+      "content_html": "We Francji miniony lipiec - upalny, bardzo słoneczny i w niektórych rejonach praktycznie bez deszczu - okazał się najgorętszy w historii pomiarów, czyli od 1900 roku. Od tamtego roku nigdy nie było w lipcu takich upałów i prawie nigdy takiej...",
+      "date_published": "2026-08-09T13:00:00+02:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/16-tysiecy-ochotnikow-z-ponad-70-krajow-Walcza-na-pierwszej-linii-frontu-z-wojskami-Ukrainy-9178751.html",
+      "url": "https://www.bankier.pl/wiadomosc/16-tysiecy-ochotnikow-z-ponad-70-krajow-Walcza-na-pierwszej-linii-frontu-z-wojskami-Ukrainy-9178751.html",
+      "title": "16 tysięcy ochotników z ponad 70 krajów. Walczą na pierwszej linii frontu z wojskami Ukrainy",
+      "content_html": "W szeregach Sił Obrony Ukrainy walczy około 16 tysięcy ochotników z co najmniej 72 krajów świata, a prawie 40 procent z nich to obywatele państw Ameryki Łacińskiej – poinformowała ukraińska Rzeczniczka Praw Żołnierzy Olha Reszetyłowa.",
+      "date_published": "2026-08-09T13:00:00+02:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/firmy/obecny-sezon-publikacji-wynikow-firm-w-usa-najlepszy-od-kilku-lat-factset",
+      "url": "https://biznes.pap.pl/wiadomosci/firmy/obecny-sezon-publikacji-wynikow-firm-w-usa-najlepszy-od-kilku-lat-factset",
+      "title": "Obecny sezon publikacji wyników firm w USA najlepszy od kilku lat - FactSet",
+      "content_html": "W obecnym, późnym etapie sezonu wyników finansowych za drugi kwartał w USA spółki z indeksu S&P 500 raportują imponujące wyniki, nawet jeśli pominąć niezwykle wysokie niespodzianki w zakresie zysku na",
+      "date_published": "2026-08-09T12:03:00+02:00",
+      "source": "PAP Biznes"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Rekord-na-lotnisku-we-Wroclawiu-W-lipcu-odprawiono-ponad-713-tys-pasazerow-9178136.html",
       "url": "https://www.bankier.pl/wiadomosc/Rekord-na-lotnisku-we-Wroclawiu-W-lipcu-odprawiono-ponad-713-tys-pasazerow-9178136.html",
       "title": "Rekord na lotnisku we Wrocławiu. W lipcu odprawiono ponad 713 tys. pasażerów",
       "content_html": "W lipcu br. wrocławskie lotnisko obsłużyło 713 tys. 413 podróżnych. To najwyższy wynik w skali miesiąca w historii portu na wrocławskich Strachowicach. Jego władze przekazały, że miało na to wpływ duże zainteresowanie lotami m.in. na Maltę...",
       "date_published": "2026-08-09T12:00:00+02:00",
       "source": "Bankier.pl"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/firmy/polska-ma-1950-km-autostrad-do-docelowej-sieci-brakuje-150-km",
+      "url": "https://biznes.pap.pl/wiadomosci/firmy/polska-ma-1950-km-autostrad-do-docelowej-sieci-brakuje-150-km",
+      "title": "Polska ma 1950 km autostrad; do docelowej sieci brakuje 150 km",
+      "content_html": "Sieć autostrad w Polsce liczy obecnie 1950 km, a do osiągnięcia docelowej długości brakuje ok. 150 km – wynika z informacji przekazanej przez Generalną Dyrekcję Dróg Krajowych i Autostrad. W najbliższ",
+      "date_published": "2026-08-09T11:47:00+02:00",
+      "source": "PAP Biznes"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Windykatorzy-maja-pelne-rece-pracy-Do-obslugi-trafily-dlugi-za-34-2-mld-zl-9177598.html",
@@ -466,30 +498,6 @@
       "title": "Belka: Polska nie rozmawia o euro, bo politycy boją się sondaży",
       "content_html": "Wejście do strefy euro stało się w Polsce tematem tabu; tylko potężny kryzys gospodarczy mógłby wpłynąć na zmianę nastawienia Polaków do euro - ocenia w rozmowie z PAP były premier i były szef NBP Marek Belka.",
       "date_published": "2026-08-08T13:00:00+02:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Fala-pozarow-na-Balkanach-Ewakuowano-mieszkancow-plona-rezerwaty-i-lasy-9179696.html",
-      "url": "https://www.bankier.pl/wiadomosc/Fala-pozarow-na-Balkanach-Ewakuowano-mieszkancow-plona-rezerwaty-i-lasy-9179696.html",
-      "title": "Fala pożarów na Bałkanach. Ewakuowano mieszkańców, płoną rezerwaty i lasy",
-      "content_html": "Strażacy w krajach Bałkanów od kilku dni walczą z pożarami łąk i lasów, próbując powstrzymać ogień przed zbliżeniem się do obszarów zamieszkanych. Najpoważniejsza sytuacja utrzymuje się w Serbii, gdzie w sobotę akcja gaśnicza była...",
-      "date_published": "2026-08-08T12:14:00+02:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Unijne-decyzje-zdecyduja-o-losie-polskiego-rzepaku-Branza-ostrzega-przed-kryzysem-9178566.html",
-      "url": "https://www.bankier.pl/wiadomosc/Unijne-decyzje-zdecyduja-o-losie-polskiego-rzepaku-Branza-ostrzega-przed-kryzysem-9178566.html",
-      "title": "Unijne decyzje zdecydują o losie polskiego rzepaku. Branża ostrzega przed kryzysem",
-      "content_html": "Nowa perspektywa finansowa Unii Europejskiej na lata 2028-2034 może zdecydować o przyszłości krajowego rynku rzepaku i przemysłu olejarskiego. Przedstawiciele branży przekonują, że o konkurencyjności sektora zdecyduje nie tyle wysokość unijnego...",
-      "date_published": "2026-08-08T12:00:00+02:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Lex-szarlatan-na-biurku-Nawrockiego-Jarzy-Zieba-na-spotkaniu-w-kancelarii-9178679.html",
-      "url": "https://www.bankier.pl/wiadomosc/Lex-szarlatan-na-biurku-Nawrockiego-Jarzy-Zieba-na-spotkaniu-w-kancelarii-9178679.html",
-      "title": "„Lex szarlatan” na biurku Nawrockiego. Jarzy Zięba na spotkaniu w kancelarii?",
-      "content_html": "Nowela ustawy o prawach pacjenta i Rzeczniku Praw Pacjenta - tzw. lex szarlatan - budzi emocje, dawno nie było ustawy powodującej taką aktywność różnych środowisk - stwierdził szef KPRP Zbigniew Bogucki. Zapytany o przyjęcie Jerzego Zięby w...",
-      "date_published": "2026-08-08T12:00:00+02:00",
       "source": "Bankier.pl"
     }
   ]
