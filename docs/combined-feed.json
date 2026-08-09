@@ -5,12 +5,28 @@
   "home_page_url": "https://www.bankier.pl",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/KDPW-i-automatyzacja-na-gieldzie-Kto-pilnuje-algorytmow-9056370.html",
+      "url": "https://www.bankier.pl/wiadomosc/KDPW-i-automatyzacja-na-gieldzie-Kto-pilnuje-algorytmow-9056370.html",
+      "title": "Czy błąd jednego brokera może zatopić całą giełdę? Tak działa rynkowy bezpiecznik",
+      "content_html": "Co stałoby się, gdyby serce polskiego rynku finansowego przestało bić na jedną dobę? Gdy na giełdzie algorytmy HFT zawierają tysiące transakcji na sekundę, a jeden błąd w kodzie może wywołać lawinę, o przetrwaniu rynku nie decydują same...",
+      "date_published": "2026-08-10T07:00:00+02:00",
+      "source": "Bankier.pl"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Rekordowy-naplyw-Polakow-do-Portugalii-Szukamy-bezpiecznego-miejsca-na-urlop-9179094.html",
       "url": "https://www.bankier.pl/wiadomosc/Rekordowy-naplyw-Polakow-do-Portugalii-Szukamy-bezpiecznego-miejsca-na-urlop-9179094.html",
       "title": "Rekordowy napływ Polaków do Portugalii. Szukamy bezpiecznego miejsca na urlop?",
       "content_html": "W Portugalii widoczny jest nienotowany wcześniej wzrost liczby turystów z Polski, który w minionym roku wyniósł ponad 11 proc. Jak oceniają portugalscy komentatorzy i przedsiębiorcy, ma to głównie związek z nasilającymi się na świecie konfliktami...",
       "date_published": "2026-08-09T21:00:00+02:00",
       "source": "Bankier.pl"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/ekonomia-biznes-i-finanse/skrot-wiadomosci-sobota-niedziela-8-9-sierpnia-0",
+      "url": "https://biznes.pap.pl/wiadomosci/ekonomia-biznes-i-finanse/skrot-wiadomosci-sobota-niedziela-8-9-sierpnia-0",
+      "title": "Skrót wiadomości: sobota-niedziela, 8-9 sierpnia",
+      "content_html": "Przegląd najważniejszych wiadomości gospodarczych, krajowych i ze świata z soboty i niedzieli, 8-9 sierpnia.",
+      "date_published": "2026-08-09T20:21:00+02:00",
+      "source": "PAP Biznes"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Zaoral-swiezy-asfalt-ciagnikiem-Rolnik-trafil-do-aresztu-9179873.html",
@@ -386,14 +402,6 @@
       "title": "Libia szybko usunęła awarię. Wznowiono przesył ropy ważnym rurociągiem",
       "content_html": "Libijska firma Waha Oil Company poinformowała w sobotę, że w ciągu 24 godzin od wykrycia faktu, zlokalizowała źródło wycieku ropy naftowej w rurociągu Zaqout-Sidra. Reuters podkreślił, że to instalacja istotna zarówno dla krajowej gospodarki...",
       "date_published": "2026-08-08T22:07:00+02:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Wspolpraca-FBI-z-Chinami-i-Rosja-budzi-niepokoj-wywiadu-To-nasi-wrogowie-kropka-9178466.html",
-      "url": "https://www.bankier.pl/wiadomosc/Wspolpraca-FBI-z-Chinami-i-Rosja-budzi-niepokoj-wywiadu-To-nasi-wrogowie-kropka-9178466.html",
-      "title": "Współpraca FBI z Chinami i Rosją budzi niepokój wywiadu. „To nasi wrogowie, kropka”",
-      "content_html": "Dyrektor FBI Kash Patel poinformował, że w ciągu ostatniego roku nawiązał nowe formy współpracy ze służbami Chin i Rosji - podał Reuters. Inicjatywa wzbudziła obawy o ryzyko dotyczące dzielenia się wrażliwymi informacjami z państwami, które...",
-      "date_published": "2026-08-08T21:00:00+02:00",
       "source": "Bankier.pl"
     }
   ]
