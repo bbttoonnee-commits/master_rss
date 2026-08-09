@@ -31,6 +31,12 @@ from bs4 import BeautifulSoup
 
 SLEEP_BETWEEN_REQUESTS = 2.5
 HOURS_BACK = 24
+
+# Pelna tresc depesz PAP pobierana TUTAJ, a nie na serwerze: biznes.pap.pl blokuje
+# IP serwera przez Incapsule od ~2026-05-18 (sonda 2026-08-09 potwierdzila, ze runnery
+# GitHuba przechodza). Serwer czyta gotowy JSON i nie dotyka pap.pl.
+MAX_CONTENT_CHARS = 3000     # tyle wystarcza do analizy AI i notatki w vaulcie
+MAX_NOWYCH_POBRAN = 40       # bezpiecznik: gorny limit wejsc na artykuly w jednym przebiegu
 TZ_WARSAW = pytz.timezone("Europe/Warsaw")
 
 HEADERS = {
@@ -58,7 +64,7 @@ SOURCES = {
         "name": "PAP Biznes",
         "base_url": "https://biznes.pap.pl",
         "urls": [
-            ("https://biznes.pap.pl/kategoria/depesze-pap", 10, "pap"),
+            ("https://biznes.pap.pl/kategoria/depesze-pap", 3, "pap"),
         ],
     },
 }
@@ -235,6 +241,64 @@ PARSERS = {
 }
 
 # --------------------------------------------------------------------
+# TRESC ARTYKULOW (tylko PAP)
+# --------------------------------------------------------------------
+
+def fetch_article_text(url: str) -> str:
+    """Pelny tekst depeszy. Pusty string, gdy sie nie uda - wtedy zostaje zajawka."""
+    html = fetch_page_html(url)
+    if not html:
+        return ""
+    soup = BeautifulSoup(html, "html.parser")
+    for sel in (".field--name-body p", ".node__content p", "article p", "main p", "p"):
+        akapity = soup.select(sel)
+        if len(akapity) >= 3:
+            break
+    czesci = []
+    for a in akapity:
+        txt = " ".join(a.get_text(strip=True).split())
+        if len(txt) > 40 and txt not in czesci:   # krotkie = menu, stopka, podpisy
+            czesci.append(txt)
+    return "\n\n".join(czesci)[:MAX_CONTENT_CHARS]
+
+
+def wczytaj_poprzedni_feed(output_dir: str) -> Dict[str, str]:
+    """{url: content_html} z poprzedniego przebiegu - zeby nie pobierac dwa razy tego samego."""
+    sciezka = os.path.join(output_dir, OUTPUT_FILENAME)
+    try:
+        with open(sciezka, encoding="utf-8") as f:
+            dane = json.load(f)
+        return {it["url"]: it.get("content_html", "") for it in dane.get("items", [])}
+    except Exception as e:
+        logging.info("Brak poprzedniego feedu (%s) - pierwszy przebieg", e)
+        return {}
+
+
+def uzupelnij_tresc(articles: List[Dict], output_dir: str) -> None:
+    """Dopisuje pelna tresc do depesz PAP. Nowe pobiera, znane odzyskuje z feedu."""
+    poprzednie = wczytaj_poprzedni_feed(output_dir)
+    pobrane = odzyskane = 0
+    for art in articles:
+        if "PAP" not in art.get("source", ""):
+            continue
+        stare = poprzednie.get(art["link"], "")
+        if len(stare) > len(art.get("teaser", "")):
+            art["content"] = stare          # mamy z poprzedniego przebiegu
+            odzyskane += 1
+            continue
+        if pobrane >= MAX_NOWYCH_POBRAN:
+            logging.warning("Limit %d pobran osiagniety - reszta zostaje na zajawkach",
+                            MAX_NOWYCH_POBRAN)
+            break
+        tekst = fetch_article_text(art["link"])
+        if tekst:
+            art["content"] = tekst
+            pobrane += 1
+    logging.info("Tresc PAP: pobrano %d nowych, odzyskano %d z poprzedniego feedu",
+                 pobrane, odzyskane)
+
+
+# --------------------------------------------------------------------
 # ZBIERANIE ARTYKUŁÓW
 # --------------------------------------------------------------------
 
@@ -289,7 +353,7 @@ def generate_combined_json(all_articles: List[Dict]) -> str:
                 "id": a["link"], 
                 "url": a["link"], 
                 "title": a["title"],
-                "content_html": a["teaser"], 
+                "content_html": a.get("content") or a["teaser"], 
                 "date_published": a["pub_date"].isoformat(),
                 "source": a["source"]
             }
@@ -325,6 +389,9 @@ def main():
     all_articles.sort(key=lambda x: x["pub_date"], reverse=True)
     
     logging.info("Łącznie znaleziono %d unikalnych artykułów ze wszystkich źródeł", len(all_articles))
+
+    # Pelna tresc depesz PAP (serwer nie moze ich pobrac - ban Incapsuli na jego IP)
+    uzupelnij_tresc(all_articles, args.output)
     
     # Zapisz jeden plik JSON
     json_path = os.path.join(args.output, OUTPUT_FILENAME)
