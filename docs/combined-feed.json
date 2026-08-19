@@ -5,6 +5,14 @@
   "home_page_url": "https://www.bankier.pl",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/Lewandowski-Eisenberg-i-Rubik-promuja-Polske-Ruszyla-duza-kampania-9183897.html",
+      "url": "https://www.bankier.pl/wiadomosc/Lewandowski-Eisenberg-i-Rubik-promuja-Polske-Ruszyla-duza-kampania-9183897.html",
+      "title": "Lewandowski, Eisenberg i Rubik promują Polskę. Ruszyła duża kampania",
+      "content_html": "Polska Organizacja Turystyczna we wtorek zainaugurowała międzynarodową kampanię „POLAND. More than you expected”. Celem projektu jest promocja Polski jako kierunku turystycznego w czterech krajach europejskich, a także w Stanach Zjednoczonych...",
+      "date_published": "2026-08-19T11:00:00+02:00",
+      "source": "Bankier.pl"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Sycylia-liczy-straty-po-erupcji-Etny-22-mln-euro-kosztowal-paraliz-lotniska-9184065.html",
       "url": "https://www.bankier.pl/wiadomosc/Sycylia-liczy-straty-po-erupcji-Etny-22-mln-euro-kosztowal-paraliz-lotniska-9184065.html",
       "title": "Sycylia liczy straty po erupcji Etny. 22 mln euro kosztował paraliż lotniska",
@@ -13,12 +21,52 @@
       "source": "Bankier.pl"
     },
     {
+      "id": "https://www.bankier.pl/wiadomosc/Dolar-pod-presja-przed-minutkami-Fedu-Frank-szwajcarski-nowym-carry-trade-9184182.html",
+      "url": "https://www.bankier.pl/wiadomosc/Dolar-pod-presja-przed-minutkami-Fedu-Frank-szwajcarski-nowym-carry-trade-9184182.html",
+      "title": "Dolar pod presją przed \"minutkami\" Fedu. Frank szwajcarski nowym \"carry trade\"?",
+      "content_html": "Środowy ranek na rynku walutowym upływał pod znakiem lekkiego osłabienia złotego i wyczekiwania na wieczorny protokół z posiedzenia Rezerwy Federalnej - tzw. \"minutek\" Fedu. Notowania dolara pozostają blisko wielomiesięcznych minimów, za to...",
+      "date_published": "2026-08-19T11:00:00+02:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Betonowe-zloto-i-stracone-dekady-Jak-inwestuja-dzisiaj-Polacy-i-dlaczego-czeka-nas-rewolucja-w-portfelach-9184168.html",
+      "url": "https://www.bankier.pl/wiadomosc/Betonowe-zloto-i-stracone-dekady-Jak-inwestuja-dzisiaj-Polacy-i-dlaczego-czeka-nas-rewolucja-w-portfelach-9184168.html",
+      "title": "Betonowe złoto i stracone dekady. Jak inwestują dzisiaj Polacy i dlaczego czeka nas rewolucja w portfelach?",
+      "content_html": "Polskie portfele inwestycyjne od lat zdominowane są przez jeden fundament: nieruchomości. Podczas gdy rynki zachodnie budują wielopokoleniowe portfele akcyjne i korzystają z funduszy REIT, my wciąż oszczędzamy na lokatach, by ostatecznie zamienić...",
+      "date_published": "2026-08-19T10:40:00+02:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Nizszy-PIT-pobudzi-gospodarke-ale-zwiekszy-dlug-mBank-policzyl-skutki-zmian-9184167.html",
+      "url": "https://www.bankier.pl/wiadomosc/Nizszy-PIT-pobudzi-gospodarke-ale-zwiekszy-dlug-mBank-policzyl-skutki-zmian-9184167.html",
+      "title": "Niższy PIT pobudzi gospodarkę, ale zwiększy dług. mBank policzył skutki zmian",
+      "content_html": "Podwyższenie kwoty wolnej do 60 tys. zł i wyższe progi PIT mogłyby pobudzić polską gospodarkę, ale jednocześnie mocno zwiększyć deficyt i zadłużenie państwa. Ekonomiści mBanku policzyli skutki trzech wariantów zmian i wskazali także na...",
+      "date_published": "2026-08-19T10:30:00+02:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Nowa-afera-korupcyjna-na-Ukrainie-NABU-i-SAP-ujawniaja-operacje-9184169.html",
+      "url": "https://www.bankier.pl/wiadomosc/Nowa-afera-korupcyjna-na-Ukrainie-NABU-i-SAP-ujawniaja-operacje-9184169.html",
+      "title": "Nowa afera korupcyjna na Ukrainie? NABU i SAP ujawniają operację",
+      "content_html": "Narodowe Biuro Antykorupcyjne Ukrainy (NABU) i Specjalna Prokuratura Antykorupcyjna (SAP) prowadzą operację dotyczącą organizacji przestępczej kierowanej przez obecnego i byłego deputowanego do parlamentu, z udziałem wysokich rangą urzędników...",
+      "date_published": "2026-08-19T10:20:00+02:00",
+      "source": "Bankier.pl"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Pozyczka-jak-na-samochod-Ciekawy-pomysl-Toyota-Banku-9184165.html",
       "url": "https://www.bankier.pl/wiadomosc/Pozyczka-jak-na-samochod-Ciekawy-pomysl-Toyota-Banku-9184165.html",
       "title": "Pożyczka „jak na samochód”. Ciekawy pomysł Toyota Banku",
-      "content_html": "Konstrukcja jak w tzw. kredycie samochodowym, ale z opcją wykorzystania środków na zakup np. na wyposażenie mieszkania. Tak można w skrócie opisać nietypową propozycję od niedawna dostępną w ofercie Toyota Banku.",
+      "content_html": "Konstrukcja jak w tzw. kredycie samochodowym, ale z opcją wykorzystania środków na zakup np. wyposażenia mieszkania. Tak można w skrócie opisać nietypową propozycję od niedawna dostępną w ofercie Toyota Banku.",
       "date_published": "2026-08-19T10:10:00+02:00",
       "source": "Bankier.pl"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/konsument/w-sierpniu-wzrosly-obawy-o-wplyw-wojny-w-ukrainie-na-sytuacje-w-polsce-gus",
+      "url": "https://biznes.pap.pl/wiadomosci/konsument/w-sierpniu-wzrosly-obawy-o-wplyw-wojny-w-ukrainie-na-sytuacje-w-polsce-gus",
+      "title": "W sierpniu wzrosły obawy o wpływ wojny w Ukrainie na sytuację w Polsce - GUS",
+      "content_html": "W sierpniu wzrosły obawy o wpływ wojny w Ukrainie na sytuację w Polsce - podał Główny Urząd Statystyczny.\n\nZ danych GUS wynika, że 28,2 proc. respondentów określiło obecną sytuację na terytorium Ukrainy jako duże zagrożenie dla suwerenności i niepodległości Polski wobec 22,8 proc. w przed miesiącem. (PAP Biznes)",
+      "date_published": "2026-08-19T09:51:00+02:00",
+      "source": "PAP Biznes"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Chinskie-roboty-podbijaja-gielde-Akcje-Unitree-wzrosly-o-blisko-500-proc-9184130.html",
@@ -37,12 +85,36 @@
       "source": "Bankier.pl"
     },
     {
+      "id": "https://biznes.pap.pl/wiadomosci/rynki/dzien-na-rynkach-w-europie-na-gieldach-przewaga-spadkow-8",
+      "url": "https://biznes.pap.pl/wiadomosci/rynki/dzien-na-rynkach-w-europie-na-gieldach-przewaga-spadkow-8",
+      "title": "DZIEŃ NA RYNKACH: W Europie na giełdach przewaga spadków",
+      "content_html": "Na europejskich giełdach w środę przeważają zniżki indeksów, chociaż po rozpoczęciu handlu indeksy świeciły na zielono. Inwestorzy monitorują sytuację na globalnych rynkach i napięcia na Bliskim Wschodzie, gdzie nie widać sygnałów o zbliżaniu się końca konfliktu. Na rynku walutowym USD jest słabszy wobec swoich konkurentów. Bitcoin jest po ok. 64.250 USD za token. Złoto drożeje - informują maklerzy.\n\nWskaźnik Stoxx 600 Europe spada 0,01 proc. Od początku roku indeks zyskał 10,08 proc.\n\nGeberit zyskuje 8,4 proc. po danych za II kwartał.\n\nFLSmidth rośnie o 9,2 proc. Dane finansowe za II kw. przebiły rynkowy konsensus.\n\nAmbea drożeje o 12 proc. Sprzedaż netto wyniosła w II kw. 4,39 mld SEK wobec szacunków 4,3 mld SEK.\n\nKingspan zyskuje 2 proc. Analitycy UBS podwyższyli rekomendację dla akcji spółki do \"kupuj\" z \"neutralnie\".\n\nStraumann traci 9,1 proc. Spółka podała wyniki za I połowę roku. EBITDA wyniosła 435,3 mln CHF wobec szacunków 420,9 mln CHF.\n\nKurs Carlsberga spada o 3,2 proc., najmocniej od 5 miesięcy. Spółka podała rozczarowujące dane za I poł. 2026 r.\n\nInwestorzy monitorują sytuację na globalnych rynkach i napięcia na Bliskim Wschodzie.\n\nW Europie przeważają zniżki indeksów, a graczy niepokoją wysokie ceny ropy naftowej, które rosną 4. dzień z rzędu w sytuacji braku postępów w kierunku rozwiązania konfliktu na Bliskim Wschodzie.\n\nPrezydent USA Donald Trump we wtorek poinformował, że żadne rozmowy z Iranem nie są obecnie prowadzone, ani nie ma żadnych negocjacji w planach. Zapewnił, że cieśnina Ormuz jest otwarta, a wszystkie miny morskie w tym szlaku wodnym zostały usunięte.\n\nTymczasem umacnia się kurs kanadyjskiego dolara po tym, jak prezydent USA Donald Trump poinformował we wtorek, że na trzy dni wstrzymał wejście w życie 50-procentowych ceł na część importu z Kanady. Taryfy miały zacząć obowiązywać od środy.\n\nDonald Trump zapowiadał 20 lipca, że od 19 sierpnia zaczną obowiązywać 50-procentowe cła na niektóre towary z Kanady: od wina, przez kije hokejowe, po cement.\n\nW uzasadnieniu decyzji Biały Dom napisał, że Ottawa dyskryminuje amerykańskie produkty (przemysł motoryzacyjny, mleczarski i alkoholowy).\n\nChodziło m.in. o zasady kwotowego zarządzania produkcją mleczną w Kanadzie oraz wstrzymanie importu amerykańskich alkoholi i win, które w ub.r. wprowadziły kanadyjskie prowincje.\n\nCła, które miały objąć 5 proc. kanadyjskiego eksportu do USA, mogły doprowadzić do większego konfliktu handlowego - wskazują analitycy.\n\nTymczasem inwestorzy oceniają komentarze członka Rady Prezesów EBC Olli Rehna, który powiedział, że istotne jest, aby oczekiwania inflacyjne w strefie euro pozostały stabilne.\n\n\"Utrzymanie oczekiwań inflacyjnych na stabilnym poziomie będzie kluczowe\" - powiedział Rehn w środę w Helsinkach.\n\n\"Spotkamy się (EBC) we wrześniu, aby ponownie ocenić sytuację i perspektywy\" - dodał.\n\nRehn wskazał, że potrzeby Europy w zakresie finansowania \"są duże, a nawet ogromne, a nasze rynki kapitałowe powinny lepiej odpowiadać skali i potrzebom europejskiej gospodarki\".\n\nDodał, że dlatego istotne jest stworzenie unii oszczędnościowo-inwestycyjnej.\n\nZ kolei we wtorek główny ekonomista EBC Phillip Lane stwierdził, że inflacja w strefie euro utrzyma się do końca roku na poziomie ok. 3 proc.\n\n\"Tempo wzrostu cen konsumpcyjnych prawdopodobnie utrzyma się znacznie powyżej celu 2 proc. w 2026 r. ze względu na wojnę z Iranem\" - powiedział Lane w wywiadzie dla irlandzkiego RTE Radio 1.\n\n\"Sytuacja jest tak naprawdę niepewna\" - dodał.\n\nNa rynku walutowym japoński jen kosztuje 159,25 za 1 USD, wyżej o 0,2 proc.\n\nEuro jest po 1,1588 USD, w górę o 0,1 proc.\n\nBitcoin kosztuje 64.256 USD za token, niżej o 0,5 proc.\n\nRentowność 10-letnich UST wynosi 4,69 proc., niżej o 2 pb.\n\nZłoto jest wyceniane w transakcjach spot po 4.360 USD za uncję, w górę o 0,6 proc.\n\nBaryłka ropy West Texas Intermediate jest na NYMEX w Nowym Jorku po 85,34 USD - wyżej o 0,47 proc.\n\nBrent na ICE jest wyceniana po 91,41 USD za baryłkę, w górę o 0,44 proc. (PAP Biznes)",
+      "date_published": "2026-08-19T09:44:00+02:00",
+      "source": "PAP Biznes"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/konsument/w-sierpniu-pogorszenie-nastrojow-konsumenckich-dot-obecnej-i-przyszlej",
+      "url": "https://biznes.pap.pl/wiadomosci/konsument/w-sierpniu-pogorszenie-nastrojow-konsumenckich-dot-obecnej-i-przyszlej",
+      "title": "W sierpniu pogorszenie nastrojów konsumenckich dot. obecnej i przyszłej sytuacji - GUS",
+      "content_html": "W sierpniu 2026 r. odnotowano pogorszenie nastrojów konsumenckich zarówno dotyczących obecnej, jak i przyszłej sytuacji, w stosunku do poprzedniego miesiąca - podał Główny Urząd Statystyczny.\n\nBieżący wskaźnik ufności konsumenckiej (BWUK), syntetycznie opisujący obecne tendencje konsumpcji indywidualnej, wyniósł minus 11,3 i był o 1,1 niższy w stosunku do poprzedniego miesiąca.\n\n\"Spośród składowych wskaźnika, w porównaniu z lipcem br., najbardziej pogorszyły się oceny obecnej możliwości dokonywania ważnych zakupów oraz przyszłej sytuacji ekonomicznej kraju (spadki odpowiednio o 3,3 i 2,0)\" - napisano w raporcie GUS.\n\n\"Niższe wartości osiągnęły również oceny przyszłej sytuacji finansowej gospodarstwa domowego oraz obecnej sytuacji ekonomicznej kraju (w obu przypadkach spadek o 0,4). Wyższą wartość niż przed miesiącem odnotowano jedynie dla oceny obecnej sytuacji finansowej gospodarstwa domowego (wzrost o 0,6)\" - dodano.\n\nW odniesieniu do sierpnia 2025 r., wartość BWUK poprawiła się o 0,8.\n\nZ kolei wyprzedzający wskaźnik ufności konsumenckiej, syntetycznie opisujący oczekiwane w najbliższych miesiącach tendencje konsumpcji indywidualnej, pogorszył się o 0,3 w stosunku do poprzedniego miesiąca i ukształtował się na poziomie minus 7,6.\n\n\"Spośród składowych wskaźnika najbardziej pogorszyły się oceny możliwości przyszłego oszczędzania pieniędzy oraz przyszłej sytuacji ekonomicznej kraju (spadki odpowiednio o 2,2i 2,0)\" - napisano.\n\n\"Spadek o 0,4 wystąpił dla oceny przyszłej sytuacji finansowej gospodarstwa domowego. Wyższą niż przed miesiącem wartość odnotowano jedynie dla oceny przyszłego poziomu bezrobocia (wzrost o 3,1)\" - dodano.\n\nW sierpniu br. WWUK pogorszył się o 1,3 w porównaniu z analogicznym miesiącem 2025 r. (PAP Biznes)",
+      "date_published": "2026-08-19T09:36:00+02:00",
+      "source": "PAP Biznes"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Fedorow-Wybory-powinny-odbyc-sie-nawet-podczas-wojny-Demokracja-nie-moze-byc-zakladnikiem-Rosji-9184161.html",
       "url": "https://www.bankier.pl/wiadomosc/Fedorow-Wybory-powinny-odbyc-sie-nawet-podczas-wojny-Demokracja-nie-moze-byc-zakladnikiem-Rosji-9184161.html",
       "title": "Fedorow: Wybory powinny odbyć się nawet podczas wojny. Demokracja nie może być zakładnikiem Rosji",
       "content_html": "Ukraina musi znaleźć bezpieczny i realistyczny mechanizm przeprowadzenia wyborów mimo wojny, ponieważ demokracja nie może być zakładnikiem Rosji; wybory są ważnym elementem walki o wolność – ocenił w oświadczeniu były minister obrony Ukrainy...",
       "date_published": "2026-08-19T09:35:00+02:00",
       "source": "Bankier.pl"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/gospodarka/w-viii-przesuniecie-oczekiwan-inflacyjnych-konsumentow-w-kierunku-nieco",
+      "url": "https://biznes.pap.pl/wiadomosci/gospodarka/w-viii-przesuniecie-oczekiwan-inflacyjnych-konsumentow-w-kierunku-nieco",
+      "title": "W VIII przesunięcie oczekiwań inflacyjnych konsumentów w kierunku nieco wyższej inflacji - GUS",
+      "content_html": "Sierpniowe badania Głównego Urzędu Statystycznego wskazują na przesunięcie oczekiwań w Polsce w kierunku nieco wyższej inflacji - wynika z danych GUS.\n\nOcena zmian cen konsumpcyjnych w ciągu najbliższych 12 miesięcy przedstawia odczucia konsumentów w zakresie przewidywanego tempa zmian cen towarów i usług konsumpcyjnych w okresie najbliższych miesięcy. Wskaźnik ten przyjmuje wartości od -100 do +100.\n\nWartość dodatnia oznacza przewagę liczebną konsumentów przewidujących wzrost cen konsumenckich (towarów i usług konsumpcyjnych) nad konsumentami przewidującymi ich spadek, natomiast wartość ujemna oznacza przewagę liczebną konsumentów przewidujących spadek cen konsumpcyjnych nad konsumentami przewidującymi ich wzrost.\n\nOdsetki odpowiedzi na pytanie GUS: \"Porównując do ostatnich 12 miesięcy, jakie Pan/Pani przewiduje zmiany cen konsumenckich (towarów i usług konsumpcyjnych) w ciągu najbliższych 12 miesięcy?\".",
+      "date_published": "2026-08-19T09:34:00+02:00",
+      "source": "PAP Biznes"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Sa-pierwsze-polecenia-potwierdzenia-etatu-PIP-reaguje-na-fikcyjne-umowy-cywilnoprawne-9184150.html",
@@ -69,6 +141,14 @@
       "source": "Bankier.pl"
     },
     {
+      "id": "https://biznes.pap.pl/wiadomosci/gospodarka/dzien-na-fxfi-przy-braku-istotnych-publikacji-makro-pln-powinien-sie",
+      "url": "https://biznes.pap.pl/wiadomosci/gospodarka/dzien-na-fxfi-przy-braku-istotnych-publikacji-makro-pln-powinien-sie",
+      "title": "DZIEŃ NA FX/FI: Przy braku istotnych publikacji makro PLN powinien się stabilizować",
+      "content_html": "Przy braku istotnych publikacji makro środowa sesja dla złotego powinna być spokojna, notowania EUR/PLN powinny utrzymać się w okolicy bieżących poziomów - oceniają w porannych raportach ekonomiści. Na rynku długu odbędzie się aukcja sprzedaży obligacji MF, która może nieco ciążyć notowaniom SPW na rynku wtórnym.\n\n\"Środa będzie kolejnym dniem bez istotnych publikacji z krajowej gospodarki, a globalny kalendarz makroekonomiczny również będzie relatywnie ubogi. Uwagę uczestników rynku, poza rozwojem sytuacji na Bliskim Wschodzie, przyciągną wieczorne minutes z lipcowego posiedzenia Fed\" - wskazują ekonomiści PKO BP.\n\n\"Inwestorzy będą analizować je pod kątem rozkładu głosów wśród członków FOMC oraz ich oceny perspektyw polityki pieniężnej. Ze strony wymowy ww. dokumentu nie oczekujemy jednak istotnych dla rynku zaskoczeń. Spodziewamy się zatem relatywnie spokojniejszej sesji na złotym i utrzymania kursów EUR/PLN oraz USD/PLN w pobliżu bieżących poziomów\" - dodają.\n\nEkonomiści Banku Millennium oceniają, że w środę raczej nie można oczekiwać istotnej poprawy nastrojów względem ryzykownych aktywów.\n\n\"Sytuacja na Bliskim Wschodzie nie uspokaja się. D. Trump poinformował, że nie ma rozmów z Iranem, a Izrael zaatakował syryjską bazę wojskową. Ceny surowców energetycznych utrzymują się zatem na podwyższonym poziomie. Ropa naftowa Brent kosztuje rano 91,3 USD/bbl, a gaz ziemny TTF ok. 64 EUR/MWh (blisko szczytów z lipca)\" - napisano w raporcie.\n\n\"W związku z tym nie oczekujemy istotnej poprawy nastrojów względem ryzykownych aktywów podczas dzisiejszej sesji. Złoty rano traci, a kurs EUR/PLN rośnie do 4,3261, najwyżej od lipca. Okolice 4,3300 mogą jednak okazać się dość silnym poziomem oporu\" - dodali ekonomiści.\n\n\"Nie zakładamy, aby środowy finalny odczyt inflacji HICP ze strefy euro za lipiec oraz wymowa protokołu z ostatniego posiedzenia FOMC miały istotne znaczenie dla rynkowych wycen ścieżki stóp EBC czy Fed. W kraju odbędzie się regularna aukcja obligacji MF z podażą 7-12 mld zł, która może nieco ciążyć notowaniom SPW na rynku wtórnym\" - napisali ekonomiści PKO BP.\n\n\"Głównym czynnikiem oddziałującym globalnie na rynki FI pozostaną notowania ropy naftowej, zależne od sytuacji w Zatoce Perskiej, gdzie przełomu nie widać. Przy braku nowych istotnych impulsów dalsze dryfowanie rentowności obligacji skarbowych w górę i stromienie krzywych wydaje się podczas środowych notowań bardziej prawdopodobnym scenariuszem\" - dodali.\n\nWydarzaniem dnia na krajowym rynku długu będzie pierwsza w tym miesiącu aukcja sprzedaży obligacji. Ministerstw Finansów zaoferuje obligacje z serii OK0129, NZ0331, PS0731, DS1033, DS0436, NZ0936 za łącznie 7-12 mld PLN.",
+      "date_published": "2026-08-19T09:18:00+02:00",
+      "source": "PAP Biznes"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Koniec-taniej-zywnosci-Ekonomisci-prognozuja-wzrost-cen-nawet-o-7-proc-9184092.html",
       "url": "https://www.bankier.pl/wiadomosc/Koniec-taniej-zywnosci-Ekonomisci-prognozuja-wzrost-cen-nawet-o-7-proc-9184092.html",
       "title": "Koniec taniej żywności? Ekonomiści prognozują wzrost cen nawet o 7 proc.",
@@ -93,6 +173,14 @@
       "source": "Bankier.pl"
     },
     {
+      "id": "https://biznes.pap.pl/wiadomosci/rynki/najwazniejsze-indeksy-gieldowe-w-azji-790",
+      "url": "https://biznes.pap.pl/wiadomosci/rynki/najwazniejsze-indeksy-gieldowe-w-azji-790",
+      "title": "Najważniejsze indeksy giełdowe w Azji",
+      "content_html": "Poniżej aktualne indeksy wybranych giełd w Azji:\n\nIndeks Nikkei 225 zamyka się o 8.30 czasu polskiego, KOSPI o 8.05, Shanghai Composite Index o 9.00, Hang Seng o 10.00, a Sensex o 12.45.",
+      "date_published": "2026-08-19T09:06:00+02:00",
+      "source": "PAP Biznes"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Dudek-o-budzecie-na-2027-r-Potrzebne-realne-ograniczenie-deficytu-nie-ksiegowe-sztuczki-9184143.html",
       "url": "https://www.bankier.pl/wiadomosc/Dudek-o-budzecie-na-2027-r-Potrzebne-realne-ograniczenie-deficytu-nie-ksiegowe-sztuczki-9184143.html",
       "title": "Dudek o budżecie na 2027 r.: Potrzebne realne ograniczenie deficytu, nie księgowe sztuczki",
@@ -115,6 +203,22 @@
       "content_html": "Notowania ropy naftowej na świecie rosną już 4. sesję. Na razie nie widać na horyzoncie żadnych oznak postępu w celu rozwiązania konfliktu między USA a Iranem, a wojna na Bliskim Wschodzie trwa już prawie 6 miesięcy - informują maklerzy.",
       "date_published": "2026-08-19T08:35:00+02:00",
       "source": "Bankier.pl"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/firmy/dzien-na-gpw-srodowa-sesja-moze-rozpoczac-sie-od-spadkow-14",
+      "url": "https://biznes.pap.pl/wiadomosci/firmy/dzien-na-gpw-srodowa-sesja-moze-rozpoczac-sie-od-spadkow-14",
+      "title": "DZIEŃ NA GPW: Środowa sesja może rozpocząć się od spadków",
+      "content_html": "Kontrakty terminowe na zagraniczne indeksy sugerują, że środowa sesja na GPW może rozpocząć się od spadków. Analitycy wskazują, że istotnym elementem rynkowego obrazu pozostaje ropa.\n\n\"Poranne spojrzenie na rynki azjatyckie przynosi obraz kontynuowanej wyprzedaży. Najsilniej (...) przecenia się południowokoreański KOSPI, co jest naturalnym następstwem wczorajszej wyprzedaży obserwowanej w Stanach Zjednoczonych\" - napisał w komentarzu Michał Poleszczuk, analityk DI Xelion.\n\nWskazał, że wyraźna przecena dotknęła również Japończyków.\n\n\"Inwestorzy wyrzucają aktywa udziałowe w Indiach, przez co Sensex (...) wyraźnie przecenia się na otwarciu. Pesymizm przeważa również w Chinach (...)\" - napisał.\n\n\"Istotnym elementem rynkowego obrazu pozostaje ropa. Brent przekroczył 91 USD za baryłkę, a WTI zbliżyła się do 85 USD, przedłużając wzrosty trzecią sesję z rzędu. Surowiec wspiera brak postępu w rozmowach USA–Iran oraz ponowny wzrost napięcia wokół Cieśniny Ormuz\" - dodał analityk.\n\nZWRÓĆ UWAGĘ (informacje opublikowane po zamknięciu notowań na GPW):\n\n• PKO BP - analityk Erste Group Łukasz Jańczak obniżył rekomendację dla PKO BP z \"akumuluj” do \"trzymaj”. Cena docelowa akcji została wyznaczona na poziomie 120 zł, co daje 9,2 proc. potencjał wzrostu wobec ostatniego kursu.\n\n• Oponeo.pl - zysk netto j.d. Oponeo.pl w II kwartale 2026 r. wyniósł 25,3 mln zł i wynik okazał się 20,1 proc. niższy od oczekiwań analityków. Konsensus PAP Biznes zakładał, że zysk wyniesie 31,6 mln zł. Przychody Oponeo.pl w tym okresie wyniosły 704,4 mln zł, podczas gdy konsensus zakładał 734,3 mln zł. Przychody wzrosły o 19,2 proc. rdr. EBITDA spółki wyniosła 61,7 mln zł, podczas gdy konsensus zakładał ją na poziomie 65 mln zł. EBITDA wzrosła o 31,9 proc. rdr.\n\n• Amica - spółka szacuje, że w I połowie 2026 roku EBITDA grupy wzrosła do 53,2 mln zł z 49,9 mln zł rok wcześniej, a przychody ze sprzedaży spadły w tym okresie do 1.111,5 mln zł z 1.149,2 mln zł. Zgodnie ze wstępnymi szacunkowymi wynikami EBIT wzrósł w I połowie 2026 roku do 23,3 mln zł z 19,2 mln zł rok wcześniej, a zysk brutto wzrósł do 14 mln zł z 4,1 mln zł.\n\n• Amica - według wyliczeń PAP Biznes w samym II kwartale EBITDA Amica wyniosła ok. 26 mln zł, przychody były na poziomie 555 mln zł, a EBIT wyniósł 11,4 mln zł. Wyniki są poniżej oczekiwań - konsensus PAP Biznes zakładał przychody na poziomie 574,2 mln zł, EBITDA w wysokości 30,9 mln zł i 16,1 mln zł zysku EBIT.\n\n• Mirbud - jak poinformował PAP Biznes Paweł Bruger, dyrektor ds. komunikacji korporacyjnej Mirbudu, spółka podczas wtorkowej rozprawy przed Sądem Okręgowym dotyczącej przetargu na Rail Baltica podnosiła m.in. kwestie nieproporcjonalnej wielkości kary nałożonej na spółkę w stosunku do wartości kontraktu i uważa, że zarzut zatajenia jest chybiony. Wyrok wydany ma zostać 4 września.\n\n• iFirma - spółka wypłaci zaliczkę na poczet dywidendy w wysokości 0,31 zł na akcję. Wypłata ta dotyczy II kwartału 2026 roku.\n\n• 11 bit studios - spółka ogłosiła nowy projekt wydawniczy o nazwie Trainwatch.\n\n• Jak podała w środę południowokoreańska armia, Stany Zjednoczone i Korea Południowa podjęły decyzję o skróceniu wspólnych manewrów o ponad połowę. To efekt decyzji prezydenta USA Donalda Trumpa, który zażądał znacznego ograniczenia ćwiczeń.\n\n• Prezydent USA Donald Trump naciska na swoich doradców, by jeszcze tej jesieni zorganizować swoje spotkanie z przywódcą Korei Północnej Kim Dzong Unem. Według \"WSJ\" Trump chce w ten sposób ożywić inicjatywę dyplomatyczną z czasów swojej pierwszej kadencji, której celem było przekonanie Kima do rezygnacji z północnokoreańskiego programu nuklearnego.\n\n• Prezydent USA Donald Trump poinformował we wtorek wieczorem, że na trzy dni wstrzymał wejście w życie 50-procentowych ceł na część importu z Kanady. Taryfy miały zacząć obowiązywać od środy.\n\n• Jak poinformował w odpowiedzi na interpelację poselską podsekretarz stanu w Ministerstwie Energii Konrad Wojnarowski, obecnie trwają prace nad uruchomieniem dodatkowego wsparcia fi",
+      "date_published": "2026-08-19T08:35:00+02:00",
+      "source": "PAP Biznes"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/rynki/dzien-na-rynkach-w-azji-na-gieldach-trwa-wyprzedaz-akcji-3",
+      "url": "https://biznes.pap.pl/wiadomosci/rynki/dzien-na-rynkach-w-azji-na-gieldach-trwa-wyprzedaz-akcji-3",
+      "title": "DZIEŃ NA RYNKACH: W Azji na giełdach trwa wyprzedaż akcji",
+      "content_html": "Na azjatyckich giełdach w środę inwestorzy pozbywają się akcji. Na świecie pogłębiła się wyprzedaż walorów spółek produkujących półprzewodniki, a inwestorzy wycofują się z tej jednej z \"najgorętszych\" branż w tym roku. Na rynku walutowym USD jest słabszy do euro i JPY. Bitcoin jest po ok. 64.250 USD za token. Złoto zyskuje - informują maklerzy.\n\nW Japonii Nikkei 225 zniżkuje o 3,16 proc. Topix jest niżej o 3,13 proc.\n\nW Chinach SCI traci 2,40 proc., a CSI 300 idzie niżej o 2,85 proc.\n\nW Korei Południowej KOSPI zniżkuje o 6,06 proc.\n\nNa Tajwanie TAIEX idzie niżej o 1,30 proc.\n\nW Indiach Sensex 30 zniżkuje o 0,44 proc.\n\nIndeks PSEi na Filipinach jest niżej o 1,58 proc.\n\nW Dżakarcie wskaźnik zniżkuje o 0,60 proc.\n\nRegionalny MSCI dla Azji i Pacyfiku spadł o 2 proc.\n\nNa świecie pogłębiła się wyprzedaż walorów spółek produkujących półprzewodniki, a inwestorzy wycofują się z jednej z \"najgorętszych\" branż w tym roku w obliczu wysokich rentowności obligacji i niepewności geopolitycznej.\n\nAkcje Samsung Elestronics Co. i Sk Hynix Inc. spadły w Seulu po ponad 7 proc., a południowokoreański KOSPI przoduje w spadkach w Azji, ponieważ obawy o rosnące koszty pożyczek dla operatorów hiperskalowych wpływają negatywnie na nastroje inwestorów.\n\n\"Chociaż długoterminowa historia zwyżek AI jest nadal +nienaruszona+, to wyższe rentowności i ryzyko geopolityczne sprawiają, że inwestorzy są mniej skłonni płacić premię za zwyżki\" - powiedział Jung In Yun, dyrektor generalny Fibonassi Asset Management Global.\n\nGraczy niepokoją też wysokie ceny ropy naftowej, które zwyżkują 4. dzień z rzędu w sytuacji braku postępów w kierunku rozwiązania konfliktu na Bliskim Wschodzie.\n\nTymczasem umacnia się kurs kanadyjskiego dolara po tym, jak prezydent USA Donald Trump poinformował we wtorek, że na trzy dni wstrzymał wejście w życie 50-procentowych ceł na część importu z Kanady. Taryfy miały zacząć obowiązywać od środy.\n\nDonald Trump zapowiadał 20 lipca, że od 19 sierpnia zaczną obowiązywać 50-procentowe cła na niektóre towary z Kanady: od wina, przez kije hokejowe, po cement.\n\nW uzasadnieniu decyzji Biały Dom napisał, że Ottawa dyskryminuje amerykańskie produkty (przemysł motoryzacyjny, mleczarski i alkoholowy).\n\nChodziło m.in. o zasady kwotowego zarządzania produkcją mleczną w Kanadzie oraz wstrzymanie importu amerykańskich alkoholi i win, które w ub.r. wprowadziły kanadyjskie prowincje.\n\nCła, które miały objąć 5 proc. kanadyjskiego eksportu do USA, mogły doprowadzić do większego konfliktu handlowego - wskazują analitycy.\n\nNa rynku walutowym japoński jen kosztuje 159,25 za 1 USD, wyżej o 0,2 proc.\n\nEuro jest po 1,1588 USD, w górę o 0,1 proc.\n\nBitcoin kosztuje 64.256 USD za token, niżej o 0,5 proc.\n\nRentowność 10-letnich UST wynosi 4,69 proc., niżej o 2 pb.\n\nZłoto jest wyceniane w transakcjach spot po 4.360 USD za uncję, w górę o 0,6 proc.\n\nW Europie kontrakty na Stoxx 50 spadają o 0,22 proc., na FTSE 100 zniżkują o 0,26 proc., na CAC 40 idą niżej o 0,09 proc., a na DAX spadają o 0,20 proc.\n\nGiełdy w Europie zakończyły wtorkową sesję z przewagą spadków.\n\nNa zamknięciu sesji indeks Euro Stoxx 50 spadł o 0,89 proc., niemiecki DAX zniżkował o 0,71 proc., francuski CAC 40 poszedł w dół o 0,82 proc., a brytyjski FTSE zyskał 0,07 proc.\n\nBenchmarkowy indeks Stoxx Europe 600 zniżkował o 0,64 proc.\n\nKontrakty na indeksy w USA są w przedziale -0,50 proc. do -0,09 proc.\n\nWtorkowa sesja na Wall Street zakończyła się umiarkowanymi spadkami głównych indeksów, które znalazły się pod presją cen ropy naftowej i wzrostu rentowności obligacji skarbowych do najwyższych poziomów od dekad.\n\nDow Jones Industrial na zamknięciu spadł o 0,22 proc. i wyniósł 53.343,40 pkt.\n\nS&P 500 na koniec dnia stracił 0,69 proc. i wyniósł 7.691,76 pkt. Indeks spadł trzeci dzień z rzędu.\n\nNasdaq Composite zniżkował o 1,33 proc. do 26.289,71 pkt. (PAP Biznes)",
+      "date_published": "2026-08-19T08:28:00+02:00",
+      "source": "PAP Biznes"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Rozwoj-Plus-przedstawia-polityke-migracyjna-Chca-50-proc-ulgi-w-PIT-dla-wracajacych-emigrantow-9184085.html",
@@ -349,6 +453,14 @@
       "source": "Bankier.pl"
     },
     {
+      "id": "https://www.bankier.pl/wiadomosc/Gielda-od-kuchni-Kupiles-akcje-ale-kurs-spadl-przed-rozliczeniem-transakcji-Czy-to-cos-zmienia-9183893.html",
+      "url": "https://www.bankier.pl/wiadomosc/Gielda-od-kuchni-Kupiles-akcje-ale-kurs-spadl-przed-rozliczeniem-transakcji-Czy-to-cos-zmienia-9183893.html",
+      "title": "Giełda od kuchni. Kupiłeś akcje, ale kurs spadł przed rozliczeniem transakcji? Czy to coś zmienia?",
+      "content_html": "Widok czerwonej świecy na wykresie tuż po kliknięciu “Kup” może zestresować początkującego inwestora, który usłyszał, że fizyczne przelewy gotówki i papierów w KDPW trwają dwa dni. W głowie pojawia się wątpliwość: czy giełda naliczy...",
+      "date_published": "2026-08-19T07:00:00+02:00",
+      "source": "Bankier.pl"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Powrot-do-szkoly-uderzy-po-kieszeni-300-zl-od-panstwa-moze-nie-wystarczyc-9183900.html",
       "url": "https://www.bankier.pl/wiadomosc/Powrot-do-szkoly-uderzy-po-kieszeni-300-zl-od-panstwa-moze-nie-wystarczyc-9183900.html",
       "title": "Wyprawka szkolna może kosztować fortunę. Rodzice wydadzą nawet ponad 1500 zł",
@@ -365,76 +477,12 @@
       "source": "Bankier.pl"
     },
     {
-      "id": "https://biznes.pap.pl/wiadomosci/rynki/kalendarium-rynku-kapitalowego-gpw-2026-08-19",
-      "url": "https://biznes.pap.pl/wiadomosci/rynki/kalendarium-rynku-kapitalowego-gpw-2026-08-19",
-      "title": "Kalendarium rynku kapitałowego GPW 2026-08-19",
-      "content_html": "Kalendarium rynku kapitałowego GPW 2026-08-19 - 2026-08-25\n\n11:00 - CDRL - Nadzwyczajne walne zgromadzenie\n\nW sprawie wypłaty dywidendy z kapitału zapasowego, zmian w radzie nadzorczej.\n\nDywidenda w wysokości 48,97 PLN na akcję.\n\n10:00 - ENEA - Nadzwyczajne walne zgromadzenie\n\n12:00 - GDEVS - Zwyczajne walne zgromadzenie\n\nDywidenda w wysokości 0,052 EUR na akcję.\n\n08:30 - BUMECH - Nadzwyczajne walne zgromadzenie\n\nW sprawie zmian w składzie RN, zmiany sposobu i wysokości wynagradzania członków RN.\n\n12:00 - YARRL - Nadzwyczajne walne zgromadzenie\n\nW sprawie zniesienia uprzywilejowania akcji serii A i B, ich zamiany na akcje zwykłe na okaziciela.",
-      "date_published": "2026-08-19T07:00:00+02:00",
-      "source": "PAP Biznes"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/ekonomia-biznes-i-finanse/przewidywane-najwazniejsze-wydarzenia-gospodarcze-2026-08-19",
-      "url": "https://biznes.pap.pl/wiadomosci/ekonomia-biznes-i-finanse/przewidywane-najwazniejsze-wydarzenia-gospodarcze-2026-08-19",
-      "title": "Przewidywane najważniejsze wydarzenia gospodarcze 2026-08-19",
-      "content_html": "Przewidywane najważniejsze wydarzenia gospodarcze 2026-08-19 - 2026-08-25\n\nKonferencja prasowa wiceministry klimatu i środowiska, Anity Sowińskiej dotycząca systemu kaucyjnego.\n\n10:00 - LEGIMI - Konferencja wynikowa Spółki\n\nWebinar Legimi, podczas którego zarząd spółki przedstawi wyniki finansowe za II kwartał 2026 roku oraz plany rozwoju na najbliższe miesiące.\n\n10:00 - BLIK - Konferencja wynikowa Spółki\n\nKonferencja prasowa online, podczas której zostaną zaprezentowane wyniki transakcyjne BLIKA za pierwsze półrocze 2026 r.\n\n10:30 - ZUE - Konferencja wynikowa Spółki\n\nWideokonferencja prasowa ZUE poświęcona prezentacji wyników finansowych Spółki za I poł. 2026 r.\n\n11:00 - PZU - Konferencja wynikowa Spółki\n\nKonferencja prasowa Grupy PZU poświęcona prezentacji wyników finansowych w pierwszym półroczu 2026 r. oraz perspektyw rozwoju Grupy w drugiej połowie roku.\n\n12:00 - CYFRPLSAT - Konferencja wynikowa Spółki\n\nKonferencja online dotycząca wyników Grupy Polsat Plus za II kwartał.\n\n12:00 - KGHM - Konferencja wynikowa Spółki\n\nSpotkanie prasowe z zarządem KGHM Polska Miedź poświęcone omówieniu wyników Grupy KGHM za I półrocze 2026 r.\n\n09:00 - BENEFIT - Konferencja wynikowa Spółki\n\nTelekonferencja Benefit Systems poświęcona omówieniu wyników finansowych za drugi kwartał 2026 roku.\n\n09:30 - SANOK - Konferencja wynikowa Spółki\n\nKonferencja wynikowa online Grupy Sanok Rubber Company.\n\n12:00 - TSGAMES - Konferencja wynikowa Spółki\n\nKonferencja prasowa dotycząca wyników finansowych Grupy Ten Square Games za pierwszą poł. 2026 roku.\n\nUWAGA: Przedstawione zapowiedzi odzwierciedlają stan wiedzy na dzień ich publikacji i są codziennie aktualizowane. Zapowiedzi powstają na podstawie oficjalnych informacji przesłanych do PAP przez zainteresowane instytucje lub publicznych wypowiedzi ich przedstawicieli. Zapowiedzi nie należy traktować, jako zaproszenia.",
-      "date_published": "2026-08-19T07:00:00+02:00",
-      "source": "PAP Biznes"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/rynki/rentownosci-obligacji-wybranych-panstw-tabela-2680",
-      "url": "https://biznes.pap.pl/wiadomosci/rynki/rentownosci-obligacji-wybranych-panstw-tabela-2680",
-      "title": "Rentowności obligacji wybranych państw (tabela)",
-      "content_html": "Poniżej zestawienie rentowności obligacji wybranych państw.\n\nW tabeli kolejno rentowność aktualna, rentowność dzień wcześniej, pięć dni wcześniej, miesiąc wcześniej, trzy miesiące wcześniej i dwanaście miesięcy wcześniej (w proc.)\n\nRentowności dla typowych obligacji, podane za agencją Bloomberg.(PAP Biznes)",
-      "date_published": "2026-08-19T06:33:00+02:00",
-      "source": "PAP Biznes"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/rynki/notowania-metali-bazowych-wegla-i-paliw-tabela-2591",
-      "url": "https://biznes.pap.pl/wiadomosci/rynki/notowania-metali-bazowych-wegla-i-paliw-tabela-2591",
-      "title": "Notowania metali bazowych, węgla i paliw (tabela)",
-      "content_html": "Notowania metali bazowych na London Metal Exchange, uprawnień EUA do emisji CO2, ceny węgla energetycznego ARA na przyszły rok oraz ceny paliw.",
-      "date_published": "2026-08-19T06:32:00+02:00",
-      "source": "PAP Biznes"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/rynki/zamkniecia-na-gieldach-w-ameryce-polnocnej-i-poludniowej-tabela-3199",
-      "url": "https://biznes.pap.pl/wiadomosci/rynki/zamkniecia-na-gieldach-w-ameryce-polnocnej-i-poludniowej-tabela-3199",
-      "title": "Zamknięcia na giełdach w Ameryce Północnej i Południowej (tabela)",
-      "content_html": "Poniżej zamknięcia i zmiany indeksów w USA. Kanadzie, Meksyku, Brazylii, Chile, Kolumbii i Argentynie:",
-      "date_published": "2026-08-19T06:32:00+02:00",
-      "source": "PAP Biznes"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Gielda-od-kuchni-Kupiles-akcje-ale-kurs-spadl-przed-rozliczeniem-transakcji-Czy-to-cos-zmienia-9183893.html",
-      "url": "https://www.bankier.pl/wiadomosc/Gielda-od-kuchni-Kupiles-akcje-ale-kurs-spadl-przed-rozliczeniem-transakcji-Czy-to-cos-zmienia-9183893.html",
-      "title": "Giełda od kuchni. Kupiłeś akcje, ale kurs spadł przed rozliczeniem transakcji? Czy to coś zmienia? Widok czerwonej świecy na wykresie tuż po kliknięciu “Kup” może zestresować początkującego inwestora, który usłyszał, że fizyczne przelewy gotówki i papierów w KDPW trwają dwa dni. W głowie pojawia się wątpliwość: czy giełda naliczy kwotę z momentu zlecenia, czy zaktualizuje ją po nowym kursie?",
-      "content_html": "",
-      "date_published": "2026-08-19T06:00:00+02:00",
-      "source": "Bankier.pl"
-    },
-    {
       "id": "https://www.bankier.pl/wiadomosc/Wall-Street-w-dol-pod-presja-rentownosci-obligacji-i-cen-ropy-9184081.html",
       "url": "https://www.bankier.pl/wiadomosc/Wall-Street-w-dol-pod-presja-rentownosci-obligacji-i-cen-ropy-9184081.html",
       "title": "Wall Street w dół pod presją rentowności obligacji i cen ropy",
       "content_html": "Wtorkowa sesja na Wall Street zakończyła się umiarkowanymi spadkami głównych indeksów, które znalazły się pod presją cen ropy naftowej i wzrostu rentowności obligacji skarbowych do najwyższych poziomów od dekad. Spadały akcje producentów...",
       "date_published": "2026-08-19T00:11:00+02:00",
       "source": "Bankier.pl"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/rynki/dzien-na-rynkach-wall-street-w-dol-pod-presja-rentownosci-obligacji-i-cen-ropy",
-      "url": "https://biznes.pap.pl/wiadomosci/rynki/dzien-na-rynkach-wall-street-w-dol-pod-presja-rentownosci-obligacji-i-cen-ropy",
-      "title": "DZIEŃ NA RYNKACH: Wall Street w dół pod presją rentowności obligacji i cen ropy",
-      "content_html": "Wtorkowa sesja na Wall Street zakończyła się umiarkowanymi spadkami głównych indeksów, które znalazły się pod presją cen ropy naftowej i wzrostu rentowności obligacji skarbowych do najwyższych poziomów od dekad. Spadały akcje producentów półprzewodników.\n\nDow Jones Industrial na zamknięciu spadł o 0,22 proc. i wyniósł 53.343,40 pkt.\n\nS&P 500 na koniec dnia stracił 0,69 proc. i wyniósł 7.691,76 pkt. Indeks spadł trzeci dzień z rzędu.\n\nNasdaq Composite zniżkował o 1,33 proc. do 26.289,71 pkt.\n\nIndeks spółek o średniej kapitalizacji Russell 2000 zniżkuje o 1,23 proc. i wynosi 3.019,98 pkt.\n\nIndeks VIX rośnie o 4,34 proc., do 15,85 pkt.\n\nLiderami zniżek byli producenci półprzewodników. Western Digital spadł o 7 proc., Sandisk stracił 9 proc., Marvell Technology i Seagate Technology spadły\n\nW centrum uwagi inwestorów na całym świecie były rynki długu.\n\nRentowności 30-letnich obligacji skarbowych USA osiągnęły we wtorek nowy, 19-letni szczyt. Rentowność 10-letnich obligacji japońskich jest na najwyższym poziomie od trzech dekad. Rentowność 30-letnich obligacji niemieckich zanotowała najwyższy poziom od 2011 roku, a rentowność 30-letnich obligacji rządowych Francji ma najwyższy poziom od 2008 roku.\n\nRentowność obligacji rośnie ostatnio, ponieważ inwestorzy obawiają się, że ceny ropy mogą pozostać na wysokich poziomach, gdyż negocjacje między Iranem a Stanami Zjednoczonymi utknęły w martwym punkcie.\n\n„Czynniki, które napędzają wzrost rentowności obligacji, nie ustąpią jutro” – dodał\" - powiedział Bill Fitzpatrick, zarządzający portfelem w Logan Capital Management.\n\nJego zdaniem jednak rynek ignoruje wyzwanie związane z rentownością obligacji i woli skupić się na solidnych zyskach i ulepszeniach w dziedzinie sztucznej inteligencji.\n\n„W pewnym momencie jednak prawdopodobnie będziemy narażeni na niewielką wyprzedaż” - powiedział Bill Fitzpatrick.\n\nInwestorzy oceniają informacje z Bliskiego Wschodu. Rzecznik MSZ Kataru Majed al-Ansari powiedział na konferencji prasowej, że strony mediacyjne między Iranem a Stanami Zjednoczonymi powrócą do wysiłków mających na celu zakończenie wojny USA i Izraela z Iranem oraz wznowienie rozmów między obiema stronami, po tym jak Iran i Oman ogłoszą dwustronne porozumienie w sprawie tranzytu przez Cieśninę Ormuz.\n\nWe wtorek brytyjska agencja UKMTO podała, że członek załogi ucierpiał, a maszynownia statku handlowego uległa uszkodzeniu w wyniku trafienia przez nieznany pocisk podczas wychodzenia z cieśniny Ormuz.\n\nPrezydent USA Donald Trump poinformował w poniedziałek, że USA kontrolują cieśninę Ormuz, a uznanie jej za terytorium USA określił jako świetny pomysł.\n\nSzef irańskiego MSZ Abbas Araghchi oskarżył Izrael o aktywne sabotowanie wysiłków dyplomatycznych, określając ten kraj jako główną przeszkodę na drodze do trwałego zawieszenia broni ze Stanami Zjednoczonymi.\n\nWysoki rangą urzędnik irański, cytowany przez agencję Reutera, podał, że Iran zaostrzy napięcia w cieśninie Ormuz i w całym regionie Bliskiego Wschodu, jeśli kontakty dyplomatyczne z USA zakończą się niepowodzeniem.\n\nW poniedziałek 60-dniowe tymczasowe zawieszenie broni uzgodnione 17 czerwca zakończyło swoje obowiązywanie, okres negocjacji wygasł, a ani Waszyngton, ani Teheran nie wydają się skłonne do kompromisu w sprawie przyszłości cieśniny Ormuz.\n\n„Impas przemawia za utrzymaniem zabezpieczeń przed ponowną zmiennością cen ropy naftowej i inflacji” – napisali stratedzy z Gramercy Funds Management w raporcie.\n\nInwestorzy otrzymali we wtorek porcję danych makro z amerykańskiej gospodarki.\n\nLiczba umów na sprzedaż domów podpisanych przez Amerykanów w lipcu spadła o 2,3 proc. miesiąc do miesiąca - podało Krajowe Stowarzyszenie Pośredników w Handlu Nieruchomościami (National Association of Realtors). Analitycy z Wall Street spodziewali się, że liczba umów na sprzedaż domów wzrośnie o 0,1 proc. mdm.\n\nMiesiąc wcześniej liczba podpisanych umów na sprzedaż domów (pending home sales) spadła o 4,8 proc., po korekcie.\n\nProdukcja przemysłowa w USA w lipcu",
-      "date_published": "2026-08-18T22:12:00+02:00",
-      "source": "PAP Biznes"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/ekonomia-biznes-i-finanse/skrot-wiadomosci-wtorek-18-sierpnia-2100",
-      "url": "https://biznes.pap.pl/wiadomosci/ekonomia-biznes-i-finanse/skrot-wiadomosci-wtorek-18-sierpnia-2100",
-      "title": "Skrót wiadomości - wtorek, 18 sierpnia, 21.00",
-      "content_html": "Przegląd najważniejszych wiadomości gospodarczych, krajowych i ze świata.\n\nRząd przyjął we wtorek projekt ustawy, który ma przyspieszyć przygotowanie i budowę najważniejszych inwestycji infrastrukturalnych tj. \"Drogę Czerwoną\" w Gdyni, rozbudowę portów w Gdyni i Świnoujściu, inwestycje na lotniskach w Warszawie, Krakowie i Rzeszowie, kluczowe połączenia kolejowe oraz infrastrukturę towarzyszącą elektrowni jądrowej na Pomorzu - poinformował resort infrastruktury.\n\nRząd przyjął we wtorek ustawę w celu ochrony rolniczych funkcji produkcyjnych wsi, która wzmacnia ochronę działalności rolniczej, tworzy bardziej przewidywalne warunki dla jej prowadzenia, uwzględniając realia życia na wsi - poinformował rzecznik rządu Adam Szłapka na konferencji prasowej.\n\nRząd zatwierdził uchwałę modyfikującą program Fundusze Europejskie dla Nowoczesnej Gospodarki 2021–2027, zgodnie z którą technologie obronne staną się czwartym, kluczowym obszarem finansowania projektów z Funduszu Wsparcia Technologii Krytycznych (FWTK) - poinformował MFiPR po posiedzeniu rządu.\n\nZaufanie niemieckich analityków i inwestorów instytucjonalnych w sierpniu poprawiło się - wynika z danych Instytutu ZEW. Raport ZEW pokazał, że indeks mierzący oczekiwania tych grup co do wzrostu gospodarczego Niemiec wyniósł +34,2 pkt. Analitycy spodziewali się indeksu na poziomie +30,1 pkt. wobec +26,3 pkt. miesiąc wcześniej.\n\nStopa bezrobocia w Wielkiej Brytanii w czerwcu wyniosła 4,9 proc., wobec 4,9 proc. miesiąc wcześniej - podało w komunikacie biuro statystyczne. Analitycy spodziewali się, że w tym czasie stopa bezrobocia wyniesie 4,8 proc.\n\nProdukcja przemysłowa w USA w lipcu wzrosła o 0,2 proc. mdm - podała Rezerwa Federalna USA. Oczekiwano, że produkcja wzrośnie o 0,3 proc. mdm wobec wzrostu o 0,3 proc. miesiąc wcześniej, po korekcie z 0,1 proc.\n\nLiczba rozpoczętych inwestycji w zakresie budowy domów mieszkalnych w USA w lipcu wyniosła 1,239 mln w ujęciu zanualizowanym (SAAR). Miesiąc wcześniej wskaźnik ten wyniósł 1,415 mln, po korekcie - podał Departament Handlu USA w komunikacie.\n\nLiczba wydanych nowych pozwoleń na budowę domów w USA w lipcu (wskaźnik aktywności w przyszłości w tym sektorze) wyniosła w ujęciu zanualizowanym (SAAR) 1,443 mln wobec oczekiwanych 1,37 mln i wobec 1,374 mln w poprzednim miesiącu - podał Departament Handlu.\n\nLiczba umów na sprzedaż domów podpisanych przez Amerykanów w lipcu spadła o 2,3 proc. miesiąc do miesiąca - podało Krajowe Stowarzyszenie Pośredników w Handlu Nieruchomościami (National Association of Realtors).\n\nW piątek 21 sierpnia odbędzie się robocze posiedzenie rządu ws. budżetu państwa na 2027 r., a 28 sierpnia zaplanowane jest regularne posiedzenie rządu w tej sprawie - poinformował rzecznik rządu Adam Szłapka na konferencji prasowej.\n\nBank Gospodarstwa Krajowego na przetargu 20 sierpnia, w ramach emisji na rzecz Funduszu Przeciwdziałania COVID-19, zaoferuje papiery serii FPC0229, FPC0231, FPC0931, FPC0332 i FPC0235; podaż wyniesie minimalnie 500 mln zł - podał bank w komunikacie.\n\nEnter Air, czarterowy przewoźnik lotniczy, odnotowuje w 2026 r. dwucyfrowy wzrost sprzedaży i operacji. Spółka oczekuje istotnego wzrostu także w przyszłym roku, choć jego skala będzie zależeć m.in. od kontraktów i dostępności samolotów - poinformował PAP Biznes prezes Marcin Kubrak. W 2027 r. spółka planuje zwiększyć flotę o ok. 10 proc.\n\nZysk netto grupy Banku Ochrony Środowiska w I półr. 2026 r. wyniósł 15,1 mln zł, wobec 79,7 mln zł w analogicznym okresie rok wcześniej. W samym II kw. 2026 r. grupa odnotowała 1,1 mln zł straty netto, w porównaniu do 67,9 mln zł zysku przed rokiem - poinformował bank w raporcie. Suma bilansowa wzrosła o 16,3 proc. rdr do 27,3 mld zł.\n\nRyvu Therapeutics uruchamia biznes usługowy w obszarze wczesnego rozwoju klinicznego pod marką \"Keelira\", który będzie działał równolegle z podstawową działalnością w zakresie odkrywania i rozwoju leków - podała spółka w komunikacie. Strategicznym priorytetem Ryvu pozostaje rozwój własnego pipe",
-      "date_published": "2026-08-18T21:00:00+02:00",
-      "source": "PAP Biznes"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Rosjanie-podpieci-pod-slowackie-kamery-Wszczeto-postepowanie-9184043.html",
@@ -525,14 +573,6 @@
       "source": "Bankier.pl"
     },
     {
-      "id": "https://biznes.pap.pl/wiadomosci/firmy/wyniki-oponeopl-w-ii-kw-2026-roku-vs-konsensus-pap-tabela",
-      "url": "https://biznes.pap.pl/wiadomosci/firmy/wyniki-oponeopl-w-ii-kw-2026-roku-vs-konsensus-pap-tabela",
-      "title": "Wyniki Oponeo.pl w II kw. 2026 roku vs. konsensus PAP (tabela)",
-      "content_html": "Poniżej przedstawiamy wyniki grupy Oponeo.pl w drugim kwartale 2026 roku, według wyliczeń PAP Biznes, oraz ich odniesienie do konsensusu PAP Biznes i wyników poprzednich okresów.\n\nZ wyliczeń PAP Biznes wynika, że zysk netto j.d. Oponeo.pl w II kwartale 2026 r. wyniósł 25,3 mln zł i wynik okazał się 20,1 proc. niższy od oczekiwań analityków. Konsensus PAP Biznes zakładał, że zysk wyniesie 31,6 mln zł.\n\nPrzychody Oponeo.pl w tym okresie wyniosły 704,4 mln zł, podczas gdy konsensus zakładał 734,3 mln zł. Przychody wzrosły o 19,2 proc. rdr.\n\nEBITDA spółki w tym okresie wyniosła 61,7 mln zł, podczas gdy konsensus zakładał ją na poziomie 65 mln zł. EBITDA wzrosła o 31,9 proc. rdr. Zysk operacyjny wyniósł 50 mln zł, podczas gdy oczekiwano 52,4 mln zł zysku.\n\nKonsensus tworzony jest na podstawie prognoz biur maklerskich zebranych wcześniej przez PAP. Są one dostępne w pełnej wersji Serwisu Ekonomicznego PAP Biznes. Baza konsensusów PAP zawiera prognozy wyników kwartalnych i rocznych dla ponad 200 spółek notowanych na GPW. (PAP Biznes)",
-      "date_published": "2026-08-18T18:37:00+02:00",
-      "source": "PAP Biznes"
-    },
-    {
       "id": "https://www.bankier.pl/wiadomosc/11-bit-studios-oglosil-nowy-projekt-wydawniczy-Trainwatch-9183984.html",
       "url": "https://www.bankier.pl/wiadomosc/11-bit-studios-oglosil-nowy-projekt-wydawniczy-Trainwatch-9183984.html",
       "title": "11 bit studios ogłosił nowy projekt wydawniczy \"Trainwatch\"",
@@ -597,12 +637,44 @@
       "source": "Bankier.pl"
     },
     {
+      "id": "https://biznes.pap.pl/wiadomosci/firmy/mirbud-ocenia-ze-zarzut-dot-kary-wykluczajacej-z-przetargu-na-rail-baltica-jest",
+      "url": "https://biznes.pap.pl/wiadomosci/firmy/mirbud-ocenia-ze-zarzut-dot-kary-wykluczajacej-z-przetargu-na-rail-baltica-jest",
+      "title": "Mirbud ocenia, że zarzut dot. kary wykluczającej z przetargu na Rail Baltica jest chybiony; wyrok sądu w IX",
+      "content_html": "Mirbud podczas wtorkowej rozprawy przed Sądem Okręgowym dotyczącej przetargu na Rail Baltica podnosił m.in. kwestie nieproporcjonalnej wielkości kary nałożonej na spółkę w stosunku do wartości kontraktu i uważa, że zarzut zatajenia jest chybiony - poinformował PAP Biznes Paweł Bruger, dyrektor ds. komunikacji korporacyjnej Mirbudu. Wyrok wydany ma zostać 4 września.\n\n\"Podczas rozprawy sądowej podnosiliśmy kwestie incydentalnej w historii firmy i symbolicznej wysokości 15 tys. złotych kary środowiskowej, tj. jej nieproporcjonalnej wielkości w stosunku do wartości kontraktu (ok. 5 mld zł), a przede wszystkim skutków, jakie może za sobą pociągać, czyli konieczności wydatkowania o ok. 650 mln więcej środków publicznych na tę inwestycję\" - napisał Bruger w przesłanym komentarzu.\n\n\"Co bardzo ważne - Mirbud, jako spółka publiczna i transparentna, nigdy nie taił tej kary. Informacja o niej została podana do publicznej wiadomości w sprawozdaniu na temat informacji niefinansowych. Uważamy więc, że zarzut zatajenia jest chybiony\" - dodał.\n\nJak poinformował, podczas rozprawy spółka podnosiła również fakt, iż zgodnie z wyrokiem NSA - wątpliwe jest czy Mirbud w ogóle powinien być adresatem tej kary.\n\n18 sierpnia miała miejsce rozprawa przed Sądem Okręgowym w Warszawie dotycząca decyzji, która przesądziła o wykluczeniu z przetargu na modernizację linii kolejowej E 75 (Rail Baltica) odcinek Białystok–Ełk oferty konsorcjum Mirbud/Torpol, pierwotnie uznanej za najkorzystniejszą i jednocześnie najtańszą w zamówieniu, tj. w kwocie niespełna 4,5 mld zł. Wyrok wydany ma zostać 4 września.\n\nPodstawą wykluczenia konsorcjum Mirbud/Torpol była decyzja administracyjna o nałożeniu kary środowiskowej w wysokości 15 tys. zł.\n\nW kwietniu Naczelny Sąd Administracyjny uchylił wcześniejsze rozstrzygnięcia Wojewódzkiego Sądu Administracyjnego i wskazał na konieczność ponownego zbadania kluczowych okoliczności sprawy, w tym tego, czy Mirbud był podmiotem, który naruszył warunki decyzji środowiskowej oraz czy był jej adresatem.\n\nPrzetarg na polski odcinek Rail Baltica między Białymstokiem a Ełkiem to największe pojedyncze postępowanie kolejowe w historii naszego kraju. Kontrakt obejmuje modernizację ok. 100 km linii z dostosowaniem jej do prędkości do 200 km/h.\n\nInwestycja jest częścią unijnego projektu, który ma połączyć Warszawę z krajami bałtyckimi i włączyć region w europejską sieć transportową TEN-T.\n\nW przetargu złożono kilka ofert o wartości od ok. 4,57 do ponad 6,6 mld zł. Pierwszą najtańszą ofertę złożył Mirbud w konsorcjum z Torpolem, ale została ona wykluczona z postępowania (m.in. kwestie formalne, zatajenie informacji według rozstrzygnięć KIO i zamawiającego).\n\nDruga oferta (Budimex z partnerami) o wartości ok. 4,98 mld zł również została odrzucona (po odwołaniach i decyzjach KIO).\n\nObecnie najbliżej kontraktu jest oferta konsorcjum Track Tec z udziałem m.in. Intopu i Unibepu o wartości 5,22 mld zł.\n\nProjekt współfinansowany jest ze środków UE (m.in. instrumentu CEF), które trzeba rozliczyć w określonym terminie. (PAP Biznes)",
+      "date_published": "2026-08-18T17:14:00+02:00",
+      "source": "PAP Biznes"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Najpowazniejszy-dotad-incydent-Eksplozja-drona-na-przystanku-Zaporoskiej-Elektrowni-Atomowej-9183895.html",
       "url": "https://www.bankier.pl/wiadomosc/Najpowazniejszy-dotad-incydent-Eksplozja-drona-na-przystanku-Zaporoskiej-Elektrowni-Atomowej-9183895.html",
       "title": "„Najpoważniejszy dotąd incydent”. Eksplozja drona na przystanku Zaporoskiej Elektrowni Atomowej",
       "content_html": "Międzynarodowa Agencja Energii Atomowej (MAEA) podała we wtorek, że ma informacje o eksplozji drona na przystanku autobusowym używanym przez pracowników ukraińskiej Zaporoskiej Elektrowni Atomowej, w wyniku której została zabita jedna osoba i...",
       "date_published": "2026-08-18T17:10:00+02:00",
       "source": "Bankier.pl"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/firmy/obroty-centrow-handlowych-w-czerwcu-byly-o-54-proc-wyzsze-rdr-prch",
+      "url": "https://biznes.pap.pl/wiadomosci/firmy/obroty-centrow-handlowych-w-czerwcu-byly-o-54-proc-wyzsze-rdr-prch",
+      "title": "Obroty centrów handlowych w czerwcu były o 5,4 proc. wyższe rdr - PRCH",
+      "content_html": "Obroty w centrach handlowych w czerwcu 2026 r. wzrosły o 5,4 proc., a odwiedzalność o 5 proc. rdr - poinformowała Polska Rada Centrów Handlowych w komunikacie prasowym.",
+      "date_published": "2026-08-18T17:10:00+02:00",
+      "source": "PAP Biznes"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/ekonomia-biznes-i-finanse/skrot-wiadomosci-wtorek-18-sierpnia-1700",
+      "url": "https://biznes.pap.pl/wiadomosci/ekonomia-biznes-i-finanse/skrot-wiadomosci-wtorek-18-sierpnia-1700",
+      "title": "Skrót wiadomości - wtorek, 18 sierpnia, 17.00",
+      "content_html": "Przegląd najważniejszych wiadomości gospodarczych, krajowych i ze świata.\n\nRząd przyjął we wtorek projekt ustawy, który ma przyspieszyć przygotowanie i budowę najważniejszych inwestycji infrastrukturalnych tj. \"Drogę Czerwoną\" w Gdyni, rozbudowę portów w Gdyni i Świnoujściu, inwestycje na lotniskach w Warszawie, Krakowie i Rzeszowie, kluczowe połączenia kolejowe oraz infrastrukturę towarzyszącą elektrowni jądrowej na Pomorzu - poinformował resort infrastruktury.\n\nRząd przyjął we wtorek ustawę w celu ochrony rolniczych funkcji produkcyjnych wsi, która wzmacnia ochronę działalności rolniczej, tworzy bardziej przewidywalne warunki dla jej prowadzenia, uwzględniając realia życia na wsi - poinformował rzecznik rządu Adam Szłapka na konferencji prasowej.\n\nRząd zatwierdził uchwałę modyfikującą program Fundusze Europejskie dla Nowoczesnej Gospodarki 2021–2027, zgodnie z którą technologie obronne staną się czwartym, kluczowym obszarem finansowania projektów z Funduszu Wsparcia Technologii Krytycznych (FWTK) - poinformował MFiPR po posiedzeniu rządu.\n\nZaufanie niemieckich analityków i inwestorów instytucjonalnych w sierpniu poprawiło się - wynika z danych Instytutu ZEW. Raport ZEW pokazał, że indeks mierzący oczekiwania tych grup co do wzrostu gospodarczego Niemiec wyniósł +34,2 pkt. Analitycy spodziewali się indeksu na poziomie +30,1 pkt. wobec +26,3 pkt. miesiąc wcześniej.\n\nStopa bezrobocia w Wielkiej Brytanii w czerwcu wyniosła 4,9 proc., wobec 4,9 proc. miesiąc wcześniej - podało w komunikacie biuro statystyczne. Analitycy spodziewali się, że w tym czasie stopa bezrobocia wyniesie 4,8 proc.\n\nProdukcja przemysłowa w USA w lipcu wzrosła o 0,2 proc. mdm - podała Rezerwa Federalna USA. Oczekiwano, że produkcja wzrośnie o 0,3 proc. mdm wobec wzrostu o 0,3 proc. miesiąc wcześniej, po korekcie z 0,1 proc.\n\nLiczba rozpoczętych inwestycji w zakresie budowy domów mieszkalnych w USA w lipcu wyniosła 1,239 mln w ujęciu zanualizowanym (SAAR). Miesiąc wcześniej wskaźnik ten wyniósł 1,415 mln, po korekcie - podał Departament Handlu USA w komunikacie.\n\nLiczba wydanych nowych pozwoleń na budowę domów w USA w lipcu (wskaźnik aktywności w przyszłości w tym sektorze) wyniosła w ujęciu zanualizowanym (SAAR) 1,443 mln wobec oczekiwanych 1,37 mln i wobec 1,374 mln w poprzednim miesiącu - podał Departament Handlu.\n\nLiczba umów na sprzedaż domów podpisanych przez Amerykanów w lipcu spadła o 2,3 proc. miesiąc do miesiąca - podało Krajowe Stowarzyszenie Pośredników w Handlu Nieruchomościami (National Association of Realtors).\n\nW piątek 21 sierpnia odbędzie się robocze posiedzenie rządu ws. budżetu państwa na 2027 r., a 28 sierpnia zaplanowane jest regularne posiedzenie rządu w tej sprawie - poinformował rzecznik rządu Adam Szłapka na konferencji prasowej.\n\nBank Gospodarstwa Krajowego na przetargu 20 sierpnia, w ramach emisji na rzecz Funduszu Przeciwdziałania COVID-19, zaoferuje papiery serii FPC0229, FPC0231, FPC0931, FPC0332 i FPC0235; podaż wyniesie minimalnie 500 mln zł - podał bank w komunikacie.\n\nEnter Air, czarterowy przewoźnik lotniczy, odnotowuje w 2026 r. dwucyfrowy wzrost sprzedaży i operacji. Spółka oczekuje istotnego wzrostu także w przyszłym roku, choć jego skala będzie zależeć m.in. od kontraktów i dostępności samolotów - poinformował PAP Biznes prezes Marcin Kubrak. W 2027 r. spółka planuje zwiększyć flotę o ok. 10 proc.\n\nZysk netto grupy Banku Ochrony Środowiska w I półr. 2026 r. wyniósł 15,1 mln zł, wobec 79,7 mln zł w analogicznym okresie rok wcześniej. W samym II kw. 2026 r. grupa odnotowała 1,1 mln zł straty netto, w porównaniu do 67,9 mln zł zysku przed rokiem - poinformował bank w raporcie. Suma bilansowa wzrosła o 16,3 proc. rdr do 27,3 mld zł.\n\nRyvu Therapeutics uruchamia biznes usługowy w obszarze wczesnego rozwoju klinicznego pod marką \"Keelira\", który będzie działał równolegle z podstawową działalnością w zakresie odkrywania i rozwoju leków - podała spółka w komunikacie. Strategicznym priorytetem Ryvu pozostaje rozwój własnego pipe",
+      "date_published": "2026-08-18T17:06:00+02:00",
+      "source": "PAP Biznes"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/gospodarka/dzien-na-fxfi-pln-oslabia-sie-i-testuje-4324eur-rynek-czeka-na-przeglad",
+      "url": "https://biznes.pap.pl/wiadomosci/gospodarka/dzien-na-fxfi-pln-oslabia-sie-i-testuje-4324eur-rynek-czeka-na-przeglad",
+      "title": "DZIEŃ NA FX/FI: PLN osłabia się i testuje 4,324/EUR; rynek czeka na przegląd ratingu Polski",
+      "content_html": "Złoty we wtorek osłabił się wobec głównych walut. EUR/PLN testuje poziom 4,324, a USD/PLN znalazł się powyżej 3,73. Rentowności krajowych obligacji pozostają w pobliżu porannych poziomów. Zdaniem analityków, kluczowa dla polskich aktywów będzie decyzja agencji Fitch, która w piątek dokona przeglądu raitingu Polski. Do piątku notowania SPW powinny być pod wpływem tendencji globalnych.\n\nO godz. 16.50 kurs EUR/PLN rośnie o 0,28 proc. do 4,3238, a USD/PLN idzie w górę o 0,31 proc. do 3,7322. EUR/USD zniżkuje o 0,03 proc. do 1,1585.\n\nZdaniem Mateusza Chrzanowskiego, analityka Noble Securities, dla polskich aktywów bardzo ważna będzie decyzja agencji Fitch, która w piątek dokona przeglądu ratingu dla Polski.\n\n\"To będzie ważne i dla waluty, i dla obligacji. Gdyby Fitch obniżył rating, to rentowności obligacji by wzrosły, a złoty na pewno by się osłabił do wszystkich walut, zarówno naszego regionu, jak i globalnych\" - powiedział PAP Biznes Mateusz Chrzanowski.\n\n\"Można znaleźć opinie makroekonomistów, którzy dosyć optymistycznie podchodzą do naszej gospodarki, a którzy widzą duże ryzyko, że ten rating zostanie obniżony\" - dodał.\n\nJak ocenia analityk, wzrost rentowności krajowych obligacji z tytułu ewentualnego obniżenia ratingu byłby prawdopodobnie przejściowy, ale presja na tym rynku pozostałaby.\n\n\"Presja byłaby widoczna, bo to jednak trochę by nas przesunęło niżej w koszykach. Na pewno byłoby to dodatkowe dyskonto dla polskich obligacji\" - powiedział Mateusz Sutowicz.\n\nJego zdaniem, do piątku rentowności obligacji pozostanę pod wpływem rynków bazowych.\n\n\"Myślę, że nie będziemy się wyłamywać z trendów globalnych. Na rentownościach możliwe są lekkie wzrosty, bo utrzymują się obawy o inflację z tytułu przedłużających się wysokich cen ropy\" - powiedział.",
+      "date_published": "2026-08-18T17:00:00+02:00",
+      "source": "PAP Biznes"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/WEGRY-Zasnal-za-kierownica-Kierowca-aresztowany-prokuratura-podaje-przyczyne-9183896.html",
@@ -829,14 +901,6 @@
       "source": "Bankier.pl"
     },
     {
-      "id": "https://biznes.pap.pl/wiadomosci/rynki/dzien-na-rynkach-futures-w-usa-spadaja-obligacje-oslabiaja-sie-3",
-      "url": "https://biznes.pap.pl/wiadomosci/rynki/dzien-na-rynkach-futures-w-usa-spadaja-obligacje-oslabiaja-sie-3",
-      "title": "DZIEŃ NA RYNKACH: Futures w USA spadają; obligacje osłabiają się",
-      "content_html": "Kontrakty w USA zniżkują, a indeksy w Europie są głównie na minusach. Inwestorzy niepokoją się o trwający impas w negocjacjach USA-Iran. Rentowności obligacji rosną, a 30-letnie US Treasuries osiągnęły najwyższy poziom od 19 lat.\n\nKontrakty na S&P 500 zniżkują o 0,45 proc., na Dow Jones Industrial spadają o 0,06 proc., a Nasdaq Comp. tracą 1,17 proc.\n\nInwestorzy oceniają informacje z Bliskiego Wschodu. Rzecznik MSZ Kataru Majed al-Ansari powiedział na konferencji prasowej, że strony mediacyjne między Iranem a Stanami Zjednoczonymi powrócą do wysiłków mających na celu zakończenie wojny USA i Izraela z Iranem oraz wznowienie rozmów między obiema stronami, po tym jak Iran i Oman ogłoszą dwustronne porozumienie w sprawie tranzytu przez Cieśninę Ormuz.\n\nWe wtorek brytyjska agencja UKMTO podała, że członek załogi ucierpiał, a maszynownia statku handlowego uległa uszkodzeniu w wyniku trafienia przez nieznany pocisk podczas wychodzenia z cieśniny Ormuz.\n\nPrezydent USA Donald Trump poinformował w poniedziałek, że USA kontrolują cieśninę Ormuz, a uznanie jej za terytorium USA określił jako świetny pomysł.\n\nSzef irańskiego MSZ Abbas Araghchi oskarżył Izrael o aktywne sabotowanie wysiłków dyplomatycznych, określając ten kraj jako główną przeszkodę na drodze do trwałego zawieszenia broni ze Stanami Zjednoczonymi.\n\nWysoki rangą urzędnik irański, cytowany przez agencję Reutera, podał, że Iran zaostrzy napięcia w cieśninie Ormuz i w całym regionie Bliskiego Wschodu, jeśli kontakty dyplomatyczne z USA zakończą się niepowodzeniem.\n\nW poniedziałek 60-dniowe tymczasowe zawieszenie broni uzgodnione 17 czerwca zakończyło swoje obowiązywanie, okres negocjacji wygasł, a ani Waszyngton, ani Teheran nie wydają się skłonne do kompromisu w sprawie przyszłości cieśniny Ormuz.\n\n„Impas przemawia za utrzymaniem zabezpieczeń przed ponowną zmiennością cen ropy naftowej i inflacji” – napisali stratedzy z Gramercy Funds Management w raporcie.\n\nAkcje Home Depot rosną o 1,5 proc. w handlu przedsesyjnym. Wyniki spółki za II kw. były lepsze od oczekiwań.\n\nW poniedziałek Dow Jones Industrial na zamknięciu spadł o 0,51 proc. i wyniósł 53.459,78 pkt. S&P 500 na koniec dnia stracił 0,52 proc. i wyniósł 7.745,06 pkt. Nasdaq Composite zniżkował o 0,32 proc. do 26.644,91 pkt.\n\nSrebro zniżkuje o 1,69 proc. do poziomu 68,08 USD za uncję, a złoto spada o 0,6 proc. do 4.446 USD za uncję.\n\nBitcoin rośnie o 0,02 proc. i jego kurs wynosi 64.314 USD za token.\n\nIndeks VIX, miara oczekiwanej zmienności i instrument oceny sentymentu, zwyżkuje do 15,05 pkt.\n\nW Europie indeks Euro Stoxx 50 spada o 0,5 proc., niemiecki DAX idzie w dół o 0,34 proc., francuski CAC 40 zniżkuje o 0,5 proc., a brytyjski FTSE 100 rośnie o 0,05 proc.\n\nBenchmarkowy indeks Europe Stoxx 600 zniżkuje o 0,49 proc.\n\n„W kwestii Iranu większym zmartwieniem dla Europy jest gaz ziemny. Rynki koncentrują się na tym, czy Europa będzie w stanie uzupełnić swoje zapasy gazu po rozsądnych cenach przed zimą, przy czym obecny poziom zapasów i koszty pozostają kluczowym źródłem niepewności” – powiedział Gordon Kerr, strateg makroekonomiczny ds. rynków europejskich w KBRA.\n\nAkcje H&M rosną o 3,5 proc. po tym, jak jeden z dyrektorów ujawnił fakt zakupu 8.000 akcji spółki.\n\nHuber+Suhner spada o 4,5 proc. po danych finansowych za I połowę 2026.\n\nOXB traci 2 proc. po obniżeniu rekomendacji dla akcji spółki do \"trzymaj\" z \"kupuj\" przez analityków Deutsche Banku.\n\nRoyal Unibrew zniżkuje o 8 proc., najmocniej od kwietnia, w reakcji na słabe dane za II kw.\n\nBasilea zyskuje 7 proc. Spółka spodziewa się w 2026 r. wzrostu zysku operacyjnego o 40 proc. wobec szacowanych wcześniej 20 proc.\n\nSchott Pharma idzie wyżej o 7,6 proc. Analitycy Barclays twierdzą, że ta niemiecka firma zajmująca się pakowaniem leków pozostawiła swoje problemy w \"lusterku wstecznym\" i jest gotowa na przyspieszenie wzrostu.\n\nDolar umacnia się o 0,07 proc. wobec koszyka walut do 99,67 pkt.\n\nEurodolar osłabia się o 0,05 proc. do 1,1573.\n\nKwotowanie USD/JPY spada o 0,05 p",
-      "date_published": "2026-08-18T13:58:00+02:00",
-      "source": "PAP Biznes"
-    },
-    {
       "id": "https://www.bankier.pl/wiadomosc/UE-Komisja-Europejska-zgodzila-sie-na-przejecie-InPostu-przez-Advent-FedEx-A-R-i-PPF-aktl-9183776.html",
       "url": "https://www.bankier.pl/wiadomosc/UE-Komisja-Europejska-zgodzila-sie-na-przejecie-InPostu-przez-Advent-FedEx-A-R-i-PPF-aktl-9183776.html",
       "title": "KE zgodziła się na przejęcie InPostu przez Advent, FedEx, A&R i PPF",
@@ -933,12 +997,28 @@
       "source": "Bankier.pl"
     },
     {
+      "id": "https://biznes.pap.pl/wiadomosci/przemysl/rzad-przyjmie-ustawe-przyspieszajaca-realizacje-min-inwestycji-portowych-i",
+      "url": "https://biznes.pap.pl/wiadomosci/przemysl/rzad-przyjmie-ustawe-przyspieszajaca-realizacje-min-inwestycji-portowych-i",
+      "title": "Rząd przyjmie ustawę przyspieszającą realizację m.in. inwestycji portowych i związanych z EJ",
+      "content_html": "Rząd przyjmie we wtorek m.in. projekt ustawy o usprawnieniu procesu inwestycyjnego w zakresie kluczowych inwestycji infrastrukturalnych, które mają bezpośredni wpływ na obronność, bezpieczeństwo i polską gospodarkę - poinformował premier Donald Tusk. Wśród tych kluczowych inwestycji wymienił m.in. inwestycje w zakresie gospodarki morskiej i związane z przyszłą elektrownią jądrową w Choczewie.\n\n\"Dzisiaj przyjmiemy ustawę jako rząd, zgodnie z którą radykalnie przyspieszymy proces przygotowania oraz realizacji kluczowych inwestycji infrastrukturalnych, które mają bezpośredni wpływ na obronność, bezpieczeństwo oraz gospodarkę Polski\" - powiedział Tusk przed posiedzeniem rządu.\n\nDodał, że chodzi o \"radykalne\" ułatwienia i zmianę procedur administracyjnych.\n\n\"Stosowaliśmy kiedyś podobne procedury wtedy, kiedy wymagało, kiedy potrzebowaliśmy radykalnego przyspieszenia, jeśli chodzi o proces inwestycyjny. Tutaj mamy listę konkretnych projektów. Ta ustawa dotyczy konkretnych projektów\" - dodał premier.\n\nWśród kluczowych inwestycji, których ma dotyczyć ustawa, wymienił m.in. budowę drogi krajowej numer 7 od ulicy Morskiej do publicznego terminalu promowego w porcie morskim w Gdyni, co będzie oznaczać skuteczne włączenie portu gdyńskiego w ogólnopolską i europejską sieć komunikacyjną.\n\nWymienił też rozbudowę portu zewnętrznego w porcie morskim w Świnoujściu oraz budowę i rozbudowę infrastruktury zapewniającej dostęp od strony morza do portu zewnętrznego Przylądek Pomerania w Świnoujściu; budowę portu zewnętrznego w porcie morskim w Gdyni oraz budowę i rozbudowę infrastruktury zapewniającej dostęp do portu morskiego w Gdyni.\n\n\"Także budowa infrastruktury stacyjno-przeładunkowej na wyspie portowej wraz z przeprawą kolejowo-drogową przez Martwą Wisłę i nowy odcinek linii kolejowej wokół rafinerii i włączenie jej do istniejącej linii kolejowej nr 226 do stacji Gdańsk-Olszynka\" - dodał.\n\nWymienił też inwestycje kolejowe związane z gospodarką morską na trasie Szczecin-Świnoujście, Wrocław-Szczecin, Chorzów-Batory, Tczew, Warszawa-Gdańsk, Nowa Wieś Wielka-Gdynia.\n\n\"Z oczywistych względów musimy i chcemy przyspieszyć także inwestycje, które dotyczą bezpośrednio lub pośrednio naszego programu jądrowego, elektrowni jądrowej, to także jest Pomorze. To ma także bezpośredni związek z infrastrukturą na morzu i nad morzem. To jest m.in. infrastruktura hydrotechniczna w granicach pasa technicznego na obszarze gmin Choczewo lub Krokowa oraz na obszarach morskich Rzeczypospolitej Polskiej, w szczególności na potrzeby elektrowni jądrowej\" - zaznaczył. (PAP Biznes)",
+      "date_published": "2026-08-18T12:46:00+02:00",
+      "source": "PAP Biznes"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Warszawa-wydluza-godziny-pracy-urzedow-Chodzi-o-zastrzeganie-numerow-PESEL-9183720.html",
       "url": "https://www.bankier.pl/wiadomosc/Warszawa-wydluza-godziny-pracy-urzedow-Chodzi-o-zastrzeganie-numerow-PESEL-9183720.html",
       "title": "Warszawa wydłuża godziny pracy urzędów. Chodzi o zastrzeganie numerów PESEL",
       "content_html": "Od wtorku do czwartku Biuro Administracji i Spraw Publicznych oraz jego delegatury w dzielnicach będą czynne dłużej - do godziny 18.00 - poinformował we wtorek prezydent Warszawy Rafał Trzaskowski. To odzew na duże zainteresowanie zastrzeżeniem...",
       "date_published": "2026-08-18T12:25:00+02:00",
       "source": "Bankier.pl"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/firmy/maciej-krzysztoszek-zostal-rzecznikiem-prasowym-gpw",
+      "url": "https://biznes.pap.pl/wiadomosci/firmy/maciej-krzysztoszek-zostal-rzecznikiem-prasowym-gpw",
+      "title": "Maciej Krzysztoszek został rzecznikiem prasowym GPW",
+      "content_html": "Maciej Krzysztoszek objął stanowisko rzecznika prasowego Giełdy Papierów Wartościowych w Warszawie - podała GPW w komunikacie prasowym. Krzysztoszek jednocześnie objął funkcję wicedyrektora Działu Komunikacji i Marketingu GPW.\n\nJak podano, będzie odpowiadał m.in za relacje z mediami i komunikację giełdy.\n\nDodano, że jako wicedyrektor Działu Komunikacji i Marketingu będzie również zaangażowany w działania komunikacyjne wspierające realizację strategicznych celów grupy GPW. (PAP Biznes)",
+      "date_published": "2026-08-18T12:20:00+02:00",
+      "source": "PAP Biznes"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Oszzusci-wykorzystuja-tragedie-polskiego-autokaru-Dzwonia-do-bliskich-ofiar-9183714.html",
@@ -949,27 +1029,19 @@
       "source": "Bankier.pl"
     },
     {
+      "id": "https://biznes.pap.pl/wiadomosci/firmy/pepco-group-nabylo-36462201-akcji-wlasnych-za-ok-400-mln-euro",
+      "url": "https://biznes.pap.pl/wiadomosci/firmy/pepco-group-nabylo-36462201-akcji-wlasnych-za-ok-400-mln-euro",
+      "title": "Pepco Group nabyło 36.462.201 akcji własnych za ok. 400 mln euro",
+      "content_html": "Pepco Group rozliczyło skup akcji własnych, w ramach którego nabyło 36.462.201 akcji po stałej cenie nabycia wynoszącej 47,52 zł, za łączną kwotę ok. 1,73 mld zł (ok. 400 mln euro) - podała spółka w komunikacie.\n\n\"Nabyte akcje są w posiadaniu spółki jako akcje własne i mają zostać umorzone, a kapitał zakładowy Spółki zostanie odpowiednio obniżony z wyjątkiem tych akcji, które mogą, w zakresie mającym zastosowanie, zostać wykorzystane do przyszłego rozliczenia uprawnień nabywanych w ramach programów motywacyjnych Spółki opartych na akcjach\" - napisano w komunikacie.\n\nNabycie akcji zostało przeprowadzone poza rynkiem i rozliczone za pośrednictwem Krajowego Depozytu Papierów Wartościowych, przy czym Erste Biuro Maklerskie pełniło funkcję pośrednika przy przeprowadzeniu i rozliczeniu skupu. Z kolei J.P. Morgan pełnił funkcję doradcy w zakresie rynków kapitałowych na rzecz Pepco w związku ze skupem.\n\nW zeszłym tygodniu spółka podała, że w ramach skupu nabędzie akcje własne za 400 mln euro, średnia stopa redukcji wyniosła 91,76 proc.\n\nPodano wówczas, że ofertę sprzedaży obejmującą około 360 mln akcji zwykłych złożył IBEX Retail Investments Limited, akcjonariusz większościowy spółki. W wyniku redukcji przyjęto 29.553.005 akcji posiadanych przez IBEX. Po zakończeniu skupu udział IBEX w ogólnej liczbie akcji spółki, z wyłączeniem akcji własnych, wyniesie 66,1 proc. (oraz 58,3 proc. ogólnej liczby akcji wyemitowanych przez spółkę).\n\nSkup akcji ogłoszony został 28 lipca po odwołaniu wcześniejszej oferty, która obejmowała skup po cenie 41,76 zł za akcję. (PAP Biznes)",
+      "date_published": "2026-08-18T12:14:00+02:00",
+      "source": "PAP Biznes"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Rosyjska-gospodarka-niemal-przygnieciona-wojna-Narastaja-pekniecia-na-Kremlu-9183711.html",
       "url": "https://www.bankier.pl/wiadomosc/Rosyjska-gospodarka-niemal-przygnieciona-wojna-Narastaja-pekniecia-na-Kremlu-9183711.html",
       "title": "Rosyjska gospodarka niemal przygnieciona wojną. Narastają pęknięcia na Kremlu",
       "content_html": "Rosyjska gospodarka jest wykończona i „niemal przygnieciona” wojną z Ukrainą, a niedawne odwołanie ekonomisty Andrieja Kliepacza dowodzi narastających pęknięć w kręgach władzy - zauważył we wtorek dziennik „Times”.",
       "date_published": "2026-08-18T12:12:00+02:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Starcom-wprowadzil-do-obrotu-w-segmencie-EuroBridge-Market-obligacje-o-wartosci-200-mln-euro-9183709.html",
-      "url": "https://www.bankier.pl/wiadomosc/Starcom-wprowadzil-do-obrotu-w-segmencie-EuroBridge-Market-obligacje-o-wartosci-200-mln-euro-9183709.html",
-      "title": "Starcom wprowadził do obrotu w segmencie EuroBridge Market obligacje o wartości 200 mln euro",
-      "content_html": "Starcom Holding, większościowy akcjonariusz Eurohold Bulgaria, wprowadził do obrotu pierwszą emisję obligacji w historii segmentu EuroBridge Market. Papiery o wartości 200 mln euro są notowane równolegle na Bułgarskiej Giełdzie Papierów Wartościowych...",
-      "date_published": "2026-08-18T12:06:00+02:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Gieldowy-hit-swietuje-pierwszy-rok-na-GPW-Ponad-40-proc-plus-okresowe-wyplaty-z-dywidend-9183708.html",
-      "url": "https://www.bankier.pl/wiadomosc/Gieldowy-hit-swietuje-pierwszy-rok-na-GPW-Ponad-40-proc-plus-okresowe-wyplaty-z-dywidend-9183708.html",
-      "title": "Giełdowy hit świętuje pierwszy rok na GPW. Ponad 40 proc. plus okresowe wypłaty z dywidend",
-      "content_html": "Prawdziwym giełdowym hitem okazał fundusz BETA ETF Dywidenda Plus. W pierwszym roku funkcjonowania potwierdził wysoki popyt na pasywne inwestowanie dywidendowe przyciągając ponad 208 mln zł napływów netto. Inwestorzy mogą być zadowoleni z ponad...",
-      "date_published": "2026-08-18T12:03:00+02:00",
       "source": "Bankier.pl"
     },
     {
@@ -981,36 +1053,20 @@
       "source": "PAP Biznes"
     },
     {
-      "id": "https://www.bankier.pl/wiadomosc/Rosja-grozi-Wielkiej-Brytanii-Bedzie-musiala-odpowiedziec-za-wsparcie-Ukrainy-9183593.html",
-      "url": "https://www.bankier.pl/wiadomosc/Rosja-grozi-Wielkiej-Brytanii-Bedzie-musiala-odpowiedziec-za-wsparcie-Ukrainy-9183593.html",
-      "title": "Rosja grozi Wielkiej Brytanii. „Będzie musiała odpowiedzieć” za wsparcie Ukrainy",
-      "content_html": "Rosyjska ambasada w Londynie ostrzegła w poniedziałek Wielką Brytanię, że „będzie musiała odpowiedzieć” za konsekwencje swojego wsparcia wojskowego dla Ukrainy. Komunikat dotyczył doniesień o wykorzystaniu brytyjskich dronów do uderzeń...",
-      "date_published": "2026-08-18T11:45:00+02:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Nauczyciele-wyjda-na-ulice-Zadaja-wyzszych-plac-i-nie-tylko-9183685.html",
-      "url": "https://www.bankier.pl/wiadomosc/Nauczyciele-wyjda-na-ulice-Zadaja-wyzszych-plac-i-nie-tylko-9183685.html",
-      "title": "Nauczyciele wyjdą na ulice. Żądają wyższych płac i nie tylko",
-      "content_html": "Spokojnie już było - tak wielki protest nauczycieli zapowiedział prezes ZNP Sławomir Broniarz. Nauczyciele chcą podwyżek i powiązania wynagrodzeń ze średnią krajową. \"Zachowanie rządzących jest skandaliczne. To lekceważenie ponad 600-tysięcznej...",
-      "date_published": "2026-08-18T11:35:00+02:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Najwiekszy-hotel-w-Unii-Europejskiej-Golebiewski-wyprzedzi-berlinska-konkurencje-9183665.html",
-      "url": "https://www.bankier.pl/wiadomosc/Najwiekszy-hotel-w-Unii-Europejskiej-Golebiewski-wyprzedzi-berlinska-konkurencje-9183665.html",
-      "title": "Największy hotel w Unii Europejskiej. Gołębiewski wyprzedzi berlińską konkurencję",
-      "content_html": "Gołębiewski w Pobierowie przygotowuje się do otwarcia kolejnej części kompleksu. Do urzędu trafił wniosek o zgodę na użytkowanie następnych 179 pokoi wraz z infrastrukturą towarzyszącą, obejmującą sklepy, ekskluzywne lobby i dwa parkingi...",
-      "date_published": "2026-08-18T11:30:00+02:00",
-      "source": "Bankier.pl"
-    },
-    {
       "id": "https://biznes.pap.pl/wiadomosci/firmy/czesciowe-zacmienie-slonca-12-viii-nie-wplynelo-na-prace-polskiego-systemu",
       "url": "https://biznes.pap.pl/wiadomosci/firmy/czesciowe-zacmienie-slonca-12-viii-nie-wplynelo-na-prace-polskiego-systemu",
       "title": "Częściowe zaćmienie słońca 12 VIII nie wpłynęło na prace polskiego systemu elektroenergetycznego - PSE",
-      "content_html": "Częściowe zaćmienie Słońca 12 sierpnia nie wpłynęło na pracę polskiego systemu elektroenergetycznego - poinformował PSE. Wcześniej operator wskazywał, że zjawisko to wpłynie na generację energii z fot",
+      "content_html": "Częściowe zaćmienie Słońca 12 sierpnia nie wpłynęło na pracę polskiego systemu elektroenergetycznego - poinformował PSE. Wcześniej operator wskazywał, że zjawisko to wpłynie na generację energii z fotowoltaiki (PV), której moc zainstalowana w Polsce wynosi już 27,5 GW.\n\n\"12 sierpnia 2026 r. częściowe zaćmienie Słońca nie wpłynęło na pracę polskiego systemu elektroenergetycznego\" - napisały Polskie Sieci Elektroenergetyczne na platformie X.\n\n12 sierpnia operator informował, że polski system elektroenergetyczny jest przygotowany na zaćmienie słońca, które wpłynie na generację energii z fotowoltaiki (PV), której moc zainstalowana w Polsce wynosi już 27,5 GW.\n\nEuropejska Sieć Operatorów Systemów Przesyłowych Energii Elektrycznej (ENTSO-E) wyjaśniała na swojej stronie, że 12 sierpnia zaćmienie Słońca spowoduje tymczasowy spadek produkcji energii słonecznej w znacznej części Europy, gdy Księżyc przejdzie przed tarczą Słońca.\n\nZrzeszenie operatorów szacowało, że przy bezchmurnym niebie moc wyjściowa instalacji fotowoltaicznych (PV) w całej Europie może spaść nawet o 9,7 GW, co spowoduje gwałtowną, ale przewidywalną zmianę w strukturze wytwarzania energii w godzinach 19:15–21:30 czasu środkowoeuropejskiego. Największy wpływ zjawiska przewidywano w Hiszpanii i Niemczech. (PAP Biznes)",
       "date_published": "2026-08-18T11:21:00+02:00",
       "source": "PAP Biznes"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Starcom-wprowadzil-do-obrotu-w-segmencie-EuroBridge-Market-obligacje-o-wartosci-200-mln-euro-9183709.html",
+      "url": "https://www.bankier.pl/wiadomosc/Starcom-wprowadzil-do-obrotu-w-segmencie-EuroBridge-Market-obligacje-o-wartosci-200-mln-euro-9183709.html",
+      "title": "Starcom wprowadził do obrotu w segmencie EuroBridge Market obligacje o wartości 200 mln euro Starcom Holding, większościowy akcjonariusz Eurohold Bulgaria, wprowadził do obrotu pierwszą emisję obligacji w historii segmentu EuroBridge Market. Papiery o wartości 200 mln euro są notowane równolegle na Bułgarskiej Giełdzie Papierów Wartościowych oraz Giełdzie Papierów Wartościowych we Frankfurcie - podała spółka w komunikacie prasowym.",
+      "content_html": "",
+      "date_published": "2026-08-18T11:06:00+02:00",
+      "source": "Bankier.pl"
     },
     {
       "id": "https://biznes.pap.pl/wiadomosci/rynki/starcom-wprowadzil-do-obrotu-w-segmencie-eurobridge-market-obligacje-o-wartosci",
@@ -1029,83 +1085,19 @@
       "source": "PAP Biznes"
     },
     {
+      "id": "https://www.bankier.pl/wiadomosc/Gieldowy-hit-swietuje-pierwszy-rok-na-GPW-Ponad-40-proc-plus-okresowe-wyplaty-z-dywidend-9183708.html",
+      "url": "https://www.bankier.pl/wiadomosc/Gieldowy-hit-swietuje-pierwszy-rok-na-GPW-Ponad-40-proc-plus-okresowe-wyplaty-z-dywidend-9183708.html",
+      "title": "Giełdowy hit świętuje pierwszy rok na GPW. Ponad 40 proc. plus okresowe wypłaty z dywidend Prawdziwym giełdowym hitem okazał fundusz BETA ETF Dywidenda Plus. W pierwszym roku funkcjonowania potwierdził wysoki popyt na pasywne inwestowanie dywidendowe przyciągając ponad 208 mln zł napływów netto. Inwestorzy mogą być zadowoleni z ponad 40-procentowej stopy zwrotu i wygenerowaniu 3,41 zł łącznej wypłaty dochodu na certyfikat. Popyt ze strony inwestorów indywidualnych okazał się tak stabilny, że animator ani razu nie musiał dokonywać umorzeń na rynku pierwotnym.",
+      "content_html": "",
+      "date_published": "2026-08-18T11:03:00+02:00",
+      "source": "Bankier.pl"
+    },
+    {
       "id": "https://biznes.pap.pl/wiadomosci/firmy/bgk-i-efi-zainwestowaly-30-mln-euro-w-fundusz-vc-zarzadzany-przez-inovovc",
       "url": "https://biznes.pap.pl/wiadomosci/firmy/bgk-i-efi-zainwestowaly-30-mln-euro-w-fundusz-vc-zarzadzany-przez-inovovc",
       "title": "BGK i EFI zainwestowały 30 mln euro w fundusz VC zarządzany przez Inovo.vc.",
       "content_html": "Bank Gospodarstwa Krajowego (BGK) i Europejski Fundusz Inwestycyjny (EFI) zainwestowały 30 mln euro w fundusz venture capital zarządzany przez Inovo.vc - podał bank w komunikacie prasowym\n\nTo czwarty fundusz, w który obie instytucje zaangażowały się w ramach wspólnej inicjatywy – Future Tech Poland (FTP). Do tej pory FTP alokował już blisko 580 mln zł.\n\nInovo.vc to polski zespół inwestycyjny, który wspiera spółki technologiczne na wczesnym etapie rozwoju.\n\nJak podano, inwestycja w fundusz zarządzany przez Inovo.vc, to również kolejny krok w realizacji strategii inwestycyjnej BGK.\n\n\"Naszym celem jest systemowe budowanie konkurencyjności Polski i konsekwentne wzmacnianie krajowego ekosystemu VC, dzięki czemu kapitał instytucjonalny trafia do najbardziej innowacyjnych spółek. Do końca roku planujemy osiągnąć ponad 40 proc. całkowitej alokacji środków Future Tech Poland\" - powiedział cytowany w komunikacie członek zarządu BGK, Jarosław Dąbrowski.\n\n\"Inovo.vc od 2014 roku inwestuje w (...) founderów budujących spółki technologiczne na najwcześniejszym etapie rozwoju w Polsce i Europie Środkowo-Wschodniej - w tym czasie wspieraliśmy już ponad 70 zespołów. Wierzymy, że z Polski i regionu wyjdzie kolejna generacja globalnych liderów technologicznych. Naszą rolą jest być ich pierwszym partnerem instytucjonalnym i wspierać ich w drodze do bycia globalnymi liderami swoich kategorii - dodał partner zarządzający w Inovo.vc, Tomasz Swieboda. (PAP Biznes)",
       "date_published": "2026-08-18T10:59:00+02:00",
-      "source": "PAP Biznes"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/firmy/cena-referencyjna-wegla-w-czerwcu-wyniosla-1781-zl-za-gigadzul-arp",
-      "url": "https://biznes.pap.pl/wiadomosci/firmy/cena-referencyjna-wegla-w-czerwcu-wyniosla-1781-zl-za-gigadzul-arp",
-      "title": "Cena referencyjna węgla w czerwcu wyniosła 17,81 zł za gigadżul - ARP",
-      "content_html": "W czerwcu cena referencyjna węgla, służąca do ustalania wysokości potencjalnych budżetowych dopłat dla kopalń, wyniosła 17,81 zł za gigadżul uzyskiwanej z węgla energii - poinformowała Agencja Rozwoju Przemysłu.\n\n\"Cena referencyjna, niezbędna do wyliczenia wysokości środków na pokrycie dopłat do redukcji zdolności produkcyjnych przedsiębiorstwa, w rozumieniu wspomnianego rozporządzenia, w czerwcu 2026 roku wyniosła: 17,81 zł/GJ. Cena referencyjna narastająco za okres styczeń-czerwiec 2026 roku wynosiła: 16,82 zł/GJ\" - napisano.\n\nComiesięczne ustalanie przez ARP ceny referencyjnej, wyrażonej w złotych na gigadżul (zł/GJ), wiąże się z wdrożeniem ustawowego mechanizmu dopłat do redukcji zdolności produkcyjnych kopalń węgla kamiennego.\n\nW założeniu dopłaty mają pokrywać różnicę między faktycznymi przychodami spółek węglowych a przychodami, jakie producenci węgla uzyskaliby, sprzedając surowiec po cenie referencyjnej. (PAP Biznes)",
-      "date_published": "2026-08-18T10:31:00+02:00",
-      "source": "PAP Biznes"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/W-2025-r-i-I-polowie-2026-r-97-proc-umow-zakupowych-z-podmiotami-krajowymi-Gaz-System-9183693.html",
-      "url": "https://www.bankier.pl/wiadomosc/W-2025-r-i-I-polowie-2026-r-97-proc-umow-zakupowych-z-podmiotami-krajowymi-Gaz-System-9183693.html",
-      "title": "Gaz-System: 97 proc. umów zakupowych trafia do polskich firm W 2025 r. oraz w pierwszej połowie 2026 r. 97 proc. wszystkich umów zakupowych zostało zawartych z podmiotami krajowymi - poinformował operator gazociągów przesyłowych Gaz-System. Dodał, że w 2025 r. było to 1.468 umów o łącznej wartości ok. 1,24 mld zł; a w I półroczu 2026 r. - 621 umów o łącznej wartości ok. 1,14 mld zł.",
-      "content_html": "",
-      "date_published": "2026-08-18T10:24:00+02:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Enter-Air-oczekuje-istotnego-wzrostu-operacji-w-2027-r-planuje-zwiekszyc-flote-o-ok-10-proc-wywiad-9183692.html",
-      "url": "https://www.bankier.pl/wiadomosc/Enter-Air-oczekuje-istotnego-wzrostu-operacji-w-2027-r-planuje-zwiekszyc-flote-o-ok-10-proc-wywiad-9183692.html",
-      "title": "Enter Air planuje zwiększyć flotę o ok. 10 proc. Enter Air, czarterowy przewoźnik lotniczy, odnotowuje w 2026 r. dwucyfrowy wzrost sprzedaży i operacji. Spółka oczekuje istotnego wzrostu także w przyszłym roku, choć jego skala będzie zależeć m.in. od kontraktów i dostępności samolotów - poinformował PAP Biznes prezes Marcin Kubrak. W 2027 r. spółka planuje zwiększyć flotę o ok. 10 proc.",
-      "content_html": "",
-      "date_published": "2026-08-18T10:24:00+02:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/firmy/enter-air-oczekuje-istotnego-wzrostu-operacji-w-2027-r-planuje-zwiekszyc-flote-o",
-      "url": "https://biznes.pap.pl/wiadomosci/firmy/enter-air-oczekuje-istotnego-wzrostu-operacji-w-2027-r-planuje-zwiekszyc-flote-o",
-      "title": "Enter Air oczekuje istotnego wzrostu operacji w 2027 r.; planuje zwiększyć flotę o ok. 10 proc. (wywiad)",
-      "content_html": "Enter Air, czarterowy przewoźnik lotniczy, odnotowuje w 2026 r. dwucyfrowy wzrost sprzedaży i operacji. Spółka oczekuje istotnego wzrostu także w przyszłym roku, choć jego skala będzie zależeć m.in. od kontraktów i dostępności samolotów - poinformował PAP Biznes prezes Marcin Kubrak. W 2027 r. spółka planuje zwiększyć flotę o ok. 10 proc.\n\n“Operacyjnie pierwsza połowa roku wygląda bardzo dobrze. Mamy kilkunastoprocentowy wzrost sprzedaży w złotych, a w dolarach ponad 20 proc. Realizujemy podpisane kontrakty i mamy kilkunastoprocentowy wzrost operacji YTD, czyli od stycznia do końca czerwca” - powiedział PAP Biznes prezes Enter Air Marcin Kubrak.\n\nPoinformował, że perspektywy na kolejny rok będą zależały od podpisania kontraktów i dostępności samolotów.\n\n“Oczekujemy istotnego wzrostu. Czy będzie on bliżej 10 proc., czy kilkunastu procent, trudno mi teraz powiedzieć, bo wszystko jest w trakcie ustalania i negocjacji” - powiedział.\n\n“Chcemy rozwijać się szybciej niż rynek, co oczywiście jest determinowane dostępnością samolotów i naszymi możliwościami operacyjnymi. Chcemy też rozwijać się za granicą, więc musimy bardzo dobrze wybrać, jaki miks tego rozwoju jest dla nas najlepszy i w co najlepiej inwestować” - dodał.\n\nPrezes wskazał, że popyt jest bardzo duży, co jego zdaniem będzie widoczne przy kontraktacji kolejnego sezonu letniego.\n\n“Popyt jest wysoki, pasażerowie chcą latać mimo wszelkich przeciwności. Mamy wojnę, wysokie ceny paliw i geopolitycznie niespokojne środowisko, mimo wszystko pasażerowie chętnie latają, Polacy szczególnie” - ocenił Marcin Kubrak.\n\n“Nastroje są dobre, a dobra sytuacja gospodarcza w Polsce dodatkowo wspiera popyt. Patrzymy więc bardzo optymistycznie na kolejne sezony” - dodał.\n\nZa jeden z kluczowych czynników w drugiej połowie 2026 roku spółka uważa dobrą realizację programu handlowego.\n\n“Trzeci kwartał jest zawsze najbardziej intensywny, to największe obciążenie operacyjne, więc staramy się jak najlepiej go realizować i wykonywać wszystkie rejsy na czas” - poinformował prezes Enter Air.\n\nWskazał, że opóźnienia techniczne dotyczą mniej niż jednego promila rejsów.\n\n“W tym roku nie anulowaliśmy żadnego rejsu, w zeszłym roku również” - powiedział.\n\n“To jest dla nas najważniejsza część operacyjna, bo wtedy mamy szansę wypracować dobrą marżę, jeśli nie będziemy mieli dodatkowych kosztów” - dodał.\n\nMarcin Kubrak ocenił, że sytuacja na Bliskim Wschodzie nie ma obecnie wpływu na realizowane przez Enter Air w Europie przewozy wakacyjne.\n\n“Zatoka Perska to destynacje typowo zimowe. Ta część świata jest poza naszym zainteresowaniem w sezonie letnim, więc perturbacje związane ze zmieniającą się z dnia na dzień sytuacją geopolityczną w tamtym rejonie, nie mają żadnego wpływu na operacje wakacyjne w Europie” - powiedział.\n\nJak wskazał, potencjalna eskalacja konfliktów może jednak w przyszłości negatywnie wpłynąć na działalność spółki.\n\n“Największym zagrożeniem jest oczywiście rozwój konfliktów, przede wszystkim konfliktu na Bliskim Wschodzie. Jeśli doszłoby do generalnej eskalacji w tamtym rejonie i objęłaby ona znacznie większą liczbę krajów, mogłoby to mieć negatywny wpływ na lotnictwo, a częściowo również na nasze programy handlowe” - ocenił.\n\n“Oczywiście konflikt na Ukrainie, który zszedł w debacie publicznej na dalszy plan, również ma wpływ. Eskalacja tego konfliktu, a także ataki terrorystyczne czy pseudoterrorystyczne w zachodniej lub centralnej części Europy, związane z tym konfliktem, również mogą mieć negatywny wpływ na realizację programu” - dodał.\n\nW kontekście wpływu sytuacji geopolitycznej na ceny paliw prezes wskazał, że ryzyko ich zmienności jest w przypadku spółki ograniczone dzięki zabezpieczeniom.\n\n“Ceny paliwa są dynamiczne i bardzo szybko się zmieniają, ale my mamy zabezpieczenia ograniczające ryzyko związane z cenami paliw. Jesteśmy zabezpieczeni do końca roku, a nawet na część przyszłego roku” - powiedział Marcin Kubrak.\n\n“W związku z tym bieżąca sytuacja na rynku paliw nie ma wpływu na nasz",
-      "date_published": "2026-08-18T10:22:00+02:00",
-      "source": "PAP Biznes"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/firmy/w-2025-r-i-i-polowie-2026-r-97-proc-umow-zakupowych-z-podmiotami-krajowymi-gaz",
-      "url": "https://biznes.pap.pl/wiadomosci/firmy/w-2025-r-i-i-polowie-2026-r-97-proc-umow-zakupowych-z-podmiotami-krajowymi-gaz",
-      "title": "W 2025 r. i I połowie 2026 r. 97 proc. umów zakupowych z podmiotami krajowymi - Gaz-System",
-      "content_html": "W 2025 r. oraz w pierwszej połowie 2026 r. 97 proc. wszystkich umów zakupowych zostało zawartych z podmiotami krajowymi - poinformował operator gazociągów przesyłowych Gaz-System. Dodał, że w 2025 r. było to 1.468 umów o łącznej wartości ok. 1,24 mld zł; a w I półroczu 2026 r. - 621 umów o łącznej wartości ok. 1,14 mld zł.\n\n\"W 2025 roku oraz w pierwszej połowie 2026 roku aż 97 proc. wszystkich umów zakupowych zostało zawartych z podmiotami krajowymi: w 2025 roku - 1.468 umów o łącznej wartości ok. 1,242 mld zł; w I półroczu 2026 roku - 621 umów o łącznej wartości ok. 1,139 mld zł\" - podał na stronie Gaz-System.\n\nPoinformował m.in, że w części lądowej pływającego terminala LNG w Zatoce Gdańskiej (FSRU) polskie firmy realizują 97 proc. kontraktów o wartości około 1,8 mld zł, a w części morskiej odpowiadają za 72 proc. prac.\n\nOperator podkreślił, że od połowy 2024 r. do dzisiaj polscy wykonawcy zdobyli kontrakty na dostawę rur o wartości blisko 688 mln zł, co stanowi 99,54 proc. wartości wszystkich zamówień Gaz-Systemu na dostawy rur dla kluczowych projektów infrastrukturalnych. (PAP Biznes)",
-      "date_published": "2026-08-18T10:21:00+02:00",
-      "source": "PAP Biznes"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/konsument/w-krotkim-okresie-mozliwa-stagnacja-w-produkcji-odziezy-w-polsce-raport-pko-bp",
-      "url": "https://biznes.pap.pl/wiadomosci/konsument/w-krotkim-okresie-mozliwa-stagnacja-w-produkcji-odziezy-w-polsce-raport-pko-bp",
-      "title": "W krótkim okresie możliwa stagnacja w produkcji odzieży w Polsce - raport, PKO BP",
-      "content_html": "W krótkim okresie możliwa jest stagnacja w produkcji odzieży w Polsce - wynika z raportu Departamentu Analiz Ekonomicznych PKO BP. Ponadto wskazano, że możliwe podwyżki cen odzieży mogą zwiększyć przychody producentów, jednak rosnące koszty transportu i energii będą ograniczać zyski ze sprzedaży i możliwość zwiększenia nakładów inwestycyjnych.\n\n\"W krótkim okresie spodziewamy się stagnacji w produkcji odzieży w Polsce. Wprawdzie możliwe podwyżki cen odzieży mogą zwiększyć przychody producentów, jednak rosnące koszty transportu i energii będą ograniczać zyski ze sprzedaży i możliwość zwiększenia nakładów inwestycyjnych\" - napisano w raporcie.\n\nW raporcie wskazano również, że wejście od 1 lipca 2026 dodatkowych opłat w wysokości 3 euro do przesyłek spoza unijnego rynku w krótkim okresie powinno ograniczyć bezpośredni import taniej odzieży z Chin.\n\nAnalitycy wskazują jednak, że efekt może jednak osłabnąć, gdyż chińskie platformy będą przenosić zapasy do magazynów w UE i zmieniać modele logistyczne.\n\n\"Bardziej prawdopodobna jest reorganizacja kanałów dostaw niż trwałe załamanie importu. Docelowo ulga celna zwalniająca przesyłki o wartości do 150 euro ma zniknąć w 2028\" - napisano.\n\nZ kolei w średniej perspektywie autorzy raportu przewidują, że znaczącym wyzwaniem będzie wdrożenie wymogów wynikających ze strategii na rzecz tekstyliów zrównoważonych i o obiegu zamkniętym.\n\nJak wskazano, zgodnie z jej postulatami do 2030 roku większość wyrobów tekstylnych wprowadzanych na rynek europejski ma cechować się trwałością, nadawać się do recyklingu, a ich produkcja odbywać się będzie z poszanowaniem środowiska i w sposób etyczny. Ponadto branża odzieżowa zobowiązana jest do wdrożenia cyfrowego paszportu produktu, w którym zawarte mają być m.in. informacje o składzie, pochodzeniu, zawartości recyklatów, możliwościach naprawy.\n\n\"W 2028 powinna być wdrożona rozszerzona odpowiedzialność producenta dla tekstyliów. Nowy system ma przenieść część kosztów zagospodarowania odpadów tekstylnych z mieszkańców i gmin na producentów\" - napisano. (PAP Biznes)",
-      "date_published": "2026-08-18T10:20:00+02:00",
-      "source": "PAP Biznes"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/firmy/monitor-kadrowy-zestawienie-od-11-do-17-sierpnia-1",
-      "url": "https://biznes.pap.pl/wiadomosci/firmy/monitor-kadrowy-zestawienie-od-11-do-17-sierpnia-1",
-      "title": "Monitor kadrowy - zestawienie od 11 do 17 sierpnia",
-      "content_html": "Przegląd informacji o zmianach personalnych w spółkach notowanych na rynku głównym GPW\n\nROBYG - rezygnacja członka rady nadzorczej\n\n14 sierpnia 2026 roku emitent otrzymał rezygnację Karoliny Rzońca-Bajorek z pełnienia funkcji członka rady nadzorczej, ze skutkiem na koniec dnia 31 sierpnia 2026 r.\n\nPOLENERGIA SA - rezygnacja członka rady nadzorczej\n\n14 sierpnia 2026 r. spółka otrzymała rezygnację pana dr. hab. prof. SGH Piotra Bartosza Ciżkowicza z pełnienia funkcji członka rady nadzorczej emitenta. Rezygnacja została złożona ze skutkiem na 14 sierpnia 2026 r. na koniec dnia.\n\nENEFI PLC - powołanie członka rady nadzorczej\n\n14 sierpnia 2026 r. walne zgromadzenie spółki wybrało dr Antala Kadosę Adorjána na członka rady nadzorczej na czas nieokreślony.\n\n17 sierpnia 2026 r. rada nadzorcza emitenta uchwałą powołała Christiana Pangratz do zarządu spółki bieżącej 5-letniej kadencji, która rozpoczęła się 23 czerwca 2026 r., powierzając mu funkcję prezesa zarządu.",
-      "date_published": "2026-08-18T10:10:00+02:00",
-      "source": "PAP Biznes"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/konsument/epp-pozyskalo-106-mln-euro-na-refinansowanie-czterech-centrow-handlowych-m1",
-      "url": "https://biznes.pap.pl/wiadomosci/konsument/epp-pozyskalo-106-mln-euro-na-refinansowanie-czterech-centrow-handlowych-m1",
-      "title": "EPP pozyskało 106 mln euro na refinansowanie czterech centrów handlowych M1",
-      "content_html": "EPP zakończył refinansowanie czterech centrów handlowych M1 zlokalizowanych w Bytomiu, Częstochowie, Poznaniu i Radomiu, a wartość transakcji wyniosła 106 mln euro - podał zarządca nieruchomości w komunikacie prasowym. Środki w równych częściach udzieliły Absa Corporate and Investment Banking oraz Nedbank CIB.\n\nJak podano w komunikacie, jest to pierwsze finansowanie aktywów EPP w Polsce udzielone przez Absa. Nedbank CIB pełnił również funkcje agenta kredytu i agenta zabezpieczeń. Finansowanie zostało zorganizowane na podstawie umowy wspólnych warunków finansowania (Common Terms Agreement), która tworzy jednolite ramy dla transakcji i umożliwia przystąpienie do niej kolejnych kredytodawców w przyszłości.\n\nEPP to zarządcą centrów handlowych, którego portfel obejmuje 33 projekty (27 obiektów handlowych i 6 kompleksów biurowych) o łącznej wartości około 2,9 miliardów euro i powierzchni najmu wynoszącej 1,2 miliona metrów kwadratowych. (PAP Biznes)",
-      "date_published": "2026-08-18T09:57:00+02:00",
-      "source": "PAP Biznes"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/gospodarka/dzien-na-fxfi-mozliwe-przesuniecie-eurpln-w-kierunku-430-rentownosci-spw-w",
-      "url": "https://biznes.pap.pl/wiadomosci/gospodarka/dzien-na-fxfi-mozliwe-przesuniecie-eurpln-w-kierunku-430-rentownosci-spw-w",
-      "title": "DZIEŃ NA FX/FI: Możliwe przesunięcie EUR/PLN w kierunku 4,30, rentowności SPW w górę",
-      "content_html": "Przy pustym we wtorek krajowym kalendarzu makro uwagę uczestników rynku zwróci odczyt indeksu ZEW z Niemiec, a z USA produkcji przemysłowej, co może ważyć na notowaniach krajowych aktywów. Notowania złotego mogą przesunąć się w kierunku 4,30/EUR, a na rynku długu przeważają czynniki sprzyjające wzrostom rentowności.\n\nPrzy pustym we wtorek krajowym kalendarzu makro uwagę uczestników rynku zwróci sierpniowy odczyt indeksu ZEW z Niemiec, a z USA produkcji przemysłowej za lipiec, co może ważyć na notowaniach krajowych aktywów.\n\n\"Dalsza poprawa nastrojów niemieckich analityków i inwestorów instytucjonalnych, wpisująca się w pozytywny trend ostatnich miesięcy, mogłaby pośrednio sprzyjać polskim aktywom, w tym złotemu, ze względu na silne powiązania gospodarcze Polski i Niemiec. W USA opublikowane zostaną dane o produkcji przemysłowej. Słabszy od oczekiwań odczyt mógłby podtrzymać presję na dolara, wpisując się w serię rozczarowujących danych z ostatnich tygodni. W horyzoncie wtorkowej sesji widzimy zatem większą przestrzeń do spadku EUR/PLN w kierunku 4,30 oraz ponownego testu sierpniowych minimów w okolicach 3,7060 przez USD/PLN\" - oceniają stratedzy PKO BP.\n\nEkonomiści BGK w scenariuszu podstawowym zakładają na wtorek stabilizację walut regionu.\n\n\"Jednak, gdyby sytuacja na zagranicznych parkietach ulegała pogorszeniu wtedy presja na złotego może się zwiększyć i ruch w stronę 4,33 zł za euro byłby niewykluczony\" - dodali.\n\nEkonomiści Banku Millennium zwracają uwagę, że poranne wzrosty cen ropy i gazu (baryłka Brent drożeje powyżej 91,5 USD/b) przekładają się na dalszą wyprzedaż obligacji, co wywiera presję również na krajowe papiery skarbowe.\n\n\"Rano rentowność amerykańskiej 10-latki testowała poziom oporu 4,75 proc., stanowiący górne ograniczenie obowiązującego kanału konsolidacji. Niemiecka 10-latka jest notowana z rentownością 3,25 proc., czyli powyżej kluczowego poziomu oporu 3,22 proc. Wyprzedaż obligacji bazowych prawdopodobnie przełoży się na podobne ruchy na krajowych SPW. Rentowności polskich obligacji powinny wzrosnąć na otwarciu, a ryzyko przebicia przez rentowność polskiej 10-latki kluczowego poziomu oporu 5,93 proc. jest wysokie\" - napisano w poranny raporcie Millennium.\n\nW ocenie strategów PKO BP czynnikiem mogącym ciążyć SPW w najbliższych dniach będzie zapowiedziana przez MF podaż na środowej aukcji regularnej w wysokości 7–12 mld PLN.\n\nZ kolei ekonomiści Pekao uważają, że najbliższe dni raczej nie przyniosą ulgi krajowemu rynkowi obligacji.\n\n\"Wisi nad nim kwestia ratingu Polski (piątkowa decyzja Fitcha), niekorzystne trendy globalne i nowa podaż zaplanowana na środę. Należy więc spodziewać się wzrostów rentowności\" - napisali.\n\nO godz. 15.00 we wtorek BGK ogłosi podaż na czwartkowy przetarg sprzedaży obligacji FPC.",
-      "date_published": "2026-08-18T09:52:00+02:00",
       "source": "PAP Biznes"
     }
   ]
