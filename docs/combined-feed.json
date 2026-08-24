@@ -5,10 +5,74 @@
   "home_page_url": "https://www.bankier.pl",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/Jechal-70-km-h-w-miejscu-gdzie-obowiazywalo-30-Kierowca-z-zarzutem-po-tragedii-w-Krakowie-9186268.html",
+      "url": "https://www.bankier.pl/wiadomosc/Jechal-70-km-h-w-miejscu-gdzie-obowiazywalo-30-Kierowca-z-zarzutem-po-tragedii-w-Krakowie-9186268.html",
+      "title": "Jechał 70 km/h w miejscu, gdzie obowiązywało 30. Kierowca z zarzutem po tragedii w Krakowie",
+      "content_html": "Zarzut umyślnego spowodowania wypadku komunikacyjnego usłyszał kierowca podejrzany o śmiertelne potrącenie małżeństwa z dzieckiem - poinformowała w poniedziałek Prokuratura Okręgowa w Krakowie. 26-letni Hubert B. nie przyznał się do winy...",
+      "date_published": "2026-08-24T13:57:00+02:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Rosyjski-atak-na-blok-mieszkalny-Wsrod-14-rannych-dwoje-dzieci-9186259.html",
+      "url": "https://www.bankier.pl/wiadomosc/Rosyjski-atak-na-blok-mieszkalny-Wsrod-14-rannych-dwoje-dzieci-9186259.html",
+      "title": "Rosyjski atak na blok mieszkalny. Wśród 14 rannych dwoje dzieci",
+      "content_html": "Co najmniej 14 osób, w tym dwoje dzieci, zostało rannych w rosyjskim ataku na blok mieszkalny w Czernihowie, niecałe 130 km na północ od Kijowa, gdzie w poniedziałek trwają uroczystości Dnia Niepodległości Ukrainy z udziałem prezydentów i...",
+      "date_published": "2026-08-24T13:47:00+02:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/mBank-prognozuje-hamowanie-gospodarki-Wzrost-PKB-w-2027-r-ponizej-3-proc-9186252.html",
+      "url": "https://www.bankier.pl/wiadomosc/mBank-prognozuje-hamowanie-gospodarki-Wzrost-PKB-w-2027-r-ponizej-3-proc-9186252.html",
+      "title": "mBank prognozuje hamowanie gospodarki. Wzrost PKB w 2027 r. poniżej 3 proc.",
+      "content_html": "W ciągu kilku kolejnych kwartałów powinno nastąpić umiarkowane ochłodzenie wzrostu spożycia prywatnego; wzrost PKB w drugiej połowie 2027 r. powinien wynieść poniżej 3 proc. - ocenili w poniedziałek w komentarzu do danych GUS ekonomiści mBanku...",
+      "date_published": "2026-08-24T13:41:00+02:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Wielki-kontrakt-na-Pioruny-Polska-i-panstwa-NATO-wydadza-ok-8-mld-zl-9186251.html",
+      "url": "https://www.bankier.pl/wiadomosc/Wielki-kontrakt-na-Pioruny-Polska-i-panstwa-NATO-wydadza-ok-8-mld-zl-9186251.html",
+      "title": "Wielki kontrakt na Pioruny. Polska i państwa NATO wydadzą ok. 8 mld zł",
+      "content_html": "W zakładach w MESKO podpisano w poniedziałek umowę ramową dotyczącą dostawy kilku tysięcy przeciwlotniczych zestawów Piorun dla Wojska Polskiego, a także sił zbrojnych Litwy, Łotwy i Norwegii. Zakup ma zostać sfinansowany ze środków z SAFE...",
+      "date_published": "2026-08-24T13:40:00+02:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Oszustwo-przy-dostawach-dla-wojska-CBA-zatrzymalo-2-przedsiebiorcow-9186245.html",
+      "url": "https://www.bankier.pl/wiadomosc/Oszustwo-przy-dostawach-dla-wojska-CBA-zatrzymalo-2-przedsiebiorcow-9186245.html",
+      "title": "Oszustwo przy dostawach dla wojska? CBA zatrzymało 2 przedsiębiorców",
+      "content_html": "Dwaj przedsiębiorcy z Wielkopolski i woj. kujawsko-pomorskiego odpowiedzą za oszustwo przy realizacji wartych 20 mln zł dostaw dla wojska. Podejrzani zataili niezgodność dostarczonego sprzętu ze specyfikacją przetargową - podała w poniedziałek...",
+      "date_published": "2026-08-24T13:34:00+02:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Komisja-Europejska-zatwierdzila-przejecie-wspolnej-kontroli-nad-Nexera-Holding-przez-Orange-i-APG-9186239.html",
+      "url": "https://www.bankier.pl/wiadomosc/Komisja-Europejska-zatwierdzila-przejecie-wspolnej-kontroli-nad-Nexera-Holding-przez-Orange-i-APG-9186239.html",
+      "title": "Komisja Europejska zatwierdziła przejęcie wspólnej kontroli nad Nexera Holding przez Orange i APG",
+      "content_html": "Komisja Europejska zatwierdziła przejęcie wspólnej kontroli nad Nexera Holding przez Orange i APG - podała KE w komunikacie. W grudniu 2025 r. podano, że Orange Polska wraz z APG, w imieniu funduszu emertytalnego ABP, zawarły umowę wstępną nabycia...",
+      "date_published": "2026-08-24T13:24:00+02:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Trump-skraca-jedne-manewry-inne-odwolano-USA-maja-problem-z-wojna-z-Iranem-9186237.html",
+      "url": "https://www.bankier.pl/wiadomosc/Trump-skraca-jedne-manewry-inne-odwolano-USA-maja-problem-z-wojna-z-Iranem-9186237.html",
+      "title": "Trump skraca jedne manewry, inne odwołano. USA mają problem z wojną z Iranem",
+      "content_html": "USA odwołały planowane na wrzesień wspólne ćwiczenia desantowe z Koreą Płd. z powodu braków kadrowych wywołanych trwającą wojną z Iranem – przekazała w poniedziałek południowokoreańska armia. W ubiegłym tygodniu decyzją prezydenta...",
+      "date_published": "2026-08-24T13:21:00+02:00",
+      "source": "Bankier.pl"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Ceny-paliw-znow-w-gore-ME-publikuje-nowe-stawki-na-wtorek-9186229.html",
       "url": "https://www.bankier.pl/wiadomosc/Ceny-paliw-znow-w-gore-ME-publikuje-nowe-stawki-na-wtorek-9186229.html",
       "title": "Ceny paliw znów w górę. ME publikuje nowe stawki na wtorek",
       "content_html": "Maksymalna cena dla benzyny Pb95 wynosi 6,57 zł/l, dla benzyny Pb98 to 7,40 zł/l, a dla oleju napędowego 7,61 zł/l - poinformował Minister Energii w obwieszczeniu. Ceny te będą obowiązywały we wtorek, 25 sierpnia.",
+      "date_published": "2026-08-24T13:19:00+02:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/ING-podal-prognoze-PKB-Sprzedaz-detaliczna-w-gore-ale-konsumpcja-zwalnia-9186235.html",
+      "url": "https://www.bankier.pl/wiadomosc/ING-podal-prognoze-PKB-Sprzedaz-detaliczna-w-gore-ale-konsumpcja-zwalnia-9186235.html",
+      "title": "ING podał prognozę PKB. Sprzedaż detaliczna w górę, ale konsumpcja zwalnia",
+      "content_html": "Wzrost konsumpcji w 2026 r. będzie mniej dynamiczny niż w ub.r., z uwagi na dalsze hamowanie tempa wzrostu płac i droższe paliwa - ocenili w poniedziałek w komentarzu do danych GUS ekonomiści ING. Podtrzymali też prognozę wzrostu PKB w br. na...",
       "date_published": "2026-08-24T13:19:00+02:00",
       "source": "Bankier.pl"
     },
@@ -93,14 +157,6 @@
       "source": "Bankier.pl"
     },
     {
-      "id": "https://www.bankier.pl/wiadomosc/Komisja-Europejska-zatwierdzila-przejecie-wspolnej-kontroli-nad-Nexera-Holding-przez-Orange-i-APG-9186239.html",
-      "url": "https://www.bankier.pl/wiadomosc/Komisja-Europejska-zatwierdzila-przejecie-wspolnej-kontroli-nad-Nexera-Holding-przez-Orange-i-APG-9186239.html",
-      "title": "Komisja Europejska zatwierdziła przejęcie wspólnej kontroli nad Nexera Holding przez Orange i APG Komisja Europejska zatwierdziła przejęcie wspólnej kontroli nad Nexera Holding przez Orange i APG - podała KE w komunikacie. W grudniu 2025 r. podano, że Orange Polska wraz z APG, w imieniu funduszu emertytalnego ABP, zawarły umowę wstępną nabycia spółki Nexera Holding, hurtowego operatora internetu światłowodowego w Polsce.",
-      "content_html": "",
-      "date_published": "2026-08-24T12:24:00+02:00",
-      "source": "Bankier.pl"
-    },
-    {
       "id": "https://www.bankier.pl/wiadomosc/Ukraina-swietuje-niepodleglosc-Lukaszenka-zyczy-jej-pokoju-i-szczescia-9186197.html",
       "url": "https://www.bankier.pl/wiadomosc/Ukraina-swietuje-niepodleglosc-Lukaszenka-zyczy-jej-pokoju-i-szczescia-9186197.html",
       "title": "Ukraina świętuje niepodległość. Łukaszenka życzy jej \"pokoju i szczęścia\"",
@@ -125,14 +181,6 @@
       "source": "Bankier.pl"
     },
     {
-      "id": "https://biznes.pap.pl/wiadomosci/firmy/komisja-europejska-zatwierdzila-przejecie-wspolnej-kontroli-nad-nexera-holding",
-      "url": "https://biznes.pap.pl/wiadomosci/firmy/komisja-europejska-zatwierdzila-przejecie-wspolnej-kontroli-nad-nexera-holding",
-      "title": "Komisja Europejska zatwierdziła przejęcie wspólnej kontroli nad Nexera Holding przez Orange i APG",
-      "content_html": "Komisja Europejska zatwierdziła przejęcie wspólnej kontroli nad Nexera Holding przez Orange i APG - podała KE w komunikacie. W grudniu 2025 r. podano, że Orange Polska wraz z APG, w imieniu funduszu emertytalnego ABP, zawarły umowę wstępną nabycia spółki Nexera Holding, hurtowego operatora internetu światłowodowego w Polsce.\n\nJak podano, transakcja dotyczy przede wszystkim sektora telekomunikacyjnego w Polsce, w szczególności świadczenia hurtowych usług dostępu szerokopasmowego.\n\nKomisja uznała, że zgłoszona transakcja nie wzbudza zastrzeżeń dotyczących konkurencji, ze względu na jej ograniczony wpływ na konkurencję na rynkach, na których działają przedsiębiorstwa.\n\n\"W szczególności powstały w wyniku transakcji podmiot nadal będzie mierzył się z konkurencją ze strony innych operatorów hurtowego dostępu szerokopasmowego, w tym Fiberhost, PSO, Vectra i Tauron. Działalność obu stron transakcji jest komplementarna, a jej geograficzne nakładanie się jest ograniczone\" - napisano.\n\nUmowa wstępna przewidywała wspólne nabycie Nexery przez Orange Polska i APG. Nexera będzie podmiotem wspólnie kontrolowanym, w którym Orange Polska i APG posiadają po 50 proc. udziałów, podobnie jak w przypadku Światłowodu Inwestycje. W kolejnym kroku, partnerzy wniosą Nexerę do spółki Światłowód Inwestycje.\n\nWartość przedsiębiorstwa (Enterprise Value) w tej transakcji wynosiła 1,5 mld zł, z czego ok. 1,0 mld zł stanowi zadłużenie bankowe.\n\nSpółka poinformowała, że transakcja spowoduje zwiększenie zasięgu Światłowód Inwestycje o 800 tys. gospodarstw domowych oraz wygeneruje synergie operacyjne. (PAP Biznes)",
-      "date_published": "2026-08-24T12:22:00+02:00",
-      "source": "PAP Biznes"
-    },
-    {
       "id": "https://www.bankier.pl/wiadomosc/Trudny-wybor-Ottawy-niekorzystna-umowa-z-USA-albo-bolesna-wojna-celna-9186184.html",
       "url": "https://www.bankier.pl/wiadomosc/Trudny-wybor-Ottawy-niekorzystna-umowa-z-USA-albo-bolesna-wojna-celna-9186184.html",
       "title": "Trudny wybór Ottawy: niekorzystna umowa z USA albo bolesna wojna celna",
@@ -141,44 +189,12 @@
       "source": "Bankier.pl"
     },
     {
-      "id": "https://biznes.pap.pl/wiadomosci/firmy/cena-maksymalna-na-25-viii-dla-benzyny-pb95-wynosi-657-zll-dla-761-zll",
-      "url": "https://biznes.pap.pl/wiadomosci/firmy/cena-maksymalna-na-25-viii-dla-benzyny-pb95-wynosi-657-zll-dla-761-zll",
-      "title": "Cena maksymalna na 25 VIII dla benzyny Pb95 wynosi 6,57 zł/l, a dla ON 7,61 zł/l",
-      "content_html": "Maksymalna cena dla benzyny Pb95 wynosi 6,57 zł/l, dla benzyny Pb98 to 7,40 zł/l, a dla oleju napędowego 7,61 zł/l - poinformował Minister Energii w obwieszczeniu. Ceny te będą obowiązywały we wtorek, 25 sierpnia.\n\nW poniedziałek, 24 sierpnia, cena maksymalna benzyny Pb95 6,54 zł/l, dla benzyny Pb98 to 7,36 zł/l, a dla oleju napędowego 7,59 zł/l.\n\nRząd zdecydował o częściowym przywróceniu tzw. pakietu \"Ceny Paliw Niżej\", tj. obniżeniu stawki VAT na paliwa z 23 proc. do 8 proc. i wprowadzeniu ceny maksymalnej w dniach 17-31 sierpnia. (PAP Biznes)",
-      "date_published": "2026-08-24T12:05:00+02:00",
-      "source": "PAP Biznes"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/firmy/sprzedaz-miedzi-przez-grupe-kghm-wyniosla-w-lipcu-589-tys-ton-i-byla-wyzsza-o-4",
-      "url": "https://biznes.pap.pl/wiadomosci/firmy/sprzedaz-miedzi-przez-grupe-kghm-wyniosla-w-lipcu-589-tys-ton-i-byla-wyzsza-o-4",
-      "title": "Sprzedaż miedzi przez grupę KGHM wyniosła w lipcu 58,9 tys. ton i była wyższa o 4 proc. rdr",
-      "content_html": "Sprzedaż miedzi przez grupę KGHM wyniosła w lipcu 58,9 tys. ton i była wyższa o 4 proc. rdr. Produkcja miedzi płatnej KGHM wyniosła w lipcu 60,0 tys. ton i była na poziomie nieznacznie wyższym od produkcji w lipcu 2025 r. - podała grupa w komunikacie dotyczącym wstępnych wyników produkcyjnych i sprzedażowych.\n\nKGHM podał, że wzrost sprzedaży miedzi odnotowano w KGHM Polska Miedź S.A. i w Sierra Gorda S.C.M., spadek natomiast w KGHM INTERNATIONAL.\n\nSprzedaż srebra wyniosła 101,7 tony i była wyższa o 3,0 tony (+3 proc.) w porównaniu do analogicznego okresu 2025 roku. Podobnie jak w przypadku sprzedaży miedzi, wzrost sprzedaży srebra odnotowano w KGHM Polska Miedź S.A. i w Sierra Gorda S.C.M., spadek natomiast w KGHM INTERNATIONAL.\n\nSprzedaż TPM wyniosła 11,8 tys. troz i była wyższa o 4,6 tys. troz (+64 proc.) względem sprzedaży zrealizowanej w lipcu 2025 roku. Wyższy poziom sprzedaży TPM został odnotowany w KGHM Polska Miedź S.A. i w Sierra Gorda S.C.M., niższy natomiast w KGHM INTERNATIONAL.\n\nSprzedaż molibdenu wyniosła 0,2 mln funtów i była niższa o 0,2 mln funtów (-50 proc.) od sprzedaży odnotowanej w lipcu ubiegłego roku.\n\nProdukcja srebra płatnego wyniosła 129,1 tony i była niższa o -1,3 tony (-1 proc.) w porównaniu do produkcji w lipcu 2025 roku.\n\nProdukcja TPM wyniosła 12,2 tys. troz, co oznacza poziom niższy o 1,3 tys. troz (-10 proc.) w porównaniu do produkcji rok wcześniej. Spadek dotyczy segmentów zagranicznych.\n\nProdukcja molibdenu wyniosła 0,2 mln funtów i była niższa o 0,5 mln funtów (-71 proc.) w porównaniu do produkcji w lipcu 2025 roku.\n\n\"Po 7 miesiącach 2026 roku produkcja miedzi kształtowała się 1 proc. poniżej budżetu grupy KGHM głównie ze względu na niewykonanie planu w KGHM INTERNATIONAL. spowodowane przerobem rudy o niższych niż zakładano parametrach jakościowych. Natomiast plan produkcji srebra i złota został zrealizowany z nadwyżką\" - napisano. (PAP Biznes)",
-      "date_published": "2026-08-24T12:03:00+02:00",
-      "source": "PAP Biznes"
-    },
-    {
       "id": "https://www.bankier.pl/wiadomosc/Wyslannicy-Trumpa-znow-przelozyli-wizyte-w-Ukrainie-Powodem-rosyjskie-ataki-9186183.html",
       "url": "https://www.bankier.pl/wiadomosc/Wyslannicy-Trumpa-znow-przelozyli-wizyte-w-Ukrainie-Powodem-rosyjskie-ataki-9186183.html",
       "title": "Wysłannicy Trumpa znów przełożyli wizytę w Ukrainie. Powodem rosyjskie ataki",
       "content_html": "Zapowiadana wizyta w Ukrainie Steve’a Witkoffa i Jareda Kushnera, specjalnych wysłanników prezydenta USA Donalda Trumpa, ponownie została przełożona w związku z nasileniem rosyjskich ataków na Kijów – doniósł w sobotę portal RBK-Ukraina...",
       "date_published": "2026-08-24T12:00:00+02:00",
       "source": "Bankier.pl"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/gospodarka/tygodniowy-przeglad-z-regionu-polityka-i-gospodarka-17-23-sierpnia",
-      "url": "https://biznes.pap.pl/wiadomosci/gospodarka/tygodniowy-przeglad-z-regionu-polityka-i-gospodarka-17-23-sierpnia",
-      "title": "TYGODNIOWY PRZEGLĄD Z REGIONU: Polityka i gospodarka, 17-23 sierpnia",
-      "content_html": "Poniżej przedstawiamy przegląd wiadomości politycznych i makroekonomicznych z Europy Środkowo-Wschodniej oraz Grecji i Turcji z 17-23 sierpnia 2026 roku.\n\nTEMAT TYGODNIA: PROGNOZY ERSTE DLA REGIONU CEE\n\nWzrost PKB w pierwszej połowie 2026 r. okazał się stosunkowo solidny w większości krajów regionu Europy Środkowo-Wschodniej - ocenia Erste Group. Bank sygnalizuje możliwość podwyższenia prognoz na 2026 r. dla Słowenii i Serbii, natomiast ryzyko niższego od oczekiwanego wyniku dostrzega na Słowacji i w Rumunii.\n\n\"Pierwsze półrocze okazało się stosunkowo solidne w większości regionu. Wzrost PKB w drugim kwartale 2026 r. przyspieszył w Polsce, Serbii i Słowenii. Słowenia uzyskała najwyższy wynik z wzrostem w wysokości 5 proc. w drugim kwartale\" - napisano w raporcie \"CEE Growth Navigator\".\n\nW Rumunii skala spadku PKB w drugim kwartale była mniejsza w porównaniu z pierwszym kwartałem. W sumie w pierwszym półroczu spadek PKB wyniósł 0,8 proc. rdr.\n\n\"Konsumpcja gospodarstw domowych powinna wykazać pewne oznaki odbicia w drugim półroczu, wspierając całoroczny wynik wzrostu. Aktywność inwestycyjna powinna pozostać silna i prawdopodobnie będzie ona głównym silnikiem wzrostu w 2026 r.\" - napisano.\n\nWskazano też, że aktywność gospodarcza w Czechach i na Węgrzech w drugim kwartale utrzymała tempo z początku roku, natomiast na Słowacji drugi kwartał przyniósł lekkie rozczarowanie.\n\n\"Słowacką gospodarkę nadal obciążają rozwiązania fiskalne wprowadzone w ciągu ostatnich dwóch lat. Konsolidacja fiskalna w znacznym stopniu zasadzała się na stronie dochodowej i wydaje się, że wyższe podatki ciążą aktywności gospodarczej\" - napisało Erste.\n\nBank podwyższył prognozę wzrostu PKB na 2026 r. dla Węgier do 1,7 proc.\n\n\"W Serbii i Słowenii ryzyka także są przechylone w kierunku wyższego wzrostu, biorąc pod uwagę mocne wyniki pierwszej polowy roku. W innych krajach CEE przeważnie utrzymujemy nasze prognozy bez zmian. Tylko na Słowacji i w Rumunii widzimy ryzyko obniżenia naszych obecnych całorocznych oczekiwań\" - dodali ekonomiści.\n\nPoniżej prognozy wzrostu PKB (w proc.) dla poszczególnych krajów regionu\n\nW porównaniu do poprzedniej edycji raportu \"Growth Navigator\", Erste Group obniżył prognozy średniorocznej inflacji na 2026 r. w przypadku Czech, Węgier, Serbii i Słowacji.\n\n\"W Serbii prawdopodobna jest dalsza rewizja prognozy w dół. W Rumunii oczekiwana jest szybka dezinflacja na przestrzeni drugiej połowy roku. Ostatnie wydarzenia dotyczące cen surowców nadal stanowią ryzyko skierowane w górę dla prognoz inflacji\" - napisano w raporcie.\n\nPoniżej inflacji konsumenckiej (w proc.) dla poszczególnych krajów regionu\n\nJednocześnie bank zwraca uwagę, że w regionie CEE widoczne są pewne rozbieżności co do kierunku polityki pieniężnej.\n\nEkonomiści oczekują stabilizacji stóp procentowych w Polsce i Serbii. Dodali, że w Serbii oczekiwana rewizja w dół inflacji może otworzyć drogę do obniżek w pierwszej połowie 2027 r.\n\n\"Rumunia może rozpocząć dyskusję o poluzowaniu polityki pieniężnej, gdy inflacja obniży się poniżej poziomu głównej stopy. W horyzoncie długoterminowym spodziewamy się kontynuacji poluzowania monetarnego na Węgrzech, odwrócenia podwyżki stóp w Czechach oraz obniżek stóp w Rumunii, gdy inflacja wyraźnie spadnie\" - napisano w raporcie Erste. (źródło: PAP Biznes, 18.08)\n\n* Wydatki publiczne na edukację (od poziomu przedszkolnego do szkolnictwa wyższego) w UE stanowiły 4,7 proc. jej PKB W 2023 r. Spośród krajów UE najwyższy poziom wydatków publicznych na edukację w stosunku do PKB odnotowano w Szwecji (6,8 proc.), a następnie w Finlandii (6,3 proc.) i Belgii (6,2 proc.). Najniższe poziomy odnotowano w Rumunii (3 proc.), Grecji (3,3 proc.) i na Malcie (3,4 proc.).\n\nPoniżej wydatki publiczne na edukację w relacji do PKB (w proc.) dla poszczególnych krajów regionu\n\n* Najniższe wskaźniki roczne inflacji HICP w lipcu odnotowano w Szwecji (0,3 proc.), w Czechach (1,3 proc.) oraz w Danii i na Węgrzech (po 1,6 proc.). Najwyższe wskaźniki roczne odnotowano w R",
-      "date_published": "2026-08-24T12:00:00+02:00",
-      "source": "PAP Biznes"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/rynki/tygodniowy-przeglad-z-regionu-biznes-i-rynki-17-23-sierpnia",
-      "url": "https://biznes.pap.pl/wiadomosci/rynki/tygodniowy-przeglad-z-regionu-biznes-i-rynki-17-23-sierpnia",
-      "title": "TYGODNIOWY PRZEGLĄD Z REGIONU: Biznes i Rynki, 17-23 sierpnia",
-      "content_html": "Poniżej przedstawiamy przegląd wiadomości o spółkach, sektorach gospodarki i rynkach finansowych Europy Środkowo-Wschodniej oraz Grecji i Turcji z okresu 17-23 sierpnia 2026 roku.\n\nTEMAT TYGODNIA: RUMUŃSKA GIEŁDA ROŚNIE POMIMO NIEPEWNOŚCI POLITYCZNEJ\n\n\"Od początku maja Rumunia jest rządzona przez rząd tymczasowy, po tym jak Partia Socjaldemokratyczna wraz z partią opozycyjną z powodzeniem zgłosiła wniosek o wotum nieufności, doprowadzając w ten sposób do upadku rumuńskiego rządu. Kolejne próby utworzenia rządu zakończyły się niepowodzeniem i na razie nie jest jasne, w jaki sposób kryzys rządowy może zostać rozwiązany. Pomimo niepewności politycznej rumuński rynek akcji osiąga w tym roku bardzo dobre wyniki; indeks BET jest obecnie piątym najlepiej radzącym sobie indeksem giełdowym na świecie\" - napisał OTP Bank.\n\nBank ocenia, że rumuński rynek akcji odnotował w 2025 r. bardzo dobry wynik, zyskując około 45 proc., a hossa na rumuńskiej giełdzie trwa również w 2026 r.\n\n\"Od początku tego roku indeks BET zyskał więcej niż łącznie w całym 2025 roku. Pomimo niepewności politycznej w kraju lokalny indeks giełdowy wzrósł dotychczas w tym roku o 47 proc. (stan na 17 sierpnia), co sprawia, że indeks BET jest obecnie piątym najlepiej radzącym sobie indeksem giełdowym na świecie (na podstawie wyników indeksów mierzonych w ich lokalnych walutach)\" - napisali analitycy.\n\nTrzy największe spółki notowane na giełdzie w Bukareszcie - Banca Transilvania, OMV Petrom i Romgaz - odpowiadają łącznie za prawie 50 proc. indeksu BET.\n\n\"Wszystkie trzy spółki osiągnęły dotychczas w tym roku bardzo dobre wyniki: Romgaz odnotował najlepszy wynik w tym roku, osiągając wzrost o 90 proc. Patrząc w przyszłość, oczekuje się, że przychody i zysk na akcję (EPS) Romgaz wzrosną w tym roku o jednocyfrowe wartości procentowe, podczas gdy konsensus prognozuje obecnie dwucyfrowy wzrost obu wskaźników w przyszłym roku\" - napisał OTP Bank.\n\nDodał, że w przypadku spółki o drugim najlepszym wyniku, Banca Transilvania (+41 proc.), konsensus przewiduje wzrost przychodów o prawie 9 proc. w tym roku, przy jednoczesnym spadku zysku na akcję o około 5 proc. Jeśli chodzi o spółkę zajmującą trzecie miejsce pod względem wyników w indeksie od początku roku, OMV Petrom (+29 proc.), uczestnicy rynku spodziewają się w tym roku wzrostu przychodów o około 15 proc. oraz wzrostu zysku na akcję o ponad 80 proc., podczas gdy analitycy przewidują spadek przychodów o około 8 proc. przy wzroście zysku na akcję o prawie 15 proc. w 2027 r.\n\n\"Oprócz znacznego udziału sektorów energetycznego i bankowego w rumuńskim indeksie giełdowym, indeks ten zapewnia bezpośrednią ekspozycję na projekt gazowy Neptun Deep poprzez takie spółki jak OMV Petrom, Romgaz i Transgaz. Oczekuje się, że spółki te skorzystają na rozruchu projektu wydobycia gazu ziemnego na morzu Neptun Deep, który ma się rozpocząć w przyszłym roku\" - napisano też w raporcie.\n\nEksperci banku dodali, że jeśli chodzi o wycenę, wskaźnik P/E rumuńskiego rynku akcji na przyszłość, wynoszący 14,6, jest wyższy od historycznej średniej indeksu oraz od wskaźnika MSCI Emerging Mark.\n\nW materiale przypomniano, że według lidera socjaldemokratów szanse na utworzenie rządu mogą wzrosnąć po letniej przerwie parlamentarnej, choć przyznał on również, że obecnie nie dysponuje się niezbędną liczbą głosów posłów, aby zapewnić zatwierdzenie kolejnego gabinetu.\n\n\"Jeśli jesienią uda się utworzyć rząd, a Rumunia uniknie przedterminowych wyborów, uczestnicy rynku będą mogli ponownie skupić się na czynnikach fundamentalnych. Jeśli jednak niepewność polityczna w kraju ulegnie dalszemu nasileniu, może to rzucić cień na przyszłe wyniki rumuńskiego rynku akcji\" - napisał OTP Bank. (źródło: OTP Bank, 18.08)\n\n* Słowacja planuje we wrześniu wykupić należące do CEZ-u udziały w słowackiej spółce Jadrova energeticka spolocnost Slovenska (JESS), która przygotowuje się do budowy nowej elektrowni jądrowej w tym kraju - poinformował słowacki premier Robert Fico. Fico skrytykował p",
-      "date_published": "2026-08-24T12:00:00+02:00",
-      "source": "PAP Biznes"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Ponad-200-tys-zl-na-dziecko-Ten-kraj-idzie-na-wojne-z-kryzysem-demograficznym-9186112.html",
@@ -349,6 +365,38 @@
       "source": "Bankier.pl"
     },
     {
+      "id": "https://biznes.pap.pl/wiadomosci/gospodarka/konsolidacja-fiskalna-przede-wszystkim-powinna-byc-po-stronie-wydatkowej",
+      "url": "https://biznes.pap.pl/wiadomosci/gospodarka/konsolidacja-fiskalna-przede-wszystkim-powinna-byc-po-stronie-wydatkowej",
+      "title": "Konsolidacja fiskalna przede wszystkim powinna być po stronie wydatkowej - Kotecki, RPP",
+      "content_html": "Konsolidacja finansów publicznych przede wszystkim powinna się odbywać po stronie wydatkowej, gdy Polska jest w europejskiej czołówce jeżeli chodzi o wysokość wydatków budżetowych w relacji do PKB - ocenił członek RPP Ludwik Kotecki w radiu TOK FM.\n\n\"Czekam na projekt budżetu, dlatego że konsolidacja finansów publicznych przede wszystkim powinno się odbywać po stronie wydatkowej. Na razie dostaliśmy pierwszą \"zajawkę\" tego co w tym budżecie się znajdzie, czyli właśnie propozycje podatkowe. Natomiast ja czekam na stronę wydatkową, bo ta przede wszystkim powinna podlegać zmianom, bo wydatków w Polsce jest po prostu bardzo, bardzo dużo. Jesteśmy w czołówce europejskiej, jeżeli chodzi o wydatki w finansach publicznych - chodzi o ich wysokość w relacji do PKB\" - powiedział Kotecki.\n\n\"Na pewno system podatkowy, szczególnie PIT (...) wymagałby dużo głębszej zmiany. Natomiast politycznej przestrzeni na to chyba w roku wyborczym nie ma i w związku z tym Andrzej Domański, Ministerstwo Finansów i rząd zaproponowali to, co zaproponowali. Należy pochwalić moim zdaniem rząd za to, że tego rodzaju działanie jest kompensowane przez inne zmiany w systemie podatkowym szeroko rozumianym\" - dodał. (PAP Biznes)",
+      "date_published": "2026-08-24T10:00:00+02:00",
+      "source": "PAP Biznes"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/konsument/konsumenci-dosyc-spokojnie-reaguja-na-szok-paliwowy-co-stabilizuje-wzrost-pkb",
+      "url": "https://biznes.pap.pl/wiadomosci/konsument/konsumenci-dosyc-spokojnie-reaguja-na-szok-paliwowy-co-stabilizuje-wzrost-pkb",
+      "title": "Konsumenci dosyć spokojnie reagują na szok paliwowy, co stabilizuje wzrost PKB (opinia)",
+      "content_html": "Dane o sprzedaży detalicznej za lipiec było nieco słabsze od oczekiwań analityków. W komentarzach po danych ekonomiści wskazują, że konsumenci dosyć spokojnie reagują na szok paliwowy, co stabilizuje wzrost PKB.\n\n\"W lipcu sprzedaż detaliczna wzrosła o 3,9 proc. rdr. Pomimo droższych paliw, niewielkie tylko spowolnienie sprzedaży dóbr trwałego użytku (auta, meble, RTV i AGD). Konsumenci dosyć spokojnie reagują na szok paliwowy, co stabilizuje wzrost PKB\".\n\n\"Sprzedaż detaliczna wyhamowała w lipcu o przeszło 2 pkt. proc., do 3,9 proc. rdr. Co w środku? Przede wszystkim efekt wygasania pakietu CPN (tankowanie pod korek w czerwcu, brak takowego w lipcu), niezła sprzedaż dóbr trwałych, słaba sprzedaż odzieży i obuwia (kiepska pogoda). Werdykt: u konsumentów stabilnie\".\n\n\"Lipcowa sprzedaż detaliczna wzrosła o 3,9 proc. rdr (kons. 4,2 proc. rdr). W ujęciu mdm rzuca się w oczy przede wszystkim słabsza sprzedaż paliw, co można bezpośrednio wiązać z końcem programu CPN. Słabszy wynik odnotowaliśmy też w przypadku odzieży i książek.\n\nWarto dodać, że z pozoru słabszy wynik sprzedaży dóbr trwałych (meble, AGD, RTV) to bardziej efekt wyjątkowo mocnego lipca 2025 r. Ogólnie rzecz biorąc indeks sprzedaży w dalszym ciągu utrzymuje się w pobliżu swoich lokalnych szczytów\".\n\nSprzedaż detaliczna w cenach stałych w lipcu 2026 r. wzrosła o 3,9 proc. w ujęciu rocznym, a w ujęciu miesięcznym wzrosła o 2,2 proc. - podał Główny Urząd Statystyczny.\n\nKonsensus przygotowany przez PAP Biznes wskazywał na wzrost sprzedaży detalicznej w cenach stałych rdr o 4,2 proc. i wzrost o 2,4 proc. w ujęciu mdm.\n\nSprzedaż detaliczna w cenach bieżących w ubiegłym miesiącu wzrosła o 5,3 proc. rdr. Tu ekonomiści spodziewali się wzrostu o 5,1 proc. rdr. (PAP Biznes)",
+      "date_published": "2026-08-24T09:56:00+02:00",
+      "source": "PAP Biznes"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/rynki/gaz-w-europie-nieco-tanszy-ale-drozal-w-trakcie-handlu-w-azji",
+      "url": "https://biznes.pap.pl/wiadomosci/rynki/gaz-w-europie-nieco-tanszy-ale-drozal-w-trakcie-handlu-w-azji",
+      "title": "Gaz w Europie nieco tańszy, ale drożał w trakcie handlu w Azji",
+      "content_html": "Ceny gazu w Europie nieznacznie spadają po zwyżkach podczas handlu w Azji. Na rynkach utrzymuje się niepewność w związku z wojną na Bliskim Wschodzie i koniecznością zwiększania zapasów gazu przed sezonem zimowym - informują maklerzy.\n\nBenchmarkowe kontrakty na gaz w Amsterdamie (ICE Entawex Dutch TTF) nieznacznie tracą i są po 65,83 euro za MWh, podczas gdy w trakcie poniedziałkowego handlu w Azji paliwo drożało.\n\nW ub. tygodniu gaz zyskał w Europie 7 proc.\n\nInwestorzy oceniają sytuację po tym, jak import skroplonego gazu ziemnego do Europy Zachodniej odbił się do dwumiesięcznego maksimum, ale wolumeny pozostają znacznie poniżej szczytów, a na rynkach nadal są obawy dotyczące wyjątkowo niskiego poziomu magazynowania gazu, szczególnie w europejskich magazynach.\n\nEuropa Zachodnia zwiększyła import LNG do 1,7 miliona ton w tygodniu zakończonym 21 sierpnia - według danych śledzenia statków zebranych przez agencję Bloomberg.\n\nTo wzrost o 15 proc. w porównaniu z tygodniem wcześniej, i najwyższy poziom od czerwca.\n\nWielu traderów na rynkach gazu stosuje jednak obecnie podejście \"Czekaj i obserwuj\", licząc na większą jasność co do amerykańskiego planu izolacji gospodarczej Iranu, który zostanie zaprezentowany w poniedziałek.\n\nSekretarz skarbu USA Scott Bessent ma podać szczegóły tego planu na poniedziałkowej konferencji prasowej.\n\nBessent stara się też zwiększyć presję na sojuszników USA, aby przyłączyli się do tego przedsięwzięcia.\n\nNa rynkach są obawy, że dodatkowa presja USA na Iran mogłaby skłonić ten kraj do odwetu i militarnego uderzenia w Zatoce Perskiej, w tym na infrastrukturę energetyczną.\n\nTymczasem ciągłe zakłócenia w ruchu transportowym w cieśninie Ormuz zagrażają wysiłkom Europy na rzecz odbudowy jej zapasów gazu na około dwa miesiące przed rozpoczęciem sezonu grzewczego.\n\nZapasy gazu ziemnego w magazynach UE wynoszą 61,7 proc. wobec średniej 5-letniej na tę porę wynoszącej 80,0 proc. W magazynach znajduje się obecnie 697,15 TWh gazu - wynika z wyliczeń firmy Gas Infrastructure Europe.\n\nW Polsce w magazynach gazu jest 33,20 TWh tego paliwa, a ich zapełnienie wynosi 90,1 proc. wobec sezonowej średniej 5-letniej wynoszącej 92,7 proc.\n\nNa rynkach pojawiają się tymczasem oznaki, że wyższe ceny gazu mogą sprzyjać pozyskaniu nowych ładunków LNG.\n\nAnalitycy Goldman Sachs Group Inc. oceniają, że w grudniu ceny gazu LNG \"mogą być zmuszone\" do przekroczenia 100 euro za MWh, co ograniczyłoby popyt na gaz ze strony konkurencyjnych azjatyckich nabywców.\n\nTo - zdaniem ekspertów z Goldman Sachs - pozwoliłoby na uzupełnienie wyczerpanych mocno europejskich zapasów LNG.\n\n\"Ceny gazu w Amsterdamie TTF musiałyby wzrosnąć, aby osłabić popyt na LNG w Azji, co umożliwiłoby zwiększenia ładunków LNG dla Europy\" - napisały w rynkowej nocie analityczki Goldman Sachs - Samantha Dart i Laura Cyr.\n\nNa razie Goldman Sachs twierdzi, że magazyny gazu w Europie zapełniają się w niewystarczającym tempie. (PAP Biznes)",
+      "date_published": "2026-08-24T09:52:00+02:00",
+      "source": "PAP Biznes"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/gospodarka/wynik-finansowy-netto-przedsiebiorstw-w-i-polroczu-wzrosl-do-1332-mld-zl-gus",
+      "url": "https://biznes.pap.pl/wiadomosci/gospodarka/wynik-finansowy-netto-przedsiebiorstw-w-i-polroczu-wzrosl-do-1332-mld-zl-gus",
+      "title": "Wynik finansowy netto przedsiębiorstw w I półroczu wzrósł do 133,2 mld zł - GUS",
+      "content_html": "Wynik finansowy netto przedsiębiorstw w I półroczu wzrósł do 133,2 mld zł, o 30,6 proc. rdr - podał w poniedziałek GUS.\n\nZysk netto wyniósł 165,2 mld zł i był wyższy o 28,7 mld zł (o 21,0 proc.) od uzyskanego w I półroczu 2025 r., a strata netto – 32,0 mld zł i była niższa o 2,6 mld zł w skali roku.\n\nZysk netto wykazało 73,0 proc. ogółu przedsiębiorstw (wobec 71,2 proc. rok wcześniej), a uzyskane przez nie przychody stanowiły 81,3 proc. przychodów ogółem badanych przedsiębiorstw (wobec 79,1 proc. przed rokiem).\n\nPrzychody ogółem były wyższe o 7,1 proc. od wartości przychodów osiągniętych rok wcześniej (2 750,5 mld zł w I półroczu 2026 r., 2 569,2 mld zł przed rokiem), a koszty ich uzyskania wzrosły o 5,9 proc. (z 2 444,6 mld zł do 2 589,7 mld zł).\n\nWskaźnik poziomu kosztów był korzystniejszy niż rok wcześniej (94,2 proc. w I półroczu 2026 r., 95,2 proc. przed rokiem).\n\nPoprawił się również wskaźnik rentowności sprzedaży brutto (5,2 proc. w I półroczu 2026 r., wobec 4,5 proc. przed rokiem) oraz wskaźnik rentowności obrotu brutto (5,8 proc., wobec 4,8 proc. przed rokiem).\n\nPrzychody netto ze sprzedaży produktów i towarów wzrosły o 6,9 proc., a koszty tej działalności o 6,0 proc.\n\nWskaźnik płynności finansowej I stopnia zmniejszył się do 43,0 proc. (wobec 44,5 proc. w I półroczu 2025 r.), a wskaźnik płynności finansowej II stopnia wyniósł 106,1 proc. (wobec 106,3 proc. przed rokiem). (PAP Biznes)",
+      "date_published": "2026-08-24T09:48:00+02:00",
+      "source": "PAP Biznes"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/multiQure-chce-zweryfikowac-potencjal-partneringowy-projektow-immunoonkologicznych-9186122.html",
       "url": "https://www.bankier.pl/wiadomosc/multiQure-chce-zweryfikowac-potencjal-partneringowy-projektow-immunoonkologicznych-9186122.html",
       "title": "multiQure bada potencjał swoich terapii onkologicznych. Są pierwsze umowy NDA",
@@ -357,19 +405,19 @@
       "source": "Bankier.pl"
     },
     {
+      "id": "https://biznes.pap.pl/wiadomosci/gospodarka/naklady-inwestycyjne-przedsiebiorstw-w-i-polr-wzrosly-o-137-proc-rdr-do-1002",
+      "url": "https://biznes.pap.pl/wiadomosci/gospodarka/naklady-inwestycyjne-przedsiebiorstw-w-i-polr-wzrosly-o-137-proc-rdr-do-1002",
+      "title": "Nakłady inwestycyjne przedsiębiorstw w I półr. wzrosły o 13,7 proc. rdr do 100,2 mld zł - GUS",
+      "content_html": "Nakłady inwestycyjne przedsiębiorstw w I półroczu wzrosły o 13,7 proc. rdr i wyniosły 100,2 mld zł - podał w poniedziałek GUS.\n\nNakłady na budynki i budowle wzrosły o 8,9 proc. (wobec spadku przed rokiem o 4,8 proc.).\n\nNakłady na zakupy wzrosły o 16,3 proc. (wobec wzrostu o 0,8 proc. rok wcześniej), w tym na środki transportu ‒ wzrost o 30,3 proc. (wobec spadku o 0,8 proc.) oraz na maszyny, urządzenia techniczne i narzędzia ‒ wzrost o 8,9 proc. (wobec wzrostu przed rokiem o 1,4 proc.).\n\nGUS podaje, że wzrost nakładów (w cenach bieżących) notowano m.in. w transporcie i gospodarce magazynowej (o 57,1 proc. wobec wzrostu o 19,2 proc. w 1 półroczu 2025 r.), w zakwaterowaniu i gastronomii (o 38,7 proc. wobec wzrostu o 7,2 proc.), w informacji i komunikacji (o 15,1 proc. wobec wzrostu o 32,6 proc.), w dostawie wody; gospodarowaniu ściekami i odpadami, rekultywacji (o 13,6 proc. wobec spadku o 3,3 proc.), w wytwarzaniu i zaopatrywaniu w energię elektryczną, gaz, parę wodną, gorącą wodę (o 13,4 proc. wobec wzrostu o 3,7 proc.), w administrowaniu i działalności wspierającej (o 11,2 proc. wobec wzrostu o 4,9 proc.), w przetwórstwie przemysłowym (o 9,3 proc. wobec spadku o 10,7 proc.) oraz w handlu; naprawie pojazdów samochodowych (o 3,4 proc. wobec wzrostu o 3,2 proc.).\n\nSpadek nakładów notowano m.in. w obsłudze rynku nieruchomości (o 22,0 proc. wobec wzrostu o 8,4 proc.), w górnictwie i wydobywaniu (o 12,2 proc. wobec spadku o 18,6 proc.) oraz w budownictwie (o 1,0 proc. wobec wysokiego wzrostu przed rokiem - o 32,8 proc.). (PAP Biznes)",
+      "date_published": "2026-08-24T09:38:00+02:00",
+      "source": "PAP Biznes"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Europejscy-przywodcy-przybyli-do-Kijowa-Wspolnie-swietuja-niepodleglosc-Ukrainy-9186116.html",
       "url": "https://www.bankier.pl/wiadomosc/Europejscy-przywodcy-przybyli-do-Kijowa-Wspolnie-swietuja-niepodleglosc-Ukrainy-9186116.html",
       "title": "Europejscy przywódcy przybyli do Kijowa. Wspólnie świętują niepodległość Ukrainy",
       "content_html": "Premier Wielkiej Brytanii Andy Burnham, przewodniczący Rady Europejskiej Antonio Costa, prezydenci Mołdawii i Estonii Maia Sandu i Alar Karis oraz premier Luksemburga Luc Frieden przybyli w poniedziałek do Kijowa w związku z obchodami 35-lecia niepodległości...",
       "date_published": "2026-08-24T09:31:00+02:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Bukmacherzy-pod-lupa-UOKiK-Urzad-sprawdza-czy-naklaniaja-do-czestszej-gry-9186118.html",
-      "url": "https://www.bankier.pl/wiadomosc/Bukmacherzy-pod-lupa-UOKiK-Urzad-sprawdza-czy-naklaniaja-do-czestszej-gry-9186118.html",
-      "title": "Bukmacherzy pod lupą UOKiK. Urząd sprawdza, czy nakłaniają do częstszej gry",
-      "content_html": "UOKiK sprawdza regulaminy bukmacherów, jak i sposób projektowania usług pod kątem technik manipulacyjnych (dark patterns) - podał urząd w komunikacie. Urząd analizuje również, czy przedsiębiorcy nie stosują rozwiązań, które mogą nakłaniać...",
-      "date_published": "2026-08-24T09:26:00+02:00",
       "source": "Bankier.pl"
     },
     {
@@ -461,6 +509,14 @@
       "source": "Bankier.pl"
     },
     {
+      "id": "https://biznes.pap.pl/wiadomosci/rynki/ceny-ropy-ida-w-dol-po-2-tygodniach-zwyzek",
+      "url": "https://biznes.pap.pl/wiadomosci/rynki/ceny-ropy-ida-w-dol-po-2-tygodniach-zwyzek",
+      "title": "Ceny ropy idą w dół po 2 tygodniach zwyżek",
+      "content_html": "Notowania ropy naftowej na świecie w poniedziałek idą w dół po zaliczeniu 2 tygodni ze zwyżkami cen - podają maklerzy.\n\nBaryłka ropy West Texas Intermediate w dostawach na IX jest na NYMEX w Nowym Jorku po 85,68 USD - niżej o 1,59 proc.\n\nBrent na ICE na X jest wyceniana po 93,14 USD za baryłkę, niżej o 1,32 proc.\n\nPrezydent USA Donald Trump oświadczył w piątek, że \"postrzega cieśninę Ormuz jako amerykańskie terytorium\".\n\nWyraził też przekonanie, że Iran chce zawrzeć porozumienie, ale w jego opinii nie jest jeszcze gotowy na odpowiednią umowę.\n\n\"Postrzegam teraz cieśninę Ormuz jako amerykańskie terytorium\" - powiedział Donald Trump w Karolinie Południowej.\n\nW rozmowie z dziennikarzami powtórzył, że USA \"mają kontrolę nad Ormuzem\".\n\n\"Mamy całkowitą kontrolę nad całym tym regionem związanym z cieśniną Ormuz i obejmuje to też obszary lądowe. (Irańczycy) Chcieliby zawrzeć porozumienie, ale według mnie nie są jeszcze gotowi\" - oświadczył prezydent USA.\n\nTymczasem rynek czeka na opublikowanie w poniedziałek amerykańskiego planu izolacji gospodarczej Iranu.\n\nSekretarz skarbu USA Scott Bessent ma podać szczegóły tego planu na poniedziałkowej konferencji prasowej.\n\nBessent stara się zwiększyć presję na sojuszników USA, aby przyłączyli się do tego przedsięwzięcia.\n\n\"Presja ekonomiczna oznacza, że zwrócimy się do wszystkich naszych sojuszników - a to będzie największa skoordynowana izolacja ekonomiczna w historii świata - i zwrócimy się do nich mówiąc: +Albo jesteście z nami, albo przeciwko nam+\" - powiedział Bessent podczas wywiadu dla CNBC.\n\nDodał, że w poniedziałek \"dokładnie omówi, co zamierzamy (USA) zrobić\".\n\nAni Donald Trump, ani Scott Bessent nie sprecyzowali, jakie dokładnie działania podejmą, ani które kraje zostaną objęte sankcjami USA, ale ostrzeżenia natychmiast skierowały uwagę rynków na Chiny, które kupują większość irańskiej ropy.\n\nBessent zapytany, czy Chiny mogą stać się celem ataku, odpowiedział, że \"wiele rozmów najlepiej jest prowadzić w cztery oczy\" i dodał, że wszyscy chcą, aby cieśnina Ormuz została ponownie otwarta dla rynku handlowego.\n\nSekretarz skarbu USA wskazał, że Chiny czerpią znaczną cześć swoich surowców energetycznych z Bliskiego Wschodu, i dodał, że przystąpienie Chin do programu izolacji Iranu byłoby wielką przysługą.\n\n\"Podmioty wspierające Iran kupują i transportują jego ropę naftową\" - powiedział też Bessent dla \"Financial Times\".\n\n\"Dobrze by zrobili, gdyby rozważyli konsekwencje (...)\" - dodał.\n\nPekin z kolei w reakcji na doniesienia o planowanej izolacji Iranu stwierdził, że sankcje i naciski nie przyniosą rezultatu i wezwał do rozwiązania dyplomatycznego.\n\nIran zaś wskazał, że groźby USA są \"odwróceniem uwagi\" od kryzysu Ameryki, związanego z bezprecedensowym zadłużeniem i rosnącymi kosztami odsetek.\n\nAnalitycy przypominają, że ropa naftowa zdrożała w tym roku o ponad 50 proc., a wojna z Iranem - trwająca już 6. miesiąc - ogranicza poważnie globalne dostawy ropy i produktów rafinowanych.",
+      "date_published": "2026-08-24T08:00:00+02:00",
+      "source": "PAP Biznes"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Wazny-termin-dla-Ukraincow-Do-31-sierpnia-trzeba-potwierdzic-tozsamosc-9186077.html",
       "url": "https://www.bankier.pl/wiadomosc/Wazny-termin-dla-Ukraincow-Do-31-sierpnia-trzeba-potwierdzic-tozsamosc-9186077.html",
       "title": "Ważny termin dla Ukraińców. Do 31 sierpnia trzeba potwierdzić tożsamość",
@@ -517,6 +573,14 @@
       "source": "Bankier.pl"
     },
     {
+      "id": "https://biznes.pap.pl/wiadomosci/gospodarka/wartosc-udzielonych-kredytow-mieszkaniowych-w-vii-wzrosla-o-453-proc-rdr-bik",
+      "url": "https://biznes.pap.pl/wiadomosci/gospodarka/wartosc-udzielonych-kredytow-mieszkaniowych-w-vii-wzrosla-o-453-proc-rdr-bik",
+      "title": "Wartość udzielonych kredytów mieszkaniowych w VII wzrosła o 45,3 proc. rdr - BIK",
+      "content_html": "Wartość udzielonych kredytów mieszkaniowych w lipcu wzrosła w Polsce o 45,3 proc. rdr do 14,778 mld zł, najwięcej w historii - podało Biuro Informacji Kredytowej (BIK).\n\nWobec poprzedniego miesiąca wartość kredytów wzrosła o 10,6 proc.\n\nLiczba kredytów w lipcu wzrosłą rdr o 33,1 proc., a mdm wzrosła o 9,7 proc. do 30,3 tys.\n\nOd początku roku wartość kredytów wzrosła o 57,2 proc. do 88,877 mld zł.\n\nLiczba kredytów od początku roku wzrosła o 45,5 proc. do 188,4 tys.\n\nW lipcu średnia kwota kredytu mieszkaniowego osiągnęła 487,53 tys. zł, co jest historycznie najwyższą wartością.\n\nBIK zwraca uwagę, że przyśpieszają również decyzje o refinansowaniu kredytów mieszkaniowych zaciągniętych w poprzednich latach, w większości opartych na okresowo stałej - wyższej niż obecna - stopie procentowej.\n\nWedług BIK obecnie refinansowania stanowią już ponad 1/3 bieżącej akcji kredytowej i udział ten rośnie. (PAP Biznes)",
+      "date_published": "2026-08-24T07:01:00+02:00",
+      "source": "PAP Biznes"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Zdolnosc-kredytowa-dochod-15-tys-zl-sierpien-2026-9185456.html",
       "url": "https://www.bankier.pl/wiadomosc/Zdolnosc-kredytowa-dochod-15-tys-zl-sierpien-2026-9185456.html",
       "title": "Zdolność kredytowa się obsuwa. Ale mamy mocny debiut na liście banków",
@@ -560,7 +624,7 @@
       "id": "https://biznes.pap.pl/wiadomosci/rynki/kalendarium-rynku-newconnect-2026-08-24",
       "url": "https://biznes.pap.pl/wiadomosci/rynki/kalendarium-rynku-newconnect-2026-08-24",
       "title": "Kalendarium rynku NewConnect 2026-08-24",
-      "content_html": "Kalendarium rynku NewConnect 2026-08-24",
+      "content_html": "Debiut Thorium Space na rynku NewConnect.\n\n09:15 - ATOMJELLY - Nadzwyczajne walne zgromadzenie",
       "date_published": "2026-08-24T07:00:00+02:00",
       "source": "PAP Biznes"
     },
@@ -576,7 +640,7 @@
       "id": "https://biznes.pap.pl/wiadomosci/przeniesione-platnosci-za-nadwykonania-czesci-swiadczen-ok-6-7-mld-zl-nowak-nfz",
       "url": "https://biznes.pap.pl/wiadomosci/przeniesione-platnosci-za-nadwykonania-czesci-swiadczen-ok-6-7-mld-zl-nowak-nfz",
       "title": "Przeniesione płatności za nadwykonania części świadczeń to ok. 6-7 mld zł - Nowak, NFZ",
-      "content_html": "Przeniesienie płatności za nadwykonania części świadczeń na rok następny daje pewien oddech NFZ w tym roku. To ok. 6-7 mld zł - poinformował PAP prezes Narodowego Funduszu Zdrowia Filip Nowak. Chodzi ",
+      "content_html": "Przeniesienie płatności za nadwykonania części świadczeń na rok następny daje pewien oddech NFZ w tym roku. To ok. 6-7 mld zł - poinformował PAP prezes Narodowego Funduszu Zdrowia Filip Nowak. Chodzi m.in. o zmiany w rozliczeniach leczenia zaćmy.\n\nPrezes NFZ Filip Nowak w wywiadzie udzielonym PAP poinformował, że luka w tegorocznym budżecie płatnika wynosi 14 mld zł. Zmniejszyła się o około 10 mld zł.\n\n\"Otrzymaliśmy dodatkowe środki z budżetu państwa w ramach dotacji. Ponadto Agencja Oceny Technologii Medycznych i Taryfikacji wprowadziła korekty do części wycen świadczeń. Zmieniono część wycen, które miały m.in. wpływ na wysokie wynagrodzenia, czy to w neurochirurgii, czy częściowo w chirurgii. Do tego doszły działania racjonalizatorskie po stronie NFZ. W efekcie luka jest dziś mniejsza od pierwotnie szanowanej\" - powiedział Filip Nowak.\n\nPrezes zaznaczył, że przesunięcie płatności za nadwykonania części świadczeń daje Funduszowi w tym roku pewien oddech, bo będą to środki wydatkowane z planu przyszłorocznego.\n\nPrzesunięcia rozliczeń nadwykonań dotyczą m.in. zmiany w rozliczeniach leczenia zaćmy, części świadczeń rehabilitacji leczniczej i opieki specjalistycznej dla dorosłych.\n\n\"Szacunki mówią o ok. 6-7 mld zł w ujęciu rocznym. Daje nam to możliwość sfinansowania w tym roku priorytetowych świadczeń wykonanych ponad limit, m.in. porodów czy świadczeń w onkologii\" - wskazał szef Funduszu.\n\nNowak ocenił też, że premier Donald Tusk dał zielone światło do odważnych działań reformatorskich w ochronie zdrowia.\n\n\"Dostaliśmy konkretne zadanie do wykonania i na tym się koncentrowaliśmy. Prezes NFZ nie ma kadencyjności – minister zdrowia i premier oceniają moją pracę na bieżąco i jeśli uznają, że czas na zmianę, to po prostu jej dokonają. Niektórym trudno w to uwierzyć, ale skupiam się na pracy i realizacji zadań, a nie dywagacjach na temat mojego odwołania - powiedział.\n\nWedług prezesa NFZ przygotowywane obecnie zmiany w zasadach wynagradzania medyków, które zakładają wprowadzenie maksymalnej stawki godzinowej, poprawią kondycję finansową placówek medycznych.\n\n\"To jest działanie zmierzające do stabilizacji rynku medycznego, do tego, żeby placówki medyczne nie musiały wpadać w korkociąg, wynikający z coraz to wyższych wynagrodzeń. Choć może nieidealne, to w obecnej sytuacji takie rozwiązanie jest niezbędne - do momentu zmiany struktury udzielanych świadczeń. Mamy zbyt rozbudowaną bazę szpitali działających w trybie ostrodyżurowym, o czym mówię od dłuższego czasu\" - ocenił Filip Nowak. (PAP)",
       "date_published": "2026-08-24T06:53:00+02:00",
       "source": "PAP Biznes"
     },
@@ -584,7 +648,7 @@
       "id": "https://biznes.pap.pl/wiadomosci/rynki/rentownosci-obligacji-wybranych-panstw-tabela-2683",
       "url": "https://biznes.pap.pl/wiadomosci/rynki/rentownosci-obligacji-wybranych-panstw-tabela-2683",
       "title": "Rentowności obligacji wybranych państw (tabela)",
-      "content_html": "Poniżej zestawienie rentowności obligacji wybranych państw.",
+      "content_html": "Poniżej zestawienie rentowności obligacji wybranych państw.\n\nW tabeli kolejno rentowność aktualna, rentowność dzień wcześniej, pięć dni wcześniej, miesiąc wcześniej, trzy miesiące wcześniej i dwanaście miesięcy wcześniej (w proc.)\n\nRentowności dla typowych obligacji, podane za agencją Bloomberg.(PAP Biznes)",
       "date_published": "2026-08-24T06:45:00+02:00",
       "source": "PAP Biznes"
     },
@@ -634,6 +698,30 @@
       "title": "Netanjahu wydał rozkaz armii. Izrael odpowie na balony i latawce z Gazy",
       "content_html": "Premier Izraela Benjamin Netanjahu wydał polecenie wojsku, aby podjęło zdecydowane działania w związku z wypuszczaniem balonów i latawców ze Strefy Gazy, które w przeszłości używano do ataków na Izrael – poinformował w niedzielę portal...",
       "date_published": "2026-08-23T22:18:00+02:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Tragedia-w-szwedzkiej-szkole-18-latek-aresztowany-po-smiertelnym-ataku-mieczem-9186039.html",
+      "url": "https://www.bankier.pl/wiadomosc/Tragedia-w-szwedzkiej-szkole-18-latek-aresztowany-po-smiertelnym-ataku-mieczem-9186039.html",
+      "title": "Tragedia w szwedzkiej szkole. 18-latek aresztowany po śmiertelnym ataku mieczem",
+      "content_html": "Sąd w Vaesteras na zachód od Sztokholmu zdecydował w niedzielę o aresztowaniu 18-latka pod zarzutem zabójstwa 17-letniej dziewczyny i zranienia trzech chłopców. Domniemany sprawca wtargnął w piątek z mieczem do szkoły Brinellskonal w Fagersta...",
+      "date_published": "2026-08-23T21:00:00+02:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Kontrowersyjny-raper-Kanye-West-wystapi-z-dwoma-koncertami-w-Rosji-9184049.html",
+      "url": "https://www.bankier.pl/wiadomosc/Kontrowersyjny-raper-Kanye-West-wystapi-z-dwoma-koncertami-w-Rosji-9184049.html",
+      "title": "Kontrowersyjny raper Kanye West wystąpi z dwoma koncertami w Rosji",
+      "content_html": "Kontrowersyjny amerykański raper Kanye West zagra w październiku dwa koncerty w Sankt Petersburgu – poinformowała agencja dpa. Jak zauważył portal BBC, to największa zachodnia gwiazda muzyki, która wystąpi w Rosji od czasu inwazji na Ukrainę...",
+      "date_published": "2026-08-23T20:45:00+02:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Sojusz-Nordycko-Baltycki-w-Kijowie-Deklaracja-nieprzerwanego-wsparcie-dla-Ukrainy-9186033.html",
+      "url": "https://www.bankier.pl/wiadomosc/Sojusz-Nordycko-Baltycki-w-Kijowie-Deklaracja-nieprzerwanego-wsparcie-dla-Ukrainy-9186033.html",
+      "title": "Sojusz Nordycko-Bałtycki w Kijowie. Deklaracja nieprzerwanego wsparcie dla Ukrainy",
+      "content_html": "Przywódcy państw Nordycko-Bałtyckiej Ósemki (NB8) zapowiedzieli w niedzielę w Kijowie dalszą pomoc wojskową Ukrainie w wojnie z Rosją, rozwój wspólnej produkcji uzbrojenia oraz wsparcie szybkiego postępu Ukrainy na drodze do członkostwa w...",
+      "date_published": "2026-08-23T20:43:00+02:00",
       "source": "Bankier.pl"
     },
     {
@@ -730,54 +818,6 @@
       "title": "144 oszustwa na Allegro. Sprzedawała meble, których nigdy nie wysyłała",
       "content_html": "Wioletta B. odpowie za 144 oszustwa podczas sprzedaży w internecie; wystawiała na portalu Allegro.pl meble, ale ich nie wysyłała kupującym i nie zwracała pieniędzy. Zawiadomienie o przestępstwie złożył portal, który musiał wypłacić poszkodowanym...",
       "date_published": "2026-08-23T14:00:00+02:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Ponad-145-tys-elektrykow-jezdzi-juz-po-polskich-drogach-Rosnie-tez-siec-ladowarek-9185493.html",
-      "url": "https://www.bankier.pl/wiadomosc/Ponad-145-tys-elektrykow-jezdzi-juz-po-polskich-drogach-Rosnie-tez-siec-ladowarek-9185493.html",
-      "title": "Ponad 145 tys. elektryków jeździ już po polskich drogach. Rośnie też sieć ładowarek",
-      "content_html": "Ponad 50 proc. punktów do ładowania samochodów elektrycznych w Polsce to szybkie stanowiska z prądem stałym (DC) - wynika z danych opublikowanych przez Licznik Elektromobilności. Na koniec lipca liczba zarejestrowanych w kraju osobowych aut w pełni...",
-      "date_published": "2026-08-23T13:16:00+02:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Przelom-w-elektrowni-Paks-Wegry-stopniowo-przywracaja-moc-po-kryzysie-na-Dunaju-9185990.html",
-      "url": "https://www.bankier.pl/wiadomosc/Przelom-w-elektrowni-Paks-Wegry-stopniowo-przywracaja-moc-po-kryzysie-na-Dunaju-9185990.html",
-      "title": "Przełom w elektrowni Paks. Węgry stopniowo przywracają moc po kryzysie na Dunaju",
-      "content_html": "Cztery z ośmiu turbin w węgierskiej elektrowni jądrowej w Paksu są ponownie uruchomione – poinformował w niedzielę na Facebooku premier Węgier Peter Magyar.",
-      "date_published": "2026-08-23T13:07:00+02:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/W-polskich-metropoliach-przybylo-mieszkan-kosztujacych-ponad-20-tys-zl-9183703.html",
-      "url": "https://www.bankier.pl/wiadomosc/W-polskich-metropoliach-przybylo-mieszkan-kosztujacych-ponad-20-tys-zl-9183703.html",
-      "title": "W polskich metropoliach przybyło mieszkań kosztujących ponad 20 tys. zł",
-      "content_html": "W ciągu 12 miesięcy w polskich metropoliach przybyło mieszkań kosztujących ponad 20 tys. zł za metr kwadratowy, a ubyło tańszych lokali - wynika z danych portalu rynekpierwotny.pl. W ujęciu rocznym, w lipcu cena mieszkań we Wrocławiu wzrosła...",
-      "date_published": "2026-08-23T13:00:00+02:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Prawo-do-naprawy-juz-dziala-Problem-Naprawa-wciaz-czesto-przegrywa-z-zakupem-nowego-sprzetu-9184108.html",
-      "url": "https://www.bankier.pl/wiadomosc/Prawo-do-naprawy-juz-dziala-Problem-Naprawa-wciaz-czesto-przegrywa-z-zakupem-nowego-sprzetu-9184108.html",
-      "title": "Prawo do naprawy już działa. Problem? Naprawa wciąż często przegrywa z zakupem nowego sprzętu",
-      "content_html": "W wielu przypadkach naprawa usterki wciąż jest droższa niż wyprodukowanie nowego sprzętu - powidziała PAP Agnieszka Sznyk, szefowa think tanku Innowo – Instytut Innowacji i Odpowiedzialnego Rozwoju. Wpływa na to gospodarka linearna, w której...",
-      "date_published": "2026-08-23T12:58:00+02:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Plan-Putina-na-zeszla-czesc-roku-nierealny-Zelenski-o-300-tys-zmobilizowanych-i-obronie-Kijowa-9185989.html",
-      "url": "https://www.bankier.pl/wiadomosc/Plan-Putina-na-zeszla-czesc-roku-nierealny-Zelenski-o-300-tys-zmobilizowanych-i-obronie-Kijowa-9185989.html",
-      "title": "Plan Putina na zeszłą część roku nierealny? Zełenski o 300 tys. zmobilizowanych i obronie",
-      "content_html": "Prezydent Ukrainy Wołodymyr Zełenski ogłosił, że porozumiał się z Niemcami w sprawie dostarczenia 600 pocisków przechwytujących PAC-2, a od Francji jesienią Kijów otrzyma nowe radary dla obrony powietrznej.",
-      "date_published": "2026-08-23T12:57:00+02:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Akt-oskarzenia-ws-przywlaszczenia-pieniedzy-na-studniowke-przez-matke-maturzysty-9183230.html",
-      "url": "https://www.bankier.pl/wiadomosc/Akt-oskarzenia-ws-przywlaszczenia-pieniedzy-na-studniowke-przez-matke-maturzysty-9183230.html",
-      "title": "Akt oskarżenia ws. przywłaszczenia pieniędzy na studniówkę przez matkę maturzysty",
-      "content_html": "Matka jednego z maturzystów ze szkoły w pow. ostrowskim (Mazowieckie) została oskarżona o przywłaszczenie pieniędzy zebranych na organizację studniówki. Kobiecie grozi do 5 lat więzienia – poinformowała Prokuratura Okręgowa w Ostrołęce...",
-      "date_published": "2026-08-23T12:39:00+02:00",
       "source": "Bankier.pl"
     }
   ]
