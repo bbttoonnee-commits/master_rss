@@ -5,11 +5,51 @@
   "home_page_url": "https://www.bankier.pl",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/Ceny-ropy-w-dol-mimo-grozby-gigantycznych-sankcji-Rynek-czeka-na-skutki-9186620.html",
+      "url": "https://www.bankier.pl/wiadomosc/Ceny-ropy-w-dol-mimo-grozby-gigantycznych-sankcji-Rynek-czeka-na-skutki-9186620.html",
+      "title": "Ceny ropy w dół mimo groźby gigantycznych sankcji. Rynek czeka na skutki?",
+      "content_html": "Notowania ropy naftowej na świecie we wtorek mocniej zniżkują, a inwestorzy oceniają ogłoszone przez USA sankcje na Iran - podają maklerzy.",
+      "date_published": "2026-08-25T10:22:00+02:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Kurs-CD-Projekt-Red-spada-o-6-proc-przy-zwyzce-WIG20-o-0-2-proc-9186653.html",
+      "url": "https://www.bankier.pl/wiadomosc/Kurs-CD-Projekt-Red-spada-o-6-proc-przy-zwyzce-WIG20-o-0-2-proc-9186653.html",
+      "title": "Kurs CD Projekt Red spada o 6%. Chodzi o zapowiedź daty premiery \"Wiedźmina 4\"?",
+      "content_html": "Kurs akcji CD Projekt Red spada o 6 proc., przy wysokich obrotach. WIG20 zwyżkuje o 0,2 proc.",
+      "date_published": "2026-08-25T10:10:00+02:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Zmarl-jeden-z-najbogatszych-Niemcow-Stworzyl-logistycznego-giganta-9186647.html",
+      "url": "https://www.bankier.pl/wiadomosc/Zmarl-jeden-z-najbogatszych-Niemcow-Stworzyl-logistycznego-giganta-9186647.html",
+      "title": "Zmarł jeden z najbogatszych Niemców. Stworzył logistycznego giganta",
+      "content_html": "Niemiecki inwestor Klaus-Michael Kühne, główny udziałowiec szwajcarskiej grupy logistycznej Kühne + Nagel, zmarł w wieku 89 lat – poinformowała spółka.",
+      "date_published": "2026-08-25T10:01:00+02:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Koniec-strajku-w-Hyundaiu-Zwiazki-wywalczyly-podwyzki-9186642.html",
+      "url": "https://www.bankier.pl/wiadomosc/Koniec-strajku-w-Hyundaiu-Zwiazki-wywalczyly-podwyzki-9186642.html",
+      "title": "Koniec strajku w Hyundaiu. Związki wywalczyły podwyżki",
+      "content_html": "Dyrekcja południowokoreańskiego koncernu Hyundai Motor oraz związek zawodowy zawarły wstępne porozumienie płacowe – poinformowała we wtorek agencja AFP. Kończy to spór, który w miniony piątek, 21 sierpnia, doprowadził do pierwszego od dekady...",
+      "date_published": "2026-08-25T09:59:00+02:00",
+      "source": "Bankier.pl"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/DM-BOS-dodal-CD-Projekt-i-Decore-na-liste-dlugich-pozycji-wycofal-Handlowy-i-mBank-9186637.html",
       "url": "https://www.bankier.pl/wiadomosc/DM-BOS-dodal-CD-Projekt-i-Decore-na-liste-dlugich-pozycji-wycofal-Handlowy-i-mBank-9186637.html",
       "title": "DM BOŚ przebudowuje swój portfel. CD Projekt i Decora na liście faworytów",
       "content_html": "Analitycy DM BOŚ, w raporcie miesięcznym z 17 sierpnia, dodali na listę długich pozycji na nadchodzący miesiąc CD Projekt i Decorę, a wycofali z niej akcje Banku Handlowego i mBanku.",
       "date_published": "2026-08-25T09:42:00+02:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Kolejny-potezny-zastrzyk-dla-Wojska-Polskiego-28-koreanskich-czolgow-jest-juz-w-kraju-9186636.html",
+      "url": "https://www.bankier.pl/wiadomosc/Kolejny-potezny-zastrzyk-dla-Wojska-Polskiego-28-koreanskich-czolgow-jest-juz-w-kraju-9186636.html",
+      "title": "Kolejny potężny zastrzyk dla Wojska Polskiego. 28 koreańskich czołgów jest już w kraju",
+      "content_html": "Do Polski dotarło pierwsze 28 koreańskich czołgów K2, zamówionych w ramach drugiej umowy wykonawczej podpisanej z Koreą Południową w ubiegłym roku - poinformował we wtorek wicepremier, szef MON Władysław Kosiniak-Kamysz. Zasilą one 16. Dywizję...",
+      "date_published": "2026-08-25T09:40:00+02:00",
       "source": "Bankier.pl"
     },
     {
@@ -53,12 +93,20 @@
       "source": "Bankier.pl"
     },
     {
-      "id": "https://www.bankier.pl/wiadomosc/Ceny-ropy-w-dol-mimo-grozby-gigantycznych-sankcji-Rynek-czeka-na-skutki-9186620.html",
-      "url": "https://www.bankier.pl/wiadomosc/Ceny-ropy-w-dol-mimo-grozby-gigantycznych-sankcji-Rynek-czeka-na-skutki-9186620.html",
-      "title": "Ceny ropy w dół mimo groźby gigantycznych sankcji. Rynek czeka na skutki?",
-      "content_html": "Notowania ropy naftowej na świecie we wtorek na razie spadają, a inwestorzy oceniają ogłoszone przez USA sankcje na Iran - podają maklerzy.",
-      "date_published": "2026-08-25T08:56:00+02:00",
-      "source": "Bankier.pl"
+      "id": "https://biznes.pap.pl/wiadomosci/rynki/najwazniejsze-indeksy-gieldowe-w-azji-794",
+      "url": "https://biznes.pap.pl/wiadomosci/rynki/najwazniejsze-indeksy-gieldowe-w-azji-794",
+      "title": "Najważniejsze indeksy giełdowe w Azji",
+      "content_html": "Poniżej aktualne indeksy wybranych giełd w Azji:\n\nIndeks Nikkei 225 zamyka się o 8.30 czasu polskiego, KOSPI o 8.05, Shanghai Composite Index o 9.00, Hang Seng o 10.00, a Sensex o 12.45.",
+      "date_published": "2026-08-25T08:51:00+02:00",
+      "source": "PAP Biznes"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/firmy/dm-bos-dodal-cd-projekt-i-decore-na-liste-dlugich-pozycji-wycofal-handlowy-i-mbank",
+      "url": "https://biznes.pap.pl/wiadomosci/firmy/dm-bos-dodal-cd-projekt-i-decore-na-liste-dlugich-pozycji-wycofal-handlowy-i-mbank",
+      "title": "DM BOŚ dodał CD Projekt i Decorę na listę długich pozycji, wycofał Handlowy i mBank",
+      "content_html": "Analitycy DM BOŚ, w raporcie miesięcznym z 17 sierpnia, dodali na listę długich pozycji na nadchodzący miesiąc CD Projekt i Decorę, a wycofali z niej akcje Banku Handlowego i mBanku.\n\nLista spółek, które powinny się zachowywać gorzej od rynku pozostała bez zmian.\n\nSpółki, które w nadchodzącym miesiącu mogą - zdaniem analityków DM BOŚ - zachować się lepiej od rynku to: AB, Action, Asbis, Asseco Poland, Atrem, Azoty, CD Projekt, Cyfrowy Polsat, Decora, Grupa Pracuj, LPP, Neuca, Orlen, PGE, Toya, Vercom, VRG.\n\nSpółki, które powinny się zachowywać gorzej od rynku to: Arctic Paper, JSW.\n\nDepesza jest skrótem raportu DM BOŚ. Dystrybucja raportu miała miejsce 17 sierpnia 2026 r. o godzinie 18.05.\n\nW załączniku znajdują się wymagane prawem informacje z DM BOŚ. (PAP Biznes)",
+      "date_published": "2026-08-25T08:41:00+02:00",
+      "source": "PAP Biznes"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/KO-traci-PiS-zyskuje-Rzadzic-moze-tylko-Zjednoczona-Prawica-z-Braunem-9186615.html",
@@ -67,6 +115,22 @@
       "content_html": "Głosowanie na KO w wyborach parlamentarnych deklaruje 27,3 proc. ankietowanych, na PiS 20,6. proc., a na Konfederację 14,1 proc. - wynika z opublikowanego we wtorek sondażu United Surveys dla Wirtualnej Polski. Konfederacja Korony Polskiej otrzymałaby...",
       "date_published": "2026-08-25T08:39:00+02:00",
       "source": "Bankier.pl"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/firmy/dzien-na-gpw-wtorkowa-sesja-moze-byc-spokojna",
+      "url": "https://biznes.pap.pl/wiadomosci/firmy/dzien-na-gpw-wtorkowa-sesja-moze-byc-spokojna",
+      "title": "DZIEŃ NA GPW: Wtorkowa sesja może być spokojna",
+      "content_html": "Kontrakty terminowe na europejskie indeksy sugerują, że wtorkowa sesja na GPW może rozpocząć się spokojnie. Analitycy wskazują, że rynki czekają na kwartalne wyniki Nvidii oraz wystąpienie prezesa Fed Kevina Warsha w dalszej części tygodnia.\n\n\"Na giełdach azjatyckich we wtorek obserwujemy dawno niewidziany spokój – spora część indeksów oscyluje wokół zera, a wśród nich znajduje się także koreański Kospi, który przyzwyczaił nas w ostatnim czasie do kilkuprocentowych dziennych zmian. Kontrakty terminowe na indeksy europejskie sugerują otwarcie na niewielkim plusie\" - napisał w komentarzu Patryk Pyka, dyrektor zespołu analiz i doradztwa inwestycyjnego DI Xelion.\n\n\"Zakładamy, że wtorkowa sesja na GPW przebiegnie w spokojnej atmosferze wyczekiwania na znacznie bardziej emocjonującą drugą połowę tygodnia\" - dodał.\n\nW środę po sesji wyniki kwartalne opublikuje amerykańska Nvidia, a w czwartek rozpoczyna się sympozjum w Jackson Hole. Inwestorzy oczekują przemówienia prezesa Rezerwy Federalnej Kevina Warsha, zaplanowanego na piątek. Podczas wydarzenia przemawiać będą także inni przedstawiciele największych banków centralnych.\n\nZWRÓĆ UWAGĘ (informacje opublikowane po zamknięciu notowań na GPW):\n\n• CD Projekt celuje z premierą \"Wiedźmina 4\" na okno wydawnicze w 2028 roku - poinformował Joint CEO dewelopera gier w filmie wideo udostępnionym na platformie X. Spółka nie pokaże nic związanego z tytułem otwierającym nową trylogię wiedźmińską podczas targów Gamescom.\n\n• PKO BP przeprowadził emisję senioralnych obligacji o łącznej wartości nominalnej 500 mln euro emitowanych w ramach programu EMTN.\n\n• Tauron szacuje, że w drugim kwartale 2026 r. jego wynik EBITDA wyniósł 1,606 mld zł, a zysk netto sięgnął 586 mln zł. Konsensus PAP Biznes zakładał 1,583 mld zł EBITDA oraz 592,6 mln zł zysku netto. Zgodnie z szacunkami EBITDA w II kwartale 2026 roku spadła 15 proc. rdr, a zysk netto jest niższy o 37 proc.\n\n• Skorygowana EBITDA Ten Square Games w II kwartale 2026 roku wyniosła 21,4 mln zł. Wynik był o 7,1 proc. powyżej konsensusu PAP Biznes na poziomie 20 mln zł. Zysk netto j.d. grupy Ten Square Games w II kwartale 2026 r. spadł do 14,6 mln zł z 20 mln zł rok wcześniej i okazał się zgodny z oczekiwaniami analityków ankietowanych przez PAP Biznes, którzy prognozowali, że wyniesie on 14,5 mln zł.\n\n• Zaktualizowane szacunki dla kopalni miedzi Sierra Gorda wskazują na wzrost zasobów rudy o 61 proc., do 1.100 mln ton - poinformował w komunikacie australijski South32, partner KGHM w chilijskim projekcie.\n\n• Państwa świata muszą zerwać stosunki gospodarcze z Iranem albo narażą się na konsekwencje ze strony Waszyngtonu - ogłosił w poniedziałek sekretarz skarbu USA Scott Bessent, przedstawiając nowe, rozszerzone sankcje wobec Teheranu. Zasugerował, że dotyczy to również Chin.\n\n• Wiceprezydent USA J.D. Vance powiedział w poniedziałek, że mimo fiaska rozmów handlowych z Kanadą i rozpoczęcia wojny celnej, rozmowy te nadal trwają. Prezydent Donald Trump ostrzegł tymczasem kanadyjskich przywódców przed „gorszymi konsekwencjami”, nazywając ich „klaunami”.\n\n• Prokurator generalny Kalifornii Rob Bonta odwołał zaplanowane na poniedziałek spotkanie z Paramount Skydance, które miało dotyczyć potencjalnej ugody w sprawie pozwu przeciwko przejęciu Warner Bros. Discovery - poinformowała stacja NBC News.\n\n• Na azjatyckich giełdach indeksy się wahają. W Japonii Nikkei 225 zwyżkuje o 0,40 proc. Topix jest wyżej o 0,36 proc. W Chinach SCI zwyżkuje 0,14 proc., a CSI 300 idzie niżej o 0,25 proc. W Indiach Sensex 30 zniżkuje o 0,16 proc.\n\n• W Europie kontrakty na Stoxx 50 rosną o 0,29 proc., na FTSE 100 zwyżkują o 0,20 proc., na CAC 40 idą wyżej o 0,39 proc., a na DAX zyskują 0,23 proc.\n\n• Kontrakty na indeksy w USA są w przedziale 0,03 proc. do 0,50 proc.\n\n• Indeksy w Europie głównie zniżkowały na koniec sesji w poniedziałek. Inwestorzy czekają na wystąpienia bankierów centralnych podczas sympozjum w amerykańskim Jackson Hole pod koniec tygodnia.\n\n• Na zamknięciu sesji indeks",
+      "date_published": "2026-08-25T08:29:00+02:00",
+      "source": "PAP Biznes"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/rynki/dzien-na-rynkach-w-azji-na-gieldach-indeksy-sie-wahaja-33",
+      "url": "https://biznes.pap.pl/wiadomosci/rynki/dzien-na-rynkach-w-azji-na-gieldach-indeksy-sie-wahaja-33",
+      "title": "DZIEŃ NA RYNKACH: W Azji na giełdach indeksy się wahają",
+      "content_html": "Na azjatyckich giełdach indeksy się wahają. Pogłębia się globalna wyprzedaż akcji spółek produkujących chipy, a inwestorzy ograniczają zaangażowanie w akcje firm technologicznych przed publikacją wyników finansowych Nvidii w tym tygodniu. Na rynku walutowym USD jest stabilny do euro. Bitcoin jest po ok. 80.360 USD za token. Złoto tanieje - informują maklerzy.\n\nW Japonii Nikkei 225 zwyżkuje o 0,40 proc. Topix jest wyżej o 0,36 proc.\n\nW Chinach SCI zwyżkuje 0,14 proc., a CSI 300 idzie niżej o 0,25 proc.\n\nW Korei Południowej KOSPI zwyżkuje o 0,58 proc.\n\nNa Tajwanie TAIEX idzie wyżej o 0,91 proc.\n\nW Indiach Sensex 30 zniżkuje o 0,16 proc.\n\nIndeks PSEi na Filipinach jest niżej o 0,87 proc.\n\nW Dżakarcie wolne, a w poniedziałek wskaźnik Jakarta Comp zniżkował o 0,37 proc.\n\nRegionalny indeks MSCI dla Azji i Pacyfiku zniżkuje o 0,4 proc.\n\nNa rynkach trwa globalna wyprzedaż akcji producentów chipów, a inwestorzy ograniczają swoje zaangażowanie w akcje spółek technologicznych przed publikacją kluczowych wyników finansowych przez Nvidię, które wystawią na próbę zaufanie graczy do sektora AI.\n\nAkcje producentów układów scalonych idą mocno w dół - SK Hynix Inc. spadł o 4 proc., Samsung Electronics Co. traci 2,2 proc.\n\nUwaga inwestorów skupia się m.in. na notowaniach Bitcoina (BTC), który po rajdzie osiągnął poziom 80.000 USD, po raz pierwszy od maja tego roku. Na rynek kryptowalut powrócił znów optymizm po dłuższej fazie marazmu.\n\nGracze rozważają rosnące ryzyko geopolityczne w czasie tygodnia z wieloma danymi makro i publikacją wyników spółek.\n\n\"Inwestorzy będą uważnie obserwować nadchodzącą publikację wyników finansowych przez Nvidie - w środę - w poszukiwaniu wskazówek, czy boom na AI i towarzyszący mu wzrost zysków nie wytraca impetu\" - powiedział Frederic Neumann, główny ekonomista na Azję w HSBC Holdings.\n\n\"Rynki finansowe będą też bacznie analizować wystąpienie szefa Fed Kevina Warsha na sympozjum w Jackson Hoel, aby ocenić, jak może przebiegać trajektoria amerykańskiej polityki pieniężnej\" - dodał.\n\nW poniedziałek sekretarz skarbu USA Scott Bessent ogłosił, że państwa świata muszą zerwać stosunki gospodarcze z Iranem albo narażą się na konsekwencje ze strony Waszyngtonu.\n\nBessent przedstawił nowe, rozszerzone sankcje wobec Teheranu. Zasugerował, że dotyczy to również Chin.\n\nBessent ogłosił rozpoczęcie operacji \"Economic Outcast\" (\"Gospodarczy Wyrzutek\"), obliczonej na \"ekonomiczne uduszenie\" Iranu. Zaznaczył, że prezydent USA Donald Trump rozmawiał z światowymi przywódcami, by zerwali kontakty z Iranem.\n\nNa rynku walutowym japoński jen kosztuje 159,32 za 1 USD, w dół o 0,1 proc.\n\nBitcoin kosztuje 80.363 USD za token, wyżej o 1,8 proc.\n\nRentowność 10-letnich UST wynosi 4,71 proc., wyżej o 2 pb.\n\nZłoto jest wyceniane w transakcjach spot po 4.635 USD za uncję, niżej o 0,4 proc.\n\nW Europie kontrakty na Stoxx 50 rosną o 0,29 proc., na FTSE 100 zwyżkują o 0,20 proc., na CAC 40 idą wyżej o 0,39 proc., a na DAX zyskują 0,23 proc.\n\nIndeksy w Europie głównie zniżkowały na koniec sesji w poniedziałek.\n\nNa zamknięciu sesji indeks Euro Stoxx 50 spadł o 0,22 proc., niemiecki DAX zniżkował o 0,11 proc., francuski CAC 40 poszedł w dół o 0,37 proc., a brytyjski FTSE zyskał 0,35 proc.\n\nBenchmarkowy indeks Stoxx Europe 600 zwyżkował o 0,05 proc.\n\nKontrakty na indeksy w USA są w przedziale 0,03 proc. do 0,50 proc.\n\nPoniedziałkowa sesja na Wall Street zakończyła się przewagą spadków wśród głównych indeksów.\n\nDow Jones Industrial na zamknięciu wzrósł o 0,26 proc. i wyniósł 53.417,16 pkt.\n\nS&P 500 na koniec dnia stracił 0,28 proc. i wyniósł 7.652,86 pkt.\n\nNasdaq Composite zniżkował o 0,77 proc. do 25.980,19 pkt. (PAP Biznes)",
+      "date_published": "2026-08-25T08:23:00+02:00",
+      "source": "PAP Biznes"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Prad-w-2027-roku-nie-musi-podrozec-Prezes-URE-wezwie-spolki-energetyczne-do-szybszych-kalkulacji-9186610.html",
@@ -83,6 +147,14 @@
       "content_html": "Przepraszam każdego pacjenta i każdego naszego użytkownika, niezależnie od tego, czy incydent dotyczy jego danych - podkreślił w poniedziałkowym oświadczeniu w sprawie cyberataku na firmę MyDr, jej szef Piotr Miluski. Dodał, że zespół MyDr...",
       "date_published": "2026-08-25T08:20:00+02:00",
       "source": "Bankier.pl"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/gospodarka/oprocentowanie-kredytow-hipotecznych-wg-stopy-banku-centralnego-zwieksza",
+      "url": "https://biznes.pap.pl/wiadomosci/gospodarka/oprocentowanie-kredytow-hipotecznych-wg-stopy-banku-centralnego-zwieksza",
+      "title": "Oprocentowanie kredytów hipotecznych wg stopy banku centralnego zwiększa przejrzystość ceny kredytu - KNF",
+      "content_html": "Oprocentowanie kredytów hipotecznych według formuły stopy banku centralnego plus marża zwiększa przejrzystość ceny kredytu i mogłoby funkcjonować obok obecnie stosowanych wskaźników referencyjnych - ocenił Urząd Komisji Nadzoru Finansowego.\n\nMinisterstwo Finansów zwróciło się do NBP ws. propozycji KNF i sektora bankowego uwzględnienia stopy referencyjnej NBP przy wyznaczaniu oprocentowania kredytów hipotecznych.\n\nWcześniej MF zwróciło się o opinie w tej sprawie do Europejskiego Banku Centralnego.\n\nW swoim wystąpieniu UKNF wskazał, że rozwiązanie polegające na ustalaniu oprocentowania kredytu jako sumy stopy banku centralnego i marży ma uzasadnienie prawne oraz ekonomiczne, choć powinno pełnić przede wszystkim funkcję uzupełniającą wobec podstawowego standardu rynkowego.\n\n\"Dodatkowo powyższa konstrukcja może służyć jako składnik tzw. planu awaryjnego, o którym mowa w art. 28 ust. 2 rozporządzenia 2016/1011. Z tego względu propozycja legislacyjna przedstawiona przez UKNF nie wydaje się mieć charakteru zmiany systemowej\" - napisał UKNF.\n\nUrząd podkreślił, że stosowanie stopy banku centralnego jako elementu oprocentowania kredytów hipotecznych jest dopuszczone w ustawodawstwie wielu państw europejskich, m.in. Czech, Danii, Niemiec, Austrii, Francji, Szwecji, Portugalii, Węgier, Cypru, Malty, Irlandii i Wielkiej Brytanii.\n\nZdaniem UKNF taka konstrukcja zwiększa przejrzystość ceny kredytu, przenosi konkurencję między bankami na poziom marży oraz wzmacnia transmisję impulsów polityki pieniężnej do gospodarstw domowych.\n\nUKNF ocenia, że zmiana ustawowa powinna wzmocnić pozycję prawną i swobodę wyboru konsumenta.\n\n\"Strony umowy kredytu hipotecznego, w przypadku gdy nie uzgodniły stałej stopy oprocentowania kredytu hipotecznego, będą mogły wybrać wskaźnik referencyjny, albo stopę referencyjną banku centralnego właściwą dla waluty kredytu. W każdym przypadku stałym elementem pozostaje wysokość marży ustalonej w umowie o kredyt hipoteczny. Przepisy przejściowe powinny umożliwić konsumentom, którzy zawarli umowę o kredyt hipoteczny skorzystanie z dobrodziejstwa nowych, wprowadzanych nowelizacją, instytucji, a mianowicie uzgodnienie stałej stopy oprocentowania kredytu hipotecznego albo wyboru między wskaźnikiem a stopą referencyjną banku centralnego\" - napisano. (PAP Biznes)",
+      "date_published": "2026-08-25T08:20:00+02:00",
+      "source": "PAP Biznes"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Nowy-uklad-sil-w-Sejmie-Morawiecki-chce-dwoch-dodatkowych-wicemarszalkow-9186524.html",
@@ -125,6 +197,14 @@
       "source": "Bankier.pl"
     },
     {
+      "id": "https://biznes.pap.pl/wiadomosci/firmy/szacowane-zasoby-rudy-w-sierra-gorda-wieksze-o-61-proc-south32",
+      "url": "https://biznes.pap.pl/wiadomosci/firmy/szacowane-zasoby-rudy-w-sierra-gorda-wieksze-o-61-proc-south32",
+      "title": "Szacowane zasoby rudy w Sierra Gorda większe o 61 proc. - South32",
+      "content_html": "Zaktualizowane szacunki dla kopalni miedzi Sierra Gorda wskazują na wzrost zasobów rudy o 61 proc., do 1.100 mln ton - poinformował w komunikacie australijski South32, partner KGHM w chilijskim projekcie.\n\nJak podano, zaktualizowane szacunki pokazują też wydłużenie początkowego okresu eksploatacji zasobów o około pięć lat, do 2045 r. oraz wskazują na zasoby mineralne na poziomie 1.870 mln ton.\n\nSouth32 podał w komunikacie, że aktualizacje te odzwierciedlają lepsze zdefiniowanie złoża w wyniku pomyślnie przeprowadzonych programów wierceń uzupełniających, w ramach których w latach 2023–2025 wykonano 200 otworów wiertniczych o łącznej długości około 85.000 metrów.\n\n\"Niniejsza aktualizacja podkreśla skalę, jakość i długotrwałość złoża w Sierra Gorda, które, jak oczekujemy, będzie istotnym źródłem miedzi przez kolejne dziesięciolecia\" - powiedział, cytowany w komunikacie prasowym, dyrektor generalny South32, Matt Daley.\n\n\"Jest to kontynuacja zatwierdzonego w lipcu projektu realizacji czwartej linii mielenia w Sierra Gorda, który ma zwiększyć produkcję miedzi o około 30 procent od 2031 roku\" - dodał.\n\nJak poinformował, South32 w dalszym ciągu współpracuje z partnerem w ramach joint venture, aby stymulować dalszy rozwój i wzrost wartości w Sierra Gorda.\n\n\"Obejmuje to projekt poszukiwawczy Catabela Northeast, w ramach którego odwierty poszukiwawcze przecięły znaczące złoża miedzi, co podkreśla potencjał przyszłego przedłużenia okresu eksploatacji kopalni\" - powiedział Daley.\n\nKopalnia odkrywkowa Sierra Gorda położona jest w Chile, operuje na złożu miedziowo-molibdenowym. To wspólne przedsięwzięcie KGHM (55 proc. udziałów) i australijskiej grupy górniczej South32 (45 proc. udziałów). (PAP Biznes)",
+      "date_published": "2026-08-25T08:12:00+02:00",
+      "source": "PAP Biznes"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Ceuta-pod-bezposrednim-zarzadem-Madrytu-Sanchez-reaguje-na-kryzys-migracyjny-9186560.html",
       "url": "https://www.bankier.pl/wiadomosc/Ceuta-pod-bezposrednim-zarzadem-Madrytu-Sanchez-reaguje-na-kryzys-migracyjny-9186560.html",
       "title": "Ceuta pod bezpośrednim zarządem Madrytu. Sanchez reaguje na kryzys migracyjny",
@@ -139,6 +219,14 @@
       "content_html": "Puste przepisy, które nie likwidują żadnego realnego problemu - tak o prezydenckim projekcie „lex szarlatan”, który ma walczyć z pseudomedycznymi praktykami, powiedział PAP prawnik prof. Mikołaj Małecki. - Prezydent zawarł instrukcję obsługi...",
       "date_published": "2026-08-25T08:10:00+02:00",
       "source": "Bankier.pl"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/rynki/ceny-miedzi-w-londynie-ida-w-dol-1",
+      "url": "https://biznes.pap.pl/wiadomosci/rynki/ceny-miedzi-w-londynie-ida-w-dol-1",
+      "title": "Ceny miedzi w Londynie idą w dół",
+      "content_html": "Notowania miedzi na giełdzie metali LME w Londynie idą w dół z historycznych poziomów, jakie osiągnęły na zamknięciu sesji w poniedziałek. Inwestorzy czekają na wskazówki dotyczące amerykańskiej polityki monetarnej - informują maklerzy.\n\nMiedź w dostawach 3-miesięcznych na LME jest wyceniana niżej o 0,5 proc. - po 14.201,00 USD za tonę.\n\nNa Comex w Nowym Jorku miedź kosztuje 6,6935 USD za funt, niżej o 0,20 proc. Metal zyskał w tym roku na Comex 15,98 proc.\n\nNa giełdzie metali SHF w Szanghaju miedź jest wyceniana po 107.980 juanów za tonę, po zwyżce o 0,22 proc. i po wzroście od początku roku o 9,69 proc.\n\nInwestorzy oczekują na sygnały dotyczące polityki monetarnej w USA i w tym kontekście będą uważnie śledzić wystąpienie szefa Fed Kevina Warsha w piątek podczas sympozjum w Jackson Hole.\n\nAnalitycy wskazują, że komentarze Warsha zostaną poddane wnikliwej analizie pod kątem oznak dalszych działań Fed w celu zwalczania inflacji.\n\nW poniedziałek sekretarz skarbu USA Scott Bessent powstrzymał się tymczasem od sygnalizowania dalszych reform zarządzania amerykańskim długiem publicznym po tym, jak zeszłotygodniowa interwencja na rynkach obligacji przyczyniła się do wzrostu cen metali bazowych po osłabieniu się notowań USD. W tym tygodniu jednak kurs amerykańskiej waluty na razie się ustabilizował.\n\n\"Inwestorzy na rynkach metali powinni przygotować się na kupno podczas spadków cen, gdy pozycjonowanie zostanie obniżone z obecnych wysokich poziomów\" - napisali w rynkowej nocie analitycy Citigroup Inc.\n\nAnalitycy Citi powtórzyli swoją prognozę o 15.000 USD za tonę miedzi do końca tego roku.\n\nNa zakończenie poprzedniej sesji miedź na LME w Londynie kosztowała 14.273,00 USD za tonę.\n\nOd początku 2026 r. cena miedzi na LME wzrosła o 14,89 proc. (PAP Biznes)",
+      "date_published": "2026-08-25T08:10:00+02:00",
+      "source": "PAP Biznes"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Wojna-celna-USA-z-Kanada-trwa-Trump-grozi-gorszymi-konsekwencjami-9186521.html",
@@ -293,54 +381,6 @@
       "source": "PAP Biznes"
     },
     {
-      "id": "https://biznes.pap.pl/wiadomosci/rynki/kalendarium-rynku-kapitalowego-gpw-2026-08-25",
-      "url": "https://biznes.pap.pl/wiadomosci/rynki/kalendarium-rynku-kapitalowego-gpw-2026-08-25",
-      "title": "Kalendarium rynku kapitałowego GPW 2026-08-25",
-      "content_html": "Kalendarium rynku kapitałowego GPW 2026-08-25 - 2026-08-31\n\n08:30 - BUMECH - Nadzwyczajne walne zgromadzenie\n\nW sprawie zmian w składzie RN, zmiany sposobu i wysokości wynagradzania członków RN.\n\n12:00 - YARRL - Nadzwyczajne walne zgromadzenie\n\nW sprawie zniesienia uprzywilejowania akcji serii A i B, ich zamiany na akcje zwykłe na okaziciela.\n\n10:00 - SUNEX - Nadzwyczajne walne zgromadzenie\n\nW sprawie zgody na zawarcie umowy pożyczki, zgody na zawarcie umowy sprzedaży.\n\n11:00 - NANOGROUP - Nadzwyczajne walne zgromadzenie\n\nW sprawie emisji akcji zwykłych na okaziciela serii O.\n\n11:00 - PROTEKTOR - Nadzwyczajne walne zgromadzenie\n\nW sprawie zmiany w składzie rady nadzorczej, emisji akcji zwykłych na okaziciela serii I.\n\n11:00 - MOSTALWAR - Nadzwyczajne walne zgromadzenie\n\n14:00 - DIAG - Nadzwyczajne walne zgromadzenie\n\nW sprawie połączenia ze spółką zależną, powołania wiceprezesa zarządu.",
-      "date_published": "2026-08-25T07:00:00+02:00",
-      "source": "PAP Biznes"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/firmy/skor-ebitda-grupy-pracuj-w-ii-kw-2026-r-wyniosla-1029-mln-zl-wobec-1008-mln-zl",
-      "url": "https://biznes.pap.pl/wiadomosci/firmy/skor-ebitda-grupy-pracuj-w-ii-kw-2026-r-wyniosla-1029-mln-zl-wobec-1008-mln-zl",
-      "title": "Skor. EBITDA Grupy Pracuj w II kw. 2026 r. wyniosła 102,9 mln zł, wobec 100,8 mln zł konsensusu",
-      "content_html": "Skorygowana EBITDA Grupy Pracuj w drugim kwartale 2026 r. wyniosła 102,9 mln zł, wobec 91,9 mln zł rok wcześniej - wynika z raportu spółki. Konsensus PAP Biznes zakładał 100,8 mln zł skorygowanej EBITDA.\n\nPrzychody wyniosły 216,1 mln zł, wobec 214,9 mln zł konsensusu. Przychody wzrosły 5,7 proc. rdr.\n\nZysk netto j.d. grupy Grupy Pracuj w drugim kwartale 2026 r. wyniósł 65,6 mln zł. Zysk okazał się być 6,7 proc. poniżej oczekiwań analityków, którzy prognozowali, że wyniesie on 70,3 mln zł.\n\nRaportowana EBITDA wyniosła ok. 94,9 mln zł, a skonsolidowany zysk netto 67 mln zł.\n\nMarża skorygowana EBITDA wyniosła 47,6 proc., w porównaniu do 44,9 proc. rok wcześniej.\n\nPoniżej przedstawiamy wyniki Grupy Pracuj w drugim kwartale 2026 roku oraz ich odniesienie do konsensusu PAP Biznes i poprzednich wyników.",
-      "date_published": "2026-08-25T06:41:00+02:00",
-      "source": "PAP Biznes"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/firmy/wyniki-grupy-pracuj-w-ii-kw-2026-roku-vs-konsensus-pap-tabela",
-      "url": "https://biznes.pap.pl/wiadomosci/firmy/wyniki-grupy-pracuj-w-ii-kw-2026-roku-vs-konsensus-pap-tabela",
-      "title": "Wyniki Grupy Pracuj w II kw. 2026 roku vs. konsensus PAP (tabela)",
-      "content_html": "Poniżej przedstawiono wyniki Grupy Pracuj w drugim kwartale 2026 roku oraz ich odniesienie do konsensusu PAP Biznes i poprzednich wyników.\n\nEBITDA skorygowana w II kw. wyniosła 102,9 mln zł.\n\nPrognozy dla wyniku EBITDA skorygowana zakładały, że wyniesie ona 100,8 mln zł (przedział 99,1-102 mln zł).\n\nKonsensus tworzony jest na podstawie prognoz biur maklerskich zebranych wcześniej przez PAP. Są one dostępne w pełnej wersji Serwisu Ekonomicznego PAP Biznes. Baza konsensusów PAP zawiera prognozy wyników kwartalnych i rocznych dla ponad 200 spółek notowanych na GPW. (PAP Biznes)",
-      "date_published": "2026-08-25T06:38:00+02:00",
-      "source": "PAP Biznes"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/rynki/rentownosci-obligacji-wybranych-panstw-tabela-101",
-      "url": "https://biznes.pap.pl/wiadomosci/rynki/rentownosci-obligacji-wybranych-panstw-tabela-101",
-      "title": "Rentowności obligacji wybranych państw (tabela)",
-      "content_html": "Poniżej zestawienie rentowności obligacji wybranych państw.\n\nW tabeli kolejno rentowność aktualna, rentowność dzień wcześniej, pięć dni wcześniej, miesiąc wcześniej, trzy miesiące wcześniej i dwanaście miesięcy wcześniej (w proc.)\n\nRentowności dla typowych obligacji, podane za agencją Bloomberg.(PAP Biznes)",
-      "date_published": "2026-08-25T06:33:00+02:00",
-      "source": "PAP Biznes"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/rynki/notowania-metali-bazowych-wegla-i-paliw-tabela-2595",
-      "url": "https://biznes.pap.pl/wiadomosci/rynki/notowania-metali-bazowych-wegla-i-paliw-tabela-2595",
-      "title": "Notowania metali bazowych, węgla i paliw (tabela)",
-      "content_html": "Notowania metali bazowych na London Metal Exchange, uprawnień EUA do emisji CO2, ceny węgla energetycznego ARA na przyszły rok oraz ceny paliw.",
-      "date_published": "2026-08-25T06:32:00+02:00",
-      "source": "PAP Biznes"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/rynki/zamkniecia-na-gieldach-w-ameryce-polnocnej-i-poludniowej-tabela-95",
-      "url": "https://biznes.pap.pl/wiadomosci/rynki/zamkniecia-na-gieldach-w-ameryce-polnocnej-i-poludniowej-tabela-95",
-      "title": "Zamknięcia na giełdach w Ameryce Północnej i Południowej (tabela)",
-      "content_html": "Poniżej zamknięcia i zmiany indeksów w USA. Kanadzie, Meksyku, Brazylii, Chile, Kolumbii i Argentynie:",
-      "date_published": "2026-08-25T06:31:00+02:00",
-      "source": "PAP Biznes"
-    },
-    {
       "id": "https://www.bankier.pl/wiadomosc/Kolejny-atak-na-tankowiec-w-Ormuz-Statek-zostal-unieruchomiony-9186556.html",
       "url": "https://www.bankier.pl/wiadomosc/Kolejny-atak-na-tankowiec-w-Ormuz-Statek-zostal-unieruchomiony-9186556.html",
       "title": "Kolejny atak na tankowiec w Ormuz. Statek został unieruchomiony",
@@ -363,14 +403,6 @@
       "content_html": "Poniedziałkowa sesja na Wall Street zakończyła się przewagą spadków wśród głównych indeksów. W centrum uwagi inwestorów w tym tygodniu będą kwartalne wyniki Nvidii oraz wystąpienie prezesa Fed Kevina Warsha.",
       "date_published": "2026-08-24T23:54:00+02:00",
       "source": "Bankier.pl"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/rynki/dzien-na-rynkach-na-wall-street-sesja-z-przewaga-spadkow",
-      "url": "https://biznes.pap.pl/wiadomosci/rynki/dzien-na-rynkach-na-wall-street-sesja-z-przewaga-spadkow",
-      "title": "DZIEŃ NA RYNKACH: Na Wall Street sesja z przewagą spadków",
-      "content_html": "Poniedziałkowa sesja na Wall Street zakończyła się przewagą spadków wśród głównych indeksów. W centrum uwagi inwestorów w tym tygodniu będą kwartalne wyniki Nvidii oraz wystąpienie prezesa Fed Kevina Warsha.\n\nDow Jones Industrial na zamknięciu wzrósł o 0,26 proc. i wyniósł 53.417,16 pkt.\n\nS&P 500 na koniec dnia stracił 0,28 proc. i wyniósł 7.652,86 pkt.\n\nNasdaq Composite zniżkował o 0,77 proc. do 25.980,19 pkt.\n\nIndeks spółek o średniej kapitalizacji Russell 2000 spada o 0,71 proc. i wynosi 2.996,54 pkt.\n\nIndeks VIX rośnie o 4,69 proc., do 15,84 pkt.\n\nPodczas poniedziałkowej sesji na wartości traciły akcje producentów półprzewodników. W dół po kilka procent szły m.in. Micron Technology, Advanced Micro Devices i Broadcom.\n\nInne akcje spółek technologicznych również spadły. Coherent i Lumentum spadły odpowiednio o 4 i 3 proc., podczas gdy Sandisk spadł o 6 proc. Zniżkowały też Corning i Seagate Technology.\n\nW tym tygodniu uwaga rynków skupi się na środowym raporcie Nvidii za II kwartał, co będzie kolejnym testem dla branży sztucznej inteligencji po tym, jak niektóre firmy zajmujące się infrastrukturą AI odnotowały dobre wyniki.\n\nBloomberg News poinformował w sobotę, że niektórzy z największych klientów firmy Nvidia dowiedzieli się, iż ceny serwerów wyposażonych w układy AI wzrosną w wielu przypadkach o ponad 15 proc. Analitycy spodziewają się niemal dwukrotnego wzrostu kwartalnych przychodów spółki do około 92 mld USD.\n\n\"Znakomite wyniki mogą nie zagwarantować pozytywnej reakcji, biorąc pod uwagę ostatnio pogarszające się nastroje wokół gigantów branży sztucznej inteligencji. Po uwzględnieniu wysokich zysków z drugiego kwartału w wycenach, obawy związane z finansowaniem sektora sztucznej inteligencji oraz informacje geopolityczne stopniowo przejmują kontrolę nad nastawieniem do ryzyka” – powiedziała Ipek Ozkardeskaya, starsza analityczka w Swissquote Bank.\n\n\"Najważniejszą wiadomością tego tygodnia będą wyniki finansowe Nvidii. Ton tych informacji może wpłynąć na nastroje na rynku” – powiedział Mark Ellis, dyrektor ds. informatyki w Nutshell Asset Management.\n\nW tym tygodniu bankierzy centralni i ekonomiści spotkają się na dorocznym sympozjum w Jackson Hole. Inwestorzy czekają na przemówienie prezesa Rezerwy Federalnej Kevina Warsha, zaplanowane na piątek.\n\nW centrum uwagi wydarzenia znajdują się utrzymująca się presja inflacyjna i 40 bilionów dolarów długu USA. Rynki przewidują około 40-proc. prawdopodobieństwo, że Fed podniesie stopy proc. po posiedzeniu 16 września i są w pełni przygotowane na taki ruch do grudnia.\n\n\"Istnieje kilka powodów, dla których można spodziewać się rozczarowania. Ze względu na to, że Fed już zmierza w kierunku redukcji bilansu, a komitet FOMC poświęcił temu tematowi pewną uwagę w protokole z lipcowego posiedzenia, może to być najprawdopodobniejszy temat do omówienia” – powiedział Bruce Kasman, główny ekonomista JPMorgan.\n\n\"Warsh prawdopodobnie skupi się na wiarygodności i podkreśli, że Fed jest gotowy działać w kwestii inflacji, aby kontrolować długoterminową krzywą rentowności” – powiedział analityk Mohit Kumar z Jefferies.\n\nRentowność 10-letnich obligacji skarbowych spadła o ponad 4 punkty bazowe w poniedziałek po tym, jak CNBC poinformowała, że Skarb Państwa może wykorzystać środki z Rachunku Ogólnego do sfinansowania operacji wykupu.\n\nRentowność 30-letnich obligacji skarbowych w zeszłym tygodniu osiągnęła poziom nienotowany od prawie 20 lat. W poniedziałek spadła o 6 punktów bazowych, osiągając 5,216 proc.\n\nSekretarz skarbu Scott Bessent powiedział w zeszłym tygodniu w CNBC, że plany Departamentu Skarbu, zakładające co najmniej podwojenie poziomu wykupu rządowych długów w ciągu najbliższych kilku miesięcy, mogą być większe niż 4 miliardy dolarów ogłoszone wcześniej w tym tygodniu.\n\nAkcje znalazły się pod presją rosnących rentowności obligacji na całym świecie, a stopy procentowe w Japonii, Francji i Niemczech osiągnęły wieloletnie maksima. Inwestorzy zaczęli obawiać się, że wojna między USA a Irane",
-      "date_published": "2026-08-24T22:09:00+02:00",
-      "source": "PAP Biznes"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Netanjahu-Iran-probowal-zamordowac-jednego-z-moich-synow-9186515.html",
@@ -410,6 +442,14 @@
       "title": "Trump uderza w Kanadę wyższymi cłami. Carney: „Dosyć”",
       "content_html": "Celem negocjacji handlowych z USA było osiągnięcie najlepszego dla Kanady porozumienia, nie mogliśmy zaakceptować tego, co USA zaproponowały – oświadczył w poniedziałek premier Mark Carney.",
       "date_published": "2026-08-24T20:43:00+02:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Rolnicy-otrzymaja-doplaty-do-zakupu-oleju-napedowego-i-nawozu-9186498.html",
+      "url": "https://www.bankier.pl/wiadomosc/Rolnicy-otrzymaja-doplaty-do-zakupu-oleju-napedowego-i-nawozu-9186498.html",
+      "title": "Rolnicy otrzymają dopłaty do zakupu oleju napędowego i nawozu",
+      "content_html": "Resort rolnictwa przygotował projekt rozporządzenia ws. pomocy dla rolników dotkniętych wzrostem cen nawozów i oleju napędowego; otrzymaliby 0,52 zł dopłaty do zakupu litra oleju napędowego i rekompensatę różnicy w cenie nawozu - poinformowało...",
+      "date_published": "2026-08-24T20:20:00+02:00",
       "source": "Bankier.pl"
     },
     {
@@ -533,12 +573,44 @@
       "source": "Bankier.pl"
     },
     {
+      "id": "https://biznes.pap.pl/wiadomosci/firmy/pgf-polska-grupa-fotowoltaiczna-rozpoczela-przeglad-opcji-strategicznych",
+      "url": "https://biznes.pap.pl/wiadomosci/firmy/pgf-polska-grupa-fotowoltaiczna-rozpoczela-przeglad-opcji-strategicznych",
+      "title": "PGF Polska Grupa Fotowoltaiczna rozpoczęła przegląd opcji strategicznych",
+      "content_html": "PGF Polska Grupa Fotowoltaiczna rozpoczęła przegląd opcji strategicznych - poinformowała spółka w komunikacie.\n\n\"Jednocześnie spółka podkreśla, że jest jednostką inwestycyjną i nadal nią pozostanie. Zmianie może ulec przedmiot inwestycji, tj. podmioty, w które spółka będzie inwestować w przyszłości\" - napisano w komunikacie.\n\n\"Spółka rozważa i jest otwarta na szereg możliwych opcji strategicznych. Spółka planuje zwołanie walnego zgromadzenia w celu zmiany firmy (nazwy) spółki, która będzie odzwierciedlać rozpoczęty przegląd opcji strategicznych. Spółka nie wyklucza również przeprowadzenia emisji akcji, której celem będzie oddłużenie Spółki (w tym również wymagalnych zobowiązań wobec KNF) oraz pozyskanie środków na dokonanie inwestycji w spółki z sektora obronnego\" - dodano. (PAP Biznes)",
+      "date_published": "2026-08-24T18:05:00+02:00",
+      "source": "PAP Biznes"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Oferta-Unibepu-na-budowe-hali-w-Bialymstoku-wybrana-jako-najkorzystniejsza-9186417.html",
       "url": "https://www.bankier.pl/wiadomosc/Oferta-Unibepu-na-budowe-hali-w-Bialymstoku-wybrana-jako-najkorzystniejsza-9186417.html",
       "title": "Oferta Unibepu na budowę hali w Białymstoku wybrana jako najkorzystniejsza",
       "content_html": "Oferta Unibepu na budowę hali widowiskowo-sportowej w Białymstoku o wartości ok. 392,78 mln zł netto została wybrana jako najkorzystniejsza - poinformowała spółka w komunikacie.",
       "date_published": "2026-08-24T18:04:00+02:00",
       "source": "Bankier.pl"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/firmy/skorygowana-ebitda-ten-square-games-w-ii-kw-26-wyniosla-214-mln-zl-wobec-20-mln-zl",
+      "url": "https://biznes.pap.pl/wiadomosci/firmy/skorygowana-ebitda-ten-square-games-w-ii-kw-26-wyniosla-214-mln-zl-wobec-20-mln-zl",
+      "title": "Skorygowana EBITDA Ten Square Games w II kw. '26 wyniosła 21,4 mln zł wobec 20 mln zł konsensusu",
+      "content_html": "Skorygowana EBITDA Ten Square Games w II kwartale 2026 roku wyniosła 21,4 mln zł - podał producent gier mobilnych w raporcie. Wynik był o 7,1 proc. powyżej konsensusu PAP Biznes na poziomie 20 mln zł.\n\nZysk netto j.d. grupy Ten Square Games w II kwartale 2026 r. spadł do 14,6 mln zł z 20 mln zł rok wcześniej i okazał się zgodny z oczekiwaniami analityków ankietowanych przez PAP Biznes, którzy prognozowali, że wyniesie on 14,5 mln zł.\n\nGrupa zamknęła pierwsze półrocze 2026 roku z zyskiem netto na poziomie 28,2 mln zł w porównaniu do 47,4 mln zł rok wcześniej. Spółka podała, że przyczyną spadku, podobnie jak w przypadku skorygowanej EBITDA, są zwiększone nakłady na marketing, które z poziomu 28,3 mln w pierwszym półroczu 2025 roku wzrosły do 58,3 mln w pierwszym półroczu 2026 roku.\n\n\"Drugi kwartał pokazuje, że nasza strategia wzrostu zaczyna przekładać się na widoczny postęp w różnych częściach portfolio. Nie budujemy przyszłego wzrostu wokół jednego tytułu, ale wokół bardziej zdywersyfikowanego modelu: wzmocnionych głównych tytułów, gier z potencjałem dalszego skalowania oraz nowych linii produktowych, które mogą otwierać kolejne możliwości rozwoju\" - powiedział, cytowany w komunikacie prasowym, Andrzej Ilczuk, prezes Ten Square Games.\n\n\"W Fishing Clash poprawa KPI wspiera powrót do aktywniejszego wsparcia marketingowego, a w Trophy Hunter i Wings of Heroes kontynuowaliśmy prace produktowe przygotowujące je do kolejnych faz wzrostu. (...) Medal Hunter trafił na rynek globalny jako drugi tytuł w naszej linii shooterów, a Fishing Trip kontynuował walidację rynkową jako potencjalny początek kolejnej linii produktowej\" - dodał.\n\nPodał, że pozytywne sygnały były widoczne również w lipcu, kiedy płatności poprawiły się w większości kluczowych tytułów, w tym w Fishing Clash, Hunting Clash, Trophy Hunter i Wings of Heroes.\n\nPrzychody wyniosły 93,7 mln zł i również były zgodne z konsensusem na poziomie 93,2 mln zł, rosnąc o 11 proc. rdr i spadając 4,9 proc. kdk.\n\nPłatności grupy wyniosły 93,3 mln zł i były wyższe o 14,6 proc. niż rok wcześniej. W całym pierwszym półroczu 2026 roku płatności osiągnęły 191,7 mln zł, co oznacza wzrost o 11,5 proc. rok do roku.\n\n\"Kwartał do kwartału płatności były niższe, głównie ze względu na niższy poziom wydatków marketingowych. Jednocześnie, ich ograniczenie w połączeniu z dalszą dyscypliną kosztową pozwoliły na wzrost wyniku na poziomie skorygowana EBITDA o 13,5 proc. kwartał do kwartału\" - napisano w komunikacie.\n\nDodano,że w porównaniu z drugim kwartałem 2025 roku wydatki marketingowe były ponad dwukrotnie wyższe.\n\nEBIT wyniósł 16,4 mln zł i był o 2,4 proc. wyższy od konsensusu na poziomie 16 mln zł. EBIT spadł 30,6 proc. rdr i wzrósł o 13,2 proc. w porównaniu z poprzednim kwartałem.\n\nPrzepływy pieniężne z działalności operacyjnej wyniosły 20,1 mln zł i były zbliżone do wyniku na poziomie skorygowanej EBITDA.\n\nPodano, że po wypłacie dywidendy w wysokości 63,7 mln zł oraz płatności ostatniej transzy earn-outu do byłych właścicieli Rortosa w wysokości 18 mln zł, środki pieniężne i ich ekwiwalenty wyniosły 73,1 mln zł. (PAP Biznes)",
+      "date_published": "2026-08-24T18:04:00+02:00",
+      "source": "PAP Biznes"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/firmy/cd-projekt-red-planuje-premiere-wiedzmina-4-na-2028-rok-nowakowski",
+      "url": "https://biznes.pap.pl/wiadomosci/firmy/cd-projekt-red-planuje-premiere-wiedzmina-4-na-2028-rok-nowakowski",
+      "title": "CD Projekt RED planuje premierę \"Wiedźmina 4\" na 2028 rok - Nowakowski",
+      "content_html": "CD Projekt celuje z premierą \"Wiedźmina 4\" na okno wydawnicze w 2028 roku - poinformował Joint CEO dewelopera gier w filmie wideo udostępnionym na platformie X poprzez konto dedykowane grze oraz relac",
+      "date_published": "2026-08-24T18:00:00+02:00",
+      "source": "PAP Biznes"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/rynki/zamkniecia-na-gieldach-w-europie-tabela-2917",
+      "url": "https://biznes.pap.pl/wiadomosci/rynki/zamkniecia-na-gieldach-w-europie-tabela-2917",
+      "title": "Zamknięcia na giełdach w Europie (tabela)",
+      "content_html": "Poniżej zamknięcia i zmiany wybranych indeksów giełdowych w Europie.",
+      "date_published": "2026-08-24T17:59:00+02:00",
+      "source": "PAP Biznes"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Kontrowersje-wokol-raportu-Polakow-Portret-Wlasny-Fundacja-wydala-oswiadczenie-9186363.html",
@@ -549,12 +621,36 @@
       "source": "Bankier.pl"
     },
     {
+      "id": "https://biznes.pap.pl/wiadomosci/gospodarka/ropa-stala-sie-wskaznikiem-nastrojow-oslabia-sie-zaufanie-do-dolara-bank",
+      "url": "https://biznes.pap.pl/wiadomosci/gospodarka/ropa-stala-sie-wskaznikiem-nastrojow-oslabia-sie-zaufanie-do-dolara-bank",
+      "title": "Ropa stała się wskaźnikiem nastrojów; osłabia się zaufanie do dolara – Bank Pocztowy (wywiad)",
+      "content_html": "Obecnie ropa pełni funkcję instrumentu wyceniającego prawdopodobieństwo porozumienia politycznego a nie bieżący bilans podaży i popytu. To czyni ją wskaźnikiem raczej nastrojów niż fundamentów – uważa",
+      "date_published": "2026-08-24T17:40:00+02:00",
+      "source": "PAP Biznes"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Rewolucja-w-oprocentowaniu-hipotek-MF-pyta-NBP-o-stope-referencyjna-9186397.html",
       "url": "https://www.bankier.pl/wiadomosc/Rewolucja-w-oprocentowaniu-hipotek-MF-pyta-NBP-o-stope-referencyjna-9186397.html",
       "title": "Rewolucja w oprocentowaniu hipotek? MF pyta NBP o stopę referencyjną",
       "content_html": "Ministerstwo Finansów, zgodnie z wcześniejszymi zapowiedziami, zwróciło się do NBP ws. propozycji KNF i sektora bankowego uwzględnienia stopy referencyjnej NBP przy wyznaczaniu oprocentowania kredytów hipotecznych.",
       "date_published": "2026-08-24T17:36:00+02:00",
       "source": "Bankier.pl"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/firmy/tauron-szacuje-wynik-ebitda-w-ii-kw-na-1606-mld-zl-wobec-1583-mld-zl-konsensusu",
+      "url": "https://biznes.pap.pl/wiadomosci/firmy/tauron-szacuje-wynik-ebitda-w-ii-kw-na-1606-mld-zl-wobec-1583-mld-zl-konsensusu",
+      "title": "Tauron szacuje wynik EBITDA w II kw. na 1,606 mld zł, wobec 1,583 mld zł konsensusu",
+      "content_html": "Tauron szacuje, że w drugim kwartale 2026 r. jego wynik EBITDA wyniósł 1,606 mld zł, a zysk netto sięgnął 586 mln zł. Konsensus PAP Biznes zakładał 1,583 mld zł EBITDA oraz 592,6 mln zł zysku netto.",
+      "date_published": "2026-08-24T17:35:00+02:00",
+      "source": "PAP Biznes"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/gospodarka/pln-powinien-pozostac-w-przedziale-425-435eur-sa-ryzyka-wiekszego-oslabienia",
+      "url": "https://biznes.pap.pl/wiadomosci/gospodarka/pln-powinien-pozostac-w-przedziale-425-435eur-sa-ryzyka-wiekszego-oslabienia",
+      "title": "PLN powinien pozostać w przedziale 4,25-4,35/EUR; są ryzyka większego osłabienia – B. Pocztowy (wywiad)",
+      "content_html": "Złoty przez najbliższy kwartał prawdopodobnie będzie się utrzymywał w przedziale 4,25-4,35/EUR – uważa Monika Kurtek, główna ekonomistka Banku Pocztowego. Jej zdaniem, w przypadku eskalacji wojny w Za",
+      "date_published": "2026-08-24T17:28:00+02:00",
+      "source": "PAP Biznes"
     },
     {
       "id": "https://biznes.pap.pl/wiadomosci/firmy/szacunkowe-wyniki-tauronu-w-ii-kw-2026-roku-vs-konsensus-pap-tabela",
@@ -909,22 +1005,6 @@
       "source": "PAP Biznes"
     },
     {
-      "id": "https://biznes.pap.pl/wiadomosci/firmy/pgz-wkrotce-zaprezentuje-swoje-plany-eksportowe-na-najblizszy-rok-prezes",
-      "url": "https://biznes.pap.pl/wiadomosci/firmy/pgz-wkrotce-zaprezentuje-swoje-plany-eksportowe-na-najblizszy-rok-prezes",
-      "title": "PGZ wkrótce zaprezentuje swoje plany eksportowe na najbliższy rok - prezes",
-      "content_html": "W najbliższych dniach Polska Grupa Zbrojeniowa przyjmie specjalny program, który pokaże plany działalności eksportowej grupy na najbliższe 12 miesięcy, m.in. w Europie, Azji i w Afryce Północnej - poinformował w Skarżysku-Kamiennej prezes Polskiej Grupy Zbrojeniowej Adam Leszkiewicz.\n\nPrzy okazji podpisania pierwszej umowy ramowej w ramach wspólnych zakupów SAFE Leszkiewicz podkreślił, że PGZ patrzy na SAFE jako na wielką szansę dla polskiego przemysłu obronnego i chce wykorzystywać swoje szanse rozwojowe.\n\n\"Eksport to jest obszar, w którym chcemy coraz aktywniej działać. W najbliższych dniach przyjmiemy specjalny program, który pokaże plany na najbliższe 12 miesięcy i nasze aktywności w krajach bałtyckich i w Skandynawii, i na południu Europy, i w Azji, i w Afryce Północnej. To jest dla nas niezwykle ważne. Ważny także będzie obszar Bliskiego Wschodu i Zatoki z naszymi produktami, bo tam także chcemy dotrzeć\" - powiedział prezes PGZ.\n\nW poniedziałek w należących do PGZ zakładach MESKO podpisano umowę ramową dotyczącą dostawy kilku tysięcy przeciwlotniczych zestawów Piorun dla Wojska Polskiego, a także sił zbrojnych Litwy, Łotwy i Norwegii. Zakup ma zostać sfinansowany ze środków z SAFE. Do umowy ramowej musi być jeszcze podpisana umowa wykonawcza; jej wartość to 8 mld zł. (PAP Biznes)",
-      "date_published": "2026-08-24T14:06:00+02:00",
-      "source": "PAP Biznes"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/gospodarka/podaz-pieniadza-m3-w-lipcu-wzrosla-o-113-proc-rdr-mdm-wzrosla-o-03-proc-nbp",
-      "url": "https://biznes.pap.pl/wiadomosci/gospodarka/podaz-pieniadza-m3-w-lipcu-wzrosla-o-113-proc-rdr-mdm-wzrosla-o-03-proc-nbp",
-      "title": "Podaż pieniądza (M3) w lipcu wzrosła o 11,3 proc. rdr, a mdm wzrosła o 0,3 proc. - NBP",
-      "content_html": "Podaż pieniądza (M3) w lipcu 2026 r. wzrosła o 11,3 proc. rdr do 2.900.492,5 mln zł - podał Narodowy Bank Polski. W ujęciu miesięcznym podaż pieniądza wzrosła o 0,3 proc.\n\nPoniżej podaż pieniądza M3 i czynniki jego kreacji:",
-      "date_published": "2026-08-24T14:00:00+02:00",
-      "source": "PAP Biznes"
-    },
-    {
       "id": "https://www.bankier.pl/wiadomosc/Rosyjski-atak-na-blok-mieszkalny-Wsrod-14-rannych-dwoje-dzieci-9186259.html",
       "url": "https://www.bankier.pl/wiadomosc/Rosyjski-atak-na-blok-mieszkalny-Wsrod-14-rannych-dwoje-dzieci-9186259.html",
       "title": "Rosyjski atak na blok mieszkalny. Wśród 14 rannych dwoje dzieci",
@@ -939,22 +1019,6 @@
       "content_html": "W ciągu kilku kolejnych kwartałów powinno nastąpić umiarkowane ochłodzenie wzrostu spożycia prywatnego; wzrost PKB w drugiej połowie 2027 r. powinien wynieść poniżej 3 proc. - ocenili w poniedziałek w komentarzu do danych GUS ekonomiści mBanku...",
       "date_published": "2026-08-24T13:41:00+02:00",
       "source": "Bankier.pl"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/przemysl/etap-wspolnych-zakupow-safe-rozpoczety-warta-8-mld-zl-umowa-ramowa-dla-mesko",
-      "url": "https://biznes.pap.pl/wiadomosci/przemysl/etap-wspolnych-zakupow-safe-rozpoczety-warta-8-mld-zl-umowa-ramowa-dla-mesko",
-      "title": "Etap wspólnych zakupów SAFE rozpoczęty wartą 8 mld zł umową ramową dla Mesko (opis)",
-      "content_html": "W zakładach w MESKO podpisano w poniedziałek umowę ramową dotyczącą dostawy kilku tysięcy przeciwlotniczych zestawów Piorun dla Wojska Polskiego, a także sił zbrojnych Litwy, Łotwy i Norwegii. Zakup ma zostać sfinansowany ze środków z SAFE. Do umowy ramowej musi być jeszcze podpisana umowa wykonawcza; jej wartość to 8 mld zł.\n\nUmowa ramowa podpisana została podczas uroczystości w zakładach MESKO w Skarżysku-Kamiennej (woj. świętokrzyskie) z udziałem m.in. wicepremiera, szefa MON Władysława Kosiniaka-Kamysza.\n\nUmowy dotyczy pozyskania kolejnych tysięcy przenośnych przeciwlotniczych zestawów rakietowych (PPZR) Piorun dla Sił Zbrojnych RP oraz trzech innych państw NATO - Litwy, Łotwy i Norwegii - w ramach realizacji wspólnych zamówień w programie SAFE. MON zaznacza, że ponad 80 proc. Piorunów, które zostaną zamówione, będzie przeznaczonych dla Wojska Polskiego.\n\nSzef MON powiedział, że Pioruny, efekt polskiej myśli technicznej, to już „marka sama w sobie” i jeden z kluczowych produktów eksportowych polskiego przemysłu obronnego, zamówiony już przez szereg państw.\n\nUmowa ramowa nie oznacza jeszcze formalnego zamówienia na sprzęt - do tego potrzebne jest zawarcie jeszcze umowy wykonawczej, w której m.in. wskazuje się źródła finansowania kontraktu. Kosiniak-Kamysz podał, że całość umowy - która finansowana będzie ze środków z programu SAFE - opiewa na ok. 8 mld zł; zapewnił też, że na umowę wykonawczą nie trzeba będzie czekać dłużej niż kilkanaście dni.\n\n\"Dzisiaj zaczynamy kolejny etap związany z programem SAFE. Zamknęliśmy w maju zakupy samodzielne, dzisiaj rozpoczynamy etap wspólnych zakupów (...). Nie dosyć, że te umowy realizujemy w polskim przemyśle zbrojeniowym, to jeszcze nasi partnerzy z Litwy, Łotwy, Norwegii również są z nami i również zdecydowali się na zakupy w polskim przemyśle zbrojeniowym\" - powiedziała z kolei wiceministra obrony narodowej Magdalena Sobkowiak-Czarnecka.\n\n\"Po raz pierwszy Agencja Uzbrojenia dokonuje zakupów nie tylko na rzecz polskiej armii, ale również pośredniczy w zakupach dla armii sojuszników (...). Nie jest przypadkiem, że akurat ta pierwsza umowa warta 8 miliardów złotych dotyczy właśnie naszego Pioruna. Nie ma chyba kraju w Unii Europejskiej, gdzie podczas rozmów o mechanizmie SAFE nie pytano by mnie o możliwości zakupów właśnie Piorunów\" - dodała.\n\nPioruny to polskie zestawy przeciwlotnicze bardzo krótkiego zasięgu, mogące być obsługiwane przez pojedynczych żołnierzy. Służą do strącania wrogich samolotów, śmigłowców, pocisków manewrujących czy dronów.(PAP)",
-      "date_published": "2026-08-24T13:23:00+02:00",
-      "source": "PAP Biznes"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/gospodarka/dane-gus-wspieraja-prognoze-mocnego-ozywienia-inwestycji-w-2026-r-pko-bp",
-      "url": "https://biznes.pap.pl/wiadomosci/gospodarka/dane-gus-wspieraja-prognoze-mocnego-ozywienia-inwestycji-w-2026-r-pko-bp",
-      "title": "Dane GUS wspierają prognozę mocnego ożywienia inwestycji w 2026 r. - PKO BP (opinia)",
-      "content_html": "Poniedziałkowe dane wspierają prognozę mocnego ożywienia inwestycji w całej gospodarce w 2026 r. - wskazują w raporcie ekonomiści PKO BP. GUS podał, że nakłady inwestycyjne przedsiębiorstw w pierwszym półroczu wzrosły o 13,7 proc. rdr i wyniosły 100,2 mld zł.\n\n\"Inwestycje przedsiębiorstw 49+ pracowników w II kw. 2026 r. znacząco przyspieszyły, do 18,7 proc. rdr z 8,7 proc. rdr w I kw. 2026 r. Była to najwyższa dynamika od I kw. 2019 r., co wskazuje na rozkręcanie się ożywienia inwestycyjnego w sektorze przedsiębiorstw. Najsilniejszy wzrost odnotowano, podobnie jak w poprzednich kwartałach w nakładach na środki transportu (44,1 proc. rdr, wspierane m.in. przez nakłady na modernizację transportu publicznego), ale silnie rosły też nakłady na maszyny i urządzenia (14,0 proc. rdr; wspierane przez programy automatyzacji procesów) oraz budynki i budowle (12,4 proc. rdr)\" - napisano w raporcie PKO BP.\n\n\"Dane wspierają naszą prognozę mocnego ożywienia inwestycji w całej gospodarce w 2026 r., mimo słabego I kw. 2026 r. (wzrost tylko o 2,4 proc. rdr). Słaby początek roku mógł być zbiegiem okoliczności – niższych dostaw sprzętu wojskowego oraz mroźnej zimy wstrzymującej budowy\" - dodano.\n\nGłówny Urząd Statystyczny podał w poniedziałek, że nakłady inwestycyjne przedsiębiorstw w pierwszym półroczu 2026 r. wzrosły o 13,7 proc. rdr i wyniosły 100,2 mld zł. (PAP Biznes)",
-      "date_published": "2026-08-24T13:22:00+02:00",
-      "source": "PAP Biznes"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Trump-skraca-jedne-manewry-inne-odwolano-USA-maja-problem-z-wojna-z-Iranem-9186237.html",
@@ -1027,54 +1091,6 @@
       "content_html": "Wstępne założenia projektu budżetu na 2027 rok przewidują zwiększenie dotacji dla Narodowego Funduszu Zdrowia o prawie 17 mld zł. Łącznie to ponad 41 mld zł dodatkowych środków poza szacowanymi wpływami ze składki zdrowotnej – poinformowała...",
       "date_published": "2026-08-24T12:44:00+02:00",
       "source": "Bankier.pl"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Wyzwania-podatkowe-2026-2027-Dolacz-do-liderow-branzy-na-konferencji-w-Warszawie-KOD-RABATOWY-9186206.html",
-      "url": "https://www.bankier.pl/wiadomosc/Wyzwania-podatkowe-2026-2027-Dolacz-do-liderow-branzy-na-konferencji-w-Warszawie-KOD-RABATOWY-9186206.html",
-      "title": "Wyzwania podatkowe 2026/2027. Dołącz do liderów branży na konferencji w Warszawie",
-      "content_html": "Pillar II, publiczne raportowanie CbCR, nowe definicje w podatku od nieruchomości i wzmożone kontrole cen transferowych – to tylko część wyzwań, z jakimi w najbliższym czasie zmierzą się przedsiębiorstwa. Nawet drobny błąd może dziś słono...",
-      "date_published": "2026-08-24T12:43:00+02:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Gigantyczna-akcja-serwisowa-Tesla-wycofuje-3-mln-aut-9186177.html",
-      "url": "https://www.bankier.pl/wiadomosc/Gigantyczna-akcja-serwisowa-Tesla-wycofuje-3-mln-aut-9186177.html",
-      "title": "Gigantyczna akcja serwisowa. Tesla wycofuje 3 mln aut",
-      "content_html": "To jedna z najszerzej zakrojonych akcji wycofywania samochodów z rynku. Objęła bowiem prawie 3 mln tesli wyprodukowanych w Chinach. Powodem są klamki w drzwiach, które są zbyt dobrze zamaskowane w karoserii, a co za tym idzie - w awaryjnych sytuacjach...",
-      "date_published": "2026-08-24T12:34:00+02:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Ukraina-swietuje-niepodleglosc-Lukaszenka-zyczy-jej-pokoju-i-szczescia-9186197.html",
-      "url": "https://www.bankier.pl/wiadomosc/Ukraina-swietuje-niepodleglosc-Lukaszenka-zyczy-jej-pokoju-i-szczescia-9186197.html",
-      "title": "Ukraina świętuje niepodległość. Łukaszenka życzy jej \"pokoju i szczęścia\"",
-      "content_html": "Autorytarny przywódca Białorusi Alaksandr Łukaszenka złożył życzenia narodowi ukraińskiemu z okazji przypadającego 24 sierpnia Dnia Niepodległości Ukrainy. Odpowiedni komunikat pojawił się w poniedziałek na jego oficjalnej stronie internetowej...",
-      "date_published": "2026-08-24T12:23:00+02:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/firmy/komisja-europejska-zatwierdzila-przejecie-wspolnej-kontroli-nad-nexera-holding",
-      "url": "https://biznes.pap.pl/wiadomosci/firmy/komisja-europejska-zatwierdzila-przejecie-wspolnej-kontroli-nad-nexera-holding",
-      "title": "Komisja Europejska zatwierdziła przejęcie wspólnej kontroli nad Nexera Holding przez Orange i APG",
-      "content_html": "Komisja Europejska zatwierdziła przejęcie wspólnej kontroli nad Nexera Holding przez Orange i APG - podała KE w komunikacie. W grudniu 2025 r. podano, że Orange Polska wraz z APG, w imieniu funduszu emertytalnego ABP, zawarły umowę wstępną nabycia spółki Nexera Holding, hurtowego operatora internetu światłowodowego w Polsce.\n\nJak podano, transakcja dotyczy przede wszystkim sektora telekomunikacyjnego w Polsce, w szczególności świadczenia hurtowych usług dostępu szerokopasmowego.\n\nKomisja uznała, że zgłoszona transakcja nie wzbudza zastrzeżeń dotyczących konkurencji, ze względu na jej ograniczony wpływ na konkurencję na rynkach, na których działają przedsiębiorstwa.\n\n\"W szczególności powstały w wyniku transakcji podmiot nadal będzie mierzył się z konkurencją ze strony innych operatorów hurtowego dostępu szerokopasmowego, w tym Fiberhost, PSO, Vectra i Tauron. Działalność obu stron transakcji jest komplementarna, a jej geograficzne nakładanie się jest ograniczone\" - napisano.\n\nUmowa wstępna przewidywała wspólne nabycie Nexery przez Orange Polska i APG. Nexera będzie podmiotem wspólnie kontrolowanym, w którym Orange Polska i APG posiadają po 50 proc. udziałów, podobnie jak w przypadku Światłowodu Inwestycje. W kolejnym kroku, partnerzy wniosą Nexerę do spółki Światłowód Inwestycje.\n\nWartość przedsiębiorstwa (Enterprise Value) w tej transakcji wynosiła 1,5 mld zł, z czego ok. 1,0 mld zł stanowi zadłużenie bankowe.\n\nSpółka poinformowała, że transakcja spowoduje zwiększenie zasięgu Światłowód Inwestycje o 800 tys. gospodarstw domowych oraz wygeneruje synergie operacyjne. (PAP Biznes)",
-      "date_published": "2026-08-24T12:22:00+02:00",
-      "source": "PAP Biznes"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/firmy/cena-maksymalna-na-25-viii-dla-benzyny-pb95-wynosi-657-zll-dla-761-zll",
-      "url": "https://biznes.pap.pl/wiadomosci/firmy/cena-maksymalna-na-25-viii-dla-benzyny-pb95-wynosi-657-zll-dla-761-zll",
-      "title": "Cena maksymalna na 25 VIII dla benzyny Pb95 wynosi 6,57 zł/l, a dla ON 7,61 zł/l",
-      "content_html": "Maksymalna cena dla benzyny Pb95 wynosi 6,57 zł/l, dla benzyny Pb98 to 7,40 zł/l, a dla oleju napędowego 7,61 zł/l - poinformował Minister Energii w obwieszczeniu. Ceny te będą obowiązywały we wtorek, 25 sierpnia.\n\nW poniedziałek, 24 sierpnia, cena maksymalna benzyny Pb95 6,54 zł/l, dla benzyny Pb98 to 7,36 zł/l, a dla oleju napędowego 7,59 zł/l.\n\nRząd zdecydował o częściowym przywróceniu tzw. pakietu \"Ceny Paliw Niżej\", tj. obniżeniu stawki VAT na paliwa z 23 proc. do 8 proc. i wprowadzeniu ceny maksymalnej w dniach 17-31 sierpnia. (PAP Biznes)",
-      "date_published": "2026-08-24T12:05:00+02:00",
-      "source": "PAP Biznes"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/firmy/sprzedaz-miedzi-przez-grupe-kghm-wyniosla-w-lipcu-589-tys-ton-i-byla-wyzsza-o-4",
-      "url": "https://biznes.pap.pl/wiadomosci/firmy/sprzedaz-miedzi-przez-grupe-kghm-wyniosla-w-lipcu-589-tys-ton-i-byla-wyzsza-o-4",
-      "title": "Sprzedaż miedzi przez grupę KGHM wyniosła w lipcu 58,9 tys. ton i była wyższa o 4 proc. rdr",
-      "content_html": "Sprzedaż miedzi przez grupę KGHM wyniosła w lipcu 58,9 tys. ton i była wyższa o 4 proc. rdr. Produkcja miedzi płatnej KGHM wyniosła w lipcu 60,0 tys. ton i była na poziomie nieznacznie wyższym od produkcji w lipcu 2025 r. - podała grupa w komunikacie dotyczącym wstępnych wyników produkcyjnych i sprzedażowych.\n\nKGHM podał, że wzrost sprzedaży miedzi odnotowano w KGHM Polska Miedź S.A. i w Sierra Gorda S.C.M., spadek natomiast w KGHM INTERNATIONAL.\n\nSprzedaż srebra wyniosła 101,7 tony i była wyższa o 3,0 tony (+3 proc.) w porównaniu do analogicznego okresu 2025 roku. Podobnie jak w przypadku sprzedaży miedzi, wzrost sprzedaży srebra odnotowano w KGHM Polska Miedź S.A. i w Sierra Gorda S.C.M., spadek natomiast w KGHM INTERNATIONAL.\n\nSprzedaż TPM wyniosła 11,8 tys. troz i była wyższa o 4,6 tys. troz (+64 proc.) względem sprzedaży zrealizowanej w lipcu 2025 roku. Wyższy poziom sprzedaży TPM został odnotowany w KGHM Polska Miedź S.A. i w Sierra Gorda S.C.M., niższy natomiast w KGHM INTERNATIONAL.\n\nSprzedaż molibdenu wyniosła 0,2 mln funtów i była niższa o 0,2 mln funtów (-50 proc.) od sprzedaży odnotowanej w lipcu ubiegłego roku.\n\nProdukcja srebra płatnego wyniosła 129,1 tony i była niższa o -1,3 tony (-1 proc.) w porównaniu do produkcji w lipcu 2025 roku.\n\nProdukcja TPM wyniosła 12,2 tys. troz, co oznacza poziom niższy o 1,3 tys. troz (-10 proc.) w porównaniu do produkcji rok wcześniej. Spadek dotyczy segmentów zagranicznych.\n\nProdukcja molibdenu wyniosła 0,2 mln funtów i była niższa o 0,5 mln funtów (-71 proc.) w porównaniu do produkcji w lipcu 2025 roku.\n\n\"Po 7 miesiącach 2026 roku produkcja miedzi kształtowała się 1 proc. poniżej budżetu grupy KGHM głównie ze względu na niewykonanie planu w KGHM INTERNATIONAL. spowodowane przerobem rudy o niższych niż zakładano parametrach jakościowych. Natomiast plan produkcji srebra i złota został zrealizowany z nadwyżką\" - napisano. (PAP Biznes)",
-      "date_published": "2026-08-24T12:03:00+02:00",
-      "source": "PAP Biznes"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/MedTech-Solutions-chce-zlozyc-prospekt-do-KNF-w-I-kw-27-planuje-przejsc-na-glowny-rynek-GPW-9186195.html",
