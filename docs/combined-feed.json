@@ -5,12 +5,316 @@
   "home_page_url": "https://www.bankier.pl",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/Wzrost-wydatkow-na-wymiar-sprawiedliwosci-w-2027-r-Setki-nowych-etatow-w-sadownictwie-9189081.html",
+      "url": "https://www.bankier.pl/wiadomosc/Wzrost-wydatkow-na-wymiar-sprawiedliwosci-w-2027-r-Setki-nowych-etatow-w-sadownictwie-9189081.html",
+      "title": "Wzrost wydatków na wymiar sprawiedliwości w 2027 r. Setki nowych etatów w sądownictwie",
+      "content_html": "W 2027 r. planowany jest wzrost środków na wynagrodzenia w wymiarze sprawiedliwości; wiąże to się ze zwiększeniem zatrudnienia i dodatkowymi etatami - wynika z uzasadnienia projektu ustawy budżetowej na 2027 rok.",
+      "date_published": "2026-08-29T00:44:00+02:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Od-NATO-po-promocje-kultury-Prawie-3-7-mld-zl-z-budzetu-panstwa-na-MSZ-9189080.html",
+      "url": "https://www.bankier.pl/wiadomosc/Od-NATO-po-promocje-kultury-Prawie-3-7-mld-zl-z-budzetu-panstwa-na-MSZ-9189080.html",
+      "title": "Od NATO po promocję kultury. Prawie 3,7 mld zł z budżetu państwa na MSZ",
+      "content_html": "Projekt budżetu na rok 2027 przewiduje, że na politykę zagraniczną zostanie przeznaczonych 3,69 mld zł. Kwota ta ma być przeznaczona na realizację zadań zarówno dyplomatycznych i konsularnych, jak i tych związanych z kształtowaniem pozytywnego...",
+      "date_published": "2026-08-29T00:30:00+02:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Warsh-ostrzega-przed-inflacja-Nowojorskie-indeksy-koncza-sesje-pod-kreska-9189073.html",
+      "url": "https://www.bankier.pl/wiadomosc/Warsh-ostrzega-przed-inflacja-Nowojorskie-indeksy-koncza-sesje-pod-kreska-9189073.html",
+      "title": "Warsh ostrzega przed inflacją. Nowojorskie indeksy kończą sesję pod kreską",
+      "content_html": "Piątkowa sesja na Wall Street zakończyła się lekkimi spadkami głównych indeksów, a w centrum uwagi było wystąpienie prezesa Fed Kevina Warsha podczas sympozjum w Jackson Hole, które zostało odebrane przez analityków jako jastrzębie.",
+      "date_published": "2026-08-29T00:12:00+02:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Rzad-wylicza-ubytki-w-podatku-VAT-Program-Ceny-Paliwa-Nizej-i-weto-prezydenta-kosztowaly-miliardy-9189071.html",
+      "url": "https://www.bankier.pl/wiadomosc/Rzad-wylicza-ubytki-w-podatku-VAT-Program-Ceny-Paliwa-Nizej-i-weto-prezydenta-kosztowaly-miliardy-9189071.html",
+      "title": "Rząd wylicza ubytki w podatku VAT. Program „Ceny Paliwa Niżej” i weto prezydenta kosztowały miliardy",
+      "content_html": "W 2026 r. występuje szereg niekorzystnych czynników wpływających na dochody budżetu z podatku VAT - podał resort finansów w uzasadnieniu do projektu ustawy budżetowej na 2027 r. Ubytek dochodów z VAT z tytułu wprowadzenia tzw. programu CPN oszacowano...",
+      "date_published": "2026-08-29T00:04:00+02:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Koniec-problemow-z-drozyzna-Rzad-prognozuje-trwale-niska-inflacje-do-2030-roku-9189048.html",
+      "url": "https://www.bankier.pl/wiadomosc/Koniec-problemow-z-drozyzna-Rzad-prognozuje-trwale-niska-inflacje-do-2030-roku-9189048.html",
+      "title": "Koniec problemów z drożyzną? Rząd prognozuje trwale niską inflację do 2030 roku",
+      "content_html": "Średnioroczna inflacja ma wynieść 2,5 proc. w 2028 r., 2,6 proc. w 2029 r. i 2,5 proc. w 2030 r. – wynika z opublikowanej w piątek prognozy zawartej w uzasadnieniu projektu budżetu państwa na 2027 r.",
+      "date_published": "2026-08-29T00:00:00+02:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Ponad-317-miliardow-zlotych-na-pozyczki-Rzad-odkrywa-karty-ws-finansowania-budzetu-na-2027-rok-9189047.html",
+      "url": "https://www.bankier.pl/wiadomosc/Ponad-317-miliardow-zlotych-na-pozyczki-Rzad-odkrywa-karty-ws-finansowania-budzetu-na-2027-rok-9189047.html",
+      "title": "Ponad 317 miliardów złotych na pożyczki. Rząd odkrywa karty ws. finansowania budżetu na 2027 rok",
+      "content_html": "Ministerstwo Finansów planuje, że finansowanie krajowe potrzeb pożyczkowych netto budżetu państwa ukształtuje się w 2027 r. na poziomie 198.509,5 mln zł, a finansowanie zagraniczne 118.552,9 mln zł - napisano w uzasadnieniu do projektu ustawy...",
+      "date_published": "2026-08-28T23:59:00+02:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Koniec-szybkiego-wzrostu-Ministerstwo-Finansow-ostrzega-przed-spowolnieniem-9189046.html",
+      "url": "https://www.bankier.pl/wiadomosc/Koniec-szybkiego-wzrostu-Ministerstwo-Finansow-ostrzega-przed-spowolnieniem-9189046.html",
+      "title": "Koniec szybkiego wzrostu? Ministerstwo Finansów ostrzega przed spowolnieniem",
+      "content_html": "Przewidywane tempo wzrostu gospodarczego w latach 2028-2030 będzie spadać - wynika z prognoz resortu finansów przedstawionych w uzasadnieniu do opublikowanego w piątek projektu ustawy budżetowej. W roku 2028 tempo wzrostu PKB ma wynieść 2,6 proc...",
+      "date_published": "2026-08-28T23:58:00+02:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Oaza-taniego-tankowania-w-Rzymie-Paliwo-o-40-centow-tansze-ale-trzeba-miec-karte-9189041.html",
+      "url": "https://www.bankier.pl/wiadomosc/Oaza-taniego-tankowania-w-Rzymie-Paliwo-o-40-centow-tansze-ale-trzeba-miec-karte-9189041.html",
+      "title": "Oaza taniego tankowania w Rzymie. Paliwo o 40 centów tańsze, ale trzeba mieć kartę",
+      "content_html": "W Rzymie i okolicach są osoby, które mogą zatankować paliwo w przystępnej cenie. Jest to możliwe na stacjach benzynowych na terenie Watykanu, ale trzeba mieć specjalną legitymację - podał dziennik „Il Messaggero”. Paliwo tańsze o około...",
+      "date_published": "2026-08-28T23:57:00+02:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Rynek-pracy-w-latach-2026-2030-Rzad-przewiduje-spadek-zatrudnienia-9189060.html",
+      "url": "https://www.bankier.pl/wiadomosc/Rynek-pracy-w-latach-2026-2030-Rzad-przewiduje-spadek-zatrudnienia-9189060.html",
+      "title": "Rynek pracy w latach 2026–2030. Rząd przewiduje spadek zatrudnienia",
+      "content_html": "Zgodnie z rządowymi założeniami przedstawionymi w uzasadnieniu do opublikowanego w piątek projektu ustawy budżetowej stopa bezrobocia rejestrowanego utrzyma się na stałym poziomie 6 proc. do 2029 roku. Natomiast na koniec 2030 roku przewidywany...",
+      "date_published": "2026-08-28T23:53:00+02:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Wplywy-do-budzetu-z-podatku-od-kopalin-w-27-spadna-do-6-6-mld-zl-MF-9189061.html",
+      "url": "https://www.bankier.pl/wiadomosc/Wplywy-do-budzetu-z-podatku-od-kopalin-w-27-spadna-do-6-6-mld-zl-MF-9189061.html",
+      "title": "Topną dochody z podatku od kopalin. Rząd prognozuje wyraźny spadek wpływów",
+      "content_html": "Wpływy do budżetu państwa z podatku od kopalin w 2027 r. spadną do 6,6 mld zł z 8,0 mld zł prognozowanego wpływu w tym roku - podano w uzasadnieniu do projektu ustawy budżetowej na 2027 r.",
+      "date_published": "2026-08-28T23:53:00+02:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Miliardowa-strata-banku-centralnego-bije-w-budzet-Rzad-bez-dochodow-z-zysku-NBP-9189059.html",
+      "url": "https://www.bankier.pl/wiadomosc/Miliardowa-strata-banku-centralnego-bije-w-budzet-Rzad-bez-dochodow-z-zysku-NBP-9189059.html",
+      "title": "Miliardowa strata banku centralnego bije w budżet. Rząd bez dochodów z zysku NBP",
+      "content_html": "Ministerstwo Finansów nie przewiduje dochodów budżetu państwa w 2027 r. z tytułu wpłaty z zysku Narodowego Banku Polskiego - podał resort finansów w uzasadnieniu do ustawy budżetowej na 2027 r.",
+      "date_published": "2026-08-28T23:51:00+02:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Wiecej-pieniedzy-dla-Kosciolow-Fundusz-Koscielny-z-kolejnym-rekordem-9189068.html",
+      "url": "https://www.bankier.pl/wiadomosc/Wiecej-pieniedzy-dla-Kosciolow-Fundusz-Koscielny-z-kolejnym-rekordem-9189068.html",
+      "title": "Więcej pieniędzy dla Kościołów. Fundusz Kościelny z kolejnym rekordem",
+      "content_html": "Prognozowane wydatki na Fundusz Kościelny w 2027 r. wyniosą 283 mln 560 tys. zł - wynika z projektu ustawy budżetowej na 2027 r. To o 11 mln zł więcej niż rok wcześniej, kiedy wynosiły 272 mln 560 tys. zł.",
+      "date_published": "2026-08-28T23:50:00+02:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/gospodarka/dochody-panstwa-z-dywidend-maja-wyniesc-w-27-blisko-14-mld-zl-projekt-budzetu",
+      "url": "https://biznes.pap.pl/wiadomosci/gospodarka/dochody-panstwa-z-dywidend-maja-wyniesc-w-27-blisko-14-mld-zl-projekt-budzetu",
+      "title": "Dochody państwa z dywidend mają wynieść w '27 blisko 14 mld zł - projekt budżetu",
+      "content_html": "Zaplanowane dochody budżetu państwa z dywidend od udziałów Skarbu Państwa w spółkach wyniosą 13,9 mld zł - wynika z opublikowanego w piątek przez resort finansów projektu ustawy budżetowej. Oznacza to wzrost o 76 proc. w porównaniu do planów na ten rok.\n\nW uzasadnieniu wskazano, że dochód budżetu państwa z dywidend składa się w 70 proc. z dywidendy od udziałów Skarbu Państwa w spółkach, zaś pozostałe 30 proc. stanowi przychód Funduszu Inwestycji Kapitałowych.\n\nPlan dochodów z dywidend na 2027 r. wynosi 13,9 mld zł i jest wyższy o ok. 76 proc. od planu na 2026 r., tj. o 6 mld zł, a także wyższy od przewidywanego wykonania 2026 r. o ok. 83,3 proc. tj. o 6,3 mld zł. Z kolei w porównaniu z wykonaniem 2025 r., plan jest wyższy o ok. 173,4 proc. tj. o 8,8 mld zł.\n\n„Prognoza dochodów oparta została o szacunki wpływów z tytułu dywidend wybranych spółek z udziałem Skarbu Państwa przy zastosowaniu metod ekonomiczno-statystycznych oraz na podstawie przyjętych założeń dotyczących kształtowania się zmiennych ekonomicznych” - przekazano w uzasadnieniu.\n\nJednocześnie, jak zaznaczyło Ministerstwo Finansów, uzyskanie zakładanych wielkości uzależnione będzie ostatecznie od wyników finansowych spółek, realizowanych przez nie inwestycji oraz ogólnej sytuacji rynkowej, jak również wydawanych corocznie przez Komisję Nadzoru Finansowego zaleceń dla spółek. (PAP)",
+      "date_published": "2026-08-28T23:15:00+02:00",
+      "source": "PAP Biznes"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Mam-poczucie-porazki-Tusk-mocno-o-rozliczaniu-PiS-i-politycznym-cwaniactwie-9188981.html",
+      "url": "https://www.bankier.pl/wiadomosc/Mam-poczucie-porazki-Tusk-mocno-o-rozliczaniu-PiS-i-politycznym-cwaniactwie-9188981.html",
+      "title": "„Mam poczucie porażki”. Tusk mocno o rozliczaniu PiS i politycznym cwaniactwie",
+      "content_html": "Premier Donald Tusk podczas spotkania z uczestnikami Campus Polska podkreślał, że nigdy nie zgodzi się z przekonaniem, że w polityce liczy się wyłącznie siła, skuteczność i cwaniactwo. Przyznał też, że ma poczucie porażki w sprawie rozliczeń...",
+      "date_published": "2026-08-28T23:09:00+02:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/gospodarka/w-26-r-szereg-niekorzystnych-czynnikow-wplywajacych-na-dochody-z-vat-mf",
+      "url": "https://biznes.pap.pl/wiadomosci/gospodarka/w-26-r-szereg-niekorzystnych-czynnikow-wplywajacych-na-dochody-z-vat-mf",
+      "title": "W '26 r. szereg niekorzystnych czynników wpływających na dochody z VAT - MF",
+      "content_html": "W 2026 r. występuje szereg niekorzystnych czynników wpływających na dochody budżetu z podatku VAT - podał resort finansów w uzasadnieniu do projektu ustawy budżetowej na 2027 r. Ubytek dochodów z VAT z tytułu wprowadzenia tzw. programu CPN oszacowano na 3,4 mld zł.\n\n\"W 2026 r. obserwujemy czynniki, które niekorzystnie wpływają na poziom dochodów budżetu państwa z podatku VAT. Planowane wykonanie dochodów budżetu państwa z podatku VAT w 2026 r., będące podstawą prognozy na 2027 r., jest niższe w porównaniu z prognozą z ustawy budżetowej na 2026 r. o ok. 9,5 mld zł\" - napisano.\n\n\"Podstawą do prognozy w 2026 r. było planowane wykonanie dochodów w 2025 r. wyższe o ok. 3,4 mld zł w porównaniu z rzeczywistym wykonaniem w poprzednim roku, co powoduje obniżenie aktualnego planowanego wykonania 2026 r. w stosunku do prognozy zawartej w ustawie budżetowej na bieżący rok\" - dodano.\n\nResort finansów wskazuje, że negatywnie na dochody z podatku VAT w 2026 r. wpływa wprowadzenie w okresach od 31 marca do 30 czerwca oraz od 17 sierpnia do 31 sierpnia 2026 r. tzw. programu CPN (\"Ceny Paliwa Niżej\").\n\n\"Ubytek dochodów budżetu państwa z tytułu podatku VAT został oszacowany dla powyższego działania na kwotę ok. 3,4 mld zł\" - napisano.\n\nResort finansów wskazuje, że kolejną zmianą ujemnie wpływającą na gromadzenie dochodów w podatku od towarów i usług w 2026 r. ma wprowadzone od 1 lutego 2026 r. skrócenie podstawowego terminu zwrotu VAT z 60 dni do 40 dni.\n\n\"Szacunkowy jednorazowy negatywny efekt przesunięcia strumienia zwrotów w 2026 r. na dochody z VAT został oszacowany na około -2,7 mld zł\" - napisano.\n\nW dokumencie zaznaczono, że dodatkowo czynnikiem mającym negatywny wpływ na kształtowanie się dochodów od podatku VAT w 2026 r. ma zwolnienie z VAT zakupów w ramach programu SAFE.\n\n\"Według szacunków Ministerstwa Obrony Narodowej ubytek dochodów budżetu państwa został oszacowany dla powyższego działania na kwotę ok. 4,5 mld zł\" - napisano.\n\n\"Należy również wspomnieć o negatywnym dla dochodów z VAT skutku weta Prezydenta do przyjętej przez Parlament ustawy zakładającej wprowadzenie systemu SENT w obrocie betonem mające na celu uszczelnienie systemu VAT. Ustawa ta przewidywała dochody w wysokości 0,9 mld zł\" - dodano. (PAP Biznes)",
+      "date_published": "2026-08-28T22:59:00+02:00",
+      "source": "PAP Biznes"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/gospodarka/w-28-tempo-wzrostu-pkb-polski-wyniesie-26-proc-ponizej-tempa-wzrostu",
+      "url": "https://biznes.pap.pl/wiadomosci/gospodarka/w-28-tempo-wzrostu-pkb-polski-wyniesie-26-proc-ponizej-tempa-wzrostu",
+      "title": "W '28 tempo wzrostu PKB Polski wyniesie 2,6 proc., poniżej tempa wzrostu potencjalnego",
+      "content_html": "W 2028 r. wzrostPKB Polski wyniesie 2,6 proc., spadając poniżej wzrostu potencjalnego - prognozuje w uzasadnieniu do projektu ustawy budżetowej na 2027 r. resort finansów. W latach 2028-2030 wzrost cen konsumpcyjnych będzie się trwale utrzymywać w dopuszczalnym paśmie odchyleń od celu inflacyjnego NBP.\n\n\"W 2028 r. tempo wzrostu PKB wyniesie 2,6 proc., spadając poniżej tempa wzrostu potencjalnego. Prognozowany wzrost wynika głównie z dynamiki spożycia prywatnego i inwestycji sektora prywatnego. W latach 2029-2030 zakładane działania w celu spełnienia reguł ostrożnościowych wynikających z ustawy o finansach publicznych spowodują spowolnienie dynamiki wzrostu gospodarczego\" - napisano.\n\n\"W rezultacie tempo wzrostu PKB obniży się do 2,1 proc. w 2029 r. i 2,0 proc. w 2030 r.\" - dodano.\n\nWedług prognoz MF, w latach 2028-2030 tempo wzrostu cen konsumpcyjnych będzie się trwale utrzymywać w dopuszczalnym paśmie odchyleń od celu inflacyjnego Narodowego Banku Polskiego.\n\n\"Średnioroczna inflacja wyniesie 2,5 proc. w 2028 r., 2,6 proc. w 2029 r. oraz 2,5 proc. w 2030 r. Osłabienie popytu w gospodarce w dalszych latach prognozy powinno sprzyjać dalszemu obniżaniu się dynamiki cen\" - napisano.\n\nPrezentowany scenariusz nie uwzględnia ewentualnych skutków przedstawionego w lipcu przez Komisję Europejską projektu dyrektywy w zakresie zwiększania konkurencyjności i efektywnej kosztowo dekarbonizacji (ETS2).\n\nProjekt dyrektywy będzie dopiero przedmiotem prac grup roboczych Rady UE i Parlamentu Europejskiego, które uzgodnią finalny kształt dokumentu.\n\n\"Jednocześnie, Rada Ministrów będzie prowadzić dyskusję na temat rozwiązań krajowych, związanych z wdrożeniem dyrektywy\" - dodano.\n\nResort finansów prognozuje, że przeciętne zatrudnienie w gospodarce narodowej będzie obniżało się rok do roku o 0,1 proc. w 2028 r., o 0,3 proc. w 2029 r. oraz o 0,1 proc. w 2030 r.\n\nZ kolei bezrobocie rejestrowane będzie utrzymywało się na poziomie 6,0 proc. aż do 2030 roku, na koniec którego wyniesie 6,1 proc.\n\n\"Niewielki spadek zatrudnienia i wzrost bezrobocia będą spójne z trendem rosnącej stopy bezrobocia NAWRU, odzwierciedlającej czynniki demograficzne i osłabienie koniunktury pod koniec horyzontu prognozy\" - napisano w dokumencie.\n\nWedług prognoz resortu finansów, realne tempo wzrostu przeciętnego wynagrodzenia w gospodarce narodowej w latach 2028-2029 wyniesie kolejno 3,0 proc. oraz 2,4 proc.\n\n\"W 2028 r. dynamika wynagrodzeń będzie nieznacznie przewyższać tempo wzrostu wydajności pracy, natomiast w 2029 r. oba wskaźniki będą kształtować się na zbliżonym poziomie. W 2030 r. tempo wzrostu przeciętnego wynagrodzenia w gospodarce narodowej obniży się i wyniesie 1,8 proc. w ujęciu realnym\" - napisano.\n\n\"Deficyt na rachunku obrotów bieżących w latach 2028-2030 ustabilizuje się w przedziale 1,2-1,4 proc. PKB, co będzie wynikało m.in. z kształtowania się salda obrotów towarowych. Rachunku bieżącego nie będą już wspierały wypłaty z części grantowej KPO, ale do beneficjentów zaczną być przekazywane środki w ramach nowej perspektywy finansowej UE\" - dodano. (PAP Biznes)",
+      "date_published": "2026-08-28T22:40:00+02:00",
+      "source": "PAP Biznes"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/gospodarka/mf-nie-przewiduje-dochodow-budzetu-w-27-r-z-tytulu-wplaty-z-zysku-nbp",
+      "url": "https://biznes.pap.pl/wiadomosci/gospodarka/mf-nie-przewiduje-dochodow-budzetu-w-27-r-z-tytulu-wplaty-z-zysku-nbp",
+      "title": "MF nie przewiduje dochodów budżetu w '27 r. z tytułu wpłaty z zysku NBP",
+      "content_html": "Ministerstwo Finansów nie przewiduje dochodów budżetu państwa w 2027 r. z tytułu wpłaty z zysku Narodowego Banku Polskiego - podał resort finansów w uzasadnieniu do ustawy budżetowej na 2027 r.\n\n\"W 2025 r. wynik finansowy Narodowego Banku Polskiego był ujemny i wyniósł -35.740,5 mln zł. Z uwagi na odnotowaną stratę NBP nie dokonał w 2026 r. wpłaty z zysku do budżetu państwa. Jest to zgodne z prognozą z ustawy budżetowej na rok 2026. W 2027 r. także nie przewiduje się dochodów budżetu państwa z tytułu wpłaty z zysku NBP\" - napisano.\n\n\"Prognoza została przygotowana w oparciu o Plan finansowy Narodowego Banku Polskiego na rok 2026 zatwierdzony uchwałą nr 11/2025 Rady Polityki Pieniężnej z dnia 2 grudnia 2025 r.\" - dodano.\n\nResort finansów zaznacza jednak, że wykonanie planowanego wyniku finansowego NBP obciążone jest dużą niepewnością.\n\n\"Wynika to z probabilistycznego charakteru procesów kształtujących ten wynik, nakładającego ograniczenia występujące na etapie budowy planu, np. w zakresie przyjętych wartości kursu złotego do walut obcych, czy operacji wykonywanych w ramach inwestowania rezerw walutowych oraz prowadzenia polityki pieniężnej\" - napisano.\n\n\"Ponadto poziom wyniku finansowego NBP uzależniony jest od wielu czynników będących poza bezpośrednim wpływem NBP\" - dodano. (PAP Biznes)",
+      "date_published": "2026-08-28T22:32:00+02:00",
+      "source": "PAP Biznes"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/firmy/wplywy-do-budzetu-z-podatku-od-kopalin-w-27-spadna-do-66-mld-zl-mf",
+      "url": "https://biznes.pap.pl/wiadomosci/firmy/wplywy-do-budzetu-z-podatku-od-kopalin-w-27-spadna-do-66-mld-zl-mf",
+      "title": "Wpływy do budżetu z podatku od kopalin w '27 spadną do 6,6 mld zł - MF",
+      "content_html": "Wpływy do budżetu państwa z podatku od kopalin w 2027 r. spadną do 6,6 mld zł z 8,0 mld zł prognozowanego wpływu w tym roku - podano w uzasadnieniu do projektu ustawy budżetowej na 2027 r.\n\n\"Dochody budżetu państwa z tytułu podatku od wydobycia niektórych kopalin w 2027 r. prognozowane są na poziomie 6,6 mld zł\" - napisano w dokumencie.\n\nPrognoza wpływów budżetowych z podatku od wydobycia niektórych kopalin uwzględnia następujące czynniki wpływające na wysokość zrealizowanych dochodów: wolumen wydobycia w kraju, notowania miedzi i srebra na giełdach referencyjnych w Londynie, ceny ropy naftowej ustalane przez Organizację Krajów Eksportujących Ropę Naftową (OPEC), notowania gazu ziemnego na Towarowej Giełdzie Energii oraz kurs walutowy dolara amerykańskiego.\n\n\"Prognoza uwzględnia również zmiany wprowadzone z dniem 1 stycznia 2026 r. do ustawy o podatku od wydobycia niektórych kopalin m.in. odnośnie modyfikacji wzorów stosowanych do obliczania podatku od wydobycia niektórych kopalin w zakresie miedzi oraz srebra w latach 2026-2028\" - napisano. (PAP Biznes)",
+      "date_published": "2026-08-28T22:32:00+02:00",
+      "source": "PAP Biznes"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/rynki/dzien-na-rynkach-na-wall-street-spadki-na-koniec-tygodnia-po-wystapieniu-prezesa",
+      "url": "https://biznes.pap.pl/wiadomosci/rynki/dzien-na-rynkach-na-wall-street-spadki-na-koniec-tygodnia-po-wystapieniu-prezesa",
+      "title": "DZIEŃ NA RYNKACH: Na Wall Street spadki na koniec tygodnia po wystąpieniu prezesa Fed",
+      "content_html": "Piątkowa sesja na Wall Street zakończyła się lekkimi spadkami głównych indeksów, a w centrum uwagi było wystąpienie prezesa Fed Kevina Warsha podczas sympozjum w Jackson Hole, które zostało odebrane przez analityków jako jastrzębie.\n\nDow Jones Industrial na zamknięciu spadł o 0,02 proc. i wyniósł 53.559,99 pkt.\n\nS&P 500 na koniec dnia stracił 0,25 proc. i wyniósł 7.711,73 pkt.\n\nNasdaq Composite zniżkował o 0,52 proc. do 26.402,42 pkt.\n\nIndeks spółek o średniej kapitalizacji Russell 2000 spada o 1,31 proc. i wynosi 2.974,83 pkt.\n\nIndeks VIX spada o 0,90 proc., do 14,38 pkt.\n\nGłównym punktem uwagi rynków w piątek było długo oczekiwane wystąpienie prezesa Rezerwy Federalnej Kevina Warsha na dorocznym sympozjum ekonomistów i bankierów centralnych w Jackson Hole.\n\nWarsh ocenił, że inflacja w USA nie zwalnia znacząco do 2-proc. celu, a dopóki nie będzie takiej pewności bank centralny ma jeszcze pracę do wykonania.\n\n\"To jest mój standard działania: musimy być pewni, że inflacja zmierza do naszego celu, w jasno określony sposób i wystarczająco szybko. W przeciwnym wypadku mamy pracę do wykonania\" - wskazano w wystąpieniu Warsha.\n\n\"Inflacja kształtuje się powyżej naszego 2-proc. celu. Wobec tego głównym punktem uwagi Fed powinny być ceny\" - dodał.\n\nPodkreślił, że ostatnie lepsze od oczekiwań odczyty inflacji w USA nie powinny sugerować znaczącej poprawy trendów inflacyjnych.\n\n\"Choć tego lata odczyty inflacji PCE i CPI były lepsze od oczekiwań, nie wskazują, by trendy inflacyjne znacząco się poprawiły. Wyceny rynkowe pokazują zaufanie, że osiągniemy stabilność cen. Mogę zapewnić, że mają rację\" - dodał.\n\nWystąpienie Warsha rynek odebrał jako lekko jastrzębie - dolar umocnił się względem koszyka nawet o 0,4 proc. do 99,6 pkt, a krzywa rentowności USA wypłaszczyła się jako sygnał oczekiwania na podwyżki stóp proc. w krótkim terminie - dochodowość 2-letnich Tresuries rosła nawet o 10 pb. do 4,33 proc., a 30-letnich obniżyła się o 2 pb. do 5,17 proc.\n\nImplikowane z kontraktów na stopę Fed prawdopodobieństwo podwyżki stóp w USA na posiedzeniu FOMC 16 września wzrosło do ok. 50 proc. z 36 proc. przed przemówieniem Warsha.\n\n\"Prezes Fed dał rynkom to co chciały, czyli więcej szczegółowych poglądów na temat bieżących danych, zwłaszcza inflacji. Oczywiście nie związał sobie rąk żadnymi zapowiedziami przyszłych działań. W tym sensie jest to sytuacja win-win dla Warsha i rynków\" - ocenia prezes Inflation Insights Omair Sharif.\n\nByły wiceprezes Fed R. Clarida powiedział w piątek w Bloomberg TV, że każde kolejne posiedzenie Fed może przynieść podwyżki stóp, jeżeli decydenci z Fed nie będą widzieć poprawy w trendach inflacyjnych.\n\nPrezes Rezerwy Federalnej w Chicago Austan Goolsbee powiedział w piątek, że generalnie zgadza się z charakterystyką gospodarki USA przedstawioną przez prezesa Kevina Warsha i uważa, że ​​głównym problemem jest inflacja.\n\n„Zgadzam się z analizą przedstawioną przez prezesa, że przekroczyliśmy cel. To szło w złym kierunku. Od kilku miesięcy mamy bardziej sprzyjające odczyty, ale to z pewnością nie jest koniec” – powiedział polityk w wywiadzie dla CNBC podczas sympozjum Rezerwy Federalnej w Jackson Hole w stanie Wyoming.\n\nRentowność obligacji skarbowych krótkiego końca krzywej wzrosła po piątkowym przemówieniu Warsha, podczas gdy rentowność obligacji długich, które są powiązane z kosztami pożyczek w całej gospodarce i ostatnio budziły obawy na rynkach, pozostała na niezmienionym poziomie.\n\n„Uważam, że przemówienie zawierało szczególnie mocny przekaz, zarówno dla rynku, jak i ogólnie rzecz biorąc, że sposób, w jaki Fed prowadził działalność przez ostatnie 40 lat pod pewnymi względami nie był tak rygorystyczny, jak mógłby być” – powiedział Bill Birmingham, dyrektor zarządzający REX Financial.\n\nBirmingham dodał, że komentarze Warsha dotyczące w szczególności składu wskaźnika CPI wskazują, „że bardzo zależy mu na wewnętrznym konsensusie w sprawie podwyżki stóp procentowych\".\n\nMarvell Technology stracił 10 proc. z powodu wątpliwości ",
+      "date_published": "2026-08-28T22:08:00+02:00",
+      "source": "PAP Biznes"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/gospodarka/w-2027-finansowanie-krajowe-potrzeb-pozyczkowych-netto-1985-mld-zl",
+      "url": "https://biznes.pap.pl/wiadomosci/gospodarka/w-2027-finansowanie-krajowe-potrzeb-pozyczkowych-netto-1985-mld-zl",
+      "title": "W 2027 finansowanie krajowe potrzeb pożyczkowych netto 198,5 mld zł, zagraniczne 118,55 mld zł",
+      "content_html": "Ministerstwo Finansów planuje, że finansowanie krajowe potrzeb pożyczkowych netto budżetu państwa ukształtuje się w 2027 r. na poziomie 198.509,5 mln zł, a finansowanie zagraniczne 118.552,9 mln zł - napisano w uzasadnieniu do projektu ustawy budżetowej na 2027 r.\n\n\"Planuje się, że finansowanie krajowe potrzeb pożyczkowych netto ukształtuje się na poziomie 198.509,5 mln zł, a finansowanie zagraniczne 118.552,9 mln zł\" - napisano.\n\nNa finansowanie krajowe złożą się następujące pozycje:\n\n- dodatnie saldo z tytułu sprzedaży i wykupu skarbowych papierów wartościowych w wysokości 198.509,5 mln zł;\n\n- zerowe saldo środków pozostających na rachunkach budżetu państwa na początek i koniec roku.\n\nNa saldo z tytułu skarbowych papierów wartościowych złożą się następujące pozycje:\n\n- zerowe saldo sprzedaży i wykupu bonów skarbowych;\n\n- dodatnie saldo sprzedaży i wykupu obligacji rynkowych w wysokości 198.411,9 mln zł będące wynikiem: dodatniego salda w obligacjach zmiennoprocentowych w wysokości 29.416,6 mln zł, dodatniego salda w obligacjach stałoprocentowych w wysokości 164.084,0 mln zł, dodatniego salda w obligacjach indeksowanych w wysokości 4.911,3 mln zł;\n\n- dodatnie saldo sprzedaży i wykupu obligacji oszczędnościowych w wysokości97,6 mln zł.\n\nNa finansowanie zagraniczne potrzeb pożyczkowych netto w wysokości 118.552,9 mln zł złożą się następujące pozycje:\n\n- dodatnie saldo emisji i wykupu obligacji skarbowych wyemitowanych na międzynarodowych rynkach finansowych w wysokości 31.887,5 mln zł;\n\n- ujemne saldo kredytów otrzymanych w wysokości 1.446,3 mln zł;\n\n- dodatnie saldo przepływów związanych z rachunkiem walutowym w wysokości 88.111,6 mln zł.\n\n\"W 2027 roku zakładany jest deficyt budżetu państwa w wysokości 282.600,0 mln zł, deficyt budżetu środków europejskich w wysokości 19.340,8 mln zł oraz pozostałe potrzeby pożyczkowe netto w kwocie 15.121,5 mln zł. W rezultacie planowane w 2027 roku potrzeby pożyczkowe netto kształtują się na poziomie 317.062,4 mln zł wobec kwoty przewidywanego wykonania w 2026 roku 320.636,3 mln zł (w ustawie budżetowej na 2026 rok 422.873,2 mln zł)\" - napisano w dokumencie.\n\n\"Z kolei planowany poziom potrzeb pożyczkowych brutto (suma potrzeb netto oraz przypadającego do wykupu długu przy przyjętych założeniach odnośnie do sprzedaży skarbowych papierów wartościowych w 2026 roku) wynosi 565.316,6 mln zł wobec kwoty przewidywanego wykonania w 2026 roku 582.494,3 mln zł (w ustawie budżetowej na 2026 rok 688.518,4 mln zł)\" - dodano. (PAP Biznes)",
+      "date_published": "2026-08-28T22:06:00+02:00",
+      "source": "PAP Biznes"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Tusk-mowi-wprost-Rosja-planuje-eskalacje-My-bedziemy-nastepni-9189019.html",
+      "url": "https://www.bankier.pl/wiadomosc/Tusk-mowi-wprost-Rosja-planuje-eskalacje-My-bedziemy-nastepni-9189019.html",
+      "title": "Tusk mówi wprost: Rosja planuje eskalację. My będziemy następni",
+      "content_html": "Premier Donald Tusk powiedział w piątek, że są sygnały, iż Rosja szykuje się bardzo poważnie do eskalacji napięcia. Musimy być przygotowani na różne ewentualności i z całą pewnością te najbliższe 7-8 miesięcy będzie krytyczne - podkreślił...",
+      "date_published": "2026-08-28T21:46:00+02:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Ukraina-szykuje-fale-nalotow-Tysiac-dronow-dziennie-uderzy-w-cele-w-Rosji-9189006.html",
+      "url": "https://www.bankier.pl/wiadomosc/Ukraina-szykuje-fale-nalotow-Tysiac-dronow-dziennie-uderzy-w-cele-w-Rosji-9189006.html",
+      "title": "Ukraina szykuje falę nalotów. Tysiąc dronów dziennie uderzy w cele w Rosji",
+      "content_html": "Prezydent Ukrainy Wołodymyr Zełenski poinformował w piątek w wieczornym wystąpieniu, że nakazał armii zwiększenie intensywności ataków dronowych na Rosję do poziomu 1 tys. bezzałogowców wystrzeliwanych każdego dnia.",
+      "date_published": "2026-08-28T21:42:00+02:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Zelenski-chwali-odpowiedni-ton-rozmow-USA-z-Rosja-Szef-CIA-przekonywal-Kreml-do-pokoju-9189001.html",
+      "url": "https://www.bankier.pl/wiadomosc/Zelenski-chwali-odpowiedni-ton-rozmow-USA-z-Rosja-Szef-CIA-przekonywal-Kreml-do-pokoju-9189001.html",
+      "title": "Zełenski chwali „odpowiedni ton” rozmów USA z Rosją. Szef CIA przekonywał Kreml do pokoju",
+      "content_html": "Prezydent Ukrainy Wołodymyr Zełenski poinformował w piątek na Telegramie, że administracja USA przekazała stronie ukraińskiej informacje na temat spotkań, które odbyły się niedawno w Moskwie. We wtorek wizytę w stolicy Rosji złożył szef...",
+      "date_published": "2026-08-28T21:30:00+02:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/To-drugie-Amber-Gold-Morawiecki-zada-komisji-sledczej-i-szuka-poparcia-w-Sejmie-9188895.html",
+      "url": "https://www.bankier.pl/wiadomosc/To-drugie-Amber-Gold-Morawiecki-zada-komisji-sledczej-i-szuka-poparcia-w-Sejmie-9188895.html",
+      "title": "„To drugie Amber Gold!” Morawiecki żąda komisji śledczej i szuka poparcia w Sejmie",
+      "content_html": "Lider Rozwoju Plus, były premier Mateusz Morawiecki zaapelował w piątek do marszałka Sejmu i koalicji rządzącej o powołanie komisji śledczej ws. Zondacrypto. Dodał, że chciałby, by wniosek w tej sprawie trafił do Sejmu na najbliższym przyszłotygodniowym...",
+      "date_published": "2026-08-28T21:07:00+02:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Masowy-naplyw-wnioskow-zaskoczyl-resort-Pieniadze-z-blokad-budzetowych-uratuja-renty-wdowie-9188865.html",
+      "url": "https://www.bankier.pl/wiadomosc/Masowy-naplyw-wnioskow-zaskoczyl-resort-Pieniadze-z-blokad-budzetowych-uratuja-renty-wdowie-9188865.html",
+      "title": "Masowy napływ wniosków zaskoczył resort. Pieniądze z blokad budżetowych uratują renty wdowie",
+      "content_html": "Ministerstwo Finansów planuje przekazanie dodatkowych środków z budżetu państwa na zwiększenie dotacji do Funduszu emerytalno-rentowego, by sfinansować wyższą niż zakładano liczbę świadczeniobiorców tzw. renty wdowiej - poinformowano na...",
+      "date_published": "2026-08-28T21:01:00+02:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Mroczna-historia-relacji-Grenlandii-i-Danii-Czy-doszlo-do-ludobojstwa-9189000.html",
+      "url": "https://www.bankier.pl/wiadomosc/Mroczna-historia-relacji-Grenlandii-i-Danii-Czy-doszlo-do-ludobojstwa-9189000.html",
+      "title": "Mroczna historia relacji Grenlandii i Danii. Czy doszło do ludobójstwa?",
+      "content_html": "Rząd Grenlandii oświadczył w piątek, że nie jest w stanie ocenić, czy władze Danii dokonały ludobójstwa, zmuszając tysiące Inuitek do antykoncepcji w latach 60. XX wieku W grenlandzkiej stolicy Nuuk opublikowano dwa poświęcone temu zagadnieniu...",
+      "date_published": "2026-08-28T21:00:00+02:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/ekonomia-biznes-i-finanse/skrot-wiadomosci-piatek-28-sierpnia-2100",
+      "url": "https://biznes.pap.pl/wiadomosci/ekonomia-biznes-i-finanse/skrot-wiadomosci-piatek-28-sierpnia-2100",
+      "title": "Skrót wiadomości - piątek, 28 sierpnia, 21.00",
+      "content_html": "Przegląd najważniejszych wiadomości gospodarczych, krajowych i ze świata.\n\nWskaźnik nastrojów w polskiej gospodarce (Economic Sentiment Indicator - ESI) w sierpniu wyniósł 99,6 pkt. wobec 100,1 pkt. przed miesiącem - wynika z danych Komisji Europejskiej.\n\nWskaźnik oczekiwań inflacyjnych konsumentów w Polsce w sierpniu wzrósł do 22,9 pkt. z 19,9 pkt. w lipcu - wynika z danych Komisji Europejskiej.\n\nWskaźnik Wyprzedzający Koniunktury (WWK) spadł w sierpniu nie zmieniając dobrych perspektyw gospodarki Polski. Niepokoi jednak niski portfel zamówień firm - oceniają analitycy Biura Inwestycji i Cykli Ekonomicznych (BIEC).\n\nWyniki badań koniunktury gospodarczej w III kwartale wskazują na jej stabilizację - wynika z badania Instytutu Rozwoju Gospodarczego SGH.\n\nInflacja w USA nie zwalnia znacząco do 2-proc. celu, dopóki nie będzie takiej pewności bank centralny ma jeszcze pracę do wykonania - ocenił prezes Fed Kevin Warsh, w przemówieniu przygotowanym na seminarium w Jackson Hole.\n\nIndeks nastrojów w gospodarce strefy euro wyniósł w sierpniu 98,4 pkt. wobec 97,1 pkt. w poprzednim miesiącu, po korekcie - podała Komisja Europejska w komunikacie. Analitycy spodziewali się indeksu na poziomie 97,5 pkt.\n\nProdukt Krajowy Brutto Francji kdk wyniósł o 0,0 proc. w II kwartale - poinformował urząd statystyczny Insee w II wyliczeniu. Wstępnie szacowano, że PKB kdk wzrósł o 0,2 proc.\n\nStopa bezrobocia w Niemczech w sierpniu, po uwzględnieniu czynników sezonowych, wyniosła 6,4 proc. - poinformował Federalny Urząd Pracy w komunikacie. Analitycy oczekiwali, że stopa bezrobocia wyniesie 6,4 proc. wobec 6,4 proc. miesiąc wcześniej.\n\nW Japonii stopa bezrobocia w lipcu wyniosła 2,4 proc. wobec 2,5 proc. miesiąc wcześniej - poinformowało w komunikacie rządowe biuro statystyczne.\n\nIndeks sentymentu wśród konsumentów amerykańskich, opracowywany przez Uniwersytet Michigan, w sierpniu wyniósł 51,7 pkt. wobec 55,2 pkt. w poprzednim miesiącu - podano w końcowym wyliczeniu. Wstępnie szacowano wskaźnik na 51,0 pkt.\n\nDeficyt budżetowy na rok 2027 jest planowany na poziomie 282,6 mld zł - poinformował minister finansów Andrzej Domański\n\nRząd prognozuje, że dynamika PKB Polski w 2027 r. znajdzie się na poziomie 3,0 proc., średnioroczna inflacja wyniesie 2,8 proc. - poinformował minister finansów i gospodarki Andrzej Domański.\n\nPrognozowane wpływy z podatku VAT ujęto w przyszłym roku w kwocie 363,7 mld zł, czyli niemal 32 mld zł więcej niż prognozowane wykonanie w roku bieżącym - poinformował minister finansów Andrzej Domański.\n\nDochody budżetu państwa w 2027 r. planowane są na 695 mld zł, a w 2026 r. planowane wykonanie dochodów ma wynieść 626,6 mld zł wobec zapisanych w ustawie na 2026 r. dochodów na poziomie 647,2 mld zł - wynika z wypowiedzi ministra finansów i gospodarki Andrzeja Domańskiego\n\nDeficyt sektora gg w 2027 r. będzie na poziomie 7,1 proc. PKB, czyli na takim samym poziomie jak w 2026 roku - poinformował minister finansów Andrzej Domański.\n\nBudżet na 2027 r. jest napięty, ale odpowiedzialny - wskazał w piątek premier Donald Tusk, podczas wystąpienia przed posiedzeniem Rady Ministrów. Wśród zwiększonych wydatków wymienił m.in. wydatki na zdrowie, transfery społeczne i inwestycje.\n\nPotrzeby pożyczkowe brutto budżetu w 2027 r. planowane są na 565 mld zł, a planowane potrzeby brutto w 2026 r. wyniosą poniżej 600 mld zł wobec planowanych wcześniej 688 mld zł - poinformował minister finansów i gospodarki Andrzej Domański w trakcie konferencji w Warszawie.\n\nPotrzeby pożyczkowe netto budżetu w 2027 r. wyniosą 317 mld zł, a planowane wykonanie potrzeb netto w 2026 r. to 320 mld zł - poinformowała wiceminister finansów Hanna Majszczyk na konferencji w Warszawie.\n\nKoszty obsługi długu w 2027 r. wyniosą 107 mld zł, o 17 mld zł więcej niż w 2026 r. - poinformował minister finansów i gospodarki Andrzej Domański w trakcie konferencji w Warszawie.\n\nAsseco Poland przejęło 96 proc. akcji spółki Mc Comp, firmy z rynku oprogramowania dla stacji paliw w Polsce oraz dostaw",
+      "date_published": "2026-08-28T21:00:00+02:00",
+      "source": "PAP Biznes"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/USA-odcinaja-egipski-bank-wspierajacy-Iran-Rusza-operacja-Gospodarczy-Wyrzutek-9188983.html",
+      "url": "https://www.bankier.pl/wiadomosc/USA-odcinaja-egipski-bank-wspierajacy-Iran-Rusza-operacja-Gospodarczy-Wyrzutek-9188983.html",
+      "title": "USA odcinają egipski bank wspierający Iran. Rusza operacja „Gospodarczy Wyrzutek”",
+      "content_html": "Minister finansów USA Scott Bessent oznajmił, że jego resort podjął działania, by odciąć emiracki oddział jednego z największych banków Egiptu od dostępu do globalnego systemu finansowego. To element ogłoszonej operacji „Economic Outcast”...",
+      "date_published": "2026-08-28T20:57:00+02:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Fundusze-NN-PTE-maja-ponizej-5-proc-glosow-na-WZ-Unimotu-9189007.html",
+      "url": "https://www.bankier.pl/wiadomosc/Fundusze-NN-PTE-maja-ponizej-5-proc-glosow-na-WZ-Unimotu-9189007.html",
+      "title": "Fundusze NN PTE mają poniżej 5 proc. głosów na WZ Unimotu",
+      "content_html": "Fundusze zarządzane przez Nationale-Nederlanden PTE zmniejszyły łączny stan posiadania akcji Unimotu i mają blisko 4,96 proc. głosów na WZ - podał Unimot w komunikacie.",
+      "date_published": "2026-08-28T20:56:00+02:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Brak-zgody-na-postaci-z-XX-wieku-Budanow-szczerze-o-Panteonie-Narodowym-9188975.html",
+      "url": "https://www.bankier.pl/wiadomosc/Brak-zgody-na-postaci-z-XX-wieku-Budanow-szczerze-o-Panteonie-Narodowym-9188975.html",
+      "title": "Brak zgody na postacie z XX wieku? Budanow szczerze o Panteonie Narodowym",
+      "content_html": "Szef Biura Prezydenta Ukrainy Kyryło Budanow ocenił, że kwestia wyboru postaci do Ukraińskiego Panteonu Narodowego wywoła ogromne spory, szczególnie w odniesieniu do osób żyjących w XX wieku. Wśród wymienionych przez niego postaci znaleźli...",
+      "date_published": "2026-08-28T20:55:00+02:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Rzad-chce-dopuscic-do-testow-w-realnym-ruchu-25-metrowe-ciezarowki-9188978.html",
+      "url": "https://www.bankier.pl/wiadomosc/Rzad-chce-dopuscic-do-testow-w-realnym-ruchu-25-metrowe-ciezarowki-9188978.html",
+      "title": "Rząd chce dopuścić do testów w realnym ruchu 25-metrowe ciężarówki",
+      "content_html": "Wprowadzenie programów pilotażowych mających umożliwić prowadzenie prac badawczo-rozwojowych w realnym ruchu drogowym nad nienormatywnymi pojazdami przeznaczonymi do przewozu ładunków - zakłada opublikowany w piątek projekt noweli ustawy –...",
+      "date_published": "2026-08-28T20:52:00+02:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Chcieli-jego-smierci-za-kratami-Oskarzenia-prezydenta-Serbii-pod-adresem-Hagi-9188960.html",
+      "url": "https://www.bankier.pl/wiadomosc/Chcieli-jego-smierci-za-kratami-Oskarzenia-prezydenta-Serbii-pod-adresem-Hagi-9188960.html",
+      "title": "„Chcieli jego śmierci za kratami!” Oskarżenia prezydenta Serbii pod adresem Hagi",
+      "content_html": "Prezydent Serbii Aleksandar Vuczić oskarżył w piątek sędziów w Hadze o „antycywilizacyjne postępowanie” względem zmarłego w czwartek Ratka Mladicia. Trybunał odrzucił kilka wniosków o przeniesienie Mladicia do Serbii, argumentowanych pogarszającym...",
+      "date_published": "2026-08-28T20:38:00+02:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Nawet-500-zl-do-hektara-Nowy-pakiet-rzadowej-pomocy-dla-gospodarstw-rolnych-9188955.html",
+      "url": "https://www.bankier.pl/wiadomosc/Nawet-500-zl-do-hektara-Nowy-pakiet-rzadowej-pomocy-dla-gospodarstw-rolnych-9188955.html",
+      "title": "Nawet 500 zł do hektara. Nowy pakiet rządowej pomocy dla gospodarstw rolnych",
+      "content_html": "Rolnicy mają otrzymać dopłaty do zakupu nawozów w wysokości do 500 zł na hektar, a także dodatkową dopłatę do paliwa wykorzystanego do produkcji w kwocie 52 gr za litr oleju napędowego - wynika z założeń do rozporządzenia RM opublikowanych...",
+      "date_published": "2026-08-28T20:37:00+02:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Nowelizacja-ustawy-o-transporcie-kolejowym-Spolki-samorzadowe-zawnioskuja-o-lokalizacje-inwestycji-9189002.html",
+      "url": "https://www.bankier.pl/wiadomosc/Nowelizacja-ustawy-o-transporcie-kolejowym-Spolki-samorzadowe-zawnioskuja-o-lokalizacje-inwestycji-9189002.html",
+      "title": "Nowelizacja ustawy o transporcie kolejowym. Spółki samorządowe zawnioskują o lokalizację inwestycji",
+      "content_html": "Rozszerzenie katalogu podmiotów mogących występować o ustalenie lokalizacji linii kolejowej zakładają założenia projektu ustawy o zmianie ustawy o transporcie kolejowym opublikowane w piątek w wykazie prac legislacyjnych i programowych Rady Ministrów...",
+      "date_published": "2026-08-28T20:37:00+02:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Chaos-w-Ceucie-Hiszpania-deportowala-100-osob-i-zmaga-sie-z-fala-przestepstw-9188954.html",
+      "url": "https://www.bankier.pl/wiadomosc/Chaos-w-Ceucie-Hiszpania-deportowala-100-osob-i-zmaga-sie-z-fala-przestepstw-9188954.html",
+      "title": "Chaos w Ceucie. Hiszpania deportowała 100 osób i zmaga się z falą przestępstw",
+      "content_html": "Ponad 100 osób zostało wydalonych z Ceuty za popełnienie przestępstw – poinformował w piątek w parlamencie minister spraw wewnętrznych Hiszpanii Fernando Grande-Marlaska. Dodał, że zgłoszono 17 przypadków napaści seksualnych.",
+      "date_published": "2026-08-28T20:30:00+02:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/MAP-zadba-o-interes-akcjonariuszy-Przestrzen-na-wzrost-dywidend-jest-znaczaca-9188928.html",
+      "url": "https://www.bankier.pl/wiadomosc/MAP-zadba-o-interes-akcjonariuszy-Przestrzen-na-wzrost-dywidend-jest-znaczaca-9188928.html",
+      "title": "MAP zadba o interes akcjonariuszy. \"Przestrzeń na wzrost dywidend jest znacząca\"",
+      "content_html": "Ministerstwo Aktywów Państwowych spodziewa się zdecydowanie większych wpływów z dywidend ze spółek Skarbu Państwa w przyszłym roku - poinformował minister aktywów państwowych, Wojciech Balczun.",
+      "date_published": "2026-08-28T20:25:00+02:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Wielkie-porzadki-w-panstwowej-gospodarce-Nie-bedzie-sprzedazy-akcji-beda-fuzje-9188915.html",
+      "url": "https://www.bankier.pl/wiadomosc/Wielkie-porzadki-w-panstwowej-gospodarce-Nie-bedzie-sprzedazy-akcji-beda-fuzje-9188915.html",
+      "title": "Wielkie porządki w państwowej gospodarce. Nie będzie sprzedaży akcji, będą fuzje",
+      "content_html": "Rząd przewiduje przejmowanie spółek Skarbu Państwa przez inne państwowe podmioty w ramach porządkowania portfela. Chce wzmocnić Polską Grupę Zbrojeniową - poinformował na konferencji prasowej minister aktywów państwowych Wojciech Balczun...",
+      "date_published": "2026-08-28T20:22:00+02:00",
+      "source": "Bankier.pl"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Radoslaw-P-nie-przyznal-sie-do-zarzutow-ws-Zondacrypto-Jest-wniosek-o-tymczasowy-areszt-9188932.html",
       "url": "https://www.bankier.pl/wiadomosc/Radoslaw-P-nie-przyznal-sie-do-zarzutow-ws-Zondacrypto-Jest-wniosek-o-tymczasowy-areszt-9188932.html",
       "title": "Radosław P. nie przyznał się do zarzutów ws. Zondacrypto. Jest wniosek o tymczasowy areszt",
       "content_html": "Prokuratura zawnioskowała o aresztowanie na trzy miesiące szefa PKOl Radosława P. - poinformował w piątek prokurator generalny Waldemar Żurek. Szef PKOl został zatrzymany w śledztwie w sprawie Zondacrypto. Rzeczniczka Prokuratora Generalnego prok...",
       "date_published": "2026-08-28T20:19:00+02:00",
       "source": "Bankier.pl"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/firmy/fundusze-nn-pte-maja-ponizej-5-proc-glosow-na-wz-unimotu",
+      "url": "https://biznes.pap.pl/wiadomosci/firmy/fundusze-nn-pte-maja-ponizej-5-proc-glosow-na-wz-unimotu",
+      "title": "Fundusze NN PTE mają poniżej 5 proc. głosów na WZ Unimotu",
+      "content_html": "Fundusze zarządzane przez Nationale-Nederlanden PTE zmniejszyły łączny stan posiadania akcji Unimotu i mają blisko 4,96 proc. głosów na WZ - podał Unimot w komunikacie.\n\nWcześniej fundusze miały akcje stanowiące ok. 5,02 proc. głosów. (PAP Biznes)",
+      "date_published": "2026-08-28T19:55:00+02:00",
+      "source": "PAP Biznes"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/30-tysiecy-ludzi-miesiecznie-albo-zastoj-Twarde-wyliczenia-Kijowa-ws-mobilizacji-9188912.html",
@@ -53,14 +357,6 @@
       "source": "Bankier.pl"
     },
     {
-      "id": "https://www.bankier.pl/wiadomosc/To-drugie-Amber-Gold-Morawiecki-zada-komisji-sledczej-i-szuka-poparcia-w-Sejmie-9188895.html",
-      "url": "https://www.bankier.pl/wiadomosc/To-drugie-Amber-Gold-Morawiecki-zada-komisji-sledczej-i-szuka-poparcia-w-Sejmie-9188895.html",
-      "title": "„To drugie Amber Gold!” Morawiecki żąda komisji śledczej i szuka poparcia w Sejmie",
-      "content_html": "Lider Rozwoju Plus, były premier Mateusz Morawiecki zaapelował w piątek do marszałka Sejmu i koalicji rządzącej o powołanie komisji śledczej ws. Zondacrypto. Dodał, że chciałby, by wniosek w tej sprawie trafił do Sejmu na najbliższym przyszłotygodniowym...",
-      "date_published": "2026-08-28T19:29:00+02:00",
-      "source": "Bankier.pl"
-    },
-    {
       "id": "https://www.bankier.pl/wiadomosc/Kleby-dymu-nad-Wembley-Ogromny-pozar-w-Londynie-ewakuowano-magazyn-Amazona-9188893.html",
       "url": "https://www.bankier.pl/wiadomosc/Kleby-dymu-nad-Wembley-Ogromny-pozar-w-Londynie-ewakuowano-magazyn-Amazona-9188893.html",
       "title": "Kłęby dymu nad Wembley. Ogromny pożar w Londynie, ewakuowano magazyn Amazona",
@@ -82,6 +378,14 @@
       "title": "Drony wyławiane przy plażach i kurortach Bułgarii. Rosyjski sprzęt dryfuje u brzegów NATO",
       "content_html": "Trzy kolejne bezzałogowe statki powietrzne lub ich elementy odnaleziono na bułgarskim wybrzeżu Morza Czarnego – podał portal Novinite, powołując się ministerstwo obrony w Sofii. Doniesienia te pojawiły się zaledwie dzień po znalezieniu i zneutralizowaniu...",
       "date_published": "2026-08-28T19:22:00+02:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Kolejne-F-35-Husarz-juz-w-Polsce-W-bazie-w-Lasku-stacjonuje-juz-osiem-takich-maszyn-9188972.html",
+      "url": "https://www.bankier.pl/wiadomosc/Kolejne-F-35-Husarz-juz-w-Polsce-W-bazie-w-Lasku-stacjonuje-juz-osiem-takich-maszyn-9188972.html",
+      "title": "Kolejne F-35 Husarz już w Polsce. W bazie w Łasku stacjonuje już osiem takich maszyn",
+      "content_html": "Pięć kolejnych samolotów F-35 wylądowało w piątek ok. godz. 16.30 w 32. Bazie Lotnictwa Taktycznego w Łasku. Dotarły do Polski w dniu Święta Lotnictwa Polskiego. W Łasku stacjonuje już w sumie osiem takich myśliwców, a do końca roku w Polsce...",
+      "date_published": "2026-08-28T19:19:00+02:00",
       "source": "Bankier.pl"
     },
     {
@@ -237,38 +541,6 @@
       "source": "Bankier.pl"
     },
     {
-      "id": "https://biznes.pap.pl/wiadomosci/firmy/wyniki-text-za-i-kw-202627-vs-konsensus-pap-biznes-tabela",
-      "url": "https://biznes.pap.pl/wiadomosci/firmy/wyniki-text-za-i-kw-202627-vs-konsensus-pap-biznes-tabela",
-      "title": "Wyniki Text za I kw. 2026/27 vs. konsensus PAP Biznes (tabela)",
-      "content_html": "Poniżej przedstawiono wyniki Text w pierwszym kwartale 2026/27 oraz ich odniesienie do konsensusu PAP Biznes i wyników poprzednich okresów.\n\nKonsensus tworzony jest na podstawie prognoz biur maklerskich zebranych wcześniej przez PAP. Są one dostępne w pełnej wersji Serwisu Ekonomicznego PAP Biznes. Baza konsensusów PAP zawiera prognozy wyników kwartalnych i rocznych dla ponad 200 spółek notowanych na GPW. (PAP Biznes)",
-      "date_published": "2026-08-28T17:36:00+02:00",
-      "source": "PAP Biznes"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/gospodarka/map-spodziewa-sie-zdecydowanie-wiekszych-wplywow-z-dywidend-ze-spolek-sp-w-0",
-      "url": "https://biznes.pap.pl/wiadomosci/gospodarka/map-spodziewa-sie-zdecydowanie-wiekszych-wplywow-z-dywidend-ze-spolek-sp-w-0",
-      "title": "MAP spodziewa się zdecydowanie większych wpływów z dywidend ze spółek SP w '27 r. (opis)",
-      "content_html": "Ministerstwo Aktywów Państwowych spodziewa się zdecydowanie większych wpływów z dywidend ze spółek Skarbu Państwa w przyszłym roku - poinformował minister aktywów państwowych, Wojciech Balczun.\n\n\"Będziemy prowadzili aktywną politykę dywidendową, widzimy rosnącą wartość naszych spółek (...) Spodziewamy się zdecydowanie większych wpływów dywidendowych w przyszłym roku, z zachowaniem stabilnego, niezakłóconego funkcjonowania spółek\" - powiedział Balczun na wspólnym briefingu z ministrem finansów i gospodarki Andrzejem Domańskim.\n\n\"Dbamy o interes akcjonariuszy, również akcjonariuszy prywatnych, czy indywidualnych, instytucjonalnych spoza Skarbu Państwa, natomiast widzimy tutaj znaczącą przestrzeń na wzrost aktywności, jeśli chodzi o politykę dywidendową państwa\" - dodał.\n\nMinister finansów Andrzej Domański zauważył, że zawsze przychylnym okiem patrzy na działania MAP związane z wyższym poziomem dywidend.\n\n\"Pod nadzorem pana ministra Balczuna spółki kontrolowane przez Skarb Państwa radzą sobie bardzo dobrze, cieszę się, że wyniki są również wysokie. Obserwujemy co najmniej kilka dużych podmiotów, które kwartał w kwartał pokazują rekordowe wyniki\" - powiedział Domański, dodając, że nie może się sam doczekać wyników Orlenu za trzeci kwartał.\n\n\"Chcieliśmy, aby te nadwyżkowe zyski, które są generowane przez spółki z sektora paliwowego, trafiły z powrotem de facto do kieszeni Polaków. To z uwagi na weto prezydenta się nie udało, ale dyskutujemy o innych formach, w tym również potencjalnie wyższym poziomie dywidend\" - dodał.\n\nJak zauważył, rynek to bardzo dobrze dyskontuje - prognozy rynkowe dywidend na kolejne lata stopniowo wzrastają.\n\n\"Ostatnio również dobre wyniki miały przecież Pekao i PKO BP, więc minister finansów z tak dobrego zachowania się spółek na rynku i z tak dobrych wyników generowanych przez spółki nadzorowane przez pana ministra Balczuna, może się tylko cieszyć i oczywiście zachęcać do wyższych poziomów dywidend\" - powiedział, zastrzegając, że rekomendacje dot. podziału zysku są w gestii rad nadzorczych. (PAP Biznes)",
-      "date_published": "2026-08-28T17:13:00+02:00",
-      "source": "PAP Biznes"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/gospodarka/rzad-przewiduje-porzadkowanie-portfela-spolek-skarbu-panstwa-chce-wzmocnic-0",
-      "url": "https://biznes.pap.pl/wiadomosci/gospodarka/rzad-przewiduje-porzadkowanie-portfela-spolek-skarbu-panstwa-chce-wzmocnic-0",
-      "title": "Rząd przewiduje porządkowanie portfela spółek Skarbu Państwa, chce wzmocnić grupę PGZ - Balczun, MAP (opis)",
-      "content_html": "Rząd przewiduje przejmowanie spółek Skarbu Państwa przez inne państwowe podmioty w ramach porządkowania portfela. Chce wzmocnić Polską Grupę Zbrojeniową - poinformował na konferencji prasowej minister aktywów państwowych Wojciech Balczun.\n\n\"Elementem strategii jest porządkowanie portfela spółek Skarbu Państwa, by w większym stopniu generować efekty synergii. (...) W ramach porządkowania przewidujemy działania w najbliższym roku i w kolejnych latach związane z przejmowaniem podmiotów będących w naszym posiadaniu przez inne spółki Skarbu Państwa, by zrealizować cele strategiczne i wygenerować ten efekt synergii\" - powiedział Balczun na wspólnym briefingu z ministrem finansów i gospodarki Andrzejem Domańskim.\n\n\"Poruszamy się cały czas w przestrzeni sektora państwowego\" - dodał.\n\nJak wskazał, rząd ma świadomość obowiązywania ustawy o zarządzaniu mieniem państwowym i listy podmiotów o strategicznym znaczeniu, których akcje nie mogą być zbywane poza sektor Skarbu Państwa.\n\n\"Kierując się tymi wytycznymi przewidujemy różnego rodzaju działania, które będą wzmacniały poszczególne spółki i budowały wartość tych spółek, które będą od nas przejmowały te podmioty. To oczywiście będzie się wiązało z dochodami do budżetu państwa, ale jednocześnie widzimy ogromną przestrzeń w zakresie budowy wartości tych konglomeratów państwowych\" - powiedział Balczun.\n\nWskazał na perspektywę bezpieczeństwa w związku z sytuacją geopolityczną.\n\n\"Rola państwa w gospodarce z tego tytułu musi być większa, musi być bardziej sprawcza. Musimy kontrolować te najważniejsze obszary w taki sposób, żeby stabilizować cały system\" - powiedział.\n\n\"Sektor energetyczny, sektor finansowy, sektor ubezpieczeniowy, sektor zbrojeniowy - to są wszystko kluczowe sektory z punktu widzenia bezpieczeństwa państwa i ryzyk, które są przed nami\" - dodał.\n\nMinister Balczun poinformował, że przewidywane jest znaczące wzmocnienie grupy PGZ.\n\n\"Wiemy, że w tej chwili jest beneficjentem ogromnych środków, zarówno tych bezpośrednio z budżetu państwa, ale również pożyczki SAFE. (...) Chcielibyśmy uporządkować akcjonariat PGZ, by znalazły się tam firmy, które będą budować wartość PGZ, będą partycypowały w przyszłych zyskach z tego tytułu, a jednocześnie będą istotnym wsparciem w zakresie wiarygodności na rynku, pozyskania kapitału na rozwój, na kolejne projekty inwestycyjne\" - powiedział minister.\n\nJak dodał, nie ma w planach sprzedaży akcji spółek Skarbu Państwa.\n\n\"Nie zamierzamy i nie planujemy sprzedaży żadnych akcji w spółkach Skarbu Państwa, zwłaszcza tych wymienionych w artykule 13 ustawy o zarządzaniu mieniem państwowym. (...) Porządkowanie portfela jest związane z pewnymi przesunięciami, które będą się odbywały pomiędzy spółkami kontrolowanymi przez Skarb Państwa\" - powiedział minister. (PAP Biznes)",
-      "date_published": "2026-08-28T17:01:00+02:00",
-      "source": "PAP Biznes"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/ekonomia-biznes-i-finanse/skrot-wiadomosci-piatek-28-sierpnia-1700",
-      "url": "https://biznes.pap.pl/wiadomosci/ekonomia-biznes-i-finanse/skrot-wiadomosci-piatek-28-sierpnia-1700",
-      "title": "Skrót wiadomości - piątek, 28 sierpnia, 17.00",
-      "content_html": "Przegląd najważniejszych wiadomości gospodarczych, krajowych i ze świata.\n\nWskaźnik nastrojów w polskiej gospodarce (Economic Sentiment Indicator - ESI) w sierpniu wyniósł 99,6 pkt. wobec 100,1 pkt. przed miesiącem - wynika z danych Komisji Europejskiej.\n\nWskaźnik oczekiwań inflacyjnych konsumentów w Polsce w sierpniu wzrósł do 22,9 pkt. z 19,9 pkt. w lipcu - wynika z danych Komisji Europejskiej.\n\nWskaźnik Wyprzedzający Koniunktury (WWK) spadł w sierpniu nie zmieniając dobrych perspektyw gospodarki Polski. Niepokoi jednak niski portfel zamówień firm - oceniają analitycy Biura Inwestycji i Cykli Ekonomicznych (BIEC).\n\nWyniki badań koniunktury gospodarczej w III kwartale wskazują na jej stabilizację - wynika z badania Instytutu Rozwoju Gospodarczego SGH.\n\nInflacja w USA nie zwalnia znacząco do 2-proc. celu, dopóki nie będzie takiej pewności bank centralny ma jeszcze pracę do wykonania - ocenił prezes Fed Kevin Warsh, w przemówieniu przygotowanym na seminarium w Jackson Hole.\n\nIndeks nastrojów w gospodarce strefy euro wyniósł w sierpniu 98,4 pkt. wobec 97,1 pkt. w poprzednim miesiącu, po korekcie - podała Komisja Europejska w komunikacie. Analitycy spodziewali się indeksu na poziomie 97,5 pkt.\n\nProdukt Krajowy Brutto Francji kdk wyniósł o 0,0 proc. w II kwartale - poinformował urząd statystyczny Insee w II wyliczeniu. Wstępnie szacowano, że PKB kdk wzrósł o 0,2 proc.\n\nStopa bezrobocia w Niemczech w sierpniu, po uwzględnieniu czynników sezonowych, wyniosła 6,4 proc. - poinformował Federalny Urząd Pracy w komunikacie. Analitycy oczekiwali, że stopa bezrobocia wyniesie 6,4 proc. wobec 6,4 proc. miesiąc wcześniej.\n\nW Japonii stopa bezrobocia w lipcu wyniosła 2,4 proc. wobec 2,5 proc. miesiąc wcześniej - poinformowało w komunikacie rządowe biuro statystyczne.\n\nIndeks sentymentu wśród konsumentów amerykańskich, opracowywany przez Uniwersytet Michigan, w sierpniu wyniósł 51,7 pkt. wobec 55,2 pkt. w poprzednim miesiącu - podano w końcowym wyliczeniu. Wstępnie szacowano wskaźnik na 51,0 pkt.\n\nDeficyt budżetowy na rok 2027 jest planowany na poziomie 282,6 mld zł - poinformował minister finansów Andrzej Domański\n\nRząd prognozuje, że dynamika PKB Polski w 2027 r. znajdzie się na poziomie 3,0 proc., średnioroczna inflacja wyniesie 2,8 proc. - poinformował minister finansów i gospodarki Andrzej Domański.\n\nPrognozowane wpływy z podatku VAT ujęto w przyszłym roku w kwocie 363,7 mld zł, czyli niemal 32 mld zł więcej niż prognozowane wykonanie w roku bieżącym - poinformował minister finansów Andrzej Domański.\n\nDochody budżetu państwa w 2027 r. planowane są na 695 mld zł, a w 2026 r. planowane wykonanie dochodów ma wynieść 626,6 mld zł wobec zapisanych w ustawie na 2026 r. dochodów na poziomie 647,2 mld zł - wynika z wypowiedzi ministra finansów i gospodarki Andrzeja Domańskiego\n\nDeficyt sektora gg w 2027 r. będzie na poziomie 7,1 proc. PKB, czyli na takim samym poziomie jak w 2026 roku - poinformował minister finansów Andrzej Domański.\n\nBudżet na 2027 r. jest napięty, ale odpowiedzialny - wskazał w piątek premier Donald Tusk, podczas wystąpienia przed posiedzeniem Rady Ministrów. Wśród zwiększonych wydatków wymienił m.in. wydatki na zdrowie, transfery społeczne i inwestycje.\n\nPotrzeby pożyczkowe brutto budżetu w 2027 r. planowane są na 565 mld zł, a planowane potrzeby brutto w 2026 r. wyniosą poniżej 600 mld zł wobec planowanych wcześniej 688 mld zł - poinformował minister finansów i gospodarki Andrzej Domański w trakcie konferencji w Warszawie.\n\nPotrzeby pożyczkowe netto budżetu w 2027 r. wyniosą 317 mld zł, a planowane wykonanie potrzeb netto w 2026 r. to 320 mld zł - poinformowała wiceminister finansów Hanna Majszczyk na konferencji w Warszawie.\n\nKoszty obsługi długu w 2027 r. wyniosą 107 mld zł, o 17 mld zł więcej niż w 2026 r. - poinformował minister finansów i gospodarki Andrzej Domański w trakcie konferencji w Warszawie.\n\nAsseco Poland przejęło 96 proc. akcji spółki Mc Comp, firmy z rynku oprogramowania dla stacji paliw w Polsce oraz dostaw",
-      "date_published": "2026-08-28T17:01:00+02:00",
-      "source": "PAP Biznes"
-    },
-    {
       "id": "https://www.bankier.pl/wiadomosc/ARP-podpisala-listy-intencyjne-z-Orlen-Neptun-i-PGE-Baltica-ws-udzialu-polskich-firm-w-offshorze-9188851.html",
       "url": "https://www.bankier.pl/wiadomosc/ARP-podpisala-listy-intencyjne-z-Orlen-Neptun-i-PGE-Baltica-ws-udzialu-polskich-firm-w-offshorze-9188851.html",
       "title": "ARP podpisała listy intencyjne z Orlen Neptun i PGE Baltica ws. udziału polskich firm w offshorze",
@@ -285,22 +557,6 @@
       "source": "Bankier.pl"
     },
     {
-      "id": "https://biznes.pap.pl/wiadomosci/gospodarka/map-spodziewa-sie-zdecydowanie-wiekszych-wplywow-z-dywidend-ze-spolek-sp-w-27",
-      "url": "https://biznes.pap.pl/wiadomosci/gospodarka/map-spodziewa-sie-zdecydowanie-wiekszych-wplywow-z-dywidend-ze-spolek-sp-w-27",
-      "title": "MAP spodziewa się zdecydowanie większych wpływów z dywidend ze spółek SP w '27 r.",
-      "content_html": "Ministerstwo Aktywów Państwowych spodziewa się zdecydowanie większych wpływów z dywidend ze spółek Skarbu Państwa w przyszłym roku - poinformował minister aktywów państwowych, Wojciech Balczun.",
-      "date_published": "2026-08-28T16:37:00+02:00",
-      "source": "PAP Biznes"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/gospodarka/rzad-przewiduje-porzadkowanie-portfela-spolek-skarbu-panstwa-chce-wzmocnic",
-      "url": "https://biznes.pap.pl/wiadomosci/gospodarka/rzad-przewiduje-porzadkowanie-portfela-spolek-skarbu-panstwa-chce-wzmocnic",
-      "title": "Rząd przewiduje porządkowanie portfela spółek Skarbu Państwa, chce wzmocnić grupę PGZ - Balczun, MAP",
-      "content_html": "Rząd przewiduje przejmowanie podmiotów SP przez inne spółki Skarbu Państwa w ramach porządkowania portfela, chce wzmocnić grupę PGZ - poinformował na konferencji prasowej minister aktywów państwowych Wojciech Balczun.\n\n\"Elementem strategii jest porządkowanie portfela spółek Skarbu Państwa, by w większym stopniu generować efekty synergii. (...) W ramach porządkowania przewidujemy działania w najbliższym roku i w kolejnych latach związane z przejmowaniem podmiotów przez inne spółki Skarbu Państwa, by zrealizować cele strategiczne\" - powiedział Balczun na wspólnym briefingu z ministrem finansów i gospodarki Andrzejem Domańskim.\n\nJak dodał, nie ma w planach sprzedaży akcji spółek Skarbu Państwa.\n\nPoinformował też, że rząd planuje znaczące wzmocnienie grupy PGZ.\n\n\"Chcielibyśmy uporządkować akcjonariat PGZ, by znalazły się tam firmy, które będą budować wartość PGZ (...), jednocześnie będą istotnym wsparciem w zakresie wiarygodności\" - powiedział minister.(PAP Biznes)",
-      "date_published": "2026-08-28T16:32:00+02:00",
-      "source": "PAP Biznes"
-    },
-    {
       "id": "https://www.bankier.pl/wiadomosc/Robyg-rozwaza-emisje-obligacji-o-wartosci-do-200-mln-zl-9188835.html",
       "url": "https://www.bankier.pl/wiadomosc/Robyg-rozwaza-emisje-obligacji-o-wartosci-do-200-mln-zl-9188835.html",
       "title": "Robyg rozważa emisję obligacji o wartości do 200 mln zł",
@@ -309,36 +565,12 @@
       "source": "Bankier.pl"
     },
     {
-      "id": "https://biznes.pap.pl/wiadomosci/gospodarka/inflacja-w-usa-nie-zwalnia-znaczaco-fed-ma-jeszcze-prace-do-wykonania-0",
-      "url": "https://biznes.pap.pl/wiadomosci/gospodarka/inflacja-w-usa-nie-zwalnia-znaczaco-fed-ma-jeszcze-prace-do-wykonania-0",
-      "title": "Inflacja w USA nie zwalnia znacząco, Fed ma jeszcze pracę do wykonania - prezes Fed (aktl.)",
-      "content_html": "Inflacja w USA nie zwalnia znacząco do 2-proc. celu, dopóki nie będzie takiej pewności bank centralny ma jeszcze pracę do wykonania - ocenił prezes Fed Kevin Warsh, w przemówieniu przygotowanym na seminarium w Jackson Hole.\n\n\"To jest mój standard działania: musimy być pewni, że inflacja zmierza do naszego celu, w jasno określony sposób i wystarczająco szybko. W przeciwnym wypadku mamy pracę do wykonania\" - wskazano w wystąpieniu Warsha.\n\n\"Inflacja kształtuje się powyżej naszego 2-proc. celu. Wobec tego głównym punktem uwagi Fed powinny być ceny\" - dodał.\n\nPodkreślił, że ostatnie lepsze od oczekiwań odczyty inflacji w USA nie powinny sugerować znaczącej poprawy trendów inflacyjnych.\n\n\"Choć tego lata odczyty inflacji PCE i CPI były lepsze od oczekiwań, nie wskazują, by trendy inflacyjne znacząco się poprawiły. Wyceny rynkowe pokazują zaufanie, że osiągniemy stabilność cen. Mogę zapewnić, że mają rację\" - dodał.\n\nPrezes Fed ocenił, że warunki finansowe w USA nie są obecnie restrykcyjne, a stopy procentowe są głównym narzędziem osiągnięcia mandatu Fed.\n\nWarsh ponownie w ostatnich miesiącach podkreślił, że celem inflacyjnym w USA jest 2 proc. w odniesieniu do deflatora PCE.\n\nW ocenie Warsha krótkoterminowe stopy procentowe są głównym narzędziem osiągania podwójnego mandatu Fed (stabilne ceny i pełne zatrudnienie).\n\nDodał, że niekonwencjonalne narzędzia pobudzania aktywności gospodarczej mogą pasować do czasów kryzysowych, ale w przeciwnym wypadku powinny być używane bardzo rzadko, o ile w ogóle.\n\nPrezes Fed ponownie zaznaczył, że jest przeciwnikiem forward guidance.\n\n\"Cichszy, bardziej nakierowany na cel w komunikacji Fed będzie lepiej w stanie wypełniać swoje cele\" - wskazał. (PAP Biznes)",
-      "date_published": "2026-08-28T16:21:00+02:00",
-      "source": "PAP Biznes"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/gospodarka/pierwsze-dane-z-ustawy-budzetowej-nie-sprzyjaja-umocnieniu-pln-erste-bp",
-      "url": "https://biznes.pap.pl/wiadomosci/gospodarka/pierwsze-dane-z-ustawy-budzetowej-nie-sprzyjaja-umocnieniu-pln-erste-bp",
-      "title": "Pierwsze dane z ustawy budżetowej nie sprzyjają umocnieniu PLN - Erste BP (opinia)",
-      "content_html": "Pogorszenie rynkowych nastrojów związane z obawami o eskalację przez Rosję wojny w Ukrainie pchnęło kurs EUR/PL w okolice 4,33, a pierwsze dane z ustawy budżetowej nie sprzyjają umocnieniu waluty - napisali w raporcie tygodniowym analitycy Erste BP.\n\n\"Jeszcze kilka dni temu wydawało się, że mamy na horyzoncie stopniowe obniżanie się kursu EUR/PLN. Pogorszenie rynkowych nastrojów związane z obawami o eskalację przez Rosję wojny w Ukrainie pchnęło jednak kurs w okolice 4,33, a pierwsze dane z ustawy budżetowej nie sprzyjają umocnieniu waluty\" - napisali analitycy banku.\n\nDodali, że po weekendzie nowe dane z gospodarki mogą stworzyć przestrzeń do umocnienia złotego, choć i tak dominującym czynnikiem będą globalne przepływy kapitału.\n\n\"Rentowności polskiego długu, po chwilowym spadku, kończą tydzień nieznacznie powyżej poziomów sprzed tygodnia. Jeśli dane inflacyjne okażą się niższe od oczekiwań, być może przyniesie to lekką korektę rentowności w dół. Głównym wyznacznikiem będzie zaś ocena awersji do ryzyka związana z sytuacją geopolityczną\" - zaznaczyli.\n\nRząd przyjął projekt w piątek budżetu na 2027 r. z deficytem 282,6 mld zł, przy deficycie sektora gg 7,1 proc. (PAP Biznes)",
-      "date_published": "2026-08-28T16:18:00+02:00",
-      "source": "PAP Biznes"
-    },
-    {
       "id": "https://www.bankier.pl/wiadomosc/Czystka-na-szczytach-chinskiej-armii-Najwazniejszy-general-ChRL-odwolany-9188794.html",
       "url": "https://www.bankier.pl/wiadomosc/Czystka-na-szczytach-chinskiej-armii-Najwazniejszy-general-ChRL-odwolany-9188794.html",
       "title": "Czystka na szczytach chińskiej armii. Najważniejszy generał ChRL odwołany",
       "content_html": "Stały Komitet Ogólnochińskiego Zgromadzenia Przedstawicieli Ludowych usunął w piątek z państwowej Centralnej Komisji Wojskowej (CKW) jej wiceprzewodniczącego, gen. Zhang Youxia, a także gen. Liu Zhenliego - podała rządowa agencja Xinhua. Decyzja...",
       "date_published": "2026-08-28T16:16:00+02:00",
       "source": "Bankier.pl"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/gospodarka/inflacja-w-usa-nie-zwalnia-znaczaco-fed-ma-jeszcze-prace-do-wykonania-prezes",
-      "url": "https://biznes.pap.pl/wiadomosci/gospodarka/inflacja-w-usa-nie-zwalnia-znaczaco-fed-ma-jeszcze-prace-do-wykonania-prezes",
-      "title": "Inflacja w USA nie zwalnia znacząco, Fed ma jeszcze pracę do wykonania - prezes Fed",
-      "content_html": "Inflacja w USA nie zwalnia znacząco do 2-proc. celu, dopóki nie będzie takiej pewności bank centralny ma jeszcze pracę do wykonania - ocenił prezes Fed Kevin Warsh, w przemówieniu przygotowanym na seminarium w Jackson Hole.\n\n\"To jest mój standard działania: musimy być pewni, że inflacja zmierza do naszego celu, w jasno określony sposób i wystarczająco szybko. W przeciwnym wypadku mamy pracę do wykonania\" - wskazano w wystąpieniu Warsha.\n\n\"Inflacja kształtuje się powyżej naszego 2-proc. celu. Wobec tego głównym punktem uwagi Fed powinny być ceny\" - dodał.\n\nPodkreślił, że ostatnie lepsze od oczekiwań odczyty inflacji w USA nie powinny sugerować znaczącej poprawy bazowych trendów inflacyjnych.\n\nWarsh ponownie w ostatnich miesiącach podkreślił, że celem inflacyjnym w USA jest 2 proc. w odniesieniu do deflatora PCE.\n\nW ocenie Warsha krótkoterminowe stopy procentowe są głównym narzędziem osiągania podwójnego mandatu Fed (stabilne ceny i pełne zatrudnienie).\n\nDodał, że niekonwencjonalne narzędzia pobudzania aktywności gospodarczej mogą pasować do czasów kryzysowych, ale w przeciwnym wypadku powinny być używane bardzo rzadko, o ile w ogóle.\n\nPrezes Fed ponownie zaznaczył, że jest przeciwnikiem forward guidance.\n\n\"Cichszy, bardziej nakierowany na cel w komunikacji Fed będzie lepiej w stanie wypełniać swoje cele\" - wskazał. (PAP Biznes)",
-      "date_published": "2026-08-28T16:15:00+02:00",
-      "source": "PAP Biznes"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Wywiad-Lotwy-Rosja-patrzy-na-nas-jak-na-Ukraine-Szef-CIA-ostrzega-Moskwe-9188790.html",
@@ -365,12 +597,36 @@
       "source": "Bankier.pl"
     },
     {
+      "id": "https://biznes.pap.pl/wiadomosci/firmy/robyg-rozwaza-emisje-obligacji-o-wartosci-do-200-mln-zl-0",
+      "url": "https://biznes.pap.pl/wiadomosci/firmy/robyg-rozwaza-emisje-obligacji-o-wartosci-do-200-mln-zl-0",
+      "title": "Robyg rozważa emisję obligacji o wartości do 200 mln zł",
+      "content_html": "Robyg rozważa wyemitowanie niezabezpieczonych obligacji serii PI, do kwoty 200 mln zł, w ramach nowego dwuletniego programu do maksymalnej kwoty 200 mln zł - podała spółka w komunikacie.\n\nPlanowany termin emisji obligacji to IV kwartał 2026 r.\n\nPlanowany termin zapadalności nowo wyemitowanych obligacji będzie wynosił 4 lata od dnia emisji.\n\nOferującym w ramach nowego programu emisji obligacji będzie Bank Polska Kasa Opieki. (PAP Biznes)",
+      "date_published": "2026-08-28T15:29:00+02:00",
+      "source": "PAP Biznes"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/POLSTR-idzie-jak-burza-Skala-jego-stosowania-przekroczyla-18-5-mld-euro-9188761.html",
       "url": "https://www.bankier.pl/wiadomosc/POLSTR-idzie-jak-burza-Skala-jego-stosowania-przekroczyla-18-5-mld-euro-9188761.html",
       "title": "POLSTR idzie jak burza. Skala jego stosowania przekroczyła 18,5 mld euro",
       "content_html": "Łączna skala stosowania wskaźnika POLSTR na polskim rynku przekroczyła 18,5 mld euro – poinformowała Komisja Nadzoru Finansowego.",
       "date_published": "2026-08-28T15:26:00+02:00",
       "source": "Bankier.pl"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/gospodarka/dzien-na-fxfi-zloty-i-obligacje-poglebily-straty",
+      "url": "https://biznes.pap.pl/wiadomosci/gospodarka/dzien-na-fxfi-zloty-i-obligacje-poglebily-straty",
+      "title": "DZIEŃ NA FX/FI: Złoty i obligacje pogłębiły straty",
+      "content_html": "W piątek po południu krajowa waluta i obligacje nieco powiększyły straty - złoty osłabił się wzlędem euro do blisko 4,34, a rentowności SPW wzrosły o kolejne 1-3 pb względem poziomów otwarcia.\n\nW porannych komentarzach analitycy wskazywali, że w piątek krajowe SPW pozostawać będą pod wpływem czynników globalnych oraz obaw związanych z budżetem, a przecenę złotego może zatrzymać brak sygnałów o eskalacji ze strony Rosji.\n\nRząd przyjął w piątek projekt budżetu na 2027 r., a minister finansów Andrzej Domański zaprezentował jego założenia.\n\nWedług analityków ING BSK reakcja rynkowa była wstrzemięźliwa. Jak zauważyli w komentarzu, rynki czekają na dodatkowe informacje. Ich zdaniem w kontekście wysokości potrzeb pożyczkowych kluczowa z punktu widzenia rynków będzie informacja o potrzebach finansowanych przez instrumenty rynkowe, gdyż ma to wpływ na skalę podaży skarbowych papierów wartościowych. Nie spodziewają się oni jednak, aby była ona znacząco wyższa niż w roku bieżącym.",
+      "date_published": "2026-08-28T15:25:00+02:00",
+      "source": "PAP Biznes"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/energia/ruch-zeglugowy-przez-ciesnine-ormuz-spadl-ponizej-10-dniowej-sredniej",
+      "url": "https://biznes.pap.pl/wiadomosci/energia/ruch-zeglugowy-przez-ciesnine-ormuz-spadl-ponizej-10-dniowej-sredniej",
+      "title": "Ruch żeglugowy przez cieśninę Ormuz spadł poniżej 10-dniowej średniej",
+      "content_html": "Wstępne dane dotyczące żeglugi wskazują na to, że w czwartek przez cieśninę Ormuz przepłynęło siedem statków towarowych; stanowi to spadek w porównaniu z 17 wcześniejszymi dniami i jest wartością poni",
+      "date_published": "2026-08-28T15:10:00+02:00",
+      "source": "PAP Biznes"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/KNF-stwierdzila-brak-podstaw-do-zgloszenia-sprzeciwu-wobec-planowanego-polaczenia-PZU-z-Link4-9188748.html",
@@ -405,6 +661,14 @@
       "source": "Bankier.pl"
     },
     {
+      "id": "https://biznes.pap.pl/wiadomosci/rynki/dzien-na-rynkach-niewielkie-zmiany-futures-w-usa-rynki-czekaja-na-warsha",
+      "url": "https://biznes.pap.pl/wiadomosci/rynki/dzien-na-rynkach-niewielkie-zmiany-futures-w-usa-rynki-czekaja-na-warsha",
+      "title": "DZIEŃ NA RYNKACH: Niewielkie zmiany futures w USA; rynki czekają na Warsha",
+      "content_html": "Kontrakty w USA notują niewielkie zmiany, a indeksy w Europie są na plusach. Inwestorzy oczekują na przemówienie prezesa Fedu Kevin Warsha w piątek. Ceny ropy spadają.",
+      "date_published": "2026-08-28T14:40:00+02:00",
+      "source": "PAP Biznes"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Ostatnie-tanie-tankowanie-Od-poniedzialku-benzyna-po-7-50-zl-a-diesel-powyzej-8-zl-9188733.html",
       "url": "https://www.bankier.pl/wiadomosc/Ostatnie-tanie-tankowanie-Od-poniedzialku-benzyna-po-7-50-zl-a-diesel-powyzej-8-zl-9188733.html",
       "title": "Ostatnie tanie tankowanie. Od wtorku benzyna po 7,50 zł, a diesel powyżej 8 zł",
@@ -419,6 +683,14 @@
       "content_html": "Komisja Nadzoru Finansowego zgodziła się na powołanie Bartosza Kublika na stanowisko prezesa Banku Ochrony Środowiska - podała KNF w komunikacie.",
       "date_published": "2026-08-28T14:36:00+02:00",
       "source": "Bankier.pl"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/gospodarka/w-przyszlym-tygodniu-mozliwe-podwyzki-cen-benzyn-i-w-przedziale-60-90-groszy",
+      "url": "https://biznes.pap.pl/wiadomosci/gospodarka/w-przyszlym-tygodniu-mozliwe-podwyzki-cen-benzyn-i-w-przedziale-60-90-groszy",
+      "title": "W przyszłym tygodniu możliwe podwyżki cen benzyn i ON w przedziale 60-90 groszy na litrze - BM Reflex",
+      "content_html": "W przyszłym tygodniu prawdopodobne są podwyżki cen benzyn i oleju napędowego w przedziale od 60 do 90 groszy na litrze - prognozują w raporcie analitycy BM Reflex.",
+      "date_published": "2026-08-28T14:24:00+02:00",
+      "source": "PAP Biznes"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Spor-o-cyfryzacje-szkol-Prezydent-wetuje-darmowy-eDziennik-z-powodu-kosztow-9188613.html",
@@ -445,6 +717,22 @@
       "source": "Bankier.pl"
     },
     {
+      "id": "https://biznes.pap.pl/wiadomosci/konsument/w-iii-kw-odnotowano-stabilizacje-koniunktury-w-polskiej-gospodarce-irg-sgh",
+      "url": "https://biznes.pap.pl/wiadomosci/konsument/w-iii-kw-odnotowano-stabilizacje-koniunktury-w-polskiej-gospodarce-irg-sgh",
+      "title": "W III kw. odnotowano stabilizację koniunktury w polskiej gospodarce - IRG SGH",
+      "content_html": "Wyniki badań koniunktury gospodarczej w III kwartale wskazują na jej stabilizację - wynika z badania Instytutu Rozwoju Gospodarczego SGH.\n\nW trzecim kwartale 2026 r. barometr koniunktury IRG SGH (BARIRG) przyjął wartość -3,1 pkt, tj. o 0,42 pkt niższą niż w kwartale poprzednim, a zarazem o 0,43 pkt wyższą niż w analogicznym okresie roku poprzedniego.\n\nObecna wartość barometru jest równa średniej dla trzecich kwartałów ostatnich 20 lat.\n\nKwartalny spadek wartości wskaźnika BARIRG był skutkiem przede wszystkim pogorszenia się koniunktury w handlu (spadek wartości wskaźnika koniunktury handlowej o 4,3 pkt kdk). Pogorszyła się również koniunktura w przemyśle przetwórczym (o 0,6 pkt kdk). Sytuacja gospodarstw domowych nie uległa zmianie. Poprawiła się natomiast sytuacja gospodarcza w budownictwie (wzrost wartości wskaźnika koniunktury budowlanej o 3,0 pkt kdk).\n\nBadanie rocznych zmian wartości BARIRG wskazuje na brak wyraźnego trendu aktywności ogólnogospodarczej. Wśród składowych BARIRG dodatnie zmiany odnotowano jedynie w przemyśle przetwórczym i handlu.\n\nZ kolei znaczącemu obniżeniu uległa natomiast wartość wskaźnika koniunktury w budownictwie (o 5,1 pkt rdr).\n\nPogorszyła się również sytuacja ekonomiczna gospodarstw domowych (spadek wartości wskaźnika kondycji gospodarstw domowych zmniejszył się o 1,9 pkt rdr).\n\n\"Wiosenne, sezonowe ożywienie w gospodarce wygasło i coraz bardziej zauważalny staje się wpływ na krajową gospodarkę negatywnych szoków wywołanych sytuacją na Bliskim Wschodzie oraz obserwowaną od dłuższego czasu zmiennością polityki handlowej USA. Utrzymywanie się wysokich cen paliw i gazu, a ponadto dalsze zaburzenia w międzynarodowych łańcuchach dostaw, bez wątpienia będą wpływać na obniżenie się tempa wzrostu polskiej gospodarki\" - napisano w komentarzu.\n\nIRG podaje, że negatywny wpływ na aktywność ekonomiczną w Polsce ma również długookresowy trend przenoszenia się środka ciężkości rozwoju światowej gospodarki z Europy na Daleki Wschód, głównie do Chin, na czym w znaczącej mierze cierpi główny partner handlowy Polski – gospodarka niemiecka, przede wszystkim w odniesieniu do jej wiodących branż: samochodowej, maszynowej i chemicznej. (PAP Biznes)",
+      "date_published": "2026-08-28T14:10:00+02:00",
+      "source": "PAP Biznes"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/budzet-27-r-nie-zaskoczyl-zaklada-kontynuacje-ekspansywnej-polityki-fiskalnej-ing-opinia",
+      "url": "https://biznes.pap.pl/wiadomosci/budzet-27-r-nie-zaskoczyl-zaklada-kontynuacje-ekspansywnej-polityki-fiskalnej-ing-opinia",
+      "title": "Budżet '27 r. nie zaskoczył, zakłada kontynuację ekspansywnej polityki fiskalnej - ING (opinia)",
+      "content_html": "Rządowy projekt budżetu państwa na rok 2027 r. nie zaskoczył ani pozytywnie, ani negatywnie; zakłada kontynuację ekspansywnej polityki fiskalnej - wskazują ekonomiści ING. Brak konsolidacji po wyborach 2027 r. może jednak wywołać presję na obniżenie ratingu i presję rynków na wzrost rentowności SPW.\n\n\"Rządowy projekt budżetu państwa na rok wyborczy 2027 nie zaskoczył ani pozytywnie, ani negatywnie. Jest budżetem kontynuacji nadmiernego deficytu z neutralnymi fiskalnie zmianami po stronie podatków i niewielkimi korektami po stronie wydatków. Reakcja rynkowa jest wstrzemięźliwa i nie zakładamy większych napięć do przyszłorocznych wyborów\" - oceniają ekonomiści.\n\n\"Brak konsolidacji po wyborach 2027 może jednak wywołać presję na obniżenie ratingu i presję rynków na wzrost rentowności skarbowych papierów wartościowych (SPW)\" - dodają.\n\nEkonomiści zaznaczają, że Polska nie czyni postępów w korekcie nadmiernego deficytu i nie podejmuje działań na rzecz jego sprowadzenia poniżej 3 proc. PKB.\n\n\"Budżet na 2027 jest budżetem kontynuacji ekspansywnej polityki fiskalnej, a Polska nie czyni postępów w korekcie nadmiernego deficytu i nie podejmuje działań na rzecz jego sprowadzenia poniżej 3 proc. PKB. Efektem jest dalsze narastanie długu publicznego, który w latach 2028-29 może stanąć w obliczu przekroczenia progów ostrożnościowych zapisanych w ustawie o finansach publicznych\" - napisano.\n\n\"Będzie to wymagało podjęcia działań konsolidacyjnych w finansach publicznych, o ile wcześniej nie skłoni do tego władz presja ze strony rynków finansowych (wzrost rentowności i kosztów finansowania)\" - dodano.\n\nRząd przyjął w piątek projekt budżetu na 2027 r. z deficytem na poziomie 282,6 mld zł, przy deficycie sektora gg wynoszącym 7,1 proc. PKB.\n\nPodczas piątkowej konferencji wiceminister finansów Hanna Majszczyk poinformowała, że potrzeby pożyczkowe netto budżetu w 2027 r. wyniosą 317 mld zł, a planowane wykonanie potrzeb netto w 2026 r. to 320 mld zł.\n\n\"W kontekście wysokości potrzeb pożyczkowych kluczowa z punktu widzenia rynków będzie informacja o potrzebach finansowanych przez instrumenty rynkowe, gdyż ma to wpływ na skalę podaży skarbowych papierów wartościowych. Nie spodziewamy się, aby była ona znacząco wyższa niż w roku bieżącym\" - oceniają ekonomiści ING.\n\n\"Zaprezentowany dotychczas poziom przyszłorocznych potrzeb pożyczkowych netto (317 mld zł) jest zbliżony do planowanego wykonania w tym roku (320 mld zł) i nie powinien rodzić rynkowego niepokoju, chociaż ważne będą szczegóły i planowana struktura finansowania potrzeb\" - dodają.\n\nEkonomiści ING wskazują, że rynki mają świadomość trudności dostosowania fiskalnego w bieżących realiach politycznych (trudna kohabitacja rząd-prezydent, przyszłoroczne wybory parlamentarne, ale - w ocenie ekonomistów - plany fiskalne powinny nieco uspokoić nastroje na rynkach finansowych.\n\n\"Obawy o przyszłoroczny budżet widoczne były m.in. w podwyższonych poziomach spreadów (długoterminowe stawki asset swap)\" - oceniają ekonomiści.\n\n\"Zakładamy, iż finansowanie potrzeb pożyczkowych konsekwentnie bazować będzie na krajowym sektorze bankowym, gdzie utrzymująca się nadpłynność wspiera rozbudowę portfela POLGBs. Jednocześnie spodziewamy się, że udział inwestorów zagranicznych w polskich obligacjach skarbowych pozostanie niewielki. Obecnie (dane na koniec II kw. 2026 r.) wynosi on 12,3 proc. i pozostaje blisko historycznego minimum (11,9 proc.) z końca ubiegłego roku\" - dodają.\n\nZdaniem ekonomistów, założenia makroekonomiczne, na których oparty jest projekt budżetu państwa, nie budzą większych kontrowersji.\n\n\"Rząd zakłada wzrost PKB o 3,0 proc., przy inflacji na poziomie 2,8 proc. Są to prognozy zbliżone do naszego scenariusza bazowego, który zakłada wzrost gospodarczy w przyszłym roku na poziomie 3,2 proc. i inflację w okolicach 2,5 proc.\" - wskazują ekonomiści ING.\n\n\"Podobnie jak my, rząd zakłada dalsze hamowanie tempa wzrostu płac. Według prognoz Ministerstwa Finansów przeciętne wynagrodzenie w gospodarce narodowej w",
+      "date_published": "2026-08-28T14:07:00+02:00",
+      "source": "PAP Biznes"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Obsesja-Putina-wymaga-ludzi-do-walki-Wielka-ucieczka-z-Rosji-przed-mobilizacja-9188708.html",
       "url": "https://www.bankier.pl/wiadomosc/Obsesja-Putina-wymaga-ludzi-do-walki-Wielka-ucieczka-z-Rosji-przed-mobilizacja-9188708.html",
       "title": "\"Obsesja Putina wymaga ludzi do walki\". Wielka ucieczka z Rosji przed mobilizacją",
@@ -453,12 +741,28 @@
       "source": "Bankier.pl"
     },
     {
+      "id": "https://biznes.pap.pl/wiadomosci/finanse/laczna-skala-stosowania-wskaznika-polstr-na-polskim-rynku-przekroczyla-185-mld",
+      "url": "https://biznes.pap.pl/wiadomosci/finanse/laczna-skala-stosowania-wskaznika-polstr-na-polskim-rynku-przekroczyla-185-mld",
+      "title": "Łączna skala stosowania wskaźnika POLSTR na polskim rynku przekroczyła 18,5 mld euro - KNF",
+      "content_html": "Łączna skala stosowania wskaźnika POLSTR na polskim rynku przekroczyła 18,5 mld euro – poinformowała Komisja Nadzoru Finansowego.",
+      "date_published": "2026-08-28T13:57:00+02:00",
+      "source": "PAP Biznes"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Prawie-7-mld-zl-z-nowego-podatku-Rzad-siega-po-zyski-paliwowych-gigantow-9188699.html",
       "url": "https://www.bankier.pl/wiadomosc/Prawie-7-mld-zl-z-nowego-podatku-Rzad-siega-po-zyski-paliwowych-gigantow-9188699.html",
       "title": "Prawie 7 mld zł z nowego podatku. Rząd sięga po zyski paliwowych gigantów",
       "content_html": "Prawie 7 mld zł w trzy lata ma przynieść budżetowi podwyżka podatku CIT dla największych firm paliwowych i energetycznych – poinformowało MF w odpowiedzi na pytania PAP. Podwyżka ma wejść w życie od przyszłego roku.",
       "date_published": "2026-08-28T13:52:00+02:00",
       "source": "Bankier.pl"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/gospodarka/uknf-podejrzewa-popelnienie-przestepstw-w-obrocie-obligacjami-wyemitowanymi",
+      "url": "https://biznes.pap.pl/wiadomosci/gospodarka/uknf-podejrzewa-popelnienie-przestepstw-w-obrocie-obligacjami-wyemitowanymi",
+      "title": "UKNF podejrzewa popełnienie przestępstw w obrocie obligacjami wyemitowanymi przez SP i BGK",
+      "content_html": "Urząd Komisji Nadzoru Finansowego złożył do organów ścigania zawiadomienie o podejrzeniu popełnienia przestępstw w obrocie obligacjami wyemitowanymi przez Skarb Państw i BGK - podała KNF w komunikacie",
+      "date_published": "2026-08-28T13:49:00+02:00",
+      "source": "PAP Biznes"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Wymiana-ziemi-lub-wykup-przez-panstwo-Prezydent-podpisal-ustawe-dla-rolnikow-po-powodzi-9188689.html",
@@ -621,6 +925,30 @@
       "source": "Bankier.pl"
     },
     {
+      "id": "https://www.bankier.pl/wiadomosc/Ukraina-uderzyla-w-Rosji-Zelenski-Zniszczono-bombowiec-Tu-95MS-9188594.html",
+      "url": "https://www.bankier.pl/wiadomosc/Ukraina-uderzyla-w-Rosji-Zelenski-Zniszczono-bombowiec-Tu-95MS-9188594.html",
+      "title": "Ukraina uderzyła w Rosji. Zełenski: Zniszczono bombowiec Tu-95MS",
+      "content_html": "Prezydent Ukrainy Wołodymyr Zełenski poinformował w piątek o ataku na rafinerię ropy naftowej w rosyjskim obwodzie jarosławskim oraz zniszczeniu bombowca strategicznego Tu-95MS, wykorzystywanego przez Rosję do uderzeń na jego kraj.",
+      "date_published": "2026-08-28T12:28:00+02:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Tym-beda-zyly-rynki-na-poczatku-wrzesnia-Polska-inflacja-wskazniki-PMI-i-praca-w-USA-9188597.html",
+      "url": "https://www.bankier.pl/wiadomosc/Tym-beda-zyly-rynki-na-poczatku-wrzesnia-Polska-inflacja-wskazniki-PMI-i-praca-w-USA-9188597.html",
+      "title": "Tym będą żyły rynki na początku września. Polska inflacja, wskaźniki PMI i praca w USA",
+      "content_html": "Na przełomie sierpnia i września na inwestorów czeka gęsty kalendarz danych makroekonomicznych, które być może pomogą ocenić perspektywy na nadchodzącą jesień. Uwagę rynków zdominuje amerykański rynek pracy na czele z piątkowym raportem...",
+      "date_published": "2026-08-28T12:23:00+02:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Prezes-PKOl-z-zarzutami-W-tle-platna-protekcja-i-faworyzowanie-wierzycieli-9188388.html",
+      "url": "https://www.bankier.pl/wiadomosc/Prezes-PKOl-z-zarzutami-W-tle-platna-protekcja-i-faworyzowanie-wierzycieli-9188388.html",
+      "title": "Prezes PKOl z zarzutami. W tle płatna protekcja i faworyzowanie wierzycieli",
+      "content_html": "Prezes PKOl Radosław P. usłyszał w czwartek zarzuty płatnej protekcji oraz zaspokojenia grupy wierzycieli z pokrzywdzeniem innych w związku z grożącą niewypłacalnością - przekazał w czwartek wieczorem na portalu X minister sprawiedliwości...",
+      "date_published": "2026-08-28T12:22:00+02:00",
+      "source": "Bankier.pl"
+    },
+    {
       "id": "https://biznes.pap.pl/wiadomosci/firmy/cena-maksymalna-na-29-31-viii-dla-benzyny-pb95-wynosi-664-zll-dla-731-zll",
       "url": "https://biznes.pap.pl/wiadomosci/firmy/cena-maksymalna-na-29-31-viii-dla-benzyny-pb95-wynosi-664-zll-dla-731-zll",
       "title": "Cena maksymalna na 29-31 VIII dla benzyny Pb95 wynosi 6,64 zł/l, a dla ON 7,31 zł/l",
@@ -645,6 +973,14 @@
       "source": "PAP Biznes"
     },
     {
+      "id": "https://www.bankier.pl/wiadomosc/Aplisens-widzi-poprawe-w-zamowieniach-ale-ze-wzgledu-na-wojne-na-Bliskim-Wschodzie-poziom-nadal-ponizej-oczekiwan-9188578.html",
+      "url": "https://www.bankier.pl/wiadomosc/Aplisens-widzi-poprawe-w-zamowieniach-ale-ze-wzgledu-na-wojne-na-Bliskim-Wschodzie-poziom-nadal-ponizej-oczekiwan-9188578.html",
+      "title": "Wojna na Bliskim Wschodzie bije w zamówienia. Aplisens przesuwa inwestycje na 2027 rok",
+      "content_html": "Aplisens ocenia, że poziom zamówień w III kw. nieco się poprawił, ale nadal jest poniżej oczekiwań, ze względu na wojnę na Bliskim Wschodzie. Niepewność na rynku sprawia, że grupa część planowanych na 2026 r. wydatków inwestycyjnych przesunie...",
+      "date_published": "2026-08-28T12:08:00+02:00",
+      "source": "Bankier.pl"
+    },
+    {
       "id": "https://biznes.pap.pl/wiadomosci/firmy/w-i-pol-26-wyrazne-ozywienie-na-rynku-inwestycji-w-nieruchomosci-komercyjne-w",
       "url": "https://biznes.pap.pl/wiadomosci/firmy/w-i-pol-26-wyrazne-ozywienie-na-rynku-inwestycji-w-nieruchomosci-komercyjne-w",
       "title": "W I poł. '26 wyraźne ożywienie na rynku inwestycji w nieruchomości komercyjne w rejonie CEE - JLL",
@@ -666,78 +1002,6 @@
       "title": "Potrzeby pożyczkowe netto budżetu w '27 wyniosą 317 mld zł, planowane wykonanie '26 to 320 mld zł - Majszczyk, MF",
       "content_html": "Potrzeby pożyczkowe netto budżetu w 2027 r. wyniosą 317 mld zł, a planowane wykonanie potrzeb netto w 2026 r. to 320 mld zł - poinformowała wiceminister finansów Hanna Majszczyk na konferencji w Warszawie.\n\nW ustawie budżetowej zapisano potrzeby pożyczkowe netto w 2026 r. na poziomie 422,9 mld zł. (PAP Biznes)",
       "date_published": "2026-08-28T12:05:00+02:00",
-      "source": "PAP Biznes"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/gospodarka/koszty-obslugi-dlugu-w-2027-r-wyniosa-107-mld-zl-o-17-mld-zl-wiecej-rdr",
-      "url": "https://biznes.pap.pl/wiadomosci/gospodarka/koszty-obslugi-dlugu-w-2027-r-wyniosa-107-mld-zl-o-17-mld-zl-wiecej-rdr",
-      "title": "Koszty obsługi długu w 2027 r. wyniosą 107 mld zł, o 17 mld zł więcej rdr - minister finansów",
-      "content_html": "Koszty obsługi długu w 2027 r. wyniosą 107 mld zł, o 17 mld zł więcej niż w 2026 r. - poinformował minister finansów i gospodarki Andrzej Domański w trakcie konferencji w Warszawie.\n\n\"Jeżeli chodzi o koszty obsługi długu w roku 2027 wynoszą one 107 miliardów złotych, o 17 miliardów złotych więcej niż w roku bieżącym\" - powiedział Domański.\n\n\"Po pierwsze wzrost łącznego wolumenu długu. Po drugie fakt, iż w naszym portfelu obligacji skarbowych maleje udział papierów obligacji skarbowych, które były emitowane w roku 2020 czy roku 2021 przy zerowych czy też bardzo niskich stopach procentowych. Musimy się refinansować teraz po prostu przy wyższym oprocentowaniu\" - powiedział Domański. (PAP Biznes)",
-      "date_published": "2026-08-28T12:04:00+02:00",
-      "source": "PAP Biznes"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/gospodarka/biezacy-deficyt-gg-wyzszy-od-prognozowanego-mf",
-      "url": "https://biznes.pap.pl/wiadomosci/gospodarka/biezacy-deficyt-gg-wyzszy-od-prognozowanego-mf",
-      "title": "Bieżący deficyt gg wyższy od prognozowanego - MF",
-      "content_html": "Tegoroczny deficyt sektora general government jest nieznacznie wyższy od tego, który był prognozowany przy konstruowaniu ustawy budżetowej na 2026 r. - poinformował minister finansów Andrzej Domański. Wśród przyczyn wymienił m.in. koszty programu CPN.\n\n\"Jeśli chodzi o wykonanie roku bieżącego, ten deficyt jest faktycznie nieznacznie wyższy od tego, który prognozowaliśmy konstruując ustawę budżetową na rok 2026\" - powiedział Domański.\n\n\"Po pierwsze jest to funkcjonowanie programu CPN. To jest program, który kosztuje nas 5 miliardów złotych. I drugi element to jest ujęcie w ramach programu SAFE podatku VAT\" - zaznaczył.\n\nZwrócił też uwagę, że dynamika gospodarcza przynajmniej przez pewien czas ucierpiała ze względu na sytuację w cieśninie Ormuz.\n\n\"Mieliśmy kilka miesięcy takiej podwyższonej niepewności, co również miało wpływ na dochody budżetowe. I ostatni element, o którym warto powiedzieć, to są przyspieszone zwroty podatku VAT związane z KSEF-em\" - dodał. (PAP Biznes)",
-      "date_published": "2026-08-28T12:02:00+02:00",
-      "source": "PAP Biznes"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/gospodarka/dochody-budzetu-w-27-planowane-na-695-mld-zl-w-26-planowane-wykonanie",
-      "url": "https://biznes.pap.pl/wiadomosci/gospodarka/dochody-budzetu-w-27-planowane-na-695-mld-zl-w-26-planowane-wykonanie",
-      "title": "Dochody budżetu w '27 planowane na 695 mld zł, w '26 planowane wykonanie dochodów 626,6 mld zł - MF",
-      "content_html": "Dochody budżetu państwa w 2027 r. planowane są na 695 mld zł, a w 2026 r. planowane wykonanie dochodów ma wynieść 626,6 mld zł wobec zapisanych w ustawie na 2026 r. dochodów na poziomie 647,2 mld zł - wynika z wypowiedzi ministra finansów i gospodarki Andrzeja Domańskiego.\n\n\"Prognozowane dochody na 2027 rok wyniosą 695 miliardów złotych, czyli o 68,4 miliarda złotych więcej niż przewidywane wykonanie w roku bieżącym\" - powiedział Domański.\n\nRząd w budżecie na 2026 r. zaplanował dochody 647,2 mld zł, co wg wypowiedzi Domańskiego daje przewidywane wykonanie dochodów na poziomie 626,6 mld zł. (PAP Biznes)",
-      "date_published": "2026-08-28T11:51:00+02:00",
-      "source": "PAP Biznes"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/konsument/blokowanie-przez-rosje-eksportu-zboza-z-odessy-jednym-z-najwazniejszych-wyzwan",
-      "url": "https://biznes.pap.pl/wiadomosci/konsument/blokowanie-przez-rosje-eksportu-zboza-z-odessy-jednym-z-najwazniejszych-wyzwan",
-      "title": "Blokowanie przez Rosję eksportu zboża z Odessy jednym z najważniejszych wyzwań operacyjnych IMC",
-      "content_html": "Blokowanie przez Rosję eksportu zboża z Odessy jest jednym z najważniejszych wyzwań operacyjnych IMC - podała spółka w komunikacie prasowym. Wskazano, że wśród istotnych czynników mających wpływ na wyniki IMC był spadek cen kukurydzy i słonecznika w ujęciu rok do roku oraz wzrost kosztów logistyki.\n\n\"Osiągnięte wyniki są rezultatem pracy zespołu w bardzo trudnych warunkach: pod stałym zagrożeniem ostrzałami i niszczeniem infrastruktury, w obliczu deficytu siły roboczej, ograniczonych zasobów oraz ich ciągłego wzrostu kosztów. Na to wszystko, już poza okresem sprawozdawczym, w trzecim kwartale 2026 r. nałożyła się jeszcze całkowita blokada przez Rosję portów czarnomorskich, które są tradycyjnym kanałem eksportowym dla zboża uprawianego przez firmę\" - powiedział cytowany w komunikacie prasowym Oleksandr Wierżihowskij, prezes IMC.\n\n\"Sprawia to, że na czas nieokreślony jesteśmy całkowicie uzależnieni od eksportu przez zachodnie granice Ukrainy, w tym przez Polskę, a także przez porty rzeczne na Dunaju\" – dodał.\n\nPrzychody firmy za 6 miesięcy 2026 roku wyniosły 88,9 mln USD, co oznacza wzrost o 6 proc. w porównaniu z analogicznym okresem 2025 roku. 98 proc. przychodów stanowiła sprzedaż kukurydzy, której wolumen wzrósł o 8,6 proc. z 386 tys. ton w ciągu 6 miesięcy 2025 roku do 419 tys. ton w ciągu 6 miesięcy 2026 roku.\n\nŚrednia cena kukurydzy w pierwszym półroczu 2026 roku spadła jednak o 2,3 proc. do 208 USD/t w porównaniu do 213 USD/t w pierwszej połowie 2025 r.\n\nZysk IMC za 6 miesięcy 2026 roku spadł w porównaniu do analogicznego okresu przed rokiem między innymi ze względu na spadek cen kukurydzy i słonecznika w pierwszym półroczu 2026 roku (rok do roku) – w przeciwieństwie do znacznego wzrostu cen w pierwszym półroczu 2025 roku (+45 proc. na kukurydzę i +83 proc. na słonecznik rok do roku).\n\nDodatkowymi czynnikami wpływającymi na pogorszenie wyników był wzrost kosztów logistycznych oraz dewaluacja hrywny w 2026 r. W efekcie wynik EBITDA spółki obniżył się o 22 proc. do 50,2 mln USD; a zysk netto spadł o 33 proc. do 34,3 mln USD.\n\nPrzepływy pieniężne netto z działalności operacyjnej wyniosły 12,03 mln USD (wobec 14,96 mln USD za 6 miesięcy 2025 roku).\n\nPrzepływy pieniężne netto z działalności inwestycyjnej były ujemne i wyniosły 8,2 mln USD (wobec -10,5 mln USD za 6 miesięcy 2025 roku). W pierwszym półroczu 2026 roku spółka IMC zainwestowała w zakup samobieżnych maszyn rolniczych i sprzętu do uprawy gleby, odnowienie floty samochodów osobowych i ciężarowych, a także w sprzęt do prac pomocniczych.\n\nIMC jest jedną z największych firm rolniczych w Ukrainie i jest notowana na Giełdzie Papierów Wartościowych w Warszawie. (PAP Biznes)",
-      "date_published": "2026-08-28T11:48:00+02:00",
-      "source": "PAP Biznes"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/firmy/mostostal-plock-podpisal-z-pern-umowe-o-wartosci-477-mln-zl-na-budowe-zbiornika",
-      "url": "https://biznes.pap.pl/wiadomosci/firmy/mostostal-plock-podpisal-z-pern-umowe-o-wartosci-477-mln-zl-na-budowe-zbiornika",
-      "title": "Mostostal Płock podpisał z PERN umowę o wartości 47,7 mln zł na budowę zbiornika magazynowego",
-      "content_html": "Mostostal Płock podpisał z PERN umowę o wartości 47,7 mln zł na budowę zbiornika magazynowego na produkty I klasy o pojemności 24 tys. m sześc. w Koluszkach - poinformowała spółka w komunikacie.\n\nTermin wykonania został ustalony na 56 tygodni od daty podpisania protokołu przekazania pozwolenia na budowę. (PAP Biznes)",
-      "date_published": "2026-08-28T11:47:00+02:00",
-      "source": "PAP Biznes"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/gospodarka/rzad-nie-przewiduje-zeby-w-27-przekroczone-zostaly-ustawowe-lub-konstytucyjne",
-      "url": "https://biznes.pap.pl/wiadomosci/gospodarka/rzad-nie-przewiduje-zeby-w-27-przekroczone-zostaly-ustawowe-lub-konstytucyjne",
-      "title": "Rząd nie przewiduje, żeby w '27 przekroczone zostały ustawowe lub konstytucyjne progi długu - MF",
-      "content_html": "Rząd nie przewiduje, żeby w 2027 r. przekroczone zostały ustawowe lub konstytucyjne progi długu w relacji do PKB - poinformował minister finansów i gospodarki Andrzej Domański w trakcie konferencji w Warszawie.\n\n\"Nie prognozujemy, aby przyszłym roku zostały naruszone progi ustawowe czy próg konstytucyjny limitu długu do PKB\" - powiedział Domański. (PAP Biznes)",
-      "date_published": "2026-08-28T11:47:00+02:00",
-      "source": "PAP Biznes"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/gospodarka/deficyt-sektora-gg-w-2027-r-na-poziomie-71-proc-pkb-tak-jak-w-2026-roku",
-      "url": "https://biznes.pap.pl/wiadomosci/gospodarka/deficyt-sektora-gg-w-2027-r-na-poziomie-71-proc-pkb-tak-jak-w-2026-roku",
-      "title": "Deficyt sektora gg w 2027 r. na poziomie 7,1 proc. PKB, tak jak w 2026 roku - Domański, MF",
-      "content_html": "Deficyt sektora gg w 2027 r. będzie na poziomie 7,1 proc. PKB, czyli na takim samym poziomie jak w 2026 roku - poinformował minister finansów Andrzej Domański.\n\n\"(..)deficyt sektora finansów na 2027 roku planujemy na poziomie takim samym jak w tym roku, czyli 7,1 proc. PKB\" - powiedział.\n\nNa ten rok rząd zakładał deficyt na poziomie 6,8 proc. (PAP Biznes)",
-      "date_published": "2026-08-28T11:45:00+02:00",
-      "source": "PAP Biznes"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/gospodarka/wplywy-z-vat-w-27-oszacowano-na-3637-mld-zl-o-ok-32-mld-zl-wiecej-rdr-mf",
-      "url": "https://biznes.pap.pl/wiadomosci/gospodarka/wplywy-z-vat-w-27-oszacowano-na-3637-mld-zl-o-ok-32-mld-zl-wiecej-rdr-mf",
-      "title": "Wpływy z VAT w '27 oszacowano na 363,7 mld zł, o ok. 32 mld zł więcej rdr - MF",
-      "content_html": "Prognozowane wpływy z podatku VAT ujęto w przyszłym roku w kwocie 363,7 mld zł, czyli niemal 32 mld zł więcej niż prognozowane wykonanie w roku bieżącym - poinformował minister finansów Andrzej Domański.\n\n\"Jeśli chodzi o dochody z VAT-u, prognozowane wpływy z podatku VAT ujęto w przyszłym roku w kwocie 363,7 miliarda złotych, czyli o niemal 32 miliardy złotych więcej niż prognozowane wykonanie w roku bieżącym\" - powiedział Domański.(PAP Biznes)",
-      "date_published": "2026-08-28T11:43:00+02:00",
-      "source": "PAP Biznes"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/gospodarka/potrzeby-pozyczkowe-brutto-budzetu-w-27-wyniosa-565-mld-zl-w-26-ponizej-600",
-      "url": "https://biznes.pap.pl/wiadomosci/gospodarka/potrzeby-pozyczkowe-brutto-budzetu-w-27-wyniosa-565-mld-zl-w-26-ponizej-600",
-      "title": "Potrzeby pożyczkowe brutto budżetu w '27 wyniosą 565 mld zł, w '26 poniżej 600 mld zł - minister finansów",
-      "content_html": "Potrzeby pożyczkowe brutto budżetu w 2027 r. planowane są na 565 mld zł, a planowane potrzeby brutto w 2026 r. wyniosą poniżej 600 mld zł wobec planowanych wcześniej 688 mld zł - poinformował minister finansów i gospodarki Andrzej Domański w trakcie konferencji w Warszawie.\n\n\"Potrzeby pożyczkowe brutto w 2027 r. będą wyraźnie niższe od potrzeb pożyczkowych brutto prognozowanych na 2026 r. W ustawie na 2026 r. zakładano potrzeby w kwocie 688 mld zł, w tej chwili wiemy, że te potrzeby będą poniżej 600 mld zł. Na 2027 r. prognozujemy brutto na poziomie 565 mld zł\" - powiedział Domański. (PAP Biznes)",
-      "date_published": "2026-08-28T11:41:00+02:00",
       "source": "PAP Biznes"
     },
     {
@@ -781,14 +1045,6 @@
       "source": "Bankier.pl"
     },
     {
-      "id": "https://www.bankier.pl/wiadomosc/Tym-beda-zyly-rynki-na-poczatku-wrzesnia-Polska-inflacja-wskazniki-PMI-i-praca-w-USA-9188597.html",
-      "url": "https://www.bankier.pl/wiadomosc/Tym-beda-zyly-rynki-na-poczatku-wrzesnia-Polska-inflacja-wskazniki-PMI-i-praca-w-USA-9188597.html",
-      "title": "Tym będą żyły rynki na początku września. Polska inflacja, wskaźniki PMI i praca w USA Na przełomie sierpnia i września na inwestorów czeka gęsty kalendarz danych makroekonomicznych, które być może pomogą ocenić perspektywy na nadchodzącą jesień. Uwagę rynków zdominuje amerykański rynek pracy na czele z piątkowym raportem NFP. W tle poznamy wskaźniki PMI dla przemysłu i usług w czołowych gospodarkach, a na polskim podwórku na pierwszym planie znajdą się najnowsze dane o inflacji oraz wzroście gospodarczym.",
-      "content_html": "",
-      "date_published": "2026-08-28T11:23:00+02:00",
-      "source": "Bankier.pl"
-    },
-    {
       "id": "https://www.bankier.pl/wiadomosc/Asseco-wchodzi-na-rynek-oprogramowania-dla-stacji-paliw-oraz-rozwiazan-dla-branzy-HoReCa-9188553.html",
       "url": "https://www.bankier.pl/wiadomosc/Asseco-wchodzi-na-rynek-oprogramowania-dla-stacji-paliw-oraz-rozwiazan-dla-branzy-HoReCa-9188553.html",
       "title": "Zyski wyższe od oczekiwań i nowe przejęcie. Asseco wchodzi silnie na rynek stacji paliw",
@@ -801,14 +1057,6 @@
       "url": "https://www.bankier.pl/wiadomosc/Projekt-budzetu-na-2027-rok-na-stole-rzadu-Tusk-o-napietym-ale-odpowiedzialnym-planie-9188525.html",
       "title": "Projekt budżetu na 2027 rok na stole rządu. Tusk o \"napiętym, ale odpowiedzialnym\" planie",
       "content_html": "Przyszłoroczny budżet jest napięty, ale odpowiedzialny - podkreślił premier Donald Tusk rozpoczynając piątkowe posiedzenie rządu, na którym ma zostać przyjęty projekt ustawy budżetowej na 2027 r. Szef rządu ocenił, że sytuacja geopolityczna...",
-      "date_published": "2026-08-28T11:08:00+02:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Aplisens-widzi-poprawe-w-zamowieniach-ale-ze-wzgledu-na-wojne-na-Bliskim-Wschodzie-poziom-nadal-ponizej-oczekiwan-9188578.html",
-      "url": "https://www.bankier.pl/wiadomosc/Aplisens-widzi-poprawe-w-zamowieniach-ale-ze-wzgledu-na-wojne-na-Bliskim-Wschodzie-poziom-nadal-ponizej-oczekiwan-9188578.html",
-      "title": "Wojna na Bliskim Wschodzie bije w zamówienia. Aplisens przesuwa inwestycje na 2027 rok Aplisens ocenia, że poziom zamówień w III kw. nieco się poprawił, ale nadal jest poniżej oczekiwań, ze względu na wojnę na Bliskim Wschodzie. Niepewność na rynku sprawia, że grupa część planowanych na 2026 r. wydatków inwestycyjnych przesunie na 2027 r. -poinformowali przedstawiciele spółki podczas wideokonferencji.",
-      "content_html": "",
       "date_published": "2026-08-28T11:08:00+02:00",
       "source": "Bankier.pl"
     },
@@ -845,203 +1093,43 @@
       "source": "Bankier.pl"
     },
     {
-      "id": "https://www.bankier.pl/wiadomosc/Zmasowane-ataki-na-Ukraine-Zniszczone-huby-logistyczne-i-market-sa-zabici-i-ranni-9188514.html",
-      "url": "https://www.bankier.pl/wiadomosc/Zmasowane-ataki-na-Ukraine-Zniszczone-huby-logistyczne-i-market-sa-zabici-i-ranni-9188514.html",
-      "title": "Zmasowane ataki na Ukrainę. Zniszczone huby logistyczne, są zabici i ranni",
-      "content_html": "Huby logistyczne dużych firm, m.in. giganta dostaw kurierskich Nowa Poszta oraz centra handlowe były głównymi celami ataków wojsk rosyjskich na Ukrainę w ciągu ostatniej doby. Nie żyje co najmniej ośmiu cywilów, a ponad 30 zostało rannych –...",
-      "date_published": "2026-08-28T10:21:00+02:00",
-      "source": "Bankier.pl"
-    },
-    {
       "id": "https://www.bankier.pl/wiadomosc/7Levels-planuje-emisje-do-500-tys-akcji-serii-H-9188513.html",
       "url": "https://www.bankier.pl/wiadomosc/7Levels-planuje-emisje-do-500-tys-akcji-serii-H-9188513.html",
-      "title": "7Levels planuje emisję do 500 tys. akcji serii H",
-      "content_html": "7Levels planuje emisję do 500 tys. akcji serii H, z której planuje pozyskać środki na rozwój nowego własnego projektu gamingowego - poinformowała spółka w projektach uchwał na NWZ zwołanego na 24 września.",
-      "date_published": "2026-08-28T10:20:00+02:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Cena-ropy-w-USA-spadaja-Sa-obawy-o-tranzyt-przez-ciesnine-Ormuz-9188506.html",
-      "url": "https://www.bankier.pl/wiadomosc/Cena-ropy-w-USA-spadaja-Sa-obawy-o-tranzyt-przez-ciesnine-Ormuz-9188506.html",
-      "title": "Cena ropy w USA spadają. Są obawy o tranzyt przez cieśninę Ormuz",
-      "content_html": "Cena ropy w USA zniżkuje. Inwestorzy obawiają się o dalsze zakłócenia w dostawach wobec zamknięcia cieśniny Ormuz.",
-      "date_published": "2026-08-28T10:11:00+02:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Gigant-alkoholowy-tnie-koszty-W-Polsce-moze-zwolnic-niemal-wszystkich-9188501.html",
-      "url": "https://www.bankier.pl/wiadomosc/Gigant-alkoholowy-tnie-koszty-W-Polsce-moze-zwolnic-niemal-wszystkich-9188501.html",
-      "title": "Gigant alkoholowy tnie koszty. W Polsce może zwolnić niemal wszystkich",
-      "content_html": "Globalna restrukturyzacja Diageo dociera do Polski. Producent alkoholi planuje głęboką zmianę modelu działania, która może oznaczać zwolnienia grupowe obejmujące nawet 93 proc. pracowników polskiej spółki. Informację przekazali związkowcy...",
-      "date_published": "2026-08-28T10:03:00+02:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Nagrywanie-wizerunku-w-bankomatach-i-wplatomatach-ma-byc-obowiazkiem-Ministerstwo-proponuje-9188502.html",
-      "url": "https://www.bankier.pl/wiadomosc/Nagrywanie-wizerunku-w-bankomatach-i-wplatomatach-ma-byc-obowiazkiem-Ministerstwo-proponuje-9188502.html",
-      "title": "Nagrywanie wizerunku w bankomatach i wpłatomatach ma być obowiązkiem. Ministerstwo proponuje",
-      "content_html": "Nagrywanie klientów korzystających z bankomatów i wpłatomatów oraz przechowywanie nagrań przez 90 dni od transakcji. Taki obowiązek proponuje wprowadzić Ministerstwo Sprawiedliwości w ustawie o usługach płatniczych.",
-      "date_published": "2026-08-28T10:03:00+02:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Koniec-z-prognozami-Tauron-zmienia-zasady-odczytu-licznikow-9188479.html",
-      "url": "https://www.bankier.pl/wiadomosc/Koniec-z-prognozami-Tauron-zmienia-zasady-odczytu-licznikow-9188479.html",
-      "title": "Koniec z prognozami. Tauron zmienia zasady odczytu liczników",
-      "content_html": "Od 1 września 2026 r. wszyscy prosumenci przyłączeni do sieci Tauron Dystrybucja przejdą na miesięczny cykl rozliczeniowy. Oznacza to koniec faktur opartych na prognozowanym zużyciu energii. Rachunki będą wystawiane na podstawie rzeczywistych...",
-      "date_published": "2026-08-28T10:00:00+02:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Lekki-spadek-Eksperci-uspokajaja-Dobry-trend-dla-polskiej-gospodarki-niezagrozony-9188496.html",
-      "url": "https://www.bankier.pl/wiadomosc/Lekki-spadek-Eksperci-uspokajaja-Dobry-trend-dla-polskiej-gospodarki-niezagrozony-9188496.html",
-      "title": "Lekki spadek. Eksperci uspokajają: Dobry trend dla polskiej gospodarki niezagrożony",
-      "content_html": "Wskaźnik Wyprzedzający Koniunktury sierpniu 2026 roku obniżył się o 0,5 punktu w stosunku do wartości z ubiegłego miesiąca – podało BIEC. W raporcie zaznaczono, że ten niewielki spadek „nie zaburza dominującej w ostatnim czasie tendencji...",
-      "date_published": "2026-08-28T10:00:00+02:00",
+      "title": "7Levels planuje emisję do 500 tys. akcji serii H 7Levels planuje emisję do 500 tys. akcji serii H, z której planuje pozyskać środki na rozwój nowego własnego projektu gamingowego - poinformowała spółka w projektach uchwał na NWZ zwołanego na 24 września.",
+      "content_html": "",
+      "date_published": "2026-08-28T09:20:00+02:00",
       "source": "Bankier.pl"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Artifex-Mundi-szacuje-zysk-netto-w-II-kw-26-na-4-4-mln-zl-9188494.html",
       "url": "https://www.bankier.pl/wiadomosc/Artifex-Mundi-szacuje-zysk-netto-w-II-kw-26-na-4-4-mln-zl-9188494.html",
-      "title": "Wyniki Artifex Mundi poniżej oczekiwań. Zysk netto spada o 22 procent",
-      "content_html": "Artifex Mundi szacuje, że zysk netto w drugim kwartale 2026 roku wyniósł 4,4 mln zł, czyli był o 22 proc. niższy rdr - poinformowała spółka w komunikacie. Oczekiwania analityków co do zysku netto mieściły się w przedziale 5,6-6,2 mln zł...",
-      "date_published": "2026-08-28T09:58:00+02:00",
+      "title": "Wyniki Artifex Mundi poniżej oczekiwań. Zysk netto spada o 22 procent Artifex Mundi szacuje, że zysk netto w drugim kwartale 2026 roku wyniósł 4,4 mln zł, czyli był o 22 proc. niższy rdr - poinformowała spółka w komunikacie. Oczekiwania analityków co do zysku netto mieściły się w przedziale 5,6-6,2 mln zł.",
+      "content_html": "",
+      "date_published": "2026-08-28T08:58:00+02:00",
       "source": "Bankier.pl"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/BM-Pekao-podwyzszyl-cene-docelowa-akcji-Quercus-TFI-do-15-4-zl-a-rekomendacje-obnizyl-do-trzymaj-9188487.html",
       "url": "https://www.bankier.pl/wiadomosc/BM-Pekao-podwyzszyl-cene-docelowa-akcji-Quercus-TFI-do-15-4-zl-a-rekomendacje-obnizyl-do-trzymaj-9188487.html",
-      "title": "BM Pekao podwyższył cenę docelową akcji Quercus TFI do 15,4 zł, a rekomendację obniżył do \"trzymaj\"",
-      "content_html": "Analitycy Biura Maklerskiego Banku Pekao, w raporcie z 28 sierpnia, podwyższyli cenę docelową dla akcji Quercus TFI do 15,4 zł z 13,7 zł poprzednio, obniżając rekomendację do \"trzymaj\" z \"kupuj\".",
-      "date_published": "2026-08-28T09:52:00+02:00",
+      "title": "BM Pekao podwyższył cenę docelową akcji Quercus TFI do 15,4 zł, a rekomendację obniżył do \"trzymaj\" Analitycy Biura Maklerskiego Banku Pekao, w raporcie z 28 sierpnia, podwyższyli cenę docelową dla akcji Quercus TFI do 15,4 zł z 13,7 zł poprzednio, obniżając rekomendację do \"trzymaj\" z \"kupuj\".",
+      "content_html": "",
+      "date_published": "2026-08-28T08:52:00+02:00",
       "source": "Bankier.pl"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Stalprodukt-odnotowal-w-II-kw-ok-1-3-mln-zl-straty-netto-j-d-i-4-7-mln-zl-straty-operacyjnej-9188486.html",
       "url": "https://www.bankier.pl/wiadomosc/Stalprodukt-odnotowal-w-II-kw-ok-1-3-mln-zl-straty-netto-j-d-i-4-7-mln-zl-straty-operacyjnej-9188486.html",
-      "title": "Strata znacznie mniejsza od obaw. Stalprodukt zaskoczył w II kwartale",
-      "content_html": "Stalprodukt miał w II kw. ok. 1,3 mln zł straty netto j.d. i 4,7 mln zł straty operacyjnej - wynika z wyliczeń PAP Biznes na podstawie raportu półrocznego. Oczekiwania analityków co do straty netto wynosiły ok. 17 mln zł, a straty operacyjnej...",
-      "date_published": "2026-08-28T09:46:00+02:00",
+      "title": "Strata znacznie mniejsza od obaw. Stalprodukt zaskoczył w II kwartale Stalprodukt miał w II kw. ok. 1,3 mln zł straty netto j.d. i 4,7 mln zł straty operacyjnej - wynika z wyliczeń PAP Biznes na podstawie raportu półrocznego. Oczekiwania analityków co do straty netto wynosiły ok. 17 mln zł, a straty operacyjnej 18-19 mln zł.",
+      "content_html": "",
+      "date_published": "2026-08-28T08:46:00+02:00",
       "source": "Bankier.pl"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Udzial-PKP-Cargo-w-rynku-przewiezionych-towarow-wg-masy-wzrosl-rdr-po-VII-do-26-71-proc-UTK-9188469.html",
       "url": "https://www.bankier.pl/wiadomosc/Udzial-PKP-Cargo-w-rynku-przewiezionych-towarow-wg-masy-wzrosl-rdr-po-VII-do-26-71-proc-UTK-9188469.html",
-      "title": "Rekordowy lipiec na torach. PKP Cargo i cały rynek towarowy przyspieszają",
-      "content_html": "Udział PKP Cargo w rynku przewiezionych towarów według masy wzrósł po lipcu do 26,71 proc. całego rynku wobec 25,68 proc. po lipcu 2025 roku - podał Urząd Transportu Kolejowego.",
-      "date_published": "2026-08-28T09:18:00+02:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Kontrola-PIP-w-ZUS-zakonczona-Inspekcja-nie-znalazla-nieprawidlowosci-9188466.html",
-      "url": "https://www.bankier.pl/wiadomosc/Kontrola-PIP-w-ZUS-zakonczona-Inspekcja-nie-znalazla-nieprawidlowosci-9188466.html",
-      "title": "Kontrola PIP w ZUS zakończona. Inspekcja nie znalazła nieprawidłowości",
-      "content_html": "Państwowa Inspekcja Pracy zakończyła kontrolę w ZUS w zakresie współpracy z organizacją związkową Związkowa Alternatywa w ZUS. Inspektorzy nie stwierdzili nieprawidłowości - przekazał w piątek Zakład Ubezpieczeń Społecznych.",
-      "date_published": "2026-08-28T09:06:00+02:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Nowy-sojusz-w-regionie-Ukraina-Moldawia-i-Rumunia-stawiaja-na-wspolprace-9188356.html",
-      "url": "https://www.bankier.pl/wiadomosc/Nowy-sojusz-w-regionie-Ukraina-Moldawia-i-Rumunia-stawiaja-na-wspolprace-9188356.html",
-      "title": "Nowy sojusz w regionie? Ukraina, Mołdawia i Rumunia stawiają na współpracę",
-      "content_html": "Ukraina, Mołdawia i Rumunia są sojusznikami w logistyce, energetyce i bezpieczeństwie, a ich współpraca wzmacnia wszystkie trzy państwa – oświadczył w czwartek w Kiszyniowie prezydent Ukrainy Wołodymyr Zełenski.",
-      "date_published": "2026-08-28T08:40:00+02:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Nawrocki-na-arenie-miedzynarodowej-Polacy-podjeli-decyzje-9188450.html",
-      "url": "https://www.bankier.pl/wiadomosc/Nawrocki-na-arenie-miedzynarodowej-Polacy-podjeli-decyzje-9188450.html",
-      "title": "Nawrocki na arenie międzynarodowej. Polacy podjęli decyzję",
-      "content_html": "56 proc. badanych uważa, że prezydent Karol Nawrocki dobrze reprezentuje Polskę na świecie, a 44 proc. ocenia, że źle - wynika z sondażu Instytutu Badań Pollster dla „Super Expressu”.",
-      "date_published": "2026-08-28T08:33:00+02:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Milion-Zydow-na-polnoc-i-poludnie-Kontrowersyjny-plan-rozpala-kampanie-w-Izraelu-9188352.html",
-      "url": "https://www.bankier.pl/wiadomosc/Milion-Zydow-na-polnoc-i-poludnie-Kontrowersyjny-plan-rozpala-kampanie-w-Izraelu-9188352.html",
-      "title": "Milion Żydów na północ i południe. Kontrowersyjny plan rozpala kampanię w Izraelu",
-      "content_html": "Minister finansów Izraela Becalel Smotricz ogłosił w czwartek plan „judaizacji” terenów na północy i południu kraju, gdzie mieszka wielu Arabów, przez zwiększenie tam obecności Żydów. To element programu jego nacjonalistycznej partii Religijny...",
-      "date_published": "2026-08-28T08:32:00+02:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Cherson-bez-glownego-zrodla-ciepla-Rosjanie-zniszczyli-elektrocieplownie-9188132.html",
-      "url": "https://www.bankier.pl/wiadomosc/Cherson-bez-glownego-zrodla-ciepla-Rosjanie-zniszczyli-elektrocieplownie-9188132.html",
-      "title": "Chersoń bez głównego źródła ciepła. Rosjanie zniszczyli elektrociepłownię",
-      "content_html": "Wojska rosyjskie całkowicie zniszczyły wszystkie urządzenia elektrociepłowni w Chersoniu na południu Ukrainy, zrzucając na nią cztery kierowane bomby lotnicze – powiadomił w czwartek Serhij Fedorenko, p.o. prezesa zarządu państwowej grupy...",
-      "date_published": "2026-08-28T08:30:00+02:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Wiceszef-MON-Polska-chce-Nuclear-Sharing-ale-bez-glowic-na-swoim-terytorium-9188377.html",
-      "url": "https://www.bankier.pl/wiadomosc/Wiceszef-MON-Polska-chce-Nuclear-Sharing-ale-bez-glowic-na-swoim-terytorium-9188377.html",
-      "title": "Wiceszef MON: Polska chce Nuclear Sharing, ale bez głowic na swoim terytorium",
-      "content_html": "Wicepremier, minister obrony narodowej Władysław Kosiniak-Kamysz podkreślił, że Polska jest niezmiennie zainteresowana udziałem w programie NATO Nuclear Sharing. Zaznaczył, że stanowisko polskiego rządu jest w tych kwestiach jednoznaczne.",
-      "date_published": "2026-08-28T08:30:00+02:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Trump-zmienil-nazwe-jeziora-Ontario-Teraz-to-Jezioro-Ameryka-9188330.html",
-      "url": "https://www.bankier.pl/wiadomosc/Trump-zmienil-nazwe-jeziora-Ontario-Teraz-to-Jezioro-Ameryka-9188330.html",
-      "title": "Trump zmienił nazwę jeziora Ontario. Teraz to Jezioro Ameryka",
-      "content_html": "Prezydent USA Donald Trump podpisał w czwartek rozporządzenie o zmianie nazwy jeziora Ontario na Jezioro Ameryka.",
-      "date_published": "2026-08-28T08:23:00+02:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Powodz-tam-nie-dotarla-ale-pieniadze-poplynely-Trzy-osoby-aresztowane-9188345.html",
-      "url": "https://www.bankier.pl/wiadomosc/Powodz-tam-nie-dotarla-ale-pieniadze-poplynely-Trzy-osoby-aresztowane-9188345.html",
-      "title": "Powódź tam nie dotarła, ale pieniądze popłynęły. Trzy osoby aresztowane",
-      "content_html": "Śledztwo w sprawie podejrzenia popełnienia oszustw związanych z odszkodowaniami dla powodzian dotyczy wsparcia w łącznej wysokości 900 tys. euro wypłaconego przedsiębiorstwom - poinformowała w czwartek Prokuratura Europejska (EPPO).",
-      "date_published": "2026-08-28T08:20:00+02:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Inwestycje-nowym-silnikiem-polskiej-gospodarki-Wzrost-PKB-i-zryw-firm-9188427.html",
-      "url": "https://www.bankier.pl/wiadomosc/Inwestycje-nowym-silnikiem-polskiej-gospodarki-Wzrost-PKB-i-zryw-firm-9188427.html",
-      "title": "Inwestycje nowym silnikiem polskiej gospodarki. Wzrost PKB i zryw firm",
-      "content_html": "Głównym źródłem szybszego wzrostu PKB w drugim kwartale tego roku były rozpędzające się inwestycje, które pozostają odporne na zewnętrzne zawirowania – ocenił główny ekonomista PZU Dawid Pachucki.",
-      "date_published": "2026-08-28T08:20:00+02:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Na-co-wydajemy-najwiecej-Nowy-raport-ujawnia-finansowe-realia-Polakow-9188429.html",
-      "url": "https://www.bankier.pl/wiadomosc/Na-co-wydajemy-najwiecej-Nowy-raport-ujawnia-finansowe-realia-Polakow-9188429.html",
-      "title": "Na co wydajemy najwięcej? Nowy raport ujawnia finansowe realia Polaków",
-      "content_html": "Na żywność i produkty codziennego użytku najwięcej pieniędzy przeznacza 73 proc. Polaków - wynika z opublikowanego niedawno badania. Niemal co trzecia osoba przyznaje, że wystarcza jej na wszystkie potrzeby i może regularnie oszczędzać.",
-      "date_published": "2026-08-28T08:20:00+02:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Trump-uspokaja-Rosja-nie-zaatakuje-NATO-9188323.html",
-      "url": "https://www.bankier.pl/wiadomosc/Trump-uspokaja-Rosja-nie-zaatakuje-NATO-9188323.html",
-      "title": "Trump uspokaja: Rosja nie zaatakuje NATO",
-      "content_html": "Rosja nie zaatakuje terytorium NATO - zadeklarował w czwartek prezydent USA Donald Trump, powołując się na swoje rozmowy z Władimirem Putinem.",
-      "date_published": "2026-08-28T08:15:00+02:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Polacy-chca-syren-zanim-rosyjskie-drony-przekrocza-granice-9188390.html",
-      "url": "https://www.bankier.pl/wiadomosc/Polacy-chca-syren-zanim-rosyjskie-drony-przekrocza-granice-9188390.html",
-      "title": "Polacy chcą syren, zanim rosyjskie drony przekroczą granicę",
-      "content_html": "Z badania IBRiS przeprowadzonego dla „Rzeczpospolitej” wynika, że niemal 59 proc. Polaków jest skłonna zgodzić się na włączenie syren alarmowych w przypadku gdy rosyjskie drony lub rakiety będą zmierzały w kierunku polskiej granicy, a jeszcze...",
-      "date_published": "2026-08-28T08:15:00+02:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/AI-miala-zabrac-prace-informatykom-Stalo-sie-dokladnie-odwrotnie-9188391.html",
-      "url": "https://www.bankier.pl/wiadomosc/AI-miala-zabrac-prace-informatykom-Stalo-sie-dokladnie-odwrotnie-9188391.html",
-      "title": "AI miała zabrać pracę informatykom. Stało się dokładnie odwrotnie",
-      "content_html": "Sztuczna inteligencja miała pozbawić informatyków pracy. Stało się wręcz przeciwnie. Liczba ofert dynamicznie rośnie. Rosną też wymagania, w cenie jest umiejętność stosowania AI w biznesie - pisze piątkowa „Rzeczpospolita”.",
-      "date_published": "2026-08-28T08:15:00+02:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Blisko-80-proc-Polakow-boi-sie-o-swoje-pieniadze-Wycieki-danych-coraz-grozniejsze-9188444.html",
-      "url": "https://www.bankier.pl/wiadomosc/Blisko-80-proc-Polakow-boi-sie-o-swoje-pieniadze-Wycieki-danych-coraz-grozniejsze-9188444.html",
-      "title": "Blisko 80 proc. Polaków boi się o swoje pieniądze. Wycieki danych coraz groźniejsze",
-      "content_html": "Blisko 80 proc. Polaków obawia się, że wyciek danych osobowych może zagrozić ich finansom, a 33 proc. zetknęło się z takim zdarzeniem osobiście lub w swoim otoczeniu – wynika z badania „Cyberbezpieczeństwo Polaków 2026”, zrealizowanego...",
-      "date_published": "2026-08-28T08:11:00+02:00",
+      "title": "Rekordowy lipiec na torach. PKP Cargo i cały rynek towarowy przyspieszają Udział PKP Cargo w rynku przewiezionych towarów według masy wzrósł po lipcu do 26,71 proc. całego rynku wobec 25,68 proc. po lipcu 2025 roku - podał Urząd Transportu Kolejowego.",
+      "content_html": "",
+      "date_published": "2026-08-28T08:18:00+02:00",
       "source": "Bankier.pl"
     },
     {
@@ -1082,14 +1170,6 @@
       "title": "Dywidendowe sianokosy 2026. Rekordowe wypłaty z Orlenem i bankami na czele Zwożenie dywidendowego plonu z warszawskiej giełdy powoli dobiega końca. Choć jesienią na konta inwestorów trafią jeszcze pojedyncze wypłaty i raty zaliczek, główny sezon możemy uznać za zamknięty. Z giełdowych pól i poletek akcjonariusze otrzymali dziesiątki miliardów złotych. Liderem ponownie okazał się Orlen, którego dywidenda za 2025 rok ustanowiła nowy rekord GPW.",
       "content_html": "",
       "date_published": "2026-08-28T06:00:00+02:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Nvidia-pcha-Wall-Street-w-gore-Inwestorzy-czekaja-na-wazny-ruch-prezesa-Fedu-9188385.html",
-      "url": "https://www.bankier.pl/wiadomosc/Nvidia-pcha-Wall-Street-w-gore-Inwestorzy-czekaja-na-wazny-ruch-prezesa-Fedu-9188385.html",
-      "title": "Nvidia pcha Wall Street w górę. Inwestorzy czekają na ważny ruch prezesa Fedu Czwartkowa sesja na Wall Street zakończyła się wzrostami głównych indeksów, a w centrum uwagi były wyniki kwartalne i nowe prognozy Nvidii. Inwestorzy czekają już na piątkowe wystąpienie prezesa Rezerwy Federalnej Kevina Warsha.",
-      "content_html": "",
-      "date_published": "2026-08-28T00:26:00+02:00",
       "source": "Bankier.pl"
     }
   ]
