@@ -5,20 +5,396 @@
   "home_page_url": "https://www.bankier.pl",
   "items": [
     {
-      "id": "https://www.bankier.pl/wiadomosc/Wyniki-Compu-w-II-kw-2026-roku-vs-konsensus-PAP-Biznes-tabela-9204064.html",
-      "url": "https://www.bankier.pl/wiadomosc/Wyniki-Compu-w-II-kw-2026-roku-vs-konsensus-PAP-Biznes-tabela-9204064.html",
-      "title": "Wyniki Compu w II kw. 2026 roku vs. konsensus PAP Biznes (tabela)",
-      "content_html": "Poniżej przedstawiono wyniki Compu w drugim kwartale 2026 roku oraz ich odniesienie do konsensusu PAP Biznes i poprzednich wyników.",
-      "date_published": "2026-09-29T00:14:00+02:00",
+      "id": "https://www.bankier.pl/wiadomosc/Anthropic-ujawnia-rachunek-za-AI-Setki-miliardow-dolarow-na-infrastrukture-9204150.html",
+      "url": "https://www.bankier.pl/wiadomosc/Anthropic-ujawnia-rachunek-za-AI-Setki-miliardow-dolarow-na-infrastrukture-9204150.html",
+      "title": "Anthropic ujawnia rachunek za AI. Setki miliardów dolarów na infrastrukturę",
+      "content_html": "Anthropic zakłada, że sztuczna inteligencja zmieni światową gospodarkę w sposób bardziej fundamentalny niż industrializacja, elektryczność czy internet. Jednocześnie koszty realizacji tej wizji będą ogromne.",
+      "date_published": "2026-09-29T10:00:00+02:00",
       "source": "Bankier.pl"
     },
     {
-      "id": "https://biznes.pap.pl/wiadomosci/firmy/wyniki-compu-w-ii-kw-2026-roku-vs-konsensus-pap-biznes-tabela",
-      "url": "https://biznes.pap.pl/wiadomosci/firmy/wyniki-compu-w-ii-kw-2026-roku-vs-konsensus-pap-biznes-tabela",
-      "title": "Wyniki Compu w II kw. 2026 roku vs. konsensus PAP Biznes (tabela)",
-      "content_html": "Poniżej przedstawiono wyniki Compu w drugim kwartale 2026 roku oraz ich odniesienie do konsensusu PAP Biznes i poprzednich wyników.\n\nKonsensus tworzony jest na podstawie prognoz biur maklerskich zebranych wcześniej przez PAP. Są one dostępne w pełnej wersji Serwisu Ekonomicznego PAP Biznes. Baza konsensusów PAP zawiera prognozy wyników kwartalnych i rocznych dla ponad 200 spółek notowanych na GPW. (PAP Biznes)",
-      "date_published": "2026-09-28T23:13:00+02:00",
+      "id": "https://www.bankier.pl/wiadomosc/Drogie-tankowanie-na-stacjach-Zamiast-mrozic-ceny-paliwa-rzad-doplaci-do-biletow-9204135.html",
+      "url": "https://www.bankier.pl/wiadomosc/Drogie-tankowanie-na-stacjach-Zamiast-mrozic-ceny-paliwa-rzad-doplaci-do-biletow-9204135.html",
+      "title": "Drogie tankowanie na stacjach? Zamiast mrozić ceny paliwa, rząd dopłaci do biletów",
+      "content_html": "W odpowiedzi na rosnące koszty tankowania na stacjach paliw słowacki rząd zdecydował się na interwencję i stawia na promowanie transportu zbiorowego. Od 1 października u naszych południowych sąsiadów wchodzą w życie ulgi na przejazdy koleją...",
+      "date_published": "2026-09-29T09:49:00+02:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Gazu-pod-dostatkiem-Motyka-Nie-powinno-byc-tu-ryzyk-9204151.html",
+      "url": "https://www.bankier.pl/wiadomosc/Gazu-pod-dostatkiem-Motyka-Nie-powinno-byc-tu-ryzyk-9204151.html",
+      "title": "Gazu pod dostatkiem? Motyka: Nie powinno być tu ryzyk",
+      "content_html": "W tym roku podjęliśmy decyzję, aby dzięki integracji systemu przesyłowego z gazociągiem jamalskim obniżyć ceny przesyłu gazu, więc nie powinno być tu ryzyk związanych z podwyżkami – powiedział we wtorek minister energii Miłosz Motyka...",
+      "date_published": "2026-09-29T09:40:00+02:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Szef-MON-spotka-sie-z-Hegsethem-Rozmowy-przelozone-na-listopad-9204149.html",
+      "url": "https://www.bankier.pl/wiadomosc/Szef-MON-spotka-sie-z-Hegsethem-Rozmowy-przelozone-na-listopad-9204149.html",
+      "title": "Szef MON spotka się z Hegsethem? Rozmowy przełożone na listopad",
+      "content_html": "Połowa listopada to według wiceszefowej MON Magdaleny Sobkowiak-Czerneckiej możliwy nowy termin spotkania szefa MON, wicepremiera Władysława Kosiniaka-Kamysza i szefa Pentagonu Pete'a Hegsetha.",
+      "date_published": "2026-09-29T09:33:00+02:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Mars-zamyka-biuro-w-Poznaniu-100-osob-straci-prace-czesc-procesow-trafi-do-Indii-9204147.html",
+      "url": "https://www.bankier.pl/wiadomosc/Mars-zamyka-biuro-w-Poznaniu-100-osob-straci-prace-czesc-procesow-trafi-do-Indii-9204147.html",
+      "title": "Mars zamyka biuro w Poznaniu. 100 osób straci pracę, część procesów trafi do Indii",
+      "content_html": "Amerykański gigant spożywczy Mars ogłosił plany likwidacji swojego poznańskiego centrum rozliczeniowo-finansowego Mars Global Services (MGS). Decyzja oznacza zwolnienie około 100 pracowników i całkowite zamknięcie biura zlokalizowanego przy Starym...",
+      "date_published": "2026-09-29T09:26:00+02:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Rosja-przejela-aktywa-niemieckiego-giganta-Decyzje-wydal-Putin-9204011.html",
+      "url": "https://www.bankier.pl/wiadomosc/Rosja-przejela-aktywa-niemieckiego-giganta-Decyzje-wydal-Putin-9204011.html",
+      "title": "Rosja przejęła aktywa niemieckiego giganta. Decyzję wydał Putin",
+      "content_html": "Niemiecka spółka handlowa Metro AG poinformowała w poniedziałek, że Rosja zajęła jej aktywa w tym kraju. Decyzję w tej sprawie podjął rosyjski przywódca Władimir Putin, który w poniedziałek wydał stosowny dekret. Media w Rosji zapewniają...",
+      "date_published": "2026-09-29T09:20:00+02:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Miedz-na-wage-zlota-W-tle-widmo-strajku-w-Chile-i-cla-w-USA-9204142.html",
+      "url": "https://www.bankier.pl/wiadomosc/Miedz-na-wage-zlota-W-tle-widmo-strajku-w-Chile-i-cla-w-USA-9204142.html",
+      "title": "Miedź na wagę złota. W tle widmo strajku w Chile i cła w USA",
+      "content_html": "Notowania miedzi na giełdzie metali LME w Londynie rosną we wtorek w reakcji na obawy o dostawy rud miedzi z Chile. W ciągu najbliższych 6 miesięcy ceny miedzi mogą wzrosnąć o ponad 50 proc. - do ponad 22.000 USD za tonę - informują maklerzy...",
+      "date_published": "2026-09-29T09:03:00+02:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Nielegalne-e-papierosy-warte-25-mln-zl-Sluzby-rozbily-magazyny-we-Wroclawiu-9204141.html",
+      "url": "https://www.bankier.pl/wiadomosc/Nielegalne-e-papierosy-warte-25-mln-zl-Sluzby-rozbily-magazyny-we-Wroclawiu-9204141.html",
+      "title": "Nielegalne e-papierosy warte 25 mln zł. Służby rozbiły magazyny we Wrocławiu",
+      "content_html": "Funkcjonariusze Centralnego Biura Śledczego Policji i dolnośląskiej Krajowej Administracji Skarbowej ujawnili dwa magazyny wypełnione ponad 134 tys. e-papierosów i prawie 4 tys. litrów płynów do e-papierosów o wartości blisko 25 mln zł. Zatrzymali...",
+      "date_published": "2026-09-29T09:01:00+02:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Przedwyborczy-worek-z-prezentami-pusty-Domanski-Nie-ma-miejsca-na-zwiekszanie-wydatkow-9204140.html",
+      "url": "https://www.bankier.pl/wiadomosc/Przedwyborczy-worek-z-prezentami-pusty-Domanski-Nie-ma-miejsca-na-zwiekszanie-wydatkow-9204140.html",
+      "title": "Przedwyborczy worek z prezentami pusty? Domański: Nie ma miejsca na zwiększanie wydatków",
+      "content_html": "Polska nie ma możliwości zwiększenia wydatków publicznych przed przyszłorocznymi wyborami - poinformował minister finansów Andrzej Domański w rozmowie z Bloombergiem.",
+      "date_published": "2026-09-29T09:00:00+02:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Fiasko-rozmow-USA-z-Teheranem-bije-w-rynki-Brent-przekracza-107-dolarow-9204137.html",
+      "url": "https://www.bankier.pl/wiadomosc/Fiasko-rozmow-USA-z-Teheranem-bije-w-rynki-Brent-przekracza-107-dolarow-9204137.html",
+      "title": "Fiasko rozmów USA z Teheranem bije w rynki. Brent przekracza 107 dolarów",
+      "content_html": "Ropa na globalnych rynkach powiększa wzrosty cen w reakcji na brak postępów w rozmowach pomiędzy USA a Iranem. Nie pomagają informacje, że Arabia Saudyjska wznowiła przesył ropy swoim kluczowym rurociągiem Wschód-Zachód - podają maklerzy.",
+      "date_published": "2026-09-29T08:50:00+02:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Iranska-blokada-ropy-peka-Eksport-z-Zatoki-Perskiej-wraca-do-80-procent-9204134.html",
+      "url": "https://www.bankier.pl/wiadomosc/Iranska-blokada-ropy-peka-Eksport-z-Zatoki-Perskiej-wraca-do-80-procent-9204134.html",
+      "title": "Irańska blokada ropy pęka? Eksport z Zatoki Perskiej wraca do 80 procent",
+      "content_html": "Eksport ropy z Zatoki Perskiej osiągnął 80 proc. przedwojennego poziomu — przekazał we wtorek \"The Wall Street Journal\" powołując się na dane firmy Kpler. Oznacza to, że irańska blokada przepływu ropy słabnie, co zwiększa ryzyko, że Teheran...",
+      "date_published": "2026-09-29T08:41:00+02:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/firmy/dzien-na-gpw-wtorkowa-sesja-moze-rozpoczac-sie-od-lekkich-wzrostow-5",
+      "url": "https://biznes.pap.pl/wiadomosci/firmy/dzien-na-gpw-wtorkowa-sesja-moze-rozpoczac-sie-od-lekkich-wzrostow-5",
+      "title": "DZIEŃ NA GPW: Wtorkowa sesja może rozpocząć się od lekkich wzrostów",
+      "content_html": "Wtorkowa sesja na GPW może rozpocząć się od lekkich wzrostów, co sugerują rosnące kontrakty terminowe na główne europejskie indeksy.\n\n\"W momencie pisania komentarza na giełdach azjatyckich dominuje czerwień. (...) Najważniejszym dzisiejszym wydarzeniem w kalendarzu makroekonomicznym będzie publikacja raportu JOLTS, który pokaże sytuację po stronie popytu na pracę w USA w sierpniu. Rynek oczekuje, że liczba ofert pracy pozostanie na poziomie zbliżonym do lipcowego, co wskazywałoby na dalszą stabilizację amerykańskiego rynku pracy\" - napisał w komentarzu Patryk Pyka, dyrektor zespołu analiz i doradztwa inwestycyjnego DI Xelion.\n\n\"Dodatkowo poznamy lipcowe dane dotyczące cen nieruchomości w USA oraz wrześniowy odczyt indeksu nastrojów konsumentów Conference Board\" - dodał.\n\nZWRÓĆ UWAGĘ (informacje opublikowane po zamknięciu notowań na GPW):\n\n• Pepco Group - spółka spodziewa się, że przychody za cały rok obrotowy 2026 r. przekroczą 4,5 mld euro, co przy stałych kursach walutowych daje wzrost o ok. 8 proc., na górnej granicy zapowiadanego przedziału 6-8 proc., a bazowa EBITDA (wg MSSF 16) wzrośnie o kilkanaście procent. Spółka spodziewa się też, że wzrost bazowego zysku netto przekroczy 60 proc.\n\n• Pepco Group - zarząd Pepco Group zatwierdził utworzenie nowego, wieloletniego programu skupu akcji własnych o wartości do 400 mln euro. Ma on funkcjonować między rokiem obrotowym 2027 a rokiem obrotowym 2029.\n\n• Scanway - spółka planuje osiągnięcie skumulowanych skonsolidowanych przychodów ze sprzedaży za lata 2026-2028 w wysokości 200 mln zł oraz współczynnika EBITDA za 2028 r. na poziomie 20 mln zł. Spółka planuje osiągnięcie backlogu (wartość portfela zamówień) na dzień 31 grudnia 2028 r. w wysokości 100 mln zł.\n\n• KGHM - analitycy Oddo BHF rozpoczęli wydawanie rekomendacji dla KGHM od zalecenia \"neutralnie\", a cena docelowa została ustalona na 360,07 zł, co implikuje 12 proc. wzrost od ostatniej ceny.\n\n• JSW - rada nadzorcza JSW zatwierdziła program naprawczy Jastrzębskiej Spółki Węglowej na lata 2026-2035 z uwzględnieniem spółek zależnych z operacjonalizacją. Program ma zapewnić grupie długoterminową poprawę rentowności, bezpieczeństwo płynności finansowej oraz dostosowanie skali działalności do warunków rynkowych i operacyjnych.\n\n• Erbud - spółka w drugim kwartale 2026 r. miała 715,9 mln zł przychodów, 14,7 mln zł zysku EBIT z działalności kontynuowanej i 7 mln zł zysku netto z działalności kontynuowanej. Strata netto z działalności zaniechanej wyniosła 263,4 mln zł.\n\n• Erbud - portfel zleceń grupy Erbud po pierwszym półroczu 2026 r. wynosi ok. 2,6 mld zł, w porównaniu do 2,8 mld zł przed rokiem.\n\n• Onde - w drugim kwartale spółka wypracowała 192,5 mln zł przychodów wobec 217,1 mln zł w analogicznym okresie rok wcześniej. EBIT wyniósł 1,9 mln zł wobec 16,3 mln zł rok wcześniej, a EBITDA w drugim kwartale wyniosła, według wyliczeń PAP Biznes, 6 mln zł. Strata netto jednostki dominującej w II kwartale wyniosła 0,2. Konsensus PAP Biznes zakładał w II kwartale 190 mln zł przychodów, 1 mln zł EBIT i 0,9 mln zł straty netto j.d.\n\n• Onde - backlog grupy Onde na 30 czerwca 2026 r. był o 45,3 proc. wyższy rdr i wyniósł 888 mln zł.\n\n• Ailleron - grupa miała w drugim kwartale 2026 r. 20,1 mln zł EBITDA, co oznacza wzrost o 21,1 proc rdr. W tym okresie przychody ze sprzedaży wyniosły 149,2 mln zł, więcej o 7 proc. rdr. Zysk netto jednostki dominującej w II kwartal wyniósł 3,6 mln zł, a w analogicznym okresie rok wcześniej był on na poziomie 7 mln zł. Zysk operacyjny (EBIT) wzrósł o 31,2 proc. rdr do 14,3 mln zł. Marża EBITDA w II kwartale wyniosła 13,5 proc. wobec 11,9 proc. rok wcześniej.\n\n• Comp - spółka w drugim kwartale 2026 r. miała 252 mln zł przychodów, 46 mln zł EBITDA, 33,1 mln zł EBIT i 23,5 mln zł zysku netto j.d. Konsensus PAP Biznes zakładał 216,1 mln zł przychodów, 44,9 mln zł EBITDA, 32,3 mln zł EBIT i 24,7 mln zł zysku netto j.d.\n\n• Grupa Skarbiec Holding - grupa miała w I półroczu roku obrotowego 2026 (styczeń - czerwiec 2026 ",
+      "date_published": "2026-09-29T08:40:00+02:00",
       "source": "PAP Biznes"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Zarzad-Pepco-zatwierdzil-utworzenie-nowego-programu-skupu-akcji-wlasnych-o-wartosci-do-400-mln-euro-9204126.html",
+      "url": "https://www.bankier.pl/wiadomosc/Zarzad-Pepco-zatwierdzil-utworzenie-nowego-programu-skupu-akcji-wlasnych-o-wartosci-do-400-mln-euro-9204126.html",
+      "title": "Zarząd Pepco zatwierdził utworzenie nowego programu skupu akcji własnych o wartości do 400 mln euro",
+      "content_html": "Zarząd Pepco Group zatwierdził utworzenie nowego, wieloletniego programu skupu akcji własnych o wartości do 400 mln euro - podała spółka w komunikacie.",
+      "date_published": "2026-09-29T08:30:00+02:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/rynki/dzien-na-rynkach-w-azji-na-gieldach-indeksy-ida-w-dol-2",
+      "url": "https://biznes.pap.pl/wiadomosci/rynki/dzien-na-rynkach-w-azji-na-gieldach-indeksy-ida-w-dol-2",
+      "title": "DZIEŃ NA RYNKACH: W Azji na giełdach indeksy idą w dół",
+      "content_html": "Na azjatyckich giełdach indeksy spadają w reakcji na zwyżkujące ceny ropy naftowej i spekulacje, że Fed podwyższy stopy procentowe. Na rynku walutowym USD jest stabilny do euro i JPY. Bitcoin jest po ok. 83.150 USD za token. Złoto zyskuje 0,5 proc. po spadku ceny w poniedziałek o prawie 4 proc. - informują maklerzy.\n\nW Japonii Nikkei 225 traci 1,38 proc. Topix jest niżej o 1,98 proc.\n\nW Chinach SCI zwyżkuje 0,17 proc., a CSI 300 zyskuje 0,09 proc.\n\nW Hongkongu Hang Seng zniżkuje o 0,52 proc.\n\nW Korei Południowej KOSPI zniżkuje o 0,32 proc.\n\nW Indiach Sensex 30 zniżkuje o 0,26 proc.\n\nIndeks PSEi na Filipinach zniżkuje o 0,33 proc.\n\nW Dżakarcie wskaźnik Jakarta Comp spada o 0,21 proc.\n\nNa azjatyckich giełdach indeksy spadają w reakcji na zwyżkujące ceny ropy naftowej i spekulacje, że Fed podwyższy stopy procentowe. Rentowności obligacji skarbowych wzrosły do wieloletnich maksimów.\n\nCeny ropy rosną o ponad 1 proc., a na rynkach osłabł optymizm co do rychłego przełomu w rozmowach dyplomatycznych USA z Iranem.\n\nPrezydent USA Donald Trump powiedział w poniedziałek, że nie zaproponował Teheranowi złagodzenia presji gospodarczej w zamian za ustępstwa w zakresie irańskiego programu nuklearnego. Trump oświadczył, że nie proponował Iranowi \"niczego\".\n\nDonald Trump odniósł się w swoim wpisie na platformie Truth Social do publikacji serwisu Axios, który przekazał, że amerykański prezydent jest gotów na złagodzenie sankcji i uwolnienie zamrożonych irańskich środków, jeśli ten kraj podejmie konkretne działania w sprawie swojego programu nuklearnego. Axios powołał się na źródła w amerykańskiej administracji.\n\nPrezydent USA oświadczył, że przedstawione przez serwis informacje są nieprawdziwe.\n\n\"To nieprawda. Nie zaoferowałem im NICZEGO! Artykuł Axios, podobnie jak większość innych, jest MISTYFIKACJĄ, wykorzystywaną wyłącznie w celu zaspokojenia ich obsesji na punkcie Trumpa. Powinni NATYCHMIAST wycofać tę fałszywą historię!\" - wezwał Donald Trump.\n\nMediatorzy z Pakistanu i Kataru ponownie próbują w tym tygodniu doprowadzić do porozumienia między USA i Iranem. Jednak — jak zauważa Axios — stanowiska stron w wielu kluczowych sprawach nadal bardzo się różnią.\n\nIran chce, aby rozmowy koncentrowały się na cieśninie Ormuz i amerykańskiej blokadzie morskiej, podczas gdy administracja Donalda Trumpa domaga się, by Iran zgodził się na ustępstwa w kwestii programu nuklearnego.\n\nRosnące ceny ropy naftowej, mocniejsza aktywność gospodarcza USA i obawy o wysoki poziom długu publicznego doprowadziły do największej wyprzedaży obligacji skarbowych od czasu wprowadzenia ceł przez Donalda Trumpa w 2025 r.\n\nGwałtowny wzrost rentowności obligacji zaczyna wywierać presję na rynki akcji, bo wyższe koszty pożyczek negatywnie wpływają na perspektywy wzrostu gospodarczego i zysków firm.\n\n\"Szerszy rynek nie był w stanie zyskać większej dynamiki z powodu rosnących rentowności obligacji i wyższych cen ropy\" - powiedział Chris Larkin z E*Trade Financial Corp.\n\nInwestorzy w tym tygodniu będą śledzić publikacje szeregu danych makro z USA, w poszukiwaniu sygnałów, że gospodarka Stanów Zjednoczonych pozostaje wystarczająco mocna, aby uzasadniało to dalsze podwyższanie stóp procentowych przez Fed.\n\n\"Jeśli odporność gospodarki USA i popyt inwestycyjny pozostaną nienaruszone, nadal jest potencjał do wzrostu rentowności ogligacji\" - powiedziała Seema Shah, główna globalna strateg Principal Asset Management w Principal Global Investors Eur Ltd.\n\nTymczasem w Australii bank centralny RBA podwyższył we wtorek stopy procentowe o 25 pb. do 4,60 proc. - zgodnie z prognozami analityków.\n\nRBA podał, że podwyższy jeszcze stopy procentowe, jeśli będzie taka konieczność.\n\nGubernator RBA Michele Bullock powiedziała, że we wtorek rada banku rozważała wstrzymanie się od zaostrzania polityki pieniężnej.\n\nKurs AUD/USD spadł o 0,5 proc. do 0,6985, a rentowność 3-letnich obligacji skarbowych spadła o 5 pb. do 4,99 proc..\n\n\"Rynki azjatyckie wykazują obecnie pewną odporność na dość ponurą sytuację ma",
+      "date_published": "2026-09-29T08:28:00+02:00",
+      "source": "PAP Biznes"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Brytyjski-parasol-ochronny-W-tle-bron-jadrowa-i-szybka-odpowiedz-9204079.html",
+      "url": "https://www.bankier.pl/wiadomosc/Brytyjski-parasol-ochronny-W-tle-bron-jadrowa-i-szybka-odpowiedz-9204079.html",
+      "title": "Brytyjski parasol ochronny. W tle broń jądrowa i szybka odpowiedź",
+      "content_html": "W ramach nowej inicjatywy sił ekspedycyjnych państw Europy Północnej (Grupa JEF), pod przywództwem Wielkiej Brytanii, Londyn zaoferuje Finlandii i innym państwom członkowskim tego sojuszu ochronę militarną z wykorzystaniem broni atomowej - podała...",
+      "date_published": "2026-09-29T08:26:00+02:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Pepco-Group-spodziewa-sie-ze-przychody-w-FY2026-przekrocza-4-5-mld-euro-9204123.html",
+      "url": "https://www.bankier.pl/wiadomosc/Pepco-Group-spodziewa-sie-ze-przychody-w-FY2026-przekrocza-4-5-mld-euro-9204123.html",
+      "title": "Pepco Group spodziewa się, że przychody w FY2026 przekroczą 4,5 mld euro",
+      "content_html": "Pepco Group spodziewa się, że przychody za cały rok obrotowy 2026 r. przekroczą 4,5 mld euro, a bazowa EBITDA (wg MSSF 16) wzrośnie o kilkanaście procent - poinformowała spółka w raporcie. Spółka spodziewa się też, że wzrost bazowego zysku...",
+      "date_published": "2026-09-29T08:24:00+02:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/KRRiT-uderza-w-Sejm-Uchwala-zawiera-wylacznie-nieprawdziwe-informacje-9204049.html",
+      "url": "https://www.bankier.pl/wiadomosc/KRRiT-uderza-w-Sejm-Uchwala-zawiera-wylacznie-nieprawdziwe-informacje-9204049.html",
+      "title": "KRRiT uderza w Sejm. „Uchwała zawiera wyłącznie nieprawdziwe informacje”",
+      "content_html": "Uzasadnienie uchwały Sejmu o odrzuceniu sprawozdania KRRiT za rok 2025 zawiera fałszywe informacje i wprowadza opinię publiczną w błąd — napisała przewodnicząca KRRiT Agnieszka Glapiak w piśmie do Marszałka Sejmu. W opinii szefa sejmowej komisji...",
+      "date_published": "2026-09-29T08:20:00+02:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Co-trzeci-Polak-uzywa-sztucznej-inteligencji-Dogonilismy-Niemcow-i-depczemy-po-pietach-USA-9204082.html",
+      "url": "https://www.bankier.pl/wiadomosc/Co-trzeci-Polak-uzywa-sztucznej-inteligencji-Dogonilismy-Niemcow-i-depczemy-po-pietach-USA-9204082.html",
+      "title": "Co trzeci Polak używa sztucznej inteligencji. Dogoniliśmy Niemców i depczemy po piętach USA",
+      "content_html": "Co trzeci Polak korzysta z generatywnej sztucznej inteligencji, wskazują dane Microsoft AI Economy Institute - informuje wtorkowa „Rzeczpospolita”.",
+      "date_published": "2026-09-29T08:20:00+02:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Motoryzacja-w-Polsce-zwalnia-Tysiace-miejsc-pracy-zniknely-w-rok-9204090.html",
+      "url": "https://www.bankier.pl/wiadomosc/Motoryzacja-w-Polsce-zwalnia-Tysiace-miejsc-pracy-zniknely-w-rok-9204090.html",
+      "title": "Motoryzacja w Polsce zwalnia. Tysiące miejsc pracy zniknęło w rok",
+      "content_html": "W I półroczu br. zatrudnienie w przemyśle motoryzacyjnym w Polsce spadło do poziomu sprzed 9 lat - wynika z raportu AutomotiveSuppliers.pl. Do spadku przyczyniły się przede wszystkim redukcje w branży komponentów i akcesoriów.",
+      "date_published": "2026-09-29T08:20:00+02:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Atomowy-okret-Korei-Pld-niepokoi-Pjongjang-Padly-ostre-slowa-9204093.html",
+      "url": "https://www.bankier.pl/wiadomosc/Atomowy-okret-Korei-Pld-niepokoi-Pjongjang-Padly-ostre-slowa-9204093.html",
+      "title": "Atomowy okręt Korei Płd. niepokoi Pjongjang. Padły ostre słowa",
+      "content_html": "„Ministerstwo Spraw Zagranicznych Korei Płn. oceniło w oświadczeniu opublikowanym w poniedziałek przez agencję KCNA, że zgoda USA na budowę przez Koreę Płd. pierwszego okrętu podwodnego o napędzie atomowym to „niebezpieczny rozwój wydarzeń”...",
+      "date_published": "2026-09-29T08:20:00+02:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Tego-nikt-sie-nie-spodziewal-Polacy-wsrod-najmniej-pijacych-narodow-w-Europie-9204081.html",
+      "url": "https://www.bankier.pl/wiadomosc/Tego-nikt-sie-nie-spodziewal-Polacy-wsrod-najmniej-pijacych-narodow-w-Europie-9204081.html",
+      "title": "Tego nikt się nie spodziewał? Polacy wśród najmniej pijących narodów w Europie",
+      "content_html": "Polska należy do unijnych liderów pod względem spadku spożycia alkoholu. W 2025 r. abstynentów przybywało szybciej tylko w dwóch krajach UE. To może częściowo tłumaczyć budżetowe kłopoty z wpływami z podatków akcyzowych - informuje we...",
+      "date_published": "2026-09-29T08:18:00+02:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Trump-o-Iranie-Nie-zaoferowalem-im-NICZEGO-Mediatorzy-probuja-wznowic-rozmowy-9204074.html",
+      "url": "https://www.bankier.pl/wiadomosc/Trump-o-Iranie-Nie-zaoferowalem-im-NICZEGO-Mediatorzy-probuja-wznowic-rozmowy-9204074.html",
+      "title": "Trump o Iranie: Nie zaoferowałem im NICZEGO! Mediatorzy próbują wznowić rozmowy",
+      "content_html": "Prezydent USA Donald Trump zapewnił w poniedziałek, że nie zaproponował Teheranowi złagodzenia presji gospodarczej w zamian za ustępstwa w zakresie irańskiego programu nuklearnego. Trump oświadczył, że nie proponował Iranowi „niczego”.",
+      "date_published": "2026-09-29T08:15:00+02:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Zaskakujace-slowa-ambasadora-USA-o-broni-dla-Chin-Trump-dementuje-9204050.html",
+      "url": "https://www.bankier.pl/wiadomosc/Zaskakujace-slowa-ambasadora-USA-o-broni-dla-Chin-Trump-dementuje-9204050.html",
+      "title": "Zaskakujące słowa ambasadora USA o broni dla Chin. Trump dementuje",
+      "content_html": "Prezydent USA Donald Trump powiedział w poniedziałek, że nie proponował sprzedaży amerykańskiej broni Chinom podczas spotkania z przywódcą ChRL Xi Jinpingiem. Zaprzeczył w ten sposób słowom swojego ambasadora w Pekinie Davida Perdue.",
+      "date_published": "2026-09-29T08:10:00+02:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Waszyngton-lagodzi-sankcje-wobec-Iranu-Powodem-pielgrzymki-szyitow-9204054.html",
+      "url": "https://www.bankier.pl/wiadomosc/Waszyngton-lagodzi-sankcje-wobec-Iranu-Powodem-pielgrzymki-szyitow-9204054.html",
+      "title": "Waszyngton łagodzi sankcje wobec Iranu. Powodem pielgrzymki szyitów",
+      "content_html": "Stany Zjednoczone wprowadziły w poniedziałek wyjątek od sankcji wobec Iranu, zezwalając na loty szyickich pielgrzymów między Iranem a Irakiem. Irackie linie Iraqi Airways wznowiły połączenia między Nadżafem a irańskimi lotniskami – podała...",
+      "date_published": "2026-09-29T08:10:00+02:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Atak-kilometr-od-Polski-Kosiniak-Kamysz-zdradza-kulisy-reakcji-wojska-9204057.html",
+      "url": "https://www.bankier.pl/wiadomosc/Atak-kilometr-od-Polski-Kosiniak-Kamysz-zdradza-kulisy-reakcji-wojska-9204057.html",
+      "title": "\"Wojna zbliża się do granic państw NATO\". Kosiniak-Kamysz zdradza kulisy reakcji wojska",
+      "content_html": "Szef MSZ Ukrainy Andrij Sybiha oświadczył w poniedziałek, że atak rosyjskiego drona przy granicy z Polską oznacza, że wojna zbliża się do granic państw NATO, a działania Moskwy pokazują, że jej agresja godzi w bezpieczeństwo daleko poza jego...",
+      "date_published": "2026-09-29T08:09:00+02:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Niedoszly-atak-na-baze-RAF-Fairford-Zatrzymani-wychodza-za-kaucja-9203881.html",
+      "url": "https://www.bankier.pl/wiadomosc/Niedoszly-atak-na-baze-RAF-Fairford-Zatrzymani-wychodza-za-kaucja-9203881.html",
+      "title": "Niedoszły atak na bazę RAF Fairford. Zatrzymani wychodzą za kaucją",
+      "content_html": "Pięciu mężczyzn aresztowanych w związku z rzekomą próbą dokonania ataku terrorystycznego na bazę RAF Fairford na południu Anglii zostanie wypuszczonych za kaucją – potwierdziła w poniedziałek policja.",
+      "date_published": "2026-09-29T08:06:00+02:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Scanway-zaklada-osiagniecie-20-mln-zl-skonsolidowanej-EBITDA-w-28-r-9204124.html",
+      "url": "https://www.bankier.pl/wiadomosc/Scanway-zaklada-osiagniecie-20-mln-zl-skonsolidowanej-EBITDA-w-28-r-9204124.html",
+      "title": "Scanway zakłada osiągnięcie 20 mln zł skonsolidowanej EBITDA w '28 r",
+      "content_html": "Scanway planuje osiągnięcie skumulowanych skonsolidowanych przychodów ze sprzedaży za lata 2026-2028 w wysokości 200 mln zł oraz współczynnika EBITDA za 2028 r. na poziomie 20 mln zł - podała spółka w aktualizacji strategii na lata 2026-2028...",
+      "date_published": "2026-09-29T08:06:00+02:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Trump-odpowiada-na-kanadyjskie-cla-USA-zakazuja-importu-kolejnych-produktow-9204102.html",
+      "url": "https://www.bankier.pl/wiadomosc/Trump-odpowiada-na-kanadyjskie-cla-USA-zakazuja-importu-kolejnych-produktow-9204102.html",
+      "title": "Trump odpowiada na kanadyjskie cła. USA zakazują importu kolejnych produktów",
+      "content_html": "Po północy we wtorek czasu wschodnioamerykańskiego (6 w Polsce) weszło w życie rozporządzenie prezydenta Donalda Trumpa o zakazie importu nabiału, alkoholu i motocykli z Kanady. To część trwającego sporu USA ze swoim drugim największym partnerem...",
+      "date_published": "2026-09-29T08:05:00+02:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/rynki/ceny-miedzi-w-londynie-rosna-z-powodu-niepewnych-dostaw-z-chile",
+      "url": "https://biznes.pap.pl/wiadomosci/rynki/ceny-miedzi-w-londynie-rosna-z-powodu-niepewnych-dostaw-z-chile",
+      "title": "Ceny miedzi w Londynie rosną z powodu niepewnych dostaw z Chile",
+      "content_html": "Notowania miedzi na giełdzie metali LME w Londynie rosną we wtorek w reakcji na obawy o dostawy rud miedzi z Chile. W ciągu najbliższych 6 miesięcy ceny miedzi mogą wzrosnąć o ponad 50 proc. - do ponad 22.000 USD za tonę - informują maklerzy.\n\nMiedź w dostawach 3-miesięcznych na LME jest wyceniana wyżej o 0,2 proc. - po 14.438,00 USD za tonę.\n\nNa Comex w Nowym Jorku miedź kosztuje 6,6115 USD za funt, niżej o 0,33 proc. Metal zyskał w tym roku na Comex 16,4 proc.\n\nNa giełdzie metali SHF w Szanghaju miedź jest wyceniana po 109.400 juanów za tonę, po zniżce o 0,03 proc. i po wzroście od początku roku o 11,6 proc.\n\nInwestorzy oceniają informacje z Chile, gdzie pracownicy kopalni Centinela, która należy do koncernu Antofagasta, odrzucili ostateczną propozycję firmy dotyczącą wynagrodzeń, a to oznacza potencjalną groźbę strajku w tym jednym z kluczowych zakładów górniczych w Chile.\n\nZbliża się też święto narodowe w Chinach - od 1 do 7 października, a to czasowo osłabi zapotrzebowanie na miedź.\n\nAnalitycy Deutsche Banku spodziewają się jednak wzrostu cen miedzi o ponad 50 proc. - do ponad 22.000 USD za tonę - w ciągu najbliższych 6 miesięcy, gdyż nabywcy rywalizują o coraz bardziej kurczące się dostępne zasoby tego metalu.\n\nOczekiwania wprowadzenia ceł na miedzi w USA spowodowały gwałtowny napływ tego metalu za Ocean, a to ograniczyło podaż miedzi dostępnej dla reszty świata i utrzymało korzystną różnicę cen między Nowym Jorkiem a Londynem.\n\nNa zakończenie poprzedniej sesji miedź na LME kosztowała 14.413,00 USD za tonę, niżej o 210 USD.\n\nW tym miesiącu cena miedzi na LME wzrosła do rekordowych 14.858,50 USD za tonę, a na Comex wzrosła również do rekordu: 6,894 USD za funt.\n\nW III kw. cena miedzi zaliczy wzrost o ok. 8 proc.\n\nOd początku 2026 r. cena miedzi na LME wzrosła o 16,0 proc. (PAP Biznes)",
+      "date_published": "2026-09-29T08:02:00+02:00",
+      "source": "PAP Biznes"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Bruksela-blokuje-miliardy-dla-Kijowa-Ukraina-nie-spelnila-kluczowych-warunkow-9204036.html",
+      "url": "https://www.bankier.pl/wiadomosc/Bruksela-blokuje-miliardy-dla-Kijowa-Ukraina-nie-spelnila-kluczowych-warunkow-9204036.html",
+      "title": "Bruksela blokuje miliardy dla Kijowa. Ukraina nie spełniła kluczowych warunków",
+      "content_html": "Premier Ukrainy Serhij Korecki poinformował w poniedziałek, że rząd odłoży wydatki na nowe budowy i remonty, aby zapewnić środki na obronę, emerytury i świadczenia społeczne. Przyznał, że część zagranicznego finansowania nie wpłynęła...",
+      "date_published": "2026-09-29T08:00:00+02:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Starship-osiagnal-orbite-i-rozmiescil-satelity-Starlink-Przelomowy-lot-SpaceX-9204078.html",
+      "url": "https://www.bankier.pl/wiadomosc/Starship-osiagnal-orbite-i-rozmiescil-satelity-Starlink-Przelomowy-lot-SpaceX-9204078.html",
+      "title": "Starship osiągnął orbitę i rozmieścił satelity Starlink. Przełomowy lot SpaceX",
+      "content_html": "Rakieta Starship firmy SpaceX, określana przez CNN jako najpotężniejsza w historii, po raz pierwszy osiągnęła w poniedziałek orbitę i rozmieściła 26 satelitów Starlink. Z powodu problemów z jednym z silników lot skrócono. Po powrocie do...",
+      "date_published": "2026-09-29T07:58:00+02:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/rynki/na-rynkach-paliw-ropa-powieksza-wzrosty-cen",
+      "url": "https://biznes.pap.pl/wiadomosci/rynki/na-rynkach-paliw-ropa-powieksza-wzrosty-cen",
+      "title": "Na rynkach paliw ropa powiększa wzrosty cen",
+      "content_html": "Ropa na globalnych rynkach powiększa wzrosty cen w reakcji na brak postępów w rozmowach pomiędzy USA a Iranem. Nie pomagają informacje, że Arabia Saudyjska wznowiła przesył ropy swoim kluczowym rurociągiem Wschód-Zachód - podają maklerzy.\n\nBaryłka ropy West Texas Intermediate w dostawach na XI jest na NYMEX w Nowym Jorku po 94,45 USD - wyżej o 2,00 proc.\n\nBrent na ICE na XI jest wyceniana po 107,60 USD za baryłkę, wyżej o 2,20 proc.\n\nRopa na globalnych rynkach powiększa wzrosty cen w reakcji na brak postępów w rozmowach pomiędzy USA a Iranem.\n\nNie pomagają informacje, że Arabia Saudyjska wznowiła przesył ropy swoim kluczowym rurociągiem Wschód-Zachód.\n\nPrezydent USA Donald Trump poinformował w poniedziałek, że nie zaproponował Teheranowi złagodzenia presji gospodarczej w zamian za ustępstwa w zakresie irańskiego programu nuklearnego. Donald Trump oświadczył, że nie proponował Iranowi \"niczego\".\n\nPrezydent Trump odniósł się w swoim wpisie na platformie Truth Social do publikacji serwisu Axios.\n\nPortal przekazał, że amerykański prezydent jest gotów na złagodzenie sankcji i uwolnienie zamrożonych irańskich środków, jeśli ten kraj podejmie konkretne działania w sprawie swojego programu nuklearnego.\n\nAxios powołał się na źródła w amerykańskiej administracji.\n\nPrezydent USA oświadczył, że przedstawione przez serwis informacje są nieprawdziwe. \"To nieprawda. Nie zaoferowałem im NICZEGO! Artykuł Axios, podobnie jak większość innych, jest MISTYFIKACJĄ, wykorzystywaną wyłącznie w celu zaspokojenia ich obsesji na punkcie Trumpa. Powinni NATYCHMIAST wycofać tę fałszywą historię!\" - wezwał Donald Trump.\n\nMediatorzy z Pakistanu i Kataru ponownie próbują w tym tygodniu doprowadzić do porozumienia między USA i Iranem.\n\nJednak — jak zauważa Axios — stanowiska stron w wielu kluczowych sprawach nadal bardzo się różnią. Iran chce, aby rozmowy koncentrowały się na cieśninie Ormuz i amerykańskiej blokadzie morskiej, podczas gdy administracja Donalda Trumpa domaga się, by Iran zgodził się na ustępstwa w kwestii programu nuklearnego.\n\nIrańscy urzędnicy tymczasem wyrazili pesymizm co do możliwości osiągnięcia porozumienia mającego na celu zakończenie działań wojennych na Bliskim Wschodzie i ponownego otwarcia cieśniny Ormuz przed wyborami połówkowymi w USA w listopadzie.\n\nGdyby jednak doszło do zawarcia umowy USA-Iran to, jak wskazują eksperci, cena ropy Brent mogłaby potencjalnie spaść o 15 USD na baryłce, podczas gdy osiągnięcie przez Brent 120 USD za baryłkę wymagałoby faktycznego poważnego zakłócenia dostaw.\n\nTymczasem Arabia Saudyjska wznowiła eksport ropy przez Morze Czerwone po naprawie rurociągu Wschód-Zachód, uszkodzonego w wyniku ataków dronów 10 września.\n\nŹródła podają, że przepływy ropy rurociągiem w kierunku Morza Czerwonego osiągnęły poziom co najmniej 3,5 mln baryłek dziennie - połowę dziennej przepustowości wynoszącej 7 mln baryłek ropy dziennie.\n\nPełne wznowienie przesyłu ropy tym rurociągiem może zająć ok. 6 tygodni.\n\nZaładunki ropy w porcie Janbu nad Morzem Czerwonym zostały wznowione w zeszłym tygodniu.\n\nPrzywrócenie działania strategicznej trasy pozwala Rijadowi częściowo uniezależnić eksport od Cieśniny Ormuz, której bezpieczeństwo zostało poważnie zagrożone podczas konfliktu z Iranem.\n\nśredni eksport ropy naftowej z Arabii Saudyjskiej we wrześniu osiągnął najwyższy poziom od początku wojny na Bliskim Wschodzie, mimo zakłóceń w pracy rurociągu Wschód-Zachód.(PAP Biznes)",
+      "date_published": "2026-09-29T07:48:00+02:00",
+      "source": "PAP Biznes"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/RN-JSW-zatwierdzila-program-naprawczy-spolki-na-lata-2026-2035-aktl-9204116.html",
+      "url": "https://www.bankier.pl/wiadomosc/RN-JSW-zatwierdzila-program-naprawczy-spolki-na-lata-2026-2035-aktl-9204116.html",
+      "title": "RN JSW zatwierdziła program naprawczy spółki na lata 2026-2035",
+      "content_html": "Rada nadzorcza JSW zatwierdziła program naprawczy Jastrzębskiej Spółki Węglowej na lata 2026-2035 z uwzględnieniem spółek zależnych z operacjonalizacją - podała spółka w komunikacie. Program ma zapewnić grupie długoterminową poprawę...",
+      "date_published": "2026-09-29T07:46:00+02:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Gdzie-sie-ukryc-w-razie-zagrozenia-Rzad-oznakuje-ponad-86-tysiecy-obiektow-9204115.html",
+      "url": "https://www.bankier.pl/wiadomosc/Gdzie-sie-ukryc-w-razie-zagrozenia-Rzad-oznakuje-ponad-86-tysiecy-obiektow-9204115.html",
+      "title": "Gdzie się ukryć w razie zagrożenia? Rząd oznakuje ponad 86 tysięcy obiektów",
+      "content_html": "Do końca roku chcielibyśmy oznakować punkty schronienia międzynarodowym znakiem obrony cywilnej - powiedział PAP wiceszef MSWiA Wiesław Leśniakiewicz. Dodał, że udostępnienie punktów przez zarządców będzie obowiązkowe w czasie wojny, ale...",
+      "date_published": "2026-09-29T07:42:00+02:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/firmy/zarzad-pepco-zatwierdzil-utworzenie-programu-skupu-akcji-o-wartosci-do-400-mln",
+      "url": "https://biznes.pap.pl/wiadomosci/firmy/zarzad-pepco-zatwierdzil-utworzenie-programu-skupu-akcji-o-wartosci-do-400-mln",
+      "title": "Zarząd Pepco zatwierdził utworzenie programu skupu akcji o wartości do 400 mln euro (opis)",
+      "content_html": "Zarząd Pepco Group zatwierdził utworzenie nowego, wieloletniego programu skupu akcji własnych o wartości do 400 mln euro - podała spółka w komunikacie.\n\nMa on funkcjonować między rokiem obrotowym 2027 a rokiem obrotowym 2029. Grupa wcześniej zakończyła program o wartości 200 mln euro w maju 2026 (przed terminem) oraz specjalny, jednorazowy skup w wysokości 400 mln euro w sierpniu 2026 r.\n\n17 sierpnia 2026 r. grupa zakończyła rozliczenie proporcjonalnego skupu akcji własnych o łącznej wartości 400 mln euro, przeprowadzanego w drodze ograniczonego w czasie zaproszenia do składania ofert sprzedaży akcji, nabywając 36.462.201 akcji po stałej cenie nabycia wynoszącej 47,52 zł za akcję.\n\nPo zwrocie kapitału wskaźnik zadłużenia przed MSSF 16 na koniec roku obrotowego 2026 powinien wynieść około 0,7x bazowej EBITDA, poniżej środka docelowego przedziału grupy wynoszącego od 0,5x do 1,5x.\n\n\"Zgodnie ze strategią zwrotu kapitału przedstawioną przy okazji wyników półrocznych w maju 2026 r., od roku obrotowego 2027 grupa zamierza kierować do akcjonariuszy całość lewarowanych wolnych przepływów pieniężnych za poprzedni rok obrotowy, po uwzględnieniu strategicznych inwestycji mających na celu rozwój działalności. Zwrot ten będzie realizowany w formie połączenia skupu akcji własnych oraz dywidend, przy czym zarząd oczekuje stopniowego zwiększania wskaźnika wypłaty dywidendy w kierunku poziomu 40 proc. bazowego zysku netto\" - napisano.\n\nJak podano, nowy program skupu akcji własnych wpisuje się i jest w pełni finansowany w ramach nowej strategii zwrotu kapitału i zostanie uruchomiony równolegle z programem dywidendy zwykłej, zachowując przy tym poziom wskaźnika zadłużenia w przedziale docelowym grupy przed MSSF 16 między 0,5x a 1,5x.\n\nGrupa rozpoczęła procedurę ustawową zmierzającą do umorzenia 51.153.590 akcji będących w posiadaniu spółki, w tym 36.462.201 akcji nabytych w ramach ostatniego skupu. (PAP Biznes)",
+      "date_published": "2026-09-29T07:27:00+02:00",
+      "source": "PAP Biznes"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/firmy/pepco-spodziewa-sie-w-fy2026-wzrostu-przychodow-o-ok-8-proc-bazowej-ebitda-o",
+      "url": "https://biznes.pap.pl/wiadomosci/firmy/pepco-spodziewa-sie-w-fy2026-wzrostu-przychodow-o-ok-8-proc-bazowej-ebitda-o",
+      "title": "Pepco spodziewa się w FY2026 wzrostu przychodów o ok. 8 proc., bazowej EBITDA o kilkanaście proc. (opis)",
+      "content_html": "Pepco Group spodziewa się, że przychody za cały rok obrotowy 2026 r. przekroczą 4,5 mld euro, co przy stałych kursach walutowych daje wzrost o ok. 8 proc., na górnej granicy zapowiadanego przedziału 6-8 proc., a bazowa EBITDA (wg MSSF 16) wzrośnie o kilkanaście procent - poinformowała spółka w raporcie. Spółka spodziewa się też, że wzrost bazowego zysku netto przekroczy 60 proc.\n\nWcześniej spółka oczekiwała wzrostu bazowego zysku netto na poziomie przekraczającym 50 proc. (względem skorygowanej bazy porównawczej z roku obrotowego 2025 na poziomie 234 mln euro).\n\n\"Zmiana ta odzwierciedla poprawę konwersji EBITDA, niższą efektywną stopę podatkową oraz zakomunikowaną wcześniej zmianę w polityce amortyzacyjnej spółki. Wzrost bazowego zysku na akcję jest spodziewany na poziomie wyższym niż wzrost bazowego zysku netto, co oddaje wpływ programów skupu akcji własnych\" - napisano.\n\nWedług oczekiwań spółki marża brutto wyniesie ok. 51 proc.\n\nOczekiwania co do nielewarowanych wolnych przepływów pieniężnych wynoszą ponad 350 mln euro, powyżej ogłoszonej wcześniejszej perspektywy ok. 300 mln euro, po wydatkach kapitałowych na poziomie ok. 150 mln euro oraz przy planowanym uruchomieniu ok. 250 nowych sklepów netto w roku obrotowym 2026.\n\nJak podano, przychody Pepco w 51 tygodniach do 20 września 2026 r. wzrosły o 8,3 proc. przy zachowaniu stałych kursów walutowych. Wzrost przychodów LFL z wyłączeniem FMCG wyniósł 5,9 proc. (3,8 proc. wliczając FMCG).\n\nW trwającym IV kwartale (do 20 września 2026 r.), przychody przy stałych kursach walutowych zwiększyły się o 15,6 proc., a przychody LFL z wyłączeniem FMCG o 9,5 proc. (i o 9,4 proc. wliczając FMCG). Spółka podała, że to poprawa względem wzrostu o 5,4 proc. sprzedaży LFL z wyłączeniem FMCG (i o 4,2 proc. wliczając FMCG) w III kw. roku obrotowego 2026 oraz najlepszy wynik kwartalny od czasu wdrożenia nowej strategii strategicznego. To także ósmy z rzędu kwartał z pozytywną dynamiką przychodów LFL.\n\n\"Na przychodach LFL w IV kw. pozytywnie odbiła się zaplanowana wcześniej wyprzedaż towarów z poprzednich sezonów, przeprowadzona w ramach strategii odświeżania i poprawy wyboru odzieży oferowanej przez spółkę. Dzięki temu osiągnięto rekordowy poziom najnowszych towarów w zapasach na koniec roku, ale też odnotowano jednorazowy wpływ tych działań na marżę brutto w IV kwartale w wysokości ok. 200 punktów bazowych wobec roku ubiegłego\" - napisano w komunikacie.\n\n\"Spółka ocenia, że wyprzedaż zwiększyła sprzedaż LFL w IV kw. roku obrotowego 2026 o 3 do 5 punktów procentowych. Ta sytuacja będzie miała też pozytywny wpływ na przychody LFL w kolejnych kwartałach poprzez poprawę świeżości asortymentu, aczkolwiek będzie on mniejszy niż w bieżącym okresie\" - dodano.\n\nSpółka spodziewa się zakończyć rok obrotowy (30 września 2026 r.) z ok. 250 nowymi sklepami Pepco netto i ich łączną liczbą na poziomie ok. 4.260, zgodnie z wcześniejszymi oczekiwaniami. Jak podano, stanowi to etap poprzedzający przyspieszoną ekspansję w Europie Zachodniej, zakładającą otwarcie co najmniej 600 nowych sklepów w okresie od roku obrotowego 2027 do roku obrotowego 2030. (PAP Biznes)",
+      "date_published": "2026-09-29T07:21:00+02:00",
+      "source": "PAP Biznes"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/firmy/zarzad-pepco-zatwierdzil-utworzenie-nowego-programu-skupu-akcji-wlasnych-o",
+      "url": "https://biznes.pap.pl/wiadomosci/firmy/zarzad-pepco-zatwierdzil-utworzenie-nowego-programu-skupu-akcji-wlasnych-o",
+      "title": "Zarząd Pepco zatwierdził utworzenie nowego programu skupu akcji własnych o wartości do 400 mln euro",
+      "content_html": "Zarząd Pepco Group zatwierdził utworzenie nowego, wieloletniego programu skupu akcji własnych o wartości do 400 mln euro - podała spółka w komunikacie.\n\nMa on funkcjonować między rokiem obrotowym 2027 a rokiem obrotowym 2029. Grupa wcześniej zakończyła program o wartości 200 mln euro w maju 2026 (przed terminem) oraz specjalny, jednorazowy skup w wysokości 400 mln euro w sierpniu 2026 r.(PAP Biznes)",
+      "date_published": "2026-09-29T07:08:00+02:00",
+      "source": "PAP Biznes"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/firmy/pepco-group-spodziewa-sie-ze-przychody-w-fy2026-przekrocza-45-mld-euro",
+      "url": "https://biznes.pap.pl/wiadomosci/firmy/pepco-group-spodziewa-sie-ze-przychody-w-fy2026-przekrocza-45-mld-euro",
+      "title": "Pepco Group spodziewa się, że przychody w FY2026 przekroczą 4,5 mld euro",
+      "content_html": "Pepco Group spodziewa się, że przychody za cały rok obrotowy 2026 r. przekroczą 4,5 mld euro, a bazowa EBITDA (wg MSSF 16) wzrośnie o kilkanaście procent - poinformowała spółka w raporcie. Spółka spodziewa się też, że wzrost bazowego zysku netto przekroczy 60 proc.\n\nJak podano, po 51 tygodniach do 20 września 2026 r., wzrost przychodów LFL z wyłączeniem FMCG wyniósł 5,9 proc. (3,8 proc. wliczając FMCG). (PAP Biznes)",
+      "date_published": "2026-09-29T07:05:00+02:00",
+      "source": "PAP Biznes"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/przemysl/scanway-zaklada-osiagniecie-20-mln-zl-skonsolidowanej-ebitda-w-28-r",
+      "url": "https://biznes.pap.pl/wiadomosci/przemysl/scanway-zaklada-osiagniecie-20-mln-zl-skonsolidowanej-ebitda-w-28-r",
+      "title": "Scanway zakłada osiągnięcie 20 mln zł skonsolidowanej EBITDA w '28 r",
+      "content_html": "Scanway planuje osiągnięcie skumulowanych skonsolidowanych przychodów ze sprzedaży za lata 2026-2028 w wysokości 200 mln zł oraz współczynnika EBITDA za 2028 r. na poziomie 20 mln zł - podała spółka w aktualizacji strategii na lata 2026-2028.\n\nSpółka planuje osiągnięcie backlogu (wartość portfela zamówień) na dzień 31 grudnia 2028 r. w wysokości 100 mln zł.\n\n\"Zaktualizowana Strategia zachowuje wszystkie kluczowe filary i kierunki rozwoju przyjęte we wrześniu 2025 r., jednocześnie dostosowuje cele do obecnej skali działalności Spółki i potencjału rynkowego. Aktualizacja zwiększa ambicje Scanway S.A. w zakresie skalowania produkcji, rozwoju instrumentów nowej generacji, budowy pełnego łańcucha wartości danych optycznych i rozwoju na rynkach międzynarodowych\" - podała spółka.\n\nScanway przyspieszy prace nadinstrumentami klasy Very High Resolution (VHR), w tym technologii adaptive optics oraz będziebudowała dodatkowe strumienie przychodów w modelu Data-as-a-Service (DaaS).\n\nSpółka podtrzymuje cel rozwinięcia zdolności do produkcji kilkunastu ładunków optycznych rocznie w przedziale 0,5–2,0 mln EUR za jednostkę do końca horyzontu strategii. Spółka chce ponadto osiągnąć zdolność technologiczną do obrazowania na poziomie ok.50 cm/piksel z orbity LEO do końca 2028 roku, a od 2029 roku rozpocząć komercjalizacjęinstrumentów optycznych tej klasy (VHR).\n\nNowym, strategicznym obszarem rozwoju, jest Data-as-a-Service, który ma umożliwić Scanway generowanie dodatkowych, powtarzalnych strumieni przychodów ze sprzedażydanych oraz zwiększyć udział Spółki w pełnym łańcuchu wartości danych optycznych\n\nPodano, że zaktualizowana strategia podtrzymuje nadrzędny cel Scanway na koniec 2028 roku, jakim jestosiągnięcie pozycji jednego z największych integratorów ładunków optycznych w Europie.\n\n\"Strategia, którą przedstawiliśmy we wrześniu 2025 roku, wyznaczyła właściwy kierunek rozwoju Scanway, jednak ostatnie dwanaście miesięcy pokazało, że zarówno rynek, jak i sama spółka rozwijają się szybciej niż zakładaliśmy w momencie publikacji dokumentu. Widzimy większą liczbę projektów konstelacyjnych w naszym zasięgu, znacznie większą aktywność klientówmiędzynarodowych, w szczególności w Stanach Zjednoczonych oraz nowe możliwości wobszarach, które jeszcze rok temu znajdowały się na wcześniejszym etapie rozwoju. Dlatego niezmieniamy Strategii, zwiększamy i konkretyzujemy nasze ambicje\" - powiedział Jędrzej Kowalewski, CEO Scanway.\n\nW I półroczu 2026 Scanway wygenerował 9,6 mln zł przychodów ze sprzedaży (-1,5 mln zł rdr), -7,8 mln zł EBITDA (-11,9 mln zł rdr) i -7,4 mln zł straty netto (-9,7 mln zł rdr). W samym II kwartale 2026 roku Scanway wygenerował 5,8 mln zł przychodów ze sprzedaży (-2,4 mln zł rdr), -4,7 mln zł EBITDA (-9,2 mln zł rdr) i -3,3 mln zł straty netto (-6,8 mln zł rdr). Po wyłączeniu wpływu kontraktu z klientem azjatyckim przychody w I półroczu 2026 z pozostałego portfela wzrosły o 180 proc. rdr przy istotnym udziale projektów konstelacyjnych. (PAP Biznes)",
+      "date_published": "2026-09-29T07:05:00+02:00",
+      "source": "PAP Biznes"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Zostala-zmanipulowana-i-potwierdzila-przelew-Zada-od-banku-zwrotu-40-tys-zl-9203542.html",
+      "url": "https://www.bankier.pl/wiadomosc/Zostala-zmanipulowana-i-potwierdzila-przelew-Zada-od-banku-zwrotu-40-tys-zl-9203542.html",
+      "title": "Została zmanipulowana i potwierdziła przelew. Żąda od banku zwrotu 40 tys. zł",
+      "content_html": "Klientka BNP Paribas nie zaprzecza, że podczas rozmowy z prawdziwą pracownicą banku potwierdziła transakcję. Bank najpierw zatrzymał przelew na 40 tys. zł, ale po telefonicznej weryfikacji zwolnił go do realizacji. Kobieta twierdzi, że była...",
+      "date_published": "2026-09-29T07:00:00+02:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Powiadomienie-z-telefonu-moze-byc-reklama-oszustow-CERT-ostrzega-przed-nowym-sposobem-ataku-9203618.html",
+      "url": "https://www.bankier.pl/wiadomosc/Powiadomienie-z-telefonu-moze-byc-reklama-oszustow-CERT-ostrzega-przed-nowym-sposobem-ataku-9203618.html",
+      "title": "Powiadomienie z telefonu może być reklamą oszustów. CERT ostrzega przed nowym sposobem ataku",
+      "content_html": "Na ekranie telefonu pojawia się komunikat wyglądający jak powiadomienie znanej aplikacji. Jest logo, nazwa usługi, wszystko wygląda normalnie. Po kliknięciu użytkownik trafia jednak na stronę przygotowaną przez oszustów. CERT Polska ostrzega...",
+      "date_published": "2026-09-29T07:00:00+02:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Ceny-mieszkan-w-III-kw-2026-r-Stabilizacja-stawek-wzrosty-w-Warszawie-RAPORT-9203633.html",
+      "url": "https://www.bankier.pl/wiadomosc/Ceny-mieszkan-w-III-kw-2026-r-Stabilizacja-stawek-wzrosty-w-Warszawie-RAPORT-9203633.html",
+      "title": "Co się dzieje z cenami mieszkań? Nowy indeks daje nadzieję kupującym, ale jedno miasto idzie pod prąd",
+      "content_html": "Choć ostatnio ceny mieszkań wróciły do żwawszego marszu w górę, to najnowsze odczyty indeksu cen nieruchomości przygotowywanego dla Bankier.pl przez Cenatorium, pokazują, że III kw. 2026 r. może stać pod znakiem wyraźnej stabilizacji stawek...",
+      "date_published": "2026-09-29T07:00:00+02:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Jak-chronic-prawnie-wlasne-pomysly-Oto-skuteczne-narzedzia-Na-co-warto-zwrocic-uwage-9203741.html",
+      "url": "https://www.bankier.pl/wiadomosc/Jak-chronic-prawnie-wlasne-pomysly-Oto-skuteczne-narzedzia-Na-co-warto-zwrocic-uwage-9203741.html",
+      "title": "Jak chronić prawnie własne pomysły? Oto skuteczne metody. Na co zwrócić uwagę?",
+      "content_html": "Jeśli masz ciekawy pomysł, na którym można zarobić lub wymyśliłeś coś, czego nie ma na rynku, a ma potencjał sprzedażowy – koniecznie zadbaj o ochronę prawną swojej innowacji. Jakie narzędzia i rozwiązania mogą ci w tym pomóc i na jakie...",
+      "date_published": "2026-09-29T07:00:00+02:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Od-podwyzek-po-wycofanie-oferty-na-7-Wrzesniowy-rollercoaster-na-rynku-lokat-9203752.html",
+      "url": "https://www.bankier.pl/wiadomosc/Od-podwyzek-po-wycofanie-oferty-na-7-Wrzesniowy-rollercoaster-na-rynku-lokat-9203752.html",
+      "title": "Koniec 7% na lokacie i pięć zmian cennika w jeden miesiąc. Wrzesień przyniósł przetasowania w bankach",
+      "content_html": "Wrzesień na lokatach przyniósł pełen wachlarz emocji. Od podwyżek na długi termin, przez rollercoaster w Banku Nowym, który zmieniał cennik pięciokrotnie, wycofując jednocześnie najwyżej oprocentowaną lokatę na rynku. Choć brak decyzji...",
+      "date_published": "2026-09-29T07:00:00+02:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Oprocentowanie-kredytow-hipotecznych-zdolnosc-kredytowa-podsumowanie-III-kw-2026-r-9203850.html",
+      "url": "https://www.bankier.pl/wiadomosc/Oprocentowanie-kredytow-hipotecznych-zdolnosc-kredytowa-podsumowanie-III-kw-2026-r-9203850.html",
+      "title": "Kwartał w hipotekach bez dobrych wieści. Tylko jeden promyczek nadziei",
+      "content_html": "Tylko w jednej kategorii kończący się kwartał przyniósł godny odnotowania przełom. Pozostałe wieści dla kredytobiorców hipotecznych są w najlepszym razie neutralne. Po gwałtownych ruchach stawek w okolicach marca przyszło dłuższe uspokojenie...",
+      "date_published": "2026-09-29T07:00:00+02:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/rynki/kalendarium-rynku-kapitalowego-gpw-2026-09-29",
+      "url": "https://biznes.pap.pl/wiadomosci/rynki/kalendarium-rynku-kapitalowego-gpw-2026-09-29",
+      "title": "Kalendarium rynku kapitałowego GPW 2026-09-29",
+      "content_html": "Kalendarium rynku kapitałowego GPW 2026-09-29 - 2026-10-05",
+      "date_published": "2026-09-29T07:00:00+02:00",
+      "source": "PAP Biznes"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/firmy/rn-jsw-zatwierdzila-program-naprawczy-spolki-na-lata-2026-2035-aktl",
+      "url": "https://biznes.pap.pl/wiadomosci/firmy/rn-jsw-zatwierdzila-program-naprawczy-spolki-na-lata-2026-2035-aktl",
+      "title": "RN JSW zatwierdziła program naprawczy spółki na lata 2026-2035 (aktl.)",
+      "content_html": "Rada nadzorcza JSW zatwierdziła program naprawczy Jastrzębskiej Spółki Węglowej na lata 2026-2035 z uwzględnieniem spółek zależnych z operacjonalizacją - podała spółka w komunikacie. Program ma zapewn",
+      "date_published": "2026-09-29T06:44:00+02:00",
+      "source": "PAP Biznes"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/rynki/rentownosci-obligacji-wybranych-panstw-tabela-466",
+      "url": "https://biznes.pap.pl/wiadomosci/rynki/rentownosci-obligacji-wybranych-panstw-tabela-466",
+      "title": "Rentowności obligacji wybranych państw (tabela)",
+      "content_html": "Poniżej zestawienie rentowności obligacji wybranych państw.",
+      "date_published": "2026-09-29T06:35:00+02:00",
+      "source": "PAP Biznes"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Wyniki-Compu-w-II-kw-2026-roku-vs-konsensus-PAP-Biznes-tabela-9204064.html",
+      "url": "https://www.bankier.pl/wiadomosc/Wyniki-Compu-w-II-kw-2026-roku-vs-konsensus-PAP-Biznes-tabela-9204064.html",
+      "title": "Wyniki Compu w II kw. 2026 roku vs. konsensus PAP Biznes",
+      "content_html": "Poniżej przedstawiono wyniki Compu w drugim kwartale 2026 roku oraz ich odniesienie do konsensusu PAP Biznes i poprzednich wyników.",
+      "date_published": "2026-09-29T00:14:00+02:00",
+      "source": "Bankier.pl"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Spadkowy-poczatek-tygodnia-na-Wall-Street-9204056.html",
@@ -37,14 +413,6 @@
       "source": "Bankier.pl"
     },
     {
-      "id": "https://biznes.pap.pl/wiadomosci/rynki/dzien-na-rynkach-na-wall-street-spadkowy-poczatek-tygodnia-1",
-      "url": "https://biznes.pap.pl/wiadomosci/rynki/dzien-na-rynkach-na-wall-street-spadkowy-poczatek-tygodnia-1",
-      "title": "DZIEŃ NA RYNKACH: Na Wall Street spadkowy początek tygodnia",
-      "content_html": "W poniedziałek główne indeksy na Wall Street spadły, obciążone wzrostem rentowności obligacji skarbowych. Wśród liderów spadków były spółki związane ze sztuczną inteligencją.\n\nDow Jones Industrial na zamknięciu spadł o 0,67 proc. i wyniósł 51.481,51 pkt.\n\nS&P 500 na koniec dnia spadł o 0,77 proc. i wyniósł 7.683,68 pkt.\n\nNasdaq Composite zniżkował o 0,92 proc. do 26.820,38 pkt.\n\nIndeks spółek o średniej kapitalizacji Russell 2000 spada o 0,67 proc. i wynosi 2.818,66 pkt.\n\nIndeks VIX rośnie o 8,07 proc., do 16,07 pkt.\n\n„W miarę jak zyskują na znaczeniu oczekiwania dotyczące jastrzębiej polityki Fedu oraz innych banków centralnych, bieżący tydzień przynosi dość napięty kalendarz danych makroekonomicznych, ze szczególnym uwzględnieniem amerykańskiego rynku pracy i inflacji, a także kolejny istotny sprawdzian dla inwestycji związanych z sektorem sztucznej inteligencji, jakim będą wyniki finansowe spółki Micron\" - wskazywała Ipek Ozkardeskaya, starsza analityczka w Swissquote.\n\nW obliczu zbliżającego się w przyszłym miesiącu sezonu publikacji wyników kwartalnych inwestorzy prawdopodobnie będą oczekiwać solidnych rezultatów, które pozwoliłyby im przymknąć oko na utrzymujące się skutki napięć geopolitycznych.\n\n„Wyniki spółek nadal stanowią kluczowy czynnik napędzający długoterminową dynamikę na giełdzie. Poprzeczka jest zawieszona wyżej, a tolerancja dla rozczarowań maleje\" - oceniła Daniela Hathorn, starsza analityczka rynku w Capital.com.\n\nObecnie rynki wyceniają 68-proc. prawdopodobieństwo, że w październiku Fed podniesie stopy procentowe na drugim posiedzeniu z rzędu, a w perspektywie do końca przyszłego roku uwzględniają zacieśnienie polityki pieniężnej o około 90 pb.\n\nRentowność dwuletnich obligacji skarbowych USA, najbardziej wrażliwa na zmiany oczekiwań dotyczących stóp procentowych i inflacji, wzrosła we wrześniu o 56 pb., co stanowiło największy miesięczny wzrost od lutego 2023 roku, w obliczu oczekiwań na serię podwyżek stóp przez Fed.\n\n„Rynek obligacji nie sygnalizuje kryzysu. Uwzględnia on w wycenach odporność amerykańskiej gospodarki oraz wyższe stopy, jednocześnie obnażając słabość gospodarek, które gorzej radzą sobie z absorpcją wyższych kosztów finansowania\" - powiedział Mark McCormick, główny strateg ds. rynku walutowego w BMO.\n\nJednak analitycy wskazują, że rosnący koszt kapitału staje się kluczowym ryzykiem dla firm powiązanych z branżą sztucznej inteligencji, zwłaszcza dla największych spółek, których wielomiliardowe zadłużenie i wydatki napędzały rynki akcji na całym świecie.\n\nZdaniem Christophera Dembika, starszego doradcy inwestycyjnego w Pictet Asset Management, niedawny wzrost rentowności obligacji oznacza, że dokonywana pod koniec miesiąca realokacja aktywów przez amerykańskie fundusze mieszane (inwestujące zarówno w akcje, jak i obligacje) może w krótkim terminie wywrzeć presję na kursy akcji.\n\n„Oczekuje się sprzedaży akcji o wartości około 25-30 mld USD i reinwestycji uzyskanych środków w obligacje. Może to wywrzeć pewną presję spadkową na amerykańskie spółki o dużej kapitalizacji w ciągu kilku najbliższych sesji giełdowych\" - ocenił Dembik.\n\nW poniedziałek kilka akcji spółek z branży sztucznej inteligencji doprowadziło do spadków głównych indeksów. Advanced Micro Devices i Micron Technology spadły o około 4 i 2 proc.\n\nAmazon i Microsoft również spadły po 1 proc., podczas gdy Meta Platforms straciła 4 proc.\n\nAkcje Nvidii wzrosły o około 2 proc. po tym, jak firma ogłosiła w poniedziałek, że planuje odkupić dodatkowe akcje o wartości 150 miliardów dolarów, zwiększając łączną wartość programu skupu akcji do 235 miliardów dolarów.\n\nNa rynku ropy kontrakty na WTI na listopad zwyżkują o 0,43 proc. do 92,85 USD za baryłkę, a listopadowe futures na Brent rosną o 1,16 proc. do 105,53 USD/b. (PAP Biznes)",
-      "date_published": "2026-09-28T22:06:00+02:00",
-      "source": "PAP Biznes"
-    },
-    {
       "id": "https://www.bankier.pl/wiadomosc/Przedsprzedaz-oferty-sezonu-zimowego-Rainbow-Tours-wzrosla-o-ok-8-proc-rdr-9204022.html",
       "url": "https://www.bankier.pl/wiadomosc/Przedsprzedaz-oferty-sezonu-zimowego-Rainbow-Tours-wzrosla-o-ok-8-proc-rdr-9204022.html",
       "title": "Przedsprzedaż oferty sezonu zimowego Rainbow Tours wzrosła o ok. 8 proc. rdr",
@@ -53,28 +421,12 @@
       "source": "Bankier.pl"
     },
     {
-      "id": "https://biznes.pap.pl/wiadomosci/ekonomia-biznes-i-finanse/skrot-wiadomosci-poniedzialek-28-wrzesnia-2100",
-      "url": "https://biznes.pap.pl/wiadomosci/ekonomia-biznes-i-finanse/skrot-wiadomosci-poniedzialek-28-wrzesnia-2100",
-      "title": "Skrót wiadomości - poniedziałek, 28 września, 21.00",
-      "content_html": "Przegląd najważniejszych wiadomości gospodarczych, krajowych i ze świata.\n\nProdukcja zbóż w Polsce w 2026 roku wyniesie 33,54 mln ton wobec 35,9 mln ton w 2025 roku - ocenia COCERAL, europejskie stowarzyszenie producentów zbóż.\n\nCOCERAL obniżył prognozę tegorocznych zbiorów zbóż w UE-27 i Wielkiej Brytanii do 279 mln ton z 286,6 mln ton przewidywanych w lipcu. W 2025 r. produkcja wyniosła 307,4 mln ton - wynika z wrześniowej prognozy stowarzyszenia producentów zbóż.\n\nSprzedaż detaliczna sklepów małoformatowych w sierpniu spadła o 0,2 proc. w relacji rok do roku - wynika z szacunków Polskiej Izby Handlu i firmy badawczej CMR.\n\nSprzedaż detaliczna supermarketów w Polsce w sierpniu spadła o 0,2 proc. rdr - wynika z szacunków Polskiej Izby Handlu i firmy badawczej CMR.\n\nOtwarte Fundusze Emerytalne przelały do ZUS środki w wysokości 1,528 mld zł w ramach tzw. suwaka - poinformowało PAP Biznes biuro prasowe ZUS. Jest to transfer wrześniowy, a przelewy są za sierpień.\n\nBGK kontynuuje wypłaty z perspektywy UE 2021-2027, do 25 września wypłacił ok. 93,133 mld zł - poinformował BGK.\n\nDo 27 września podpisano 31.248 umów na unijne dofinansowanie projektów, które wykorzystają 70,9 proc. dostępnej puli środków z polityki spójności UE na lata 2021-2027 - poinformowało na stronie internetowej Ministerstwo Funduszy i Polityki Regionalnej.\n\nNa wtorkowym posiedzeniu rząd zajmie się m.in. projektem ustawy budżetowej na 2027 r. i projektem strategii zarządzania długiem sektora finansów publicznych w latach 2027–2030 - wynika z porządku obrad Rady Ministrów.\n\nErste Group Bank AG ogłasza zamiar przeprowadzenia wezwania do sprzedaży 52.113.041 akcji Erste Bank Polska po cenie 713,6 zł za jedną akcję - poinformował Erste Securities, pośredniczący w wezwaniu.\n\nBank Pekao i Raiffeisen Bank International (RBI) podpisały umowę o współpracy, której celem jest wsparcie klientów rozwijających działalność na rynkach europejskich - poinformował Pekao w komunikacie prasowym. Na początkowym etapie umowa z RBI obejmuje Czechy, Rumunię i Austrię.\n\nPrezes UOKiK stwierdził, że przedsiębiorcy ubiegający się o zamówienia na budowę lub przebudowę elementów infrastruktury sieci elektroenergetycznej, w tym punktów łącznikowych i rozłącznikowych, uzgadniali warunki składanych ofert lub sposób swojego zachowania i nałożył 13,5 mln zł kar na uczestników przetargów organizowanych przez PGE Dystrybucja - poinformował Urząd w komunikacie.\n\nOd wielu kwartałów rośnie dynamika przyrostu portfela korporacyjnego PKO BP, a bank w coraz większym stopniu finansuje projekty inwestycyjne - poinformował podczas konferencji Energia z Polski - Local First prezes PKO BP Szymon Midera. Dodał, że bank chce utrzymania tej tendencji.\n\nBest Capital Bulgaria, spółka z grupy kapitałowej Best, otrzymała od Bułgarskiego Banku Narodowego (BNB) licencję na obsługę wierzytelności, co otwiera spółce drogę do dalszego zwiększania skali działalności w Bułgarii - poinformował Best w komunikacie.\n\nR.Power podwyższył maksymalną wartość programu emisji obligacji z kwoty 1 mld zł do kwoty 1,5 mld zł (lub jej równowartości w euro) - poinformowała spółka w komunikacie.\n\nGrupa Euvic nabyła 51 proc. udziałów Fellowmind Poland, a menedżer Fellowmind Daniel Olejniczak objął pozostałe 49 proc. udziałów - poinformował Euvic w komunikacie prasowym. Dodano, że Fellowmind Poland stała się częścią Grupy Euvic i będzie działać pod nową nazwą Euvic Business Applications.\n\nFarm Innovations chce pozyskać 15 mln zł z emisji 500 tys. akcji serii D, po cenie 30 zł za walor. Pozyskane środki chce przeznaczyć na rozbudowę struktur sprzedażowych, wzmocnienie kompetencji technologicznych i wejście na rynek zwierząt domowych - podała spółka w komunikacie prasowym.\n\nGrupa Asbis rozszerzyła umowę dystrybucyjną z firmą Premium Audio Company (PAC), włączając niemiecką markę premium audio Magnat do swojego portfolio produktów - podał Asbis w komunikacie prasowym. Pełna gama produktów Magnat będzie dostępna na 39 rynkach w regionie EMEA, ",
-      "date_published": "2026-09-28T21:01:00+02:00",
-      "source": "PAP Biznes"
-    },
-    {
       "id": "https://www.bankier.pl/wiadomosc/Zawiadomienie-do-prokuratury-na-prezesa-TK-Sedzia-zarzuca-Swieczkowskiemu-lamanie-ustawy-9204008.html",
       "url": "https://www.bankier.pl/wiadomosc/Zawiadomienie-do-prokuratury-na-prezesa-TK-Sedzia-zarzuca-Swieczkowskiemu-lamanie-ustawy-9204008.html",
       "title": "Zawiadomienie do prokuratury na prezesa TK. Sędzia zarzuca Święczkowskiemu łamanie ustawy",
       "content_html": "Szef MS, prokurator generalny Waldemar Żurek potwierdził PAP otrzymanie zawiadomienia sędziego Sławomira Patyry, które dotyczy działań prezesa TK Bogdana Święczkowskiego. Według medialnych doniesień, chodzi o podejrzenie wyznaczania składów...",
       "date_published": "2026-09-28T20:40:00+02:00",
       "source": "Bankier.pl"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/firmy/przedsprzedaz-oferty-sezonu-zimowego-rainbow-tours-wzrosla-o-ok-8-proc-rdr",
-      "url": "https://biznes.pap.pl/wiadomosci/firmy/przedsprzedaz-oferty-sezonu-zimowego-rainbow-tours-wzrosla-o-ok-8-proc-rdr",
-      "title": "Przedsprzedaż oferty sezonu zimowego Rainbow Tours wzrosła o ok. 8 proc. rdr",
-      "content_html": "Rainbow Tours do 22 września 2026 roku przedsprzedało ofertę \"Zima 2026/2027\" 82.419 osobom wobec przedsprzedaży oferty sezonu \"Zima 2025/2026\" 76.320 osobom w analogicznym okresie poprzedniego roku, co oznacza wzrost o ok. 8 proc. - podała spółka w komunikacie.\n\nPodano, że wartość sprzedanej oferty ujmowana będzie w przychodach ze sprzedaży spółki zgodnie z zasadami rachunkowości, czyli w okresie od listopada 2026 roku do marca 2027 roku.(PAP Biznes)",
-      "date_published": "2026-09-28T20:31:00+02:00",
-      "source": "PAP Biznes"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Spor-o-ceny-paliw-Tusk-apeluje-do-prezydenta-o-podpisanie-ustawy-9204004.html",
@@ -149,22 +501,6 @@
       "source": "Bankier.pl"
     },
     {
-      "id": "https://biznes.pap.pl/wiadomosci/firmy/skarbiec-holding-mial-w-i-pol-roku-obrotowego-2026-ok-251-mln-zl-zysku-netto",
-      "url": "https://biznes.pap.pl/wiadomosci/firmy/skarbiec-holding-mial-w-i-pol-roku-obrotowego-2026-ok-251-mln-zl-zysku-netto",
-      "title": "Skarbiec Holding miał w I pół. roku obrotowego 2026 ok. 25,1 mln zł zysku netto",
-      "content_html": "Grupa Skarbiec Holding miała w I półroczu roku obrotowego 2026 (styczeń - czerwiec 2026 r.) zysk netto w wysokości ok. 25,1 mln zł wobec ok. 32,2 mln zł zysku przed rokiem - poinformował Skarbiec Holding w komunikacie prasowym.\n\nSkonsolidowane przychody ze sprzedaży usług Skarbiec Holding wyniosły w raportowanym okresie ok. 86 mln zł (dla porównania, w I półroczu 2025 r., sięgnęły one ok. 40,1 mln zł).\n\nPodano, że pierwsze półrocze bieżącego roku stało pod znakiem intensywnych prac rozwojowych, zarówno na poziomie Grupy jak i w spółkach zależnych Skarbiec Holding. Wśród szeregu aktywności istotnych dla budowy pozycji rynkowej Holdingu wskazano działania związane z implementacją nowych rozwiązań produktowych.\n\n\"Intensywnie pracujemy nad wdrożeniem kompleksowych rozwiązań związanych z wejściem od przyszłego roku przepisów umożliwiających oferowanie OKI - chcemy, aby nasi Klienci mieli możliwość korzystania z tego typu produktu za pośrednictwem spółek zależnych Grupy Skarbiec\" - powiedział Piotr Szulec, prezes Skarbiec Holding i Skarbiec TFI.\n\n\"Jesteśmy także zaawansowani w pracach dotyczących wprowadzenia do naszej palety produktowej ETF-ów\" – dodał.\n\nPoinformowano, że grupa systematyczne rozbudowuje także elektroniczne kanały dystrybucji.\n\n\"Na uwagę zasługuje rosnąca popularność platformy transakcyjno-komunikacyjnej Skarbiec24 uruchomionej pod koniec 2024 r. Wartość aktywów obsługiwanych za jej pośrednictwem na koniec czerwca 2026 r. przekraczała 1,2 mld zł (...). W ramach samej platformy rozważamy także nowe funkcjonalności. Jedną z nich jest możliwe rozszerzenie oferty o produkty innych TFI\" – powiedział Piotr Szulec.\n\nDodano, że spółka pracuje nad rozwinięciem skali działalności Noble Securities, w tym dalszym rozwojem jego działalności dystrybucyjnej, a także poszerzaniem oferty dostępnych instrumentów inwestycyjnych. Dom maklerski został przejęty przez Skarbiec Holding w 2025 r. (PAP Biznes)",
-      "date_published": "2026-09-28T19:04:00+02:00",
-      "source": "PAP Biznes"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/firmy/grupa-ailleron-miala-w-ii-kwartale-201-mln-zl-ebitda-wiecej-o-211-proc-rdr",
-      "url": "https://biznes.pap.pl/wiadomosci/firmy/grupa-ailleron-miala-w-ii-kwartale-201-mln-zl-ebitda-wiecej-o-211-proc-rdr",
-      "title": "Grupa Ailleron miała w II kwartale 20,1 mln zł EBITDA, więcej o 21,1 proc. rdr",
-      "content_html": "Grupa Ailleron miała w drugim kwartale 2026 r. 20,1 mln zł EBITDA, co oznacza wzrost o 21,1 proc rdr - podała spółka w raporcie. W tym okresie przychody ze sprzedaży wyniosły 149,2 mln zł, więcej o 7 proc. rdr.\n\nZysk netto jednostki dominującej w II kwartal wyniósł 3,6 mln zł, a w analogicznym okresie rok wcześniej był on na poziomie 7 mln zł. Zysk operacyjny (EBIT) wzrósł o 31,2 proc. rdr do 14,3 mln zł. Marża EBITDA w II kwartale wyniosła 13,5 proc. wobec 11,9 proc. rok wcześniej.\n\nGrupa Kapitałowa Ailleron w I półroczu 2026 roku osiągnęła przychody ze sprzedaży w wysokości 289,9 mln zł, co oznacza wzrost o 2,4 proc. rdr. EBITDA wzrosła o 6,7 proc. rdr. do 39,4 mln zł, a zysk netto wyniósł 23,4 mln zł i utrzymał się na poziomie ubiegłego roku (+0,2 mln zł rdr), mimo wysokiej bazy porównawczej oraz jednorazowych kosztów przeglądu opcji strategicznych.\n\nJak podano, po wyłączeniu tych kosztów (ok. 5,4 mln zł) EBITDA wyniosłaby ok. 44,8 mln zł, a marża EBITDA ok. 15,5 proc.\n\nW całym półroczu marża EBITDA wzrosła do 13,6 proc. (+0,6 pkt proc. rdr), a zysk operacyjny do 27,7 mln zł wobec 26 mln zł przed rokiem.\n\nPodano, że wyniki osiągnięto w niekorzystnym otoczeniu walutowym. Osłabienie USD/PLN o ok. 4,9 proc. rdr obniżyło przychody o ok. 4,8 mln zł, co jedynie w niewielkim stopniu skompensowała poprawa kursu EUR/PLN (ok. +0,8 mln zł). Łącznie efekt translacyjny obniżył raportowane przychody o ok. 4 mln zł.\n\n\"Pierwsze półrocze zamykamy wzrostem przychodów i EBITDA, mimo wyraźnie słabszego dolara i jednorazowych kosztów związanych z przeglądem opcji strategicznych. Szczególnie cieszy nas przyspieszenie w drugim kwartale: najwyższe w historii przychody za ten okres i dwucyfrowa dynamika wyników operacyjnych\" - powiedział cytowany w komunikacie prasowym Tomasz Król, prezes Ailleron.\n\n\"Po wyłączeniu zdarzeń jednorazowych marża EBITDA przekroczyła 15 proc., co potwierdza, że rosnący udział projektów o wyższej wartości dodanej realnie przekłada się na rentowność całej Grupy oraz daje nam solidną podstawę do dalszego wzrostu w drugim półroczu\" - dodał.\n\nSegment Technology Services (Software Mind) pozostaje kluczowym obszarem działalności Grupy, odpowiadając za 88,8 proc. przychodów. W I półroczu 2026 roku segment zrealizował sprzedaż na poziomie 257,5 mln zł, co oznacza wzrost o 4 proc. rdr. EBITDA segmentu wyniosła 35,4 mln zł (marża 13,7 proc.), a EBIT 28,2 mln zł.\n\nSprzedaż eksportowa Grupy wyniosła 210,9 mln zł, co stanowiło 72,8 proc. przychodów. Największym rynkiem pozostają Stany Zjednoczone (107,0 mln zł, ok. 51 proc. eksportu), a sprzedaż do krajów Unii Europejskiej osiągnęła 93 mln zł. Wzrost sprzedaży w UE (+11,1 proc. rdr) oraz na rynku krajowym (+16,3 proc. rdr) częściowo skompensował niższą, także w efekcie kursu dolara, sprzedaż w USA.\n\nSegment FinTech osiągnął w I półroczu 2026 roku przychody w wysokości 32,4 mln zł (–5,6 proc. rdr) przy wyraźnie wyższej rentowności. EBITDA segmentu wzrosła do 4 mln zł wobec 1,6 mln zł rok wcześniej (poprawa o blisko 2,5 mln zł rdr), a strata na poziomie EBIT zmniejszyła się do 0,5 mln zł z 3,2 mln zł przed rokiem.\n\n\"Poprawa jest efektem dyscypliny kosztowej wdrożonej w 2025 roku oraz rosnącego udziału przychodów powtarzalnych z platform LiveBank i LeaseTech. Wyniki półrocza nie zawierają jeszcze efektu podnajmu powierzchni biurowej, którego rozpoznanie nastąpi w kolejnych kwartałach\" - napisano.\n\nPrzepływy pieniężne z działalności operacyjnej wyniosły w I półroczu 12,7 mln zł (wobec 15,5 mln zł rok wcześniej). Środki pieniężne na koniec czerwca 2026 roku wyniosły 79,2 mln zł (wobec 57,6 mln zł na koniec czerwca 2025 roku). Kapitały własne wzrosły do 325,8 mln zł wobec 302,1 mln zł na koniec 2025 roku.\n\nNa poziomie jednostkowym Ailleron osiągnął przychody w wysokości 31,6 mln zł (wobec 34,0 mln zł rok wcześniej) i ograniczył stratę operacyjną do 2,5 mln zł z 3,9 mln zł. Zysk netto jednostkowy wzrósł do 17,0 mln zł wobec 4,5 mln zł w I półroczu 2025 roku. (PAP Biznes)",
-      "date_published": "2026-09-28T18:59:00+02:00",
-      "source": "PAP Biznes"
-    },
-    {
       "id": "https://www.bankier.pl/wiadomosc/Prezydent-mianowal-dwoch-oficerow-Sluzby-Celno-Skarbowej-na-stopnie-generalskie-9203930.html",
       "url": "https://www.bankier.pl/wiadomosc/Prezydent-mianowal-dwoch-oficerow-Sluzby-Celno-Skarbowej-na-stopnie-generalskie-9203930.html",
       "title": "Prezydent mianował dwóch oficerów Służby Celno-Skarbowej na stopnie generalskie",
@@ -181,14 +517,6 @@
       "source": "Bankier.pl"
     },
     {
-      "id": "https://biznes.pap.pl/wiadomosci/firmy/knf-nie-sprzeciwila-sie-przejeciu-przez-erste-asset-management-akcji-erste-tfi",
-      "url": "https://biznes.pap.pl/wiadomosci/firmy/knf-nie-sprzeciwila-sie-przejeciu-przez-erste-asset-management-akcji-erste-tfi",
-      "title": "KNF nie sprzeciwiła się przejęciu przez Erste Asset Management akcji Erste TFI",
-      "content_html": "Komisja Nadzoru Finansowego nie sprzeciwiła się przejęciu przez Erste Asset Management GmbH oraz pośrednio Erste Group Bank AG, akcji Erste Towarzystwa Funduszy Inwestycyjnych zapewniającej przekroczenie 50 proc. udziałów ogólnej liczby na walnym zgromadzeniu i 50 proc. udziałów w kapitale zakładowym Erste TFI - podało Erste Bank Polska w komunikacie. (PAP Biznes)\n\nKNF chce obniżyć dla Erste Bank Polska bufor innej instytucji o znaczeniu systemowym do poziomu 1 proc. łącznej kwoty ekspozycji na ryzyko - poinformował bank w komunikacie.\n\nKomisja Nadzoru Finansowego nie chce zmiany bufora innej instytucji o znaczeniu systemowym mBanku, więc pozostanie on na poziomie 0,5 proc. - podał bank w komunikacie.\n\nVictoria Dom planuje emisję obligacji serii P2026A, zaoferuje do 150.000 obligacji, ale może podjąć decyzję o zwiększeniu tej liczby do nie więcej niż 250.000 - podała spółka w komunikacie.\n\nKomisja Nadzoru Finansowego wydała ostateczną decyzję utrzymującą w mocy decyzję z 29 maja 2026 roku, nakładającą na mBank kary pieniężne w łącznej wysokości ok. 15 mln zł - podał urząd w komunikacie.\n\ntel. (+48 22) 509 22 25dystrybucja@pap.pl",
-      "date_published": "2026-09-28T18:41:00+02:00",
-      "source": "PAP Biznes"
-    },
-    {
       "id": "https://www.bankier.pl/wiadomosc/Wyniki-Ailleronu-w-II-kw-2026-roku-vs-konsensus-PAP-tabela-9203913.html",
       "url": "https://www.bankier.pl/wiadomosc/Wyniki-Ailleronu-w-II-kw-2026-roku-vs-konsensus-PAP-tabela-9203913.html",
       "title": "Wyniki Ailleronu w II kw. 2026 roku vs. konsensus PAP (tabela)",
@@ -203,14 +531,6 @@
       "content_html": "Poniżej przedstawiamy wyniki Onde w drugm kwartale 2026 roku i ich odniesienie do konsensusu oraz poprzednich wyników.",
       "date_published": "2026-09-28T18:28:00+02:00",
       "source": "Bankier.pl"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/firmy/rn-jsw-zatwierdzila-program-naprawczy-spolki-na-lata-2026-2035",
-      "url": "https://biznes.pap.pl/wiadomosci/firmy/rn-jsw-zatwierdzila-program-naprawczy-spolki-na-lata-2026-2035",
-      "title": "RN JSW zatwierdziła program naprawczy spółki na lata 2026-2035",
-      "content_html": "Rada nadzorcza JSW zatwierdziła program naprawczy Jastrzębskiej Spółki Węglowej na lata 2026-2035 z uwzględnieniem spółek zależnych z operacjonalizacją - podała spółka w komunikacie.\n\nJak podano, program wyznacza kierunek działania JSW, porządkuje cele, przekłada je na konkretne działania i inicjatywy oraz daje podstawę do odpowiedzialnego budowania stabilnej przyszłości spółki.\n\n\"Program naprawczy jest odpowiedzią na trudne otoczenie rynkowe, presję kosztową oraz zmienność cen na rynku węgla koksowego i koksu. Program Naprawczy został stworzony w oparciu o przeprowadzoną analizę aktualnej sytuacji wewnętrznej, a także otoczenia JSW i ma na celu odbudowę stabilności finansowej i operacyjnej, poprawę efektywności oraz stworzenie trwałych podstaw do dalszego funkcjonowania spółki, również w perspektywie długoterminowej\" - napisano w komunikacie.\n\nDodano, że fundamentem programu naprawczego jest koncentracja na podstawowej działalności JSW skupionej na produkcji węgla koksowego, który pozostaje kluczowym produktem spółki i źródłem jej strategicznej wartości, a także przywrócenie pełnej dyscypliny kosztowej i operacyjnej.\n\nWskazano, że program obejmuje realizację inicjatyw w wielu obszarach, w tym: Wydobycia i Kosztów produkcji, Inwestycji, Energetyki, Zakupów, HR i Wynagrodzeń, Handlu, Zarządzania Majątkiem Nieprodukcyjnym, Finansów, Koksowniczym.\n\nDziałania Spółki będą koncentrowały się między innymi na: stabilizacji wolumenu produkcji, w tym zwiększaniu udziału węgla koksowego w produkcji ogółem; zwiększeniu autoprodukcji energii elektrycznej w jednostkach kogeneracji; kontynuowaniu wdrażania działań osłonowych z ustawy o funkcjonowaniu górnictwa, optymalizacji struktury i kosztów zatrudnienia; utrzymaniu dotychczasowych i pozyskaniu nowych rynków zbytu dla węgla koksowego oraz koksu przy zachowaniu optymalnych warunków handlowych; sprzedaży wybranych nieruchomości GK JSW, zmniejszeniu kosztów zarządzania i utrzymania nieruchomości; procesach optymalizacji struktury GK JSW, w tym potencjalnych dezinwestycjach wybranych aktywów; pozyskaniu finansowania w kwocie 2,9 mld zł, renegocjacji warunków istniejącego finansowania;\n\nDodano, że w obszarze koksowniczym działania spółki będą koncentrowały się na zwiększeniu poziomu produkcji koksu, restrukturyzacji biznesowej, racjonalizacji i kontroli nakładów inwestycyjnych, optymalizacji gospodarki gazem koksowniczym, dostosowaniu poziomu i kosztów zatrudnienia do docelowych wskaźników efektywności.\n\nWskazano, że podtrzymany zostaje cel środowiskowy GK JSW w postaci redukcji śladu węglowego (w zakresach 1 i 2) o 30 proc. do 2030 roku względem roku 2018. Sposób osiągnięcia celu oraz pozostałe cele środowiskowe zostaną na nowo sformułowane najdalej do końca 2027 r. (PAP Biznes)",
-      "date_published": "2026-09-28T18:23:00+02:00",
-      "source": "PAP Biznes"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Pomorskie-PGE-Energia-Ciepla-uruchomila-nowa-kogeneracje-gazowa-w-Elektrocieplowni-Gdynskiej-9203891.html",
@@ -237,52 +557,12 @@
       "source": "Bankier.pl"
     },
     {
-      "id": "https://biznes.pap.pl/wiadomosci/przemysl/mkis-chce-gminy-mogly-wyznaczac-obszary-objete-szczegolna-ochrona-przed-halasem",
-      "url": "https://biznes.pap.pl/wiadomosci/przemysl/mkis-chce-gminy-mogly-wyznaczac-obszary-objete-szczegolna-ochrona-przed-halasem",
-      "title": "MKiŚ chce, by gminy mogły wyznaczać obszary objęte szczególną ochroną przed hałasem",
-      "content_html": "Ministerstwo Klimatu i Środowiska pracuje nad projektem ustawy, która ma umożliwić radom gmin określanie obszarów objętych ograniczeniami, w tym terenów wymagających szczególnej ochrony przed hałasem - poinformowano w poniedziałek w wykazie prac rządu.\n\nChodzi o projekt ustawy o zmianie ustawy - Prawo ochrony środowiska oraz ustawy o bezpieczeństwie imprez masowych w celu poprawy skuteczności ochrony środowiska przed hałasem.\n\nJak przekazano w założeniach projektu, zamieszczonych na stronie KPRM, ma on na celu wzmocnienie ochrony środowiska przed hałasem oraz zwiększenie skuteczności działań organów administracji publicznej w zakresie ograniczania uciążliwości akustycznych.\n\nPotrzeba wprowadzenia takich rozwiązań, jak wyjaśnił resort klimatu, wynika z doświadczeń związanych ze stosowaniem obowiązujących przepisów, zgłaszanych przez jednostki samorządu terytorialnego problemów praktycznych oraz rosnącej liczby konfliktów społecznych związanych z organizacją wydarzeń generujących hałas.\n\nZmiany mają umożliwić radom gmin określanie, w drodze uchwał stanowiących akty prawa miejscowego, zasad i warunków organizowania imprez z uwzględnieniem potrzeby ochrony środowiska akustycznego. Uchwały te będą mogły określać w szczególności obszary objęte ograniczeniami, w tym tereny wymagające szczególnej ochrony przed hałasem oraz warunki dotyczące pory organizowania wydarzeń i emisji hałasu.\n\nMKiŚ podkreśliło, że rozwiązanie to ma charakter zdecentralizowany i umożliwi dostosowanie regulacji do lokalnych uwarunkowań oraz potrzeb mieszkańców.\n\n„W celu zapewnienia spójności przepisów dotyczących organizacji imprez projekt zakłada również zmianę ustawy o bezpieczeństwie imprez masowych poprzez uzupełnienie katalogu obowiązków organizatora o wymóg spełniania wymagań wynikających z przepisów ochrony środowiska. Pozwoli to na jednoznaczne uwzględnianie aspektów związanych z ochroną przed hałasem przy wydawaniu zezwoleń na organizację imprez masowych” - dodał resort.\n\nMKiŚ wskazało jednocześnie, że projekt nie obejmuje zgromadzeń organizowanych na podstawie ustawy Prawo o zgromadzeniach, a tym samym nie wpływa na zasady korzystania z konstytucyjnej wolności organizowania i uczestniczenia w zgromadzeniach.\n\n„Projektowane przepisy nie naruszają również regulacji o sporcie, zgodnie z którym uprawianie sportu na boiskach, kortach, bieżniach, lodowiskach, siłowniach plenerowych, skateparkach, rolkowiskach i pumptrackach stanowi powszechne korzystanie ze środowiska, jeżeli odbywa się w ramach szkolenia sportowego albo aktywności sportowej o charakterze szkolnym lub rekreacyjnym” - dodało ministerstwo.\n\nW założeniach wskazano na zmianę przepisów dotyczących właściwości organów ochrony środowiska poprzez rozszerzenie kompetencji marszałka województwa o sprawy związane z nakładaniem obowiązku prowadzenia dodatkowych pomiarów poziomów hałasu, w odniesieniu do dróg innych niż autostrady i drogi ekspresowe oraz linii tramwajowych usytuowanych w miastach na prawach powiatu.\n\nPlanowane jest także powierzenie marszałkowi województwa właściwości we wszystkich sprawach dotyczących linii tramwajowych, niezależnie od ich usytuowania względem pasa drogowego. Zdaniem MKiŚ ma zapewnić przejrzystość podziału kompetencji, jednolitość stosowania przepisów oraz wyeliminować potencjalny konflikt interesów związany z prowadzeniem postępowań dotyczących infrastruktury pozostającej pod zarządem jednostek samorządu terytorialnego.\n\nProjekt ustawy ma zostać przyjęty przez rząd w I kw. 2027 r. (PAP)",
-      "date_published": "2026-09-28T18:11:00+02:00",
-      "source": "PAP Biznes"
-    },
-    {
       "id": "https://www.bankier.pl/wiadomosc/Cavatina-Holding-ustanowila-V-program-emisji-obligacji-o-lacznej-wartosci-do-250-mln-zl-9203886.html",
       "url": "https://www.bankier.pl/wiadomosc/Cavatina-Holding-ustanowila-V-program-emisji-obligacji-o-lacznej-wartosci-do-250-mln-zl-9203886.html",
       "title": "Cavatina Holding z nowym programem emisji obligacji do 140 mln zł",
       "content_html": "Cavatina Holding zdecydowała o ustanowieniu III bezprospektowego programu emisji obligacji, w ramach którego będzie uprawniona do emitowania obligacji o łącznej wartości nominalnej do 100 mln zł, a po uzyskaniu ostatecznego pozwolenia na budowę...",
       "date_published": "2026-09-28T18:10:00+02:00",
       "source": "Bankier.pl"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/rynki/dzien-na-rynkach-indeksy-w-europie-glownie-na-minusach-na-rynku-obawy-o-rosnace",
-      "url": "https://biznes.pap.pl/wiadomosci/rynki/dzien-na-rynkach-indeksy-w-europie-glownie-na-minusach-na-rynku-obawy-o-rosnace",
-      "title": "DZIEŃ NA RYNKACH: Indeksy w Europie głównie na minusach; na rynku obawy o rosnące rentowności",
-      "content_html": "Na koniec sesji w poniedziałek na europejskich giełdach przeważały spadki indeksów. Inwestorzy obawiają się o rynek długu wobec rosnących rentowności obligacji.\n\nNa zamknięciu sesji indeks Euro Stoxx 50 stracił 0,02 proc., niemiecki DAX zniżkował o 0,13 proc., francuski CAC 40 poszedł w dół o 0,52 proc., a brytyjski FTSE stracił 0,1 proc.\n\nBenchmarkowy indeks Stoxx Europe 600 pozostał bez zmian.\n\nW centrum uwagi inwestorów znajdują się obecnie rosnące rentowności obligacji USA. Rentowność 10-letnich UST rośnie o 10 pb. do 5,26 proc. Dochodowość 30-letnich UST zwyżkuje o 8 pb. do 5,57 proc.\n\nAnalitycy wskazują, że rosnący koszt kapitału staje się kluczowym ryzykiem dla firm powiązanych z branżą sztucznej inteligencji, zwłaszcza dla największych spółek, których wielomiliardowe zadłużenie i wydatki napędzały rynki akcji na całym świecie.\n\nZdaniem Christophera Dembika, starszego doradcy inwestycyjnego w Pictet Asset Management, niedawny wzrost rentowności obligacji oznacza, że dokonywana pod koniec miesiąca realokacja aktywów przez amerykańskie fundusze mieszane (inwestujące zarówno w akcje, jak i obligacje) może w krótkim terminie wywrzeć presję na kursy akcji.\n\n„Oczekuje się sprzedaży akcji o wartości około 25-30 mld USD i reinwestycji uzyskanych środków w obligacje. Może to wywrzeć pewną presję spadkową na amerykańskie spółki o dużej kapitalizacji w ciągu kilku najbliższych sesji giełdowych\" - ocenił Dembik.\n\nMaire zyskał 4,5 proc. po tym, jak analitycy Citi rozpoczęli wydawanie rekomendacji dla akcji spółki od \"kupuj\".\n\nVistry Group zwyżkowała o 10,5 proc. To reakcja na brytyjski plan pomocy osobom kupującym nieruchomość po raz pierwszy.\n\nCibus Real Estate spadł o 4 proc., do najniższego poziomu od ponad 2 lat. Analitycy Nordea obniżyli rekomendację dla akcji spółki do \"trzymaj\" z \"kupuj\", a cenę docelową do 145 SEK ze 170 SEK.\n\nIndeks S&P 500 spada o 0,78 proc., Dow Jones Industrial zniżkuje o 0,69 proc., a Nasdaq Comp. traci 0,9 proc.\n\nAkcje Nvidii rosną o 2,5 proc., a Boeinga spadają o 5 proc.\n\nIndeks VIX, miara oczekiwanej zmienności i instrument oceny sentymentu, zwyżkuje do 16,22 pkt.\n\nSpread między dwuletnimi a dziesięcioletnimi UST wynosi +32 pb. Spread między amerykańskimi obligacjami 3-miesięcznymi a 10-letnimi wynosi obecnie +109 pb.\n\nDochodowość 10-letnich niemieckich bundów rośnie o 3 pb. do 3,63 proc.\n\nDolar umacnia się o 0,24 proc. wobec koszyka walut do 101,21 pkt.\n\nEurodolar osłabia się o 0,24 proc. do 1,1364.\n\nKwotowanie USD/JPY spada o 0,1 proc. do 157,42.Kurs funta zwyżkuje o 0,03 proc. wobec dolara do 1,3253.\n\nNa rynku ropy kontrakty na WTI na listopad zwyżkują o 3,3 proc. do 95,47 USD za baryłkę, a listopadowe futures na Brent rosną o 3,27 proc. do 107,73 USD/b.\n\nBenchmarkowe kontrakty na gaz w Amsterdamie (ICE Endex Dutch TTF) zwyżkują o 1,61 proc. do 73,27 euro za MWh.\n\nSrebro zniżkuje o 5,22 proc. do poziomu 61,41 USD za uncję, a złoto spada o 3,9 proc. do 4.152 USD za uncję. (PAP Biznes)",
-      "date_published": "2026-09-28T18:07:00+02:00",
-      "source": "PAP Biznes"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Niedoszly-atak-na-baze-RAF-Fairford-Zatrzymani-wychodza-za-kaucja-9203881.html",
-      "url": "https://www.bankier.pl/wiadomosc/Niedoszly-atak-na-baze-RAF-Fairford-Zatrzymani-wychodza-za-kaucja-9203881.html",
-      "title": "Niedoszły atak na bazę RAF Fairford. Zatrzymani wychodzą za kaucją",
-      "content_html": "Pięciu mężczyzn aresztowanych w związku z rzekomą próbą dokonania ataku terrorystycznego na bazę RAF Fairford na południu Anglii zostanie wypuszczonych za kaucją – potwierdziła w poniedziałek policja.",
-      "date_published": "2026-09-28T18:03:00+02:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/firmy/backlog-grupy-onde-na-koniec-czerwca-26-wynosil-888-mln-zl",
-      "url": "https://biznes.pap.pl/wiadomosci/firmy/backlog-grupy-onde-na-koniec-czerwca-26-wynosil-888-mln-zl",
-      "title": "Backlog grupy Onde na koniec czerwca '26 wynosił 888 mln zł",
-      "content_html": "Backlog grupy Onde na 30 czerwca 2026 r. był o 45,3 proc. wyższy rdr i wyniósł 888 mln zł - poinformowała spółka w raporcie.\n\nPodano, że backlog grupy wyniósł 888 mln zł, w tym: backlog produkcji i sprzedaży energii wyniósł 5 mln zł, 208 mln zł backlog inwestycji wiatrowych, 605 mln zł backlog inwestycji fotowoltaicznych, 70 mln zł backlog inwestycji drogowo-inżynieryjnych.\n\n\"W I połowie 2026 r. grupa kapitałowa ONDE w dalszym ciągu wykorzystywała zdywersyfikowany model swojej działalności, kontynuując kompleksowe wykonawstwo w segmencie budownictwa odnawialnych źródeł energii (OZE) oraz w segmencie drogowo-inżynieryjnym. Przychody Grupy nadal pozostają jednak pod presją niekorzystnych czynników zewnętrznych, co dotyczy – w ocenie spółki – przede wszystkim mniejszej podaży projektów z obszaru realizacji farm wiatrowych oraz dużej presji na redukcję marż w sektorze budowlanym\" - napisano w raporcie.\n\n\"W raportowanym okresie do istotnych czynników wpływających na osiągnięcia biznesowe oraz wyniki Grupy ONDE należały także niekorzystne warunki atmosferyczne, mające wpływ na harmonogram budów. W pierwszych 6 miesiącach 2026 r. Grupa ONDE kontynuowała reorientację modelu biznesowego, koncentrując się również na rozwoju swojej działalności w obszarze develop, sell and build, tj. developmentu (inaczej rozwoju projektu), sprzedaży, a następnie budowy projektów OZE z portfela własnego. Własny portfel projektów stanowić będzie przeciwwagę do faz cyklu koniunkturalnego. Jednocześnie ONDE sukcesywnie rozpoznaje również potencjał dalszej dywersyfikacji geograficznej i segmentowej\" - dodano.\n\nJak podano, na dzień publikacji sprawozdania grupa posiada projekty własne o łącznej mocy 1 882 MW, z czego 1 311 MW to projekty wiatrowe. Projekty o mocy ok. 201 MW posiadają wydane warunki przyłączenia, a projekty o mocy 105 MW uzyskały decyzje o pozwoleniu na budowę.\n\nW I połowie 2026 r., w wymagającym otoczeniu biznesowym i przy niekorzystnych warunkach atmosferycznych, ONDE wypracowało przychody w wysokości 291,3 mln zł, tj. niższe o 81,5 mln zł (-121,9 proc.) niż w analogicznym okresie ubiegłego roku. Jednocześnie odnotowała spadek kosztów sprzedanych dóbr i usług rdr o 64,6 mln zł (-19,6 proc.).\n\nJak wskazano w informacji nt. sezonowości, zazwyczaj w I kwartale roku osiągane są niższe przychody, co wynika z panujących w danym roku warunków atmosferycznych i ich wpływu na tempo postępu prac. Niższy poziom przychodów w I połowie roku był konsekwencją zarówno wyników osiągniętych w I kwartale, jak i harmonogramu budów w II kwartale br.\n\nW raportowanym okresie grupa ONDE wykazała stratę z działalności operacyjnej (EBIT) na poziomie 2,5 mln zł. Był to wynik niższy o 14,9 mln zł w porównaniu do I połowy ub.r. Skonsolidowany zysk na poziomie EBITDA wyniósł 6,6 mln zł. Wynik ten był niższy o 12,8 mln zł rdr.\n\nGrupa odnotowała stratę netto w wysokości 4,7 mln zł i był to wynik niższy o 9,6 mln zł rdr. Grupa zanotowała spadek rdr realizowanej marży brutto na sprzedaży – wyniosła ona 8,8 proc. (spadek o 2,6 pp. rdr).\n\nJednocześnie marża EBITDA spadła do poziomu 2,3 proc. (spadek o 2,9 pp. rdr), marża EBIT wyniosła -0,9 proc. (spadek o 4,2 pp. rdr), a marża zysku netto -1,6 proc. (spadek o 2,9 pp. rdr). Na 30 czerwca 2026 r. zadłużenie Grupy wyniosło 159,1 mln zł, co stanowi wzrost o 9,8 proc. w porównaniu z końcem poprzedniego roku. Wynika on przede wszystkim ze zwiększenia zadłużenia krótkoterminowego.\n\nW drugim kwartale spółka wypracowała 192,5 mln zł przychodów wobec 217,1 mln zł w analogicznym okresie rok wcześniej. EBIT wyniósł 1,9 mln zł wobec 16,3 mln zł rok wcześniej, a EBITDA w drugim kwartale wyniosła, według wyliczeń PAP Biznes, 6 mln zł. Strata netto jednostki dominującej w II kwartale wyniosła 0,2.\n\nKonsensus PAP Biznes zakładał w II kwartale 190 mln zł przychodów, 1 mln zł EBIT i-0,9 mln zł straty netto j.d. (PAP Biznes)",
-      "date_published": "2026-09-28T18:03:00+02:00",
-      "source": "PAP Biznes"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/rynki/zamkniecia-na-gieldach-w-europie-tabela-299",
-      "url": "https://biznes.pap.pl/wiadomosci/rynki/zamkniecia-na-gieldach-w-europie-tabela-299",
-      "title": "Zamknięcia na giełdach w Europie (tabela)",
-      "content_html": "Poniżej zamknięcia i zmiany wybranych indeksów giełdowych w Europie.",
-      "date_published": "2026-09-28T17:59:00+02:00",
-      "source": "PAP Biznes"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Susza-uderza-w-polskie-sady-i-uprawy-Czerniak-ostrzega-przed-wzrostem-cen-9203869.html",
@@ -293,12 +573,36 @@
       "source": "Bankier.pl"
     },
     {
+      "id": "https://biznes.pap.pl/wiadomosci/firmy/wyniki-onde-w-ii-kw-2026-roku-vs-konsensus-pap-tabela",
+      "url": "https://biznes.pap.pl/wiadomosci/firmy/wyniki-onde-w-ii-kw-2026-roku-vs-konsensus-pap-tabela",
+      "title": "Wyniki Onde w II kw. 2026 roku vs. konsensus PAP (tabela)",
+      "content_html": "Poniżej przedstawiamy wyniki Onde w drugm kwartale 2026 roku i ich odniesienie do konsensusu oraz poprzednich wyników.",
+      "date_published": "2026-09-28T17:26:00+02:00",
+      "source": "PAP Biznes"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/PG-Silesia-pozywa-Skarb-Panstwa-o-5-01-mld-zl-odszkodowania-9203836.html",
       "url": "https://www.bankier.pl/wiadomosc/PG-Silesia-pozywa-Skarb-Panstwa-o-5-01-mld-zl-odszkodowania-9203836.html",
       "title": "PG Silesia żąda gigantycznego odszkodowania. Pozew trafił do sądu po nieudanej ugodzie",
       "content_html": "Zarządca Przedsiębiorstwa Górniczego \"Silesia\", ze względu, iż Skarb Państwa nie przystał na zawarcie ugody w ramach zawezwania do próby ugodowej, złożył do Sądu Okręgowego w Warszawie, pozew o zapłatę - podał Bumech w komunikacie. Wartość...",
       "date_published": "2026-09-28T17:12:00+02:00",
       "source": "Bankier.pl"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/ekonomia-biznes-i-finanse/skrot-wiadomosci-poniedzialek-28-wrzesnia-1700",
+      "url": "https://biznes.pap.pl/wiadomosci/ekonomia-biznes-i-finanse/skrot-wiadomosci-poniedzialek-28-wrzesnia-1700",
+      "title": "Skrót wiadomości - poniedziałek, 28 września, 17.00",
+      "content_html": "Przegląd najważniejszych wiadomości gospodarczych, krajowych i ze świata.",
+      "date_published": "2026-09-28T17:11:00+02:00",
+      "source": "PAP Biznes"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/firmy/cavatina-holding-ustanowila-v-program-emisji-obligacji-o-lacznej-wartosci-do-250-0",
+      "url": "https://biznes.pap.pl/wiadomosci/firmy/cavatina-holding-ustanowila-v-program-emisji-obligacji-o-lacznej-wartosci-do-250-0",
+      "title": "Cavatina Holding ustanowiła V program emisji obligacji o łącznej wartości do 250 mln zł",
+      "content_html": "Cavatina Holding zdecydowała o ustanowieniu III bezprospektowego programu emisji obligacji, w ramach którego będzie uprawniona do emitowania obligacji o łącznej wartości nominalnej do 100 mln zł, a po",
+      "date_published": "2026-09-28T17:09:00+02:00",
+      "source": "PAP Biznes"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/60-mln-euro-na-ochrone-wschodniej-flanki-UE-Polska-walczy-o-srodki-na-antydrony-i-rurociagi-9203672.html",
@@ -341,12 +645,44 @@
       "source": "Bankier.pl"
     },
     {
+      "id": "https://biznes.pap.pl/wiadomosci/gospodarka/dzien-na-fxfi-pln-stabilny-ale-spw-pod-presja-wyprzedazy-odczyt-inflacji",
+      "url": "https://biznes.pap.pl/wiadomosci/gospodarka/dzien-na-fxfi-pln-stabilny-ale-spw-pod-presja-wyprzedazy-odczyt-inflacji",
+      "title": "DZIEŃ NA FX/FI: PLN stabilny, ale SPW pod presją wyprzedaży; odczyt inflacji kluczowy dla FI",
+      "content_html": "Notowania polskiej waluty w trakcie poniedziałkowej sesji były stabilne, natomiast pod koniec dnia złoty lekko umocnił się wobec euro. Krajowe obligacje były pod presją wyprzedaży. Zdaniem zarządzając",
+      "date_published": "2026-09-28T16:37:00+02:00",
+      "source": "PAP Biznes"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/firmy/dzien-na-gpw-na-gieldzie-spadki-najslabszy-z-glownych-indeksow-mwig40",
+      "url": "https://biznes.pap.pl/wiadomosci/firmy/dzien-na-gpw-na-gieldzie-spadki-najslabszy-z-glownych-indeksow-mwig40",
+      "title": "DZIEŃ NA GPW: Na giełdzie spadki; najsłabszy z głównych indeksów mWIG40",
+      "content_html": "Po południu główne indeksy przeważnie znajdują się w okolicach poziomów odniesienia, przy czym najsłabszy jest mWIG40. Pozytywnie na rynek wpływa zwyżka Orlenu i PGE. Zdaniem analityków, w tym tygodni",
+      "date_published": "2026-09-28T16:22:00+02:00",
+      "source": "PAP Biznes"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/firmy/pg-silesia-pozywa-skarb-panstwa-o-501-mld-zl-odszkodowania",
+      "url": "https://biznes.pap.pl/wiadomosci/firmy/pg-silesia-pozywa-skarb-panstwa-o-501-mld-zl-odszkodowania",
+      "title": "PG Silesia pozywa Skarb Państwa o 5,01 mld zł odszkodowania",
+      "content_html": "Zarządca Przedsiębiorstwa Górniczego \"Silesia\", ze względu, iż Skarb Państwa nie przystał na zawarcie ugody w ramach zawezwania do próby ugodowej, złożył do Sądu Okręgowego w Warszawie, pozew o zapłat",
+      "date_published": "2026-09-28T16:11:00+02:00",
+      "source": "PAP Biznes"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/UE-nalozyla-sankcje-na-10-osob-za-blokowanie-partii-Jabloko-w-wyborach-w-Rosji-9203775.html",
       "url": "https://www.bankier.pl/wiadomosc/UE-nalozyla-sankcje-na-10-osob-za-blokowanie-partii-Jabloko-w-wyborach-w-Rosji-9203775.html",
       "title": "UE nałożyła sankcje na 10 osób za blokowanie partii Jabłoko w wyborach",
       "content_html": "UE nałożyła w poniedziałek sankcje na 10 osób odpowiedzialnych za tłumienie demokratycznej opozycji oraz poważne naruszanie zasad demokracji w Rosji. Decyzja jest reakcją na wykluczenie partii Jabłoko z wrześniowych wyborów do Dumy Państwowej...",
       "date_published": "2026-09-28T16:05:00+02:00",
       "source": "Bankier.pl"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/gospodarka/euro-w-ebc-11378-usd-i-17850-jpy",
+      "url": "https://biznes.pap.pl/wiadomosci/gospodarka/euro-w-ebc-11378-usd-i-17850-jpy",
+      "title": "Euro w EBC: 1,1378 USD i 178,50 JPY",
+      "content_html": "Europejski Bank Centralny (EBC) ustalił kurs euro 1,1378 USD i 178,50 JPY - podał bank na swojej stronie internetowej.",
+      "date_published": "2026-09-28T16:00:00+02:00",
+      "source": "PAP Biznes"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Krwawy-nalot-w-Mjanmie-Co-najmniej-33-zabitych-9203766.html",
@@ -371,6 +707,14 @@
       "content_html": "Premier Izraela Benjamin Netanjahu odwiedził w niedzielę w tajemnicy Zjednoczone Emiraty Arabskie, by spotkać się z prezydentem Mohammedem bin Zajedem. Chciał, by szejk zaprzeczył doniesieniom, że w 2023 r. ostrzegł Izrael przed atakiem Hamasu...",
       "date_published": "2026-09-28T15:50:00+02:00",
       "source": "Bankier.pl"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/firmy/boombit-wyplaci-024-zl-zaliczki-na-poczet-dywidendy-na-akcje",
+      "url": "https://biznes.pap.pl/wiadomosci/firmy/boombit-wyplaci-024-zl-zaliczki-na-poczet-dywidendy-na-akcje",
+      "title": "BoomBit wypłaci 0,24 zł zaliczki na poczet dywidendy na akcję",
+      "content_html": "Rada nadzorcza BoomBit wyraziła zgodę na wypłatę zaliczki na poczet przewidywanej dywidendy za rok 2026 w wysokości 3,3 mln zł, czyli 0,24 zł na jedną akcję - poinformowała spółka w komunikacie.",
+      "date_published": "2026-09-28T15:46:00+02:00",
+      "source": "PAP Biznes"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Chamenei-twierdzi-ze-Iran-odepchnal-sily-wroga-Przywodca-wciaz-sie-nie-pojawil-9203753.html",
@@ -629,22 +973,6 @@
       "source": "Bankier.pl"
     },
     {
-      "id": "https://biznes.pap.pl/wiadomosci/firmy/pieciu-wykonawcow-z-szansa-na-kontrakt-na-budowe-odcinka-kdp-do-lotniska",
-      "url": "https://biznes.pap.pl/wiadomosci/firmy/pieciu-wykonawcow-z-szansa-na-kontrakt-na-budowe-odcinka-kdp-do-lotniska",
-      "title": "Pięciu wykonawców z szansą na kontrakt na budowę odcinka KDP do lotniska",
-      "content_html": "Pięć podmiotów, obejmujących łącznie 11 firm, zostało zakwalifikowanych do zasadniczej części dialogu konkurencyjnego na budowę 14,3-kilometrowego odcinka Kolei Dużych Prędkości (KDP) Warszawa – Łódź.",
-      "date_published": "2026-09-28T13:00:00+02:00",
-      "source": "PAP Biznes"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/firmy/nieruchomosci-biurowe-najbardziej-odporna-na-nadchodzace-zmiany-demograficzne",
-      "url": "https://biznes.pap.pl/wiadomosci/firmy/nieruchomosci-biurowe-najbardziej-odporna-na-nadchodzace-zmiany-demograficzne",
-      "title": "Nieruchomości biurowe najbardziej odporną na nadchodzące zmiany demograficzne klasą aktywów - JLL",
-      "content_html": "Nieruchomości biurowe wykazują największą odporność na nadchodzące zmiany demograficzne spośród wszystkich klas aktywów komercyjnych - podała firma doradcza JLL.",
-      "date_published": "2026-09-28T12:53:00+02:00",
-      "source": "PAP Biznes"
-    },
-    {
       "id": "https://www.bankier.pl/wiadomosc/Wazna-zmiana-dla-polskiego-lotnictwa-Pilot-bedzie-mogl-zestrzelic-obcy-statek-powietrzny-9203599.html",
       "url": "https://www.bankier.pl/wiadomosc/Wazna-zmiana-dla-polskiego-lotnictwa-Pilot-bedzie-mogl-zestrzelic-obcy-statek-powietrzny-9203599.html",
       "title": "Ważna zmiana dla polskiego lotnictwa. Pilot będzie mógł zestrzelić obcy statek powietrzny",
@@ -677,22 +1005,6 @@
       "source": "Bankier.pl"
     },
     {
-      "id": "https://biznes.pap.pl/wiadomosci/przemysl/creotech-instruments-przygotowuje-sie-do-otwarcia-biur-we-francji-i-niemczech-w",
-      "url": "https://biznes.pap.pl/wiadomosci/przemysl/creotech-instruments-przygotowuje-sie-do-otwarcia-biur-we-francji-i-niemczech-w",
-      "title": "Creotech Instruments przygotowuje się do otwarcia biur we Francji i Niemczech w najbliższych miesiącach",
-      "content_html": "Creotech Instruments przygotowuje się do otwarcia nowych biur we Francji i Niemczech w najbliższych miesiącach, a także planuje oddanie do użytku nowego zakładu produkcyjnego na przełomie 2028 i 2029 ",
-      "date_published": "2026-09-28T12:29:00+02:00",
-      "source": "PAP Biznes"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/firmy/mpay-ma-nowych-inwestorow-pozyskal-15-mln-zl-kapitalu-na-realizacje-strategii",
-      "url": "https://biznes.pap.pl/wiadomosci/firmy/mpay-ma-nowych-inwestorow-pozyskal-15-mln-zl-kapitalu-na-realizacje-strategii",
-      "title": "mPay ma nowych inwestorów, pozyskał 15 mln zł kapitału na realizację strategii",
-      "content_html": "mPay pozyskał 15 mln zł kapitału na realizację strategii i rozwoju; planuje wprowadzić m.in. możliwość zakupu biletów zagranicznych oraz asystenta AI do zarządzania domowymi finansami - podała spółka ",
-      "date_published": "2026-09-28T12:23:00+02:00",
-      "source": "PAP Biznes"
-    },
-    {
       "id": "https://www.bankier.pl/wiadomosc/Trudna-zima-przed-Europa-Gazu-brakuje-Ormuz-zablokowany-a-ceny-ida-w-gore-9203579.html",
       "url": "https://www.bankier.pl/wiadomosc/Trudna-zima-przed-Europa-Gazu-brakuje-Ormuz-zablokowany-a-ceny-ida-w-gore-9203579.html",
       "title": "Trudna zima przed Europą. Gazu brakuje, Ormuz zablokowany, a ceny idą w górę",
@@ -707,30 +1019,6 @@
       "content_html": "Agencja Fitch podwyższyła prognozę wzrostu PKB Polski w 2026 r. do 3,5 proc. z 3,3 proc., na 2027 r. prognozuje wskaźnik na 3,0 proc. (poprzednio 2,9 proc.), a w 2028 r. 3,1 proc. (poprz. 3,2 proc.) - podano w najnowszej rundzie prognostycznej agencji...",
       "date_published": "2026-09-28T12:20:00+02:00",
       "source": "Bankier.pl"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/firmy/ambicja-orlenu-jest-ok-50-proc-local-content-w-projekcie-baltic-east-fafara",
-      "url": "https://biznes.pap.pl/wiadomosci/firmy/ambicja-orlenu-jest-ok-50-proc-local-content-w-projekcie-baltic-east-fafara",
-      "title": "Ambicją Orlenu jest ok. 50-proc. local content w projekcie Baltic East - Fąfara",
-      "content_html": "W projekcie budowy morskiej farmy wiatrowej Baltic East, Orlen zakłada co najmniej 45 proc. local contentu w całym procesie projektowania, wykonania oraz utrzymania farmy, ale ambicją spółki jest udzi",
-      "date_published": "2026-09-28T12:09:00+02:00",
-      "source": "PAP Biznes"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/rynki/tygodniowy-przeglad-z-regionu-biznes-i-rynki-21-27-wrzesnia",
-      "url": "https://biznes.pap.pl/wiadomosci/rynki/tygodniowy-przeglad-z-regionu-biznes-i-rynki-21-27-wrzesnia",
-      "title": "TYGODNIOWY PRZEGLĄD Z REGIONU: Biznes i Rynki, 21-27 września",
-      "content_html": "Poniżej przedstawiamy przegląd wiadomości o spółkach, sektorach gospodarki i rynkach finansowych Europy Środkowo-Wschodniej oraz Grecji i Turcji z okresu 21-27 września 2026 roku.",
-      "date_published": "2026-09-28T12:00:00+02:00",
-      "source": "PAP Biznes"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/gospodarka/tygodniowy-przeglad-z-regionu-polityka-i-gospodarka-21-27-wrzesnia",
-      "url": "https://biznes.pap.pl/wiadomosci/gospodarka/tygodniowy-przeglad-z-regionu-polityka-i-gospodarka-21-27-wrzesnia",
-      "title": "TYGODNIOWY PRZEGLĄD Z REGIONU: Polityka i gospodarka, 21-27 września",
-      "content_html": "Poniżej przedstawiamy przegląd wiadomości politycznych i makroekonomicznych z Europy Środkowo-Wschodniej oraz Grecji i Turcji z 21-27 września 2026 roku.",
-      "date_published": "2026-09-28T12:00:00+02:00",
-      "source": "PAP Biznes"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Gibala-przed-Piatkowska-Jest-wynik-pierwszej-tury-wyborow-w-Krakowie-9203436.html",
@@ -765,355 +1053,35 @@
       "source": "Bankier.pl"
     },
     {
-      "id": "https://biznes.pap.pl/wiadomosci/gospodarka/wartosc-udzielonych-kredytow-mieszkaniowych-w-viii-wzrosla-o-511-proc-rdr-bik",
-      "url": "https://biznes.pap.pl/wiadomosci/gospodarka/wartosc-udzielonych-kredytow-mieszkaniowych-w-viii-wzrosla-o-511-proc-rdr-bik",
-      "title": "Wartość udzielonych kredytów mieszkaniowych w VIII wzrosła o 51,1 proc. rdr - BIK",
-      "content_html": "Wartość udzielonych kredytów mieszkaniowych w sierpniu wzrosła w Polsce o 51,1 proc. rdr do 13,540 mld zł - podało Biuro Informacji Kredytowej (BIK).",
-      "date_published": "2026-09-28T11:32:00+02:00",
-      "source": "PAP Biznes"
-    },
-    {
       "id": "https://www.bankier.pl/wiadomosc/Najgorszy-rynek-akcji-na-swiecie-obnizyl-progi-Akcje-od-0-0002-PLN-9203480.html",
       "url": "https://www.bankier.pl/wiadomosc/Najgorszy-rynek-akcji-na-swiecie-obnizyl-progi-Akcje-od-0-0002-PLN-9203480.html",
-      "title": "Najgorszy rynek akcji na świecie obniżył progi. Akcje od 0,0002 PLN",
-      "content_html": "Indeks IDX Composite (JKSE) stracił od początku roku 28%, a w ciągu ostatnich 5 lat udało mu się zyskać 1,12%. Indonezyjska Giełda Papierów Wartościowych nie bez przyczyny została ochrzczona najgorszą giełdą na świecie. Jej władze nie składają...",
-      "date_published": "2026-09-28T11:30:00+02:00",
+      "title": "Najgorszy rynek akcji na świecie obniżył progi. Akcje od 0,0002 PLN Indeks IDX Composite (JKSE) stracił od początku roku 28%, a w ciągu ostatnich 5 lat udało mu się zyskać 1,12%. Indonezyjska Giełda Papierów Wartościowych nie bez przyczyny została ochrzczona najgorszą giełdą na świecie. Jej władze nie składają jednak broni i chcąc poprawić płynność obniżyły minimalną cenę akcji na parkiecie.",
+      "content_html": "",
+      "date_published": "2026-09-28T10:30:00+02:00",
       "source": "Bankier.pl"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Bank-Pekao-ma-umowe-o-wspolpracy-z-RBI-celem-wsparcia-klientow-na-rynkach-CEE-9203559.html",
       "url": "https://www.bankier.pl/wiadomosc/Bank-Pekao-ma-umowe-o-wspolpracy-z-RBI-celem-wsparcia-klientow-na-rynkach-CEE-9203559.html",
-      "title": "Bank Pekao ma umowę o współpracy z RBI celem wsparcia klientów na rynkach CEE",
-      "content_html": "Bank Pekao i Raiffeisen Bank International (RBI) podpisały umowę o współpracy, której celem jest wsparcie klientów rozwijających działalność na rynkach europejskich - poinformował Pekao w komunikacie prasowym. Na początkowym etapie umowa z...",
-      "date_published": "2026-09-28T11:26:00+02:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/20-mln-dolarow-za-glowe-dowodcy-ukrainskich-dronow-WSJ-o-ofercie-Rosji-9203551.html",
-      "url": "https://www.bankier.pl/wiadomosc/20-mln-dolarow-za-glowe-dowodcy-ukrainskich-dronow-WSJ-o-ofercie-Rosji-9203551.html",
-      "title": "20 mln dolarów za głowę dowódcy ukraińskich dronów. „WSJ” o ofercie Rosji",
-      "content_html": "Rosja zaoferowała za pośrednictwem postsowieckich sieci przestępczych nagrodę w wysokości 20 mln dolarów za informacje o miejscu pobytu dowódcy ukraińskich Sił Systemów Bezzałogowych (SBS), majora Roberta \"Madiara\" Browdiego - podał dziennik...",
-      "date_published": "2026-09-28T11:18:00+02:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/firmy/dzien-na-gpw-kolejna-sesja-z-niewielka-zmiennoscia-modivo-najslabsze-w-wig20",
-      "url": "https://biznes.pap.pl/wiadomosci/firmy/dzien-na-gpw-kolejna-sesja-z-niewielka-zmiennoscia-modivo-najslabsze-w-wig20",
-      "title": "DZIEŃ NA GPW: Kolejna sesja z niewielką zmiennością; Modivo najsłabsze w WIG20",
-      "content_html": "Na warszawskiej giełdzie kolejną sesję z rzędu główne indeksy zmieniają się w niewielkim zakresie, przy czym najsłabszy mWIG40 traci 0,2 proc. Wśród blue chipów najmocniej zniżkuje Modivo, tracą też KGHM i Erste. Rosną m. in. spółki energetyczne i CD Projekt.\n\nOk. godz. 11.00 WIG20 rośnie o 0,02 proc. do ok. 4.181 pkt., WIG zniżkuje o 0,04 proc. do ok. 157.104 pkt. mWIG40 idzie w dół o 0,2 proc. do ok. 10.501 pkt., a sWIG80 zyskuje 0,02 proc. i wynosi 30.764 pkt.\n\nW poniedziałek spada około połowa spółek notowanych w WIG20. Najmocniej idzie w dół kurs Modivo, o 3,4 proc. do 88,9 zł.\n\nModivo spada trzeci raz z rzędu. Kurs spółki był w trendzie spadkowym od maja 2025 r. do czerwca 2026 r. i w tym czasie poszedł w dół o ok. 65 proc. Od połowy czerwca kurs Modivo porusza się w zakresie ok. 85-101 zł.\n\nModivo poinformowało, że w wyniku decyzji o spowolnieniu tempa ekspansji sklepów sieci Worldbox oraz strategicznej koncentracji na wysokorentownym segmencie off-price, zidentyfikowało przesłanki wskazujące na możliwość utraty wartości aktywów spółki Worldbox. Spółka dokona też odpisu w Modivo.com.\n\nKGHM spada o 1,7 proc. do 324,8 zł. Kurs spółki w tym roku jest niestabilny. Waha się pomiędzy 239 zł a 396 zł, a łącznie, od 2 stycznia do 25 września wzrósł o 17,7 proc. Ostatnie tygodnie były jednak słabe dla spółki - od początku września do piątkowego zamknięcia jej akcje staniały o 7,5 proc.\n\nJedną ze spadkowych spółek w WIG20 jest Erste, które zniżkuje o 0,7 proc. do 802 zł. Erste od początku tego roku systematycznie rośnie i do piątkowego zamknięcia kurs poszedł w górę o 48 proc. W piątek 25 września kurs spółki sięgnął historycznego maksimum na poziomie 808,6 zł.\n\nErste Group Bank AG ogłosił zamiar przeprowadzenia wezwania do sprzedaży 52.113.041 akcji Erste Bank Polska po cenie 713,6 zł za jedną akcję.\n\nErste w poniedziałek nie jest najsłabszym z banków notowanych w WIG20, mocniej zniżkuje mBank, o niemal 1 proc. Alior lekko traci, a PKO BP i Pekao nieznacznie rosną. WIG Banki prawie nie zmienia się i wynosi 28.624 pkt. W piątek indeks ten był na najwyższym poziomie w historii, na 28.837,07 pkt.\n\nWśród blue chipów najmocniej zwyżkuje PGE, o 1,6 proc. Spółka ma za sobą cztery spadkowe sesje, natomiast wcześniej, na przełomie sierpnia i września, jej kurs rósł. W sumie, od 25 sierpnia do piątkowego zamknięcia akcje spółki zyskały na wartości 27,5 proc.\n\nW poniedziałek rosną także inne spółki z sektora energetycznego: Enea zyskuje 0,3 proc., a Tauron 0,6 proc.\n\nW dniach 25 sierpnia - 25 września łącznie kurs Tauronu wzrósł o 5,7 proc. a Enei zwyżkował o 1,4 proc., przy czym obie spółki od 9 września przeważnie spadają.\n\nPodczas poniedziałkowej sesji dobrze radzi sobie CD Projekt, który rośnie o 1 proc. do 247,1 zł. Od początku tego roku do piątkowego zamknięcia kurs spółki wahał się w zakresie ok. 211-297 zł, natomiast łącznie wzrósł o 1,5 proc.\n\nBudimex lekko zwyżkuje. Oferta Budimeksu na modernizację oczyszczalni ścieków \"Czajka\" została odrzucona.\n\nW indeksie mWIG40 najmocniej rośnie Creotech Instruments, o 3,2 proc., a najmocniej spada Asseco SEE, o 2,7 proc.\n\nKurs Newagu idzie do góry o 0,8 proc. Newag w II kw. 2026 roku miał 733,2 mln zł przychodów, 184,2 mln zł EBITDA i 147,6 mln zł zysku netto. W ujęciu rok do roku oznacza to wzrosty odpowiednio o 54,5 proc., 80 proc. i 91,6 proc.\n\nJak poinformował PAP wiceprezes Newagu Józef Michalik, pod względem przychodów trzeci kwartał nie powinien odbiegać od pierwszych dwóch, natomiast czwarty zostanie zamknięty z niższymi przychodami, co wynika z terminów dostaw. Dodał, że firma ma zakontraktowane dostawy do końca 2029 roku.\n\nZ kolei wśród małych spółek najlepiej radzą sobie Bioton, Creepy Jar i PlayWay, które rosną po ok. 3 proc. O 3,4 proc., a więc najmocniej w indeksie, spada Bumech.\n\nSpółka zależna Mostostalu Zabrze - Mostostal Zabrze Realizacje Przemysłowe (MZRP) - zawarła z MSM Walsrode, podmiotem z grupy przemysłowo-technologicznej CSG z siedzibą w Czechach, umowę na budowę now",
-      "date_published": "2026-09-28T11:18:00+02:00",
-      "source": "PAP Biznes"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/firmy/uokik-nalozyl-135-mln-zl-kar-na-uczestnikow-przetargow-organizowanych-przez-pge",
-      "url": "https://biznes.pap.pl/wiadomosci/firmy/uokik-nalozyl-135-mln-zl-kar-na-uczestnikow-przetargow-organizowanych-przez-pge",
-      "title": "UOKiK nałożył 13,5 mln zł kar na uczestników przetargów organizowanych przez PGE Dystrybucja",
-      "content_html": "Prezes UOKiK stwierdził, że przedsiębiorcy ubiegający się o zamówienia na budowę lub przebudowę elementów infrastruktury sieci elektroenergetycznej, w tym punktów łącznikowych i rozłącznikowych, uzgadniali warunki składanych ofert lub sposób swojego zachowania i nałożył 13,5 mln zł kar na uczestników przetargów organizowanych przez PGE Dystrybucja - poinformował Urząd w komunikacie.\n\nJak podano, przedsiębiorcy ci wpłynęli na wynik 11 przetargów, które organizowała PGE Dystrybucja.\n\n\"O wyborze wykonawcy zdecydować miała najlepsza oferta złożona w aukcji elektronicznej, tymczasem to uczestnicy przetargu ustalali między sobą, kto ma wygrać\" - napisano w komunikacie.\n\n\"Przedsiębiorcy mieli świadomość, że postępują niezgodnie z prawem. Bardzo często kontaktowali się ze sobą telefonicznie, aby rozdzielać między siebie kolejne przetargi. Każdy z nich najpóźniej w dniu aukcji elektronicznych wiedział, kto 'wygra'. Zmowy przetargowe są bardzo szkodliwe dla gospodarki. Przedsiębiorcy powinni działać samodzielnie i uczciwie konkurować o zamówienia publiczne\" - powiedział cytowany w komunikacie prezes UOKiK Tomasz Chróstny.\n\nJak podano, na uczestników porozumienia Prezes UOKiK nałożył kary – łącznie ponad 13,5 mln zł. W tym:\n\n• za zmowę w przetargu na przebudowę infrastruktury sieci elektroenergetycznej SN 15 kV Garwolin–Żelechów suma kar wyniosła 3 419 938,78 zł. Sankcje na uczestników porozumienia: EnergoTech 590 656,16 zł, Przedsiębiorstwo Techniczno-Usługowe Elektra 747 467,75 zł, Przedsiębiorstwo Handlowo-Usługowe Kurpiewski 2 081 814,87 zł;\n\n• za zmowę w przetargach na budowę punktów łącznikowych sterowanych radiowo suma kar wyniosła 10 176 777,57 zł. Sankcje na uczestników porozumienia: ZPUE 7 642 588,80 zł, EnergoTech 463 074,43 zł, Przedsiębiorstwo Techniczno-Usługowe Elektra 460 440,13 zł, Ekto 302 358,71 zł, Elmo 605 265,70 zł, Przedsiębiorstwo Wielobranżowe Farad 703 049,80 zł.\n\nDecyzja nie jest prawomocna, przedsiębiorcy mają możliwość odwołania się do sądu. (PAP Biznes)",
-      "date_published": "2026-09-28T11:18:00+02:00",
-      "source": "PAP Biznes"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Rosja-planuje-kolejne-ataki-w-Europie-Kallas-ujawnia-co-wynika-z-danych-wywiadu-9203548.html",
-      "url": "https://www.bankier.pl/wiadomosc/Rosja-planuje-kolejne-ataki-w-Europie-Kallas-ujawnia-co-wynika-z-danych-wywiadu-9203548.html",
-      "title": "Rosja planuje kolejne ataki w Europie? Kallas ujawnia, co wynika z danych wywiadu",
-      "content_html": "Szefowa unijnej dyplomacji Kaja Kallas ostrzegła w poniedziałek, że według informacji wywiadowczych Rosja planuje kolejne akty sabotażu w Europie.",
-      "date_published": "2026-09-28T11:15:00+02:00",
+      "title": "Bank Pekao ma umowę o współpracy z RBI celem wsparcia klientów na rynkach CEE Bank Pekao i Raiffeisen Bank International (RBI) podpisały umowę o współpracy, której celem jest wsparcie klientów rozwijających działalność na rynkach europejskich - poinformował Pekao w komunikacie prasowym. Na początkowym etapie umowa z RBI obejmuje Czechy, Rumunię i Austrię.",
+      "content_html": "",
+      "date_published": "2026-09-28T10:26:00+02:00",
       "source": "Bankier.pl"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Farm-Innovations-chce-pozyskac-15-mln-zl-w-ramach-emisji-500-tys-akcji-serii-D-9203552.html",
       "url": "https://www.bankier.pl/wiadomosc/Farm-Innovations-chce-pozyskac-15-mln-zl-w-ramach-emisji-500-tys-akcji-serii-D-9203552.html",
-      "title": "Farm Innovations chce pozyskać 15 mln zł w ramach emisji 500 tys. akcji serii D",
-      "content_html": "Farm Innovations chce pozyskać 15 mln zł z emisji 500 tys. akcji serii D, po cenie 30 zł za walor. Pozyskane środki chce przeznaczyć na rozbudowę struktur sprzedażowych, wzmocnienie kompetencji technologicznych i wejście na rynek zwierząt domowych...",
-      "date_published": "2026-09-28T11:14:00+02:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/gospodarka/agencja-fitch-prognozuje-wzrost-pkb-polski-w-27-na-30-proc-w-28-na-31-proc",
-      "url": "https://biznes.pap.pl/wiadomosci/gospodarka/agencja-fitch-prognozuje-wzrost-pkb-polski-w-27-na-30-proc-w-28-na-31-proc",
-      "title": "Agencja Fitch prognozuje wzrost PKB Polski w '27 na 3,0 proc., a w '28 na 3,1 proc.",
-      "content_html": "Agencja Fitch podwyższyła prognozę wzrostu PKB Polski w 2026 r. do 3,5 proc. z 3,3 proc., na 2027 r. prognozuje wskaźnik na 3,0 proc. (poprzednio 2,9 proc.), a w 2028 r. 3,1 proc. (poprz. 3,2 proc.) - podano w najnowszej rundzie prognostycznej agencji. Fitch spodziewa się w 2027 r. jednej obniżki stóp NBP o 25 pb.\n\n\"Podnieśliśmy naszą prognozę wzrostu PKB na rok 2026 z 3,3 proc. do 3,5 proc. w stosunku do czerwcowej prognozy, co odzwierciedla dobre wyniki za II kwartał 2026 r. oraz korekty w górę naszych prognoz dla Niemiec i strefy euro. Inwestycje prawdopodobnie pozostaną kluczowym motorem wzrostu, ponieważ wydatki związane z KPO nabierają tempa przed zakończeniem programu w tym roku. Spodziewane spowolnienie wzrostu inwestycji po zakończeniu wydatków KPO jest głównym powodem, dla którego prognozujemy, że wzrost PKB spadnie w 2027 r. do wciąż solidnego poziomu 3,0 proc.\" - napisano w raporcie Fitch.\n\nW ocenie agencji polityka fiskalna w Polsce prawdopodobnie pozostanie w dużym stopniu akomodacyjna, a konsolidacja budżetowa zostanie najprawdopodobniej odłożona do czasu wyborów parlamentarnych w 2027 r.\n\nKonsumpcja ma utrzymać się na wysokim poziomie, będąc wspierana przez silną ekspansję kredytową i napiętą sytuację na rynku pracy, które jednak zaczęły się w tym roku łagodzić (stopa bezrobocia nieznacznie wzrosła, zatrudnienie nieznacznie spadło, a wzrost płac realnych nadal ulegał spowolnieniu).\n\n\"Spodziewamy się, że trendy te będą nadal trwały, utrzymując wzrost konsumpcji poniżej poziomu z 2025 roku zarówno w 2026, jak i 2027 r.\" - dodano.\n\nAgencja Fitch spodziewa się inflacji w Polsce na koniec 2026 r. na poziomie 3,7 proc., na koniec 2027 r. 3,0 proc., nie przewidując zmiany stóp przez RPP do końca br.\n\n\"Niedawny wzrost inflacji, napięcia na Bliskim Wschodzie oraz utrzymująca się wysoka inflacja w sektorze usług pozostawiają niewiele miejsca na dalsze łagodzenie polityki pieniężnej. (...) W przyszłym roku spodziewamy się jednej obniżki stóp o 25 pb. do poziomu 3,5 proc.\" - napisano.\n\nAgencja spodziewa się osłabienia złotego w kolejnych latach w związku z zawężaniem się różnic w stopach procentowych względem strefy euro i Stanów Zjednoczonych oraz obawami dotyczącymi sytuacji budżetowej Polski.\n\nPoniżej najnowsze prognozy Fitch dla polskiej gospodarki.\n\nWe wrześniu agencja Moody's obniżyła rating Polski do „A3\" z poziomu „A2\", ustanawiając dla oceny stabilną perspektywę. Tym samym rating Moody's zrównał się z ocenami kredytowymi Polski dwóch innych głównych agencji S&P i Fitch (\"A-\" wg ich metodologii), przy czym pierwsza z nich utrzymuje stabilną perspektywę, a druga negatywną. (PAP Biznes)",
-      "date_published": "2026-09-28T11:10:00+02:00",
-      "source": "PAP Biznes"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/RPP-powinna-podniesc-stopy-procentowe-Dolar-drozeje-kurs-euro-sie-broni-9203541.html",
-      "url": "https://www.bankier.pl/wiadomosc/RPP-powinna-podniesc-stopy-procentowe-Dolar-drozeje-kurs-euro-sie-broni-9203541.html",
-      "title": "„RPP powinna podnieść stopy procentowe”. Dolar drożeje, kurs euro się broni",
-      "content_html": "Pierwszy raz z obozu Rady Polityki Pieniężnej usłyszeliśmy o możliwości podwyżki stóp procentowych. To potencjalne wsparcie dla polskiego złotego, który zmaga się z w wpływem zaostrzenia polityki monetarnej w USA i strefie euro.",
-      "date_published": "2026-09-28T11:00:00+02:00",
+      "title": "Farm Innovations chce pozyskać 15 mln zł w ramach emisji 500 tys. akcji serii D Farm Innovations chce pozyskać 15 mln zł z emisji 500 tys. akcji serii D, po cenie 30 zł za walor. Pozyskane środki chce przeznaczyć na rozbudowę struktur sprzedażowych, wzmocnienie kompetencji technologicznych i wejście na rynek zwierząt domowych - podała spółka w komunikacie prasowym.",
+      "content_html": "",
+      "date_published": "2026-09-28T10:14:00+02:00",
       "source": "Bankier.pl"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Fellowmind-Poland-dolacza-do-Grupy-Euvic-i-rozpoczyna-dzialalnosc-jako-Euvic-Business-Applications-9203539.html",
       "url": "https://www.bankier.pl/wiadomosc/Fellowmind-Poland-dolacza-do-Grupy-Euvic-i-rozpoczyna-dzialalnosc-jako-Euvic-Business-Applications-9203539.html",
-      "title": "Fellowmind Poland dołącza do Grupy Euvic i rozpoczyna działalność jako Euvic Business Applications",
-      "content_html": "Grupa Euvic nabyła 51 proc. udziałów Fellowmind Poland, a menedżer Fellowmind Daniel Olejniczak objął pozostałe 49 proc. udziałów - poinformował Euvic w komunikacie prasowym. Dodano, że Fellowmind Poland stała się częścią Grupy Euvic...",
-      "date_published": "2026-09-28T10:54:00+02:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/firmy/asbis-wlaczyl-niemiecka-marke-premium-audio-magnat-do-portfolio-produktow",
-      "url": "https://biznes.pap.pl/wiadomosci/firmy/asbis-wlaczyl-niemiecka-marke-premium-audio-magnat-do-portfolio-produktow",
-      "title": "Asbis włączył niemiecką markę premium audio Magnat do portfolio produktów",
-      "content_html": "Grupa Asbis rozszerzyła umowę dystrybucyjną z firmą Premium Audio Company (PAC), włączając niemiecką markę premium audio Magnat do swojego portfolio produktów - podał Asbis w komunikacie prasowym. Pełna gama produktów Magnat będzie dostępna na 39 rynkach w regionie EMEA, w tym również w Polsce.\n\nJak podano, współpraca wspiera dalszy rozwój segmentu Asbis Consumer Distribution w kategorii premium audio oraz lifestyle'owych rozwiązań audiowizualnych. Jest to czwarta marka z portfolio firmy PAC, obok Klipsch, Onkyo i Integra, która będzie dystrybuowana przez Asbis.\n\nPełna gama produktów Magnat będzie dostępna na 39 rynkach w regionie EMEA, w tym również w Polsce.\n\nJak dodano, obecne portfolio Magnat obejmuje głośniki Hi-Fi i kina domowego, głośniki aktywne i subwoofery, rozwiązania do instalacji niestandardowych, wzmacniacze, amplitunery sieciowe oraz gramofony. (PAP Biznes)",
-      "date_published": "2026-09-28T10:51:00+02:00",
-      "source": "PAP Biznes"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/gospodarka/pgz-musi-byc-wzmocniona-kapitalowo-stac-sie-koncernem-miedzynarodowym-szef",
-      "url": "https://biznes.pap.pl/wiadomosci/gospodarka/pgz-musi-byc-wzmocniona-kapitalowo-stac-sie-koncernem-miedzynarodowym-szef",
-      "title": "PGZ musi być wzmocniona kapitałowo, by stać się koncernem międzynarodowym - szef MAP",
-      "content_html": "Polska Grupa Zbrojeniowa musi być wzmocniona m.in. kapitałowo i musi być zdolna do pozyskiwania długu, aby stać się koncernem międzynarodowym - powiedział podczas konferencji Energia z Polski - Local First minister aktywów państwowych Wojciech Balczun. Zaznaczył, że póki co nie ma żadnych wskazań co do nowego akcjonariusza.\n\n\"To jest na razie dyskusja strategiczna, którą prowadzimy. Po drugie nie ma żadnych konkretnych wskazań dotyczących takiego, czy innego podmiotu. Są oczywiście spekulacje i teoretyczne scenariusze, o których rozmawiamy\" - powiedział Balczun, pytany o przyszłego nowego akcjonariusza PGZ.\n\n\"Mówimy o tym, żeby wzmocnić PGZ w wymiarze akcjonariatu, mówimy, żeby to wzmocnienie było powiązane ewidentnie z efektami synergii, zarówno takimi związanymi z profilem działalności (...) ale również ze wzmacnianiem PGZ pod kątem finansowym\" - dodał.\n\nJak zaznaczył minister aktywów, żeby PGZ mogła funkcjonować w dłuższym horyzoncie, musi myśleć w dłuższym horyzoncie.\n\n\"Czyli musi myśleć o tym, żeby stać się koncernem absolutnie międzynarodowym, który będzie miał potencjał międzynarodowy, który będzie znany na świecie i który będzie sprzedawał produkty na całym świecie\" - wymienił szef MAP.\n\nDodał że, by to zrobić, spółka musi być wzmocniona kapitałowo, finansowo i musi być zdolna do pozyskiwania długu.\n\n16 września minister aktywów państwowych Wojciech Balczun poinformował, że części akcji PGZ do państwowego banku dałoby synergie i zwiększyłoby wiarygodność PGZ w aspekcie pozyskiwania długu.\n\nSzef MAP wcześniej sygnalizował, że sprzedaż udziałów w Polskiej Grupie Zbrojeniowej (PGZ) może nastąpić w 2027 r. i przynieść budżetowi państwa co najmniej kilkanaście miliardów złotych.\n\nObecnie Skarb Państwa ma 71,36 proc. akcji Polskiej Grupy Zbrojeniowej. Polski Holding Obronny ma 14,82 proc., a Agencja Rozwoju Przemysłu 13,82 proc. akcji tego koncernu. (PAP Biznes)",
-      "date_published": "2026-09-28T10:49:00+02:00",
-      "source": "PAP Biznes"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Syreny-alarmowe-zbyt-czesto-Kierwinski-tlumaczy-kiedy-sa-uruchamiane-9203524.html",
-      "url": "https://www.bankier.pl/wiadomosc/Syreny-alarmowe-zbyt-czesto-Kierwinski-tlumaczy-kiedy-sa-uruchamiane-9203524.html",
-      "title": "Syreny alarmowe zbyt często? Kierwiński tłumaczy, kiedy są uruchamiane",
-      "content_html": "Staramy się nie uruchamiać syren alarmowych, kiedy ryzyko jest potencjalne, a nie realne — zapewnił w poniedziałek minister spraw wewnętrznych i administracji Marcin Kierwiński.",
-      "date_published": "2026-09-28T10:48:00+02:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Tajwan-buduje-przemysl-dronow-Chce-stworzyc-azjatyckie-centrum-demokratycznego-lancucha-dostaw-9203522.html",
-      "url": "https://www.bankier.pl/wiadomosc/Tajwan-buduje-przemysl-dronow-Chce-stworzyc-azjatyckie-centrum-demokratycznego-lancucha-dostaw-9203522.html",
-      "title": "Tajwan buduje przemysł dronów. Chce stworzyć „azjatyckie centrum” demokratycznego łańcucha dostaw",
-      "content_html": "Tajwan musi pogłębić współpracę z partnerami demokratycznymi w celu budowy bezpiecznego i odpornego łańcucha dostaw dronów – oświadczył w poniedziałek prezydent Lai Ching-te. Szef państwa wziął udział w inauguracji budowy parku przemysłowego...",
-      "date_published": "2026-09-28T10:46:00+02:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Stasi-kradlo-technologie-z-Zachodu-Te-napedzaly-gospodarke-NRD-9203509.html",
-      "url": "https://www.bankier.pl/wiadomosc/Stasi-kradlo-technologie-z-Zachodu-Te-napedzaly-gospodarke-NRD-9203509.html",
-      "title": "Stasi kradło technologie z Zachodu. Te napędzały gospodarkę NRD",
-      "content_html": "Zakrojone na szeroką skalę zagraniczne szpiegostwo gospodarcze i technologiczne prowadzone przez NRD w latach 70. i 80. zwiększyło w 1988 roku całkowitą produkcję gospodarczą tego kraju z bloku wschodniego o 7,4 proc. - wynika z badania instytutu...",
-      "date_published": "2026-09-28T10:21:00+02:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Gaz-w-Europie-drozeje-Rynek-obawia-sie-o-dostawy-9203513.html",
-      "url": "https://www.bankier.pl/wiadomosc/Gaz-w-Europie-drozeje-Rynek-obawia-sie-o-dostawy-9203513.html",
-      "title": "Gaz w Europie drożeje. Rynek obawia się o dostawy",
-      "content_html": "Ceny gazu w Europie rosną na początku nowego tygodnia handlu. Inwestorzy oceniają informacje w sprawie sytuacji na Bliskim Wschodzie - informują maklerzy.",
-      "date_published": "2026-09-28T10:06:00+02:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Poszukiwany-ENA-za-milionowe-oszustwa-VAT-owskie-trafil-do-Polski-9203510.html",
-      "url": "https://www.bankier.pl/wiadomosc/Poszukiwany-ENA-za-milionowe-oszustwa-VAT-owskie-trafil-do-Polski-9203510.html",
-      "title": "Poszukiwany ENA za milionowe oszustwa VAT-owskie trafił do Polski",
-      "content_html": "Do Polski został przewieziony Ivan P. podejrzany o wystawienie ponad tysiąca fałszywych faktur VAT na ponad 19 mln zł. Mężczyznę zatrzymano w Hiszpanii na podstawie Europejskiego Nakazu Aresztowania.",
-      "date_published": "2026-09-28T10:02:00+02:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Zarobki-urzednikow-moga-zaskakiwac-Na-tych-stanowiskach-przekraczaja-24-tys-zl-9203505.html",
-      "url": "https://www.bankier.pl/wiadomosc/Zarobki-urzednikow-moga-zaskakiwac-Na-tych-stanowiskach-przekraczaja-24-tys-zl-9203505.html",
-      "title": "Pensje urzędników w górę. Na tych stanowiskach do ponad 24 tys. zł",
-      "content_html": "Pracownicy służby cywilnej zarabiali w 2025 roku przeciętnie 12 347 zł brutto. Jednak na wyższych stanowiskach płace były niemal dwukrotnie większe - sięgały 24 629 zł - podaje superexpress.pl, powołując się na sprawozdanie Szefa Służby...",
-      "date_published": "2026-09-28T10:00:00+02:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/USA-i-Chiny-przedluzaja-rozejm-handlowy-Jest-porozumienie-w-sprawie-cel-9203489.html",
-      "url": "https://www.bankier.pl/wiadomosc/USA-i-Chiny-przedluzaja-rozejm-handlowy-Jest-porozumienie-w-sprawie-cel-9203489.html",
-      "title": "USA i Chiny przedłużają rozejm handlowy. Jest porozumienie w sprawie ceł",
-      "content_html": "Chińskie ministerstwo handlu opublikowało w poniedziałek 10-punktowy komunikat objaśniający ustalenia z ostatniej rundy negocjacji handlowych z USA. Potwierdzono przedłużenie o dwa miesiące zawieszenia ceł karnych oraz ramy obniżek taryf dla...",
-      "date_published": "2026-09-28T09:45:00+02:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/1741-zl-rocznie-laduje-w-koszu-Polacy-marnuja-jedzenie-warte-miliardy-9203498.html",
-      "url": "https://www.bankier.pl/wiadomosc/1741-zl-rocznie-laduje-w-koszu-Polacy-marnuja-jedzenie-warte-miliardy-9203498.html",
-      "title": "1741 zł rocznie ląduje w koszu. Polacy marnują jedzenie warte miliardy",
-      "content_html": "W czasach rosnących kosztów życia szukamy sposobów na oszczędzanie, tymczasem jeden z najlepszych może kryć się w naszych kuchniach. Każdego roku przeciętny Polak wyrzuca do kosza żywność wartą aż 1741 zł. W skali kraju daje to aż 65...",
-      "date_published": "2026-09-28T09:45:00+02:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Best-Capital-Bulgaria-ma-licencje-Bulgarskiego-Banku-Narodowego-na-obsluge-wierzytelnosci-9203501.html",
-      "url": "https://www.bankier.pl/wiadomosc/Best-Capital-Bulgaria-ma-licencje-Bulgarskiego-Banku-Narodowego-na-obsluge-wierzytelnosci-9203501.html",
-      "title": "Best Capital Bulgaria ma licencję Bułgarskiego Banku Narodowego na obsługę wierzytelności",
-      "content_html": "Best Capital Bulgaria, spółka z grupy kapitałowej Best, otrzymała od Bułgarskiego Banku Narodowego (BNB) licencję na obsługę wierzytelności, co otwiera spółce drogę do dalszego zwiększania skali działalności w Bułgarii - poinformował...",
-      "date_published": "2026-09-28T09:42:00+02:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Zbadano-dlaczego-Amerykanie-zyja-krocej-niz-mieszkancy-innych-bogatych-krajow-9203449.html",
-      "url": "https://www.bankier.pl/wiadomosc/Zbadano-dlaczego-Amerykanie-zyja-krocej-niz-mieszkancy-innych-bogatych-krajow-9203449.html",
-      "title": "Zbadano, dlaczego Amerykanie żyją krócej niż mieszkańcy innych bogatych krajów",
-      "content_html": "Długość życia w USA od dziesięcioleci coraz bardziej odstaje od innych państw o wysokich dochodach. Przyczyniają się do tego zgony z powodu przedawkowania narkotyków, samobójstw i zabójstw, ale w ostatnich latach także nadciśnienia, chorób...",
-      "date_published": "2026-09-28T09:00:00+02:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Gang-kradl-auta-w-Niemczech-i-rozbieral-je-w-Polsce-Ponad-50-samochodow-i-10-mln-zl-strat-9203487.html",
-      "url": "https://www.bankier.pl/wiadomosc/Gang-kradl-auta-w-Niemczech-i-rozbieral-je-w-Polsce-Ponad-50-samochodow-i-10-mln-zl-strat-9203487.html",
-      "title": "Gang kradł auta w Niemczech i rozbierał je w Polsce. Ponad 50 samochodów i 10 mln zł strat",
-      "content_html": "Funkcjonariusze Centralnego Biura Śledczego Policji rozbili gang kradnący samochody w Niemczech. Śledczy uznali, że grupa mogła mieć związek z kradzieżą ponad 50 pojazdów o łącznej wartości ponad 10 mln zł. Zatrzymano 10 osób, z których...",
-      "date_published": "2026-09-28T09:00:00+02:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Erste-Group-Bank-zamierza-wezwac-do-sprzedazy-akcji-Erste-Bank-Polska-po-cenie-713-6-zl-za-szt-9203484.html",
-      "url": "https://www.bankier.pl/wiadomosc/Erste-Group-Bank-zamierza-wezwac-do-sprzedazy-akcji-Erste-Bank-Polska-po-cenie-713-6-zl-za-szt-9203484.html",
-      "title": "Erste Group chce przejąć kontrolę nad Erste Bank Polska. Ogłoszono cenę wezwania",
-      "content_html": "Erste Group Bank AG ogłasza zamiar przeprowadzenia wezwania do sprzedaży 52.113.041 akcji Erste Bank Polska po cenie 713,6 zł za jedną akcję - poinformował Erste Securities, pośredniczący w wezwaniu.",
-      "date_published": "2026-09-28T08:56:00+02:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Ceny-miedzi-w-Londynie-spadaja-przed-swiateczna-przerwa-w-Chinach-9203481.html",
-      "url": "https://www.bankier.pl/wiadomosc/Ceny-miedzi-w-Londynie-spadaja-przed-swiateczna-przerwa-w-Chinach-9203481.html",
-      "title": "Ceny miedzi w Londynie spadają przed świąteczną przerwą w Chinach",
-      "content_html": "Notowania miedzi na giełdzie metali LME w Londynie spadają przed rozpoczynającą się 1 października świąteczną przerwą w Chinach - informują maklerzy.",
-      "date_published": "2026-09-28T08:46:00+02:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Na-rynkach-ropy-duze-wzrosty-cen-Rynek-reaguje-na-napiecia-na-Bliskim-Wschodzie-9203477.html",
-      "url": "https://www.bankier.pl/wiadomosc/Na-rynkach-ropy-duze-wzrosty-cen-Rynek-reaguje-na-napiecia-na-Bliskim-Wschodzie-9203477.html",
-      "title": "Na rynkach ropy duże wzrosty cen. Rynek reaguje na napięcia na Bliskim Wschodzie",
-      "content_html": "Ropa na globalnych rynkach mocno drożeje w reakcji na brak postępów w rozwiązaniu konfliktu zbrojnego na Bliskim Wschodzie - podają maklerzy.",
-      "date_published": "2026-09-28T08:23:00+02:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Wylaczenie-zasilania-nie-wystarczy-Czarny-scenariusz-Billa-Gatesa-dla-swiata-z-AI-9203392.html",
-      "url": "https://www.bankier.pl/wiadomosc/Wylaczenie-zasilania-nie-wystarczy-Czarny-scenariusz-Billa-Gatesa-dla-swiata-z-AI-9203392.html",
-      "title": "\"Wyłączenie zasilania nie wystarczy\". Czarny scenariusz Billa Gatesa dla świata z AI",
-      "content_html": "Założyciel firmy Microsoft Bill Gates powiedział w wywiadzie dla NBC News, że nakłonienie państw do regulowania sztucznej inteligencji będzie trudniejsze, niż negocjacje nuklearne w czasach zimnej wojny, trzeba to jednak zrobić, bo w przypadku...",
-      "date_published": "2026-09-28T08:07:00+02:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Szokujace-propozycja-Trumpa-dla-Xi-Chcialbys-kupic-amerykanska-bron-9203390.html",
-      "url": "https://www.bankier.pl/wiadomosc/Szokujace-propozycja-Trumpa-dla-Xi-Chcialbys-kupic-amerykanska-bron-9203390.html",
-      "title": "Szokujące propozycja Trumpa dla Xi: Chciałbyś kupić amerykańską broń?",
-      "content_html": "Prezydent Donald Trump rozmawiał z przewodniczącym ChRL Xi Jinpingiem na temat sprzedaży broni do Tajwanu, a sprawa dalszych dostaw wciąż jest omawiana - powiedział w niedzielę ambasador USA w Chinach David Perdue. Dodał, że Trump zapytał Xi...",
-      "date_published": "2026-09-28T08:04:00+02:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Prasa-zagrozeniem-dla-kraju-Prokurator-generalny-Dostep-do-Bialego-Domu-to-przywilej-9203410.html",
-      "url": "https://www.bankier.pl/wiadomosc/Prasa-zagrozeniem-dla-kraju-Prokurator-generalny-Dostep-do-Bialego-Domu-to-przywilej-9203410.html",
-      "title": "Prasa zagrożeniem dla kraju? Prokurator generalny: Dostęp do Białego Domu to przywilej",
-      "content_html": "Mianowany przez Donalda Trumpa prokurator generalny USA Todd Blanche oznajmił w niedzielę, że prezydent miał prawo odmówić mediom wstępu do Białego Domu. Uznał też, że prasa stanowi zagrożenie, ponieważ przedstawia kraj w \"złym świetle\"...",
-      "date_published": "2026-09-28T08:00:00+02:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Naukowcy-stworzyli-detektor-deepfake-ow-Wykorzystuje-swiatlo-i-dziala-z-dokladnoscia-98-proc-9203465.html",
-      "url": "https://www.bankier.pl/wiadomosc/Naukowcy-stworzyli-detektor-deepfake-ow-Wykorzystuje-swiatlo-i-dziala-z-dokladnoscia-98-proc-9203465.html",
-      "title": "Naukowcy stworzyli detektor deepfake’ów. Wykorzystuje światło i działa z dokładnością 98 proc.",
-      "content_html": "Naukowcy stworzyli system, który wykorzystuje światło do wykrywania deepfake’ów. W testach analizował on jednocześnie 15 filmów i prawidłowo klasyfikował je w blisko 98 proc. przypadków. Zdaniem autorów rozwiązanie to może posłużyć do...",
-      "date_published": "2026-09-28T08:00:00+02:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Jak-Polacy-oceniaja-Tuska-Jest-nowy-sondaz-9203468.html",
-      "url": "https://www.bankier.pl/wiadomosc/Jak-Polacy-oceniaja-Tuska-Jest-nowy-sondaz-9203468.html",
-      "title": "Jak Polacy oceniają Tuska? Jest nowy sondaż",
-      "content_html": "Pracę Donalda Tuska na stanowisku szefa rządu źle ocenia 53 proc. respondentów, a 33 proc. dobrze - wynika z sondażu przeprowadzonego przez Instytut Badań Pollster dla „Super Expressu».",
-      "date_published": "2026-09-28T08:00:00+02:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Finansowy-zgrzyt-wokol-CPK-Mniejsza-dotacja-z-UE-na-Koleje-Duzych-Predkosci-9203439.html",
-      "url": "https://www.bankier.pl/wiadomosc/Finansowy-zgrzyt-wokol-CPK-Mniejsza-dotacja-z-UE-na-Koleje-Duzych-Predkosci-9203439.html",
-      "title": "Finansowy zgrzyt wokół CPK. Mniejsza dotacja z UE na Koleje Dużych Prędkości",
-      "content_html": "Na szybką linię igrek z UE zamiast 33 mld zł dostaniemy najwyżej jedną trzecią tej kwoty - pisze w poniedziałek „Dziennik Gazeta Prawna” („DGP”).",
-      "date_published": "2026-09-28T07:57:00+02:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Reforma-ochrony-zdrowia-na-Wegrzech-Beda-operowac-takze-w-weekendy-9203428.html",
-      "url": "https://www.bankier.pl/wiadomosc/Reforma-ochrony-zdrowia-na-Wegrzech-Beda-operowac-takze-w-weekendy-9203428.html",
-      "title": "Reforma ochrony zdrowia na Węgrzech. Będą operować także w weekendy",
-      "content_html": "Węgry uruchamiają nowy program mający skrócić czas oczekiwania na zabiegi szpitalne poprzez przedłużenie prowadzenia operacji na godziny popołudniowe i weekendy oraz oferowanie dodatkowych zachęt finansowych dla zespołów medycznych - ogłosił...",
-      "date_published": "2026-09-28T07:54:00+02:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Wegry-ruszyly-z-Operacja-Czysciec-Byli-ministrowie-Orbana-straca-immunitety-9203425.html",
-      "url": "https://www.bankier.pl/wiadomosc/Wegry-ruszyly-z-Operacja-Czysciec-Byli-ministrowie-Orbana-straca-immunitety-9203425.html",
-      "title": "Węgry ruszyły z \"Operacją Czyściec\". Byli ministrowie Orbana stracą immunitety?",
-      "content_html": "Premier Węgier Peter Magyar poinformował w niedzielę, że nowo utworzone Narodowe Biuro Odzyskiwania i Ochrony Mienia (NVVH) rozpocznie w poniedziałek dochodzenia w kilku głośnych sprawach korupcyjnych, a parlament zagłosuje nad uchyleniem immunitetów...",
-      "date_published": "2026-09-28T07:52:00+02:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Aleksandar-Vuczic-rezygnuje-z-prezydentury-Chce-zostac-premierem-Serbii-9203399.html",
-      "url": "https://www.bankier.pl/wiadomosc/Aleksandar-Vuczic-rezygnuje-z-prezydentury-Chce-zostac-premierem-Serbii-9203399.html",
-      "title": "Aleksandar Vuczić rezygnuje z prezydentury. Chce zostać premierem Serbii",
-      "content_html": "Prezydent Serbii Aleksandar Vuczić ustąpił w niedzielę ze stanowiska, by ubiegać się w październikowych wyborach parlamentarnych o urząd premiera.",
-      "date_published": "2026-09-28T07:50:00+02:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Skrajna-prawica-wchodzi-do-francuskiego-Senatu-Ostatni-sprawdzian-przed-wyscigiem-o-Palac-Elizejski-9203417.html",
-      "url": "https://www.bankier.pl/wiadomosc/Skrajna-prawica-wchodzi-do-francuskiego-Senatu-Ostatni-sprawdzian-przed-wyscigiem-o-Palac-Elizejski-9203417.html",
-      "title": "Skrajna prawica wchodzi do francuskiego Senatu. Ostatni sprawdzian przed wyścigiem o Pałac Elizejski",
-      "content_html": "Po niedzielnych częściowych wyborach do francuskiego Senatu po raz pierwszy partie skrajnie prawicowe będą tam miały własną grupę. Utworzą ją wspólnie: Zjednoczenie Narodowe (RN) i stronnictwo UDR, dowodzone przez Erica Ciottiego. Grupę tworzy...",
-      "date_published": "2026-09-28T07:49:00+02:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Wymykaja-sie-z-piaskownicy-Tysiace-niebezpiecznych-zachowan-agentow-AI-9203413.html",
-      "url": "https://www.bankier.pl/wiadomosc/Wymykaja-sie-z-piaskownicy-Tysiace-niebezpiecznych-zachowan-agentow-AI-9203413.html",
-      "title": "\"Wymykają się z piaskownicy\". Tysiące niebezpiecznych zachowań agentów AI",
-      "content_html": "Firmy Anthropic i OpenAI badają dziesiątki tysięcy incydentów, związanych z niebezpiecznymi zachowaniami AI - ujawnia w niedzielę Axios, powołując się na źródła. Skala problemu jest nieporównywalnie większa niż, to o czym wie opinia publiczna...",
-      "date_published": "2026-09-28T07:47:00+02:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Wazny-ruch-Niemiec-Szef-MSZ-spotkal-sie-z-Lawrowem-i-tlumaczy-decyzje-9203385.html",
-      "url": "https://www.bankier.pl/wiadomosc/Wazny-ruch-Niemiec-Szef-MSZ-spotkal-sie-z-Lawrowem-i-tlumaczy-decyzje-9203385.html",
-      "title": "Ważny ruch Niemiec. Szef MSZ spotkał się z Ławrowem i tłumaczy decyzję",
-      "content_html": "Szef MSZ Niemiec Johann Wadephul, broniąc swojej decyzji o spotkaniu z rosyjskim ministrem spraw zagranicznych Siergiejem Ławrowem, oświadczył w niedzielę w wywiadzie dla telewizji ARD, że jego zdaniem „nadszedł czas» na rozmowy z Rosją.",
-      "date_published": "2026-09-28T07:46:00+02:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/MSP-zarabiaja-ale-nie-chca-inwestowac-Firmy-ostrozne-mimo-dobrych-wynikow-9203464.html",
-      "url": "https://www.bankier.pl/wiadomosc/MSP-zarabiaja-ale-nie-chca-inwestowac-Firmy-ostrozne-mimo-dobrych-wynikow-9203464.html",
-      "title": "MŚP zarabiają, ale nie chcą inwestować. Firmy ostrożne mimo dobrych wyników",
-      "content_html": "Blisko trzy czwarte mikro-, małych i średnich firm zakończyło ubiegły rok z zyskiem, jednak dobra kondycja nie przekłada się na plany rozwojowe - informuje w poniedziałkowym wydaniu „Rzeczpospolita».",
-      "date_published": "2026-09-28T07:42:00+02:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Potezny-niz-pustoszy-wschodnie-wybrzeze-USA-Powodzie-zniszczenia-i-ofiary-9203448.html",
-      "url": "https://www.bankier.pl/wiadomosc/Potezny-niz-pustoszy-wschodnie-wybrzeze-USA-Powodzie-zniszczenia-i-ofiary-9203448.html",
-      "title": "Potężny niż pustoszy wschodnie wybrzeże USA. Powodzie, zniszczenia i ofiary",
-      "content_html": "Potężny niż znad Atlantyku, tzw. nor'easter, drugi dzień z rzędu pustoszył w niedzielę północno-wschodnie wybrzeże USA, powodując rozległe powodzie, zniszczenia i przerwy w dostawach energii.",
-      "date_published": "2026-09-28T07:38:00+02:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Naruszenie-danych-w-Enel-Med-moze-dotyczyc-ok-3-proc-calej-bazy-pacjentow-9203457.html",
-      "url": "https://www.bankier.pl/wiadomosc/Naruszenie-danych-w-Enel-Med-moze-dotyczyc-ok-3-proc-calej-bazy-pacjentow-9203457.html",
-      "title": "ALERT Cyberatak na Enel-Med. Hakerzy uzyskali dostęp do danych pacjentów W wyniku incydentu bezpieczeństwa polegającego na nieuprawnionym dostępie do części infrastruktury informatycznej spółki Centrum Medyczne Enel-Med doszło do uzyskania dostępu do części danych pacjentów. Naruszenie może dotyczyć ok. 3 proc. całej bazy pacjentów - podała spółka w komunikacie.",
+      "title": "Fellowmind Poland dołącza do Grupy Euvic i rozpoczyna działalność jako Euvic Business Applications Grupa Euvic nabyła 51 proc. udziałów Fellowmind Poland, a menedżer Fellowmind Daniel Olejniczak objął pozostałe 49 proc. udziałów - poinformował Euvic w komunikacie prasowym. Dodano, że Fellowmind Poland stała się częścią Grupy Euvic i będzie działać pod nową nazwą Euvic Business Applications.",
       "content_html": "",
-      "date_published": "2026-09-28T06:28:00+02:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Perelki-i-gieldowe-pulapki-Dlaczego-debiut-nowego-indeksu-rozczarowal-inwestorow-9202845.html",
-      "url": "https://www.bankier.pl/wiadomosc/Perelki-i-gieldowe-pulapki-Dlaczego-debiut-nowego-indeksu-rozczarowal-inwestorow-9202845.html",
-      "title": "Perełki i giełdowe pułapki. Dlaczego debiut nowego indeksu rozczarował inwestorów? Rynek NewConnect od lat budzi skrajne emocje wśród inwestorów, stanowiąc z jednej strony obietnicę gigantycznych zysków, a z drugiej nierzadko przypominając finansowy Dziki Zachód. Zbliżający się do dwóch dekad swojego istnienia, jest miejscem, gdzie obok innowacyjnych biznesów z ogromnym potencjałem, którego akcje są chętnie handlowane między inwestorami, funkcjonują podmioty o wysoce wątpliwej jakości. Nowy indeks NCFIndex ma za zadanie odzwierciedlać koniunkturę wyłącznie w segmencie najbardziej rozwiniętych i aktywnie notowanych spółek i historyczne porównanie potwierdza lepszą formę elity NewConnect, nawet jeśli sam start notowań nowego indeksu nie wypadł najlepiej.",
-      "content_html": "",
-      "date_published": "2026-09-28T06:00:00+02:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Rekordowo-drogie-tankowce-I-mozna-bylo-na-tym-zarobic-9202617.html",
-      "url": "https://www.bankier.pl/wiadomosc/Rekordowo-drogie-tankowce-I-mozna-bylo-na-tym-zarobic-9202617.html",
-      "title": "Rekordowo drogie tankowce. I można było na tym zarobić O ile odbiorcy ropy naftowej muszą się liczyć z dodatkowymi kosztami, tak niektórzy inwestorzy mogli na tym wszystkim dobrze zarobić.",
-      "content_html": "",
-      "date_published": "2026-09-28T06:00:00+02:00",
+      "date_published": "2026-09-28T09:54:00+02:00",
       "source": "Bankier.pl"
     }
   ]
