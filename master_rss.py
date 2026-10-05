@@ -123,12 +123,18 @@ def parse_bankier_news(html: str, base_url: str) -> List[Dict]:
             if not time_tags:
                 continue
 
-            dt_str = time_tags[-1].get("datetime") or time_tags[-1].get_text(strip=True)
-            pub_dt = datetime.fromisoformat(dt_str)
-            if pub_dt.tzinfo is None:
-                pub_dt = TZ_WARSAW.localize(pub_dt)
-            else:
-                pub_dt = pub_dt.astimezone(TZ_WARSAW)
+            # Bankier podaje w atrybucie `datetime` offset +01:00 także w czasie letnim
+            # (05.10.2026: "11:41+01:00" przy wyświetlanym 11:41 CEST), więc latem każda
+            # depesza była o godzinę "z przyszłości". Tekst to czas polski — wierzymy jemu.
+            text = time_tags[-1].get_text(strip=True)
+            try:
+                pub_dt = TZ_WARSAW.localize(datetime.strptime(text, "%Y-%m-%d %H:%M"))
+            except ValueError:
+                pub_dt = datetime.fromisoformat(time_tags[-1].get("datetime") or text)
+                if pub_dt.tzinfo is None:
+                    pub_dt = TZ_WARSAW.localize(pub_dt)
+                else:
+                    pub_dt = pub_dt.astimezone(TZ_WARSAW)
 
             teaser_tag = content.find("p")
             teaser = ""
