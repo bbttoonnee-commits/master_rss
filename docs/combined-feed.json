@@ -5,11 +5,27 @@
   "home_page_url": "https://www.bankier.pl",
   "items": [
     {
+      "id": "https://biznes.pap.pl/wiadomosci/gospodarka/euro-w-ebc-11204-usd-i-17728-jpy",
+      "url": "https://biznes.pap.pl/wiadomosci/gospodarka/euro-w-ebc-11204-usd-i-17728-jpy",
+      "title": "Euro w EBC: 1,1204 USD i 177,28 JPY",
+      "content_html": "Europejski Bank Centralny (EBC) ustalił kurs euro 1,1204 USD i 177,28 JPY - podał bank na swojej stronie internetowej.",
+      "date_published": "2026-10-05T15:57:00+02:00",
+      "source": "PAP Biznes"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Statek-ze-zbozem-stanal-w-ogniu-Dwie-osoby-zginely-9207635.html",
       "url": "https://www.bankier.pl/wiadomosc/Statek-ze-zbozem-stanal-w-ogniu-Dwie-osoby-zginely-9207635.html",
       "title": "Zełenski: Rosjanie uderzyli dwoma dronami w statek na Morzu Czarnym",
       "content_html": "Dwie osoby zginęły, a 11 uratowano ze statku na Morzu Czarnym, na pokładzie którego wybuchł pożar - przekazało w poniedziałek ministerstwo spraw wewnętrznych Rumunii. Według rumuńskich mediów pożar na tureckim statku wybuchł po tym, gdy...",
       "date_published": "2026-10-05T15:56:00+02:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Bon-senioralny-obejmie-tysiace-osob-Padla-konkretna-liczba-9207700.html",
+      "url": "https://www.bankier.pl/wiadomosc/Bon-senioralny-obejmie-tysiace-osob-Padla-konkretna-liczba-9207700.html",
+      "title": "Bon senioralny obejmie tysiące osób. Padła konkretna liczba",
+      "content_html": "Według zapotrzebowania zgłoszonego przez samorządy bonem senioralnym w czwartym kwartale tego roku może zostać objętych ponad 18 tys. osób – poinformowała w Kielcach sekretarz stanu w KPRM Marzena Okła-Drewnowicz. Wcześniejsze rządowe szacunki...",
+      "date_published": "2026-10-05T15:49:00+02:00",
       "source": "Bankier.pl"
     },
     {
@@ -259,14 +275,6 @@
       "content_html": "Rosja zaczęła stosować w Ukrainie nowy odrzutowy dron uderzeniowy Dań-T o zasięgu 450 km i prędkości 500 km/h – poinformował amerykański magazyn „Forbes”. Konstrukcja ma utrudnić działanie ukraińskiej obrony powietrznej i zastąpić...",
       "date_published": "2026-10-05T13:14:00+02:00",
       "source": "Bankier.pl"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/firmy/dom-development-w-iii-kw-sprzedal-1251-lokali-netto",
-      "url": "https://biznes.pap.pl/wiadomosci/firmy/dom-development-w-iii-kw-sprzedal-1251-lokali-netto",
-      "title": "Dom Development w III kw. sprzedał 1.251 lokali netto",
-      "content_html": "Grupa Dom Development w trzecim kwartale 2026 roku sprzedała 1.251 lokali netto, w tym 569 lokali w Warszawie, 320 w Trójmieście, 205 we Wrocławiu oraz 157 w Krakowie - podał deweloper w komunikacie.\n\nSpółka przekazała w tym czasie 1.250 lokali, w tym 444 lokale w Warszawie, 271 w Trójmieście, 318 we Wrocławiu oraz 217 w Krakowie.\n\nJak podano, na wynik finansowy za trzeci kwartał 2026 roku wpływają głównie przekazania w projektach: Osiedle Wilno (238 lokali) i Dzielnica Mieszkaniowa Metro Zachód (169) w Warszawie, Osiedle Synteza (140 lokali) i Konstelacja (77) w Trójmieście, Hubska 100 (115 lokali) i Apartamenty nad Oławką (111) we Wrocławiu oraz Osiedle 29. Aleja (137 lokali) w Krakowie.\n\n*** Dane o sprzedaży mieszkań znajdują się w module Nieruchomości, dostępnym dla abonentów Serwisu Ekonomicznego PAP Biznes. (PAP Biznes)",
-      "date_published": "2026-10-05T13:02:00+02:00",
-      "source": "PAP Biznes"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Wojsko-wyrzuca-pantere-do-kosza-Miliard-zlotych-na-nowe-mundury-dla-armii-9207517.html",
@@ -744,7 +752,7 @@
       "id": "https://biznes.pap.pl/wiadomosci/firmy/firmy-medyczne-bez-odpowiedniej-cyber-ochrony-beda-mialy-ograniczenia",
       "url": "https://biznes.pap.pl/wiadomosci/firmy/firmy-medyczne-bez-odpowiedniej-cyber-ochrony-beda-mialy-ograniczenia",
       "title": "Firmy medyczne bez odpowiedniej cyber ochrony będą miały ograniczenia przetwarzania danych - MC",
-      "content_html": "Firmy medyczne nie będą mogły przetwarzać więcej niż 100 tysięcy rekordów, jeżeli się nie będą przeznaczać odpowiednio wysokich środków finansowych na cyberbezpieczeństwo, czy stosować Krajowego Syste",
+      "content_html": "Firmy medyczne nie będą mogły przetwarzać więcej niż 100 tysięcy rekordów, jeżeli się nie będą przeznaczać odpowiednio wysokich środków finansowych na cyberbezpieczeństwo, czy stosować Krajowego Systemu Cyberbezpieczeństwa - poinformował wicepremier, minister cyfryzacji Krzysztof Gawkowski, w rozmowie z Radiem Zet.\n\n\"Będziemy proponowali zmiany w prawie. Firmy medyczne nie będą mogły przetwarzać więcej niż 100 tysięcy rekordów, jeżeli się nie będą odpowiednio wysokich środków finansowych łożyły na cyberbezpieczeństwo, robiły audytu, stosowały Krajowego Systemu Cyberbezpieczeństwa. (...) Firmy mówią: to jest działanie przeciwko naszej konkurencyjności, to będzie osłabiało nasze możliwości. Ja odpowiadam: nie. To jest działanie w rozsądku bezpieczeństwa obywatelskiego\" - powiedział Gawkowski.\n\n\"Widzisz, że przetwarzasz dużo danych, to dużo pieniędzy wydajesz na ich zabezpieczenie. Koniec, kropka. Jeżeli ktoś uważa, że ma firmę i więcej musi zainwestować w reklamę czy marketing niż w cyberbezpieczeństwo, to znaczy, że wszystkich swoich klientów wystawia na niebezpieczeństwo\" - dodał. (PAP Biznes)",
       "date_published": "2026-10-05T08:29:00+02:00",
       "source": "PAP Biznes"
     },
@@ -752,7 +760,7 @@
       "id": "https://biznes.pap.pl/wiadomosci/rynki/dzien-na-rynkach-w-azji-na-gieldach-przewaga-wzrostow-indeksow-4",
       "url": "https://biznes.pap.pl/wiadomosci/rynki/dzien-na-rynkach-w-azji-na-gieldach-przewaga-wzrostow-indeksow-4",
       "title": "DZIEŃ NA RYNKACH: W Azji na giełdach przewaga wzrostów indeksów",
-      "content_html": "Na azjatyckich giełdach przeważają wzrosty indeksów. Inwestorzy rozważają wpływ spowolnienia na amerykańskim rynku pracy i wyższych rentowności obligacji skarbowych na ścieżkę stóp procentowych Fed. W",
+      "content_html": "Na azjatyckich giełdach przeważają wzrosty indeksów. Inwestorzy rozważają wpływ spowolnienia na amerykańskim rynku pracy i wyższych rentowności obligacji skarbowych na ścieżkę stóp procentowych Fed. W poniedziałek nie ma graczy z Chin i Korei Południowej.\n\nNa rynku walutowym USD jest silniejszy do euro i JPY. Bitcoin jest po ok. 86.100 USD za token. Złoto zyskuje po stracie we wrześniu ponad 6 proc. - informują maklerzy.\n\nW Japonii Nikkei 225 zyskuje 2,35 proc. Topix jest wyżej o 1,23 proc.\n\nW Chinach wolne, a 30.09. SCI zwyżkował o 0,31 proc., a CSI 300 zyskał 0,29 proc.\n\nW Hongkongu Hang Seng rośnie o 0,03 proc.\n\nW Korei Południowej wolne, a 2.10. KOSPI zwyżkował o 0,46 proc.\n\nW Indiach Sensex 30 zwyżkuje o 0,40 proc.\n\nIndeks PSEi na Filipinach zwyżkuje o 0,76 proc.\n\nW Dżakarcie wskaźnik Jakarta Comp rośnie o 0,03 proc.\n\nNowy tydzień na rynkach giełdowych w Azji rozpoczyna się od wzrostów indeksów.\n\nInwestorzy rozważają wpływ spowolnienia na amerykańskim rynku pracy i wyższych rentowności obligacji skarbowych na ścieżkę stóp procentowych Fed.\n\nRynek wycenia obecnie ok. 20-procentowe prawdopodobieństwo podwyżki stóp procentowych w USA na posiedzeniu Fed w tym miesiącu w porównaniu z 70 proc. tydzień temu. To reakcja na dane z rynku pracy.\n\nLiczba nowych miejsc pracy w sektorach pozarolniczych (payrolls) w Stanach Zjednoczonych wzrosła we wrześniu o 29 tys. Oczekiwano zwyżki o 89 tys. Miesiąc wcześniej liczba nowych miejsc pracy wzrosła o 133 tys., po korekcie ze 162 tys.\n\nStopa bezrobocia w USA wyniosła 4,2 proc., oczekiwano 4,1 proc. wobec 4,1 proc. przed miesiącem.\n\n\"Do tej pory wszystko kręciło się wokół wysokości stóp procentowych\" - powiedział Ryoutarou Sawada, starszy analityk Tokai Tokyo Intelligence Laboratory Co. Ltd.\n\n\"Teraz osiągnęliśmy punkt, w którym rynek może odetchnąć z ulgą. Kierunek rynku pod pewnymi względami znacznie się poprawił\" - dodał.\n\nNa nastroje rynkowych graczy wpływ ma też taniejąca ropa naftowa, co poprawia sentyment wśród inwestorów.\n\nTymczasem w najbliższych dniach inwestorzy poznają protokoły z wrześniowych posiedzeń głównych banków centralnych, amerykańskiego Fed i Europejskiego Banku Centralnego.\n\nW poniedziałek we Frankfurcie rozpoczyna się konferencja Europejskiego Banku Centralnego, poświęcona polityce pieniężnej. Przemówienie inauguracyjne wygłosi główny ekonomista banku Philip Lane. Wydarzenie potrwa do wtorku.\n\nW USA uwagę inwestorów zwróci publikacja protokołu z ostatniego posiedzenia amerykańskiej Rezerwy Federalnej (środa).\n\nDokument pozwoli poznać szczegóły dyskusji, która poprzedziła wrześniową, pierwszą od trzech lat podwyżkę stóp procentowych.\n\nW ubiegłym miesiącu Fed podniósł stopy procentowe o 25 pb. do przedziału 3,75-4,00 proc.\n\nProtokół z ostatniego posiedzenia opublikuje w tym tygodniu też Europejski Bank Centralny (czwartek). We wrześniu EBC podniósł stopy procentowe o 25 pb.\n\nW centrum uwagi inwestorów pozostanie rozwój sytuacji w Zatoce Perskiej i perspektywy dla rynku ropy.\n\nMiędzynarodowa Agencja Energetyczna (AIE) poinformowała, że od marca 2026 r. uwolniono ok. 325 mln baryłek rezerw ropy.\n\nTo efekt decyzji państw grupy G7 o uwolnieniu łącznie 400 mln baryłek ropy.\n\nNa rynku walutowym japoński jen kosztuje 158,05 za 1 USD, niżej o 0,1 proc.\n\nEuro jest po 1,1172 USD, w dół o 0,7 proc.\n\nBitcoin kosztuje 86.082 USD za token, w górę o 0,3 proc.\n\nRentowność 10-letnich UST wynosi 5,26 proc., bez zmian.\n\nZłoto jest wyceniane w transakcjach spot po 4.153 USD za uncję, wyżej o 0,3 proc.\n\nW Europie kontrakty na Stoxx 50 tracą 0,06 proc., na FTSE 100 zwyżkują o 0,34 proc., na CAC 40 idą niżej o 0,34 proc., a na DAX rosną o 0,15 proc.\n\nGłówne indeksy giełdowe w Europie zakończyły piątkową sesję na plusach.\n\nNa zamknięciu sesji indeks Euro Stoxx 50 wzrósł o 1,02 proc., niemiecki DAX zwyżkował o 1,17 proc., brytyjski FTSE poszedł w górę o 0,32 proc., a francuski CAC 40 wzrósł o 0,79 proc.\n\nW USA kontrakty na indeksy są w przedziale od -0,11 proc. do -0,05 proc.\n\nPiątkowa sesja na",
       "date_published": "2026-10-05T08:25:00+02:00",
       "source": "PAP Biznes"
     },
@@ -776,7 +784,7 @@
       "id": "https://biznes.pap.pl/wiadomosci/firmy/trans-polonia-ma-wylacznosc-negocjacyjna-dot-nabycia-podmiotu-z-branzy",
       "url": "https://biznes.pap.pl/wiadomosci/firmy/trans-polonia-ma-wylacznosc-negocjacyjna-dot-nabycia-podmiotu-z-branzy",
       "title": "Trans Polonia ma wyłączność negocjacyjną dot. nabycia podmiotu z branży logistycznej",
-      "content_html": "Trans Polonia zawarła umowę o wyłączności negocjacyjnej dotyczącą transakcji potencjalnego nabycia targetu działającego w branży logistycznej, z rocznym obrotem w zakresie od 400 do 600 mln euro - poi",
+      "content_html": "Trans Polonia zawarła umowę o wyłączności negocjacyjnej dotyczącą transakcji potencjalnego nabycia targetu działającego w branży logistycznej, z rocznym obrotem w zakresie od 400 do 600 mln euro - poinformowała spółka w komunikacie.\n\nZ komunikatu wynika, że w okresie wyłączności spółka jest jedynym podmiotem, który prowadzi ze sprzedającymi proces badania due diligence, negocjacji oraz innych czynności zmierzających do nabycia targetu, ale umowa nie zobowiązuje żadnej ze stron do zawarcia transakcji, a złożona przez spółkę oferta nabycia pozostaje niewiążąca.\n\nTrans Polonia będzie kontynuować proces badania due diligence i negocjacji warunków potencjalnej transakcji, co - jak podano - na obecnym etapie procesu, będzie się wiązać ze znaczącymi wydatkami po stronie spółki. (PAP Biznes)",
       "date_published": "2026-10-05T08:10:00+02:00",
       "source": "PAP Biznes"
     },
@@ -784,7 +792,7 @@
       "id": "https://biznes.pap.pl/wiadomosci/rynki/ceny-miedzi-w-londynie-rosna-po-danych-makro-z-usa",
       "url": "https://biznes.pap.pl/wiadomosci/rynki/ceny-miedzi-w-londynie-rosna-po-danych-makro-z-usa",
       "title": "Ceny miedzi w Londynie rosną po danych makro z USA",
-      "content_html": "Notowania miedzi na giełdzie metali LME w Londynie rosną w reakcji na dane makro z USA, które oddalają ryzyko podwyżki stóp procentowych przez Fed - informują maklerzy.",
+      "content_html": "Notowania miedzi na giełdzie metali LME w Londynie rosną w reakcji na dane makro z USA, które oddalają ryzyko podwyżki stóp procentowych przez Fed - informują maklerzy.\n\nMiedź w dostawach 3-miesięcznych na LME jest wyceniana wyżej o 0,6 proc. - po 14.347,00 USD za tonę, po zwyżce wcześniej o 0,9 proc.\n\nNa Comex w Nowym Jorku miedź kosztuje 6,5655 USD za funt, wyżej o 0,25 proc. Metal zyskał w tym roku na Comex 15,6 proc.\n\nNa giełdzie metali SHF w Szanghaju wolne, a 30.09. miedź była wyceniana po 109.570 juanów za tonę, po zwyżce o 0,25 proc. i po wzroście od początku roku o 11,9 proc. (święto narodowe w Chinach trwa od 1 do 7 października).\n\nInwestorzy na rynkach metali poczuli ulgę po słabszych od oczekiwań danych z amerykańskiego rynku pracy.\n\nLiczba nowych miejsc pracy w sektorach pozarolniczych (payrolls) w Stanach Zjednoczonych wzrosła we wrześniu o 29 tys. Oczekiwano zwyżki o 89 tys. Miesiąc wcześniej liczba nowych miejsc pracy wzrosła o 133 tys., po korekcie z 162 tys.\n\nStopa bezrobocia w USA wyniosła 4,2 proc., oczekiwano 4,1 proc. wobec 4,1 proc. przed miesiącem.\n\nRynek wycenia obecnie ok. 20-procentowe prawdopodobieństwo podwyżki stóp procentowych w USA na posiedzeniu Fed w tym miesiącu w porównaniu z 70 proc. tydzień temu.\n\nPodwyżka stóp procentowych przez Fed byłaby niekorzystna dla takich aktywów, jak m.in. surowce, w tym miedź.\n\nNa zakończenie poprzedniej sesji miedź na LME kosztowała 14.258,50 USD za tonę, wyżej o 15 USD.\n\nWe wrześniu cena miedzi na LME wzrosła do rekordowych 14.875 USD za tonę.\n\nW ub. tygodniu miedź zanotowała najmocniejszą tygodniową stratę od marca 2026 r.\n\nOd początku 2026 r. cena miedzi na LME wzrosła o 14,8 proc. (PAP Biznes)",
       "date_published": "2026-10-05T08:08:00+02:00",
       "source": "PAP Biznes"
     },
@@ -808,7 +816,7 @@
       "id": "https://biznes.pap.pl/wiadomosci/rynki/na-rynkach-paliw-ropa-tanieje-po-waznej-decyzji-arabii-saudyjskiej",
       "url": "https://biznes.pap.pl/wiadomosci/rynki/na-rynkach-paliw-ropa-tanieje-po-waznej-decyzji-arabii-saudyjskiej",
       "title": "Na rynkach paliw ropa tanieje po ważnej decyzji Arabii Saudyjskiej",
-      "content_html": "Ropa na globalnych rynkach tanieje w reakcji na obniżenie przez Arabię Saudyjską cen swojego surowca dla odbiorców w Azji, bo wzrósł napływ ropy z Zatoki Perskiej - podają maklerzy.",
+      "content_html": "Ropa na globalnych rynkach tanieje w reakcji na obniżenie przez Arabię Saudyjską cen swojego surowca dla odbiorców w Azji, bo wzrósł napływ ropy z Zatoki Perskiej - podają maklerzy.\n\nBaryłka ropy West Texas Intermediate w dostawach na XI jest na NYMEX w Nowym Jorku po 90,28 USD - niżej o 0,91 proc.\n\nBrent na ICE na XI jest wyceniana po 101,86 USD za baryłkę, w dół o 0,38 proc.\n\nRopa tanieje po tym, jak Arabia Saudyjska zdecydowała o obniżeniu cen swojego surowca dla odbiorców w Azji w związku ze zwiększonym napływem ropy z Zatoki Perskiej.\n\nW październiku koncern Saudi Aramco obniży ceny ropy Arab Light dla nabywców w Azji o 5 USD za baryłkę poniżej regionalnego poziomu odniesienia. Będzie to zarazem najniższy poziom cen ropy Arab Light od 2020 r.\n\nDecyzja ta jest całkowicie sprzeczna z oczekiwaniami traderów i rafinerii naftowych, bo spodziewano się wzrostu cen Arab Light o 5 USD.\n\nTymczasem w Jemenie rząd ogłosił rozpoczęcie ofensywy przeciwko Huti – podał w niedzielę Reuters.\n\nZ kolei wspierani przez Iran rebelianci poinformowali o atakach na obiekty saudyjskiego koncernu naftowego Aramco.\n\nW niedzielę Huti poinformowali o wystrzeleniu pocisków balistycznych i dronów w kierunku obiektów saudyjskiego koncernu naftowego Aramco w Rijadzie i bogatym w ropę rejonie Churajs na wschodzie kraju.\n\nRzecznik wojskowy Huti Jahja Sari przekazał, że atak był odwetem za saudyjskie uderzenia na kontrolowane przez ugrupowanie obszary Jemenu.\n\n\"Rurociągi, rafinerie i infrastruktura załadunkowa ropy nadal są narażone na ataki ze strony Hutich\" - powiedziała June Goh, starsza analityczka rynku paliw w Sparta Commodities SA.\n\n\"Może to utrudnić Arabii Saudyjskiej utrzymanie produkcji ropy na wysokim poziomie, aby móc zaopatrywać rynek trasą przez Morze Czerwone\" - dodała.\n\nTymczasem w sobotę Międzynarodowa Agencja Energetyczna (AIE) poinformowała, że od marca 2026 r. uwolniono ok. 325 mln baryłek rezerw ropy. To efekt decyzji państw grupy G7 o uwolnieniu łącznie 400 mln baryłek ropy.\n\n\"Około 325 mln baryłek uwolniono do tej pory w ramach wspólnej akcji zrealizowanej i ogłoszonej przez AIE 11 marca. To około 80 proc. obiecanych wówczas 400 mln baryłek\" - przekazała agencja w komunikacie.\n\nW piątek prezydent Francji Emmanuel Macron zwołał zdalne spotkanie przywódców państw G7, na którym postanowiono o uwolnieniu zapasów na poziomie 100 mln baryłek paliwa dieslowskiego i innych paliw.\n\nWarunkiem jest jednak niewprowadzanie zakazu eksportu oleju napędowego, czym groziły w ostatnich dniach USA, wywierając presję na swoich partnerów.\n\nPrezydent USA Donald Trump oświadczył w piątek, że takie działanie nigdy nie było tematem dyskusji.\n\nW weekend główne kraje OPEC+, na czele z Arabią Saudyjską i Rosją, zgodziły się tymczasem na utrzymanie dotychczasowych kwot dostaw ropy bez zmian na przyszły miesiąc w czasie gdy konflikt na Bliskim Wschodzie nadal ogranicza wydobycie znacznej części zasobów ropy przez kraje należące do tej grupy.\n\nAnalitycy wskazują, że wojna na Bliskim Wschodzie osłabiła skutki wszelkich decyzji podejmowanych przez kraje OPEC+, ponieważ produkcja ropy w głównych państwach kartelu, takich jak Arabia Saudyjska, Irak i Kuwejt, pozostaje obecnie znacznie poniżej poziomów notowanych przez wybuchem konfliktu.\n\nSiedem krajów z OPEC+ spotka się ponownie 1 listopada w formie online, a polityka całego sojuszu w sprawie dostaw ropy w przyszłym roku ma zostać ustalona na \"pełnym\" spotkaniu ministerialnym, które odbędzie się 29 listopada. (PAP Biznes)",
       "date_published": "2026-10-05T07:52:00+02:00",
       "source": "PAP Biznes"
     },
@@ -1066,14 +1074,6 @@
       "title": "Eskalacja w Jemenie. Arabia Saudyjska sypie milionami na wojnę, Huti odpowiadają dronam",
       "content_html": "Rząd Jemenu ogłosił rozpoczęcie ofensywy przeciwko Huti – podał w niedzielę Reuters. Z kolei wspierani przez Iran rebelianci poinformowali o atakach na obiekty saudyjskiego koncernu naftowego Aramco. Rijad przeznaczy blisko 60 mln dolarów na...",
       "date_published": "2026-10-04T18:33:00+02:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Mlode-pokolenie-najostrzej-krytykuje-polskie-szkoly-System-nie-uczy-praktycznych-umiejetnosci-9206408.html",
-      "url": "https://www.bankier.pl/wiadomosc/Mlode-pokolenie-najostrzej-krytykuje-polskie-szkoly-System-nie-uczy-praktycznych-umiejetnosci-9206408.html",
-      "title": "Młode pokolenie najostrzej krytykuje polskie szkoły. System nie uczy praktycznych umiejętności",
-      "content_html": "Polacy oczekują, że szkoła zadba o wszystko: wyposaży w wiedzę, pozwoli zdobyć umiejętności, wychowa czy uwrażliwi na drugiego człowieka, zapewniając przy tym dobrą atmosferę oraz sprawiedliwe traktowanie uczniów...",
-      "date_published": "2026-10-04T18:00:00+02:00",
       "source": "Bankier.pl"
     }
   ]
