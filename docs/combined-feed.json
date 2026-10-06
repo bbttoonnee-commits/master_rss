@@ -5,12 +5,68 @@
   "home_page_url": "https://www.bankier.pl",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/Nagly-odwrot-amerykanskich-bombowcow-z-Europy-USA-obawiaja-sie-ataku-Iranu-9208131.html",
+      "url": "https://www.bankier.pl/wiadomosc/Nagly-odwrot-amerykanskich-bombowcow-z-Europy-USA-obawiaja-sie-ataku-Iranu-9208131.html",
+      "title": "Nagły odwrót amerykańskich bombowców z Europy. USA obawiają się ataku Iranu",
+      "content_html": "USA niespodziewanie wycofały 12 bombowców B-1 z bazy RAF w Fairford w południowej Anglii na podstawie informacji dotyczących potencjalnego ataku dronowego, zleconego przez irański Korpus Strażników Rewolucji Islamskiej - przekazał dziennik...",
+      "date_published": "2026-10-06T12:20:00+02:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Ciaglosc-dowodzenia-w-polskiej-armii-Gen-Wieslaw-Kukula-nadal-na-czele-Sztabu-Generalnego-9208083.html",
+      "url": "https://www.bankier.pl/wiadomosc/Ciaglosc-dowodzenia-w-polskiej-armii-Gen-Wieslaw-Kukula-nadal-na-czele-Sztabu-Generalnego-9208083.html",
+      "title": "Ciągłość dowodzenia w polskiej armii. Gen. Wiesław Kukuła nadal na czele Sztabu Generalnego",
+      "content_html": "Prezydent Karol Nawrocki postanowił mianować z dniem 10 października gen. Wiesława Kukułę na kolejną, trzyletnią kadencję na stanowisku Szefa Sztabu Generalnego Wojska Polskiego- poinformował szef BBN Bartosz Grodecki.",
+      "date_published": "2026-10-06T12:19:00+02:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Zarzuty-za-zanizanie-cen-paliw-przed-wyborami-Byli-menedzerowie-Orlenu-zatrzymani-9208129.html",
+      "url": "https://www.bankier.pl/wiadomosc/Zarzuty-za-zanizanie-cen-paliw-przed-wyborami-Byli-menedzerowie-Orlenu-zatrzymani-9208129.html",
+      "title": "Zarzuty za zaniżanie cen paliw. Menedżerowie Orlenu zatrzymani",
+      "content_html": "ABW zatrzymała pięciu byłych i obecnych menadżerów Orlenu, w tym byłego członka zarządu spółki z lat 2018–2024. Przedstawiono im zarzuty w śledztwie dotyczącym bezpodstawnego zaniżania cen paliw w okresie od sierpnia do listopada 2023 r...",
+      "date_published": "2026-10-06T12:07:00+02:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Glapinski-przed-Trybunalem-Stanu-Komisja-zakonczyla-zbieranie-dowodow-9208120.html",
+      "url": "https://www.bankier.pl/wiadomosc/Glapinski-przed-Trybunalem-Stanu-Komisja-zakonczyla-zbieranie-dowodow-9208120.html",
+      "title": "Glapiński przed Trybunałem Stanu? Komisja zakończyła zbieranie dowodów",
+      "content_html": "Sejmowa Komisja Odpowiedzialności Konstytucyjnej zakończyła zbieranie dowodów i przesłuchania świadków w związku ze wstępnym wnioskiem o postawienie prezesa NBP przed Trybunałem Stanu – poinformował PAP Biznes przewodniczący komisji Zdzisław...",
+      "date_published": "2026-10-06T12:00:00+02:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Rejestracja-auta-w-mObywatelu-Zamiast-urzedu-czeka-cie-okienko-na-poczcie-9208071.html",
+      "url": "https://www.bankier.pl/wiadomosc/Rejestracja-auta-w-mObywatelu-Zamiast-urzedu-czeka-cie-okienko-na-poczcie-9208071.html",
+      "title": "Kierowców czeka rewolucja w mObywatelu. Auto zarejestrujesz bez wychodzenia z domu, ale jest haczyk",
+      "content_html": "Od 18 stycznia posiadacze aplikacji mObywatel będą mogli zarejestrować samochód bez wychodzenia z domu. Tablice rejestracyjne będą wysyłane za pośrednictwem Poczty Polskiej. Zmiany w przepisach potwierdził Radosław Maćkiewicz, dyrektor Centralnego...",
+      "date_published": "2026-10-06T11:59:00+02:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Duze-zwolnienia-w-airBaltic-Prace-moze-stracic-700-osob-9208076.html",
+      "url": "https://www.bankier.pl/wiadomosc/Duze-zwolnienia-w-airBaltic-Prace-moze-stracic-700-osob-9208076.html",
+      "title": "Duże zwolnienia w airBaltic. Pracę może stracić 700 osób",
+      "content_html": "Łotewska narodowa linia lotnicza airBaltic kontynuuje realizację nowego planu biznesowego, stopniowo dostosowując firmę do przyszłego modelu działalności. Jednym z elementów planu jest przegląd zatrudnienia, tak aby struktura organizacyjna i...",
+      "date_published": "2026-10-06T11:55:00+02:00",
+      "source": "Bankier.pl"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/mBank-szacuje-koszty-ryzyka-prawnego-zw-z-kredytami-walutowymi-w-III-kw-na-78-mln-zl-9208117.html",
       "url": "https://www.bankier.pl/wiadomosc/mBank-szacuje-koszty-ryzyka-prawnego-zw-z-kredytami-walutowymi-w-III-kw-na-78-mln-zl-9208117.html",
       "title": "Koszty walutowe mBanku. Prawie 80 mln zł uderzy w zyski za trzeci kwartał",
       "content_html": "mBank szacuje koszty ryzyka prawnego związanego z kredytami indeksowanymi do walut obcych w III kwartale 2026 r. na 78 mln zł - podał bank w komunikacie.",
       "date_published": "2026-10-06T11:52:00+02:00",
       "source": "Bankier.pl"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/firmy/mbank-szacuje-koszty-ryzyka-prawnego-zw-z-kredytami-walutowymi-w-iii-kw-na-78-mln",
+      "url": "https://biznes.pap.pl/wiadomosci/firmy/mbank-szacuje-koszty-ryzyka-prawnego-zw-z-kredytami-walutowymi-w-iii-kw-na-78-mln",
+      "title": "mBank szacuje koszty ryzyka prawnego zw. z kredytami walutowymi w III kw. na 78 mln zł",
+      "content_html": "mBank szacuje koszty ryzyka prawnego związanego z kredytami indeksowanymi do walut obcych w III kwartale 2026 r. na 78 mln zł - podał bank w komunikacie.\n\nDodano, że wynikają one z aktualizacji parametrów modelowych.\n\nOstateczna wartość kosztów ryzyka prawnego związanego z kredytami indeksowanymi do walut obcych w III kwartale zostanie podana w sprawozdaniu finansowym za III kwartał 2026 r., którego publikacja planowana jest na 28 października 2026 r. (PAP Biznes)",
+      "date_published": "2026-10-06T11:50:00+02:00",
+      "source": "PAP Biznes"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Lokum-Deweloper-sprzedal-w-III-kw-2026-roku-74-lokale-wobec-20-przed-rokiem-9208110.html",
@@ -21,12 +77,28 @@
       "source": "Bankier.pl"
     },
     {
+      "id": "https://biznes.pap.pl/wiadomosci/firmy/lokum-deweloper-sprzedal-w-iii-kw-2026-roku-74-lokale-wobec-20-przed-rokiem",
+      "url": "https://biznes.pap.pl/wiadomosci/firmy/lokum-deweloper-sprzedal-w-iii-kw-2026-roku-74-lokale-wobec-20-przed-rokiem",
+      "title": "Lokum Deweloper sprzedał w III kw. 2026 roku 74 lokale wobec 20 przed rokiem",
+      "content_html": "Grupa Lokum Deweloper sprzedała w trzecim kwartale 2026 roku 74 lokale wobec 20 lokali przed rokiem - podała spółka w komunikacie. Grupa rozpoznała w wyniku tego okresu 69 lokali wobec 18 lokali w analogicznym okresie poprzedniego roku.\n\nPodano, że na koniec trzeciego kwartału 2026 roku Grupa miała zawarte 64 umowy rezerwacyjne.\n\n* Dane o sprzedaży mieszkań znajdują się w module Nieruchomości, dostępnym dla abonentów Serwisu Ekonomicznego PAP Biznes. (PAP Biznes)",
+      "date_published": "2026-10-06T11:46:00+02:00",
+      "source": "PAP Biznes"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Trzesienie-ziemi-w-Berlinie-Byly-szef-niemieckiego-wywiadu-zatrzymany-za-szpiegostwo-9208100.html",
       "url": "https://www.bankier.pl/wiadomosc/Trzesienie-ziemi-w-Berlinie-Byly-szef-niemieckiego-wywiadu-zatrzymany-za-szpiegostwo-9208100.html",
       "title": "Trzęsienie ziemi w Berlinie. Były szef niemieckiego wywiadu zatrzymany za szpiegostwo",
       "content_html": "Były szef Federalnej Służby Wywiadowczej (BND) Niemiec August Hanning został zatrzymany we wtorek rano pod zarzutem szpiegostwa – poinformowała niemiecka prokuratura federalna. W sprawie zatrzymano też byłego bliskiego współpracownika Hanninga...",
       "date_published": "2026-10-06T11:37:00+02:00",
       "source": "Bankier.pl"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/konsument/import-uzywanych-aut-do-polski-we-wrzesniu-spadl-o-44-proc-rdr-samar",
+      "url": "https://biznes.pap.pl/wiadomosci/konsument/import-uzywanych-aut-do-polski-we-wrzesniu-spadl-o-44-proc-rdr-samar",
+      "title": "Import używanych aut do Polski we wrześniu spadł o 4,4 proc. rdr - Samar",
+      "content_html": "Import używanych aut do Polski we wrześniu spadł o 4,4 proc. rdr do 77.841 sztuk - podał Instytut Samar.\n\nOd początku roku do Polski sprowadzono 680.206 szt., o 6,3 proc. mniej rdr.\n\nTrend 12-miesięczy spadł do poziomu 902,7 tys. aut, podczas gdy na koniec września 2025 roku wynosił 965,0 tys. sztuk, co oznacza, że przez 12 miesięcy tak liczony trend zmniejszył się o ponad 62 tys. aut.\n\n\"Jeżeli trend się utrzyma wynik roczny spadnie poniżej pułapu 900 tys. szt. Pomijając okres pandemii (lata 2020 - 2023), będzie to najniższy wynik od 2015 roku (862.241 szt.)\" - napisano. (PAP Biznes)",
+      "date_published": "2026-10-06T11:34:00+02:00",
+      "source": "PAP Biznes"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Tucker-Carlson-uzasadnial-napasc-Hitlera-na-Polske-Rzad-zapowiada-reakcje-9207996.html",
@@ -42,14 +114,6 @@
       "title": "Drony uderzyły w 2 statki na Morzu Czarnym. Bułgaria informuje o ataku",
       "content_html": "Dwa statki handlowe zostały trafione przez drony w bułgarskiej wyłącznej strefie ekonomicznej na Morzu Czarnym, jeden z nich zatonął – poinformowała we wtorek rano agencja Reutera.",
       "date_published": "2026-10-06T11:13:00+02:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Ciaglosc-dowodzenia-w-polskiej-armii-Gen-Wieslaw-Kukula-nadal-na-czele-Sztabu-Generalnego-9208083.html",
-      "url": "https://www.bankier.pl/wiadomosc/Ciaglosc-dowodzenia-w-polskiej-armii-Gen-Wieslaw-Kukula-nadal-na-czele-Sztabu-Generalnego-9208083.html",
-      "title": "Ciągłość dowodzenia w polskiej armii. Gen. Wiesław Kukuła nadal na czele Sztabu Generalnego",
-      "content_html": "Prezydent Karol Nawrocki postanowił z dniem 10 października mianować generała Wiesława Kukułę na kolejną kadencję na stanowisko Szefa Sztabu Generalnego Wojska Polskiego – poinformował we wtorek szef Biura Bezpieczeństwa Narodowego Bartosz...",
-      "date_published": "2026-10-06T11:10:00+02:00",
       "source": "Bankier.pl"
     },
     {
@@ -229,22 +293,6 @@
       "source": "Bankier.pl"
     },
     {
-      "id": "https://biznes.pap.pl/wiadomosci/gospodarka/dzien-na-fxfi-krajowe-aktywa-pod-wplywem-czynnikow-technicznych-i-otoczenia",
-      "url": "https://biznes.pap.pl/wiadomosci/gospodarka/dzien-na-fxfi-krajowe-aktywa-pod-wplywem-czynnikow-technicznych-i-otoczenia",
-      "title": "DZIEŃ NA FX/FI: Krajowe aktywa pod wpływem czynników technicznych i otoczenia zagranicznego",
-      "content_html": "Wtorkowa sesja na krajowym rynku finansowym pozostanie pod wpływem czynników technicznych oraz otoczenia zagranicznego - wskazują w porannych raportach ekonomiści.\n\n\"Wtorkowa sesja na krajowym rynku finansowym może ponownie pozostawać pod wpływem czynników technicznych oraz otoczenia zagranicznego. Dziś rozpoczyna się posiedzenie RPP, kluczowa będzie jednak czwartkowa konferencja prezesa NBP, A. Glapińskiego. W związku z tym wpływ samego posiedzenia na rynek powinien być ograniczony\" - wskazują ekonomiści Banku Millennium.\n\n\"Na niekorzyść krajowej waluty może oddziaływać powrót kursu EUR/USD do spadków, w reakcji na słaby odczyt zamówień w niemieckim przemyśle. Para pozostaje w silnym trendzie spadkowym, wspieranym przez wyprzedaż francuskiego długu w związku z obawami o sytuację fiskalną. Mimo to szansa na przebicie poziomu 4,39 na EUR/PLN pozostaje, naszym zdaniem, niewielka. W przypadku USD/PLN kluczowym poziomem oporu jest 3,93\" - dodają.\n\nEkonomiści PKO BP wskazują, że w centrum uwagi rynków pozostaną ceny ropy, wpływające na oczekiwania inflacyjne i wyceny stóp, oraz notowania francuskich obligacji, będące barometrem obaw o wiarygodność fiskalną kraju.\n\n\"Zakładamy, że mimo kolejnych ataków na tankowce w rejonie cieśniny Ormuz napięcia nie ulegną eskalacji, co powinno sprzyjać stabilizacji cen ropy Brent w pobliżu 100 USD/b. Zakładamy też, że w krótkim terminie najsilniejsza część impulsu związanego z obawami o wiarygodność fiskalną Francji mogła już przejść przez rynek, dlatego jego negatywny wpływ na europejskie aktywa, a pośrednio także waluty CEE-3, powinien stopniowo słabnąć\" - napisano w raporcie PKO BP.\n\n\"Podtrzymujemy zatem oczekiwania stabilizacji EUR/PLN w przedziale 4,36-4,39, natomiast dla USD/PLN widzimy przestrzeń do korekty w kierunku 3,86-3,88\" - dodano.\n\n\"Polskie obligacje skarbowe podczas dzisiejszej sesji mogą być wspierane przez niższe ceny ropy naftowej oraz stabilizację rentowności obligacji bazowych. Dochodowość amerykańskich obligacji 10-letnich utrzymuje się w okolicy 5,30 proc. W przypadku rentowności polskiej 10-latki nadal widzimy przestrzeń do odreagowania w kierunku 6,28 proc.\" - prognozują ekonomiści Banku Millennium.\n\nEkonomiści PKO BP oczekują stabilizacji rentowności 2-letnich polskich obligacji w pobliżu 4,8 proc., a 10-letnich w okolicach 6,3 proc.\n\n\"Inwestorzy w kraju będą przede wszystkim czekać na środową decyzję RPP oraz czwartkową konferencję prasową prezesa NBP A.Glapińskiego. Według najnowszej ankiety PAP, ekonomiści dostrzegają niewielkie prawdopodobieństwo podwyżki stóp procentowych NBP w 2026, podczas gdy rynek wycenia wzrost stóp o 25pb do końca tego roku\" - podają ekonomiści.\n\n\"Podczas wtorkowej sesji nie zaplanowano publikacji danych makroekonomicznych, które mogłyby istotnie zmienić nastroje inwestorów. Za stabilizacją notowań na globalnym rynku stopy procentowej przemawiać może również brak wyraźniejszych zmian cen surowców energetycznych oraz przynajmniej krótkoterminowe uspokojenie sytuacji wokół Francji\" - dodają.",
-      "date_published": "2026-10-06T09:27:00+02:00",
-      "source": "PAP Biznes"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/rynki/dzien-na-rynkach-w-europie-na-gieldach-3-dzien-ze-wzrostami-indeksow",
-      "url": "https://biznes.pap.pl/wiadomosci/rynki/dzien-na-rynkach-w-europie-na-gieldach-3-dzien-ze-wzrostami-indeksow",
-      "title": "DZIEŃ NA RYNKACH: W Europie na giełdach 3 dzień ze wzrostami indeksów",
-      "content_html": "Na europejskich giełdach indeksy rosną 3. dzień. Ogólnie wskaźniki giełdowe na świecie zmierzają do rekordowych poziomów, a inwestorzy ignorują obawy związane z wysokimi cenami ropy naftowej i rentownościami obligacji skarbowych na poziomach niewidzianych od wielu dziesięcioleci. Na rynku walutowym USD jest stabilny wobec euro. Bitcoin jest po ok. 85.500 USD za token. Złoto tanieje - informują maklerzy.\n\nWskaźnik Stoxx 600 Europe zwyżkuje o 0,53 proc. Od początku roku indeks zyskał 7,6 proc.\n\nNajlepiej radzi sobie we wtorek sektor spółek bankowych i firm związanych z ochroną zdrowia.\n\nClarkson zyskuje 8,4 proc. Spółka spodziewa się, że jej zysk przed opodatkowaniem za cały rok obrotowy wyniesie nie mniej niż 135 mln GBP. Firma podała, że jej obroty w sierpniu i we wrześniu były bardzo mocne.\n\nGenmab zwyżkuje o 8,5 proc. po podaniu pozytywnych danych o przychodach spółki.\n\nAnalitycy informują, że nastawienie graczy do rynków akcji pozostaje dobre, a inwestorzy w dużej mierze zignorowali podwyżkę stóp procentowych w USA we wrześniu - o 25 pb., wysokie koszty energii i odnowione obawy o inflację, który wywołały gwałtowny wzrost rentowności obligacji skarbowych.\n\nGracze wolą skupić się na wysokich zyskach firm, stabilnych wydatkach konsumpcyjnych i wzroście inwestycji w sztuczną inteligencję.\n\n\"Wygląda to jak +ucieczka w jakość+ w odpowiedzi na rosnące rentowności papierów skarbowych\" - powiedział Hitoshi Asaoka, główny strateg w Asset Management One.\n\n\"Gotówka napływa do firm, które mają wysokie zyski, są w niewielkim stopniu uzależnione od kredytów i wykazują stosunkowo niedużą wrażliwość na cykle gospodarcze\" - dodał.\n\nInwestorzy analizują tymczasem dane makro z największej europejskiej gospodarki.\n\nZamówienia w niemieckim przemyśle w sierpniu spadły o 10,6 proc. mdm. Analitycy spodziewali się, że zamówienia mdm spadną o 1,0 proc., wobec +3,2 proc. miesiąc wcześniej.\n\nTo najmocniejszy spadek mdm od stycznia 2026 r.\n\nSpadek ten spowodowany był przede wszystkim zmniejszeniem liczby dużych zamówień, a po wyeliminowaniu tego czynnika wskaźnik całościowo spadł zaledwie o 0,1 proc.\n\nW ujęciu rdr zamówienia w niemieckim przemyśle wzrosły o 2,7 proc., po +14,0 proc. miesiąc wcześniej. Tu analitycy prognozowali +13,1 proc.\n\nAnalitycy informują, że do największych zagrożeń dla perspektyw gospodarczych należy niewątpliwie zaliczyć trwającą wojnę na Bliskim Wschodzie, która może skutkować wzrostem kosztów energii w przypadku nasilenia się konfliktu w regionie.\n\nDo tego utrzymuje się zacięta konkurencja gospodarek Europy z Chinami, a Europejski Bank Centralny zamierza jeszcze bardziej podnieść stopy procentowe, aby ograniczyć presję inflacyjną.\n\nStratedzy Goldman Sachs oceniają, że akcje europejskie stoją w obliczu wielu ryzyk, w tym warunków finansowych we Francji, obaw fiskalnych we Włoszech i przedterminowych wyborów parlamentarnych w Hiszpanii.\n\nWe wtorek inwestorzy będą wsłuchiwać się w wypowiedzi bankierów centralnych z EBC, BoE i Fed (Rehn, Mann, Cipollone, Williams, Musalem, Bowman, Schmid).\n\nNa rynku walutowym japoński jen kosztuje 158,08 za 1 USD, w dół o 0,1 proc.\n\nBitcoin kosztuje 85.517 USD za token, w dół o 0,3 proc.\n\nRentowność 10-letnich UST wynosi 5,31 proc., bez zmian.\n\nZłoto jest wyceniane w transakcjach spot po 4.121 USD za uncję, niżej o 0,4 proc.\n\nBaryłka ropy West Texas Intermediate jest na NYMEX w Nowym Jorku po 88,49 USD - niżej o 1,05 proc.\n\nBrent na ICE jest wyceniana po 99,69 USD za baryłkę, niżej o 0,63 proc. (PAP Biznes)",
-      "date_published": "2026-10-06T09:26:00+02:00",
-      "source": "PAP Biznes"
-    },
-    {
       "id": "https://www.bankier.pl/wiadomosc/Strach-przed-zima-winduje-ceny-gazu-Magazyny-w-Europie-pustoszeja-9208004.html",
       "url": "https://www.bankier.pl/wiadomosc/Strach-przed-zima-winduje-ceny-gazu-Magazyny-w-Europie-pustoszeja-9208004.html",
       "title": "Strach przed zimą winduje ceny gazu. Magazyny w Europie pustoszeją",
@@ -267,14 +315,6 @@
       "content_html": "Urząd Patentowy udzielił ML System patentu na wynalazek pt. „Zestaw elementów do krycia dachu”, obejmującego szklane dachówki fotowoltaiczne ze zintegrowanymi ogniwami PV oraz dedykowany system montażu - podała spółka w komunikacie prasowym...",
       "date_published": "2026-10-06T09:16:00+02:00",
       "source": "Bankier.pl"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/przemysl/ml-system-otrzymal-patent-na-zestaw-elementow-wykorzystywanych-w-pokryciu",
-      "url": "https://biznes.pap.pl/wiadomosci/przemysl/ml-system-otrzymal-patent-na-zestaw-elementow-wykorzystywanych-w-pokryciu",
-      "title": "ML System otrzymał patent na zestaw elementów wykorzystywanych w pokryciu dachowym",
-      "content_html": "Urząd Patentowy udzielił ML System patentu na wynalazek pt. „Zestaw elementów do krycia dachu”, obejmującego szklane dachówki fotowoltaiczne ze zintegrowanymi ogniwami PV oraz dedykowany system montażu - podała spółka w komunikacie prasowym.\n\nPrzedmiotem patentu jest sposób wykonania, mocowania i uszczelnienia (szczelność i odprowadzenie wody zapewniają specjalne uszczelki) pokrycia dachowego wykonanego z dachówki fotowoltaicznej na tzw. „zakładkę”.\n\nPodano, że spółka, która posiada już patent na sposób wytwarzania dachówki fotowoltaicznej Photonroof, tym samym dopełnia kompletność systemu pokrycia dachowego stanowiącego alternatywę dla dachówki ceramicznej i klasycznej fotowoltaiki.\n\nWynalazek wpisuje się w ogłoszoną w 2025 strategię ukierunkowaną na produkty standaryzowane, w tym dachówkę fotowoltaiczną. W 2025 roku spółka sprzedała 1.716 m kw. fotowoltaicznej dachówki ceramicznej. Aktualnie portfel zamówień na dachówkę przekracza 23.000 m kw., co oznacza ponad dwunastokrotny wzrost wolumenu w ujęciu rok do roku. (PAP Biznes)",
-      "date_published": "2026-10-06T09:14:00+02:00",
-      "source": "PAP Biznes"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Koscielne-dzwony-poza-normami-halasu-Poslowie-PiS-chca-zmiany-przepisow-9207969.html",
@@ -1050,46 +1090,6 @@
       "title": "Dino Polska otworzyło od stycznia do końca września 2026 r. 256 nowych sklepów",
       "content_html": "Dino Polska otworzyło od stycznia do końca września 2026 roku 256 nowych sklepów. Na koniec września sieć liczyła 3.283 sklepy wobec 2.933 rok wcześniej - poinformowała spółka w komunikacie na stronie internetowej.",
       "date_published": "2026-10-05T13:24:00+02:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Ceny-paliw-w-gore-i-w-dol-Minister-Energii-podal-maksymalne-stawki-na-wtorek-9207577.html",
-      "url": "https://www.bankier.pl/wiadomosc/Ceny-paliw-w-gore-i-w-dol-Minister-Energii-podal-maksymalne-stawki-na-wtorek-9207577.html",
-      "title": "Ceny paliw w górę i w dół. Minister Energii podał maksymalne stawki na wtorek",
-      "content_html": "We wtorek litr benzyny 95 ma kosztować nie więcej niż 6,79 zł, benzyny 98 - 7,66 zł, a oleju napędowego - 7,82 zł - wynika z poniedziałkowego obwieszczenia Ministra Energii. Oznacza to, że ceny maksymalne benzyny będą wyższe niż obecnie...",
-      "date_published": "2026-10-05T13:23:00+02:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Lukoil-na-sprzedaz-w-ramach-rozmow-USA-Rosja-Kreml-odmawia-komentarza-9207542.html",
-      "url": "https://www.bankier.pl/wiadomosc/Lukoil-na-sprzedaz-w-ramach-rozmow-USA-Rosja-Kreml-odmawia-komentarza-9207542.html",
-      "title": "Łukoil na sprzedaż w ramach rozmów USA-Rosja? Kreml odmawia komentarza",
-      "content_html": "Kreml odmówił w poniedziałek skomentowania doniesień „New York Timesa”, że rozmowy USA i Rosji w sprawie wojny w Ukrainie rozszerzono o wielomiliardową umowę dotyczącą sektora naftowego - podał Reuters.",
-      "date_published": "2026-10-05T13:22:00+02:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Piatkowska-przegrala-w-sadzie-z-Gibala-Chodzi-o-glosowania-w-radzie-miasta-9207560.html",
-      "url": "https://www.bankier.pl/wiadomosc/Piatkowska-przegrala-w-sadzie-z-Gibala-Chodzi-o-glosowania-w-radzie-miasta-9207560.html",
-      "title": "Piątkowska przegrała w sądzie z Gibałą. Chodzi o głosowania w radzie miasta",
-      "content_html": "Sąd Okręgowy w Krakowie nakazał kandydatce na prezydenta miasta senator Monice Piątkowskiej sprostowanie informacji dotyczących sposobu głosowania Łukasza Gibały w radzie miasta. Postanowienie jest nieprawomocne.",
-      "date_published": "2026-10-05T13:14:00+02:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Rosja-znalazla-sposob-na-tansze-ataki-Forbes-o-nowym-dronie-Dan-T-9207561.html",
-      "url": "https://www.bankier.pl/wiadomosc/Rosja-znalazla-sposob-na-tansze-ataki-Forbes-o-nowym-dronie-Dan-T-9207561.html",
-      "title": "Rosja znalazła sposób na tańsze ataki? „Forbes” o nowym dronie Dań-T",
-      "content_html": "Rosja zaczęła stosować w Ukrainie nowy odrzutowy dron uderzeniowy Dań-T o zasięgu 450 km i prędkości 500 km/h – poinformował amerykański magazyn „Forbes”. Konstrukcja ma utrudnić działanie ukraińskiej obrony powietrznej i zastąpić...",
-      "date_published": "2026-10-05T13:14:00+02:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Wojsko-wyrzuca-pantere-do-kosza-Miliard-zlotych-na-nowe-mundury-dla-armii-9207517.html",
-      "url": "https://www.bankier.pl/wiadomosc/Wojsko-wyrzuca-pantere-do-kosza-Miliard-zlotych-na-nowe-mundury-dla-armii-9207517.html",
-      "title": "Wojsko wyrzuca \"panterę\" do kosza. Miliard złotych na nowe mundury dla armii",
-      "content_html": "W poniedziałek zaprezentowane zostały mundury nowego wzoru, które mają niedługo trafić do żołnierzy; mają być m.in. wytrzymalsze, wygodniejsze i lepiej kamuflujące. - W przyszłym roku wydamy nie mniej niż miliard na nowe mundury- zapowiedział wicepremier...",
-      "date_published": "2026-10-05T12:53:00+02:00",
       "source": "Bankier.pl"
     },
     {
