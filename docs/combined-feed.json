@@ -5,10 +5,34 @@
   "home_page_url": "https://www.bankier.pl",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/Areszt-warunkowy-dla-bylego-wiceprezesa-Orlenu-i-dyrektorow-spolki-9209380.html",
+      "url": "https://www.bankier.pl/wiadomosc/Areszt-warunkowy-dla-bylego-wiceprezesa-Orlenu-i-dyrektorow-spolki-9209380.html",
+      "title": "Areszt warunkowy dla byłego wiceprezesa Orlenu i dyrektorów spółki",
+      "content_html": "Sąd w Łodzi zastosował areszt tymczasowy wobec byłego wiceprezesa Orlenu Michała R. i trzech dyrektorów spółki. Podejrzani będą mogli wyjść na wolność po wpłaceniu od 500 tys. do 1 mln zł poręczenia majątkowego.",
+      "date_published": "2026-10-08T12:29:00+02:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Atak-w-szkole-pod-Wyszkowem-Uczen-rzucil-sie-na-wozna-9209333.html",
+      "url": "https://www.bankier.pl/wiadomosc/Atak-w-szkole-pod-Wyszkowem-Uczen-rzucil-sie-na-wozna-9209333.html",
+      "title": "Tragedia w szkole na Mazowszu. Uczeń rzucił się z nożem na woźną. Kobieta nie żyje",
+      "content_html": "W miejscowości Leszczydół-Nowiny (pow. wyszkowski w północno-wschodniej części województwa mazowieckiego) 15-latek zaatakował woźną. Pomimo reanimacji nie udało się uratować życia 37-letniej pracownicy szkoły . - Trzy osoby są ranne -...",
+      "date_published": "2026-10-08T12:16:00+02:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Wracajcie-w-kazdej-chwili-Francja-z-otwartymi-ramionami-kusi-Wielka-Brytanie-UE-9209358.html",
+      "url": "https://www.bankier.pl/wiadomosc/Wracajcie-w-kazdej-chwili-Francja-z-otwartymi-ramionami-kusi-Wielka-Brytanie-UE-9209358.html",
+      "title": "\"Wracajcie w każdej chwili”. Francja z otwartymi ramionami kusi brexitowego syna marnotrawnego",
+      "content_html": "\"Idźcie na całość\" - zachęca Brytyjczyków francuski minister finansów Roland Lescure, zapraszając brexitowego syna marnotrawnego z powrotem do Unii Europejskiej, po tym jak premier Andy Burnham zasugerował, ze drugie referendum tej sprawie \"jest...",
+      "date_published": "2026-10-08T12:10:00+02:00",
+      "source": "Bankier.pl"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Dwa-wielkoskalowe-magazyny-energii-w-Polsce-otrzymaly-lacznie-ok-500-mln-zl-finansowania-od-konsorcjum-bankow-9209398.html",
       "url": "https://www.bankier.pl/wiadomosc/Dwa-wielkoskalowe-magazyny-energii-w-Polsce-otrzymaly-lacznie-ok-500-mln-zl-finansowania-od-konsorcjum-bankow-9209398.html",
-      "title": "Dwa wielkoskalowe magazyny energii w Polsce otrzymały łącznie ok. 500 mln zł finansowania od konsorcjum banków Dwa wielkoskalowe magazyny energii w Polsce otrzymały łącznie ok. 500 mln zł finansowania od konsorcjum banków, w którego skład wchodzą Bank Gospodarstwa Krajowego (BGK), PKO Bank Polski, Bank Pekao oraz kanadyjska państwowa agencja kredytów eksportowych EDC - podał BGK w komunikacie prasowym.",
-      "content_html": "",
+      "title": "Dwa wielkoskalowe magazyny energii w Polsce otrzymały łącznie ok. 500 mln zł finansowania od konsorcjum banków",
+      "content_html": "Dwa wielkoskalowe magazyny energii w Polsce otrzymały łącznie ok. 500 mln zł finansowania od konsorcjum banków, w którego skład wchodzą Bank Gospodarstwa Krajowego (BGK), PKO Bank Polski, Bank Pekao oraz kanadyjska państwowa agencja kredytów...",
       "date_published": "2026-10-08T11:56:00+02:00",
       "source": "Bankier.pl"
     },
@@ -21,27 +45,11 @@
       "source": "Bankier.pl"
     },
     {
-      "id": "https://www.bankier.pl/wiadomosc/Atak-w-szkole-pod-Wyszkowem-Uczen-rzucil-sie-na-wozna-9209333.html",
-      "url": "https://www.bankier.pl/wiadomosc/Atak-w-szkole-pod-Wyszkowem-Uczen-rzucil-sie-na-wozna-9209333.html",
-      "title": "Tragedia w szkole na Mazowszu. Uczeń rzucił się z nożem na woźną. Kobieta nie żyje",
-      "content_html": "W miejscowości Leszczydół-Nowiny (pow. wyszkowski w północno-wschodniej części województwa mazowieckiego) 15-latek zaatakował woźną. Pomimo reanimacji nie udało się uratować życia 37-letniej pracownicy szkoły . - Trzy osoby są ranne -...",
-      "date_published": "2026-10-08T11:32:00+02:00",
-      "source": "Bankier.pl"
-    },
-    {
       "id": "https://www.bankier.pl/wiadomosc/81-zamiast-42-Iran-podaje-nowy-bilans-strat-amerykanskiego-lotnictwa-9209384.html",
       "url": "https://www.bankier.pl/wiadomosc/81-zamiast-42-Iran-podaje-nowy-bilans-strat-amerykanskiego-lotnictwa-9209384.html",
       "title": "81 zamiast 42. Iran podaje nowy bilans strat amerykańskiego lotnictwa",
       "content_html": "Irański minister spraw zagranicznych Abbas Aragczi oświadczył w czwartek, że rzeczywista liczba samolotów utraconych przez wojsko USA w wojnie z Iranem wynosi 81 maszyn, a nie - jak informowały władze USA - 42.",
       "date_published": "2026-10-08T11:27:00+02:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Areszt-warunkowy-dla-bylego-wiceprezesa-Orlenu-i-dyrektorow-spolki-9209380.html",
-      "url": "https://www.bankier.pl/wiadomosc/Areszt-warunkowy-dla-bylego-wiceprezesa-Orlenu-i-dyrektorow-spolki-9209380.html",
-      "title": "Areszt warunkowy dla byłego wiceprezesa Orlenu i dyrektorów spółki",
-      "content_html": "Sąd w Łodzi zastosował areszt tymczasowy wobec byłego wiceprezesa Orlenu Michała R. i trzech dyrektorów spółki. Podejrzani będą mogli wyjść na wolność po wpłaceniu od 500 tys. do 1 mln zł poręczenia majątkowego.",
-      "date_published": "2026-10-08T11:24:00+02:00",
       "source": "Bankier.pl"
     },
     {
@@ -381,12 +389,28 @@
       "source": "Bankier.pl"
     },
     {
+      "id": "https://biznes.pap.pl/wiadomosci/rynki/dzien-na-rynkach-w-azji-na-gieldach-trwa-wyprzedaz-akcji-4",
+      "url": "https://biznes.pap.pl/wiadomosci/rynki/dzien-na-rynkach-w-azji-na-gieldach-trwa-wyprzedaz-akcji-4",
+      "title": "DZIEŃ NA RYNKACH: W Azji na giełdach trwa wyprzedaż akcji",
+      "content_html": "Na azjatyckich giełdach główne indeksy idą w dół. Inwestorzy niepokoją się o dalszy rozwój sytuacji na Bliskim Wschodzie i rosnące ceny ropy naftowej, co wywołuje obawy o inflację. Na rynku walutowym USD jest stabilny do euro i JPY. Bitcoin jest po ok. 82.850 USD za token. Złoto zyskuje - informują maklerzy.\n\nW Japonii Nikkei 225 zniżkuje o 1,11 proc. Topix jest niżej o 1,25 proc.\n\nW Chinach - po wolnym Złotym Tygodniu od 1.10. do 7.10. - SCI zniżkuje o 1,09 proc., a CSI 300 traci 1,37 proc.\n\nW Korei Południowej KOSPI zniżkuje o 2,00 proc.\n\nW Indiach Sensex 30 zniżkuje o 0,93 proc.\n\nIndeks PSEi na Filipinach zniżkuje o 1,40 proc.\n\nW Dżakarcie wskaźnik Jakarta Comp spada o 0,80 proc.\n\nNa azjatyckich giełdach główne indeksy idą w dół.\n\nInwestorzy niepokoją się o zaostrzenie sytuacji na Bliskim Wschodzie i rosnące ceny ropy naftowej, co wywołuje obawy o inflację.\n\nWyższe ceny ropy naftowej komplikują perspektywy gospodarcze, zwiększając presję inflacyjną po tym, jak we wrześniu Fed podwyższył stopy procentowe, a takie działanie poparli jednomyślnie bankierzy centralni z Rezerwy Federalnej.\n\nPrawdopodobnie właściwe będzie podniesienie stóp procentowych w USA do końca roku – wynika z protokołu z ostatniego posiedzenia Fedu. Z minutes wynika też, że kilkoro członków Fedu uznało obecny poziom stóp proc. za niezbyt restrykcyjny.\n\nPo posiedzeniu 15-16 września Fed podniósł stopy procentowe w USA o 25 pb. do przedziału 3,75-4,00 proc.\n\nDecyzja FOMC została podjęta jednogłośnie.\n\nByła to pierwsza podwyżka stóp proc. w USA od 2023 r. W poprzednim cyklu luzowania polityki monetarnej Fed obniżył stopy procentowe o 150 pb.\n\nKolejne posiedzenie Rezerwy zaplanowano na 27-28 października.\n\nTymczasem w USA Biały Dom zwrócił się do Pentagonu o opracowanie strategii ataku na Iran, która mogłaby być zrealizowana jeszcze przed wyborami \"połówkowymi\" w USA w listopadzie.\n\nPrzeczy to powszechnemu przekonaniu na rynkach, że prezydent USA Donald Trump wstrzyma się z eskalacją konfliktu z Teheranem przed wyborami.\n\n\"Wielkość i potencjalne cele ataków, a także to, czy administracja USA będzie kontynuować swoje działania, są wciąż przedmiotem debaty\" - podał \"The Atlantic\".\n\nNa rynku walutowym japoński jen kosztuje 158,19 za 1 USD, stabilnie.\n\nBitcoin kosztuje 84.844 USD za token, w dół o 0,7 proc.\n\nRentowność 10-letnich UST wynosi 5,31 proc., wyżej o 2 pb.\n\nZłoto jest wyceniane w transakcjach spot po 4.137 USD za uncję, wyżej o 0,6 proc.\n\nW Europie kontrakty na Stoxx 50 tracą 0,29 proc., na FTSE 100 zniżkują o 0,24 proc., na CAC 40 idą niżej o 0,26 proc., a na DAX spadają o 0,29 proc.\n\nIndeksy w Europie zniżkowały na koniec sesji w środę.\n\nNa zamknięciu sesji indeks Euro Stoxx 50 stracił 1,47 proc., niemiecki DAX zniżkował o 1,36 proc., francuski CAC 40 poszedł w dół o 1,22 proc., a brytyjski FTSE spadł o 0,79 proc.\n\nBenchmarkowy indeks Stoxx Europe 600 zniżkował o 1 proc.\n\nW USA kontrakty na indeksy są w przedziale od -0,22 proc. do -0,11 proc.\n\nDow Jones Industrial na zamknięciu spadł o 0,66 proc. i wyniósł 51.179,87 pkt.\n\nS&P 500 na koniec dnia spadł o 0,22 proc. i wyniósł 7.801,77 pkt.\n\nNasdaq Composite zniżkował o 0,22 proc. do 27.538,69 pkt.(PAP Biznes)",
+      "date_published": "2026-10-08T08:23:00+02:00",
+      "source": "PAP Biznes"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Samsung-pokazal-rekordowe-zyski-pamiec-DRAM-drozeje-akcje-spadaja-9209230.html",
       "url": "https://www.bankier.pl/wiadomosc/Samsung-pokazal-rekordowe-zyski-pamiec-DRAM-drozeje-akcje-spadaja-9209230.html",
       "title": "Pamięć DRAM będzie drożeć, Samsung pokazał rekordowe zyski, a kurs akcji i tak spada",
       "content_html": "Samsung Electronics przedstawił wstępne wyniki za III kwartał 2026 roku. Zysk operacyjny południowokoreańskiego giganta po raz pierwszy w historii przekroczył 100 bln wonów, osiągając niemal dziewięciokrotny wzrost rok do roku. Mimo to w dniu...",
       "date_published": "2026-10-08T08:20:00+02:00",
       "source": "Bankier.pl"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/rynki/ceny-miedzi-w-londynie-rosna-po-powrocie-chinskich-inwestorow-ze-swiatecznej",
+      "url": "https://biznes.pap.pl/wiadomosci/rynki/ceny-miedzi-w-londynie-rosna-po-powrocie-chinskich-inwestorow-ze-swiatecznej",
+      "title": "Ceny miedzi w Londynie rosną po powrocie chińskich inwestorów ze świątecznej przerwy",
+      "content_html": "Notowania miedzi na giełdzie metali LME w Londynie rosną w reakcji na powrót na rynki chińskich inwestorów po długim czasie świętowania - informują maklerzy.\n\nMiedź w dostawach 3-miesięcznych na LME jest wyceniana wyżej o 1 proc. - po 14.617,50 USD za tonę.\n\nNa Comex w Nowym Jorku miedź kosztuje 6,7095 USD za funt, wyżej o 0,90 proc. Metal zyskał w tym roku na Comex 18,1 proc.\n\nNa giełdzie metali SHF w Szanghaju miedź jest wyceniana po 110.820 juanów za tonę, po zwyżce o 1,14 proc. i po wzroście od początku roku o 13,2 proc.\n\nInwestorzy wreszcie doczekali się otwarcia rynków w Chinach, gdzie od 1 do 7 października trwało święto, tzw. Złoty Tydzień.\n\nGracze w Chinach powrócili na rynki z nastawieniem \"zakupowym\" po dłuższym czasie \"urlopu\", który ograniczył aktywność na rynkach azjatyckich.\n\nMiedź zyskuje też w reakcji na informacje z Chile, gdzie akcje strajkowe w kopalniach miedzi należących do koncernu Antofagasta, mogą wpłynąć na ograniczenie dostaw rud miedzi z tego kraju.\n\nTraderzy na rynkach miedzi obserwują również zapowiadaną ścieżkę dla stóp procentowych w USA.\n\nPrawdopodobnie właściwe będzie podniesienie stóp procentowych w USA do końca roku – wynika z protokołu z ostatniego posiedzenia Fedu. Z minutes wynika też, że kilkoro członków Fedu uznało obecny poziom stóp proc. za niezbyt restrykcyjny.\n\nPo posiedzeniu 15-16 września Fed podniósł stopy procentowe w USA o 25 pb. do przedziału 3,75-4,00 proc.\n\nDecyzja FOMC została podjęta jednogłośnie.\n\nByła to pierwsza podwyżka stóp proc. w USA od 2023 r. W poprzednim cyklu luzowania polityki monetarnej Fed obniżył stopy procentowe o 150 pb.\n\nKolejne posiedzenie Rezerwy zaplanowano na 27-28 października.\n\nWyższe koszty pieniądza - jak informują analitycy - są zazwyczaj niekorzystne dla towarów i wpływają na ograniczenie popytu ze strony inwestorów.\n\nNa zakończenie poprzedniej sesji miedź na LME kosztowała 14.475,50 USD za tonę.\n\nWe wrześniu cena miedzi na LME wzrosła do rekordowych 14.875 USD za tonę.\n\nOd początku 2026 r. cena miedzi na LME wzrosła o 16,5 proc. (PAP Biznes)",
+      "date_published": "2026-10-08T08:06:00+02:00",
+      "source": "PAP Biznes"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Miliardy-dla-NFZ-z-naszych-kieliszkow-Klotnia-w-Sejmie-o-ceny-wodki-piwa-i-cydru-9209131.html",
@@ -413,6 +437,14 @@
       "source": "Bankier.pl"
     },
     {
+      "id": "https://biznes.pap.pl/wiadomosci/rynki/na-rynkach-ropy-ponownie-duze-wzrosty-cen",
+      "url": "https://biznes.pap.pl/wiadomosci/rynki/na-rynkach-ropy-ponownie-duze-wzrosty-cen",
+      "title": "Na rynkach ropy ponownie duże wzrosty cen",
+      "content_html": "Ropa na globalnych rynkach drożeje w czwartek w reakcji na informacje, że Biały Dom zwrócił się do Pentagonu w sprawie przygotowania planu ataku na Iran jeszcze przed listopadowymi wyborami uzupełniającymi w USA. Do tego wiele na rynkach ropy może namieszać huragan Isaias - podają maklerzy.\n\nBaryłka ropy West Texas Intermediate w dostawach na XI jest na NYMEX w Nowym Jorku po 90,30 USD - wyżej o 2,29 proc.\n\nBrent na ICE na XII jest wyceniana po 102,78 USD za baryłkę, w górę o 2,57 proc.\n\nRopa WTI od początku tego roku zyskała 57,3 proc., a Brent zdrożała o 68,8 proc.\n\nCeny ropy naftowej rosną po tym, jak pojawiły się doniesienia, że Biały Dom zwrócił się do Pentagonu w sprawie przygotowania planu ataku na Iran jeszcze przed listopadowymi wyborami uzupełniającymi w Stanach Zjednoczonych.\n\n\"Wielkość i potencjalne cele ataków, a także to, czy administracja USA będzie kontynuować swoje działania, są wciąż przedmiotem debaty\" - podał \"The Atlantic\".\n\n\"Ograniczona operacja militarna USA w Iranie może zostać poprzedzona bardziej znaczącymi działaniami po wyborach uzupełniających\" - dodano.\n\nPrezydent USA Donald Trump przemawiając na wiecu wyborczym w San Antonio z Teksasie powtórzył, że nie spieszy się, aby podpisać porozumienie z Iranem.\n\n\"Nie sądzę, abym chciał zawrzeć umowę z Iranem\" - powiedział Donald Trump.\n\nTymczasem złe warunki pogodowe spowodowały wstrzymanie części wydobycia ropy w USA, a producenci surowca w Zatoce Meksykańskiej wstrzymali produkcję ponad 510 tys., baryłek ropy dziennie. To ok. 1/4 podaży ropy w tym regionie.\n\nWstrzymano też produkcję gazu ziemnego, a pracownicy kilku platform wiertniczych zostali ewakuowani.\n\nBurza tropikalna Isaias nabiera siły nad wodami Zatoki Meksykańskiej i według prognoz może już w czwartek osiągnąć status huraganu.\n\nByłby to pierwszy huragan sezonu atlantyckiego 2026 zagrażający 30 mln ludzi w południowych stanach.\n\nAmerykańskie Krajowe Centrum Huraganów (NHC) wydało już m.in. alerty dotyczące zagrożenia falą sztormową dla części wybrzeża Zatoki Meksykańskiej.\n\nObecne prognozy wskazują, że Isaias może uderzyć pomiędzy Luizjaną a Florydą w późny piątek lub w sobotę.\n\nNajwiększe zagrożenie stanowić będą niszczący wiatr, intensywne opady deszczu prowadzące do powodzi błyskawicznych, niebezpieczna fala sztormowa na wybrzeżu oraz możliwość występowania lokalnych tornad.\n\nThe Weather Channel podkreśla, że skutki huraganu mogą być odczuwalne także setki kilometrów od miejsca uderzenia.\n\nAnalitycy oceniają, że Isaias pojawia sie w niepewnym momencie dla rynków ropy naftowej.\n\nW obliczu napięć na Bliskim Wschodzie związanych z wojną w Iranie, nie ma już miejsca na zakłócenia m.in. w produkcji oleju napędowego - \"roboczego\" paliwa dla ciężarówek, pociągów, przemysłu i ogrzewania.\n\nChuck Watson z Enki Research powiedział, że o ile nie zmieni się trasa przebiegu huraganu, zakłócenia w produkcji ropy naftowej i gazu ziemnego mogą prawdopodobnie potrwać dłużej niż tydzień.\n\nTymczasem na Bliskim Wschodzie nie słabną ataki ze strony rebeliantów Huti.\n\nRzecznik jemeńskich rebeliantów Huti oświadczył w czwartek nad ranem, że zaatakowali oni port lotniczy w stolicy Arabii Saudyjskiej, Rijadzie, rakietą balistyczną.\n\n\"Nasze siły zbrojne zaatakowały międzynarodowy port lotniczy im. króla Chalida rakietą balistyczną, która trafiła precyzyjnie w cel i zakłociła funkcjonowanie lotniska\" - oświadczył rzecznik Hutich Jahija Saree.\n\nW innym oświadczeniu Huti ostrzegli, że całe terytorium Arabii Saudyjskiej może być celem ataków, z wyjątkiem świętych miejsc muzułmańskich, czyli rejonów Mekki i Medyny.\n\nWspierani przez Iran szyiccy Huti są jednym z głównych uczestników toczącej się wojny domowej w Jemenie, która wybuchła po tym, jak ruch ten w styczniu 2015 dokonał zamachu stanu, a wcześniej zajął stolicę Sanę.\n\nAnalitycy informują, że ryzyka w całym regionie Bliskiego wschodu, ataki na statki transportujące towary oraz rosnący popyt na ropę naftową z bardziej odległych punktów załadunku napędzają rekordowe wz",
+      "date_published": "2026-10-08T07:58:00+02:00",
+      "source": "PAP Biznes"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Promack-KMW-Investment-IGNIS-AVEM-Capital-zamierzaja-oglosic-wezwanie-na-Hydrapres-9209240.html",
       "url": "https://www.bankier.pl/wiadomosc/Promack-KMW-Investment-IGNIS-AVEM-Capital-zamierzaja-oglosic-wezwanie-na-Hydrapres-9209240.html",
       "title": "Promack, KMW Investment, IGNIS AVEM Capital zamierzają ogłosić wezwanie na Hydrapres",
@@ -429,12 +461,28 @@
       "source": "Bankier.pl"
     },
     {
+      "id": "https://biznes.pap.pl/wiadomosci/firmy/promack-kmw-investment-ignis-avem-capital-zamierzaja-oglosic-wezwanie-na-hydrapres",
+      "url": "https://biznes.pap.pl/wiadomosci/firmy/promack-kmw-investment-ignis-avem-capital-zamierzaja-oglosic-wezwanie-na-hydrapres",
+      "title": "Promack, KMW Investment, IGNIS AVEM Capital zamierzają ogłosić wezwanie na Hydrapres",
+      "content_html": "Promack, KMW Investment, IGNIS AVEM CAPITAL zamierzają ogłosić wezwanie na 1.480.304 akcji Hydrapres, zaoferują 0,48 zł za akcję - poinformowała spółka w komunikacie.\n\nPodmiotem pośredniczącym będzie Dom Maklerski BDM. (PAP Biznes)",
+      "date_published": "2026-10-08T07:55:00+02:00",
+      "source": "PAP Biznes"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Konsorcjum-Polimeksu-Mostostal-wycofalo-sie-z-przetargu-na-budowe-terminalu-pasazerskiego-CPK-9209239.html",
       "url": "https://www.bankier.pl/wiadomosc/Konsorcjum-Polimeksu-Mostostal-wycofalo-sie-z-przetargu-na-budowe-terminalu-pasazerskiego-CPK-9209239.html",
       "title": "Duży gracz wycofuje się z budowy terminala CPK. Konsorcjum nie złoży oferty",
       "content_html": "Konsorcjum tworzone przez Polimex Mostostal, HOCHTIEF Polska oraz HOCHTIEF Infrastructure GmbH zdecydowało o odstąpieniu od dalszego udziału w postępowaniu dotyczącym budowy terminala pasażerskiego Centralnego Portu Komunikacyjnego i nie złoży...",
       "date_published": "2026-10-08T07:54:00+02:00",
       "source": "Bankier.pl"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/firmy/konsorcjum-polimeksu-mostostal-wycofalo-sie-z-przetargu-na-budowe-terminalu",
+      "url": "https://biznes.pap.pl/wiadomosci/firmy/konsorcjum-polimeksu-mostostal-wycofalo-sie-z-przetargu-na-budowe-terminalu",
+      "title": "Konsorcjum Polimeksu Mostostal wycofało się z przetargu na budowę terminalu pasażerskiego CPK",
+      "content_html": "Konsorcjum tworzone przez Polimex Mostostal, HOCHTIEF Polska oraz HOCHTIEF Infrastructure GmbH zdecydowało o odstąpieniu od dalszego udziału w postępowaniu dotyczącym budowy terminala pasażerskiego Centralnego Portu Komunikacyjnego i nie złoży oferty w tym postępowaniu - poinformowały spółki w oświadczeniu.\n\n\"Po szczegółowej analizie ostatecznych warunków postępowania oraz całokształtu uwarunkowań biznesowych, technicznych i kontraktowych związanych z realizacją projektu, Konsorcjum uznało, że nie będzie kontynuować udziału w tym postępowaniu. Decyzja ta została podjęta na skutek stanowiska HOCHTIEF Polska S.A. oraz HOCHTIEF Infrastructure GmbH, w oparciu o dokonaną wewnętrzną ocenę ryzyk realizacyjnych, warunków kontraktowych oraz harmonogramu postępowania, w tym w szczególności wyznaczonego terminu składania ofert\" - napisano w oświadczeniu.\n\n\"(...) Jednocześnie spółki tworzące Konsorcjum pozostają zainteresowane udziałem w kolejnych projektach infrastrukturalnych realizowanych w Polsce, w tym przedsięwzięciach związanych z rozwojem nowoczesnej infrastruktury transportowej, energetycznej oraz projektów towarzyszących programowi Port Polska. Zainteresowanie to dotyczy zarówno projektów realizowanych wspólnie, jak i przedsięwzięć prowadzonych niezależnie przez każdą ze spółek\" - dodano. (PAP Biznes)",
+      "date_published": "2026-10-08T07:52:00+02:00",
+      "source": "PAP Biznes"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Globalne-zwolnienia-w-VW-ale-Polacy-bezpieczni-1-5-mld-zl-plynie-do-fabryki-we-Wrzesni-9209229.html",
@@ -509,6 +557,14 @@
       "source": "Bankier.pl"
     },
     {
+      "id": "https://biznes.pap.pl/wiadomosci/firmy/telewizja-glownym-zrodlem-informacji-dla-59-proc-polakow-portale-internetowe-dla",
+      "url": "https://biznes.pap.pl/wiadomosci/firmy/telewizja-glownym-zrodlem-informacji-dla-59-proc-polakow-portale-internetowe-dla",
+      "title": "Telewizja głównym źródłem informacji dla 59 proc. Polaków, portale internetowe dla 50 proc. - CBOS",
+      "content_html": "Telewizja pozostaje głównym źródłem informacji o wydarzeniach w kraju i na świecie dla 59 proc. Polaków, a portale informacyjne w internecie wskazuje 50 proc. badanych - wynika z badania CBOS. Media społecznościowe są głównym źródłem informacji dla 30 proc. respondentów.\n\nCBOS zapytał również, z których kanałów i programów telewizyjnych Polacy przede wszystkim czerpią informacje o aktualnych wydarzeniach. Najwięcej badanych, 25 proc., wskazało programy TVN. Programy Polsatu wymieniło 21 proc. respondentów, a telewizję publiczną 15 proc.\n\nZ badania wynika jednocześnie, że 73 proc. ankietowanych nie ma jednego ulubionego medium, z którego czerpie informacje o aktualnościach. 19 proc. deklaruje, że zawsze porównuje informacje podawane przez różne media, natomiast 18 proc. nie robi tego nigdy.\n\n92 proc. respondentów uważa, że aby wyrobić sobie zdanie na temat bieżących wydarzeń, należy korzystać z kilku różnych źródeł informacji. Jednocześnie 83 proc. zgadza się ze stwierdzeniem, że ze względu na zróżnicowanie opinii i przekazu w poszczególnych źródłach odbiorca może mieć trudności z ustaleniem, gdzie leży prawda.\n\nW ocenie respondentów najbardziej wiarygodne spośród badanych programów telewizyjnych pozostają programy Polsatu. W przypadku pozostałych stacji przewagę ma brak zaufania.\n\nWśród portali internetowych Onet i Wirtualna Polska są nieco częściej oceniane jako niewiarygodne niż wiarygodne. W przypadku Interii obie oceny są niemal zrównoważone, natomiast w ocenach Kanału Zero nieznacznie przeważają opinie pozytywne.\n\nCBOS podał ponadto, że 69 proc. badanych uważa, iż w mediach społecznościowych łatwiej natrafić na fałszywe informacje niż w tradycyjnych mediach, takich jak telewizja czy prasa. Taki sam odsetek, 69 proc., zgadza się jednak, że media społecznościowe pozwalają szybciej dowiedzieć się o ważnych wydarzeniach niż media tradycyjne. (PAP Biznes)",
+      "date_published": "2026-10-08T07:34:00+02:00",
+      "source": "PAP Biznes"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Trump-zabral-glos-w-sprawie-dzumy-w-Rosji-Nie-sadzimy-ze-to-bron-biologiczna-9209141.html",
       "url": "https://www.bankier.pl/wiadomosc/Trump-zabral-glos-w-sprawie-dzumy-w-Rosji-Nie-sadzimy-ze-to-bron-biologiczna-9209141.html",
       "title": "Trump zabrał głos w sprawie dżumy w Rosji. „Nie sądzimy, że to broń biologiczna”",
@@ -555,6 +611,14 @@
       "content_html": "Funkcjonariusze sił bezpieczeństwa Portugalii rozbili w środę międzynarodową siatkę działającą na terenie tego kraju, która wyłudziła od państwa z tytułu zwrotu podatku VAT 150 mln euro.",
       "date_published": "2026-10-08T07:29:00+02:00",
       "source": "Bankier.pl"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/gry-i-technologie/hurtowy-rynek-telekomunikacyjny-bedzie-rosl-srednio-o-5-proc-rocznie",
+      "url": "https://biznes.pap.pl/wiadomosci/gry-i-technologie/hurtowy-rynek-telekomunikacyjny-bedzie-rosl-srednio-o-5-proc-rocznie",
+      "title": "Hurtowy rynek telekomunikacyjny będzie rósł średnio o 5 proc. rocznie do 2031 r.- PMR",
+      "content_html": "Wartość hurtowego rynku telekomunikacyjnego w Polsce będzie rosła średnio o 5 proc. rocznie w latach 2026-2031, podczas gdy detaliczny rynek usług dla biznesu będzie zwiększał się średnio o 2 proc. rocznie - wynika z prognoz PMR Market Experts.\n\nPMR ocenia, że perspektywy rynku telekomunikacyjnego dla sektora biznesowego i operatorskiego do 2031 r. pozostają dobre, zmieniać się będą jednak źródła jego wzrostu. W segmencie hurtowym coraz większe znaczenie mają mieć sieci otwarte.\n\nW przypadku detalicznego rynku B2B, dla którego PMR prognozuje średnioroczne tempo wzrostu na poziomie 2 proc., kluczowa będzie zdolność operatorów do zwiększania przychodów dzięki jakości oferowanych usług. Dotyczy to m.in. wyższych prędkości, niezawodności, bezpieczeństwa i usług dodatkowych.\n\nW 2025 r. rynek telekomunikacyjny dla biznesu zwiększył wartość o 3 proc. Według PMR jego rozwój coraz rzadziej wynika jednak z pozyskiwania nowych klientów. Na znaczeniu zyskują ceny, ARPU, migracja do światłowodu i 5G, rozwój M2M oraz sprzedaż usług o wyższych parametrach.\n\nAnalitycy wskazują, że mimo spadku liczby ludności w Polsce liczba aktywnych przedsiębiorstw nadal rośnie. Większość nowych podmiotów stanowią jednak mikro- i małe firmy, które zazwyczaj korzystają z prostszych ofert i generują mniejsze przychody dla operatorów niż średnie i duże przedsiębiorstwa.\n\nW ocenie PMR oznacza to, że wzrost liczby przedsiębiorstw będzie wspierał przede wszystkim wolumen rynku, natomiast dla jego wartości coraz większe znaczenie będą miały polityka cenowa operatorów oraz rodzaj kupowanych usług.\n\nDane pochodzą z najnowszego raportu PMR Market Experts „Rynek telekomunikacyjny dla sektora biznesowego i operatorskiego 2026”. (PAP Biznes)",
+      "date_published": "2026-10-08T07:28:00+02:00",
+      "source": "PAP Biznes"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Bitwa-o-ciesnine-Ormuz-trwa-Tankowiec-trafiony-pociskami-sa-doniesienia-o-ofiarach-9209164.html",
@@ -637,6 +701,30 @@
       "source": "Bankier.pl"
     },
     {
+      "id": "https://biznes.pap.pl/wiadomosci/ekonomia-biznes-i-finanse/przewidywane-najwazniejsze-wydarzenia-gospodarcze-2026-10-08",
+      "url": "https://biznes.pap.pl/wiadomosci/ekonomia-biznes-i-finanse/przewidywane-najwazniejsze-wydarzenia-gospodarcze-2026-10-08",
+      "title": "Przewidywane najważniejsze wydarzenia gospodarcze 2026-10-08",
+      "content_html": "Przewidywane najważniejsze wydarzenia gospodarcze 2026-10-08\n\n08:30 - SGH - Konferencja Podatkowa CASP SGH pt. „Współczesne wyzwania systemów podatkowych: technologia, globalizacja i pewność prawa”.\n\n09:30 - EFC - Konferencja ubezpieczeniowa EKF Ubezpieczenia - II dzień.\n\nSpotkanie prasowe, podczas którego przedstawiony będzie raport UniCredit „WealthBeing - Inwestycje Polaków 2026”.\n\n09:00 - SGH - Konferencja SGH/ZBP/PAB WIB:„Koszt nierównowagi fiskalnej. Wpływ finansów publicznych na stabilność sektora bankowego i rozwój gospodarczy Polski”.\n\n10:00 - GPW - Śniadanie prasowe GPW. Spotkanie będzie okazją do podsumowania wdrożenia systemu GPW WATS i pierwszych czterech dni sesji.\n\n11:00 - SONEL - Konferencja wynikowa Spółki\n\nWideokonferencja spółki Sonel poświęcona omówieniu wyników finansowych za pierwsze półrocze 2026 roku.\n\n14:00 - Grupa Orlen - Konferencja prasowa spółki\n\nKonferencja prasowa Grupy Orlen pt. \"Farma Baltic Power to dopiero początek – co dalej w polskiej energetyce wiatrowej na morzu?”.\n\n09:45 - Fundacja Polska Bezgotówkowa - Konferencja Future of Payments \"Płatności jutra – technologia bliżej człowieka”.\n\nŚniadanie prasowe JLL poświęcone analizie aktualnej sytuacji na największych rynkach mieszkaniowych w Polsce.\n\n11:30 - MCI Capital ASI - Konferencja prasowa\n\nMCI Investor Day 2026. W programie strategia i wyniki inwestycyjne MCI, nowe inwestycje oraz gwiazdy portfela MCI.\n\nUWAGA: Przedstawione zapowiedzi odzwierciedlają stan wiedzy na dzień ich publikacji i są codziennie aktualizowane. Zapowiedzi powstają na podstawie oficjalnych informacji przesłanych do PAP przez zainteresowane instytucje lub publicznych wypowiedzi ich przedstawicieli. Zapowiedzi nie należy traktować, jako zaproszenia.",
+      "date_published": "2026-10-08T07:00:00+02:00",
+      "source": "PAP Biznes"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/rynki/kalendarium-rynku-newconnect-2026-10-08",
+      "url": "https://biznes.pap.pl/wiadomosci/rynki/kalendarium-rynku-newconnect-2026-10-08",
+      "title": "Kalendarium rynku NewConnect 2026-10-08",
+      "content_html": "Kalendarium rynku NewConnect 2026-10-08",
+      "date_published": "2026-10-08T07:00:00+02:00",
+      "source": "PAP Biznes"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/rynki/kalendarium-rynku-kapitalowego-gpw-2026-10-08",
+      "url": "https://biznes.pap.pl/wiadomosci/rynki/kalendarium-rynku-kapitalowego-gpw-2026-10-08",
+      "title": "Kalendarium rynku kapitałowego GPW 2026-10-08",
+      "content_html": "Kalendarium rynku kapitałowego GPW 2026-10-08",
+      "date_published": "2026-10-08T07:00:00+02:00",
+      "source": "PAP Biznes"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Ambasadorka-Trumpa-miala-prosic-o-100-tys-dol-bez-sladu-WSJ-ujawnia-wiadomosci-9209183.html",
       "url": "https://www.bankier.pl/wiadomosc/Ambasadorka-Trumpa-miala-prosic-o-100-tys-dol-bez-sladu-WSJ-ujawnia-wiadomosci-9209183.html",
       "title": "Ambasadorka Trumpa miała prosić o 100 tys. dol. bez śladu. „WSJ” ujawnia wiadomości",
@@ -683,6 +771,14 @@
       "content_html": "Archicom zamierza wyemitować w ramach programu emisji obligacje serii 1IA/2026 o maksymalnej łącznej wartości nominalnej 385 mln zł - poinformowała spółka w komunikacie.",
       "date_published": "2026-10-08T06:36:00+02:00",
       "source": "Bankier.pl"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/firmy/archicom-zamierza-wyemitowac-obligacje-o-maksymalnej-lacznej-wartosci-nominalnej",
+      "url": "https://biznes.pap.pl/wiadomosci/firmy/archicom-zamierza-wyemitowac-obligacje-o-maksymalnej-lacznej-wartosci-nominalnej",
+      "title": "Archicom zamierza wyemitować obligacje o maksymalnej łącznej wartości nominalnej 385 mln zł",
+      "content_html": "Archicom zamierza wyemitować w ramach programu emisji obligacje serii 1IA/2026 o maksymalnej łącznej wartości nominalnej 385 mln zł - poinformowała spółka w komunikacie.",
+      "date_published": "2026-10-08T06:35:00+02:00",
+      "source": "PAP Biznes"
     },
     {
       "id": "https://biznes.pap.pl/wiadomosci/rynki/rentownosci-obligacji-wybranych-panstw-tabela-533",
@@ -983,16 +1079,16 @@
     {
       "id": "https://www.bankier.pl/wiadomosc/Huuuge-szacuje-ze-mial-w-III-kw-51-8-mln-USD-przychodow-o-ok-7-proc-mniej-rdr-9209044.html",
       "url": "https://www.bankier.pl/wiadomosc/Huuuge-szacuje-ze-mial-w-III-kw-51-8-mln-USD-przychodow-o-ok-7-proc-mniej-rdr-9209044.html",
-      "title": "Huuuge szacuje, że miał w III kw. 51,8 mln USD przychodów, o ok. 7 proc. mniej rdr",
-      "content_html": "Huuuge szacuje, że w trzecim kwartale 2026 roku wygenerował 51,8 mln USD przychodów ze sprzedaży, co stanowi spadek o ok. 7 proc. w porównaniu do analogicznego okresu poprzedniego roku - podał producent gier mobilnych w komunikacie. (PAP Biznes)...",
+      "title": "Huuuge szacuje, że miał w III kw. 51,8 mln USD przychodów, o ok. 7 proc. mniej rdr Huuuge szacuje, że w trzecim kwartale 2026 roku wygenerował 51,8 mln USD przychodów ze sprzedaży, co stanowi spadek o ok. 7 proc. w porównaniu do analogicznego okresu poprzedniego roku - podał producent gier mobilnych w komunikacie. (PAP Biznes)",
+      "content_html": "",
       "date_published": "2026-10-07T17:30:00+02:00",
       "source": "Bankier.pl"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Odwrot-na-gieldzie-Szerokie-spadki-duzych-spolek-i-odbicie-na-gwiazdach-hossy-OZE-9209040.html",
       "url": "https://www.bankier.pl/wiadomosc/Odwrot-na-gieldzie-Szerokie-spadki-duzych-spolek-i-odbicie-na-gwiazdach-hossy-OZE-9209040.html",
-      "title": "Odwrót na giełdzie. Szerokie spadki dużych spółek i odbicie na gwiazdach hossy OZE",
-      "content_html": "Po wtorkowym ustanowieniu historycznych szczytów, środowa sesja na Giełdzie Papierów Wartościowych w Warszawie przyniosła gwałtowne schłodzenie nastrojów. Na parkiecie doszło do mocnego tąpnięcia, a liderami spadków stały się banki oraz...",
+      "title": "SESJA NA GPW Odwrót na giełdzie. Szerokie spadki dużych spółek i odbicie na gwiazdach hossy OZE Po wtorkowym ustanowieniu historycznych szczytów, środowa sesja na Giełdzie Papierów Wartościowych w Warszawie przyniosła gwałtowne schłodzenie nastrojów. Na parkiecie doszło do mocnego tąpnięcia, a liderami spadków stały się banki oraz KGHM. Negatywny sentyment w Warszawie żywił się spadkami na głównych giełdach w Europie i USA, gdzie inwestorzy z niepokjem odpowiedzieli na kolejną falę wyprzedaży obligacji i rosnące ceny ropy.",
+      "content_html": "",
       "date_published": "2026-10-07T17:28:00+02:00",
       "source": "Bankier.pl"
     },
@@ -1019,14 +1115,6 @@
       "content_html": "",
       "date_published": "2026-10-07T17:22:00+02:00",
       "source": "Bankier.pl"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/firmy/bmillennium-szacuje-rezerwe-na-ryzyko-prawne-zw-z-walutowymi-kredytami-3",
-      "url": "https://biznes.pap.pl/wiadomosci/firmy/bmillennium-szacuje-rezerwe-na-ryzyko-prawne-zw-z-walutowymi-kredytami-3",
-      "title": "B.Millennium szacuje rezerwę na ryzyko prawne zw. z walutowymi kredytami hipotecznymi w III kw. na 154 mln zł",
-      "content_html": "Bank Millennium szacuje rezerwę na ryzyko prawne związane z walutowymi kredytami hipotecznymi w III kw. 2026 roku na 154 mln zł - podał bank w komunikacie.\n\nDodatkowo, wartość rezerw na ryzyko prawne związane z portfelem kredytów walutowych udzielonych przez były Euro Bank przewidywana do utworzenia - ale bez wpływu na wynik finansowy - szacowana jest na 24 miliony złotych.\n\nJak podano, ostateczna wartość rezerw na ryzyko prawne w III kwartale 2026 r. zostanie podana w sprawozdaniu finansowym za III kwartał, którego publikacja planowana jest na 27 października 2026 r. (PAP Biznes)",
-      "date_published": "2026-10-07T17:21:00+02:00",
-      "source": "PAP Biznes"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Produkt-Synthaverse-zostal-zarejestrowany-w-Paragwaju-9209013.html",
@@ -1130,22 +1218,6 @@
       "title": "Panattoni chce w Polsce utrzymywać ok. 1 mln mkw. powierzchni w budowie, ale w '27 skala może być większa Panattoni chce w Polsce utrzymywać ok. 1 mln mkw. powierzchni przemysłowo-magazynowej w budowie, ale w przyszłym roku, dzięki silnemu popytowi, ta skala może być większa – poinformował PAP Biznes Marek Dobrzycki, partner w Panattoni. Na polski rynek wraca zainteresowanie dużymi inwestycjami.",
       "content_html": "",
       "date_published": "2026-10-07T12:32:00+02:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Przepis-na-Wroclaw-2035-Jak-stworzyc-najbezpieczniejsze-miasto-dla-biznesu-9208774.html",
-      "url": "https://www.bankier.pl/wiadomosc/Przepis-na-Wroclaw-2035-Jak-stworzyc-najbezpieczniejsze-miasto-dla-biznesu-9208774.html",
-      "title": "Przepis na Wrocław 2035. Jak stworzyć najbezpieczniejsze miasto dla biznesu? Czego biznes oczekuje od samorządu i środowiska akademickiego? Jak z lokalnego przedsiębiorstwa zbudować markę o globalnym zasięgu? Już 23 października, podczas trzeciej edycji Forum Finansów Bankier.pl, przedstawiciele biznesu, władz samorządowych i nauki spotkają się, by porozmawiać o strategii, która ma uczynić stolicę Dolnego Śląska najbezpieczniejszym gospodarczo miastem w kraju.",
-      "content_html": "",
-      "date_published": "2026-10-07T12:23:00+02:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Mirbud-planuje-pierwsza-emisje-obligacji-w-ramach-programu-w-IV-kwartale-9208768.html",
-      "url": "https://www.bankier.pl/wiadomosc/Mirbud-planuje-pierwsza-emisje-obligacji-w-ramach-programu-w-IV-kwartale-9208768.html",
-      "title": "Mirbud planuje pierwszą emisję obligacji w ramach programu w IV kwartale Mirbud planuje pierwszą emisję obligacji w ramach ustanowionego programu emisji obligacji w IV kwartale 2026 r. - poinformowała spółka w komunikacie.",
-      "content_html": "",
-      "date_published": "2026-10-07T12:12:00+02:00",
       "source": "Bankier.pl"
     }
   ]
