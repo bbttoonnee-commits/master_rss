@@ -5,12 +5,60 @@
   "home_page_url": "https://www.bankier.pl",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/Wielka-rewolucja-na-GPW-ruszyla-oto-co-musisz-wiedziec-o-WATS-Komentuje-Konrad-Ryczko-9210236.html",
+      "url": "https://www.bankier.pl/wiadomosc/Wielka-rewolucja-na-GPW-ruszyla-oto-co-musisz-wiedziec-o-WATS-Komentuje-Konrad-Ryczko-9210236.html",
+      "title": "Zalogowałeś się do biura maklerskiego i widzisz pusty arkusz? To nie awaria, a nowa zasada GPW",
+      "content_html": "Giełda Papierów Wartościowych w Warszawie wdrożyła długo wyczekiwany autorski system transakcyjny WATS, zastępując dotychczasowy zewnętrzny UTP. Nowa technologia przynosi wyższą szybkość realizacji zleceń i ogromną wydajność, która ma...",
+      "date_published": "2026-10-09T13:40:00+02:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/MON-szykuje-zmiany-dla-rezerwistow-Musimy-polozyc-wiekszy-nacisk-9210226.html",
+      "url": "https://www.bankier.pl/wiadomosc/MON-szykuje-zmiany-dla-rezerwistow-Musimy-polozyc-wiekszy-nacisk-9210226.html",
+      "title": "MON szykuje zmiany dla rezerwistów. „Musimy położyć większy nacisk”",
+      "content_html": "Bez żołnierzy rezerwy nie ma obrony państwa - podkreślił w piątek wicepremier, minister obrony narodowej Władysław Kosiniak-Kamysz, który w Żaganiu (Lubuskie) wziął udział w obchodach Święta Żołnierza Rezerwy.",
+      "date_published": "2026-10-09T13:35:00+02:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Koniec-z-czekaniem-na-widok-drona-Wojsko-otworzy-ogien-na-nowych-zasadach-9210227.html",
+      "url": "https://www.bankier.pl/wiadomosc/Koniec-z-czekaniem-na-widok-drona-Wojsko-otworzy-ogien-na-nowych-zasadach-9210227.html",
+      "title": "Koniec z czekaniem na widok drona. Wojsko otworzy ogień na nowych zasadach",
+      "content_html": "Do zestrzelenia obiektu wystarczająca będzie jego pozytywna identyfikacja, a nie jak wcześniej identyfikacja wzrokowa — mówił w Sejmie wiceszef MON Cezary Tomczyk, odnosząc się do nowych procedur zestrzeliwania statków powietrznych. Jak dodał...",
+      "date_published": "2026-10-09T13:35:00+02:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Fatalny-blad-kuriera-UPS-Tak-czesci-F35-trafily-do-Chin-9210225.html",
+      "url": "https://www.bankier.pl/wiadomosc/Fatalny-blad-kuriera-UPS-Tak-czesci-F35-trafily-do-Chin-9210225.html",
+      "title": "Fatalny błąd kuriera UPS. Tak części F35 trafiły do Chin",
+      "content_html": "Przesyłka z elementami najnowocześniejszego myśliwca świata miała trafić z Australii do USA. Przez błąd logistyczny wylądowała w Hongkongu, gdzie przechwyciły ją chińskie władze. Amerykański Departament Obrony i koncern Lockheed Martin...",
+      "date_published": "2026-10-09T13:34:00+02:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Sonel-liczy-na-lepsza-wynikowo-druga-polowe-26-chce-rosnac-na-kierunkach-zagranicznych-9210223.html",
+      "url": "https://www.bankier.pl/wiadomosc/Sonel-liczy-na-lepsza-wynikowo-druga-polowe-26-chce-rosnac-na-kierunkach-zagranicznych-9210223.html",
+      "title": "Sonel liczy na lepszą wynikowo drugą połowę 2026. Chce rosnąć na kierunkach zagranicznych",
+      "content_html": "Sonel spodziewa się, że III i IV kwartał 2026 roku będą lepsze wynikowo od pierwszego półrocza - poinformował podczas konferencji wynikowej prezes spółki Tomasz Wiśniewski. Z kolei wiceprezes Piotr Saciuk wskazał, że spółka ma ambicje,...",
+      "date_published": "2026-10-09T13:30:00+02:00",
+      "source": "Bankier.pl"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Kruk-zainwestowal-347-mln-zl-w-portfele-wierzytelnosci-w-III-kwartale-26-9210214.html",
       "url": "https://www.bankier.pl/wiadomosc/Kruk-zainwestowal-347-mln-zl-w-portfele-wierzytelnosci-w-III-kwartale-26-9210214.html",
       "title": "Kruk zainwestował 347 mln zł w portfele wierzytelności w III kwartale",
       "content_html": "Kruk w trzecim kwartale 2026 roku wydał na portfele wierzytelności 347 mln zł, podczas gdy rok wcześniej było to 622 mln zł - poinformowała spółka w komunikacie.",
       "date_published": "2026-10-09T13:22:00+02:00",
       "source": "Bankier.pl"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/firmy/kruk-zainwestowal-347-mln-zl-w-portfele-wierzytelnosci-w-iii-kwartale-26",
+      "url": "https://biznes.pap.pl/wiadomosci/firmy/kruk-zainwestowal-347-mln-zl-w-portfele-wierzytelnosci-w-iii-kwartale-26",
+      "title": "Kruk zainwestował 347 mln zł w portfele wierzytelności w III kwartale '26",
+      "content_html": "Kruk w trzecim kwartale 2026 roku wydał na portfele wierzytelności 347 mln zł, podczas gdy rok wcześniej było to 622 mln zł - poinformowała spółka w komunikacie.\n\nGrupa w III kwartale kupiła portfele o nominalnej wartości 1.400 mln zł, podczas gdy rok wcześniej o wartości 2.767 mln zł.\n\nWartość spłat z tytułu obsługi portfeli nabytych przez grupę Kruk wyniosła w III kwartale 960 mln zł, czyli o 5 proc. mniej niż rok wcześniej. (PAP Biznes)",
+      "date_published": "2026-10-09T13:21:00+02:00",
+      "source": "PAP Biznes"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Seria-atakow-w-szkolach-Minister-nauki-zabiera-glos-ws-bezpieczenstwa-9210207.html",
@@ -37,6 +85,14 @@
       "source": "Bankier.pl"
     },
     {
+      "id": "https://biznes.pap.pl/wiadomosci/gospodarka/finanse-publiczne-nie-wplywaja-bardzo-mocno-na-inflacje-kotecki-rpp",
+      "url": "https://biznes.pap.pl/wiadomosci/gospodarka/finanse-publiczne-nie-wplywaja-bardzo-mocno-na-inflacje-kotecki-rpp",
+      "title": "Finanse publiczne nie wpływają bardzo mocno na inflację - Kotecki, RPP",
+      "content_html": "Rada Polityki Pieniężnej bierze pod uwagę sytuację fiskalną, ale finanse publiczne nie wpływają bardzo mocno na inflację - ocenił członek Rady Polityki Pieniężnej, Ludwik Kotecki, podczas konferencji „Koszt nierównowagi fiskalnej. Wpływ finansów publicznych na stabilność sektora bankowego i rozwój gospodarczy Polski”.\n\n\"Jest coś takiego jak dominacja fiskalna w polityce monetarnej. Myślę, że jeszcze daleko do tego. Policy mix, kombinacja polityki fiskalnej i monetarnej (...) to dwie niezależne od siebie polityki, które oczywiście muszą na siebie reagować. My reagujemy i właściwie w każdym komunikacie po posiedzeniu Rady Polityki Pieniężnej jest napisane, że sytuacja fiskalna jest martwiąca dla polityki pieniężnej. Pokazujemy, że jest to jakiś czynnik, który wpływa na nasze decyzje\" - powiedział Kotecki.\n\n\"Natomiast, jakbyśmy sobie wzięli szereg deficytów i szereg inflacji i szukali jakiejś zależności między tymi zmiennymi, to by się okazało, że im wyższy deficyt, tym niższa inflacja - tak w Polsce w ostatnim okresie było. Czyli to pokazuje też trochę, że finanse publiczne nie wpływają jakoś strasznie mocno na inflację (...) To są niezależne polityki i daleko jesteśmy od tego, żeby jedna na druga wpływały\" - dodał.\n\nJak wskazał Kotecki, Rada Polityki Pieniężnej podejmuje decyzje w oparciu o różne zmienne i dane.\n\n\"Naszym mandatem jest niska i stabilna inflacja i patrzymy na wszystkie zmienne, na wszystkie parametry, które ujawniają się w gospodarce w danych. W oparciu o te informacje kształtujemy stopy procentowe tak, żeby ten nasz mandat wypełniać\" - powiedział członek RPP.\n\n\"Mieliśmy silny okres dezinflacji, przy mimo wszystko wysokim poziomie (deficytu - PAP) fiskalnego, czyli to też pokazuje, że ta strona fiskalna na szczęście na tę inflację jakoś bardzo mocno nie oddziaływała\" - dodał. (PAP Biznes)",
+      "date_published": "2026-10-09T12:54:00+02:00",
+      "source": "PAP Biznes"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Huragan-Isaias-zagraza-amerykanskim-rafineriom-Najgorszy-moment-od-25-lat-dla-rynku-paliw-9210173.html",
       "url": "https://www.bankier.pl/wiadomosc/Huragan-Isaias-zagraza-amerykanskim-rafineriom-Najgorszy-moment-od-25-lat-dla-rynku-paliw-9210173.html",
       "title": "Huragan Isaias zagraża amerykańskim rafineriom. „Najgorszy moment od 25 lat” dla rynku paliw",
@@ -51,6 +107,14 @@
       "content_html": "W przyszłym roku realizowany będzie kompleksowy program „Bezpieczne wybory 2027”, w ramach którego monitorowane będą dezinformacja, próby podważania procesu wyborczego oraz skoordynowane ataki na polską infosferę – zapowiedział w piątek...",
       "date_published": "2026-10-09T12:42:00+02:00",
       "source": "Bankier.pl"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/przemysl/liftero-rozpoczyna-prace-nad-prospektem-i-liczy-ze-w-2027-r-przejdzie-na-glowny",
+      "url": "https://biznes.pap.pl/wiadomosci/przemysl/liftero-rozpoczyna-prace-nad-prospektem-i-liczy-ze-w-2027-r-przejdzie-na-glowny",
+      "title": "Liftero rozpoczyna pracę nad prospektem i liczy, że w 2027 r. przejdzie na główny parkiet GPW (wywiad)",
+      "content_html": "Liftero rozpoczyna pracę nad prospektem i liczy, że w 2027 r. przejdzie na główny parkiet GPW - poinformował PAP Biznes Przemysław Drożdż, współzałożyciel i wiceprezes zarządu Liftero. Wskazał, że spółka chce utworzyć w USA stałą strukturę - na początku sprzedażową.\n\nLiftero zadebiutowało na NewConnect 30 czerwca.\n\n\"W najbliższych tygodniach rozpoczniemy prace nad prospektem i wierzymy, że w 2027 roku dojdzie do przeniesienia notowań Liftero z NewConnect na główny parkiet GPW. To dla nas naturalny krok, od początku informowaliśmy o tej aspiracji i wierzymy, że da nam dodatkowy wiatr w żagle\" - powiedział PAP Biznes Przemysław Drożdż.\n\n\"Jeżeli chodzi o nasz pipeline, pracujemy nad nim bardzo intensywnie. Pojawiło się tam wielu nowych potencjalnych klientów, a na konferencji SmallSat 2026 w USA pozyskaliśmy kilkanaście nowych leadów. Wartości, które przedstawialiśmy w raporcie za drugi kwartał, będą mniej więcej na podobnym poziomie. Natomiast z wybranymi podmiotami przechodzimy na bardziej zaawansowany etap rozmów\" - dodał.\n\nW połowie sierpnia podano, że backlog Liftero, czyli wartość podpisanych umów pozostających do realizacji, wynosi około 4,7 mln zł i jest o 92 proc. wyższy niż na koniec 2025 r.\n\nWartość potencjalnych kontraktów bliskich decyzji klientów, oczekiwanej w horyzoncie do ok. sześciu miesięcy, wynosiła 6,3 mln euro. Kategoria ta obejmuje ponad 10 potencjalnych zamówień.\n\n\"Od marca tego roku mamy w pełni potwierdzone działanie naszego systemu w kosmosie. Zdobyliśmy tak zwany Flight Heritage i to dopiero pierwszych kilka miesięcy pełnej komercjalizacji systemu BOOSTER. Dlatego optymistycznie patrzymy na nasz pipeline i rosnące zainteresowanie oraz coraz bardziej zaawansowane rozmowy. Mamy dotąd świetne informacje zwrotne z rynku\" - powiedział.\n\n\"Musimy jednak pamiętać, że proces budowania marki i zaufania klienta do naszego produktu, chemicznego napędu kosmicznego nowej generacji, jest ciągle na wczesnym etapie i trzeba mieć tego świadomość. Progres jest ogromny, opinie od klientów są bardzo pozytywne, wiemy, że mamy dopracowany produkt - mimo to nie mogę wprost zadeklarować konkretnych dat podpisania kolejnych umów\" – dodał.\n\nWskazał, że równolegle firma mocno skupia się na obsłudze obecnych zobowiązań - realizuje kontrakty na trzy systemy, na łącznie 20 silników.\n\nW lutym Liftero zawarło kontrakt z OrbitAID z Indii o wartości ok. 1,85 mln zł na dostarczenie dwóch systemów BOOSTER wyposażonych łącznie w ponad 10 silników. W lipcu spółka pozyskała kolejnego klienta z Azji, podpisując kontrakt o wartości blisko 1,5 mln zł na dostarczenie pojedynczego systemu BOOSTER z 8 silnikami.\n\n\"Jesteśmy na etapie zaawansowanych prac, a wytworzone komponenty w naszym laboratorium czekają już na integrację w cały system i rozpoczęcie kampanii testowej. Projekty są w pełni dostosowane do potrzeb klienta, bo nasz końcowy produkt nie jest rozwiązaniem z półki – mamy ustandaryzowane komponenty, ale w procesie integracji zawsze następuje odpowiednia personalizacja, aby dopasować się do możliwości platformy satelitarnej klienta oraz jego dodatkowych oczekiwań\" – powiedział Przemysław Drożdż.\n\n\"Jeśli chodzi o same terminy, my z naszej strony bylibyśmy gotowi dostarczyć te systemy do końca bieżącego roku. Nastąpiła jednak zmiana harmonogramu po stronie samych klientów. Ich aktualny plan przewiduje, że dostawa nastąpi raczej w pierwszym kwartale przyszłego roku niż pod koniec roku 2026, jak wcześniej nam flagowano\" – dodał.\n\nPodał, że obecnie głównymi klientami spółki są klienci komercyjni.\n\n\"Nie oznacza to jednak, że zwalniamy tempo, jeśli chodzi o pozyskiwanie kontraktów instytucjonalnych. Z Europejską Agencją Kosmiczną ciągle rozmawiamy o nowych kontraktach, w tym większych od realizowanych dotychczas. Mimo to dynamika wzrostu przychodów z sektora komercyjnego jest na tyle wysoka, że to udział tego rodzaju umów powinien być w ujęciu rocznym dominujący w ogólnej strukturze i taki mix chcemy też utrzymać w kolejnych latach\" – powiedział.",
+      "date_published": "2026-10-09T12:40:00+02:00",
+      "source": "PAP Biznes"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Egzekucja-zamachowca-na-zywo-ONZ-To-forma-tortur-9210169.html",
@@ -77,12 +141,28 @@
       "source": "Bankier.pl"
     },
     {
+      "id": "https://biznes.pap.pl/wiadomosci/firmy/duon-nabywa-czesc-aktywow-gaspolu-zwiazanych-z-dzialalnoscia-lng",
+      "url": "https://biznes.pap.pl/wiadomosci/firmy/duon-nabywa-czesc-aktywow-gaspolu-zwiazanych-z-dzialalnoscia-lng",
+      "title": "Duon nabywa część aktywów Gaspolu związanych z działalnością LNG",
+      "content_html": "Duon nabywa część aktywów Gaspolu związanych z działalnością LNG - poinformował UOKiK, do którego zgłoszono zamiar koncentracji.\n\n\"Zamierzona koncentracja polega na nabyciu przez Duon Dystrybucja części mienia Gaspol\" - napisano.\n\nJak podano, w wyniku zamierzonej koncentracji Duon nabędzie część mienia Gaspol w postaci aktywów związanych z działalnością LNG, obejmujących majątek ruchomy, prawa i obowiązki wynikające z wybranych umów handlowych oraz inne aktywa bezpośrednio związane z obrotem LNG.\n\nDziałalność spółki Duon koncentruje się na obrocie paliwami gazowymi i dystrybucji paliw gazowych przy użyciu własnej infrastruktury. Specjalizuje się w dostawach gazu ziemnego sieciowego i skroplonego (LNG), dostarczając gaz ziemny wysokometanowy oraz zaazotowany do odbiorców końcowych. Posiada on infrastrukturę gazową, na którą składają się sieci dystrybucyjne oraz stacje regazyfikacji skroplonego gazu ziemnego LNG.\n\nGaspol prowadzi działalność gospodarczą w sektorze energetycznym, dostarczając rozwiązań energetycznych, bazujących na gazie płynnym (LPG), skroplonym gazie ziemnym (LNG), a także systemach hybrydowych (zbiorniki LPG oraz pompy ciepła). (PAP Biznes)",
+      "date_published": "2026-10-09T12:29:00+02:00",
+      "source": "PAP Biznes"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Przycisk-alarmowy-monitoring-i-zakaz-wstepu-PiS-przedstawia-plan-dla-szkol-9210139.html",
       "url": "https://www.bankier.pl/wiadomosc/Przycisk-alarmowy-monitoring-i-zakaz-wstepu-PiS-przedstawia-plan-dla-szkol-9210139.html",
       "title": "Przycisk alarmowy, monitoring i zakaz wstępu. PiS przedstawia plan dla szkół",
       "content_html": "Natychmiastowe szkolenia w szkołach, pełny monitoring, zakaz wstępu osobom postronnym, przycisk bezpieczeństwa do szybkiego powiadomienia policji, lepszy dostęp do psychiatrii i psychologów – to pięć filarów programu „Bezpieczna Szkoła”...",
       "date_published": "2026-10-09T12:21:00+02:00",
       "source": "Bankier.pl"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/firmy/globalna-sytuacja-sprawia-ze-w-przyszlym-tygodniu-mozliwe-sa-podwyzki-cen-paliw-na",
+      "url": "https://biznes.pap.pl/wiadomosci/firmy/globalna-sytuacja-sprawia-ze-w-przyszlym-tygodniu-mozliwe-sa-podwyzki-cen-paliw-na",
+      "title": "Globalna sytuacja sprawia, że w przyszłym tygodniu możliwe są podwyżki cen paliw na stacjach - e-petrol",
+      "content_html": "Globalna sytuacja sprawia, że w przyszłym tygodniu możliwe są podwyżki cen paliw na stacjach - wskazują analitycy e-petrol.\n\n\"Wprawdzie pakiet CPN osłania portfele kierowców na tyle szczelnie, że historyczna drożyzna na razie nam nie grozi, ale globalna sytuacja powoduje, że na krajowy rynek ponownie zawitają wyższe ceny dla wszystkich typów paliw. To nadal pokłosie problemów z bezpieczeństwem wydobycia i tranzytu w regionie bliskowschodnim\" - napisano w raporcie.\n\n\"W nadchodzącym tygodniu między 12 a 18 października 2026 r. kierowcy spotkają się zapewne z następującymi średnimi cenami na stacjach: benzyna Pb98 będzie kosztować od 7,79 do 7,92 zł/l, a popularna Pb95 (E10) od 6,89 do 7,02 zł/l. Za olej napędowy (ON) zapłacimy w przedziale 7,93–8,06 zł/l, natomiast autogaz (LPG) utrzyma się na poziomie 3,26–3,34 zł/l\" - dodano.\n\nAktualne średnie ceny paliw w polskich rafineriach (źródło: e-petrol).",
+      "date_published": "2026-10-09T12:15:00+02:00",
+      "source": "PAP Biznes"
     },
     {
       "id": "https://biznes.pap.pl/wiadomosci/firmy/cena-maksymalna-na-10-12-x-dla-benzyny-pb95-wynosi-697-zll-dla-806-zll",
@@ -245,28 +325,12 @@
       "source": "Bankier.pl"
     },
     {
-      "id": "https://biznes.pap.pl/wiadomosci/firmy/ke-nadala-status-projektow-strategicznych-dwom-przedsiewzieciom-kghm",
-      "url": "https://biznes.pap.pl/wiadomosci/firmy/ke-nadala-status-projektow-strategicznych-dwom-przedsiewzieciom-kghm",
-      "title": "KE nadała status projektów strategicznych dwóm przedsięwzięciom KGHM",
-      "content_html": "Komisja Europejska nadała status projektów strategicznych dwóm przedsięwzięciom KGHM: udostępnieniu i eksploatacji złoża Retków–Grodziszcze oraz transformacji Huty Miedzi Legnica w zintegrowaną hutę recyklingową - podała spółka w komunikacie prasowym. Status projektów strategicznych może ułatwić przygotowanie i realizację obu inwestycji.\n\nJak podano, inwestycje o łącznej wartości ponad 9,5 mld zł wzmocnią europejskie zdolności wydobycia i recyklingu miedzi, ograniczą zależność od dostaw spoza Unii Europejskiej oraz wesprą rozwój europejskiego przemysłu miedziowego.\n\n\"Decyzja Komisji Europejskiej potwierdza, że projekty KGHM mają fundamentalne znaczenie dla bezpieczeństwa Europy. Zagwarantowanie stabilnego dostępu do miedzi warunkuje rozwój wielu gałęzi gospodarki, od energetyki po nowe technologie. Zrównoważona eksploatacja zasobów naturalnych oraz nowoczesne metody recyklingu, to optymalny sposób na wzmacnianie niezależności surowcowej, a tym samym perspektyw rozwoju i odporności europejskiej gospodarki\" – powiedział cytowany Remigiusz Paszkiewicz, prezes KGHM Polska Miedź.\n\n\"Mam nadzieję, że Komisja podejmie wkrótce kolejne działania niezbędne do realizacji tego celu. Bez zapewnienia odpowiedniej podaży i ustabilizowania rynku złomu surowców krytycznych, polityka europejska pozostaje bowiem niespójna, co znacząco ogranicza efekty podejmowanych wysiłków i uniemożliwia pełne wykorzystanie potencjału gospodarczego Europy\" – dodał.\n\nPrzyznanie statusu projektów strategicznych oznacza, że przedsięwzięcia KGHM zostały uznane za istotne z punktu widzenia bezpieczeństwa dostaw surowców strategicznych i prawidłowego funkcjonowania rynku wewnętrznego Unii Europejskiej.\n\nProjekty wpisują się w cele aktu o surowcach krytycznych (CRMA), który zakłada rozwój europejskich zdolności wydobywczych, przetwórczych i recyklingowych oraz ograniczenie zależności od dostaw spoza UE.\n\nProjekt udostępnienia i eksploatacji złoża Retków-Grodziszcze obejmuje budowę szybu „Retków” wraz z niezbędną infrastrukturą towarzyszącą.\n\n\"To jeden z trzech szybów górniczych, których budowa została zainicjowana w 2025 roku. W perspektywie do 2055 roku przedsięwzięcie ma umożliwić wydobycie ponad 100 mln ton rudy polimetalicznej, zawierającej blisko 1,5 mln ton miedzi oraz ponad 5 tys. ton srebra\" - napisano.\n\nWskazano, że skala zapotrzebowania na miedź w Europie jest znacząca. Szacuje się, że w latach 2020–2050 na wdrożenie rozwiązań technologicznych mających ograniczyć emisje gazów cieplarnianych w UE potrzebne będzie około 22 mln ton miedzi.\n\nProjekt Zintegrowanej Huty Recyklingowej Legnica obejmuje zaprojektowanie i uruchomienie instalacji do przetopu złomów zawierających od 15 proc. do 60 proc. miedzi, a także metale towarzyszące, w tym nikiel.\n\nZakładana roczna produkcja huty po zakończeniu inwestycji wyniesie około 135 tys. ton miedzi elektrolitycznej oraz 250 ton niklu.\n\n\"Projekt wspiera realizację jednego z głównych celów CRMA, jakim jest rozwój unijnych zdolności recyklingowych. Mają one pokrywać co najmniej 25 proc. rocznego zużycia surowców strategicznych\" - napisano.\n\n\"Warunkiem stabilnej pracy instalacji będzie długoterminowy dostęp do złomów miedzi w odpowiedniej ilości i o odpowiednim składzie. Dlatego istotne jest wypracowanie na poziomie UE rozwiązań, które ograniczą wywóz tych materiałów poza Europę, zapewnią ich dostępność dla unijnego przemysłu oraz będą wspierać odzysk metali towarzyszących, w szczególności surowców krytycznych i strategicznych\" - dodano.\n\nStatus projektów strategicznych może przełożyć się na konkretne ułatwienia w przygotowaniu i realizacji obu inwestycji. Obejmuje to sprawniejsze i bardziej przewidywalne procedury administracyjne, lepszą koordynację procesu pozyskiwania pozwoleń oraz możliwość ubiegania się o preferencyjne finansowanie zewnętrzne.\n\nDodano, że ma to szczególne znaczenie dla złożonych przedsięwzięć górniczych i hutniczych, których przygotowanie wymaga wieloletnich prac, znacznych nakładów finansowych oraz współp",
-      "date_published": "2026-10-09T10:46:00+02:00",
-      "source": "PAP Biznes"
-    },
-    {
       "id": "https://www.bankier.pl/wiadomosc/Prezes-NBP-o-krok-od-Trybunalu-Stanu-Wniosek-trafi-do-Sejmu-9210057.html",
       "url": "https://www.bankier.pl/wiadomosc/Prezes-NBP-o-krok-od-Trybunalu-Stanu-Wniosek-trafi-do-Sejmu-9210057.html",
       "title": "Prezes NBP o krok od Trybunału Stanu. Wniosek trafi do Sejmu",
       "content_html": "Sejmowa Komisja Odpowiedzialności Konstytucyjnej w piątek przyjęła sprawozdanie z prac w sprawie wstępnego wniosku o postawienie prezesa NBP Adama Glapińskiego przed Trybunałem Stanu; wnosi o pociągnięcie go do odpowiedzialności konstytucyjnej...",
       "date_published": "2026-10-09T10:43:00+02:00",
       "source": "Bankier.pl"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/gospodarka/sejmowa-komisja-przyjela-sprawozdanie-ws-wniosku-o-postawienie-prezesa-nbp-1",
-      "url": "https://biznes.pap.pl/wiadomosci/gospodarka/sejmowa-komisja-przyjela-sprawozdanie-ws-wniosku-o-postawienie-prezesa-nbp-1",
-      "title": "Sejmowa komisja przyjęła sprawozdanie ws. wniosku o postawienie prezesa NBP przed TS (opis, aktl.)",
-      "content_html": "Sejmowa Komisja Odpowiedzialności Konstytucyjnej przyjęła sprawozdanie ws. wstępnego wniosku o pociągnięcie do odpowiedzialności konstytucyjnej przed Trybunałem Stanu prezesa NBP Adama Glapińskiego - poinformowali w Sejmie przedstawiciele Komisji i wnioskodawców. Przewodniczący klubu KO w Sejmie Z. Konwiński ocenił, że jeszcze w 2026 r. nad wnioskiem głosować może Sejm.\n\n\"Komisja przegłosowała wniosek (sprawozdanie komisji ws. wniosku - PAP) o Trybunał Stanu dla Prezesa Narodowego Banku Polskiego, pana Glapińskiego. (...) Wszystkie osiem zarzutów zostało przez Komisję podtrzymane\" - powiedział przewodniczący klubu KO w Sejmie Zbigniew Konwiński, który był przedstawicielem wnioskodawców.\n\n\"(Wśród zarzutów podtrzymano - PAP) pośrednie finansowanie deficytu budżetowego przez prezesa Glapińskiego, działanie bez należytego upoważnienia Rady Polityki Pieniężnej, nieuprawnione interwencje walutowe, działania sprzeczne z założeniami polityki pieniężnej, utrudnianie pracy członkom Rady Polityki Pieniężnej i zarządu Narodowego Banku Polskiego, wprowadzanie ministra finansów w błąd, akceptowanie mechanizmu automatycznych nagród kwartalnych, naruszenie zasady apolityczności\" - dodał.\n\nNad sprawozdaniem komisji obradować będzie teraz Sejm. Może to zrobić najwcześniej po 21 dniach od zapoznania się ze sprawozdaniem przez wszystkich posłów. Zgodnie z ustawą o Trybunale Stanu, sejmowa Komisja Odpowiedzialności Konstytucyjnej po przeprowadzeniu postępowania przedstawia Sejmowi sprawozdanie z prac wraz z wnioskiem o pociągnięcie do odpowiedzialności przed Trybunałem Stanu lub o umorzenie postępowania.\n\nPrzewodniczący komisji Zdzisław Gawlik poinformował, że jeszcze w piątek sprawozdanie komisji wpłynie do marszałka Sejmu.\n\nKonwiński wyraził nadzieję, że marszałek Sejmu umieści rozpatrywanie wniosku na agendzie Sejmu \"w pierwszym możliwym terminie\", czyli w listopadzie.\n\n\"Myślę, że w tym roku będziemy głosować w sali plenarnej\" - dodał.\n\nUchwałę o pociągnięciu do odpowiedzialności przed TS prezesa NBP Sejm podejmuje bezwzględną większością głosów w obecności co najmniej połowy (230) ustawowej liczby posłów. Uchwała taka powoduje zawieszenie w czynnościach osoby, której dotyczy. W 2024 r. Trybunał Konstytucyjny zakwestionował jednak przepisy ustawy o TS dotyczące zawieszenia prezesa NBP.\n\nWnioskodawcy zarzucali we wstępnym wniosku prezesowi NBP naruszenie konstytucji i ustaw, m.in. poprzez pośrednie finansowanie deficytu budżetowego w ramach skupu aktywów w latach 2020-2021, prowadzenie tego skupu bez \"należytego upoważnienia\" od Rady Polityki Pieniężnej, dokonywanie interwencji walutowych bez podobnego upoważnienia zarządu NBP, czy poprzez uchybienie nakazowi apolityczności prezesa NBP.\n\nPrezes NBP ocenił na ostatniej konferencji prasowej, że to postępowanie komisji nie ma żadnych podstaw, jest szkodliwe z punktu widzenia interesu wewnętrznych Polski i może mieć istotny negatywny wpływ w relacjach z zagranicą. Już wcześniej NBP uznawał zarzuty dla Glapińskiego za całkowicie bezpodstawne. Glapiński informował w 2024 r. że NBP nie będzie brał udziału w procedurze, a jakiekolwiek decyzje komisji nie są dla banku istotne, w związku z wyrokiem Trybunału Konstytucyjnego z 2024 r. w tej sprawie.\n\nPrezes NBP jest powoływany i odwoływany przez Sejm na wniosek prezydenta RP. Druga i ostatnia kadencja Glapińskiego w roli prezesa NBP upływa w czerwcu 2028 r. (PAP Biznes)",
-      "date_published": "2026-10-09T10:43:00+02:00",
-      "source": "PAP Biznes"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Polacy-rzucili-sie-na-obligacje-8-mld-w-miesiac-i-blisko-65-mld-od-poczatku-roku-9210072.html",
@@ -277,14 +341,6 @@
       "source": "Bankier.pl"
     },
     {
-      "id": "https://biznes.pap.pl/wiadomosci/gospodarka/sejmowa-komisja-przyjela-sprawozdanie-ws-wniosku-o-postawienie-prezesa-nbp-0",
-      "url": "https://biznes.pap.pl/wiadomosci/gospodarka/sejmowa-komisja-przyjela-sprawozdanie-ws-wniosku-o-postawienie-prezesa-nbp-0",
-      "title": "Sejmowa komisja przyjęła sprawozdanie ws. wniosku o postawienie prezesa NBP przed TS (opis)",
-      "content_html": "Sejmowa Komisja Odpowiedzialności Konstytucyjnej przyjęła sprawozdanie ws. wstępnego wniosku o pociągnięcie do odpowiedzialności konstytucyjnej przed Trybunałem Stanu prezesa NBP Adama Glapińskiego - poinformowali w Sejmie przedstawiciele Komisji i wnioskodawców.\n\n\"Komisja przegłosowała wniosek (sprawozdanie komisji ws. wniosku - PAP) o Trybunał Stanu dla Prezesa Narodowego Banku Polskiego, pana Glapińskiego. (...) Wszystkie osiem zarzutów zostało przez Komisję podtrzymane\" - powiedział przewodniczący klubu KO w Sejmie Zbigniew Konwiński, który był przedstawicielem wnioskodawców.\n\n\"(Wśród zarzutów podtrzymano - PAP) pośrednie finansowanie deficytu budżetowego przez prezesa Glapińskiego, działanie bez należytego upoważnienia Rady Polityki Pieniężnej, nieuprawnione interwencje walutowe, działania sprzeczne z założeniami polityki pieniężnej, utrudnianie pracy członkom Rady Polityki Pieniężnej i zarządu Narodowego Banku Polskiego, wprowadzanie ministra finansów w błąd, akceptowanie mechanizmu automatycznych nagród kwartalnych, naruszenie zasady apolityczności\" - dodał.\n\nNad sprawozdaniem komisji głosować będzie teraz Sejm. Może to zrobić najwcześniej po 21 dniach od zapoznania się ze sprawozdaniem przez wszystkich posłów. Zgodnie z ustawą o Trybunale Stanu, sejmowa Komisja Odpowiedzialności Konstytucyjnej po przeprowadzeniu postępowania przedstawia Sejmowi sprawozdanie z prac wraz z wnioskiem o pociągnięcie do odpowiedzialności przed Trybunałem Stanu lub o umorzenie postępowania.\n\nPrzewodniczący komisji Zdzisław Gawlik poinformował, że jeszcze w piątek sprawozdanie komisji wpłynie do marszałka Sejmu. Dodał, że nie wie, kiedy wnioskiem może zająć się Sejm.\n\nUchwałę o pociągnięciu do odpowiedzialności przed TS prezesa NBP Sejm podejmuje bezwzględną większością głosów w obecności co najmniej połowy (230) ustawowej liczby posłów. Uchwała taka powoduje zawieszenie w czynnościach osoby, której dotyczy. W 2024 r. Trybunał Konstytucyjny zakwestionował jednak przepisy ustawy o TS dotyczące zawieszenia prezesa NBP.\n\nWnioskodawcy zarzucali we wstępnym wniosku prezesowi NBP naruszenie konstytucji i ustaw, m.in. poprzez pośrednie finansowanie deficytu budżetowego w ramach skupu aktywów w latach 2020-2021, prowadzenie tego skupu bez \"należytego upoważnienia\" od Rady Polityki Pieniężnej, dokonywanie interwencji walutowych bez podobnego upoważnienia zarządu NBP, czy poprzez uchybienie nakazowi apolityczności prezesa NBP.\n\nPrezes NBP ocenił na ostatniej konferencji prasowej, że to postępowanie komisji nie ma żadnych podstaw, jest szkodliwe z punktu widzenia interesu wewnętrznych Polski i może mieć istotny negatywny wpływ w relacjach z zagranicą. Już wcześniej NBP uznawał zarzuty dla Glapińskiego za całkowicie bezpodstawne. Glapiński informował w 2024 r. że NBP nie będzie brał udziału w procedurze, a jakiekolwiek decyzje komisji nie są dla banku istotne, w związku z wyrokiem Trybunału Konstytucyjnego z 2024 r. w tej sprawie.\n\nPrezes NBP jest powoływany i odwoływany przez Sejm na wniosek prezydenta RP. Druga i ostatnia kadencja Glapińskiego w roli prezesa NBP upływa w czerwcu 2028 r. (PAP Biznes)",
-      "date_published": "2026-10-09T10:32:00+02:00",
-      "source": "PAP Biznes"
-    },
-    {
       "id": "https://www.bankier.pl/wiadomosc/CPN-kontra-inflacja-Minister-Motyka-Pakiet-obniza-wzrost-o-1-punkt-proc-9210064.html",
       "url": "https://www.bankier.pl/wiadomosc/CPN-kontra-inflacja-Minister-Motyka-Pakiet-obniza-wzrost-o-1-punkt-proc-9210064.html",
       "title": "CPN kontra inflacja. Minister Motyka: Pakiet obniża wzrost o 1 punkt proc.",
@@ -293,28 +349,12 @@
       "source": "Bankier.pl"
     },
     {
-      "id": "https://biznes.pap.pl/wiadomosci/gospodarka/pakiet-cpn-obniza-inflacje-o-1-pkt-proc-motyka-me",
-      "url": "https://biznes.pap.pl/wiadomosci/gospodarka/pakiet-cpn-obniza-inflacje-o-1-pkt-proc-motyka-me",
-      "title": "Pakiet CPN obniża inflację o 1 pkt proc. - Motyka, ME",
-      "content_html": "Pakiet CPN obniża inflację o 1 pkt proc. - poinformował w Sejmie minister energii Miłosz Motyka.\n\n\"Jeżeli chodzi o jej wpływ na inflację, niezależne ośrodki analityczne, o które też poprosiliśmy o takie dokładne analizy, wskazały nam wpływ pakietu CPN na inflację. W sumie, miesięcznie, sam pakiet CPN to obniżka inflacji o jeden punkt procentowy\" - powiedział.\n\nRząd przywrócił pakiet \"Ceny Paliw Niżej\", tj. obniżył stawki VAT na paliwa z 23 proc. do 8 proc. oraz akcyzę do najniższego dopuszczalnego poziomu w UE, a także przywrócił ogłaszane przez ministra energii ceny maksymalne paliw na stacjach po tym, gdy prezydent Karol Nawrocki podpisał ustawę o tzw. windfall tax na spółki paliwowe. (PAP biznes)",
-      "date_published": "2026-10-09T10:26:00+02:00",
-      "source": "PAP Biznes"
-    },
-    {
       "id": "https://www.bankier.pl/wiadomosc/Strajk-Generalny-w-Dino-Przed-swietami-moze-byc-trudno-zrobic-zakupy-9210060.html",
       "url": "https://www.bankier.pl/wiadomosc/Strajk-Generalny-w-Dino-Przed-swietami-moze-byc-trudno-zrobic-zakupy-9210060.html",
       "title": "Strajk generalny w Dino przed świętami. Podano termin",
       "content_html": "Zakupy w Dino tuż przed Bożym Narodzeniem mogą być utrudnione. Związkowcy zapowiadają tam strajk generalny w dniach 20-23 grudnia 2026 r. Akcja ma objąć sklepy i magazyny należące do sieci. Wcześniej, 13 października, planują manifestację...",
       "date_published": "2026-10-09T10:21:00+02:00",
       "source": "Bankier.pl"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/gospodarka/sprzedaz-obligacji-detalicznych-we-wrzesniu-wyniosla-ok-79-mld-zl-mf",
-      "url": "https://biznes.pap.pl/wiadomosci/gospodarka/sprzedaz-obligacji-detalicznych-we-wrzesniu-wyniosla-ok-79-mld-zl-mf",
-      "title": "Sprzedaż obligacji detalicznych we wrześniu wyniosła ok. 7,9 mld zł - MF",
-      "content_html": "Sprzedaż obligacji detalicznych we wrześniu 2026 r. wyniosła 7.857,2 mln zł wobec 8.239,1 mln zł miesiąc wcześniej - podał resort finansów w komunikacie.\n\nMF podał, że najchętniej kupowanymi instrumentami były obligacje 1-roczne – ROR (39 proc. udział w strukturze sprzedaży), nabywcy indywidualni przeznaczyli na ich zakup kwotę 3 038 mln zł oraz 3-letnie – TOS (19 proc.) ze sprzedażą na poziomie 1 479 mln zł i COI (18 proc.) ze sprzedażą 1 450 mln zł.\n\nMniejszym zainteresowaniem cieszyły obligacje 10-letnie – EDO (13 proc.) i 2-letnie – DOR (7 proc.) oraz 3-miesięczne – OTS (3 proc.).\n\nOd początku roku sprzedaż obligacji detalicznych wyniosła łącznie 64.676,31 mln zł. (PAP Biznes)",
-      "date_published": "2026-10-09T10:19:00+02:00",
-      "source": "PAP Biznes"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Spolka-zalezna-Unimotu-szacuje-wplywy-z-premii-kogeneracyjnej-na-153-mln-zl-9210056.html",
@@ -405,6 +445,30 @@
       "source": "Bankier.pl"
     },
     {
+      "id": "https://biznes.pap.pl/wiadomosci/firmy/dzien-na-gpw-poczatek-sesji-moze-byc-pozytywny-1",
+      "url": "https://biznes.pap.pl/wiadomosci/firmy/dzien-na-gpw-poczatek-sesji-moze-byc-pozytywny-1",
+      "title": "DZIEŃ NA GPW: Początek sesji może być pozytywny",
+      "content_html": "Notowania kontraktów terminowych na europejskie indeksy sugerują, że początek piątkowej sesji może być wzrostowy. Analitycy wskazują, że w centrum uwagi rynków pozostanie sytuacja na Bliskim Wschodzie.\n\n\"Na moment pisania komentarza na rynkach azjatyckich przeważają pozytywne nastroje. (...) Notowania kontraktów terminowych na główne europejskie indeksy wskazują na pozytywne otwarcie piątkowej sesji\" - napisał w komentarzu Michał Kozak, analityk DI Xelion.\n\nJak podał, kalendarz makroekonomiczny na piątek jest stosunkowo spokojny. W ciągu dnia rynek pozna m.in. odczyt dotyczący nastrojów konsumentów w USA.\n\n\"Uwaga inwestorów prawdopodobnie pozostanie jednak przede wszystkim skupiona na rozwoju sytuacji na Bliskim Wschodzie\" - napisał analityk DI Xelion.\n\nZWRÓĆ UWAGĘ (informacje opublikowane po zamknięciu notowań na GPW):\n\n• 11 bit studios ustalił datę premiery gry \"Trainwatch\" w wersji PC na 10 marca 2027 roku oraz ogłosił nowy projekt wydawniczy \"Volatiles\".\n\n• Paramount Pictures pracuje nad filmem rozgrywającym się w uniwersum Cyberpunka, który będzie oparty na grze CD Projektu RED - podał serwis Deadline. Informację na platformie X potwierdził Joint CEO spółki, Michał Nowakowski wskazując, że spółka podzieli się szczegółami we właściwym czasie.\n\n• Ronson Development sprzedał w trzecim kwartale 2026 roku 109 lokali i przekazał w tym czasie 114 lokali.\n\n• W czwartek Sejm nie poparł wniosku o odrzucenie projektu ustawy budżetowej na 2027 rok w I czytaniu, w efekcie projekt został skierowany do prac w komisjach sejmowych. Prace nad przyszłorocznym budżetem mają potrwać do 15 stycznia.\n\n• Ministerstwo Skarbu USA objęło w czwartek sankcjami 17 irańskich tankowców należących do tzw. floty cieni. Według sekretarza skarbu Scotta Bessenta te statki to \"resztki\" irańskiej floty.\n\n• Prezydent Stanów Zjednoczonych Donald Trump poinformował w czwartek, że nie wznowi ataków na Iran przed wyborami połówkowymi w USA, zaplanowanymi na 3 listopada. Dodał, że prowadzi z Teheranem produktywne rozmowy.\n\n• W Japonii Nikkei 225 zyskał 0,06 proc. W Hongkongu indeks Hang Seng zwyżkuje o 1,82 proc. W Chinach indeks SSEC rośnie o 0,22 proc. W Indiach Sensex zwyżkuje 0,99 proc. W Korei Południowej rynki są zamknięte z powodu dnia Hangulu.\n\n• Kontrakty na Stoxx 50 Europe rosną o 0,62 proc., na FTSE 100 idą w górę o 0,88 proc., na CAC 40 zwyżkują o 0,82 proc., a na DAX zyskują 0,67 proc.\n\n• Kontrakty na indeksy w USA są w przedziale od +0,1 proc. do +0,6 proc.\n\n• Giełdy w Europie zniżkowały na koniec sesji w czwartek. Na zamknięciu sesji indeks Euro Stoxx 50 stracił 0,87 proc., niemiecki DAX zniżkował o 1,18 proc., francuski CAC 40 poszedł w dół o 0,51 proc., a brytyjski FTSE spadł o 0,16 proc. Benchmarkowy indeks Stoxx Europe 600 zniżkował o 0,75 proc.\n\n• Czwartkowa sesja na Wall Street zakończyła się przewagą spadków głównych indeksów, a inwestorzy odczuwali presję ze strony wysokich cen ropy i spadających kursów akcji spółek technologicznych.\n\n• Dow Jones Industrial na zamknięciu wzrósł o 0,1 proc. i wyniósł 51.231,64 pkt. S&P 500 na koniec dnia spadł o 0,47 proc. i wyniósł 7.765,36 pkt. Nasdaq Composite zniżkował o 1,25 proc. do 27.193,34 pkt.\n\n• Indeks WIG20 na zamknięciu poprzedniej sesji spadł o 0,63 proc. do 4128,78 pkt., WIG spadł o 0,59 proc. i wyniósł 155.764,56 pkt., mWIG40 spadł o 0,83 proc. do 10.486,17 pkt., natomiast sWIG80 spadł o 0,32 proc. do 30.663,26 pkt.(PAP Biznes)",
+      "date_published": "2026-10-09T08:44:00+02:00",
+      "source": "PAP Biznes"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/rynki/dzien-na-rynkach-futures-w-europie-rosna-indeksy-w-azji-tez-na-plusach",
+      "url": "https://biznes.pap.pl/wiadomosci/rynki/dzien-na-rynkach-futures-w-europie-rosna-indeksy-w-azji-tez-na-plusach",
+      "title": "DZIEŃ NA RYNKACH: Futures w Europie rosną; indeksy w Azji też na plusach",
+      "content_html": "Kontrakty w Europie zwyżkują, podobnie jak giełdy w Azji. Na rynkach pojawiły się obawy o perspektywy dla branży AI po informacjach o przychodach OpenAI.\n\nKontrakty na Stoxx 50 Europe rosną o 0,62 proc., na FTSE 100 idą w górę o 0,88 proc., na CAC 40 zwyżkują o 0,82 proc., a na DAX zyskują 0,67 proc.\n\nW Japonii Nikkei 225 zyskał 0,06 proc. W Hongkongu indeks Hang Seng zwyżkuje o 1,82 proc. W Chinach indeks SSEC rośnie o 0,22 proc. W Indiach Sensex zwyżkuje 0,99 proc.\n\nW Korei Południowej rynki są zamknięte z powodu dnia Hangulu.\n\nKontrakty na indeksy w USA są w przedziale od +0,1 proc. do +0,6 proc.\n\nInwestorzy niepokoją się o kondycję branży AI po tym, jak „Financial Times” podał, że OpenAI poinformowało inwestorów, że jego przychody w ujęciu rocznym we wrześniu wyniosły prawie 50 mld USD, czyli o ok. 20 mld USD mniej, niż wcześniej sygnalizowała spółka, co negatywnie wpłynęło na nastroje rynkowe.\n\nW Australii operator centrów danych, firma Firmus, wstrzymał plany przeprowadzenia pierwszej oferty publicznej (IPO) o wartości 5 mld USD, decydując się zamiast tego na pozyskanie kapitału w drodze prywatnej emisji.\n\nTymczasem w USA szykuje się kolejna ogromna runda pozyskiwania środków. Oczekuje się, że SpaceX, Broadcom i Oracle zbiorą miliardy dolarów na zakup zaawansowanych układów scalonych przeznaczonych do obsługi sztucznej inteligencji.\n\nWedług szacunków Morgan Stanley, do 2028 r. infrastruktura AI będzie wymagała zewnętrznego finansowania na poziomie 1,5 bln USD, przy czym proces ten zbiega się w czasie ze wzrostem stóp procentowych oraz rentowności obligacji na całym świecie, będących reakcją na presję inflacyjną wywołaną wyższymi cenami energii.\n\n\"Doniesienia na temat OpenAI stały się dla inwestorów impulsem do częściowej redukcji zaangażowania na rynku. Na razie jednak zachowanie indeksów sugeruje, że inwestorzy podchodzą bardziej selektywnie do tego, gdzie chcą lokować kapitał, a co istotne, jaką cenę są gotowi zapłacić za przyszły wzrost\" – przekazał Chris Weston, szef działu analiz w Pepperstone.\n\n\"Ostatnie tygodnie przyniosły nerwowość w sektorze spółek związanych ze sztuczną inteligencją, a w obliczu rentowności amerykańskich obligacji utrzymujących się blisko wieloletnich szczytów, apetyt inwestorów na ryzyko osłabł. Kluczowy sprawdzian nadejdzie wraz z rozpoczynającym się w najbliższych tygodniach sezonem publikacji wyników finansowych. Wówczas firmy przeznaczające największe kwoty na sztuczną inteligencję ujawnią, czy nadal są gotowe kontynuować te wydatki\" – powiedział Josh Gilbert, główny analityk eToro na region Azji i Pacyfiku.\n\nPrezydent Stanów Zjednoczonych Donald Trump poinformował w czwartek, że nie wznowi ataków na Iran przed wyborami połówkowymi w USA, zaplanowanymi na 3 listopada. Oznajmił, że prowadzi z Teheranem produktywne rozmowy.\n\nTrump wielokrotnie w ostatnich tygodniach zapewniał, że wojna z Iranem zakończy się tuż po wyborach, lecz jednocześnie twierdząco odpowiadał na pytania, czy może wznowić ataki po 3 listopada. Według Axiosa negocjacje między USA i Iranem, wznowione we wrześniu po tygodniach przerwy, utknęły w impasie.\n\nPrezydent USA mówił też kilkakrotnie, że ma do podjęcia wybór między zawarciem z Iranem układu a zniszczeniem, czy \"unicestwieniem\" tego kraju. Według mediów, spodziewane uderzenia miałyby objąć m.in. elektrownie i mosty oraz obiekty nuklearne, a w atakach miałby wziąć udział też Izrael.\n\n\"Kluczową kwestią dla rynków jest to, czy Trump dotrzyma słowa w przypadku nasilenia się irańskich ataków. Każdy sygnał świadczący o tym, że Biały Dom rozważa podjęcie działań zbrojnych, mógłby doprowadzić do gwałtownego wzrostu cen ropy, zwłaszcza w sytuacji, gdy ruch tankowców w cieśninie Ormuz znajduje się nadal pod dużą presją\" – powiedział Nick Twidale, główny strateg rynkowy w ATFX Global.\n\nW czwartek Dow Jones Industrial na zamknięciu wzrósł o 0,1 proc. i wyniósł 51.231,64 pkt. S&P 500 na koniec dnia spadł o 0,47 proc. i wyniósł 7.765,36 pkt. Nasdaq Composite zniżkował o 1,25 proc. ",
+      "date_published": "2026-10-09T08:36:00+02:00",
+      "source": "PAP Biznes"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/rynki/najwazniejsze-indeksy-gieldowe-w-azji-819",
+      "url": "https://biznes.pap.pl/wiadomosci/rynki/najwazniejsze-indeksy-gieldowe-w-azji-819",
+      "title": "Najważniejsze indeksy giełdowe w Azji",
+      "content_html": "Poniżej aktualne indeksy wybranych giełd w Azji:\n\nIndeks Nikkei 225 zamyka się o 8.30 czasu polskiego, KOSPI o 8.05, Shanghai Composite Index o 9.00, Hang Seng o 10.00, a Sensex o 12.45.",
+      "date_published": "2026-10-09T08:20:00+02:00",
+      "source": "PAP Biznes"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Przychody-OpenAI-znacznie-nizsze-niz-sadzono-20-mld-USD-pomylki-i-spadki-na-gieldzie-9209954.html",
       "url": "https://www.bankier.pl/wiadomosc/Przychody-OpenAI-znacznie-nizsze-niz-sadzono-20-mld-USD-pomylki-i-spadki-na-gieldzie-9209954.html",
       "title": "Przychody OpenAI znacznie niższe niż sądzono. 20 mld USD pomyłki i spadki na giełdzie",
@@ -467,6 +531,38 @@
       "content_html": "Paramount Pictures pracuje nad filmem rozgrywającym się w uniwersum Cyberpunka, który będzie oparty na grze CD Projektu RED - podał serwis Deadline. Informację na platformie X potwierdził Joint CEO spółki, Michał Nowakowski wskazując, że spółka...",
       "date_published": "2026-10-09T07:45:00+02:00",
       "source": "Bankier.pl"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/rynki/rentownosci-obligacji-wybranych-panstw-tabela-546",
+      "url": "https://biznes.pap.pl/wiadomosci/rynki/rentownosci-obligacji-wybranych-panstw-tabela-546",
+      "title": "Rentowności obligacji wybranych państw (tabela)",
+      "content_html": "Poniżej zestawienie rentowności obligacji wybranych państw.\n\nW tabeli kolejno rentowność aktualna, rentowność dzień wcześniej, pięć dni wcześniej, miesiąc wcześniej, trzy miesiące wcześniej i dwanaście miesięcy wcześniej (w proc.)\n\nRentowności dla typowych obligacji, podane za agencją Bloomberg.(PAP Biznes)",
+      "date_published": "2026-10-09T07:34:00+02:00",
+      "source": "PAP Biznes"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/rynki/notowania-metali-bazowych-wegla-i-paliw-tabela-1295",
+      "url": "https://biznes.pap.pl/wiadomosci/rynki/notowania-metali-bazowych-wegla-i-paliw-tabela-1295",
+      "title": "Notowania metali bazowych, węgla i paliw (tabela)",
+      "content_html": "Notowania metali bazowych na London Metal Exchange, uprawnień EUA do emisji CO2, ceny węgla energetycznego ARA na przyszły rok oraz ceny paliw.",
+      "date_published": "2026-10-09T07:34:00+02:00",
+      "source": "PAP Biznes"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/rynki/zamkniecia-na-gieldach-w-ameryce-polnocnej-i-poludniowej-tabela-432",
+      "url": "https://biznes.pap.pl/wiadomosci/rynki/zamkniecia-na-gieldach-w-ameryce-polnocnej-i-poludniowej-tabela-432",
+      "title": "Zamknięcia na giełdach w Ameryce Północnej i Południowej (tabela)",
+      "content_html": "Poniżej zamknięcia i zmiany indeksów w USA. Kanadzie, Meksyku, Brazylii, Kolumbii i Argentynie:",
+      "date_published": "2026-10-09T07:33:00+02:00",
+      "source": "PAP Biznes"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/firmy/liczba-rachunkow-maklerskich-na-koniec-ix-wzrosla-do-317-mln-kdpw",
+      "url": "https://biznes.pap.pl/wiadomosci/firmy/liczba-rachunkow-maklerskich-na-koniec-ix-wzrosla-do-317-mln-kdpw",
+      "title": "Liczba rachunków maklerskich na koniec IX wzrosła do 3,17 mln - KDPW",
+      "content_html": "Na koniec września 2026 roku liczba rachunków papierów wartościowych, prowadzonych przez banki oraz domy i biura maklerskie działające w Polsce wzrosła do 3,174 mln - podał Krajowy Depozyt Papierów Wa",
+      "date_published": "2026-10-09T07:31:00+02:00",
+      "source": "PAP Biznes"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Mial-noz-i-bombe-w-plecaku-19-latek-z-Ostroleki-uslyszal-zarzuty-i-grozi-mu-dozywocie-9209868.html",
@@ -619,6 +715,22 @@
       "content_html": "Większość Polaków jest przeciwnych potencjalnemu spotkaniu prezydenta Nawrockiego z Władimirem Putinem - wynika z sondażu dla „Rzeczpospolitej”, którego wyniki opublikowano w piątkowym wydaniu.",
       "date_published": "2026-10-09T07:00:00+02:00",
       "source": "Bankier.pl"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/ekonomia-biznes-i-finanse/przewidywane-najwazniejsze-wydarzenia-gospodarcze-2026-10-09",
+      "url": "https://biznes.pap.pl/wiadomosci/ekonomia-biznes-i-finanse/przewidywane-najwazniejsze-wydarzenia-gospodarcze-2026-10-09",
+      "title": "Przewidywane najważniejsze wydarzenia gospodarcze 2026-10-09",
+      "content_html": "Przewidywane najważniejsze wydarzenia gospodarcze 2026-10-09 - 2026-10-15",
+      "date_published": "2026-10-09T07:00:00+02:00",
+      "source": "PAP Biznes"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/rynki/kalendarium-rynku-newconnect-2026-10-09",
+      "url": "https://biznes.pap.pl/wiadomosci/rynki/kalendarium-rynku-newconnect-2026-10-09",
+      "title": "Kalendarium rynku NewConnect 2026-10-09",
+      "content_html": "Kalendarium rynku NewConnect 2026-10-09 - 2026-10-15",
+      "date_published": "2026-10-09T07:00:00+02:00",
+      "source": "PAP Biznes"
     },
     {
       "id": "https://biznes.pap.pl/wiadomosci/rynki/kalendarium-rynku-kapitalowego-gpw-2026-10-09",
@@ -893,12 +1005,28 @@
       "source": "Bankier.pl"
     },
     {
+      "id": "https://biznes.pap.pl/wiadomosci/firmy/sejm-skierowal-do-komisji-projekt-ustawy-o-wsparciu-dla-przedsiebiorstw",
+      "url": "https://biznes.pap.pl/wiadomosci/firmy/sejm-skierowal-do-komisji-projekt-ustawy-o-wsparciu-dla-przedsiebiorstw",
+      "title": "Sejm skierował do komisji projekt ustawy o wsparciu dla przedsiębiorstw energochłonnych",
+      "content_html": "Sejm skierował w czwartek do rozpatrzenia w komisjach projekt ustawy, wprowadzającej wart 4,8 mld zł system wsparcia w formie dopłat do kosztów energii dla przedsiębiorstw energochłonnych na lata 2027",
+      "date_published": "2026-10-08T19:09:00+02:00",
+      "source": "PAP Biznes"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/11-bit-studios-ustalil-date-premiery-gry-Trainwatch-na-10-marca-27-oglosil-nowy-projekt-9209781.html",
       "url": "https://www.bankier.pl/wiadomosc/11-bit-studios-ustalil-date-premiery-gry-Trainwatch-na-10-marca-27-oglosil-nowy-projekt-9209781.html",
       "title": "11 bit studios ustalił datę premiery gry \"Trainwatch\". Ogłosił też nowy projekt",
       "content_html": "11 bit studios ustalił datę premiery gry \"Trainwatch\" w wersji PC na 10 marca 2027 roku oraz ogłosił nowy projekt wydawniczy \"Volatiles\" - podała spółka w komunikatach.",
       "date_published": "2026-10-08T19:08:00+02:00",
       "source": "Bankier.pl"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/firmy/11-bit-studios-ustalil-date-premiery-gry-trainwatch-na-10-marca-27-oglosil-nowy",
+      "url": "https://biznes.pap.pl/wiadomosci/firmy/11-bit-studios-ustalil-date-premiery-gry-trainwatch-na-10-marca-27-oglosil-nowy",
+      "title": "11 bit studios ustalił datę premiery gry \"Trainwatch\" na 10 marca '27; ogłosił nowy projekt",
+      "content_html": "11 bit studios ustalił datę premiery gry \"Trainwatch\" w wersji PC na 10 marca 2027 roku oraz ogłosił nowy projekt wydawniczy \"Volatiles\" - podała spółka w komunikatach.",
+      "date_published": "2026-10-08T19:06:00+02:00",
+      "source": "PAP Biznes"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Miliony-dla-prezesa-potezna-strata-i-kosmiczna-wycena-Tak-Anthropic-szykuje-sie-do-gieldowego-debiutu-9209405.html",
@@ -965,78 +1093,6 @@
       "source": "Bankier.pl"
     },
     {
-      "id": "https://www.bankier.pl/wiadomosc/Europarlament-nie-uznal-rosyjskiej-Dumy-Sfalszowane-wybory-9209761.html",
-      "url": "https://www.bankier.pl/wiadomosc/Europarlament-nie-uznal-rosyjskiej-Dumy-Sfalszowane-wybory-9209761.html",
-      "title": "Europarlament nie uznał rosyjskiej Dumy. „Sfałszowane wybory”",
-      "content_html": "Parlament Europejski w przyjętej w czwartek rezolucji odmówił uznania Dumy Państwowej - niższej izby rosyjskiego parlamentu - za prawowity organ przedstawicielski Rosji po przeprowadzonych tam sfałszowanych wyborach. Europarlament nazwał wybory...",
-      "date_published": "2026-10-08T18:35:00+02:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Wtargneli-do-brytyjskiej-bazy-NATO-Dwoch-Lotyszy-zatrzymanych-9209756.html",
-      "url": "https://www.bankier.pl/wiadomosc/Wtargneli-do-brytyjskiej-bazy-NATO-Dwoch-Lotyszy-zatrzymanych-9209756.html",
-      "title": "Wtargnęli do brytyjskiej bazy NATO. Dwóch Łotyszy zatrzymanych",
-      "content_html": "Dwóch obywateli Łotwy mieszkających w Wielkiej Brytanii zostało aresztowanych na terenie bazy lotniczej Królewskich Sił Powietrznych (RAF) w hrabstwie Cambridgeshire na południu Anglii - poinformowała w czwartek policja.",
-      "date_published": "2026-10-08T18:31:00+02:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Unijna-pozyczka-dla-Ukrainy-Polska-zbrojeniowka-na-liscie-beneficjentow-9209752.html",
-      "url": "https://www.bankier.pl/wiadomosc/Unijna-pozyczka-dla-Ukrainy-Polska-zbrojeniowka-na-liscie-beneficjentow-9209752.html",
-      "title": "Unijna pożyczka dla Ukrainy. Polska zbrojeniówka na liście beneficjentów",
-      "content_html": "Wiceszefowa resortu obrony narodowej Magdalena Sobkowiak-Czarnecka ogłosiła w czwartek po rozmowach w Brukseli, że polskie firmy zbrojeniowe także będą beneficjentami pożyczki od UE dla Ukrainy w wysokości 90 mld euro. Kijów wyda z tej puli na...",
-      "date_published": "2026-10-08T18:25:00+02:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Fala-przemocy-w-szkolach-ZNP-chce-dzialan-panstwa-i-dodatkowych-srodkow-9209753.html",
-      "url": "https://www.bankier.pl/wiadomosc/Fala-przemocy-w-szkolach-ZNP-chce-dzialan-panstwa-i-dodatkowych-srodkow-9209753.html",
-      "title": "Fala przemocy w szkołach. ZNP chce działań państwa i dodatkowych środków",
-      "content_html": "Powołanie zespołu do spraw systemowych działań, mających na celu wzmocnienie bezpieczeństwa w oświacie, składającego się z przedstawicieli rządu, policji, prokuratury oraz związków zawodowych zrzeszających nauczycieli - postuluje prezes...",
-      "date_published": "2026-10-08T18:25:00+02:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Huti-uderzyli-w-lotnisko-w-Rijadzie-Lufthansa-zawiesza-loty-9209750.html",
-      "url": "https://www.bankier.pl/wiadomosc/Huti-uderzyli-w-lotnisko-w-Rijadzie-Lufthansa-zawiesza-loty-9209750.html",
-      "title": "Huti uderzyli w lotnisko w Rijadzie. Lufthansa zawiesza loty",
-      "content_html": "Wspierani przez Iran jemeńscy rebelianci Huti ponownie zaatakowali w czwartek lotnisko w stolicy Arabii Saudyjskiej Rijadzie. Fragmenty strąconej rakiety balistycznej uszkodziły budynki przedszkola oraz placówki medycznej w mieście – poinformowała...",
-      "date_published": "2026-10-08T18:15:00+02:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/rynki/dzien-na-rynkach-europejskie-indeksy-gieldowe-na-minusach",
-      "url": "https://biznes.pap.pl/wiadomosci/rynki/dzien-na-rynkach-europejskie-indeksy-gieldowe-na-minusach",
-      "title": "DZIEŃ NA RYNKACH: Europejskie indeksy giełdowe na minusach",
-      "content_html": "Giełdy w Europie zniżkowały na koniec sesji w czwartek. Inwestorzy oceniają sytuację na rynku francuskim.\n\nNa zamknięciu sesji indeks Euro Stoxx 50 stracił 0,87 proc., niemiecki DAX zniżkował o 1,18 proc., francuski CAC 40 poszedł w dół o 0,51 proc., a brytyjski FTSE spadł o 0,16 proc.\n\nBenchmarkowy indeks Stoxx Europe 600 zniżkował o 0,75 proc.\n\nInwestorzy monitorują sytuację na rynku francuskim.\n\n\"Francja jest teraz +na ekranach+ wszystkich, a do tego Europa jest postrzegana jako region zmagający się z szeregiem nierozwiązanych problemów, którym nie jest w stanie sprostać ze względu na brak woli instytucjonalnej lub zbiorowych możliwości\" - powiedział Sean Keane, strateg w JB Drax Honore.\n\nOPmobility stracił 21 proc., najmocniej od 3 lat. Spółka obniżyła swoje całoroczne oczekiwania ws. zysków i ogłosiła redukcję zatrudnienia. Ten francuski dostawca części samochodowych zmaga się m.in. z wyższymi kosztami.\n\nStandard Life spadł o 4 proc., najmocniej od 13 miesięcy. Spółka zaoferowała za jedną akcję Aberdeen Group 839 GBP. W grę wchodzi do 52 mln akcji.\n\nArgenx zniżkował o 16 proc. Firma zakończyła zaawansowaną fazę badań eksperymentalnych leczenia przewlekłej choroby autoimmunologicznej po tym, jak uznano, że badanie prawdopodobnie nie osiągnie zamierzonych celów.\n\nImperial Brands zyskał 5 proc. Spółka podtrzymała swoje prognozy skorygowanego zysku operacyjnego na cały rok i oczekuje jego wzrostu o 3-5 proc.\n\nTesco wzrosło o 7 proc. po przedstawieniu mocnych wyników za I połowę roku i pozytywnych prognoz na 2027 r.\n\nAkcje Bavarian Nordic zyskały 3 proc. po tym, jak ta duńska firma biotechnologiczna podniosła prognozy przychodów na 2026 rok oraz przewidywania dotyczące marży EBITDA.\n\nIndeks S&P 500 spada o 0,38 proc., Dow Jones Industrial zniżkuje o 0,39 proc., a Nasdaq Comp. traci 0,62 proc.\n\nAkcje Chipotle rosną o 6,5 proc., a Coherent spadają o 5,5 proc.\n\nIndeks VIX, miara oczekiwanej zmienności i instrument oceny sentymentu, zniżkuje do 15,48 pkt.\n\nRentowność 10-letnich UST rośnie o 1 pb. do 5,29 proc. Dochodowość 30-letnich UST zniżkuje o 1 pb. do 5,66 proc.\n\nSpread między dwuletnimi a dziesięcioletnimi UST wynosi +48 pb. Spread między amerykańskimi obligacjami 3-miesięcznymi a 10-letnimi wynosi obecnie +114 pb.\n\nDochodowość 10-letnich niemieckich bundów rośnie o 3 pb. do 3,49 proc.\n\nDolar umacnia się o 0,04 proc. wobec koszyka walut do 102,28 pkt.\n\nEurodolar osłabia się o 0,01 proc. do 1,1194.\n\nKwotowanie USD/JPY rośnie o 0,14 proc. do 158,34.\n\nKurs funta zniżkuje o 0,01 proc. wobec dolara do 1,3209.\n\nNa rynku ropy kontrakty na WTI na listopad zwyżkują o 5,2 proc. do 92,84 USD za baryłkę, a grudniowe futures na Brent rosną o 5,44 proc. do 105,67 USD/b.\n\nBenchmarkowe kontrakty na gaz w Amsterdamie (ICE Endex Dutch TTF) zwyżkują o 1,8 proc. do 77,07 euro za MWh.\n\nSrebro zniżkuje o 2,05 proc. do poziomu 59,06 USD za uncję, a złoto spada o 0,14 proc. do 4.147 USD za uncję. (PAP Biznes)",
-      "date_published": "2026-10-08T18:03:00+02:00",
-      "source": "PAP Biznes"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/rynki/zamkniecia-na-gieldach-w-europie-tabela-371",
-      "url": "https://biznes.pap.pl/wiadomosci/rynki/zamkniecia-na-gieldach-w-europie-tabela-371",
-      "title": "Zamknięcia na giełdach w Europie (tabela)",
-      "content_html": "Poniżej zamknięcia i zmiany wybranych indeksów giełdowych w Europie.",
-      "date_published": "2026-10-08T17:56:00+02:00",
-      "source": "PAP Biznes"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/gospodarka/rpp-jest-cierpliwa-wzgledem-podwyzek-stop-czeka-na-materializacje-ryzyk-dla",
-      "url": "https://biznes.pap.pl/wiadomosci/gospodarka/rpp-jest-cierpliwa-wzgledem-podwyzek-stop-czeka-na-materializacje-ryzyk-dla",
-      "title": "RPP jest cierpliwa względem podwyżek stóp, czeka na materializację ryzyk dla CPI (opinia)",
-      "content_html": "Z wypowiedzi prezesa NBP podczas cyklicznej konferencji wynika, że RPP pozostaje cierpliwa względem podwyżek stóp procentowych i czeka na materializację ryzyk inflacyjnych z działaniem - oceniają ekonomiści. W takim układzie podwyżki stóp mogą zaistnieć dopiero na początku 2027 r.\n\nPrezes NBP A. Glapiński przekazał na czwartkowej konferencji, że RPP jest gotowa do działania już w listopadzie przy pojawieniu się niepokojących i narastających sygnałów inflacyjnych w najnowszej projekcji, choć nie przewiduje on na razie, że do działania na stopach wówczas dojdzie.\n\n\"Ogólnie odbieramy wypowiedź Glapińskiego jako zgodną z dotychczasowym podejściem „wait-and-see” RPP. (...) W odczuciu Rady sytuacja pozostaje pod kontrolą i jeśli nie dojdzie do pogorszenia perspektyw inflacyjnych, podwyżki stóp procentowych mogą okazać się zbędne. Jednocześnie dość wyraźnie zasygnalizowane zostało, że RPP chce najpierw zobaczyć materializację ryzyk inflacyjnych, zanim zdecyduje się na reakcję\" - napisali ekonomiści Erste.\n\nPodtrzymują oni prognozę zakładającą długi okres stabilnych stóp procentowych, a Rada ewentualnie mogłaby rozważyć zaostrzenie polityki pieniężnej na początku 2027 r., gdy wygaśnie rządowy program ograniczający wzrost cen paliw.\n\nZdaniem ekonomistów ING wydźwięk konferencji Glapińskiego sugeruje, że RPP pozostaje cierpliwa i nie wykazuje skłonności do szybkiego i zdecydowanego zaostrzenia polityki pieniężnej, tak długo, jak wzrost inflacji pozostaje napędzany szokiem zewnętrznym i nie ma widocznych oznak szerszego rozlewania się wyższych cen energii na ceny innych towarów i usług.\n\nW ich ocenie Rada nadal ma czas na reakcję, a jeżeli szok energetyczny będzie się przedłużał, to do podwyżek stóp może dojść w I kw. 2027 r., kiedy spodziewają się dwóch ruchów w górę po 25 pb. każdy.\n\n\"Widzimy ryzyko niewielkiego wzrostu inflacji bazowej na przełomie roku 2026-27, co będzie wymagało ostrożnościowej podwyżki stóp procentowych\" - dodali.\n\nRPP utrzymała w październiku stopę referencyjną na poziomie 3,75 proc. siódmy miesiąc z rzędu. (PAP Biznes)",
-      "date_published": "2026-10-08T17:45:00+02:00",
-      "source": "PAP Biznes"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/gospodarka/dzien-na-fxfi-eurpln-stabilne-dla-zlotego-niekorzystne-informacje-z-bliskiego",
-      "url": "https://biznes.pap.pl/wiadomosci/gospodarka/dzien-na-fxfi-eurpln-stabilne-dla-zlotego-niekorzystne-informacje-z-bliskiego",
-      "title": "DZIEŃ NA FX/FI: EUR/PLN stabilne; dla złotego niekorzystne informacje z Bliskiego Wschodu",
-      "content_html": "Notowania polskiej waluty w czwartek były stabilne, kurs EUR/PLN pozostał na ok. 4,38, a USD/PLN lekko spadł. Zdaniem ekonomistów, wydźwięk czwartkowej konferencji prezesa NBP sugeruje, że RPP nie jest skłonna do szybkiego zaostrzenia polityki pieniężnej. Jak oceniają analitycy, niekorzystne dla złotego są informacje o zaostrzeniu konfliktu na Bliskim Wschodzie.\n\nO godz. 17.10 kurs EUR/PLN rośnie o 0,03 proc. do 4,3804, a USD/PLN idzie w dół o 0,12 proc. do 3,9076. EUR/USD zwyżkuje o 0,15 proc. do 1,121.\n\n\"Dolar w ostatnim czasie kontynuuje bardzo dobrą passę. EUR/USD zszedł poniżej 1,12 i to jest oczywiście niekorzystna sytuacja dla złotego. Z tego tytułu widzimy umiarkowaną presję na rynku EUR/PLN, ale notowania pozostają w okolicy 4,38\" - powiedział PAP Biznes Rafał Sadoch, analityk BM mBanku.\n\nZwrócił uwagę na pojawiające się doniesienia, że transport przez cieśninę Ormuz w ostatnim czasie ponownie uległ zmniejszeniu.\n\n\"Pojawiły się ataki na tankowce i o ile Donald Trump komunikował wcześniej, że przed wyborami uzupełniającymi do Kongresu nie będzie wznowienia działań militarnych, o tyle w tym momencie już ten ton się zmienił\" - powiedział analityk.\n\n\"Jeśli doszłoby do jakiegoś dalszego zaognienia sytuacji na Bliskim Wschodzie, ograniczenia podaży surowca, to automatycznie rynek obawiałby się wyższej inflacji, rentowności obligacji by rosły, bo rynek oczekiwałby podwyżek stóp proc. szczególnie w Stanach Zjednoczonych i to by niekorzystnie oddziaływało na rynek krajowej waluty. Potencjalnie kontynuacja tych perturbacji może być niekorzystna dla złotego\" - dodał.\n\nW czwartek rentowność polskich obligacji 2-letnich spada o 1 pb. do 4,72 proc., 5-letnich zwyżkuje o 2 pb. do 5,87 proc., a 10-letnich idzie w górę o 1 pb. do 6,3 proc.\n\nRafał Sadoch zwrócił uwagę, że rynki coraz bardziej wyceniają podwyżki stóp proc., zarówno w Stanach Zjednoczonych, jak i w Europie, co może mieć przełożenie na dalsze wzrosty rentowności obligacji.\n\n\"Na świecie coraz bardziej mówi się o podwyżkach stóp proc. Rynek wycenia, że w Stanach Zjednoczonych do końca roku nastąpi jeszcze jedna podwyżka oraz, że podobnie będzie w Europie. Jeśli obawy związane z inflacją będą się umacniały i jeśli na świecie rentowności będą rosnąć, to w podobnym kierunku bedą szły krajowe obligacje\" - powiedział.\n\nJego zdaniem, rynki obawiają się o perspektywy dalszego wzrostu zadłużenia we Francji i Włoszech.\n\n\"Jednym z elementów, który popsuł nastroje, jest sytuacja we Francji, wzrost rentowności na tamtejszym długu, a także wzrost rentowności długu we Włoszech. Inwestorzy coraz bardziej obawiają się o perspektywę dalszego wzrostu zadłużenia i to, w którą stronę będą podążać te gospodarki w kontekście chociażby przyszłorocznych wyborów prezydenckich we Francji\" - powiedział PAP Biznes Rafał Sadoch, analityk BM mBanku.\n\n\"Zaczyna to inwestorom przypominać sytuację z 2011 czy 2012 roku i kryzysu zadłużenia w strefie euro, kiedy to właśnie rekordowe rentowności doprowadziły do takiego stanu, że Europejski Bank Centralny musiał interweniować. Teraz EBC ma już w tym doświadczenie i większy zestaw narzędzi, więc jeśli będzie taka potrzeba, zapewne wkroczyłby do akcji\" - dodał.\n\nW czwartek centrum uwagi krajowego rynku finansowego była popołudniowa konferencja prezesa NBP A. Glapińskiego po decyzji RPP o utrzymaniu stóp bez zmian w środę.\n\nJak oceniają ekonomiści ING Banku Śląskiego, wydźwięk konferencji prezesa NBP sugeruje, że RPP nie wykazuje skłonności do szybkiego i zdecydowanego zaostrzenia polityki pieniężnej, tak długo jak wzrost inflacji pozostaje napędzany szokiem zewnętrznym i nie ma widocznych oznak szerszego rozlewania się wyższych cen energii na ceny innych towarów i usług.\n\n\"W naszej ocenie, Rada nadal ma czas na reakcję, a jeżeli szok energetyczny będzie się przedłużał, to do podwyżek stóp może dojść w I kw. 2027 r., kiedy spodziewamy się dwóch ruchów w górę po 25 pb. każdy. Widzimy ryzyko niewielkiego wzrostu inflacji bazowej na przełomie rok 2026-27, co będzie w",
-      "date_published": "2026-10-08T17:27:00+02:00",
-      "source": "PAP Biznes"
-    },
-    {
       "id": "https://www.bankier.pl/wiadomosc/Wyprzedaz-na-bankach-Na-podwyzki-stop-trzeba-bedzie-poczekac-9209702.html",
       "url": "https://www.bankier.pl/wiadomosc/Wyprzedaz-na-bankach-Na-podwyzki-stop-trzeba-bedzie-poczekac-9209702.html",
       "title": "SESJA NA GPW Wyprzedaż na bankach. Na podwyżki stóp trzeba będzie poczekać? Czwartkowa sesja na GPW znów odznaczyła się przewagą niedźwiedzi, chociaż malejącą od okolic południa. Inwestorzy na całym świecie z niepokojem obserwowali dynamiczny wzrost cen ropy naftowej oraz rosnące rentowności długu w Europie i USA. Mimo mocnej przeceny sektora bankowego, WIG20 przed głębszymi stratami uchroniło mocna sesja Orlenu oraz odbicie spółek handlowych i energetycznych.",
@@ -1053,30 +1109,6 @@
       "source": "Bankier.pl"
     },
     {
-      "id": "https://biznes.pap.pl/wiadomosci/firmy/ronson-development-sprzedal-w-iii-kwartale-109-lokali",
-      "url": "https://biznes.pap.pl/wiadomosci/firmy/ronson-development-sprzedal-w-iii-kwartale-109-lokali",
-      "title": "Ronson Development sprzedał w III kwartale 109 lokali",
-      "content_html": "Ronson Development sprzedał w trzecim kwartale 2026 roku 109 lokali i przekazał w tym czasie 114 lokali - poinformowała spółka we wstępnych danych.\n\nRonson podał, że w III kwartale sprzedał m.in. 33 lokale w projekcie Ursus Centralny, 19 lokali w projekcie Nowa Północ, 17 lokali w projekcie Bosco.\n\nZ kolei przekazał m.in 64 lokale w projekcie Miasto Moje, 42 lokale w projekcie Między Drzewami oraz 3 lokale w projekcie Nowa Północ. (PAP Biznes)",
-      "date_published": "2026-10-08T17:18:00+02:00",
-      "source": "PAP Biznes"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/ekonomia-biznes-i-finanse/skrot-wiadomosci-czwartek-8-pazdziernika-1700",
-      "url": "https://biznes.pap.pl/wiadomosci/ekonomia-biznes-i-finanse/skrot-wiadomosci-czwartek-8-pazdziernika-1700",
-      "title": "Skrót wiadomości - czwartek, 8 października, 17.00",
-      "content_html": "Przegląd najważniejszych wiadomości gospodarczych, krajowych i ze świata.",
-      "date_published": "2026-10-08T17:00:00+02:00",
-      "source": "PAP Biznes"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Sfinks-mial-w-III-kw-ok-52-7-mln-zl-przychodow-ze-sprzedazy-gastronomicznej-ok-6-7-proc-mniej-rdr-9209665.html",
-      "url": "https://www.bankier.pl/wiadomosc/Sfinks-mial-w-III-kw-ok-52-7-mln-zl-przychodow-ze-sprzedazy-gastronomicznej-ok-6-7-proc-mniej-rdr-9209665.html",
-      "title": "Sfinks Polska pod presją. Sprzedaż gastronomiczna spadła w III kwartale Sfinks Polska miał w trzecim kwartale 2026 roku ok. 52,7 mln zł przychodów ze sprzedaży gastronomicznej z wyłączeniem sieci Piwiarnia, wobec ok. 56,5 mln zł w III kwartale 2025 r., co oznacza spadek o 6,73 proc. rdr - podała spóła w komunikacie.",
-      "content_html": "",
-      "date_published": "2026-10-08T16:42:00+02:00",
-      "source": "Bankier.pl"
-    },
-    {
       "id": "https://www.bankier.pl/wiadomosc/Areszt-warunkowy-dla-bylego-wiceprezesa-Orlenu-i-dyrektorow-spolki-9209380.html",
       "url": "https://www.bankier.pl/wiadomosc/Areszt-warunkowy-dla-bylego-wiceprezesa-Orlenu-i-dyrektorow-spolki-9209380.html",
       "title": "AWARIE DYSTRYBUTORÓW Areszt warunkowy dla byłego wiceprezesa Orlenu i dyrektorów spółki Sąd w Łodzi zastosował areszt tymczasowy wobec byłego wiceprezesa Orlenu Michała R. i trzech dyrektorów spółki. Podejrzani będą mogli wyjść na wolność po wpłaceniu od 500 tys. do 1 mln zł poręczenia majątkowego.",
@@ -1085,36 +1117,12 @@
       "source": "Bankier.pl"
     },
     {
-      "id": "https://biznes.pap.pl/wiadomosci/firmy/sfinks-mial-w-iii-kw-ok-527-mln-zl-przychodow-ze-sprzedazy-gastronomicznej-ok-67",
-      "url": "https://biznes.pap.pl/wiadomosci/firmy/sfinks-mial-w-iii-kw-ok-527-mln-zl-przychodow-ze-sprzedazy-gastronomicznej-ok-67",
-      "title": "Sfinks miał w III kw. ok. 52,7 mln zł przychodów ze sprzedaży gastronomicznej, ok. 6,7 proc. mniej rdr",
-      "content_html": "Sfinks Polska miał w trzecim kwartale 2026 roku ok. 52,7 mln zł przychodów ze sprzedaży gastronomicznej z wyłączeniem sieci Piwiarnia, wobec ok. 56,5 mln zł w III kwartale 2025 r., co oznacza spadek o",
-      "date_published": "2026-10-08T16:40:00+02:00",
-      "source": "PAP Biznes"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/gospodarka/prezes-nbp-nie-przewiduje-podwyzki-stop-w-xi-ale-rpp-jest-na-gotowa-opis2",
-      "url": "https://biznes.pap.pl/wiadomosci/gospodarka/prezes-nbp-nie-przewiduje-podwyzki-stop-w-xi-ale-rpp-jest-na-gotowa-opis2",
-      "title": "Prezes NBP nie przewiduje podwyżki stóp w XI, ale RPP jest na to gotowa (opis2)",
-      "content_html": "W ocenie prezesa NBP, RPP jest gotowa do działania już w listopadzie przy pojawieniu się niepokojących i narastających sygnałów inflacyjnych w projekcji, choć nie przewiduje on na razie, że to wówczas",
-      "date_published": "2026-10-08T16:33:00+02:00",
-      "source": "PAP Biznes"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/firmy/dzien-na-gpw-glowne-indeksy-na-lekkich-minusach-orlen-i-dino-rownowaza-spadki",
-      "url": "https://biznes.pap.pl/wiadomosci/firmy/dzien-na-gpw-glowne-indeksy-na-lekkich-minusach-orlen-i-dino-rownowaza-spadki",
-      "title": "DZIEŃ NA GPW: Główne indeksy na lekkich minusach; Orlen i Dino równoważą spadki banków",
-      "content_html": "Na warszawskiej giełdzie utrzymują się spadki, jednak ich skala zmniejszyła się. Negatywnie na rynek wpływają banki, natomiast po kilka proc. rosną Orlen i Dino. Zdaniem analityków, wysokie rentownośc",
-      "date_published": "2026-10-08T16:28:00+02:00",
-      "source": "PAP Biznes"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/firmy/konsorcjum-z-euvic-ma-trzy-umowy-ramowe-z-aplikacjami-krytycznymi-o-wartosci-do",
-      "url": "https://biznes.pap.pl/wiadomosci/firmy/konsorcjum-z-euvic-ma-trzy-umowy-ramowe-z-aplikacjami-krytycznymi-o-wartosci-do",
-      "title": "Konsorcjum z Euvic ma trzy umowy ramowe z Aplikacjami Krytycznymi o wartości do 244,6 mln zł brutto",
-      "content_html": "Konsorcjum Euvic (lider) i yarrl zawarło z Aplikacjami Krytycznymi trzy umowy ramowe na usługi zapewnienia zasobów ludzkich z branży IT - podał Euvic w komunikacie. Łączna maksymalna wartość umów to 2",
-      "date_published": "2026-10-08T16:22:00+02:00",
-      "source": "PAP Biznes"
+      "id": "https://www.bankier.pl/wiadomosc/Konsorcjum-z-Euvic-ma-trzy-umowy-ramowe-z-Aplikacjami-Krytycznymi-o-wartosci-do-244-6-mln-zl-brutto-9209641.html",
+      "url": "https://www.bankier.pl/wiadomosc/Konsorcjum-z-Euvic-ma-trzy-umowy-ramowe-z-Aplikacjami-Krytycznymi-o-wartosci-do-244-6-mln-zl-brutto-9209641.html",
+      "title": "Euvic i yarrl z umowami na usługi IT. Maksymalna wartość to 244,6 mln zł Konsorcjum Euvic (lider) i yarrl zawarło z Aplikacjami Krytycznymi trzy umowy ramowe na usługi zapewnienia zasobów ludzkich z branży IT - podał Euvic w komunikacie. Łączna maksymalna wartość umów to 244,56 mln zł brutto.",
+      "content_html": "",
+      "date_published": "2026-10-08T16:24:00+02:00",
+      "source": "Bankier.pl"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Grupa-Auto-Partner-miala-w-IX-ok-422-2-mln-zl-przychodow-o-8-06-proc-wiecej-rdr-szacunki-9209630.html",
@@ -1123,14 +1131,6 @@
       "content_html": "",
       "date_published": "2026-10-08T16:02:00+02:00",
       "source": "Bankier.pl"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/firmy/grupa-auto-partner-miala-w-ix-ok-4222-mln-zl-przychodow-o-806-proc-wiecej-rdr",
-      "url": "https://biznes.pap.pl/wiadomosci/firmy/grupa-auto-partner-miala-w-ix-ok-4222-mln-zl-przychodow-o-806-proc-wiecej-rdr",
-      "title": "Grupa Auto Partner miała w IX ok. 422,2 mln zł przychodów, o 8,06 proc. więcej rdr - szacunki",
-      "content_html": "Grupa Auto Partner szacuje, że we wrześniu 2026 roku miała ok. 422,2 mln zł przychodów, co stanowi wzrost o 8,06 proc. rdr - podała spółka w komunikacie.",
-      "date_published": "2026-10-08T16:01:00+02:00",
-      "source": "PAP Biznes"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Novo-nordisk-wraca-do-gry-o-miliardy-z-odchudzania-Eli-Lilly-nie-odpuszcza-i-podbija-stawke-9209512.html",
