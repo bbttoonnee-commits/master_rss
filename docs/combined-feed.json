@@ -5,12 +5,52 @@
   "home_page_url": "https://www.bankier.pl",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/Tansze-tankowanie-obije-sie-czkawka-Eksperci-ostrzegaja-przed-uderzeniem-inflacji-w-2027-roku-9212016.html",
+      "url": "https://www.bankier.pl/wiadomosc/Tansze-tankowanie-obije-sie-czkawka-Eksperci-ostrzegaja-przed-uderzeniem-inflacji-w-2027-roku-9212016.html",
+      "title": "Tańsze tankowanie obije się czkawką? Eksperci ostrzegają przed uderzeniem inflacji w 2027 roku",
+      "content_html": "Jeśli w grudniu zakończą się czasowe obniżki podatków na paliwa, inflacja w całym 2027 r. wyniosłaby średnio 4,2 proc. - prognozują analitycy Erste Bank Polska. Ich zdaniem nie można jednak wykluczyć przedłużenia programu Ceny Paliwa Niżej...",
+      "date_published": "2026-10-13T16:53:00+02:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/firmy/dzien-na-gpw-sesja-z-mala-zmiennoscia-gpw-jest-silna-ale-trudno-bedzie-o",
+      "url": "https://biznes.pap.pl/wiadomosci/firmy/dzien-na-gpw-sesja-z-mala-zmiennoscia-gpw-jest-silna-ale-trudno-bedzie-o",
+      "title": "DZIEŃ NA GPW: Sesja z małą zmiennością; GPW jest silna, ale trudno będzie o dynamiczne wzrosty",
+      "content_html": "Wtorkowa sesja przebiega przy niewielkich zmianach głównych indeksów. Rosną m. in. spółki energetyczne, Kęty i CD Projekt RED. Zdaniem analityków, w najbliższych tygodniach rynki pozostaną pod wpływem",
+      "date_published": "2026-10-13T16:29:00+02:00",
+      "source": "PAP Biznes"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/gospodarka/euro-w-ebc-11188-usd-i-17691-jpy",
+      "url": "https://biznes.pap.pl/wiadomosci/gospodarka/euro-w-ebc-11188-usd-i-17691-jpy",
+      "title": "Euro w EBC: 1,1188 USD i 176,91 JPY",
+      "content_html": "Europejski Bank Centralny (EBC) ustalił kurs euro 1,1188 USD i 176,91 JPY - podał bank na swojej stronie internetowej.",
+      "date_published": "2026-10-13T16:24:00+02:00",
+      "source": "PAP Biznes"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/gospodarka/nawet-jesli-rpp-podwyzszy-stopy-nie-wiecej-niz-o-50-pb-i-odwroci-w-rok-erste",
+      "url": "https://biznes.pap.pl/wiadomosci/gospodarka/nawet-jesli-rpp-podwyzszy-stopy-nie-wiecej-niz-o-50-pb-i-odwroci-w-rok-erste",
+      "title": "Nawet jeśli RPP podwyższy stopy to nie więcej niż o 50 pb. i odwróci to w rok - Erste (opinia)",
+      "content_html": "Nawet jeśli RPP zdecyduje się zareagować na pogorszenie perspektyw inflacyjnych, skala podwyżek stóp proc. powinna być ograniczona i nie przekroczyć łącznie 50 pb., a następnie zostać odwrócona w okresie krótszym niż rok - oceniają ekonomiści Erste. Ich zdaniem scenariuszem bazowym nadal jest stabilizacja stóp do końca 2027 r.\n\n\"Nadal uważamy, że przy założeniu braku dalszej eskalacji napięć na rynkach surowcowych polski bank centralny może przeczekać przejściowy wzrost dynamiki CPI i pozostawić stopy procentowe bez zmian nie tylko w tym roku, ale również w 2027 r. Tym bardziej że w kolejnych kwartałach należy oczekiwać umiarkowanego spowolnienia wzrostu PKB oraz płac\" - napisano w raporcie Erste.\n\nZdaniem ekonomistów banku ryzyko podwyżek stóp procentowych istotnie się nasiliło w ostatnich miesiącach i może się zmaterializować w przypadku dalszego wzrostu światowych cen surowców, zaskoczeń w górę w danych o wynagrodzeniach i/lub inflacji bazowej bądź bardziej agresywnego niż obecnie zakładamy zacieśniania polityki pieniężnej przez główne banki centralne, co zwiększałoby presję na osłabienie złotego.\n\n\"Nawet jeśli RPP zdecyduje się zareagować na pogorszenie perspektyw inflacyjnych, naszym zdaniem skala podwyżek powinna być ograniczona i nie przekroczyć łącznie 50 pb., a następnie zostać odwrócona w okresie krótszym niż rok, gdyż przedłużający się szok podażowy w połączeniu z zacieśnieniem polityki pieniężnej ostatecznie negatywnie wpłynęłyby na perspektywy wzrostu gospodarczego\" - wskazano w raporcie.\n\nRPP w październiku utrzymała stopy proc. siódmy miesiąc z rzędu na niezmienionym poziomie 3,75 proc. (PAP Biznes)",
+      "date_published": "2026-10-13T16:14:00+02:00",
+      "source": "PAP Biznes"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/PKO-BP-szacuje-koszty-ryzyka-zw-z-kredytami-hipotecznymi-denominowanymi-i-indeksowanymi-do-walut-obcych-w-III-kw-na-371-mln-zl-9212018.html",
       "url": "https://www.bankier.pl/wiadomosc/PKO-BP-szacuje-koszty-ryzyka-zw-z-kredytami-hipotecznymi-denominowanymi-i-indeksowanymi-do-walut-obcych-w-III-kw-na-371-mln-zl-9212018.html",
       "title": "Ugody uderzają w wyniki największego banku. PKO BP musi odłożyć kolejne miliony",
       "content_html": "PKO Bank Polski szacuje koszty ryzyka prawnego związanego z kredytami hipotecznymi denominowanymi i indeksowanymi do walut obcych, ujęte w ciężar wyników w trzecim kwartale 2026 roku na 371 mln zł - podał bank w komunikacie.",
       "date_published": "2026-10-13T16:12:00+02:00",
       "source": "Bankier.pl"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/firmy/pko-bp-szacuje-koszty-ryzyka-zw-z-kredytami-hipotecznymi-denominowanymi-i",
+      "url": "https://biznes.pap.pl/wiadomosci/firmy/pko-bp-szacuje-koszty-ryzyka-zw-z-kredytami-hipotecznymi-denominowanymi-i",
+      "title": "PKO BP szacuje koszty ryzyka zw. z kredytami hipotecznymi denominowanymi i indeksowanymi do walut obcych w III kw. na 371 mln zł",
+      "content_html": "PKO Bank Polski szacuje koszty ryzyka prawnego związanego z kredytami hipotecznymi denominowanymi i indeksowanymi do walut obcych, ujęte w ciężar wyników w trzecim kwartale 2026 roku na 371 mln zł - p",
+      "date_published": "2026-10-13T16:11:00+02:00",
+      "source": "PAP Biznes"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Trump-zawyzyl-rachunek-Europy-u-Putina-Unia-ujawnia-ile-zaplacila-za-paliwa-z-Rosji-9211954.html",
@@ -245,14 +285,6 @@
       "source": "Bankier.pl"
     },
     {
-      "id": "https://biznes.pap.pl/wiadomosci/gry-i-technologie/do-31-ruch-w-sieciach-mobilnych-wzrosnie-niemal-dwukrotnie-w",
-      "url": "https://biznes.pap.pl/wiadomosci/gry-i-technologie/do-31-ruch-w-sieciach-mobilnych-wzrosnie-niemal-dwukrotnie-w",
-      "title": "Do '31 ruch w sieciach mobilnych wzrośnie niemal dwukrotnie w porównaniu z '25 - PMR",
-      "content_html": "Do 2031 roku ruch w sieciach mobilnych wyniesie 28 mld GB, co oznacza niemal dwukrotny wzrost w porównaniu z 2025 rokiem. W okresie tym wartość rynku zwiększy się o prawie 3 mld zł - wynika z raportu PMR Market Experts by Hume’s o rynku mobilnego internetu i usług dodanych w Polsce.\n\nW raporcie oceniono, że polski rynek internetu mobilnego osiągnął wysoki poziom dojrzałości i potencjał dalszego budowania bazy użytkowników jest coraz bardziej ograniczony ze względu na wysokie nasycenie usługami oraz niekorzystne trendy demograficzne.\n\n\"W efekcie punkt ciężkości stopniowo przesuwa się z pozyskiwania kolejnych klientów na zwiększanie konsumpcji danych oraz jej skuteczną monetyzację\" - ocenia PMR.\n\nPodano, że wszyscy operatorzy infrastrukturalni oferują obecnie taryfy z nielimitowanym lub bardzo dużym pakietem danych, przez co sama liczba gigabajtów przestaje być głównym wyróżnikiem oferty. W raporcie oceniono, że wraz ze spadkiem znaczenia limitów transferu zmienia się charakter konkurencji.\n\n\"W warunkach wysokiego nasycenia rynku sama wielkość pakietu danych przestaje wystarczać do budowania przewagi. Coraz większą rolę odgrywają parametry jakościowe: stabilność połączenia, zasięg, niskie opóźnienia oraz zdolność do utrzymania wysokiej przepustowości. Rosnący udział urządzeń z obsługą 5G nie tylko napędza konsumpcję danych, ale stwarza operatorom przestrzeń do migracji klientów do wyższych planów taryfowych w ramach strategii +more for more+\" - powiedziała cytowana w komunikacie Jagoda Sitek, ICT Market Analyst, PMR Market Experts/Hume’s Institute.\n\n\"Perspektywy wartościowego wzrostu rynku pozostają dobre, ale zmieniły się zasady gry. Kluczowym wyzwaniem dla operatorów na najbliższe lata nie będzie samo wygenerowanie większego ruchu, lecz jego efektywna monetyzacja poprzez sprzedaż usług o wyższej wartości i wyższych parametrach jakościowych. To właśnie jakość sieci i doświadczenie użytkownika będą decydować o rynkowej pozycji dostawców\" - dodała.\n\nPodano, że mimo dojrzałości rynku pod względem liczby użytkowników, zapotrzebowanie na samą transmisję danych dynamicznie rośnie. W 2025 roku ruch w sieciach mobilnych zwiększył się o 16 proc., a średnie miesięczne zużycie osiągnęło 19 GB na aktywną kartę SIM. Głównymi motorami tego wzrostu są rozwój sieci 5G, konsumpcja treści wideo, media społecznościowe, gry oraz usługi chmurowe. (PAP Biznes)",
-      "date_published": "2026-10-13T13:13:00+02:00",
-      "source": "PAP Biznes"
-    },
-    {
       "id": "https://www.bankier.pl/wiadomosc/Tusk-chce-zaostrzenia-sankcji-na-Rosje-Polska-i-Litwa-mowia-jednym-glosem-9211871.html",
       "url": "https://www.bankier.pl/wiadomosc/Tusk-chce-zaostrzenia-sankcji-na-Rosje-Polska-i-Litwa-mowia-jednym-glosem-9211871.html",
       "title": "Tusk chce zaostrzenia sankcji na Rosję. Polska i Litwa mówią jednym głosem",
@@ -323,30 +355,6 @@
       "content_html": "MCI Capital szacuje, że ma potencjał do inwestowania około 0,5 mld zł rocznie w najbliższych latach - poinformował na konferencji prasowej Paweł Borys, Managing Partner, MCI Capital. Spółka planuje 2-3 nowe inwestycje co roku.",
       "date_published": "2026-10-13T12:30:00+02:00",
       "source": "Bankier.pl"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/firmy/mci-capital-szacuje-ze-ma-potencjal-do-inwestowania-ok-05-mld-zl-rocznie",
-      "url": "https://biznes.pap.pl/wiadomosci/firmy/mci-capital-szacuje-ze-ma-potencjal-do-inwestowania-ok-05-mld-zl-rocznie",
-      "title": "MCI Capital szacuje, że ma potencjał do inwestowania ok. 0,5 mld zł rocznie",
-      "content_html": "MCI Capital szacuje, że ma potencjał do inwestowania około 0,5 mld zł rocznie w najbliższych latach - poinformował na konferencji prasowej Paweł Borys, Managing Partner, MCI Capital. Spółka planuje 2-3 nowe inwestycje co roku.\n\n\"Szacujemy, że w najbliższych latach MCI ma potencjał do inwestowania około pół miliarda złotych rocznie w nowe inwestycje\" - powiedział Paweł Borys, Managing Partner, MCI Capital.\n\n\"Staramy się inwestować w spółki około 100 do 200 mln zł, przy czym biorąc pod uwagę wzrost skali funduszu chcemy się przesuwać coraz bardziej w górę. To oznacza, że od dwóch do trzech nowych inwestycji co roku\" - dodał.\n\nNa koniec czerwca 2026 r. portfel inwestycyjny Grupy MCI składał się z 14 inwestycji, z czego 8 aktywnych inwestycji stanowiło ok. 77 proc. aktywów netto (NAV) GK MCI Capital ASI.\n\nW pierwszym półroczu 2026 roku spółki portfelowe MCI generują ponad 500 mln zł znormalizowanej EBITDA, przy 21 proc. CAGR (5y) przychodów i 36 proc. wzroście EBITDA w 2026 roku.\n\n\"Za ostatnie pięć lat średnia dynamika wyników z naszego portfela - jeżeli chodzi o przychody - wyniosła ponad 20 proc., a 15 proc. wzrosły wyniki EBITDA. Nie w pełni przełożyło się to jeszcze na wzrost wyników inwestycyjnych funduszu w tym okresie. Podczas covidu bardzo mocno wzrosły wyceny sektora e-commerce i sektora nowych technologii\" - powiedział.\n\n\"Przez kolejne lata - po 2022 roku - te mnożniki wycen zaczęły mocno spadać. (...) Jesteśmy przekonani, że ten cykl normalizacji wycen po covidzie dobiegł końca w 2026 roku. Najprawdopodobniej ten dołek miał miejsce już w pierwszym kwartale tego roku, od tego czasu te wyceny się poprawiają\" - dodał.\n\nWskazał, że spółka inwestuje w obszar technologii związany z AI i automatyzacją, digital travel, e-commerce, fintech oraz zdrowie i longevity.\n\n\"(...) Nasze spółki zrealizowały w ostatnich dwóch latach kilkadziesiąt projektów związanych z AI, implementując te narzędzia do automatyzacji procesów wewnętrznych, do konstrukcji produktu w obszarze go-to-market, sprzedaży, a wyniki, które pokazujemy, między innymi wynikają z tego, że po prostu to zaczyna przynosić konkretne efekty\" - powiedział Paweł Borys.\n\nW poniedziałek podano, że zarząd MCI Capital ASI będzie rekomendował przeznaczenie na dywidendę środków odpowiadających 4 proc. wartości kapitałów własnych spółki. Dodatkowo, zarząd spółki będzie rekomendował Walnemu Zgromadzeniu podjęcie uchwały upoważniającej go do nabywania w latach 2027-2030 akcji własnych.\n\nW przypadku, gdy wyrażone procentowo dyskonto giełdowego kursu akcji spółki względem wartości aktywów netto przypadającej na jedną akcję spółki wynikającą z ostatniego opublikowanego i zbadanego skonsolidowanego sprawozdania finansowego spółki przekroczy 20 proc., zarząd będzie uprawniony do podjęcia decyzji o nabywaniu akcji własnych w ramach programu.\n\nWartość środków przeznaczonych na realizację programu skupu w każdym roku obrotowym nie przekroczyć ma równowartości 1 proc. skonsolidowanej wartości aktywów netto grupy MCI. (PAP Biznes)",
-      "date_published": "2026-10-13T12:29:00+02:00",
-      "source": "PAP Biznes"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/firmy/ze-pak-ma-umowe-z-sge-dot-projektu-smr-w-patnowie-docelowo-powstanie-6-reaktorow",
-      "url": "https://biznes.pap.pl/wiadomosci/firmy/ze-pak-ma-umowe-z-sge-dot-projektu-smr-w-patnowie-docelowo-powstanie-6-reaktorow",
-      "title": "ZE PAK ma umowę z SGE dot. projektu SMR w Pątnowie; docelowo powstanie 6 reaktorów (opis)",
-      "content_html": "ZE PAK podpisał z SGE umowę akcjonariuszy dotyczącą przygotowania i realizacji projektu budowy oraz eksploatacji małych reaktorów modułowych (SMR) w Pątnowie, docelowo może powstać tam 6 reaktorów - poinformował ZE PAK w komunikacie. Zgodnie z planami powstanie spółka, której celem będzie realizacja projektu budowy SMR na terenach należących obecnie do ZE PAK.\n\nNa podstawie umowy strony zamierzają podjąć strategiczną współpracę poprzez utworzenie pomiędzy PAK SMR a SGE wspólnej inwestycji - spółki celowej - prowadzącej działalność w obszarze energetyki jądrowej, w szczególności polegającej na przygotowaniu i realizacji projektu budowy oraz eksploatacji elektrowni jądrowej opartej o technologię małych reaktorów modułowych BWRX-300 w Pątnowie.\n\nPodano, że po uzyskaniu wymaganych zgód antymonopolowych SGE i PAK SMR utworzą SPV w formie spółki akcyjnej, w której SGE obejmie pakiet większościowy akcji, zaś PAK SMR mniejszościowy. Docelowo w Pątnowie może powstać 6 reaktorów o łącznej mocy 1800 MW.\n\nZgodnie z umową, SGE będzie partnerem zarządzającym wspólną inwestycją w formie SPV, natomiast PAK SMR będzie korzystała z ochrony praw mniejszościowego akcjonariusza.\n\n\"Podpisanie umowy pomiędzy SGE i ZE PAK tworzy solidne fundamenty do realizacji 6 super bezpiecznych i efektywnych reaktorów BWRX-300 w Pątnowie. To jedna z najbardziej krytycznych lokalizacji energetycznych w Polsce: brak dostępnego stabilnego źródła energii mógłby zakłócić funkcjonowanie sieci, a wyłączenie opartej o węgiel brunatny elektrowni jest niestety nieuniknione\" - powiedział cytowany w komunikacie prasowym Michał Sołowow, założyciel SGE.\n\n\"Powstanie na naszych powęglowych terenach elektrowni jądrowej to wzorcowy przykład transformacji polskiej energetyki. Kryzysy energetyczne i paliwowe ostatnich lat jednoznacznie pokazują, że Polska musi mieć swoje stabilne źródła energii. I takim źródłem może być 6 reaktorów SMR, które powstaną na terenach ZE PAK\" – powiedział Piotr Żak, prezes ZE PAK.\n\nUdział ZE PAK będzie polegał na wniesieniu praw należących do niej terenów do wspólnej spółki.\n\nW kolejnych latach ZE PAK będzie mógł pozostać w projekcie jako mniejszościowy akcjonariusz albo sprzedać akcje w spółce zarządzającej projektem na rzecz SGE, kończąc w ten sposób swój udział w przedsięwzięciu.\n\nTeren przygotowany pod nowy projekt inwestycyjny zostanie częściowo wniesiony aportem, a częściowo sprzedany do SPV za cenę 300 mln zł netto, która może zostać skorygowana w dół o nie więcej niż 50 mln zł netto, w zależności od rzeczywistych kosztów przygotowania terenu pod nowy projekt inwestycyjny. Cena sprzedaży nieruchomości płatna będzie w transzach, począwszy od roku 2028 do 2030 r. (kiedy planowane jest wydanie terenu do SPV).\n\n\"W razie osiągnięcia przez SPV uzgodnionych kamieni milowych przed upływem piątego roku od dnia założenia SPV, PAK SMR będzie przysługiwać opcja sprzedaży na rzecz SGE wszystkich akcji posiadanych przez PAK SMR w SPV. Strony ustaliły cenę Opcji PUT w wysokości 100 milionów euro. Z wyjątkiem przypadków istotnego naruszenia określonych zobowiązań spółki lub PAK SMR pod umową, SGE nie będzie przysługiwać uprawnienie do wykupu akcji PAK SMR w SPV\" - napisano w komunikacie. (PAP Biznes)",
-      "date_published": "2026-10-13T12:23:00+02:00",
-      "source": "PAP Biznes"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/firmy/dhl-express-analizuje-wykorzystanie-portu-polska-nie-planuje-globalnego-hubu",
-      "url": "https://biznes.pap.pl/wiadomosci/firmy/dhl-express-analizuje-wykorzystanie-portu-polska-nie-planuje-globalnego-hubu",
-      "title": "DHL Express analizuje wykorzystanie Portu Polska; nie planuje globalnego hubu (wywiad)",
-      "content_html": "DHL Express prowadzi rozmowy dotyczące potencjalnego wykorzystania infrastruktury Portu Polska w swojej sieci logistycznej i analizuje różne scenariusze, ale nie ma obecnie sprecyzowanego modelu współpracy. DHL Express nie zakłada, by nowe lotnisko pełniło funkcję globalnego hubu przewoźnika – poinformowali PAP Biznes przedstawiciele spółki.\n\n\"Obecnie prowadzimy rozmowy o tym, jak nowa infrastruktura Portu Polska mogłaby w przyszłości zostać wykorzystana w ramach naszej sieci. Z punktu widzenia DHL Express najważniejsze jest, aby zapewniała ona odpowiednią przepustowość, niezawodność i możliwość dalszego rozwoju międzynarodowych połączeń. Lotnisko Chopina w Warszawie ma ograniczenia związane m.in. z dostępnością slotów oraz operacjami w porze nocnej” - powiedział PAP Biznes Tomasz Buraś, prezes DHL Express Polska.\n\nPrezes dodał, że spółka chciałaby rozwijać operacje w Warszawie, jednak ograniczenia środowiskowe i slotowe wpływają na możliwość zwiększania przepustowości, między innymi poprzez wykorzystanie większych samolotów czy uruchomienie dodatkowych operacji w optymalnych dla sieci godzinach.\n\n\"Ważny jest również aspekt ekonomiczny i perspektywa potrzeb naszych klientów ceniących terminowość i szybkość naszych usług przy odpowiedniej cenie – a na wysokość ceny składają się m.in. koszty operowania samolotem, koszty magazynu na lotnisku, opłaty lotniskowe i nawigacyjne oraz cały model funkcjonowania sieci” - powiedział.\n\nPrezes DHL Express Polska poinformował, że spółka od dłuższego czasu jest w kontakcie z Portem Polska, jednak nie podjęto jeszcze decyzji dotyczących ostatecznego kształtu współpracy.\n\n\"Zakładamy, że może w przyszłości stać się elementem naszej sieci, natomiast na obecnym etapie nie mamy określonego finalnego planu, jak ta współpraca miałaby wyglądać” - powiedział.\n\n\"Rozważamy różne warianty rozwoju i integracji Port Polska z istniejącą infrastrukturą DHL Express. Obecne analizy dotyczą jednak przede wszystkim obsługi centralnej części kraju i w konsekwencji przyszłego kształtu naszej sieci krajowej. Analizujemy możliwości z punktu widzenia kosztu i równocześnie planujemy opcje tak, aby czas i jakość obsługi polskich firm będących naszymi klientami z CPK były co najmniej takie same lub lepsze od obecnych jakie oferujemy z obiektu na lotnisku Chopina” - dodał prezes.\n\nZapytany o możliwości potencjalnego obiektu w Porcie Polska powiedział, że DHL Express Polska nie przewiduje budowy tam globalnego hubu.\n\n\"Dalszy rozwój działalności być może mógłby obejmować połączenie międzynarodowe. Natomiast na obecnym etapie nie zakładamy, że Port Polska miałby pełnić funkcję globalnego hubu, posiadającego połączenie z jakimkolwiek innym hubem globalnym\" - powiedział.\n\nPrezes Buraś podkreślił, że dla DHL Express Polska kluczowe jest utrzymanie jakości i prędkości usług spółki.\n\n\"Na pewno chcemy dalej docierać do centralnej Polski, tak jak robimy to dotychczas. Kluczowe jest dla nas takie zaprojektowanie przyszłej sieci, aby wykorzystać możliwości nowego lotniska i jednocześnie utrzymać lub poprawić jakość serwisu dla naszych klientów w tym regionie” - powiedział.\n\nJohn Pearson, prezes DHL Express, wskazał, że spółka prowadzi obecnie analizy dotyczące rozbudowy infrastruktury w regionie, jednak nie spodziewa się, by nowy międzynarodowy hub powstał w Polsce.\n\n\"W ciągu najbliższych 6 miesięcy będziemy rozważać utworzenie kolejnego węzła komunikacyjnego w Europie i nie sądzę, żeby znalazł się on w Polsce” - powiedział Pearson.\n\n\"Być może w dolnej części regionu +Niebieskiego Banana+ – co prawdopodobnie nie oznaczałoby Polski – mogłoby powstać miejsce nieco bliżej (...) centrum Europy; takie położenie mogłoby być dobrym wyborem dla kolejnego węzła. Nie wykluczamy żadnej opcji” - dodał.\n\nDHL EXPRESS STAWIA NA ZAPEWNIENIE CIĄGŁOŚCI OPERACJI W OBLICZU KRYZYSÓW GEOPOLITYCZNYCH\n\nPrezes DHL Express John Pearson poinformował, że spółka na bieżąco analizuje wpływ napięć geopolitycznych, konfliktów zbrojnych i sankcji na swoją działalnoś",
-      "date_published": "2026-10-13T12:22:00+02:00",
-      "source": "PAP Biznes"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Kolejne-zatrzymania-po-grozbach-zamachu-na-premiera-9211730.html",
@@ -1085,14 +1093,6 @@
       "source": "Bankier.pl"
     },
     {
-      "id": "https://www.bankier.pl/wiadomosc/Europa-potrzebuje-wiecej-broni-z-wlasnych-fabryk-Kosiniak-Kamysz-wskazuje-kierunek-9211361.html",
-      "url": "https://www.bankier.pl/wiadomosc/Europa-potrzebuje-wiecej-broni-z-wlasnych-fabryk-Kosiniak-Kamysz-wskazuje-kierunek-9211361.html",
-      "title": "Europa potrzebuje więcej broni z własnych fabryk. Kosiniak-Kamysz wskazuje kierunek",
-      "content_html": "Europa musi brać więcej odpowiedzialności za własne bezpieczeństwo; musi wydawać więcej i być niezależna pod względem możliwości produkcyjnych — podkreślił w poniedziałek wicepremier, szef MON Władysław Kosiniak-Kamysz podczas Warsaw...",
-      "date_published": "2026-10-12T19:02:00+02:00",
-      "source": "Bankier.pl"
-    },
-    {
       "id": "https://www.bankier.pl/wiadomosc/DM-BOS-obnizyl-cene-docelowa-akcji-Votum-do-48-8-zl-9211519.html",
       "url": "https://www.bankier.pl/wiadomosc/DM-BOS-obnizyl-cene-docelowa-akcji-Votum-do-48-8-zl-9211519.html",
       "title": "DM BOŚ obniżył cenę docelową akcji Votum do 48,8 zł Analitycy DM BOŚ, w raporcie z 12 października, obniżyli 12-miesięczną wycenę akcji grupy Votum do 48,8 zł z 53,1 zł wcześniej, a także obniżyli rekomendację fundamentalną do \"trzymaj\" z \"kupuj\".",
@@ -1130,22 +1130,6 @@
       "title": "Noble Securities obniżył cenę docelową akcji Creepy Jar do 448 zł Analitycy Noble Securities, w raporcie z 12 października, obniżyli cenę docelową akcji Creepy Jar do 448 zł z 616 zł wcześniej oraz utrzymali rekomendację \"trzymaj\".",
       "content_html": "",
       "date_published": "2026-10-12T17:12:00+02:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/UOKiK-nalozyl-na-4-banki-lacznie-147-09-mln-zl-kary-za-stosowanie-niedozwolonych-klauzul-9211153.html",
-      "url": "https://www.bankier.pl/wiadomosc/UOKiK-nalozyl-na-4-banki-lacznie-147-09-mln-zl-kary-za-stosowanie-niedozwolonych-klauzul-9211153.html",
-      "title": "UOKiK nałożył 147 mln zł kar na cztery banki. Znamy powody Prezes UOKiK za stosowanie niedozwolonych klauzul nałożył na Bank Pocztowy, Erste Bank Polska, ING Bank Śląski i Plus Bank kary w łącznej wysokości 147,09 mln zł - poinformował urząd w komunikacie.",
-      "content_html": "",
-      "date_published": "2026-10-12T16:50:00+02:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Ceny-zboz-moga-dalej-rosnac-pszenica-podrozeje-w-IV-kw-o-17-28-proc-rdr-PKO-BP-opinia-9211426.html",
-      "url": "https://www.bankier.pl/wiadomosc/Ceny-zboz-moga-dalej-rosnac-pszenica-podrozeje-w-IV-kw-o-17-28-proc-rdr-PKO-BP-opinia-9211426.html",
-      "title": "PKO BP Ceny zbóż ostro w górę. Za pszenicę rolnicy mogą dostać nawet 28 proc. więcej Ceny zbóż mogą dalej rosnąć, a przeciętna cena skupu pszenicy w IV kwartale 2026 r. będzie wyższa o 17-28 proc. rdr – oceniają analitycy PKO BP w kwartalniku Agro Nawigator. Wskazano, że spowolnienie produkcji mleka na świecie i unijnej produkcji wieprzowiny może sprzyjać wzrostowi cen w 2027 r.",
-      "content_html": "",
-      "date_published": "2026-10-12T16:46:00+02:00",
       "source": "Bankier.pl"
     }
   ]
