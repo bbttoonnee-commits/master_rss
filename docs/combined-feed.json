@@ -5,12 +5,76 @@
   "home_page_url": "https://www.bankier.pl",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/MON-tworzy-Dron-Legion-Setki-tysiecy-cywilow-wesprze-armie-9212735.html",
+      "url": "https://www.bankier.pl/wiadomosc/MON-tworzy-Dron-Legion-Setki-tysiecy-cywilow-wesprze-armie-9212735.html",
+      "title": "MON tworzy Dron Legion. Setki tysięcy cywilów wesprze armię",
+      "content_html": "Podczas środowego szkolenia operatorów dronów „Blue Eye 2026” w Nowym Glinniku (Łódzkie) wicepremier, szef MON Władysław Kosiniak-Kamysz, zapowiedział powołanie Dron Legionu, który sformowany spośród osób cywilnych na wypadek konfliktu...",
+      "date_published": "2026-10-15T12:20:00+02:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Ceny-paliw-w-dol-Minister-oglosil-nowe-stawki-maksymalne-9213118.html",
+      "url": "https://www.bankier.pl/wiadomosc/Ceny-paliw-w-dol-Minister-oglosil-nowe-stawki-maksymalne-9213118.html",
+      "title": "Ceny paliw w dół. Minister ogłosił nowe stawki maksymalne",
+      "content_html": "W piątek litr benzyny 95 ma kosztować nie więcej niż 6,95 zł, benzyny 98 - 7,76 zł, a oleju napędowego - 8,03 zł - wynika z czwartkowego obwieszczenia Ministra Energii. Ceny maksymalne wszystkich rodzajów paliw będą zatem niższe niż...",
+      "date_published": "2026-10-15T12:13:00+02:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Starlinki-na-Ukrainie-znow-dzialaja-Gawkowski-ostrzega-Polska-musi-miec-wlasna-siec-9213119.html",
+      "url": "https://www.bankier.pl/wiadomosc/Starlinki-na-Ukrainie-znow-dzialaja-Gawkowski-ostrzega-Polska-musi-miec-wlasna-siec-9213119.html",
+      "title": "Starlinki na Ukrainie znów działają. Gawkowski ostrzega: Polska musi mieć własną sieć",
+      "content_html": "Sytuacja związana z ograniczeniem działania Starlinków w Ukrainie wraca do normy; przywrócono już łączność wojskową - poinformował w czwartek wicepremier i minister cyfryzacji Krzysztof Gawkowski. Dodał, że to lekcja dla Polski i Europy,...",
+      "date_published": "2026-10-15T12:04:00+02:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Wstrzasajace-ustalenia-w-ZOO-Laczna-Znaleziono-zakopane-kosci-piec-osob-z-zarzutami-9212531.html",
+      "url": "https://www.bankier.pl/wiadomosc/Wstrzasajace-ustalenia-w-ZOO-Laczna-Znaleziono-zakopane-kosci-piec-osob-z-zarzutami-9212531.html",
+      "title": "Wstrząsające ustalenia w ZOO Łączna. Znaleziono zakopane kości, pięć osób z zarzutami",
+      "content_html": "Śledczy z Prokuratury Rejonowej w Wałbrzychu we wtorek zatrzymali pięć osób w związku z działalnością prywatnego Zoo Łączna w Mieroszowie. W środę usłyszały one zarzuty znęcania się nad zwierzętami. Z placówki wywieziono już kilkadziesiąt...",
+      "date_published": "2026-10-15T12:00:00+02:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Pellet-mocno-drozeje-przed-zima-Polacy-ruszyli-po-zapasy-ceny-sa-wyzsze-niz-rok-temu-9213057.html",
+      "url": "https://www.bankier.pl/wiadomosc/Pellet-mocno-drozeje-przed-zima-Polacy-ruszyli-po-zapasy-ceny-sa-wyzsze-niz-rok-temu-9213057.html",
+      "title": "Pellet mocno drożeje przed zimą. Polacy ruszyli po zapasy, ceny są wyższe niż rok temu",
+      "content_html": "Ceny pelletu rosną, a zainteresowanie zakupem opału wyraźnie przyspieszyło jeszcze przed rozpoczęciem sezonu grzewczego. We wrześniu 2026 r. na OLX pelletu szukało ponad 101 tys. użytkowników, o 43 proc. więcej niż rok wcześniej. Średnia...",
+      "date_published": "2026-10-15T12:00:00+02:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Kolejne-kraje-stawiaja-sie-Brukseli-Chca-ciec-w-unijnym-budzecie-9213041.html",
+      "url": "https://www.bankier.pl/wiadomosc/Kolejne-kraje-stawiaja-sie-Brukseli-Chca-ciec-w-unijnym-budzecie-9213041.html",
+      "title": "Kolejne kraje stawiają się Brukseli. Chcą cięć w unijnym budżecie",
+      "content_html": "Proponowany nowy budżet Unii Europejskiej jest zdecydowanie za duży i zbyt kosztowny, a przewidywany wzrost szwedzkiej składki o 60 proc. jest nie do zaakceptowania - powiedział premier Szwecji Ulf Kristersson przed rozmowami na temat wieloletniego...",
+      "date_published": "2026-10-15T11:59:00+02:00",
+      "source": "Bankier.pl"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Blokada-na-niebie-Musk-ucina-spekulacje-To-decyzja-armii-USA-i-Trumpa-9212868.html",
       "url": "https://www.bankier.pl/wiadomosc/Blokada-na-niebie-Musk-ucina-spekulacje-To-decyzja-armii-USA-i-Trumpa-9212868.html",
       "title": "Blokada na niebie. Musk ucina spekulacje: To decyzja armii USA i Trumpa",
       "content_html": "Decyzje w sprawie wszelkich ograniczeń dotyczących prędkości lub sposobu wykorzystywania systemów StarShield należą do sił zbrojnych USA i ostatecznie do prezydenta Donalda Trumpa - oświadczył w środę Elon Musk, szef koncernu SpaceX.",
       "date_published": "2026-10-15T11:57:00+02:00",
       "source": "Bankier.pl"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/firmy/cena-maksymalna-na-16-x-dla-benzyny-pb95-wynosi-695-zll-dla-803-zll",
+      "url": "https://biznes.pap.pl/wiadomosci/firmy/cena-maksymalna-na-16-x-dla-benzyny-pb95-wynosi-695-zll-dla-803-zll",
+      "title": "Cena maksymalna na 16 X dla benzyny Pb95 wynosi 6,95 zł/l, a dla ON 8,03 zł/l",
+      "content_html": "W dniu 16 października maksymalna cena dla benzyny Pb95 wynosić będzie 6,95 zł/l, dla benzyny Pb98 7,76 zł/l, a dla oleju napędowego 8,03 zł/l - poinformował minister energii w obwieszczeniu.\n\nAktualnie obowiązujące ceny maksymalne to: dla benzyny Pb95 7,01 zł/l, dla benzyny Pb98 to 7,83 zł/l, a dla oleju napędowego 8,05 zł/l.\n\nRząd przywrócił od początku października do końca 2026 r. pakiet \"Ceny Paliwa Niżej\", tj. obniżył stawki VAT na paliwa z 23 proc. do 8 proc. oraz akcyzę do najniższego dopuszczalnego poziomu w UE, a także przywrócił ogłaszane przez ministra energii ceny maksymalne paliw na stacjach. (PAP Biznes)",
+      "date_published": "2026-10-15T11:57:00+02:00",
+      "source": "PAP Biznes"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/gospodarka/polska-w-czolowce-wzrostow-ruchu-lotniczego-w-ue-w-i-kw-2026-r-eurostat",
+      "url": "https://biznes.pap.pl/wiadomosci/gospodarka/polska-w-czolowce-wzrostow-ruchu-lotniczego-w-ue-w-i-kw-2026-r-eurostat",
+      "title": "Polska w czołówce wzrostów ruchu lotniczego w UE w I kw. 2026 r. - Eurostat",
+      "content_html": "Liczba pasażerów obsłużonych przez transport lotniczy w Polsce wzrosła w I kwartale 2026 r. o 13,2 proc. rdr, co było jednym z najwyższych wyników w Unii Europejskiej - wynika z danych opublikowanych przez Eurostat.\n\nPolska zajęła czwarte miejsce pod względem tempa wzrostu ruchu pasażerskiego wśród państw UE. Wyższe dynamiki odnotowano jedynie na Słowacji (+103,8 proc.), w Słowenii (+18,2 proc.) oraz na Malcie (+15,3 proc.). W całej Unii ruch pasażerski zwiększył się o 4,2 proc. rdr, do 215,3 mln pasażerów.\n\nWedług Eurostatu, wzrost liczby pasażerów odnotowano w 25 z 27 państw członkowskich. Spadki wystąpiły jedynie w Holandii (-2,3 proc.) oraz na Łotwie (-1,7 proc.).\n\nW marcu 2026 r. unijni przewoźnicy i porty lotnicze obsłużyły 78,8 mln pasażerów, o 3,6 proc. więcej niż rok wcześniej. Był to jednak najniższy roczny wzrost od września 2025 r., co sugeruje stopniowe wyhamowanie dynamiki rynku po silnym odbiciu obserwowanym w poprzednich latach.\n\nDane pokazują również, że największą część ruchu lotniczego w UE stanowiły połączenia pozaunijne. W I kwartale 2026 r. odpowiadały one za 51,0 proc. wszystkich przewiezionych pasażerów, podczas gdy transport wewnątrzunijny stanowił 34,2 proc., a krajowy 14,9 proc.\n\nNajwiększym rynkiem lotniczym w UE pozostawała Hiszpania, gdzie w I kwartale odprawiono 55,0 mln pasażerów. Kolejne miejsca zajęły Niemcy (38,9 mln), Włochy (38,1 mln) i Francja (35,6 mln).\n\nNajbardziej ruchliwym lotniskiem Unii Europejskiej był w tym okresie port Madrid-Barajas, który obsłużył 16,1 mln pasażerów, przed lotniskami Paris-Charles de Gaulle (15,9 mln) i Amsterdam Schiphol (14,4 mln). (PAP Biznes)",
+      "date_published": "2026-10-15T11:48:00+02:00",
+      "source": "PAP Biznes"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Dom-Development-wprowadzil-do-sprzedazy-w-Warszawie-196-mieszkan-9213093.html",
@@ -21,12 +85,36 @@
       "source": "Bankier.pl"
     },
     {
+      "id": "https://biznes.pap.pl/wiadomosci/firmy/dom-development-wprowadzil-do-sprzedazy-w-warszawie-196-mieszkan",
+      "url": "https://biznes.pap.pl/wiadomosci/firmy/dom-development-wprowadzil-do-sprzedazy-w-warszawie-196-mieszkan",
+      "title": "Dom Development wprowadził do sprzedaży w Warszawie 196 mieszkań",
+      "content_html": "Dom Development rozpoczął sprzedaż 196 mieszkań na warszawskiej Białołęce w ramach nowej części Osiedla Palladium - podał deweloper w komunikacie prasowym.\n\nŁącznie na osiedlu powstanie siedem budynków. Zakończenie realizacji pierwszych dwóch obiektów zaplanowano na III kwartał 2028 roku. (PAP Biznes)",
+      "date_published": "2026-10-15T11:44:00+02:00",
+      "source": "PAP Biznes"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/firmy/eboir-zainwestowal-do-40-mln-euro-w-avallon-mbo-fund-iv-planujacy-przejecia-w-cee",
+      "url": "https://biznes.pap.pl/wiadomosci/firmy/eboir-zainwestowal-do-40-mln-euro-w-avallon-mbo-fund-iv-planujacy-przejecia-w-cee",
+      "title": "EBOiR zainwestował do 40 mln euro w Avallon MBO Fund IV planujący przejęcia w CEE",
+      "content_html": "Europejski Bank Odbudowy i Rozwoju (EBOiR) zainwestował do 40 mln euro w Avallon MBO Fund IV, który jest zainteresowany spółkami w Polsce i innych krajach Europy Środkowo-Wschodniej - podał bank w komunikacie prasowym. Dodano, że firma Avallon planuje pozyskać do funduszu 220 mln euro, przy maksymalnej wielkości funduszu wynoszącej 260 mln euro.\n\nJak podano, fundusz będzie się skupiał na wspieraniu MŚP i małych spółek o średniej kapitalizacji w Polsce i innych krajach regionu.\n\n\"Co najmniej 70 proc. zaangażowania funduszu zostanie zainwestowane w Polsce, a do 30 proc. w pozostałej części Europy Środkowej i Wschodniej, tj. w Bułgarii, Chorwacji, Czechach, Estonii, na Węgrzech, Łotwie, Litwie, w Rumunii, Słowacji i Słowenii\" - napisano w komunikacie.\n\n\"Małe i średnie przedsiębiorstwa są kluczowym źródłem innowacji, zatrudnienia i wzrostu gospodarczego. Dzięki naszej inwestycji w Avallon MBO Fund IV będziemy pomagać ambitnym biznesom w umacnianiu ich pozycji rynkowej, poszukiwaniu nowych możliwości oraz osiągania wkładu w zrównoważony rozwój gospodarczy w całym regionie\" - powiedziała, cytowana w informacji prasowej, szefowa EBOR na Polskę i kraje bałtyckie Andreea Moraru.\n\nAvallon to polska firma private equity specjalizująca się w inwestycjach w MŚP w Europie Środkowo-Wschodniej od ponad 25 lat. (PAP Biznes)",
+      "date_published": "2026-10-15T11:44:00+02:00",
+      "source": "PAP Biznes"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Empik-otworzyl-400-salon-stacjonarny-w-Polsce-9213078.html",
       "url": "https://www.bankier.pl/wiadomosc/Empik-otworzyl-400-salon-stacjonarny-w-Polsce-9213078.html",
       "title": "Empik uruchomił 400. salon stacjonarny w Polsce",
       "content_html": "Empik otworzył 400. salon stacjonarny w Polsce. W 2025 roku kanał cyfrowy odpowiadał za 56 proc. GMV grupy, rosnąc o 22 proc. rdr, a sieć stacjonarna wzrosła w tym czasie o 9 proc. - poinformował Empik w komunikacie.",
       "date_published": "2026-10-15T11:22:00+02:00",
       "source": "Bankier.pl"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/firmy/empik-otworzyl-400-salon-stacjonarny-w-polsce",
+      "url": "https://biznes.pap.pl/wiadomosci/firmy/empik-otworzyl-400-salon-stacjonarny-w-polsce",
+      "title": "Empik otworzył 400. salon stacjonarny w Polsce",
+      "content_html": "Empik otworzył 400. salon stacjonarny w Polsce. W 2025 roku kanał cyfrowy odpowiadał za 56 proc. GMV grupy, rosnąc o 22 proc. rdr, a sieć stacjonarna wzrosła w tym czasie o 9 proc. - poinformował Empik w komunikacie.\n\nSpółka podała, że równolegle rozwija e-commerce i sieć stacjonarną.\n\n\"Salony pełnią dziś znacznie szerszą funkcję niż tradycyjny punkt sprzedaży – około dwóch trzecich zamówień z Empik.com klienci odbierają właśnie w sklepach stacjonarnych. To sprawia, że salon staje się jednocześnie miejscem zakupu, odbioru, zwrotu i kontaktu z ofertą internetową\" - napisano w komunikacie.\n\n\"Spółka obserwuje też, że wraz z otwarciem salonu w nowej lokalizacji wzrost sprzedaży internetowej był 1,5-krotnie większy w jego otoczeniu\" - dodano.\n\nW 2026 r. otwierane są salony o średnim metrażu ok. 199 m kw. (PAP Biznes)",
+      "date_published": "2026-10-15T11:21:00+02:00",
+      "source": "PAP Biznes"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Przelomowy-wyrok-TSUE-dla-ofiar-oszustow-Bank-musi-najpierw-oddac-pieniadze-9213075.html",
@@ -37,18 +125,42 @@
       "source": "Bankier.pl"
     },
     {
+      "id": "https://biznes.pap.pl/wiadomosci/firmy/wg-tsue-bank-ma-obowiazek-zwrocic-pieniadze-utracone-w-wyniku-nieautoryzowanej",
+      "url": "https://biznes.pap.pl/wiadomosci/firmy/wg-tsue-bank-ma-obowiazek-zwrocic-pieniadze-utracone-w-wyniku-nieautoryzowanej",
+      "title": "Wg TSUE bank ma obowiązek zwrócić pieniądze utracone w wyniku nieautoryzowanej transakcji - RF",
+      "content_html": "Rozstrzygnięcie TSUE wzmacnia ochronę osób, które padły ofiarą oszustów bowiem bank ma obowiązek niezwłocznie zwrócić klientowi pieniądze utracone w wyniku nieautoryzowanej transakcji - poinformował R",
+      "date_published": "2026-10-15T11:10:00+02:00",
+      "source": "PAP Biznes"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/firmy/wartosc-sprzedazy-w-aptekach-w-polsce-w-ix-wzrosla-o-35-proc-rdr-pex",
+      "url": "https://biznes.pap.pl/wiadomosci/firmy/wartosc-sprzedazy-w-aptekach-w-polsce-w-ix-wzrosla-o-35-proc-rdr-pex",
+      "title": "Wartość sprzedaży w aptekach w Polsce w IX wzrosła o 3,5 proc. rdr - PEX PharmaSequence",
+      "content_html": "Wartość sprzedaży w aptekach w Polsce we wrześniu wzrosła o 3,5 proc. rdr do 5.566,9 mln zł - poinformowała w raporcie firma badawcza PEX PharmaSequence.\n\nWobec poprzedniego miesiąca sprzedaż wzrosła o 12,7 proc.\n\nObrót statystycznej apteki we wrześniu wyniósł 460 tys. zł i był to wzrost o 5,1 proc. względem analogicznego okresu 2025 r.\n\nŚrednia cena detaliczna leku we wrześniu wyniosła 36,86 zł i wzrosła o 1,1 proc. w porównaniu do poprzedniego miesiąca, a względem analogicznego okresu 2025 r. cena wzrosła o 5,9 proc.\n\nŚredni narzut apteczny dla wszystkich leków we wrześniu wyniósł 24,2 proc. i był niższy o 6,1 proc. w porównaniu do narzutu w analogicznym okresie 2025 r., a w porównaniu do sierpnia narzut spadł o 2,5 proc. (PAP Biznes)",
+      "date_published": "2026-10-15T11:09:00+02:00",
+      "source": "PAP Biznes"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/firmy/dzien-na-gpw-sesja-z-lekkimi-spadkami-glownych-indeksow-znizkuja-m-orlen-i-kghm",
+      "url": "https://biznes.pap.pl/wiadomosci/firmy/dzien-na-gpw-sesja-z-lekkimi-spadkami-glownych-indeksow-znizkuja-m-orlen-i-kghm",
+      "title": "DZIEŃ NA GPW: Sesja z lekkimi spadkami głównych indeksów; zniżkują m. in. Orlen i KGHM",
+      "content_html": "Większość głównych indeksów lekko spada. Zwyżki z poprzedniej sesji oddaje Orlen, trzeci raz z rzędu zniżkuje KGHM, spadają także CD Projekt RED i spółki energetyczne. Relatywnie dobrze radzą sobie banki, rosną m. in. Pepco i Dino. Zdaniem analityków, w czwartek uwagę inwestorów przyciągną przede wszystkim dane inflacyjne z Polski i Stanów Zjednoczonych.\n\nOk. godz. 10.50 WIG20 spada o 0,1 proc. do ok. 4.202 pkt., WIG zniżkuje o 0,1 proc. do ok. 158.567 pkt. mWIG40 idzie w górę o 0,1 proc. do ok. 10.705 pkt., a sWIG80 traci 0,6 proc. i wynosi 30.705 pkt.\n\nZdaniem analityków BM BNP Paribas BP, w czwartkowym kalendarzu makroekonomicznym uwagę inwestorów przyciągną przede wszystkim dane inflacyjne z Polski i Stanów Zjednoczonych.\n\n\"O godz. 14.00 NBP opublikuje wrześniowy odczyt inflacji bazowej, dla której prognozowany jest spadek z 3,3 proc. w sierpniu do 3,2 proc. O godz. 14.30 opublikowane zostaną wrześniowe dane o inflacji producenckiej i sprzedaży detalicznej w Stanach Zjednoczonych. Konsensus zakłada spowolnienie inflacji PPI do 5,3 proc. rdr z 5,4 proc. miesiąc wcześniej, natomiast w przypadku inflacji bazowej oczekiwany jest spadek do 4,4 proc. z 4,6 proc. miesiąc wcześniej. Równocześnie poznamy dane o sprzedaży detalicznej, która według prognoz wzrosła o 0,3 proc. mdm wobec 1,2 proc. w sierpniu\" - napisali analitycy w komentarzu.\n\nW czwartek wśród blue chipów jedną ze spadkowych spółek jest Orlen. Spółka zniżkuje o 1,3 proc. do 263 zł, po środowym wzroście o 1,47 proc.\n\nKurs Orlenu od pół roku jest zmienny, waha się pomiędzy ok. 122 zł a ok. 164 zł i łącznie do środowego zamknięcia wzrósł o ponad 22 proc.\n\nW czwartek o 2 proc. spada KGHM, do 324,5 zł, i jest to trzecia z rzędu zniżka akcji tej spółki. Kurs spółki w ostatnich sześciu miesiącach porusza się w trendzie bocznym w zakresie ok. 290-396 zł.\n\nPonownie przecenione są akcje spółek z sektora energetycznego. PGE spada o 0,8 proc., Tauron - o 1,8 proc., a Enea zniżkuje o 0,3 proc. WIG Energia traci 1 proc. i wynosi 5.557 pkt.\n\nW środę na zamknięciu WIG Energia lekko spadł, jednak niedługo przed zakończeniem sesji zanotował nowe historyczne maksimum na poziomie 5.640,87 pkt.\n\nPodczas czwartkowej sesji spada także CD Projekt RED, o 1,3 proc. Spółka od 11 września do 14 października zwyżkowała o 15,6 proc.\n\nJak poinformował w rozmowie z PAP Biznes joint CEO, Michał Nowakowski, CD Projekt RED jest zadowolony z obecnej sprzedaży \"Wiedźmina 3\", która nawet po zakończeniu okna wyprzedażowego utrzymuje się na wyższym poziomie niż przed remasterem. Ponadto Nowakowski wskazał, że spółka zakończyła etap prac dotyczących wizji świata w projekcie Hadar. CD Projekt RED nie chce, by film na podstawie Cyberpunka tworzony przez Paramount Pictures był bezpośrednią ekranizacją gry.\n\nDobrze radzą sobie banki. Spółki z tego sektora notowane w WIG20 lub mWIG40 przeważnie rosną, najmocniej zwyżkuje BNP Paribas, o 1,5 proc. Spadają tylko Handlowy i ING Bank Śląski, po ok. 0,3 proc.\n\nWIG Banki lekko rośnie do 27.024 pkt. Na poprzedniej sesji wskaźnik ten stracił 1,03 proc.\n\nPKO BP chce mieć 30 proc. udziału w rynku Osobistych Kont Inwestycyjnych (OKI), który w ciągu trzech lat może urosnąć do 100 mld zł. Bank zakłada, że udział nowych środków w aktywach OKI będzie stopniowo rósł i w pierwszym roku będzie to 7 proc., a w następnym 14 proc. Kurs PKO BP lekko zyskuje.\n\nW indeksie WIG20 najmocniej rośnie Pepco, o 1,5 proc. Na pięć poprzednich sesji Pepco zanotowało tylko jedną zniżkę, w środę. Łącznie w tym czasie kurs spółki poszedł w górę o 3,6 proc.\n\nZwyżkuje Dino, o 1,3 proc. Przez siedem poprzednich sesji łącznie akcje spółki zdrożały o 10 proc.\n\nW indeksie mWIG40, trzeci raz z rzędu spada Asbis, tym razem o 4,3 proc. Kurs spółki koryguje się po bardzo silnych wzrostach. Od 2 stycznia do 12 października tego roku kurs Asbisu poszedł do góry o niemal 490 proc.\n\nW czwartek Asbis notuje wysokie obroty. Wynoszą one 19,7 mln zł i są wyższe od obrotów na akcjach takich spółek jak CD Projekt RED, P",
+      "date_published": "2026-10-15T11:07:00+02:00",
+      "source": "PAP Biznes"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/gospodarka/produkcja-przemyslowa-w-polsce-w-sierpniu-wzrosla-o-18-proc-rdr-eurostat",
+      "url": "https://biznes.pap.pl/wiadomosci/gospodarka/produkcja-przemyslowa-w-polsce-w-sierpniu-wzrosla-o-18-proc-rdr-eurostat",
+      "title": "Produkcja przemysłowa w Polsce w sierpniu wzrosła o 1,8 proc. rdr - Eurostat",
+      "content_html": "Produkcja przemysłowa w Polsce, wyrównana dniami roboczymi, wzrosła w sierpniu o 1,8 proc. rdr, po wzroście o 4,3 proc. rdr miesiąc wcześniej - podał Eurostat. W ujęciu mdm produkcja spadła o 1,8 proc. (PAP Biznes)\n\nLiczba obywateli Ukrainy ze statusem ochrony czasowej w UE wzrosła w sierpniu o 3,29 tys. - podał Eurostat.\n\nSprzedaż detaliczna w Polsce w sierpniu wzrosła o 2,4 proc. rdr - podał Eurostat. W ujęciu miesięcznym sprzedaż spadła o 0,7 proc.\n\nStopa bezrobocia, po dostosowaniu sezonowym, według metodologii Eurostatu, wyniosła w sierpniu w Polsce 3,4 proc., tak jak w lipcu - podał Eurostat.\n\nCeny konsumpcyjne w strefie euro wzrosły o 3,2 proc. w sierpniu w ujęciu rdr - podał w końcowym szacunku Eurostat, biuro statystyczne Unii Europejskiej. Wstępnie szacowano wzrost o 3,3 proc. wobec +2,9 proc. miesiąc wcześniej.\n\ntel. (+48 22) 509 22 25dystrybucja@pap.pl",
+      "date_published": "2026-10-15T11:02:00+02:00",
+      "source": "PAP Biznes"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Klienci-wplacili-pieniadze-po-reklamie-Chajzera-Teraz-zostali-bez-kart-9213035.html",
       "url": "https://www.bankier.pl/wiadomosc/Klienci-wplacili-pieniadze-po-reklamie-Chajzera-Teraz-zostali-bez-kart-9213035.html",
       "title": "Klienci wpłacili pieniądze po reklamie Chajzera. Teraz zostali bez kart",
       "content_html": "Klienci Fundacji Renovatio, którzy wpłacili składki, aby korzystać z kart Medicover Sport, zostali bez dostępu do obiektów sportowych i bez pieniędzy. Fundacja złożyła wniosek o ogłoszenie upadłości, a jej prezes przyznaje, że na koncie...",
-      "date_published": "2026-10-15T11:00:00+02:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Kolejne-kraje-stawiaja-sie-Brukseli-Chca-ciec-w-unijnym-budzecie-9213041.html",
-      "url": "https://www.bankier.pl/wiadomosc/Kolejne-kraje-stawiaja-sie-Brukseli-Chca-ciec-w-unijnym-budzecie-9213041.html",
-      "title": "Kolejne kraje stawiają się Brukseli. Chcą cięć w unijnym budżecie",
-      "content_html": "Proponowany nowy budżet Unii Europejskiej jest zdecydowanie za duży i zbyt kosztowny, a przewidywany wzrost szwedzkiej składki o 60 proc. jest nie do zaakceptowania - powiedział premier Szwecji Ulf Kristersson przed rozmowami na temat wieloletniego...",
       "date_published": "2026-10-15T11:00:00+02:00",
       "source": "Bankier.pl"
     },
@@ -117,14 +229,6 @@
       "source": "PAP Biznes"
     },
     {
-      "id": "https://biznes.pap.pl/wiadomosci/firmy/cd-projekt-red-nie-chce-aktorski-cyberpunk-byl-klasyczna-ekranizacja-widzi",
-      "url": "https://biznes.pap.pl/wiadomosci/firmy/cd-projekt-red-nie-chce-aktorski-cyberpunk-byl-klasyczna-ekranizacja-widzi",
-      "title": "CD Projekt RED nie chce, by aktorski Cyberpunk był klasyczną ekranizacją; widzi potencjał zwiększenia odbiorców flagowych tytułów (wywiad)",
-      "content_html": "CD Projekt RED nie chce, by film na podstawie Cyberpunka tworzony przez Paramount Pictures był bezpośrednią ekranizacją gry - poinformował w wywiadzie dla PAP Biznes joint CEO dewelopera gier, Michał Nowakowski. Ponadto spółka widzi przestrzeń do dalszego zwiększania liczby odbiorców Cyberpunka i Wiedźmina, za czym przemawia demografia i nowi odbiorcy gamingu.\n\n\"Nasza umowa z Anonymous Content wygasła, a w międzyczasie pojawiła się możliwość nawiązania współpracy z Paramount Pictures i uznaliśmy, że będziemy prowadzić aktorski projekt Cyberpunka w nowej formule\" - powiedział PAP Biznes Michał Nowakowski.\n\n\"Na ten moment możemy jedynie powiedzieć, że na pewno nie chcemy robić ekranizacji gry. Chcemy opowiedzieć historię w świecie Cyberpunka, ale to nie będzie historia z gry przełożona jeden do jednego\" - dodał.\n\nJoint CEO CD Projekt RED wskazał również, że spółka zdradzi nieco więcej szczegółów dotyczących projektu aktorskiego, gdy obie strony będą na to gotowe.\n\nBranżowy portal Deadline poinformował 8 października, że Paramount Pictures pracuje nad filmem rozgrywającym się w uniwersum Cyberpunka. Chwilę później informację potwierdził sam Michał Nowakowski.\n\nWe wrześniu, deweloper gier w wynikach za pierwsze półrocze 2026 roku pokazał ok. 95 mln zł przychodów z licencjonowania franczyz. Spółka jednak szybko przekazała, że tej skali zastrzyk gotówki z szeroko pojętych transmediów był wynikiem współpracy z ponad 100 partnerami i będzie trudny do regularnego powtarzania w takiej skali. CD Projekt RED jednak dalej widzi duży potencjał w tej gałęzi biznesu i chce ją budować w taki sposób, aby systematycznie dokładała się do wyników spółki.\n\n\"W przypadku licencjonowania franczyz cele na dany okres stawiamy sobie w ujęciu rocznym, ponieważ przychody związane z tego typu kontraktami mają wiele źródeł — są to m.in.: muzyka, merchandising, gry planszowe czy komiksy, a nasi partnerzy mają bardzo różne cykle raportowania, co wpływa na ujęcie przychodów w poszczególnych okresach sprawozdawczych. Czasem - tak jak w przypadku pierwszego półrocza - potrafią się one na siebie nałożyć\" - wskazał Nowakowski.\n\n\"Oczywiście mamy ambicję, żeby cały czas rosnąć w tym segmencie — przy czym niekoniecznie musi to być wzrost z kwartału na kwartał. Zdecydowanie myślimy o tym jako istotnej części biznesu — co ważne, nie tylko z perspektywy finansowej. Licencjonowanie franczyz stanowi bowiem pomost pomiędzy planowanymi premierami naszych gier a graczami, którzy czekając na projekt, mogą doświadczać i identyfikować się z naszymi markami np. za pośrednictwem ubrań czy komiksów\" - dodał.\n\nMichał Nowakowski wskazał również, że w związku ze zrealizowanymi i zapowiedzianymi premierami w uniwersum wiedźmińskim - tj. \"Wiedźmin 3 - Remaster\" w tym roku, \"Pieśni przeszłości\" w 2027 r. i \"Wiedźmin 4\" zaplanowany na 2028 r. - licencjonowanie wiedźmińskiego IP naturalnie powinno nabierać prędkości.\n\n20 października na platformie Netflix premierę będzie miała druga odsłona serialu anime \"Cyberpunk: Edgerunners\". CD Projekt RED liczy, że to wydarzenie wpłynie na popularność \"Cyberpunka 2077\".\n\n\"W 2022 roku, gdy zadebiutowała pierwsza części anime, zaobserwowaliśmy wzmożone zainteresowanie grą. Szczególnie widoczne było w okresie premiery serialu, ale co równie ważne – w kolejnych miesiącach sprzedaż gry nadal utrzymywała się powyżej tej obserwowanej przed premierą. Liczymy, że tym razem również uda nam się zaprosić widzów anime do naszej gry\" - ocenił Nowakowski.\n\n\"Tego typu wydarzenia mają dwa efekty — aktywizujemy dotychczasowych graczy i przyciągamy nowych odbiorców\" - wskazał.\n\nDodał, że pomimo przekroczenia poziomu 40 mln sprzedanych kopii \"Cyberpunka 2077\", studio widzi przestrzeń do dalszego i stopniowego zwiększania liczby odbiorców gry.\n\n\"Jak popatrzymy na sufit ogromnych gier z długim ogonem sprzedażowym, to w przypadku 'Grand Theft Auto V', mówimy o ponad 230 mln egzemplarzy. Oczywiście bierzemy poprawkę na fakt istnienia rozgrywki wieloosobowej w przypadku tego",
-      "date_published": "2026-10-15T10:27:00+02:00",
-      "source": "PAP Biznes"
-    },
-    {
       "id": "https://www.bankier.pl/wiadomosc/Bunt-w-Trybunale-Konstytucyjnym-Berek-zapowiada-To-bedzie-prezent-pod-choinke-9212996.html",
       "url": "https://www.bankier.pl/wiadomosc/Bunt-w-Trybunale-Konstytucyjnym-Berek-zapowiada-To-bedzie-prezent-pod-choinke-9212996.html",
       "title": "Bunt w Trybunale Konstytucyjnym. Berek zapowiada: To będzie prezent pod choinkę",
@@ -139,14 +243,6 @@
       "content_html": "CD Projekt RED jest zadowolony z obecnej sprzedaży \"Wiedźmina 3\", która nawet po zakończeniu okna wyprzedażowego utrzymuje się na wyższym poziomie niż przed remasterem, co nastraja spółkę pozytywnie przed premierą \"Pieśni przeszłości\" -...",
       "date_published": "2026-10-15T10:24:00+02:00",
       "source": "Bankier.pl"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/firmy/cd-projekt-red-zadowolony-ze-sprzedazy-wiedzmina-3-wizja-swiata-w-projekcie-hadar",
-      "url": "https://biznes.pap.pl/wiadomosci/firmy/cd-projekt-red-zadowolony-ze-sprzedazy-wiedzmina-3-wizja-swiata-w-projekcie-hadar",
-      "title": "CD Projekt RED zadowolony ze sprzedaży \"Wiedźmina 3\"; wizja świata w projekcie Hadar została domknięta - Nowakowski",
-      "content_html": "CD Projekt RED jest zadowolony z obecnej sprzedaży \"Wiedźmina 3\", która nawet po zakończeniu okna wyprzedażowego utrzymuje się na wyższym poziomie niż przed remasterem, co nastraja spółkę pozytywnie przed premierą \"Pieśni przeszłości\" - poinformował w rozmowie z PAP Biznes joint CEO, Michał Nowakowski. Ponadto wskazał, że spółka zakończyła etap prac dotyczących wizji świata w projekcie Hadar.\n\n\"Jesteśmy zadowoleni z obecnej sprzedaży ‘Wiedźmina 3’. Był okres promocyjny w czasie jesiennych wyprzedaży na większości platform, ale co ciekawe nawet już po zakończeniu wyprzedaży widzimy, że sprzedaż gry utrzymuje się na wyższym poziomie niż przed remasterem\" - powiedział PAP Biznes Michał Nowakowski.\n\n\"Aktualna sprzedaż 'Wiedźmina 3' nastraja nas pozytywnie przed zbliżającą się premierą rozszerzenia ‘Pieśni przeszłości’ i pokazuje, że sprzedaż ponad jedenastoletniej gry da się podsycić odpowiednimi działaniami\" - dodał.\n\nW dniu premiery gry \"Wiedźmin 3: Dziki Gon — Remaster\", tytuł pobił swój dotychczasowy rekord jednocześnie grających osób na platformie Steam z wynikiem ponad 120 tys. Z kolei następny rekord padł 4 października, gdy w grze było jednocześnie niemal 138 tys. osób.\n\n\"Mówiąc szczerze, rekordowych wyników spodziewaliśmy się dopiero przy 'Pieśniach przeszłości', więc fakt, że osiągnęliśmy taką liczbę osób jednocześnie grających w remastera, jest dla nas sukcesem, z którego jesteśmy bardzo zadowoleni\" - powiedział.\n\nPonadto Nowakowski wskazał, że w przypadku \"Wiedźmina 4\" CD Projekt RED koncentruje się na trzech platformach — PC, PlayStation 5 oraz Xbox Series X i S.\n\n\"'Wiedźmin 4', to nasza najambitniejsza dotychczas produkcja, o czym świadczy też skala nakładów. Dodatkowo nasza strategia polega na tym, że nie chcemy się powtarzać. Naszą ambicją jest to, by każdy nasz tytuł wprowadzał nowe rozwiązania narracyjne, gameplayowe czy te dotyczące głównych misji, jak i zadań pobocznych\" - powiedział Nowakowski.\n\n\"Doświadczenie, jakie zebraliśmy zarówno przy 'Wiedźminie 3', jak i ‘Cyberpunku 2077’, na pewno pomaga nam dzisiaj w budowie tak ambitnej gry. Oczywiście nowy Wiedźmin musi mieć w sobie to, za co gracze pokochali to uniwersum. Jednocześnie chcemy, żeby siadając do tego tytułu, mieli pewność, że przesuwa on granice tego, czym jest gra RPG i że jest technologicznie zaawansowany\" - dodał.\n\nW świetle informacji o tym, że Sony w 2028 roku chce odejść od fizycznych kopii gier na PlayStation, Nowakowski zapewnił, że spółka nie planuje odchodzić od pudełkowych wydań, nawet jeżeli zamiast nośników będą one zawierały kod do gry.\n\n\"Warto pamiętać, że producenci konsol mają swoje tłocznie. To niestety nie działa w ten sposób, że studio podejmuje decyzję o wydaniu gry, której wersję fizyczną samo dostarczy na rynek. Dlatego też, jeżeli dany producent kompletnie zamyka ścieżkę do wydawania gier na fizycznych nośnikach, to ich po prostu nie będzie\" - wskazał.\n\n\"Nie zmienia to faktu, że my dalej chcemy wydawać fizyczne egzemplarze naszych tytułów. Nawet jeśli ostatecznie będzie to pudełko z kodem i gadżetami związanymi z naszymi grami, będziemy chcieli wprowadzać taki produkt na rynek\" - dodał.\n\nNowakowski poinformował również, że ostatnie dostosowanie wielkości zespołu pracującego nad projektem Syriusz, który będzie grą multiplayer osadzoną wiedźmińskim uniwersum, wynikało z etapu prac nad projektem.\n\n\"Zespół Syriusza urósł po prostu ponad to, w jakim momencie iteracji aktualnie się znajduje i to był główny powód tych zmian. Jest to pierwsza gra tego typu, nad którą pracujemy i dlatego też jesteśmy bardzo ostrożni z pokazywaniem jej elementów\" - powiedział.\n\nDodał, że zespół Syriusza jest zbudowany z osób, które wiedzą, na czym polega tworzenie gier wieloosobowych, i rozumieją, czym jest wiedźmińska franczyza.\n\nPonadto wskazał, że studio razem z Fool's Theory chce, aby zapowiedziane na 2027 rok rozszerzenie fabularne do trzeciej części Wiedźmina pt. \"Pieśni przeszłości\" było godnym następcą poprzednich dodatków. Spółka już wcześniej ",
-      "date_published": "2026-10-15T10:22:00+02:00",
-      "source": "PAP Biznes"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Carrefour-zwalnia-grupowo-Redukcja-obejmie-cztery-miasta-9213032.html",
@@ -165,22 +261,6 @@
       "source": "Bankier.pl"
     },
     {
-      "id": "https://biznes.pap.pl/wiadomosci/nieruchomosci/w-polsce-dzialaja-74-prywatne-akademiki-z-ok-213-tys-miejsc-w-budowie-6",
-      "url": "https://biznes.pap.pl/wiadomosci/nieruchomosci/w-polsce-dzialaja-74-prywatne-akademiki-z-ok-213-tys-miejsc-w-budowie-6",
-      "title": "W Polsce działają 74 prywatne akademiki z ok. 21,3 tys. miejsc; w budowie 6 kolejnych inwestycji - CBRE",
-      "content_html": "W sierpniu 2026 r. w ośmiu głównych ośrodkach akademickich działały 74 prywatne domy studenckie z 21.346 łóżkami, o 9,5 proc. więcej niż rok wcześniej - wynika z raportu CBRE. W 2026 r. uruchomiono 6 obiektów z 1.856 łóżkami, a w budowie pozostaje kolejnych 6 inwestycji z 2.386 łóżkami.\n\n\"W 2025 roku w 429 akademikach uczelni było ponad 110 tysięcy miejsc. To o 1,5 procent mniej niż rok wcześniej. Oznacza to, że zamieszkać tak mogło maksymalnie około 8 procent wszystkich studentów. Braki w pewnym stopniu uzupełniają prywatne akademiki, ale i w tym przypadku potencjalny popyt jest znacznie wyższy niż podaż. W sierpniu 2026 roku w ośmiu głównych miastach studenckich w Polsce działały 74 takie obiekty, w których znajdowało się 21,3 tysiąca miejsc. Zamieszkanie w prywatnym akademiku przy cenie porównywalnej z najmem pokoju lub mieszkania rozważyłoby ponad 64 procent badanych studentów, przy czym większość uzależnia tę decyzję także od lokalizacji i standardu. Obecnie zamieszkiwanie w takim obiekcie deklaruje 2,1 procent\" - powiedziała, cytowana w komunikacie prasowym, Agnieszka Mikulska, ekspertka rynku mieszkaniowego w CBRE.\n\nZ raportu wynika, że najkorzystniejsze nasycenie, czyli relację liczby łóżek w prywatnych akademikach do liczby studentów, odnotowano w Krakowie (3,8 proc.), Łodzi (3,6 proc.) i Lublinie (3,3 proc.), a średnia dla ośmiu miast wynosi 2,5 proc. Warszawa, największe miasto akademickie w Polsce, mimo rekordowych otwarć nowych, prywatnych obiektów zajmuje dopiero szóste miejsce (1,9 proc.), a najniższe nasycenie ma Poznań (1,3 proc.).\n\nŚrednia opłata za miejsce na rok 2026/2027 wynosi 2.070 zł miesięcznie, mediana 1.999 zł. Wzrost opłat był umiarkowany: mediana zmiany w próbie 262 typów pokoi wyniosła 2,6 proc., poniżej poziomu inflacji wynoszącej 3,4 proc. w sierpniu 2026 r. Spośród typów pokoi wycenionych w obu latach 21 proc. staniało w bieżącym roku.\n\nZ badania CBRE wynika, że ponad dwie trzecie ankietowanych ocenia ofertę akademików jako wymagającą poprawy, w tym 40,2 proc. uważa, że jest na tym rynku poważna luka. Od prywatnego akademika oczekują przede wszystkim niskiej ceny, lokalizacji blisko uczelni lub centrum oraz wysokiego standardu pokoi. Gdyby jego cena była porównywalna z najmem pokoju lub mieszkania, prywatny dom studencki rozważyłoby 64,2 proc. zapytanych studentów. Obecnie zamieszkiwanie w nim deklaruje 2,1 proc.\n\nBadanie zrealizował panel Ariadna na zlecenie CBRE, metodą CAWI, w dniach 3-17 września 2026 r., na grupie 520 osób w wieku 18-26 lat studiujących w ośmiu miastach objętych raportem (Warszawie, Krakowie, Wrocławiu, Trójmieście, Poznaniu, Łodzi, Lublinie i Katowicach). (PAP Biznes)",
-      "date_published": "2026-10-15T09:58:00+02:00",
-      "source": "PAP Biznes"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/gospodarka/produkcja-uslug-w-lipcu-wzrosla-o-58-proc-rdr-w-ujeciu-mdm-spadla-o-15-proc",
-      "url": "https://biznes.pap.pl/wiadomosci/gospodarka/produkcja-uslug-w-lipcu-wzrosla-o-58-proc-rdr-w-ujeciu-mdm-spadla-o-15-proc",
-      "title": "Produkcja usług w lipcu wzrosła o 5,8 proc. rdr, w ujęciu mdm spadła o 1,5 proc. - GUS",
-      "content_html": "Według wstępnych danych w lipcu 2026 r. produkcja usług w Polsce wzrosła o 5,8 proc. rdr, a w ujęciu miesiąc do miesiąca spadła o 1,5 proc. - podał Główny Urząd Statystyczny.\n\nJak podano, po wyeliminowaniu wpływu czynników o charakterze sezonowym, w lipcu 2026 r. produkcja usług była o 5,9 proc. wyższa niż w analogicznym miesiącu ub. roku, a w odniesieniu do czerwca 2026 r. spadła o 0,4 proc.\n\nW porównaniu do przeciętnej miesięcznej produkcji usług w 2021 r. produkcja usług zwiększyła się o 35,4 proc. (PAP Biznes)",
-      "date_published": "2026-10-15T09:34:00+02:00",
-      "source": "PAP Biznes"
-    },
-    {
       "id": "https://www.bankier.pl/wiadomosc/Kolejny-tajemniczy-incydent-na-Morzu-Czarnym-Pozar-na-statku-u-wybrzezy-Rumunii-9212889.html",
       "url": "https://www.bankier.pl/wiadomosc/Kolejny-tajemniczy-incydent-na-Morzu-Czarnym-Pozar-na-statku-u-wybrzezy-Rumunii-9212889.html",
       "title": "Kolejny tajemniczy incydent na Morzu Czarnym. Pożar na statku u wybrzeży Rumunii",
@@ -195,14 +275,6 @@
       "content_html": "Japonia uzgodniła z USA projekt produkcji półprzewodników w stanie Nowy Jork o wartości ok. 21 mld USD – poinformował w czwartek japoński minister handlu Ryosei Akazawa. To kolejna inicjatywa w ramach dwustronnego porozumienia inwestycyjnego...",
       "date_published": "2026-10-15T09:32:00+02:00",
       "source": "Bankier.pl"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/rynki/dzien-na-rynkach-w-europie-na-gieldach-wahania-indeksow-25",
-      "url": "https://biznes.pap.pl/wiadomosci/rynki/dzien-na-rynkach-w-europie-na-gieldach-wahania-indeksow-25",
-      "title": "DZIEŃ NA RYNKACH: W Europie na giełdach wahania indeksów",
-      "content_html": "Na europejskich giełdach indeksy się wahają. Na globalnych rynkach trwa wyprzedaż akcji spółek produkujących półprzewodniki. Rośnie popyt na obligacje skarbowe, gdy inwestorzy poszukują bezpiecznych \"przystani\". Na rynku walutowym USD jest słabszy wobec swoich rywali. Bitcoin jest po ok. 81.550 USD za token. Złoto zyskuje 1 proc. - informują maklerzy.\n\nWskaźnik Stoxx 600 Europe zniżkuje o 0,38 proc. Od początku roku indeks zyskał jednak 7,3 proc.\n\nASML traci 6,6 proc., podążając za globalnymi spadkami kursów akcji producentów półprzewodników.\n\nNordea Bank Abp zniżkuje o 5,8 proc. po zawieszeniu przez spółkę skupu akcji z powodu przeglądu modeli kapitałowych firmy przez EBC.\n\nOxford Instruments traci 6,6 proc. pomimo podwyższenia ceny docelowej dla akcji spółki do 3.500 GBp z 3.400 GBp przez analityków JPMorgan.\n\nEricsson AB drożeje o 11 proc., najmocniej od stycznia 2026., po tym, jak zysk spółki w III kw. przekroczył rynkowy konsensus. To wynik dużego popytu na rynkach na sprzęt do sieci mobilnych.\n\nNa globalnych rynkach nie słabnie wyprzedaż akcji spółek produkujących chipy, co przyhamowuje tegoroczny błyskawiczny rajd związany z sektorem AI. Rośnie za to popyt na obligacje skarbowe, bo inwestorzy poszukują bezpiecznych \"przystani\".\n\nWyprzedaż aktywów na świecie wywołały dane o inflacji w USA, bo wskaźniki okazały się najwyższe od 5 miesięcy.\n\nCPI w USA we wrześniu wzrósł o 3,7 proc. w ujęciu rdr, a mdm wzrósł o 0,6 proc. Oczekiwano +3,6 proc. rdr i +0,6 proc. mdm.\n\nInflacja bazowa wzrosła o 0,3 proc. i o 2,6 proc. rdr. Oczekiwano +0,2 proc. mdm i +2,5 proc. rdr.\n\nTo spowodowało, że inwestorzy są coraz bardziej skłonni zwiększać zakłady na dalsze podwyżki stóp procentowych przez Fed, chociaż bankierzy centralni w USA mogą na posiedzeniu Fed w tym miesiącu wstrzymać się z taką decyzją.\n\n\"Na rynkach widzimy obecnie dość silny, typowy ruch unikania ryzyka przez inwestorów\" - powiedział Hiroshi Namioka, główny strateg w T&D Asset Management.\n\n\"Gracze na razie ograniczają ryzyko i jak najwięcej inwestują w bezpieczne aktywa\" - dodał.\n\nTymczasem prezes Fed Kevin Warsh obiecał, że nie będzie sterował rynkami za pomocą swojej krótkoterminowej perspektywy dla stóp procentowych w USA.\n\nKomentarze Warsha są obecnie uważnie obserwowane na rynkach pod kątem możliwości podjęcia decyzji przez Fed ws. stóp procentowych, przed okresem medialnej blokady wypowiedzi bankierów centralnych z Rezerwy Federalnej.\n\nAnalitycy informują, że mimo \"niespodzianki\" związanej z wysoką inflacją, Fed może na posiedzeniu w tym miesiącu powstrzymać się z działaniami ws. podwyżki kosztu pieniądza i odłożyć taki ruch na grudniowe spotkanie.\n\nW czwartek w centrum uwagi inwestorów znajdą się wrześniowe dane z USA dotyczące inflacji producenckiej PPI oraz sprzedaży detalicznej. Te wskaźniki również mogą mieć wpływ na przyszłe decyzje monetarne Fed - oceniają analitycy.\n\nNa rynku walutowym japoński jen kosztuje 157,95 za 1 USD, wyżej o 0,2 proc.\n\nEuro jest po 1,1215 USD, w górę o 0,5 proc.\n\nBitcoin kosztuje 81.545 USD za token, w dół o 0,2 proc.\n\nRentowność 10-letnich UST wynosi 5,11 proc., niżej o 8 pb.\n\nZłoto jest wyceniane w transakcjach spot po 4.145 USD za uncję, wyżej o 1,0 proc.\n\nBaryłka ropy West Texas Intermediate jest na NYMEX w Nowym Jorku po 94,06 USD - niżej o 1,08 proc.\n\nBrent na ICE jest wyceniana po 104,31 USD za baryłkę, niżej o 1,65 proc. (PAP Biznes)",
-      "date_published": "2026-10-15T09:32:00+02:00",
-      "source": "PAP Biznes"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/mBank-miesza-cyfry-na-klawiaturze-PIN-Chce-wytracic-klientow-z-rutyny-9213008.html",
@@ -245,44 +317,12 @@
       "source": "Bankier.pl"
     },
     {
-      "id": "https://biznes.pap.pl/wiadomosci/rynki/ceny-gazu-w-europie-spadaja-sprzyja-slaby-popyt-i-pogoda",
-      "url": "https://biznes.pap.pl/wiadomosci/rynki/ceny-gazu-w-europie-spadaja-sprzyja-slaby-popyt-i-pogoda",
-      "title": "Ceny gazu w Europie spadają - sprzyja słaby popyt i pogoda",
-      "content_html": "Ceny gazu w Europie w czwartek spadają o ponad 2 proc. Sprzyja słabszy popyt na to paliwo i łagodniejsze warunki pogodowe na początku sezonu grzewczego - informują maklerzy.\n\nBenchmarkowe kontrakty na gaz w Amsterdamie (ICE Entawex Dutch TTF) zniżkują o 2,5 proc. do 84,92 euro za MWh.\n\nW tym miesiącu paliwo zyskało jednak ok. 20 proc.\n\nCeny gazu w Europie w czwartek spadają, a sprzyja temu słabszy popyt na to paliwo i łagodniejsze warunki pogodowe na początku sezonu grzewczego.\n\nAnalitycy informują, że oczekiwania na rynkach dotyczące słabszego popytu przeważają nad obawami, że wzrost napięcia na Bliskim Wschodzie może nadal zakłócać odbudowę przepływu nośników energii, w tym gazu, z Zatoki Perskiej.\n\nDo tego łagodniejsze niż oczekiwano temperatury w Europie na początku obecnego sezonu grzewczego dają rynkom energii pewną ulgę, łagodząc tym samym konkurencję między krajami Europy i Azji o dostawy gazu i pomagając w utrzymaniu cen gazu na niższym poziomie.\n\nPrzewiduje się, że w ten weekend w północno-zachodniej Europie temperatury wprawdzie spadną, ale w przyszłym tygodniu powróci ciepła pogoda.\n\nAnalitycy Morgan Stanley podwyższyli tymczasem swoje prognozy cen gazu tej zimy do 90 euro za MWh z 85 euro.\n\nEksperci MS wskazują na możliwe dłuższe oczekiwanie na ożywienie katarskiego eksportu LNG, które obecnie przewiduje się w I kw. 2027 r.\n\nZapasy gazu ziemnego w magazynach UE wynoszą 74,0 proc. wobec średniej 5-letniej na tę porę wynoszącej 88,9 proc. W magazynach znajduje się obecnie 836,90 TWh gazu - wynika z wyliczeń firmy Gas Infrastructure Europe.\n\nW Polsce w magazynach gazu jest 36,53 TWh tego paliwa, a ich zapełnienie wynosi 99,2 proc. wobec sezonowej średniej 5-letniej wynoszącej 98,5 proc. - podaje Gas Infrastructure Europe. (PAP Biznes)",
-      "date_published": "2026-10-15T09:13:00+02:00",
-      "source": "PAP Biznes"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/firmy/bm-pekao-obnizylo-rekomendacje-i-cene-docelowa-dla-akcji-ze-pak",
-      "url": "https://biznes.pap.pl/wiadomosci/firmy/bm-pekao-obnizylo-rekomendacje-i-cene-docelowa-dla-akcji-ze-pak",
-      "title": "BM Pekao obniżyło rekomendację i cenę docelową dla akcji ZE PAK",
-      "content_html": "Analitycy BM Pekao, w raporcie z 15 października, obniżyli rekomendację dla ZE PAK z \"kupuj\" do \"trzymaj\" i 12-miesięczną cenę docelową akcji spółki z 21,8 zł do 20,5 zł.\n\n\"Uważamy, że obecna wycena rynkowa w dużej mierze odzwierciedla potencjał projektów realizowanych przez ZE PAK. Opóźnienia i wyższe ceny gazu pogarszają perspektywy CCGT, a wysokie koszty wygaszania działalności węglowej dodatkowo obciążają wyniki spółki. W rezultacie obniżamy rekomendację z Kupuj do Trzymaj i 12M cenę docelową z 21,8 zł do 20,5 zł (4 proc. potencjał wzrostu)\" - napisano w raporcie.\n\n\"Obniżyliśmy prognozy na lata 2026-28e ze względu na wyższe koszty działalności węglowej, opóźnienie CCGT i wyższe koszty gazu, obniżające naszą prognozę EBITDA projektu CCGT w 2028e o 15 proc. Opóźnienie projektu gazowego oznacza, że ZE PAK prawdopodobnie pozostanie nierentowny również w 2027e\" - dodano.\n\nDepesza jest skrótem raportu przygotowanego przez BM Pekao w ramach Giełdowego Programu Wsparcia Pokrycia Analitycznego. Autorem raportu jest Andrzej Kędzierski. Pierwsze rozpowszechnienie raportu nastąpiło 15 października o godzinie 7:30.\n\nW załączniku znajduje się pełna wersja raportu wraz z wymaganymi zastrzeżeniami prawnymi. (PAP Biznes)",
-      "date_published": "2026-10-15T09:12:00+02:00",
-      "source": "PAP Biznes"
-    },
-    {
       "id": "https://www.bankier.pl/wiadomosc/Portfel-zamowien-grupy-Mirbud-na-koniec-wrzesnia-wynosil-8-833-mld-zl-9212992.html",
       "url": "https://www.bankier.pl/wiadomosc/Portfel-zamowien-grupy-Mirbud-na-koniec-wrzesnia-wynosil-8-833-mld-zl-9212992.html",
       "title": "Portfel zamówień grupy Mirbud na koniec września wynosił 8,833 mld zł",
       "content_html": "Wartość portfela zamówień grupy Mirbud na koniec września 2026 r. wynosiła 8,833 mld zł netto - poinformowała spółka w komunikacie.",
       "date_published": "2026-10-15T09:08:00+02:00",
       "source": "Bankier.pl"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/gospodarka/dzien-na-fxfi-notowania-eurpln-powinny-utrzymac-sie-w-konsolidacji-436-439",
-      "url": "https://biznes.pap.pl/wiadomosci/gospodarka/dzien-na-fxfi-notowania-eurpln-powinny-utrzymac-sie-w-konsolidacji-436-439",
-      "title": "DZIEŃ NA FX/FI: Notowania EUR/PLN powinny utrzymać się w konsolidacji 4,36–4,39",
-      "content_html": "Notowania EUR/PLN powinny utrzymać się w konsolidacji 4,36–4,39, chyba że globalna awersja do ryzyka zacznie znacząco nasilać się - wskazują w porannych raportach ekonomiści.\n\n\"Nie zakładamy, aby dzisiejszy odczyt inflacji bazowej z Polski miał istotny wpływ na PLN. Uważamy, że złoty pozostanie głównie pod wpływem czynników globalnych, szczególnie tych kształtujących perspektywy stóp procentowych głównych banków centralnych oraz trend dolara. W tym kontekście istotne będą dzisiejsze dane o inflacji PPI i sprzedaży detalicznej w USA (oba odczyty za wrzesień br.)\" - napisano w raporcie PKO BP.\n\n\"Jeśli potwierdzą one utrzymywanie się silnej presji cenowej u producentów i wysokiej aktywności amerykańskiego konsumenta, presja na umocnienie dolara, zwykle niekorzystna dla walut EM, po jego odreagowaniu z ostatnich 10 godzin może się utrzymać. W takim otoczeniu ryzyko testu przez USD/PLN okolic 3,93 czy nawet oporów usytuowanych w strefie 3,94–3,95 będzie wysokie. W przypadku EUR/PLN zakładamy utrzymanie kursu w konsolidacji 4,36–4,39, chyba że globalna awersja do ryzyka zacznie się znacząco nasilać\" - dodano.\n\nEkonomiści Banku Pekao spodziewają się w najbliższych dniach deprecjacji złotego i przeceny obligacji skarbowych.\n\n\"Wczorajsze dane makro dodały kolejnych argumentów do pesymizmu względem krajowego rynku – inflacja została zrewidowana w górę z 4,0, do 4,1 proc. rdr a deficyt w bilansie płatniczym za sierpień okazał się o 1 mld EUR większy od prognoz (3,6 vs 2,5 mld EUR). Dlatego w najbliższych dniach spodziewamy się ponownej deprecjacji złotego i przeceny obligacji skarbowych, np. testów oporu na 6,40 proc. na 10-latce\" - napisano w raporcie Banku Pekao.\n\nEkonomiści PKO BP wskazują, że na rynku długu w czwartek uwaga inwestorów będzie skupiona na informacjach napływających z USA, gdzie opublikowane zostaną dane o PPI, sprzedaży detalicznej oraz z rynku pracy.\n\n\"Trudno jednak oczekiwać, aby solidne odczyty istotnie zmieniły rosnące przekonanie inwestorów o możliwości kolejnej tegorocznej podwyżki stóp Fed\" - napisano w raporcie PKO BP.\n\nEkonomiści Banku Millennium wskazują, że zniżka rentowności obligacji bazowych, w połączeniu z nieco niższymi cenami ropy naftowej może wspierać krajowe SPW podczas czwartkowej sesji.\n\n\"Widzimy potencjał do spadku rentowności polskiej 10-latki w kierunku 6,30 proc.\" - napisali.",
-      "date_published": "2026-10-15T09:08:00+02:00",
-      "source": "PAP Biznes"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/firmy/portfel-zamowien-grupy-mirbud-na-koniec-wrzesnia-wynosil-8833-mld-zl",
-      "url": "https://biznes.pap.pl/wiadomosci/firmy/portfel-zamowien-grupy-mirbud-na-koniec-wrzesnia-wynosil-8833-mld-zl",
-      "title": "Portfel zamówień grupy Mirbud na koniec września wynosił 8,833 mld zł",
-      "content_html": "Wartość portfela zamówień grupy Mirbud na koniec września 2026 r. wynosiła 8,833 mld zł netto - poinformowała spółka w komunikacie.\n\nWartość portfela zamówień dla kontraktów infrastrukturalnych na koniec września wynosiła 7,515 mld zł, a w segmencie budownictwa kubaturowego 1,317 mld zł.\n\nW segmencie deweloperskim w okresie styczeń-wrzesień 2026 r. przekazano aktami 370 mieszkań, a liczba zawartych umów przedwstępnych i deweloperskich wyniosła 235. (PAP Biznes)",
-      "date_published": "2026-10-15T09:07:00+02:00",
-      "source": "PAP Biznes"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Jutro-paliwa-beda-tansze-Minister-energii-obiecuje-ulge-przy-dystrybutorach-9212976.html",
@@ -333,12 +373,28 @@
       "source": "Bankier.pl"
     },
     {
+      "id": "https://biznes.pap.pl/wiadomosci/rynki/dzien-na-rynkach-w-azji-na-wielu-gieldach-duze-spadki-indeksow",
+      "url": "https://biznes.pap.pl/wiadomosci/rynki/dzien-na-rynkach-w-azji-na-wielu-gieldach-duze-spadki-indeksow",
+      "title": "DZIEŃ NA RYNKACH: W Azji na wielu giełdach duże spadki indeksów",
+      "content_html": "Na azjatyckich giełdach indeksy mocno zniżkują w wielu krajach. Na globalnych rynkach pogłębia się wyprzedaż akcji, w tym walorów spółek produkujących półprzewodniki, co jeszcze bardziej przyhamowuje tegoroczny błyskawiczny rajd związany z sektorem sztucznej inteligencji. Na rynku walutowym USD jest słabszy do euro i JPY. Bitcoin jest po ok. 80.800 USD za token. Złoto zyskuje 1 proc. - informują maklerzy.\n\nW Japonii Nikkei 225 zniżkuje o 5,01 proc. Topix jest niżej o 2,57 proc.\n\nW Chinach SCI traci 2,21 proc., a CSI 300 spada o 2,17 proc.\n\nW Hongkongu Hang Seng idzie w dół 1,47 proc.\n\nW Korei Południowej KOSPI zniżkuje o 7,35 proc.\n\nW Indiach Sensex 30 zwyżkuje o 1,56 proc.\n\nIndeks PSEi na Filipinach zwyżkuje o 0,60 proc.\n\nW Dżakarcie wskaźnik Jakarta Comp spada o 2,16 proc.\n\nRegionalny indeks MSCI dla Azji i Pacyfiku spadł o 3,1 proc. i zmierza do zaliczenia najniższego poziomu zamknięcia od lipca.\n\nNa azjatyckich giełdach w czwartek wiele indeksów mocno zniżkuje.\n\nNa globalnych rynkach pogłębia się wyprzedaż akcji, w tym spółek produkujących chipy, co jeszcze bardziej przyhamowuje tegoroczny błyskawiczny rajd związany z sektorem AI. Rośnie za to popyt na obligacje skarbowe, bo inwestorzy poszukują bezpiecznych \"przystani\".\n\nWyprzedaż aktywów na świecie wywołana została przez dane o inflacji w USA, bo wskaźniki okazały się najwyższe od 5 miesięcy.\n\nCPI w USA we wrześniu wzrósł o 3,7 proc. w ujęciu rdr, a mdm wzrósł o 0,6 proc. Oczekiwano +3,6 proc. rdr i +0,6 proc. mdm.\n\nInflacja bazowa wzrosła o 0,3 proc. i o 2,6 proc. rdr. Oczekiwano +0,2 proc. mdm i +2,5 proc. rdr.\n\nTo spowodowało, że inwestorzy są coraz bardziej skłonni zwiększać zakłady na dalsze podwyżki stóp procentowych przez Fed, chociaż bankierzy centralni w USA mogą na posiedzeniu Fed w tym miesiącu wstrzymać się z taką decyzją.\n\n\"Na rynkach widzimy obecnie dość silny, typowy ruch unikania ryzyka przez inwestorów\" - powiedział Hiroshi Namioka, główny strateg w T&D Asset Management.\n\n\"Gracze na razie ograniczają ryzyko i jak najwięcej inwestują w bezpieczne aktywa\" - dodał.\n\nTymczasem prezes Fed Kevin Warsh obiecał, że nie będzie sterował rynkami za pomocą swojej krótkoterminowej perspektywy dla stóp procentowych w USA.\n\nKomentarze Warsha są obecnie uważnie obserwowane na rynkach pod kątem możliwości podjęcia decyzji przez Fed ws. stóp procentowych, przed okresem medialnej blokady wypowiedzi bankierów centralnych z Rezerwy Federalnej.\n\nAnalitycy informują, że mimo \"niespodzianki\" związanej z wysoką inflacją, Fed może na posiedzeniu w tym miesiącu powstrzymać się z działaniami ws. podwyżki kosztu pieniądza i odłożyć taki ruch na grudniowe spotkanie.\n\nNa rynku walutowym japoński jen kosztuje 157,64 za 1 USD, wyżej o 0,4 proc.\n\nEuro jest po 1,1226 USD, w górę o 0,6 proc.\n\nBitcoin kosztuje 80.815 USD za token, w dół o 1,1 proc.\n\nRentowność 10-letnich UST wynosi 5,09 proc., niżej o 9 pb.\n\nZłoto jest wyceniane w transakcjach spot po 4.144 USD za uncję, wyżej o 1,0 proc.\n\nW Europie kontrakty na Stoxx 50 spadają o 0,92 proc., na FTSE 100 zniżkują o 0,15 proc., na CAC 40 idą niżej o 0,55 proc., a na DAX spadają o 0,46 proc.\n\nNa koniec środowej sesji indeksy na europejskich giełdach zwyżkowały.\n\nNa zamknięciu sesji indeks Euro Stoxx 50 zyskał 0,38 proc., niemiecki DAX zwyżkował o 0,15 proc., francuski CAC 40 poszedł w górę o 0,58 proc., a brytyjski FTSE wzrósł o 0,7 proc.\n\nBenchmarkowy indeks Stoxx Europe 600 zwyżkował o 0,43 proc.\n\nW USA kontrakty na indeksy są w przedziale od -0,91 proc. do +0,13 proc.\n\nŚrodowa sesja na Wall Street zakończyła się spadkami głównych indeksów.\n\nDow Jones Industrial na zamknięciu spadł o 0,09 proc. i wyniósł 51.621,48 pkt.\n\nS&P 500 na koniec dnia spadł o 1,11 proc. i wyniósł 7.718,94 pkt.\n\nNasdaq Composite zniżkował o 1,88 proc. do 26.692,87 pkt. (PAP Biznes)",
+      "date_published": "2026-10-15T08:24:00+02:00",
+      "source": "PAP Biznes"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Czerwona-fala-na-rynku-metali-Miedz-tanieje-pod-ciezarem-inflacji-z-USA-9212961.html",
       "url": "https://www.bankier.pl/wiadomosc/Czerwona-fala-na-rynku-metali-Miedz-tanieje-pod-ciezarem-inflacji-z-USA-9212961.html",
       "title": "Czerwona fala na rynku metali. Miedź tanieje pod ciężarem inflacji z USA",
       "content_html": "Notowania miedzi na giełdzie metali LME w Londynie spadają po danych o inflacji w USA i zwiększeniu zakładów na rynkach, że Fed może agresywniej działać w swojej polityce pieniężnej - informują maklerzy.",
       "date_published": "2026-10-15T07:59:00+02:00",
       "source": "Bankier.pl"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/rynki/ceny-miedzi-w-londynie-spadaja-po-danych-o-inflacji-w-usa",
+      "url": "https://biznes.pap.pl/wiadomosci/rynki/ceny-miedzi-w-londynie-spadaja-po-danych-o-inflacji-w-usa",
+      "title": "Ceny miedzi w Londynie spadają po danych o inflacji w USA",
+      "content_html": "Notowania miedzi na giełdzie metali LME w Londynie spadają po danych o inflacji w USA i zwiększeniu zakładów na rynkach, że Fed może agresywniej działać w swojej polityce pieniężnej - informują maklerzy.\n\nMiedź w dostawach 3-miesięcznych na LME jest wyceniana niżej o 1,1 proc. - po 14.338,00 USD za tonę.\n\nNa Comex w Nowym Jorku miedź kosztuje 6,5600 USD za funt, niżej o 1,51 proc. Metal zyskał w tym roku na Comex 15,5 proc.\n\nNa giełdzie metali SHF w Szanghaju miedź jest wyceniana po 109.250 juanów za tonę, po zniżce o 1,59 proc. i po wzroście od początku roku o 11,4 proc.\n\nInwestorzy oceniają dane o wyższej inflacji w USA. CPI we wrześniu wzrósł o 3,7 proc. w ujęciu rdr, a mdm wzrósł o 0,6 proc. Oczekiwano +3,6 proc. rdr i +0,6 proc. mdm. Inflacja bazowa wzrosła o 0,3 proc. i o 2,6 proc. rdr. Oczekiwano +0,2 proc. mdm i +2,5 proc. rdr.\n\n\"Dane dotyczące wskaźnika CPI w USA znacznie przekroczyły prognozy, wzmacniając oczekiwania inflacyjne i wywierając presję na ceny miedzi\" - napisali w rynkowej nocie analitycy Guangzhou Futures.\n\nTeraz inwestorzy są coraz bardziej skłonni zwiększać zakłady na dalsze podwyżki stóp procentowych przez Fed, chociaż bankierzy centralni w USA mogą na posiedzeniu Fed w tym miesiącu wstrzymać się z taką decyzją i zaczekać z podwyżką kosztu pieniądza do grudniowego spotkania.\n\nWyższe stopy procentowe - jak przypominają analitycy - zwykle stanowią przeszkodę dla cen metali, ponieważ schładzają gospodarkę i podnoszą koszty.\n\nNa zakończenie poprzedniej sesji miedź na LME kosztowała 14.490,50 USD za tonę, po spadku o 88 USD.\n\nWe wrześniu cena miedzi na LME wzrosła do rekordowych 14.875 USD za tonę.\n\nOd początku 2026 r. cena miedzi na LME wzrosła o 16,6 proc. (PAP Biznes)",
+      "date_published": "2026-10-15T07:58:00+02:00",
+      "source": "PAP Biznes"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Ulga-na-rynku-paliw-Ropa-tanieje-po-pieciodniowym-szalenstwie-cenowym-9212959.html",
@@ -349,12 +405,28 @@
       "source": "Bankier.pl"
     },
     {
+      "id": "https://biznes.pap.pl/wiadomosci/rynki/ropa-tanieje-na-swiecie-o-ponad-1-proc",
+      "url": "https://biznes.pap.pl/wiadomosci/rynki/ropa-tanieje-na-swiecie-o-ponad-1-proc",
+      "title": "Ropa tanieje na świecie o ponad 1 proc.",
+      "content_html": "Ropa na globalnych rynkach tanieje w czwartek o ponad 1 proc. Surowiec w końcu traci na światowych giełdach paliw po 5-dniowej serii zwyżek - podają maklerzy.\n\nBaryłka ropy West Texas Intermediate w dostawach na XI jest na NYMEX w Nowym Jorku po 94,10 USD - niżej o 1,04 proc.\n\nBrent na ICE na XII jest wyceniana po 104,51 USD za baryłkę, w dół o 1,46 proc.\n\nAnalitycy oceniają, że obecne spadki notowań ropy sugerują, iż choć obawy dotyczące zakłóceń w dostawach nadal wspierają ceny, to ropa naftowa pozostaje tymczasowo pod wpływem ponownej oceny potencjału ożywienia dostaw przez rynek.\n\n\"Ataki na Aramco wieczorem 13 października oraz na statki w Cieśninie Ormuz w dniach 13–14 października zwiększyły obawy o bezpieczeństwo infrastruktury energetycznej i transportu ropy z Zatoki. Jednak obecnie nie ma wystarczających dowodów, by stwierdzić, że atak na Aramco zakłócił produkcję ropy\" - napisał w rynkowej nocie Linh Tran, analityk rynku w XS.com.\n\n\"W związku z tym uważam, że zdolność ropy do utrzymania zwyżek będzie zależała od tego, jak bardzo ataki wpłyną na rzeczywistą podaż, zwłaszcza na wolumeny eksportu i przepływ przez Cieśninę Ormuz\" - dodaje.\n\nJednak odbudowane przepływy eksportowe ropy z Zatoki Perskiej częściowo ograniczają dalsze wzrosty cen.\n\n\"Ostatnie ataki Huti nie spowodowały poważniejszych zakłóceń w dostawach ropy, czego obawiał się rynek, a to spowodowało spadek premii w cenach ropy za ryzyko geopolityczne\" - mówi Takahiro Asoaka, starszy ekonomista w Instytucie Badań Itochu.\n\n\"Dodatkowo słabsze prognozy MAE dotyczące popytu zwiększają presję spadkową cen ropy\" - dodaje.\n\nWedług raportu Międzynarodowej Agencji Energetycznej (MAE) opublikowanego 14 października, eksport ropy naftowej od producentów z Zatoki Perskiej wzrósł we wrześniu do ponad 75 proc. poziomu sprzed wojny.\n\nAgencja prognozuje również, że globalny popyt na ropę spadnie o 2,6 miliona baryłek dziennie w 2026 roku w porównaniu z 2025 rokiem.\n\nJednak MAE nadal przewiduje, że rynek pozostanie z niedostateczną podażą ropy do końca roku. Dlatego odbudowa podaży i osłabienie konsumpcji mogą ograniczyć wzrosty cen, ale nie są jeszcze wystarczające, by wyeliminować obawy dotyczące trudnych warunków rynkowych.\n\nTymczasem Stany Zjednoczone rozważają złagodzenie ograniczeń wobec niektórych statków, pozwalając im przewozić ropę naftową i produkty naftowe w celu zmniejszenia barier transportowych i kosztów frachtu.\n\nPerspektywa płynniejszych przepływów ropy może ograniczyć dalsze wzrosty cen, choć rzeczywisty wpływ będzie zależał od praktycznej realizacji.\n\nAnalitycy informują, że środowy raport o zapasach ropy i jej produktów w USA będzie ważnym wydarzeniem wartym uwagi rynków, po tym jak Amerykański Instytut Paliw (API) wskazał w swoich wyliczeniach na mocny spadek amerykańskich zapasów ropy naftowej w tygodniu zakończonym 9 października.\n\nAPI podał, że zapasy ropy w Stanach Zjednoczonych spadły o 11,1 mln baryłek.\n\nW hubie magazynowym Cushing zapasy ropy zwiększyły się jednak o 1,8 mln baryłek.\n\nWzrosły też krajowe zapasy benzyny - o 1,1 mln baryłek, ale zapasy paliw destylowanych spadły o 1,5 mln baryłek - wynika z najnowszych wyliczeń API.\n\nJeśli dane API o dużym spadku amerykańskich zapasów ropy potwierdzą się w oficjalnych wyliczeniach Departamentu Energii - publikowanych w czwartek - może to wesprzeć wzrosty cen ropy.\n\n\"Jednak należy też zbadać import, eksport i aktywność rafineryjną, aby ustalić, czy spadek zapasów odzwierciedla poprawę popytu, czy tymczasowe zmiany podaży\" - wskazuje w rynkowej nocie Linh Tran.\n\n\"W krótkim terminie uważam, że cena ropy może mieć wsparcie, jeśli ataki na Bliskim Wschodzie spowodują poważniejsze zakłócenia w przepływach eksportu ropy\" - dodaje analityk rynku w XS.com.\n\nWedług niego, jeśli warunki transportowe się poprawią, eksport ropy z regionu będzie się odbudowywał, a popyt pozostanie słaby, spadki cen ropy mogą się utrzymywać.\n\nAnalitycy oceniają tymczasem, że na razie perspektywy złagodzenia napięć na Bliskim wschodz",
+      "date_published": "2026-10-15T07:51:00+02:00",
+      "source": "PAP Biznes"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Matka-wszystkich-bomb-spadnie-na-Iran-Pentagon-szykuje-uderzenie-9212957.html",
       "url": "https://www.bankier.pl/wiadomosc/Matka-wszystkich-bomb-spadnie-na-Iran-Pentagon-szykuje-uderzenie-9212957.html",
       "title": "\"Matka wszystkich bomb\" spadnie na Iran? Pentagon szykuje uderzenie",
       "content_html": "Amerykańska armia opracowała plany uderzeń na Iran, zakładające możliwość użycia największej niejądrowej bomby w arsenale USA, nazywanej „matką wszystkich bomb” – podała w czwartek stacja CNN, powołując się na amerykańskich urzędników...",
       "date_published": "2026-10-15T07:41:00+02:00",
       "source": "Bankier.pl"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/firmy/pomorze-staje-sie-nowym-biegunem-wzrostu-gospodarczego-polski-raport",
+      "url": "https://biznes.pap.pl/wiadomosci/firmy/pomorze-staje-sie-nowym-biegunem-wzrostu-gospodarczego-polski-raport",
+      "title": "Pomorze staje się nowym biegunem wzrostu gospodarczego Polski - raport",
+      "content_html": "Pomorze staje się jednym z najważniejszych obszarów rozwojowych Polski, a strategiczne inwestycje realizowane nad Bałtykiem będą przez kolejne dekady wzmacniać bezpieczeństwo energetyczne, konkurencyjność gospodarczą i potencjał przemysłowy kraju.\n\nTakie wnioski płyną z raportu „W stronę morza. Potencjał gospodarczy północnych regionów Polski”, przygotowanego przez Politykę Insight w partnerstwie z Polskimi Elektrowniami Jądrowymi, którego premiera odbyła się w Sopocie podczas Europejskiego Forum Nowych Idei.\n\n\"Pomorze staje się dziś jednym z kluczowych miejsc dla rozwoju polskiej gospodarki. To właśnie tutaj, nad Bałtykiem, koncentrują się strategiczne inwestycje w energetykę, przemysł i infrastrukturę, które będą miały znaczenie dla bezpieczeństwa i konkurencyjności nie tylko całego kraju, ale również tej części Europy. Bałtyk coraz mocniej staje się przestrzenią, w której budujemy naszą niezależność energetyczną i nowe przewagi gospodarcze\" - powiedział Marek Woszczyk, prezes Polskich Elektrowni Jądrowych.\n\nAutorzy wskazują, że Polska dokonuje dziś strategicznego zwrotu ku Bałtykowi. Oś północ-południe staje się coraz ważniejszym kierunkiem rozwoju gospodarczego państwa dzięki inwestycjom w energetykę jądrową, morską energetykę wiatrową, porty, sieci elektroenergetyczne oraz infrastrukturę gazową i transportową.\n\nRaport zwraca uwagę, że północ Polski staje się obszarem koncentracji inwestycji o bezprecedensowej skali. Województwa pomorskie i zachodniopomorskie odpowiadają już za 9,5 proc. krajowego PKB, a ich znaczenie będzie rosło wraz z realizacją kolejnych projektów infrastrukturalnych i energetycznych.\n\n\"Przeniesienie punktu geoekonomicznej ciężkości na Pomorze powinno skutkować wzmocnieniem myślenia o Polsce z perspektywy regionów, które mogą stanowić centra rozwojowe Polski. Oprócz Wybrzeża istotną, choć inną niż dotychczas, rolę będzie odgrywać przede wszystkim Śląsk, ale również Dolny Śląsk i Podkarpacie. W interesie Pomorza będzie silniejsza integracja państw bałtyckich i bliższa współpraca transgraniczna, w interesie Śląska lepsza współpraca z sąsiadami – od Niemiec, przez Czechy i Słowację, aż po Ukrainę. Taka regionalna specjalizacja powinna być wspierana przez polską politykę zagraniczną\" – powiedział Andrzej Bobiński, dyrektor zarządzający Polityki Insight.\n\nSzczególne miejsce w opracowaniu zajmuje projekt budowy pierwszej elektrowni jądrowej w Polsce realizowany przez PEJ w lokalizacji Lubiatowo-Kopalino. Trzy reaktory AP1000 o łącznej mocy 3,75 GW będą mogły produkować około 30-32 TWh energii elektrycznej rocznie, co odpowiada około 17 proc. obecnego krajowego zużycia energii.\n\n\"Inwestycja nie tylko zmieni pozycję Pomorza w krajowym systemie elektroenergetycznym, czyniąc region jednym z głównych ośrodków produkcji energii w Polsce, ale przede wszystkim przez dziesięciolecia będzie wspierać rozwój nowoczesnej, konkurencyjnej gospodarki i jej funkcjonowanie niezależnie od warunków pogodowych, sytuacji na rynkach surowcowych czy zmieniającego się otoczenia międzynarodowego\" - napisano w raporcie.\n\nRaport opisuje również wymiar gospodarczy projektu jądrowego. Autorzy przypominają, że przy budowie elektrowni w gminie Choczewo okresowo pracować będzie nawet 10 tys. osób, nie licząc zatrudnienia pośredniego w usługach, logistyce, budownictwie i przemyśle.\n\nJednocześnie realizacja Programu Polskiej Energetyki Jądrowej może przyczynić się do wzrostu polskiego PKB o ponad 1 proc.\n\nAutorzy raportu przypominają, że od 2020 r. PEJ zawarły umowy o wartości ponad 1,2 mld zł z blisko 500 polskimi podmiotami z czego prawie 80 kontraktów o wartości ok. 400 mln zł przypadło na firmy z Pomorza. Obejmują one zarówno duże kontrakty infrastrukturalne, jak i prace projektowe, budowlane, geotechniczne, drogowe oraz związane z zapleczem inwestycji.\n\nŁączna wartość prac realizowanych przez polskie firmy w projekcie przekroczyła 2,2 mld zł. (PAP Biznes)",
+      "date_published": "2026-10-15T07:40:00+02:00",
+      "source": "PAP Biznes"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Kubel-zimnej-wody-na-zapowiedzi-Trumpa-Dania-przypomina-USA-kto-rzadzi-na-Grenlandii-9212857.html",
@@ -469,6 +541,14 @@
       "source": "Bankier.pl"
     },
     {
+      "id": "https://biznes.pap.pl/wiadomosci/ekonomia-biznes-i-finanse/przewidywane-najwazniejsze-wydarzenia-gospodarcze-2026-10-15",
+      "url": "https://biznes.pap.pl/wiadomosci/ekonomia-biznes-i-finanse/przewidywane-najwazniejsze-wydarzenia-gospodarcze-2026-10-15",
+      "title": "Przewidywane najważniejsze wydarzenia gospodarcze 2026-10-15",
+      "content_html": "Przewidywane najważniejsze wydarzenia gospodarcze 2026-10-15\n\n09:00 - Północna Izba Gospodarcza w Szczecinie - Baltic Economic Congress 2026.\n\n10:30 - Ogólnopolskie Forum Stabilność Finansów Publicznych\n\nKonferencja prasowa online Związku Banków Polskich. Wśród tematów: podsumowanie debaty dot. rynku roszczeń konsumenckich, prezentacja raportu „Polska między długiem a rozwojem. Jak wyjść z fiskalnego zakrętu, nie osłabić banków i utrzymać wzrost?”, przedstawienie raportu InfoDOK za III kwartał 2026 r. i prezentacja Monitora Bankowego za październik 2026 r.\n\nKonferencja prasowa PGE, podczas której zostanie przedstawiona aktualizacja Strategii PGE.\n\n14:00 - Deloitte; ZPPP Browary Polskie - Konferencja prasowa\n\nBriefing prasowy dot. prezentacji raportu Deloitte \"System kaucyjny 2026 – rok po starcie\".\n\nUWAGA: Przedstawione zapowiedzi odzwierciedlają stan wiedzy na dzień ich publikacji i są codziennie aktualizowane. Zapowiedzi powstają na podstawie oficjalnych informacji przesłanych do PAP przez zainteresowane instytucje lub publicznych wypowiedzi ich przedstawicieli. Zapowiedzi nie należy traktować, jako zaproszenia.",
+      "date_published": "2026-10-15T07:00:00+02:00",
+      "source": "PAP Biznes"
+    },
+    {
       "id": "https://biznes.pap.pl/wiadomosci/rynki/kalendarium-rynku-newconnect-2026-10-15",
       "url": "https://biznes.pap.pl/wiadomosci/rynki/kalendarium-rynku-newconnect-2026-10-15",
       "title": "Kalendarium rynku NewConnect 2026-10-15",
@@ -541,14 +621,6 @@
       "source": "PAP Biznes"
     },
     {
-      "id": "https://biznes.pap.pl/wiadomosci/rynki/zamkniecia-na-gieldach-w-ameryce-polnocnej-i-poludniowej-tabela-463",
-      "url": "https://biznes.pap.pl/wiadomosci/rynki/zamkniecia-na-gieldach-w-ameryce-polnocnej-i-poludniowej-tabela-463",
-      "title": "Zamknięcia na giełdach w Ameryce Północnej i Południowej (tabela)",
-      "content_html": "Poniżej zamknięcia i zmiany indeksów w USA. Kanadzie, Meksyku, Brazylii, Kolumbii i Argentynie:",
-      "date_published": "2026-10-15T06:34:00+02:00",
-      "source": "PAP Biznes"
-    },
-    {
       "id": "https://www.bankier.pl/wiadomosc/Limity-na-karcie-platniczej-Dlaczego-karta-nie-dziala-choc-masz-pieniadze-9212295.html",
       "url": "https://www.bankier.pl/wiadomosc/Limity-na-karcie-platniczej-Dlaczego-karta-nie-dziala-choc-masz-pieniadze-9212295.html",
       "title": "Masz pieniądze, a nie możesz zapłacić kartą? To może być przyczyna",
@@ -603,14 +675,6 @@
       "content_html": "Ponad 6 tys. bankructw konsumentów – takim wynikiem zamyka się III kwartał 2026 r. W całej historii tej instytucji w Polsce tylko raz notowano wyższy odczyt. I także miało to miejsce w tym roku. Roczny rekord jest już właściwie przesądzony...",
       "date_published": "2026-10-15T06:00:00+02:00",
       "source": "Bankier.pl"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/rynki/dzien-na-rynkach-wall-street-w-dol-po-danych-o-inflacji-w-usa",
-      "url": "https://biznes.pap.pl/wiadomosci/rynki/dzien-na-rynkach-wall-street-w-dol-po-danych-o-inflacji-w-usa",
-      "title": "DZIEŃ NA RYNKACH: Wall Street w dół po danych o inflacji w USA",
-      "content_html": "Środowa sesja na Wall Street zakończyła się spadkami głównych indeksów, a rentowności obligacji skarbowych poszły w górę w reakcji na najnowsze dane o inflacji w Stanach Zjednoczonych. Kolejne duże banki opublikowały chłodno przyjęte przez rynek wyniki za trzeci kwartał.\n\nDow Jones Industrial na zamknięciu spadł o 0,09 proc. i wyniósł 51.621,48 pkt.\n\nS&P 500 na koniec dnia spadł o 1,11 proc. i wyniósł 7.718,94 pkt.\n\nNasdaq Composite zniżkował o 1,88 proc. do 26.692,87 pkt.\n\nIndeks spółek o średniej kapitalizacji Russell 2000 spada o 1,93 proc. i wynosi 2.729,53 pkt.\n\nRynki analizują dane nt. inflacji w USA. CPI w USA we wrześniu wzrósł o 3,7 proc. w ujęciu rdr, a mdm wzrósł o 0,6 proc. Oczekiwano +3,6 proc. rdr i +0,6 proc. mdm.\n\nInflacja bazowa wzrosła o 0,3 proc. i o 2,6 proc. rdr. Oczekiwano +0,2 proc. mdm i +2,5 proc. rdr.\n\n\"Z pewnością zwiększa to szanse na podniesienie stóp procentowych przez Rezerwę Federalną podczas październikowego posiedzenia, jednak uważam, że do tego nie dojdzie, ponieważ nigdy wcześniej nie mieliśmy do czynienia z dwiema podwyżkami stóp w ciągu dwóch miesięcy poprzedzających wybory w połowie kadencji\" – ocenił Sam Stovall, główny strateg inwestycyjny w CFRA Research.\n\nStovall dodał, że biorąc pod uwagę jastrzębie nastawienie Fed do polityki pieniężnej, opublikowane dane czynią grudniową podwyżkę stóp coraz bardziej prawdopodobną.\n\n\"Dzisiejsze dane powinny stanowić pewne obciążenie dla aktywów ryzykownych, ponieważ oczekiwania dotyczące podwyżek stóp procentowych w najbliższym czasie zwiększają presję na długi koniec krzywej dochodowości. Powinno to umocnić dolara, ale jednocześnie negatywnie wpłynąć na wyceny akcji\" – powiedział Jeff Schulze, główny strateg inwestycyjny w Franklin Templeton Institute.\n\nRentowność 10-letnich obligacji skarbowych wzrosła o ponad 7 punktów bazowych do 5,293 proc., a 30-letnich wzrosła o ponad 4 punkty bazowe do 5,609 proc. Obie serie obligacji osiągnęły w zeszłym tygodniu nowe 24-letnie maksima.\n\n„To stawia Rezerwę Federalną w bardzo trudnej sytuacji w grudniu” – powiedział Philip Blancato, główny strateg rynkowy Osaic, w wywiadzie dla CNBC, po czym dodał, że „w przyszłym roku spodziewamy się bazowego wskaźnika CPI na poziomie 3 proc.”, biorąc pod uwagę wpływ wyższych cen ropy naftowej.\n\nRaport pojawia się w czasie, gdy ceny ropy naftowej utrzymują się na wysokim poziomie, a konsumenci płacą więcej za benzynę.\n\nW zeszłym tygodniu prezydent Donald Trump ogłosił tymczasowe złagodzenie ograniczeń dotyczących eksportu rosyjskiego oleju napędowego, ale analitycy nie sądzą, aby umowa ta znacząco przyczyniła się do obniżenia cen paliw dla kierowców ciężarówek i rolników.\n\nMimo to Blancato nie jest „przesadnie zaniepokojony” rynkami akcji ani obligacji, ponieważ uważa ostatni wzrost inflacji za „przejściowy”.\n\n„Myślę, że wiele z tego zostało już uwzględnione w cenach” - powiedział.\n\nOprócz obaw o inflację, na pierwszy plan wysunęły się obawy inwestorów dotyczące firm technologicznych spoza „Wielkiej Siódemki” , które wykorzystują zbyt duże zadłużenie, by napędzać boom na sztuczną inteligencję.\n\nAkcje CoreWeave spadły o ponad 15 proc., Oracle zniżkował około 8,8 proc.\n\nAkcje spółek chipowych również przyczyniły się do środowych spadków. Micron Technology, którego akcje spadły o ponad 3 proc. dzień wcześniej, teraz stracił kolejne ponad 4 proc.\n\nAdvanced Micro Devices spadł o 5,7 proc., podczas gdy Intel i Sandisk straciły po ok. 5 proc.\n\nNetflix zwalnia około 6 proc. pracowników w ramach największych redukcji od 2022 roku - zwolnienia dotyczą około 1.000 stanowisk- poinformował dziennik \"Wall Street Journal\". Wskazano, że firma boryka się ze spowolnieniem wzrostu i spadkiem zaangażowania klientów.\n\nAkcje Bank of America spadły o 4,8 proc. po tym, jak bankowy gigant opublikował wyniki za trzeci kwartał. Dane te pojawiły się dzień po tym, jak BofA został obciążony karami federalnymi w wysokości ponad 1,2 miliarda dolarów , a organy regulacyjne stwierdziły, że bank nie zgłosił „",
-      "date_published": "2026-10-14T22:40:00+02:00",
-      "source": "PAP Biznes"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Inflacja-w-gore-Wall-Street-w-dol-Najmocniej-oberwalo-sie-polprzewodnikom-9212864.html",
@@ -893,14 +957,6 @@
       "source": "Bankier.pl"
     },
     {
-      "id": "https://biznes.pap.pl/wiadomosci/przemysl/momentum-capital-partners-zainwestowal-w-kp-labs",
-      "url": "https://biznes.pap.pl/wiadomosci/przemysl/momentum-capital-partners-zainwestowal-w-kp-labs",
-      "title": "Momentum Capital Partners zainwestował w KP Labs",
-      "content_html": "Momentum Capital Partners, fundusz venture capital, który powstał w ramach programu FENG, zainwestował w KP Labs, spółkę technologiczną dostarczającą rozwiązania do przetwarzania danych satelitarnych bezpośrednio na orbicie Ziemi - poinformowało w komunikacie Ministerstwo Funduszy i Polityki Regionalnej.\n\nPodano, że firma ta otrzyma wsparcie w wysokości 19,4 mln zł na rozwój technologii umożliwiającej analizę danych na orbicie w czasie rzeczywistym oraz szybszy i tańszy przesył krytycznych informacji na Ziemię, w tym wdrożenie seryjnej produkcji niezbędnego do tego sprzętu.\n\n\"Do tej pory współfinansujemy już 19 takich funduszy venture capital, a będzie ich więcej. Całościowo w tym budżecie Unii Europejskiej przeznaczymy na ten cel 1,8 mld zł. To rekordowa kwota i najwięcej z dotychczasowego finansowania europejskiego na tego typu przedsięwzięcia. Oznacza to więcej inwestycji kapitałowych w najlepsze polskie startupy oraz firmy z ambitnymi planami biznesowymi np. w sektorze kosmicznym – wszystko po to, żeby wspierać polskie nowe technologie i rodzime startupy\" - powiedziała, cytowana w komunikacie prasowym, minister Katarzyna Pełczyńska-Nałęcz.\n\nKP Labs to spółka założona w 2016 roku przez grupę naukowców z Politechniki Śląskiej w Gliwicach, działa w sektorze New Space. Specjalizuje się w komputerach pokładowych, sztucznej inteligencji i oprogramowaniu, które pozwalają satelitom analizować dane oraz podejmować część decyzji bezpośrednio w kosmosie. Jej głównym celem jest przyspieszenie eksploracji kosmosu poprzez rozwój autonomicznych sond kosmicznych i technologii robotycznych. (PAP Biznes)",
-      "date_published": "2026-10-14T16:32:00+02:00",
-      "source": "PAP Biznes"
-    },
-    {
       "id": "https://www.bankier.pl/wiadomosc/Miliardowa-bomba-dluzna-pod-armia-NIK-bije-na-alarm-ws-finansowania-wojska-9212698.html",
       "url": "https://www.bankier.pl/wiadomosc/Miliardowa-bomba-dluzna-pod-armia-NIK-bije-na-alarm-ws-finansowania-wojska-9212698.html",
       "title": "Miliardowa bomba dłużna pod armią. NIK bije na alarm ws. finansowania wojska",
@@ -925,28 +981,12 @@
       "source": "Bankier.pl"
     },
     {
-      "id": "https://biznes.pap.pl/wiadomosci/firmy/best-zainwestowal-w-iii-kwartale-1769-mln-zl-w-portfele-wierzytelnosci",
-      "url": "https://biznes.pap.pl/wiadomosci/firmy/best-zainwestowal-w-iii-kwartale-1769-mln-zl-w-portfele-wierzytelnosci",
-      "title": "Best zainwestował w III kwartale 176,9 mln zł w portfele wierzytelności",
-      "content_html": "Best zainwestował w trzecim kwartale 2026 roku 176,9 mln zł w portfele wierzytelności, podczas gdy rok wcześniej było to 15,4 mln zł - poinformowała spółka w komunikacie.\n\nWartość nominalna nabytych portfeli wyniosła 422,6 mln zł, czyli wzrosła o 539 proc. rdr.\n\nSpłaty z posiadanych portfeli wzrosły o 12 proc. rdr do 237 mln zł.\n\nNarastająco, po trzech kwartałach 2026 roku koszt nabycia nowych portfeli wyniósł 452,8 mln zł, co oznacza wzrost o 106 proc. rdr. (PAP Biznes)",
-      "date_published": "2026-10-14T16:01:00+02:00",
-      "source": "PAP Biznes"
-    },
-    {
       "id": "https://www.bankier.pl/wiadomosc/Fikcja-sankcji-Moskwa-ujawnia-Europejskie-przelewy-za-energie-plyna-9212498.html",
       "url": "https://www.bankier.pl/wiadomosc/Fikcja-sankcji-Moskwa-ujawnia-Europejskie-przelewy-za-energie-plyna-9212498.html",
       "title": "Fikcja sankcji? Moskwa ujawnia: Europejskie przelewy za energię płyną",
       "content_html": "Deklaracje Europy o odcięciu się od rosyjskiej energii wciąż zderzają się z realiami rynku. Mimo kolejnych pakietów sankcyjnych do kasy Kremla nieprzerwanie płyną miliardowe zyski, co potwierdzają najnowsze szacunki rosyjskich władz.",
       "date_published": "2026-10-14T16:00:00+02:00",
       "source": "Bankier.pl"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/firmy/dzien-na-gpw-sesja-z-lekkimi-spadkami-wiekszosci-glownych-indeksow-kghm-traci-37",
-      "url": "https://biznes.pap.pl/wiadomosci/firmy/dzien-na-gpw-sesja-z-lekkimi-spadkami-wiekszosci-glownych-indeksow-kghm-traci-37",
-      "title": "DZIEŃ NA GPW: Sesja z lekkimi spadkami większości głównych indeksów; KGHM traci 3,7 proc.",
-      "content_html": "Środowa sesja na GPW przebiega przy niewielkich spadkach większości głównych indeksów, co zdaniem analityków jest reakcją na wyższy od oczekiwań odczyt inflacji CPI za wrzesień. Wśród blue chipów najmocniej spada KGHM, o 3,7 proc., zniżkują też banki i spółki energetyczne. Przeciwwagą jest wzrost Orlenu, zyskują m. in. Kruk, LPP i Dino.\n\nOk. godz. 15.40 WIG20 spada o 0,2 proc. do ok. 4.215 pkt., WIG zniżkuje o 0,2 proc. do ok. 158.926 pkt. mWIG40 idzie w dół o 0,4 proc. do ok. 10.697 pkt., a sWIG80 zyskuje 0,2 proc. i wynosi 30.892 pkt.\n\nJak oceniają analitycy XTB, środowa sesja na warszawskim parkiecie przebiega pod znakiem umiarkowanej reakcji na wyższy od oczekiwań odczyt inflacji. GUS podał, że we wrześniu ceny towarów i usług konsumpcyjnych wzrosły rdr o 4,1 proc., a w porównaniu z poprzednim miesiącem wzrosły o 0,7 proc. Wcześniej w szybkim szacunku GUS podawał, że CPI wyniósł we wrześniu 4,0 proc. rdr i 0,7 proc. mdm.\n\n\"Naszym zdaniem wrześniowy odczyt, choć niepokojący, nie musi istotnie zmienić krótkoterminowego podejścia RPP. Kluczowe jest to, że od początku października ponownie obowiązuje program CPN, obejmujący obniżkę VAT i akcyzy oraz mechanizm maksymalnych cen detalicznych paliw\" - napisał Mikołaj Sobierajski, analityk rynku akcji w XTB.\n\n\"Istotne będzie przede wszystkim to, czy wzrost cen paliw zacznie przekładać się na pozostałe kategorie towarów i usług. Na razie nie widać szerokiego rozlewania się szoku paliwowego na inne ceny, co ogranicza ryzyko utrwalenia presji inflacyjnej\" - dodał.\n\nW środę w indeksie WIG20 spada większość spółek. Po południu najsłabszy jest KGHM, ze zniżką o 3,7 proc. do 332 zł. Przez ostatnie pół roku kurs spółki mocno wahał się, pomiędzy ok. 290 zł a ok. 396 zł i łącznie wzrósł o ponad 7 proc.\n\nInternational Copper Study Group (ICSG) prognozuje, że światowy rynek miedzi rafinowanej pozostanie w nadwyżce zarówno w 2026, jak i 2027 r. Według najnowszych szacunków organizacji nadwyżka wyniesie ok. 104 tys. ton w 2026 r. oraz wzrośnie do 368 tys. ton w 2027 r.\n\nJednym z liderów spadków jest Grupa Kęty, której kurs spada o 1,5 proc. Kurs spółki od trzech miesięcy porusza się w trendzie bocznym, a łącznie w tym czasie wzrósł o ok. 1 proc.\n\nW środę o 1,5 proc. zniżkuje Pepco. Spadek przyszedł po czterech dniach nieprzerwanych wzrostów, dzięki którym spółka łącznie zyskała 5 proc.\n\nKorygują się ceny akcji spółek energetycznych. Tauron zniżkuje o 1,6 proc., PGE o 0,6 proc., a Enea traci 1,2 proc. WIG Energia zniżkuje o 0,9 proc. do 5.575 pkt. i zawraca z rekordowych poziomów. Indeks ten na zamknięciu wtorkowej sesji znalazł się na najwyższym poziomie w historii, było to 5.624.95 pkt.\n\nKurs PGE rósł niemal bez przerwy od 28 września i do wtorkowego zamknięcia poszedł do góry o niemal 33 proc. W tym samym czasie Tauron zyskał ponad 12 proc., a Enea wzrosła o prawie 16 proc.\n\nPrzecenione są akcje wszystkich banków notowanych w WIG20 lub mWIG40. W tej grupie spółek najmocniej spadają Pekao i Millennium, po ok. 1,4 proc. Handlowy, mBank i PKO BP tracą po ok. 1 proc. Najlepiej radzi sobie Alior, który zniżkuje o 0,1 proc. WIG Banki idzie w dół o 0,8 proc. do 27.002 pkt.\n\nZdaniem Mikołaja Sobierajskiego, akcje PKO BP znajdują się pod presją w związku z szacowanymi kosztami ryzyka prawnego dotyczącego kredytów hipotecznych w walutach obcych, które w III kwartale 2026 r. wynoszą około 371 mln zł.\n\n\"Na wysokość obciążeń wpływa przede wszystkim aktualizacja modelu oceny ryzyka prawnego oraz wzrost przewidywanych kosztów ugód zawieranych z klientami. Dodatkowe rezerwy negatywnie wpływają na wynik finansowy banku, ograniczając jego zysk w bieżącym okresie, a jednocześnie pozwalają zabezpieczyć się przed potencjalnymi kosztami przyszłych sporów sądowych i ugód z kredytobiorcami\" - napisał Mikołaj Sobierajski.\n\nAllegro, które rano spadało o 1,2 proc., obecnie traci 0,4 proc. Spółka umożliwiła klientom składanie zamówień z dostawą do Ukrainy za pośrednictwem platformy allegro.pl. Allegro podało, że w ramach",
-      "date_published": "2026-10-14T16:00:00+02:00",
-      "source": "PAP Biznes"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Pilne-ostrzezenie-KNF-Wolborz-Bank-Polska-na-liscie-ostrzezen-publicznych-9212660.html",
@@ -1053,59 +1093,11 @@
       "source": "Bankier.pl"
     },
     {
-      "id": "https://www.bankier.pl/wiadomosc/Obietnice-bez-pokrycia-Niemiecki-budzet-bez-pieniedzy-dla-polskich-ofiar-III-Rzeszy-9212567.html",
-      "url": "https://www.bankier.pl/wiadomosc/Obietnice-bez-pokrycia-Niemiecki-budzet-bez-pieniedzy-dla-polskich-ofiar-III-Rzeszy-9212567.html",
-      "title": "Obietnice bez pokrycia. Niemiecki budżet bez pieniędzy dla polskich ofiar III Rzeszy",
-      "content_html": "Polacy będący ofiarami niemieckiej okupacji znajdują się często pod koniec życia w trudnych warunkach materialnych. Rząd Niemiec, pomimo obietnic zbadania takiej możliwości, nie przewidział w projekcie budżetu na 2027 r. środków na humanitarną...",
-      "date_published": "2026-10-14T13:50:00+02:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Czarnogora-w-UE-juz-w-2028-roku-Prezydent-Nawrocki-Polska-zdecydowanie-wspiera-te-aspiracje-9212564.html",
-      "url": "https://www.bankier.pl/wiadomosc/Czarnogora-w-UE-juz-w-2028-roku-Prezydent-Nawrocki-Polska-zdecydowanie-wspiera-te-aspiracje-9212564.html",
-      "title": "Czarnogóra w UE już w 2028 roku? Prezydent Nawrocki: Polska zdecydowanie wspiera te aspiracje",
-      "content_html": "Prezydent Karol Nawrocki podkreślił w środę, że Polska zdecydowanie wspiera europejskie aspiracje Czarnogóry i jest gotowa dzielić się z nią swoim doświadczeniem w tym zakresie. Ocenił, że przystąpienie tego państwa do UE w 2028 r. jest...",
-      "date_published": "2026-10-14T13:45:00+02:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Cios-w-ukrainskie-operacje-Starlink-zrywa-lacznosc-po-ukladzie-Trumpa-z-Putinem-9212339.html",
-      "url": "https://www.bankier.pl/wiadomosc/Cios-w-ukrainskie-operacje-Starlink-zrywa-lacznosc-po-ukladzie-Trumpa-z-Putinem-9212339.html",
-      "title": "Cios w ukraińskie operacje. Starlink zrywa łączność po układzie Trumpa z Putinem?",
-      "content_html": "W nocy z wtorku na środę ograniczono funkcjonowanie terminali internetu satelitarnego Starlink - poinformował były doradca ukraińskiego ministerstwa obrony Serhij Sternenko. Dodał, że może to być następstwem decyzji prezydenta USA Donalda Trumpa...",
-      "date_published": "2026-10-14T13:30:00+02:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Trump-swoje-a-Putin-swoje-Kreml-Nie-ma-zakresu-wiec-nie-ma-rozejmu-9212539.html",
-      "url": "https://www.bankier.pl/wiadomosc/Trump-swoje-a-Putin-swoje-Kreml-Nie-ma-zakresu-wiec-nie-ma-rozejmu-9212539.html",
-      "title": "Trump swoje, a Putin swoje. Kreml: Nie ma zakresu, więc nie ma rozejmu",
-      "content_html": "Zapisy rosyjsko-ukraińskiego rozejmu energetycznego zapowiedzianego przez prezydenta USA Donalda Trumpa nie zostały ustalone i trwają prace w tym kierunku – powiedział w środę rzecznik Kremla Dmitrij Pieskow, którego słowa przytoczyła agencja...",
-      "date_published": "2026-10-14T13:23:00+02:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Tajemniczy-obiekt-na-plazy-w-Karwi-Szef-MON-uspokaja-To-polski-dron-9212535.html",
-      "url": "https://www.bankier.pl/wiadomosc/Tajemniczy-obiekt-na-plazy-w-Karwi-Szef-MON-uspokaja-To-polski-dron-9212535.html",
-      "title": "Tajemniczy obiekt na plaży w Karwi. Szef MON uspokaja: To polski dron",
-      "content_html": "Szczątki obiektu latającego znalezione na plaży w Karwi we wtorek wieczorem to był polski dron, zestrzelony podczas ćwiczeń na poligonie - poinformował wicepremier, szef MON Władysław Kosiniak-Kamysz. Jak mówił, morze wyrzuciło na brzeg...",
-      "date_published": "2026-10-14T13:15:00+02:00",
-      "source": "Bankier.pl"
-    },
-    {
       "id": "https://www.bankier.pl/wiadomosc/Echo-Investment-zawarlo-z-R4R-Poland-umowe-sprzedazy-udzialow-w-celu-ich-umorzenia-9212506.html",
       "url": "https://www.bankier.pl/wiadomosc/Echo-Investment-zawarlo-z-R4R-Poland-umowe-sprzedazy-udzialow-w-celu-ich-umorzenia-9212506.html",
       "title": "Echo Investment zawarło z R4R Poland umowę sprzedaży udziałów w celu ich umorzenia Zarząd Echo Investment zawarł z podmiotem powiązanym - spółką R4R Poland, w której posiada 30 proc. udziałów, umowę sprzedaży 3.916.446 udziałów w celu ich umorzenia. Cena sprzedaży wynosi ok. 195,8 mln zł - podało Echo Investment w komunikacie.",
       "content_html": "",
       "date_published": "2026-10-14T12:52:00+02:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Oferta-spolki-zaleznej-Mostostalu-Zabrze-za-ok-230-mln-zl-brutto-najnizsza-w-przetargu-9212477.html",
-      "url": "https://www.bankier.pl/wiadomosc/Oferta-spolki-zaleznej-Mostostalu-Zabrze-za-ok-230-mln-zl-brutto-najnizsza-w-przetargu-9212477.html",
-      "title": "Oferta spółki zależnej Mostostalu Zabrze za ok. 230 mln zł brutto najniższa w przetargu Oferta spółki zależnej Mostostalu Zabrze okazała się najniższa w przetargu na rozbudowę płyty PPS-5C wraz z wyburzeniami i budową bramy nr 14 Lotniska Chopina w Warszawie. Oferta ma wartość ok. 230 mln zł brutto, tj. 187 mln zł netto - podała spółka w komunikacie.",
-      "content_html": "",
-      "date_published": "2026-10-14T12:20:00+02:00",
       "source": "Bankier.pl"
     }
   ]
