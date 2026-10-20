@@ -5,11 +5,83 @@
   "home_page_url": "https://www.bankier.pl",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/Konie-wylicytowane-pieniedzy-nie-ma-Co-dzieje-sie-po-Pride-of-Poland-9215083.html",
+      "url": "https://www.bankier.pl/wiadomosc/Konie-wylicytowane-pieniedzy-nie-ma-Co-dzieje-sie-po-Pride-of-Poland-9215083.html",
+      "title": "Konie wylicytowane, pieniędzy nie ma. Co dzieje się po Pride of Poland?",
+      "content_html": "Po ostatniej aukcji Pride of Poland rządzący ogłosili wielki sukces po tym, jak wylicytowano wszystkie wystawione konie. Dwa miesiące po jej zakończeniu co trzecia klacz wciąż czeka na płatność, która powinna nastąpić w 14 dni od aukcji -...",
+      "date_published": "2026-10-20T07:20:00+02:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Wyslannik-Trumpa-rusza-do-Europy-Na-stole-znowu-rozmowy-o-zakonczeniu-wojny-9215078.html",
+      "url": "https://www.bankier.pl/wiadomosc/Wyslannik-Trumpa-rusza-do-Europy-Na-stole-znowu-rozmowy-o-zakonczeniu-wojny-9215078.html",
+      "title": "Wysłannik Trumpa rusza do Europy. Na stole znowu rozmowy o zakończeniu wojny",
+      "content_html": "Specjalny wysłannik prezydenta USA Donalda Trumpa, Steve Witkoff, ma udać się w tym tygodniu do Norwegii na kolejną rundę negocjacji dotyczących zakończenia wojny w Ukrainie — poinformował w poniedziałek Reuters. W spotkaniu mają uczestniczyć...",
+      "date_published": "2026-10-20T07:17:00+02:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Smiertelny-wypadek-w-kopalni-zlota-Pod-ziemia-moglo-byc-30-osob-9215077.html",
+      "url": "https://www.bankier.pl/wiadomosc/Smiertelny-wypadek-w-kopalni-zlota-Pod-ziemia-moglo-byc-30-osob-9215077.html",
+      "title": "Śmiertelny wypadek w kopalni złota. Pod ziemią mogło być 30 osób",
+      "content_html": "Co najmniej 14 osób zginęło w wypadku, do którego doszło w poniedziałek w kopalni złota w Santa Barbara de Iscuande, w położonym na zachodzie Kolumbii departamencie Narino, przekazały władze regionu. Cytująca je kolumbijska rozgłośnia RCN...",
+      "date_published": "2026-10-20T07:15:00+02:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Chca-zniknac-z-Google-Polacy-skladaja-tysiace-wnioskow-9215082.html",
+      "url": "https://www.bankier.pl/wiadomosc/Chca-zniknac-z-Google-Polacy-skladaja-tysiace-wnioskow-9215082.html",
+      "title": "Chcą zniknąć z Google. Polacy składają tysiące wniosków",
+      "content_html": "Polacy coraz częściej domagają się usuwania swoich danych z Google. Liczba zgłoszeń rośnie, a koncern zazwyczaj je uwzględnia – pisze wtorkowa „Rzeczpospolita”.",
+      "date_published": "2026-10-20T07:15:00+02:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Trump-wzywa-Europe-do-zamkniecia-granic-To-kociol-ktory-wybuchnie-9215054.html",
+      "url": "https://www.bankier.pl/wiadomosc/Trump-wzywa-Europe-do-zamkniecia-granic-To-kociol-ktory-wybuchnie-9215054.html",
+      "title": "Trump wzywa Europę do zamknięcia granic. „To kocioł, który wybuchnie”",
+      "content_html": "Prezydent USA Donald Trump oświadczył, że napływ imigrantów do krajów takich jak Francja i Włochy jest jak „kocioł, który wybuchnie”. Ponownie wezwał Europę do zamknięcia granic i niewpuszczania imigrantów.",
+      "date_published": "2026-10-20T07:12:00+02:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/8-mld-dolarow-pomocy-dla-amerykanskich-rolnikow-Trump-reaguje-na-drogie-paliwo-9215109.html",
+      "url": "https://www.bankier.pl/wiadomosc/8-mld-dolarow-pomocy-dla-amerykanskich-rolnikow-Trump-reaguje-na-drogie-paliwo-9215109.html",
+      "title": "8 mld dolarów pomocy dla amerykańskich rolników. Trump reaguje na drogie paliwo",
+      "content_html": "Prezydent USA Donald Trump ogłosił w poniedziałek podczas wiecu wyborczego w Kansas nowy program wsparcia rolników w sezonie żniwnym. W jego ramach mają oni otrzymać 8 mld dol. pomocy na częściowe pokrycie kosztów oleju napędowego.",
+      "date_published": "2026-10-20T07:11:00+02:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Coraz-wiecej-wypadkow-na-hulajnogach-Same-przepisy-nie-wystarcza-9215081.html",
+      "url": "https://www.bankier.pl/wiadomosc/Coraz-wiecej-wypadkow-na-hulajnogach-Same-przepisy-nie-wystarcza-9215081.html",
+      "title": "Coraz więcej wypadków na hulajnogach. Same przepisy nie wystarczą",
+      "content_html": "Liczba wypadków z udziałem hulajnóg systematycznie rośnie mimo zaostrzenia przepisów. Brakuje sensownej edukacji drogowej dla nastolatków i realnych ograniczeń dla producentów sprzętu - pisze „Dziennik Gazeta Prawna” we wtorkowym wydaniu...",
+      "date_published": "2026-10-20T07:10:00+02:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Wrze-w-Albanii-Kontrowersyjna-inwestycja-powiazana-z-Jaredem-Kushnerem-w-tle-protestow-9215053.html",
+      "url": "https://www.bankier.pl/wiadomosc/Wrze-w-Albanii-Kontrowersyjna-inwestycja-powiazana-z-Jaredem-Kushnerem-w-tle-protestow-9215053.html",
+      "title": "Wrze w Albanii. Kontrowersyjna inwestycja powiązana z Jaredem Kushnerem w tle protestów",
+      "content_html": "Do kolejnych zamieszek, podczas których protestujący rzucali w policjantów m.in. koktajlami Mołotowa, doszło w poniedziałek w Tiranie. Policja odpowiedziała użyciem gazu łzawiącego i armatek wodnych. Podczas antyrządowej demonstracji zatrzymano...",
+      "date_published": "2026-10-20T06:55:00+02:00",
+      "source": "Bankier.pl"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/USA-blokuja-dostawy-pociskow-Patriot-dla-Ukrainy-Decyzja-Hegsetha-wciaz-nie-zapadla-9215079.html",
       "url": "https://www.bankier.pl/wiadomosc/USA-blokuja-dostawy-pociskow-Patriot-dla-Ukrainy-Decyzja-Hegsetha-wciaz-nie-zapadla-9215079.html",
       "title": "USA blokują dostawy pocisków Patriot dla Ukrainy? Decyzja Hegsetha wciąż nie zapadła",
       "content_html": "Administracja USA nie zatwierdziła przekazania Ukrainie pocisków przechwytujących, niezbędnych do ochrony przed rosyjskimi atakami rakietowymi i dronowymi — poinformowali w poniedziałek przedstawiciele władz, cytowani przez „Washington Post”...",
       "date_published": "2026-10-20T06:51:00+02:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Rzad-wysle-500-zolnierzy-do-Mediolanu-gdzie-doszlo-do-zamieszek-9215086.html",
+      "url": "https://www.bankier.pl/wiadomosc/Rzad-wysle-500-zolnierzy-do-Mediolanu-gdzie-doszlo-do-zamieszek-9215086.html",
+      "title": "Rząd wyśle 500 żołnierzy do Mediolanu, gdzie doszło do zamieszek",
+      "content_html": "Rząd Włoch wyśle 500 dodatkowych żołnierzy do Mediolanu, gdzie w weekend doszło do gwałtownych zamieszek i aktów wandalizmu, wywołanych przez grupy manifestującej młodzieży. O planach tych informuje wtorkowa prasa, a pierwszy ogłosił je wicepremier...",
+      "date_published": "2026-10-20T06:49:00+02:00",
       "source": "Bankier.pl"
     },
     {
@@ -37,11 +109,11 @@
       "source": "Bankier.pl"
     },
     {
-      "id": "https://www.bankier.pl/wiadomosc/Trump-wzywa-Europe-do-zamkniecia-granic-To-kociol-ktory-wybuchnie-9215054.html",
-      "url": "https://www.bankier.pl/wiadomosc/Trump-wzywa-Europe-do-zamkniecia-granic-To-kociol-ktory-wybuchnie-9215054.html",
-      "title": "Trump wzywa Europę do zamknięcia granic. „To kocioł, który wybuchnie”",
-      "content_html": "Prezydent USA Donald Trump oświadczył, że napływ imigrantów do krajów takich jak Francja i Włochy jest jak „kocioł, który wybuchnie”. Ponownie wezwał Europę do zamknięcia granic i niewpuszczania imigrantów.",
-      "date_published": "2026-10-20T06:39:00+02:00",
+      "id": "https://www.bankier.pl/wiadomosc/ONZ-za-ochrona-dzieci-przed-cyberprzemoca-podczas-konfliktow-zbrojnych-9215099.html",
+      "url": "https://www.bankier.pl/wiadomosc/ONZ-za-ochrona-dzieci-przed-cyberprzemoca-podczas-konfliktow-zbrojnych-9215099.html",
+      "title": "ONZ za ochroną dzieci przed cyberprzemocą podczas konfliktów zbrojnych",
+      "content_html": "Rada Bezpieczeństwa ONZ jednogłośnie przyjęła w poniedziałek rezolucję dotyczącą ochrony dzieci podczas konfliktów zbrojnych przed zagrożeniami związanymi z technologiami cyfrowymi. Dokument zwraca szczególną uwagę na wykorzystywanie mediów...",
+      "date_published": "2026-10-20T06:38:00+02:00",
       "source": "Bankier.pl"
     },
     {
@@ -949,14 +1021,6 @@
       "source": "Bankier.pl"
     },
     {
-      "id": "https://www.bankier.pl/wiadomosc/Filipiny-ostro-odpowiadaja-Pekinowi-MSZ-potepia-zawoalowana-grozbe-uzycia-sily-9214629.html",
-      "url": "https://www.bankier.pl/wiadomosc/Filipiny-ostro-odpowiadaja-Pekinowi-MSZ-potepia-zawoalowana-grozbe-uzycia-sily-9214629.html",
-      "title": "Filipiny ostro odpowiadają Pekinowi. MSZ potępia „zawoalowaną groźbę użycia siły”",
-      "content_html": "Filipińskie MSZ wezwało w poniedziałek ambasadora Chin w Manili Jing Quana, aby przekazać mu „poważne zaniepokojenie i stanowczy sprzeciw” wobec jego wypowiedzi. Dyplomata w ubiegłym tygodniu oświadczył, że Pekin „łatwo wygrałby” ewentualne...",
-      "date_published": "2026-10-19T10:30:00+02:00",
-      "source": "Bankier.pl"
-    },
-    {
       "id": "https://biznes.pap.pl/wiadomosci/gospodarka/bgk-z-perspektywy-ue-2021-27-do-16-pazdziernika-wyplacil-ok-95226-mld-zl",
       "url": "https://biznes.pap.pl/wiadomosci/gospodarka/bgk-z-perspektywy-ue-2021-27-do-16-pazdziernika-wyplacil-ok-95226-mld-zl",
       "title": "BGK z perspektywy UE 2021-27 do 16 października wypłacił ok. 95,226 mld zł",
@@ -965,18 +1029,10 @@
       "source": "PAP Biznes"
     },
     {
-      "id": "https://www.bankier.pl/wiadomosc/Zloty-z-szansa-na-umocnienie-Dane-z-Polski-wjezdzaja-na-rynek-9214622.html",
-      "url": "https://www.bankier.pl/wiadomosc/Zloty-z-szansa-na-umocnienie-Dane-z-Polski-wjezdzaja-na-rynek-9214622.html",
-      "title": "Złoty z szansą na umocnienie? Dane z Polski wjeżdżają na rynek",
-      "content_html": "Od kilku dni nasza waluta próbuje odrabiać jesienne straty korzystając z osłabienia dolara i poprawy sentymentu na rynku długu .Przy stabilnym kursie euro nowe wielomiesięczne szczyty ustanowiły notowania franka szwajcarskiego i funta brytyjskiego...",
-      "date_published": "2026-10-19T10:17:00+02:00",
-      "source": "Bankier.pl"
-    },
-    {
       "id": "https://www.bankier.pl/wiadomosc/GPM-Vindexus-zwiekszyla-wartosc-programu-emisji-obligacji-do-121-mln-zl-9214615.html",
       "url": "https://www.bankier.pl/wiadomosc/GPM-Vindexus-zwiekszyla-wartosc-programu-emisji-obligacji-do-121-mln-zl-9214615.html",
-      "title": "GPM Vindexus zwiększyła wartość programu emisji obligacji do 121 mln zł",
-      "content_html": "Giełda Praw Majątkowych Vindexus zwiększyła łączną wartość nominalną programu emisji obligacji do kwoty 121 mln zł - podała spółka w komunikacie.",
+      "title": "GPM Vindexus zwiększyła wartość programu emisji obligacji do 121 mln zł Giełda Praw Majątkowych Vindexus zwiększyła łączną wartość nominalną programu emisji obligacji do kwoty 121 mln zł - podała spółka w komunikacie.",
+      "content_html": "",
       "date_published": "2026-10-19T10:14:00+02:00",
       "source": "Bankier.pl"
     },
@@ -989,28 +1045,12 @@
       "source": "PAP Biznes"
     },
     {
-      "id": "https://www.bankier.pl/wiadomosc/Atak-na-dyplomatow-m-in-z-Polski-Izrael-dokonal-pierwszych-zatrzyman-9214614.html",
-      "url": "https://www.bankier.pl/wiadomosc/Atak-na-dyplomatow-m-in-z-Polski-Izrael-dokonal-pierwszych-zatrzyman-9214614.html",
-      "title": "Atak na dyplomatów m.in. z Polski. Izrael dokonał pierwszych zatrzymań",
-      "content_html": "Izraelska policja poinformowała o aresztowaniu 10 osób podejrzewanych o udział w atakach na konwój przewożący dyplomatów z kilku krajów, w tym Polski, oraz na amerykańską dziennikarkę na Zachodnim Brzegu Jordanu – powiadomiła w poniedziałek...",
-      "date_published": "2026-10-19T10:10:00+02:00",
-      "source": "Bankier.pl"
-    },
-    {
       "id": "https://biznes.pap.pl/wiadomosci/gry-i-technologie/partnerstwa-zagranicznych-firm-z-lokalnymi-podmiotami-kluczowym",
       "url": "https://biznes.pap.pl/wiadomosci/gry-i-technologie/partnerstwa-zagranicznych-firm-z-lokalnymi-podmiotami-kluczowym",
       "title": "Partnerstwa zagranicznych firm z lokalnymi podmiotami kluczowym elementem inwestycji obronnych - KPMG (wywiad)",
       "content_html": "Partnerstwa zagranicznych firm z polskimi podmiotami stają się jednym z kluczowych elementów inwestycji obronnych w Polsce, a często także warunkiem skutecznego wejścia na lokalny rynek - oceniła w rozmowie z PAP Biznes Iwona Sprycha, partner w dziale Deal Advisory KPMG w Polsce. Rośnie zainteresowanie firm cywilnych rozwojem technologii dual-use.\n\n\"Dla zagranicznych firm lokalny partner często stanowi warunek skutecznego wejścia na polski rynek, ponieważ zapewnia znajomość krajowych regulacji, procedur zakupowych, realiów współpracy z administracją publiczną oraz dostęp do lokalnego ekosystemu przemysłowego\" - powiedziała Sprycha.\n\n\"Z perspektywy zamawiających liczy się dziś nie tylko zakup samego produktu, ale również to, jaka wartość pozostanie w kraju w postaci miejsc pracy, kompetencji, produkcji czy know-how. Dlatego partnerstwo z lokalnym podmiotem staje się często nie tylko dodatkiem do oferty, ale też jednym z jej kluczowych elementów\" - dodała.\n\nZdaniem ekspertki, partnerstwa z polskimi podmiotami są coraz częściej sposobem na spełnienie oczekiwań dotyczących local content, transferu technologii i budowy krajowych zdolności produkcyjnych.\n\n\"Obecnie w wielu przypadkach bardzo trudno jest skutecznie wejść do sektora obronnego bez spełnienia wymogów dotyczących local content. Coraz częściej inwestorzy konkurują nie tylko ceną czy parametrami produktu, ale również zdolnością do budowania lokalnych kompetencji, transferu technologii, realizacji inwestycji produkcyjnych oraz angażowania krajowych dostawców\" - oceniła Sprycha.\n\n\"Ze względu na nasze położenie, wielkość kraju, potencjał gospodarczy oraz skalę środków przeznaczanych na obronność trudno sobie wyobrazić, żeby Polska nie była traktowana jako poważny partner i istotny uczestnik międzynarodowego sektora obronnego\" - dodała.\n\nJak zaznaczyła, w praktyce oznacza to większą skłonność do tworzenia joint venture, lokalizacji produkcji oraz rozwijania wspólnych projektów badawczo-rozwojowych.\n\n\"Dla wielu firm zagranicznych transfer technologii już nie jest postrzegany wyłącznie jako koszt prowadzenia działalności, ale również jako element strategii umożliwiający uzyskanie dostępu do dużych programów finansowania oraz programów modernizacyjnych i rozwojowych\" - powiedziała.\n\nFIRMY Z SEKTORA CYWILNEGO WCHODZĄ NA RYNEK OBRONNY DZIĘKI INWESTYCJOM DUAL-USE\n\nFirmy z sektora cywilnego są coraz bardziej zainteresowane inwestycjami w sektorze obronnym poprzez rozwój technologii podwójnego zastosowania (dual-use), między innymi dzięki rosnącym wydatkom na obronność i programy finansowania.\n\n\"Pierwszym impulsem dla firm z sektora cywilnego były rosnące wydatki obronne, nowe programy finansowania oraz możliwość wykorzystania istniejących kompetencji produkcyjnych i technologicznych na potrzeby rynku bezpieczeństwa i obronności\" - powiedziała Sprycha.\n\n\"Technologie dual use pozwalają firmom stopniowo wejść do sektora obronnego. Często rozpoczynają one działalność jako dostawcy komponentów lub podwykonawcy, a następnie rozwijają własne kompetencje i ofertę\" - dodała.\n\nPartner KPMG podkreśliła, że przemysł obronny coraz częściej wykorzystuje technologie, które były pierwotnie rozwijane na potrzeby rynku cywilnego.\n\n\"Dotyczy to między innymi dronów, sztucznej inteligencji, cyberbezpieczeństwa, systemów komunikacyjnych, technologii kosmicznych oraz zaawansowanych materiałów czy elektroniki. Zaletą sektora Dual Use jest możliwość wykorzystania tych samych zdolności produkcyjnych i zakładów zarówno do produkcji na cele obronne, jak i cywilne\" - zaznaczyła.\n\nZmniejsza to ryzyko, że hale i zdolności produkcyjne przeznaczone wyłącznie na potrzeby obronne nie będą w przyszłości wykorzystywane.\n\n\"Moim zdaniem mechanizm ten przynosi korzyści zarówno rynkowi cywilnemu, jak i obronnemu. Widzę bardzo duże zainteresowanie firm z sektora cywilnego wejściem w Dual Use. Szczególnie widoczne jest zainteresowanie sektora motoryzacyjnego, który przechodzi obecnie głęboką transformację i poszukuje nowych mo",
       "date_published": "2026-10-19T10:03:00+02:00",
       "source": "PAP Biznes"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Tajwanski-gigant-zbroi-sie-pod-fabryke-w-Polsce-Foxconn-i-Mitsubishi-lacza-sily-9214599.html",
-      "url": "https://www.bankier.pl/wiadomosc/Tajwanski-gigant-zbroi-sie-pod-fabryke-w-Polsce-Foxconn-i-Mitsubishi-lacza-sily-9214599.html",
-      "title": "Tajwański gigant zbroi się pod fabrykę w Polsce. Foxconn i Mitsubishi łączą siły",
-      "content_html": "Tajwański gigant technologiczny Foxconn nie zwalnia tempa w swojej globalnej ekspansji na rynku elektryków. Firma właśnie ogłosiła dużą inwestycję w dział motoryzacyjny Mitsubishi Electric, co zbiega się w czasie z decydującą fazą negocjacji...",
-      "date_published": "2026-10-19T10:00:00+02:00",
-      "source": "Bankier.pl"
     },
     {
       "id": "https://biznes.pap.pl/wiadomosci/firmy/kontrakty-i-umowy-spolek-przeglad-tygodniowy-223",
@@ -1021,27 +1061,11 @@
       "source": "PAP Biznes"
     },
     {
-      "id": "https://www.bankier.pl/wiadomosc/Niemiecki-budzet-na-2027-rok-Berlin-bez-pieniedzy-na-zadoscuczynienie-dla-polskich-ofiar-okupacji-9214603.html",
-      "url": "https://www.bankier.pl/wiadomosc/Niemiecki-budzet-na-2027-rok-Berlin-bez-pieniedzy-na-zadoscuczynienie-dla-polskich-ofiar-okupacji-9214603.html",
-      "title": "Niemiecki budżet na 2027 rok. Berlin bez pieniędzy na zadośćuczynienie dla polskich ofiar okupacji",
-      "content_html": "Czasu na zadośćuczynienie żyjącym ofiarom niemieckiej okupacji Polski podczas II wojny światowej jest coraz mniej - alarmuje dziennik „Die Welt”. Skomentował tak fakt, że w projekcie budżetu Niemiec na 2027 rok nie przewidziano środków...",
-      "date_published": "2026-10-19T09:47:00+02:00",
-      "source": "Bankier.pl"
-    },
-    {
       "id": "https://www.bankier.pl/wiadomosc/Trigon-DM-obnizyl-cene-docelowa-akcji-Bloober-Team-do-38-zl-9214602.html",
       "url": "https://www.bankier.pl/wiadomosc/Trigon-DM-obnizyl-cene-docelowa-akcji-Bloober-Team-do-38-zl-9214602.html",
-      "title": "Trigon DM obniżył cenę docelową akcji Bloober Team",
-      "content_html": "Analitycy Trigon DM, w raporcie z 19 października, obniżyli cenę docelową akcji Bloober Team do 38 zł z 40 zł i podtrzymali rekomendację \"kupuj\".",
+      "title": "Trigon DM obniżył cenę docelową akcji Bloober Team Analitycy Trigon DM, w raporcie z 19 października, obniżyli cenę docelową akcji Bloober Team do 38 zł z 40 zł i podtrzymali rekomendację \"kupuj\".",
+      "content_html": "",
       "date_published": "2026-10-19T09:46:00+02:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Zagrozonych-12-tys-miejsc-pracy-Waza-sie-losy-83-domow-towarowych-9214601.html",
-      "url": "https://www.bankier.pl/wiadomosc/Zagrozonych-12-tys-miejsc-pracy-Waza-sie-losy-83-domow-towarowych-9214601.html",
-      "title": "Nawet 12 tys. osób może stracić pracę. Upada sieć domów towarowych",
-      "content_html": "Działalność aż 83 niemieckich domów towarowych należących do sieci Galeria wisi na włosku. Ważą się też losy 12 tys. pracowników zatrudnionych w tych placówkach. Ruszyło już czwarte postępowanie upadłościowe tej firmy – podał serwis...",
-      "date_published": "2026-10-19T09:45:00+02:00",
       "source": "Bankier.pl"
     },
     {
@@ -1055,8 +1079,8 @@
     {
       "id": "https://www.bankier.pl/wiadomosc/Trigon-DM-podniosl-rekomendacje-Dom-Development-do-kupuj-cene-docelowa-obnizyl-do-285-zl-9214600.html",
       "url": "https://www.bankier.pl/wiadomosc/Trigon-DM-podniosl-rekomendacje-Dom-Development-do-kupuj-cene-docelowa-obnizyl-do-285-zl-9214600.html",
-      "title": "Trigon DM podniósł rekomendację Dom Development do \"kupuj\", ale obniżył cenę docelową",
-      "content_html": "Analitycy Trigon DM, w raporcie z 12 października, podwyższyli rekomendację dla Dom Development do \"kupuj\" z \"trzymaj\", a cenę docelową obniżyli do 285 zł z 300 zł.",
+      "title": "Trigon DM podniósł rekomendację Dom Development do \"kupuj\", ale obniżył cenę docelową Analitycy Trigon DM, w raporcie z 12 października, podwyższyli rekomendację dla Dom Development do \"kupuj\" z \"trzymaj\", a cenę docelową obniżyli do 285 zł z 300 zł.",
+      "content_html": "",
       "date_published": "2026-10-19T09:40:00+02:00",
       "source": "Bankier.pl"
     },
