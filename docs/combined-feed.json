@@ -5,6 +5,30 @@
   "home_page_url": "https://www.bankier.pl",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/Ponad-160-proc-wzrostu-SpaceX-rzuca-na-kolana-analitykow-i-generuje-prawie-15-mld-dol-przychodu-9215760.html",
+      "url": "https://www.bankier.pl/wiadomosc/Ponad-160-proc-wzrostu-SpaceX-rzuca-na-kolana-analitykow-i-generuje-prawie-15-mld-dol-przychodu-9215760.html",
+      "title": "Ponad 160 proc. wzrostu. SpaceX rzuca na kolana analityków i generuje prawie 15 mld dol. przychodu",
+      "content_html": "Przychody należącego do Elona Muska SpaceX w trzecim kwartale wzrosły rok do roku o 161 proc., przebijając oczekiwania analityków. Akcje spółki idą w górę w handlu pozasesyjnym.",
+      "date_published": "2026-10-20T22:32:00+02:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Trump-o-kosztach-pomocy-dla-Kijowa-i-UE-USA-wydaly-na-te-wojne-fortune-9215756.html",
+      "url": "https://www.bankier.pl/wiadomosc/Trump-o-kosztach-pomocy-dla-Kijowa-i-UE-USA-wydaly-na-te-wojne-fortune-9215756.html",
+      "title": "Trump o kosztach pomocy dla Kijowa i UE: USA wydały na tę wojnę fortunę",
+      "content_html": "Prezydent USA Donald Trump we wtorek oświadczył, że Amerykanie bardzo pomogli Ukrainie, a w zamian nie otrzymali nic oprócz wysokich cen oleju napędowego. Powtórzył, że Ukraina „musi chcieć” zakończyć wojnę.",
+      "date_published": "2026-10-20T22:29:00+02:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Spadek-akcji-Netfliksa-o-ponad-4-proc-Dobry-zysk-nie-wystarczyl-inwestorom-9215759.html",
+      "url": "https://www.bankier.pl/wiadomosc/Spadek-akcji-Netfliksa-o-ponad-4-proc-Dobry-zysk-nie-wystarczyl-inwestorom-9215759.html",
+      "title": "Spadek akcji Netfliksa o ponad 4 proc. Dobry zysk nie wystarczył inwestorom",
+      "content_html": "Akcje Netfliksa spadają w handlu pozasesyjnym po publikacji przez spółkę wyników finansowych za trzeci kwartał 2026 roku. Spółka przebiła oczekiwania rynku na poziomie zysku na akcję, a przychody okazały się zgodne z konsensusem.",
+      "date_published": "2026-10-20T22:20:00+02:00",
+      "source": "Bankier.pl"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Przelom-na-rozmowach-w-Oslo-Ukraina-z-partnerami-wypracowala-elementy-porozumienia-9215705.html",
       "url": "https://www.bankier.pl/wiadomosc/Przelom-na-rozmowach-w-Oslo-Ukraina-z-partnerami-wypracowala-elementy-porozumienia-9215705.html",
       "title": "Przełom na rozmowach w Oslo. Ukraina z partnerami wypracowała elementy porozumienia",
@@ -491,6 +515,14 @@
       "content_html": "Pan Juliusz z Krakowa, zwolennik Grzegorza Brauna, chciał przed wyborami prezydenckimi wesprzeć finansowo komitet swojego kandydata kwotą 200 zł. Przez pomyłkę przelał jednak na konto partii dziesięciokrotnie większą sumę – 2000 zł. Choć...",
       "date_published": "2026-10-20T15:00:00+02:00",
       "source": "Bankier.pl"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/firmy/polregio-ma-umowe-na-zakup-dwoch-jednostek-spalinowych-za-ponad-26-mln-zl-brutto",
+      "url": "https://biznes.pap.pl/wiadomosci/firmy/polregio-ma-umowe-na-zakup-dwoch-jednostek-spalinowych-za-ponad-26-mln-zl-brutto",
+      "title": "Polregio ma umowę na zakup dwóch jednostek spalinowych za ponad 26 mln zł brutto",
+      "content_html": "Polregio podpisało umowę na zakup dwóch jednostek spalinowych dla floty w województwie podlaskim - podała spółka w komunikacie. Składy SA109 dostarczy spółka Serwis Pojazdów Szynowych. Łączny koszt zakupu wynosi ponad 26 mln zł brutto.\n\nJak podano, obecnie na terenie województwa podlaskiego spółka ma do dyspozycji 25 pojazdów, z czego ponad połowa to jednostki spalinowe. Już niebawem dołączą do nich dwie kolejne.\n\nZakupione pojazdy mają wyjechać na tory jeszcze w 2026 roku.\n\n\"Zanim to się stanie, wykonawca będzie odpowiedzialny za przygotowanie pojazdu do eksploatacji, a także przemalowanie jednostek zgodnie z malaturą przewoźnika. SPS będzie miał 10 tygodni na realizację\" - napisano w komunikacie. (PAP Biznes)",
+      "date_published": "2026-10-20T14:57:00+02:00",
+      "source": "PAP Biznes"
     },
     {
       "id": "https://biznes.pap.pl/wiadomosci/rynki/dzien-na-rynkach-futures-w-usa-znizkuja-spolki-it-na-minusach",
@@ -1061,35 +1093,11 @@
       "source": "PAP Biznes"
     },
     {
-      "id": "https://biznes.pap.pl/wiadomosci/gospodarka/wrzesniowe-dane-o-produkcji-przemyslowej-potwierdzaja-ozywienie-w-branzy",
-      "url": "https://biznes.pap.pl/wiadomosci/gospodarka/wrzesniowe-dane-o-produkcji-przemyslowej-potwierdzaja-ozywienie-w-branzy",
-      "title": "Wrześniowe dane o produkcji przemysłowej potwierdzają ożywienie w branży (opinia)",
-      "content_html": "Wrześniowe, mocniejsze od oczekiwań analityków dane o produkcji przemysłowej potwierdzają ożywienie w branży; polska gospodarka nie straciła tempa - oceniają w komentarzach po danych ekonomiści. Sektor coraz silniej korzysta na inwestycjach w AI, energetykę, modernizację parku maszynowego i obronność.\n\n\"Po wpadce w sierpniu wrzesień przyniósł nam bardzo dobre dane z przemysłu: +3,4 proc. mdm s.a., prognozy pobite o 1-1,5 pkt. proc., wzrosty ładnie rozłożone po różnych branżach i typach branż. Słowem - polska gospodarka nie straciła tempa\" - napisali na platformie X ekonomiści Banku Pekao.\n\nEkonomiści PKO BP również wskazują, że dane o produkcji przemysłowej potwierdzają ożywienie w branży.\n\n\"Produkcja przemysłowa wzrosła o 4,6 proc. rdr, wyraźnie przebijając oczekiwania i potwierdzając ożywienie w branży (...) Przemysł nabiera rozpędu\" - napisali ekonomiści PKO BP.\n\n\"W przemyśle najmocniej wyróżniały się produkcja pozostałego sprzętu transportowego (+20,4 proc. rdr), urządzeń elektrycznych (+15,2 proc.), elektroniki (+12,6 proc.) oraz maszyn (+10,9 proc.). To sugeruje, że sektor coraz silniej korzysta na inwestycjach w AI, energetykę, modernizację parku maszynowego i obronność. Utrzymują się problemy w branży meblarskiej (-6,8 proc.)\" - dodali.\n\nProdukcja przemysłowa we wrześniu wzrosła o 4,6 proc. rdr, a w porównaniu z poprzednim miesiącem wzrosła o 17,0 proc. - napisał we wtorek GUS. Analitycy ankietowani przez PAP Biznes oczekiwali wzrostu o 3,1 rdr i wzrostu o 14,8 proc. mdm.\n\nPo wyeliminowaniu wpływu czynników o charakterze sezonowym, we wrześniu br. produkcja sprzedana przemysłu ukształtowała się na poziomie o 3,3 proc. wyższym niż w analogicznym miesiącu ub. roku i o 3,4 proc. wyższym niż w sierpniu br. (PAP Biznes)",
-      "date_published": "2026-10-20T10:19:00+02:00",
-      "source": "PAP Biznes"
-    },
-    {
       "id": "https://www.bankier.pl/wiadomosc/IPO-wracaja-na-GPW-rynek-w-Polsce-pozostaje-w-fazie-silnego-wzrostu-Ipopema-wywiad-9215232.html",
       "url": "https://www.bankier.pl/wiadomosc/IPO-wracaja-na-GPW-rynek-w-Polsce-pozostaje-w-fazie-silnego-wzrostu-Ipopema-wywiad-9215232.html",
-      "title": "IPO wracają na GPW, rynek w Polsce pozostaje w fazie silnego wzrostu",
-      "content_html": "Rynek kapitałowy w Polsce pozostaje w fazie silnego wzrostu, na giełdę wracają oferty publiczne spółek, a wartość transakcji po trzech kwartałach przekroczyła 20 mld zł, czyli poziom zbliżony do całego 2025 r. W 2026 roku wartość transakcji...",
+      "title": "IPOPEMA IPO wracają na GPW, rynek w Polsce pozostaje w fazie silnego wzrostu Rynek kapitałowy w Polsce pozostaje w fazie silnego wzrostu, na giełdę wracają oferty publiczne spółek, a wartość transakcji po trzech kwartałach przekroczyła 20 mld zł, czyli poziom zbliżony do całego 2025 r. W 2026 roku wartość transakcji może sięgnąć 30 mld zł - oceniają przedstawiciele Ipopemy Securities.",
+      "content_html": "",
       "date_published": "2026-10-20T10:12:00+02:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Realne-place-rosna-najwolniej-od-czasow-rzadu-Morawieckiego-W-tym-roku-ubylo-juz-prawie-50-tys-etatow-9215186.html",
-      "url": "https://www.bankier.pl/wiadomosc/Realne-place-rosna-najwolniej-od-czasow-rzadu-Morawieckiego-W-tym-roku-ubylo-juz-prawie-50-tys-etatow-9215186.html",
-      "title": "Realne płace rosną najwolniej od czasów rządu Morawieckiego. W tym roku ubyło już prawie 50 tys. etatów",
-      "content_html": "Najnowsze dane GUS o wrześniowych wynagrodzeniach w dużych firmach niefinansowych, zestawione z odczytem inflacji za poprzedni miesiąc, wskazują, że realne płace w Polsce rosną najwolniej od ponad trzech lat. Pogarsza się również sytuacja na...",
-      "date_published": "2026-10-20T09:50:00+02:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Nowa-pozyczka-z-nizszym-oprocentowaniem-VeloBank-ma-cos-specjalnego-dla-czytelnikow-Bankier-pl-9215182.html",
-      "url": "https://www.bankier.pl/wiadomosc/Nowa-pozyczka-z-nizszym-oprocentowaniem-VeloBank-ma-cos-specjalnego-dla-czytelnikow-Bankier-pl-9215182.html",
-      "title": "Nowa pożyczka z niższym oprocentowaniem. VeloBank ma coś specjalnego dla czytelników Bankier.pl",
-      "content_html": "Niska rata, zero prowizji, kwota do 300 tys. zł, a spłata nawet przez 10 lat – tak prezentuje się nowa dedykowana oferta VeloBanku dla czytelników Bankier.pl. Z pożyczki gotówkowej można skorzystać od 20 października.",
-      "date_published": "2026-10-20T09:45:00+02:00",
       "source": "Bankier.pl"
     },
     {
@@ -1122,14 +1130,6 @@
       "title": "Quercus TFI zwiększył zysk po trzech kwartałach. Przychody mocno w górę Skonsolidowany zysk netto j.d. Quercus TFI w III kwartale 2026 r. wyniósł 13,4 mln zł wobec 14,2 mln zł przed rokiem - poinformowała spółka w komunikacie prasowym. W pierwszych trzech kwartałach 2026 r. Quercus TFI miał 51,6 mln zł zysku netto j.d. wobec 36,1 mln zł rok wcześniej.",
       "content_html": "",
       "date_published": "2026-10-20T08:04:00+02:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Gieldy-w-USA-w-gore-inwestorzy-wrocili-do-sektora-technologicznego-9215063.html",
-      "url": "https://www.bankier.pl/wiadomosc/Gieldy-w-USA-w-gore-inwestorzy-wrocili-do-sektora-technologicznego-9215063.html",
-      "title": "Giełdy w USA w górę, inwestorzy wrócili do sektora technologicznego Poniedziałkowa sesja na Wall Street zakończyła się przewagą wzrostów głównych indeksów. Nasdaq zyskał ponad 1 proc., gdyż inwestorzy powrócili do sektora technologicznego po ubiegłotygodniowej panice związanej ze sztuczną inteligencją.",
-      "content_html": "",
-      "date_published": "2026-10-19T23:01:00+02:00",
       "source": "Bankier.pl"
     }
   ]
