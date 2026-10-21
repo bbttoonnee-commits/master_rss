@@ -5,6 +5,14 @@
   "home_page_url": "https://www.bankier.pl",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/SpaceX-w-gore-Netflix-w-dol-Wall-Street-zareagowala-na-wyniki-kwartalne-9216439.html",
+      "url": "https://www.bankier.pl/wiadomosc/SpaceX-w-gore-Netflix-w-dol-Wall-Street-zareagowala-na-wyniki-kwartalne-9216439.html",
+      "title": "SpaceX w górę, Netflix w dół. Wall Street zareagowała na wyniki kwartalne",
+      "content_html": "Główne indeksy ruszyły w górę, napędzane znakomitymi wynikami kwartalnymi SpaceX. Znacznie gorzej przyjęto jednak rezultaty Netfliksa.",
+      "date_published": "2026-10-21T22:06:00+02:00",
+      "source": "Bankier.pl"
+    },
+    {
       "id": "https://biznes.pap.pl/wiadomosci/ekonomia-biznes-i-finanse/skrot-wiadomosci-sroda-21-pazdziernika-2115",
       "url": "https://biznes.pap.pl/wiadomosci/ekonomia-biznes-i-finanse/skrot-wiadomosci-sroda-21-pazdziernika-2115",
       "title": "Skrót wiadomości - środa, 21 października, 21.15",
@@ -1085,14 +1093,6 @@
       "source": "Bankier.pl"
     },
     {
-      "id": "https://www.bankier.pl/wiadomosc/Koniec-eldorado-na-Airbnb-Z-rynku-moze-zniknac-co-czwarte-mieszkanie-9215845.html",
-      "url": "https://www.bankier.pl/wiadomosc/Koniec-eldorado-na-Airbnb-Z-rynku-moze-zniknac-co-czwarte-mieszkanie-9215845.html",
-      "title": "Koniec eldorado na Airbnb? Z rynku może zniknąć co czwarte mieszkanie",
-      "content_html": "Nowe prawo uderzy w najem krótkoterminowy. Od 2028 r. wspólnoty i gminy będą mogły zakazać takiej działalności, oferowanej m.in. przez serwis Airbnb. Eksperci ostrzegają: z rynku może zniknąć od 25 do nawet 50 proc. ofert. Właścicieli czekają...",
-      "date_published": "2026-10-21T07:19:00+02:00",
-      "source": "Bankier.pl"
-    },
-    {
       "id": "https://www.bankier.pl/wiadomosc/DM-BDM-obnizyl-cene-docelowa-dla-akcji-ATM-Grupa-do-5-10-zl-9215821.html",
       "url": "https://www.bankier.pl/wiadomosc/DM-BDM-obnizyl-cene-docelowa-dla-akcji-ATM-Grupa-do-5-10-zl-9215821.html",
       "title": "DM BDM obniżył cenę docelową dla akcji ATM Grupa do 5,10 zł Analitycy DM BDM, w raporcie z 20 października, obniżyli cenę docelową akcji ATM Grupa do 5,10 zł z 5,41 zł wcześniej, podtrzymując rekomendację \"kupuj\".",
@@ -1154,22 +1154,6 @@
       "title": "Ponad 160 proc. wzrostu. SpaceX rzuca na kolana analityków i generuje prawie 15 mld dol. przychodu Przychody należącego do Elona Muska SpaceX w trzecim kwartale wzrosły rok do roku o 161 proc., przebijając oczekiwania analityków. Akcje spółki idą w górę w handlu pozasesyjnym.",
       "content_html": "",
       "date_published": "2026-10-20T22:32:00+02:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Spadek-akcji-Netfliksa-o-ponad-4-proc-Dobry-zysk-nie-wystarczyl-inwestorom-9215759.html",
-      "url": "https://www.bankier.pl/wiadomosc/Spadek-akcji-Netfliksa-o-ponad-4-proc-Dobry-zysk-nie-wystarczyl-inwestorom-9215759.html",
-      "title": "Spadek akcji Netfliksa o ponad 4 proc. Dobry zysk nie wystarczył inwestorom Akcje Netfliksa spadają w handlu pozasesyjnym po publikacji przez spółkę wyników finansowych za trzeci kwartał 2026 roku. Spółka przebiła oczekiwania rynku na poziomie zysku na akcję, a przychody okazały się zgodne z konsensusem.",
-      "content_html": "",
-      "date_published": "2026-10-20T22:20:00+02:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Zwrot-na-Wall-Street-Zapowiadaly-sie-spadki-skonczylo-sie-na-zielono-9215755.html",
-      "url": "https://www.bankier.pl/wiadomosc/Zwrot-na-Wall-Street-Zapowiadaly-sie-spadki-skonczylo-sie-na-zielono-9215755.html",
-      "title": "Zwrot na Wall Street. Zapowiadały się spadki, skończyło się na zielono Choć wtorkowa sesja na nowojorskich giełdach zapowiadała się na spadkową, to inwestorom udało się wybronić indeksy przed pogłębieniem jesiennej mini-korekty. W centrum uwagi był raporty kwartalne spółek.",
-      "content_html": "",
-      "date_published": "2026-10-20T22:08:00+02:00",
       "source": "Bankier.pl"
     }
   ]
