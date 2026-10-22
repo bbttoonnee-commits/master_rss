@@ -5,6 +5,14 @@
   "home_page_url": "https://www.bankier.pl",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/Zima-zaskoczy-drogowcow-Placa-70-zl-netto-za-godzine-za-jazde-po-sniegu-9216620.html",
+      "url": "https://www.bankier.pl/wiadomosc/Zima-zaskoczy-drogowcow-Placa-70-zl-netto-za-godzine-za-jazde-po-sniegu-9216620.html",
+      "title": "Zima zaskoczy drogowców? Płacą 70 zł netto za godzinę za jazdę po śniegu",
+      "content_html": "70 zł za godzinę na rękę i jazda zimą pojazdem z kategorii C - tak zapowiada się praca kierowców pługosolanek i pługopiaskarek. Jak można przeczytać w ogłoszeniach o pracę, wymagana jest \"gotowość na zmiany zarówno w nocy, jak i weekendy\"...",
+      "date_published": "2026-10-22T14:00:00+02:00",
+      "source": "Bankier.pl"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Mentzen-Trzeba-ciac-wydatki-socjalne-9216739.html",
       "url": "https://www.bankier.pl/wiadomosc/Mentzen-Trzeba-ciac-wydatki-socjalne-9216739.html",
       "title": "Mentzen: Trzeba ciąć wydatki socjalne",
@@ -341,12 +349,36 @@
       "source": "Bankier.pl"
     },
     {
+      "id": "https://biznes.pap.pl/wiadomosci/firmy/medicalgorithmics-planuje-dwie-emisje-akcji-rozmawia-z-potencjalnym-inwestorem",
+      "url": "https://biznes.pap.pl/wiadomosci/firmy/medicalgorithmics-planuje-dwie-emisje-akcji-rozmawia-z-potencjalnym-inwestorem",
+      "title": "Medicalgorithmics planuje dwie emisje akcji; rozmawia z potencjalnym inwestorem notowanym w Azji",
+      "content_html": "Medicalgorithmics planuje podwyższenie kapitału poprzez dwie odrębne emisje akcji serii R i serii S, z których wpływy brutto mogą wynieść łącznie ok. 53,9 mln zł - poinformowała spółka w komunikacie. Spółka rozpoczęła rozmowy z potencjalnym inwestorem notowanym na jednej z największych azjatyckich giełd.\n\nEmisja akcji serii R, w trybie subskrypcji zamkniętej z zachowaniem prawa poboru dotychczasowych akcjonariuszy, ma objąć nie więcej niż 1.045.339 akcji po cenie emisyjnej 20 zł za akcję. Proponowanym dniem prawa poboru jest 30 listopada 2026 r. W przypadku objęcia wszystkich akcji serii R wpływy brutto z emisji wyniosą około 20,9 mln zł.\n\nEmisja akcji serii S, w trybie subskrypcji prywatnej, z pozbawieniem dotychczasowych akcjonariuszy prawa poboru w całości, obejmie nie więcej niż 1.000.000 akcji po cenie emisyjnej ustalonej przez zarząd, nie niższej niż 33,00 zł za jedną akcję. W przypadku objęcia wszystkich akcji serii S po minimalnej cenie emisyjnej wpływy brutto z emisji wyniosą co najmniej 33,0 mln zł.\n\nPrzeprowadzenie obu emisji wymaga podjęcia uchwał przez NWZ.\n\nEmisja akcji serii S jest związana z rozmowami prowadzonymi przez spółkę z inwestorem - spółką notowaną na giełdzie papierów wartościowych w Azji, który wyraził zainteresowanie objęciem akcji.\n\nRozmowy z inwestorem mają charakter wstępny.\n\n\"Zidentyfikowaliśmy zainteresowanie inwestycją o charakterze strategicznym ze strony wiodącego azjatyckiego gracza z branży medtech, specjalizującego się w kardiologii i notowanego na jednej z największych giełd w Azji. Potencjalny inwestor jest zainteresowany objęciem znaczącego pakietu akcji, a planowana emisja może być dopiero pierwszym krokiem w ramach strategicznej inwestycji. Co ważne, emisja skierowana do inwestora będzie zrealizowana po cenie nie niższej niż 33 zł za akcję, a więc istotnie wyższej niż obecny kurs\" – powiedział, cytowany w komunikacie prasowym, prezes Kris Siemionow.\n\nŚrodki pozyskane z obu emisji zostaną przeznaczone na finansowanie działalności operacyjnej i planów rozwojowych spółki, w tym rozwój i komercjalizację produktów, ekspansję na rynkach zagranicznych oraz wzmocnienie kapitału obrotowego. (PAP Biznes)",
+      "date_published": "2026-10-22T09:10:00+02:00",
+      "source": "PAP Biznes"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/rynki/najwazniejsze-indeksy-gieldowe-w-azji-828",
+      "url": "https://biznes.pap.pl/wiadomosci/rynki/najwazniejsze-indeksy-gieldowe-w-azji-828",
+      "title": "Najważniejsze indeksy giełdowe w Azji",
+      "content_html": "Poniżej aktualne indeksy wybranych giełd w Azji:\n\nIndeks Nikkei 225 zamyka się o 8.30 czasu polskiego, KOSPI o 8.05, Shanghai Composite Index o 9.00, Hang Seng o 10.00, a Sensex o 12.45.",
+      "date_published": "2026-10-22T08:55:00+02:00",
+      "source": "PAP Biznes"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Trigon-DM-obnizyl-cene-docelowa-akcji-Dadelo-do-102-zl-a-rekomendacje-do-trzymaj-9216561.html",
       "url": "https://www.bankier.pl/wiadomosc/Trigon-DM-obnizyl-cene-docelowa-akcji-Dadelo-do-102-zl-a-rekomendacje-do-trzymaj-9216561.html",
       "title": "Trigon DM obniżył cenę docelową akcji Dadelo do 102 zł",
       "content_html": "Analitycy Trigon DM w raporcie z 22 października obniżyli cenę docelową akcji Dadelo do 102 zł z 105 zł wcześniej, a rekomendację do \"trzymaj\" z \"kupuj\".",
       "date_published": "2026-10-22T08:40:00+02:00",
       "source": "Bankier.pl"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/firmy/trigon-dm-obnizyl-cene-docelowa-akcji-dadelo-do-102-zl-rekomendacje-do-trzymaj",
+      "url": "https://biznes.pap.pl/wiadomosci/firmy/trigon-dm-obnizyl-cene-docelowa-akcji-dadelo-do-102-zl-rekomendacje-do-trzymaj",
+      "title": "Trigon DM obniżył cenę docelową akcji Dadelo do 102 zł, a rekomendację do \"trzymaj\"",
+      "content_html": "Analitycy Trigon DM w raporcie z 22 października obniżyli cenę docelową akcji Dadelo do 102 zł z 105 zł wcześniej, a rekomendację do \"trzymaj\" z \"kupuj\".\n\nRaport wydano przy kursie akcji spółki 97 zł.\n\n\"Dadelo nadal dynamicznie zwiększa udziały rynkowe dzięki rozbudowie sieci salonów, szerokiemu asortymentowi i poprawiającej się pozycji zakupowej. Wzrost ten nie wymaga agresywnej polityki cenowej, a dobra odsprzedaż kolekcji wspiera marżę brutto\" - napisano w raporcie.\n\nZdaniem analityków, szybsza ekspansja zwiększa jednak bazę kosztów stałych, szczególnie odczuwalnych w sezonowo słabszych kwartałach, co skłania ich do obniżenia krótkoterminowych prognoz zysków.\n\n\"Podtrzymujemy pozytywną ocenę długoterminowych perspektyw, jednak po wzroście kursu potencjał rozwoju jest już w dużej mierze uwzględniony w wycenie\" - dodano.\n\nDepesza jest skrótem raportu Trigon DM wydanego w ramach Giełdowego Programu Wsparcia Pokrycia Analitycznego. Autorem raportu jest Grzegorz Kujawski. Pierwsze rozpowszechnienie nastąpiło 21 października o godzinie 18.00.\n\nW załączniku znajduje się pełna wersja raportu z wymaganymi zastrzeżeniami prawnymi. (PAP Biznes)",
+      "date_published": "2026-10-22T08:39:00+02:00",
+      "source": "PAP Biznes"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Nikt-nie-chce-Browaru-Tenczynek-Fatalne-wiesci-dla-1-4-tys-wierzycieli-Janusza-Palikota-9216540.html",
@@ -797,14 +829,6 @@
       "source": "PAP Biznes"
     },
     {
-      "id": "https://biznes.pap.pl/wiadomosci/firmy/kwartalne-wyniki-tesli-powyzej-oczekiwan",
-      "url": "https://biznes.pap.pl/wiadomosci/firmy/kwartalne-wyniki-tesli-powyzej-oczekiwan",
-      "title": "Kwartalne wyniki Tesli powyżej oczekiwań",
-      "content_html": "Przychody i zyski koncernu motoryzacyjnego Tesla w trzecim kwartale 2026 roku okazały się lepsze od oczekiwań analityków. Po publikacji wyników akcje Tesli rosną w handlu pozasesyjnym ponad 1 proc.\n\nZysk Tesli na akcję w trzecim kwartale wyniósł 48 centów po uwzględnieniu zmian w porównaniu z szacowanymi 43 centami.\n\nPrzychody koncernu sięgnęły 28,05 mld USD w porównaniu z szacowanymi przez analityków 27,9 mld USD.\n\nPrzychody Tesli w głównej działalności motoryzacyjnej spadły w trzecim kwartale o 3 proc. w porównaniu z rokiem poprzednim, osiągając 20,56 miliardów dolarów.\n\nPrzychody z energii spadły o 16 proc. do 2,88 miliarda dolarów.\n\nDzień wcześniej Elon Musk poinformował inwestorów po publikacji wyników kwartalnych SpaceX, że „dobrym pomysłem” byłoby połączenie jego dwóch firm SpaceX i Tesli i dodał, że zarządy obu firm powołały specjalne komisje w celu omówienia ewentualnego połączenia.\n\n„Czuję się, jakbym stepował na polu minowym” – powiedział Musk w rozmowie, odpowiadając na pytanie o potencjalną fuzję.\n\n„Czy uważam, że to dobry pomysł? Tak” – powiedział Musk. „Ale ostatecznie akcjonariusze muszą to poprzeć”.\n\nZe strony Tesli oznacza to konieczność uzyskania 50 proc. głosów ze wszystkich akcji, co jest „dość wysokim progiem” – dodał. (PAP Biznes)",
-      "date_published": "2026-10-21T22:21:00+02:00",
-      "source": "PAP Biznes"
-    },
-    {
       "id": "https://www.bankier.pl/wiadomosc/SpaceX-w-gore-Netflix-w-dol-Wall-Street-zareagowala-na-wyniki-kwartalne-9216439.html",
       "url": "https://www.bankier.pl/wiadomosc/SpaceX-w-gore-Netflix-w-dol-Wall-Street-zareagowala-na-wyniki-kwartalne-9216439.html",
       "title": "SpaceX w górę, Netflix w dół. Wall Street zareagowała na wyniki kwartalne",
@@ -813,28 +837,12 @@
       "source": "Bankier.pl"
     },
     {
-      "id": "https://biznes.pap.pl/wiadomosci/rynki/dzien-na-rynkach-gieldy-w-usa-w-gore-w-centrum-uwagi-mozliwa-fuzja-spacex-i-tesli",
-      "url": "https://biznes.pap.pl/wiadomosci/rynki/dzien-na-rynkach-gieldy-w-usa-w-gore-w-centrum-uwagi-mozliwa-fuzja-spacex-i-tesli",
-      "title": "DZIEŃ NA RYNKACH: Giełdy w USA w górę, w centrum uwagi możliwa fuzja SpaceX i Tesli.",
-      "content_html": "Giełdowe indeksy wzrosły w środę na koniec dnia w reakcji na zapowiedzi potencjalnej fuzji dwóch spółek należących do Elona Muska, czy SpaceX i Tesli. Skłoniło to część inwestorów do ponownego zainteresowania się spółkami technologicznymi. S&P 500 zwyżkował trzecią sesję z rzędu.\n\nDow Jones Industrial na zamknięciu wzrósł o 0,69 proc. i wyniósł 52.857,04 pkt.\n\nS&P 500 na koniec dnia wzrósł o 0,58 proc. i wyniósł 7.757,17 pkt.\n\nNasdaq Composite zwyżkował o 1,05 proc. do 26.702,86 pkt.\n\nIndeks spółek o średniej kapitalizacji Russell 2000 rośnie o 0,35 proc. i wynosi 2.783,26 pkt.\n\nIndeks VIX spadł o 3,81 proc., do 16,65 pkt.\n\nInwestorzy oceniają wyniki spółek za III kw. SpaceX rośnie o 9 proc. po tym, jak we wtorek Elon Musk powiedział, że fuzja SpaceX i Tesli byłaby dobrym pomysłem. SpaceX odnotowało również swój pierwszy zysk jako spółka publiczna. Akcje Tesli zyskują 1,5 proc.\n\n\"Istnieje potencjał znacznych zysków w obszarze sztucznej inteligencji. Infrastruktura dla AI jest kapitałochłonna, a SpaceX dysponuje większymi zasobami niż wiele mniejszych firm. Jeśli presja w sektorze AI wzrośnie, SpaceX mogłoby przejąć infrastrukturę od mniejszych konkurentów” – powiedziała Ipek Ozkardeskaya, starsza analityczka w Swissquote.\n\nOzkardeskaya dodała, że fuzja z Teslą mogłaby być dobrym rozwiązaniem, o ile obie firmy zdołają udowodnić, że synergie przynoszą wartość każdej z nich.\n\nZaznaczyła jednak, że inwestorzy mogliby odrzucić taki pomysł, jeśli dla Tesli korzystniejsze byłoby poszukiwanie synergii w dziedzinie AI z innymi podmiotami.\n\n\"Wygląda na to, że SpaceX dostarczyło dokładnie to, czego oczekiwał rynek: dowód na to, że popyt związany ze sztuczną inteligencją jest jak najbardziej realny. Poprawiło to nastroje nie tylko wobec samego SpaceX, ale także wobec całego ekosystemu sztucznej inteligencji” – powiedział Simon Wiersma, główny strateg inwestycyjny w ING.\n\nAkcje Super Micro Computer wzrosły ponad 10 proc. po tym, jak producent serwerów dla sztucznej inteligencji przedstawił prognozy kwartalnych przychodów i marży zysku przewyższające szacunki Wall Street, co stanowi sygnał, że popyt na rozwiązania z zakresu AI pozostaje silny.\n\nNotowania konkurencyjnych spółek, HPE oraz Dell, zyskały odpowiednio 4 proc. i 6 proc.\n\n\"Inwestorzy są z natury istotami dwubiegunowymi, przynajmniej jeśli chodzi o ich nastroje. Solidne wyniki finansowe oraz konstruktywne prognozy, takie, jakie zaprezentowały SpaceX i Super Micro, są z pewnością dokładnie tym lekarstwem, którego rynek potrzebuje” – powiedział Stephan Kemper z BNP Paribas Wealth Management.\n\n„SpaceX sugeruje, że droga do sukcesu jest jeszcze dłuższa, ale to podstawowe napięcie, czy też doświadczenie nadmiernego entuzjazmu i nadmiernej kapitalizacji, moim zdaniem się nie zmieniło” – powiedział Joe Zidle, główny strateg rynkowy w Cresset.\n\nObawy dotyczące stabilności branży AI wpłynęły ostatnio na nastroje rynkowe, ponieważ inwestorzy koncentrowali się na inwestycjach w AI zabezpieczonych długiem oraz na tym, czy popyt na infrastrukturę uzasadnia wydatki firm.\n\nJoe Zidle przewiduje jednak, że bieżący okres sprawozdawczy pokaże, że wiele firm związanych z AI nadal odnotowuje wzrost popytu.\n\n„Myślę, że gdy pod koniec sezonu wyników finansowych spojrzymy wstecz, SpaceX nie będzie wyjątkiem ani fenomenem. To będzie coś, co stanie się, moim zdaniem, bardziej powszechne w tym sektorze” – powiedział.\n\nJak podaje „The Wall Street Journal”, powołując się na projekt prospektu emisyjnego (IPO), firma Anthropic może w nadchodzących latach wydać 750 mld USD na dodatkową moc obliczeniową. Z kolei ambicja Elona Muska, by do końca 2027 roku uruchomić moc obliczeniową rzędu 10 GW, będzie – według szacunków Mike’a O’Rourke’a z firmy Jonestrading – kosztować około 500 mld USD.\n\nAkcje Netfliksa spadły ponad 5 proc. po tym, jak gigant streamingowy przedstawił prognozę zysku na czwarty kwartał, która okazała się słabsza od oczekiwań, zaledwie kilka dni po zwolnieniu 6 proc. pracowników firmy.\n\nAkcje AT&T sp",
-      "date_published": "2026-10-21T22:06:00+02:00",
-      "source": "PAP Biznes"
-    },
-    {
       "id": "https://www.bankier.pl/wiadomosc/Atak-drona-na-pole-naftowe-w-Arabii-Saudyjskiej-Sa-ofiary-smiertelne-9216438.html",
       "url": "https://www.bankier.pl/wiadomosc/Atak-drona-na-pole-naftowe-w-Arabii-Saudyjskiej-Sa-ofiary-smiertelne-9216438.html",
       "title": "Atak drona na pole naftowe w Arabii Saudyjskiej. Są ofiary śmiertelne",
       "content_html": "Dwie osoby zginęły i dwie zostały ranne w wyniku ataku dronowego na pole naftowe Shaybah we wschodniej części Arabii Saudyjskiej – poinformowała w środę państwowa agencja informacyjna, powołując się przedstawiciela saudyjskiego ministerstwa...",
       "date_published": "2026-10-21T21:58:00+02:00",
       "source": "Bankier.pl"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/ekonomia-biznes-i-finanse/skrot-wiadomosci-sroda-21-pazdziernika-2115",
-      "url": "https://biznes.pap.pl/wiadomosci/ekonomia-biznes-i-finanse/skrot-wiadomosci-sroda-21-pazdziernika-2115",
-      "title": "Skrót wiadomości - środa, 21 października, 21.15",
-      "content_html": "Przegląd najważniejszych wiadomości gospodarczych, krajowych i ze świata.\n\nPaździernikowe badania Głównego Urzędu Statystycznego wskazują na przesunięcie oczekiwań w Polsce w kierunku niższej inflacji - wynika z danych GUS.\n\nW październiku 2026 r. odnotowano pogorszenie nastrojów konsumenckich dotyczących zarówno obecnej, jak i przyszłej sytuacji, w stosunku do poprzedniego miesiąca - podał Główny Urząd Statystyczny.\n\nGUS zrewidował dane o deficycie sektora rządowego i samorządowego w 2025 do 7,2 proc. z 7,3 proc. z kwietniowej notyfikacji - podał GUS.\n\nPrzewidywane na okres najbliższych 12 miesięcy obciążenie Polski spłatą zobowiązań zaciągniętych przez rząd na koniec września wyniosło 5.878 mln euro wobec 5.823 mln euro miesiąc wcześniej - wynika z danych Narodowego Banku Polskiego.\n\nCeny konsumpcyjne w Wielkiej Brytanii we wrześniu w ujęciu rdr wzrosły o 3,5 proc. - podał w komunikacie urząd statystyczny. Analitycy spodziewali się wzrostu o 3,4 proc. wobec +3,1 proc. miesiąc wcześniej.\n\nW USA zanotowano spadek indeksu wniosków o kredyt hipoteczny MBA - indeks wyrównany sezonowo spadł o 5,3 proc. w tygodniu zakończonym 16 października - podało w komunikacie Stowarzyszenie Banków Hipotecznych (MBA).\n\nDeficyt sektora instytucji rządowych i samorządowych w Polsce w 2026 roku spadnie do 7,06 proc. PKB z 7,2 proc. w 2025 roku - wynika z wyliczeń PAP Biznes na podstawie notyfikacji fiskalnej Polski, którą przedstawił Eurostat.\n\nPolski dług publiczny, liczony według metodologii ESA2010, na koniec II kwartału wyniósł 64,5 proc. PKB wobec 61,6 proc. PKB w I kw. 2026 r. i wobec 57,8 proc. PKB w II kwartale 2025 r. - podał Eurostat.\n\nParlament Europejski przyjmie w czwartek rezolucję ws. wschodnich regionów przygranicznych UE i wezwie w niej do stworzenia dla tych obszarów osobnych mechanizmów finansowania w nowym budżecie unijnym. Według autora rezolucji, europosła KO Jacka Protasa PE zyska narzędzie nacisku na Komisję Europejską.\n\nAuto Partner rozgląda się za kolejnymi lokalizacjami pod nowe centra dystrybucyjne i zakłada, że będzie otwierać takie obiekty co kilkanaście-kilkadziesiąt miesięcy – poinformował PAP Biznes wiceprezes spółki Piotr Janta. Spółka nie spodziewa się zaskoczeń, jeśli chodzi o rentowności i wyniki za III kw. 2026 r.\n\nGrupa PZU otrzymała zgodę Antymonopolowego Komitetu Ukrainy (AMKU) na przejęcie 100 proc. akcji MetLife Ukraina. Decyzja ta pozwala przejść do kolejnego etapu, w tym do uzyskania akceptacji Narodowego Banku Ukrainy - poinformowało PZU w komunikacie prasowym.\n\nAtlas, wspólna inicjatywa Orlen Upstream Norway, Aker BP i Höegh Evi, otrzyma 223 mln euro z Funduszu Innowacyjnego Unii Europejskiej - podał Orlen w komunikacie prasowym. Wsparcie posłuży do uruchomienia sieci transportu i magazynowania dwutlenku węgla na Norweskim Szelfie Kontynentalnym.\n\nIbex sprzedał ok. 32,3 mln akcji spółki Pepco Group po cenie 44 zł za papier - podało Pepco w komunikacie. Akcje plasowane stanowią ok. 6,3 proc. akcji Pepco pozostających w obrocie, co odpowiada ok. 9,6 proc. akcji posiadanych przez IBEX przed plasowaniem.\n\nPrzychody netto z komercjalizacji gry \"Valor Mortis\" przekroczyły koszty jej produkcji, sprzedaży oraz marketingu, uwzględniane w rozliczeniach na podstawie umowy wydawniczej - podała w komunikacie spółka One More Level, powołując się na wstępne dane sprzedażowe od współwydawcy gry.\n\nDwa wnioski Celon Pharmy o dofinansowanie projektów, złożone w ramach ogłoszonego przez Agencję Badań Medycznych konkursu zostały zarekomendowane do dofinansowania - podała spółka w komunikacie.\n\nOferta Elektrotimu o wartości 254,4 mln zł netto została wybrana jako najkorzystniejsza w postępowaniu PGE Energia Odnawialna pn.: \"Dostawa Jednostek Magazynowych oraz Stacji Transformatorowych SN/nN dla Magazynów Energii MEE Lotnisko, MEE Ścieki, MEE Wojciechowo, MEE Pelplin\" - podał Elektrotim w komunikacie.\n\nOferta konsorcjum Mirbudu i jej spółki zależnej Kobylarnii za 507,6 mln zł brutto została wybrana jako najkorzystniejsza w ",
-      "date_published": "2026-10-21T21:17:00+02:00",
-      "source": "PAP Biznes"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Lwow-zaskoczyl-Kijow-Decyzje-w-sprawie-UPA-i-Szuchewycza-maja-zostac-zablokowane-9216402.html",
@@ -1069,35 +1077,19 @@
       "source": "Bankier.pl"
     },
     {
-      "id": "https://www.bankier.pl/wiadomosc/Wojna-o-awans-Domanskiego-Tusk-ostrzega-Nawrockiego-przed-lamaniem-konstytucji-9216175.html",
-      "url": "https://www.bankier.pl/wiadomosc/Wojna-o-awans-Domanskiego-Tusk-ostrzega-Nawrockiego-przed-lamaniem-konstytucji-9216175.html",
-      "title": "Wojna o awans Domańskiego. Tusk ostrzega Nawrockiego przed „łamaniem konstytucji”",
-      "content_html": "Wicepremier i minister cyfryzacji Krzysztof Gawkowski (Nowa Lewica) powiedział, że zdziwiłby się, gdyby prezydent Karol Nawrocki chciał blokować nominację Andrzeja Domańskiego na wicepremiera. Premier ma prawo „meblować” swój rząd,...",
-      "date_published": "2026-10-21T14:48:00+02:00",
-      "source": "Bankier.pl"
-    },
-    {
       "id": "https://www.bankier.pl/wiadomosc/Archicom-chce-wyplacic-1-63-zl-na-akcje-zaliczki-na-poczet-dywidendy-za-26-9216166.html",
       "url": "https://www.bankier.pl/wiadomosc/Archicom-chce-wyplacic-1-63-zl-na-akcje-zaliczki-na-poczet-dywidendy-za-26-9216166.html",
-      "title": "Archicom chce wypłacić 1,63 zł na akcję zaliczki na poczet dywidendy za '26",
-      "content_html": "Archicom chce warunkowo wypłacić 1,63 zł na akcję zaliczki na poczet przewidywanej dywidendy za rok obrotowy 2026 - poinformowała spółka w komunikacie. Warunkiem wypłaty zaliczki jest uzyskanie zgody rady nadzorczej spółki do dnia wypłaty zaliczki...",
+      "title": "Archicom chce wypłacić 1,63 zł na akcję zaliczki na poczet dywidendy za '26 Archicom chce warunkowo wypłacić 1,63 zł na akcję zaliczki na poczet przewidywanej dywidendy za rok obrotowy 2026 - poinformowała spółka w komunikacie. Warunkiem wypłaty zaliczki jest uzyskanie zgody rady nadzorczej spółki do dnia wypłaty zaliczki.",
+      "content_html": "",
       "date_published": "2026-10-21T14:38:00+02:00",
       "source": "Bankier.pl"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Norweski-projekt-Orlenu-dostal-unijne-dofinansowanie-w-wys-223-mln-euro-9216158.html",
       "url": "https://www.bankier.pl/wiadomosc/Norweski-projekt-Orlenu-dostal-unijne-dofinansowanie-w-wys-223-mln-euro-9216158.html",
-      "title": "Norweski projekt Orlenu dostał unijne dofinansowanie w wys. 223 mln euro",
-      "content_html": "Atlas, wspólna inicjatywa Orlen Upstream Norway, Aker BP i Höegh Evi, otrzyma 223 mln euro z Funduszu Innowacyjnego Unii Europejskiej - podał Orlen w komunikacie prasowym. Wsparcie posłuży do uruchomienia sieci transportu i magazynowania dwutlenku...",
-      "date_published": "2026-10-21T14:28:00+02:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/NBP-oficjalnie-potwierdza-wrzesniowe-zakupy-zlota-9216137.html",
-      "url": "https://www.bankier.pl/wiadomosc/NBP-oficjalnie-potwierdza-wrzesniowe-zakupy-zlota-9216137.html",
-      "title": "700 ton coraz bliżej. NBP oficjalnie potwierdza wrześniowe zakupy złota Narodowy Bank Polski we wrześniu dokonał sporych zakupów złota i szybko zmierzał w stronę zadeklarowanego celu 700 ton królewskiego metalu.",
+      "title": "Norweski projekt Orlenu dostał unijne dofinansowanie w wys. 223 mln euro Atlas, wspólna inicjatywa Orlen Upstream Norway, Aker BP i Höegh Evi, otrzyma 223 mln euro z Funduszu Innowacyjnego Unii Europejskiej - podał Orlen w komunikacie prasowym. Wsparcie posłuży do uruchomienia sieci transportu i magazynowania dwutlenku węgla na Norweskim Szelfie Kontynentalnym.",
       "content_html": "",
-      "date_published": "2026-10-21T14:08:00+02:00",
+      "date_published": "2026-10-21T14:28:00+02:00",
       "source": "Bankier.pl"
     }
   ]
