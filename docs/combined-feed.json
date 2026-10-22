@@ -5,12 +5,60 @@
   "home_page_url": "https://www.bankier.pl",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/Mentzen-Trzeba-ciac-wydatki-socjalne-9216739.html",
+      "url": "https://www.bankier.pl/wiadomosc/Mentzen-Trzeba-ciac-wydatki-socjalne-9216739.html",
+      "title": "Mentzen: Trzeba ciąć wydatki socjalne",
+      "content_html": "Wicepremier Radosław Sikorski (KO) uważa, że zadłużenie Polski na tle UE nie jest wielkie i wynika m.in. z wydatków na obronność. Wicemarszałek Sejmu Marcin Horała (Rozwój Plus) ocenił, że stan finansów publicznych jest katastrofalny...",
+      "date_published": "2026-10-22T13:52:00+02:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/firmy/reakcja-na-wykrycie-luki-w-php-dobra-potrzebne-inwestycje-min-w-ai-do",
+      "url": "https://biznes.pap.pl/wiadomosci/firmy/reakcja-na-wykrycie-luki-w-php-dobra-potrzebne-inwestycje-min-w-ai-do",
+      "title": "Reakcja na wykrycie luki w PHP dobra; potrzebne inwestycje m.in. w AI do zabezpieczenia systemu - Kanownik, ZCP",
+      "content_html": "Reakcja na wykrycie podatności w systemach PHP była dobra, a ważną kwestią jest również fakt, że zostały one wykryte przy użyciu sztucznej inteligencji - poinformował PAP Biznes prezes Związku Cyfrowa Polska, Michał Kanownik. Dodał, że do bezpiecznej kontroli tego typu systemów niezbędne są inwestycje w wyspecjalizowaną w tym celu sztuczną inteligencję.\n\n\"Podatności PHP pokazują skalę problemu, gdyż tak naprawdę ten instrument napędza absolutną większość stron internetowych na całym świecie, łącznie ze stronami urzędów publicznych. Cieszy szybka reakcja urzędów centralnych poprzez wyłączanie odpowiednich stron internetowych, w celu minimalizowania ryzyko wykorzystania tej luki przez przestępców, z drugiej strony szybkie wypuszczenie nakładki, która łatała tę lukę w systemie bezpieczeństwa\" - powiedział PAP Biznes prezes Zawiązku Cyfrowa Polska, Michał Kanownik.\n\nKanownik wskazał również, że w całej sytuacji ważnym jest, że to właśnie AI pomogło wykryć tę lukę, jednocześnie szybko przygotowując odpowiednie narzędzia przeciwdziałające lukom bezpieczeństwa, które zostały wykryte i ogłoszone.\n\n\"Z globalnego punktu widzenia, to jest po prostu pierwsza taka sytuacja, w której taką lukę wykryto. Naszym zdaniem aktualnie jedynym rozwiązaniem jest inwestowanie zarówno przez rynek, jak i państwa w narzędzia, które będą na bieżąco monitorowały przy użyciu AI\" - powiedział.\n\n\"Im szybciej będziemy wykrywali wszelkie luki bezpieczeństwa i szybciej reagowali, tym lepiej. To jest naprawdę jedyne dzisiaj dostępne i skuteczne rozwiązanie, które może w przyszłości minimalizować negatywne skutki potencjalnych kolejnych luk w systemach\" - dodał.\n\nW środę Amerykańska Agencja Bezpieczeństwa Narodowego ostrzegła wszystkie podmioty korzystające z języka programowania PHP, aby natychmiast zaktualizowały swoje systemy lub wyłączyły je z działania. Jak powód rekomendacji wskazano wykryte przez sztuczną inteligencję dwa poważne błędy w oprogramowaniu używanym w większości stron internetowych na całym świecie.\n\nW czwartek rano we wpisie na platformie X wicepremier, minister cyfryzacji Krzysztof Gawkowski wskazał, że w tej sprawie odbyło się spotkanie Połączonego Centrum Operacyjnego Cyberbezpieczeństwa i został przygotowany plan działań, który obecnie jest wdrażany.\n\n\"Centralny Ośrodek Informatyki, podjął decyzję o czasowym wyłączeniu stron Biuletynu Informacji Publicznej (BIP) działających w Systemie Scentralizowanego Dostępu do Informacji Publicznej (SSDIP). To system umożliwiający instytucjom publicznym prowadzenie stron Biuletynu Informacji Publicznej (BIP)\" - napisał Gawkowski.\n\n\"Czasowa niedostępność dotyczy wyłącznie stron działających w serwisie ssdip.bip.gov.pl, a nie wszystkich stron BIP w Polsce. Czasowe wyłączenie serwisu pozwoli wprowadzić niezbędne zabezpieczenia i zadbać o jego bezpieczne działanie\" - wskazał wicepremier.\n\nW ramach środków ostrożności swoje strony internetowe wyłączyły m.in. agencje rządowe i instytucje publiczne w Niemczech, Holandii, Belgii, Finlandii i we Francji. W Holandii swoją stronę internetową wyłączyło samo Krajowe Centrum Cyberbezpieczeństwa (NCSC).",
+      "date_published": "2026-10-22T13:37:00+02:00",
+      "source": "PAP Biznes"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Orlen-SGE-i-OSGE-zawarly-porozumienie-dot-wspolpracy-przy-programie-SMR-BWRX-300-9216751.html",
+      "url": "https://www.bankier.pl/wiadomosc/Orlen-SGE-i-OSGE-zawarly-porozumienie-dot-wspolpracy-przy-programie-SMR-BWRX-300-9216751.html",
+      "title": "Orlen i Synthos uzgodniły zasady współpracy przy SMR",
+      "content_html": "Orlen, SGE oraz Orlen Synthos Green Energy (OSGE) zawarły Porozumienie Parasolowe, które określa ramy dalszej współpracy przy rozwoju małych reaktorów jądrowych w technologii BWRX-300 - poinformował OSGE w komunikacie prasowym.",
+      "date_published": "2026-10-22T13:36:00+02:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/firmy/orlen-sge-i-osge-zawarly-porozumienie-dot-wspolpracy-przy-programie-smr-bwrx-300",
+      "url": "https://biznes.pap.pl/wiadomosci/firmy/orlen-sge-i-osge-zawarly-porozumienie-dot-wspolpracy-przy-programie-smr-bwrx-300",
+      "title": "Orlen, SGE i OSGE zawarły porozumienie dot. współpracy przy programie SMR BWRX-300",
+      "content_html": "Orlen, SGE oraz Orlen Synthos Green Energy (OSGE) zawarły Porozumienie Parasolowe, które określa ramy dalszej współpracy przy rozwoju małych reaktorów jądrowych w technologii BWRX-300 - poinformował OSGE w komunikacie prasowym.\n\nPorozumienie przewiduje, że projekt elektrowni we Włocławku będzie realizowany etapami przez spółkę celową BWRX-300 Włocławek sp. z o.o., kontrolowaną przez Orlen.\n\nPodano, że dla każdego etapu zostaną określone harmonogram, budżet i zakres prac, a finansowanie kolejnych etapów będzie powiązane z realizacją wcześniejszych założeń.\n\n\"Dzięki temu Orlen, jako inwestor wiodący w tej lokalizacji, będzie odpowiadał za realizację projektu przy zachowaniu pełnej transparentności oraz wykorzystaniu kompetencji SGE w podejściu flotowym. Orlen uzyska również bezpośrednie prawa licencyjne do technologii BWRX-300\" - napisano w komunikacie.\n\nKolejne kroki to rozpoczęcie badań środowiskowych i lokalizacyjnych, prace nad modelem wsparcia z Ministerstwem Energii oraz przygotowanie i złożenie wniosku o zezwolenie na budowę do Państwowej Agencji Atomistyki.\n\n\"Strony wyrażają wolę, aby jeszcze w tym roku Porozumienie Parasolowe zostało uzupełnione o szczegółowe zapisy w umowach wykonawczych, i dołożą wspólnych starań, by ten cel osiągnąć\" - napisano w komunikacie.\n\nPierwszy blok BWRX-300 we Włocławku ma zostać uruchomiony w połowie lat 30. OSGE dysponuje decyzjami zasadniczymi dla 24 bloków w sześciu lokalizacjach. Strategia Orlenu zakłada co najmniej dwa bloki SMR do 2035 r. jako stabilne źródło energii dla zakładów w Płocku i Włocławku. (PAP Biznes)",
+      "date_published": "2026-10-22T13:35:00+02:00",
+      "source": "PAP Biznes"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/W-Wielbarku-otwarto-jednostke-wojskowa-Na-wyposazeniu-m-in-wyrzutnie-rakiet-Homar-K-9216729.html",
+      "url": "https://www.bankier.pl/wiadomosc/W-Wielbarku-otwarto-jednostke-wojskowa-Na-wyposazeniu-m-in-wyrzutnie-rakiet-Homar-K-9216729.html",
+      "title": "W Wielbarku otwarto jednostkę wojskową. Na wyposażeniu m.in. wyrzutnie rakiet Homar-K",
+      "content_html": "W Wielbarku otwarto 2. Brygadę Artylerii Legionów, która będzie miała swoje jednostki także w Iławie i Suszu. Na wyposażeniu tej brygady są już wyrzutnie Homar-K, a będą także m.in. haubice samobieżne K9.",
+      "date_published": "2026-10-22T13:27:00+02:00",
+      "source": "Bankier.pl"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Parlament-Europejski-stawia-sie-Waszyngtonowi-Nagroda-Sacharowa-dla-MTK-9216703.html",
       "url": "https://www.bankier.pl/wiadomosc/Parlament-Europejski-stawia-sie-Waszyngtonowi-Nagroda-Sacharowa-dla-MTK-9216703.html",
       "title": "Parlament Europejski stawia się Waszyngtonowi. Nagroda Sacharowa dla MTK",
       "content_html": "Międzynarodowy Trybunał Karny i jego przedstawiciele otrzymali Nagrodę im. Sacharowa Parlamentu Europejskiego. Taką decyzję podjęli w czwartek szefowie grup politycznych w PE i jego przewodnicząca Roberta Metsola. Kandydaturę zgłosili socjaldemokraci...",
       "date_published": "2026-10-22T13:19:00+02:00",
       "source": "Bankier.pl"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/firmy/przywrocenie-mozliwosci-przegladania-stron-ssdipbipgovpl-planowane-po-godz-1600",
+      "url": "https://biznes.pap.pl/wiadomosci/firmy/przywrocenie-mozliwosci-przegladania-stron-ssdipbipgovpl-planowane-po-godz-1600",
+      "title": "Przywrócenie możliwości przeglądania stron ssdip.bip.gov.pl planowane po godz. 16.00",
+      "content_html": "22 października, po godz. 16:00 planowane jest przywrócenie możliwości przeglądania wcześniej opublikowanych informacji na stronach dostępnych w serwisie ssdip.bip.gov.pl - podano w komunikacie na stornach gov.pl.\n\n\"Rozpoczynamy stopniowe przywracanie dostępności stron Biuletynu Informacji Publicznej (BIP) działających w systemie SSDIP. Dzisiaj, 22 października, po godz. 16:00 planujemy przywrócić możliwość przeglądania wcześniej opublikowanych informacji na stronach dostępnych w serwisie ssdip.bip.gov.pl. Na tym etapie niedostępne pozostaną niektóre funkcje wyszukiwania informacji i część redakcyjna. Dostępność przywracamy etapami, aby zapewnić bezpieczne działanie systemu. O przywróceniu pozostałych funkcji poinformujemy w osobnym komunikacie\" - napisano.\n\nW środę Amerykańska Agencja Bezpieczeństwa Narodowego ostrzegła wszystkie podmioty korzystające z języka programowania PHP, aby natychmiast zaktualizowały swoje systemy lub wyłączyły je z działania. Jak powód rekomendacji wskazano wykryte przez sztuczną inteligencję dwa poważne błędy w oprogramowaniu używanym w większości stron internetowych na całym świecie.\n\nW czwartek rano we wpisie na platformie X wicepremier, minister cyfryzacji Krzysztof Gawkowski wskazał, że w tej sprawie odbyło się spotkanie Połączonego Centrum Operacyjnego Cyberbezpieczeństwa i został przygotowany plan działań, który obecnie jest wdrażany.\n\nCentralny Ośrodek Informatyki, podjął decyzję o czasowym wyłączeniu stron Biuletynu Informacji Publicznej (BIP) działających w Systemie Scentralizowanego Dostępu do Informacji Publicznej (SSDIP).\n\nW ramach środków ostrożności swoje strony internetowe wyłączyły m.in. agencje rządowe i instytucje publiczne w Niemczech, Holandii, Belgii, Finlandii i we Francji. W Holandii swoją stronę internetową wyłączyło samo Krajowe Centrum Cyberbezpieczeństwa (NCSC). (PAP Biznes)",
+      "date_published": "2026-10-22T13:17:00+02:00",
+      "source": "PAP Biznes"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/TVP-Wilno-bez-podwyzki-budzetu-W-2027-r-znow-dostanie-20-mln-zl-9216723.html",
@@ -203,30 +251,6 @@
       "content_html": "IFM Investors, współwłaściciel gdańskiego Baltic Hub, porozumiał się w sprawie przejęcia 63,9 proc. udziałów w Associated British Ports (ABP), największej grupie portowej w Wielkiej Brytanii - poinformował IFM Investors w komunikacie prasowym...",
       "date_published": "2026-10-22T10:44:00+02:00",
       "source": "Bankier.pl"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/firmy/wspolwlasciciel-gdanskiego-baltic-hub-przejmie-najwieksza-grupe-portowa-wielkiej",
-      "url": "https://biznes.pap.pl/wiadomosci/firmy/wspolwlasciciel-gdanskiego-baltic-hub-przejmie-najwieksza-grupe-portowa-wielkiej",
-      "title": "Współwłaściciel gdańskiego Baltic Hub przejmie największą grupę portową Wielkiej Brytanii",
-      "content_html": "IFM Investors, współwłaściciel gdańskiego Baltic Hub, porozumiał się w sprawie przejęcia 63,9 proc. udziałów w Associated British Ports (ABP), największej grupie portowej w Wielkiej Brytanii - poinformował IFM Investors w komunikacie prasowym.\n\nUdziały w Associated British Ports fundusz zarządzany przez IFM Investors przejmie od dwóch kanadyjskich inwestorów instytucjonalnych Canada Pension Plan Investment Board oraz OMERS.\n\nFinalizacja transakcji wymaga uzyskania standardowych zgód udziałowców oraz organów regulacyjnych. Przewiduje się, że nastąpi ona w pierwszej połowie 2027 roku. Warunki finansowe transakcji nie zostały ujawnione.\n\nABP zarządza 19 obiektami portowymi, przez które przechodzi około jednej czwartej brytyjskiego handlu morskiego.\n\nAssociated British Ports to największa pod względem wielkości przeładunków grupa portowa w Wielkiej Brytanii. Spółka zarządza 19 obiektami portowymi, przez które przechodzi około 25 proc. brytyjskiego handlu morskiego.\n\nMarcin Piasecki, dyrektor wykonawczy w IFM Investors, który prowadził tę transakcję po stronie IFM, powiedział:\n\n„Nabycie pakietu większościowego w Associated British Ports dodatkowo umacnia pozycję IFM jako długoterminowego inwestora w infrastrukturę portową. Dzięki naszej inwestycji w Baltic Hub, największy terminal kontenerowy w Polsce, widzimy jak ważną rolę porty odgrywają we wspieraniu handlu, wzrostu gospodarczego i funkcjonowania łańcuchów dostaw\".\n\nIFM Investors to globalna firma zarządzająca aktywami, założona przez australijskie fundusze emerytalne i pozostająca ich własnością, a także należąca do brytyjskiego funduszu emerytalnego Nest. Specjalizuje się w inwestycjach kapitałowych i dłużnych w infrastrukturę, private equity, private credit, nieruchomości oraz akcje spółek notowanych na giełdzie.\n\nWedług stanu na 30 września 2026 roku IFM Investors zarządza aktywami o wartości około 157 mld funtów brytyjskich (ok. 210,4 mld USD).\n\nIFM Investors jest obecny na polskim rynku infrastrukturalnym od 2006 roku. Fundusze zarządzane przez IFM posiadają 40 proc. udziałów w Veolia Energia Polska, jednym z największych operatorów systemów ciepłowniczych w kraju, oraz 30 proc. udziałów w Baltic Hub w Gdańsku, największym polskim terminalu kontenerowym. (PAP Biznes)",
-      "date_published": "2026-10-22T10:42:00+02:00",
-      "source": "PAP Biznes"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/gospodarka/na-koniec-25-wynagrodzenie-nieprzekraczajace-placy-minimalnej-otrzymywalo-15",
-      "url": "https://biznes.pap.pl/wiadomosci/gospodarka/na-koniec-25-wynagrodzenie-nieprzekraczajace-placy-minimalnej-otrzymywalo-15",
-      "title": "Na koniec '25 wynagrodzenie nieprzekraczające płacy minimalnej otrzymywało 1,5 mln pracowników",
-      "content_html": "Na koniec 2025 roku 1,5 mln pracowników otrzymywało wynagrodzenie nieprzekraczające płacy minimalnej - podał GUS.\n\nJak podano, stanowiło to 11,9 proc. ogółu zatrudnionych.\n\nWedług rodzajów działalności najwyższy udział odnotowano w sekcji Zakwaterowanie i gastronomia – 37,3 proc. ogółu zatrudnionych w tej sekcji, a najniższy w sekcji Administracja publiczna i obrona narodowa; obowiązkowe zabezpieczenia społeczne – 0,4 proc. ogółu zatrudnionych w tej sekcji. (PAP Biznes)",
-      "date_published": "2026-10-22T10:42:00+02:00",
-      "source": "PAP Biznes"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/konsument/wrzesniowa-sprzedaz-detaliczna-potwierdza-stabilny-umiarkowany-wzrost",
-      "url": "https://biznes.pap.pl/wiadomosci/konsument/wrzesniowa-sprzedaz-detaliczna-potwierdza-stabilny-umiarkowany-wzrost",
-      "title": "Wrześniowa sprzedaż detaliczna potwierdza stabilny, umiarkowany wzrost konsumpcji (opinia)",
-      "content_html": "Wrześniowa dynamika sprzedaży detalicznej towarów potwierdza stabilny, umiarkowany wzrost konsumpcji gospodarstw domowych, choć zróżnicowany w dobrach trwałych i pierwszej potrzeby. Wyhamowanie konsumpcji po wybuchu wojny na Bliskim Wschodzie w obliczu niepewności może być jednym z argumentów dla RPP za powstrzymaniem się z podwyżką stóp proc. w najbliższym czasie - oceniają ekonomiści.\n\nSprzedaż detaliczna w cenach stałych we wrześniu 2026 r. wzrosła o 3,3 proc. w ujęciu rocznym, a w ujęciu miesięcznym spadła o 3,8 proc. - podał Główny Urząd Statystyczny. Sprzedaż detaliczna w cenach bieżących w ubiegłym miesiącu wzrosła o 6,7 proc. rdr.\n\nKonsensus przygotowany przez PAP Biznes wskazywał na wzrost sprzedaży detalicznej w cenach stałych rdr o 4,1 proc. i spadek o 3,0 proc. w ujęciu mdm. W cenach bieżących, ekonomiści ankietowani przez PAP Biznes spodziewali się wzrostu o 7,2 proc. rdr.\n\nMONIKA KURTEK, GŁÓWNA EKONOMISTKA BANKU POCZTOWEGO (EMAIL)\n\n\"Wrześniowa dynamika sprzedaży detalicznej towarów potwierdza stabilny, umiarkowany wzrost konsumpcji gospodarstw domowych. Choć okazała się ona nieco niższa od średnich oczekiwań rynkowych, to jednocześnie na tle ostatnich kilku miesięcy nie odstaje od zanotowanych w tym okresie. Na dynamikę realną przekładają się oczywiście negatywnie rosnące ceny – deflator sprzedaży detalicznej we wrześniu przyspieszył do 3,3 proc. rdr z 2,5 proc. rdr w sierpniu, gdzie na początku br., przed wybuchem wojny na Bliskim Wschodzie, jego wartości były ujemne.\n\nNa podstawie danych miesięcznych można szacować, że dynamika realna sprzedaży w całym III kwartale br. wyniosła około 2,0 proc. rdr wobec 2,3 proc. rdr w II kwartale, co sugeruje (…)względną stabilizację dynamiki konsumpcji gospodarstw domowych. Jednocześnie należy podkreślić, że tempo wzrostu konsumpcji uległo wyhamowaniu po wybuchu wojny na Bliskim Wschodzie, tj. w obliczu niepewności gospodarstwa domowe dokonały ograniczenia swoich wydatków. To może być jeszcze jednym argumentem dla RPP za powstrzymaniem się z podwyżką stóp procentowych w najbliższym czasie\".\n\nRAFAŁ BENECKI, MATEUSZ SUTOWICZ, ING (EMAIL)\n\n\"Dzisiejsze dane potwierdzają, iż konsumpcja prywatna pozostawała istotnym czynnikiem wzrostu gospodarczego w III kw. Mimo drożejących surowców energetycznych, czynnikiem stabilizującym konsumpcję pozostaje rządowy program CPN, ale i nabudowane w poprzednich kwartałach oszczędności. Pozwalają one na jej wygładzenie, pomimo wzrostu inflacji i wolniejszego tempa płac nominalnych.\n\nMimo to, oczekujemy, że wzrost spożycia gospodarstw domowych będzie w 2026 niższy niż 4,0 proc. odnotowane w 2025. Tym bardziej, iż jak wskazują dane GUS w październiku nastroje konsumentów uległy dalszemu pogorszeniu. Wyprzedzający wskaźnik ufności konsumenckiej (WWUK) spadł w okolice tegorocznego minimum z marca, gdy wybuchła wojna na Bliskim Wschodzie.\n\nBardziej szczegółowe spojrzenie w dane o sprzedaży detalicznej ostatnich miesięcy sugeruje jednak, iż kondycja polskiego konsumenta pozostaje zróżnicowana. Z jednej strony wciąż solidne, dwucyfrowe wzrosty odnotowuje sprzedaż dóbr trwałego użytku. Największe wzrosty sprzedaży dotyczyły samochodów i części (13,1 proc. rdr), mebli, RTV i AGD (10,7 proc. rdr) oraz farmaceutyków (8,5 proc. rdr). Polska ma jeden z najniższych odsetków nowych aut w UE, dlatego trwa odnawianie floty, w tym za sprawą tanich chińskich marek.\n\nNa drugim biegunie znajdują się natomiast dynamiki sprzedaży towarów pierwszej potrzeby tj. żywność i paliwa (wzrost o 1,4 proc. rdr, grupa o najwyższym udziale w sprzedaży detalicznej) czy tekstylia (spadek o 3,0 proc. rdr). Zauważmy, że wrzesień był miesiącem, gdy program Ceny Paliwa Niżej nie obowiązywał (wprowadzony został pod koniec wakacji w sierpniu, powrócił w październiku), co może tłumaczyć słabą sprzedaż paliw.\n\nNiewykluczone, iż wytłumaczeniem są także odmienne zachowania konsumpcyjne osób o wyższych dochodach i zgromadzonych oszczędnościach, a inaczej zachowują się osoby mniej zamożne. W tym",
-      "date_published": "2026-10-22T10:31:00+02:00",
-      "source": "PAP Biznes"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Przelomowy-ruch-NATO-za-plecami-Waszyngtonu-Ukraina-kupi-bron-taniej-9216631.html",
@@ -1069,27 +1093,11 @@
       "source": "Bankier.pl"
     },
     {
-      "id": "https://www.bankier.pl/wiadomosc/Paraliz-na-poludniu-Wloch-Protest-odcial-lotniska-od-paliwa-a-sklepy-od-zywnosci-9216139.html",
-      "url": "https://www.bankier.pl/wiadomosc/Paraliz-na-poludniu-Wloch-Protest-odcial-lotniska-od-paliwa-a-sklepy-od-zywnosci-9216139.html",
-      "title": "Paraliż na południu Włoch. Protest odciął lotniska od paliwa, a sklepy od żywności",
-      "content_html": "Na południu Włoch trwa w środę protest kierowców tirów i pracowników branży transportu przeciwko wysokim cenom paliwa. Media poinformowały, że na dwóch lotniskach w Kalabrii zaczyna brakować paliwa do samolotów, a w supermarketach - świeżych...",
-      "date_published": "2026-10-21T14:12:00+02:00",
-      "source": "Bankier.pl"
-    },
-    {
       "id": "https://www.bankier.pl/wiadomosc/NBP-oficjalnie-potwierdza-wrzesniowe-zakupy-zlota-9216137.html",
       "url": "https://www.bankier.pl/wiadomosc/NBP-oficjalnie-potwierdza-wrzesniowe-zakupy-zlota-9216137.html",
-      "title": "700 ton coraz bliżej. NBP oficjalnie potwierdza wrześniowe zakupy złota",
-      "content_html": "Narodowy Bank Polski we wrześniu dokonał sporych zakupów złota i szybko zmierzał w stronę zadeklarowanego celu 700 ton królewskiego metalu.",
+      "title": "700 ton coraz bliżej. NBP oficjalnie potwierdza wrześniowe zakupy złota Narodowy Bank Polski we wrześniu dokonał sporych zakupów złota i szybko zmierzał w stronę zadeklarowanego celu 700 ton królewskiego metalu.",
+      "content_html": "",
       "date_published": "2026-10-21T14:08:00+02:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/DM-BDM-podniosl-cene-docelowa-dla-akcji-Mostostalu-Zabrze-do-7-84-zl-9216113.html",
-      "url": "https://www.bankier.pl/wiadomosc/DM-BDM-podniosl-cene-docelowa-dla-akcji-Mostostalu-Zabrze-do-7-84-zl-9216113.html",
-      "title": "DM BDM podniósł cenę docelową dla akcji Mostostalu Zabrze do 7,84 zł",
-      "content_html": "Analitycy DM BDM, w raporcie z 14 października, podnieśli cenę docelową dla akcji Mostostalu Zabrze do 7, 84 zł z 7,73 zł poprzednio, podtrzymując rekomendację \"kupuj\".",
-      "date_published": "2026-10-21T13:46:00+02:00",
       "source": "Bankier.pl"
     }
   ]
