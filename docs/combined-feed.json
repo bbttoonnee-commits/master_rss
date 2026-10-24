@@ -5,6 +5,22 @@
   "home_page_url": "https://www.bankier.pl",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/Eurostat-pokazal-wrzesniowe-ceny-paliw-Polska-na-podium-podwyzek-9216017.html",
+      "url": "https://www.bankier.pl/wiadomosc/Eurostat-pokazal-wrzesniowe-ceny-paliw-Polska-na-podium-podwyzek-9216017.html",
+      "title": "Eurostat pokazał wrześniowe ceny paliw. Polska na podium podwyżek",
+      "content_html": "Ceny paliw i smarów do prywatnego transportu w Unii Europejskiej były we wrześniu 2026 r. o 31,4 proc. wyższe niż rok wcześniej. To kolejny miesiąc przyspieszenia wzrostu cen po wzrostach o 16,9 proc. w lipcu i 23,8 proc. w sierpniu - podał Eurostat...",
+      "date_published": "2026-10-24T11:00:00+02:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Okno-mozliwosci-sie-zamyka-Pesymistyczne-prognozy-ONZ-do-2100-roku-9215916.html",
+      "url": "https://www.bankier.pl/wiadomosc/Okno-mozliwosci-sie-zamyka-Pesymistyczne-prognozy-ONZ-do-2100-roku-9215916.html",
+      "title": "\"Okno możliwości się zamyka\". Pesymistyczne prognozy ONZ do 2100 roku",
+      "content_html": "Globalna emisja gazów cieplarnianych utrzymała się w 2025 r. na rekordowym poziomie; Ziemia zmierza ku wzrostowi temperatury o 2,6 stopnia Celsjusza do 2100 r. - przekazała agencja AFP, powołując się na najnowszy raport ONZ.",
+      "date_published": "2026-10-24T09:00:00+02:00",
+      "source": "Bankier.pl"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Kopalnia-Soli-Klodawa-wychodzi-na-prosta-MAP-prognozuje-milionowe-zyski-9217780.html",
       "url": "https://www.bankier.pl/wiadomosc/Kopalnia-Soli-Klodawa-wychodzi-na-prosta-MAP-prognozuje-milionowe-zyski-9217780.html",
       "title": "Kopalnia Soli Kłodawa wychodzi na prostą. MAP prognozuje milionowe zyski",
@@ -1005,14 +1021,6 @@
       "source": "Bankier.pl"
     },
     {
-      "id": "https://www.bankier.pl/wiadomosc/Tusk-w-indyjskiej-Dolinie-Krzemowej-Od-wspolnego-lotu-w-kosmos-do-poteznego-biznesu-w-AI-9217275.html",
-      "url": "https://www.bankier.pl/wiadomosc/Tusk-w-indyjskiej-Dolinie-Krzemowej-Od-wspolnego-lotu-w-kosmos-do-poteznego-biznesu-w-AI-9217275.html",
-      "title": "Tusk w indyjskiej Dolinie Krzemowej: Od wspólnego lotu w kosmos do potężnego biznesu w AI",
-      "content_html": "Polska i Indie mogą wspólnie rozwijać systemy sztucznej inteligencji, m.in. w zakresie analizy danych, czy diagnostyce i zarządzaniu infrastrukturą - powiedział w piątek premier Donald Tusk podczas polsko-indyjskiego forum biznesowego w Bengaluru...",
-      "date_published": "2026-10-23T10:18:00+02:00",
-      "source": "Bankier.pl"
-    },
-    {
       "id": "https://biznes.pap.pl/wiadomosci/polska-i-indie-moga-wspolnie-rozwijac-systemy-sztucznej-inteligencji-tusk",
       "url": "https://biznes.pap.pl/wiadomosci/polska-i-indie-moga-wspolnie-rozwijac-systemy-sztucznej-inteligencji-tusk",
       "title": "Polska i Indie mogą wspólnie rozwijać systemy sztucznej inteligencji - Tusk",
@@ -1027,14 +1035,6 @@
       "content_html": "Indeks PMI, określający koniunkturę w sektorze przemysłowym strefy euro, przygotowywany przez S&P Global, wyniósł w październiku 52,4 pkt. wobec 52,9 pkt. na koniec poprzedniego miesiąca - podano w I wyliczeniu. Na rynku oczekiwano 52,8 pkt.\n\nWartość wskaźnika PMI powyżej 50 punktów oznacza ożywienie w sektorze. (PAP Biznes)",
       "date_published": "2026-10-23T10:02:00+02:00",
       "source": "PAP Biznes"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Zamienili-rtec-w-zloto-Start-up-inzyniera-ze-SpaceX-oglosil-przelom-czy-niewazna-ciekawostke-ze-swiata-nauki-9217262.html",
-      "url": "https://www.bankier.pl/wiadomosc/Zamienili-rtec-w-zloto-Start-up-inzyniera-ze-SpaceX-oglosil-przelom-czy-niewazna-ciekawostke-ze-swiata-nauki-9217262.html",
-      "title": "Start-up inżyniera ze SpaceX ogłosił, że zamienił rtęć w złoto. Święty Graal alchemii czy marketingowy szum?",
-      "content_html": "Amerykański startup Marathon Fusion ogłosił laboratoryjną przemianę rtęci w złoto przy użyciu neutronów z fuzji jądrowej w tempie 10 razy szybszym niż rekord CERN-u ogłoszony w 2025 r. Choć oświadczenie brzmi rewolucyjnie, na razie to tylko...",
-      "date_published": "2026-10-23T09:59:00+02:00",
-      "source": "Bankier.pl"
     },
     {
       "id": "https://biznes.pap.pl/wiadomosci/rynki/ceny-miedzi-na-lme-rosna-inwestorzy-oceniaja-perspektywy-dla-sektora-it",
@@ -1091,22 +1091,6 @@
       "content_html": "W piątek ceny ropy w USA rosną. Inwestorzy oceniają możliwość wznowienia działań wojennych między USA a Iranem wobec eskalacji napięć w cieśninie Ormuz.\n\nBaryłka ropy West Texas Intermediate w dostawach na grudzień zwyżkuje na NYMEX w Nowym Jorku o 1,21 proc. do 100,67 USD.\n\nCena Brent na ICE na grudzień rośnie o 0,94 proc. do 114,20 USD za baryłkę.\n\nW ujęciu tygodniowym ceny ropy Brent są na drodze do wzrostu o ok. 4 proc., do najwyższego poziomu od maja, a w skali roku o ponad 85 proc. w związku z wojną Izraela i USA z Iranem,, która trwa już blisko dziewięć miesięcy. Jeszcze szybciej wzrosły ceny produktów ropopochodnych, w szczególności oleju napędowego.\n\nIran poinformował, że w ciągu jednego dnia w cieśninie Ormuz uszkodzonych zostało siedem tankowców. Jest to największa liczba takich zdarzeń w ciągu doby, odkąd rozpoczęła się wojna USA i Izraela z Teheranem. Prezydent USA Donald Trump oskarżył Iran o podawanie fałszywych informacji.\n\n„The New York Times” poinformował w tym tygodniu, że Stany Zjednoczone i Izrael opracowały plany przeprowadzenia kolejnych uderzeń na Islamską Republikę Iranu, które miałyby nastąpić po amerykańskich wyborach do Kongresu na początku przyszłego miesiąca.\n\n„Ostatnia eskalacja napięć geopolitycznych wskazuje na możliwość bardziej intensywnych ataków na Iran, co powoduje wzrost cen ropy naftowej w całym spektrum terminów dostaw. Większość inwestorów postrzega te wydarzenia jako sygnał, że wysokie ceny ropy utrzymają się przez dłuższy czas” – ocenił Dennis Kissler, starszy wiceprezes ds. obrotu w firmie BOK Financial Securities.\n\nJak podała w czwartek agencja Reutera, saudyjski koncern Saudi Aramco zarządził w czwartek ewakuację swojej siedziby głównej w Dhahranie. Decyzja ta zapadła w obliczu nasilających się walk między największym na świecie eksporterem ropy naftowej a wspieranym przez Iran ruchem Huti z Jemenu.\n\nMike Waltz, ambasador USA przy ONZ, powiedział w rozmowie z „Financial Times”, że Stany Zjednoczone przygotowują się na długotrwały konflikt z Iranem; niewykluczone, że za rok sytuacja wciąż będzie znajdować się w impasie.\n\nPrezydent USA Donald Trump zasugerował w czwartek, że może wkrótce wznowić ataki przeciwko Iranowi. Przyznał jednocześnie, że nie wszystkim jego wyborcom podoba się zaangażowanie w tę wojnę.\n\nTrump ocenił w czwartek, że Iran chce doprowadzić do podwyżek cen ropy przed zaplanowanymi na 3 listopada wyborami do amerykańskiego Kongresu. Zarzucił Irańczykom, że pozorują ataki w cieśninie Ormuz.\n\nTrump upoważnił w czwartek Pentagon do wykorzystania państwowych środków w celu rozbudowy infrastruktury wydobywczej, rafineryjnej i transportowej ropy naftowej. Wykorzystał w tym celu specjalną ustawę, klasyfikując infrastrukturę naftową jako niezbędną dla obrony narodowej.\n\nResort środowiska Zjednoczonych Emiratów Arabskich poinformowało w piątek, że system monitoringu wykrył wyciek ropy z tankowca, który dotknął plaże w emiracie Umm al-Kajwajn, na płn.-zach. kraju. Zapewniono, że „nieprzyjemne zapachy (…) nie stanowią zagrożenia dla zdrowia ludzi”. (PAP Biznes)",
       "date_published": "2026-10-23T09:13:00+02:00",
       "source": "PAP Biznes"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Ponad-23-mld-zl-w-ETF-ach-Polacy-wplacaja-miliardy-9217184.html",
-      "url": "https://www.bankier.pl/wiadomosc/Ponad-23-mld-zl-w-ETF-ach-Polacy-wplacaja-miliardy-9217184.html",
-      "title": "Ponad 23 mld zł w ETF-ach. Polacy wpłacają miliardy Wartość aktywów zgromadzonych przez polskich inwestorów w ETF-ach i innych produktach ETP wzrosła na koniec września 2026 r. do 23,1 mld zł z 12,8 mld zł na koniec 2025 r., co oznacza wzrost o ponad 80 proc. Od początku roku inwestorzy wpłacili do tych instrumentów ponad 7 mld zł netto - wynika z raportu Analizy.pl pt. \"Aktywa Polaków w ETF-ach”.",
-      "content_html": "",
-      "date_published": "2026-10-23T08:30:00+02:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Hossa-AI-bez-precedensu-Nadchodzi-bolesne-rozliczenie-inwestorow-9217102.html",
-      "url": "https://www.bankier.pl/wiadomosc/Hossa-AI-bez-precedensu-Nadchodzi-bolesne-rozliczenie-inwestorow-9217102.html",
-      "title": "Hossa AI bez precedensu. Nadchodzi bolesne rozliczenie inwestorów? Wkrótce nadejść może koniec graniczącej z histerią hossy giełdowej wokół AI. Każde kolejne pęknięcie takiej bańki od 1929 roku było bardziej dewastujące dla gospodarki. Przetrwają najsilniejsi i skonsolidowany sektor AI - prognozuje w „Foreign Affairs” szef firmy Rockefeller International Ruchir Sharma.",
-      "content_html": "",
-      "date_published": "2026-10-23T08:20:00+02:00",
-      "source": "Bankier.pl"
     }
   ]
 }
