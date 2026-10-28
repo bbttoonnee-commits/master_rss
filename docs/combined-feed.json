@@ -5,6 +5,30 @@
   "home_page_url": "https://www.bankier.pl",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/Wejscie-Kruka-na-nowe-rynki-dopiero-po-rozwiazaniu-problemow-z-obecnymi-prezes-9219560.html",
+      "url": "https://www.bankier.pl/wiadomosc/Wejscie-Kruka-na-nowe-rynki-dopiero-po-rozwiazaniu-problemow-z-obecnymi-prezes-9219560.html",
+      "title": "Wejście Kruka na nowe rynki dopiero po rozwiązaniu problemów z obecnymi - prezes",
+      "content_html": "Grupa Kruk jest otwarta na wejście na nowe rynki w Stanach Zjednoczonych i Wielkiej Brytanii, ale nie nastąpi to wcześniej niż po uporządkowaniu problemów z obecnymi rynkami - poinformował prezes Kruka Piotr Krupa.",
+      "date_published": "2026-10-28T11:52:00+01:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Kruk-rozwaza-wieksza-dystrybucje-kapitalu-jesli-utrzyma-sie-presja-na-rentownosc-inwestycji-9219556.html",
+      "url": "https://www.bankier.pl/wiadomosc/Kruk-rozwaza-wieksza-dystrybucje-kapitalu-jesli-utrzyma-sie-presja-na-rentownosc-inwestycji-9219556.html",
+      "title": "Kruk rozważa większą dystrybucję kapitału, jeśli utrzyma się presja na rentowność inwestycji",
+      "content_html": "Grupa Kruk może rozważyć większą dystrybucję kapitału do akcjonariuszy, jeśli możliwości inwestowania środków przy satysfakcjonujących stopach zwrotu będą ograniczone - poinformował prezes Piotr Krupa. Zaznaczył, że jest zbyt wcześnie...",
+      "date_published": "2026-10-28T11:48:00+01:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Zysk-netto-Kruka-w-2026-roku-moze-byc-nizszy-rok-do-roku-9219545.html",
+      "url": "https://www.bankier.pl/wiadomosc/Zysk-netto-Kruka-w-2026-roku-moze-byc-nizszy-rok-do-roku-9219545.html",
+      "title": "Zysk netto Kruka w 2026 roku może być niższy rok do roku",
+      "content_html": "Zysk netto firmy windykacyjnej Kruk na koniec 2026 roku może być niższy niż w zeszłym roku - poinformował członek zarządu Kruka Michał Zasępa podczas środowej telekonferencji z analitykami. Dodał, że inwestycje w portfele kredytów mogą...",
+      "date_published": "2026-10-28T11:34:00+01:00",
+      "source": "Bankier.pl"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Asseco-i-Aruba-powoluja-spolke-joint-venture-aby-stworzyc-wspolny-rynek-e-Doreczen-w-Europie-9219530.html",
       "url": "https://www.bankier.pl/wiadomosc/Asseco-i-Aruba-powoluja-spolke-joint-venture-aby-stworzyc-wspolny-rynek-e-Doreczen-w-Europie-9219530.html",
       "title": "Cyfrowy przełom w UE. Powstanie europejski hub e-Doręczeń",
@@ -15,7 +39,7 @@
     {
       "id": "https://www.bankier.pl/wiadomosc/Zabka-wskazuje-na-trudniejsze-otoczenie-w-26-oczekuje-sredniego-jednocyfrowego-wzrostu-LFL-9219531.html",
       "url": "https://www.bankier.pl/wiadomosc/Zabka-wskazuje-na-trudniejsze-otoczenie-w-26-oczekuje-sredniego-jednocyfrowego-wzrostu-LFL-9219531.html",
-      "title": "Żabka wskazuje na trudniejsze otoczenie; w ’26 oczekuje średniego jednocyfrowego wzrostu LFL",
+      "title": "Ostrożniejsi konsumenci, lecz Żabka zwiększa udział w rynku",
       "content_html": "Grupa Żabka ocenia, że otoczenie rynkowe w trzecim kwartale było wymagające i trudniejsze niż wcześniej. Spółka podtrzymuje cele średnioterminowe, ale oczekuje obecnie, że w 2026 roku wzrost LFL będzie bliższy średniemu jednocyfrowemu poziomowi -...",
       "date_published": "2026-10-28T11:14:00+01:00",
       "source": "Bankier.pl"
@@ -355,6 +379,14 @@
       "content_html": "Większość przepytanych szpitali w pierwszych trzech kwartałach przyjęła więcej pacjentów niż rok temu i nie planuje cięć w IV kwartale mimo opóźnień m.in. w wypłatach za nadwykonania - informuje w środę „Dziennik Gazeta Prawna”...",
       "date_published": "2026-10-28T07:00:00+01:00",
       "source": "Bankier.pl"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/rynki/notowania-metali-bazowych-wegla-i-paliw-tabela-1454",
+      "url": "https://biznes.pap.pl/wiadomosci/rynki/notowania-metali-bazowych-wegla-i-paliw-tabela-1454",
+      "title": "Notowania metali bazowych, węgla i paliw (tabela)",
+      "content_html": "Notowania metali bazowych na London Metal Exchange, uprawnień EUA do emisji CO2, ceny węgla energetycznego ARA na przyszły rok oraz ceny paliw.",
+      "date_published": "2026-10-28T06:44:00+01:00",
+      "source": "PAP Biznes"
     },
     {
       "id": "https://biznes.pap.pl/wiadomosci/rynki/zamkniecia-na-gieldach-w-ameryce-polnocnej-i-poludniowej-tabela-521",
@@ -877,14 +909,6 @@
       "source": "Bankier.pl"
     },
     {
-      "id": "https://biznes.pap.pl/wiadomosci/gry-i-technologie/oracle-udostepni-procesory-tpu-google-w-ramach-oracle-cloud",
-      "url": "https://biznes.pap.pl/wiadomosci/gry-i-technologie/oracle-udostepni-procesory-tpu-google-w-ramach-oracle-cloud",
-      "title": "Oracle udostępni procesory TPU Google w ramach Oracle Cloud Infrastructure",
-      "content_html": "Oracle udostępni procesory TPU Google w ramach Oracle Cloud Infrastructure - poinformował Oracle w komunikacie na swojej stronie internetowej. Wskazano, że Oracle Cloud Infrastructure będzie pierwszą hiperskalową platformą chmurową poza Google oferującą procesory TPU tej firmy.\n\nOracle i Google poinformowały we wtorek, że procesory Tensor Processing Units (TPU) firmy Google będą dostępne za pośrednictwem platformy Oracle Cloud Infrastructure (OCI).\n\nUdostępnienie zaprojektowanych specjalnie przez Google procesorów TPU w ramach oferty obliczeniowej OCI dla sztucznej inteligencji zapewni klientom większą elastyczność w doborze infrastruktury do najbardziej wymagających obciążeń.\n\nOCI zapewni zasilanie, chłodzenie i sieć centrów danych niezbędne do wdrożenia procesorów TPU Google na dużą skalę w ramach swojej infrastruktury.\n\n\"Kolejna generacja sztucznej inteligencji będzie wymagała zróżnicowanych zasobów obliczeniowych. Procesory TPU zapewniają klientom wydajne, specjalnie zaprojektowane rozwiązanie do obsługi wymagających zadań związanych z trenowaniem modeli i wnioskowaniem\" - powiedział cytowany w komunikacie Amin Vahdat, starszy wiceprezes i główny ekspert technologiczny ds. AI i infrastruktury w Google.\n\nProcesory TPU Google będą dostępne na platformie OCI w 2027 roku, a ich dostępność będzie stopniowo zwiększana w ciągu kilku kolejnych lat, aby sprostać potrzebom klientów. (PAP Biznes)",
-      "date_published": "2026-10-27T17:27:00+01:00",
-      "source": "PAP Biznes"
-    },
-    {
       "id": "https://www.bankier.pl/wiadomosc/Zamiana-hotelu-i-brak-basenu-Sad-bezlitosny-dla-praktyk-znanego-biura-podrozy-Exim-9219158.html",
       "url": "https://www.bankier.pl/wiadomosc/Zamiana-hotelu-i-brak-basenu-Sad-bezlitosny-dla-praktyk-znanego-biura-podrozy-Exim-9219158.html",
       "title": "Zamiana hotelu i brak basenu? Sąd bezlitosny dla praktyk znanego biura podróży",
@@ -1077,26 +1101,10 @@
       "source": "Bankier.pl"
     },
     {
-      "id": "https://www.bankier.pl/wiadomosc/Srebro-zaliczylo-juz-zjazd-o-prawie-60-procent-od-szczytu-Wazna-bitwa-przed-inwestorami-9219000.html",
-      "url": "https://www.bankier.pl/wiadomosc/Srebro-zaliczylo-juz-zjazd-o-prawie-60-procent-od-szczytu-Wazna-bitwa-przed-inwestorami-9219000.html",
-      "title": "Srebro leci na łeb na szyję. Bolesna lekcja czy oczekiwana okazja na okrągłym poziomie?",
-      "content_html": "Zepchnięcie notowań srebra w okolice 53 USD za uncję sprowadziło kurs kruszcu do poziomów najniższych od 11 miesięcy , redukując wycenę białego metalu o ponad połowę względem styczniowego rekordu wszech czasów. Choć obecnie mamy do czynienia...",
-      "date_published": "2026-10-27T14:21:00+01:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Partnerzy-EY-zarabiaja-coraz-wiecej-Firma-tnie-koszty-i-restrukturyzuje-kadry-9219012.html",
-      "url": "https://www.bankier.pl/wiadomosc/Partnerzy-EY-zarabiaja-coraz-wiecej-Firma-tnie-koszty-i-restrukturyzuje-kadry-9219012.html",
-      "title": "Partnerzy EY zarabiają coraz więcej. Firma tnie koszty i restrukturyzuje kadry",
-      "content_html": "Partnerzy brytyjskiego oddziału firmy EY otrzymali za ostatni rok finansowy kończący się w czerwcu rekordowe wynagrodzenie w średniej wysokości 870 000 funtów. Oznacza to wzrost o niemal 11%, czyli o 83 000 funtów w stosunku do roku ubiegłego...",
-      "date_published": "2026-10-27T14:14:00+01:00",
-      "source": "Bankier.pl"
-    },
-    {
       "id": "https://www.bankier.pl/wiadomosc/Pozycja-kapitalowa-i-plynnosciowa-B-Millennium-jest-silna-bank-chce-wyplacic-dywidende-za-26-Bicho-9219011.html",
       "url": "https://www.bankier.pl/wiadomosc/Pozycja-kapitalowa-i-plynnosciowa-B-Millennium-jest-silna-bank-chce-wyplacic-dywidende-za-26-Bicho-9219011.html",
-      "title": "Pozycja kapitałowa i płynnościowa B.Millennium jest silna. Bank chce wypłacić dywidendę za '26",
-      "content_html": "Bank Millennium ocenia, że jego pozycja kapitałowa i płynnościowa jest silna, więc bank zamierza powrócić do wypłaty dywidendy z zysku osiągniętego za 2026 r. - poinformował PAP Biznes wiceprezes banku Fernando Bicho.",
+      "title": "Pozycja kapitałowa i płynnościowa B.Millennium jest silna. Bank chce wypłacić dywidendę za '26 Bank Millennium ocenia, że jego pozycja kapitałowa i płynnościowa jest silna, więc bank zamierza powrócić do wypłaty dywidendy z zysku osiągniętego za 2026 r. - poinformował PAP Biznes wiceprezes banku Fernando Bicho.",
+      "content_html": "",
       "date_published": "2026-10-27T14:10:00+01:00",
       "source": "Bankier.pl"
     },
@@ -1154,30 +1162,6 @@
       "title": "Orlen otworzy biuro w Singapurze. Jest też zapowiedź wznowienia dostaw LNG Orlen w pierwszym kwartale 2027 roku otworzy biuro handlowe w Singapurze, a w ciągu kilkunastu dni spółka spodziewa się pierwszej po przerwie dostawy LNG z Kataru - zapowiedział we wtorek wiceprezes Robert Soszyński.",
       "content_html": "",
       "date_published": "2026-10-27T12:11:00+01:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Koszy-ryzyka-B-Millennium-w-26-beda-w-dolnej-czesci-przedzialu-40-50-pb-9218890.html",
-      "url": "https://www.bankier.pl/wiadomosc/Koszy-ryzyka-B-Millennium-w-26-beda-w-dolnej-czesci-przedzialu-40-50-pb-9218890.html",
-      "title": "Koszy ryzyka Millennium w 2026 będą w dolnej części przedziału 40-50 pb. Bank Millennium ocenia, że całoroczne koszy ryzyka znajdą się w dolnej części przedziału 40-50 pb. Konkurencja rynkowa w segmencie kredytów hipotecznych oraz korporacyjnych jest silna, jednak wzrost wolumenów kredytowych powinien pozytywnie wpływać na marżę odsetkową banku - poinformowali we wtorek przedstawiciele banku.",
-      "content_html": "",
-      "date_published": "2026-10-27T11:58:00+01:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Grupa-Kety-mocno-stawia-na-rozwoj-organiczny-na-rynkach-zagranicznych-9218883.html",
-      "url": "https://www.bankier.pl/wiadomosc/Grupa-Kety-mocno-stawia-na-rozwoj-organiczny-na-rynkach-zagranicznych-9218883.html",
-      "title": "Grupa Kęty mocno stawia na rozwój na rynkach zagranicznych Grupa Kęty zakłada, że nakłady inwestycyjne będą o 40–50 mln zł niższe od wcześniejszych planów, głównie z powodu przesunięcia części wydatków na kolejne okresy oraz optymalizacji lub rezygnacji z części projektów. W efekcie CAPEX w 2026 r. powinien wynieść ok. 250–260 mln zł poinformowali przedstawiciele spółki na wideokonferencji.",
-      "content_html": "",
-      "date_published": "2026-10-27T11:52:00+01:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Grupa-Kety-ocenia-ze-mozliwe-jest-przekroczenie-rocznej-prognozy-EBITDA-w-26-o-ok-5-proc-9218869.html",
-      "url": "https://www.bankier.pl/wiadomosc/Grupa-Kety-ocenia-ze-mozliwe-jest-przekroczenie-rocznej-prognozy-EBITDA-w-26-o-ok-5-proc-9218869.html",
-      "title": "Grupa Kęty ocenia, że możliwe jest przekroczenie rocznej prognozy EBITDA Grupa Kęty ocenia, że jest możliwe przekroczenie rocznej prognozy na poziomie EBITDA o ok. 5 proc. - poinformowali przedstawiciele zarządu podczas wideokonferencji.",
-      "content_html": "",
-      "date_published": "2026-10-27T11:34:00+01:00",
       "source": "Bankier.pl"
     }
   ]
