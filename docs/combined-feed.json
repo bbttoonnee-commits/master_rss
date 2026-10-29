@@ -5,43 +5,59 @@
   "home_page_url": "https://www.bankier.pl",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/Debica-szacuje-zysk-netto-za-9-miesiecy-2026-r-na-67-2-mln-zl-9220312.html",
+      "url": "https://www.bankier.pl/wiadomosc/Debica-szacuje-zysk-netto-za-9-miesiecy-2026-r-na-67-2-mln-zl-9220312.html",
+      "title": "Dębica pod presją cen i trudnej koniunktury. Znamy szacunki wyników Firma Oponiarska Dębica, producent opon do samochodów osobowych i ciężarowych, szacuje zysk netto za 9 miesięcy 2026 roku na 67,2 mln zł - poinformowała spółka w komunikacie. Przychody netto ze sprzedaży produktów i towarów w tym okresie wyniosły 2,13 mld zł.",
+      "content_html": "",
+      "date_published": "2026-10-29T13:24:00+01:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Cyfrowy-Polsat-w-segmencie-TMT-do-28-planuje-uproszczenie-i-stabilizacje-w-30-chce-byc-operatorem-numer-jeden-9220310.html",
+      "url": "https://www.bankier.pl/wiadomosc/Cyfrowy-Polsat-w-segmencie-TMT-do-28-planuje-uproszczenie-i-stabilizacje-w-30-chce-byc-operatorem-numer-jeden-9220310.html",
+      "title": "Cyfrowy Polsat w segmencie TMT do '28 planuje uproszczenie i stabilizację; w '30 chce być operatorem numer jeden Nowa strategia Grupy Polsat Plus zakłada, że do 2028 roku w segmencie TMT będą prowadzone prace uproszczające i stabilizujące - poinformował podczas konferencji członek zarządu grupy, Bartłomiej Drywa. Dodał, że w 2030 roku grupa chce być operatorem numer jeden.",
+      "content_html": "",
+      "date_published": "2026-10-29T13:22:00+01:00",
+      "source": "Bankier.pl"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Grupa-Polsat-Plus-prowadzi-juz-rozmowy-ws-dezinwestycji-aktywow-energetycznych-i-nieruchomosciowych-prezes-9220273.html",
       "url": "https://www.bankier.pl/wiadomosc/Grupa-Polsat-Plus-prowadzi-juz-rozmowy-ws-dezinwestycji-aktywow-energetycznych-i-nieruchomosciowych-prezes-9220273.html",
-      "title": "Energetyka i nieruchomości na sprzedaż. Polsat Plus szuka kupców Grupa Polsat Plus prowadzi już rozmowy ws. deziwestycji w aktywach dotyczących energetyki i nieruchomości - poinformował podczas konferencji prezes Piotr Żak.",
-      "content_html": "",
+      "title": "Energetyka i nieruchomości na sprzedaż. Polsat Plus szuka kupców",
+      "content_html": "Grupa Polsat Plus prowadzi już rozmowy ws. deziwestycji w aktywach dotyczących energetyki i nieruchomości - poinformował podczas konferencji prezes Piotr Żak.",
+      "date_published": "2026-10-29T13:16:00+01:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/W-Strategii-Cyfrowego-Polsatu-uproszczenie-struktury-i-odbudowa-potencjalu-do-wyplat-dywidendy-opis2-9220293.html",
+      "url": "https://www.bankier.pl/wiadomosc/W-Strategii-Cyfrowego-Polsatu-uproszczenie-struktury-i-odbudowa-potencjalu-do-wyplat-dywidendy-opis2-9220293.html",
+      "title": "W Strategii Cyfrowego Polsatu uproszczenie struktury i odbudowa potencjału do wypłat dywidendy (opis2)",
+      "content_html": "Cyfrowy Polsat opublikował strategię na lata 2027-2030+. Główne założenia nowej strategii to m.in. koncentracja na podstawowym biznesie, czyli rozwój TMT, a także uproszczenie struktury grupy i sprzedaż aktywów spoza podstawowej działalności...",
+      "date_published": "2026-10-29T13:08:00+01:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Budimex-nie-widzi-zagrozen-dla-realizacji-i-finansowania-inwestycji-w-Polsce-liczy-na-wiecej-postepowan-PPP-wywiad-9220285.html",
+      "url": "https://www.bankier.pl/wiadomosc/Budimex-nie-widzi-zagrozen-dla-realizacji-i-finansowania-inwestycji-w-Polsce-liczy-na-wiecej-postepowan-PPP-wywiad-9220285.html",
+      "title": "Budimex nie widzi zagrożeń dla realizacji i finansowania inwestycji w Polsce. Liczy na więcej postępowań PPP",
+      "content_html": "Budimex w nowej strategii zakłada wzrost szybszy niż rynek, ale przy przemyślanym budowaniu portfela zamówień. Zarząd nie widzi zagrożeń dla finansowania i realizacji inwestycji w Polsce i liczy na więcej postępowań w formule PPP - poinformował...",
+      "date_published": "2026-10-29T13:02:00+01:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Sad-uderza-w-Mete-Koncern-musi-negocjowac-oplaty-za-tresci-prasowe-9220259.html",
+      "url": "https://www.bankier.pl/wiadomosc/Sad-uderza-w-Mete-Koncern-musi-negocjowac-oplaty-za-tresci-prasowe-9220259.html",
+      "title": "Sąd uderza w Metę. Koncern musi negocjować opłaty za treści prasowe",
+      "content_html": "Francuski urząd antymonopolowy (Autorite de la Concurrence) nakazał w środę firmie Meta wznowienie rozmów z mediami we Francji w sprawie opłat za publikowanie ich treści. Istniejące wcześniej porozumienie między nimi wygasło w 2024 roku i strony...",
+      "date_published": "2026-10-29T12:55:00+01:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/400-mln-zl-dla-firm-BGK-uruchamia-nowy-kredyt-na-produkcje-9220272.html",
+      "url": "https://www.bankier.pl/wiadomosc/400-mln-zl-dla-firm-BGK-uruchamia-nowy-kredyt-na-produkcje-9220272.html",
+      "title": "400 mln zł dla firm. BGK uruchamia nowy kredyt na produkcję",
+      "content_html": "Bank Gospodarstwa Krajowego uruchomił nabór skierowany do mikro, małych i średnich przedsiębiorców na kredyt na wytwarzanie produktów podwójnego zastosowania (dual-use) - poinformował BGK. Na finansowanie tego rodzaju projektów przeznaczono...",
       "date_published": "2026-10-29T12:52:00+01:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Rzad-zmienia-plany-finansowania-kolei-Miliardy-zlotych-zniknely-z-projektu-9220223.html",
-      "url": "https://www.bankier.pl/wiadomosc/Rzad-zmienia-plany-finansowania-kolei-Miliardy-zlotych-zniknely-z-projektu-9220223.html",
-      "title": "Rząd zmienia plany finansowania kolei. Miliardy złotych zniknęły z projektu Rząd ograniczył skalę planowanego wzmocnienia Funduszu Kolejowego i odsunął w czasie pełne wejście reformy - wynika z projektu ustawy zakładającej zmiany w finansowaniu Funduszu Kolejowego.",
-      "content_html": "",
-      "date_published": "2026-10-29T12:33:00+01:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/ING-Bank-Slaski-obserwuje-ozywienie-inwestycji-w-segmencie-srednich-i-malych-firm-9220244.html",
-      "url": "https://www.bankier.pl/wiadomosc/ING-Bank-Slaski-obserwuje-ozywienie-inwestycji-w-segmencie-srednich-i-malych-firm-9220244.html",
-      "title": "ING Bank Śląski obserwuje ożywienie inwestycji w segmencie średnich i małych firm ING Bank Śląski obserwuje ożywienie inwestycji nie tylko wśród dużych firm, ale także w segmencie średnich i małych przedsiębiorstw - poinformował prezes banku Michał Bolesławski.",
-      "content_html": "",
-      "date_published": "2026-10-29T12:26:00+01:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Deflacja-w-Biedronce-siega-niemal-7-proc-Siec-mowi-co-czeka-klientow-9220243.html",
-      "url": "https://www.bankier.pl/wiadomosc/Deflacja-w-Biedronce-siega-niemal-7-proc-Siec-mowi-co-czeka-klientow-9220243.html",
-      "title": "Deflacja w Biedronce sięga niemal 7 proc. Sieć mówi, co czeka klientów Jeronimo Martins Group, właściciel Biedronki, spodziewa się niższej deflacji cen żywności w czwartym kwartale niż ponad 6-proc. odnotowana w trzecim kwartale - poinformowała podczas telekonferencji Ana Luisa Virginia, dyrektor finansowa Jeronimo Martins Group. Nie wyklucza też ponownie negatywnej sprzedaży LFL w tym okresie.",
-      "content_html": "",
-      "date_published": "2026-10-29T12:26:00+01:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Cyfrowy-Polsat-opublikowal-strategie-na-lata-2027-2030-9220235.html",
-      "url": "https://www.bankier.pl/wiadomosc/Cyfrowy-Polsat-opublikowal-strategie-na-lata-2027-2030-9220235.html",
-      "title": "Cyfrowy Polsat opublikował strategię na lata 2027-2030+",
-      "content_html": "Cyfrowy Polsat opublikował strategię na lata 2027-2030+. Jak wskazano w komunikacie - cele finansowe strategii obejmują uproszczenie bilansu i wzmocnienie fundamentów finansowych grupy oraz trwałe obniżenie zadłużenia, a w rezultacie odbudowę...",
-      "date_published": "2026-10-29T12:20:00+01:00",
       "source": "Bankier.pl"
     },
     {
@@ -49,7 +65,159 @@
       "url": "https://www.bankier.pl/wiadomosc/Budimex-w-2030-r-ma-byc-spolka-o-30-proc-wieksza-w-zakresie-przychodow-pomoc-w-tym-ma-dywersyfikacja-9220237.html",
       "title": "Budimex w 2030 r. ma być spółką o 30 proc. większą w zakresie przychodów, pomóc w tym ma dywersyfikacja",
       "content_html": "Budimex w 2030 r. ma być spółką o 30 proc. większą w zakresie przychodów, w czym pomóc ma m.in. rozbudowa rynków zagranicznych i wejście w nowe obszary - poinformował podczas konferencji prezes Artur Popko.",
-      "date_published": "2026-10-29T12:20:00+01:00",
+      "date_published": "2026-10-29T12:50:00+01:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Pekao-planuje-w-perspektywie-29-zdecydowac-ws-ewentualnej-zmiany-nazwy-9220176.html",
+      "url": "https://www.bankier.pl/wiadomosc/Pekao-planuje-w-perspektywie-29-zdecydowac-ws-ewentualnej-zmiany-nazwy-9220176.html",
+      "title": "Pekao chce odróżnić się od PKO BP. Prezes nie rezygnuje z pomysłu rebrandingu",
+      "content_html": "Ewentualne decyzje dotyczące zmiany nazwy Banku Pekao SA nie zapadną w 2027 roku, bank chce mieć jasność w tym zakresie w perspektywie 2029 roku - poinformował prezes Banku Pekao Cezary Stypułkowski.",
+      "date_published": "2026-10-29T12:47:00+01:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Lewica-rusza-po-Fundusz-Koscielny-PSL-zapowiada-sprzeciw-9220131.html",
+      "url": "https://www.bankier.pl/wiadomosc/Lewica-rusza-po-Fundusz-Koscielny-PSL-zapowiada-sprzeciw-9220131.html",
+      "title": "Lewica rusza po Fundusz Kościelny. PSL zapowiada sprzeciw",
+      "content_html": "Posłowie Lewicy chcą likwidacji Funduszu Kościelnego, w całości finansowanego z budżetu państwa. Przygotowali w tej sprawie projekt ustawy, który w czwartek trafi do laski marszałkowskiej. Musimy wreszcie naprawić ten niesprawiedliwy system...",
+      "date_published": "2026-10-29T12:46:00+01:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Trzy-tankowce-stanely-w-ogniu-po-wplynieciu-na-miny-w-ciesninie-Ormuz-9220226.html",
+      "url": "https://www.bankier.pl/wiadomosc/Trzy-tankowce-stanely-w-ogniu-po-wplynieciu-na-miny-w-ciesninie-Ormuz-9220226.html",
+      "title": "Trzy tankowce stanęły w ogniu po wpłynięciu na miny w cieśninie Ormuz",
+      "content_html": "Trzy tankowce stanęły w ogniu po wpłynięciu na miny morskie w cieśninie Ormuz w ciągu ostatniej doby – poinformował w czwartek Korpus Strażników Rewolucji Islamskiej (IRGC). Według irańskich władz jednostki poruszały się niedozwoloną...",
+      "date_published": "2026-10-29T12:45:00+01:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Rosatom-rozmawia-z-USA-Chodzi-o-atomowe-zasilanie-centrow-danych-AI-9220247.html",
+      "url": "https://www.bankier.pl/wiadomosc/Rosatom-rozmawia-z-USA-Chodzi-o-atomowe-zasilanie-centrow-danych-AI-9220247.html",
+      "title": "Rosatom rozmawia z USA. Chodzi o atomowe zasilanie centrów danych AI",
+      "content_html": "Rosyjski państwowy koncern atomowy Rosatom prowadzi rozmowy z USA o współpracy w zakresie małych reaktorów atomowych, które dostarczałyby prąd do centrów danych AI, poinformowała w czwartek rosyjska państwowa agencja RIA Novosti.",
+      "date_published": "2026-10-29T12:44:00+01:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Sikorski-Trudno-argumentowac-ze-Polska-jest-w-ruinie-jezeli-jest-zapraszana-na-G20-9220248.html",
+      "url": "https://www.bankier.pl/wiadomosc/Sikorski-Trudno-argumentowac-ze-Polska-jest-w-ruinie-jezeli-jest-zapraszana-na-G20-9220248.html",
+      "title": "Sikorski: Trudno argumentować, że Polska jest w ruinie, jeżeli jest zapraszana na G20",
+      "content_html": "Zdaniem szefa MSZ, wicepremiera Radosława Sikorskiego trudno jest argumentować, że Polska znajduje się w ruinie, jeżeli jest zapraszana na szczyt G20. Mam nadzieję, że nasz sukces dostrzeże także opozycja - dodał. Sikorski podkreślił, że...",
+      "date_published": "2026-10-29T12:44:00+01:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Cyfrowy-Polsat-opublikowal-strategie-na-lata-2027-2030-9220235.html",
+      "url": "https://www.bankier.pl/wiadomosc/Cyfrowy-Polsat-opublikowal-strategie-na-lata-2027-2030-9220235.html",
+      "title": "Cyfrowy Polsat zmienia strategię. Chce wrócić do wypłaty dywidendy",
+      "content_html": "Cyfrowy Polsat opublikował strategię na lata 2027-2030+. Jak wskazano w komunikacie - cele finansowe strategii obejmują uproszczenie bilansu i wzmocnienie fundamentów finansowych grupy oraz trwałe obniżenie zadłużenia, a w rezultacie odbudowę...",
+      "date_published": "2026-10-29T12:42:00+01:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Premie-do-1100-zl-6-5-na-oszczednosciach-i-tanszy-kredyt-Sprawdzamy-oferty-bankow-9218867.html",
+      "url": "https://www.bankier.pl/wiadomosc/Premie-do-1100-zl-6-5-na-oszczednosciach-i-tanszy-kredyt-Sprawdzamy-oferty-bankow-9218867.html",
+      "title": "Promocje bankowe pod lupą. Nawet 1100 zł premii i atrakcyjne oprocentowanie",
+      "content_html": "Premie gotówkowe sięgające nawet 1100 zł, gadżety takie jak obrączka płatnicza czy podwyższone oprocentowanie oszczędności. Przyglądamy się najciekawszym promocjom bankowym – sprawdzamy warunki aktywności, haczyki w regulaminach i podpowiadamy...",
+      "date_published": "2026-10-29T12:39:00+01:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Benzyna-i-diesel-tanieja-Sa-nowe-maksymalne-ceny-paliw-na-Wszystkich-Swietych-9220233.html",
+      "url": "https://www.bankier.pl/wiadomosc/Benzyna-i-diesel-tanieja-Sa-nowe-maksymalne-ceny-paliw-na-Wszystkich-Swietych-9220233.html",
+      "title": "Benzyna i diesel tanieją. Są nowe maksymalne ceny paliw na Wszystkich Świętych",
+      "content_html": "W piątek litr benzyny 95 ma kosztować nie więcej niż 6,51 zł, benzyny 98 – 7,36 zł, a diesla - 8,19 zł – wynika z opublikowanego w czwartek obwieszczenia Ministra Energii. Ceny maksymalne wszystkich tych paliw będą więc niższe niż...",
+      "date_published": "2026-10-29T12:39:00+01:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Rzad-zmienia-plany-finansowania-kolei-Miliardy-zlotych-zniknely-z-projektu-9220223.html",
+      "url": "https://www.bankier.pl/wiadomosc/Rzad-zmienia-plany-finansowania-kolei-Miliardy-zlotych-zniknely-z-projektu-9220223.html",
+      "title": "Rząd zmienia plany finansowania kolei. Miliardy złotych zniknęły z projektu",
+      "content_html": "Rząd ograniczył skalę planowanego wzmocnienia Funduszu Kolejowego i odsunął w czasie pełne wejście reformy - wynika z projektu ustawy zakładającej zmiany w finansowaniu Funduszu Kolejowego.",
+      "date_published": "2026-10-29T12:33:00+01:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Spor-o-obecnosc-Konfederacji-Korony-Polskiej-na-RBN-Marszalek-Sejmu-obawia-sie-wycieku-tajemnic-9220241.html",
+      "url": "https://www.bankier.pl/wiadomosc/Spor-o-obecnosc-Konfederacji-Korony-Polskiej-na-RBN-Marszalek-Sejmu-obawia-sie-wycieku-tajemnic-9220241.html",
+      "title": "Spór o obecność Konfederacji Korony Polskiej na RBN. Marszałek Sejmu obawia się wycieku tajemnic",
+      "content_html": "Marszałek Sejmu Włodzimierz Czarzasty przekazał, że skierował do prezydenta Karola Nawrockiego pismo, w którym proponuje, by rozważył możliwość niezapraszania Konfederacji Korony Polskiej na RBN. Jak ocenił, nie ma on pewności, czy przedstawiciele...",
+      "date_published": "2026-10-29T12:33:00+01:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Deflacja-w-Biedronce-siega-niemal-7-proc-Siec-mowi-co-czeka-klientow-9220243.html",
+      "url": "https://www.bankier.pl/wiadomosc/Deflacja-w-Biedronce-siega-niemal-7-proc-Siec-mowi-co-czeka-klientow-9220243.html",
+      "title": "Deflacja w Biedronce sięga niemal 7 proc. Sieć mówi, co czeka klientów",
+      "content_html": "Jeronimo Martins Group, właściciel Biedronki, spodziewa się niższej deflacji cen żywności w czwartym kwartale niż ponad 6-proc. odnotowana w trzecim kwartale - poinformowała podczas telekonferencji Ana Luisa Virginia, dyrektor finansowa Jeronimo...",
+      "date_published": "2026-10-29T12:26:00+01:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/ING-Bank-Slaski-obserwuje-ozywienie-inwestycji-w-segmencie-srednich-i-malych-firm-9220244.html",
+      "url": "https://www.bankier.pl/wiadomosc/ING-Bank-Slaski-obserwuje-ozywienie-inwestycji-w-segmencie-srednich-i-malych-firm-9220244.html",
+      "title": "ING Bank Śląski obserwuje ożywienie inwestycji w segmencie średnich i małych firm",
+      "content_html": "ING Bank Śląski obserwuje ożywienie inwestycji nie tylko wśród dużych firm, ale także w segmencie średnich i małych przedsiębiorstw - poinformował prezes banku Michał Bolesławski.",
+      "date_published": "2026-10-29T12:26:00+01:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/firmy/biedronka-liczy-na-mniejsza-deflacje-cen-zywnosci-nie-wyklucza-spadku-sprzedazy",
+      "url": "https://biznes.pap.pl/wiadomosci/firmy/biedronka-liczy-na-mniejsza-deflacje-cen-zywnosci-nie-wyklucza-spadku-sprzedazy",
+      "title": "Biedronka liczy na mniejszą deflację cen żywności, nie wyklucza spadku sprzedaży LFL w IV kw.",
+      "content_html": "Jeronimo Martins Group, właściciel Biedronki, spodziewa się niższej deflacji cen żywności w czwartym kwartale niż ponad 6-proc. odnotowana w trzecim kwartale - poinformowała podczas telekonferencji Ana Luisa Virginia, dyrektor finansowa Jeronimo Martins Group. Nie wyklucza też ponownie negatywnej sprzedaży LFL w tym okresie.\n\n\"Jeśli chodzi o koszyk, deflacja w trzecim kwartale wyniosła ponad 6 proc., w zasadzie prawie 7 proc. (…) Co do czwartego kwartału, sądzę, że deflacja koszyka nieco się poprawi, ale musimy zobaczyć, jaka będzie reakcja rynku\" - powiedziała Ana Luisa Virginia, dodając, że przez poprawę rozumie mniej ujemny wynik.\n\nSpółka podała w prezentacji, że po wzroście sprzedaży LFL w pierwszym kwartale o 2,3 proc. odnotowała jej spadki o 1,6 proc. w drugim i o 1,8 proc. w trzecim kwartale, co dało łączny spadek w okresie dziewięciu miesięcy 2026 r. w wysokości 0,4 proc. Jednocześnie w ciągu pierwszych trzech kwartałów sieć odnotowała wzrost wolumenu sprzedaży o ok. 5 proc.\n\n\"W czwartym kwartale, pamiętając, jak bardzo ważny jest okres Bożego Narodzenia, będziemy starać się projektować działalność promocyjną tak, aby utrzymać silną dynamikę sprzedaży, wykorzystując czynniki, które ją napędzają i pamiętając, że prawdopodobnie nie osiągniemy inflacji koszyka w czwartym kwartale\" - dodała dyrektor finansowa.\n\nOceniła, że polski konsument ma dochody do dyspozycji i zwiększone oszczędności. Może kupować więcej dzięki deflacji cen żywności. Jednocześnie sieć obserwuje przykłady przechodzenia do zakupów o wyższej jakości (trade-ups).\n\n\"Jeśli pojawi się inflacja cen żywności, sądzę, że klient nadal będzie w stanie kupować produkty, nie będzie musiał się powstrzymywać. Ale trudno jest przewidzieć, jakie będą zależności pomiędzy wolumenami, zakupami typu trade up, no i musimy, oczywiście brać pod uwagę konkurencję. Operujemy bowiem na bardzo konkurencyjnym rynku, na którym wszyscy odczuwają presję nie tylko ze strony deflacji, ale także związaną z kosztami pracy i paliw\" - powiedziała Ana Luisa Virginia.\n\nDodała, że skutki wyższych cen paliw w Polsce i Portugalii są widoczne obecnie głównie w kosztach transportu, gdzie odnotowywane są dwucyfrowe wzrosty.\n\n\"Jeśli chodzi o perspektywy LFL dla Biedronki, zazwyczaj nie planujemy ujemnych wyników. (…) Wiem, że nasi koledzy w Polsce zrobią wszystko, abyśmy osiągnęli wzrost. I oczywiście nie możemy wykluczyć, ale jestem pewna, iż zrobią wszystko, co w ich mocy, aby niknąć negatywnego LFL, ale to zależy od poszczególnych dynamik\" - powiedziała dyrektor finansowa.\n\nZapytana o planowane na 2027 rok podwyżki płac, Ana Luisa Virginia powiedziała, że Biedronka zazwyczaj przedstawia swoje plany na początku danego roku.\n\n\"Ale nie chodzi tylko o bycie konkurencyjnym pod kątem cen, musimy być także konkurencyjni, jeśli chodzi o rynek pracy. Dlatego wierzę, że Biedronka będzie wynagradzać słusznie i weźmie pod uwagę taką podwyżkę, która nie spowoduje spadku siły nabywczej naszych współpracowników w Polsce\" - dodała.\n\nPodtrzymała też plany otwarcia łącznie 12 sklepów sieci w 2026 r. i zapowiedziała, że w czwartym kwartale otwarcia będą rozłożone równomiernie w czasie.\n\nBiedronka po trzech kwartałach 2026 roku otworzyła 54 sklepy (powiększając sieć netto o 25 placówek) i przebudowała 155 lokalizacji. (PAP Biznes)",
+      "date_published": "2026-10-29T12:25:00+01:00",
+      "source": "PAP Biznes"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/firmy/ing-bank-slaski-obserwuje-ozywienie-inwestycji-w-segmencie-srednich-i-malych-firm",
+      "url": "https://biznes.pap.pl/wiadomosci/firmy/ing-bank-slaski-obserwuje-ozywienie-inwestycji-w-segmencie-srednich-i-malych-firm",
+      "title": "ING Bank Śląski obserwuje ożywienie inwestycji w segmencie średnich i małych firm",
+      "content_html": "ING Bank Śląski obserwuje ożywienie inwestycji nie tylko wśród dużych firm, ale także w segmencie średnich i małych przedsiębiorstw - poinformował prezes banku Michał Bolesławski.\n\n\"Cieszymy się, że rusza środkowy rynek, a nie tylko wielkie projekty infrastrukturalne – widać ożywienie inwestycji w obszarze średnich i małych przedsiębiorstw, na co czekaliśmy de facto parę lat\" - powiedział na konferencji Bolesławski.\n\n\"Jeżeli chodzi o te największe transakcje, to widzimy też przygotowanie do dużych refinansowań czy też finansowań, które będą konsolidowały ze sobą dotychczasowe kredyty, które były udzielone niektórym podmiotom\" - dodał.\n\nING Bank Śląski od 28 września oferuje kredyty hipoteczne oparte o nowy wskaźnik referencyjny POLSTR 1M Stopa Składana.\n\n„Na pewno w październiku będzie udzielonych jeszcze dużo kredytów wiborowych, natomiast już w listopadzie to prawdopodobnie już ich właściwie nie będzie” – powiedział Bolesławski.\n\n„Pojawienie się nowego benchmarku będzie też pewnie wpływało na poziom marż, ale nie wiemy, gdzie one się +ułożą+. Mamy nadzieję, że one rzeczywiście osiągają pewien poziom stabilizujący, aczkolwiek zawsze któryś z banków się wyłamuje i potem oferuje jeszcze niższy poziom” - dodał.\n\nW III kwartale 2026 r. wartość udzielonych kredytów gotówkowych wyniosła 2 mld zł (+9 proc. rdr, a wartość udzielonych kredytów hipotecznych wyniosła 5 mld zł (-1 proc. rdr), co przełożyło się na 12,4 proc. udziału w rynku. 61 proc. sprzedaży tych kredytów oparta była na stałej stopie procentowej.\n\nWiceprezes banku Bożena Graczyk poinformowała, że w krótkim okresie bank nie planuje przeprowadzać transakcji sekurytyzacyjnych,(PAP Biznes)",
+      "date_published": "2026-10-29T12:25:00+01:00",
+      "source": "PAP Biznes"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Spor-o-polexit-wraca-Kaczynski-zarzuca-Tuskowi-klamstwo-9220224.html",
+      "url": "https://www.bankier.pl/wiadomosc/Spor-o-polexit-wraca-Kaczynski-zarzuca-Tuskowi-klamstwo-9220224.html",
+      "title": "Spór o polexit wraca. Kaczyński zarzuca Tuskowi kłamstwo",
+      "content_html": "Unia Europejska jest potrzebna, ale wymaga gruntownej reformy; PiS przywróci UE obywatelom - oświadczył prezes PiS Jarosław Kaczyński. Dodał, że jeśli „ktoś chce Europy bez Unii, to niech podtrzymuje narastający kryzys, niszczący obywateli...",
+      "date_published": "2026-10-29T12:22:00+01:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/konsument/cyfrowy-polsat-opublikowal-strategie-na-lata-2027-2030",
+      "url": "https://biznes.pap.pl/wiadomosci/konsument/cyfrowy-polsat-opublikowal-strategie-na-lata-2027-2030",
+      "title": "Cyfrowy Polsat opublikował strategię na lata 2027-2030+",
+      "content_html": "Cyfrowy Polsat opublikował strategię na lata 2027-2030+. Jak wskazano w komunikacie - cele finansowe strategii obejmują uproszczenie bilansu i wzmocnienie fundamentów finansowych grupy oraz trwałe obniżenie zadłużenia, a w rezultacie odbudowę do 2030 r. potencjału do wypłat dywidendy.\n\nW ramach strategii przyjęto średnio- i długoterminowe cele finansowe w tym średnioroczny spadek EBITDA TMT o 2-3 proc. (przy szacowanej EBITDA TMT za 2026 r. na poziomie 2,9 mld zł) w latach 2026-2029, kiedy grupa skoncentruje się na transformacji i modernizacji działalności TMT w celu poprawy jakości i konkurencyjności usług oraz stworzenia silnych fundamentów wzrostu w kolejnych latach.\n\nW latach 2029-2034 grupa zakłada średnioroczny wzrost EBITDA TMT o 4-6 proc.; ukierunkowane nakłady inwestycyjne w obszarze TMT na poziomie 6-8 proc. w relacji do przychodów TMT; obniżenie wskaźnika zadłużenia netto do EBITDA trwale poniżej 2,5x, nie później niż do 2030 r.\n\nStrategia zakłada dążenie do zbycia aktywów w obszarze energetyki i nieruchomości oraz koncentracje na aktywach TMT. (PAP Biznes)",
+      "date_published": "2026-10-29T12:19:00+01:00",
+      "source": "PAP Biznes"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/firmy/budimex-w-2030-r-ma-byc-spolka-o-30-proc-wieksza-w-zakresie-przychodow-pomoc-w-tym",
+      "url": "https://biznes.pap.pl/wiadomosci/firmy/budimex-w-2030-r-ma-byc-spolka-o-30-proc-wieksza-w-zakresie-przychodow-pomoc-w-tym",
+      "title": "Budimex w 2030 r. ma być spółką o 30 proc. większą w zakresie przychodów, pomóc w tym ma dywersyfikacja",
+      "content_html": "Budimex w 2030 r. ma być spółką o 30 proc. większą w zakresie przychodów, w czym pomóc ma m.in. rozbudowa rynków zagranicznych i wejście w nowe obszary - poinformował podczas konferencji prezes Artur Popko.\n\n\"W 2030 r. będziemy spółką o 30 proc. większą w zakresie przychodów (...) i będziemy do tego podchodzili mądrze (...), a kontrakty podpisywali odpowiedzialnie. To dużo, ale przed nami ogromna fala inwestycji w Polsce (...) oraz za granicą, gdzie np. w Niemczech czeka przebudowa obiektów mostowych, a na rynku czeskim budowa autostrad\" - powiedział prezes.\n\n\"Biznesem podstawowym będzie segment budowlany, ale będziemy wchodzili w nowe obszary. (...) Musimy myśleć, jak uzupełnić portfel w segmencie drogowym innymi segmentami, stąd wyjście na rynki zagraniczne i wejście w inne segmenty\" - dodał.\n\nBudimex podał w prezentacji, że sieć autostrad w Polsce jest ukończona w ok. 93 proc., a sieć dróg ekspresowych w ok. 62 proc.\n\nGrupa widzi możliwości także m.in. w inwestycji Port Polska, segmencie energetycznym, zwłaszcza w obszarze atomu, sieciach elektroenergetycznych, czy obronności i centrach danych.\n\nBudimex w strategii 2030+ zakłada średnioroczne tempo wzrostu przychodów (CAGR) powyżej 8 proc., średnią marżę EBIT powyżej 6 proc. oraz 10-15 proc. udział rynków zagranicznych w przychodach. Planuje też kontynuację stabilnej polityki dywidendowej. (PAP Biznes)",
+      "date_published": "2026-10-29T12:19:00+01:00",
+      "source": "PAP Biznes"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/firmy/cena-maksymalna-dla-benzyny-pb95-wyniesie-w-piatek-651-zll-dla-819-zll",
+      "url": "https://biznes.pap.pl/wiadomosci/firmy/cena-maksymalna-dla-benzyny-pb95-wyniesie-w-piatek-651-zll-dla-819-zll",
+      "title": "Cena maksymalna dla benzyny Pb95 wyniesie w piątek 6,51 zł/l, a dla ON 8,19 zł/l",
+      "content_html": "W piątek 30 października maksymalna cena dla benzyny Pb95 wynosić będzie 6,51 zł/l, dla benzyny Pb98 7,36 zł/l, a dla oleju napędowego 8,19 zł/l - poinformował minister energii w obwieszczeniu.\n\nAktualnie obowiązujące ceny maksymalne to: dla benzyny Pb95 6,53 zł/l, dla benzyny Pb98 to 7,37 zł/l, a dla oleju napędowego 8,20 zł/l.\n\nRząd przywrócił od początku października do końca 2026 r. pakiet \"Ceny Paliwa Niżej\", tj. obniżył stawki VAT na paliwa z 23 proc. do 8 proc. oraz akcyzę do najniższego dopuszczalnego poziomu w UE, a także przywrócił ogłaszane przez ministra energii ceny maksymalne paliw na stacjach. (PAP Biznes)",
+      "date_published": "2026-10-29T12:19:00+01:00",
+      "source": "PAP Biznes"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Wyludzili-VAT-na-ponad-18-6-mln-zl-Siedem-osob-zasiadzie-na-lawie-oskarzonych-9220232.html",
+      "url": "https://www.bankier.pl/wiadomosc/Wyludzili-VAT-na-ponad-18-6-mln-zl-Siedem-osob-zasiadzie-na-lawie-oskarzonych-9220232.html",
+      "title": "Wyłudzili VAT na ponad 18,6 mln zł? Siedem osób zasiądzie na ławie oskarżonych",
+      "content_html": "Siedem osób, w tym obywatel Słowacji, odpowie przed sądem za wyłudzanie VAT-u przy obrocie folią stretch i granulatami tworzyw sztucznych. Mieli działać w zorganizowanej grupie przestępczej w Polsce, Czechach i na Słowacji. Akt oskarżenia trafił...",
+      "date_published": "2026-10-29T12:18:00+01:00",
       "source": "Bankier.pl"
     },
     {
@@ -59,6 +227,14 @@
       "content_html": "Sąd Rejonowy w Tarnowie uznał bpa tarnowskiego Andrzeja Jeża winnym niepowiadomienia organów ścigania o wykorzystywaniu seksualnym małoletnich przez dwóch księży z jego diecezji. Wymierzył mu karę dwóch lat ograniczenia wolności poprzez potrącenie...",
       "date_published": "2026-10-29T12:06:00+01:00",
       "source": "Bankier.pl"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/firmy/najnowsza-wersja-projektu-ustawy-o-funduszu-kolejowym-zmniejsza-skale-finansowania",
+      "url": "https://biznes.pap.pl/wiadomosci/firmy/najnowsza-wersja-projektu-ustawy-o-funduszu-kolejowym-zmniejsza-skale-finansowania",
+      "title": "Najnowsza wersja projektu ustawy o Funduszu Kolejowym zmniejsza skalę finansowania projektów",
+      "content_html": "Rząd ograniczył skalę planowanego wzmocnienia Funduszu Kolejowego i odsunął w czasie pełne wejście reformy - wynika z projektu ustawy zakładającej zmiany w finansowaniu Funduszu Kolejowego.\n\nResort infrastruktury przygotował zimą projekt ustawy, dzięki której fundusz kolejowy miał otrzymać w latach 2027-2030 dodatkowe środki na inwestycje.\n\nW najnowszej wersji projektu dodatkowe środki dla kolei w latach 2028-2030 mają wynieść ok. 24,5 mld zł, wobec ok. 31,5 mld zł przewidywanych w pierwszej wersji założeń dla lat 2027-2030.\n\nJednocześnie pełne wdrożenie nowego modelu finansowania przesunięto z 2027 r. na 2028 r.\n\nMimo ograniczenia skali projektu jego główne założenie pozostało bez zmian. Rząd chce, aby od nowej perspektywy finansowej UE na lata 2028-2034 Fundusz Kolejowy stał się podstawowym źródłem krajowego finansowania inwestycji i utrzymania infrastruktury kolejowej, stopniowo przejmując rolę obecnie pełnioną przez budżet państwa.\n\nProjekt przewiduje, że ze środków Funduszu Kolejowego finansowany będzie krajowy wkład do wszystkich projektów spółki PKP Polskie Linie Kolejowe współfinansowanych z funduszy unijnych. Fundusz ma również finansować wydatki związane z utrzymaniem i remontami infrastruktury kolejowej w ramach Programu utrzymaniowego.\n\nWedług najnowszej wersji dokumentu w latach 2028-2030 dodatkowe środki z Funduszu Kolejowego w wysokości około 24,48 mld zł zostaną przeznaczone na inwestycje realizowane w ramach Krajowego Programu Kolejowego oraz na utrzymanie infrastruktury.\n\nŹródłem dodatkowego finansowania ma być zmiana struktury obciążeń nakładanych na paliwa. Projekt zakłada podwyższenie opłaty paliwowej i równoczesne obniżenie akcyzy. Rząd podkreśla, że łączny poziom obciążeń pozostanie bez zmian, dlatego reforma nie powinna przełożyć się ani na wzrost cen paliw, ani na inflację. (PAP Biznes)",
+      "date_published": "2026-10-29T12:06:00+01:00",
+      "source": "PAP Biznes"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Burza-po-slowach-Kaczynskiego-o-Unii-Dzialanie-przeciwko-polskiej-racji-stanu-9220100.html",
@@ -85,6 +261,22 @@
       "source": "Bankier.pl"
     },
     {
+      "id": "https://biznes.pap.pl/wiadomosci/gospodarka/bgk-na-przetargu-sprzedal-obligacje-fpc-za-29-mld-zl-przy-popycie-32-mld-zl",
+      "url": "https://biznes.pap.pl/wiadomosci/gospodarka/bgk-na-przetargu-sprzedal-obligacje-fpc-za-29-mld-zl-przy-popycie-32-mld-zl",
+      "title": "BGK na przetargu sprzedał obligacje FPC za 2,9 mld zł przy popycie 3,2 mld zł",
+      "content_html": "Bank Gospodarstwa Krajowego sprzedał cztery serie obligacji FPC za łącznie 2.942,491 mln zł, przy popycie na poziomie 3.212,491 mln zł - podał bank w komunikacie.\n\nSzczegóły aukcji znajdują się w załączniku.\n\nFundusz Przeciwdziałania COVID-19 przeznaczony jest dla sektora finansów publicznych. Jego pełną obsługę zapewnia BGK, w szczególności zarządza jego płynnością oraz pozyskuje finansowanie, głównie w formie emisji obligacji. (PAP Biznes)",
+      "date_published": "2026-10-29T12:00:00+01:00",
+      "source": "PAP Biznes"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/gospodarka/trudno-przewidziec-skale-autozapisu-do-ppk-w-27-ale-mozna-zakladac-mniej",
+      "url": "https://biznes.pap.pl/wiadomosci/gospodarka/trudno-przewidziec-skale-autozapisu-do-ppk-w-27-ale-mozna-zakladac-mniej",
+      "title": "Trudno przewidzieć skalę autozapisu do PPK w '27, ale można zakładać mniej rezygnacji - Portal PPK",
+      "content_html": "Trudno przewidzieć skalę autozapisu do PPK w 2027 r. wobec 721 tys. nowych uczestników autozapisu z 2023 r., ale można zakładać, że część osób z wiedzą o PPK nie będzie rezygnować z PPK po autozapisie - ocenia ekspertka PFR Portal PPK Alina Nieplowicz. W 2026 r. liczba nowych uczestników PPK może wzrosnąć o ok. 533 tys. rdr.\n\nW 2027 r. przypada ustawowy termin ponownego autozapisu do Pracowniczych Planów Kapitałowych - 1 marca tracą skuteczność wszystkie deklaracje o rezygnacji z PPK złożone do końca lutego 2027 r., niezależnie od daty wdrożenia PPK, wielkości firmy, daty zatrudnienia pracownika czy daty złożenia rezygnacji z dokonywania wpłat do PPK.\n\nPierwszy autozapis do PPK w 2023 r. zwiększył liczbę uczestników programu o 721 tys. (wzrost między lutym a majem 2023 r.). Średni miesięczny przyrost nowych uczestników PPK w latach 2025-26 wyniósł natomiast 39 tys. osób.\n\nPFR Portal PPK nie podaje prognoz o skali autozapisu do PPK w 2027 r.\n\n\"Bardzo trudno jest to przewidzieć, ponieważ szacunki są dość rozległe. Natomiast widoczny jest jeden trend - na pewno jest tak, że w tym roku podejście do PPK jest zupełnie inne niż w 2023 r. Kilka lat sprawiło, że osoby, które były zdystansowane, mogą już empirycznie sprawdzić, że program dobrze działa i się sprawdza. Więc zakładamy, że osoby, które będą miały jakąkolwiek wiedzę na temat PPK, nie będą ponawiać rezygnacji, dlatego że im się to po prostu nie opłaca\" - powiedziała w trakcie webinaru ekspertka PFR Portal PPK Alina Niepłowicz.\n\nEkspertka PFR poinformowała, że przez pierwsze 9 miesięcy 2026 r. liczba nowych uczestników PPK wzrosła o ok. 400 tys. rdr i ten trend się utrzymał, to na koniec br. liczba może wzrosnąć do ok. 533 tys. rdr.\n\nPonowny autozapis do PPK dotyczy zarówno osób, które zostały zapisane do PPK i po zapisaniu złożyły deklarację o rezygnacji, jak i tych, które nie stały się uczestnikami PPK, ponieważ deklarację o rezygnacji złożyły przed terminem, w którym pracodawca planował zawrzeć dla nich umowę o prowadzenie PPK.\n\nWartość aktywów PPK wg stanu na dzień 28 października wzrosła do 59,96 mld zł z 58,7 mld zł na koniec września. (PAP Biznes)",
+      "date_published": "2026-10-29T11:59:00+01:00",
+      "source": "PAP Biznes"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Kontraktacja-Budimeksu-w-calym-2026-r-moze-siegnac-poziomu-8-mld-zl-9220206.html",
       "url": "https://www.bankier.pl/wiadomosc/Kontraktacja-Budimeksu-w-calym-2026-r-moze-siegnac-poziomu-8-mld-zl-9220206.html",
       "title": "Kontraktacja Budimeksu w całym 2026 r. może sięgnąć poziomu 8 mld zł",
@@ -99,6 +291,22 @@
       "content_html": "Ultimate Games szacuje jednostkowy zysk netto po trzech kwartałach 2026 roku na 7,2 mln zł, a przychody ze sprzedaży na 35,5 mln zł - podał deweloper gier w komunikacie.",
       "date_published": "2026-10-29T11:58:00+01:00",
       "source": "Bankier.pl"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/firmy/kontraktacja-budimeksu-w-calym-2026-r-moze-siegnac-poziomu-8-mld-zl",
+      "url": "https://biznes.pap.pl/wiadomosci/firmy/kontraktacja-budimeksu-w-calym-2026-r-moze-siegnac-poziomu-8-mld-zl",
+      "title": "Kontraktacja Budimeksu w całym 2026 r. może sięgnąć poziomu 8 mld zł",
+      "content_html": "Kontraktacja Budimeksu w całym 2026 r. może sięgnąć poziomu 8 mld zł - poinformowali przedstawiciele zarządu podczas konferencji.\n\n\"Kontrakty podpisane (w okresie I-III kw. 2026 r. - przyp. PAP) to ok. 6,4 mld zł (...). Poziom 8 mld zł do osiągnięcia do końca roku wydaje się łatwym zadaniem, nie licząc potencjalnego kontraktu D35, który będziemy mogli podpisać w tym roku, a może na początku przyszłego roku\" - powiedział członek zarządu Marcin Węgłowski.\n\nDodał, że kontrakty w \"poczekalni\" zapewniają dobre perspektywy, jeśli chodzi o koniec 2026 r. i początek przyszłego roku.\n\nPortfel zamówień grupy Budimex na 30 września 2026 r. wyniósł 17,3 mld zł. Wartość kontraktów podpisanych w okresie styczeń – wrzesień 2026 roku przekroczyła 6,4 mld zł, co stanowi wzrost o 64 proc. rdr.\n\n\"Praktycznie nie mamy kontraktów, które mogłyby negatywnie wpłynąć na nasze wyniki\" - ocenił Węgłowski.\n\n\"Sprzedaż jest zabezpieczona w 100 proc. na 2027 r. i na dużą część 2028 r.\" - dodał. (PAP Biznes)",
+      "date_published": "2026-10-29T11:57:00+01:00",
+      "source": "PAP Biznes"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/firmy/ultimate-games-szacuje-jednostkowy-zysk-netto-po-trzech-kwartalach-na-72-mln-zl",
+      "url": "https://biznes.pap.pl/wiadomosci/firmy/ultimate-games-szacuje-jednostkowy-zysk-netto-po-trzech-kwartalach-na-72-mln-zl",
+      "title": "Ultimate Games szacuje jednostkowy zysk netto po trzech kwartałach na 7,2 mln zł",
+      "content_html": "Ultimate Games szacuje jednostkowy zysk netto po trzech kwartałach 2026 roku na 7,2 mln zł, a przychody ze sprzedaży na 35,5 mln zł - podał deweloper gier w komunikacie.\n\nŚrodki pieniężne na koniec III kw. wyniosły 9,1 mln zł. Szacunkowy zysk operacyjny po trzech kwartałach wyniósł 8,7 mln zł. (PAP Biznes)",
+      "date_published": "2026-10-29T11:56:00+01:00",
+      "source": "PAP Biznes"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Rekord-w-PPK-Wartosc-oszczednosci-zbliza-sie-do-60-mld-zl-9220194.html",
@@ -122,14 +330,6 @@
       "title": "Krwawe uderzenie Rosji w Ukrainie. Dron trafił w peron pełen pasażerów",
       "content_html": "Co najmniej 13 osób zginęło, a dziesięć zostało rannych w ataku rosyjskiego drona na dworzec kolejowy w mieście Dniepr w środkowo-wschodniej Ukrainie – poinformowały w czwartek władze.",
       "date_published": "2026-10-29T11:33:00+01:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Pekao-planuje-w-perspektywie-29-zdecydowac-ws-ewentualnej-zmiany-nazwy-9220176.html",
-      "url": "https://www.bankier.pl/wiadomosc/Pekao-planuje-w-perspektywie-29-zdecydowac-ws-ewentualnej-zmiany-nazwy-9220176.html",
-      "title": "Pekao chce odróżnić się od PKO BP. Prezes nie rezygnuje z pomysłu rebrandingu",
-      "content_html": "Ewentualne decyzje dotyczące zmiany nazwy Banku Pekao SA nie zapadną w 2027 roku, bank chce mieć jasność w tym zakresie w perspektywie 2029 roku - poinformował prezes Banku Pekao Cezary Stypułkowski.",
-      "date_published": "2026-10-29T11:28:00+01:00",
       "source": "Bankier.pl"
     },
     {
@@ -165,12 +365,28 @@
       "source": "Bankier.pl"
     },
     {
+      "id": "https://biznes.pap.pl/wiadomosci/firmy/pekao-planuje-w-perspektywie-29-zdecydowac-ws-ewentualnej-zmiany-nazwy",
+      "url": "https://biznes.pap.pl/wiadomosci/firmy/pekao-planuje-w-perspektywie-29-zdecydowac-ws-ewentualnej-zmiany-nazwy",
+      "title": "Pekao planuje w perspektywie '29 zdecydować ws. ewentualnej zmiany nazwy",
+      "content_html": "Ewentualne decyzje dotyczące zmiany nazwy Banku Pekao SA nie zapadną w 2027 roku, bank chce mieć jasność w tym zakresie w perspektywie 2029 roku - poinformował prezes Banku Pekao Cezary Stypułkowski.\n\n\"Musimy sobie na to pytanie odpowiedzieć w perspektywie 2029 roku. Jak ja oceniam prawdopodobieństwo? (zmiany marki banku – PAP) Oceniam wysoko to prawdopodobieństwo. Nie da się prowadzić w poważny sposób instytucji, która ma kłopot z tożsamością” – powiedział na konferencji Stypułkowski.\n\n\"W trakcie minionego roku próbowalismy sobie odpowiedzieć na pytanie, gdzie stoimy. I te odpowiedzi padły. Bank ma strukturalny problem budowania tożsamości, mieszania nas, bycia numerem dwa\" - dodał.\n\nWedług wcześniejszych informacji prasowych Pekao rozważyć może zmianę nazwy banku, aby ułatwić klientom odróżnianie instytucji od PKO BP. Opcją może być zmiana nazwy na „Polbank”, która już wcześniej była obecna na polskim rynku bankowym.\n\n\"Rok 2027 z różnych powodów nie nadaje się do aktywnej dyskusji na temat nazwy. Mamy perspektywę 2029 roku, gdzie chcemy zbudować nową tożsamość banku\" - powiedział Stypułkowski.\n\n\"Jako zespół zarządczy przystąpimy do bardzo profesjonalnego procesu ewaluacji opcji, które są dostępne, wśród których oczywiście Polbank się też pojawi\" - dodał. (PAP Biznes)",
+      "date_published": "2026-10-29T11:16:00+01:00",
+      "source": "PAP Biznes"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Prezydent-Macron-wezwal-licealistow-by-od-poniedzialku-wrocili-do-nauki-9220150.html",
       "url": "https://www.bankier.pl/wiadomosc/Prezydent-Macron-wezwal-licealistow-by-od-poniedzialku-wrocili-do-nauki-9220150.html",
       "title": "Prezydent Macron wezwał licealistów, by od poniedziałku wrócili do nauki",
       "content_html": "Prezydent Francji Emmanuel Macron wezwał licealistów, by od poniedziałku, 3 listopada wrócili do nauki i opowiedział się za tym, by otwarto szkoły i wznowiono lekcje. Przekonywał, że rząd zaproponował już pewne działania w odpowiedzi na...",
       "date_published": "2026-10-29T11:14:00+01:00",
       "source": "Bankier.pl"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/firmy/dzien-na-gpw-wiekszosc-glownych-indeksow-na-nowych-maksimach-rosna-banki-ale-spada",
+      "url": "https://biznes.pap.pl/wiadomosci/firmy/dzien-na-gpw-wiekszosc-glownych-indeksow-na-nowych-maksimach-rosna-banki-ale-spada",
+      "title": "DZIEŃ NA GPW: Większość głównych indeksów na nowych maksimach; rosną banki, ale spada KGHM",
+      "content_html": "Główne indeksy przeważnie rosną, przy czym WIG20, mWIG40 i WIG przebiły ostatnie maksima. Dobrze radzą sobie banki, odbijają kursy spółek energetycznych. Rosną m.in. Modivo i XTB, a zniżkują m.in. KGHM, Orlen i Budimex.\n\nOk. godz. 11.05 WIG20 rośnie o 0,4 proc. do ok. 4.266 pkt., WIG zwyżkuje o 0,5 proc. do ok. 161.105 pkt. mWIG40 idzie w górę o 0,7 proc. do ok. 10.964 pkt., a sWIG80 traci 0,4 proc. i wynosi 30.222 pkt.\n\nIndeksy WIG20 i WIG rosną trzeci dzień z rzędu, a wskaźnik mWIG40 powrócił do wzrostów po jednym dniu przerwy. Indeksy te przebiły dotychczasowe historyczne maksima.\n\nW czwartek rosną spółki z sektora bankowego, a indeks WIG Banki zwyżkuje czwarty raz z rzędu. Od poniedziałku indeks ten zyskał już ponad 8 proc., a w czwartek wynosi 28.069 pkt.\n\nZ banków notowanych w WIG20 lub mWIG40 ponownie silnie rośnie mBank, o niemal 3 proc., a jego kurs znalazł się na nowym maksimum, 1.672,5 zł. W środę spółka zyskała 8,56 proc., a od poniedziałku jej akcje są wyżej o niemal 20 proc.\n\nKurs mBanku stopniowo idzie do góry od marca tego roku, a do środowego zamknięcia wzrósł o 56 proc.\n\nPodczas czwartkowej sesji o prawie 3 proc. zwyżkuje ING Bank Śląski, do 473,8 zł.\n\nZysk netto grupy ING Banku Śląskiego w III kw. 2026 r. wzrósł do 1.133 mln zł z 1.112 mln zł rok wcześniej i okazał się 6,4 proc. powyżej oczekiwań analityków. Zysk netto banku w III kw. 2026 r. wzrósł 1,9 proc. rok do roku i spadł 5 proc. w ujęciu kwartalnym.\n\nKurs spółki od ok. pięciu miesięcy waha się, a do środowego zamknięcia łącznie poszedł do góry o niemal 7 proc. 25 września akcje ING Banku Śląskiego był najdroższe w historii, kosztowały 485,8 zł.\n\nAlior zyskuje 1,7 proc., a Pekao zwyżkuje o 1,3 proc. Najsłabszy Millennium lekko rośnie.\n\nZysk netto grupy Banku Pekao SA w III kw. 2026 r. spadł do 1.516 mln zł z 1.905 mln zł rok wcześniej i był 3 proc. powyżej oczekiwań analityków. Skonsolidowany zysk netto Banku Pekao za trzy kwartały 2026 roku wyniósł 4.264 mln zł i był tym samym o 18 proc. niższy niż rok wcześniej.\n\nRada nadzorcza banku Pekao zgodziła się na emisję przez bank obligacji kapitałowych, które mają spełniać warunki zakwalifikowania jako instrumenty dodatkowe w Tier I. Ostateczna łączna wartość nominalna obligacji nie będzie większa niż 500 mln zł.\n\nW czwartek odbijają kursy spółek energetycznych. PGE rośnie o 1,6 proc., Enea o 1,4 proc., a Tauron o 0,8 proc.\n\nKurs PGE przez poprzednie pięć sesji głównie spadał i łącznie obniżył się o prawie 5 proc. Wcześniej spółka rosła przez około trzy miesiące. Łącznie od połowy lipca do środowego zamknięcia kurs PGE poszedł do góry o ok. 70 proc.\n\nTakże Tauron zniżkował przez pięć poprzednich sesji z rzędu, łącznie tracąc ponad 6 proc. Kurs Enei w tym czasie poszedł w dół łącznie o 4,9 proc.\n\nW indeksie WIG20 najmocniej rośnie Modivo, o 3,6 proc. Kurs spółki od początku października do zakończenia środowej sesji poszedł w górę o 13,4 proc.\n\nO 1,5 proc. zwyżkuje Allegro. Od 17 września do 28 października spółka zyskała łącznie ok. 31 proc.\n\nLekko drożeją akcje Dino. Kurs spółki odbija po czterech spadkowych sesjach, podczas których spółka straciła łącznie niemal 5 proc.\n\nWśród blue chipów najmocniej spada KGHM, o ponad 1 proc.\n\nKGHM od 13 października przeważnie zniżkuje, a do środowego zamknięcia akcje spółki staniały o ponad 13 proc.\n\nLPP zniżkuje o 0,5 proc. LPP od 17 września do 28 października zyskało 24 proc.\n\nOrlen traci 0,4 proc. do 149 zł i jest to czwarta z rzędu zniżka akcji tej spółki.\n\nKurs Orlenu od początku marca waha się, a łącznie poszedł do góry o ponad 30 proc. W międzyczasie zanotował najwyższy poziom w historii, było to 164,12 zł.\n\nMinisterstwo aktywów i resort energii przyglądają się sytuacji na rynku gazu, nie wykluczają zastosowania rozwiązań windfall tax w odpowiednim momencie - poinformował minister aktywów Wojciech Balczun w radiu RMF.\n\nOrlen Upstream Norway, wraz z Equinor, DNO i Wellesley Petroleum, zakończyli wiercenia rozpoznawcze na złożu Afrodyta na Morzu Północnym. Dane ",
+      "date_published": "2026-10-29T11:14:00+01:00",
+      "source": "PAP Biznes"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Pekao-spodziewa-sie-stabilizacji-NIM-wyniki-IV-kw-obciaza-koszty-PDO-9220165.html",
@@ -197,28 +413,12 @@
       "source": "Bankier.pl"
     },
     {
-      "id": "https://www.bankier.pl/wiadomosc/Lewica-rusza-po-Fundusz-Koscielny-PSL-zapowiada-sprzeciw-9220131.html",
-      "url": "https://www.bankier.pl/wiadomosc/Lewica-rusza-po-Fundusz-Koscielny-PSL-zapowiada-sprzeciw-9220131.html",
-      "title": "Lewica rusza po Fundusz Kościelny. PSL zapowiada sprzeciw",
-      "content_html": "Posłowie Lewicy chcą likwidacji Funduszu Kościelnego, w całości finansowanego z budżetu państwa. Przygotowali w tej sprawie projekt ustawy, który w czwartek trafi do laski marszałkowskiej. Musimy wreszcie naprawić ten niesprawiedliwy system...",
-      "date_published": "2026-10-29T10:10:00+01:00",
-      "source": "Bankier.pl"
-    },
-    {
       "id": "https://www.bankier.pl/wiadomosc/Decora-szacuje-ze-zysk-netto-grupy-za-trzy-kwartaly-26-spadl-o-4-4-proc-rdr-do-58-3-mln-zl-9220137.html",
       "url": "https://www.bankier.pl/wiadomosc/Decora-szacuje-ze-zysk-netto-grupy-za-trzy-kwartaly-26-spadl-o-4-4-proc-rdr-do-58-3-mln-zl-9220137.html",
       "title": "Decora szacuje, że zysk netto grupy za trzy kwartały '26 spadł o 4,4 proc. rdr do 58,3 mln zł",
       "content_html": "Decora szacuje, że zysk netto grupy za trzy kwartały 2026 roku spadł o 4,4 proc. rdr do 58,3 mln zł - podała spółka w komunikacie.",
       "date_published": "2026-10-29T10:06:00+01:00",
       "source": "Bankier.pl"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/firmy/decora-szacuje-ze-zysk-netto-grupy-za-trzy-kwartaly-26-spadl-o-44-proc-rdr-do-583",
-      "url": "https://biznes.pap.pl/wiadomosci/firmy/decora-szacuje-ze-zysk-netto-grupy-za-trzy-kwartaly-26-spadl-o-44-proc-rdr-do-583",
-      "title": "Decora szacuje, że zysk netto grupy za trzy kwartały '26 spadł o 4,4 proc. rdr do 58,3 mln zł",
-      "content_html": "Decora szacuje, że zysk netto grupy za trzy kwartały 2026 roku spadł o 4,4 proc. rdr do 58,3 mln zł - podała spółka w komunikacie.\n\nW tym okresie, przychody ze sprzedaży wyniosły 548,4 mln zł wobec 498,7 mln zł za trzy kwartały 2025 rok, co stanowi wzrost o 49,7 mln zł, tj. o 10,0 proc.\n\nEBIT wyniósł 76,7 mln zł wobec 76,8 mln zł rok wcześniej, co stanowi spadek o 0,1 mln zł, tj. o 0,1 proc.\n\nW pierwszych trzech kwartałach EBITDA wyniosła 101,5 mln zł wobec 97,9 mln zł rok wcześniej, co stanowi wzrost o 3,6 mln zł, tj. o 3,7 proc.\n\nOstateczne wyniki zostaną przedstawione w raporcie kwartalnym, który zostanie opublikowany 10 listopada 2026 roku. (PAP Biznes)",
-      "date_published": "2026-10-29T10:05:00+01:00",
-      "source": "PAP Biznes"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Fed-czeka-a-zloty-kontratakuje-Trwa-walka-o-linie-4-40-zl-za-euro-9220134.html",
@@ -253,22 +453,6 @@
       "source": "Bankier.pl"
     },
     {
-      "id": "https://biznes.pap.pl/wiadomosci/gospodarka/liczba-pracujacych-w-gospodarce-narodowej-w-koncu-maja-26-wzrosla-o-02-proc",
-      "url": "https://biznes.pap.pl/wiadomosci/gospodarka/liczba-pracujacych-w-gospodarce-narodowej-w-koncu-maja-26-wzrosla-o-02-proc",
-      "title": "Liczba pracujących w gospodarce narodowej w końcu maja '26 wzrosła o 0,2 proc. mdm - GUS",
-      "content_html": "Liczba pracujących w gospodarce narodowej w końcu maja 2026 r. wyniosła 15.062,9 tys. osób i wzrosła wobec kwietnia o 0,2 proc. - podał GUS.\n\nW porównaniu z majem 2025 r. wzrosła o 0,4 proc.\n\nNajwięcej osób pracowało w sekcji Przetwórstwo przemysłowe – 2715,1 tys. osób, tj. 18,0 proc. ogółu pracujących w gospodarce narodowej. Udział ten był o 0,3 pkt. proc. mniejszy niż na koniec maja 2025 r. i o 0,1 pkt. proc. mniejszy niż na koniec kwietnia 2026 r. (PAP biznes)",
-      "date_published": "2026-10-29T09:37:00+01:00",
-      "source": "PAP Biznes"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/rynki/dzien-na-rynkach-w-europie-na-gieldach-pozytywne-nastroje-1",
-      "url": "https://biznes.pap.pl/wiadomosci/rynki/dzien-na-rynkach-w-europie-na-gieldach-pozytywne-nastroje-1",
-      "title": "DZIEŃ NA RYNKACH: W Europie na giełdach pozytywne nastroje",
-      "content_html": "Na europejskich giełdach w czwartek dominują pozytywne nastroje. Inwestorzy oceniają wyniki finansowe spółek z regionu i czekają na decyzję ws. polityki monetarnej w strefie euro. Na rynku walutowym USD jest stabilny do JPY. Bitcoin jest po ok. 80.200 USD za token. Złoto traci 0,7 proc. - informują maklerzy.\n\nWskaźnik Stoxx 600 Europe zwyżkuje o 0,19 proc. Od początku roku indeks zyskał 9,0 proc.\n\nDavide Campari-Milano NV traci 5,9 proc., najmocniej od 6 miesięcy, chociaż spółka zanotowała w III kw. sprzedaż powyżej rynkowego konsensusu.\n\nBBVA spada o 5,9 proc. Hiszpański pożyczkodawca zanotował słabe przychody na krajowym rynku.\n\nAir Liquide SA zyskuje 2,9 proc., najmocniej od 8 miesięcy. Spółka podała, że jej przychody w III kw. wyniosły 7,26 mld EUR, po wzroście rdr o 10 proc., wobec szacunków 7,11 mld EUR.\n\nAdidas zwyżkuje o 3,5 proc. Dane o przychodach spółki w III kw. spełniły rynkowe oczekiwania.\n\nInwestorzy oceniają wyniki kwartalne spółek z Europy i czekają w czwartek na ogłoszenie decyzji monetarnej przez Europejski Bank Centralny.\n\nGracze skupiają uwagę na zachowaniu akcji europejskich spółek bankowych i firm z sektora nieruchmości - branż wrażliwych na stopy procentowe EBC.\n\nPod \"lupą\" inwestorów są tacy pożyczkodawcy, jak Deutsche Bank, Commerzbank, BNP Paribas, SocGen, Santander, BBVA, ING i UniCredit, oraz firmy z branży nieruchomości - m.in. Vonovia i LEG Immobilien.\n\nAnalitycy oczekują, że decydenci z EBC utrzymają koszty kredytu na dotychczasowym poziomie, biorąc pod uwagę zawirowania na rynku obligacji we Francji i wysokie ceny energii.\n\n\"Nie oczekuje się żadnej zmiany w polityce EBC, chociaż może on starać się uspokoić obawy dotyczące ryzyka związanego z długiem strefy euro, podkreślając, że bank centralny strefy euro dysponuje narzędziami pozwalającymi mu zapobiec systemowemu zagrożeniu dla gospodarki\" - powiedział Peter Dragicevich, strateg walutowy APAC CorPay Solutions.\n\nTymczasem w środę po swoim dwudniowym posiedzeniu Fed pozostawił stopy proc. w USA bez zmian w przedziale 3,75-4,00 proc.\n\nDecyzja Fed została podjęta stosunkiem głosów dziesięć do dwóch.\n\nZa podwyżką stóp proc. o 25 pb. głosowali Lisa Cook i Beth Hammack.\n\nAnalitycy ankietowani przez agencję Bloomberg oczekiwali, że stopy proc. zostaną bez zmian.\n\nPodczas poprzedniego posiedzenia Fed podniósł stopy proc. o 25 pb.\n\nDziałania Fed zaczynają przynosić efekty, ale jeszcze nie osiągnięto stabilności cen - przekazał prezes Fed, Kevin Warsh, podczas konferencji po posiedzeniu Rezerwy.\n\nWarsh dodał, że inflacja pozostaje zbyt wysoka.\n\nW czwartek na rynkach straty zmniejszają akcje spółek technologicznych po tym, jak rozczarowujące wyniki finansowe gigantów w branży wywołały wątpliwości, czy miliardy USD zainwestowane w AI przyniosą oczekiwane zyski.\n\nWalory firm technologicznych znalazły się pod presją po danych finansowych spółki Alphabet Inc., właściciela Google, który po poinformował o spadku wolnych przepływów pieniężnych w trzecim kwartale.\n\nZysk Alphabet na akcję w trzecim kwartale wyniósł 2,12 USD. Nie jest jasne, czy raportowane zyski są porównywalne z szacunkami analityków LSEG na poziomie 3,02 USD.\n\nPrzychody koncernu sięgnęły 127,58 mld USD w porównaniu do 128,22 mld USD oczekiwanymi przez rynek. Przychody wzrosły o 25 proc. w porównaniu z rokiem ubiegłym.\n\nWolne przepływy pieniężne właściciela Google’a ponownie spadły w trzecim kwartale. Wyniosły one łącznie 9,07 mld USD.\n\nTo na rynkach nasiliło obawy, że Google traci pozycję na rzecz rywali z branży AI, pomimo zainwestowania setek miliardów USD w tę technologię.\n\n\"Oczekiwania były już i tak niezwykle wysokie, więc w pewnym sensie samo ich spełnienie nie wystarcza\" - mówi Wataru Akiyama, strateg Nomura Securities.\n\n\"Jeśli spółki nie będą w stanie pokazać wzrostu zysków przekraczającego te i tak wysokie oczekiwania, to ich akcje mogą tracić po publikacji wyników\" - dodaje.\n\nAnalitycy informują, że na rynkach rosną wątpliwości co to tego, czy inwestycje w AI przyniosą zwroty wystarcza",
-      "date_published": "2026-10-29T09:35:00+01:00",
-      "source": "PAP Biznes"
-    },
-    {
       "id": "https://www.bankier.pl/wiadomosc/Kopalnie-przyszlosci-AI-i-lokalne-firmy-Dolny-Slask-szykuje-sie-na-duze-zmiany-9220114.html",
       "url": "https://www.bankier.pl/wiadomosc/Kopalnie-przyszlosci-AI-i-lokalne-firmy-Dolny-Slask-szykuje-sie-na-duze-zmiany-9220114.html",
       "title": "Kopalnie, AI i rozwój lokalnych firm. Duże zmiany w tym regionie",
@@ -283,14 +467,6 @@
       "content_html": "Ministerstwo handlu ChRL potępiło w czwartek decyzję władz USA o zakazie importu produktów od trzech chińskich przedsiębiorstw z branży genetycznej. Waszyngton zarzuca spółkom udział w inwigilacji oraz w wykorzystywaniu pracy przymusowej Ujgurów...",
       "date_published": "2026-10-29T09:27:00+01:00",
       "source": "Bankier.pl"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/gospodarka/dzien-na-fxfi-dla-pln-kluczowe-ceny-surowcow-energetycznych-i-globalny-apetyt",
-      "url": "https://biznes.pap.pl/wiadomosci/gospodarka/dzien-na-fxfi-dla-pln-kluczowe-ceny-surowcow-energetycznych-i-globalny-apetyt",
-      "title": "DZIEŃ NA FX/FI: Dla PLN kluczowe ceny surowców energetycznych i globalny apetyt na ryzyko",
-      "content_html": "W czwartek istotne dla notowań złotego pozostaną ceny surowców energetycznych oraz globalny apetyt na ryzyko; na rynku długu w centrum uwagi znajdzie się posiedzenie EBC - oceniają w porannych raportach ekonomiści.\n\n\"Zakładamy, że czwartkowe posiedzenie EBC, na którym stopy prawdopodobnie pozostaną bez zmian, nie wpłynie istotnie na globalne nastroje, chyba że konferencja Ch.Lagarde przyniesie wyraźnie jastrzębie lub gołębie sygnały. Dla rynku FX ważniejsze pozostaną ceny surowców energetycznych oraz globalny apetyt na ryzyko\" - wskazują ekonomiści PKO BP.\n\n\"Jeśli presja na spółki związane z AI utrzyma się, a sytuacja na Bliskim Wschodzie nie ulegnie poprawie, kursy EUR/PLN i USD/PLN powinny pozostać na wysokich poziomach, choć ten drugi może przesunąć się bliżej 3,93–3,94\" - dodają.\n\nEkonomiści Banku Millennium wskazują, że wpływ na notowania mogą mieć publikowane w czwartek dane makroekonomiczne z USA, w szczególności dotyczące inflacji PCE oraz dynamiki PKB.\n\nDla rynku długu kluczowym wydarzeniem w czwartek będzie posiedzenie Europejskiego Banku Centralnego.\n\n\"Chociaż oczekiwane jest utrzymanie stóp procentowych bez zmian, kluczowe będą pytania dotyczące wsparcia dla europejskich papierów skarbowych w warunkach presji, jaką obserwujemy na rynku długu w październiku. Podczas pandemii COVID-19 bank centralny zaczął skupować aktywa, gdy spread pomiędzy rentownościami 10-letnich obligacji Włoch i Niemiec sięgał 2,5–3,0 pkt proc. Dla porównania, w przypadku Francji do tego poziomu w ostatnich dniach brakowało około 1 pkt proc. (choć sytuacja fundamentalna jest odmienna)\" - wskazują ekonomiści PKO BP.\n\n\"W centrum zainteresowania znajdzie się również perspektywa podwyżki stóp EBC w grudniu, której prawdopodobieństwo rynek wycenia na 80 proc. EBC może zdecydować się na bardziej stonowany przekaz w kontekście sytuacji na europejskim rynku długu, zaostrzenia warunków monetarnych oraz ryzyka korekty w dół prognoz wzrostu gospodarczego. Takie sygnały mogłyby wspierać krótkie instrumenty na europejskim rynku długu\" - dodają.\n\nEkonomiści Banku Millennium wskazują, że niższe ceny surowców mogą wspierać rynek długu.\n\n\"Rynek obligacji pozostanie natomiast pod wpływem wydarzeń na rynku surowców energetycznych. Niższe ceny ropy naftowej mogą sprzyjać notowaniom długu, wspierając nieznaczny spadek rentowności obligacji\" - napisano w raporcie.",
-      "date_published": "2026-10-29T09:16:00+01:00",
-      "source": "PAP Biznes"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Gospodarka-lapie-oddech-Nowe-dane-przynosza-ostrozny-optymizm-9220098.html",
@@ -315,14 +491,6 @@
       "content_html": "Październik przynosi kolejne przetasowania na rynku hipotek ze zmiennym oprocentowaniem. Są zmiany wskaźników, są promocje. To przekłada się na odczuwalny spadek wysokości raty „na start”. Granica 3,5 tys. zł za niemal 600 tys. zł kredytu...",
       "date_published": "2026-10-29T09:00:00+01:00",
       "source": "Bankier.pl"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/gospodarka/wwk-w-gore-po-kilku-miesiacach-spadkow-pojawily-sie-sygnaly-poprawy-zamowien",
-      "url": "https://biznes.pap.pl/wiadomosci/gospodarka/wwk-w-gore-po-kilku-miesiacach-spadkow-pojawily-sie-sygnaly-poprawy-zamowien",
-      "title": "WWK w górę po kilku miesiącach spadków, pojawiły się sygnały poprawy zamówień w przemyśle",
-      "content_html": "Wskaźnik Wyprzedzający Koniunktury (WWK), informujący o przyszłych tendencjach w gospodarce, wzrósł w październiku 2026 r. o 1 pkt mdm, częściowo odrabiając wcześniejsze spadki - podał BIEC w komunikacie.\n\nSpośród ośmiu składowych wskaźnika trzy uległy poprawie względem września, cztery pozostały na zbliżonym poziomie, a jedna pogorszyła się.\n\nW ocenie autorów październikowy wzrost WWK można uznać za oznakę umiarkowanego optymizmu.\n\n\"Najbardziej oczekiwanym sygnałem poprawy był wzrost napływu nowych zamówień do przedsiębiorstw przetwórstwa przemysłowego. Mimo że październik przyniósł poprawę, nadal więcej firm informuje o spadku zamówień niż o ich wzroście. Przewaga ocen negatywnych zmniejszyła się do 7 pkt proc. z 11 pkt proc. miesiąc wcześniej\" - napisano.\n\nNa zwiększony napływ nowych zamówień wskazywali przede wszystkim producenci komputerów i wyrobów elektronicznych, firmy farmaceutyczne oraz przedsiębiorstwa zajmujące się przetwórstwem ropy naftowej i produkcją koksu.\n\nAutorzy raportu zwracają jednak uwagę, że część poprawy może wynikać ze wzrostu cen produktów, a nie ze zwiększenia wolumenu sprzedaży. Ankieta GUS odnosi się bowiem do wartości zamówień, co może wpływać na postrzeganie sytuacji przez respondentów.\n\nOstrożność w ocenie poprawy potwierdzają także odpowiedzi dotyczące oczekiwanego napływu zamówień w kolejnych miesiącach. W tym obszarze nie odnotowano poprawy nastrojów, a wręcz widoczne jest pogorszenie ocen.\n\nJednocześnie przedsiębiorstwa sygnalizują pogorszenie swojej sytuacji finansowej. Trudna kondycja utrzymuje się zwłaszcza w branży odzieżowej, metalowej, mineralnej oraz skórzanej.\n\nFirmy wskazują również na spadek konkurencyjności na rynkach zagranicznych. Zdaniem autorów badania wpływ mają na to rosnące koszty pracy, wyższe ceny energii oraz surowców. (PAP Biznes)",
-      "date_published": "2026-10-29T09:00:00+01:00",
-      "source": "PAP Biznes"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Polska-niemal-na-100-proc-pelna-gazu-W-UE-zapasy-wyraznie-ponizej-normy-9220095.html",
@@ -357,14 +525,6 @@
       "source": "Bankier.pl"
     },
     {
-      "id": "https://biznes.pap.pl/wiadomosci/firmy/orlen-potwierdza-duze-odkrycie-gazu-w-norwegii-spolce-przypadnie-ponad-4-mld-m",
-      "url": "https://biznes.pap.pl/wiadomosci/firmy/orlen-potwierdza-duze-odkrycie-gazu-w-norwegii-spolce-przypadnie-ponad-4-mld-m",
-      "title": "Orlen potwierdza duże odkrycie gazu w Norwegii; spółce przypadnie ponad 4 mld m sześć. surowca",
-      "content_html": "Orlen Upstream Norway, wraz z Equinor, DNO i Wellesley Petroleum, zakończyli wiercenia rozpoznawcze na złożu Afrodyta na Morzu Północnym. Dane wskazują, że wydobywalne złoża są ponad dwa razy większe niż pierwotnie zakładano - oznacza to, że ilość gazu przypadająca na Orlen przekracza 4 mld metrów sześciennych - podał Orlen w komunikacie prasowym.\n\n\"Afrodyta to złoże niekonwencjonalne, na którym pierwszy odwiert wykonano prawie 20 lat temu. Zebrane wtedy dane nie dawały jednoznacznej odpowiedzi, czy jego zagospodarowanie będzie opłacalne. Rozwój technologii upstream w ostatnich latach skłonił nas, żeby wrócić do tego projektu i wykonać nowy odwiert. Jego celem było potwierdzenie dodatkowych wolumenów gazu oraz pozyskanie danych potrzebnych do wyboru najlepszego sposobu zagospodarowania złoża\" - powiedział cytowany w komunikacie wiceprezes ds. Upstream, Wiesław Prugar.\n\n\"Już wstępna analiza pozwoliła ponad dwukrotnie podnieść szacunki zasobów wydobywalnych Afrodyty. To oznacza, że złoże może być większe niż Omega Alfa, największe odkrycie na Szelfie w ostatnich latach, w którym Orlen również uczestniczył. Wyniki prac na Afrodycie to duży sukces i ważny krok w wykorzystaniu potencjału niekonwencjonalnych złóż ropy i gazu w Norwegii - dodał.\n\nJak wskazano, Afrodyta jest jednym z najnowszych nabytków Orlen Upstream Norway. Spółka ogłosiła przejęcie 25 proc. udziałów w złożu od Var Energi w lutym 2026 roku. Wówczas szacowano, że całkowite zasoby wydobywalne Afrodyty wynoszą ok. 50 mln baryłek ekwiwalentu ropy naftowej (boe), z czego dla ORLEN – ok. 12 mln boe. \"\n\nWyniki najnowszych prac rozpoznawczych wskazują, że ilość surowca możliwa do wydobycia jest znacznie wyższa i, zgodnie z szacunkami Equinor – operatora złoża, mieści się w zakresie 77-180 mln boe. Daje to średnią 128 mln boe, w tym ponad 32 mln boe przypadające na ORLEN Upstream Norway. Oprócz gazu Afrodyta zawiera też ropę naftową i inne węglowodory. Dla porównania – średnie zasoby wydobywalne odkrytego w ubiegłym roku złoża Omega Alfa to 115 mln boe\" - napisano.\n\nPonadto poinformowano, że jednym z rozważanych scenariuszy jest podłączenie Afrodyty do infrastruktury złoża Kvitebjorn, w którym Orlen Upstream Norway i Equinor są już udziałowcami.\n\n\"Takie rozwiązanie pozwoliłoby ograniczyć koszty i przyspieszyć uruchomienie wydobycia z Afrodyty\" - napisano. (PAP Biznes)",
-      "date_published": "2026-10-29T08:52:00+01:00",
-      "source": "PAP Biznes"
-    },
-    {
       "id": "https://www.bankier.pl/wiadomosc/Fikcyjne-uslugi-podejrzane-przelewy-i-dotacja-z-PARP-CBA-zatrzymalo-kolejnych-piec-osob-9220088.html",
       "url": "https://www.bankier.pl/wiadomosc/Fikcyjne-uslugi-podejrzane-przelewy-i-dotacja-z-PARP-CBA-zatrzymalo-kolejnych-piec-osob-9220088.html",
       "title": "Fikcyjne usługi, podejrzane przelewy i dotacja z PARP. CBA zatrzymało kolejnych pięć osób",
@@ -379,14 +539,6 @@
       "content_html": "Zespół specjalnego prokuratora zażądał w czwartek kary śmierci dla byłego prezydenta Korei Płd. Jun Suk Jeola w procesie apelacyjnym – podała agencja Yonhap. W niższej instancji polityk został skazany na karę dożywotniego pozbawienia wolności za...",
       "date_published": "2026-10-29T08:45:00+01:00",
       "source": "Bankier.pl"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/firmy/dzien-na-gpw-czwartkowa-sesja-moze-rozpoczac-sie-neutralnie-9",
-      "url": "https://biznes.pap.pl/wiadomosci/firmy/dzien-na-gpw-czwartkowa-sesja-moze-rozpoczac-sie-neutralnie-9",
-      "title": "DZIEŃ NA GPW: Czwartkowa sesja może rozpocząć się neutralnie",
-      "content_html": "Czwartkowa sesja może rozpocząć się neutralnie, co sugerują kontrakty terminowe na główne europejskie indeksy - oceniają analitycy.\n\n\"W chwili pisania komentarza na rynkach azjatyckich panuje mieszana atmosfera. (...) Kontrakty terminowe na główne europejskie indeksy sugerują stosunkowo neutralne otwarcie dzisiejszej sesji. Kalendarz makroekonomiczny jest dziś wyjątkowo napięty. Poznamy wstępny odczyt PKB za III kwartał oraz wrześniową inflację PCE w USA. Decyzję w sprawie stóp procentowych ogłosi także EBC, a po sesji w USA wyniki opublikuje Amazon\" - napisał w komentarzu Michał Kozak, analityk zespołu analiz i doradztwa inwestycyjnego DI Xelion.\n\nZWRÓĆ UWAGĘ (informacje opublikowane po zamknięciu notowań na GPW):\n\n• ING Bank Śląski - zysk netto grupy ING Banku Śląskiego w III kwartale 2026 r. wzrósł do 1.133 mln zł z 1.112 mln zł rok wcześniej. Zysk okazał się 6,4 proc. powyżej oczekiwań analityków, którzy prognozowali, że wyniesie on 1.064,4 mln zł. Zysk netto banku w III kwartale 2026 r. wzrósł 1,9 proc. rok do roku i spadł 5 proc. w ujęciu kwartalnym. Po trzech kwartałach zysk netto obniżył się o 3 proc. do 3.149 mln zł m.in. w efekcie podwyższenia stawki CIT dla banków do 30 proc. z 19 proc. w 2025 roku).\n\n• Bank Pekao - zysk netto grupy Banku Pekao SA w III kwartale 2026 r. spadł do 1.516 mln zł z 1.905 mln zł rok wcześniej. Zysk okazał się 3 proc. powyżej oczekiwań analityków, którzy prognozowali, że wyniesie on 1.471,7 mln zł. Zysk netto Banku Pekao w III kwartale 2026 r. spadł 20,4 proc. rok do roku i pozostał na poziomie zbliżonym do wyniku z II kwartału. Skonsolidowany zysk netto Banku Pekao za trzy kwartały 2026 roku wyniósł 4.264 mln zł i był tym samym o 18 proc. niższy niż rok wcześniej.\n\n• Grupa Jeronimo Martins - grupa miała w trzecim kwartale 2026 roku 154 mln euro zysku netto jednostki dominującej, o 28,2 proc. mniej niż przed rokiem. Przychody wzrosły w tym okresie o 4,3 proc. do 9,5 mld euro. EBITDA spółki wyniosła 714 mln euro, co oznacza wzrost o 7,6 proc. rdr. Przychody Biedronki w III kwartale wzrosły o 0,2 proc. rdr w lokalnej walucie do 6,3 mld euro, 1,3 proc. mniej niż w III kwartale 2025 roku. Z kolei sprzedaż LFL spadła o 1,8 proc. EBITDA Biedronki wzrosła po trzech kwartałach o 5 proc. w lokalnej walucie, a marża EBITDA wzrosła do 8,2 proc. z 7,9 proc. rok wcześniej.\n\n• Budimex - spółka w przedstawionej strategii na lata 2026-2030+, zakłada średnioroczne tempo wzrostu przychodów (CAGR) powyżej 8 proc., średnią marżę EBIT powyżej 6 proc. oraz 10-15 proc. udział rynków zagranicznych w przychodach. Planuje też kontynuację stabilnej polityki dywidendowej.\n\n• XTB - spółka szacuje, że w III kw. 2026 r. miało 213,7 mln zł zysku netto, a konsensus PAP Biznes zakładał zysk netto na poziomie 185,4 mln zł. Skonsolidowane przychody osiągnęły poziom 623,3 mln zł, wobec konsensusu 631,1 mln zł. Jak napisano w komentarzu zarządu do wstępnych wyników, w III kwartale 2026 roku Grupa kontynuowała strategię budowy globalnej marki oraz dywersyfikacji oferty produktowej, co przełożyło się na istotny przyrost bazy klienckiej.\n\n• Grupa Fabryk Mebli Forte - grupa szacuje, że miała w II kw. roku obrotowego 2026/27 0,3 mln zł skonsolidowanej EBITDA, w porównaniu do 41 mln zł zysku rok wcześniej. Według szacunków jej skonsolidowane przychody wyniosły 301 mln zł, o 8 proc. więcej rdr. Konsensus PAP Biznes zakładał wynik EBITDA na poziomie 7,7 mln zł, 299 mln zł przychodów. Szacunkowa wysokość skonsolidowanego wyniku EBIT grupy za II kwartał wyniosła -15 mln zł, wobec 27 mln zł zysku przed rokiem. Konsensus PAP Biznes zakładał stratę EBIT na poziomie 6,5 mln zł.\n\n• Digital Network - spółka szacuje, że w trzecim kwartale 2026 roku miał 53 mln zł skonsolidowanych przychodów, wobec 20,9 mln zł w analogicznym okresie w 2025 roku. Według wstępnych szacunków, przychody skonsolidowane spółki po trzech kwartałach 2026 roku wyniosły łącznie 156,7 mln zł. Tym samym sprzedaż wzrosła o 176 proc., w porównaniu z okresem trzech kwartałów ",
-      "date_published": "2026-10-29T08:37:00+01:00",
-      "source": "PAP Biznes"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Miedz-pod-presja-niedoborow-Chinskie-zapasy-nizsze-niz-zwykle-9220069.html",
@@ -933,155 +1085,59 @@
       "source": "Bankier.pl"
     },
     {
-      "id": "https://www.bankier.pl/wiadomosc/Zelenski-dopuszcza-rozmowy-o-gwarancjach-bezpieczenstwa-dla-Rosji-9219919.html",
-      "url": "https://www.bankier.pl/wiadomosc/Zelenski-dopuszcza-rozmowy-o-gwarancjach-bezpieczenstwa-dla-Rosji-9219919.html",
-      "title": "Zełenski dopuszcza rozmowy o gwarancjach bezpieczeństwa dla Rosji",
-      "content_html": "Prezydent Ukrainy Wołodymyr Zełenski po raz pierwszy dopuścił możliwość rozmów o gwarancjach bezpieczeństwa dla Rosji w ramach przyszłego porozumienia pokojowego - poinformował w środę dziennik „Financial Times”. Zastrzegł jednak, że...",
-      "date_published": "2026-10-28T18:40:00+01:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Od-teraz-mozna-skladac-skargi-na-dzialanie-systemow-sztucznej-inteligencji-AI-Act-w-Polsce-nabiera-mocy-9219781.html",
-      "url": "https://www.bankier.pl/wiadomosc/Od-teraz-mozna-skladac-skargi-na-dzialanie-systemow-sztucznej-inteligencji-AI-Act-w-Polsce-nabiera-mocy-9219781.html",
-      "title": "Od teraz można składać skargi na działanie systemów sztucznej inteligencji. AI Act w Polsce nabiera mocy",
-      "content_html": "Od środy Komisja Rozwoju i Bezpieczeństwa Sztucznej Inteligencji (KRiBSI) może prowadzić kontrole i postępowania oraz nakładać kary na firmy i jednostki publiczne łamiące przepisy dotyczące AI. Do komisji można też składać skargi...",
-      "date_published": "2026-10-28T18:35:00+01:00",
-      "source": "Bankier.pl"
-    },
-    {
       "id": "https://www.bankier.pl/wiadomosc/Forte-szacuje-ze-mialo-w-II-kw-2026-27-roku-0-3-mln-zl-skonsolidowanej-EBITDA-ponizej-oczekiwan-9219915.html",
       "url": "https://www.bankier.pl/wiadomosc/Forte-szacuje-ze-mialo-w-II-kw-2026-27-roku-0-3-mln-zl-skonsolidowanej-EBITDA-ponizej-oczekiwan-9219915.html",
-      "title": "Forte zaskakuje słabymi wynikami. Zysk EBITDA niemal zniknął",
-      "content_html": "Grupa Fabryk Mebli Forte szacuje, że miała w II kw. roku obrotowego 2026/27 0,3 mln zł skonsolidowanej EBITDA, w porównaniu do 41 mln zł zysku rok wcześniej - podała spółka w komunikacie. Według szacunków jej skonsolidowane przychody wyniosły...",
+      "title": "Forte zaskakuje słabymi wynikami. Zysk EBITDA niemal zniknął Grupa Fabryk Mebli Forte szacuje, że miała w II kw. roku obrotowego 2026/27 0,3 mln zł skonsolidowanej EBITDA, w porównaniu do 41 mln zł zysku rok wcześniej - podała spółka w komunikacie. Według szacunków jej skonsolidowane przychody wyniosły 301 mln zł, o 8 proc. więcej rdr.",
+      "content_html": "",
       "date_published": "2026-10-28T18:32:00+01:00",
       "source": "Bankier.pl"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Najbardziej-uprzemyslowione-kraje-UE-zwieraja-szyki-Sojusz-Polska-Czechy-moze-zmienic-uklad-sil-9219598.html",
       "url": "https://www.bankier.pl/wiadomosc/Najbardziej-uprzemyslowione-kraje-UE-zwieraja-szyki-Sojusz-Polska-Czechy-moze-zmienic-uklad-sil-9219598.html",
-      "title": "Od Orlenu przez InPost po Becherovkę i zbrojeniówkę. Polacy i Czesi: ten sojusz może zmienić układ sił w UE",
-      "content_html": "Najnowszy raport Instytutu Sobieskiego pod tytułem „Tandem Polska–Czechy. Nowy sojusz gospodarczy w Europie” niczym na tacy pokazuje, jak rośnie strategiczne partnerstwo regionalne , które ma potencjał, aby w większym stopniu oddziaływać...",
+      "title": "Od Orlenu przez InPost po Becherovkę i zbrojeniówkę. Polacy i Czesi: ten sojusz może zmienić układ sił w UE Najnowszy raport Instytutu Sobieskiego pod tytułem „Tandem Polska–Czechy. Nowy sojusz gospodarczy w Europie” niczym na tacy pokazuje, jak rośnie strategiczne partnerstwo regionalne, które ma potencjał, aby w większym stopniu oddziaływać na całą gospodarkę Unii Europejskiej. Polska i Czechy to obok Niemiec dwa najbardziej uprzemysłowione kraje UE. Osiągnięty dotychczas poziom wymiany handlowej obu krajów stanowi zaledwie punkt wyjścia do zbudowania znacznie szerszego, strategicznego partnerstwa. Jego rozwinięciem jest zawiązanie Polsko-Czeskiej Rady Biznesu, w której skład weszli m.in. przedstawiciele Allegro, PPF Group, Škoda Group, Czechoslovak Group, Eurowag, INVESTIKA, VeloBank i Creotech Instruments.",
+      "content_html": "",
       "date_published": "2026-10-28T18:20:00+01:00",
       "source": "Bankier.pl"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Budimex-przedstawil-strategie-na-lata-2026-2030-w-ktorej-zaklada-m-in-srednia-marze-EBIT-powyzej-6-proc-9219902.html",
       "url": "https://www.bankier.pl/wiadomosc/Budimex-przedstawil-strategie-na-lata-2026-2030-w-ktorej-zaklada-m-in-srednia-marze-EBIT-powyzej-6-proc-9219902.html",
-      "title": "Budimex ujawnia strategię do 2030 roku. Chce zwiększać przychody o ponad 8 proc. rocznie",
-      "content_html": "Budimex w przedstawionej strategii na lata 2026-2030+, zakłada średnioroczne tempo wzrostu przychodów (CAGR) powyżej 8 proc., średnią marżę EBIT powyżej 6 proc. oraz 10-15 proc. udział rynków zagranicznych w przychodach. Planuje też kontynuację...",
+      "title": "Budimex ujawnia strategię do 2030 roku. Chce zwiększać przychody o ponad 8 proc. rocznie Budimex w przedstawionej strategii na lata 2026-2030+, zakłada średnioroczne tempo wzrostu przychodów (CAGR) powyżej 8 proc., średnią marżę EBIT powyżej 6 proc. oraz 10-15 proc. udział rynków zagranicznych w przychodach. Planuje też kontynuację stabilnej polityki dywidendowej.",
+      "content_html": "",
       "date_published": "2026-10-28T18:12:00+01:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Wojna-z-Iranem-kosztuje-USA-juz-47-mld-dolarow-To-nie-koniec-wydatkow-9219792.html",
-      "url": "https://www.bankier.pl/wiadomosc/Wojna-z-Iranem-kosztuje-USA-juz-47-mld-dolarow-To-nie-koniec-wydatkow-9219792.html",
-      "title": "Wojna z Iranem kosztuje USA już 47 mld dolarów. To nie koniec wydatków",
-      "content_html": "Agencja Reutera dotarła do danych Pentagonu, z których wynika, że armia USA wydała dotychczas ponad 47 miliardów dolarów na prowadzenie wojny w Iranie. Kwota ta jest o ponad 25 proc. wyższa od szacunków resortu obrony przedstawionych w lipcu...",
-      "date_published": "2026-10-28T18:00:00+01:00",
       "source": "Bankier.pl"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/XTB-szacuje-ze-w-III-kw-2026-r-mialo-213-7-mln-zl-zysku-netto-powyzej-konsensusu-9219869.html",
       "url": "https://www.bankier.pl/wiadomosc/XTB-szacuje-ze-w-III-kw-2026-r-mialo-213-7-mln-zl-zysku-netto-powyzej-konsensusu-9219869.html",
-      "title": "Zysk XTB wystrzelił o 301 proc. Broker pokazał wstępne wyniki",
-      "content_html": "XTB szacuje, że w III kw. 2026 r. miało 213,7 mln zł zysku netto, a konsensus PAP Biznes zakładał zysk netto na poziomie 185,4 mln zł. Skonsolidowane przychody osiągnęły poziom 623,3 mln zł, wobec konsensusu 631,1 mln zł.",
+      "title": "Zysk XTB wystrzelił o 301 proc. Broker pokazał wstępne wyniki XTB szacuje, że w III kw. 2026 r. miało 213,7 mln zł zysku netto, a konsensus PAP Biznes zakładał zysk netto na poziomie 185,4 mln zł. Skonsolidowane przychody osiągnęły poziom 623,3 mln zł, wobec konsensusu 631,1 mln zł.",
+      "content_html": "",
       "date_published": "2026-10-28T17:58:00+01:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Senator-Demokratow-zada-zawrocenia-tankowca-przewozacego-rosyjski-olej-napedowy-do-USA-9219889.html",
-      "url": "https://www.bankier.pl/wiadomosc/Senator-Demokratow-zada-zawrocenia-tankowca-przewozacego-rosyjski-olej-napedowy-do-USA-9219889.html",
-      "title": "Senator Demokratów żąda zawrócenia tankowca przewożącego rosyjski olej napędowy do USA",
-      "content_html": "Senator Demokratów Richard Blumenthal zażądał w środę od szefa greckiego właściciela tankowca przewożącego rosyjski olej napędowy do USA, by zawrócił i nie wchodził w przyszłe transakcje. Polityk oświadczył, że import rosyjskiego paliwa...",
-      "date_published": "2026-10-28T17:58:00+01:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/UE-zmienia-plany-wobec-Kanady-Nie-bedzie-statusu-czlonka-stowarzyszonego-9219859.html",
-      "url": "https://www.bankier.pl/wiadomosc/UE-zmienia-plany-wobec-Kanady-Nie-bedzie-statusu-czlonka-stowarzyszonego-9219859.html",
-      "title": "UE zmienia plany wobec Kanady. Nie będzie statusu „członka stowarzyszonego”?",
-      "content_html": "Państwa UE zrezygnowały z pomysłu zaoferowania Kanadzie statusu „członka stowarzyszonego”, optując za bardziej oględnym sformułowaniem „coraz ściślejszego stowarzyszenia” przed szczytem UE-Kanada w Montrealu – podał w środę portal...",
-      "date_published": "2026-10-28T17:51:00+01:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Przelom-w-eksporcie-zboza-Rosja-zezwala-na-transport-przez-Morze-Azowskie-9219870.html",
-      "url": "https://www.bankier.pl/wiadomosc/Przelom-w-eksporcie-zboza-Rosja-zezwala-na-transport-przez-Morze-Azowskie-9219870.html",
-      "title": "Przełom w eksporcie zboża? Rosja zezwala na transport przez Morze Azowskie",
-      "content_html": "Rosyjskie władze zgodziły się na transport przez Morze Azowskie zboża przeznaczonego na eksport – przekazał w środę Reuters. Agencja powołała się na informacje otrzymane z siedmiu branżowych źródeł. Od 10 lipca transport przez Morze Azowskie...",
-      "date_published": "2026-10-28T17:50:00+01:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Vucic-mial-szykowac-zamach-stanu-Kto-go-odwiodl-od-tego-pomyslu-9219881.html",
-      "url": "https://www.bankier.pl/wiadomosc/Vucic-mial-szykowac-zamach-stanu-Kto-go-odwiodl-od-tego-pomyslu-9219881.html",
-      "title": "Vučić miał szykować zamach stanu. Kto go odwiódł od tego pomysłu?",
-      "content_html": "Były prezydent Serbii Aleksandar Vuczić, który przegrał w niedzielę wybory parlamentarne ze wspieraną przez studentów listą wyborczą, był gotowy użyć siły, by utrzymać się u władzy. Od pomysłu odwiedli go europejscy przywódcy, służby...",
-      "date_published": "2026-10-28T17:50:00+01:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Netanjahu-oskarza-o-falszerstwa-wyborcze-Nie-przedstawil-dowodow-9219879.html",
-      "url": "https://www.bankier.pl/wiadomosc/Netanjahu-oskarza-o-falszerstwa-wyborcze-Nie-przedstawil-dowodow-9219879.html",
-      "title": "Netanjahu oskarża o fałszerstwa wyborcze. Nie przedstawił dowodów",
-      "content_html": "Partia Likud premiera Benjamina Netanjahu oskarżyła w środę ugrupowania arabskie o sfałszowanie wyborów. Zarzuciła im m.in. kupowanie głosów i zastraszanie wyborców. Dzień wcześniej szef izraelskiej służby bezpieczeństwa wewnętrznego Szin...",
-      "date_published": "2026-10-28T17:46:00+01:00",
       "source": "Bankier.pl"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Poslowie-od-Morawieckiego-chca-sprawdzic-marze-Orlenu-Kontrola-bez-spotkania-z-zarzadem-9219873.html",
       "url": "https://www.bankier.pl/wiadomosc/Poslowie-od-Morawieckiego-chca-sprawdzic-marze-Orlenu-Kontrola-bez-spotkania-z-zarzadem-9219873.html",
-      "title": "Posłowie od Morawieckiego chcą sprawdzić marże Orlenu. Kontrola bez spotkania z zarządem",
-      "content_html": "Podczas środowej kontroli poselskiej nie doszło do spotkania z prezesem i wiceprezesem Orlenu - przekazał w środę PAP Piotr Uściński (Rozwój Plus). Dodał, że w związku z tym przedstawiciele Rozwoju Plus przekazali pytania na piśmie z prośbą...",
+      "title": "Posłowie od Morawieckiego chcą sprawdzić marże Orlenu. Kontrola bez spotkania z zarządem Podczas środowej kontroli poselskiej nie doszło do spotkania z prezesem i wiceprezesem Orlenu - przekazał w środę PAP Piotr Uściński (Rozwój Plus). Dodał, że w związku z tym przedstawiciele Rozwoju Plus przekazali pytania na piśmie z prośbą o jak najpilniejsze odpowiedzi.",
+      "content_html": "",
       "date_published": "2026-10-28T17:35:00+01:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Skrocony-czas-pracy-Firmy-z-pilotazu-ujawnily-pierwsze-wnioski-9219815.html",
-      "url": "https://www.bankier.pl/wiadomosc/Skrocony-czas-pracy-Firmy-z-pilotazu-ujawnily-pierwsze-wnioski-9219815.html",
-      "title": "Skrócony czas pracy. Firmy z pilotażu ujawniły pierwsze wnioski",
-      "content_html": "Firmy biorące udział w pilotażu skróconego czasu pracy nie odnotowały dotychczas negatywnych zmian w funkcjonowaniu, zachowują stabilną sytuację finansową i terminowość, zwracają jednak uwagę na wyzwania związane z organizacją czasu pracy...",
-      "date_published": "2026-10-28T17:26:00+01:00",
       "source": "Bankier.pl"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Eurohold-rozpoczal-procedure-wprowadzenia-akcji-do-obrotu-na-Frankfurt-Stock-Exchange-9219858.html",
       "url": "https://www.bankier.pl/wiadomosc/Eurohold-rozpoczal-procedure-wprowadzenia-akcji-do-obrotu-na-Frankfurt-Stock-Exchange-9219858.html",
-      "title": "Eurohold rozpoczął procedurę wprowadzenia akcji do obrotu na Frankfurt Stock Exchange",
-      "content_html": "Spółka Eurohold Bulgaria rozpoczęła proces wprowadzania akcji do obrotu na giełdzie we Frankfurcie (Frankfurt Stock Exchange) - podała spółka w komunikacie.",
+      "title": "Eurohold rozpoczął procedurę wprowadzenia akcji do obrotu na Frankfurt Stock Exchange Spółka Eurohold Bulgaria rozpoczęła proces wprowadzania akcji do obrotu na giełdzie we Frankfurcie (Frankfurt Stock Exchange) - podała spółka w komunikacie.",
+      "content_html": "",
       "date_published": "2026-10-28T17:20:00+01:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Tragedia-w-Hiszpanii-zderzyly-sie-dla-pociagi-wagony-runely-ze-skarpy-9219557.html",
-      "url": "https://www.bankier.pl/wiadomosc/Tragedia-w-Hiszpanii-zderzyly-sie-dla-pociagi-wagony-runely-ze-skarpy-9219557.html",
-      "title": "Tragedia w Hiszpanii: zderzyły się dwa pociągi. Premier ogłasza żałobę narodową",
-      "content_html": "Co najmniej 64 osoby zginęły, a około 80 zostało rannych w środę w wyniku zderzenia się dwóch pociągów pasażerskich w prowincji Toledo w środkowej Hiszpanii – przekazał szef władz wspólnoty autonomicznej Kastylia-La Mancha Emiliano Garcia-Page...",
-      "date_published": "2026-10-28T17:16:00+01:00",
       "source": "Bankier.pl"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Swietna-passa-bankow-przeciwwaga-dla-spadkow-m-in-Orlenu-Dino-CD-Projektu-9219851.html",
       "url": "https://www.bankier.pl/wiadomosc/Swietna-passa-bankow-przeciwwaga-dla-spadkow-m-in-Orlenu-Dino-CD-Projektu-9219851.html",
-      "title": "Świetna passa banków przeciwwagą dla spadków m.in. Orlenu, Dino, CD Projektu",
-      "content_html": "Warszawski parkiet zakończył środowe notowania na nieznacznych plusach zdradzając wyczekiwanie inwestorów na wieczorny komunikat amerykańskiej Rezerwy Federalnej. Rajd sektora bankowego zderzył się z potężną wyprzedażą Orlenu, energetyki...",
+      "title": "Świetna passa banków przeciwwagą dla spadków m.in. Orlenu, Dino, CD Projektu Warszawski parkiet zakończył środowe notowania na nieznacznych plusach zdradzając wyczekiwanie inwestorów na wieczorny komunikat amerykańskiej Rezerwy Federalnej. Rajd sektora bankowego zderzył się z potężną wyprzedażą Orlenu, energetyki czy Dino. Indeks średnich spółek w ciągu dnia wyznaczył nowy historyczny szczyt, ale zaraz z niego zawrócił i ostatecznie sesję skończył pod kreską.",
+      "content_html": "",
       "date_published": "2026-10-28T17:16:00+01:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Flavio-Bolsonaro-przylecial-do-USA-Uciekl-z-Brazylii-mimo-zakazu-opuszczania-kraju-9219810.html",
-      "url": "https://www.bankier.pl/wiadomosc/Flavio-Bolsonaro-przylecial-do-USA-Uciekl-z-Brazylii-mimo-zakazu-opuszczania-kraju-9219810.html",
-      "title": "Flavio Bolsonaro przyleciał do USA. Uciekł z Brazylii mimo zakazu opuszczania kraju",
-      "content_html": "Senator Flavio Bolsonaro, który odmówił uznania swojej porażki w niedawnych wyborach prezydenckich w Brazylii, przybył w środę wraz z rodziną do Miami – podała agencja AP i media brazylijskie. Polityk potajemnie wyjechał z Brazylii mimo sądowego...",
-      "date_published": "2026-10-28T17:15:00+01:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Ogromne-wsparcie-dla-Ukrainy-Londyn-przeznaczy-10-mld-funtow-9219807.html",
-      "url": "https://www.bankier.pl/wiadomosc/Ogromne-wsparcie-dla-Ukrainy-Londyn-przeznaczy-10-mld-funtow-9219807.html",
-      "title": "Ogromne wsparcie dla Ukrainy. Londyn przeznaczy 10 mld funtów",
-      "content_html": "Wielka Brytania przekaże Ukrainie dodatkowe wsparcie w wys. 10 mld funtów, z czego 3 mld zostaną przeznaczone na dostawy uzbrojenia – oświadczył w środę prezydent Ukrainy Wołodymyr Zełenski po rozmowie telefonicznej z premierem Wielkiej Brytanii...",
-      "date_published": "2026-10-28T17:13:00+01:00",
       "source": "Bankier.pl"
     },
     {
