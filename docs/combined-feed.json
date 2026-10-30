@@ -5,6 +5,14 @@
   "home_page_url": "https://www.bankier.pl",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/Katastrofa-kolejowa-w-Toledo-Rosnie-bilans-ofiar-9220583.html",
+      "url": "https://www.bankier.pl/wiadomosc/Katastrofa-kolejowa-w-Toledo-Rosnie-bilans-ofiar-9220583.html",
+      "title": "Katastrofa kolejowa w Toledo. Bilans ofiar nadal wynosi 69",
+      "content_html": "Hiszpańskie ministerstwo transportu zrewidowało w czwartek wieczorem podaną wcześniej informację, że liczba ofiar śmiertelnych środowej katastrofy kolejowej w prowincji Toledo wzrosła do 74 i wyjaśniło, że bilans nadal wynosi 69.",
+      "date_published": "2026-10-30T06:27:00+01:00",
+      "source": "Bankier.pl"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Trwa-jesienny-wysp-bankowych-coinow-Czy-to-tylko-technologiczne-popisy-9220152.html",
       "url": "https://www.bankier.pl/wiadomosc/Trwa-jesienny-wysp-bankowych-coinow-Czy-to-tylko-technologiczne-popisy-9220152.html",
       "title": "Trwa jesienny wysp bankowych „coinów”. Czy to tylko technologiczne popisy?",
@@ -49,14 +57,6 @@
       "url": "https://www.bankier.pl/wiadomosc/Mniej-pogrzebow-wyzsze-koszty-Branza-funeralna-ma-pod-gorke-9220591.html",
       "title": "Nawet 3 mld zł straty. W tej branży szara strefa ma się dobrze",
       "content_html": "Malejąca liczba zgonów oznacza mniej zleceń, a rosnące koszty coraz mocniej obciążają zakłady pogrzebowe. Branża alarmuje, że podwyżki cen usług nie wystarczają, by poprawić rentowność firm. Wskazuje też na szarą strefę i przepisy,...",
-      "date_published": "2026-10-30T06:00:00+01:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/OKI-IKE-czy-IKZE-Trzy-ulgi-podatkowe-trzy-rozne-zasady-9214694.html",
-      "url": "https://www.bankier.pl/wiadomosc/OKI-IKE-czy-IKZE-Trzy-ulgi-podatkowe-trzy-rozne-zasady-9214694.html",
-      "title": "OKI, IKE czy IKZE? Trzy ulgi podatkowe, trzy różne zasady Od stycznia 2027 roku otrzymamy nowe opakowanie prawne dla naszych inwestycji, pozwalające na legalne uniknięcie podatku Belki w postaci Osobistych Kont Inwestycyjnych. Ale czy to opcja lepsza od istniejących już IKE i IKZE? Odpowiedź brzmi: to zależy dla kogo.",
-      "content_html": "",
       "date_published": "2026-10-30T06:00:00+01:00",
       "source": "Bankier.pl"
     },
@@ -131,14 +131,6 @@
       "content_html": "Rosja popiera wszelkie kroki zmierzające do odbudowy relacji z krajami europejskimi – oświadczył w piątek rosyjski lider Władimir Putin, komentując wtorkową rozmowę telefoniczną z prezydentem Finlandii Alexandrem Stubbem oraz premierem Norwegii Jonasem Gahrem Stoere.\n\nPutin stwierdził, że Rosja jest przygotowana na ewentualną wojnę z Europą, choć do niej nie dąży; ostrzegł jednocześnie, że w przypadku nadmiernej eskalacji napięcia nie będzie zwycięzców - przekazała agencja Reutera.\n\nDodał, że Moskwa nie chce, aby na Morzu Bałtyckim doszło do sytuacji podobnej do tej, jaka panuje w cieśninie Ormuz, ale jest na nią przygotowana i zareaguje na prowokacje - powiadomiła agencja Interfax, dodając, że Putin wypowiadał się na konferencji prasowej po szczycie Rosja-Afryka w Moskwie.\n\nRosyjski lider powiedział też, że zwolennicy wojny z Rosją \"nie osiągnęli swojego celu, jakim jest strategiczna klęska Rosji, i jest mało prawdopodobne, by udało im się to do 2030 roku”.\n\nWe wtorek norweski rząd poinformował, że rozmowa przywódców Finlandii i Norwegii odbyła się w porozumieniu z Ukrainą, a jej celem było bezpośrednie przekazanie Putinowi stanowiska dotyczącego przyszłych negocjacji mających na celu zakończenie wojny. Stoere i Stubb zaznaczyli, że występowali jako przedstawiciele własnych państw, a nie całej Europy. Rozmowa była kontynuacją spotkania w Oslo, gdzie w ubiegłym tygodniu Stubb i Stoere spotkali się z Wołodymyrem Zełenskim oraz amerykańskimi wysłannikami. (PAP)",
       "date_published": "2026-10-29T20:10:00+01:00",
       "source": "PAP Biznes"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Katastrofa-kolejowa-w-Toledo-Rosnie-bilans-ofiar-9220583.html",
-      "url": "https://www.bankier.pl/wiadomosc/Katastrofa-kolejowa-w-Toledo-Rosnie-bilans-ofiar-9220583.html",
-      "title": "Katastrofa kolejowa w Toledo. Bilans ofiar nadal wynosi 69",
-      "content_html": "Liczba ofiar śmiertelnych środowego wypadku kolejowego w prowincji Toledo w środkowej Hiszpanii wzrosła do 74 - wynika z danych Komisji ds. Badania Wypadków Kolejowych (CIAF), przekazanych w czwartek przez agencję EFE.",
-      "date_published": "2026-10-29T20:06:00+01:00",
-      "source": "Bankier.pl"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Putin-deklaruje-gotowosc-do-rozmow-z-Europa-i-ostrzega-przed-wojna-9220643.html",
@@ -245,10 +237,18 @@
       "source": "Bankier.pl"
     },
     {
+      "id": "https://www.bankier.pl/wiadomosc/Norwegia-nie-zwolni-rosyjskiego-statku-Chodzi-o-odszkodowanie-dla-Naftohazu-9220609.html",
+      "url": "https://www.bankier.pl/wiadomosc/Norwegia-nie-zwolni-rosyjskiego-statku-Chodzi-o-odszkodowanie-dla-Naftohazu-9220609.html",
+      "title": "Norwegia nie zwolni rosyjskiego statku. Chodzi o odszkodowanie dla Naftohazu",
+      "content_html": "Norweski sąd odrzucił wniosek rosyjskiej firmy o uchylenie zajęcia statku badawczego na Svalbardzie – poinformował w czwartek dziennik „VG”. Zajęcia statku domagał się ukraiński koncern energetyczny Naftohaz, któremu Rosjanie nie wypłacili...",
+      "date_published": "2026-10-29T18:38:00+01:00",
+      "source": "Bankier.pl"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Moody-s-podniosl-rating-Energi-do-A3-9220603.html",
       "url": "https://www.bankier.pl/wiadomosc/Moody-s-podniosl-rating-Energi-do-A3-9220603.html",
-      "title": "Moody's podniósł rating Energi do \"A3\" Agencja ratingowa Moody's podniosła długoterminowy rating dla Energi do \"A3\" z \"Baa1\" z perspektywą stabilną - podała agencja w komunikacie.",
-      "content_html": "",
+      "title": "Moody's podniósł rating Energi do \"A3\"",
+      "content_html": "Agencja ratingowa Moody's podniosła długoterminowy rating dla Energi do \"A3\" z \"Baa1\" z perspektywą stabilną - podała agencja w komunikacie.",
       "date_published": "2026-10-29T18:22:00+01:00",
       "source": "Bankier.pl"
     },
@@ -263,8 +263,8 @@
     {
       "id": "https://www.bankier.pl/wiadomosc/Murapol-wyemitowal-obligacje-o-lacznej-wartosci-150-mln-zl-9220599.html",
       "url": "https://www.bankier.pl/wiadomosc/Murapol-wyemitowal-obligacje-o-lacznej-wartosci-150-mln-zl-9220599.html",
-      "title": "Murapol wyemitował obligacje o łącznej wartości 150 mln zł Murapol wyemitował 150 tys. obligacji serii 1/2026 o łącznej wartości nominalnej 150 mln zł - podała spółka w komunikacie.",
-      "content_html": "",
+      "title": "Murapol wyemitował obligacje o łącznej wartości 150 mln zł",
+      "content_html": "Murapol wyemitował 150 tys. obligacji serii 1/2026 o łącznej wartości nominalnej 150 mln zł - podała spółka w komunikacie.",
       "date_published": "2026-10-29T18:16:00+01:00",
       "source": "Bankier.pl"
     },
@@ -279,8 +279,8 @@
     {
       "id": "https://www.bankier.pl/wiadomosc/Konsorcjum-z-Polimeksem-ma-umowe-z-Orlenem-na-max-258-mln-zl-netto-9220598.html",
       "url": "https://www.bankier.pl/wiadomosc/Konsorcjum-z-Polimeksem-ma-umowe-z-Orlenem-na-max-258-mln-zl-netto-9220598.html",
-      "title": "Konsorcjum z Polimeksem ma umowę z Orlenem na max. 258 mln zł netto Konsorcjum, w którego składzie jest Polimex Mostostal zawarło umowę z Orlenem na modernizację oczyszczalni ścieków w Płocku - podał Polimex w komunikacie. Maksymalne łączne wynagrodzenie wyniesie 258 mln zł netto.",
-      "content_html": "",
+      "title": "Konsorcjum z Polimeksem ma umowę z Orlenem na max. 258 mln zł netto",
+      "content_html": "Konsorcjum, w którego składzie jest Polimex Mostostal zawarło umowę z Orlenem na modernizację oczyszczalni ścieków w Płocku - podał Polimex w komunikacie. Maksymalne łączne wynagrodzenie wyniesie 258 mln zł netto.",
       "date_published": "2026-10-29T18:12:00+01:00",
       "source": "Bankier.pl"
     },
@@ -293,10 +293,18 @@
       "source": "PAP Biznes"
     },
     {
+      "id": "https://www.bankier.pl/wiadomosc/Mein-Kampf-i-bron-w-domu-sprawcy-strzelaniny-pod-Paryzem-9220588.html",
+      "url": "https://www.bankier.pl/wiadomosc/Mein-Kampf-i-bron-w-domu-sprawcy-strzelaniny-pod-Paryzem-9220588.html",
+      "title": "„Mein Kampf” i broń w domu sprawcy strzelaniny pod Paryżem",
+      "content_html": "Sprawca ubiegłotygodniowego zamachu w departamencie Yvelines w regionie paryskim, Kevin T., przyznał, że jego celem były osoby pochodzące z Afryki i muzułmanie - przekazał w czwartek prokurator Olivier Christen. W strzelaninie zginęła jedna osoba...",
+      "date_published": "2026-10-29T18:02:00+01:00",
+      "source": "Bankier.pl"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Wyniki-Asseco-Business-Solutions-w-III-kw-2026-roku-vs-konsensus-PAP-Biznes-tabela-9220589.html",
       "url": "https://www.bankier.pl/wiadomosc/Wyniki-Asseco-Business-Solutions-w-III-kw-2026-roku-vs-konsensus-PAP-Biznes-tabela-9220589.html",
-      "title": "Wyniki Asseco Business Solutions w III kw. 2026 roku vs. konsensus PAP Biznes (tabela) Poniżej przedstawiono wyniki Asseco Business Solutions w trzecim kwartale 2026 roku oraz ich odniesienie do konsensusu PAP Biznes i wcześniejszych wyników.",
-      "content_html": "",
+      "title": "Wyniki Asseco Business Solutions w III kw. 2026 roku vs. konsensus PAP Biznes (tabela)",
+      "content_html": "Poniżej przedstawiono wyniki Asseco Business Solutions w trzecim kwartale 2026 roku oraz ich odniesienie do konsensusu PAP Biznes i wcześniejszych wyników.",
       "date_published": "2026-10-29T18:00:00+01:00",
       "source": "Bankier.pl"
     },
