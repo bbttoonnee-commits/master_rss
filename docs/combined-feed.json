@@ -5,6 +5,22 @@
   "home_page_url": "https://www.bankier.pl",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/Policjanci-przerywaja-milczenie-po-przepychankach-z-prezydentem-Rodziny-drza-z-niepokoju-9221820.html",
+      "url": "https://www.bankier.pl/wiadomosc/Policjanci-przerywaja-milczenie-po-przepychankach-z-prezydentem-Rodziny-drza-z-niepokoju-9221820.html",
+      "title": "Komendant Główny Policji odpowiada związkowcom: Działania pod TK były w pełni zgodne z prawem",
+      "content_html": "Przewodniczący jednego ze związków zawodowych działających w policji - „Policyjna Solidarność” - napisał do komendanta głownego policji Marka Boronia list po wydarzeniach przed Trybunałem Konstytucyjnym.",
+      "date_published": "2026-11-01T15:35:00+01:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Napiecie-siega-zenitu-Teheran-bierze-na-celownik-brytyjski-wywiad-MI6-i-wojsko-9221854.html",
+      "url": "https://www.bankier.pl/wiadomosc/Napiecie-siega-zenitu-Teheran-bierze-na-celownik-brytyjski-wywiad-MI6-i-wojsko-9221854.html",
+      "title": "Napięcie sięga zenitu. Teheran bierze na celownik brytyjski wywiad MI6 i wojsko",
+      "content_html": "Iran uznał brytyjską marynarkę wojenną i siły powietrzne za organizacje terrorystyczne, a wywiad zagraniczny MI6 za „wrogą grupę” – poinformowało w niedzielę irańskie MSZ. Decyzja jest odpowiedzią na działania Londynu, w tym objęcie restrykcjami...",
+      "date_published": "2026-11-01T15:32:00+01:00",
+      "source": "Bankier.pl"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Zalew-smieciowych-tresci-zniszczy-sama-AI-Medialny-gigant-uderza-w-Doline-Krzemowa-9218783.html",
       "url": "https://www.bankier.pl/wiadomosc/Zalew-smieciowych-tresci-zniszczy-sama-AI-Medialny-gigant-uderza-w-Doline-Krzemowa-9218783.html",
       "title": "Zalew śmieciowych treści zniszczy samą AI? Medialny gigant uderza w Dolinę Krzemową",
@@ -66,14 +82,6 @@
       "title": "Zawieszony prezes TK nie odpuszcza. Święczkowski: Będę tu przychodził codziennie",
       "content_html": "Bogdan Święczkowski pojawił się w niedzielę rano pod Trybunałem Konstytucyjnym. Jestem prezesem Trybunału Konstytucyjnego. Nikt mnie nie zwolnił z tego stanowiska - powiedział do zgromadzonych. Zapowiedział, że codziennie będzie przychodził...",
       "date_published": "2026-11-01T10:29:00+01:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Policjanci-przerywaja-milczenie-po-przepychankach-z-prezydentem-Rodziny-drza-z-niepokoju-9221820.html",
-      "url": "https://www.bankier.pl/wiadomosc/Policjanci-przerywaja-milczenie-po-przepychankach-z-prezydentem-Rodziny-drza-z-niepokoju-9221820.html",
-      "title": "Policjanci przerywają milczenie po przepychankach z prezydentem. Rodziny drżą z niepokoju",
-      "content_html": "Przewodniczący jednego ze związków zawodowych działających w policji - „Policyjna Solidarność” - napisał do komendanta głownego policji Marka Boronia list po wydarzeniach przed Trybunałem Konstytucyjnym.",
-      "date_published": "2026-11-01T10:24:00+01:00",
       "source": "Bankier.pl"
     },
     {
@@ -161,14 +169,6 @@
       "url": "https://www.bankier.pl/wiadomosc/Milion-dolarow-za-wskazanie-oszusta-Trump-uruchamia-polowanie-na-wyborcze-matactwa-9218647.html",
       "title": "Milion dolarów za wskazanie oszusta. Trump uruchamia polowanie na wyborcze matactwa",
       "content_html": "Prezydent USA Donald Trump zapowiedział, że osoby, które zgłoszą udowodnione oszustwa wyborcze, otrzymają milion dolarów nagrody. Zgłoszenia mają dotyczyć oszustw z nadchodzących, jak i przeszłych wyborów.",
-      "date_published": "2026-11-01T06:00:00+01:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Nowy-pies-bojowy-w-dwa-lata-Start-up-Warhound-stawia-na-inzynierie-genetyczna-9218653.html",
-      "url": "https://www.bankier.pl/wiadomosc/Nowy-pies-bojowy-w-dwa-lata-Start-up-Warhound-stawia-na-inzynierie-genetyczna-9218653.html",
-      "title": "Nowy pies bojowy w dwa lata? Start-up Warhound stawia na inżynierię genetyczną",
-      "content_html": "Palmer Luckey, współzałożyciel amerykańskiej firmy Anduril produkującej broń autonomiczną, stworzył nowy start-up, który w oparciu o owczarki belgijskie i niemieckie ma wyhodować genetycznie zmodyfikowane psy na użytek armii USA - relacjonuje...",
       "date_published": "2026-11-01T06:00:00+01:00",
       "source": "Bankier.pl"
     },
@@ -338,38 +338,6 @@
       "title": "Nawet 3 mld zł straty. W tej branży szara strefa ma się dobrze",
       "content_html": "Malejąca liczba zgonów oznacza mniej zleceń, a rosnące koszty coraz mocniej obciążają zakłady pogrzebowe. Branża alarmuje, że podwyżki cen usług nie wystarczają, by poprawić rentowność firm. Wskazuje też na szarą strefę i przepisy,...",
       "date_published": "2026-10-31T16:18:00+01:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Oskarzony-o-morderstwo-wygenerowal-swoj-pogrzeb-w-AI-Pochowal-kozla-9218199.html",
-      "url": "https://www.bankier.pl/wiadomosc/Oskarzony-o-morderstwo-wygenerowal-swoj-pogrzeb-w-AI-Pochowal-kozla-9218199.html",
-      "title": "Oskarżony o morderstwo wygenerował swój pogrzeb w AI. Pochował kozła",
-      "content_html": "Oskarżony o morderstwo mieszkaniec Indii wykorzystał AI do stworzenia zdjęć z uroczystości pogrzebowej, by sfingować własną śmierć i uniknąć wyroku. Udało mu się nawet uzyskać akt zgonu, zanim władze odkryły, że zamiast niego na stosie...",
-      "date_published": "2026-10-31T16:00:00+01:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Meta-Google-i-TikTok-przymykaly-oko-podczas-wyborow-Miazdzacy-raport-o-biernosci-Big-Techow-9218502.html",
-      "url": "https://www.bankier.pl/wiadomosc/Meta-Google-i-TikTok-przymykaly-oko-podczas-wyborow-Miazdzacy-raport-o-biernosci-Big-Techow-9218502.html",
-      "title": "Meta, Google i TikTok przymykały oko podczas wyborów? Miażdżący raport o bierności Big Techów",
-      "content_html": "Europejskie Obserwatorium Mediów Cyfrowych (EDMO) wykazało wady w moderacji dezinformacji przez platformy społecznościowe podczas wyborów w Rumunii, Mołdawii, Bułgarii, na Węgrzech, Cyprze i Malcie w 2025 i 2026 r. Problemem były m.in. nielegalne...",
-      "date_published": "2026-10-31T16:00:00+01:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Tajemnica-mobilizacji-zagrozona-Wojskowi-domagaja-sie-audytu-systemow-9219140.html",
-      "url": "https://www.bankier.pl/wiadomosc/Tajemnica-mobilizacji-zagrozona-Wojskowi-domagaja-sie-audytu-systemow-9219140.html",
-      "title": "Tajemnica mobilizacji zagrożona? Wojskowi domagają się audytu systemów",
-      "content_html": "Po doniesieniach o awarii serwerów w Wojskowym Centrum Rekrutacji w Opolu pojawiły się pytania o bezpieczeństwo wojskowych baz danych. – Trudno wskazać obszar, w którym tajemnica miałaby większe znaczenie niż właśnie mobilizacja – powiedział...",
-      "date_published": "2026-10-31T16:00:00+01:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Koszty-w-Madrycie-i-Londynie-zjadaja-stypendia-UE-chce-dostosowac-stawki-Erasmusa-9219398.html",
-      "url": "https://www.bankier.pl/wiadomosc/Koszty-w-Madrycie-i-Londynie-zjadaja-stypendia-UE-chce-dostosowac-stawki-Erasmusa-9219398.html",
-      "title": "Koszty w Madrycie i Londynie zjadają stypendia. UE chce dostosować stawki Erasmusa",
-      "content_html": "Ponad 47 mld euro - tyle według Parlamentu Europejskiego powinno się znaleźć w puli przyszłego budżetu na program Erasmus+. To o ponad 20 mld euro więcej niż w poprzednich wieloletnich ramach finansowych i o blisko 7 mld euro więcej, niż zaproponowała...",
-      "date_published": "2026-10-31T16:00:00+01:00",
       "source": "Bankier.pl"
     }
   ]
