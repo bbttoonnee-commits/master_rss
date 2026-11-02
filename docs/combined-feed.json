@@ -5,6 +5,14 @@
   "home_page_url": "https://www.bankier.pl",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/Eurocash-szacuje-ze-w-III-kw-2026-roku-mial-216-mln-EBITDA-powyzej-oczekiwan-9222475.html",
+      "url": "https://www.bankier.pl/wiadomosc/Eurocash-szacuje-ze-w-III-kw-2026-roku-mial-216-mln-EBITDA-powyzej-oczekiwan-9222475.html",
+      "title": "Eurocash szacuje, że w III kw. 2026 roku miał 216 mln EBITDA, powyżej oczekiwań",
+      "content_html": "Szacowane przychody Eurocashu w trzecim kwartale 2026 roku wyniosły 7,28 mld zł, zysk EBITDA wyniósł 216 mln zł, a zysk netto j.d. był na poziomie 16 mln zł - poinformowała spółka w komunikacie. Konsensus PAP Biznes zakładał 7,19 mld zł...",
+      "date_published": "2026-11-02T21:36:00+01:00",
+      "source": "Bankier.pl"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Wyniki-Eurocashu-w-III-kwartale-2026-roku-vs-konsensus-PAP-tabela-9222468.html",
       "url": "https://www.bankier.pl/wiadomosc/Wyniki-Eurocashu-w-III-kwartale-2026-roku-vs-konsensus-PAP-tabela-9222468.html",
       "title": "Wyniki Eurocashu w III kwartale 2026 roku vs. konsensus PAP (tabela)",
@@ -205,11 +213,27 @@
       "source": "Bankier.pl"
     },
     {
-      "id": "https://www.bankier.pl/wiadomosc/Wielkie-cwiczenia-wojskowe-w-Polsce-Wezma-w-nich-udzial-zolnierze-z-Ukrainy-9222398.html",
-      "url": "https://www.bankier.pl/wiadomosc/Wielkie-cwiczenia-wojskowe-w-Polsce-Wezma-w-nich-udzial-zolnierze-z-Ukrainy-9222398.html",
-      "title": "Wielkie ćwiczenia wojskowe w Polsce. Wezmą w nich udział żołnierze z Ukrainy",
-      "content_html": "Po niemal dwóch latach szczytów politycznych tzw. koalicja chętnych, wspierająca Ukrainę w walce przeciwko agresji ze strony Rosji, przechodzi wreszcie do praktycznych działań, organizując ćwiczenia wojskowe w Polsce – napisał w poniedziałek...",
-      "date_published": "2026-11-02T17:46:00+01:00",
+      "id": "https://www.bankier.pl/wiadomosc/Prokuratura-bada-wydarzenia-w-TK-Wplynelo-kilka-zawiadomien-9222188.html",
+      "url": "https://www.bankier.pl/wiadomosc/Prokuratura-bada-wydarzenia-w-TK-Wplynelo-kilka-zawiadomien-9222188.html",
+      "title": "Prokuratura bada wydarzenia w TK. Wpłynęło kilka zawiadomień",
+      "content_html": "Do prokuratury wpłynęło pięć zawiadomień w sprawie wydarzeń wokół Trybunału Konstytucyjnego, w tym podejrzenia zamachu na konstytucyjny organ, naruszenia nietykalności sędziów TK oraz czynnej napaści na prezydenta – poinformował rzecznik...",
+      "date_published": "2026-11-02T17:38:00+01:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Prezes-NRA-Ani-prezydent-ani-prezes-TK-nie-moga-dowolnie-decydowac-ktorzy-wybrani-przez-Sejm-sedziowie-beda-orzekac-9222365.html",
+      "url": "https://www.bankier.pl/wiadomosc/Prezes-NRA-Ani-prezydent-ani-prezes-TK-nie-moga-dowolnie-decydowac-ktorzy-wybrani-przez-Sejm-sedziowie-beda-orzekac-9222365.html",
+      "title": "Prezes NRA: Ani prezydent, ani prezes TK nie mogą dowolnie decydować, którzy wybrani przez Sejm sędziowie będą orzekać",
+      "content_html": "Ani prezydent, ani prezes Trybunału Konstytucyjnego nie mogą dowolnie decydować, którzy prawidłowo wybrani przez Sejm sędziowie będą orzekać — mówił PAP prezes Naczelnej Rady Adwokackiej Przemysław Rosati. Dodał, że widzi problem dot...",
+      "date_published": "2026-11-02T17:37:00+01:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Rzad-nie-odpuszcza-zmian-w-podatkach-Wyzszy-CIT-i-nowe-progi-PIT-9222350.html",
+      "url": "https://www.bankier.pl/wiadomosc/Rzad-nie-odpuszcza-zmian-w-podatkach-Wyzszy-CIT-i-nowe-progi-PIT-9222350.html",
+      "title": "Rząd nie odpuszcza zmian w podatkach. Wyższy CIT i nowe progi PIT",
+      "content_html": "Rząd chce w IV kw. ponownie przyjąć projekt ustawy dotyczący wyższego CIT dla dużych firm i progów PIT - wynika z wykazu prac legislacyjnych Rady Ministrów.",
+      "date_published": "2026-11-02T17:32:00+01:00",
       "source": "Bankier.pl"
     },
     {
@@ -217,14 +241,6 @@
       "url": "https://www.bankier.pl/wiadomosc/Grafika-AI-z-Nawrockim-obiegla-siec-Wiceminister-nie-zamierza-jej-usuwac-9222353.html",
       "title": "Grafika AI z Nawrockim obiegła sieć. Wiceminister nie zamierza jej usuwać",
       "content_html": "Odbiorcy wiedzieli, że grafika przedstawiająca prezydenta w drzwiach TK została wygenerowana przez AI; nie zamierzam jej usuwać – powiedział PAP przewodniczący Centrum Walki z Dezinformacją Paweł Olszewski, który udostępnił ją na platformie...",
-      "date_published": "2026-11-02T17:32:00+01:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Rzad-nie-odpuszcza-zmian-w-podatkach-Wyzszy-CIT-i-nowe-progi-PIT-9222350.html",
-      "url": "https://www.bankier.pl/wiadomosc/Rzad-nie-odpuszcza-zmian-w-podatkach-Wyzszy-CIT-i-nowe-progi-PIT-9222350.html",
-      "title": "Rząd nie odpuszcza zmian w podatkach. Wyższy CIT i nowe progi PIT Rząd chce w IV kw. ponownie przyjąć projekt ustawy dotyczący wyższego CIT dla dużych firm i progów PIT - wynika z wykazu prac legislacyjnych Rady Ministrów.",
-      "content_html": "",
       "date_published": "2026-11-02T17:32:00+01:00",
       "source": "Bankier.pl"
     },
@@ -467,6 +483,14 @@
       "content_html": "TDJ sprzedał Grupie Pruszyński spółkę Enson, producenta konstrukcji montażowych dla farm fotowoltaicznych - poinformowało TDJ w komunikacie prasowym.",
       "date_published": "2026-11-02T14:06:00+01:00",
       "source": "Bankier.pl"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/firmy/tdj-sprzedal-grupie-pruszynski-spolke-enson",
+      "url": "https://biznes.pap.pl/wiadomosci/firmy/tdj-sprzedal-grupie-pruszynski-spolke-enson",
+      "title": "TDJ sprzedał Grupie Pruszyński spółkę Enson",
+      "content_html": "TDJ sprzedał Grupie Pruszyński spółkę Enson, producenta konstrukcji montażowych dla farm fotowoltaicznych - poinformowało TDJ w komunikacie prasowym.\n\n\"Dzięki dołączeniu do Grupy Pruszyński możemy zwiększyć roczną zdolność produkcyjną o ponad połowę, skrócić łańcuch dostaw, uzyskać korzystniejszy dostęp do materiału i lepiej planować realizację najbardziej wymagających projektów. Dla naszych klientów oznacza to większą przewidywalność terminów i kosztów, a to w inwestycjach fotowoltaicznych ma ogromne znaczenie\" - powiedział, cytowany w komunikacie prasowym, wiceprezes Enson Paweł Wiktorowicz.\n\nEnson to polski producent systemów montażowych dla wielkoskalowych instalacji fotowoltaicznych, specjalizujący się w projektowaniu, optymalizacji i rozwoju konstrukcji stalowych dla farm PV.\n\nGrupa Pruszyński to jedna z czołowych polskich grup działających w sektorze stalowych wyrobów budowlanych. (PAP Biznes)",
+      "date_published": "2026-11-02T14:05:00+01:00",
+      "source": "PAP Biznes"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Prawda-o-kultowej-kanapce-z-McDonald-s-Gigant-fast-foodow-odpowie-przed-sadem-9222178.html",
@@ -787,14 +811,6 @@
       "content_html": "PolTREG zakłada osiągniecie dwóch najważniejszych kamieni milowych w perspektywie roku - złożenia wniosku do EMA o rejestrację PTG-007 oraz znalezienia partnera technologicznego do projektu PTG-023 – poinformowali przedstawiciele zarządu. Środki...",
       "date_published": "2026-11-02T11:04:00+01:00",
       "source": "Bankier.pl"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/firmy/sygnis-ma-list-intencyjny-z-innova-green-dot-wspolpracy-przy-utworzeniu-zakladu",
-      "url": "https://biznes.pap.pl/wiadomosci/firmy/sygnis-ma-list-intencyjny-z-innova-green-dot-wspolpracy-przy-utworzeniu-zakladu",
-      "title": "Sygnis ma list intencyjny z Innova Green dot. współpracy przy utworzeniu zakładu produkcji światłowodów",
-      "content_html": "Sygnis podpisał z Innova Green list intencyjny dotyczący współpracy przy utworzeniu zakładu produkcji światłowodów oraz zatwierdził z tą spółką plan inwestycyjny - podała spółka w komunikacie.\n\nW ramach tego projektu Sygnis ma odpowiadać za kwestie technologiczne oraz odpowiadać za opracowanie koncepcji technologicznej zakładu produkcyjnego, dobór i konfigurację procesów i urządzeń, przygotowanie założeń produkcyjnych oraz technologiczne uruchomienie zakładu produkcyjnego, a INNOVA ma odpowiadać przede wszystkim za zapewnienie finansowania projektu oraz wsparcie jego realizacji od strony inwestycyjnej, organizacyjnej, instytucjonalnej i lokalizacyjnej.\n\nStrony szacują całkowite nakłady inwestycyjne niezbędne do realizacji projektu na około 65-70 mln zł netto. Innova zadeklarowała zamiar zapewnienia inicjalnego finansowania Projektu w kwocie do 4,5 mln zł.\n\nSpółka podała, że zatwierdziła z Innova plan inwestycyjny, ze szczególnym uwzględnieniem budżetu i harmonogramu zakupu gruntu pod inwestycję.\n\n\"Zatwierdzenie przedmiotowego planu inwestycyjnego stanowi kluczowy etap realizacji Projektu, istotnie zwiększający prawdopodobieństwo jego realizacji poprzez przejście stron z fazy przygotowawczej i koncepcyjnej do fazy wykonawczej oraz stworzenie podstaw organizacyjnych i finansowych do rozpoczęcia zasadniczych działań w ramach Projektu\" - napisano w komunikacie.(PAP Biznes)",
-      "date_published": "2026-11-02T11:02:00+01:00",
-      "source": "PAP Biznes"
     },
     {
       "id": "https://biznes.pap.pl/wiadomosci/firmy/srednie-ceny-mkw-w-x-niemal-bez-zmian-na-wiekszosci-rynkow-big-data",
