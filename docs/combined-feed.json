@@ -5,6 +5,14 @@
   "home_page_url": "https://www.bankier.pl",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/Rosjanie-uderzyli-w-szkole-gdzie-wydawano-pomoc-Sa-dziesiatki-ofiar-9222449.html",
+      "url": "https://www.bankier.pl/wiadomosc/Rosjanie-uderzyli-w-szkole-gdzie-wydawano-pomoc-Sa-dziesiatki-ofiar-9222449.html",
+      "title": "Rosjanie uderzyli w szkołę, gdzie wydawano pomoc. Są dziesiątki ofiar",
+      "content_html": "Liczba ofiar śmiertelnych rosyjskich ataków na miejscowość Komyszuwacha w obwodzie zaporoskim wzrosła do 24 osób - podała w poniedziałek Państwowa Służba ds. Sytuacji Nadzwyczajnych (DSNS). Wcześniej prezydent Ukrainy Wołodymyr Zełenski...",
+      "date_published": "2026-11-02T20:00:00+01:00",
+      "source": "Bankier.pl"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Norwegia-alarmuje-Polacy-przestaja-ratowac-jej-rynek-pracy-9222440.html",
       "url": "https://www.bankier.pl/wiadomosc/Norwegia-alarmuje-Polacy-przestaja-ratowac-jej-rynek-pracy-9222440.html",
       "title": "Norwegia alarmuje. Polacy przestają ratować jej rynek pracy",
@@ -35,14 +43,6 @@
       "content_html": "Zabka Group zwiększa maksymalną liczbę akcji w ramach programu skupu akcji własnych do 13,42 mln z 8,6 mln wcześniej, a tym samym zwiększa maksymalną kwotę pieniężną przeznaczoną na program z 273 mln zł na 363 mln zł w celu realizacji...",
       "date_published": "2026-11-02T19:34:00+01:00",
       "source": "Bankier.pl"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/firmy/zabka-zwieksza-maks-liczbe-akcji-do-nabycia-do-1342-mln-w-ramach-programu-skupu",
-      "url": "https://biznes.pap.pl/wiadomosci/firmy/zabka-zwieksza-maks-liczbe-akcji-do-nabycia-do-1342-mln-w-ramach-programu-skupu",
-      "title": "Żabka zwiększa maks. liczbę akcji do nabycia do 13,42 mln w ramach programu skupu akcji własnych",
-      "content_html": "Zabka Group zwiększa maksymalną liczbę akcji w ramach programu skupu akcji własnych do 13,42 mln z 8,6 mln wcześniej, a tym samym zwiększa maksymalną kwotę pieniężną przeznaczoną na program z 273 mln zł na 363 mln zł w celu realizacji zobowiązań wynikających z długoterminowego programu motywacyjnego na lata 2025-2027 - podała spółka w komunikacie.\n\nJak podano, cena zakupu za jedną akcję w ramach programu, nie może być niższa niż wartość nominalna danej akcji według stanu na dzień jej nabycia oraz wyższa niż 105 proc. obowiązującej średniej ceny rynkowej z notowań z 5 dni sesyjnych poprzedzających dzień zakupu (lub - w zależności od okoliczności - dzień zaciągnięcia zobowiązania do dokonania transakcji), przy czym w żadnym wypadku nie może być wyższa niż 32 zł.\n\n\"Zmiana kluczowych parametrów Programu ma na celu zapewnić spółce możliwość dalszej realizacji LTIP 2025-2027\" - napisano. (PAP Biznes)",
-      "date_published": "2026-11-02T19:32:00+01:00",
-      "source": "PAP Biznes"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Mostostal-Warszawa-ma-umowe-z-Politechnika-Poznanska-za-307-3-mln-zl-brutto-9222442.html",
@@ -224,7 +224,7 @@
       "id": "https://biznes.pap.pl/wiadomosci/firmy/szacunkowe-wyniki-tauronu-w-iii-kw-2026-roku-vs-konsensus-pap-tabela",
       "url": "https://biznes.pap.pl/wiadomosci/firmy/szacunkowe-wyniki-tauronu-w-iii-kw-2026-roku-vs-konsensus-pap-tabela",
       "title": "Szacunkowe wyniki Tauronu w III kw. 2026 roku vs. konsensus PAP (tabela)",
-      "content_html": "Poniżej przedstawiamy szacunkowe wyniki Tauronu w trzecim kwartale 2026 roku i ich odniesienie do konsensusu PAP.",
+      "content_html": "Poniżej przedstawiono szacunkowe wyniki Tauronu w trzecim kwartale 2026 roku i ich odniesienie do konsensusu PAP Biznes.",
       "date_published": "2026-11-02T17:28:00+01:00",
       "source": "PAP Biznes"
     },
@@ -291,6 +291,14 @@
       "content_html": "Tauron Zielona Energia i Energia z Rolnictwa sp. z o.o. zgłosiły do UOKiK koncentrację polegającą na utworzeniu spółki JV - podał urząd w komunikacie. Spółka ma zajmować się identyfikacją, rozwojem, koordynacją, finansowaniem oraz...",
       "date_published": "2026-11-02T16:40:00+01:00",
       "source": "Bankier.pl"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/firmy/tauron-ze-i-energia-z-rolnictwa-chca-utworzyc-jv-w-sektorze-oze",
+      "url": "https://biznes.pap.pl/wiadomosci/firmy/tauron-ze-i-energia-z-rolnictwa-chca-utworzyc-jv-w-sektorze-oze",
+      "title": "Tauron ZE i Energia z Rolnictwa chcą utworzyć JV w sektorze OZE",
+      "content_html": "Tauron Zielona Energia i Energia z Rolnictwa sp. z o.o. zgłosiły do UOKiK koncentrację polegającą na utworzeniu spółki JV - podał urząd w komunikacie. Spółka ma zajmować się identyfikacją, rozwojem, koordynacją, finansowaniem oraz nadzorem nad portfelem projektów odnawialnych źródeł energii i magazynów energii.\n\nEnergia z Rolnictwa sp. z o.o. koncentruje obecnie działalność na przygotowaniu, organizacji i realizacji przedsięwzięć inwestycyjnych związanych z transformacją energetyczną podmiotów Grupy KOWR. (PAP Biznes)",
+      "date_published": "2026-11-02T16:39:00+01:00",
+      "source": "PAP Biznes"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Morawiecki-oskarza-ludzi-Tuska-o-zamach-Bedzie-nowa-komisja-sledcza-9222236.html",
@@ -533,6 +541,14 @@
       "source": "Bankier.pl"
     },
     {
+      "id": "https://biznes.pap.pl/wiadomosci/firmy/cena-maksymalna-dla-benzyny-pb95-wyniesie-we-wtorek-645-zll-dla-814-zll",
+      "url": "https://biznes.pap.pl/wiadomosci/firmy/cena-maksymalna-dla-benzyny-pb95-wyniesie-we-wtorek-645-zll-dla-814-zll",
+      "title": "Cena maksymalna dla benzyny Pb95 wyniesie we wtorek 6,45 zł/l, a dla ON 8,14 zł/l",
+      "content_html": "We wtorek 3 listopada maksymalna cena dla benzyny Pb95 wynosić będzie 6,45 zł/l, dla benzyny Pb98 7,31 zł/l, a dla oleju napędowego 8,14 zł/l - poinformował minister energii w obwieszczeniu.\n\nAktualnie obowiązujące ceny maksymalne to: dla benzyny Pb95 6,48 zł/l, dla benzyny Pb98 to 7,32 zł/l, a dla oleju napędowego 8,15 zł/l.\n\nRząd przywrócił od początku października do końca 2026 r. pakiet \"Ceny Paliwa Niżej\", tj. obniżył stawki VAT na paliwa z 23 proc. do 8 proc. oraz akcyzę do najniższego dopuszczalnego poziomu w UE, a także przywrócił ogłaszane przez ministra energii ceny maksymalne paliw na stacjach. (PAP Biznes)",
+      "date_published": "2026-11-02T13:03:00+01:00",
+      "source": "PAP Biznes"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Kontrole-plecakow-i-wykrywacze-metali-w-szkolach-MEN-szykuje-nowe-przepisy-9222166.html",
       "url": "https://www.bankier.pl/wiadomosc/Kontrole-plecakow-i-wykrywacze-metali-w-szkolach-MEN-szykuje-nowe-przepisy-9222166.html",
       "title": "Kontrole plecaków i wykrywacze metali w szkołach. MEN szykuje nowe przepisy",
@@ -547,6 +563,14 @@
       "content_html": "Resort energii chce uzupełnić regulacje dla ciepła systemowego m.in. w zakresie systemu gwarancji pochodzenia dla ciepła odpadowego oraz wykorzystywania wód powierzchniowych jako dolnego źródła ciepła dla wielkoskalowych pomp ciepła - wynika...",
       "date_published": "2026-11-02T12:54:00+01:00",
       "source": "Bankier.pl"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/gospodarka/me-chce-uzupelnic-regulacje-dla-cieplownictwa-wesprzec-jego-transformacje",
+      "url": "https://biznes.pap.pl/wiadomosci/gospodarka/me-chce-uzupelnic-regulacje-dla-cieplownictwa-wesprzec-jego-transformacje",
+      "title": "ME chce uzupełnić regulacje dla ciepłownictwa, by wesprzeć jego transformację",
+      "content_html": "Resort energii chce uzupełnić regulacje dla ciepła systemowego m.in. w zakresie systemu gwarancji pochodzenia dla ciepła odpadowego oraz wykorzystywania wód powierzchniowych jako dolnego źródła ciepła dla wielkoskalowych pomp ciepła - wynika z wpisu ME do wykazu prac rządu. Planowane zmiany mają wesprzeć transformację tego sektora.\n\nMinisterstwo Energii przypomniało, że w zeszłym roku powstał zespół ds. transformacji ciepłownictwa, a efektem jego prac jest planowany projekt nowelizacji przepisów Prawa energetycznego, Prawa wodnego i ustawy o OZE.\n\nRozwiązane mają zostać trzy problemy: brak możliwości wdrażania tzw. \"piaskownicy regulacyjnej\" w odniesieniu do ciepła systemowego, brak regulacji dotyczących systemu gwarancji pochodzenia dla ciepła odpadowego oraz brak jednoznacznych uregulowań dotyczących możliwości wykorzystywania wód powierzchniowych jako dolnego źródła ciepła dla wielkoskalowych pomp ciepła.\n\nPlanowany termin przyjęcia projektu przez Radę Ministrów to, według wpisu do wykazu prac legislacyjnych rządu, II kwartał 2027 r. (PAP Biznes)",
+      "date_published": "2026-11-02T12:53:00+01:00",
+      "source": "PAP Biznes"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Bedziesz-wisial-do-Macieja-Berka-Czarzasty-donosi-do-prokuratury-na-Ziemkiewicza-9222163.html",
@@ -989,14 +1013,6 @@
       "source": "PAP Biznes"
     },
     {
-      "id": "https://biznes.pap.pl/wiadomosci/gospodarka/pmi-dla-przemyslu-w-polsce-w-pazdzierniku-wyniosl-500-pkt-vs-490-pkt-przed",
-      "url": "https://biznes.pap.pl/wiadomosci/gospodarka/pmi-dla-przemyslu-w-polsce-w-pazdzierniku-wyniosl-500-pkt-vs-490-pkt-przed",
-      "title": "PMI dla przemysłu w Polsce w październiku wyniósł 50,0 pkt. vs 49,0 pkt. przed miesiącem - S&P Global",
-      "content_html": "Wskaźnik PMI dla przemysłu w Polsce w październiku wyniósł 50 pkt., najwyżej od 18 miesięcy, wobec 49,0 pkt. przed miesiącem - podał S&P Global. Najnowsze dane z badania wskazały na gwałtowne przyspieszenie tempa inflacji cen środków produkcji.\n\nNajnowszy odczyt był najwyższy od kwietnia 2025, a także równy średniej długoterminowej (od powstania badania w 1998).\n\n\"Pozytywnymi sygnałami płynącymi z najnowszego badania były odnowione wzrosty zatrudnienia i eksportu. Produkcja utrzymała stabilny poziom, a nowe zamówienia spadły w najwolniejszym tempie od października 2025. Mniej pozytywnym sygnałem było to, że inflacja kosztów środków produkcji wyraźnie przyspieszyła w porównaniu z wrześniem\" - napisano.\n\nPaździernikowe dane zasygnalizowały wyższy poziom zatrudnienia w sektorze wytwórczym i był to dopiero drugi wzrost liczby miejsc pracy w ciągu ostatnich 18 miesięcy).\n\nZwiększona rekrutacja wynikała - wg badania - z przygotowywania się firm do zwiększonej produkcji oraz nasilenia napływu nowych zamówień. Tempo wzrostu zatrudnienia było jednak słabe.\n\nW październiku produkcja ustabilizowała się, a wskaźnik produkcji wzrósł do najwyższego poziomu od pięciu miesięcy, rejestrując wartość bliską neutralnego progu 50,0.\n\n\"Kolejnym pozytywnym sygnałem płynącym z najnowszych wyników badania był wzrost liczby nowych zamówień eksportowych. Był to pierwszy wzrost międzynarodowego popytu na polskie towary od listopada 2025 r. Łączna liczba nowych zamówień nadal spadała, jednak tempo tego spadku było najwolniejsze od października 2025 r.\" - napisano.\n\nPoziom niezrealizowanych zamówień obniżył się w październiku, wydłużając trwający okres redukcji zaległości produkcyjnych, który rozpoczął się w lutym.\n\n\"Firmy wskazywały na mniejszą liczbę zleceń, wzrost efektywności oraz zwiększenie zatrudnienia. Tempo spadku nieznacznie przyspieszyło, lecz nadal było wolniejsze od średniego tempa odnotowanego w obecnym okresie spadku\" - napisano.\n\nDwunastomiesięczne perspektywy produkcji w polskim sektorze przemysłowym były w październiku wciąż pozytywne. Optymizm wiązano z oczekiwanymi zamówieniami, pozyskaniem nowych klientów, poprawą warunków rynkowych oraz działaniami marketingowymi.\n\nPoziom nastrojów obniżył się względem września, jednak był lepszy niż ogólne trendy odnotowane zarówno w drugim, jak i trzecim kwartale.\n\nRównolegle ze wzrostem zatrudnienia i pozytywnymi prognozami dotyczącymi produkcji polscy producenci dóbr zwiększyli w październiku zakupy po raz pierwszy od pięciu miesięcy.\n\n\"Tempo wzrostu było jedynie umiarkowane, ale wystarczające, by doprowadzić do trzeciego z rzędu miesięcznego wzrostu zapasów środków produkcji - najdłuższej serii wzrostów od pierwszej połowy 2022 r.\" - wskazano.\n\nCzasy dostaw od dostawców ponownie się wydłużyły, jednak w najmniejszym stopniu od lutego.\n\nNajnowsze dane z badania wskazały na gwałtowne przyspieszenie tempa inflacji cen środków produkcji w polskim sektorze przemysłowym w październiku.\n\n\"Choć ogólna presja kosztowa nadal była niższa niż podczas niedawnego skoku inflacji w drugim kwartale, po wybuchu wojny na Bliskim Wschodzie, osiągnęła najwyższy poziom od czerwca i znacznie przewyższała długookresową średnią z badania\" - napisano.\n\nWedług relacji respondentów wynikała ona z wyższych cen surowców, napięć geopolitycznych oraz kosztów transportu i energii.\n\n\"Choć inflacja cen środków produkcji wzrosła, producenci podnieśli w październiku ceny sprzedaży w nieco wolniejszym tempie. Ostatni wzrost cen wyrobów gotowych był jednak wciąż szybki\" - dodano. (PAP Biznes)",
-      "date_published": "2026-11-02T09:11:00+01:00",
-      "source": "PAP Biznes"
-    },
-    {
       "id": "https://www.bankier.pl/wiadomosc/Polske-czeka-pulapka-Prof-Orlowski-Mielismy-naprawde-cud-gospodarczy-9221994.html",
       "url": "https://www.bankier.pl/wiadomosc/Polske-czeka-pulapka-Prof-Orlowski-Mielismy-naprawde-cud-gospodarczy-9221994.html",
       "title": "Polskę czeka pułapka? Prof. Orłowski: Mieliśmy naprawdę cud gospodarczy",
@@ -1011,14 +1027,6 @@
       "content_html": "Urząd Regulacji Energetyki ustalił stawki opłaty mocowej na 2027 rok - podał Prezes URE w komunikacie.",
       "date_published": "2026-11-02T08:52:00+01:00",
       "source": "Bankier.pl"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/energia/ure-ustalil-stawki-oplaty-mocowej-na-2027-r",
-      "url": "https://biznes.pap.pl/wiadomosci/energia/ure-ustalil-stawki-oplaty-mocowej-na-2027-r",
-      "title": "URE ustalił stawki opłaty mocowej na 2027 r.",
-      "content_html": "Urząd Regulacji Energetyki ustalił stawki opłaty mocowej na 2027 rok - podał Prezes URE w komunikacie.\n\nJak podał URE, stawki opłaty mocowej, stawki netto w odniesieniu do odbiorców końcowych rozliczanych w sposób ryczałtowy (art. 89a ust. 1 pkt 1 ustawy o rynku mocy), od dnia 1 stycznia 2027 r. do dnia 31 grudnia 2027 r., wynoszą:\n\n1. 4,29 zł na miesiąc – w odniesieniu do odbiorców zużywających rocznie poniżej 500 kWh energii elektrycznej (art. 89b ust. 3 pkt 1 ustawy o rynku mocy);\n\n2. 10,31 zł na miesiąc – w odniesieniu do odbiorców końcowych zużywających rocznie od 500 kWh do 1200 kWh energii elektrycznej (art. 89b ust. 3 pkt 2 ustawy o rynku mocy);\n\n3. 17,18 zł na miesiąc – w odniesieniu do odbiorców końcowych, zużywających rocznie powyżej 1200 kWh do 2800 kWh energii elektrycznej (art. 89b ust. 3 pkt 3 ustawy o rynku mocy);\n\n4. 24,05 zł na miesiąc – w odniesieniu do odbiorców końcowych zużywających rocznie powyżej 2800 kWh energii elektrycznej (art. 89b ust. 3 pkt 4 ustawy o rynku mocy);\n\nW odniesieniu do odbiorców końcowych innych niż określonych w art. 89a ust. 1 pkt 1 ustawy o rynku mocy (art. 89a ust. 1 pkt 2 ustawy o rynku mocy) wynoszą:\n\n1. 0,1925 zł/kWh – od dnia 1 stycznia 2027 r. do dnia 31 marca 2027 r.;\n\n2. 0,2141 zł/kWh - od dnia 1 kwietnia 2027 r. do dnia 30 czerwca 2027 r.;\n\n3. 0,1984 zł/kWh - od dnia 1 lipca 2027 r. do dnia 30 września 2027 r.;\n\n4. 0,1950 zł/kWh - od dnia 1 października 2027 r. do dnia 31 grudnia 2027 r. (PAP Biznes)",
-      "date_published": "2026-11-02T08:51:00+01:00",
-      "source": "PAP Biznes"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Zamach-na-Trybunal-oslabil-zlotego-Kurs-euro-najwyzej-od-3-lat-9221992.html",
@@ -1087,8 +1095,8 @@
     {
       "id": "https://www.bankier.pl/wiadomosc/Erste-Group-Bank-AG-wzywa-do-sprzedazy-52-113-041-akcji-Erste-Bank-Polska-po-713-6-zl-za-sztuke-9221965.html",
       "url": "https://www.bankier.pl/wiadomosc/Erste-Group-Bank-AG-wzywa-do-sprzedazy-52-113-041-akcji-Erste-Bank-Polska-po-713-6-zl-za-sztuke-9221965.html",
-      "title": "Wielkie wezwanie na akcje Erste Bank Polska. Dają 713,60 zł za papier",
-      "content_html": "Erste Group Bank AG wzywa do sprzedaży 52.113.041 akcji Erste Bank Polska, po 713,6 zł za sztukę - podał Erste Bank Polska w komunikacie.",
+      "title": "Wielkie wezwanie na akcje Erste Bank Polska. Dają 713,60 zł za papier Erste Group Bank AG wzywa do sprzedaży 52.113.041 akcji Erste Bank Polska, po 713,6 zł za sztukę - podał Erste Bank Polska w komunikacie.",
+      "content_html": "",
       "date_published": "2026-11-02T07:52:00+01:00",
       "source": "Bankier.pl"
     },
@@ -1101,17 +1109,17 @@
       "source": "Bankier.pl"
     },
     {
-      "id": "https://www.bankier.pl/wiadomosc/Oszczednosci-Polakow-omijaja-gielde-Problemem-nie-jest-tylko-awersja-do-ryzyka-9219434.html",
-      "url": "https://www.bankier.pl/wiadomosc/Oszczednosci-Polakow-omijaja-gielde-Problemem-nie-jest-tylko-awersja-do-ryzyka-9219434.html",
-      "title": "Oszczędności Polaków omijają giełdę. Problemem nie jest tylko awersja do ryzyka Mimo trwającej od niemal czterech lat hossy na warszawskim parkiecie, polska giełda zmaga się z głębokim niedosytem nowych debiutów, a niski poziom oszczędności i wysoka awersja do ryzyka skłaniają Polaków do wyboru lokat bankowych. W debacie „Kapitał dla gospodarki. Jak giełda i rynek finansowy mogą napędzać rozwój, bezpieczeństwo i inwestycje”, która odbyła się podczas Forum Finansów Bankier.pl Marek Dietl, Jarosław Grzywiński i Mateusz Walewski szukali odpowiedzi na pytanie, jak przełamać ten regres.",
+      "id": "https://www.bankier.pl/wiadomosc/Hossa-dwoch-predkosci-Blue-chipy-kontra-maluchy-i-gieldowy-plankton-9220377.html",
+      "url": "https://www.bankier.pl/wiadomosc/Hossa-dwoch-predkosci-Blue-chipy-kontra-maluchy-i-gieldowy-plankton-9220377.html",
+      "title": "Hossa dwóch prędkości. Blue chipy kontra maluchy i giełdowy plankton Podczas gdy WIG, WIG20 i mWIG40 ustanawiają nowe rekordy wszech czasów i śrubują tegoroczne stopy zwrotu, reszta polskiego rynku pogrążona jest w marazmie.",
       "content_html": "",
       "date_published": "2026-11-02T06:00:00+01:00",
       "source": "Bankier.pl"
     },
     {
-      "id": "https://www.bankier.pl/wiadomosc/Hossa-dwoch-predkosci-Blue-chipy-kontra-maluchy-i-gieldowy-plankton-9220377.html",
-      "url": "https://www.bankier.pl/wiadomosc/Hossa-dwoch-predkosci-Blue-chipy-kontra-maluchy-i-gieldowy-plankton-9220377.html",
-      "title": "Hossa dwóch prędkości. Blue chipy kontra maluchy i giełdowy plankton Podczas gdy WIG, WIG20 i mWIG40 ustanawiają nowe rekordy wszech czasów i śrubują tegoroczne stopy zwrotu, reszta polskiego rynku pogrążona jest w marazmie.",
+      "id": "https://www.bankier.pl/wiadomosc/Oszczednosci-Polakow-omijaja-gielde-Problemem-nie-jest-tylko-awersja-do-ryzyka-9219434.html",
+      "url": "https://www.bankier.pl/wiadomosc/Oszczednosci-Polakow-omijaja-gielde-Problemem-nie-jest-tylko-awersja-do-ryzyka-9219434.html",
+      "title": "Oszczędności Polaków omijają giełdę. Problemem nie jest tylko awersja do ryzyka Mimo trwającej od niemal czterech lat hossy na warszawskim parkiecie, polska giełda zmaga się z głębokim niedosytem nowych debiutów, a niski poziom oszczędności i wysoka awersja do ryzyka skłaniają Polaków do wyboru lokat bankowych. W debacie „Kapitał dla gospodarki. Jak giełda i rynek finansowy mogą napędzać rozwój, bezpieczeństwo i inwestycje”, która odbyła się podczas Forum Finansów Bankier.pl Marek Dietl, Jarosław Grzywiński i Mateusz Walewski szukali odpowiedzi na pytanie, jak przełamać ten regres.",
       "content_html": "",
       "date_published": "2026-11-02T06:00:00+01:00",
       "source": "Bankier.pl"
