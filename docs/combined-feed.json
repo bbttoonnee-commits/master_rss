@@ -5,20 +5,108 @@
   "home_page_url": "https://www.bankier.pl",
   "items": [
     {
-      "id": "https://biznes.pap.pl/wiadomosci/gospodarka/euro-w-ebc-11179-usd-i-17695-jpy",
-      "url": "https://biznes.pap.pl/wiadomosci/gospodarka/euro-w-ebc-11179-usd-i-17695-jpy",
-      "title": "Euro w EBC: 1,1179 USD i 176,95 JPY",
-      "content_html": "Europejski Bank Centralny (EBC) ustalił kurs euro na 1,1179 USD i 176,95 JPY - podał bank na swojej stronie internetowej.",
-      "date_published": "2026-11-03T15:58:00+01:00",
-      "source": "PAP Biznes"
+      "id": "https://www.bankier.pl/wiadomosc/Akcjonariusz-spolki-Wawel-chce-wyplacenia-zaliczki-dywidendowej-w-wysokosci-35-zl-na-akcje-9222995.html",
+      "url": "https://www.bankier.pl/wiadomosc/Akcjonariusz-spolki-Wawel-chce-wyplacenia-zaliczki-dywidendowej-w-wysokosci-35-zl-na-akcje-9222995.html",
+      "title": "Akcjonariusz spółki Wawel chce wypłacenia zaliczki dywidendowej w wysokości 35 zł na akcję WIK, akcjonariusz spółki Wawel, chce, by z zysku osiągniętego w roku obrotowym 2026 rok wypłacono zaliczkę na poczet przewidywanej dywidendy w łącznej kwocie 45,2 mln zł, czyli po 35 zł na jedną akcję - poinformowała spółka w komunikacie.",
+      "content_html": "",
+      "date_published": "2026-11-03T16:56:00+01:00",
+      "source": "Bankier.pl"
     },
     {
-      "id": "https://biznes.pap.pl/wiadomosci/rynki/po-otwarciu-sesji-dji-spada-o-056-proc-sp500-rosnie-o-025-proc",
-      "url": "https://biznes.pap.pl/wiadomosci/rynki/po-otwarciu-sesji-dji-spada-o-056-proc-sp500-rosnie-o-025-proc",
-      "title": "Po otwarciu sesji DJI spada o 0,56 proc., a S&P500 rośnie o 0,25 proc.",
-      "content_html": "Po otwarciu sesji w USA Dow Jones Industrial spada o 0,56 proc. do 51.690 pkt., S&P500 zyskuje 0,25 proc. i wynosi 7.561 pkt.\n\nNasdaq Comp. rośnie o 0,5 proc. do poziomu 25.314 pkt. (PAP Biznes)",
-      "date_published": "2026-11-03T15:41:00+01:00",
-      "source": "PAP Biznes"
+      "id": "https://www.bankier.pl/wiadomosc/Obroty-akcjami-na-GPW-w-pazdzierniku-wzrosly-o-35-6-proc-rdr-do-59-5-mld-zl-9222975.html",
+      "url": "https://www.bankier.pl/wiadomosc/Obroty-akcjami-na-GPW-w-pazdzierniku-wzrosly-o-35-6-proc-rdr-do-59-5-mld-zl-9222975.html",
+      "title": "Obroty akcjami na GPW w październiku wzrosły o 35,6 proc. rdr do 59,5 mld zł",
+      "content_html": "Łączna wartość obrotu akcjami na Głównym Rynku GPW w październiku 2026 r. wyniosła 59,5 mld zł, co oznacza wzrost rdr o 35,6 proc. - poinformowała giełda w komunikacie. Wartość obrotu akcjami w ramach arkusza zleceń zwiększyła się...",
+      "date_published": "2026-11-03T16:40:00+01:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/KNF-ostrzega-przed-nowa-spolka-Podejrzenie-przestepstwa-finansowego-9222912.html",
+      "url": "https://www.bankier.pl/wiadomosc/KNF-ostrzega-przed-nowa-spolka-Podejrzenie-przestepstwa-finansowego-9222912.html",
+      "title": "KNF ostrzega przed nową spółką. Podejrzenie przestępstwa finansowego",
+      "content_html": "Na listę ostrzeżeń publicznych Komisji Nadzoru Finansowego wpisany został nowy podmiot - Money Coaching sp. z o.o. sp. k. - poinformowała we wtorek KNF.",
+      "date_published": "2026-11-03T16:28:00+01:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Premier-Ukrainy-o-akcesji-Ograniczenia-dla-naszego-rolnictwa-musza-byc-tymczasowe-9222891.html",
+      "url": "https://www.bankier.pl/wiadomosc/Premier-Ukrainy-o-akcesji-Ograniczenia-dla-naszego-rolnictwa-musza-byc-tymczasowe-9222891.html",
+      "title": "Premier Ukrainy o akcesji: Ograniczenia dla naszego rolnictwa muszą być tymczasowe",
+      "content_html": "Premier Ukrainy Serhij Korecki ogłosił, że ograniczenia eksportu ukraińskich produktów rolnych do UE po akcesji powinny być tymczasowe i mieć jasno określone warunki zniesienia. Powiedział o tym we wtorek podczas wydarzenia stacji Euronews poświęconego...",
+      "date_published": "2026-11-03T16:27:00+01:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Cyberataki-na-urzadzenia-chlodnicze-dotarly-do-Polski-GIS-zwoluje-pilna-narade-9222887.html",
+      "url": "https://www.bankier.pl/wiadomosc/Cyberataki-na-urzadzenia-chlodnicze-dotarly-do-Polski-GIS-zwoluje-pilna-narade-9222887.html",
+      "title": "Cyberataki na urządzenia chłodnicze dotarły do Polski. GIS zwołuje pilną naradę",
+      "content_html": "Główny Inspektor Sanitarny dr Paweł Grzesiowski, odnosząc się do fali ataków na urządzenia chłodnicze w Europie, poinformował we wtorek, że zostanie przeprowadzona narada z wojewódzkimi inspektorami i podjęte będą konkretne działania.",
+      "date_published": "2026-11-03T16:25:00+01:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Sad-Najwyzszy-staje-w-obronie-Swieczkowskiego-Kolegium-SN-ostrzega-przed-prawnym-chaosem-9222926.html",
+      "url": "https://www.bankier.pl/wiadomosc/Sad-Najwyzszy-staje-w-obronie-Swieczkowskiego-Kolegium-SN-ostrzega-przed-prawnym-chaosem-9222926.html",
+      "title": "Sąd Najwyższy staje w obronie Święczkowskiego. Kolegium SN ostrzega przed prawnym chaosem",
+      "content_html": "Na stronie Sądu Najwyższego zamieszczono uchwałę Kolegium SN wyrażającą „stanowczy sprzeciw wobec działań podważających konstytucyjne zasady funkcjonowania władzy sądowniczej”. W szczególności wskazano na odsunięcie prezesa TK Bogdana...",
+      "date_published": "2026-11-03T16:22:00+01:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Zmierzch-twardego-brexitu-Brytyjski-rzad-zgadza-sie-na-powrot-do-unijnych-standardow-9222886.html",
+      "url": "https://www.bankier.pl/wiadomosc/Zmierzch-twardego-brexitu-Brytyjski-rzad-zgadza-sie-na-powrot-do-unijnych-standardow-9222886.html",
+      "title": "Zmierzch twardego brexitu. Brytyjski rząd zgadza się na powrót do unijnych standardów",
+      "content_html": "Wielka Brytania i Komisja Europejska porozumiały się wstępnie w sprawie zniesienia pobrexitowych kontroli jedzenia i produktów rolnych – pisze we wtorek BBC. Ma to być część szerszego resetu i zbliżenia we wzajemnych stosunkach, o których...",
+      "date_published": "2026-11-03T16:12:00+01:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Pegasus-Hermes-i-immunitet-prezesa-TK-Zurek-sklada-szosty-wniosek-o-uchylenie-immunitetu-prezesowi-TK-9222882.html",
+      "url": "https://www.bankier.pl/wiadomosc/Pegasus-Hermes-i-immunitet-prezesa-TK-Zurek-sklada-szosty-wniosek-o-uchylenie-immunitetu-prezesowi-TK-9222882.html",
+      "title": "Pegasus, Hermes i immunitet prezesa TK. Żurek składa szósty wniosek o uchylenie immunitetu prezesowi TK",
+      "content_html": "Skierowałem we wtorek do Trybunału Konstytucyjnego kolejny, szósty już wniosek o uchylenie immunitetu Bogdanowi Święczkowskiemu - przekazał prokurator generalny Waldemar Żurek. Poinformował, że wnioski z piątku i wtorku dotyczą m.in. spraw...",
+      "date_published": "2026-11-03T16:11:00+01:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Trump-ucina-wsparcie-dla-Izraela-4-miliardy-dolarow-rocznie-zostana-w-USA-9222858.html",
+      "url": "https://www.bankier.pl/wiadomosc/Trump-ucina-wsparcie-dla-Izraela-4-miliardy-dolarow-rocznie-zostana-w-USA-9222858.html",
+      "title": "Trump ucina wsparcie dla Izraela. 4 miliardy dolarów rocznie zostaną w USA",
+      "content_html": "Prezydent USA Donald Trump powiedział we wtorek w rozmowie ze stacją Fox News, że zawarł porozumienie z Izraelem o zakończeniu wojskowej pomocy finansowej dla tego kraju wraz z końcem roku.",
+      "date_published": "2026-11-03T16:06:00+01:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Osmioro-sedziow-to-kworum-Zgromadzenie-TK-obraduje-nad-budzetem-bez-Swieczkowskiego-9222922.html",
+      "url": "https://www.bankier.pl/wiadomosc/Osmioro-sedziow-to-kworum-Zgromadzenie-TK-obraduje-nad-budzetem-bez-Swieczkowskiego-9222922.html",
+      "title": "Ośmioro sędziów to kworum. Zgromadzenie TK obraduje nad budżetem bez Święczkowskiego",
+      "content_html": "Anna Korwin-Piotrowska poinformowała na początku Zgromadzenia Ogólnego Sędziów TK, że jest ośmioro „obecnych na sali sędziów Trybunału Konstytucyjnego”. – Uprawnionych z kolei do wzięcia udziału, a inaczej, zobowiązanych do udziału...",
+      "date_published": "2026-11-03T15:55:00+01:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Zelenski-odrzuca-zaproszenie-do-Moskwy-To-pluniecie-w-twarz-calemu-swiatu-9222899.html",
+      "url": "https://www.bankier.pl/wiadomosc/Zelenski-odrzuca-zaproszenie-do-Moskwy-To-pluniecie-w-twarz-calemu-swiatu-9222899.html",
+      "title": "Zełenski odrzuca zaproszenie do Moskwy. \" To plunięcie w twarz całemu światu\"",
+      "content_html": "Zapraszanie prezydenta Ukrainy do Moskwy jest destrukcyjne i jest plunięciem w twarz całemu światu, który chce zakończenia wojny - tak Wołodymyr Zełenski odniósł się we wtorek w Berlinie do zaproszenia ze strony Kremla.",
+      "date_published": "2026-11-03T15:37:00+01:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Zamieszki-pod-Kijowem-sprowokowane-Budanow-Falszywa-lekarka-podburzyla-tlum-9222897.html",
+      "url": "https://www.bankier.pl/wiadomosc/Zamieszki-pod-Kijowem-sprowokowane-Budanow-Falszywa-lekarka-podburzyla-tlum-9222897.html",
+      "title": "Zamieszki pod Kijowem sprowokowane. Budanow: Fałszywa lekarka podburzyła tłum",
+      "content_html": "Zamieszki pod Kijowem, gdzie tłum rzucił się w obronie rzekomo torturowanych żołnierzy, zostały sprowokowane. Trwa śledztwo, a jedna z osób, które wywołały starcia, została zatrzymana – oświadczył we wtorek szef kancelarii prezydenta Ukrainy Kyryło...",
+      "date_published": "2026-11-03T15:33:00+01:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Naparli-z-impetem-i-sila-odepchneli-sedziow-Prokuratura-wkracza-do-akcji-w-sprawie-TK-9222875.html",
+      "url": "https://www.bankier.pl/wiadomosc/Naparli-z-impetem-i-sila-odepchneli-sedziow-Prokuratura-wkracza-do-akcji-w-sprawie-TK-9222875.html",
+      "title": "\"Naparli z impetem i siłą odepchnęli sędziów\". Prokuratura wkracza do akcji w sprawie TK",
+      "content_html": "Prokurator z Prokuratury Krajowej wszczął we wtorek „śledztwo w sprawie czynnej napaści na sędziów Trybunału Konstytucyjnego Annę Korwin-Piotrowską i Krystiana Markiewicza” – poinformowała rzeczniczka Prokuratora Generalnego, prok. Anny...",
+      "date_published": "2026-11-03T15:32:00+01:00",
+      "source": "Bankier.pl"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Ludzie-tylko-dowodcami-maszyn-na-froncie-czyli-jak-Saab-i-Nvidia-rewolucjonizuja-lotnictwo-wojskowe-9222869.html",
@@ -37,11 +125,11 @@
       "source": "Bankier.pl"
     },
     {
-      "id": "https://www.bankier.pl/wiadomosc/Trump-ucina-wsparcie-dla-Izraela-4-miliardy-dolarow-rocznie-zostana-w-USA-9222858.html",
-      "url": "https://www.bankier.pl/wiadomosc/Trump-ucina-wsparcie-dla-Izraela-4-miliardy-dolarow-rocznie-zostana-w-USA-9222858.html",
-      "title": "Trump ucina wsparcie dla Izraela. 4 miliardy dolarów rocznie zostaną w USA",
-      "content_html": "Prezydent USA Donald Trump powiedział we wtorek w rozmowie ze stacją Fox News, że zawarł porozumienie z Izraelem o zakończeniu wojskowej pomocy finansowej dla tego kraju wraz z końcem roku.",
-      "date_published": "2026-11-03T15:21:00+01:00",
+      "id": "https://www.bankier.pl/wiadomosc/Kolejne-decyzje-kadrowe-w-TK-Sedzia-Korwin-Piotrowska-zwalnia-m-in-rzeczniczke-9222880.html",
+      "url": "https://www.bankier.pl/wiadomosc/Kolejne-decyzje-kadrowe-w-TK-Sedzia-Korwin-Piotrowska-zwalnia-m-in-rzeczniczke-9222880.html",
+      "title": "Kolejne decyzje kadrowe w TK. Sędzia Korwin-Piotrowska zwalnia m.in. rzeczniczkę",
+      "content_html": "Sędzia Anna Korwin-Piotrowska odwołała wszystkie pełnomocnictwa i upoważnienia dwóm pracownicom Trybunału Konstytucyjnego Beacie Białowąs i Weronice Ścibor – podano we wtorek na stronie TK.",
+      "date_published": "2026-11-03T15:17:00+01:00",
       "source": "Bankier.pl"
     },
     {
@@ -325,6 +413,14 @@
       "source": "Bankier.pl"
     },
     {
+      "id": "https://biznes.pap.pl/wiadomosci/przemysl/mfo-szacuje-zysk-netto-za-trzy-kwartaly-2026-r-na-115-mln-zl-tj-441-proc-wiecej",
+      "url": "https://biznes.pap.pl/wiadomosci/przemysl/mfo-szacuje-zysk-netto-za-trzy-kwartaly-2026-r-na-115-mln-zl-tj-441-proc-wiecej",
+      "title": "MFO szacuje zysk netto za trzy kwartały 2026 r. na 11,5 mln zł, tj. 4,41 proc. więcej rdr",
+      "content_html": "MFO szacuje zysk netto za trzy kwartały 2026 roku na 11,5 mln zł, co stanowi wzrost o 4,41 proc. w stosunku do analogicznego okresu 2025 roku oraz wzrost o 209,63 proc. w stosunku do wartości bazowej, tj. średniej wielkości osiągniętej w analogicznym okresie w ciągu 3 ostatnich lat - podał producent profili stalowych w komunikacie.\n\nPodano, że przychody ze sprzedaży produktów, towarów i materiałów za trzy kwartały 2026 roku wyniosły 571,17 mln zł, co stanowi wzrost o 10,31 proc. w stosunku do analogicznego okresu 2025 roku oraz wzrost o 21,01 proc. w stosunku do wartości bazowej.\n\nZysk na działalności operacyjnej (EBIT) za trzy kwartały wyniósł 17,6 mln zł, co stanowi spadek o 1,40 proc. w stosunku do analogicznego okresu 2025 roku oraz wzrost o 66,68 proc. w stosunku do wartości bazowej.\n\nOstateczne dane zostaną przekazane do wiadomości publicznej 19 listopada 2026 roku. (PAP Biznes)",
+      "date_published": "2026-11-03T12:17:00+01:00",
+      "source": "PAP Biznes"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Od-amunicji-dla-Ukrainy-po-okulary-Czeski-miliarder-chce-przejac-producenta-Ray-Banow-9222634.html",
       "url": "https://www.bankier.pl/wiadomosc/Od-amunicji-dla-Ukrainy-po-okulary-Czeski-miliarder-chce-przejac-producenta-Ray-Banow-9222634.html",
       "title": "Od amunicji dla Ukrainy po okulary. Czeski miliarder chce przejąć producenta Ray-Banów",
@@ -363,6 +459,14 @@
       "content_html": "Północnokoreańscy hakerzy rozpoczęli skomplikowaną operację prania miliardów dolarów w tokenach skradzionych z giełdy kryptowalutowej Binance. Według szacunków analityków i służb śledczych, mimo zastosowania zaawansowanej automatyzacji...",
       "date_published": "2026-11-03T11:45:00+01:00",
       "source": "Bankier.pl"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/firmy/cena-maksymalna-dla-benzyny-pb95-wyniesie-w-srode-637-zll-dla-805-zll",
+      "url": "https://biznes.pap.pl/wiadomosci/firmy/cena-maksymalna-dla-benzyny-pb95-wyniesie-w-srode-637-zll-dla-805-zll",
+      "title": "Cena maksymalna dla benzyny Pb95 wyniesie w środę 6,37 zł/l, a dla ON 8,05 zł/l",
+      "content_html": "W środę 4 listopada maksymalna cena dla benzyny Pb95 wynosić będzie 6,37 zł/l, dla benzyny Pb98 7,24 zł/l, a dla oleju napędowego 8,05 zł/l - poinformował minister energii w obwieszczeniu.\n\nAktualnie obowiązujące ceny maksymalne to: dla benzyny Pb95 6,45 zł/l, dla benzyny Pb98 to 7,31 zł/l, a dla oleju napędowego 8,14 zł/l.\n\nRząd przywrócił od początku października do końca 2026 r. pakiet \"Ceny Paliwa Niżej\", tj. obniżył stawki VAT na paliwa z 23 proc. do 8 proc. oraz akcyzę do najniższego dopuszczalnego poziomu w UE, a także przywrócił ogłaszane przez ministra energii ceny maksymalne paliw na stacjach. (PAP Biznes)",
+      "date_published": "2026-11-03T11:44:00+01:00",
+      "source": "PAP Biznes"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Drony-ktore-naruszyly-polska-przestrzen-powietrzna-zyskaly-nowe-mozliwosci-9222681.html",
@@ -467,6 +571,14 @@
       "content_html": "Krosno zyskuje nowego inwestora z sektora zaawansowanych technologii. Australijska firma PWR Advanced Cooling Technology uruchomi w mieście zakład produkcyjny, w którym powstawać będą specjalistyczne komponenty do systemów zarządzania temperaturą...",
       "date_published": "2026-11-03T10:15:00+01:00",
       "source": "Bankier.pl"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/przemysl/subindeks-barometru-efl-dla-branzy-budowlanej-na-iv-kw-26-wyniosl-442-pkt-o-28",
+      "url": "https://biznes.pap.pl/wiadomosci/przemysl/subindeks-barometru-efl-dla-branzy-budowlanej-na-iv-kw-26-wyniosl-442-pkt-o-28",
+      "title": "Subindeks Barometru EFL dla branży budowlanej na IV kw. '26 wyniósł 44,2 pkt., o 2,8 pkt. mniej kdk",
+      "content_html": "Subindeks Barometru EFL dla branży budowlanej na IV kwartał 2026 roku wyniósł 44,2 pkt., o 2,8 pkt. mniej niż kwartał wcześniej - wynika z najnowszego Barometru EFL. To najniższy wynik wśród badanych sektorów, a według historycznych pomiarów także najsłabszy od początku realizacji badania Barometru EFL w 2015 roku.\n\nJak podano, wskaźnik obniżył się trzeci kwartał z rzędu i pozostaje poniżej granicy 50 pkt., oznaczającej warunki sprzyjające rozwojowi. Szczególnie niepokojące są prognozy sprzedaży: jej wzrostu oczekuje zaledwie 2,5 proc. firm budowlanych, ponad czterokrotnie mniej niż kwartał wcześniej. Jednocześnie niemal połowa przedsiębiorców (48 proc.) przewiduje ograniczenie inwestycji.\n\n\"Końcówka roku przynosi wyraźne pogorszenie nastrojów w branży budowlanej. Subindeks Barometru EFL spadł do poziomu 44,2 pkt., a perspektywy sprzedaży należą do najsłabszych w ostatnich kwartałach. Jeszcze trzy miesiące temu wzrostu zamówień oczekiwała co dziewiąta firma, dziś zaledwie co czterdziesta. Przy tak ostrożnych perspektywach popytowych trudno oczekiwać większej aktywności inwestycyjnej\" - powiedział cytowany w komunikacie prasowym Piotr Warmuła, dyrektor departamentu sprzedaży rynku maszyn i urządzeń w EFL.\n\n\"Niemal połowa przedsiębiorców zapowiada ograniczenie wydatków na środki trwałe. Dla rynku maszyn i urządzeń budowlanych oznacza to ryzyko dalszego odkładania decyzji zakupowych i selektywnego podejścia do nowych zobowiązań. Trwała poprawa aktywności inwestycyjnej będzie zależała między innymi od odbudowy portfela zamówień\" - dodał.\n\nJeszcze na początku 2026 roku nastroje w budownictwie były relatywnie dobre. W I kwartale subindeks Barometru EFL wynosił 51,4 pkt., czyli pozostawał powyżej progu sprzyjającego rozwojowi. W II kwartale obniżył się do 47,1 pkt., w III kwartale do 47 pkt., a w ostatnim pomiarze spadł do 44,2 pkt. Oznacza to spadek o 7,2 pkt. i trzeci kolejny odczyt poniżej 50 pkt.\n\nSkala pogorszenia jest szczególnie widoczna na tle wcześniejszych lat. W latach 2023–2025 subindeks dla budownictwa utrzymywał się wyraźnie powyżej obecnego poziomu, w najlepszych okresach przekraczając 54 pkt. Najnowszy wynik pokazuje, że sektor kończy 2026 rok w wyjątkowo słabych nastrojach. Dla porównania główny indeks Barometru EFL dla całego sektora MŚP wyniósł w IV kwartale 46 pkt., również osiągając najniższy poziom od początku pandemii.\n\nW IV kwartale zaledwie 2,5 proc. przedsiębiorców spodziewa się wzrostu sprzedaży lub liczby zamówień, podczas gdy w III kwartale ten odsetek wynosił 11 proc. Oznacza to ponad czterokrotny spadek grupy firm liczących na poprawę sytuacji rynkowej. Jednocześnie 95 proc. badanych przewiduje utrzymanie sprzedaży na dotychczasowym poziomie, a 2,5 proc. zakłada jej spadek.\n\n\"Takie wyniki wskazują, że przedsiębiorcy nie widzą obecnie wyraźnego impulsu, który mógłby pobudzić aktywność branży. Budownictwo jest sektorem, w którym decyzje inwestycyjne są związane z perspektywą nowych kontraktów i stabilnością portfela zamówień. Przy ograniczonych perspektywach sprzedażowych, naturalną konsekwencją jest ostrożność w rozbudowie parku maszynowego. Co istotne, nie chodzi wyłącznie o spadek optymizmu. Coraz więcej przedsiębiorców zakłada konkretne ograniczenie wydatków inwestycyjnych, co może przełożyć się na słabszy popyt na maszyny i urządzenia w kolejnych miesiącach\" – powiedział Piotr Warmuła z EFL.\n\nPrognozy dotyczące nakładów na środki trwałe pozostają słabe. W IV kwartale 48 proc. firm budowlanych spodziewa się ich ograniczenia, podczas gdy kwartał wcześniej było to 41 proc. Jednocześnie 39 proc. przedsiębiorców zakłada utrzymanie inwestycji na dotychczasowym poziomie, a zaledwie 14 proc. planuje ich zwiększenie. Pomimo niewielkiego wzrostu odsetka firm deklarujących większe inwestycje, zdecydowanie powiększyła się grupa zamierzająca je ograniczyć.\n\nNieco stabilniej wyglądają prognozy płynności finansowej. Podobnie jak kwartał wcześniej jej poprawy spodziewa się 7,5 proc. przedsiębiorców, a zdecydowana wi",
+      "date_published": "2026-11-03T10:13:00+01:00",
+      "source": "PAP Biznes"
     },
     {
       "id": "https://biznes.pap.pl/wiadomosci/gospodarka/w-czwartek-i-i-ii-czytanie-w-sejmie-ponownie-zlozonego-projektu-ws-cit-dla",
@@ -957,36 +1069,12 @@
       "source": "PAP Biznes"
     },
     {
-      "id": "https://www.bankier.pl/wiadomosc/Gigantyczna-skala-nieprawidlowosci-w-wydatkach-publicznych-KAS-sklada-zawiadomienia-9222358.html",
-      "url": "https://www.bankier.pl/wiadomosc/Gigantyczna-skala-nieprawidlowosci-w-wydatkach-publicznych-KAS-sklada-zawiadomienia-9222358.html",
-      "title": "Gigantyczna skala nieprawidłowości w wydatkach publicznych. KAS składa zawiadomienia",
-      "content_html": "Krajowa Administracja Skarbowa podczas audytu wydatkowania środków publicznych wykryła nieprawidłowości na ponad 120 mld zł - poinformowała w poniedziałek KAS. Do prokuratury złożono 263 zawiadomienia o możliwości popełnienia przestępstwa...",
-      "date_published": "2026-11-03T06:50:00+01:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Transport-tonie-w-dlugach-Juz-23-7-tys-firm-ma-problemy-ze-splata-zobowiazan-9222526.html",
-      "url": "https://www.bankier.pl/wiadomosc/Transport-tonie-w-dlugach-Juz-23-7-tys-firm-ma-problemy-ze-splata-zobowiazan-9222526.html",
-      "title": "Transport tonie w długach. Już 23,7 tys. firm ma problemy ze spłatą zobowiązań",
-      "content_html": "Liczba zadłużonych przedsiębiorstw zajmujących się transportem drogowym wzrosła w październiku do 23,7 tys., a ich długi sięgają 1,32 mld zł - wynika z raportu Krajowego Rejestru Długów. Przeszkodą w wyjściu z zadłużenia są m.in. rosnące...",
-      "date_published": "2026-11-03T06:46:00+01:00",
-      "source": "Bankier.pl"
-    },
-    {
       "id": "https://biznes.pap.pl/wiadomosci/rynki/najwazniejsze-indeksy-gieldowe-w-azji-835",
       "url": "https://biznes.pap.pl/wiadomosci/rynki/najwazniejsze-indeksy-gieldowe-w-azji-835",
       "title": "Najważniejsze indeksy giełdowe w Azji",
       "content_html": "Poniżej aktualne indeksy wybranych giełd w Azji:\n\nIndeks Nikkei 225 zamyka się o 7.30 czasu polskiego, KOSPI o 7.05, Shanghai Composite Index o 8.00, Hang Seng o 09.00, a Sensex o 11.45.",
       "date_published": "2026-11-03T06:44:00+01:00",
       "source": "PAP Biznes"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Prezydent-Finlandii-zadzwonil-do-Putina-Wyjasnil-jaki-byl-cel-rozmowy-9222497.html",
-      "url": "https://www.bankier.pl/wiadomosc/Prezydent-Finlandii-zadzwonil-do-Putina-Wyjasnil-jaki-byl-cel-rozmowy-9222497.html",
-      "title": "Prezydent Finlandii zadzwonił do Putina. Wyjaśnił, jaki był cel rozmowy",
-      "content_html": "Prezydent Finlandii Alexander Stubb określił swój telefon do Putina jako „element fińskiego odstraszania”. Celem nie jest prowokowanie, lecz zapobieganie zagrożeniom dla bezpieczeństwa Finlandii - powiedział Stubb otwierając w poniedziałek...",
-      "date_published": "2026-11-03T06:43:00+01:00",
-      "source": "Bankier.pl"
     },
     {
       "id": "https://biznes.pap.pl/wiadomosci/rynki/rentownosci-obligacji-wybranych-panstw-tabela-989",
@@ -1015,33 +1103,17 @@
     {
       "id": "https://www.bankier.pl/wiadomosc/Amerykanie-odczuwaja-skutki-drozyzny-To-moze-kosztowac-republikanow-wiekszosc-w-Kongresie-9222539.html",
       "url": "https://www.bankier.pl/wiadomosc/Amerykanie-odczuwaja-skutki-drozyzny-To-moze-kosztowac-republikanow-wiekszosc-w-Kongresie-9222539.html",
-      "title": "Amerykanie odczuwają skutki drożyzny. To może kosztować republikanów większość w Kongresie",
-      "content_html": "Rosnące koszty życia i niezadowolenie z sytuacji gospodarczej mogą zaważyć na wyniku wyborów połówkowych w USA i doprowadzić do przegranej republikanów. Tym bardziej że poparcie dla prezydentury...",
+      "title": "Amerykanie odczuwają skutki drożyzny. To może kosztować republikanów większość w Kongresie Rosnące koszty życia i niezadowolenie z sytuacji gospodarczej mogą zaważyć na wyniku wyborów połówkowych w USA i doprowadzić do przegranej republikanów. Tym bardziej że poparcie dla prezydentury...",
+      "content_html": "",
       "date_published": "2026-11-03T06:35:00+01:00",
       "source": "Bankier.pl"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Wartosc-aktywow-pod-zarzadzaniem-Quercus-TFI-na-koniec-pazdziernika-wynosila-9-71-mld-zl-9222536.html",
       "url": "https://www.bankier.pl/wiadomosc/Wartosc-aktywow-pod-zarzadzaniem-Quercus-TFI-na-koniec-pazdziernika-wynosila-9-71-mld-zl-9222536.html",
-      "title": "Wartość aktywów pod zarządzaniem Quercus TFI na koniec października wynosiła 9,71 mld zł",
-      "content_html": "Wartość aktywów pod zarządzaniem Quercus TFI na koniec października 2026 r. wyniosła 9.708,8 mln zł, wobec 9.876,3 mln zł na koniec września 2026 r. - poinformowała spółka w komunikacie.",
+      "title": "Wartość aktywów pod zarządzaniem Quercus TFI na koniec października wynosiła 9,71 mld zł Wartość aktywów pod zarządzaniem Quercus TFI na koniec października 2026 r. wyniosła 9.708,8 mln zł, wobec 9.876,3 mln zł na koniec września 2026 r. - poinformowała spółka w komunikacie.",
+      "content_html": "",
       "date_published": "2026-11-03T06:34:00+01:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/firmy/wartosc-aktywow-pod-zarzadzaniem-quercus-tfi-na-koniec-pazdziernika-wynosila-971",
-      "url": "https://biznes.pap.pl/wiadomosci/firmy/wartosc-aktywow-pod-zarzadzaniem-quercus-tfi-na-koniec-pazdziernika-wynosila-971",
-      "title": "Wartość aktywów pod zarządzaniem Quercus TFI na koniec października wynosiła 9,71 mld zł",
-      "content_html": "Wartość aktywów pod zarządzaniem Quercus TFI na koniec października 2026 r. wyniosła 9.708,8 mln zł, wobec 9.876,3 mln zł na koniec września 2026 r. - poinformowała spółka w komunikacie.\n\nNa wartość aktywów pod zarządzaniem na koniec października 2026 r. składało się 8.524,8 mln zł ulokowanych w 13 subfunduszach QUERCUS Parasolowy SFIO, 24,3 mln zł w 2 subfunduszach QUERCUS Instytucjonalny SFIO, 12,5 mln w QUERCUS Absolute Return FIZ, 97,2 mln zł w QUERCUS Global Balanced Plus FIZ, 57,9 mln zł w QUERCUS Multistrategy FIZ, 2,3 mln zł w Private Equity Multifund FIZ, 201,3 mln zł w Acer Multistrategy FIZ, 283,9 mln zł w Alphaset FIZ oraz 504,6 mln zł aktywów w ramach usługi asset management (bez uwzględnienia środków zainwestowanych w subfundusze / fundusze QUERCUS).\n\n\"(...) saldo nabyć w październiku wyniosło -104 mln zł. Cieszą bardzo dobre wyniki inwestycyjne naszych funduszy absolutnej stopy zwrotu, szczególnie QUERCUS Global Balanced (+8,22 proc.), a także funduszy dłużnych, na czele z QUERCUS Dłużny Krótkoterminowy (+2,75 proc.) i QUERCUS Akumulacji Kapitału (+2,84 proc.)\" - powiedział, cytowany w komunikacie prasowym, prezes Quercus TFI Sebastian Buczek.\n\nWedług wstępnych szacunków, na koniec października 2026 r. DI Xelion posiadał 8,2 mld zł aktywów pod administracją ulokowanych w funduszach inwestycyjnych i innych instrumentach finansowych oraz 2,3 mld zł w ramach usługi zarządzania aktywami.\n\nW ocenie prezesa, sytuacja na Bliskim Wschodzie pozostaje napięta, co wpływa na wahania cen ropy i obligacji. Zwraca on również uwagę na kontynuację wojny w Ukrainie.\n\n\"Akcjom sprzyjają nadal bardzo dobre wyniki finansowe spółek, natomiast krótkoterminowo coraz większym wyzwaniem może okazać się rosnąca rentowność obligacji i obawy inwestorów o olbrzymie inwestycje w sektorze AI\" - dodał.\n\nQuercus na kolejne miesiące podchodzi do obligacji pozytywnie w długim okresie ze względu na bardzo wysoki poziom rentowności. Do akcji neutralnie, ponieważ wyniki finansowe spółek sprzyjają, ale rosnące rentowności obligacji mogą stanowić wyzwanie.\n\nNeutralnie podchodzi także do metali szlachetnych.\n\n\"30 stycznia br. pękła bańka spekulacyjna na złocie i srebrze, wartość fundamentalna jest wprawdzie niższa od ceny rynkowej, ale ostatnia korekta daje nadzieję na (raczej tymczasową) poprawę notowań\" - ocenił Buczek. (PAP Biznes)",
-      "date_published": "2026-11-03T06:32:00+01:00",
-      "source": "PAP Biznes"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Polska-gospodarka-na-zakrecie-Koniec-prostych-rezerw-wyscig-o-AI-i-cicha-rewolucja-za-granica-9219450.html",
-      "url": "https://www.bankier.pl/wiadomosc/Polska-gospodarka-na-zakrecie-Koniec-prostych-rezerw-wyscig-o-AI-i-cicha-rewolucja-za-granica-9219450.html",
-      "title": "Polska gospodarka na zakręcie. Koniec prostych rezerw, wyścig o AI i cicha rewolucja za granicą",
-      "content_html": "Polska gospodarka stoi przed koniecznością zmiany modelu wzrostu. Wyczerpują się dotychczasowe przewagi, a wyzwania geopolityczne, kryzys demograficzny i rosnąca presja technologiczna wymuszają nowe podejście do rozwoju. Podczas debaty \"Polskie...",
-      "date_published": "2026-11-03T06:00:00+01:00",
       "source": "Bankier.pl"
     },
     {
@@ -1114,14 +1186,6 @@
       "title": "GPW spada w kontrze do zagranicy. Banki ciążyły rynkowi, a spór o Trybunał dzieli analityków Pierwsza listopadowa sesja na GPW zakończyła się spadkiem głównych indeksów, choć ostateczny bilans okazał się znacznie łagodniejszy, niż wskazywały na to notowania z popołudnia. W swoim dołku strata na WIG20 zbliżała się do 2%, by ostatecznie zakończyć dzień spadkiem o 0,68% na poziomie 4 152,65 pkt. Głównym ciężarem dla rynku była wyprzedaż sektora bankowego.",
       "content_html": "",
       "date_published": "2026-11-02T17:25:00+01:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Tauron-ZE-i-Energia-z-Rolnictwa-chca-utworzyc-JV-w-sektorze-OZE-9222341.html",
-      "url": "https://www.bankier.pl/wiadomosc/Tauron-ZE-i-Energia-z-Rolnictwa-chca-utworzyc-JV-w-sektorze-OZE-9222341.html",
-      "title": "Tauron ZE i Energia z Rolnictwa chcą utworzyć JV w sektorze OZE Tauron Zielona Energia i Energia z Rolnictwa sp. z o.o. zgłosiły do UOKiK koncentrację polegającą na utworzeniu spółki JV - podał urząd w komunikacie. Spółka ma zajmować się identyfikacją, rozwojem, koordynacją, finansowaniem oraz nadzorem nad portfelem projektów odnawialnych źródeł energii i magazynów energii.",
-      "content_html": "",
-      "date_published": "2026-11-02T16:40:00+01:00",
       "source": "Bankier.pl"
     }
   ]
