@@ -5,12 +5,76 @@
   "home_page_url": "https://www.bankier.pl",
   "items": [
     {
+      "id": "https://biznes.pap.pl/wiadomosci/gospodarka/euro-w-ebc-11179-usd-i-17695-jpy",
+      "url": "https://biznes.pap.pl/wiadomosci/gospodarka/euro-w-ebc-11179-usd-i-17695-jpy",
+      "title": "Euro w EBC: 1,1179 USD i 176,95 JPY",
+      "content_html": "Europejski Bank Centralny (EBC) ustalił kurs euro na 1,1179 USD i 176,95 JPY - podał bank na swojej stronie internetowej.",
+      "date_published": "2026-11-03T15:58:00+01:00",
+      "source": "PAP Biznes"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/rynki/po-otwarciu-sesji-dji-spada-o-056-proc-sp500-rosnie-o-025-proc",
+      "url": "https://biznes.pap.pl/wiadomosci/rynki/po-otwarciu-sesji-dji-spada-o-056-proc-sp500-rosnie-o-025-proc",
+      "title": "Po otwarciu sesji DJI spada o 0,56 proc., a S&P500 rośnie o 0,25 proc.",
+      "content_html": "Po otwarciu sesji w USA Dow Jones Industrial spada o 0,56 proc. do 51.690 pkt., S&P500 zyskuje 0,25 proc. i wynosi 7.561 pkt.\n\nNasdaq Comp. rośnie o 0,5 proc. do poziomu 25.314 pkt. (PAP Biznes)",
+      "date_published": "2026-11-03T15:41:00+01:00",
+      "source": "PAP Biznes"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Ludzie-tylko-dowodcami-maszyn-na-froncie-czyli-jak-Saab-i-Nvidia-rewolucjonizuja-lotnictwo-wojskowe-9222869.html",
+      "url": "https://www.bankier.pl/wiadomosc/Ludzie-tylko-dowodcami-maszyn-na-froncie-czyli-jak-Saab-i-Nvidia-rewolucjonizuja-lotnictwo-wojskowe-9222869.html",
+      "title": "Ludzie tylko dowódcami maszyn na froncie, czyli jak Saab i Nvidia rewolucjonizują lotnictwo wojskowe",
+      "content_html": "Zbudowany w Szwecji superkomputer z procesorami Nvidia szkoli pilotów-agentów AI, którzy w przyszłości mają zastąpić ludzi w samolotach bojowych – pisze we wtorek dziennik „Svenska Dagbladet”.",
+      "date_published": "2026-11-03T15:29:00+01:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Konta-zablokowane-interweniuje-policja-Szef-banku-centralnego-Paragwaju-zrezygnowal-ze-stanowiska-9222874.html",
+      "url": "https://www.bankier.pl/wiadomosc/Konta-zablokowane-interweniuje-policja-Szef-banku-centralnego-Paragwaju-zrezygnowal-ze-stanowiska-9222874.html",
+      "title": "Nazywali go „lokalnym Revolutem”. Z dnia na dzień zablokowano konta, policja chroni placówki",
+      "content_html": "Ueno, dynamicznie rozwijający się bank nazywany paragwajską odpowiedzią na Revoluta, decyzją krajowego nadzoru finansowego został postawiony w stan upadłości. Miliony Paragwajczyków zostały odcięte rano od rachunków bankowych, a w związku...",
+      "date_published": "2026-11-03T15:26:00+01:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Trump-ucina-wsparcie-dla-Izraela-4-miliardy-dolarow-rocznie-zostana-w-USA-9222858.html",
+      "url": "https://www.bankier.pl/wiadomosc/Trump-ucina-wsparcie-dla-Izraela-4-miliardy-dolarow-rocznie-zostana-w-USA-9222858.html",
+      "title": "Trump ucina wsparcie dla Izraela. 4 miliardy dolarów rocznie zostaną w USA",
+      "content_html": "Prezydent USA Donald Trump powiedział we wtorek w rozmowie ze stacją Fox News, że zawarł porozumienie z Izraelem o zakończeniu wojskowej pomocy finansowej dla tego kraju wraz z końcem roku.",
+      "date_published": "2026-11-03T15:21:00+01:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Alarm-bombowy-w-Modlinie-Lotnisko-zostalo-zamkniete-9222668.html",
+      "url": "https://www.bankier.pl/wiadomosc/Alarm-bombowy-w-Modlinie-Lotnisko-zostalo-zamkniete-9222668.html",
+      "title": "Lotnisko w Modlinie wznowiło loty po alarmie bombowym na pokładzie samolotu",
+      "content_html": "Zakończyły się utrudnienia na lotniskach im. Chopina oraz Warszawa-Modlin - poinformowały porty. W związku z doniesieniami o potencjalnych zagrożeniach we wtorek rano zamknięto lotnisko w Modlinie oraz jedną z dróg startowych Lotniska Chopina...",
+      "date_published": "2026-11-03T15:15:00+01:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Agent-AI-doda-do-koszyka-i-zaplaci-Przelomowy-projekt-Visa-i-polskich-bankow-9222863.html",
+      "url": "https://www.bankier.pl/wiadomosc/Agent-AI-doda-do-koszyka-i-zaplaci-Przelomowy-projekt-Visa-i-polskich-bankow-9222863.html",
+      "title": "Agent AI doda do koszyka i zapłaci. Przełomowy projekt Visa i polskich banków",
+      "content_html": "Wyszukanie produktu, porównanie ofert, dodanie towaru do koszyka, a nawet zapłata kartą. Wszystkimi tymi czynnościami będzie mogła zająć się sztuczna inteligencja. Visa poinformowała o przeprowadzeniu w Polsce pilotażu zakupów realizowanych...",
+      "date_published": "2026-11-03T15:12:00+01:00",
+      "source": "Bankier.pl"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Atrem-ma-umowe-z-PSE-za-157-8-mln-zl-brutto-9222870.html",
       "url": "https://www.bankier.pl/wiadomosc/Atrem-ma-umowe-z-PSE-za-157-8-mln-zl-brutto-9222870.html",
-      "title": "Atrem ma umowę z PSE za 157,8 mln zł brutto Atrem podpisał z Polskimi Sieciami Elektroenergetycznymi umowę dotyczącą rozbudowy stacji 400/220/110 kV Mikułowa. Wynagrodzenie wynosi 157,8 mln zł brutto, w tym 98,1 mln zł z tytułu zamówienia podstawowego - podał Atrem w komunikacie.",
-      "content_html": "",
+      "title": "Atrem ma umowę z PSE za 157,8 mln zł brutto",
+      "content_html": "Atrem podpisał z Polskimi Sieciami Elektroenergetycznymi umowę dotyczącą rozbudowy stacji 400/220/110 kV Mikułowa. Wynagrodzenie wynosi 157,8 mln zł brutto, w tym 98,1 mln zł z tytułu zamówienia podstawowego - podał Atrem w komunikacie...",
       "date_published": "2026-11-03T15:10:00+01:00",
       "source": "Bankier.pl"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/firmy/atrem-ma-umowe-z-pse-za-1578-mln-zl-brutto",
+      "url": "https://biznes.pap.pl/wiadomosci/firmy/atrem-ma-umowe-z-pse-za-1578-mln-zl-brutto",
+      "title": "Atrem ma umowę z PSE za 157,8 mln zł brutto",
+      "content_html": "Atrem podpisał z Polskimi Sieciami Elektroenergetycznymi umowę dotyczącą rozbudowy stacji 400/220/110 kV Mikułowa. Wynagrodzenie wynosi 157,8 mln zł brutto, w tym 98,1 mln zł z tytułu zamówienia podstawowego - podał Atrem w komunikacie.\n\nStrony ustaliły w umowie termin realizacji umowy na 38 miesięcy od dnia jej zawarcia. (PAP Biznes)",
+      "date_published": "2026-11-03T15:09:00+01:00",
+      "source": "PAP Biznes"
     },
     {
       "id": "https://biznes.pap.pl/wiadomosci/gospodarka/eksport-z-polski-we-wrzesniu-wzrosl-o-167-proc-mdm-kig",
@@ -157,14 +221,6 @@
       "source": "Bankier.pl"
     },
     {
-      "id": "https://www.bankier.pl/wiadomosc/Alarm-bombowy-w-Modlinie-Lotnisko-zostalo-zamkniete-9222668.html",
-      "url": "https://www.bankier.pl/wiadomosc/Alarm-bombowy-w-Modlinie-Lotnisko-zostalo-zamkniete-9222668.html",
-      "title": "Lotnisko w Modlinie wznowiło loty po alarmie bombowym na pokładzie samolotu",
-      "content_html": "Zakończyły się utrudnienia na lotniskach im. Chopina oraz Warszawa-Modlin - poinformowały porty. W związku z doniesieniami o potencjalnych zagrożeniach we wtorek rano zamknięto lotnisko w Modlinie oraz jedną z dróg startowych Lotniska Chopina...",
-      "date_published": "2026-11-03T13:53:00+01:00",
-      "source": "Bankier.pl"
-    },
-    {
       "id": "https://biznes.pap.pl/wiadomosci/firmy/lukasz-kochanowski-czlonkiem-zarzadu-pfr-tfi",
       "url": "https://biznes.pap.pl/wiadomosci/firmy/lukasz-kochanowski-czlonkiem-zarzadu-pfr-tfi",
       "title": "Łukasz Kochanowski członkiem zarządu PFR TFI",
@@ -269,14 +325,6 @@
       "source": "Bankier.pl"
     },
     {
-      "id": "https://biznes.pap.pl/wiadomosci/przemysl/mfo-szacuje-zysk-netto-za-trzy-kwartaly-2026-r-na-115-mln-zl-tj-441-proc-wiecej",
-      "url": "https://biznes.pap.pl/wiadomosci/przemysl/mfo-szacuje-zysk-netto-za-trzy-kwartaly-2026-r-na-115-mln-zl-tj-441-proc-wiecej",
-      "title": "MFO szacuje zysk netto za trzy kwartały 2026 r. na 11,5 mln zł, tj. 4,41 proc. więcej rdr",
-      "content_html": "MFO szacuje zysk netto za trzy kwartały 2026 roku na 11,5 mln zł, co stanowi wzrost o 4,41 proc. w stosunku do analogicznego okresu 2025 roku oraz wzrost o 209,63 proc. w stosunku do wartości bazowej, tj. średniej wielkości osiągniętej w analogicznym okresie w ciągu 3 ostatnich lat - podał producent profili stalowych w komunikacie.\n\nPodano, że przychody ze sprzedaży produktów, towarów i materiałów za trzy kwartały 2026 roku wyniosły 571,17 mln zł, co stanowi wzrost o 10,31 proc. w stosunku do analogicznego okresu 2025 roku oraz wzrost o 21,01 proc. w stosunku do wartości bazowej.\n\nZysk na działalności operacyjnej (EBIT) za trzy kwartały wyniósł 17,6 mln zł, co stanowi spadek o 1,40 proc. w stosunku do analogicznego okresu 2025 roku oraz wzrost o 66,68 proc. w stosunku do wartości bazowej.\n\nOstateczne dane zostaną przekazane do wiadomości publicznej 19 listopada 2026 roku. (PAP Biznes)",
-      "date_published": "2026-11-03T12:17:00+01:00",
-      "source": "PAP Biznes"
-    },
-    {
       "id": "https://www.bankier.pl/wiadomosc/Od-amunicji-dla-Ukrainy-po-okulary-Czeski-miliarder-chce-przejac-producenta-Ray-Banow-9222634.html",
       "url": "https://www.bankier.pl/wiadomosc/Od-amunicji-dla-Ukrainy-po-okulary-Czeski-miliarder-chce-przejac-producenta-Ray-Banow-9222634.html",
       "title": "Od amunicji dla Ukrainy po okulary. Czeski miliarder chce przejąć producenta Ray-Banów",
@@ -315,22 +363,6 @@
       "content_html": "Północnokoreańscy hakerzy rozpoczęli skomplikowaną operację prania miliardów dolarów w tokenach skradzionych z giełdy kryptowalutowej Binance. Według szacunków analityków i służb śledczych, mimo zastosowania zaawansowanej automatyzacji...",
       "date_published": "2026-11-03T11:45:00+01:00",
       "source": "Bankier.pl"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/firmy/cena-maksymalna-dla-benzyny-pb95-wyniesie-w-srode-637-zll-dla-805-zll",
-      "url": "https://biznes.pap.pl/wiadomosci/firmy/cena-maksymalna-dla-benzyny-pb95-wyniesie-w-srode-637-zll-dla-805-zll",
-      "title": "Cena maksymalna dla benzyny Pb95 wyniesie w środę 6,37 zł/l, a dla ON 8,05 zł/l",
-      "content_html": "W środę 4 listopada maksymalna cena dla benzyny Pb95 wynosić będzie 6,37 zł/l, dla benzyny Pb98 7,24 zł/l, a dla oleju napędowego 8,05 zł/l - poinformował minister energii w obwieszczeniu.\n\nAktualnie obowiązujące ceny maksymalne to: dla benzyny Pb95 6,45 zł/l, dla benzyny Pb98 to 7,31 zł/l, a dla oleju napędowego 8,14 zł/l.\n\nRząd przywrócił od początku października do końca 2026 r. pakiet \"Ceny Paliwa Niżej\", tj. obniżył stawki VAT na paliwa z 23 proc. do 8 proc. oraz akcyzę do najniższego dopuszczalnego poziomu w UE, a także przywrócił ogłaszane przez ministra energii ceny maksymalne paliw na stacjach. (PAP Biznes)",
-      "date_published": "2026-11-03T11:44:00+01:00",
-      "source": "PAP Biznes"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/gospodarka/premier-ma-podpisac-kontrasygnate-pod-wnioskiem-prezydenta-o-powolanie-4",
-      "url": "https://biznes.pap.pl/wiadomosci/gospodarka/premier-ma-podpisac-kontrasygnate-pod-wnioskiem-prezydenta-o-powolanie-4",
-      "title": "Premier ma podpisać kontrasygnatę pod wnioskiem prezydenta o powołanie 4 członków zarządu NBP - media",
-      "content_html": "Radio Eska podało we wtorek, że premier Donald Tusk zdecyduje się złożyć kontrasygnatę pod postanowieniem prezydenta o powołaniu czterech nowych członków zarządu NBP: Marty Kightley, Ludwika Koteckiego, Przemysława Litwiniuka oraz Marcina Zarzeckiego.\n\nWedług ustaleń Radia ESKA, informację miał przekazać prezesowi banku centralnego Adamowi Glapińskiemu minister finansów Andrzej Domański na spotkaniu w poniedziałek.\n\nRadio Eska podaje, że w chwili publikacji tekstu doniesienia dotyczą planowanego ruchu premiera, a nie oficjalnego potwierdzenia, że proces powoływania nowych członków zarządu został już sfinalizowany.\n\nPAP Biznes potwierdziło w dwóch źródłach, że do spotkania szefa MF i prezesa NBP doszło w poniedziałek, a premier zamierza złożyć kontrasygnatę pod wnioskiem o powołanie członków zarządu NBP.\n\nKancelaria Premiera, NBP i MF nie były w stanie telefonicznie udzielić PAP Biznes komentarza w sprawie.\n\nPrezydent RP Karol Nawrocki przekazał w październiku do kontrasygnaty premiera wnioski o powołanie do zarządu NBP trzech obecnych członków RPP Ludwika Koteckiego, Przemysława Litwiniuka, Marcina Zarzeckiego oraz byłej wiceprezes NBP w latach 2020-26 Marty Kightley.\n\nObecny zarząd NBP liczy minimalną przewidzianą prawem liczbę 6 osób. 4 listopada upływa kadencja wiceprezesa NBP Adama Lipińskiego. Jeżeli wakat po Lipińskim nie zostanie uzupełniony, liczba członków zarządu spadłaby poniżej poziomu wymaganego ustawą o NBP.\n\nZgodnie z ustawą, w skład zarządu Narodowego Banku Polskiego wchodzi prezes banku centralnego oraz od sześciu do ośmiu członków, w tym dwóch wiceprezesów. Kadencja członków zarządu trwa 6 lat, a ta sama osoba nie może pełnić tej funkcji dłużej niż dwie kolejne kadencje.\n\nCzłonkowie zarządu są powoływani i odwoływani przez prezydenta na wniosek prezesa NBP. Jednakże zgodnie z konstytucją, co do zasady akty urzędowe prezydenta wymagają kontrasygnaty premiera z wyjątkiem m.in. wniosku do Sejmu o powołanie prezesa NBP, czy członków RPP. Kontrasygnaty wymaga zatem powołanie członków zarządu banku centralnego.\n\nAktualny skład zarządu NBP wraz z upływem kadencji: Adam Lipiński - wiceprezes NBP - kadencja do 4 listopada 2026 r., Marta Gajęcka - kadencja do 1 stycznia 2027 r., Paweł Mucha - kadencja do 1 września 2028 r., Artur Soboń - kadencja do 6 grudnia 2029 r., Rafał Sura - kadencja do 28 lipca 2028 r., Paweł Szałamacha - kadencja do 12 października 2028 r.",
-      "date_published": "2026-11-03T11:37:00+01:00",
-      "source": "PAP Biznes"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Drony-ktore-naruszyly-polska-przestrzen-powietrzna-zyskaly-nowe-mozliwosci-9222681.html",
@@ -437,12 +469,28 @@
       "source": "Bankier.pl"
     },
     {
+      "id": "https://biznes.pap.pl/wiadomosci/gospodarka/w-czwartek-i-i-ii-czytanie-w-sejmie-ponownie-zlozonego-projektu-ws-cit-dla",
+      "url": "https://biznes.pap.pl/wiadomosci/gospodarka/w-czwartek-i-i-ii-czytanie-w-sejmie-ponownie-zlozonego-projektu-ws-cit-dla",
+      "title": "W czwartek I i II czytanie w Sejmie ponownie złożonego projektu ws. CIT dla dużych firm i progów PIT",
+      "content_html": "Pierwsze i drugie czytanie ponownie składanego do Sejmu przez rząd projektu ustawy dotyczący wyższego CIT dla dużych firm i progów PIT planowane jest na w czwartek 5 listopada - wynika z harmonogramu obrad Sejmu a dn. 5-6 listopada\n\nPod koniec października Sejm uchwalił ustawę dotyczącą reformy PIT, jednak w projekcie wykreślono planowaną przez rząd podwyżkę CIT dla dużych przedsiębiorstw oraz wprowadzono indeksację progów PIT o inflację od 2028 r.\n\nPóźniej Senat zgłosił poprawki do ustawy, które przywracały zawartą w przedłożeniu rządowym podwyżkę CIT dla największych firm oraz wykreślają zapis o corocznej waloryzacji progów podatkowych w PIT.\n\nPowyższy proces legislacyjny krytykował m.in. Ryszard Petru z Klubu Parlamentarnego Centrum.\n\n\"Senat odrzucił moje poprawki przegłosowane przez Sejm. (...) Senat dopisał CIT do ustawy, która dotyczyła tylko PIT (druk 883). To poważne ryzyko niekonstytucyjności i prosta droga do weta całej ustawy\" - wskazywał na platformie X Petru.\n\nWiceminister finansów Jarosław Neneman poinformował PAP Biznes, że proces legislacyjny wzbudzał wątpliwości, więc rząd zdecydował się przyjąć ustawę ponownie.\n\nChodzi o projekt ustawy podwyższający pierwszy próg podatkowy ze 120 tys. zł do 130 tys. zł. Stawka poniżej tego progu pozostanie na poziomie 12 proc. Ponadto proponuje się wprowadzenie nowego progu obejmującego dochody w przedziale od ponad 130 tys. zł do 150 tys. zł ze stawką 24 proc. Dochody powyżej 150 tys. zł zostaną objęte stawką 32 proc.\n\nProjekt zakłada też podwyższenie o 3 punkty procentowe podstawowej (19 proc.) stawki podatku CIT – tj. do 22 proc. dla największych firm.\n\nUstawa wprowadza także zmiany w ryczałcie od przychodów ewidencjonowanych. Limit przychodów warunkujących możliwość wyboru opodatkowania ryczałtem zostanie obniżony z 2 mln euro do 250 tys. euro. Poza tym ustawa podnosi z 4 proc. do 5 proc. stawkę daniny solidarnościowej, którą nalicza się od dochodów przekraczających 1 mln zł rocznie.\n\nRząd proponuje, aby zmiany te weszły w życie z dniem 1 stycznia 2027 r. (PAP Biznes)",
+      "date_published": "2026-11-03T10:12:00+01:00",
+      "source": "PAP Biznes"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Frank-szwajcarski-najdrozszy-od-3-lat-Kwestia-Trybunalu-ciazy-zlotemu-9222627.html",
       "url": "https://www.bankier.pl/wiadomosc/Frank-szwajcarski-najdrozszy-od-3-lat-Kwestia-Trybunalu-ciazy-zlotemu-9222627.html",
       "title": "Frank szwajcarski najdroższy od 3 lat. Kwestia Trybunału ciąży złotemu",
       "content_html": "Po próbie siłowego przejęcia Trybunału Konstytucyjnego przez rząd złoty pozostaje pod presją, osłabiając się względem głównych walut. W efekcie frank szwajcarski jest najdroższy od ponad 3 lat.",
       "date_published": "2026-11-03T10:00:00+01:00",
       "source": "Bankier.pl"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/firmy/monitor-kadrowy-zestawienie-od-27-pazdziernika-do-2-listopada-0",
+      "url": "https://biznes.pap.pl/wiadomosci/firmy/monitor-kadrowy-zestawienie-od-27-pazdziernika-do-2-listopada-0",
+      "title": "Monitor kadrowy - zestawienie od 27 października do 2 listopada",
+      "content_html": "Przegląd informacji o zmianach personalnych w spółkach notowanych na rynku głównym GPW\n\nCI GAMES SE - powołanie zarządu na nową kadencję\n\n27 października 2026 r. spółka poinformowała, że 26 października 2026 r. rada nadzorcza powołała Marka Lecha Tymińskiego do zarządu na nową, trzyletnią kadencję, powierzając mu funkcję prezesa zarządu.\n\nENERGOINSTAL SA - odwołanie członków rady nadzorczej\n\n27 października 2026 r. NWZ spółki podjęło uchwały o odwołaniu Henryka Kawalskiego i Jana Pyki z rady nadzorczej.\n\nUNICREDIT SPA - rezygnacja przewodniczącego rady dyrektorów\n\n28 października 2026 r. emitent poinformował, że Pier Carlo Padoan ustąpi ze stanowiska przewodniczącego rady dyrektorów po zakończeniu obecnej kadencji.\n\nOCTAVA SA - powołanie członka rady nadzorczej\n\n28 października 2026 r. NWZ spółki powołało Wojciecha Sierkę na członka rady nadzorczej.\n\nWOODPECKER.CO SA - rezygnacja członka zarządu\n\n28 października 2026 r. Adam Biel złożył rezygnację z funkcji członka zarządu spółki ze skutkiem na koniec dnia 31 października 2026 r.\n\nEUROHOLD BULGARIA AD - rezygnacja członka zarządu\n\n28 października 2026 r. spółka poinformowała o rezygnacji Razvana Leftera z funkcji członka zarządu, złożonej 26 października 2026 r.\n\nPHN SA - powołanie wiceprezesa zarządu, zakończenie delegowania członka rady nadzorczej\n\n28 października 2026 r. rada nadzorcza spółki powołała Ziemowita Borowczaka na stanowisko wiceprezesa zarządu od 2 listopada 2026 r. Jednocześnie w tym dniu zakończy się okres delegowania Cezarego Nowosada do czasowego pełnienia tej funkcji.\n\nTENDERHUT SA - zmiany w radzie nadzorczej\n\n28 października 2026 r. Anna Janiczek złożyła rezygnację z funkcji członka rady nadzorczej spółki ze skutkiem na ten sam dzień.\n\n29 października 2026 r. NWZ spółki powołało Pawła Demczuka i Pawła Deptułę do rady nadzorczej.\n\nPOLENERGIA SA - rezygnacja członka rady nadzorczej\n\n28 października 2026 r. Rafał Plutecki zrezygnował z członkostwa w radzie nadzorczej spółki ze skutkiem na ten sam dzień.\n\nLW BOGDANKA SA - powołanie członka rady nadzorczej\n\n29 października 2026 r. NWZ spółki powołało Stanisława Tokarskiego do rady nadzorczej na trzyletnią wspólną kadencję.\n\nMBANK SA - powołanie członkini rady nadzorczej\n\n28 października 2026 r. rada nadzorcza spółki powołała Dorotę Poniatowską-Mańczak na członkinię rady, na okres bieżącej kadencji, od 1 listopada 2026 r.\n\nZPC OTMUCHÓW SA - zmiany osobowe w zarządzie\n\n29 października 2026 r. rada nadzorcza spółki zdecydowała, że od 1 listopada Monika Butz obejmie funkcję wiceprezesa zarządu, Fikret Başar (przewodniczący rady nadzorczej) zostanie czasowo delegowany do pełnienia obowiązków prezesa zarządu do 31 stycznia 2027 r., a Enis Başar od 1 listopada 2026 r. został powołany na stanowisko wiceprezesa zarządu.\n\nVIGO PHOTONICS SA - zmiany w radzie nadzorczej\n\n29 października 2026 r. Zbigniew Więcław zrezygnował z funkcji członka rady nadzorczej spółki, a Krzysztof Dziewicki został z niej odwołany. Jednocześnie NWZ powołało Mateusza Komorowskiego i Tomasza Rejmana na członków rady nadzorczej na wspólną trzyletnią kadencję.\n\n30 października 2026 r. Bogusław Oleksy pełniący funkcję prezesa zarządu spółki złożył rezygnację z członkostwa w zarządzie ze skutkiem na dzień 31 października 2026 r.\n\n30 października 2026 r. do spółki wpłynęło oświadczenie dotychczasowego wiceprezesa Pawła Średniawy o rezygnacji z członkostwa w zarządzie ze skutkiem na dzień 31 października 2026 r.\n\n2 listopada 2026 r. uprawniony akcjonariusz Wojciech Wajda powołał do rady nadzorczej Krystynę Wajdę, Krzysztofa Gawlika i Zygmunta Łukaszczyka, któremu powierzono funkcję przewodniczącego rady. Pozostałych członków – Jacka Węglarczyka i Katarzynę Lenik-Synowiec – powołało walne zgromadzenie.",
+      "date_published": "2026-11-03T09:52:00+01:00",
+      "source": "PAP Biznes"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Lukasz-Gibala-zwolnil-piecioro-pelnomocnikow-prezydenta-miasta-9222616.html",
@@ -725,6 +773,14 @@
       "source": "Bankier.pl"
     },
     {
+      "id": "https://biznes.pap.pl/wiadomosci/rynki/ceny-ropy-na-swiecie-znow-mocniej-zwyzkuja",
+      "url": "https://biznes.pap.pl/wiadomosci/rynki/ceny-ropy-na-swiecie-znow-mocniej-zwyzkuja",
+      "title": "Ceny ropy na świecie znów mocniej zwyżkują",
+      "content_html": "Ropa na rynkach znów mocniej drożeje po zniżce notowań w poniedziałek, sięgającej ok. 8 proc. Inwestorzy nerwowo reagują na informacje o ataku USA na irańską wyspę Keszm - podają maklerzy.\n\nBaryłka ropy West Texas Intermediate w dostawach na XII jest na NYMEX w Nowym Jorku po 97,48 USD - wyżej o 1,06 proc.\n\nBrent na ICE na I 2027 jest wyceniana po 105,87 USD za baryłkę, w górę o 1,05 proc.\n\nNa rynkach ropy panuje nerwowa atmosfera po tym, jak Stany Zjednoczone zaatakowały w poniedziałek irańską wyspę Keszm.\n\nPoinformowali o tym amerykańscy urzędnicy.\n\nTo kolejny atak o ograniczonej skali, potajemnie przeprowadzony przez Waszyngton w ostatnich tygodniach.\n\nDo ataku doszło po wypowiedziach prezydenta Donalda Trumpa, w których bagatelizował możliwość wznowienia wojny z Iranem po wtorkowych wyborach śródokresowych.\n\n\"Mieliśmy wojnę z Iranem. Wygraliśmy\" – powiedział Donald Trump dziennikarzom w poniedziałek.\n\n\"Nie wiem nawet, czy można to nazwać wojną, ponieważ od miesięcy nie prowadzimy żadnych działań bojowych\" - dodał.\n\nJednak, jak poinformowali urzędnicy, Stany Zjednoczone od kilku tygodni prowadzą przeciwko Iranowi uderzenia na mniejszą skalę.\n\nW poniedziałek w mediach społecznościowych pojawiły się doniesienia o eksplozjach w rejonie wyspy Keszm.\n\nIrańska agencja IRNA poinformowała o dźwiękach wybuchów w okolicy wyspy, położonej w cieśninie Ormuz. Była ona atakowana przez siły amerykańskie w przeszłości.\n\nNiektórzy urzędnicy określili te ataki jako działania o charakterze obronnym, mające uniemożliwić Iranowi swobodne atakowanie statków handlowych przepływających przez cieśninę Ormuz.\n\nJeden z urzędników poinformował, że w przeciwieństwie do wcześniejszego etapu wojny, Stany Zjednoczone nie informowały publicznie o przeprowadzanych atakach.\n\nUSA celowo utrzymują te działania w tajemnicy, aby nie sugerować zamiaru wznowienia zakrojonych na szeroką skalę operacji zbrojnych.\n\nZapytany w poniedziałek, czy rozważa atak na Iran po wyborach śródokresowych, Donald Trump powiedział: \"Nie\".\n\nPrzedstawiciele administracji USA poinformowali jednak, że prezydent nadal bierze pod uwagę wszystkie dostępne możliwości.\n\nNa dzień przed wtorkowymi wyborami do Kongresu Donald Trump pisał też, że cena ropy spadła o ok. 10 USD za baryłkę, bo: \"ludzie czują, że nie będzie wojny z Iranem\".\n\nPrezydent USA powiedział też tego dnia, że nie spieszy się z decyzją w sprawie potencjalnego powrotu do bombardowania Iranu.\n\nPrzekonywał, że Irańczycy chcą jak najszybciej zawrzeć porozumienie i być może tak się wydarzy.\n\nWedług portalu Axios, Donald Trump rozważa trzy możliwe scenariusze działania, popierane przez trzy różne obozy.\n\nPierwszy plan zakłada zawarcie porozumienia, drugi wariant przewiduje wznowienie działań bojowych, a trzecia opcja to utrzymywanie maksymalnej presji gospodarczej na Irańczyków.\n\n\"Biorąc pod uwagę wysoki poziom napięcia - związany z konfliktem na Bliskim Wschodzie - nie ma sensu zastanawiać się nad spadkami cen ropy, jakie widzieliśmy w poniedziałek\" - powiedziała dr Karen E. Young, starszy pracownik naukowy na Wydziale Spraw Międzynarodowych i Publicznych, na Uniwersytecie Columbia.\n\n\"Ale takie cykle informacyjne generują ruch na rynkach, a to oznacza, że zmiany na giełdach ropy nasilą się jeszcze bardziej, jeśli dojdzie do bardziej aktywnych, kinetycznych ataków USA i Izraela na Iran\" - dodała.\n\nW październiku ropa Brent zyskała prawie 14 proc., a jej cena osiągnęła najwyższy poziom od 6 miesięcy - w związku z obawami o wznowienie działań wojennych USA z Iranem, pomimo odrodzenia przepływów ropy w cieśninie Ormuz.\n\nAnalitycy informują, że nadal nie jest jasne, w jakim zakresie możliwe będzie osiągnięcie przełomu dyplomatycznego w relacjach USA-Iran, bo nadal istnieją poważne różnice pomiędzy obiema stronami.\n\nTeheran chce zniesienia blokady morskiej prowadzonej przez USA w portach, złagodzenia sankcji i uwolnienia zamrożonych aktywów - jeszcze przed pełnym otwarciem cieśniny Ormuz dla żeglugi.\n\nWaszyngton domaga się z kolei ustęp",
+      "date_published": "2026-11-03T07:55:00+01:00",
+      "source": "PAP Biznes"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Krolewski-pasierb-narzekal-na-izolacje-w-palacu-Skazany-za-gwalty-moze-wyjsc-na-wolnosc-9222489.html",
       "url": "https://www.bankier.pl/wiadomosc/Krolewski-pasierb-narzekal-na-izolacje-w-palacu-Skazany-za-gwalty-moze-wyjsc-na-wolnosc-9222489.html",
       "title": "Królewski pasierb narzekał na „izolację” w pałacu. Skazany za gwałty może wyjść na wolność",
@@ -869,6 +925,14 @@
       "source": "Bankier.pl"
     },
     {
+      "id": "https://biznes.pap.pl/wiadomosci/ekonomia-biznes-i-finanse/przewidywane-najwazniejsze-wydarzenia-gospodarcze-2026-11-03",
+      "url": "https://biznes.pap.pl/wiadomosci/ekonomia-biznes-i-finanse/przewidywane-najwazniejsze-wydarzenia-gospodarcze-2026-11-03",
+      "title": "Przewidywane najważniejsze wydarzenia gospodarcze 2026-11-03",
+      "content_html": "Przewidywane najważniejsze wydarzenia gospodarcze 2026-11-03\n\nTelekonferencja Zalando dot. wyników finansowych za trzeci kwartał tego roku.\n\nKonferencja prasowa „Visa Next – od wizji do działania”, poświęconą przyszłości handlu i płatności w erze sztucznej inteligencji.\n\n09:00 - Kongres Bankowości Korporacyjnej i Inwestycyjnej\n\n09:30 - Google Cloud Summit Poland 2026. W sześciu ścieżkach tematycznych wystąpią liderzy Google Cloud oraz przedstawiciele m.in. ORLEN, Banku Pekao, InPost i Allegro.\n\nKonferencja prasowa online, podczas której zostaną zaprezentowane wyniki transakcyjne BLIKA za trzeci kwartał 2026 r.\n\n10:00 - MBANK - Konferencja prasowa spółki\n\nŚniadanie prasowe mTFI \"ETF-y w Europie: ile kosztuje wybór?\".\n\n09:00 - PKOBP - Konferencja wynikowa Spółki\n\nKonferencja prasowa nt. wyników Grupy Kapitałowej PKO Banku Polskiego po trzech kwartałach 2026 r.\n\n09:30 - ASBIS - Konferencja wynikowa Spółki\n\nSpotkanie z zarządem Grupy ASBIS prezentujące wyniki finansowe Grupy za 3Q2026.\n\n12:00 - HANDLOWY - Konferencja wynikowa Spółki\n\nTelekonferencja podsumowująca działalność banku Citi Handlowy w trzecim kwartale 2026 roku.\n\n13:00 - PFR; PFR Ventures - Spotkanie poświęcone inicjatywie Innovate Poland, podczas którego zostaną przedstawione nowe informacje o programie Innovate PL Fund of Funds.\n\n13:00 - BNPPPL - Konferencja wynikowa Spółki\n\nPrezentacja wyników finansowych Banku BNP Paribas za III kwartał 2026 r.\n\n10:00 - ARCTIC - Konferencja wynikowa Spółki\n\nARCTIC PAPER organizuje webinar z zarządem poświęcony omówieniu wyników finansowych za za 3Q 2026 oraz perspektyw na kolejne kwartały.\n\n12:00 - MODIVO - Konferencja wynikowa Spółki\n\nWideokonferencja poświęcona omówieniu wyników finansowych Modivo Platform.\n\nUWAGA: Przedstawione zapowiedzi odzwierciedlają stan wiedzy na dzień ich publikacji i są codziennie aktualizowane. Zapowiedzi powstają na podstawie oficjalnych informacji przesłanych do PAP przez zainteresowane instytucje lub publicznych wypowiedzi ich przedstawicieli. Zapowiedzi nie należy traktować, jako zaproszenia.",
+      "date_published": "2026-11-03T07:00:00+01:00",
+      "source": "PAP Biznes"
+    },
+    {
       "id": "https://biznes.pap.pl/wiadomosci/rynki/kalendarium-rynku-newconnect-2026-11-03",
       "url": "https://biznes.pap.pl/wiadomosci/rynki/kalendarium-rynku-newconnect-2026-11-03",
       "title": "Kalendarium rynku NewConnect 2026-11-03",
@@ -983,122 +1047,26 @@
     {
       "id": "https://www.bankier.pl/wiadomosc/Historyczne-szczyty-spolek-z-WIG20-i-mWIG40-w-czasie-4-lat-hossy-Kto-zdobyl-ATH-ostatnio-9221191.html",
       "url": "https://www.bankier.pl/wiadomosc/Historyczne-szczyty-spolek-z-WIG20-i-mWIG40-w-czasie-4-lat-hossy-Kto-zdobyl-ATH-ostatnio-9221191.html",
-      "title": "Ile spółek hossa na GPW wyniosła na ATH? Są takie kursy, które prawie 20 lat czekają, a wciąż są ponad 90% od szczytu",
-      "content_html": "Cztery lata hossy na GPW przyniosły wzrost WIG20 i mWIG40 o odpowiednio 220 i 215 proc. Wzrosty napędzane są jednak przez napływy kapitału instytucjonalnego do grupy największych giełdowych spółek. Choć kluczowe indeksy biją rekordy, ciągle...",
-      "date_published": "2026-11-03T06:00:00+01:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Wymieniasz-opony-Uwazaj-na-nowe-oszustwo-9221971.html",
-      "url": "https://www.bankier.pl/wiadomosc/Wymieniasz-opony-Uwazaj-na-nowe-oszustwo-9221971.html",
-      "title": "Wymieniasz opony? Uważaj na nowe oszustwo!",
-      "content_html": "Niska cena, szybka dostawa, a nawet montaż pod domem. Oszuści wykorzystują sezon wymiany opon i uruchamiają fałszywe sklepy internetowe. W tym tygodniu w „Scam Alert” także sprawa podróbki mObywatela, która pozwalała generować dokumenty...",
-      "date_published": "2026-11-03T06:00:00+01:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Placisz-raty-zanim-zamieszkasz-Kredytowe-blaski-i-cienie-rynku-pierwotnego-i-wtornego-9222113.html",
-      "url": "https://www.bankier.pl/wiadomosc/Placisz-raty-zanim-zamieszkasz-Kredytowe-blaski-i-cienie-rynku-pierwotnego-i-wtornego-9222113.html",
-      "title": "Płacisz raty, zanim zamieszkasz. Kredytowe blaski i cienie rynku pierwotnego i wtórnego",
-      "content_html": "Natychmiastowa przeprowadzka albo czekanie na klucze – to nie jedyne różnice pomiędzy kupnem nieruchomości używanej i nowo wybudowanej. Istotne ryzyka czekają na kredytobiorców na obu rynkach. Blaski i cienie scenariuszy wyjaśnia ekspert Expander...",
-      "date_published": "2026-11-03T06:00:00+01:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Najlepsze-lokaty-na-1-miesiac-listopad-2026-r-Nowosci-w-tabeli-ale-na-szczycie-dalej-maks-4-9222159.html",
-      "url": "https://www.bankier.pl/wiadomosc/Najlepsze-lokaty-na-1-miesiac-listopad-2026-r-Nowosci-w-tabeli-ale-na-szczycie-dalej-maks-4-9222159.html",
-      "title": "Listopadowy ranking lokat miesięcznych. W TOP3 dwie oferty dla solenizantów",
-      "content_html": "Oferta na miesiąc jest nieco bardziej atrakcyjna za sprawą powrotu jednej z wyżej oprocentowanych lokat oraz pojawienia się nowości w pierwszej trójce tabeli. W dalszym ciągu jednak, wybierając ten okres zapadalności, nie można liczyć na więcej...",
-      "date_published": "2026-11-03T06:00:00+01:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Firmy-rodzinne-przed-przelomowymi-zmianami-Nie-kazdy-potomek-chce-byc-prezesem-9222246.html",
-      "url": "https://www.bankier.pl/wiadomosc/Firmy-rodzinne-przed-przelomowymi-zmianami-Nie-kazdy-potomek-chce-byc-prezesem-9222246.html",
-      "title": "Firmy rodzinne w czasach niepewności. Nie każdy potomek chce być prezesem",
-      "content_html": "Polskie firmy rodzinne przeżywają dziś trudniejszy okres. Po ponad trzech dekadach dynamicznego wzrostu wiele z nich notuje obecnie znacznie gorsze wyniki i musi mierzyć się z rynkową niepewnością. Coraz częściej mają też problem z przekazania...",
-      "date_published": "2026-11-03T06:00:00+01:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Dig-IT-wyjatkowa-szansa-dla-malych-firm-na-dotacje-na-cyfryzacje-Ile-mozna-dostac-9222312.html",
-      "url": "https://www.bankier.pl/wiadomosc/Dig-IT-wyjatkowa-szansa-dla-malych-firm-na-dotacje-na-cyfryzacje-Ile-mozna-dostac-9222312.html",
-      "title": "Dig.IT: wyjątkowa szansa dla małych firm na dotacje na cyfryzację. Ile można dostać?",
-      "content_html": "Gratka dla małego biznesu. Właściciele mikro i małych firm nareszcie będą mogli zawalczyć o dotacje na cyfryzację. A wszystko za sprawą wyczekanego i jedynego w tym roku naboru z programu Dig.IT organizowanego przez Agencję Rozwoju Przemysłu...",
-      "date_published": "2026-11-03T06:00:00+01:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Zbrojeniowka-szuka-pracownikow-Pensje-siegaja-20-tys-zl-9222357.html",
-      "url": "https://www.bankier.pl/wiadomosc/Zbrojeniowka-szuka-pracownikow-Pensje-siegaja-20-tys-zl-9222357.html",
-      "title": "Zbrojeniówka rekrutuje na potęgę. Nawet 20 tys. zł wynagrodzenia",
-      "content_html": "Rekordowe wydatki na obronność napędzają rekrutacje w polskiej zbrojeniówce. Firmy szukają operatorów, spawaczy, inżynierów, informatyków i logistyków, a doświadczeni specjaliści mogą liczyć na pensje sięgające 20 tys. zł brutto miesięcznie...",
-      "date_published": "2026-11-03T06:00:00+01:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/AI-kryptowaluty-i-fake-newsy-Raport-pokazuje-czego-boja-sie-internauci-9222383.html",
-      "url": "https://www.bankier.pl/wiadomosc/AI-kryptowaluty-i-fake-newsy-Raport-pokazuje-czego-boja-sie-internauci-9222383.html",
-      "title": "AI, kryptowaluty i fake newsy. Raport pokazuje, czego boją się internauci",
-      "content_html": "Największe obawy wśród użytkowników nowych technologii budzą kwestie fake newsów i kryptowalut – wynika z ogólnopolskiego raportu.",
+      "title": "Ile spółek hossa na GPW wyniosła na ATH? Są takie kursy, które prawie 20 lat czekają, a wciąż są ponad 90% od szczytu Cztery lata hossy na GPW przyniosły wzrost WIG20 i mWIG40 o odpowiednio 220 i 215 proc. Wzrosty napędzane są jednak przez napływy kapitału instytucjonalnego do grupy największych giełdowych spółek. Choć kluczowe indeksy biją rekordy, ciągle 30 procent podmiotów z WIG20 i mWIG40 nie potrafi zbliżyć się do swoich dawnych szczytów, a część kursów czeka na odrobienie ponad 90-procentowych strat od blisko dwóch dekad.",
+      "content_html": "",
       "date_published": "2026-11-03T06:00:00+01:00",
       "source": "Bankier.pl"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Druga-czarna-swieca-na-Nasdaqu-Wall-Street-w-dol-pomimo-przeceny-ropy-naftowej-9222479.html",
       "url": "https://www.bankier.pl/wiadomosc/Druga-czarna-swieca-na-Nasdaqu-Wall-Street-w-dol-pomimo-przeceny-ropy-naftowej-9222479.html",
-      "title": "Druga czarna świeca na Nasdaqu. Wall Street w dół pomimo przeceny ropy naftowej",
-      "content_html": "Poniedziałkowa, pierwsza w listopadzie, sesja na Wall Street przyniosła uspokojenie nastrojów po mocnej piątkowej wyprzedaży. Nasdaq spadł o 1 proc., gdyż inwestorzy przenoszą się z akcji spółek technologicznych na sektory defensywne. Rynek...",
+      "title": "Druga czarna świeca na Nasdaqu. Wall Street w dół pomimo przeceny ropy naftowej Poniedziałkowa, pierwsza w listopadzie, sesja na Wall Street przyniosła uspokojenie nastrojów po mocnej piątkowej wyprzedaży. Nasdaq spadł o 1 proc., gdyż inwestorzy przenoszą się z akcji spółek technologicznych na sektory defensywne. Rynek czeka na wyniki wyborów w USA.",
+      "content_html": "",
       "date_published": "2026-11-02T22:14:00+01:00",
       "source": "Bankier.pl"
     },
     {
-      "id": "https://biznes.pap.pl/wiadomosci/rynki/dzien-na-rynkach-otwarcie-listopada-na-wall-street-pozytywne-dla-dji-nasdaq-1-proc",
-      "url": "https://biznes.pap.pl/wiadomosci/rynki/dzien-na-rynkach-otwarcie-listopada-na-wall-street-pozytywne-dla-dji-nasdaq-1-proc",
-      "title": "DZIEŃ NA RYNKACH: Otwarcie listopada na Wall Street pozytywne dla DJI, Nasdaq 1 proc. w dół",
-      "content_html": "Poniedziałkowa, pierwsza w listopadzie, sesja na Wall Street przyniosła uspokojenie nastrojów po mocnej piątkowej wyprzedaży. Nasdaq spadł o 1 proc., gdyż inwestorzy przenoszą się z akcji spółek technologicznych na sektory defensywne. Rynek czeka na wyniki wyborów w USA.\n\nOstatnia godzina sesji przyniosła wyraźne pogorszenie nastrojów, Dow Jones zmniejszył skalę zwyżek, a tempo spadków pozostałych dużych indeksów zwiększyło się.\n\nDow Jones Industrial na zamknięciu wzrósł o 0,41 proc. i wyniósł 51.983,98 pkt.\n\nS&P 500 na koniec dnia stracił 0,51 proc. i wyniósł 7.541,40 pkt.\n\nNasdaq Composite zniżkował o 1,07 proc. do 25.164,32 pkt.\n\nIndeks spółek o średniej kapitalizacji Russell 2000 spada o 0,06 proc. i wynosi 2.810,26 pkt.\n\nIndeks VIX rośnie o 8,91 proc., do 21,15 pkt.\n\n„Długoterminowa, bycza narracja rynku akcji mogła nieco osłabnąć w ostatnich tygodniach, ale wciąż jest nienaruszona” – powiedział Chris Larkin, dyrektor zarządzający ds. handlu i inwestycji w E-Trade.\n\n„Wyzwaniem było utrzymanie dynamiki krótkoterminowej – utrzymanie jej przez więcej niż kilka dni bez zakłóceń spowodowanych rosnącymi cenami ropy, obawami o wydatki na sztuczną inteligencję, inflacją czy geopolityką” - dodał.\n\nW tym tygodniu uwaga rynków finansowych skupi się szczególnie na wyborach połówkowych w USA i raporcie payrolls z amerykańskiego rynku pracy.\n\nWtorkowe wybory w USA rozstrzygną, czy Demokraci zdołają odebrać kontrolę nad Kongresem Partii Republikańskiej.\n\nPowszechnie przewiduje się, że Demokraci zdobędą większość w Izbie Reprezentantów, jednak wynik wyborów do Senatu pozostaje niepewny. Przez pierwsze dwa lata rządów administracji Trumpa Republikanie kontrolowali obie izby Kongresu.\n\n\"Wybory w połowie kadencji zazwyczaj nie sprzyjają partii sprawującej władzę, a zwycięstwo Demokratów w Izbie Reprezentantów oznaczałoby powrót do sytuacji »podzielonych rządów« w USA, co nie byłoby niczym nadzwyczajnym\" – stwierdził Seth Meyer, globalny dyrektor ds. zarządzania portfelami klientów w firmie Janus Henderson Investors.\n\nAkcje Marvell Technology spadły podczas poniedziałkowej sesji o około 12 proc., podczas gdy Lumentum stracił 18 proc. po tym, jak firmy ogłosiły, że Marvell kupuje Lumentum w ramach transakcji wartej 115 miliardów dolarów.\n\nAkcje Oracle spadły o 8 proc. po tym, jak spółka poinformowała, że planuje sprzedać akcje zwykłe o wartości 10 mld USD, a także obligacje o wartości 10 mld USD, aby sfinansować rozbudowę swojej działalności w zakresie sztucznej inteligencji.\n\nAnalitycy Stephens podnieśli rekomendację dla akcji Oracle do \"przeważaj\". Firma ustaliła cenę docelową akcji koncernu na 213 USD, co oznacza potencjał wzrostu o około 63 proc.\n\n„Uważamy, że rynek powinien docenić Oracle za konsekwentne dostarczanie mocy obliczeniowych” — napisał analityk Brett Huff, który zauważył, że w pierwszym kwartale firma dostarczyła około 850 MW w ramach 38 projektów w 11 krajach.\n\nHuff dodał, że według niego Oracle może osiągnąć „dwucyfrowy” wieloletni wzrost liczby aplikacji, wyższy od 10-procentowego wzrostu prognozowanego przez Wall Street.\n\nZyski akcji spółek z tzw. starej gospodarki, takich jak Sherwin-Williams i Home Deport, napędzały indeks Dow Jones, rosnąc odpowiednio o prawie 6 i ponad 3 proc.\n\nHoneywell International, 3M i Boeing również odnotowały wzrosty o ponad 2 proc.\n\nW zeszłym tygodniu, Nasdaq, indeks technologiczny, oraz S&P 500 odnotowały spadki w październiku z powodu obaw związanych z wydatkami na sztuczną inteligencję. Nasdaq poniósł największe straty od marca 2025 r. Jednakże Dow Jones wzrósł o prawie 2 proc., ponieważ inwestorzy skupili się na defensywnych obszarach, takich jak opieka zdrowotna.\n\n„Rynek musi stawić czoła jeszcze wielu potencjalnym +wyzwalaczom zmienności+, w tym wynikom wyborów parlamentarnych i danym o zatrudnieniu w tym tygodniu, ale jego zdolność do reagowania na presję, ale nie do załamywania się, jest pozytywnym sygnałem” — powiedział Chris Larkin.\n\nWybory uzupełniające do Senatu w USA odbędą się we",
-      "date_published": "2026-11-02T22:12:00+01:00",
-      "source": "PAP Biznes"
-    },
-    {
       "id": "https://www.bankier.pl/wiadomosc/Eurocash-szacuje-ze-w-III-kw-2026-roku-mial-216-mln-EBITDA-powyzej-oczekiwan-9222475.html",
       "url": "https://www.bankier.pl/wiadomosc/Eurocash-szacuje-ze-w-III-kw-2026-roku-mial-216-mln-EBITDA-powyzej-oczekiwan-9222475.html",
-      "title": "Eurocash szacuje wyniki. EBITDA mocno powyżej oczekiwań, ale przychody spadają",
-      "content_html": "Szacowane przychody Eurocashu w trzecim kwartale 2026 roku wyniosły 7,28 mld zł, zysk EBITDA wyniósł 216 mln zł, a zysk netto j.d. był na poziomie 16 mln zł - poinformowała spółka w komunikacie. Konsensus PAP Biznes zakładał 7,19 mld zł...",
+      "title": "Eurocash szacuje wyniki. EBITDA mocno powyżej oczekiwań, ale przychody spadają Szacowane przychody Eurocashu w trzecim kwartale 2026 roku wyniosły 7,28 mld zł, zysk EBITDA wyniósł 216 mln zł, a zysk netto j.d. był na poziomie 16 mln zł - poinformowała spółka w komunikacie. Konsensus PAP Biznes zakładał 7,19 mld zł przychodów, 148,1 mln zł EBITDA i 41 mln zł straty netto.",
+      "content_html": "",
       "date_published": "2026-11-02T21:36:00+01:00",
       "source": "Bankier.pl"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/firmy/eurocash-szacuje-ze-w-iii-kw-2026-roku-mial-216-mln-ebitda-powyzej-oczekiwan",
-      "url": "https://biznes.pap.pl/wiadomosci/firmy/eurocash-szacuje-ze-w-iii-kw-2026-roku-mial-216-mln-ebitda-powyzej-oczekiwan",
-      "title": "Eurocash szacuje, że w III kw. 2026 roku miał 216 mln EBITDA, powyżej oczekiwań",
-      "content_html": "Szacowane przychody Eurocashu w trzecim kwartale 2026 roku wyniosły 7,28 mld zł, zysk EBITDA wyniósł 216 mln zł, a zysk netto j.d. był na poziomie 16 mln zł - poinformowała spółka w komunikacie. Konsensus PAP Biznes zakładał 7,19 mld zł przychodów, 148,1 mln zł EBITDA i 41 mln zł straty netto.\n\nDla porównania rok wcześniej Eurocash miał 7937 mln zł przychodów, 232 mln zł EBITDA i 7 mln zł zysku netto jednostki dominującej.\n\nJak podał Eurocash, na spadek przychodów w trzecim kwartale 2026 roku wpływ miały przede wszystkim restrukturyzacja sieci sklepów własnych Delikatesy Centrum (zamknięcia oraz przekazania sklepów franczyzobiorcom), niższa sprzedaż w Eurocash Dystrybucja (ograniczenie współpracy z mniej rentownymi klientami oraz spadek liczby klientów niezależnych) i w Cash_Carry (zamknięcia hal oraz niższa sprzedaż w porównywalnych halach).\n\nSpadek został częściowo zrównoważony wzrostem sprzedaży w Eurocash Serwis oraz Frisco.\n\nZysk brutto ze sprzedaży Eurocash wyniósł, według wstępnych szacunków, 881 mln zł wobec 1031 mln zł w trzecim kwartale 2025 r., co oznacza spadek o 15 proc. r/r).\n\nRentowność brutto na sprzedaży wyniosła 12,1 proc. wobec 13,0 proc. w trzecim kwartale 2025 r. Jak podała spółka, spadek wynika ze zmiany struktury sprzedaży poszczególnych jednostek biznesowych, w tym zamknięć sklepów własnych Delikatesy Centrum.\n\nKoszty sprzedaży i ogólnego zarządu wyniosły 822 mln zł i były o 139 mln zł (14 proc.) niższe r/r w wyniku realizowanego programu optymalizacji kosztów i restrukturyzacji sieci.\n\nSzacunkowa EBITDA Grupy wyniosła 216 mln zł i była o 7 proc. niższa r/r. EBIT wyniósł 89 mln zł i był o ok. 3 proc. wyższy r/r.\n\nPozostałe przychody operacyjne wyniosły 38 mln zł wobec 21 mln zł w trzecim kwartale 2025 r. Obejmują one zdarzenia o charakterze jednorazowym w łącznej kwocie ok. 13 mln zł.\n\nW wynikach trzeciego kwartału 2026 r. ujęto również zdarzenia jednorazowe związane z transformacją Grupy, które obniżyły EBITDA o 21 mln zł, a EBIT o 22 mln zł. Amortyzacja wyniosła 127 mln zł wobec 146 mln zł przed rokiem, co wynika głównie z mniejszej liczby sklepów własnych.\n\nZysk netto z działalności kontynuowanej wyniósł 29 mln zł wobec 20 mln zł w 3 kwartale 2025 r. Skonsolidowany zysk netto przypadający akcjonariuszom jednostki dominującej wyniósł 16 mln zł wobec 7 mln zł rok wcześniej.\n\nPo dziewięciu miesiącach 2026 roku przychody ze sprzedaży Grupy Eurocash wyniosły 21,139 mln zł i były o 7 proc. niższe r/r. EBITDA wyniosła 539 mln zł i była o 8 proc. niższa r/r. EBIT wyniósł 145 mln zł i był o 4 proc. wyższy r/r.\n\nStrata netto z działalności kontynuowanej po trzech kwartałach wyniosła 44 mln zł wobec straty 60 mln zł w analogicznym okresie 2025 r. Skonsolidowana strata netto przypadająca akcjonariuszom jednostki dominującej wyniosła 69 mln zł wobec straty 92 mln zł rok wcześniej.\n\nOstateczne wyniki Eurocash zostaną przekazane 19 listopada.\n\nPoniżej przedstawiamy wyniki Eurocashu w trzecim kwartale 2026 r. i ich odniesienie do konsensusu PAP Biznes oraz do poprzednich wyników. Dane w mln zł.",
-      "date_published": "2026-11-02T21:35:00+01:00",
-      "source": "PAP Biznes"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Rosja-wkracza-w-konflikt-wokol-TK-New-York-Times-wskazuje-cel-Kremla-9222474.html",
-      "url": "https://www.bankier.pl/wiadomosc/Rosja-wkracza-w-konflikt-wokol-TK-New-York-Times-wskazuje-cel-Kremla-9222474.html",
-      "title": "Rosja wkracza w konflikt wokół TK. „New York Times” wskazuje cel Kremla",
-      "content_html": "Rosja próbuje wykorzystać konflikt wokół Trybunału Konstytucyjnego w Polsce do osłabienia proeuropejskiego i proukraińskiego rządu w Warszawie oraz wsparcia dla Ukrainy - ocenił w poniedziałek „New York Times”.",
-      "date_published": "2026-11-02T21:32:00+01:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/firmy/wyniki-eurocashu-w-iii-kwartale-2026-roku-vs-konsensus-pap-tabela",
-      "url": "https://biznes.pap.pl/wiadomosci/firmy/wyniki-eurocashu-w-iii-kwartale-2026-roku-vs-konsensus-pap-tabela",
-      "title": "Wyniki Eurocashu w III kwartale 2026 roku vs. konsensus PAP (tabela)",
-      "content_html": "Poniżej przedstawiamy wyniki Eurocashu w trzecim kwartale 2026 r. i ich odniesienie do konsensusu PAP Biznes oraz do poprzednich wyników.\n\nKonsensus tworzony jest na podstawie prognoz biur maklerskich zebranych wcześniej przez PAP. Są one dostępne w pełnej wersji Serwisu Ekonomicznego PAP Biznes. Baza konsensusów PAP zawiera prognozy wyników kwartalnych i rocznych dla ponad 200 spółek notowanych na GPW. (PAP Biznes)",
-      "date_published": "2026-11-02T21:23:00+01:00",
-      "source": "PAP Biznes"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/rynki/dzien-na-rynkach-na-wall-street-uspokojenie-po-mocnej-piatkowej-wyprzedazy",
-      "url": "https://biznes.pap.pl/wiadomosci/rynki/dzien-na-rynkach-na-wall-street-uspokojenie-po-mocnej-piatkowej-wyprzedazy",
-      "title": "DZIEŃ NA RYNKACH: Na Wall Street uspokojenie po mocnej piątkowej wyprzedaży",
-      "content_html": "Poniedziałkowa sesja na Wall Street przyniosła uspokojenie nastrojów po mocnej piątkowej wyprzedaży. Inwestorzy nadal przenoszą się z akcji spółek technologicznych na sektory defensywne. Rynek czeka na wyniki wyborów w USA.\n\nDow Jones Industrial na zamknięciu wzrósł o 0,67 proc. i wyniósł 52.116,45 pkt.\n\nS&P 500 na koniec dnia stracił 0,17 proc. i wyniósł 7.567,12 pkt.\n\nNasdaq Composite zniżkował o 0,56 proc. do 25.292,06 pkt.\n\nIndeks spółek o średniej kapitalizacji Russell 2000 rośnie o 0,14 proc. i wynosi 2.815,75 pkt.\n\nIndeks VIX rośnie o 8,60 proc., do 21,09 pkt.\n\n„Długoterminowa, bycza narracja rynku akcji mogła nieco osłabnąć w ostatnich tygodniach, ale wciąż jest nienaruszona” – powiedział Chris Larkin, dyrektor zarządzający ds. handlu i inwestycji w E-Trade.\n\n„Wyzwaniem było utrzymanie dynamiki krótkoterminowej – utrzymanie jej przez więcej niż kilka dni bez zakłóceń spowodowanych rosnącymi cenami ropy, obawami o wydatki na sztuczną inteligencję, inflacją czy geopolityką” - dodał.\n\nW tym tygodniu uwaga rynków finansowych skupi się szczególnie na wyborach połówkowych w USA i raporcie payrolls z amerykańskiego rynku pracy.\n\nWtorkowe wybory w USA rozstrzygną, czy Demokraci zdołają odebrać kontrolę nad Kongresem Partii Republikańskiej.\n\nPowszechnie przewiduje się, że Demokraci zdobędą większość w Izbie Reprezentantów, jednak wynik wyborów do Senatu pozostaje niepewny. Przez pierwsze dwa lata rządów administracji Trumpa Republikanie kontrolowali obie izby Kongresu.\n\n\"Wybory w połowie kadencji zazwyczaj nie sprzyjają partii sprawującej władzę, a zwycięstwo Demokratów w Izbie Reprezentantów oznaczałoby powrót do sytuacji »podzielonych rządów« w USA, co nie byłoby niczym nadzwyczajnym\" – stwierdził Seth Meyer, globalny dyrektor ds. zarządzania portfelami klientów w firmie Janus Henderson Investors.\n\nAkcje Marvell Technology spadły podczas poniedziałkowej sesji o około 12 proc., podczas gdy Lumentum stracił 18 proc. po tym, jak firmy ogłosiły, że Marvell kupuje Lumentum w ramach transakcji wartej 115 miliardów dolarów.\n\nAkcje Oracle spadły o 8 proc. po tym, jak spółka poinformowała, że planuje sprzedać akcje zwykłe o wartości 10 mld USD, a także obligacje o wartości 10 mld USD, aby sfinansować rozbudowę swojej działalności w zakresie sztucznej inteligencji.\n\nAnalitycy Stephens podnieśli rekomendację dla akcji Oracle do \"przeważaj\". Firma ustaliła cenę docelową akcji koncernu na 213 USD, co oznacza potencjał wzrostu o około 63 proc.\n\n„Uważamy, że rynek powinien docenić Oracle za konsekwentne dostarczanie mocy obliczeniowych” — napisał analityk Brett Huff, który zauważył, że w pierwszym kwartale firma dostarczyła około 850 MW w ramach 38 projektów w 11 krajach.\n\nHuff dodał, że według niego Oracle może osiągnąć „dwucyfrowy” wieloletni wzrost liczby aplikacji, wyższy od 10-procentowego wzrostu prognozowanego przez Wall Street.\n\nZyski akcji spółek z tzw. starej gospodarki, takich jak Sherwin-Williams i Home Deport, napędzały indeks Dow Jones, rosnąc odpowiednio o prawie 6 i ponad 3 proc.\n\nHoneywell International, 3M i Boeing również odnotowały wzrosty o ponad 2 proc.\n\nW zeszłym tygodniu, Nasdaq, indeks technologiczny, oraz S&P 500 odnotowały spadki w październiku z powodu obaw związanych z wydatkami na sztuczną inteligencję. Nasdaq poniósł największe straty od marca 2025 r. Jednakże Dow Jones wzrósł o prawie 2 proc., ponieważ inwestorzy skupili się na defensywnych obszarach, takich jak opieka zdrowotna.\n\n„Rynek musi stawić czoła jeszcze wielu potencjalnym +wyzwalaczom zmienności+, w tym wynikom wyborów parlamentarnych i danym o zatrudnieniu w tym tygodniu, ale jego zdolność do reagowania na presję, ale nie do załamywania się, jest pozytywnym sygnałem” — powiedział Chris Larkin.\n\nWybory uzupełniające do Senatu w USA odbędą się we wtorek. Oczekuje się, że Demokraci przejmą wówczas kontrolę nad Izbą Reprezentantów, podczas gdy kontrola nad Senatem pozostaje niepewna.\n\nWskaźnik aktywności w przemyśle w USA w październiku wyniósł 55,5 pk",
-      "date_published": "2026-11-02T21:16:00+01:00",
-      "source": "PAP Biznes"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Zabka-zwieksza-maks-liczbe-akcji-do-nabycia-do-13-42-mln-w-ramach-programu-skupu-akcji-wlasnych-9222446.html",
@@ -1154,14 +1122,6 @@
       "title": "Tauron ZE i Energia z Rolnictwa chcą utworzyć JV w sektorze OZE Tauron Zielona Energia i Energia z Rolnictwa sp. z o.o. zgłosiły do UOKiK koncentrację polegającą na utworzeniu spółki JV - podał urząd w komunikacie. Spółka ma zajmować się identyfikacją, rozwojem, koordynacją, finansowaniem oraz nadzorem nad portfelem projektów odnawialnych źródeł energii i magazynów energii.",
       "content_html": "",
       "date_published": "2026-11-02T16:40:00+01:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Polityczna-wojna-moze-sparalizowac-NBP-Inwestorzy-maja-powody-do-obaw-9222321.html",
-      "url": "https://www.bankier.pl/wiadomosc/Polityczna-wojna-moze-sparalizowac-NBP-Inwestorzy-maja-powody-do-obaw-9222321.html",
-      "title": "NBP na krawędzi paraliżu. Inwestorzy mogą stracić cierpliwość Narastający konflikt między premierem Donaldem Tuskiem, prezydentem Karolem Nawrockim i prezesem Narodowego Banku Polskiego Adamem Glapińskim może zagrozić sprawnemu funkcjonowaniu banku centralnego – ocenia Bloomberg. Zdaniem agencji polityczny impas wokół NBP budzi coraz większe obawy o niezależność instytucji i jej zdolność do reagowania na kryzysy gospodarcze.",
-      "content_html": "",
-      "date_published": "2026-11-02T16:25:00+01:00",
       "source": "Bankier.pl"
     }
   ]
