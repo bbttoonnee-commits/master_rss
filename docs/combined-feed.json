@@ -5,60 +5,84 @@
   "home_page_url": "https://www.bankier.pl",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/FDA-pozytywnie-ocenila-kluczowe-zalozenia-rozwoju-MabionCD20-9224018.html",
+      "url": "https://www.bankier.pl/wiadomosc/FDA-pozytywnie-ocenila-kluczowe-zalozenia-rozwoju-MabionCD20-9224018.html",
+      "title": "FDA pozytywnie oceniła kluczowe założenia rozwoju MabionCD20 Amerykańska Agencja ds. Żywności i Leków (FDA) pozytywnie oceniła kluczowe założenia rozwoju MabionCD20 - poinformował Mabion w komunikacie. Do końca listopada Mabion i strategiczny partner Oddifact SAS uzgodnią ostateczną strategię rozwoju produktu, w tym harmonogram dalszych prac.",
+      "content_html": "",
+      "date_published": "2026-11-05T09:28:00+01:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/InPost-zmienia-zasady-odbioru-paczek-Nowa-funkcja-o-ktorej-marzylo-wielu-ale-sa-haczyki-9223956.html",
+      "url": "https://www.bankier.pl/wiadomosc/InPost-zmienia-zasady-odbioru-paczek-Nowa-funkcja-o-ktorej-marzylo-wielu-ale-sa-haczyki-9223956.html",
+      "title": "InPost zmienia zasady odbioru paczek. Nowa funkcja, o której marzyło wielu, ale są haczyki",
+      "content_html": "InPost wprowadza zmiany przy odbieraniu paczek - teraz będzie można automatycznie przekierować wszystkie swoje przesyłki do paczkomatu. Usługa ta będzie bezpłatna, jednak firma Rafała Brzoski obwarowała ją kilkoma warunkami. Tak będzie działała...",
+      "date_published": "2026-11-05T09:20:00+01:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/ABW-rozbila-siatke-szpiegowska-Pieciu-Polakow-i-Rosjanka-zatrzymani-za-wspieranie-rosyjskiej-armii-9224009.html",
+      "url": "https://www.bankier.pl/wiadomosc/ABW-rozbila-siatke-szpiegowska-Pieciu-Polakow-i-Rosjanka-zatrzymani-za-wspieranie-rosyjskiej-armii-9224009.html",
+      "title": "ABW rozbiła siatkę szpiegowską. Pięciu Polaków i Rosjanka zatrzymani za wspieranie rosyjskiej armii",
+      "content_html": "Funkcjonariusze ABW zatrzymali 6 osób podejrzanych o udział w zorganizowanej grupie przestępczej działającej przeciwko Rzeczypospolitej Polskiej. Wśród zatrzymanych jest pięciu Polaków w wieku od 25 do 52 lat i 37-letnia Rosjanka - poinformował...",
+      "date_published": "2026-11-05T09:12:00+01:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Zamykaja-znana-fabryke-mebli-Prace-straci-cala-zaloga-9224005.html",
+      "url": "https://www.bankier.pl/wiadomosc/Zamykaja-znana-fabryke-mebli-Prace-straci-cala-zaloga-9224005.html",
+      "title": "Koniec znanej fabryki mebli. Pracę straci prawie 260 osób",
+      "content_html": "Blisko 260 osób straci zatrudnienie w fabryce mebli Maripol w Kobylnicy. Powodem zwolnień jest zamknięcie zakładu – poinformowało Polskie Radio Koszalin.",
+      "date_published": "2026-11-05T09:06:00+01:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/LPP-zanotowalo-w-III-kw-wzrost-przychodow-o-20-proc-sprzedaz-LFL-wzrosla-o-1-8-proc-9224001.html",
+      "url": "https://www.bankier.pl/wiadomosc/LPP-zanotowalo-w-III-kw-wzrost-przychodow-o-20-proc-sprzedaz-LFL-wzrosla-o-1-8-proc-9224001.html",
+      "title": "Świetny kwartał LPP. Przychody wzrosły o 20 proc., zyski w górę o niemal jedną trzecią",
+      "content_html": "Grupa LPP zanotowała w III kwartale, czyli w okresie sierpień-październik 2026 r., 20 proc. wzrost dynamiki przychodów w walutach stałych. Sprzedaż LFL wzrosła o 4,4 proc. - podała spółka w komunikacie.",
+      "date_published": "2026-11-05T09:04:00+01:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Miedz-geopolityka-i-odpornosc-na-kryzysy-Co-napedzi-polska-gospodarke-do-2030-roku-9218229.html",
+      "url": "https://www.bankier.pl/wiadomosc/Miedz-geopolityka-i-odpornosc-na-kryzysy-Co-napedzi-polska-gospodarke-do-2030-roku-9218229.html",
+      "title": "Polskie firmy ruszają w świat. Jak zagraniczna ekspansja KGHM napędza krajowy biznes?",
+      "content_html": "Międzynarodowa obecność koncernów surowcowych to również impuls rozwojowy dla całego ekosystemu rodzimej gospodarki. Podczas Forum Finansów Bankiera Piotr Krzyżewski, wiceprezes KGHM ds. finansowych i handlu , zwrócił uwagę na to, jak zagraniczna...",
+      "date_published": "2026-11-05T09:00:00+01:00",
+      "source": "Bankier.pl"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Zetki-coraz-smielej-inwestuja-Zaskakujace-co-wybieraja-zamiast-kryptowalut-9220899.html",
       "url": "https://www.bankier.pl/wiadomosc/Zetki-coraz-smielej-inwestuja-Zaskakujace-co-wybieraja-zamiast-kryptowalut-9220899.html",
-      "title": "BUDOWANIE MAJĄTKU Zetki coraz śmielej inwestują. Zaskakujące, co wybierają zamiast kryptowalut Obraz inwestora kojarzący się z maklerem w garniturze z „Wilka z Wall Street” bezpowrotnie odchodzi do lamusa. Współczesny rynek finansowy przechodzi głęboką transformację, a próg wejścia do świata inwestycji uległ znacznemu obniżeniu. O specyfice nowych pokoleń na rynku finansowym, ich celach oraz barierach mentalnych i technologicznych opowiada Patryk Borkowski, Dyrektor Departamentu Sprzedaży i Strategii w Erste TFI S.A.",
-      "content_html": "",
+      "title": "Zetki coraz śmielej inwestują. Zaskakujące, co wybierają zamiast kryptowalut",
+      "content_html": "Obraz inwestora kojarzący się z maklerem w garniturze z „Wilka z Wall Street” bezpowrotnie odchodzi do lamusa. Współczesny rynek finansowy przechodzi głęboką transformację, a próg wejścia do świata inwestycji uległ znacznemu obniżeniu...",
       "date_published": "2026-11-05T09:00:00+01:00",
       "source": "Bankier.pl"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/PKO-BP-chce-utrzymac-dwucyfrowy-wzrost-kredytow-wdrozy-modelowa-umowe-kredytu-hipotecznego-wywiad-9223998.html",
       "url": "https://www.bankier.pl/wiadomosc/PKO-BP-chce-utrzymac-dwucyfrowy-wzrost-kredytow-wdrozy-modelowa-umowe-kredytu-hipotecznego-wywiad-9223998.html",
-      "title": "PKO BP chce utrzymać dwucyfrowy wzrost kredytów; wdroży modelową umowę kredytu hipotecznego (wywiad) PKO BP spodziewa się, że w najbliższych kwartałach utrzyma dwucyfrowe tempo wzrostu kredytów i zakłada, że przy utrzymaniu obecnego poziomu stóp wzrost kredytów będzie nadal wspierał marżę odsetkową. Do końca roku bank chce wdrożyć modelową umowę kredytu hipotecznego - poinformował PAP Biznes prezes PKO BP Szymon Midera.",
-      "content_html": "",
+      "title": "PKO BP chce utrzymać dwucyfrowy wzrost kredytów; wdroży modelową umowę kredytu hipotecznego (wywiad)",
+      "content_html": "PKO BP spodziewa się, że w najbliższych kwartałach utrzyma dwucyfrowe tempo wzrostu kredytów i zakłada, że przy utrzymaniu obecnego poziomu stóp wzrost kredytów będzie nadal wspierał marżę odsetkową. Do końca roku bank chce wdrożyć modelową...",
       "date_published": "2026-11-05T08:58:00+01:00",
       "source": "Bankier.pl"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/East-Value-Research-obnizyl-wycene-Digital-Network-do-324-zl-9223993.html",
       "url": "https://www.bankier.pl/wiadomosc/East-Value-Research-obnizyl-wycene-Digital-Network-do-324-zl-9223993.html",
-      "title": "East Value Research obniżył wycenę Digital Network do 324 zł Analitycy East Value Research, w raporcie z 5 listopada, obniżyli 12-miesięczną cenę docelową Digital Network z 331,20 zł do 324 zł oraz podwyższyli rekomendację z „akumuluj” do „kupuj”.",
-      "content_html": "",
+      "title": "East Value Research obniżył wycenę Digital Network do 324 zł",
+      "content_html": "Analitycy East Value Research, w raporcie z 5 listopada, obniżyli 12-miesięczną cenę docelową Digital Network z 331,20 zł do 324 zł oraz podwyższyli rekomendację z „akumuluj” do „kupuj”.",
       "date_published": "2026-11-05T08:54:00+01:00",
       "source": "Bankier.pl"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Arctic-Paper-w-III-kw-2026-r-mial-9-7-mln-zl-EBITDA-mocno-ponizej-konsensusu-9223990.html",
       "url": "https://www.bankier.pl/wiadomosc/Arctic-Paper-w-III-kw-2026-r-mial-9-7-mln-zl-EBITDA-mocno-ponizej-konsensusu-9223990.html",
-      "title": "Arctic Paper w III kw. 2026 r. miał 9,7 mln zł EBITDA, mocno poniżej konsensusu",
+      "title": "Arctic Paper w III kw. 2026 r. miał 9,7 mln zł EBITDA. Mocno poniżej konsensusu",
       "content_html": "Arctic Paper odnotował w III kwartale 2026 roku EBITDA na poziomie 9,7 mln zł, a konsensus PAP Biznes zakładał 20,5 mln zł EBITDA. W tym okresie przychody wyniosły 736,6 mln zł wobec 758,2 mln zł konsensusu.",
       "date_published": "2026-11-05T08:42:00+01:00",
       "source": "Bankier.pl"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/firmy/arctic-paper-w-iii-kw-2026-r-mial-97-mln-zl-ebitda-mocno-ponizej-konsensusu",
-      "url": "https://biznes.pap.pl/wiadomosci/firmy/arctic-paper-w-iii-kw-2026-r-mial-97-mln-zl-ebitda-mocno-ponizej-konsensusu",
-      "title": "Arctic Paper w III kw. 2026 r. miał 9,7 mln zł EBITDA, mocno poniżej konsensusu",
-      "content_html": "Arctic Paper odnotował w III kwartale 2026 roku EBITDA na poziomie 9,7 mln zł, a konsensus PAP Biznes zakładał 20,5 mln zł EBITDA. W tym okresie przychody wyniosły 736,6 mln zł wobec 758,2 mln zł konsensusu.\n\nW III kwartale 2026 roku Arctic Paper odnotował 28,9 mln zł straty operacyjnej i 16,1 mln zł straty netto w segmencie papieru. Konsensus zakładał 16,8 mln zł straty operacyjnej i 15,5 mln zł straty netto.\n\nWskaźnik DN/EBITDA dla segmentu papieru był na poziomie 0,92.\n\nW komunikacie prasowym podano, że po dacie bilansowej spółce Arctic Paper Kostrzyn przyznano 34,3 mln zł rekompensaty na pokrycie kosztów energii za rok 2025, co znajdzie odzwierciedlenie w wynikach za IV kwartał 2026 r.\n\nPrezes Michał Jarczyński w liście do akcjonariuszy wskazał, że warunki rynkowe w III kwartale 2026 r. pozostawały trudne. Popyt na rynku europejskim nadal był stłumiony, a konkurencja ostra, natomiast konflikt na Bliskim Wschodzie spowodował wzrost kosztów surowców i logistyki. Z drugiej strony, efekty kursowe oraz oszczędności przyczyniły się do uzyskania lepszego wyniku w segmencie celulozy.\n\n\"Silna presja na ceny papieru utrudniła pełne zrównoważenie rosnących kosztów surowców, co wywarło presję na marże w segmencie papieru. W trzecim kwartale przychody tego segmentu wyniosły 521,8 mln zł, a EBITDA 10,1 mln zł, co odpowiada marży EBITDA na poziomie 1,9 procent. Wielkość sprzedaży spadła, natomiast zysk na tonę nieznacznie wzrósł. Chociaż przychody i zyski były niższe niż w analogicznym kwartale ubiegłego roku, w obu przypadkach odnotowano poprawę w porównaniu z poprzednim kwartałem br., do czego przyczynił się nasz program poprawy wydajności i redukcji kosztów\" - napisał prezes.\n\nPodał, że nowo otwarte biuro sprzedaży w Stanach Zjednoczonych osiąga dobre wyniki, a sprzedaż w Stanach Zjednoczonych i Meksyku rośnie, co wspiera cel spółki, aby w ciągu najbliższych kilku lat region ten odpowiadał za 5-10 procent całkowitej sprzedaży papieru.\n\n\"W odpowiedzi na utrzymujące się słabe wyniki w segmencie papieru zintensyfikowaliśmy działania mające na celu redukcję kosztów, uruchamiając nowy program oszczędnościowy, który przewiduje zmniejszenie zatrudnienia w naszych zakładach. Oczekuje się, że program ten przyniesie roczne oszczędności w wysokości 18 mln zł, a efekty będą widoczne w latach 2027-2028, natomiast związane z nim koszty zostaną rozpoznane w latach 2026-2027. Nakłady inwestycyjne będą nadal wyraźnie ograniczane, przy czym nacisk zostanie położony na zakończenie uprzednio rozpoczętych projektów\" - napisał.\n\nPodał, że w segmencie celulozy (Rottneros) odnotowano obroty w wysokości 570 mln SEK, przy nieznacznie wyższych wolumenach dostaw, ale innym miksie produktowym. Ceny rynkowe celulozy NBSK pozostawały stabilne. Koszty zmienne spadły o 51 mln SEK, głównie z powodu niższych cen drewna, choć wyższe ceny energii częściowo zniwelowały te oszczędności. Trwające działania mające na celu poprawę wydajności i dostępności produkcyjnej okazały się skuteczne i pozostaną naszym priorytetem.\n\n\"Nasze strategiczne inicjatywy w zakresie zrównoważonych rozwiązań energetycznych nadal przynoszą efekty: zmodernizowany kocioł w Grycksbo zapewnił oszczędności kosztów energii przewyższające oczekiwania, a sprzedaż pelletu nabiera tempa, natomiast budowa nowego kotła elektrycznego w Kostrzynie przebiega zgodnie z planem i ma zostać ukończona w II kwartale 2027. W trzecim kwartale 2026 r. segment opakowań nadal odnotowywał stabilne wyniki pod względem wielkości sprzedaży\" - napisał.\n\n\"Chociaż trudno jest przewidzieć, kiedy powróci koniunktura, Arctic Paper jest dobrze przygotowany do radzenia sobie z obecną sytuacją rynkową. Solidna sytuacja finansowa w połączeniu z nieustanną koncentracją na wynikach operacyjnych, niższymi kosztami stałymi oraz selektywnym podejściem do inwestycji wspierają długoterminowy rozwój Grupy. Działania te mają na celu poprawę konkurencyjności, utrzymanie marż oraz umożliwienie Grupie optymalnego wykorzystania lepszych warunków ry",
-      "date_published": "2026-11-05T08:40:00+01:00",
-      "source": "PAP Biznes"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/firmy/dzien-na-gpw-przed-otwarciem-gpw-rosna-kontrakty-w-europie-rynki-analizuja-wybory",
-      "url": "https://biznes.pap.pl/wiadomosci/firmy/dzien-na-gpw-przed-otwarciem-gpw-rosna-kontrakty-w-europie-rynki-analizuja-wybory",
-      "title": "DZIEŃ NA GPW: Przed otwarciem GPW rosną kontrakty w Europie, rynki analizują wybory w USA",
-      "content_html": "Przed otwarciem czwartkowej sesji na warszawskiej giełdzie wzrosty utrzymują się na kontraktach terminowych w Europie, natomiast mieszane nastroje panują na rynkach azjatyckich.\n\n\"Na rynkach azjatyckich panują mieszane nastroje. Hang Seng zyskuje ok. 3,5 proc., podczas gdy Nikkei traci blisko 1,7 proc., a KOSPI prawie 5,3 proc. Kontrakty terminowe na główne europejskie indeksy sugerują pozytywne otwarcie dzisiejszej sesji\" - napisał w porannym raporcie Michał Kozak, analityk Zespołu Analiz i Doradztwa Inwestycyjnego DI Xelion.\n\nŚrodę na rynkach zdominowały informacje o wynikach wyborów w Stanach Zjednoczonych. Rynki stanęły przed scenariuszem, w którym Demokraci mają większość w Senacie, a także przejęli Izbę Reprezentantów.\n\nWedług banków inwestycyjnych nie jest to najkorzystniejszy scenariusz dla rynków, m.in. ze względu na możliwą większą presję na regulacje w sektorze sztucznej inteligencji, a także większy nacisk na kwestie ochrony środowiska.\n\nPrezydent Donald Trump zadeklarował chęć współpracy z Demokratami, jednocześnie zapowiadając, że w razie braku porozumienia będzie wetował ich ustawy. Z kolei lider Demokratów w Izbie Reprezentantów Hakeem Jeffries zapowiedział wprowadzenie ustaw, które mają powstrzymać cła nakładane przez Biały Dom oraz zakończyć konflikt z Iranem.\n\nKontrakty terminowe na akcje amerykańskie w czwartek rano notowały mieszane wyniki po wzroście dzień wcześniej spowodowanym gwałtownym spadkiem cen ropy naftowej i pewnością co do zwycięstwa Demokratów w wyborach uzupełniających do Kongresu.\n\nBank Anglii przedstawi w czwartek swoją decyzję w sprawie stóp proc.\n\nW centrum uwagi inwestorów na polskim rynku będzie w czwartek konferencja prasowa prezesa NBP Adama Glapińskiego dzień po tym, jak Rada Polityki Pieniężnej pozostawiła stopy procentowe na dotychczasowym poziomie.\n\nO 11.00 opublikowane zostaną dane o inflacji w strefie euro, a w Stanach Zjednoczonych cotygodniowy raport o liczbie wniosków o zasiłek dla bezrobotnych. W piątek zostanie opublikowany istotny dla rynków raport o liczbie zatrudnionych poza rolnictwem za październik.\n\nPo zamknięciu giełdowej sesji wyniki finansowe za trzeci kwartał przedstawią m.in. Orlen i Dino Polska.\n\nZWRÓĆ UWAGĘ (informacje opublikowane po zamknięciu notowań na GPW):\n\n• Zysk netto grupy PKO BP w III kwartale 2026 r. wzrósł do 2.933 mln zł z 2.837 mln zł rok wcześniej. Zysk okazał się 4,1 proc. powyżej oczekiwań analityków, którzy prognozowali, że wyniesie on 2.818 mln zł.\n\n• PKO BP spodziewa się, że w najbliższych kwartałach utrzyma dwucyfrowe tempo wzrostu kredytów i zakłada, że przy utrzymaniu obecnego poziomu stóp wzrost kredytów będzie nadal wspierał marżę odsetkową. Do końca roku bank chce wdrożyć modelową umowę kredytu hipotecznego - poinformował PAP Biznes prezes PKO BP Szymon Midera.\n\n• Zysk netto grupy Banku Handlowego w III kwartale 2026 r. spadł do 288,3 mln zł z 469,4 mln zł rok wcześniej. Zysk okazał się zgodny z oczekiwaniami analityków, którzy prognozowali, że wyniesie 291,3 mln zł.\n\n• Zysk netto grupy BNP Paribas BP w III kwartale 2026 r. spadł do 689,1 mln zł z 695,5 mln zł rok wcześniej. Zysk okazał się 2,9 proc. powyżej oczekiwań analityków, którzy prognozowali, że wyniesie on 669,9 mln zł.\n\n• Zysk netto Asbisu w trzecim kwartale wyniósł 51,8 mln USD (+337 proc. wzrostu r/r) wobec konsensusu PAP Biznes na poziomie 46,0 mln USD.\n\n• Cyfrowy Polsat rozpoczął analizę możliwości refinansowania zadłużenia spółki i jej podmiotów zależnych, wynikającego z umów kredytowych oraz wyemitowanych przez spółkę obligacji serii D, E i F.\n\n• Strata netto przypisana akcjonariuszom jednostki dominującej Arctic Paper wyniosła w trzecim kwartale 16,1 mln zł, a konsensus PAP Biznes szacował tę stratę na 15,5 mln zł.\n\n• W I kwartale roku obrotowego 2026/2027 grupa Ambra osiągnęła przychody ze sprzedaży w wysokości 186,4 mln zł, co oznacza spadek o 4,3 proc. rdr. Dobrze rozwijała się sprzedaż napojów bezalkoholowych rosnąc o 12,3 proc. Zysk netto skorygowany o zdarzenia j",
-      "date_published": "2026-11-05T08:37:00+01:00",
-      "source": "PAP Biznes"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/rynki/dzien-na-rynkach-w-azji-na-gieldach-przewaga-zwyzek-wskaznikow",
-      "url": "https://biznes.pap.pl/wiadomosci/rynki/dzien-na-rynkach-w-azji-na-gieldach-przewaga-zwyzek-wskaznikow",
-      "title": "DZIEŃ NA RYNKACH: W Azji na giełdach przewaga zwyżek wskaźników",
-      "content_html": "Na azjatyckich giełdach najważniejsze indeksy przeważnie rosną. Widoczna jest rotacja akcji, napędzana wynikiem wyborów uzupełniających do Kongresu USA. Tracą regionalni producenci układów scalonych. Na rynku walutowym USD jest słabszy do euro i JPY. Bitcoin jest po ok. 80.500 USD za token. Złoto zyskuje 1,6 proc. - informują maklerzy.\n\nW Japonii 225 zniżkował o 1,79 proc. Topix był wyżej o 1,16 proc.\n\nW Chinach SCI zyskał 0,10 proc., a CSI 300 wzrósł o 0,29 proc.\n\nW Hongkongu Hang Seng jest wyżej o 3,76 proc.\n\nW Korei Południowej KOSPI zniżkował o 5,28 proc.\n\nW Indiach Sensex 30 zwyżkuje o 2,07 proc.\n\nIndeks PSEi na Filipinach zwyżkuje o 1,46 proc.\n\nW Dżakarcie wskaźnik Jakarta Comp zyskuje 2,36 proc.\n\nNa azjatyckich giełdach widoczna jest rotacja akcji, napędzana wynikiem wyborów uzupełniających do Kongresu USA. Tracą regionalni producenci układów scalonych.\n\nSamsung Electronics Co. i SK Hynix Inc. zniżkowały w czwartek w Korei Południowej po ponad 7 proc., bo inwestorzy uwzględniają w cenach ryzyko zaostrzenia regulacji dot. centrów danych.\n\n\"Widzimy wyraźną kontynuację rotacji producentów chipów\" - powiedział Tim Waterer, główny analityk rynku w KCM Trade.\n\nW USA Demokraci zdobyli większość zarówno w Izbie Reprezentantów, jak i w Senacie, a także odnieśli zwycięstwa w kluczowych wyborach gubernatorskich, takich jak w Teksasie.\n\nDemokraci będą teraz kontrolować politykę Trumpa, który wprowadził korzystne dla biznesu obniżki podatków, a jednocześnie dążył do wprowadzenia ceł i wojny z Iranem, która podniosła inflację.\n\nDemokraci przejęli co najmniej siedem senackich mandatów należących dotąd do Republikanów, zapewniając sobie większość w Senacie. Demokraci przejmą też kontrolę nad Izbą Reprezentantów.\n\nKandydaci Demokratów wygrali w Karolinie Północnej i Maine oraz uznawanych dotąd za bastiony Republikanów Teksasie, Kansas, Ohio, Karolinie Południowej i Iowa.\n\nZwycięstwo Demokratów w Kongresie wywołało na rynkach obawy dotyczące większego nadzoru regulacyjnego nad obszarami o dużym wzroście, takimi jak producenci układów scalonych.\n\nDo tego spekulacje, że Demokraci będą dążyć do zakończenia wojny USA z Iranem wywołała spadek cen ropy naftowej. W środę surowiec staniał o ponad 8 proc.\n\nNasiliły się spekulacje, że niższe ceny ropy ograniczą inflację.\n\nNa rynku walutowym japoński jen kosztuje 157,93 za 1 USD, wyżej o 0,3 proc.\n\nEuro jest po 1,1258 USD, wyżej o 0,3 proc.\n\nBitcoin kosztuje 80.498 USD za token, w górę o 0,4 proc.\n\nRentowność 10-letnich UST wynosi 4,84 proc., niżej o 4 pb.\n\nZłoto jest wyceniane w transakcjach spot po 4.123 USD za uncję, wyżej o 1,6 proc.\n\nW Europie kontrakty na Stoxx 50 rosną o 0,30 proc., na FTSE 100 zwyżkują o 1,20 proc., na CAC 40 idą wyżej o 0,77 proc., a na DAX rosną o 0,42 proc.\n\nGiełdy w Europie zwyżkowały na koniec sesji w środę.\n\nNa zamknięciu sesji indeks Euro Stoxx 50 zyskał 2,07 proc., niemiecki DAX zwyżkował o 2,38 proc., francuski CAC 40 poszedł w górę o 1,96 proc., a brytyjski FTSE wzrósł o 1,79 proc.\n\nBenchmarkowy indeks Stoxx Europe 600 zwyżkował o 1,91 proc.\n\nW USA kontrakty na indeksy są w przedziale od -0,86 proc. do +0,47 proc.\n\nŚrodowa sesja na Wall Street zakończyła się mocnymi wzrostami głównych indeksów. Dow Jones zyskał ponad 1500 punktów, notując najlepszy dzień od 18 miesięcy.\n\nDow Jones Industrial na zamknięciu wzrósł o 3,03 proc., czyli o 1570 punktów, i wyniósł 53.356,12 pkt. To był najlepszy dzień tego indeksu od kwietnia 2025 roku.\n\nS&P 500 na koniec dnia zyskał 1,58 proc. i wyniósł 7.688,62 pkt.\n\nNasdaq Composite zwyżkował o 1,44 proc. do 25.736,51 pkt. (PAP Biznes)",
-      "date_published": "2026-11-05T08:23:00+01:00",
-      "source": "PAP Biznes"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Najlepsza-sesja-Toyoty-od-39-lat-Japonski-kolos-wystrzelil-o-17-proc-i-rozpoczyna-marsz-w-strone-robotyki-9223965.html",
@@ -255,7 +279,7 @@
     {
       "id": "https://www.bankier.pl/wiadomosc/Od-175-w-dniu-debiutu-do-5-dolarow-dzisiaj-Spolka-Trumpa-traci-zaufanie-inwestorow-9223840.html",
       "url": "https://www.bankier.pl/wiadomosc/Od-175-w-dniu-debiutu-do-5-dolarow-dzisiaj-Spolka-Trumpa-traci-zaufanie-inwestorow-9223840.html",
-      "title": "Od 175 w dniu debiutu do 5 dolarów dzisiaj. Spółka Trumpa traci zaufanie inwestorów",
+      "title": "Od 80 do 5 dolarów dzisiaj. Spółka Trumpa traci zaufanie inwestorów",
       "content_html": "Notowania medialnej firmy prezydenta Donalda Trumpa, Trump Media & Technology Group, do której należy platforma społecznościowa Truth Social, spadły w środę, po wyborach w USA wygranych przez Demokratów, do najniższego poziomu od giełdowego...",
       "date_published": "2026-11-05T07:09:00+01:00",
       "source": "Bankier.pl"
@@ -288,17 +312,33 @@
       "id": "https://biznes.pap.pl/wiadomosci/ekonomia-biznes-i-finanse/przewidywane-najwazniejsze-wydarzenia-gospodarcze-2026-11-05",
       "url": "https://biznes.pap.pl/wiadomosci/ekonomia-biznes-i-finanse/przewidywane-najwazniejsze-wydarzenia-gospodarcze-2026-11-05",
       "title": "Przewidywane najważniejsze wydarzenia gospodarcze 2026-11-05",
-      "content_html": "Przewidywane najważniejsze wydarzenia gospodarcze 2026-11-05",
+      "content_html": "Przewidywane najważniejsze wydarzenia gospodarcze 2026-11-05\n\n09:00 - Kongres Bankowości Korporacyjnej i Inwestycyjnej\n\n09:00 - PKOBP - Konferencja wynikowa Spółki\n\nKonferencja prasowa nt. wyników Grupy Kapitałowej PKO Banku Polskiego po trzech kwartałach 2026 r.\n\n09:30 - ASBIS - Konferencja wynikowa Spółki\n\nSpotkanie z zarządem Grupy ASBIS prezentujące wyniki finansowe Grupy za 3Q2026.\n\n12:00 - HANDLOWY - Konferencja wynikowa Spółki\n\nTelekonferencja podsumowująca działalność banku Citi Handlowy w trzecim kwartale 2026 roku.\n\n13:00 - PFR; PFR Ventures - Spotkanie poświęcone inicjatywie Innovate Poland, podczas którego zostaną przedstawione nowe informacje o programie Innovate PL Fund of Funds.\n\n13:00 - BNPPPL - Konferencja wynikowa Spółki\n\nPrezentacja wyników finansowych Banku BNP Paribas za III kwartał 2026 r.\n\n17:15 - PKNORLEN - Konferencja wynikowa Spółki\n\nTransmisja online konferencji poświęconej omówieniu wyników finansowych Orlenu za III kwartał 2026 roku.\n\n10:00 - ARCTIC - Konferencja wynikowa Spółki\n\nARCTIC PAPER organizuje webinar z zarządem poświęcony omówieniu wyników finansowych za za 3Q 2026 oraz perspektyw na kolejne kwartały.\n\n12:00 - MODIVO - Konferencja wynikowa Spółki\n\nWideokonferencja poświęcona omówieniu wyników finansowych Modivo Platform.\n\n12:00 - TSGAMES - Konferencja wynikowa Spółki\n\nKonferencja prasowa online Grupy Ten Square Games dotycząca wyników finansowych za trzeci kwartał 2026 roku.\n\nUWAGA: Przedstawione zapowiedzi odzwierciedlają stan wiedzy na dzień ich publikacji i są codziennie aktualizowane. Zapowiedzi powstają na podstawie oficjalnych informacji przesłanych do PAP przez zainteresowane instytucje lub publicznych wypowiedzi ich przedstawicieli. Zapowiedzi nie należy traktować, jako zaproszenia.",
       "date_published": "2026-11-05T07:00:00+01:00",
       "source": "PAP Biznes"
     },
     {
-      "id": "https://www.bankier.pl/wiadomosc/Wyniki-Asbisu-w-III-kwartale-2026-roku-vs-konsensus-PAP-tabela-9223939.html",
-      "url": "https://www.bankier.pl/wiadomosc/Wyniki-Asbisu-w-III-kwartale-2026-roku-vs-konsensus-PAP-tabela-9223939.html",
+      "id": "https://biznes.pap.pl/wiadomosci/rynki/kalendarium-rynku-newconnect-2026-11-05",
+      "url": "https://biznes.pap.pl/wiadomosci/rynki/kalendarium-rynku-newconnect-2026-11-05",
+      "title": "Kalendarium rynku NewConnect 2026-11-05",
+      "content_html": "10:00 - LICHTHUND - Nadzwyczajne walne zgromadzenie\n\nW sprawie emisji akcji, zmian w statucie.\n\n10:00 - KOOL2PLAY - Nadzwyczajne walne zgromadzenie\n\nW sprawie emisji akcji zwykłych na okaziciela serii R, programu motywacyjnego, emisji warrantów, kooptacji członka RN.\n\n11:30 - LIFTERO - Nadzwyczajne walne zgromadzenie\n\nW sprawie połączenia z Progresja Space sp. z o.o.",
+      "date_published": "2026-11-05T07:00:00+01:00",
+      "source": "PAP Biznes"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/rynki/kalendarium-rynku-kapitalowego-gpw-2026-11-05",
+      "url": "https://biznes.pap.pl/wiadomosci/rynki/kalendarium-rynku-kapitalowego-gpw-2026-11-05",
+      "title": "Kalendarium rynku kapitałowego GPW 2026-11-05",
+      "content_html": "Kalendarium rynku kapitałowego GPW 2026-11-05\n\nZaliczka na poczet dywidendy w wysokości 0,24 PLN na akcję.\n\n09:00 - KRAKCHEM - Nadzwyczajne walne zgromadzenie\n\n11:00 - SPYROSOFT - Nadzwyczajne walne zgromadzenie\n\nW sprawie upoważnienia zarządu do nabywania akcji własnych, utworzenia kapitału rezerwowego.\n\n09:00 - FASING - Nadzwyczajne walne zgromadzenie\n\nW sprawie przyjęcia polityki równowagi płci, zmian w statucie.\n\n11:00 - RAFAMET - Nadzwyczajne walne zgromadzenie\n\nW sprawie akcji zwykłych imiennych serii L.\n\nZaliczka na poczet dywidendy w wysokości 0,65 PLN na akcję.\n\n10:00 - GREENX - Zwyczajne walne zgromadzenie",
+      "date_published": "2026-11-05T07:00:00+01:00",
+      "source": "PAP Biznes"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/firmy/wyniki-asbisu-w-iii-kwartale-2026-roku-vs-konsensus-pap-tabela",
+      "url": "https://biznes.pap.pl/wiadomosci/firmy/wyniki-asbisu-w-iii-kwartale-2026-roku-vs-konsensus-pap-tabela",
       "title": "Wyniki Asbisu w III kwartale 2026 roku vs. konsensus PAP (tabela)",
-      "content_html": "Poniżej przedstawiamy wyniki Asbisu w trzecim kwartale 2026 r. i ich odniesienie do konsensusu PAP oraz do poprzednich wyników.",
-      "date_published": "2026-11-05T06:48:00+01:00",
-      "source": "Bankier.pl"
+      "content_html": "Poniżej przedstawiamy wyniki Asbisu w trzecim kwartale 2026 r. i ich odniesienie do konsensusu PAP oraz do poprzednich wyników.\n\nKonsensus tworzony jest na podstawie prognoz biur maklerskich zebranych wcześniej przez PAP. Są one dostępne w pełnej wersji Serwisu Ekonomicznego PAP Biznes. Baza konsensusów PAP zawiera prognozy wyników kwartalnych i rocznych dla ponad 200 spółek notowanych na GPW. (PAP Biznes)",
+      "date_published": "2026-11-05T06:47:00+01:00",
+      "source": "PAP Biznes"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Zysk-netto-Banku-Handlowego-w-III-kw-26-wyniosl-288-3-mln-zl-zgodny-z-oczekiwaniami-9223935.html",
@@ -381,14 +421,6 @@
       "source": "Bankier.pl"
     },
     {
-      "id": "https://biznes.pap.pl/wiadomosci/ekonomia-biznes-i-finanse/skrot-wiadomosci-sroda-4-listopada-2100",
-      "url": "https://biznes.pap.pl/wiadomosci/ekonomia-biznes-i-finanse/skrot-wiadomosci-sroda-4-listopada-2100",
-      "title": "Skrót wiadomości - środa, 4 listopada, 21.00",
-      "content_html": "Przegląd najważniejszych wiadomości gospodarczych, krajowych i ze świata.",
-      "date_published": "2026-11-04T21:02:00+01:00",
-      "source": "PAP Biznes"
-    },
-    {
       "id": "https://www.bankier.pl/wiadomosc/Przegralismy-wybory-przez-wojne-Trump-Ale-to-bylo-tego-warte-9223837.html",
       "url": "https://www.bankier.pl/wiadomosc/Przegralismy-wybory-przez-wojne-Trump-Ale-to-bylo-tego-warte-9223837.html",
       "title": "\"Przegraliśmy wybory przez wojnę\". Trump: Ale to było tego warte",
@@ -419,14 +451,6 @@
       "content_html": "Elon Musk, który wydał niemal 500 mln dolarów na wsparcie Republikanów we wtorkowych wyborach do Kongresu USA, może być jednym z ich największych przegranych – oceniła w środę agencja Reutera. Zwycięstwo Demokratów oznacza ryzyko dochodzeń...",
       "date_published": "2026-11-04T19:44:00+01:00",
       "source": "Bankier.pl"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/firmy/cyfrowy-polsat-przeanalizuje-mozliwosci-refinansowania-zadluzenia-spolki",
-      "url": "https://biznes.pap.pl/wiadomosci/firmy/cyfrowy-polsat-przeanalizuje-mozliwosci-refinansowania-zadluzenia-spolki",
-      "title": "Cyfrowy Polsat przeanalizuje możliwości refinansowania zadłużenia spółki",
-      "content_html": "Cyfrowy Polsat rozpoczął analizę możliwości refinansowania zadłużenia spółki i jej podmiotów zależnych, wynikającego z umów kredytowych oraz wyemitowanych przez spółkę obligacji serii D, E i F - podał",
-      "date_published": "2026-11-04T19:42:00+01:00",
-      "source": "PAP Biznes"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Korwin-Piotrowska-przejmuje-stery-w-Trybunale-Sedzia-zwolala-zgromadzenie-ogolne-9223785.html",
@@ -469,30 +493,6 @@
       "source": "Bankier.pl"
     },
     {
-      "id": "https://biznes.pap.pl/wiadomosci/gospodarka/srodki-funduszu-modernizacyjnego-wespra-cieplownie-geotermalna-dla-kutna",
-      "url": "https://biznes.pap.pl/wiadomosci/gospodarka/srodki-funduszu-modernizacyjnego-wespra-cieplownie-geotermalna-dla-kutna",
-      "title": "Środki Funduszu Modernizacyjnego wesprą ciepłownię geotermalną dla Kutna - NFOŚiGW",
-      "content_html": "Narodowy Fundusz Ochrony Środowiska i Gospodarki Wodnej podpisał umowę dofinansowania projektu budowy ciepłowni geotermalnej w Kutnie wraz z przyłączeniem jej do miejskiego systemu ciepłowniczego - po",
-      "date_published": "2026-11-04T18:10:00+01:00",
-      "source": "PAP Biznes"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/rynki/dzien-na-rynkach-indeksy-w-europie-zwyzkowaly-po-wyborach-do-kongresu-usa",
-      "url": "https://biznes.pap.pl/wiadomosci/rynki/dzien-na-rynkach-indeksy-w-europie-zwyzkowaly-po-wyborach-do-kongresu-usa",
-      "title": "DZIEŃ NA RYNKACH: Indeksy w Europie zwyżkowały po wyborach do Kongresu USA",
-      "content_html": "Giełdy w Europie zwyżkowały na koniec sesji w środę. Inwestorzy oceniają wyniki wyborów połówkowych w USA i zwycięstwo Demokratów w obu izbach Kongresu.",
-      "date_published": "2026-11-04T18:06:00+01:00",
-      "source": "PAP Biznes"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/gospodarka/marszalek-senatu-wnioskuje-o-odwolanie-z-rpp-plitwiniuka-i-lkoteckiego-w",
-      "url": "https://biznes.pap.pl/wiadomosci/gospodarka/marszalek-senatu-wnioskuje-o-odwolanie-z-rpp-plitwiniuka-i-lkoteckiego-w",
-      "title": "Marszałek Senatu wnioskuje o odwołanie z RPP P.Litwiniuka i L.Koteckiego w związku z ich rezygnacją",
-      "content_html": "Na stronach internetowych Senatu ukazały się dwa wnioski marszałka Senatu z projektami uchwał Senatu ws. odwołania z funkcji dwóch członków Rady Polityki Pieniężnej, Przemysława Litwiniuka oraz Ludwik",
-      "date_published": "2026-11-04T17:55:00+01:00",
-      "source": "PAP Biznes"
-    },
-    {
       "id": "https://www.bankier.pl/wiadomosc/Wojna-o-Trybunal-Stanu-dla-Adama-Glapinskiego-NBP-i-RPP-Sejmowe-postepowanie-lamie-Konstytucje-i-prawo-UE-9223739.html",
       "url": "https://www.bankier.pl/wiadomosc/Wojna-o-Trybunal-Stanu-dla-Adama-Glapinskiego-NBP-i-RPP-Sejmowe-postepowanie-lamie-Konstytucje-i-prawo-UE-9223739.html",
       "title": "Wojna o Trybunał Stanu dla Adama Glapińskiego. NBP i RPP: Sejmowe postępowanie łamie Konstytucję i prawo UE",
@@ -501,28 +501,12 @@
       "source": "Bankier.pl"
     },
     {
-      "id": "https://biznes.pap.pl/wiadomosci/gospodarka/komisja-odpowiedzialnosci-konstytucyjnej-nie-powinna-prowadzic-postepowania",
-      "url": "https://biznes.pap.pl/wiadomosci/gospodarka/komisja-odpowiedzialnosci-konstytucyjnej-nie-powinna-prowadzic-postepowania",
-      "title": "Komisja odpowiedzialności konstytucyjnej nie powinna prowadzić postępowania wobec prezesa NBP - RPP",
-      "content_html": "Sejmowa Komisja odpowiedzialności konstytucyjnej nie powinna prowadzić postępowania wobec prezesa NBP, ponieważ jest to niezgodne m.in. z zasadą niezależności banku centralnego ugruntowaną w Konstytuc",
-      "date_published": "2026-11-04T17:38:00+01:00",
-      "source": "PAP Biznes"
-    },
-    {
       "id": "https://www.bankier.pl/wiadomosc/Zarzuty-dla-Bogdana-Swieczkowskiego-za-system-Hermes-Prokuratura-zada-uchylenia-immunitetu-9223729.html",
       "url": "https://www.bankier.pl/wiadomosc/Zarzuty-dla-Bogdana-Swieczkowskiego-za-system-Hermes-Prokuratura-zada-uchylenia-immunitetu-9223729.html",
       "title": "Zarzuty dla Bogdana Święczkowskiego za system Hermes. Prokuratura żąda uchylenia immunitetu",
       "content_html": "Prokuratura Regionalna w Rzeszowie chce postawić zarzuty Bogdanowi Święczkowskiemu, że jako prokurator krajowy przekroczył swe uprawnienia służbowe i nie dopełnił obowiązków, podejmując arbitralną decyzję o wyborze i kupnie przez PK systemu...",
       "date_published": "2026-11-04T17:26:00+01:00",
       "source": "Bankier.pl"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/gospodarka/sciezka-inflacji-w-projekcji-nbp-na-27-mocno-w-gore-ale-nie-musi-sygnalizowac",
-      "url": "https://biznes.pap.pl/wiadomosci/gospodarka/sciezka-inflacji-w-projekcji-nbp-na-27-mocno-w-gore-ale-nie-musi-sygnalizowac",
-      "title": "Ścieżka inflacji w projekcji NBP na '27 mocno w górę, ale to nie musi sygnalizować podwyżek stóp (opinia)",
-      "content_html": "Ścieżka inflacji w listopadowej projekcji NBP została mocno zrewidowana w górę, wskazuje na ryzyko utrzymywania się inflacji powyżej celu przez większość 2027 r., ale może to nie wystarczyć, żeby Rada",
-      "date_published": "2026-11-04T17:21:00+01:00",
-      "source": "PAP Biznes"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Orlen-czerwona-latarnia-WIG20-Nie-wzial-udzialu-w-odreagowaniu-po-wyborach-w-USA-9223715.html",
@@ -539,22 +523,6 @@
       "content_html": "Wiceprezydent USA J.D. Vance ocenił w środę, że Republikanie przegrali w wyborach do Kongresu z powodu wojny z Iranem.",
       "date_published": "2026-11-04T17:12:00+01:00",
       "source": "Bankier.pl"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/gospodarka/dzien-na-fxfi-zloty-i-spw-umocnily-sie-rynki-czekaja-m-na-przeglad-ratingu-sp",
-      "url": "https://biznes.pap.pl/wiadomosci/gospodarka/dzien-na-fxfi-zloty-i-spw-umocnily-sie-rynki-czekaja-m-na-przeglad-ratingu-sp",
-      "title": "DZIEŃ NA FX/FI: Złoty i SPW umocniły się; rynki czekają m. in. na przegląd ratingu S&P dla Polski",
-      "content_html": "W środę polska waluta i krajowe obligacje umacniały się drugi dzień z rzędu. EUR/PLN spadł do poniżej 4,40, a rentowności 10-letnich SPW obniżyły się o ok. 10 pb. Zdaniem ekonomistów, a najbliższym cz",
-      "date_published": "2026-11-04T17:09:00+01:00",
-      "source": "PAP Biznes"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/ekonomia-biznes-i-finanse/skrot-wiadomosci-sroda-4-listopada-1700",
-      "url": "https://biznes.pap.pl/wiadomosci/ekonomia-biznes-i-finanse/skrot-wiadomosci-sroda-4-listopada-1700",
-      "title": "Skrót wiadomości - środa, 4 listopada, 17.00",
-      "content_html": "Przegląd najważniejszych wiadomości gospodarczych, krajowych i ze świata.",
-      "date_published": "2026-11-04T17:00:00+01:00",
-      "source": "PAP Biznes"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Rusza-rozbudowa-A2-Powstanie-trzeci-i-czwarty-pas-ale-przez-dwa-lata-pojedziemy-70-km-h-9223693.html",
@@ -576,7 +544,7 @@
       "id": "https://biznes.pap.pl/wiadomosci/firmy/shein-w-26-zainwestowal-lacznie-500-mln-euro-w-rozbudowe-centrum-logistycznego",
       "url": "https://biznes.pap.pl/wiadomosci/firmy/shein-w-26-zainwestowal-lacznie-500-mln-euro-w-rozbudowe-centrum-logistycznego",
       "title": "Shein w '26 zainwestował łącznie 500 mln euro w rozbudowę centrum logistycznego niedaleko Wrocławia",
-      "content_html": "Shein w 2026 roku zainwestował łącznie 500 mln euro (2,2 mld zł) w rozbudowę swojego europejskiego centrum logistycznego w okolicach Wrocławia - podała platforma w komunikacie. Realizowane w 2026 roku",
+      "content_html": "Shein w 2026 roku zainwestował łącznie 500 mln euro (2,2 mld zł) w rozbudowę swojego europejskiego centrum logistycznego w okolicach Wrocławia - podała platforma w komunikacie. Realizowane w 2026 roku inwestycje zwiększą łączną wartość nakładów Shein w Polsce od 2022 roku do 1 mld euro (4,4 mld zł).\n\nInwestycja w rozbudowę centrum logistycznego w okolicach Wrocławia ma na celu zwiększenie potencjału logistycznego firmy oraz usprawnienie realizacji zamówień na rynkach europejskich.\n\n\"Europa jest dla Shein jednym z kluczowych rynków, dlatego konsekwentnie inwestujemy w infrastrukturę i rozwiązania niezbędne do wspierania naszego długoterminowego rozwoju w regionie. Tegoroczna inwestycja o wartości 500 mln euro w Polsce jest wyraźnym potwierdzeniem tego zaangażowania oraz naszego przekonania o długofalowym potencjale europejskiego rynku\" - powiedział cytowany Leonard Lin, globalny dyrektor ds. public affairs Shein oraz prezes firmy na region Europy, Bliskiego Wschodu i Afryki (EMEA).\n\n\"Dzięki tej inwestycji rozwijamy bardziej efektywną, elastyczną i odporną na zakłócenia działalność operacyjną w Europie. Pozwoli nam to lepiej obsługiwać klientów, wspierać rozwój rosnącej sieci europejskich marek i sprzedawców obecnych na platformie Shein Marketplace, a także stworzyć solidne podstawy dalszej ekspansji firmy na europejskich rynkach w kolejnych latach\" - dodał.\n\nWskazał, że Polska stała się jednym z filarów działalności firmy w Europie.\n\n\"Najnowsza inwestycja odzwierciedla nasze zaufanie do potencjału kraju, jego pracowników oraz otoczenia biznesowego\" - powiedział Leonard Lin.\n\n\"Postrzegamy Polskę jako długoterminowego partnera strategicznego i zamierzamy nadal zwiększać nasz wkład w rozwój polskiej gospodarki\" - dodał Michał Kania, dyrektor ds. public affairs Shein w Polsce.\n\nShein to globalny internetowy sprzedawca mody i produktów lifestyle'owych. (PAP Biznes)",
       "date_published": "2026-11-04T16:31:00+01:00",
       "source": "PAP Biznes"
     },
@@ -584,7 +552,7 @@
       "id": "https://biznes.pap.pl/wiadomosci/gospodarka/cpi-z-50-proc-prawdopodobienstwem-w-27-w-przedziale-31-53-proc-w-28-w",
       "url": "https://biznes.pap.pl/wiadomosci/gospodarka/cpi-z-50-proc-prawdopodobienstwem-w-27-w-przedziale-31-53-proc-w-28-w",
       "title": "CPI z 50-proc. prawdopodobieństwem w '27 w przedziale 3,1–5,3 proc., w '28 w przedziale 1,4–4,4 proc. - projekcja NBP",
-      "content_html": "Inflacja CPI w Polsce z 50-procentowym prawdopodobieństwem w przedziale 3,1–5,3 proc. w 2027 r. (wobec 1,5-4,0 proc. w projekcji z lipca) oraz w przedziale 1,4–4,4 proc. w 2028 r. (wobec 0,8-3,9 proc.",
+      "content_html": "Inflacja CPI w Polsce z 50-procentowym prawdopodobieństwem w przedziale 3,1–5,3 proc. w 2027 r. (wobec 1,5-4,0 proc. w projekcji z lipca) oraz w przedziale 1,4–4,4 proc. w 2028 r. (wobec 0,8-3,9 proc.) - wynika z najnowszej, listopadowej projekcji Departamentu Analiz Ekonomicznych NBP.\n\nZ kolei roczne tempo wzrostu PKB według projekcji znajdzie się z 50-procentowym prawdopodobieństwem w przedziale 1,9-3,8 proc. w 2027 r. (wobec 1,8-3,7 proc. w projekcji z lipca) oraz 1,7-3,9 proc. w 2028 r. (wobec 1,9-4,1 proc.).\n\nListopadowa projekcja inflacji i PKB z modelu NECMOD została przygotowana przy założeniu niezmienionych stóp procentowych NBP oraz przy uwzględnieniu danych dostępnych do 15 października 2026 r.\n\nPoniżej listopadowa, centralna ścieżka projekcji wg wyliczeń PAP Biznes:\n\n*Ścieżka centralna z listopadowych prognoz NBP została wyliczona jako środek przedziału prognoz podanego w komunikacie RPP i może nie pokrywać się z faktyczną ścieżką centralną, która zostanie opublikowana przez NBP. Różnice mogą wynikać z niesymetrycznego rozkładu prawdopodobieństwa kształtowania się zmiennych (PKB i inflacja) w horyzoncie prognozy.\n\nRada Polityki Pieniężnej na posiedzeniu w dn. 3-4 listopada 2026 r. utrzymała wszystkie stopy procentowe NBP na niezmienionym poziomie, referencyjna wynosi nadal 3,75 proc. Decyzja była zgodna z oczekiwaniami rynku. (PAP Biznes)",
       "date_published": "2026-11-04T16:20:00+01:00",
       "source": "PAP Biznes"
     },
@@ -592,8 +560,16 @@
       "id": "https://biznes.pap.pl/wiadomosci/firmy/dzien-na-gpw-glowne-indeksy-rosna-przewaznie-o-ponad-15-proc-w-wig20-spada-tylko",
       "url": "https://biznes.pap.pl/wiadomosci/firmy/dzien-na-gpw-glowne-indeksy-rosna-przewaznie-o-ponad-15-proc-w-wig20-spada-tylko",
       "title": "DZIEŃ NA GPW: Główne indeksy rosną przeważnie o ponad 1,5 proc.; w WIG20 spada tylko Orlen",
-      "content_html": "W środę po południu główne indeksy rosną przeważnie o ponad 1,5 proc. Pozytywnie na rynek wpływają zwyżki banków, spółek sektora energetycznego, a także KGHM. Wśród blue chipów spada tylko Orlen, o 1 ",
+      "content_html": "W środę po południu główne indeksy rosną przeważnie o ponad 1,5 proc. Pozytywnie na rynek wpływają zwyżki banków, spółek sektora energetycznego, a także KGHM. Wśród blue chipów spada tylko Orlen, o 1 proc. Cyfrowy Polsat nadrabia spadki z czterech poprzednich sesji.\n\nOk. godz. 15.50 WIG20 rośnie o 1,55 proc. do ok. 4.202 pkt., WIG zwyżkuje o 1,54 proc. do ok. 158.250 pkt. mWIG40 idzie w górę o 1,6 proc. do ok. 10.660 pkt., a sWIG80 zyskuje 0,4 proc. i wynosi 29.464 pkt.\n\nIndeksy WIG20, WIG i mWIG40 odbijają po trzech spadkowych sesjach, podczas których straciły po ok. 3,5-4 proc. Z kolei indeks sWIG80 spadał niemal bez przerwy przez pięć poprzednich sesji, tracąc łącznie 4 proc.\n\nJak oceniają analitycy XTB, najważniejszym wydarzeniem dnia są wyniki wyborów połówkowych w Stanach Zjednoczonych. Demokraci odnieśli zdecydowane zwycięstwo, odzyskując kontrolę zarówno nad Izbą Reprezentantów, jak i Senatem.\n\n\"Reakcja rynków na ten wynik jest interesująca. Początkowo pojawiła się wyraźna nerwowość, szczególnie w segmencie technologicznym, jednak w kolejnych godzinach nastroje zaczęły się poprawiać. Środowe notowania na wielu światowych parkietach przebiegają w lepszych nastrojach, a część wcześniejszych strat na kontraktach terminowych została odrobiona. Pozytywne nastroje widoczne są również na krajowym rynku akcji\" - napisał w komentarzu Mikołaj Sobierajski, analityk XTB.\n\n\"Dla rynków wschodzących, w tym Polski, wynik wyborów może oznaczać pewną ulgę i ograniczenie ryzyka związanego z nieprzewidywalnością amerykańskiej polityki handlowej. Nie oznacza to jednak, że wszystkie sektory skorzystają na zmianie układu sił w Waszyngtonie\" - dodał.\n\nW środę po południu na warszawskim parkiecie pozytywnie wyróżnia się KGHM. Kurs spółki rośnie o 4,9 proc. po tym, jak we wtorek spadł o 4,34 proc.\n\nKGHM spadał niemal bez przerwy od 13 października, a do wtorkowego zamknięcia stracił łącznie ponad 21 proc.\n\nZwyżkują największe spółki z sektora energetycznego. PGE rośnie o 2,4 proc., Tauron o 2,3 proc., a Enea zyskuje 0,4 proc., natomiast zaliczana do tego segmentu Kogeneracja traci 1,7 proc.\n\nWIG Energia idzie do góry o 1,8 proc. do 5.205 pkt. Indeks ten 16 października sięgnął historycznego maksimum na poziomie 5.658,79 pkt.\n\nKurs PGE od 1 września do połowy października wzrósł o ok. 55 proc. Od tamtej pory do wtorkowego zamknięcia akcje spółki staniały o ponad 10 proc.\n\nGrupa Enea szacuje, że w III kw. 2026 roku miała 1.139 mln zł EBITDA, a zysk netto j.d. wyniósł 542 mln zł. Rynek oczekiwał EBITDA na poziomie 1.159,4 mln zł i 561,3 mln zysku netto.\n\nTauron Ciepło wybrał konsorcjum firm Siemens Energy oraz Siemens Energy AB na dostawcę dwóch wysp turbinowych dla kogeneracyjnego źródła ciepła w lokalizacji Będzin Łagisza.\n\nKogeneracja szacuje skonsolidowany wynik EBITDA w III kw. 2026 roku na ok. 18 mln zł, a stratę netto na ok. 34 mln zł.\n\nPodczas środowej sesji zwyżkują banki. Z banków notowanych w WIG20 lub mWIG40 najmocniej rosną Handlowy i ING Bank Śląski, po ponad 2 proc. Z kolei PKO BP, Erste, Pekao i BNP Paribas zyskują po ok. 1,5-1,6 proc. Najsłabszy w tym gronie mBank zwyżkuje o 1 proc.\n\nKurs Banku Handlowego przez pierwsze sześć miesięcy tego roku rósł, a do 23 czerwca zyskał łącznie 29 proc. Tamtego dnia akcje spółki kosztowały 136,8 zł, najdrożej od ok. 19 lat. Obecnie akcje Banku Handlowego kosztują 123,2 zł.\n\nWśród blue chipów, najmocniej zwyżkuje KGHM, a następnie Modivo, o 4,3 proc.\n\nLPP i Allegro, które rano spadały po ok. 1 proc., obecnie rosną odpowiednio o 0,6 proc. i 2,4 proc.\n\nKurs Allegro systematycznie zwyżkuje od początku kwietnia i do 3 listopada łącznie poszedł do góry o ponad 120 proc.\n\nW WIG20 spada tylko Orlen, o 1 proc. Kurs spółki przez siedem poprzednich sesji spadał bez przerwy, a łącznie obniżył się o 7,7 proc.\n\nPrezes Orlenu Ireneusz Fąfara poinformował we wtorek, że koncern analizuje celowość dodatkowych bardzo wysokich nakładów na dokończenie inwestycji w instalację BoB w Możejkach. Jak powiedział, alterna",
       "date_published": "2026-11-04T16:17:00+01:00",
+      "source": "PAP Biznes"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/gospodarka/dalsze-decyzje-rpp-nadal-zalezne-od-danych-wzrost-pkb-w-iii-kw-spowolnil",
+      "url": "https://biznes.pap.pl/wiadomosci/gospodarka/dalsze-decyzje-rpp-nadal-zalezne-od-danych-wzrost-pkb-w-iii-kw-spowolnil",
+      "title": "Dalsze decyzje RPP nadal zależne od danych, wzrost PKB w III kw. spowolnił",
+      "content_html": "Dalsze decyzje RPP nadal będą zależne od napływających informacji dot. perspektyw CPI i PKB w Polsce, a wśród czynników ryzyka dla inflacji Rada nadal wymienia decyzje regulacyjne ws. cen energii, politykę fiskalną, czy dynamikę płac - podano w komunikacie po listopadowym posiedzeniu RPP. Wg RPP w III kw. wzrost PKB Polski spowolnił.\n\nRPP powtórzyła, że jej dalsze decyzje będą zależne od napływających informacji dotyczących perspektyw inflacji i aktywności gospodarczej w Polsce.\n\n\"Szczególnie istotna jest sytuacja makroekonomiczna w otoczeniu polskiej gospodarki, w tym kształtowanie się cen surowców i inflacji na świecie w kontekście zmieniającej się sytuacji geopolitycznej. Czynnikami ryzyka dla perspektyw inflacji pozostają także: kształt polityki fiskalnej, decyzje regulacyjne w zakresie cen energii, zmiany dynamiki aktywności w polskiej gospodarce oraz dalsze kształtowanie się dynamiki płac\" - podano.\n\nPodtrzymano, że NBP będzie nadal podejmował wszelkie niezbędne działania dla zapewnienia stabilności makroekonomicznej i finansowej, w tym przede wszystkim dla zapewnienia inflacji na poziomie zgodnym z celem inflacyjnym NBP w średnim okresie.\n\nPowtórzono, że NBP może stosować interwencje na rynku walutowym.\n\nWg NBP, dostępne dane sugerują, że w III kw. 2026 r. roczna dynamika PKB Polski obniżyła się z 4,1 proc. rdr w II kw.\n\n\"We wrześniu br. sprzedaż detaliczna oraz produkcja przemysłowa wzrosły w ujęciu rocznym, natomiast produkcja budowalno-montażowa obniżyła się. Dynamika wynagrodzeń w sektorze przedsiębiorstw w III kw. 2026 r. była zbliżona do odnotowanej w I poł. br. Jednocześnie zatrudnienie w tym sektorze nadal obniżało się w ujęciu rocznym\" - napisano.\n\nRPP odnotowała, że wg szybkiego szacunku GUS inflacja CPI w październiku 2026 r. obniżyła się do 3,5 proc. rdr (wobec 4,1 proc. we wrześniu br.), głównie ze względu na obniżenie cen paliw względem września br. Uwzględniając wstępne dane GUS, NBP szacuje, że w październiku obniżyła się również inflacja po wyłączeniu cen żywności i energii.\n\nWe wrześniu CPI bazowa wynosiła 3,1 proc. rdr.\n\nW tych warunkach Rada postanowiła utrzymać stopy procentowe na niezmienionym poziomie.\n\nOdnosząc się do sytuacji na świecie, RPP podała, że w III kw. 2026 r. roczne dynamiki PKB w strefie euro i Stanach Zjednoczonych kształtowały się w pobliżu wieloletnich średnich.\n\n\"Jednocześnie, w związku z wysokimi cenami surowców energetycznych, inflacja na świecie jest podwyższona. Perspektywy aktywności i inflacji na świecie obarczone są niepewnością, związaną w szczególności z konfliktem na Bliskim Wschodzie\" - dodano.\n\nRada Polityki Pieniężnej (RPP) na posiedzeniu w dniach 3-4 listopada 2026 r. utrzymała ósmy miesiąc z rzędu wszystkie stopy procentowe NBP na niezmienionym poziomie, referencyjna wynosi nadal 3,75 proc. Decyzja była zgodna z oczekiwaniami rynku.\n\nW czwartek, 5 listopada o godz. 15.00 odbędzie się konferencja prasowa prezesa NBP Adama Glapińskiego.\n\nRPP utrzymuje stopę referencyjną na obecnym poziomie 3,75 proc. od marca, po jedynej wówczas w br. obniżce o 25 pb. W 2025 r. Rada obniżyła stopy łącznie o 175 pb. (startując z 5,75 proc.), a wcześniej w 2023 r. o 100 pb. (start: 6,75 proc.). (PAP Biznes)",
+      "date_published": "2026-11-04T16:15:00+01:00",
       "source": "PAP Biznes"
     },
     {
@@ -603,6 +579,14 @@
       "content_html": "Analitycy DM BOŚ w raporcie z 26 października podnieśli cenę docelową dla spółki Polenergia do 50 zł z 45,5 zł, podtrzymując rekomendację \"sprzedaj\".",
       "date_published": "2026-11-04T16:14:00+01:00",
       "source": "Bankier.pl"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/gospodarka/euro-w-ebc-11267-usd-i-17830-jpy",
+      "url": "https://biznes.pap.pl/wiadomosci/gospodarka/euro-w-ebc-11267-usd-i-17830-jpy",
+      "title": "Euro w EBC: 1,1267 USD i 178,30 JPY",
+      "content_html": "Europejski Bank Centralny (EBC) ustalił kurs euro na 1,1267 USD i 178,30 JPY - podał bank na swojej stronie internetowej.",
+      "date_published": "2026-11-04T16:13:00+01:00",
+      "source": "PAP Biznes"
     },
     {
       "id": "https://biznes.pap.pl/wiadomosci/firmy/dm-bos-podniosl-cene-docelowa-dla-polenergii-do-50-zl",
@@ -893,6 +877,14 @@
       "source": "Bankier.pl"
     },
     {
+      "id": "https://biznes.pap.pl/wiadomosci/firmy/zatrzymania-ws-elektrowni-ostroleka-nie-wplywaja-na-negocjacje-z-amerykanami",
+      "url": "https://biznes.pap.pl/wiadomosci/firmy/zatrzymania-ws-elektrowni-ostroleka-nie-wplywaja-na-negocjacje-z-amerykanami",
+      "title": "Zatrzymania ws. Elektrowni Ostrołęka nie wpływają na negocjacje z Amerykanami - Motyka",
+      "content_html": "Zatrzymanie obecnego prezesa Westinghouse w Polsce w związku z nieprawidłowościami przy budowie elektrowni w Ostrołęce nie wpływa na negocjacje ws. budowy elektrowni jądrowej - powiedział w środę mini",
+      "date_published": "2026-11-04T12:24:00+01:00",
+      "source": "PAP Biznes"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Bogdanka-zawarla-z-Enea-Wytwarzanie-aneks-do-umowy-wieloletniej-na-dostawe-wegla-9223451.html",
       "url": "https://www.bankier.pl/wiadomosc/Bogdanka-zawarla-z-Enea-Wytwarzanie-aneks-do-umowy-wieloletniej-na-dostawe-wegla-9223451.html",
       "title": "Bogdanka zawarła z Enea Wytwarzanie aneks do umowy wieloletniej na dostawę węgla",
@@ -901,12 +893,28 @@
       "source": "Bankier.pl"
     },
     {
+      "id": "https://biznes.pap.pl/wiadomosci/firmy/bogdanka-zawarla-z-enea-wytwarzanie-aneks-do-umowy-wieloletniej-na-dostawe-wegla",
+      "url": "https://biznes.pap.pl/wiadomosci/firmy/bogdanka-zawarla-z-enea-wytwarzanie-aneks-do-umowy-wieloletniej-na-dostawe-wegla",
+      "title": "Bogdanka zawarła z Enea Wytwarzanie aneks do umowy wieloletniej na dostawę węgla",
+      "content_html": "Bogdanka zawarła z Enea Wytwarzanie aneks do umowy wieloletniej na dostawę węgla, zawartej na okres do 31 grudnia 2036 r. - podała Bogdanka w komunikacie.",
+      "date_published": "2026-11-04T12:17:00+01:00",
+      "source": "PAP Biznes"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Tauron-Cieplo-wybral-konsorcjum-Siemensa-na-dostawce-wysp-turbinowych-dla-zrodla-w-Bedzin-Lagisza-9223435.html",
       "url": "https://www.bankier.pl/wiadomosc/Tauron-Cieplo-wybral-konsorcjum-Siemensa-na-dostawce-wysp-turbinowych-dla-zrodla-w-Bedzin-Lagisza-9223435.html",
       "title": "Tauron Ciepło wybrał konsorcjum Siemensa na dostawcę wysp turbinowych dla źródła w Będzin Łagisza",
       "content_html": "Tauron Ciepło wybrał konsorcjum firm Siemens Energy oraz Siemens Energy AB na dostawcę dwóch wysp turbinowych dla kogeneracyjnego źródła ciepła w lokalizacji Będzin Łagisza - podał Tauron w komunikacie.",
       "date_published": "2026-11-04T12:08:00+01:00",
       "source": "Bankier.pl"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/firmy/tauron-cieplo-wybral-konsorcjum-siemensa-na-dostawce-wysp-turbinowych-dla-zrodla-w",
+      "url": "https://biznes.pap.pl/wiadomosci/firmy/tauron-cieplo-wybral-konsorcjum-siemensa-na-dostawce-wysp-turbinowych-dla-zrodla-w",
+      "title": "Tauron Ciepło wybrał konsorcjum Siemensa na dostawcę wysp turbinowych dla źródła w Będzin Łagisza",
+      "content_html": "Tauron Ciepło wybrał konsorcjum firm Siemens Energy oraz Siemens Energy AB na dostawcę dwóch wysp turbinowych dla kogeneracyjnego źródła ciepła w lokalizacji Będzin Łagisza - podał Tauron w komunikaci",
+      "date_published": "2026-11-04T12:06:00+01:00",
+      "source": "PAP Biznes"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Z-mokrego-fotela-w-finansowa-pulapke-Pasazerka-Ryanaira-padla-ofiara-oszustwa-9223319.html",
@@ -933,6 +941,14 @@
       "source": "Bankier.pl"
     },
     {
+      "id": "https://biznes.pap.pl/wiadomosci/firmy/globalne-fundusze-private-equity-zainwestowaly-15-bln-usd-w-pierwszych-trzech",
+      "url": "https://biznes.pap.pl/wiadomosci/firmy/globalne-fundusze-private-equity-zainwestowaly-15-bln-usd-w-pierwszych-trzech",
+      "title": "Globalne fundusze private equity zainwestowały 1,5 bln USD w pierwszych trzech kwartałach '26 - KPMG",
+      "content_html": "Globalne fundusze private equity zainwestowały 1,5 bln USD w pierwszych trzech kwartałach 2026 r. - wynika z raportu KPMG \"Pulse of Private Equity Q3 2026\". Liczba inwestycji spadła do 14.650, co może",
+      "date_published": "2026-11-04T11:46:00+01:00",
+      "source": "PAP Biznes"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Orlen-zakonczyl-rozbudowe-magazynu-gazu-w-Wierzchowicach-na-Dolnym-Slasku-9223420.html",
       "url": "https://www.bankier.pl/wiadomosc/Orlen-zakonczyl-rozbudowe-magazynu-gazu-w-Wierzchowicach-na-Dolnym-Slasku-9223420.html",
       "title": "Orlen zakończył rozbudowę magazynu gazu w Wierzchowicach na Dolnym Śląsku",
@@ -941,12 +957,36 @@
       "source": "Bankier.pl"
     },
     {
+      "id": "https://biznes.pap.pl/wiadomosci/firmy/orlen-zakonczyl-rozbudowe-magazynu-gazu-w-wierzchowicach-na-dolnym-slasku",
+      "url": "https://biznes.pap.pl/wiadomosci/firmy/orlen-zakonczyl-rozbudowe-magazynu-gazu-w-wierzchowicach-na-dolnym-slasku",
+      "title": "Orlen zakończył rozbudowę magazynu gazu w Wierzchowicach na Dolnym Śląsku",
+      "content_html": "Orlen zakończył wartą niemal 600 mln zł inwestycję w rozbudowę Podziemnego Magazynu Gazu Wierzchowice, zwiększając jego pojemność z 1,3 do 2,1 mld m sześc.",
+      "date_published": "2026-11-04T11:43:00+01:00",
+      "source": "PAP Biznes"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/firmy/blik-jest-przygotowany-do-obslugi-autonomicznych-platnosci-chce-rozwinac-platnosci",
+      "url": "https://biznes.pap.pl/wiadomosci/firmy/blik-jest-przygotowany-do-obslugi-autonomicznych-platnosci-chce-rozwinac-platnosci",
+      "title": "BLIK jest przygotowany do obsługi autonomicznych płatności; chce rozwinąć płatności powtarzalne",
+      "content_html": "BLIK pracuje nad udostępnieniem płatności zbliżeniowych wszystkim użytkownikom iPhona w Polsce, technologicznie jest przygotowany do obsługi transakcji realizowanych samodzielnie przez agentów AI i ch",
+      "date_published": "2026-11-04T11:42:00+01:00",
+      "source": "PAP Biznes"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Oferta-Atremu-za-44-5-mln-zl-brutto-wybrana-przez-Tauron-w-przetargu-9223407.html",
       "url": "https://www.bankier.pl/wiadomosc/Oferta-Atremu-za-44-5-mln-zl-brutto-wybrana-przez-Tauron-w-przetargu-9223407.html",
       "title": "Oferta Atremu za 44,5 mln zł brutto wybrana przez Tauron w przetargu",
       "content_html": "Oferta Atremu o wartości 44,5 mln zł brutto została wybrana w przetargu Tauronu Dystrybucja na modernizację dwutorowej linii 110 kV Jaworzno 1 - Siersza - Włodzimierz - Trzebinia - Jaworzno 1 - Trzebinia - podał Atrem w komunikacie. (PAP Biznes)...",
       "date_published": "2026-11-04T11:32:00+01:00",
       "source": "Bankier.pl"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/firmy/oferta-atremu-za-445-mln-zl-brutto-wybrana-przez-tauron-w-przetargu",
+      "url": "https://biznes.pap.pl/wiadomosci/firmy/oferta-atremu-za-445-mln-zl-brutto-wybrana-przez-tauron-w-przetargu",
+      "title": "Oferta Atremu za 44,5 mln zł brutto wybrana przez Tauron w przetargu",
+      "content_html": "Oferta Atremu o wartości 44,5 mln zł brutto została wybrana w przetargu Tauronu Dystrybucja na modernizację dwutorowej linii 110 kV Jaworzno 1 - Siersza - Włodzimierz - Trzebinia - Jaworzno 1 - Trzebi",
+      "date_published": "2026-11-04T11:31:00+01:00",
+      "source": "PAP Biznes"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Okazja-likwidacja-i-strata-w-portfelu-Falszywe-sklepy-ciagle-grozne-9222643.html",
@@ -1058,62 +1098,6 @@
       "title": "Miliardy rubli strat i drastyczny wzrost ubezpieczeń. Ukraina uderza w rosyjską logistykę",
       "content_html": "Drony zaatakowały centrum logistyczne giganta e-commerce Ozon w mieście Adygejsk na południowym zachodzie Rosji; w magazynach wybuchł pożar – powiadomił w środę portal Ukrainska Prawda z powołaniem na źródła rosyjskie.",
       "date_published": "2026-11-04T10:11:00+01:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Kurs-euro-wycofal-sie-ze-szczytu-dolar-mocno-tanieje-Rynek-wyczekuje-decyzji-RPP-9223334.html",
-      "url": "https://www.bankier.pl/wiadomosc/Kurs-euro-wycofal-sie-ze-szczytu-dolar-mocno-tanieje-Rynek-wyczekuje-decyzji-RPP-9223334.html",
-      "title": "Kurs euro wycofał się ze szczytu, dolar mocno tanieje. Rynek wyczekuje decyzji RPP",
-      "content_html": "Wyniki wyborów połówkowych w USA nie miały większego przełożenia na notowania złotego. Teraz uwaga rynku powinna się skupić na środowej decyzji Rady Polityki Pieniężnej.",
-      "date_published": "2026-11-04T10:02:00+01:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Znany-producent-butow-zamyka-fabryki-i-sklepy-Ponad-2400-osob-straci-prace-9223295.html",
-      "url": "https://www.bankier.pl/wiadomosc/Znany-producent-butow-zamyka-fabryki-i-sklepy-Ponad-2400-osob-straci-prace-9223295.html",
-      "title": "Znany producent butów zamyka fabryki i sklepy. Ponad 2400 osób straci pracę",
-      "content_html": "Duński producent obuwia ECCO zamyka dwie fabryki i 60 sklepów, a także likwiduje setki stanowisk w strukturach firmy. Restrukturyzacja może oznaczać utratę pracy dla ponad 2400 osób. Koncern, znany z produkcji skórzanego obuwia, próbuje w ten...",
-      "date_published": "2026-11-04T10:00:00+01:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Jak-z-8-mld-zl-zrobic-dwa-miliardy-Mowa-o-dlugach-i-najwiekszej-sanacji-w-Polsce-9223307.html",
-      "url": "https://www.bankier.pl/wiadomosc/Jak-z-8-mld-zl-zrobic-dwa-miliardy-Mowa-o-dlugach-i-najwiekszej-sanacji-w-Polsce-9223307.html",
-      "title": "Jak z 8 mld zł zrobić 2 miliardy? Mowa o długach i największej sanacji w Polsce",
-      "content_html": "Obsłużenie 70% ze 110 tys. umów leasingowych, redukcja długu z ponad 8 mld zł do niespełna 2 mld zł i ponad 1,1 mld zł podatku VAT odprowadzonego do budżetu państwa - tak wygląda bilans trzech lat postępowania naprawczego w spółkach VB Leasing...",
-      "date_published": "2026-11-04T10:00:00+01:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Brutalnie-i-chamsko-Minister-Zurek-ostro-o-zachowaniu-prezydenta-Nawrockiego-wobec-sedzi-TK-9223290.html",
-      "url": "https://www.bankier.pl/wiadomosc/Brutalnie-i-chamsko-Minister-Zurek-ostro-o-zachowaniu-prezydenta-Nawrockiego-wobec-sedzi-TK-9223290.html",
-      "title": "\"Brutalnie i chamsko\". Minister Żurek ostro o zachowaniu prezydenta Nawrockiego wobec sędzi TK",
-      "content_html": "Minister Sprawiedliwości i Prokurator Generalny Waldemar Żurek poinformował, że śledztwo w sprawie czynnej napaści na sędziów TK jest prowadzone w kierunku osób, które w nieuprawniony sposób uczestniczyły w nocnym najściu na TK. Wymienił...",
-      "date_published": "2026-11-04T09:56:00+01:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/W-Polsce-zatrudniaja-setki-osob-Wlasnie-zwolnili-3-tys-pracownikow-9223317.html",
-      "url": "https://www.bankier.pl/wiadomosc/W-Polsce-zatrudniaja-setki-osob-Wlasnie-zwolnili-3-tys-pracownikow-9223317.html",
-      "title": "Gigant finansowy zwolnił 3 tys. osób. Ma swój oddział również w Polsce",
-      "content_html": "Amerykański gigant finansowy Fiserv tnie zatrudnienie. Pracę straciło już 3 tys. osób, w tym menedżerowie najwyższego szczebla – podał Reuters. Skutki zmian mogą odczuć także pracownicy w Polsce.",
-      "date_published": "2026-11-04T09:25:00+01:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Zloto-znow-lsni-Wyborcza-kleska-Republikanow-blyskawicznie-podbila-ceny-kruszcu-9223313.html",
-      "url": "https://www.bankier.pl/wiadomosc/Zloto-znow-lsni-Wyborcza-kleska-Republikanow-blyskawicznie-podbila-ceny-kruszcu-9223313.html",
-      "title": "Złoto znów lśni. Wyborcza klęska Republikanów błyskawicznie podbiła ceny kruszcu",
-      "content_html": "Po wyborach połówkowych w USA drożeje złoto - informują dealerzy.",
-      "date_published": "2026-11-04T09:17:00+01:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/BM-Millennium-rekomenduje-kupuj-Archicom-cena-docelowa-60-7-zl-9223308.html",
-      "url": "https://www.bankier.pl/wiadomosc/BM-Millennium-rekomenduje-kupuj-Archicom-cena-docelowa-60-7-zl-9223308.html",
-      "title": "BM Millennium rekomenduje \"kupuj\" Archicom, cena docelowa 60,7 zł",
-      "content_html": "BM Millennium w raporcie z 4 listopada rozpoczął wydawanie rekomendacji dla Archicomu od zalecenia „kupuj” z ceną docelową 60,7 zł za akcję.",
-      "date_published": "2026-11-04T09:06:00+01:00",
       "source": "Bankier.pl"
     }
   ]
