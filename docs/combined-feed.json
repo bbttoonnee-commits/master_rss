@@ -5,10 +5,26 @@
   "home_page_url": "https://www.bankier.pl",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/ABW-rozbila-siatke-szpiegowska-Pieciu-Polakow-i-Rosjanka-zatrzymani-za-wspieranie-rosyjskiej-armii-9224009.html",
+      "url": "https://www.bankier.pl/wiadomosc/ABW-rozbila-siatke-szpiegowska-Pieciu-Polakow-i-Rosjanka-zatrzymani-za-wspieranie-rosyjskiej-armii-9224009.html",
+      "title": "ABW rozbiła siatkę szpiegowską. Pięciu Polaków i Rosjanka zatrzymani za wspieranie rosyjskiej armii",
+      "content_html": "Funkcjonariusze ABW zatrzymali 6 osób podejrzanych o udział w zorganizowanej grupie przestępczej działającej przeciwko Rzeczypospolitej Polskiej. Wśród zatrzymanych jest pięciu Polaków w wieku od 25 do 52 lat i 37-letnia Rosjanka - poinformował...",
+      "date_published": "2026-11-05T10:17:00+01:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Donald-Tusk-wyznaczyl-komisarza-dla-Czestochowy-Lukasz-Pabis-przejmuje-rzady-w-miescie-9224034.html",
+      "url": "https://www.bankier.pl/wiadomosc/Donald-Tusk-wyznaczyl-komisarza-dla-Czestochowy-Lukasz-Pabis-przejmuje-rzady-w-miescie-9224034.html",
+      "title": "Donald Tusk wyznaczył komisarza dla Częstochowy. Łukasz Pabiś przejmuje rządy w mieście",
+      "content_html": "Premier Donald Tusk zdecydował, że komisarzem zarządzającym Częstochową będzie dotychczasowy wiceprezydent miasta Łukasz Pabiś. W referendum, które odbyło się 25 października, mieszkańcy odwołali prezydenta Krzysztofa Matyjaszczyka z Lewicy...",
+      "date_published": "2026-11-05T09:53:00+01:00",
+      "source": "Bankier.pl"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/DM-BOS-podwyzszyl-wycene-akcji-Asbisu-do-202-zl-podtrzymuje-kupuj-9224026.html",
       "url": "https://www.bankier.pl/wiadomosc/DM-BOS-podwyzszyl-wycene-akcji-Asbisu-do-202-zl-podtrzymuje-kupuj-9224026.html",
-      "title": "DM BOŚ podwyższył wycenę akcji Asbisu do 202 zł. Podtrzymuje \"kupuj\" Analitycy DM BOŚ, w raporcie z 28 października, podwyższyli wycenę akcji Asbisu w horyzoncie 12-miesięcznym do 202 zł z 127,2 zł wcześniej, utrzymując rekomendację \"kupuj\".",
-      "content_html": "",
+      "title": "DM BOŚ podwyższył wycenę akcji Asbisu do 202 zł. Podtrzymuje \"kupuj\"",
+      "content_html": "Analitycy DM BOŚ, w raporcie z 28 października, podwyższyli wycenę akcji Asbisu w horyzoncie 12-miesięcznym do 202 zł z 127,2 zł wcześniej, utrzymując rekomendację \"kupuj\".",
       "date_published": "2026-11-05T09:38:00+01:00",
       "source": "Bankier.pl"
     },
@@ -21,6 +37,14 @@
       "source": "PAP Biznes"
     },
     {
+      "id": "https://www.bankier.pl/wiadomosc/Kosiniak-Kamysz-szykuje-reset-konstytucyjny-Czarzasty-ujawnia-plany-PSL-9224003.html",
+      "url": "https://www.bankier.pl/wiadomosc/Kosiniak-Kamysz-szykuje-reset-konstytucyjny-Czarzasty-ujawnia-plany-PSL-9224003.html",
+      "title": "Wicepremier szykuje reset konstytucyjny. Czarzasty ujawnia plany PSL",
+      "content_html": "W środę podczas spotkania koalicjantów wicepremier, szef MON, szef PSL Władysław Kosiniak-Kamysz przekazał, że będzie wnosił projekt resetu konstytucyjnego - poinformował w czwartek marszałek Sejmu Włodzimierz Czarzasty.",
+      "date_published": "2026-11-05T09:35:00+01:00",
+      "source": "Bankier.pl"
+    },
+    {
       "id": "https://biznes.pap.pl/wiadomosci/rynki/dzien-na-rynkach-w-europie-na-gieldach-indeksy-na-rekordowych-poziomach-0",
       "url": "https://biznes.pap.pl/wiadomosci/rynki/dzien-na-rynkach-w-europie-na-gieldach-indeksy-na-rekordowych-poziomach-0",
       "title": "DZIEŃ NA RYNKACH: W Europie na giełdach indeksy na rekordowych poziomach",
@@ -31,8 +55,8 @@
     {
       "id": "https://www.bankier.pl/wiadomosc/PKO-BP-rozpoczyna-prace-nad-aktualizacja-strategii-chce-ja-przedstawic-wiosna-2027-r-9224019.html",
       "url": "https://www.bankier.pl/wiadomosc/PKO-BP-rozpoczyna-prace-nad-aktualizacja-strategii-chce-ja-przedstawic-wiosna-2027-r-9224019.html",
-      "title": "PKO BP rozpoczyna prace nad aktualizacją strategii, chce ją przedstawić wiosną 2027 r. PKO BP rozpoczyna prace nad aktualizacją strategii, planuje przedstawić ją wiosną 2027 roku - poinformował prezes banku Szymon Midera.",
-      "content_html": "",
+      "title": "PKO BP rozpoczyna prace nad aktualizacją strategii, chce ją przedstawić wiosną 2027 r.",
+      "content_html": "PKO BP rozpoczyna prace nad aktualizacją strategii, planuje przedstawić ją wiosną 2027 roku - poinformował prezes banku Szymon Midera.",
       "date_published": "2026-11-05T09:30:00+01:00",
       "source": "Bankier.pl"
     },
@@ -47,8 +71,8 @@
     {
       "id": "https://www.bankier.pl/wiadomosc/FDA-pozytywnie-ocenila-kluczowe-zalozenia-rozwoju-MabionCD20-9224018.html",
       "url": "https://www.bankier.pl/wiadomosc/FDA-pozytywnie-ocenila-kluczowe-zalozenia-rozwoju-MabionCD20-9224018.html",
-      "title": "FDA pozytywnie oceniła kluczowe założenia rozwoju MabionCD20 Amerykańska Agencja ds. Żywności i Leków (FDA) pozytywnie oceniła kluczowe założenia rozwoju MabionCD20 - poinformował Mabion w komunikacie. Do końca listopada Mabion i strategiczny partner Oddifact SAS uzgodnią ostateczną strategię rozwoju produktu, w tym harmonogram dalszych prac.",
-      "content_html": "",
+      "title": "FDA pozytywnie oceniła kluczowe założenia rozwoju MabionCD20",
+      "content_html": "Amerykańska Agencja ds. Żywności i Leków (FDA) pozytywnie oceniła kluczowe założenia rozwoju MabionCD20 - poinformował Mabion w komunikacie. Do końca listopada Mabion i strategiczny partner Oddifact SAS uzgodnią ostateczną strategię rozwoju...",
       "date_published": "2026-11-05T09:28:00+01:00",
       "source": "Bankier.pl"
     },
@@ -69,6 +93,14 @@
       "source": "Bankier.pl"
     },
     {
+      "id": "https://www.bankier.pl/wiadomosc/Spor-o-budzet-TK-wchodzi-w-kolejny-etap-Trybunal-Konstytucyjny-walczy-o-budzet-9224011.html",
+      "url": "https://www.bankier.pl/wiadomosc/Spor-o-budzet-TK-wchodzi-w-kolejny-etap-Trybunal-Konstytucyjny-walczy-o-budzet-9224011.html",
+      "title": "Spór o budżet TK wchodzi w kolejny etap. Trybunał Konstytucyjny walczy o pieniądze",
+      "content_html": "Marszałek Sejmu Włodzimierz Czarzasty poinformował w czwartek, że do Sejmu wpłynęła wtorkowa uchwała Trybunału Konstytucyjnego ws. budżetu tej instytucji na przyszły rok. Przekazał, że uchwała została skierowana do sejmowej Komisji Finansów...",
+      "date_published": "2026-11-05T09:18:00+01:00",
+      "source": "Bankier.pl"
+    },
+    {
       "id": "https://biznes.pap.pl/wiadomosci/gospodarka/dzien-na-fxfi-dla-zlotego-kluczowe-pozostaja-tendencje-na-globalnych-rynkach",
       "url": "https://biznes.pap.pl/wiadomosci/gospodarka/dzien-na-fxfi-dla-zlotego-kluczowe-pozostaja-tendencje-na-globalnych-rynkach",
       "title": "DZIEŃ NA FX/FI: Dla złotego kluczowe pozostają tendencje na globalnych rynkach",
@@ -83,14 +115,6 @@
       "content_html": "Grupa LPP zanotowała w III kwartale, czyli w okresie sierpień-październik 2026 r., 20 proc. wzrost dynamiki przychodów w walutach stałych. Sprzedaż LFL wzrosła o 4,4 proc. - podała spółka w komunikacie.\n\n\"Jednocześnie utrzymał się korzystny poziom marży brutto, co w połączeniu z dyscypliną kosztową dodatkowo wspierało wyniki. W efekcie spółka szacuje, że w ujęciu skorygowanym (wynik biznesowy 3Q25) zysk operacyjny EBIT w III kwartale wzrósł o około 30 proc. w ujęciu rok do roku, a zysk netto rósł w zbliżonym tempie\" - napisano.\n\nLPP podało, że w pierwszej części trzeciego kwartału 2026 roku marżę brutto na sprzedaży nadal wspierał korzystny kurs PLN względem USD, którego pozytywny wpływ wygasał w dalszej części analizowanego okresu. Marży sprzyjała również mniejsza skala wyprzedaży na początku kwartału rdr, związana z ich koncentracją w drugim kwartale. Pozwoliło to także wcześniej wprowadzić kolekcje jesienne, które zostały bardzo dobrze przyjęte przez klientów i były sprzedawane z wyższą marżą niż rok wcześniej.\n\nCzynniki te wspierały poprawę marży brutto grupy rdr. Spółka szacuje, że jej poziom w trzecim kwartale wyniesie co najmniej 59 proc.\n\nW trzecim kwartale 2026 roku przychody grupy wzrosły o 20 proc. rdr w walutach stałych, przy czym najwyższe dynamiki wzrostu sprzedaży omnichannel odnotowano w regionach Azji Centralnej, Europy Południowo-Wschodniej oraz Europy Środkowo-Wschodniej.\n\n\"W trzecim kwartale 2026 roku sprzedaż porównywalna (LFL) Grupy wzrosła o 4,4 proc. rdr. Był to drugi z rzędu kwartał dodatniego LFL, a jego dynamika przyspieszyła. Istotny był powrót Sinsay do dodatniej dynamiki LFL, która wyniosła +2,8 proc. House i Cropp odnotowały dwucyfrowe wzrosty, a Reserved konsekwentnie utrzymywał dodatnią dynamikę sprzedaży porównywalnej. Mohito było jedyną marką z ujemnym LFL\" - napisano w komunikacie.\n\nW ujęciu regionalnym do rynków z najlepszymi wynikami LFL należały kraje bałtyckie i Europa Środkowo-Wschodnia. Istotny był również powrót Europy Południowo-Wschodniej do dodatniej dynamiki sprzedaży porównywalnej — po raz pierwszy od pożaru magazynów w Rumunii.\n\n\"W III kwartale 2026 roku sprzedaż online grupy kontynuowała pozytywny trend z drugiego kwartału, a jej dynamika przyspieszyła do 21,1 proc. rdr. Wszystkie regiony odnotowały dwucyfrowe wzrosty sprzedaży. Spółka obserwuje również pozytywny wpływ regulacji UE dotyczących dodatkowych opłat na sprzedaż internetową przez azjatyckie platformy internetowe, szczególnie w marce Sinsay, gdzie dynamika sprzedaży online od sierpnia utrzymuje się powyżej średniej dla całej grupy\" - napisano dalej.\n\nW trzecim kwartale 2026 roku spółka utrzymała dyscyplinę kosztową, a tempo wzrostu kosztów SG&A było nieznacznie niższe od dynamiki sprzedaży.\n\n\"W trzecim kwartale 2026 roku w pozostałych kosztach operacyjnych zostanie ujęty jednorazowy koszt w wysokości 15 mln zł związany z karą nałożoną na spółkę przez KNF za wcześniejsze ujęcie odpisów dotyczących aktywów na Ukrainie po wybuchu wojny w 2022 r. Decyzja nie jest ostateczna, a postępowanie pozostaje w toku\" - napisano w komunikacie.\n\nW trzecim kwartale 2026 roku spółka otworzyła 135 nowych salonów, w tym 109 marki Sinsay. Narastająco po trzech kwartałach liczba otwarć wyniosła 486, z czego 423 przypadły na Sinsay. Marka ta pozostawała głównym motorem rozwoju sieci — jej powierzchnia handlowa wzrosła o 27 proc. rdr, podczas gdy powierzchnia całej Grupy zwiększyła się o 16 proc. rdr, do 3,3 mln m. kw.\n\nOstateczne dane zostaną opublikowane w okresowym raporcie finansowym za trzeci kwartał 3 grudnia 2026 r. (PAP Biznes)",
       "date_published": "2026-11-05T09:17:00+01:00",
       "source": "PAP Biznes"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/ABW-rozbila-siatke-szpiegowska-Pieciu-Polakow-i-Rosjanka-zatrzymani-za-wspieranie-rosyjskiej-armii-9224009.html",
-      "url": "https://www.bankier.pl/wiadomosc/ABW-rozbila-siatke-szpiegowska-Pieciu-Polakow-i-Rosjanka-zatrzymani-za-wspieranie-rosyjskiej-armii-9224009.html",
-      "title": "ABW rozbiła siatkę szpiegowską. Pięciu Polaków i Rosjanka zatrzymani za wspieranie rosyjskiej armii",
-      "content_html": "Funkcjonariusze ABW zatrzymali 6 osób podejrzanych o udział w zorganizowanej grupie przestępczej działającej przeciwko Rzeczypospolitej Polskiej. Wśród zatrzymanych jest pięciu Polaków w wieku od 25 do 52 lat i 37-letnia Rosjanka - poinformował...",
-      "date_published": "2026-11-05T09:12:00+01:00",
-      "source": "Bankier.pl"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Zamykaja-znana-fabryke-mebli-Prace-straci-cala-zaloga-9224005.html",
@@ -143,7 +167,7 @@
     {
       "id": "https://www.bankier.pl/wiadomosc/PKO-BP-chce-utrzymac-dwucyfrowy-wzrost-kredytow-wdrozy-modelowa-umowe-kredytu-hipotecznego-wywiad-9223998.html",
       "url": "https://www.bankier.pl/wiadomosc/PKO-BP-chce-utrzymac-dwucyfrowy-wzrost-kredytow-wdrozy-modelowa-umowe-kredytu-hipotecznego-wywiad-9223998.html",
-      "title": "PKO BP chce utrzymać dwucyfrowy wzrost kredytów; wdroży modelową umowę kredytu hipotecznego (wywiad)",
+      "title": "PKO BP chce utrzymać dwucyfrowy wzrost kredytów. Wdroży modelową umowę",
       "content_html": "PKO BP spodziewa się, że w najbliższych kwartałach utrzyma dwucyfrowe tempo wzrostu kredytów i zakłada, że przy utrzymaniu obecnego poziomu stóp wzrost kredytów będzie nadal wspierał marżę odsetkową. Do końca roku bank chce wdrożyć modelową...",
       "date_published": "2026-11-05T08:58:00+01:00",
       "source": "Bankier.pl"
@@ -239,8 +263,8 @@
     {
       "id": "https://www.bankier.pl/wiadomosc/Wyniki-Arctic-Paper-w-III-kw-2026-roku-vs-konsensus-PAP-tabela-9223963.html",
       "url": "https://www.bankier.pl/wiadomosc/Wyniki-Arctic-Paper-w-III-kw-2026-roku-vs-konsensus-PAP-tabela-9223963.html",
-      "title": "Wyniki Arctic Paper w III kw. 2026 roku vs. konsensus PAP (tabela)",
-      "content_html": "Poniżej przedstawiamy wyniki grupy Arctic Paper w trzecim kwartale 2026 roku oraz ich odniesienie do konsensusu PAP Biznes i wyników poprzednich okresów.",
+      "title": "Wyniki Arctic Paper w III kw. 2026 roku vs. konsensus PAP (tabela) Poniżej przedstawiamy wyniki grupy Arctic Paper w trzecim kwartale 2026 roku oraz ich odniesienie do konsensusu PAP Biznes i wyników poprzednich okresów.",
+      "content_html": "",
       "date_published": "2026-11-05T07:54:00+01:00",
       "source": "Bankier.pl"
     },
@@ -273,6 +297,14 @@
       "url": "https://www.bankier.pl/wiadomosc/Mentzen-szuka-pracownikow-Tyle-placi-za-prace-ponad-norme-9223950.html",
       "title": "Mentzen szuka pracowników. Tyle płaci za \"pracę ponad normę\"",
       "content_html": "Kancelaria Sławomira Mentzena ponownie rekrutuje pracowników do swojego toruńskiego biura. W najnowszych ogłoszeniach oferuje wynagrodzenia sięgające 10 tys. zł brutto miesięcznie. Stawia jednak jasny warunek: kandydaci muszą być gotowi na „pracę...",
+      "date_published": "2026-11-05T07:30:00+01:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/6-na-lokacie-nie-znika-z-oferty-VeloBanku-Promocja-zostaje-przedluzona-na-kolejny-miesiac-9223951.html",
+      "url": "https://www.bankier.pl/wiadomosc/6-na-lokacie-nie-znika-z-oferty-VeloBanku-Promocja-zostaje-przedluzona-na-kolejny-miesiac-9223951.html",
+      "title": "VeloBank nie schodzi z 6%. Promocja lokaty dla nowych klientów zostaje przedłużona",
+      "content_html": "VeloBank zachowuje swój najwyżej oprocentowany depozyt w ofercie i zatrzymuje dotychczas obowiązujące oprocentowanie. Nowa edycja promocji zaczęła obowiązywać 5 listopada br. Z oferty banku mogą skorzystać nowi klienci do 9 grudnia br.",
       "date_published": "2026-11-05T07:30:00+01:00",
       "source": "Bankier.pl"
     },
@@ -355,6 +387,38 @@
       "content_html": "Szef MS Waldemar Żurek poinformował, że przekaże do kancelarii prezydenta egzemplarz Konstytucji RP z zaznaczonymi czterema przepisami - o trójpodziale władzy, granicach kompetencji prezydenta, o niezależności sądów i trybunałów i o tym, że...",
       "date_published": "2026-11-05T07:00:00+01:00",
       "source": "Bankier.pl"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/rynki/kalendarium-rynku-kapitalowego-gpw-2026-11-05",
+      "url": "https://biznes.pap.pl/wiadomosci/rynki/kalendarium-rynku-kapitalowego-gpw-2026-11-05",
+      "title": "Kalendarium rynku kapitałowego GPW 2026-11-05",
+      "content_html": "Kalendarium rynku kapitałowego GPW 2026-11-05\n\nZaliczka na poczet dywidendy w wysokości 0,24 PLN na akcję.\n\n09:00 - KRAKCHEM - Nadzwyczajne walne zgromadzenie\n\n11:00 - SPYROSOFT - Nadzwyczajne walne zgromadzenie\n\nW sprawie upoważnienia zarządu do nabywania akcji własnych, utworzenia kapitału rezerwowego.\n\n09:00 - FASING - Nadzwyczajne walne zgromadzenie\n\nW sprawie przyjęcia polityki równowagi płci, zmian w statucie.\n\n11:00 - RAFAMET - Nadzwyczajne walne zgromadzenie\n\nW sprawie akcji zwykłych imiennych serii L.\n\nZaliczka na poczet dywidendy w wysokości 0,65 PLN na akcję.\n\n10:00 - GREENX - Zwyczajne walne zgromadzenie",
+      "date_published": "2026-11-05T07:00:00+01:00",
+      "source": "PAP Biznes"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/firmy/wyniki-asbisu-w-iii-kwartale-2026-roku-vs-konsensus-pap-tabela",
+      "url": "https://biznes.pap.pl/wiadomosci/firmy/wyniki-asbisu-w-iii-kwartale-2026-roku-vs-konsensus-pap-tabela",
+      "title": "Wyniki Asbisu w III kwartale 2026 roku vs. konsensus PAP (tabela)",
+      "content_html": "Poniżej przedstawiamy wyniki Asbisu w trzecim kwartale 2026 r. i ich odniesienie do konsensusu PAP oraz do poprzednich wyników.\n\nKonsensus tworzony jest na podstawie prognoz biur maklerskich zebranych wcześniej przez PAP. Są one dostępne w pełnej wersji Serwisu Ekonomicznego PAP Biznes. Baza konsensusów PAP zawiera prognozy wyników kwartalnych i rocznych dla ponad 200 spółek notowanych na GPW. (PAP Biznes)",
+      "date_published": "2026-11-05T06:47:00+01:00",
+      "source": "PAP Biznes"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/rynki/rentownosci-obligacji-wybranych-panstw-tabela-1010",
+      "url": "https://biznes.pap.pl/wiadomosci/rynki/rentownosci-obligacji-wybranych-panstw-tabela-1010",
+      "title": "Rentowności obligacji wybranych państw (tabela)",
+      "content_html": "Poniżej zestawienie rentowności obligacji wybranych państw. W tabeli kolejno rentowność aktualna, rentowność dzień wcześniej, pięć dni wcześniej, miesiąc wcześniej, trzy miesiące wcześniej i dwanaście miesięcy wcześniej (w proc.)\n\nRentowności dla typowych obligacji, podane za agencją Bloomberg.(PAP Biznes)",
+      "date_published": "2026-11-05T06:46:00+01:00",
+      "source": "PAP Biznes"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/rynki/notowania-metali-bazowych-wegla-i-paliw-tabela-1517",
+      "url": "https://biznes.pap.pl/wiadomosci/rynki/notowania-metali-bazowych-wegla-i-paliw-tabela-1517",
+      "title": "Notowania metali bazowych, węgla i paliw (tabela)",
+      "content_html": "Notowania metali bazowych na London Metal Exchange, uprawnień EUA do emisji CO2, ceny węgla energetycznego ARA na przyszły rok oraz ceny paliw.",
+      "date_published": "2026-11-05T06:45:00+01:00",
+      "source": "PAP Biznes"
     },
     {
       "id": "https://biznes.pap.pl/wiadomosci/rynki/zamkniecia-na-gieldach-w-ameryce-polnocnej-i-poludniowej-tabela-889",
@@ -533,14 +597,6 @@
       "source": "Bankier.pl"
     },
     {
-      "id": "https://biznes.pap.pl/wiadomosci/firmy/cyfrowy-polsat-przeanalizuje-mozliwosci-refinansowania-zadluzenia-spolki",
-      "url": "https://biznes.pap.pl/wiadomosci/firmy/cyfrowy-polsat-przeanalizuje-mozliwosci-refinansowania-zadluzenia-spolki",
-      "title": "Cyfrowy Polsat przeanalizuje możliwości refinansowania zadłużenia spółki",
-      "content_html": "Cyfrowy Polsat rozpoczął analizę możliwości refinansowania zadłużenia spółki i jej podmiotów zależnych, wynikającego z umów kredytowych oraz wyemitowanych przez spółkę obligacji serii D, E i F - podał Cyfrowy Polsat w komunikacie.\n\nRównolegle zarząd spółki poinformował, że zdecydował o wyborze Pekao Investment Banking SA na doradcę finansowego w zakresie refinansowania.\n\nSpółka podała, że analiza możliwości refinansowania jest na wstępnym etapie. Decyzja co do przeprowadzenia refinansowania, warunków, struktury oraz terminu realizacji zostanie podjęta po zakończeniu analizy oraz z uwzględnieniem sytuacji na rynkach finansowych.(PAP Biznes)",
-      "date_published": "2026-11-04T19:42:00+01:00",
-      "source": "PAP Biznes"
-    },
-    {
       "id": "https://www.bankier.pl/wiadomosc/Korwin-Piotrowska-przejmuje-stery-w-Trybunale-Sedzia-zwolala-zgromadzenie-ogolne-9223785.html",
       "url": "https://www.bankier.pl/wiadomosc/Korwin-Piotrowska-przejmuje-stery-w-Trybunale-Sedzia-zwolala-zgromadzenie-ogolne-9223785.html",
       "title": "Korwin-Piotrowska przejmuje stery w Trybunale. Sędzia zwołała zgromadzenie ogólne",
@@ -581,14 +637,6 @@
       "source": "Bankier.pl"
     },
     {
-      "id": "https://biznes.pap.pl/wiadomosci/gospodarka/srodki-funduszu-modernizacyjnego-wespra-cieplownie-geotermalna-dla-kutna",
-      "url": "https://biznes.pap.pl/wiadomosci/gospodarka/srodki-funduszu-modernizacyjnego-wespra-cieplownie-geotermalna-dla-kutna",
-      "title": "Środki Funduszu Modernizacyjnego wesprą ciepłownię geotermalną dla Kutna - NFOŚiGW",
-      "content_html": "Narodowy Fundusz Ochrony Środowiska i Gospodarki Wodnej podpisał umowę dofinansowania projektu budowy ciepłowni geotermalnej w Kutnie wraz z przyłączeniem jej do miejskiego systemu ciepłowniczego - poinformował na stronie internetowej fundusz. Dodał, że wsparcie w formie dotacji i pożyczki z Funduszu Modernizacyjnego wyniesie ponad 59 mln zł.\n\n\"Narodowy Fundusz Ochrony Środowiska i Gospodarki Wodnej dofinansuje budowę ciepłowni geotermalnej dla Kutna wraz z przyłączeniem jej do miejskiego systemu ciepłowniczego\" - napisał fundusz.\n\nDodał, że umowę o dofinansowanie podpisali przedstawiciele NFOŚiGW oraz ECO Kutno Sp. z o.o.\n\n\"Realizacja projektu zwiększy udział odnawialnych źródeł energii w miejskim systemie ciepłowniczym i ograniczy wykorzystanie paliw kopalnych do produkcji ciepła. Całkowity koszt inwestycji wynosi około 109 mln zł, z czego ponad 59 mln zł to wsparcie w formie dotacji i pożyczki z Funduszu Modernizacyjnego\" - podał NFOŚiGW.\n\nProjekt zakłada budowę ciepłowni geotermalnej wraz z wykonaniem dwóch odwiertów. Z jednego będzie wydobywana gorąca woda z głębi ziemi, a drugim po oddaniu ciepła do systemu woda zostanie ponownie wtłoczona do podziemnego złoża. Powstaną także rurociągi, przyłącza i pozostała infrastruktura niezbędna do włączenia nowego źródła do miejskiej sieci ciepłowniczej, która obecnie opiera się głównie na węglu i gazie.\n\nNowa instalacja o mocy 6,4 MW wykorzysta naturalne ciepło zgromadzone pod powierzchnią ziemi do ogrzewania mieszkań, szkół, urzędów i innych budynków w Kutnie. Rocznie ma produkować blisko 46 tys. MWh energii cieplnej, co pozwoli ograniczyć zużycie paliw kopalnych i zmniejszyć emisję dwutlenku węgla o ponad 12 tys. ton rocznie. (PAP Biznes)",
-      "date_published": "2026-11-04T18:10:00+01:00",
-      "source": "PAP Biznes"
-    },
-    {
       "id": "https://biznes.pap.pl/wiadomosci/rynki/dzien-na-rynkach-indeksy-w-europie-zwyzkowaly-po-wyborach-do-kongresu-usa",
       "url": "https://biznes.pap.pl/wiadomosci/rynki/dzien-na-rynkach-indeksy-w-europie-zwyzkowaly-po-wyborach-do-kongresu-usa",
       "title": "DZIEŃ NA RYNKACH: Indeksy w Europie zwyżkowały po wyborach do Kongresu USA",
@@ -611,6 +659,14 @@
       "content_html": "Sejmowa Komisja odpowiedzialności konstytucyjnej nie powinna prowadzić postępowania wobec prezesa NBP, ponieważ jest to niezgodne m.in. z zasadą niezależności banku centralnego ugruntowaną w Konstytucji RP - napisała w stanowisku Rada Polityki...",
       "date_published": "2026-11-04T17:40:00+01:00",
       "source": "Bankier.pl"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/gospodarka/komisja-odpowiedzialnosci-konstytucyjnej-nie-powinna-prowadzic-postepowania",
+      "url": "https://biznes.pap.pl/wiadomosci/gospodarka/komisja-odpowiedzialnosci-konstytucyjnej-nie-powinna-prowadzic-postepowania",
+      "title": "Komisja odpowiedzialności konstytucyjnej nie powinna prowadzić postępowania wobec prezesa NBP - RPP",
+      "content_html": "Sejmowa Komisja odpowiedzialności konstytucyjnej nie powinna prowadzić postępowania wobec prezesa NBP, ponieważ jest to niezgodne m.in. z zasadą niezależności banku centralnego ugruntowaną w Konstytucji RP - napisała w stanowisku Rada Polityki Pieniężnej.\n\n\"Komisja Odpowiedzialności Konstytucyjnej nie powinna prowadzić postępowania wobec Prezesa NBP, bowiem jest to niezgodne z zasadą niezależności banku centralnego ugruntowaną w Konstytucji RP, w prawie pierwotnym Unii Europejskiej, a także w wieloletnim orzecznictwie Trybunału Konstytucyjnego, w tym w wyrokach z dnia 22 września 2006 r.(...)\" - napisała RPP w wydanym w środę stanowisku ws. niezależności banku centralnego i jego organów.\n\nRPP dodała, że w całości podtrzymuje swoje wcześniejsze stanowisko z 6 marca 2024 r. podjęte w związku z działaniami zmierzającymi do pozbawienia możliwości zajmowania stanowiska prezesa Narodowego Banku Polskiego, w którym: \"jednoznacznie wskazano, że działania te nie powinny mieć miejsca, są one bezpodstawne, bezprecedensowe, naruszają niezależność banku centralnego oraz godzą w wiarygodność i powagę Rzeczypospolitej Polskiej\".\n\n\"Sprawozdanie Komisji Odpowiedzialności Konstytucyjnej z prac nad wnioskiem wstępnym o pociągnięcie do odpowiedzialności konstytucyjnej przed Trybunałem Stanu Prezesa Narodowego Banku Polskiego Adama Glapińskiego (druk sejmowy nr 3199 z dnia 9 października 2026 r.) zostało przygotowane i uchwalone na podstawie przepisów, które uprzednio podlegały stwierdzeniu niekonstytucyjności, zatem nie powinno stanowić podstawy do podjęcia przez Sejm RP uchwały o pociągnięciu Prezesa NBP do odpowiedzialności konstytucyjnej, ani nie może doprowadzić do prawidłowego wszczęcia postępowania w tym przedmiocie przed Trybunałem Stanu\" - napisała RPP.\n\nDodała, że art. 11 ust. 1 ustawy z 26 marca 1982 r. o Trybunale Stanu w zakresie instytucji \"zawieszenia w czynnościach\" nie dotyczy prezesa NBP w następstwie wyroku TK z 11 stycznia 2024 r.\n\n\"Niezależny bank centralny będzie realizował swą misję w niezakłócony sposób bez względu na jakąkolwiek wywieraną presję, w tym o charakterze politycznym\" - napisała RPP w stanowisku. (PAP Biznes)",
+      "date_published": "2026-11-04T17:38:00+01:00",
+      "source": "PAP Biznes"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Zarzuty-dla-Bogdana-Swieczkowskiego-za-system-Hermes-Prokuratura-zada-uchylenia-immunitetu-9223729.html",
@@ -728,7 +784,7 @@
       "id": "https://biznes.pap.pl/wiadomosci/firmy/dm-bos-podniosl-cene-docelowa-dla-polenergii-do-50-zl",
       "url": "https://biznes.pap.pl/wiadomosci/firmy/dm-bos-podniosl-cene-docelowa-dla-polenergii-do-50-zl",
       "title": "DM BOŚ podniósł cenę docelową dla Polenergii do 50 zł",
-      "content_html": "Analitycy DM BOŚ w raporcie z 26 października podnieśli cenę docelową dla spółki Polenergia do 50 zł z 45,5 zł, podtrzymując rekomendację \"sprzedaj\".",
+      "content_html": "Analitycy DM BOŚ w raporcie z 26 października podnieśli cenę docelową dla spółki Polenergia do 50 zł z 45,5 zł, podtrzymując rekomendację \"sprzedaj\".\n\n\"Po aktualizacji finansowych prognoz dla spółki i zważywszy na kiepskie perspektywy wyników w krótkim okresie podtrzymujemy negatywne nastawienie wobec walorów Polenergii (Sprzedaj + Niedoważaj, 12M EFV = 50,0 zł na akcję). Chociaż w długim okresie pojawia się błysk optymizmu wobec ewentualnych wyników spółki, mocno ścinamy nasze prognozy na lata 2026-28 (nasze skumulowane szacunki EBITDA na ten okres spadają o 18 proc.)\" - napisano w raporcie.\n\n\"W kontekście kiepskich krótkoterminowych perspektyw, których się spodziewamy, uważamy, że walory spółki nie są atrakcyjną opcją dla akcjonariuszy mniejszościowych i zalecamy ich niedoważanie. Ponadto chcemy zaakcentować ciągle istniejące ryzyka, które wiążą się z projektem Bałtyk 1\" - dodano.\n\nAnalitycy DM BOŚ znacząco obniżyli prognozy finansowe dla spółki na lata 2026-28. Prognozują, że w 2026 roku EBITDA Polenergii wyniesie 413 mln zł, a w 2027 roku 475 mln zł.\n\nDepesza jest skrótem raportu, którego pierwsze rozpowszechnianie nastąpiło 27 października o godz. 7:45. Autorem raportu jest Łukasz Prokopiuk.\n\nW załączniku zamieszczono plik PDF z wymaganymi zastrzeżeniami prawnymi. (PAP Biznes)",
       "date_published": "2026-11-04T16:12:00+01:00",
       "source": "PAP Biznes"
     },
@@ -773,28 +829,12 @@
       "source": "Bankier.pl"
     },
     {
-      "id": "https://biznes.pap.pl/wiadomosci/firmy/port-polska-na-poczatku-2027-r-rozpocznie-proces-zapytania-ofertowego-dot",
-      "url": "https://biznes.pap.pl/wiadomosci/firmy/port-polska-na-poczatku-2027-r-rozpocznie-proces-zapytania-ofertowego-dot",
-      "title": "Port Polska na początku 2027 r. rozpocznie proces zapytania ofertowego dot. finansowania",
-      "content_html": "Port Polska na początku przyszłego roku planuje rozpocząć proces zapytania ofertowego dotyczący pozyskania finansowania dla projektu - poinformował Jacek Fotek, pełnomocnik Portu Polska ds. relacji z ",
-      "date_published": "2026-11-04T15:51:00+01:00",
-      "source": "PAP Biznes"
-    },
-    {
       "id": "https://www.bankier.pl/wiadomosc/Zmasowany-cyberatak-we-Francji-Hakerzy-uderzyli-w-duzy-bank-i-banki-krwi-9223642.html",
       "url": "https://www.bankier.pl/wiadomosc/Zmasowany-cyberatak-we-Francji-Hakerzy-uderzyli-w-duzy-bank-i-banki-krwi-9223642.html",
       "title": "Zmasowany cyberatak we Francji. Hakerzy uderzyli w duży bank i... banki krwi",
       "content_html": "Francuski bank Credit Mutuel Arkea oznajmił w środę, że padł ofiarą cyberataku, który umożliwił wykonanie nieuczciwych transakcji. Doszło również do cyberataku na kilka regionalnych banków krwi we Francji.",
       "date_published": "2026-11-04T15:50:00+01:00",
       "source": "Bankier.pl"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/gospodarka/ure-otrzymal-wnioski-taryfowe-od-spolek-energetycznych",
-      "url": "https://biznes.pap.pl/wiadomosci/gospodarka/ure-otrzymal-wnioski-taryfowe-od-spolek-energetycznych",
-      "title": "URE otrzymał wnioski taryfowe od spółek energetycznych",
-      "content_html": "Wnioski taryfowe spółek energetycznych na 2027 r. wpłynęły do Urzędu Regulacji Energetyki - poinformował PAP Biznes Urząd.",
-      "date_published": "2026-11-04T15:50:00+01:00",
-      "source": "PAP Biznes"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Burza-wokol-TK-PiS-i-Palac-Prezydencki-ida-do-prokuratury-padaja-zarzuty-o-zamachu-stanu-9223637.html",
@@ -819,14 +859,6 @@
       "content_html": "Pekin prowadzi rozmowy z USA i Rosją, by zorganizować szczyt z udziałem chińskiego przywódcy Xi Jinpinga oraz Donalda Trumpa i Władimira Putina - poinformowała w środę rzeczniczka resortu spraw zagranicznych Chin Mao Ning.",
       "date_published": "2026-11-04T15:45:00+01:00",
       "source": "Bankier.pl"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/rynki/po-otwarciu-sesji-dji-rosnie-225-proc-sp500-zyskuje-145-proc",
-      "url": "https://biznes.pap.pl/wiadomosci/rynki/po-otwarciu-sesji-dji-rosnie-225-proc-sp500-zyskuje-145-proc",
-      "title": "Po otwarciu sesji DJI rośnie 2,25 proc., a S&P500 zyskuje 1,45 proc.",
-      "content_html": "Po otwarciu sesji w USA Dow Jones Industrial rośnie o 2,25 proc. do 52.953 pkt., S&P500 zyskuje 1,45 proc. i wynosi 7.678 pkt.",
-      "date_published": "2026-11-04T15:40:00+01:00",
-      "source": "PAP Biznes"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Flagi-wystawa-LGBT-i-zydowski-zonkil-Braun-z-kolejnym-aktem-oskarzenia-9223580.html",
@@ -882,22 +914,6 @@
       "title": "Orlen rozważa wycofanie się z Możejek. Litewski minister: Nie mamy żadnych informacji",
       "content_html": "Nie mam absolutnie żadnych informacji o planowanym wycofaniu się spółki z Litwy – powiedział w środę mediom minister gospodarki i innowacji Edvinas Grikszas, komentując oświadczenie polskiej spółki Orlen o możliwości wycofania się...",
       "date_published": "2026-11-04T14:20:00+01:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Soros-daleko-za-Muskiem-Tak-miliarderzy-finansowali-wybory-w-USA-9223551.html",
-      "url": "https://www.bankier.pl/wiadomosc/Soros-daleko-za-Muskiem-Tak-miliarderzy-finansowali-wybory-w-USA-9223551.html",
-      "title": "Soros daleko za Muskiem. Tak miliarderzy finansowali wybory w USA",
-      "content_html": "Ośmioro spośród 10 największych indywidualnych darczyńców we wtorkowych wyborach połówkowych w USA wsparło kandydatów Partii Republikańskiej - wynika z danych Federalnej Komisji Wyborczej (FEC). Mimo przewagi finansowej, Republikanie ponieśli...",
-      "date_published": "2026-11-04T14:15:00+01:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Zielone-swiatlo-i-375-mln-euro-z-EBI-na-trase-S8-Rusza-finansowanie-kluczowego-odcinka-Kobierzyce-Bardo-9223555.html",
-      "url": "https://www.bankier.pl/wiadomosc/Zielone-swiatlo-i-375-mln-euro-z-EBI-na-trase-S8-Rusza-finansowanie-kluczowego-odcinka-Kobierzyce-Bardo-9223555.html",
-      "title": "Zielone światło i 375 mln euro z EBI na trasę S8. Rusza finansowanie kluczowego odcinka Kobierzyce–Bardo",
-      "content_html": "Europejski Bank Inwestycyjny zaakceptował udzielenie ok. 375 mln euro finansowania dla budowy odcinka drogi ekspresowej S8 Kobierzyce-Bardo. Wartość całego projektu szacowana jest na ok. 803 mln euro - podał EBI w na stronie.",
-      "date_published": "2026-11-04T14:06:00+01:00",
       "source": "Bankier.pl"
     },
     {
@@ -1058,62 +1074,6 @@
       "title": "10,8 mld euro za cały projekt. Port Polska prosi Europejski Bank Inwestycyjny o środki na start",
       "content_html": "Port Polska ubiega się o finansowanie pierwszego etapu budowy w kwocie 1,5 mld euro od Europejskiego Banku Inwestycyjnego - podano na stronach EBI. Łączny koszt przedsięwzięcia oszacowano na 10,8 mld euro.",
       "date_published": "2026-11-04T10:43:00+01:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Wypalenie-zawodowe-dotyka-8-na-10-pracownikow-Te-osoby-sa-najbardziej-narazone-9223365.html",
-      "url": "https://www.bankier.pl/wiadomosc/Wypalenie-zawodowe-dotyka-8-na-10-pracownikow-Te-osoby-sa-najbardziej-narazone-9223365.html",
-      "title": "8 na 10 osób odczuwa objawy wypalenia. Tych pracowników dotyka najczęściej",
-      "content_html": "Aż 84 proc. pracowników przyznało, że doświadcza objawów wypalenia zawodowego. Najczęściej dotyczy to specjalistów oraz średniej kadry menedżerskiej, ale obserwowane są również na innych szczeblach kariery - wynika z raportu „Nastroje...",
-      "date_published": "2026-11-04T10:39:00+01:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/PiS-zawiadamia-prokurature-ws-TK-Blaszczak-mowi-o-zamachu-stanu-9223370.html",
-      "url": "https://www.bankier.pl/wiadomosc/PiS-zawiadamia-prokurature-ws-TK-Blaszczak-mowi-o-zamachu-stanu-9223370.html",
-      "title": "PiS zawiadamia prokuraturę ws. TK. Błaszczak mówi o zamachu stanu",
-      "content_html": "Klub PiS zawiadamia prokuraturę ws. zwołanego przez Annę Korwin-Piotrowską zgromadzenia w TK. Szef klubu PiS Mariusz Błaszczak napisał, że to zawiadomienie przeciw „8 osobom uczestniczącym w spotkaniu zorganizowanej grupy przestępczej w budynku...",
-      "date_published": "2026-11-04T10:38:00+01:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Asbis-wyplaci-zaliczke-na-dywidende-w-wysokosci-0-35-USD-na-akcje-9223344.html",
-      "url": "https://www.bankier.pl/wiadomosc/Asbis-wyplaci-zaliczke-na-dywidende-w-wysokosci-0-35-USD-na-akcje-9223344.html",
-      "title": "Asbis wypłaci zaliczkę na dywidendę w wysokości 0,35 USD na akcję",
-      "content_html": "Rada dyrektorów Asbis Enterprises zdecydowała o wypłacie akcjonariuszom zaliczki na poczet przewidywanej dywidendy z zysku spółki za 2026 r. w łącznej wysokości 19,425 mln USD, co daje 0,35 USD na akcję - podała spółka w komunikacie.",
-      "date_published": "2026-11-04T10:27:00+01:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Srednia-placa-to-nie-wszystko-GUS-pokazal-ile-naprawde-zarabiaja-Polacy-9223328.html",
-      "url": "https://www.bankier.pl/wiadomosc/Srednia-placa-to-nie-wszystko-GUS-pokazal-ile-naprawde-zarabiaja-Polacy-9223328.html",
-      "title": "Średnia płaca to nie wszystko. GUS pokazał, ile naprawdę zarabiają Polacy",
-      "content_html": "Ponad 9,1 tys. zł wyniosło przeciętne wynagrodzenie w Polsce w maju, ale połowa pracowników otrzymywała nie więcej niż 7550 zł brutto. Najnowsze dane GUS pokazują, jak duże są różnice w zarobkach. Znaczenie ma nie tylko płeć, ale również...",
-      "date_published": "2026-11-04T10:14:00+01:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/200-milionow-zlotych-na-polska-AI-Wielka-inwestycja-i-wysyp-ofert-pracy-9223336.html",
-      "url": "https://www.bankier.pl/wiadomosc/200-milionow-zlotych-na-polska-AI-Wielka-inwestycja-i-wysyp-ofert-pracy-9223336.html",
-      "title": "200 milionów złotych na polską AI. Wielka inwestycja i wysyp ofert pracy",
-      "content_html": "Wonderful, firma technologiczna zajmująca się rozwiązaniami AI dla przedsiębiorstw, zainwestuje ponad 200 mln zł w Polsce w latach 2027-29, a do końca 2029 r. chce zatrudnić co najmniej 200 specjalistów - podała spółka w komunikacie prasowym...",
-      "date_published": "2026-11-04T10:13:00+01:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Demokraci-biora-Kongres-Azja-wpada-w-panike-Ostre-spadki-na-gieldach-i-strach-o-przyszlosc-AI-9223234.html",
-      "url": "https://www.bankier.pl/wiadomosc/Demokraci-biora-Kongres-Azja-wpada-w-panike-Ostre-spadki-na-gieldach-i-strach-o-przyszlosc-AI-9223234.html",
-      "title": "Demokraci biorą Kongres, Azja wpada w panikę. Spadki na giełdach i strach o przyszłość AI",
-      "content_html": "Zwycięstwo Demokratów w wyborach połówkowych w USA wywołało w środę wyprzedaż na globalnych rynkach akcji. Inwestorzy obawiają się, że przejęcie Kongresu oraz kluczowych stanów przez opozycję zahamuje miliardowe inwestycje w centra danych...",
-      "date_published": "2026-11-04T10:11:00+01:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Miliardy-rubli-strat-i-drastyczny-wzrost-ubezpieczen-Ukraina-uderza-w-rosyjska-logistyke-9223314.html",
-      "url": "https://www.bankier.pl/wiadomosc/Miliardy-rubli-strat-i-drastyczny-wzrost-ubezpieczen-Ukraina-uderza-w-rosyjska-logistyke-9223314.html",
-      "title": "Miliardy rubli strat i drastyczny wzrost ubezpieczeń. Ukraina uderza w rosyjską logistykę",
-      "content_html": "Drony zaatakowały centrum logistyczne giganta e-commerce Ozon w mieście Adygejsk na południowym zachodzie Rosji; w magazynach wybuchł pożar – powiadomił w środę portal Ukrainska Prawda z powołaniem na źródła rosyjskie.",
-      "date_published": "2026-11-04T10:11:00+01:00",
       "source": "Bankier.pl"
     }
   ]
