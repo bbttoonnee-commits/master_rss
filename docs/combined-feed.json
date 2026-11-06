@@ -5,12 +5,28 @@
   "home_page_url": "https://www.bankier.pl",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/DataWalk-uzyskalo-patent-w-USA-9225185.html",
+      "url": "https://www.bankier.pl/wiadomosc/DataWalk-uzyskalo-patent-w-USA-9225185.html",
+      "title": "DataWalk uzyskało patent w USA",
+      "content_html": "DataWalk uzyskało potwierdzenie przyznania ochrony patentowej przez United States Patent and Trademark Office na wynalazek pn. \"Systemy i metody całościowego uczenia maszynowego z wykorzystaniem zautomatyzowanego uczenia maszynowego i wyjaśnialnej...",
+      "date_published": "2026-11-06T16:40:00+01:00",
+      "source": "Bankier.pl"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Technologia-wywiadowcza-dla-polskiej-armii-Kontrowersje-wokol-umowy-z-Palantirem-9225145.html",
       "url": "https://www.bankier.pl/wiadomosc/Technologia-wywiadowcza-dla-polskiej-armii-Kontrowersje-wokol-umowy-z-Palantirem-9225145.html",
       "title": "Technologia wywiadowcza dla polskiej armii? Kontrowersje wokół umowy z Palantirem",
       "content_html": "Wicepremier, szef MON Władysław Kosiniak-Kamysz podkreślił, że z oprogramowania firmy Palantir korzysta obecnie wiele armii, a współpraca Polski z tym przedsiębiorstwem „nie jest niczym nowym”. Wszystko jest przedmiotem analizy wojskowej,...",
       "date_published": "2026-11-06T16:20:00+01:00",
       "source": "Bankier.pl"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/gospodarka/euro-w-ebc-11165-usd-i-17677-jpy",
+      "url": "https://biznes.pap.pl/wiadomosci/gospodarka/euro-w-ebc-11165-usd-i-17677-jpy",
+      "title": "Euro w EBC: 1,1165 USD i 176,77 JPY",
+      "content_html": "Europejski Bank Centralny (EBC) ustalił kurs euro na 1,1165 USD i 176,77 JPY - podał bank na swojej stronie internetowej.",
+      "date_published": "2026-11-06T16:10:00+01:00",
+      "source": "PAP Biznes"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Alarmy-bombowe-w-europejskich-mediach-Ewakuowano-redakcje-zagrozenie-dotarlo-do-Londynu-9225028.html",
@@ -67,6 +83,14 @@
       "content_html": "Dino zakłada poprawę marży brutto w IV kwartale, ale dynamika wzrostu może być mniejsza niż w III kwartale. Spółka będzie się przede wszystkim skupiać na wolumenach sprzedaży – poinformował członek zarządu Michał Krauze.",
       "date_published": "2026-11-06T15:35:00+01:00",
       "source": "Bankier.pl"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/rynki/po-otwarciu-sesji-dji-spada-092-proc-sp500-rosnie-038-proc",
+      "url": "https://biznes.pap.pl/wiadomosci/rynki/po-otwarciu-sesji-dji-spada-092-proc-sp500-rosnie-038-proc",
+      "title": "Po otwarciu sesji DJI spada 0,92 proc., a S&P500 rośnie 0,38 proc.",
+      "content_html": "Po otwarciu sesji w USA Dow Jones Industrial spada o 0,92 proc. do 51.047 pkt., S&P500 zyskuje 0,38 proc. i wynosi 7.380 pkt.\n\nNasdaq Comp. rośnie o 1,62 proc. do poziomu 27.046 pkt. (PAP Biznes)",
+      "date_published": "2026-11-06T15:34:00+01:00",
+      "source": "PAP Biznes"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Wybory-w-USA-obawy-o-AI-i-tapniecie-na-gieldach-To-poczatek-wiekszej-korekty-9224937.html",
@@ -213,10 +237,18 @@
       "source": "PAP Biznes"
     },
     {
+      "id": "https://www.bankier.pl/wiadomosc/Kosiniak-Kamysz-zapowiada-reset-konstytucyjny-PSL-rozpoczyna-kolejny-etap-9224868.html",
+      "url": "https://www.bankier.pl/wiadomosc/Kosiniak-Kamysz-zapowiada-reset-konstytucyjny-PSL-rozpoczyna-kolejny-etap-9224868.html",
+      "title": "Kosiniak-Kamysz zapowiada reset konstytucyjny. PSL rozpoczyna kolejny etap",
+      "content_html": "Politycy PSL poinformowali w piątek, że podjęli decyzję o powołaniu zespołu parlamentarnego, który ma się zająć „odnową Trybunału Konstytucyjnego”. Jesteśmy zdeterminowani, żeby przeprowadzić reset konstytucyjny, to jest droga do...",
+      "date_published": "2026-11-06T14:28:00+01:00",
+      "source": "Bankier.pl"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Oferta-konsorcjum-z-Budimeksem-najkorzystniejsza-na-budowe-zakladu-odzysku-energii-w-Lodzi-9225044.html",
       "url": "https://www.bankier.pl/wiadomosc/Oferta-konsorcjum-z-Budimeksem-najkorzystniejsza-na-budowe-zakladu-odzysku-energii-w-Lodzi-9225044.html",
-      "title": "Oferta konsorcjum z Budimeksem najkorzystniejsza na budowę zakładu odzysku energii w Łodzi Veolia Nowa Energia wybrała ofertę konsorcjum spółek Budimex (lider) oraz Keppel Seghers Belgium (partner) jako najkorzystniejszą w postępowaniu przetargowym na Budowę Zakładu Odzysku Energii (ZOE) w Łodzi - podał Budimex w komunikacie. Wartość oferty to 712,6 mln zł netto oraz 109,2 mln euro netto.",
-      "content_html": "",
+      "title": "Oferta konsorcjum z Budimeksem najkorzystniejsza na budowę zakładu odzysku energii w Łodzi",
+      "content_html": "Veolia Nowa Energia wybrała ofertę konsorcjum spółek Budimex (lider) oraz Keppel Seghers Belgium (partner) jako najkorzystniejszą w postępowaniu przetargowym na Budowę Zakładu Odzysku Energii (ZOE) w Łodzi - podał Budimex w komunikacie. Wartość...",
       "date_published": "2026-11-06T14:28:00+01:00",
       "source": "Bankier.pl"
     },
@@ -237,6 +269,22 @@
       "source": "PAP Biznes"
     },
     {
+      "id": "https://www.bankier.pl/wiadomosc/Rachunek-za-weglowy-pomnik-absurdu-25-osob-z-zarzutami-za-miliardowe-straty-w-Ostrolece-9224899.html",
+      "url": "https://www.bankier.pl/wiadomosc/Rachunek-za-weglowy-pomnik-absurdu-25-osob-z-zarzutami-za-miliardowe-straty-w-Ostrolece-9224899.html",
+      "title": "Rachunek za węglowy pomnik absurdu. 25 osób z zarzutami za miliardowe straty w Ostrołęce",
+      "content_html": "25 osobom prokuratura postawiła zarzuty w śledztwie dotyczącym niegospodarności przy niedoszłej budowie bloku węglowego Elektrowni Ostrołęka. Nie było wniosków o areszt, nikt z podejrzanych nie przyznaje się do winy.",
+      "date_published": "2026-11-06T14:22:00+01:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Skarbowka-straci-czesc-dostepu-do-kont-bankowych-Senat-zdecydowal-9225035.html",
+      "url": "https://www.bankier.pl/wiadomosc/Skarbowka-straci-czesc-dostepu-do-kont-bankowych-Senat-zdecydowal-9225035.html",
+      "title": "Skarbówka straci część dostępu do kont bankowych. Senat zdecydował",
+      "content_html": "W piątek Senat zgłosił poprawki do ustawy ograniczającej Krajowej Administracji Skarbowej dostęp do danych o rachunkach bankowych. Senackimi poprawkami zajmie się teraz Sejm.",
+      "date_published": "2026-11-06T14:22:00+01:00",
+      "source": "Bankier.pl"
+    },
+    {
       "id": "https://biznes.pap.pl/wiadomosci/firmy/dino-zaklada-poprawe-marzy-brutto-w-iv-kw-ale-bedzie-sie-skupiac-na-wolumenach",
       "url": "https://biznes.pap.pl/wiadomosci/firmy/dino-zaklada-poprawe-marzy-brutto-w-iv-kw-ale-bedzie-sie-skupiac-na-wolumenach",
       "title": "Dino zakłada poprawę marży brutto w IV kw., ale będzie się skupiać na wolumenach sprzedaży",
@@ -253,6 +301,14 @@
       "source": "PAP Biznes"
     },
     {
+      "id": "https://www.bankier.pl/wiadomosc/Jak-NBP-dochodzil-do-zlotego-celu-Czy-NBP-dokupil-kilka-ton-na-poczatku-listopada-9225031.html",
+      "url": "https://www.bankier.pl/wiadomosc/Jak-NBP-dochodzil-do-zlotego-celu-Czy-NBP-dokupil-kilka-ton-na-poczatku-listopada-9225031.html",
+      "title": "Jak NBP dochodził do złotego celu. Czy dokupił kilka ton na początku listopada?",
+      "content_html": "Narodowy Bank Polski zgromadził już 700 ton złota, realizując cel postanowiony w styczniu – stwierdził w czwartek prezes NBP Adam Glapiński. Jednak z szacunków Bankier.pl wynika, że jeszcze 30 października kilku ton jeszcze mogło brakować...",
+      "date_published": "2026-11-06T14:19:00+01:00",
+      "source": "Bankier.pl"
+    },
+    {
       "id": "https://biznes.pap.pl/wiadomosci/gospodarka/oficjalne-aktywa-rezerwowe-w-pazdzierniku-wzrosly-do-26636-mld-euro-nbp",
       "url": "https://biznes.pap.pl/wiadomosci/gospodarka/oficjalne-aktywa-rezerwowe-w-pazdzierniku-wzrosly-do-26636-mld-euro-nbp",
       "title": "Oficjalne aktywa rezerwowe w październiku wzrosły do 266,36 mld euro - NBP",
@@ -261,34 +317,34 @@
       "source": "PAP Biznes"
     },
     {
-      "id": "https://biznes.pap.pl/wiadomosci/nieruchomosci/rynek-nowoczesnej-pow-magazynowo-przemyslowej-w-polsce-na-koniec-ix",
-      "url": "https://biznes.pap.pl/wiadomosci/nieruchomosci/rynek-nowoczesnej-pow-magazynowo-przemyslowej-w-polsce-na-koniec-ix",
-      "title": "Rynek nowoczesnej pow. magazynowo-przemysłowej w Polsce na koniec IX osiągnął 38 mln m kw. - PINK",
-      "content_html": "Na koniec września 2026 roku rynek nowoczesnej powierzchni magazynowo-przemysłowej osiągnął poziom 38,3 mln mkw., a trzy województwa z największymi zasobami to mazowieckie (7,88 mln mkw.), śląskie (6,36 mln mkw.) i dolnośląskie (5,44 mln mkw.) - podała Polska Izba Nieruchomości Komercyjnych w komunikacie prasowym.\n\nJak podano, w III kwartale 2026 roku na rynek dostarczono 383,5 tys. mkw. nowej powierzchni. Najwięcej nowej powierzchni w tym okresie dostarczono w województwach mazowieckim (191,2 tys. mkw.), śląskim (37,4 tys. mkw.) i podkarpackim (30 tys. mkw.).\n\nNa koniec września 2026 roku w całej Polsce w budowie znajdowało się 1,67 mln mkw. (dla porównania, na koniec czerwca 2026 było to 1,3 mln mkw., a na koniec września 2025 roku – 1,56 mln mkw.). Wśród regionów największy udział powierzchni w realizacji przypadł na województwa śląskie (39 proc. budowanej powierzchni), mazowieckie (18 proc.) i łódzkie (8 proc.).\n\nNa koniec III kwartału 2026 roku wskaźnik pustostanów wyniósł 5,7 proc. (dla porównania, na koniec II kwartału 2026 roku wskaźnik pustostanów wynosił 6,6 proc., a na koniec III kwartału 2025 roku – 8,2 proc.).\n\nNajwyższą wartość wskaźnika odnotowano w województwie: podlaskim (17,9 proc.), podkarpackim (14,4 proc.) i świętokrzyskim (12,9 proc.). Najniższy poziom wskaźnika pustostanów odnotowano w województwie: opolskim (0 proc.), warmińsko-mazurskim (0 proc.) oraz zachodniopomorskim i łódzkim (po 3,4 proc.).\n\nW okresie lipiec–wrzesień 2026 roku popyt brutto na nowoczesne powierzchnie magazynowo-przemysłowe osiągnął 1,79 mln mkw. (w II kwartale 2026 popyt brutto wyniósł 1,93 mln mkw., a w III kwartale 2025 roku – 1,59 mln mkw.)\n\nNajwiększym zainteresowaniem najemców cieszyły się województwa: śląskie (457,2 tys. mkw.), mazowieckie (382,1 tys. mkw.), dolnośląskie (288,3 tys. mkw.) oraz łódzkie (284,1 tys. mkw.).\n\nNajwyższy udział w strukturze popytu w III kwartale 2026 roku odnotowały nowe umowy (w tym projekty typu BTS) – 64 proc., natomiast przedłużenia umów odpowiadały za 29 proc., a ekspansje za 6,8 proc. całkowitego popytu. Udział transakcji typu sale & leaseback w strukturze popytu był znikomy (0,2 proc.).\n\nDane dotyczą rynku powierzchni magazynowo-przemysłowych w Polsce za III kwartał 2026 roku. Źródłem informacji są firmy doradcze działające na rynku nieruchomości komercyjnych (Axi Immo, BNP Paribas Real Estate Poland, CBRE, Colliers, Cushman & Wakefield, JLL, Knight Frank, Newmark Polska oraz Savills). Informacje dotyczą zasobów istniejącej nowoczesnej powierzchni, wolumenu nowej podaży, powierzchni w budowie, wielkości transakcji wynajmu oraz powierzchni niewynajętej. (PAP Biznes)",
-      "date_published": "2026-11-06T14:10:00+01:00",
-      "source": "PAP Biznes"
+      "id": "https://www.bankier.pl/wiadomosc/Nawet-8-tys-rodzin-poszkodowanych-w-Czystym-powietrzu-Senat-przyjal-nowe-przepisy-9224996.html",
+      "url": "https://www.bankier.pl/wiadomosc/Nawet-8-tys-rodzin-poszkodowanych-w-Czystym-powietrzu-Senat-przyjal-nowe-przepisy-9224996.html",
+      "title": "Nawet 8 tys. rodzin poszkodowanych w „Czystym powietrzu”. Senat przyjął nowe przepisy",
+      "content_html": "Senat nie zgłosił poprawek do ustawy, która umożliwi zawieszenie spłaty należności, ich umarzanie i dochodzenie roszczeń od oszustów przez fundusze ochrony środowiska. Nowe prawo ma pomóc właścicielom domów poszkodowanym przez nieuczciwych...",
+      "date_published": "2026-11-06T13:54:00+01:00",
+      "source": "Bankier.pl"
     },
     {
-      "id": "https://biznes.pap.pl/wiadomosci/gospodarka/w-pazdzierniku-rpp-oceniala-ze-na-poczatku-27-r-mozliwy-jest-istotny-wzrost",
-      "url": "https://biznes.pap.pl/wiadomosci/gospodarka/w-pazdzierniku-rpp-oceniala-ze-na-poczatku-27-r-mozliwy-jest-istotny-wzrost",
-      "title": "W październiku RPP oceniała, że na początku '27 r. możliwy jest istotny wzrost inflacji - minutes",
-      "content_html": "W październiku Rada Polityki Pieniężnej oceniała, że wraz z wygaśnięciem działań osłonowych dotyczących cen paliw na początku 2027 r. możliwy jest istotny wzrost inflacji - podano w opisie dyskusji z październikowego posiedzenia Rady.\n\n\"Omawiając perspektywy inflacji, członkowie Rady wskazywali, że w październiku br. inflacja prawdopodobnie się obniży w związku z przywróceniem działań osłonowych na rynku paliw. Zaznaczano przy tym, że obecne rozwiązania obowiązują jedynie do końca 2026 r. i w efekcie możliwy jest istotny wzrost inflacji na początku 2027 r.\" - napisano w dokumencie.\n\n\"Zwracano także uwagę na możliwość nasilenia się proinflacyjnego wpływu zewnętrznych uwarunkowań makroekonomicznych na polską gospodarkę w kolejnych okresach. Część członków Rady podkreślała w tym kontekście wzrost cen surowców rolnych na rynkach światowych, a inni członkowie Rady wskazywali na przyspieszenie cen produkcji sprzedanej przemysłu za granicą\" - dodano.\n\nCzłonkowie Rady podkreślali jednocześnie, że niepewność co do perspektyw inflacji jest wysoka.\n\n\"W szczególności trudno przewidzieć kształtowanie się cen surowców wobec napiętej sytuacji geopolitycznej. Nieznane są również dalsze decyzje regulacyjne w zakresie cen paliw, a także administrowanych cen energii elektrycznej i gazu\" - napisano.\n\n\"Istotnym czynnikiem niepewności pozostaje także skala przełożenia presji kosztowej na ceny dóbr oraz podwyższonej inflacji na zmiany presji płacowej w gospodarce. Niektórzy członkowie Rady zwracali ponadto uwagę, że ryzykiem dla dalszego kształtowania się cen żywności są warunki meteorologiczne\" - dodano.\n\nNa posiedzeniu Rady wskazywano, że istotnym krajowym uwarunkowaniem dla procesów gospodarczych jest kształt polityki fiskalnej.\n\n\"Podkreślano, że zgodnie z projektem ustawy budżetowej deficyt finansów publicznych w Polsce w 2027 r. ma pozostać na poziomie 7,1 proc. PKB. Oceniano zatem, że polityka fiskalna w kolejnych kwartałach nie będzie ograniczała popytu i w efekcie presji inflacyjnej\" - napisano.\n\n\"Część członków Rady wskazywała przy tym, że ewentualne podwyżki stawek podatku akcyzowego lub innych opłat oddziaływałyby w kierunku wyższej dynamiki cen konsumpcyjnych\" - dodano.\n\nPodczas posiedzenia Rady wskazywano, że dynamika PKB Polski w 2027 r. spowolni.\n\n\"Dyskutując na temat koniunktury w Polsce wskazywano, że – pomimo trwającego negatywnego szoku podażowego na rynku surowców energetycznych – dostępne dane sygnalizowały jak dotąd jedynie nieznaczne obniżenie się rocznej dynamiki PKB\" - napisano w raporcie.\n\n\"W odniesieniu do pespektyw wzrostu zaznaczano, że oczekiwany w 2027 r. spadek wykorzystania funduszy unijnych i związane z tym spowolnienie inwestycji będzie oddziaływało w kierunku niższej dynamiki PKB. Podkreślano przy tym, że według prognoz wzrost PKB w 2027 r. prawdopodobnie będzie zbliżony do 3 proc., a głównym czynnikiem wzrostu będzie konsumpcja\" - dodano.\n\nW październiku członkowie Rady podkreślali, że dalsze decyzje RPP będą zależne od napływających informacji dotyczących perspektyw inflacji i aktywności gospodarczej w Polsce.\n\n\"Wskazywano, że szczególnie istotna jest sytuacja makroekonomiczna w otoczeniu polskiej gospodarki, w tym kształtowanie się cen surowców i inflacji na świecie w kontekście zmieniającej się sytuacji geopolitycznej\" - napisano.\n\n\"Czynnikami ryzyka dla perspektyw inflacji pozostają także: kształt polityki fiskalnej, decyzje regulacyjne w zakresie cen energii, zmiany dynamiki aktywności w polskiej gospodarce oraz dalsze kształtowanie się dynamiki płac\" - dodano.\n\nRPP w październiku utrzymała siódmy miesiąc z rzędu stopę referencyjną na poziomie 3,75 proc. (PAP Biznes)",
-      "date_published": "2026-11-06T14:08:00+01:00",
-      "source": "PAP Biznes"
+      "id": "https://www.bankier.pl/wiadomosc/Droga-energia-jeszcze-nie-uderzyla-w-ceny-NBP-ostrzega-przed-tym-co-dalej-9224997.html",
+      "url": "https://www.bankier.pl/wiadomosc/Droga-energia-jeszcze-nie-uderzyla-w-ceny-NBP-ostrzega-przed-tym-co-dalej-9224997.html",
+      "title": "Droga energia jeszcze nie uderzyła w ceny. NBP ostrzega przed tym, co dalej",
+      "content_html": "Inflacyjne efekty II rundy w Polsce na razie są niewielkie albo prawie niewidoczne, ale im dłużej będzie trwać szok energetyczny, tym większe prawdopodobieństwo ich zaistnienia w gospodarce - poinformował na konferencji dyrektor Departamentu...",
+      "date_published": "2026-11-06T13:54:00+01:00",
+      "source": "Bankier.pl"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Modivo-chce-w-27-skupic-sie-na-rozwoju-szyldow-off-price-CAPEX-na-otwarcia-ma-wyniesc-300-350-mln-zl-9224991.html",
       "url": "https://www.bankier.pl/wiadomosc/Modivo-chce-w-27-skupic-sie-na-rozwoju-szyldow-off-price-CAPEX-na-otwarcia-ma-wyniesc-300-350-mln-zl-9224991.html",
-      "title": "Modivo chce w '27 skupić się na rozwoju szyldów off-price; CAPEX na otwarcia ma wynieść 300-350 mln zł Grupa Modivo chce w przyszłym roku skupić się na rozwoju szyldów off-price - poinformował wiceprezes Łukasz Stelmach. CAPEX na rozwój powierzchni handlowej w grupie ma wynieść w 2027 r. 300-350 mln zł.",
-      "content_html": "",
+      "title": "Modivo chce w '27 skupić się na rozwoju szyldów off-price; CAPEX na otwarcia ma wynieść 300-350 mln zł",
+      "content_html": "Grupa Modivo chce w przyszłym roku skupić się na rozwoju szyldów off-price - poinformował wiceprezes Łukasz Stelmach. CAPEX na rozwój powierzchni handlowej w grupie ma wynieść w 2027 r. 300-350 mln zł.",
       "date_published": "2026-11-06T13:48:00+01:00",
       "source": "Bankier.pl"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/KNF-ostrzega-przed-nowymi-podmiotami-Na-liscie-znalazl-sie-Narodowy-Bank-9224989.html",
       "url": "https://www.bankier.pl/wiadomosc/KNF-ostrzega-przed-nowymi-podmiotami-Na-liscie-znalazl-sie-Narodowy-Bank-9224989.html",
-      "title": "KNF ostrzega przed nowymi podmiotami. Na liście znalazł się „Narodowy Bank” Na listę ostrzeżeń publicznych Komisji Nadzoru Finansowego wpisany został nowy podmiot - Slovenske podielove druzstvo ROD oraz niezidentyfikowane osoby działające pod nazwą „Złota Wielka Polska PL” i „Złota Wielka Polska” - poinformowała w piątek KNF.",
-      "content_html": "",
+      "title": "KNF ostrzega przed nowymi podmiotami. Na liście znalazł się „Narodowy Bank”",
+      "content_html": "Na listę ostrzeżeń publicznych Komisji Nadzoru Finansowego wpisany został nowy podmiot - Slovenske podielove druzstvo ROD oraz niezidentyfikowane osoby działające pod nazwą „Złota Wielka Polska PL” i „Złota Wielka Polska” - poinformowała...",
       "date_published": "2026-11-06T13:46:00+01:00",
       "source": "Bankier.pl"
     },
@@ -373,6 +429,22 @@
       "source": "Bankier.pl"
     },
     {
+      "id": "https://biznes.pap.pl/wiadomosci/gospodarka/presja-placowa-pozostaje-niska-i-badania-wskazuja-ze-utrzyma-sie-przez-jakis",
+      "url": "https://biznes.pap.pl/wiadomosci/gospodarka/presja-placowa-pozostaje-niska-i-badania-wskazuja-ze-utrzyma-sie-przez-jakis",
+      "title": "Presja płacowa pozostaje niska i badania wskazują, że utrzyma się to przez jakiś czas - DABE NBP",
+      "content_html": "Presja płacowa w Polsce pozostaje niska i badania wskazują, że taki stan się utrzyma przez jakiś czas - poinformował na konferencji dyrektor Departamentu Badań i Analiz NBP Jacek Kotłowski.\n\n\"Mamy niską presję płacową. Drugi kwartał, wzrost płac w całej gospodarce wyniósł 5,5 proc. W sektorze przedsiębiorstw ostatnie dwa miesiące też dały dynamikę wynagrodzeń poniżej 6 proc. Jest to troszkę pozytywne, zaskoczenie oczywiście z punktu widzenia inflacji (...). Co więcej, firmy w badaniach ankietowych wskazują, że ta presja się utrzyma pewnie przez jakiś czas jeszcze na niskim poziomie, bo zmniejszyła się liczba firm deklarujących podwyżki, a jednocześnie skala deklarowanych podwyżek pozostała na poziomie nieco wyżej 4 proc., podobna jak wcześniej\" - powiedział Kotłowski.\n\n\"Efektem jest to, że przy rosnącej inflacji mamy spadek dynamiki wynagrodzeń realnych do poziomu około 2,5 proc.\" - dodał.\n\nDo niższych dochodów podmioty gospodarcze dostosowują wg Kotłowskiego konsumpcję, chociaż to dostosowanie jest słabsze, niż wynikałoby tylko z realnych wynagrodzeń. (PAP Biznes)",
+      "date_published": "2026-11-06T13:07:00+01:00",
+      "source": "PAP Biznes"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/gospodarka/utrzymanie-programu-cpn-obnizyloby-w-27-inflacje-cpi-o-09-pp-dabe-nbp-opis",
+      "url": "https://biznes.pap.pl/wiadomosci/gospodarka/utrzymanie-programu-cpn-obnizyloby-w-27-inflacje-cpi-o-09-pp-dabe-nbp-opis",
+      "title": "Utrzymanie programu CPN obniżyłoby w '27 inflację CPI o 0,9 pp. - DABE NBP (opis)",
+      "content_html": "Utrzymanie programu CPN obniżyłoby w 2027 r. inflację CPI o 0,9 pp. - poinformował na konferencji dyrektor Departamentu Badań i Analiz NBP Jacek Kotłowski. Dodał, że program CPN jest to istotny czynnik kształtujący oczekiwania inflacyjne.\n\n\"Gdyby program CPN został utrzymany, to może obniżyć inflację o (...) 0,9 pp. W przyszłym roku inflację mielibyśmy wyraźnie niżej\" - powiedział Kotłowski.\n\n\"Skutki szoku (energetycznego – PAP) powodują, że podwyższyliśmy projekcję inflacji najsilniej w 2027 roku do poziomu 4,2 proc. Ale warto podkreślić, to, że w projekcji uwzględniliśmy założenie o wycofaniu programu CPN. Zakładamy, że on obowiązuje zgodnie z obecnym stanem prawnym tylko do końca tego roku, natomiast w przyszłym roku program zostaje wycofany\" - dodał.\n\nKotłowski wskazał, że CPN nie tylko obniża sam wskaźnik inflacji, ale też rzutuje na oczekiwania inflacyjne.\n\n\"Wiemy dobrze, że podmioty, gospodarstwa domowe przede wszystkim formułują swoje oczekiwania inflacyjne na podstawie tych produktów, które często nabywają, które są najbardziej widoczne. No i pewnie te ceny fali na stacjach benzynowych też nie są bez znaczenia, być może są nawet jednymi z ważniejszych tych elementów, które wpływają na kształtowanie oczekiwań inflacyjnych\" - powiedział Kotłowski.\n\nInnym czynnikiem ryzyka dla inflacji jest, według Kotłowskiego, przenikanie inflacji, cen energii do inflacji bazowej, czyli do pozostałej części koszyka inflacyjnego. Na razie to przenikanie jest relatywnie niewielkie.\n\n\"Mieliśmy wzrost inflacji bazowej w tym okresie wakacyjnym, no ale według danych GUS-u i naszych wstępnych szacunków (...) wydaje się, że inflacja bazowa (w październiku - PAP) ponownie obniżyła się. (...) Także ten czynnik ryzyka traktujemy bardzo poważnie, ale na razie, tak jak mówię, te efekty takie pośrednie są relatywnie niewielkie\" - powiedział dyrektor NBP.\n\nCentralna ścieżka projekcji NBP zakłada CPI w 2026 r. na poziomie 3,1 proc., w 2027 r. na poziomie 4,2 proc., a w 2028 r. na poziomie 2,8 proc. - podano w listopadowej projekcji NBP. Zgodnie z projekcją, inflacja CPI znajdzie się w celu NBP na poziomie 2,5 proc. w III kw. 2028 r.\n\nWedług najnowszej projekcji NBP, wskaźnik CPI wyniesie w poszczególnych kwartałach 2027 r. odpowiednio: 4,6 proc. w I kw., 4,6 proc. w II kw., 4,0 proc. w III kw. oraz 3,8 proc. w IV kw.",
+      "date_published": "2026-11-06T13:05:00+01:00",
+      "source": "PAP Biznes"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Wydaj-100-zl-dostaniesz-100-zl-z-powrotem-Na-czym-polega-promocja-Revoluta-9224915.html",
       "url": "https://www.bankier.pl/wiadomosc/Wydaj-100-zl-dostaniesz-100-zl-z-powrotem-Na-czym-polega-promocja-Revoluta-9224915.html",
       "title": "Wydaj 100 zł, dostaniesz 100 zł z powrotem. Na czym polega promocja Revoluta?",
@@ -387,6 +459,14 @@
       "content_html": "Wartość emisji obligacji korporacyjnych notowanych na Catalyst osiągnęła na koniec trzeciego kwartału 2026 roku 110,9 mld zł, co oznacza wzrost o 28 proc. rdr - podała GPW w komunikacie prasowym. W samym III kwartale wartość nowych emisji wyniosła...",
       "date_published": "2026-11-06T13:04:00+01:00",
       "source": "Bankier.pl"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/firmy/wartosc-emisji-obligacji-korporacyjnych-na-catalyst-po-iii-kw-26-wyniosla-1109-mld",
+      "url": "https://biznes.pap.pl/wiadomosci/firmy/wartosc-emisji-obligacji-korporacyjnych-na-catalyst-po-iii-kw-26-wyniosla-1109-mld",
+      "title": "Wartość emisji obligacji korporacyjnych na Catalyst po III kw. '26 wyniosła 110,9 mld zł, więcej o 28 proc. rdr",
+      "content_html": "Wartość emisji obligacji korporacyjnych notowanych na Catalyst osiągnęła na koniec trzeciego kwartału 2026 roku 110,9 mld zł, co oznacza wzrost o 28 proc. rdr - podała GPW w komunikacie prasowym. W samym III kwartale wartość nowych emisji wyniosła 13,9 mld zł i była najwyższa od początku 2023 roku.\n\nW trzecim kwartale 2026 roku wartość nowych emisji obligacji korporacyjnych wyniosła 13,9 mld zł, wobec 7,9 mld zł w drugim kwartale 2026 roku oraz 10,5 mld zł w analogicznym okresie poprzedniego roku. Oznacza to wzrost o 76 proc. w ujęciu kwartalnym oraz o 32 proc. rok do roku.\n\nWskazano, że największy udział w nowych emisjach przypadł na sektor bankowy. Banki pozyskały łącznie 7,5 mld zł, a wśród emitentów znalazły się PKO BP, Pekao, Alior Bank oraz Bank Pocztowy.\n\nKolejne 3,3 mld zł stanowiły emisje sektora energetycznego, przede wszystkim za sprawą Orlenu.\n\nWzrost aktywności odnotowano również w sektorze deweloperskim. Wartość nowych emisji deweloperów osiągnęła 1,6 mld zł, wobec 752 mln zł w drugim kwartale 2026 roku i 480 mln zł rok wcześniej. Wśród emitentów znalazły się m.in. Atal, Echo Investment, Arche, Matexi Polska Holding oraz Polski Holding Nieruchomości.\n\n\"Rosnącej wartości rynku pierwotnego towarzyszyła stabilizacja liczby notowanych instrumentów na wysokim poziomie. Na koniec września 2026 roku na Catalyst znajdowało się 306 serii obligacji korporacyjnych, wobec historycznego maksimum wynoszącego 307 serii w drugim kwartale 2025 roku. Liczba emitentów osiągnęła natomiast rekordowe 88, wobec 86 kwartał wcześniej i 84 na koniec trzeciego kwartału 2025 roku\" - napisano.\n\nDodano, że odmienny kierunek utrzymywał się w zakresie aktywności na rynku wtórnym. W trzecim kwartale 2026 roku wartość obrotów obligacjami korporacyjnymi wyniosła 415,3 mln zł i kolejny kwartał pozostawała na niższym poziomie.\n\nDane pochodzą z najnowszego wydania \"Przegląd rynku Catalyst – obligacje korporacyjne w III kwartale 2026 r.\", przygotowanego przez Dom Maklerski BOŚ w ramach Programu Wsparcia Pokrycia Analitycznego 5.0 na zlecenie Giełdy Papierów Wartościowych w Warszawie. (PAP Biznes)",
+      "date_published": "2026-11-06T13:03:00+01:00",
+      "source": "PAP Biznes"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Ryvu-spodziewa-sie-wynikow-z-kolejnej-grupy-pacjentow-w-badaniu-JASPIS-01-w-pol-27-wywiad-9224940.html",
@@ -405,12 +485,36 @@
       "source": "Bankier.pl"
     },
     {
+      "id": "https://biznes.pap.pl/wiadomosci/firmy/ryvu-spodziewa-sie-wynikow-z-kolejnej-grupy-pacjentow-w-badaniu-jaspis-01-w-pol-27",
+      "url": "https://biznes.pap.pl/wiadomosci/firmy/ryvu-spodziewa-sie-wynikow-z-kolejnej-grupy-pacjentow-w-badaniu-jaspis-01-w-pol-27",
+      "title": "Ryvu spodziewa się wyników z kolejnej grupy pacjentów w badaniu JASPIS-01 w poł. '27 (wywiad)",
+      "content_html": "Ryvu Therapeutics spodziewa się wyników z kolejnej grupy pacjentów w badaniu JASPIS-01 w połowie 2027 r., a w III kw. decyzji Menarini w sprawie dalszego rozwoju projektu – poinformował PAP Biznes prezes Paweł Przewięźlikowski. Pierwsze dane kliniczne dotyczące dapolsertibu w monoterapii spółka zaprezentuje w grudniu na konferencji ASH.\n\n\"W grudniu przedstawimy szczegółowe wyniki tego badania, pokażemy jakie grupy pacjentów odpowiedziały, w jaki sposób potencjalnie można dalej rozwijać dapolsertib w chłoniakach. Aktualną dynamikę po stronie naszego partnera oceniamy jako sprzyjającą. Na podstawie danych, które pokażemy na ASH Menarini podjęło decyzję o zwiększeniu rekrutacji w badaniu JASPIS-01. Miały one również na pewno wpływ na decyzję o uruchomieniu drugiego badania dapolsertibu – wkrótce planujemy podać lek pierwszemu pacjentowi w ramach zorientowanego na leczenie mielofibrozy badania SPHENE-01\" – powiedział prezes.\n\n\"Tym samym z projektu zawieszonego, dapolsertib stał się w ostatnim czasie projektem rozpoznającym skuteczność równolegle w dwóch nowych wskazaniach, zapewniając nam bieżące przychody i dając szanse na płatności z tytułu kamieni milowych” – dodał.\n\nWiosną Menarini podjęło decyzję o rekrutowaniu kolejnych kilkunastu pacjentów w badaniu JASPIS-01, by sprawdzić, u jakich grup pacjentów ten lek najlepiej działa i wyniki będą prawdopodobnie dostępne w połowie 2027 r.\n\n\"Wtedy też Menarini podejmie kolejne decyzje w zakresie badania JASPIS-01. Obecnie staramy się ustalić, którzy pacjenci mogą najlepiej reagować. Chłoniaki nieziarnicze to choroba znacznie bardziej heterogeniczna w porównaniu z ostrą białaczką szpikową, jest dużo więcej podtypów” – poinformował Przewięźlikowski.\n\n\"Mamy nadzieję, że w rekrutowanej aktualnie kohorcie pacjentów potwierdzimy pewne sygnały w wybranych rodzajach chłoniaków nieziarniczych i ustalimy w połowie przyszłego roku dalszą strategię badania” – dodał.\n\nDapolsertib (MEN1703, SEL24) to dualny inhibitor kinaz PIM/FLT3 odkryty przez Ryvu i licencjonowany od 2017 r. do firmy Menarini, kiedy spółka otrzymała od Menarini 5 mln USD. Obecnie projekt w całości finansowany jest przez Menarini, a Ryvu – w przypadku jego powodzenia – przysługuje do 100 mln USD w kamieniach milowych i tantiemach. Obecnie trwa badanie kliniczne fazy II JASPIS-01, które rozpoczęło się w marcu 2025 r. Ryvu notuje przychody z tytułu prowadzenia tego badania.\n\nWcześniej badanie prowadzone było w ostrej białaczce szpikowej, gdzie lek wykazał pewną skuteczność, natomiast była ona zbyt mała, by kontynuować badania, więc prace nad projektem zostały zawieszone na jakiś czas i przez ok. dwa lata nie rekrutowano nowych pacjentów. W 2025 r. uruchomione zostało badanie u pacjentów z chłoniakami.\n\nPodczas konferencji Amerykańskiego Towarzystwa Hematologicznego (ASH), trwającej od 12 do 15 grudnia 2026 r. w Nowym Orleanie, spółka zaprezentuje pierwsze dane kliniczne dotyczące dapolsertibu w monoterapii.\n\nW przedstawionym abstrakcie z wynikami badania JASPIS-01 podano, że zaobserwowano aktywność kliniczną dapolsertibu w intensywnie leczonej wcześniej populacji. Na dzień odcięcia danych (18 czerwca 2026 r.) dapolsertib w monoterapii otrzymało 15 pacjentów. U 4 z nich zaobserwowano korzyść kliniczną mimo intensywnego, wcześniejszego leczenia, w tym jedną odpowiedź całkowitą. Profil bezpieczeństwa był możliwy do kontrolowania i nie zaobserwowano nowych sygnałów w tym zakresie.\n\nPrezes jest ostrożny w ocenie dalszych możliwości współpracy z Menarini przed publikacją wyników z badania.\n\n\"W zależności od wyników to Menarini podejmie decyzję w sprawie kontynuacji albo zamknięcia projektu. Dynamikę decyzji, jaką obserwujemy obecnie po stronie naszego partnera, oceniamy jako sprzyjającą” – powiedział prezes.\n\nW opublikowanym w środę komunikacie dyrektor generalna Grupy Menarini Elcin Barker Ergun poinformowała, że zachęcające wstępne wyniki uzyskane u pacjentów wcześniej intensywnie leczonych przemawiają za dalszym rozwojem klinicznym dapo",
+      "date_published": "2026-11-06T13:00:00+01:00",
+      "source": "PAP Biznes"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/firmy/grupa-modivo-otwiera-pierwszy-sklep-shockprice-za-granica",
+      "url": "https://biznes.pap.pl/wiadomosci/firmy/grupa-modivo-otwiera-pierwszy-sklep-shockprice-za-granica",
+      "title": "Grupa Modivo otwiera pierwszy sklep ShockPrice za granicą",
+      "content_html": "Grupa Modivo otwiera w Rumunii pierwszy zagraniczny sklep marki ShockPrice - poinformował Łukasz Stelmach, wiceprezes grupy. Do końca roku spółka chce otworzyć w Polsce i regionie blisko 30 sklepów tego brandu, a w przyszłym roku otwarć ma być ok. 50.\n\nShockPrice, drugi po HalfPrice koncept Modivo w segmencie off-price, zadebiutował na polskim rynku ponad dwa miesiące temu, w drugiej połowie sierpnia.\n\n\"Dziesiąty sklep otwieramy dzisiaj. To jest pierwszy sklep na rynku zagranicznym, w Rumunii\" - powiedział CFO grupy Łukasz Stelmach podczas wideokonferencji.\n\n\"Jeśli chodzi o planowane otwarcia do końca roku, to planujemy jeszcze otworzyć blisko 30 sklepów, natomiast na kolejny rok planujemy otworzyć około 50 sklepów\" - dodał.\n\nZ prezentacji wynika, że poza Polską i Rumunią otwarcia planowane są w Czechach, Słowacji, Bułgarii i na Węgrzech.\n\nJak wskazał Stelmach, ekspansja sieci ma być bardzo rozważna.\n\n\"Za wcześnie, by wyciągać wnioski, ale te pierwsze tygodnie potwierdzają główne założenia dla konceptu ShockPrice, tzn. sprzedaż z metra jest wyraźnie wyższa niż w HalfPrice, konwersja wyraźnie wyższa, wyższa liczba zakupów per paragon i w związku z tym także coraz szybszy cykl rotacji zapasami niż w przypadku HalfPrice\" - powiedział wiceprezes.\n\nDodał, że spółkę czeka jeszcze praca nad produktem brandu, ale pierwsze wyniki operacyjne są obiecujące. (PAP Biznes)",
+      "date_published": "2026-11-06T12:59:00+01:00",
+      "source": "PAP Biznes"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Elektrotim-ma-umowy-z-PGE-Energia-Odnawialna-za-lacznie-331-6-mln-zl-netto-9224933.html",
       "url": "https://www.bankier.pl/wiadomosc/Elektrotim-ma-umowy-z-PGE-Energia-Odnawialna-za-lacznie-331-6-mln-zl-netto-9224933.html",
       "title": "Elektrotim ma umowy z PGE Energia Odnawialna za łącznie 331,6 mln zł netto",
       "content_html": "Elektrotim zawarł umowy z PGE Energia Odnawialna za łącznie 331,6 mln zł netto na dostawę jednostek magazynowych oraz stacji transformatorowych SN/nN dla magazynów energii oraz wykonanie prac instalacyjnych, elektroenergetycznych oraz teleinformatycznych...",
       "date_published": "2026-11-06T12:52:00+01:00",
       "source": "Bankier.pl"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/firmy/elektrotim-ma-umowy-z-pge-energia-odnawialna-za-lacznie-3316-mln-zl-netto",
+      "url": "https://biznes.pap.pl/wiadomosci/firmy/elektrotim-ma-umowy-z-pge-energia-odnawialna-za-lacznie-3316-mln-zl-netto",
+      "title": "Elektrotim ma umowy z PGE Energia Odnawialna za łącznie 331,6 mln zł netto",
+      "content_html": "Elektrotim zawarł umowy z PGE Energia Odnawialna za łącznie 331,6 mln zł netto na dostawę jednostek magazynowych oraz stacji transformatorowych SN/nN dla magazynów energii oraz wykonanie prac instalacyjnych, elektroenergetycznych oraz teleinformatycznych - podał Elektrotim w komunikatach.\n\nJak podano, wartość umowy na dostawę jednostek magazynowych oraz stacji transformatorowych SN/nN dla Magazynów Energii MEE Lotnisko, MEE Ścieki, MEE Wojciechowo, MEE Pelplin wynosi 254,4 mln zł netto. Umowa zostanie zrealizowana do 29 lutego 2028 roku.\n\nWartość umowy na wykonanie prac instalacyjnych, elektroenergetycznych oraz teleinformatycznych z powierzonych jednostek magazynowych oraz Stacji Transformatorowych SN/nN dla Magazynów Energii to 77,2 mln zł netto. Umowa zostanie realizowana do 30 grudnia 2028 roku. (PAP Biznes)",
+      "date_published": "2026-11-06T12:51:00+01:00",
+      "source": "PAP Biznes"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Senat-odwolal-Koteckiego-i-Litwiniuka-z-RPP-Wakatypo-transferze-do-zarzadu-NBP-9224928.html",
@@ -445,6 +549,30 @@
       "source": "Bankier.pl"
     },
     {
+      "id": "https://biznes.pap.pl/wiadomosci/firmy/grupa-modivo-ocenia-ze-poczatek-iv-kw-jest-bardzo-dobry-sprzedazowo",
+      "url": "https://biznes.pap.pl/wiadomosci/firmy/grupa-modivo-ocenia-ze-poczatek-iv-kw-jest-bardzo-dobry-sprzedazowo",
+      "title": "Grupa Modivo ocenia, że początek IV kw. jest bardzo dobry sprzedażowo",
+      "content_html": "Grupa Modivo ocenia, że początek IV kwartału jest bardzo dobry sprzedażowo - poinformował Łukasz Stelmach, wiceprezes grupy.\n\n\"Ten kwartał zaczęliśmy bardzo dobrze, kontynuujemy dobry trend dynamicznej sprzedaży z drugiej połowy października\" - powiedział CFO Łukasz Stelmach podczas wideokonferencji.\n\nJak wskazał, sprzedaż LFL w marce CCC wzrosła w tych pierwszych dniach listopada ponad 40 proc., a w HalfPrice ponad 20 proc., ale - jak zauważył, nie należy wyciągać z tych wyników daleko idących wniosków.\n\nW III kwartale 2026/27, zakończonym 31 października, przychody grupy wzrosły o 11 proc. rdr do 3,199 mld zł. Jak podała grupa, LFL wzrosła o 9 proc. rdr. (w tym Half Price +10 proc., CCC +4 proc.). (PAP Biznes)",
+      "date_published": "2026-11-06T12:40:00+01:00",
+      "source": "PAP Biznes"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/firmy/goldman-sachs-liderem-obrotow-na-rynku-akcji-gpw-w-pazdzierniku-drugi-bank-america",
+      "url": "https://biznes.pap.pl/wiadomosci/firmy/goldman-sachs-liderem-obrotow-na-rynku-akcji-gpw-w-pazdzierniku-drugi-bank-america",
+      "title": "Goldman Sachs liderem obrotów na rynku akcji GPW w październiku, drugi Bank of America",
+      "content_html": "Goldman Sachs w październiku 2026 roku był liderem obrotów na rynku akcji w transakcjach sesyjnych GPW. Na drugim miejscu znalazł się Bank of America Securities - podała GPW na stronie internetowej.\n\nUdział Goldman Sachs w obrotach na rynku akcji w październiku wyniósł 22,67 proc., a Bank of America 11,04 proc.\n\nTrzecie miejsce w zestawieniu najbardziej aktywnych brokerów na rynku transakcji sesyjnych akcjami zajął w październiku BM PKO BP (6,78 proc.), a czwarte Jump (6,56 proc.). Na piątym miejscu, z udziałem na poziomie 6,07 proc., znalazł się JP Morgan Securities.\n\nOd początku 2026 roku liderem obrotów na rynku akcji w transakcjach sesyjnych jest Goldman Sachs (22,96 proc.). Kolejne miejsca zajmują Bank of America Securities (10,05 proc.) i BM PKO BP (8,43 proc.).\n\nNajwiększe obroty na rynku akcji w transakcjach pakietowych na GPW osiągnął w październiku Handlowy (75,53 proc.), a kolejne miejsca należą do BM PKO BP (19,23 proc.) oraz Erste BM (4,91 proc.).\n\nNa rynku obligacji liderem w październiku był BM PKO BP, którego udział w tym segmencie rynku sięgnął 38,55 proc. Kolejne miejsca pod względem udziału w obrotach obligacjami zajęły: BM ING BSK (17,73 proc.) oraz Noble Securities (9,36 proc.).\n\nNa rynku kontraktów terminowych pierwsze miejsce w październiku przypadło BM mBank (15,52 proc.), a kolejne miejsca zajęły Erste (15,32 proc.) oraz HRTEU (13,85 proc.).\n\nNajwiększy udział w obrotach opcjami w październiku należał do Raiffeisen Bank International (24,02 proc.). Drugie miejsce w tym zestawieniu zajął BM PKO BP (23,63 proc.), a trzecie DM BOŚ (16,55 proc.). (PAP Biznes)",
+      "date_published": "2026-11-06T12:38:00+01:00",
+      "source": "PAP Biznes"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/gospodarka/utrzymanie-programu-cpn-obnizyloby-w-27-inflacje-cpi-o-09-pp-dabe-nbp",
+      "url": "https://biznes.pap.pl/wiadomosci/gospodarka/utrzymanie-programu-cpn-obnizyloby-w-27-inflacje-cpi-o-09-pp-dabe-nbp",
+      "title": "Utrzymanie programu CPN obniżyłoby w '27 inflację CPI o 0,9 pp. - DABE NBP",
+      "content_html": "Utrzymanie programu CPN obniżyłoby w 2027 r. inflację CPI o 0,9 pp. - poinformował na konferencji dyrektor Departamentu Badań i Analiz NBP Jacek Kotłowski.\n\n\"Gdyby program CPN został utrzymany to może obniżyć inflację o (...) 0,9 pp. W przyszłym roku inflację mielibyśmy wyraźnie niżej\" - powiedział Kotłowski.\n\nRządowy program wsparcia cen paliw CPN obowiązuje do końca 2026 r. NBP w najnowszej projekcji przyjął wygaśnięcie programu również z końcem 2026 r.",
+      "date_published": "2026-11-06T12:35:00+01:00",
+      "source": "PAP Biznes"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Metsola-w-Sejmie-Mieliscie-racje-ws-Rosji-Zapowiedz-stalego-miejsca-Polski-w-G20-9224897.html",
       "url": "https://www.bankier.pl/wiadomosc/Metsola-w-Sejmie-Mieliscie-racje-ws-Rosji-Zapowiedz-stalego-miejsca-Polski-w-G20-9224897.html",
       "title": "Metsola w Sejmie: Mieliście rację ws. Rosji. Zapowiedź stałego miejsca Polski w G20",
@@ -467,6 +595,14 @@
       "content_html": "Kraft Heinz pozbywa się swoich kultowych marek kawy, w tym słynnej Maxwell House. Transakcja o wartości 650 milionów dolarów to kolejny zwrot w burzliwej historii giganta spożywczego, w którym miliardowe udziały posiada kontrolowany przez Warrena...",
       "date_published": "2026-11-06T12:30:00+01:00",
       "source": "Bankier.pl"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/firmy/grupa-modivo-chce-obnizyc-zapasy-o-ok-1-mld-zl-do-konca-2027-r",
+      "url": "https://biznes.pap.pl/wiadomosci/firmy/grupa-modivo-chce-obnizyc-zapasy-o-ok-1-mld-zl-do-konca-2027-r",
+      "title": "Grupa Modivo chce obniżyć zapasy o ok. 1 mld zł do końca 2027 r.",
+      "content_html": "Grupa Modivo chce obniżyć zapasy o ok. 1 mld zł do końca 2027 r. - poinformował Łukasz Stelmach, wiceprezes grupy.\n\n\"Widzimy potencjał redukcji zapasów w perspektywie najbliższych pięciu kwartałów o 1 mld zł. Ten poziom będzie nieznacznie fluktuował w związku z pewną sezonowością, natomiast na koniec IV kwartału 2027 chcielibyśmy zredukować poziom zapasu między 20 proc. a 30 proc., co złoży się na redukcję o około 1 mld zł\" - powiedział CFO Łukasz Stelmach podczas wideokonferencji.\n\nJak powiedział, będzie to efekt większego udziału marek własnych i licencyjnych w zapasach, stabilizacji inwestycji w marki licencyjne, racjonalizacji budżetów zakupowych w formatach full-price, redukcji produktów sezonowych, wspólnego magazyny dla kanałów full-price.\n\nZapasy w szyldach CCC i Modivo.com obniżyły się w III kw. łącznie o 300 mln zł rdr (spadek o 11 proc. rdr). (PAP Biznes)",
+      "date_published": "2026-11-06T12:29:00+01:00",
+      "source": "PAP Biznes"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Protest-w-handlu-tuz-przed-swietami-W-tych-sklepach-moze-byc-trudniej-zrobic-zakupy-9224894.html",
@@ -525,14 +661,6 @@
       "source": "Bankier.pl"
     },
     {
-      "id": "https://biznes.pap.pl/wiadomosci/firmy/arctic-paper-w-27-planuje-ok-80-mln-zl-capexu-nie-szuka-okazji-akwizycyjnych",
-      "url": "https://biznes.pap.pl/wiadomosci/firmy/arctic-paper-w-27-planuje-ok-80-mln-zl-capexu-nie-szuka-okazji-akwizycyjnych",
-      "title": "Arctic Paper w '27 planuje ok. 80 mln zł CAPEXU; nie szuka okazji akwizycyjnych",
-      "content_html": "Arctic Paper w 2027 r. chce ograniczyć wydatki inwestycyjne do ok. 80 mln zł, w porównaniu do ok. 100 mln zł planowanych na 2026 r. - poinformował podczas wideokonferencji prezes Michał Jarczyński. Grupa nie zamierza wykorzystywać trudnej sytuacji rynkowej, by szukać okazji akwizycyjnych.\n\n\"Będziemy starali się utrzymywać rentowność, czyli wydajemy tylko tyle, ile zarabiamy, natomiast nie będziemy finansować działalności bieżącej, nie będziemy finansować ryzykownych projektów, zadłużając firmę. Wydatki inwestycyjne w tym roku były bardzo niewielkie, będzie to poziom poniżej 100 mln zł. Myślę, że w 2027 r. poziom będzie nawet jeszcze mniejszy, spodziewam się, że to będzie poziom o 20-25 proc. mniejszy niż amortyzacja, więc będzie to raczej bliżej 80 mln zł\" - powiedział prezes.\n\n\"Będziemy starali się bardzo mocno ograniczać. Wydajemy pieniądze na to, co przyniesie nam rzeczywiste, wymierne korzyści w krótkim okresie. Mam tutaj na myśli okres maksymalnie dwóch lat lub takiej sytuacji, kiedy coś się zepsuje i musimy to wymienić\" - dodał.\n\nW prezentacji podano, że ograniczone zostają nowe projekty, a grupa koncentruje się na dokończeniu projektów rozpoczętych w 2025 r. (BIO25 w APG, kocioł elektrodowy w APK, oczyszczalnia w APM).\n\nPo trzech kwartałach 2026 r. nakłady inwestycyjne wyniosły blisko 86 mln zł.\n\nArctic Paper odnotował w III kwartale 2026 roku EBITDA na poziomie 9,7 mln zł. W tym okresie przychody wyniosły 736,6 mln zł. Arctic Paper odnotował 28,9 mln zł straty operacyjnej i 16,1 mln zł straty netto w segmencie papieru. Konsensus zakładał 16,8 mln zł straty operacyjnej i 15,5 mln zł straty netto.\n\nPrezes w czwartym kwartale nie spodziewa się istotnego ożywienia gospodarczego czy ożywienia w branży.\n\n\"(...) Jest to kwartał, który składa się tak naprawdę z 2,5 miesiąca roboczego, a te ostatnie dwa tygodnie grudnia, to jest raczej okres świąteczny, podsumowania, spotkań wigilijnych, a nie robienia biznesu. Spodziewam się, że czwarty kwartał nie będzie istotnie różnił się od poprzedniego kwartału\" - ocenił.\n\nNa rynku nadal widoczna jest bardzo silna presja na marże.\n\n\"Jest silna konkurencja, walka cenowa na poszczególnych rynkach, szczególnie na tym największym rynku w Europie, czyli rynku niemieckim (...). Jestem często zaskoczony, widząc na przetargach organizowanych przez dużych wydawców czy duże drukarnie, po jakich cenach nasi konkurenci są skłonni zaproponować dostawę papieru, bo moim zdaniem, jest to w przypadku niektórych z nich poniżej nawet kosztów zmiennych\" - dodał Jarczyński.\n\nPrezes poinformował, że na rynku widoczna jest chęć wychodzenia z inwestorów z inwestycji w branżę.\n\n\"Firmy, które są wystawione na sprzedaż, chcą być utrzymywane przy życiu, licząc na to, że ktoś będzie w stanie zainwestować, nawet zakładając ujemną cenę za transakcję\" - powiedział.\n\nWyjaśnił, że w niektórych krajach można pociągnąć akcjonariuszy do odpowiedzialności np. za szkody środowiskowe.\n\n\"W niektórych przypadkach, niektórym inwestorom, tutaj mam na myśli w szczególności inwestorom finansowym, bo oni nie mają czasu bawić się w długie procedury likwidacyjno-upadłościowe, taniej jest po prostu zamknąć projekt z ujemną rentownością i szukać innego projektu. Zdarzają się więc takie przypadki, że ktoś jest w stanie zaoferować sprzedaż, nawet do niej dokładając, żeby mieć problem z głowy\" - powiedział Jarczyński.\n\nArctic Paper nie zamierza korzystać z tej sytuacji, by np. dokonywać akwizycji.\n\n\"My raczej skupiamy się na tym, jak efektywnie zarządzać tym, co mamy. Natomiast na pewno nie jestem zainteresowany szukaniem okazji\" - dodał prezes.\n\nGrupa nie planuje zmian w sposobach finansowania.\n\n\"Układ (finansowania - przyp. PAP) przez konsorcja bankowe chcielibyśmy kontynuować. Zwłaszcza, (...) że nie mamy jakichś specjalnie wielkich apetytów ani na jakieś wielkie inwestycje na najbliższy rok, dwa, trzy, ani nie mamy apetytów na akwizycje. W związku z tym, raczej staramy się najbardziej efektywnie wykorzystywać te zasoby, które mamy\" - ",
-      "date_published": "2026-11-06T11:57:00+01:00",
-      "source": "PAP Biznes"
-    },
-    {
       "id": "https://www.bankier.pl/wiadomosc/Dwa-tankowce-stanely-w-ogniu-w-Ciesninie-Ormuz-Statki-wplynely-na-miny-morskie-9224866.html",
       "url": "https://www.bankier.pl/wiadomosc/Dwa-tankowce-stanely-w-ogniu-w-Ciesninie-Ormuz-Statki-wplynely-na-miny-morskie-9224866.html",
       "title": "Dwa tankowce stanęły w ogniu w cieśninie Ormuz. Statki wpłynęły na miny",
@@ -549,28 +677,12 @@
       "source": "Bankier.pl"
     },
     {
-      "id": "https://biznes.pap.pl/wiadomosci/rynki/dzien-na-rynkach-indeksy-w-europie-spadaja-po-wyprzedazy-w-usa",
-      "url": "https://biznes.pap.pl/wiadomosci/rynki/dzien-na-rynkach-indeksy-w-europie-spadaja-po-wyprzedazy-w-usa",
-      "title": "DZIEŃ NA RYNKACH: Indeksy w Europie spadają po wyprzedaży w USA",
-      "content_html": "Giełdy w Europie zniżkują, a kontrakty w USA notują częściowe odbicie po silnej wyprzedaży w czwartek. Inwestorzy oceniają sytuację w branży sztucznej inteligencji wobec obaw o przyszłość centrów danych po wygranej Demokratów w wyborach środka kadencji w USA.\n\nW Europie indeks Euro Stoxx 50 spada o 1,4 proc., niemiecki DAX idzie w dół o 2,05 proc., francuski CAC 40 zniżkuje o 1,6 proc., a brytyjski FTSE 100 spada o 1,89 proc.\n\nBenchmarkowy indeks Europe Stoxx 600 zniżkuje o 1,61 proc.\n\nKontrakty na indeksy w USA są w przedziale od -0,8 proc. do +1,3 proc.\n\nObawy, że Kongres USA zdominowany przez Demokratów mógłby doprowadzić do ograniczenia wydatków na centra danych obsługujące sztuczną inteligencję, dołączyły do niepokojów związanych ze słabymi stopami zwrotu, zawyżonymi wycenami oraz inwestycjami finansowanymi długiem. W Teksasie, gubernatorka-elekt Gina Hinojosa wezwała do natychmiastowego wstrzymania budowy centrów danych.\n\n\"Rozbudowa infrastruktury na potrzeby AI odpowiada za znaczną część wzrostu gospodarczego w USA, nie tylko w wymiarze budownictwa, produkcji czy dostaw niezbędnych komponentów, ale także dlatego, że wyceny spółek wzrosły tak bardzo, iż wpłynęło to na postrzeganie własnego majątku przez Amerykanów\" – powiedziała Susannah Streeter, główna strateg inwestycyjna w Wealth Club.\n\n\"Jeśli portfele akcji zaczną tracić na wartości, negatywnie odbije się to na nastrojach konsumentów” – dodała Streeter, przewidując, że zmienność na rynkach utrzyma się co najmniej do stycznia, kiedy to może pojawić się większa jasność co do podejścia Demokratów do polityki wobec AI.\n\nSpółki technologiczne miały trudności z odrobieniem strat po wcześniejszych spadkach w piątek.\n\nAkcje Siltronic zyskują 1 proc., a ASMI rosną o 1,5 proc. w warunkach dużej zmienności. Z kolei producent sprzętu dla sektora AI, Siemens Energy zyskuje 1 proc.\n\nMimo wyprzedaży, indeks STOXX 600 spadł w tym tygodniu relatywnie mniej niż jego odpowiedniki w Azji czy na Wall Street, co wynika z mniejszego udziału spółek związanych z AI w europejskim indeksie.\n\nNajwiększe spadki odnotowały sektory mediów, opieki zdrowotnej oraz dóbr osobistych i gospodarstwa domowego, każdy z nich stracił ponad 2 proc. Pokazuje to, że nawet sektory tradycyjnie uznawane za \"bezpieczne przystanie” nie były odporne na panikę na rynkach akcji.\n\nAkcje Teleperformance spadają o 16,5 proc. po tym, jak firma obniżyła prognozę wzrostu przychodów na cały rok.\n\nJasnym punktem były spółki z sektora czystej energii. Zyskały one dzięki oczekiwaniom, że zwycięstwo Demokratów w USA może złagodzić presję regulacyjną wobec tej branży, a także dzięki dobrym wynikom finansowym. Akcje Orsted rosną o 1,5 proc., a Nordex o 0,5 proc.\n\nAkcje linii lotniczych zyskały również dzięki oczekiwaniom, że niedawna porażka Partii Republikańskiej prezydenta Donalda Trumpa może przyspieszyć dążenia do zakończenia konfliktu na Bliskim Wschodzie.\n\nNotowania IAG, właściciela British Airways, rosną o 1,5 proc. mimo prognoz wskazujących na nieco mniejsze moce przewozowe w skali roku. Akcje Lufthansy oraz Air France-KLM zyskują odpowiednio 2 proc. i 5 proc.\n\nW piątek amerykański Urząd Statystyki Pracy USA opublikuje dane o zatrudnieniu w sektorach pozarolniczych za październik. Według konsensusu prognoz Dow Jones, ekonomiści spodziewają się wzrostu liczby miejsc pracy o 59 tys., co stanowiłoby wynik wyższy od wrześniowego przyrostu, który wyniósł 29 tys.\n\nW czwartek akcje na Wall Street gwałtownie spadły, niwelując wcześniejsze zyski po wyborach parlamentarnych w USA.\n\nDow Jones Industrial na zamknięciu spadł o 3,44 proc., czyli o 1833 punkty i wyniósł 51.523,06 pkt. Indeks stracił cały wzrost, jaki osiągnął w środę w reakcji na wyniki wyborów do amerykańskiego Kongresu. S&P 500 na koniec dnia stracił 4,36 proc. i wyniósł 7.353,73 pkt. Spółki z indeksu S&P 500 straciły 3 biliony dolarów kapitalizacji.\n\nNasdaq Composite zniżkował o 5,52 proc. do 24.315,0 pkt. Indeks wszedł w strefę korekty, notując ponad 10 proc. spadku ",
-      "date_published": "2026-11-06T11:49:00+01:00",
-      "source": "PAP Biznes"
-    },
-    {
       "id": "https://www.bankier.pl/wiadomosc/Organizacje-zwiazkowe-PKP-Cargo-wzywaja-do-zawarcia-ZUZP-oraz-wyplaty-swiadczen-9224854.html",
       "url": "https://www.bankier.pl/wiadomosc/Organizacje-zwiazkowe-PKP-Cargo-wzywaja-do-zawarcia-ZUZP-oraz-wyplaty-swiadczen-9224854.html",
       "title": "Organizacje związkowe PKP Cargo wzywają do zawarcia ZUZP oraz wypłaty świadczeń",
       "content_html": "Organizacje związkowe w PKP Cargo protestują przeciwko brakowi dialogu ze strony zarządu w obliczu postępowania sankcyjnego i wzywają do zawarcia Zakładowego Układu Zbiorowego Pracy (ZUZP) oraz wypłaty zaległych świadczeń socjalnych - wynika...",
       "date_published": "2026-11-06T11:48:00+01:00",
       "source": "Bankier.pl"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/firmy/organizacje-zwiazkowe-pkp-cargo-wzywaja-do-zawarcia-zuzp-oraz-wyplaty-swiadczen",
-      "url": "https://biznes.pap.pl/wiadomosci/firmy/organizacje-zwiazkowe-pkp-cargo-wzywaja-do-zawarcia-zuzp-oraz-wyplaty-swiadczen",
-      "title": "Organizacje związkowe PKP Cargo wzywają do zawarcia ZUZP oraz wypłaty świadczeń",
-      "content_html": "Organizacje związkowe w PKP Cargo protestują przeciwko brakowi dialogu ze strony zarządu w obliczu postępowania sankcyjnego i wzywają do zawarcia Zakładowego Układu Zbiorowego Pracy (ZUZP) oraz wypłaty zaległych świadczeń socjalnych - wynika z listu związków zawodowych do zarządcy masy sanacyjnej PKP Cargo.\n\n\"Żądamy sfinalizowania i podpisania dokumentu, do którego rokowania zakończono pod koniec czerwca tego roku. Dalszą zwłokę oraz brak zgody na podpisanie wynegocjowanego przez obie strony układu zbiorowego pracy traktujemy jako celowe działanie na szkodę stabilności zatrudnienia, oraz rażące naruszenie zasad dialogu społecznego\" - napisano.\n\nDodano, że brak stabilnego otoczenia prawnego w postaci ZUZP potęguje chaos organizacyjny i godzi w fundamentalne bezpieczeństwo socjalne załogi.\n\n\"Oczekujemy odblokowania kwoty ok. 20 mln zł z Zakładowego Funduszu Świadczeń Socjalnych (ZFSS) na zaległe wypłaty z tytułu poprawnie złożonych wniosków pracowniczych w latach 2024-2026. Środki gromadzone na ZFŚS mają charakter celowy i nie mogą służyć finansowaniu bieżącej działalności operacyjnej kosztem uprawnień socjalnych pracowników i ich rodzin\" - napisano.\n\nOrganizacje związkowe poinformowały, że nie przyjmują argumentacji o braku możliwości finansowych do wdrożenia postulatów.\n\n\"Oficjalne dane spółki za I półrocze wskazują na zysk netto Grupy PKP Cargo w wysokości 117,8 mln zł oraz dodatkowe 26,4 mln zł netto z licytacji 106 lokomotyw. Środki te w pierwszej kolejności muszą zabezpieczyć prawa socjalne i pracownicze załogi, która po redukcji ponad 7 tysięcy etatów pracuje pod ogromną presją\" - napisano.\n\nW liście wskazano, że w przypadku dalszego ignorowania strony społecznej, niezawarcia ZUZP oraz braku porozumienia w sprawie uregulowania wskazanych zaległości ZFŚS, zakładowe organizacje związkowe podejmą przewidziane działania statutowe w obronie interesów pracowników spółki. (PAP Biznes)",
-      "date_published": "2026-11-06T11:46:00+01:00",
-      "source": "PAP Biznes"
     },
     {
       "id": "https://biznes.pap.pl/wiadomosci/firmy/dzien-na-gpw-wig20-spada-m-przez-znizki-orlenu-i-dino-modivo-zyskuje-66-proc",
@@ -685,6 +797,14 @@
       "source": "Bankier.pl"
     },
     {
+      "id": "https://biznes.pap.pl/wiadomosci/gospodarka/prezydent-powolal-kightley-litwiniuka-koteckiego-i-zarzeckiego-do-zarzadu-nbp",
+      "url": "https://biznes.pap.pl/wiadomosci/gospodarka/prezydent-powolal-kightley-litwiniuka-koteckiego-i-zarzeckiego-do-zarzadu-nbp",
+      "title": "Prezydent powołał Kightley, Litwiniuka, Koteckiego i Zarzeckiego do zarządu NBP - Leśkiewicz",
+      "content_html": "Prezydent Karol Nawrocki powołał do zarządu NBP Martę Kightley, Przemysława Litwiniuka, Ludwika Koteckiego i Marcina Zarzeckiego - poinformował w piątek w mediach społecznościowych rzecznik prasowy pr",
+      "date_published": "2026-11-06T10:13:00+01:00",
+      "source": "PAP Biznes"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Panika-na-rynkach-ale-zloty-sie-trzyma-Kurs-euro-ponizej-tegorocznego-szczytu-9224789.html",
       "url": "https://www.bankier.pl/wiadomosc/Panika-na-rynkach-ale-zloty-sie-trzyma-Kurs-euro-ponizej-tegorocznego-szczytu-9224789.html",
       "title": "Panika na rynkach, ale złoty się trzyma. Kurs euro poniżej tegorocznego szczytu",
@@ -693,12 +813,36 @@
       "source": "Bankier.pl"
     },
     {
+      "id": "https://biznes.pap.pl/wiadomosci/firmy/odsetek-bykow-na-gpw-wzrosl-do-441-proc-spadkow-oczekuje-373-proc-ini",
+      "url": "https://biznes.pap.pl/wiadomosci/firmy/odsetek-bykow-na-gpw-wzrosl-do-441-proc-spadkow-oczekuje-373-proc-ini",
+      "title": "Odsetek \"byków\" na GPW wzrósł do 44,1 proc., spadków oczekuje 37,3 proc. - INI",
+      "content_html": "Odsetek inwestorów spodziewających się w ciągu sześciu miesięcy trendu wzrostowego na GPW wzrósł o 6,8 pkt. proc. i wyniósł 44,1 proc. Odsetek respondentów oczekujących trendu spadkowego wzrósł o 3,4 ",
+      "date_published": "2026-11-06T10:02:00+01:00",
+      "source": "PAP Biznes"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Tym-beda-zyly-rynki-inflacyjny-test-dla-USA-i-prawda-o-polskim-PKB-9224737.html",
       "url": "https://www.bankier.pl/wiadomosc/Tym-beda-zyly-rynki-inflacyjny-test-dla-USA-i-prawda-o-polskim-PKB-9224737.html",
       "title": "Tym będą żyły rynki: inflacyjny test dla USA i prawda o polskim PKB",
       "content_html": "Drugi tydzień listopada przyniesie inwestorom przede wszystkim kluczowe odczyty inflacyjne ze Stanów Zjednoczonych, które będą kształtować rynkowe oczekiwania wobec dalszej ścieżki stóp procentowych Fed. Z perspektywy krajowego rynku najważniejszy...",
       "date_published": "2026-11-06T10:00:00+01:00",
       "source": "Bankier.pl"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/firmy/w-pazdzierniku-trzeci-miesiac-wzrostow-cen-wegla-na-swiatowych-rynkach-arp",
+      "url": "https://biznes.pap.pl/wiadomosci/firmy/w-pazdzierniku-trzeci-miesiac-wzrostow-cen-wegla-na-swiatowych-rynkach-arp",
+      "title": "W październiku trzeci miesiąc wzrostów cen węgla na światowych rynkach - ARP",
+      "content_html": "Na międzynarodowym rynku węgla w październiku ceny rosły ceny trzeci miesiąc z rzędu - wynika z opracowania Agencji Rozwoju Przemysłu (ARP).",
+      "date_published": "2026-11-06T09:53:00+01:00",
+      "source": "PAP Biznes"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/gospodarka/w-ciagu-10-dni-rzad-przedstawi-rozwiazania-zw-z-sytuacja-na-rynku-gazu-0",
+      "url": "https://biznes.pap.pl/wiadomosci/gospodarka/w-ciagu-10-dni-rzad-przedstawi-rozwiazania-zw-z-sytuacja-na-rynku-gazu-0",
+      "title": "W ciągu 10 dni rząd przedstawi rozwiązania zw. z sytuacją na rynku gazu – Domański (aktl.)",
+      "content_html": "W ciągu 10 dni rząd przedstawi rozwiązania w związku z sytuacją na rynku gazu – poinformował w TVN24 minister finansów i gospodarki Andrzej Domański. Minister energii Miłosz Motyka wskazał w rozmowie ",
+      "date_published": "2026-11-06T09:51:00+01:00",
+      "source": "PAP Biznes"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Kurs-Orlenu-spada-o-3-7-proc-przy-wysokich-obrotach-WIG20-znizkuje-o-1-3-proc-9224766.html",
@@ -717,28 +861,20 @@
       "source": "Bankier.pl"
     },
     {
+      "id": "https://biznes.pap.pl/wiadomosci/firmy/kurs-orlenu-spada-o-37-proc-przy-wysokich-obrotach-wig20-znizkuje-o-13-proc",
+      "url": "https://biznes.pap.pl/wiadomosci/firmy/kurs-orlenu-spada-o-37-proc-przy-wysokich-obrotach-wig20-znizkuje-o-13-proc",
+      "title": "Kurs Orlenu spada o 3,7 proc. przy wysokich obrotach; WIG20 zniżkuje o 1,3 proc.",
+      "content_html": "Kurs akcji Orlenu spada o 3,7 proc. do 135,6 zł, przy wysokich obrotach. Spółka jest najsłabsza w indeksie WIG20, który zniżkuje o 1,3 proc.",
+      "date_published": "2026-11-06T09:37:00+01:00",
+      "source": "PAP Biznes"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/W-2027-roku-ceny-znowu-pojda-w-gore-NBP-ujawnil-najnowsza-projekcje-inflacji-9224738.html",
       "url": "https://www.bankier.pl/wiadomosc/W-2027-roku-ceny-znowu-pojda-w-gore-NBP-ujawnil-najnowsza-projekcje-inflacji-9224738.html",
       "title": "W 2027 roku ceny znowu pójdą w górę. NBP ujawnił najnowszą projekcję inflacji",
       "content_html": "Centralna ścieżka projekcji NBP zakłada CPI w 2026 r. na poziomie 3,1 proc., w 2027 r. na poziomie 4,2 proc., a w 2028 r. na poziomie 2,8 proc. - podano w listopadowej projekcji NBP. Zgodnie z projekcją, inflacja CPI znajdzie się w celu NBP na poziomie...",
       "date_published": "2026-11-06T09:36:00+01:00",
       "source": "Bankier.pl"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/gospodarka/projekcja-nbp-zaklada-wzrost-pkb-w-2027-r-na-poziomie-28-proc-i-w-2028-r-na-0",
-      "url": "https://biznes.pap.pl/wiadomosci/gospodarka/projekcja-nbp-zaklada-wzrost-pkb-w-2027-r-na-poziomie-28-proc-i-w-2028-r-na-0",
-      "title": "Projekcja NBP zakłada wzrost PKB w 2027 r. na poziomie 2,8 proc. i w 2028 r. na poziomie 2,8 proc. (opis)",
-      "content_html": "Centralna ścieżka projekcji NBP zakłada wzrost PKB w 2026 r. na poziomie 3,6 proc., w 2027 r. na poziomie 2,8 proc. i w 2028 r. na poziomie 2,8 proc. - podano w listopadowej projekcji NBP.\n\nProjekcja zakłada, że w poszczególnych kwartałach 2027 r. wzrost PKB Polski wyniesie odpowiednio: 3,2 proc. w I kw., 2,9 proc. w II kw., 2,7 proc. w III kw. oraz 2,5 proc. w IV kw.\n\nZ kolei w 2028 r. wzrost PKB będzie kształtował się następująco: 2,8 proc. w I kw., 2,7 proc. w II kw., 2,9 proc. w III kw. oraz 2,8 proc. w IV kw.\n\n\"Dane o PKB za II kw. 2026 r. – lepsze od założeń projekcji lipcowej – wskazują na wysoką dotychczasową odporność gospodarki Polski na negatywny szok podażowy na rykach surowców energetycznych. W warunkach nieco wyraźniejszej niż zakładano w projekcji lipcowej poprawy koniunktury w sektorze przemysłowym w strefie euro, powyżej oczekiwań z poprzedniej rundy prognostycznej ukształtował się w II kw. br. krajowy wkład eksportu netto do wzrostu PKB (+0,5 pkt. proc.)\" - napisano w raporcie NBP.\n\n\"Jest to wynik korzystny jak na tę fazę cyklu koniunkturalnego, a także w obliczu utrzymującej się konkurencji ze strony dostawców z Chin\" - dodano.\n\nW projekcji listopadowej założono, że wzrost presji kosztowej w krajowej gospodarce przyczyni się do obniżenia dynamiki spożycia prywatnego oraz – w mniejszym stopniu – inwestycji w latach 2027-2028 w porównaniu do poprzedniej rundy prognostycznej.\n\n\"Ze względu jednak na wpływ lepszego od oczekiwań odczytu PKB w II kw. br., średnie tempo wzrostu gospodarczego w horyzoncie projekcji będzie zbliżone do oczekiwań z projekcji lipcowej\" - dodano.\n\nPoprzednia, lipcowa projekcja NBP zakładała, że wzrost PKB w 2026 r. na poziomie 3,7 proc., w 2027 r. na poziomie 2,8 proc., a w 2028 r. na poziomie 3,0 proc.\n\nNajnowsza, listopadowa projekcja inflacji i PKB została sporządzona z uwzględnieniem danych dostępnych do 15 października 2026 r. (PAP Biznes)",
-      "date_published": "2026-11-06T09:22:00+01:00",
-      "source": "PAP Biznes"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/gospodarka/dzien-na-fxfi-w-piatek-pln-pozostanie-pod-dominujacym-wplywem-czynnikow",
-      "url": "https://biznes.pap.pl/wiadomosci/gospodarka/dzien-na-fxfi-w-piatek-pln-pozostanie-pod-dominujacym-wplywem-czynnikow",
-      "title": "DZIEŃ NA FX/FI: W piątek PLN pozostanie pod dominującym wpływem czynników globalnych",
-      "content_html": "W piątek złoty pozostanie pod dominującym wpływem czynników globalnych; kursy EUR/PLN i USD/PLN powinny utrzymać się w zakresach zmienności z obecnego tygodnia - oceniają w porannych raportach ekonomiści.\n\n\"W piątek złoty pozostanie pod dominującym wpływem czynników globalnych, a ich zestaw raczej się nie zmieni. Istotny będzie globalny apetyt na ryzyko kształtowany przez dalsze zachowanie akcji spółek technologicznych, ale i perspektywy polityki pieniężnej głównych banków centralnych, na co wpływają m. in. ceny surowców energetycznych\" - napisano w raporcie PKO BP.\n\n\"Nie zakładamy, by miesięczne dane z amerykańskiego rynku pracy, zwłaszcza przy odczytach zbliżonych do konsensusu, istotnie wpłynęły na rynkowe nastroje. O poranku nie widać poprawy sentymentu na rynkach akcji, a ceny ropy kontynuują, w naszej opinii, korekcyjne odbicie\" - dodano.\n\nW takim otoczeniu ekonomiści PKO BP zakładają, że kursy EUR/PLN i USD/PLN pozostaną w zakresach zmienności z obecnego tygodnia, z ryzykiem podejścia bliżej ich górnych ograniczeń.\n\nNa krajowym rynku stopy procentowej czwartkowa konferencja prasowa prezesa NBP A. Glapińskiego przyniosła podwyższoną zmienność wycen instrumentów pochodnych.\n\n\"W naszym scenariuszu bazowym zakładaliśmy, że rynek będzie systematycznie wycofywał się z wyceniania podwyżek stóp procentowych w przyszłym roku i ten proces właśnie następuje. Krzywa IRS w sektorach powyżej 2 lat spadła o 5-10 pb, do czego przyczyniły się głównie impulsy płynące z rynków bazowych. Po ostatnich dostosowaniach notowania dotarły do poziomów, które prognozowaliśmy w perspektywie końca 2026 r.\" - wskazują ekonomiści PKO BP.\n\n\"Nie wykluczamy, że w krótkim horyzoncie rentowności mogą jeszcze nieznacznie spaść, choć przestrzeń do kontynuacji tego ruchu powoli się wyczerpuje\" - dodają.\n\nPodczas piątkowej sesji uwaga inwestorów skoncentrowana będzie na sytuacji wokół Zatoki Perskiej.\n\n\"Pod koniec czwartkowej sesji ceny ropy ponownie wzrosły, co sugeruje, że nastroje na globalnym rynku długu mogą zostać schłodzone. Poza czynnikami geopolitycznymi uczestnicy rynku bacznie obserwować będą dane z amerykańskiego rynku pracy. Oczekiwana niska kreacja nowych miejsc pracy powinna teoretycznie ograniczać oczekiwania na podwyżki stóp procentowych przez Fed\" - wskazują ekonomiści PKO BP.\n\nEkonomiści Banku Millennium oceniają, że nie można wykluczyć spadku rentowności na krótkim końcu krzywej.\n\n\"Rentowności obligacji bazowych spadły jedynie nieznacznie, ze względu na nieco wyższe ceny surowców energetycznych. W związku z tym rentowność polskiej 10-latki podczas dzisiejszej sesji może pozostać w okolicach 6,10-6,15 proc.\" - napisano w raporcie.\n\n\"Niewykluczony jest natomiast spadek dochodowości krótszych obligacji ze względu na złagodzenie oczekiwań dotyczących podwyżek stóp procentowych, zarówno w Polsce, jak i w głównych gospodarkach. W drugiej połowie sesji zmienność na rynku krajowym może podbijać raport z amerykańskiego rynku pracy\" - dodano.",
-      "date_published": "2026-11-06T09:21:00+01:00",
-      "source": "PAP Biznes"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Inwestorzy-zostawiaja-zyski-w-Polsce-Nowych-pieniedzy-jednak-brakuje-9224665.html",
@@ -749,28 +885,12 @@
       "source": "Bankier.pl"
     },
     {
-      "id": "https://biznes.pap.pl/wiadomosci/gospodarka/centralna-sciezka-projekcji-nbp-zaklada-cpi-w-2027-r-na-poziomie-42-proc-i-0",
-      "url": "https://biznes.pap.pl/wiadomosci/gospodarka/centralna-sciezka-projekcji-nbp-zaklada-cpi-w-2027-r-na-poziomie-42-proc-i-0",
-      "title": "Centralna ścieżka projekcji NBP zakłada CPI w 2027 r. na poziomie 4,2 proc. i w 2028 r. 2,8 proc. (opis)",
-      "content_html": "Centralna ścieżka projekcji NBP zakłada CPI w 2026 r. na poziomie 3,1 proc., w 2027 r. na poziomie 4,2 proc., a w 2028 r. na poziomie 2,8 proc. - podano w listopadowej projekcji NBP. Zgodnie z projekcją, inflacja CPI znajdzie się w celu NBP na poziomie 2,5 proc. w III kw. 2028 r.\n\nWedług najnowszej projekcji NBP, wskaźnik CPI wyniesie w poszczególnych kwartałach 2027 r. odpowiednio: 4,6 proc. w I kw., 4,6 proc. w II kw., 4,0 proc. w III kw. oraz 3,8 proc. w IV kw.\n\nZ kolei w 2028 r. inflacja CPI wyniesie odpowiednio: 3,4 proc. w I kw., 3,0 proc. w II kw., 2,5 proc. w III kw. oraz 2,3 proc. w IV kw.\n\nCentralna ścieżka inflacji bazowej w najnowszej projekcji to w 2026 r. 3,0 proc., w 2027 r. 3,3 proc., w 2028 r. 2,8 proc.\n\n\"Od zamknięcia projekcji lipcowej ceny surowców energetycznych i rolnych na rynkach światowych ponownie wzrosły. Uwarunkowania te skutkują nie tylko wyraźnie szybszym wzrostem krajowych cen energii w latach 2026-2027, ale przekładają się również z opóźnieniem na wyższą ścieżkę inflacji bazowej i cen żywności\" - napisano w raporcie.\n\n\"W ostatnim roku projekcji, przy obniżających się cenach surowców energetycznych, skala rewizji inflacji CPI względem projekcji lipcowej będzie mniejsza. Oczekiwana ścieżka krajowego tempa wzrostu gospodarczego w latach 2026-2028 jest natomiast zbliżona do oczekiwań z poprzedniej rundy prognostycznej\" - dodano.\n\nNBP wskazuje, że ponowny wzrost napięć w konflikcie pomiędzy Stanami Zjednoczonymi i Izraelem a Iranem, jak również uszkodzenia infrastruktury energetycznej w Arabii Saudyjskiej oraz Rosji, przełożyły się na wzrost notowań ropy naftowej i produktów ropopochodnych na światowych rynkach.\n\n\"Jednocześnie ograniczenia w eksporcie gazu ziemnego z krajów Zatoki Perskiej oraz niskie zapasy tego surowca w Europie wpłynęły na wzrost jego notowań, a w ślad za nimi zwiększyły się ceny węgla kamiennego\" - napisano.\n\nAutorzy raportu wskazują, że w warunkach podwyższonej inflacji, w III kw. br. Rezerwa Federalna Stanów Zjednoczonych oraz Europejski Bank Centralny podniosły stopy procentowe, co w połączeniu ze wzrostem premii za ryzyko oddziaływało w kierunku osłabienia złotego.\n\n\"W konsekwencji w drugiej połowie 2026 r. krajowe ceny energii kształtują się wyraźnie powyżej założeń projekcji lipcowej. Bieżące wyceny kontraktów terminowych wskazują, że ceny surowców energetycznych będą przewyższać poziomy z poprzedniej rundy prognostycznej również w latach 2027-2028\" - napisano.\n\n\"Różnica pomiędzy ścieżkami cen surowców w projekcji listopadowej i lipcowej będzie jednak od I kw. 2027 r. ulegać stopniowemu zawężaniu. W rezultacie, o ile w 2027 r. dynamika cen energii będzie istotnie przewyższać oczekiwania z projekcji lipcowej, to w 2028 r. skala rewizji będzie mniejsza\" - dodano.\n\nW ocenie NBP, wzrost kosztów produkcji rolnej, w tym nawozów, w następstwie ponownej eskalacji napięć geopolitycznych będzie z opóźnieniem oddziaływać w kierunku wyższych cen żywności, podnosząc ich dynamikę w latach 2027-2028.\n\n\"W tych latach powyżej projekcji lipcowej kształtuje się również inflacja bazowa. Jest to wynikiem rozłożonego w czasie wpływu na koszty przedsiębiorstw wyższych cen energii oraz szybciej rosnących wynagrodzeń, które z opóźnieniem reagują na wzrost kosztów utrzymania gospodarstw domowych\" - napisano w raporcie.\n\nW licowej projekcji NBP zakłada CPI w 2026 r. na poziomie 2,9 proc., w 2027 r. na poziomie 2,7 proc., a w 2028 r. na poziomie 2,2 proc. W lipcu centralna ścieżka zakładała inflację bazową w 2026 r. na poziomie 3,0 proc., w 2027 r. na poziomie 3,0 proc., a w 2028 r. na poziomie 2,4 proc.\n\nNajnowsza, listopadowa projekcja inflacji i PKB została sporządzona z uwzględnieniem danych dostępnych do 15 października 2026 r. (PAP Biznes)",
-      "date_published": "2026-11-06T09:19:00+01:00",
-      "source": "PAP Biznes"
-    },
-    {
       "id": "https://www.bankier.pl/wiadomosc/Kurs-Modivo-rosnie-o-5-9-proc-przy-spadku-WIG20-o-1-3-proc-9224751.html",
       "url": "https://www.bankier.pl/wiadomosc/Kurs-Modivo-rosnie-o-5-9-proc-przy-spadku-WIG20-o-1-3-proc-9224751.html",
       "title": "Kurs Modivo rośnie o 5,9 proc. przy spadku WIG20 o 1,3 proc.",
       "content_html": "Kurs Modivo rośnie o 5,9 proc. do 102,9 zł, podczas gdy WIG20 spada o 1,3 proc. Spółka notuje najwyższe obroty na rynku.",
       "date_published": "2026-11-06T09:18:00+01:00",
       "source": "Bankier.pl"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/gospodarka/bilans-czynnikow-niepewnosci-w-projekcji-nbp-w-gore-dla-cpi-w-28-0",
-      "url": "https://biznes.pap.pl/wiadomosci/gospodarka/bilans-czynnikow-niepewnosci-w-projekcji-nbp-w-gore-dla-cpi-w-28-0",
-      "title": "Bilans czynników niepewności w projekcji NBP w górę dla CPI w '28, symetryczny ogółem dla PKB (opis)",
-      "content_html": "Bilans czynników niepewności jest zbliżony do symetrycznego dla dynamiki PKB, przy przewadze ryzyk w górę dla inflacji CPI w 2028 r. - wynika z listopadowej projekcji inflacji i PKB sporządzonej przez NBP. W projekcji nie założono wejścia w życie systemu EU ETS2.\n\n\"W bieżącej rundzie prognostycznej główne ryzyko dla projekcji stanowi dalszy przebieg konfliktu zbrojnego na Bliskim Wschodzie i jego wpływ na kształt ścieżki inflacji CPI w Polsce. Ważnym źródłem niepewności dla dynamiki krajowych cen stanowi planowane wejście w życie w 2028 r. nowego systemu handlu emisjami CO2 (EU ETS2). Bilans czynników niepewności jest zbliżony do symetrycznego dla dynamiki PKB, przy przewadze ryzyk w górę dla inflacji CPI w 2028 r.\" - napisano.\n\nWedług projekcji, w 2028 r. inflacja CPI obniży się, do czego przyczyni się wygasanie presji kosztowej w ślad za wskazywaną przez notowania kontraktów terminowych normalizacją sytuacji na światowych rynkach surowców, oraz oddziałująca coraz silniej na ceny obniżona presja popytowa powiązana ze spowolnieniem aktywności gospodarczej.\n\nW konsekwencji w ujęciu średniorocznym inflacja CPI obniży się z 4,2 proc. w 2027 r. do 2,8 proc. w ostatnim roku projekcji.\n\nIstotnym – choć obarczonym dużą niepewnością – czynnikiem, który może mieć potencjalnie bardzo duży wpływ na ścieżkę cen energii i inflacji CPI w 2028 r., jest planowane rozszerzenie systemu handlu emisjami CO2 w państwach członkowskich UE na nowe sektory, tj. transport drogowy i budownictwo (EU ETS2).\n\nZgodnie z dyrektywą Parlamentu Europejskiego i Rady (UE), sprzedawcy gazu, benzyny, węgla oraz innych paliw będą zobowiązani do zakupu uprawnień do emisji CO2 w liczbie odpowiadającej emisjom związanym ze sprzedawanymi przez nich paliwami.\n\n\"Koszt zakupu uprawnień będzie zatem stanowił dodatkowy składnik kosztu dostarczania paliw, który może zostać przeniesiony na ich ceny dla odbiorców końcowych. Nie wiadomo jeszcze, jak będą kształtować się ceny tych uprawnień w 2028 r., przy czym przewidziano mechanizm ograniczania ich wzrostu, jeśli cena przekroczy 45 EUR/tonę (w cenach z 2020 r. indeksowanych wskaźnikiem HICP)\" - podaje NBP.\n\nGdyby założyć ich pełne przełożenie na ceny paliw, wówczas wzrost kosztów o każde 10 zł za tonę emisji CO2 przyczyniłby się, według wyliczeń NBP, do bezpośredniego podniesienia inflacji CPI o 0,06 pp.\n\n\"Dotychczas Polska, jak i wiele innych państw UE, nie wdrożyła do krajowego porządku prawnego przepisów unijnych związanych z systemem EU ETS2. Wciąż jednak pojawiają się postulaty dalszego przesunięcia w czasie implementacji nowego systemu. W związku z powyższym w bieżącej projekcji nie uwzględniono w ścieżce centralnej skutków wejścia w życie systemu EU ETS2, które tym samym stanowi ryzyko w górę dla ukształtowania się inflacji CPI w 2028 r.\" - dodano.\n\nProjekcja zakłada, że przyszłe ceny ropy naftowej, gazu ziemnego oraz nawozów i surowców rolnych na globalnych rynkach będą podlegać podwyższonej zmienności.\n\nNBP podaje, że dzięki większej dywersyfikacji źródeł energii, polska gospodarka jest obecnie lepiej przygotowana do absorpcji skutków szoku podażowego związanego z trwającą wojną na Bliskim Wschodzie niż w 2022 r., tj. po rosyjskiej inwazji na Ukrainę.\n\n\"Zdolność tę ogranicza jednak mniejsza niż wówczas przestrzeń fiskalna związana z podwyższonym obecnie poziomem deficytu krajowego sektora finansów publicznych\" - dodano.\n\nWśród innych ryzyk NBP wskazuje, że w przypadku szybszego niż założono w scenariuszu bazowym wygasania podwyższonej obecnie inflacji na świecie, możliwa jest poprawa perspektyw na ożywienie koniunktury w Polsce i jej otoczeniu.\n\nMaterializacja ryzyka silniejszej eskalacji konfliktu, powodująca obniżenie popytu zewnętrznego, a w konsekwencji polskiego eksportu, może natomiast doprowadzić do spowolnienia tempa wzrostu gospodarki krajowej poniżej ścieżki centralnej projekcji przy wyższej krajowej inflacji.\n\nWażnym ryzykiem z otoczenia polskiej gospodarki jest również zakres działań protekcjonistycznych w ",
-      "date_published": "2026-11-06T09:17:00+01:00",
-      "source": "PAP Biznes"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Ceny-miedzi-spadaja-Na-rynkach-odczuwalne-pogorszenie-nastrojow-9224743.html",
@@ -781,76 +901,12 @@
       "source": "Bankier.pl"
     },
     {
-      "id": "https://biznes.pap.pl/wiadomosci/firmy/kurs-modivo-rosnie-o-59-proc-przy-spadku-wig20-o-13-proc",
-      "url": "https://biznes.pap.pl/wiadomosci/firmy/kurs-modivo-rosnie-o-59-proc-przy-spadku-wig20-o-13-proc",
-      "title": "Kurs Modivo rośnie o 5,9 proc. przy spadku WIG20 o 1,3 proc.",
-      "content_html": "Kurs Modivo rośnie o 5,9 proc. do 102,9 zł, podczas gdy WIG20 spada o 1,3 proc. Spółka notuje najwyższe obroty na rynku.\n\nObroty na akcjach Modivo wynoszą 18,8 mln zł, podczas gdy obroty na akcjach wszystkich spółek notowanych w WIG20 wynoszą 111,8 mln zł.\n\nGrupa Modivo wstępnie szacuje, że w trzecim kwartale roku obrotowego 2026/27 miała 372 mln zł zysku EBITDA i 450 mln zł skorygowanego zysku EBITDA. Konsensus PAP Biznes przewidywał 380,1 mln zł zysku EBITDA. (PAP Biznes)",
-      "date_published": "2026-11-06T09:16:00+01:00",
-      "source": "PAP Biznes"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/rynki/ceny-miedzi-na-lme-spadaja-na-rynkach-pogorszenie-nastrojow",
-      "url": "https://biznes.pap.pl/wiadomosci/rynki/ceny-miedzi-na-lme-spadaja-na-rynkach-pogorszenie-nastrojow",
-      "title": "Ceny miedzi na LME spadają; na rynkach pogorszenie nastrojów",
-      "content_html": "Cena miedzi w dostawach 3-miesięcznych na Londyńskiej Giełdzie Metali (LME) spada o 0,95 proc. do 13.669 USD za tonę. Wyprzedaż akcji spółek technologicznych nasiliła obawy o popyt na miedź, a przejęcie kontroli nad Kongresem USA przez Demokratów może zablokować możliwość ceł importowych na miedź.\n\nNa Comex w Nowym Jorku miedź zniżkuje o 0,82 proc. i kosztuje 6,2190 USD za funt.\n\nCeny miedzi spadły do najniższego poziomu od lipca, ponieważ zmiany polityczne w Waszyngtonie zagroziły osłabieniem dwóch kluczowych czynników wzrostowych: rozbudowy infrastruktury na potrzeby AI i ryzyka nałożenia przez USA ceł importowych na miedź.\n\nMetale przemysłowe stały się częścią szerszego trendu ucieczki od ryzyka, który pojawił się po tym, jak Demokraci przejęli kontrolę nad Kongresem USA po zwycięstwie w wyborach połówkowych we wtorek. Akcje spółek technologicznych tracą na wartości w obliczu obaw o zaostrzenie regulacji dotyczących sztucznej inteligencji.\n\nZwycięstwo Demokratów, napędzane niepokojem społecznym związanym z wysokimi kosztami życia, wywołało również nowe spekulacje na temat prawdopodobieństwa rozszerzenia amerykańskich ceł importowych na miedź. Perspektywa wprowadzenia takich opłat utrzymywała dotąd wyższe ceny tego metalu w USA i prowadziła do zacieśnienia globalnego rynku, przyciągając ogromne ilości surowca do amerykańskich magazynów. W tym tygodniu różnica w cenach zaczęła jednak maleć.\n\n\"Wielu inwestorów uważa, że w sytuacji, gdy Partia Demokratyczna będzie kontrolować Kongres USA, wprowadzenie agresywnych ceł na miedź jest mniej prawdopodobne. Kwestia kosztów utrzymania może bowiem stać się 'piętą achillesową' obecnie rządzącej partii w perspektywie wyborów w 2028 r” – napisano w raporcie TD Securities.\n\nRyzyko spowolnienia w sektorze AI lub brak wprowadzenia ceł były już wcześniej sygnalizowane przez wielu analityków, a prognozy dotyczące miedzi w ostatnich miesiącach pozostawały raczej ostrożne. W najgorszym dla rynku miedzi scenariuszu, jeśli administracja Trumpa jednoznacznie wykluczy nałożenie ceł importowych, może dojść do odpływu surowca z powrotem do sieci magazynowej LME.\n\n\"Oczekiwania rynkowe wskazują na przeszkody dla polityki fiskalnej administracji Trumpa, spowolnienie inwestycji technologicznych związanych z AI, zaostrzenie płynności między różnymi klasami aktywów oraz jednoczesny odpływ kapitału zarówno z akcji spółek technologicznych, jak i metali nieżelaznych” – napisali analitycy Chaos Ternary Futures.\n\nMimo wahań cen kontraktów terminowych, na fizycznym rynku miedzi wciąż utrzymują się obszary ograniczonej podaży. W piątek premie za miedź na rynku krajowym w Chinach wzrosły do najwyższego poziomu od 2015 roku, przekraczając 2.500 juanów (375 dolarów) za tonę, podczas gdy premie za import wzrosły do 217,50 juanów za tonę.\n\nNa zakończenie poprzedniej sesji miedź na LME zniżkowała o 168 USD i kosztowała 13.844 USD za tonę. (PAP Biznes)",
-      "date_published": "2026-11-06T09:15:00+01:00",
-      "source": "PAP Biznes"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/gospodarka/projekcja-nbp-zaklada-inflacje-bazowa-srednio-w-2027-r-33-proc-w-2028-r-28-0",
-      "url": "https://biznes.pap.pl/wiadomosci/gospodarka/projekcja-nbp-zaklada-inflacje-bazowa-srednio-w-2027-r-33-proc-w-2028-r-28-0",
-      "title": "Projekcja NBP zakłada inflację bazową średnio w 2027 r. 3,3 proc., a w 2028 r. 2,8 proc. (opis)",
-      "content_html": "Projekcja NBP zakłada inflację bazową średnio w 2027 r. na poziomie 3,3 proc., a w 2028 r. 2,8 proc. - wynika z listopadowej projekcji inflacji i PKB NBP.\n\n\"Wybuch konfliktu na Bliskim Wschodzie i związane z nim wzrosty notowań surowców energetycznych w mniejszym stopniu przekładają się na przyspieszenie inflacji bazowej na przestrzeni 2026 r. Wyraźniejsze wzrosty obejmują ceny turystyki zorganizowanej oraz usług transportowych, w tym biletów lotniczych. W 2027 r. oczekuje się, że inflacja bazowa ukształtuje się na poziomie 3,3 proc., powyżej poziomu dla 2026 r. Zakłada się, że na poziom tych cen coraz silniej będzie przekładać się presja kosztowa wynikająca ze wzrostu cen surowców energetycznych oraz zaburzeń w globalnych sieciach dostaw\" - napisano.\n\n\"Przełożenie to będzie jednak słabsze niż po rosyjskiej agresji na Ukrainę ze względu na niższą obecnie skalę szoku oraz słabszą pozycję cykliczną polskiej gospodarki ograniczającą przyzwolenie dla podwyżek cen. Jednocześnie inflację bazową w 2027 r. w ujęciu rdr nie będą już tak silnie podnosić ceny usług rynkowych w zakresie turystyki zorganizowanej i transportu. W kierunku jej obniżenia będzie również oddziaływał niższy niż przed rokiem wzrost akcyzy na wyroby tytoniowe\" - dodano. (PAP Biznes)",
-      "date_published": "2026-11-06T09:05:00+01:00",
-      "source": "PAP Biznes"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/gospodarka/centralna-sciezka-projekcji-nbp-zaklada-cpi-w-2027-r-na-poziomie-42-proc-i-w",
-      "url": "https://biznes.pap.pl/wiadomosci/gospodarka/centralna-sciezka-projekcji-nbp-zaklada-cpi-w-2027-r-na-poziomie-42-proc-i-w",
-      "title": "Centralna ścieżka projekcji NBP zakłada CPI w 2027 r. na poziomie 4,2 proc. i w 2028 r. na poziomie 2,8 proc.",
-      "content_html": "Centralna ścieżka projekcji NBP zakłada CPI w 2026 r. na poziomie 3,1 proc., w 2027 r. na poziomie 4,2 proc., a w 2028 r. na poziomie 2,8 proc. - podano w listopadowej projekcji NBP.\n\nCentralna ścieżka inflacji bazowej w projekcji to w 2026 r. 3,0 proc., w 2027 r. 3,3 proc., w 2028 r. 2,8 proc.\n\n\"Od zamknięcia projekcji lipcowej ceny surowców energetycznych i rolnych na rynkach światowych ponownie wzrosły. Uwarunkowania te skutkują nie tylko wyraźnie szybszym wzrostem krajowych cen energii w latach 2026-2027, ale przekładają się również z opóźnieniem na wyższą ścieżkę inflacji bazowej i cen żywności\" - napisano w raporcie.\n\n\"W ostatnim roku projekcji, przy obniżających się cenach surowców energetycznych, skala rewizji inflacji CPI względem projekcji lipcowej będzie mniejsza. Oczekiwana ścieżka krajowego tempa wzrostu gospodarczego w latach 2026-2028 jest natomiast zbliżona do oczekiwań z poprzedniej rundy prognostycznej\" - dodano.\n\nNBP wskazuje, że ponowny wzrost napięć w konflikcie pomiędzy Stanami Zjednoczonymi i Izraelem a Iranem, jak również uszkodzenia infrastruktury energetycznej w Arabii Saudyjskiej oraz Rosji, przełożyły się na wzrost notowań ropy naftowej i produktów ropopochodnych na światowych rynkach.\n\n\"Jednocześnie ograniczenia w eksporcie gazu ziemnego z krajów Zatoki Perskiej oraz niskie zapasy tego surowca w Europie wpłynęły na wzrost jego notowań, a w ślad za nimi zwiększyły się ceny węgla kamiennego\" - napisano.\n\nAutorzy raportu wskazują, że w warunkach podwyższonej inflacji, w III kw. br. Rezerwa Federalna Stanów Zjednoczonych oraz Europejski Bank Centralny podniosły stopy procentowe, co w połączeniu ze wzrostem premii za ryzyko oddziaływało w kierunku osłabienia złotego.\n\n\"W konsekwencji w drugiej połowie 2026 r. krajowe ceny energii kształtują się wyraźnie powyżej założeń projekcji lipcowej. Bieżące wyceny kontraktów terminowych wskazują, że ceny surowców energetycznych będą przewyższać poziomy z poprzedniej rundy prognostycznej również w latach 2027-2028\" - napisano.\n\n\"Różnica pomiędzy ścieżkami cen surowców w projekcji listopadowej i lipcowej będzie jednak od I kw. 2027 r. ulegać stopniowemu zawężaniu. W rezultacie, o ile w 2027 r. dynamika cen energii będzie istotnie przewyższać oczekiwania z projekcji lipcowej, to w 2028 r. skala rewizji będzie mniejsza\" - dodano.\n\nW ocenie NBP, wzrost kosztów produkcji rolnej, w tym nawozów, w następstwie ponownej eskalacji napięć geopolitycznych będzie z opóźnieniem oddziaływać w kierunku wyższych cen żywności, podnosząc ich dynamikę w latach 2027-2028.\n\n\"W tych latach powyżej projekcji lipcowej kształtuje się również inflacja bazowa. Jest to wynikiem rozłożonego w czasie wpływu na koszty przedsiębiorstw wyższych cen energii oraz szybciej rosnących wynagrodzeń, które z opóźnieniem reagują na wzrost kosztów utrzymania gospodarstw domowych\" - napisano w raporcie.\n\nProjekcja inflacji i PKB została sporządzona z uwzględnieniem danych dostępnych do 15 października 2026 r. (PAP Biznes)",
-      "date_published": "2026-11-06T09:03:00+01:00",
-      "source": "PAP Biznes"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/gospodarka/w-latach-2027-28-wraz-ze-spadkiem-wykorzystania-funduszy-ue-dynamika",
-      "url": "https://biznes.pap.pl/wiadomosci/gospodarka/w-latach-2027-28-wraz-ze-spadkiem-wykorzystania-funduszy-ue-dynamika",
-      "title": "W latach 2027-28, wraz ze spadkiem wykorzystania funduszy UE, dynamika inwestycji obniży się - projekcja NBP",
-      "content_html": "W latach 2027-2028, wraz ze spadkiem wykorzystania funduszy UE, dynamika inwestycji obniży się do odpowiednio 1,5 proc. i 2,6 proc. rocznie z 7,2 proc. w 2026 r. wynika z listopadowej projekcji inflacji i PKB NBP.\n\n\"Ścieżka inwestycji w horyzoncie projekcji będzie w znacznym stopniu warunkowana zmianami skali wykorzystania funduszy UE. Kulminacja absorpcji środków unijnych w ramach programu KPO przyczynia się do przyspieszenia dynamiki nakładów brutto na środki trwałe w 2026 r. do poziomu wyraźnie przewyższającego tempo wzrostu PKB. W latach 2027-2028, wraz ze spadkiem wykorzystania funduszy UE, dynamika inwestycji obniży się\" - napisano.\n\nNegatywnie na nakłady na środki trwałe przedsiębiorstw będzie w najbliższych kwartałach dodatkowo wpływać wzrost cen surowców energetycznych zwiększający koszty działalności firm.\n\n\"Realizacja projektów wieloletnich, częściowo finansowanych środkami UE, przyczyni się jednak do utrzymania stopy inwestycji w latach 2026-2028 powyżej poziomu z okresu 2024-2025. W szczególności w horyzoncie projekcji planowany jest wzrost wydatków związanych z transformacją energetyczną polskiej gospodarki, budową nowego lotniska oraz infrastruktury kolejowej. W najbliższych latach ścieżkę inwestycji będą podnosić również wysokie wydatki przeznaczone na zakup sprzętu wojskowego\" - dodano. (PAP Biznes)",
-      "date_published": "2026-11-06T09:01:00+01:00",
-      "source": "PAP Biznes"
-    },
-    {
       "id": "https://www.bankier.pl/wiadomosc/Spor-o-reset-konstytucyjny-Zurek-ostrzega-przed-niebezpiecznym-precedensem-9224722.html",
       "url": "https://www.bankier.pl/wiadomosc/Spor-o-reset-konstytucyjny-Zurek-ostrzega-przed-niebezpiecznym-precedensem-9224722.html",
       "title": "Spór o reset konstytucyjny. Żurek ostrzega przed niebezpiecznym precedensem",
       "content_html": "Jeżeli politycy uznają, że dla jakichś wyższych wartości należy coś resetować, to proszę bardzo - mówił w piątek szef MS, prokurator generalny Waldemar Żurek. Jego zdaniem jednak jest to „bardzo niebezpieczny precedens”, bo „za chwilę...",
       "date_published": "2026-11-06T09:00:00+01:00",
       "source": "Bankier.pl"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/gospodarka/luka-popytowa-w-latach-2027-28-przy-oslabieniu-dynamiki-pkb-obnizy-sie",
-      "url": "https://biznes.pap.pl/wiadomosci/gospodarka/luka-popytowa-w-latach-2027-28-przy-oslabieniu-dynamiki-pkb-obnizy-sie",
-      "title": "Luka popytowa w latach 2027-28, przy osłabieniu dynamiki PKB, obniży się poniżej zera - projekcja NBP",
-      "content_html": "W latach 2027-2028, w ślad za osłabieniem dynamiki PKB, presja popytowa w polskiej gospodarce będzie maleć, a odzwierciedlająca ją luka popytowa obniży się poniżej zera, co będzie oddziaływać w kierunku zmniejszenia presji inflacyjnej w polskiej gospodarce - wynika z listopadowej projekcji inflacji i PKB NBP.\n\n\"Przy wzroście w 2026 r. krajowej aktywności ekonomicznej w tempie przewyższającym dynamikę potencjalnego PKB, luka popytowa zwiększy się i ukształtuje na nieznacznie dodatnim poziomie. W latach 2027-2028, w ślad za osłabieniem dynamiki PKB, presja popytowa będzie maleć, a odzwierciedlająca ją luka popytowa obniży się poniżej zera. Będzie ona więc oddziaływać w kierunku zmniejszenia presji inflacyjnej w polskiej gospodarce\" - napisano.\n\nWg projekcji produkt potencjalny Polski w latach 2026-2028 będzie rósł średnio w tempie 3,1 proc. rdr, nieznacznie poniżej średniej wieloletniej.\n\nPozytywnie na potencjał krajowej gospodarki będzie oddziaływać rozłożony w czasie wpływ relatywnie szybkiego wzrostu inwestycji w latach 2025-2026, podwyższających dynamikę kapitału produkcyjnego.\n\nWsparciem dla wzrostu potencjalnego PKB w horyzoncie projekcji będzie również założony napływ nowych migrantów.\n\n\"Zasób obcokrajowców jest przy tym w coraz większym stopniu uwzględniany w badaniu BAEL, oddziałując dodatnio na raportowaną ścieżkę liczby aktywnych zawodowo. Napływ migrantów ogranicza negatywne skutki zmian w strukturze ludności Polski odzwierciedlonych w spadku populacji w wieku 25-44 lata, o najwyższej aktywności zawodowej, któremu towarzyszy rosnąca liczebność grup charakteryzujących się niższą stopą aktywności\" - dodano.\n\nW horyzoncie projekcji dynamikę produktu potencjalnego zacznie podwyższać również wykorzystanie technologii sztucznej inteligencji (AI) przez polskie firmy, sprzyjające wzrostowi łącznej wydajności czynników produkcji (TFP). (PAP Biznes)",
-      "date_published": "2026-11-06T09:00:00+01:00",
-      "source": "PAP Biznes"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/gospodarka/projekcja-nbp-zaklada-inflacje-bazowa-srednio-w-2027-r-33-proc-w-2028-r-28",
-      "url": "https://biznes.pap.pl/wiadomosci/gospodarka/projekcja-nbp-zaklada-inflacje-bazowa-srednio-w-2027-r-33-proc-w-2028-r-28",
-      "title": "Projekcja NBP zakłada inflację bazową średnio w 2027 r. 3,3 proc., a w 2028 r. 2,8 proc.",
-      "content_html": "Projekcja NBP zakłada inflację bazową średnio w 2027 r. 3,3 proc., a w 2028 r. 2,8 proc. - wynika z listopadowej projekcji inflacji i PKB NBP.",
-      "date_published": "2026-11-06T09:00:00+01:00",
-      "source": "PAP Biznes"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/gospodarka/projekcja-nbp-zaklada-wzrost-pkb-w-2027-r-na-poziomie-28-proc-i-w-2028-r-na",
-      "url": "https://biznes.pap.pl/wiadomosci/gospodarka/projekcja-nbp-zaklada-wzrost-pkb-w-2027-r-na-poziomie-28-proc-i-w-2028-r-na",
-      "title": "Projekcja NBP zakłada wzrost PKB w 2027 r. na poziomie 2,8 proc. i w 2028 r. na poziomie 2,8 proc.",
-      "content_html": "Centralna ścieżka projekcji NBP zakłada wzrost PKB w 2026 r. na poziomie 3,6 proc., w 2027 r. na poziomie 2,8 proc. i w 2028 r. na poziomie 2,8 proc. - podano w listopadowej projekcji NBP.",
-      "date_published": "2026-11-06T09:00:00+01:00",
-      "source": "PAP Biznes"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Ropa-odbija-po-tapnieciu-Brent-blisko-100-USD-Rynki-waza-ryzyko-eskalacji-z-Iranem-9224719.html",
@@ -1034,30 +1090,6 @@
       "title": "Koniec bezkarności w sieci? Kary do 6 proc. globalnego obrotu za łamanie praw użytkowników",
       "content_html": "W piątek weszła w życie nowelizacja ustawy, która umożliwia Prezesowi UKE m.in. rozpatrywanie skarg Polaków na platformy internetowe oraz prowadzenie kontroli i nakładanie kar na firmy, które łamią przepisy unijnego aktu o usługach cyfrowych...",
       "date_published": "2026-11-06T06:50:00+01:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Trump-zapowiada-koniec-wojny-w-Ukrainie-Porozumienie-ma-objac-cala-Europe-9224612.html",
-      "url": "https://www.bankier.pl/wiadomosc/Trump-zapowiada-koniec-wojny-w-Ukrainie-Porozumienie-ma-objac-cala-Europe-9224612.html",
-      "title": "Trump zapowiada koniec wojny w Ukrainie. Porozumienie ma objąć całą Europę",
-      "content_html": "Prezydent USA Donald Trump poinformował w czwartek, że spotkał się z wysłannikiem Kremla Kiriłłem Dmitrijewem. Amerykański przywódca ponownie przekonywał, że zakończenie wojny w Ukrainie jest blisko. Dodał, że porozumienie może dotyczyć...",
-      "date_published": "2026-11-06T06:45:00+01:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Gubernator-Kalifornii-ulaskawil-548-skazanych-na-smierc-Historyczna-decyzja-9224584.html",
-      "url": "https://www.bankier.pl/wiadomosc/Gubernator-Kalifornii-ulaskawil-548-skazanych-na-smierc-Historyczna-decyzja-9224584.html",
-      "title": "Gubernator Kalifornii ułaskawił 548 skazanych na śmierć. Historyczna decyzja",
-      "content_html": "Gubernator Kalifornii Gavin Newsom poinformował w czwartek, że podjął decyzję o oszczędzeniu życia wszystkim 548 więźniom skazanym w tym stanie na karę śmierci. Demokratyczny polityk niedługo kończy kadencję i może ubiegać się o prezydenturę...",
-      "date_published": "2026-11-06T06:40:00+01:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Tusk-czeka-na-SMS-od-Nawrockiego-Chodzi-o-spotkanie-w-cztery-oczy-9224592.html",
-      "url": "https://www.bankier.pl/wiadomosc/Tusk-czeka-na-SMS-od-Nawrockiego-Chodzi-o-spotkanie-w-cztery-oczy-9224592.html",
-      "title": "Tusk czeka na SMS od Nawrockiego. Chodzi o spotkanie w cztery oczy",
-      "content_html": "Premier Donald Tusk wyraził w czwartek nadzieję, że w tym tygodniu dojdzie do spotkania z prezydentem Karolem Nawrockim. Czekam na informację, na sms, tak się umówiliśmy - powiedział wieczorem w Sejmie dziennikarzom szef rządu.",
-      "date_published": "2026-11-06T06:40:00+01:00",
       "source": "Bankier.pl"
     },
     {
