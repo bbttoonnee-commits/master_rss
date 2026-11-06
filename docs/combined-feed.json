@@ -5,6 +5,14 @@
   "home_page_url": "https://www.bankier.pl",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/Mial-byc-calkowity-zakaz-reklamy-alkoholu-Senat-zrobil-wylom-9225006.html",
+      "url": "https://www.bankier.pl/wiadomosc/Mial-byc-calkowity-zakaz-reklamy-alkoholu-Senat-zrobil-wylom-9225006.html",
+      "title": "Miał być całkowity zakaz reklamy alkoholu. Senat zrobił wyłom",
+      "content_html": "Senat opowiedział się w piątek za nowelizacją ustawy o wychowaniu w trzeźwości z poprawkami. Mają one m.in. umożliwić reklamę piwa 0 proc. i nocną sprzedaż alkoholu na lotniskach.",
+      "date_published": "2026-11-06T20:00:00+01:00",
+      "source": "Bankier.pl"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Demokraci-biora-pod-lupe-ziecia-Trumpa-Pytaja-o-miliardy-i-tajne-konta-9225316.html",
       "url": "https://www.bankier.pl/wiadomosc/Demokraci-biora-pod-lupe-ziecia-Trumpa-Pytaja-o-miliardy-i-tajne-konta-9225316.html",
       "title": "Demokraci biorą pod lupę zięcia Trumpa. Pytają o miliardy i tajne konta",
@@ -39,7 +47,7 @@
     {
       "id": "https://www.bankier.pl/wiadomosc/Zaskoczyli-Ameryke-Oto-politycy-ktorzy-zapisali-sie-w-historii-tych-wyborow-9225285.html",
       "url": "https://www.bankier.pl/wiadomosc/Zaskoczyli-Ameryke-Oto-politycy-ktorzy-zapisali-sie-w-historii-tych-wyborow-9225285.html",
-      "title": "Trump przegrał, a oni zapisali się w historii. Niezwykłe wyniki wyborów w USA",
+      "title": "Zawiesił kampanię, a i tak wygrał. Oto najbardziej niezwykli zwycięzcy wyborów w USA",
       "content_html": "Tegoroczne wybory połówkowe w USA przyniosły nie tylko polityczne trzęsienie ziemi i zwycięstwo Demokratów, którzy przejęli kontrolę nad obiema izbami Kongresu. Wyłoniły też grupę wyjątkowo interesujących zwycięzców. Jeden zdobył mandat...",
       "date_published": "2026-11-06T19:00:00+01:00",
       "source": "Bankier.pl"
@@ -67,14 +75,6 @@
       "content_html": "Troje urzędników z kierownictwa ministerstwa sprawiedliwości (DOJ) ogłosiło odejście z resortu po przegranych przez partię rządzącą wyborach do Kongresu USA. Zwycięzcy Demokraci zapowiadali śledztwa w sprawie działań prokuratury federalnej...",
       "date_published": "2026-11-06T18:57:00+01:00",
       "source": "Bankier.pl"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/firmy/sad-zatwierdzil-uklad-czesciowy-z-wierzycielami-grupy-azoty-polyolefins",
-      "url": "https://biznes.pap.pl/wiadomosci/firmy/sad-zatwierdzil-uklad-czesciowy-z-wierzycielami-grupy-azoty-polyolefins",
-      "title": "Sąd zatwierdził układ częściowy z wierzycielami Grupy Azoty Polyolefins",
-      "content_html": "Sąd zatwierdził układ częściowy z wierzycielami Grupy Azoty Polyolefins - podała Grupa Azoty w komunikacie prasowym. Wskazano, że decyzja przybliża grupę do rozwiązania kwestii inwestycji Polimery Police, a także otwiera drogę do finalizacji transakcji sprzedaży GA Polyolefins na rzecz Orlenu.\n\n6 listopada 2026 roku Sąd Rejonowy Szczecin-Centrum w Szczecinie, XII Wydział Gospodarczy, wydał postanowienie o zatwierdzeniu układu częściowego GA Polyolefins, przyjętego przez zgromadzenie wierzycieli 27 marca br. Podano, że to kluczowy etap procesu restrukturyzacji rozpoczętego w listopadzie 2025 roku.\n\nRestrukturyzacja zadłużenia i zatwierdzenie układu przez sąd były warunkami przedstawionymi przez grupę Orlen w związku z planowanym przejęciem spółki.\n\n\"Polimery Police stały się symbolem błędnych decyzji inwestycyjnych z przeszłości, których konsekwencje przez lata obciążały całą grupę, ograniczając jej możliwości rozwoju. Dzisiejsza decyzja sądu potwierdza prawidłowość przyjętej ścieżki restrukturyzacyjnej i przybliża nas do uwolnienia Grupy Azoty od jednego z największych ciężarów finansowych. (...) Nie oznacza jednak końca procesu odbudowy. Przed nami kolejne, równie ważne wyzwania\" – powiedział cytowany w komunikacie prasowym Marcin Celejewski, prezes zarządu Grupy Azoty.\n\n31 marca 2026 roku Grupa Azoty podpisała z grupą Orlen przedwstępną umowę sprzedaży akcji GA Polyolefins. Zgodnie z jej założeniami Orlen ma przejąć pełną kontrolę nad spółką oraz zapewnić finansowanie niezbędne do realizacji układu z wierzycielami i uregulowania zobowiązań pozaukładowych. Zatwierdzenie układu przez sąd stanowi istotny krok w kierunku finalizacji transakcji, która pozostaje uzależniona od spełnienia przewidzianych w umowie warunków. (PAP Biznes)",
-      "date_published": "2026-11-06T18:57:00+01:00",
-      "source": "PAP Biznes"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Tusk-ujawnia-kulisy-spotkania-z-Nawrockim-Prezydent-poki-co-sie-wycofal-9225276.html",
@@ -197,11 +197,27 @@
       "source": "PAP Biznes"
     },
     {
-      "id": "https://www.bankier.pl/wiadomosc/Norweski-gigant-stracil-ponad-160-mld-dolarow-Najwiekszy-spadek-od-lat-9225250.html",
-      "url": "https://www.bankier.pl/wiadomosc/Norweski-gigant-stracil-ponad-160-mld-dolarow-Najwiekszy-spadek-od-lat-9225250.html",
-      "title": "Norweski gigant stracił ponad 160 mld dolarów. Największy spadek od lat",
-      "content_html": "Norweski fundusz gazowy stracił na wartości ponad 160 mld dolarów w ciągu ostatnich czterech miesięcy – poinformowały w piątek władze tej instytucji. To największa od lat utrata wartości funduszu, na który trafiają dochody z wydobycia...",
-      "date_published": "2026-11-06T17:42:00+01:00",
+      "id": "https://www.bankier.pl/wiadomosc/Rzad-zaostrza-kontrole-przeplywu-pieniedzy-Sejm-przyjal-nowe-przepisy-9225208.html",
+      "url": "https://www.bankier.pl/wiadomosc/Rzad-zaostrza-kontrole-przeplywu-pieniedzy-Sejm-przyjal-nowe-przepisy-9225208.html",
+      "title": "Rząd zaostrza kontrolę przepływu pieniędzy. Sejm przyjął nowe przepisy",
+      "content_html": "Sejm uchwalił w piątek nowelizację ustawy o przeciwdziałaniu praniu pieniędzy i finansowaniu terroryzmu. Przepisy rozszerzają stosowanie środków ograniczających, zmieniają zasady dostępu do rejestru beneficjentów rzeczywistych i zwiększają...",
+      "date_published": "2026-11-06T17:34:00+01:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/UE-opoznia-przepisy-metanowe-Chodzi-o-import-gazu-i-ropy-9225207.html",
+      "url": "https://www.bankier.pl/wiadomosc/UE-opoznia-przepisy-metanowe-Chodzi-o-import-gazu-i-ropy-9225207.html",
+      "title": "UE opóźnia przepisy metanowe. Chodzi o import gazu i ropy",
+      "content_html": "Państwa UE w piątek uzgodniły stanowisko w sprawie opóźnienia wejścia w życie rozporządzenia metanowego o rok. Ostateczny kształt przepisów zostanie ustalony w negocjacjach z Parlamentem Europejskim, który chce odroczenia o trzy lata.",
+      "date_published": "2026-11-06T17:33:00+01:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Zamieszki-na-budowie-centrum-danych-Microsoftu-Policja-uzyla-gazu-9225197.html",
+      "url": "https://www.bankier.pl/wiadomosc/Zamieszki-na-budowie-centrum-danych-Microsoftu-Policja-uzyla-gazu-9225197.html",
+      "title": "Zamieszki na budowie centrum danych Microsoftu. Policja użyła gazu",
+      "content_html": "Kilkudziesięciu propalestyńskich aktywistów sforsowało w piątek ogrodzenie terenu, na którym powstaje centrum danych Microsoftu w amsterdamskiej dzielnicy Sloterdijk. Doszło do starć z policją, która użyła gazu pieprzowego, funkcjonariusze...",
+      "date_published": "2026-11-06T17:32:00+01:00",
       "source": "Bankier.pl"
     },
     {
@@ -405,6 +421,14 @@
       "source": "Bankier.pl"
     },
     {
+      "id": "https://biznes.pap.pl/wiadomosci/firmy/datawalk-uzyskalo-patent-w-usa",
+      "url": "https://biznes.pap.pl/wiadomosci/firmy/datawalk-uzyskalo-patent-w-usa",
+      "title": "DataWalk uzyskało patent w USA",
+      "content_html": "DataWalk uzyskało potwierdzenie przyznania ochrony patentowej przez United States Patent and Trademark Office na wynalazek pn. \"Systemy i metody całościowego uczenia maszynowego z wykorzystaniem zautomatyzowanego uczenia maszynowego i wyjaśnialnej sztucznej inteligencji\" - podała spółka w komunikacie.\n\n\"Uzyskanie kolejnego patentu w USA jest potwierdzeniem innowacyjności technologii DataWalk na najbardziej konkurencyjnym rynku IT\" - napisano.\n\nWskazano, że patentowanie rozwiązań informatycznych, oprócz zabezpieczenia praw intelektualnych należących do spółki, ma również bardzo praktyczny, a w przypadku rynku amerykańskiego krytyczny aspekt. Uzyskanie patentu pozwala stwierdzić, iż technologia, której właścicielem jest DataWalk, nie narusza praw patentowych innych technologii.\n\n\"To niezwykle istotny krok w kontekście działań sprzedażowych grupy DataWalk w USA\" - napisano. (PAP Biznes)",
+      "date_published": "2026-11-06T16:39:00+01:00",
+      "source": "PAP Biznes"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Technologia-wywiadowcza-dla-polskiej-armii-Kontrowersje-wokol-umowy-z-Palantirem-9225145.html",
       "url": "https://www.bankier.pl/wiadomosc/Technologia-wywiadowcza-dla-polskiej-armii-Kontrowersje-wokol-umowy-z-Palantirem-9225145.html",
       "title": "Technologia wywiadowcza dla polskiej armii? Kontrowersje wokół umowy z Palantirem",
@@ -597,28 +621,12 @@
       "source": "Bankier.pl"
     },
     {
-      "id": "https://biznes.pap.pl/wiadomosci/gospodarka/oficjalne-aktywa-rezerwowe-w-pazdzierniku-wzrosly-do-26636-mld-euro-nbp-aktl",
-      "url": "https://biznes.pap.pl/wiadomosci/gospodarka/oficjalne-aktywa-rezerwowe-w-pazdzierniku-wzrosly-do-26636-mld-euro-nbp-aktl",
-      "title": "Oficjalne aktywa rezerwowe w październiku wzrosły do 266,36 mld euro - NBP (aktl.)",
-      "content_html": "Oficjalne aktywa rezerwowe w październiku wzrosły do 266,36 mld euro z 260,10 mld euro miesiąc wcześniej - podał Narodowy Bank Polski.\n\nPoniżej dane o oficjalnych aktywach rezerwowych (w mln EUR/USD/PLN):",
-      "date_published": "2026-11-06T14:20:00+01:00",
-      "source": "PAP Biznes"
-    },
-    {
       "id": "https://www.bankier.pl/wiadomosc/Jak-NBP-dochodzil-do-zlotego-celu-Czy-NBP-dokupil-kilka-ton-na-poczatku-listopada-9225031.html",
       "url": "https://www.bankier.pl/wiadomosc/Jak-NBP-dochodzil-do-zlotego-celu-Czy-NBP-dokupil-kilka-ton-na-poczatku-listopada-9225031.html",
-      "title": "Jak NBP dochodził do złotego celu. Czy dokupił kilka ton na początku listopada?",
+      "title": "Glapiński ogłosił sukces, ale jest zagadka. Czy NBP dokupił jeszcze kilka ton złota?",
       "content_html": "Narodowy Bank Polski zgromadził już 700 ton złota, realizując cel postanowiony w styczniu – stwierdził w czwartek prezes NBP Adam Glapiński. Jednak z szacunków Bankier.pl wynika, że jeszcze 30 października kilku ton jeszcze mogło brakować...",
       "date_published": "2026-11-06T14:19:00+01:00",
       "source": "Bankier.pl"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/gospodarka/oficjalne-aktywa-rezerwowe-w-pazdzierniku-wzrosly-do-26636-mld-euro-nbp",
-      "url": "https://biznes.pap.pl/wiadomosci/gospodarka/oficjalne-aktywa-rezerwowe-w-pazdzierniku-wzrosly-do-26636-mld-euro-nbp",
-      "title": "Oficjalne aktywa rezerwowe w październiku wzrosły do 266,36 mld euro - NBP",
-      "content_html": "Oficjalne aktywa rezerwowe w październiku wzrosły do 266,36 mld euro z 260,10 mld euro miesiąc wcześniej - podał Narodowy Bank Polski. (PAP Biznes)\n\nSzybkie narastanie relacji długu publicznego do PKB rodzi ryzyka dla stabilności makroekonomicznej i finansowej, potęgowane przez utrzymujące się napięcia geopolityczne oraz niepewność na globalnych rynkach papierów skarbowych, które mogą oddziaływać w kierunku pogorszenia się warunków finansowania potrzeb pożyczkowych - napisała Rada Polityki Pieniężnej w swojej opinii do projektu ustawy budżetowej.\n\nOficjalne aktywa rezerwowe w październiku wzrosły do 266,36 mld euro z 260,10 mld euro miesiąc wcześniej - podał Narodowy Bank Polski.\n\nW październiku Rada Polityki Pieniężnej oceniała, że wraz z wygaśnięciem działań osłonowych dotyczących cen paliw na początku 2027 r. możliwy jest istotny wzrost inflacji - podano w opisie dyskusji z październikowego posiedzenia Rady.\n\nInflacyjne efekty II rundy w Polsce na razie są niewielkie albo prawie niewidoczne, ale im dłużej będzie trwać szok energetyczny, tym większe prawdopodobieństwo ich zaistnienia w gospodarce - poinformował na konferencji dyrektor Departamentu Badań i Analiz NBP Jacek Kotłowski.\n\ntel. (+48 22) 509 22 25dystrybucja@pap.pl",
-      "date_published": "2026-11-06T14:14:00+01:00",
-      "source": "PAP Biznes"
     },
     {
       "id": "https://biznes.pap.pl/wiadomosci/nieruchomosci/rynek-nowoczesnej-pow-magazynowo-przemyslowej-w-polsce-na-koniec-ix",
@@ -1061,35 +1069,27 @@
       "source": "Bankier.pl"
     },
     {
+      "id": "https://biznes.pap.pl/wiadomosci/rynki/dzien-na-rynkach-indeksy-w-europie-spadaja-po-wyprzedazy-w-usa",
+      "url": "https://biznes.pap.pl/wiadomosci/rynki/dzien-na-rynkach-indeksy-w-europie-spadaja-po-wyprzedazy-w-usa",
+      "title": "DZIEŃ NA RYNKACH: Indeksy w Europie spadają po wyprzedaży w USA",
+      "content_html": "Giełdy w Europie zniżkują, a kontrakty w USA notują częściowe odbicie po silnej wyprzedaży w czwartek. Inwestorzy oceniają sytuację w branży sztucznej inteligencji wobec obaw o przyszłość centrów danych po wygranej Demokratów w wyborach środka kadencji w USA.\n\nW Europie indeks Euro Stoxx 50 spada o 1,4 proc., niemiecki DAX idzie w dół o 2,05 proc., francuski CAC 40 zniżkuje o 1,6 proc., a brytyjski FTSE 100 spada o 1,89 proc.\n\nBenchmarkowy indeks Europe Stoxx 600 zniżkuje o 1,61 proc.\n\nKontrakty na indeksy w USA są w przedziale od -0,8 proc. do +1,3 proc.\n\nObawy, że Kongres USA zdominowany przez Demokratów mógłby doprowadzić do ograniczenia wydatków na centra danych obsługujące sztuczną inteligencję, dołączyły do niepokojów związanych ze słabymi stopami zwrotu, zawyżonymi wycenami oraz inwestycjami finansowanymi długiem. W Teksasie, gubernatorka-elekt Gina Hinojosa wezwała do natychmiastowego wstrzymania budowy centrów danych.\n\n\"Rozbudowa infrastruktury na potrzeby AI odpowiada za znaczną część wzrostu gospodarczego w USA, nie tylko w wymiarze budownictwa, produkcji czy dostaw niezbędnych komponentów, ale także dlatego, że wyceny spółek wzrosły tak bardzo, iż wpłynęło to na postrzeganie własnego majątku przez Amerykanów\" – powiedziała Susannah Streeter, główna strateg inwestycyjna w Wealth Club.\n\n\"Jeśli portfele akcji zaczną tracić na wartości, negatywnie odbije się to na nastrojach konsumentów” – dodała Streeter, przewidując, że zmienność na rynkach utrzyma się co najmniej do stycznia, kiedy to może pojawić się większa jasność co do podejścia Demokratów do polityki wobec AI.\n\nSpółki technologiczne miały trudności z odrobieniem strat po wcześniejszych spadkach w piątek.\n\nAkcje Siltronic zyskują 1 proc., a ASMI rosną o 1,5 proc. w warunkach dużej zmienności. Z kolei producent sprzętu dla sektora AI, Siemens Energy zyskuje 1 proc.\n\nMimo wyprzedaży, indeks STOXX 600 spadł w tym tygodniu relatywnie mniej niż jego odpowiedniki w Azji czy na Wall Street, co wynika z mniejszego udziału spółek związanych z AI w europejskim indeksie.\n\nNajwiększe spadki odnotowały sektory mediów, opieki zdrowotnej oraz dóbr osobistych i gospodarstwa domowego, każdy z nich stracił ponad 2 proc. Pokazuje to, że nawet sektory tradycyjnie uznawane za \"bezpieczne przystanie” nie były odporne na panikę na rynkach akcji.\n\nAkcje Teleperformance spadają o 16,5 proc. po tym, jak firma obniżyła prognozę wzrostu przychodów na cały rok.\n\nJasnym punktem były spółki z sektora czystej energii. Zyskały one dzięki oczekiwaniom, że zwycięstwo Demokratów w USA może złagodzić presję regulacyjną wobec tej branży, a także dzięki dobrym wynikom finansowym. Akcje Orsted rosną o 1,5 proc., a Nordex o 0,5 proc.\n\nAkcje linii lotniczych zyskały również dzięki oczekiwaniom, że niedawna porażka Partii Republikańskiej prezydenta Donalda Trumpa może przyspieszyć dążenia do zakończenia konfliktu na Bliskim Wschodzie.\n\nNotowania IAG, właściciela British Airways, rosną o 1,5 proc. mimo prognoz wskazujących na nieco mniejsze moce przewozowe w skali roku. Akcje Lufthansy oraz Air France-KLM zyskują odpowiednio 2 proc. i 5 proc.\n\nW piątek amerykański Urząd Statystyki Pracy USA opublikuje dane o zatrudnieniu w sektorach pozarolniczych za październik. Według konsensusu prognoz Dow Jones, ekonomiści spodziewają się wzrostu liczby miejsc pracy o 59 tys., co stanowiłoby wynik wyższy od wrześniowego przyrostu, który wyniósł 29 tys.\n\nW czwartek akcje na Wall Street gwałtownie spadły, niwelując wcześniejsze zyski po wyborach parlamentarnych w USA.\n\nDow Jones Industrial na zamknięciu spadł o 3,44 proc., czyli o 1833 punkty i wyniósł 51.523,06 pkt. Indeks stracił cały wzrost, jaki osiągnął w środę w reakcji na wyniki wyborów do amerykańskiego Kongresu. S&P 500 na koniec dnia stracił 4,36 proc. i wyniósł 7.353,73 pkt. Spółki z indeksu S&P 500 straciły 3 biliony dolarów kapitalizacji.\n\nNasdaq Composite zniżkował o 5,52 proc. do 24.315,0 pkt. Indeks wszedł w strefę korekty, notując ponad 10 proc. spadku ",
+      "date_published": "2026-11-06T11:49:00+01:00",
+      "source": "PAP Biznes"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Organizacje-zwiazkowe-PKP-Cargo-wzywaja-do-zawarcia-ZUZP-oraz-wyplaty-swiadczen-9224854.html",
       "url": "https://www.bankier.pl/wiadomosc/Organizacje-zwiazkowe-PKP-Cargo-wzywaja-do-zawarcia-ZUZP-oraz-wyplaty-swiadczen-9224854.html",
-      "title": "Organizacje związkowe PKP Cargo wzywają do zawarcia ZUZP oraz wypłaty świadczeń",
-      "content_html": "Organizacje związkowe w PKP Cargo protestują przeciwko brakowi dialogu ze strony zarządu w obliczu postępowania sankcyjnego i wzywają do zawarcia Zakładowego Układu Zbiorowego Pracy (ZUZP) oraz wypłaty zaległych świadczeń socjalnych - wynika...",
+      "title": "Organizacje związkowe PKP Cargo wzywają do zawarcia ZUZP oraz wypłaty świadczeń Organizacje związkowe w PKP Cargo protestują przeciwko brakowi dialogu ze strony zarządu w obliczu postępowania sankcyjnego i wzywają do zawarcia Zakładowego Układu Zbiorowego Pracy (ZUZP) oraz wypłaty zaległych świadczeń socjalnych - wynika z listu związków zawodowych do zarządcy masy sanacyjnej PKP Cargo.",
+      "content_html": "",
       "date_published": "2026-11-06T11:48:00+01:00",
       "source": "Bankier.pl"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Po-III-kw-wartosc-nowego-biznesu-mLeasingu-wzrosla-o-16-proc-rdr-wobec-8-8-proc-wzrostu-rynku-9224834.html",
       "url": "https://www.bankier.pl/wiadomosc/Po-III-kw-wartosc-nowego-biznesu-mLeasingu-wzrosla-o-16-proc-rdr-wobec-8-8-proc-wzrostu-rynku-9224834.html",
-      "title": "mLeasing rośnie niemal dwa razy szybciej niż rynek. Udział spółki wzrósł do 7 proc.",
-      "content_html": "Po trzech kwartałach 2026 roku wartość nowego biznesu mLeasingu była o 16 proc. wyższa niż w analogicznym okresie poprzedniego roku. Dla porównania cały rynek leasingowy wzrósł w tym czasie o 8,8 proc. - podał mLeasing w komunikacie prasowym...",
+      "title": "mLeasing rośnie niemal dwa razy szybciej niż rynek. Udział spółki wzrósł do 7 proc. Po trzech kwartałach 2026 roku wartość nowego biznesu mLeasingu była o 16 proc. wyższa niż w analogicznym okresie poprzedniego roku. Dla porównania cały rynek leasingowy wzrósł w tym czasie o 8,8 proc. - podał mLeasing w komunikacie prasowym. Udział mLeasingu w rynku zwiększył się do 7 proc.",
+      "content_html": "",
       "date_published": "2026-11-06T11:18:00+01:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Konkurs-Sila-Transformacji-Pokaz-jak-twoja-firma-zmienia-sposob-zarzadzania-energia-9224818.html",
-      "url": "https://www.bankier.pl/wiadomosc/Konkurs-Sila-Transformacji-Pokaz-jak-twoja-firma-zmienia-sposob-zarzadzania-energia-9224818.html",
-      "title": "Konkurs Siła Transformacji. Pokaż, jak twoja firma zmienia sposób zarządzania energią",
-      "content_html": "Transformacja energetyczna coraz mocniej wpływa na decyzje biznesowe — od planowania inwestycji po codzienne zarządzanie kosztami. Konkurs Siła Transformacji wyróżnia firmy, które przekładają cele i plany na konkretne działania, oraz osoby...",
-      "date_published": "2026-11-06T10:56:00+01:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Szefowa-PE-w-Warszawie-Metsola-dziekuje-Polsce-za-przewodzenie-w-obronnosci-9224816.html",
-      "url": "https://www.bankier.pl/wiadomosc/Szefowa-PE-w-Warszawie-Metsola-dziekuje-Polsce-za-przewodzenie-w-obronnosci-9224816.html",
-      "title": "Szefowa PE w Warszawie. Metsola dziękuje Polsce za przewodzenie w obronności",
-      "content_html": "Marszałek Sejmu Włodzimierz Czarzasty podkreślił w piątek, że Polska jest odpowiedzialnym członkiem Unii Europejskiej i chce, żeby UE była silna. Szefowa PE Roberta Metsola powiedziała, że Europa słyszy głos Polski ws. zagrożenia ze Wschodu...",
-      "date_published": "2026-11-06T10:55:00+01:00",
       "source": "Bankier.pl"
     },
     {
@@ -1226,14 +1226,6 @@
       "title": "Demokraci są jednak jak zaraza. Wall Street zmienia zdanie Czwartkowa sesja na nowojorskich giełdach przyniosła najcięższe spadki od 19 miesięcy. Inwestorzy panice wyprzedawali akcje firm powiązanych z boomem AI, obawiając się przejęcia Kongresu przez Demokratów.",
       "content_html": "",
       "date_published": "2026-11-05T22:05:00+01:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Skorygowana-EBITDA-Unimotu-w-III-kw-wyniosla-133-mln-zl-wobec-108-8-mln-zl-konsensusu-9224554.html",
-      "url": "https://www.bankier.pl/wiadomosc/Skorygowana-EBITDA-Unimotu-w-III-kw-wyniosla-133-mln-zl-wobec-108-8-mln-zl-konsensusu-9224554.html",
-      "title": "Unimot zaskoczył wynikami. Przychody w III kwartale sięgnęły aż 6 mld zł Szacunkowa skorygowana EBITDA Unimotu w trzecim kwartale 2026 roku wyniosła 133 mln zł - poinformowała paliwowa spółka w komunikacie. Analitycy ankietowani przez PAP Biznes spodziewali się 108,8 mln zł skorygowanej EBITDA.",
-      "content_html": "",
-      "date_published": "2026-11-05T20:15:00+01:00",
       "source": "Bankier.pl"
     }
   ]
