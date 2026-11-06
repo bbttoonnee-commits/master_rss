@@ -613,12 +613,28 @@
       "source": "Bankier.pl"
     },
     {
+      "id": "https://biznes.pap.pl/wiadomosci/firmy/medtech-solutions-pozyskal-151-mln-zl-na-rozwoj-robotyki-ortopedycznej-i-dalsza",
+      "url": "https://biznes.pap.pl/wiadomosci/firmy/medtech-solutions-pozyskal-151-mln-zl-na-rozwoj-robotyki-ortopedycznej-i-dalsza",
+      "title": "MedTech Solutions pozyskał 15,1 mln zł na rozwój robotyki ortopedycznej i dalszą ekspansję",
+      "content_html": "MedTech Solutions pozyskał 15,1 mln zł na rozwój robotyki ortopedycznej i dalszą ekspansję grupy - poinformował MedTech Solutions w komunikacie prasowym. Inwestorzy złożyli zapisy na 130,9 mln akcji serii E o wartości ponad 26 mln zł, a więc popyt ponad 1,7-krotnie przewyższył ofertę.\n\nJak podano, objęta została cała pula 75,5 mln akcji po cenie 0,20 zł, a zapisy dodatkowe zredukowano o 68,07 proc.\n\n\"Odnotowany popyt w zapisach podstawowych i dodatkowych sprawił, że nie było potrzeby uruchamiania przewidzianej w harmonogramie transzy kierowanej przez zarząd. Dla porównania, dotychczas największą historycznie emisją z prawem poboru na NewConnect pod względem wartości pozyskanego kapitału była oferta Cosma z 2023 r., w której spółka pozyskała 10,73 mln zł., co oznacza przekroczenie przez Medtech Solutions tego wyniku o ponad 40 proc.\" - napisano.\n\n\"Nowe finansowanie daje nam znacznie większą elastyczność w realizacji strategii. Przeznaczymy je przede wszystkim na skalowanie sprzedaży systemu MISSO, rozbudowę oferty produktowej oraz starannie wyselekcjonowane akwizycje. Po przejęciu Good For You Medical wchodzimy w ten etap jako grupa o znacznie większej skali działalności, a naszym celem jest budowa rentownego modelu biznesowego i trwały wzrost wartości dla akcjonariuszy\" – powiedział cytowany w komunikacie prasowym Jarosław Kaim, prezes zarządu MedTech Solutions.\n\nKluczowym obszarem rozwoju spółki pozostaje komercjalizacja systemu MISSO, opracowanego przez Meril Life Sciences z myślą o zabiegach ortopedycznych, w tym endoprotezoplastyce stawu kolanowego.\n\nMISSO planuje zabieg na podstawie trójwymiarowych obrazów z tomografii komputerowej, a następnie jako aktywny system robotyczny wykonuje cięcia kostne zgodnie z zatwierdzonym planem, pod stałym nadzorem chirurga, co ma wspierać standaryzację i powtarzalność kluczowych etapów zabiegu.\n\nRozwój MISSO wpisuje się w szerszą strategię budowy zdywersyfikowanej oferty grupy, którą MedTech Solutions zamierza realizować zarówno organicznie, jak i poprzez kolejne inwestycje i akwizycje.\n\nSpółka planuje przejście z rynku NewConnect na rynek regulowany GPW w Warszawie i zamierza złożyć do KNF wniosek o zatwierdzenie prospektu w I kwartale 2027 r., przy czym realizacja tego zamiaru zależeć będzie od spełnienia wymaganych warunków i przebiegu postępowania regulacyjnego. (PAP Biznes)",
+      "date_published": "2026-11-06T14:45:00+01:00",
+      "source": "PAP Biznes"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Dino-analizuje-mozliwosci-wyplaty-dywidendy-czlonek-zarzadu-9225056.html",
       "url": "https://www.bankier.pl/wiadomosc/Dino-analizuje-mozliwosci-wyplaty-dywidendy-czlonek-zarzadu-9225056.html",
       "title": "Dino analizuje możliwości wypłaty dywidendy",
       "content_html": "Dino analizuje możliwości wypłaty dywidendy. W tym roku chce otworzyć około 400 sklepów – poinformował Michał Krauze, członek zarządu.",
       "date_published": "2026-11-06T14:34:00+01:00",
       "source": "Bankier.pl"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/firmy/dino-analizuje-mozliwosci-wyplaty-dywidendy-czlonek-zarzadu",
+      "url": "https://biznes.pap.pl/wiadomosci/firmy/dino-analizuje-mozliwosci-wyplaty-dywidendy-czlonek-zarzadu",
+      "title": "Dino analizuje możliwości wypłaty dywidendy – członek zarządu",
+      "content_html": "Dino analizuje możliwości wypłaty dywidendy. W tym roku chce otworzyć około 400 sklepów – poinformował Michał Krauze, członek zarządu.\n\nPytany podczas telekonferencji o perspektywy wypłaty dywidendy, odpowiedział: \"Jeśli chodzi o dywidendę, to oczywiście cały czas otwieramy dużą liczbę sklepów, plus musimy dostosować logistykę do liczby otwarć, ale analizujemy możliwości, jeśli chodzi o wypłatę\".\n\nJak poinformował, w tym roku liczba nowych otwarć może wynieść około 400.\n\n\"Cel przyszłoroczny jest na podobnym poziomie, jeśli chodzi o liczbę sklepów\" - powiedział Krauze. (PAP Biznes)",
+      "date_published": "2026-11-06T14:32:00+01:00",
+      "source": "PAP Biznes"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Kosiniak-Kamysz-zapowiada-reset-konstytucyjny-PSL-rozpoczyna-kolejny-etap-9224868.html",
@@ -823,8 +839,16 @@
     {
       "id": "https://www.bankier.pl/wiadomosc/Grupa-Modivo-podtrzymuje-ze-Worldbox-powinien-osiagnac-rentownosc-w-IV-kw-9224972.html",
       "url": "https://www.bankier.pl/wiadomosc/Grupa-Modivo-podtrzymuje-ze-Worldbox-powinien-osiagnac-rentownosc-w-IV-kw-9224972.html",
-      "title": "Grupa Modivo podtrzymuje, że Worldbox powinien osiągnąć rentowność w IV kw. Grupa Modivo podtrzymuje, że Worldbox powinien osiągnąć breakeven w IV kwartale - poinformował Łukasz Stelmach, wiceprezes grupy.",
-      "content_html": "",
+      "title": "Grupa Modivo podtrzymuje, że Worldbox powinien osiągnąć rentowność w IV kw.",
+      "content_html": "Grupa Modivo podtrzymuje, że Worldbox powinien osiągnąć breakeven w IV kwartale - poinformował Łukasz Stelmach, wiceprezes grupy.",
+      "date_published": "2026-11-06T13:24:00+01:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Senat-zdecydowal-o-zarobkach-lekarzy-Jest-limit-i-wazna-zmiana-w-ustawie-9224973.html",
+      "url": "https://www.bankier.pl/wiadomosc/Senat-zdecydowal-o-zarobkach-lekarzy-Jest-limit-i-wazna-zmiana-w-ustawie-9224973.html",
+      "title": "Senat zdecydował o zarobkach lekarzy. Jest limit i ważna zmiana w ustawie",
+      "content_html": "Senat opowiedział się za ustawą ws. limitu zarobków i czasu pracy lekarzy. Wniósł do niej poprawki. Dotyczą one m.in. usunięcia w całości zapisów ws. zakazu pracy na NFZ dla lekarzy poświadczających nieprawdę.",
       "date_published": "2026-11-06T13:24:00+01:00",
       "source": "Bankier.pl"
     },
@@ -1013,14 +1037,6 @@
       "source": "PAP Biznes"
     },
     {
-      "id": "https://biznes.pap.pl/wiadomosci/gospodarka/utrzymanie-programu-cpn-obnizyloby-w-27-inflacje-cpi-o-09-pp-dabe-nbp",
-      "url": "https://biznes.pap.pl/wiadomosci/gospodarka/utrzymanie-programu-cpn-obnizyloby-w-27-inflacje-cpi-o-09-pp-dabe-nbp",
-      "title": "Utrzymanie programu CPN obniżyłoby w '27 inflację CPI o 0,9 pp. - DABE NBP",
-      "content_html": "Utrzymanie programu CPN obniżyłoby w 2027 r. inflację CPI o 0,9 pp. - poinformował na konferencji dyrektor Departamentu Badań i Analiz NBP Jacek Kotłowski.\n\n\"Gdyby program CPN został utrzymany to może obniżyć inflację o (...) 0,9 pp. W przyszłym roku inflację mielibyśmy wyraźnie niżej\" - powiedział Kotłowski.\n\nRządowy program wsparcia cen paliw CPN obowiązuje do końca 2026 r. NBP w najnowszej projekcji przyjął wygaśnięcie programu również z końcem 2026 r.",
-      "date_published": "2026-11-06T12:35:00+01:00",
-      "source": "PAP Biznes"
-    },
-    {
       "id": "https://www.bankier.pl/wiadomosc/Metsola-w-Sejmie-Mieliscie-racje-ws-Rosji-Zapowiedz-stalego-miejsca-Polski-w-G20-9224897.html",
       "url": "https://www.bankier.pl/wiadomosc/Metsola-w-Sejmie-Mieliscie-racje-ws-Rosji-Zapowiedz-stalego-miejsca-Polski-w-G20-9224897.html",
       "title": "Metsola w Sejmie: Mieliście rację ws. Rosji. Zapowiedź stałego miejsca Polski w G20",
@@ -1043,14 +1059,6 @@
       "content_html": "Kraft Heinz pozbywa się swoich kultowych marek kawy, w tym słynnej Maxwell House. Transakcja o wartości 650 milionów dolarów to kolejny zwrot w burzliwej historii giganta spożywczego, w którym miliardowe udziały posiada kontrolowany przez Warrena...",
       "date_published": "2026-11-06T12:30:00+01:00",
       "source": "Bankier.pl"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/firmy/grupa-modivo-chce-obnizyc-zapasy-o-ok-1-mld-zl-do-konca-2027-r",
-      "url": "https://biznes.pap.pl/wiadomosci/firmy/grupa-modivo-chce-obnizyc-zapasy-o-ok-1-mld-zl-do-konca-2027-r",
-      "title": "Grupa Modivo chce obniżyć zapasy o ok. 1 mld zł do końca 2027 r.",
-      "content_html": "Grupa Modivo chce obniżyć zapasy o ok. 1 mld zł do końca 2027 r. - poinformował Łukasz Stelmach, wiceprezes grupy.\n\n\"Widzimy potencjał redukcji zapasów w perspektywie najbliższych pięciu kwartałów o 1 mld zł. Ten poziom będzie nieznacznie fluktuował w związku z pewną sezonowością, natomiast na koniec IV kwartału 2027 chcielibyśmy zredukować poziom zapasu między 20 proc. a 30 proc., co złoży się na redukcję o około 1 mld zł\" - powiedział CFO Łukasz Stelmach podczas wideokonferencji.\n\nJak powiedział, będzie to efekt większego udziału marek własnych i licencyjnych w zapasach, stabilizacji inwestycji w marki licencyjne, racjonalizacji budżetów zakupowych w formatach full-price, redukcji produktów sezonowych, wspólnego magazyny dla kanałów full-price.\n\nZapasy w szyldach CCC i Modivo.com obniżyły się w III kw. łącznie o 300 mln zł rdr (spadek o 11 proc. rdr). (PAP Biznes)",
-      "date_published": "2026-11-06T12:29:00+01:00",
-      "source": "PAP Biznes"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Protest-w-handlu-tuz-przed-swietami-W-tych-sklepach-moze-byc-trudniej-zrobic-zakupy-9224894.html",
@@ -1087,17 +1095,9 @@
     {
       "id": "https://www.bankier.pl/wiadomosc/Arctic-Paper-w-27-planuje-ok-80-mln-zl-CAPEXU-nie-szuka-okazji-akwizycyjnych-9224869.html",
       "url": "https://www.bankier.pl/wiadomosc/Arctic-Paper-w-27-planuje-ok-80-mln-zl-CAPEXU-nie-szuka-okazji-akwizycyjnych-9224869.html",
-      "title": "Arctic Paper tnie capex na 2027 rok do 80 mln zł. Spółka unika ryzykownych inwestycji",
-      "content_html": "Arctic Paper w 2027 r. chce ograniczyć wydatki inwestycyjne do ok. 80 mln zł, w porównaniu do ok. 100 mln zł planowanych na 2026 r. - poinformował podczas wideokonferencji prezes Michał Jarczyn´ski. Grupa nie zamierza wykorzystywać trudnej sytuacji...",
+      "title": "Arctic Paper tnie capex na 2027 rok do 80 mln zł. Spółka unika ryzykownych inwestycji Arctic Paper w 2027 r. chce ograniczyć wydatki inwestycyjne do ok. 80 mln zł, w porównaniu do ok. 100 mln zł planowanych na 2026 r. - poinformował podczas wideokonferencji prezes Michał Jarczyn´ski. Grupa nie zamierza wykorzystywać trudnej sytuacji rynkowej, by szukać okazji akwizycyjnych.",
+      "content_html": "",
       "date_published": "2026-11-06T11:58:00+01:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Dwa-tankowce-stanely-w-ogniu-w-Ciesninie-Ormuz-Statki-wplynely-na-miny-morskie-9224866.html",
-      "url": "https://www.bankier.pl/wiadomosc/Dwa-tankowce-stanely-w-ogniu-w-Ciesninie-Ormuz-Statki-wplynely-na-miny-morskie-9224866.html",
-      "title": "Dwa tankowce stanęły w ogniu w cieśninie Ormuz. Statki wpłynęły na miny",
-      "content_html": "Irański Korpus Strażników Rewolucji Islamskiej (IRGC) oświadczył w piątek, że dwa tankowce usiłujące przepłynąć przez cieśninę Ormuz, uderzyły w miny i stanęły w ogniu - przekazała agencja Reutera.",
-      "date_published": "2026-11-06T11:54:00+01:00",
       "source": "Bankier.pl"
     },
     {
@@ -1210,38 +1210,6 @@
       "title": "DZIEŃ Z GWIAZDAMI BANKIERA Pokolenie Z w świecie finansów. Jak zdobyć zaufanie młodych inwestorów Pokolenie Z dorastało w świecie smartfonów, błyskawicznego dostępu do informacji i usług dostępnych na wyciągnięcie ręki. Dla młodych ludzi korzystanie z aplikacji, zakupy online czy zarządzanie codziennymi sprawami przez internet są czymś naturalnym. Nie oznacza to jednak, że w każdym obszarze życia zachowują się inaczej niż starsze generacje. Także w finansach, choć zmieniają się narzędzia, kanały komunikacji i sposób zdobywania wiedzy, wiele potrzeb pozostaje podobnych",
       "content_html": "",
       "date_published": "2026-11-06T06:00:00+01:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Unidevelopment-z-grupy-Unibep-w-III-kwartale-sprzedal-116-lokali-9224611.html",
-      "url": "https://www.bankier.pl/wiadomosc/Unidevelopment-z-grupy-Unibep-w-III-kwartale-sprzedal-116-lokali-9224611.html",
-      "title": "Unidevelopment z grupy Unibep w III kwartale sprzedał 116 lokali Spółka deweloperska Unidevelopment z grupy kapitałowej Unibepu sprzedała w trzecim kwartale 2026 roku 116 lokali, a narastająco od początku roku sprzedaż sięgnęła 280 lokali wobec 202 lokali rok wcześniej, co oznacza wzrost o 39 proc. r/r. - poinformował Unibep w komunikacie.",
-      "content_html": "",
-      "date_published": "2026-11-05T23:12:00+01:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Unibep-ma-12-5-mln-zl-zysku-netto-po-III-kw-portfel-zamowien-wynosi-6-1-mld-zl-9224608.html",
-      "url": "https://www.bankier.pl/wiadomosc/Unibep-ma-12-5-mln-zl-zysku-netto-po-III-kw-portfel-zamowien-wynosi-6-1-mld-zl-9224608.html",
-      "title": "Unibep ma 12,5 mln zł zysku netto po III kw., portfel zamówień wynosi 6,1 mld zł Unibep wstępnie szacuje, że po trzech kwartałach 2026 roku ma 12,5 mln zł zysku netto przy przychodach w wysokości 1,39 mld zł - poinformowała budowlana firma. Portfel zamówień grupy jest na rekordowym poziomie 6,1 mld zł.",
-      "content_html": "",
-      "date_published": "2026-11-05T23:06:00+01:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Alior-Bank-emituje-euroobligacje-o-wartosci-500-mln-euro-9224604.html",
-      "url": "https://www.bankier.pl/wiadomosc/Alior-Bank-emituje-euroobligacje-o-wartosci-500-mln-euro-9224604.html",
-      "title": "Alior Bank emituje euroobligacje o wartości 500 mln euro Alior Bank zakończył subskrypcję 4-letnich obligacji senioralnych serii 1 o łącznej wartości nominalnej 500 mln euro - poinformował bank w komunikacie.",
-      "content_html": "",
-      "date_published": "2026-11-05T22:50:00+01:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Grupa-Azoty-szacuje-w-III-kw-ujemna-EBITDE-na-25-mln-zl-odczuwa-wysokie-ceny-gazu-opis-9224601.html",
-      "url": "https://www.bankier.pl/wiadomosc/Grupa-Azoty-szacuje-w-III-kw-ujemna-EBITDE-na-25-mln-zl-odczuwa-wysokie-ceny-gazu-opis-9224601.html",
-      "title": "Analitycy liczyli na zysk, jest strata. Grupa Azoty podała wyniki Grupa Azoty wstępnie szacuje, że w trzecim kwartale 2026 r. miała przychody na poziomie 3,227 mld zł i wynik EBITDA minus 25 mln zł, przy marży EBITDA minus 0,8 proc. Pogorszenie wyników grupa tłumaczy dynamicznym wzrostem cen surowców, w tym gazu ziemnego, a także trudną sytuacją rynkową.",
-      "content_html": "",
-      "date_published": "2026-11-05T22:44:00+01:00",
       "source": "Bankier.pl"
     }
   ]
