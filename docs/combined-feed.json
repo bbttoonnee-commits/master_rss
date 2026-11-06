@@ -5,12 +5,44 @@
   "home_page_url": "https://www.bankier.pl",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/Nawrocki-powolal-nowych-czlonkow-zarzadu-NBP-Kightley-i-Litwiniuk-wiceprezesami-9224788.html",
+      "url": "https://www.bankier.pl/wiadomosc/Nawrocki-powolal-nowych-czlonkow-zarzadu-NBP-Kightley-i-Litwiniuk-wiceprezesami-9224788.html",
+      "title": "Nawrocki powołał nowych członków zarządu NBP. Kightley i Litwiniuk wiceprezesami",
+      "content_html": "Prezydent Karol Nawrocki powołał do zarządu NBP Martę Kightley, Przemysława Litwiniuka, Ludwika Koteckiego i Marcina Zarzeckiego - poinformował w piątek w mediach społecznościowych rzecznik prasowy prezydenta Rafał Leśkiewicz.",
+      "date_published": "2026-11-06T10:49:00+01:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Duze-zwolnienia-w-Krasniku-Okolo-400-pracownikow-w-niepewnosci-9224799.html",
+      "url": "https://www.bankier.pl/wiadomosc/Duze-zwolnienia-w-Krasniku-Okolo-400-pracownikow-w-niepewnosci-9224799.html",
+      "title": "\"Sytuacja jest ciężka\". Niepewna przyszłość 400 pracowników",
+      "content_html": "W fabryce TN Polska w Kraśniku może dojść do zwolnień grupowych obejmujących znaczną część załogi, która obecnie liczy 400 osób. Decyzję o redukcji zatrudnienia centrala firmy planuje ogłosić jeszcze w tym miesiącu – podało Radio Lublin...",
+      "date_published": "2026-11-06T10:18:00+01:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Panika-na-rynkach-ale-zloty-sie-trzyma-Kurs-euro-ponizej-tegorocznego-szczytu-9224789.html",
+      "url": "https://www.bankier.pl/wiadomosc/Panika-na-rynkach-ale-zloty-sie-trzyma-Kurs-euro-ponizej-tegorocznego-szczytu-9224789.html",
+      "title": "Panika na rynkach, ale złoty się trzyma. Kurs euro poniżej tegorocznego szczytu",
+      "content_html": "Kurs euro utrzymał się w pobliżu linii 4,40 zł, pozostając tym samym o parę groszy poniżej niedawnych szczytów.",
+      "date_published": "2026-11-06T10:11:00+01:00",
+      "source": "Bankier.pl"
+    },
+    {
       "id": "https://biznes.pap.pl/wiadomosci/firmy/odsetek-bykow-na-gpw-wzrosl-do-441-proc-spadkow-oczekuje-373-proc-ini",
       "url": "https://biznes.pap.pl/wiadomosci/firmy/odsetek-bykow-na-gpw-wzrosl-do-441-proc-spadkow-oczekuje-373-proc-ini",
       "title": "Odsetek \"byków\" na GPW wzrósł do 44,1 proc., spadków oczekuje 37,3 proc. - INI",
       "content_html": "Odsetek inwestorów spodziewających się w ciągu sześciu miesięcy trendu wzrostowego na GPW wzrósł o 6,8 pkt. proc. i wyniósł 44,1 proc. Odsetek respondentów oczekujących trendu spadkowego wzrósł o 3,4 pkt. proc. i wynosi 37,3 proc. - wynika z cotygodniowego sondażu Indeksu Nastrojów Inwestorów.\n\nPoniżej przedstawiono wyniki sondażu Indeksu Nastrojów Inwestorów (INI) za tydzień zakończony 29 października.\n\nInwestorzy oczekują w ciągu najbliższych 6 miesięcy trendu:\n\n- wzrostowego (byki): 44,1 proc. (+6,8 pkt. proc.)\n\n- bocznego (neutralni): 18,6 proc. (-10,2 pkt. proc.)\n\n- spadkowego (niedźwiedzie): 37,3 proc. (+3,4 pkt. proc.)\n\nIndeks Nastrojów Inwestorów jest cotygodniowym badaniem prowadzonym przez Stowarzyszenie Inwestorów Indywidualnych. W badaniu bierze udział ponad 350 inwestorów tygodniowo. (PAP Biznes)",
       "date_published": "2026-11-06T10:02:00+01:00",
       "source": "PAP Biznes"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Tym-beda-zyly-rynki-inflacyjny-test-dla-USA-i-prawda-o-polskim-PKB-9224737.html",
+      "url": "https://www.bankier.pl/wiadomosc/Tym-beda-zyly-rynki-inflacyjny-test-dla-USA-i-prawda-o-polskim-PKB-9224737.html",
+      "title": "Tym będą żyły rynki: inflacyjny test dla USA i prawda o polskim PKB",
+      "content_html": "Drugi tydzień listopada przyniesie inwestorom przede wszystkim kluczowe odczyty inflacyjne ze Stanów Zjednoczonych, które będą kształtować rynkowe oczekiwania wobec dalszej ścieżki stóp procentowych Fed. Z perspektywy krajowego rynku najważniejszy...",
+      "date_published": "2026-11-06T10:00:00+01:00",
+      "source": "Bankier.pl"
     },
     {
       "id": "https://biznes.pap.pl/wiadomosci/firmy/w-pazdzierniku-trzeci-miesiac-wzrostow-cen-wegla-na-swiatowych-rynkach-arp",
@@ -344,7 +376,7 @@
       "id": "https://biznes.pap.pl/wiadomosci/rynki/kalendarium-rynku-newconnect-2026-11-06",
       "url": "https://biznes.pap.pl/wiadomosci/rynki/kalendarium-rynku-newconnect-2026-11-06",
       "title": "Kalendarium rynku NewConnect 2026-11-06",
-      "content_html": "Kalendarium rynku NewConnect 2026-11-06",
+      "content_html": "10:00 - LICHTHUND - Nadzwyczajne walne zgromadzenie\n\nW sprawie emisji akcji, zmian w statucie.\n\n10:00 - KOOL2PLAY - Nadzwyczajne walne zgromadzenie\n\nW sprawie emisji akcji zwykłych na okaziciela serii R, programu motywacyjnego, emisji warrantów, kooptacji członka RN.\n\n11:30 - LIFTERO - Nadzwyczajne walne zgromadzenie\n\nW sprawie połączenia z Progresja Space sp. z o.o.\n\n11:00 - STOHID - Nadzwyczajne walne zgromadzenie",
       "date_published": "2026-11-06T07:00:00+01:00",
       "source": "PAP Biznes"
     },
@@ -352,7 +384,7 @@
       "id": "https://biznes.pap.pl/wiadomosci/rynki/kalendarium-rynku-kapitalowego-gpw-2026-11-06",
       "url": "https://biznes.pap.pl/wiadomosci/rynki/kalendarium-rynku-kapitalowego-gpw-2026-11-06",
       "title": "Kalendarium rynku kapitałowego GPW 2026-11-06",
-      "content_html": "Kalendarium rynku kapitałowego GPW 2026-11-06",
+      "content_html": "Kalendarium rynku kapitałowego GPW 2026-11-06\n\n09:00 - KRAKCHEM - Nadzwyczajne walne zgromadzenie\n\n11:00 - SPYROSOFT - Nadzwyczajne walne zgromadzenie\n\nW sprawie upoważnienia zarządu do nabywania akcji własnych, utworzenia kapitału rezerwowego.\n\n09:00 - FASING - Nadzwyczajne walne zgromadzenie\n\nW sprawie przyjęcia polityki równowagi płci, zmian w statucie.\n\n11:00 - RAFAMET - Nadzwyczajne walne zgromadzenie\n\nW sprawie akcji zwykłych imiennych serii L.\n\nZaliczka na poczet dywidendy w wysokości 0,65 PLN na akcję.\n\n10:00 - GREENX - Zwyczajne walne zgromadzenie",
       "date_published": "2026-11-06T07:00:00+01:00",
       "source": "PAP Biznes"
     },
@@ -360,7 +392,7 @@
       "id": "https://biznes.pap.pl/wiadomosci/firmy/szacunkowe-wyniki-modivo-w-iii-kwartale-vs-konsensus-pap-tabela",
       "url": "https://biznes.pap.pl/wiadomosci/firmy/szacunkowe-wyniki-modivo-w-iii-kwartale-vs-konsensus-pap-tabela",
       "title": "Szacunkowe wyniki Modivo w III kwartale vs. konsensus PAP (tabela)",
-      "content_html": "Poniżej przedstawiamy szacunkowe wyniki Modivo w trzecim kwartale 2026/27 oraz ich odniesienie do konsensusu PAP Biznes.",
+      "content_html": "Poniżej przedstawiamy szacunkowe wyniki Modivo w trzecim kwartale 2026/27 oraz ich odniesienie do konsensusu PAP Biznes.\n\n***Prognozy roczne i kwartalne dla ponad 200 spółek notowanych na GPW znajdują się w bazie Konsensusy, dostępnej dla abonentów w Serwisie Ekonomicznym PAP Biznes. (PAP Biznes)",
       "date_published": "2026-11-06T06:58:00+01:00",
       "source": "PAP Biznes"
     },
@@ -544,7 +576,7 @@
       "id": "https://biznes.pap.pl/wiadomosci/gospodarka/sejmowa-komisja-rozpatrzy-poprawke-do-projektu-odraczajacego-kary-za-bledy-w",
       "url": "https://biznes.pap.pl/wiadomosci/gospodarka/sejmowa-komisja-rozpatrzy-poprawke-do-projektu-odraczajacego-kary-za-bledy-w",
       "title": "Sejmowa komisja rozpatrzy poprawkę do projektu odraczającego kary za błędy w KSeF",
-      "content_html": "Sejmowa komisja finansów publicznych oceni poprawkę zgłoszoną w czwartek w czasie drugiego czytania projektu noweli odraczającej do końca 2027 r. kary za błędy w KSeF. Posłowie PiS zaproponowali, by z",
+      "content_html": "Sejmowa komisja finansów publicznych oceni poprawkę zgłoszoną w czwartek w czasie drugiego czytania projektu noweli odraczającej do końca 2027 r. kary za błędy w KSeF. Posłowie PiS zaproponowali, by z systemu e-faktur wyłączyć podatników wystawiających miesięcznie faktury na kwotę poniżej 10 tys. zł.\n\nZ końcem 2026 r. wygasa okres przejściowy dla podatników, których wartość sprzedaży dokumentowana fakturami za okresy miesięczne nie przekracza kwoty 10 tys. zł brutto. Tym samym od 1 stycznia 2027 r. korzystanie z Krajowego Systemu e-Faktur staje się obowiązkowe dla wszystkich przedsiębiorców.\n\nZłożona w czwartek poprawka posłów PiS przewiduje, że podatnicy nieprzekraczający progu 10 tys. zł miesięcznie nadal nie będą podlegać KSeF.\n\nRządowy projekt nowelizacji ustawy o podatku od towarów i usług oraz ustawy o zmianie ustawy o podatku od towarów i usług oraz niektórych innych ustaw przewiduje, że mimo obowiązkowego charakteru KSeF kary pieniężne za błędy związane z jego stosowaniem będą odroczone do końca 2027 r.\n\nResort finansów informował, że proponowane zmiany to odpowiedź na potrzeby zgłaszane przez przedsiębiorców, w związku z wdrażaniem obowiązkowego systemu e-fakturowania. Zmiana ma zapewnić firmom dodatkowy czas na dostosowanie procesów i systemów informatycznych do nowych wymogów.\n\nWiceminister finansów Jarosław Neneman przedstawiający projekt podczas pierwszego czytania zauważył, że nowela jest szczególnie ważna dla mikroprzedsiębiorców, którzy od 1 stycznia 2027 r. zostaną objęci obowiązkiem korzystania z KSeF.\n\nProjekt zakłada również przedłużenie stosowania mechanizmu odwrotnego obciążenia VAT w odniesieniu do gazu w systemie gazowym, energii elektrycznej oraz usług w zakresie przenoszenia uprawnień do emisji gazów cieplarnianych. Działanie to jest związane z prowadzonymi równolegle na forum UE pracami nad zmianą w dyrektywie VAT, ukierunkowaną na przedłużenie możliwości stosowania tego mechanizmu po 31 grudnia 2026 r.\n\nW ocenie MF rozwiązanie to ma służyć ochronie uczciwych uczestników obrotu gospodarczego, utrzymaniu szczelności systemu podatkowego oraz zachowaniu konkurencyjności przedsiębiorców działających na rynku giełdy towarowej względem podmiotów funkcjonujących w innych państwach członkowskich.\n\nNowelizacja miałaby wejść w życie 31 grudnia 2026 r. (PAP)",
       "date_published": "2026-11-05T23:14:00+01:00",
       "source": "PAP Biznes"
     },
@@ -560,7 +592,7 @@
       "id": "https://biznes.pap.pl/wiadomosci/firmy/unidevelopment-z-grupy-unibep-w-iii-kwartale-sprzedal-116-lokali",
       "url": "https://biznes.pap.pl/wiadomosci/firmy/unidevelopment-z-grupy-unibep-w-iii-kwartale-sprzedal-116-lokali",
       "title": "Unidevelopment z grupy Unibep w III kwartale sprzedał 116 lokali",
-      "content_html": "Spółka deweloperska Unidevelopment z grupy kapitałowej Unibepu sprzedała w trzecim kwartale 2026 roku 116 lokali, a narastająco od początku roku sprzedaż sięgnęła 280 lokali wobec 202 lokali rok wcześ",
+      "content_html": "Spółka deweloperska Unidevelopment z grupy kapitałowej Unibepu sprzedała w trzecim kwartale 2026 roku 116 lokali, a narastająco od początku roku sprzedaż sięgnęła 280 lokali wobec 202 lokali rok wcześniej, co oznacza wzrost o 39 proc. r/r. - poinformował Unibep w komunikacie.\n\nJak podał Unibep, w segmencie deweloperskim, po relatywnie słabszym I półroczu, trzeci kwartał 2026 roku przyniósł wyraźne ożywienie aktywności. W efekcie przychody ze sprzedaży za okres I–III kw. 2026 roku wyniosły 119 mln zł, co oznacza spadek o 3,4 proc. r/r, wobec 41-proc. spadku odnotowanego po I półroczu.\n\nGrupa Unidevelopment rozpoznała w wyniku III kw. 2026 roku 105 lokali. Narastająco od początku roku rozpoznano 195 lokali wobec 155 w analogicznym okresie roku poprzedniego, co oznacza wzrost o 26 proc. r/r.\n\nJednocześnie odnotowano wyraźny wzrost sprzedaży deweloperskiej. Unidevelopment sprzedał w trzecim kwartale 116 lokali, a narastająco od początku roku sprzedaż sięgnęła 280 lokali wobec 202 lokali rok wcześniej, co oznacza wzrost o 39 proc. r/r.\n\n\"Na uzyskany poziom sprzedaży wpływ miała m.in. poprawiająca się sytuacja na rynku mieszkaniowym, którą Grupa Unidevelopment skutecznie wykorzystała zarówno na rynkach o strategicznym znaczeniu - w Warszawie i w Trójmieście, jak i w Radomiu, gdzie kontynuuje wieloetapowy projekt Osiedle Idea\" - napisano w komunikacie.\n\nW trzecim kwartale Grupa Unidevelopment prowadziła sprzedaż w pięciu lokalizacjach.\n\n\"Ostatni raz zbliżony poziom kwartalnej sprzedaży odnotowano w IV kw. 2023 roku, kiedy sprzedano 114 lokali. Utrzymująca się wysoka aktywność sprzedażowa tworzy potencjał do wzrostu przychodów segmentu w kolejnych okresach\" - napisano.\n\nW ślad za działaniami wspierającymi sprzedaż i dostosowującymi ofertę do aktualnych warunków rynkowych oraz oczekiwań klientów, a także zmianą struktury sprzedawanych lokali, rentowność segmentu uległa obniżeniu. Marża zysku brutto ze sprzedaży wyniosła 18,2 proc. wobec 24,2 proc. przed rokiem.\n\nNa koniec września 2026 roku oferta Grupy Unidevelopment obejmowała 490 mieszkań wobec 488 rok wcześniej. (PAP Biznes)",
       "date_published": "2026-11-05T23:11:00+01:00",
       "source": "PAP Biznes"
     },
@@ -576,7 +608,7 @@
       "id": "https://biznes.pap.pl/wiadomosci/firmy/unibep-ma-125-mln-zl-zysku-netto-po-iii-kw-portfel-zamowien-wynosi-61-mld-zl",
       "url": "https://biznes.pap.pl/wiadomosci/firmy/unibep-ma-125-mln-zl-zysku-netto-po-iii-kw-portfel-zamowien-wynosi-61-mld-zl",
       "title": "Unibep ma 12,5 mln zł zysku netto po III kw., portfel zamówień wynosi 6,1 mld zł",
-      "content_html": "Unibep wstępnie szacuje, że po trzech kwartałach 2026 roku ma 12,5 mln zł zysku netto przy przychodach w wysokości 1,39 mld zł - poinformowała budowlana firma. Portfel zamówień grupy jest na rekordowy",
+      "content_html": "Unibep wstępnie szacuje, że po trzech kwartałach 2026 roku ma 12,5 mln zł zysku netto przy przychodach w wysokości 1,39 mld zł - poinformowała budowlana firma. Portfel zamówień grupy jest na rekordowym poziomie 6,1 mld zł.\n\nPrzed rokiem grupa Unibep miała 22,4 mln zł zysku netto (16,6 mln zł bez zdarzeń jednorazowych) oraz 1,61 mld zł przychodów.\n\nPrzychody grupy w segmencie obejmującym budownictwo energetyczne, ogólne i infrastrukturalne w ciągu dziewięciu miesięcy 2026 roku wyniosły 1,07 mld zł, przychody w budownictwie modułowym sięgnęły 246,6 mln zł, a w segmencie deweloperskim 118,6 mln zł.\n\nSzacowany zysk operacyjny grupy Unibep po 9 miesiącach wynosi 32,8 mln zł wobec 66 mln zł przed rokiem.\n\nW samym trzecim kwartale 2026 roku grupa Unibep zmniejszyła przychody do 329 mln zł z 528 mln zł rok wcześniej. Skonsolidowany zysk operacyjny sięgnął 0,9 mln zł wobec 17,4 mln zł rok wcześniej. Strata netto w trzecim kwartale wyniosła 5 mln zł wobec 8,2 mln zł zysku netto przed rokiem.\n\nGrupa Unibep podała, że jej portfel zamówień segmentów budowlanego i modułowego jest na rekordowym poziomie 6,1 mld zł.\n\nZysk brutto ze sprzedaży osiągnął poziom 9,5 proc., nieznacznie poprawiając wynik odnotowany w I półroczu 2026 r. (9,4 proc.). Pomimo niższych przychodów r/r, rentowność wzrosła z 9,0 do 9,5 proc.\n\nZarząd Unibepu wskazał, że niższe o 13,7 proc. rok do roku przychody w okresie trzech kwartałów 2026 roku spowodowane są przede wszystkim ujemną dynamiką w segmencie budowlanym, częściowo kompensowanym przez dodatnią dynamikę w segmencie modułowym.\n\n\"Pozytywnie na poziom zysku netto wpłynął lepszy niż w analogicznym okresie ubiegłego roku wynik na działalności finansowej emitenta, będący przede wszystkim rezultatem korzystniejszej wyceny wybranych pozycji finansowych, przy dodatkowym pozytywnym wpływie salda różnic kursowych\" - napisano. (PAP Biznes)",
       "date_published": "2026-11-05T23:04:00+01:00",
       "source": "PAP Biznes"
     },
@@ -592,7 +624,7 @@
       "id": "https://biznes.pap.pl/wiadomosci/firmy/alior-bank-emituje-euroobligacje-o-wartosci-500-mln-euro",
       "url": "https://biznes.pap.pl/wiadomosci/firmy/alior-bank-emituje-euroobligacje-o-wartosci-500-mln-euro",
       "title": "Alior Bank emituje euroobligacje o wartości 500 mln euro",
-      "content_html": "Alior Bank zakończył subskrypcję 4-letnich obligacji senioralnych serii 1 o łącznej wartości nominalnej 500 mln euro - poinformował bank w komunikacie.",
+      "content_html": "Alior Bank zakończył subskrypcję 4-letnich obligacji senioralnych serii 1 o łącznej wartości nominalnej 500 mln euro - poinformował bank w komunikacie.\n\nEmisja euroobligacji realizowana jest w ramach programu emisji euroobligacji EMTN.\n\nEuroobligacje zostały wyemitowane w jednej transzy, w której stopa redukcji wyniosła 70,00 proc.\n\nCena, po jakiej euroobligacje były obejmowane, wynosi 99,889 proc. wartości nominalnej. Marża będąca podstawą ustalenia stopy procentowej dla euroobligacji wynosi 190 punktów bazowych;\n\nEuroobligacje Alior Banku mają być notowane na rynku regulowanym w Luksemburgu. (PAP Biznes)",
       "date_published": "2026-11-05T22:49:00+01:00",
       "source": "PAP Biznes"
     },
@@ -669,18 +701,10 @@
       "source": "PAP Biznes"
     },
     {
-      "id": "https://www.bankier.pl/wiadomosc/Reset-konstytucyjny-laczy-PSL-i-Konfederacje-Kosiniak-Kamysz-spotkal-sie-z-Mentzenem-9224563.html",
-      "url": "https://www.bankier.pl/wiadomosc/Reset-konstytucyjny-laczy-PSL-i-Konfederacje-Kosiniak-Kamysz-spotkal-sie-z-Mentzenem-9224563.html",
-      "title": "Reset konstytucyjny łączy PSL i Konfederację? Kosiniak-Kamysz spotkał się z Mentzenem",
-      "content_html": "Wicepremier, szef MON i lider PSL Władysław Kosiniak-Kamysz spotkał się w czwartek z jednym z liderów Konfederacji Sławomirem Mentzenem. Jak przekazał PAP rzecznik Konfederacji Wojciech Machulski, podczas spotkania rozmawiano o kryzysie wokół...",
-      "date_published": "2026-11-05T20:26:00+01:00",
-      "source": "Bankier.pl"
-    },
-    {
       "id": "https://www.bankier.pl/wiadomosc/Skorygowana-EBITDA-Unimotu-w-III-kw-wyniosla-133-mln-zl-wobec-108-8-mln-zl-konsensusu-9224554.html",
       "url": "https://www.bankier.pl/wiadomosc/Skorygowana-EBITDA-Unimotu-w-III-kw-wyniosla-133-mln-zl-wobec-108-8-mln-zl-konsensusu-9224554.html",
-      "title": "Unimot zaskoczył wynikami. Przychody w III kwartale sięgnęły aż 6 mld zł",
-      "content_html": "Szacunkowa skorygowana EBITDA Unimotu w trzecim kwartale 2026 roku wyniosła 133 mln zł - poinformowała paliwowa spółka w komunikacie. Analitycy ankietowani przez PAP Biznes spodziewali się 108,8 mln zł skorygowanej EBITDA.",
+      "title": "Unimot zaskoczył wynikami. Przychody w III kwartale sięgnęły aż 6 mld zł Szacunkowa skorygowana EBITDA Unimotu w trzecim kwartale 2026 roku wyniosła 133 mln zł - poinformowała paliwowa spółka w komunikacie. Analitycy ankietowani przez PAP Biznes spodziewali się 108,8 mln zł skorygowanej EBITDA.",
+      "content_html": "",
       "date_published": "2026-11-05T20:15:00+01:00",
       "source": "Bankier.pl"
     },
@@ -693,28 +717,12 @@
       "source": "PAP Biznes"
     },
     {
-      "id": "https://www.bankier.pl/wiadomosc/Zabojstwo-mlodego-Polaka-wstrzasnelo-Wielka-Brytania-Sad-podwyzszyl-kare-9224555.html",
-      "url": "https://www.bankier.pl/wiadomosc/Zabojstwo-mlodego-Polaka-wstrzasnelo-Wielka-Brytania-Sad-podwyzszyl-kare-9224555.html",
-      "title": "Zabójstwo młodego Polaka wstrząsnęło Wielką Brytanią. Sąd podwyższył karę",
-      "content_html": "Brytyjski sąd apelacyjny podwyższył w czwartek karę dla zabójcy Henry'ego Nowaka, 18-letniego brytyjskiego studenta polskiego pochodzenia. Vickrum Digwa będzie się mógł ubiegać o warunkowe zwolnienie najwcześniej po upływie 25 lat, a nie 21...",
-      "date_published": "2026-11-05T19:59:00+01:00",
-      "source": "Bankier.pl"
-    },
-    {
       "id": "https://biznes.pap.pl/wiadomosci/firmy/skorygowana-ebitda-unimotu-w-iii-kw-wyniosla-133-mln-zl-wobec-1088-mln-zl",
       "url": "https://biznes.pap.pl/wiadomosci/firmy/skorygowana-ebitda-unimotu-w-iii-kw-wyniosla-133-mln-zl-wobec-1088-mln-zl",
       "title": "Skorygowana EBITDA Unimotu w III kw. wyniosła 133 mln zł wobec 108,8 mln zł konsensusu",
       "content_html": "Szacunkowa skorygowana EBITDA Unimotu w trzecim kwartale 2026 roku wyniosła 133 mln zł - poinformowała paliwowa spółka w komunikacie. Analitycy ankietowani przez PAP Biznes spodziewali się 108,8 mln z",
       "date_published": "2026-11-05T19:57:00+01:00",
       "source": "PAP Biznes"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Nowa-mapa-bezpieczenstwa-Europy-Polska-podpisala-25-porozumien-obronnych-9224553.html",
-      "url": "https://www.bankier.pl/wiadomosc/Nowa-mapa-bezpieczenstwa-Europy-Polska-podpisala-25-porozumien-obronnych-9224553.html",
-      "title": "Nowa mapa bezpieczeństwa Europy. Polska podpisała 25 porozumień obronnych",
-      "content_html": "W ciągu ostatnich czterech lat państwa europejskie zawarły siedem razy więcej porozumień obronnych niż przez poprzednich osiem lat – zauważa w czwartek norweski dziennik „Aftenposten”. Jego zdaniem Europa buduje sieć bezpieczeństwa...",
-      "date_published": "2026-11-05T19:49:00+01:00",
-      "source": "Bankier.pl"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Koniec-impasu-w-rozmowach-nuklearnych-Iran-analizuje-propozycje-mediatorow-9224552.html",
@@ -1194,38 +1202,6 @@
       "title": "GPW zmienia model opłat od 2027 roku. Koszty powiązane z wielkością spółek i wartością ofert GPW zmieni zasady naliczania opłat dla emitentów akcji na Głównym Rynku GPW, dostosowując je do skali notowanych spółek - podała Giełda w komunikacie prasowym. Zmiany będą wprowadzane etapami od 1 stycznia 2027 roku.",
       "content_html": "",
       "date_published": "2026-11-05T11:02:00+01:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Polacy-na-gieldowej-oslej-lawce-Jakby-lata-90-nigdy-sie-nie-skonczyly-9223426.html",
-      "url": "https://www.bankier.pl/wiadomosc/Polacy-na-gieldowej-oslej-lawce-Jakby-lata-90-nigdy-sie-nie-skonczyly-9223426.html",
-      "title": "BUDOWANIE MAJĄTKU Polacy na giełdowej oślej ławce. \"Jakby lata 90. nigdy się nie skończyły\" Polska rozwija się w imponującym tempie, ale pod względem indywidualnego inwestowania wciąż tkwimy na szarym końcu Europy. Problemem nie jest jednak rzekomy brak edukacji czy lenistwo Polaków, tylko produkty finansowe - od nieoprocentowanych kont po najdroższe w Europie fundusze inwestycyjne. Jak przekonywał podczas Forum Finansów Bankier.pl Kamil Szymański z Trade Republic, kluczem do masowego inwestowania są tymczasem proste i tanie instrumenty.",
-      "content_html": "",
-      "date_published": "2026-11-05T11:00:00+01:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Profesjonalne-inwestowanie-od-5-tys-zl-Tak-dziala-Portfel-w-Biurze-Maklerskim-Pekao-SA-9218257.html",
-      "url": "https://www.bankier.pl/wiadomosc/Profesjonalne-inwestowanie-od-5-tys-zl-Tak-dziala-Portfel-w-Biurze-Maklerskim-Pekao-SA-9218257.html",
-      "title": "BUDOWANIE MAJĄTKU Profesjonalne inwestowanie od 5 tys. zł. Tak działa Portfel+ w Biurze Maklerskim Pekao Profesjonalne zarządzanie portfelem inwestycyjnym przez lata kojarzyło się przede wszystkim z ofertą dla zamożnych klientów, dysponujących dużym kapitałem i dostępem do indywidualnego doradztwa. Czy dziś, aby korzystać z profesjonalnego podejścia do inwestowania, rzeczywiście trzeba mieć na koncie setki tysięcy złotych?",
-      "content_html": "",
-      "date_published": "2026-11-05T11:00:00+01:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Wyniki-Arctic-Paper-lekko-negatywne-perspektywy-rynkowe-dla-spolki-pozostaja-niepewne-BM-PKO-BP-9224059.html",
-      "url": "https://www.bankier.pl/wiadomosc/Wyniki-Arctic-Paper-lekko-negatywne-perspektywy-rynkowe-dla-spolki-pozostaja-niepewne-BM-PKO-BP-9224059.html",
-      "title": "Wyniki Arctic Paper lekko negatywne. Perspektywy rynkowe dla spółki pozostają niepewne Analitycy BM PKO BP wyniki Arctic Paper za trzeci kwartał 2026 r., które okazały się niższe od oczekiwań, oceniają lekko negatywnie. Perspektywy rynkowe dla spółki pozostają niepewne, a BM PKO BP nadal dostrzega ryzyko w dół prognoz dla spółki na 2026–2027.",
-      "content_html": "",
-      "date_published": "2026-11-05T10:32:00+01:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Koniec-wojennej-hossy-na-gieldzie-Bolesny-cios-w-Rheinmetall-europejskiego-lidera-zbrojeniowki-9224060.html",
-      "url": "https://www.bankier.pl/wiadomosc/Koniec-wojennej-hossy-na-gieldzie-Bolesny-cios-w-Rheinmetall-europejskiego-lidera-zbrojeniowki-9224060.html",
-      "title": "Krach na akcjach Rheinmetallu. Zbrojeniowy gigant już 60 proc. od szczytu Dramatyczna wyprzedaż akcji europejskiego lidera sektora obronnego wstrząsnęła niemieckim rynkiem akcji po tym, jak Rheinmetall po raz kolejny w tym roku ściął prognozy wyników. Choć w księgach spółki wciąż widać imponujący wzrost przychodów i zysku operacyjnego, opóźnienia w kluczowych kontraktach wywołały panikę na giełdzie. Inwestorzy bezlitośnie weryfikują wycenę spółki, spychając jej notowania do poziomów nienotowanych od ponad roku.",
-      "content_html": "",
-      "date_published": "2026-11-05T10:32:00+01:00",
       "source": "Bankier.pl"
     }
   ]
