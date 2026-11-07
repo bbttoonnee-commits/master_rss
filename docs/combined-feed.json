@@ -5,6 +5,38 @@
   "home_page_url": "https://www.bankier.pl",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/Inwestorzy-wrocili-na-polski-rynek-nieruchomosci-Wartosc-transakcji-wzrosla-o-82-proc-9222553.html",
+      "url": "https://www.bankier.pl/wiadomosc/Inwestorzy-wrocili-na-polski-rynek-nieruchomosci-Wartosc-transakcji-wzrosla-o-82-proc-9222553.html",
+      "title": "Inwestorzy wrócili na polski rynek nieruchomości. Wartość transakcji wzrosła o 82 proc.",
+      "content_html": "Wartość inwestycji w nieruchomości komercyjne w Polsce po trzech kwartałach 2026 r. wyniosła 4,72 mld euro, co oznacza wzrost o 82 proc. rdr. Najbardziej aktywni byli inwestorzy ze Stanów Zjednoczonych – wynika z danych CBRE.",
+      "date_published": "2026-11-08T06:00:00+01:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Strzelanina-w-centrum-Krakowa-5-zabitych-kilkunastu-rannych-i-postrzeleni-policjanci-Premier-Tusk-mowi-wprost-o-zamachu-9225484.html",
+      "url": "https://www.bankier.pl/wiadomosc/Strzelanina-w-centrum-Krakowa-5-zabitych-kilkunastu-rannych-i-postrzeleni-policjanci-Premier-Tusk-mowi-wprost-o-zamachu-9225484.html",
+      "title": "Atak terrorystyczny w Krakowie: 6 zabitych, kilkunastu rannych i postrzeleni policjanci. Premier Tusk mówi wprost o „zamachu”",
+      "content_html": "W sobotę po południu doszło do strzelaniny przy Rynku Głównym w Krakowie. Małopolska policja podała, że około godziny 15 mężczyzna z samochodu, którym wjechał na krakowski Rynek od strony ul. Sławkowskiej, zaczął oddawać serię strzałów...",
+      "date_published": "2026-11-07T21:39:00+01:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Szesc-ofiar-kilkunastu-rannych-i-dwa-dni-milczenia-Polska-wchodzi-w-okres-zaloby-9225556.html",
+      "url": "https://www.bankier.pl/wiadomosc/Szesc-ofiar-kilkunastu-rannych-i-dwa-dni-milczenia-Polska-wchodzi-w-okres-zaloby-9225556.html",
+      "title": "Sześć ofiar, kilkunastu rannych i dwa dni milczenia. Polska wchodzi w okres żałoby",
+      "content_html": "W związku z tragicznymi wydarzeniami w Krakowie prezydent Karol Nawrocki rozpoczął formalną procedurę ogłoszenia żałoby narodowej, która będzie obowiązywała 8 i 9 listopada - przekazał w sobotę wieczorem rzecznik prezydenta Rafał Leśkiewicz...",
+      "date_published": "2026-11-07T20:19:00+01:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Nowa-rzeczywistosc-na-ulicach-W-Warszawie-rozpoczeto-montowanie-betonowych-zapor-9225555.html",
+      "url": "https://www.bankier.pl/wiadomosc/Nowa-rzeczywistosc-na-ulicach-W-Warszawie-rozpoczeto-montowanie-betonowych-zapor-9225555.html",
+      "title": "Nowa rzeczywistość na ulicach. W Warszawie rozpoczęto montowanie betonowych zapór",
+      "content_html": "Zgodnie z rekomendacją policji służby miejskie przystąpiły do wystawienia zapór drogowych na wlotach ulic dochodzących do Krakowskiego Przedmieścia - przekazał w sobotę prezydent Warszawy Rafał Trzaskowski. Betonowe zapory staną m.in. na...",
+      "date_published": "2026-11-07T20:15:00+01:00",
+      "source": "Bankier.pl"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Katowice-Airport-rozbudowuje-parkingi-Przybylo-ponad-1-1-tys-miejsc-9222454.html",
       "url": "https://www.bankier.pl/wiadomosc/Katowice-Airport-rozbudowuje-parkingi-Przybylo-ponad-1-1-tys-miejsc-9222454.html",
       "title": "Katowice Airport rozbudowuje parkingi. Przybyło ponad 1,1 tys. miejsc",
@@ -26,14 +58,6 @@
       "title": "Wyruszył, gdy nie było Google'a i Facebooka. Brytyjski podróżnik wrócił do domu po 28 latach",
       "content_html": "Z Chile do Anglii na piechotę, a czasem wpław – taką podróż odbył Brytyjczyk Karl Bushby. Trwała 28 lat i jeden dzień. W poniedziałek zakończył ją, przychodząc do rodzinnego Hull.",
       "date_published": "2026-11-07T18:55:00+01:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Strzelanina-w-centrum-Krakowa-5-zabitych-kilkunastu-rannych-i-postrzeleni-policjanci-Premier-Tusk-mowi-wprost-o-zamachu-9225484.html",
-      "url": "https://www.bankier.pl/wiadomosc/Strzelanina-w-centrum-Krakowa-5-zabitych-kilkunastu-rannych-i-postrzeleni-policjanci-Premier-Tusk-mowi-wprost-o-zamachu-9225484.html",
-      "title": "Atak terrorystyczny w Krakowie: 6 zabitych, kilkunastu rannych i postrzeleni policjanci. Premier Tusk mówi wprost o „zamachu”",
-      "content_html": "W sobotę po południu doszło do strzelaniny przy Rynku Głównym w Krakowie. Małopolska policja podała, że około godziny 15 mężczyzna z samochodu, którym wjechał na krakowski Rynek od strony ul. Sławkowskiej, zaczął oddawać serię strzałów...",
-      "date_published": "2026-11-07T18:44:00+01:00",
       "source": "Bankier.pl"
     },
     {
@@ -307,22 +331,6 @@
       "content_html": "Kiedy kurs bitcoina przebije znów 100 tys. dolarów? Dlaczego historyczne giełdowe schematy ulegają zatarciu, hossa na altcoinach nie nadeszła, a polskie banki wciąż boją się kryptowalut? Nad tymi kwestiami zastanawiali się rynkowi eksperci podczas...",
       "date_published": "2026-11-07T06:00:00+01:00",
       "source": "Bankier.pl"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/gospodarka/agencja-dbrs-obnizyla-rating-polski-w-walucie-obcej-do-z-perspektywa-stabilna",
-      "url": "https://biznes.pap.pl/wiadomosci/gospodarka/agencja-dbrs-obnizyla-rating-polski-w-walucie-obcej-do-z-perspektywa-stabilna",
-      "title": "Agencja DBRS obniżyła rating Polski w walucie obcej do \"A-\" z \"A\", perspektywa stabilna",
-      "content_html": "Agencja Morningstar DBRS obniżyła długoterminowy rating Polski w walucie obcej do \"A-\" z \"A\" - podała agencja w komunikacie. Perspektywa ratingu jest stabilna.\n\nPerspektywa poprzedniej oceny kredytowej Polski u DBRS była negatywna.\n\n\"Obniżenie ratingu do poziomu A- odzwierciedla opinię Morningstar DBRS, że sytuacja budżetowa Polski uległa pogorszeniu. Wyższe wydatki rządowe na konsumpcję, dyskrecjonalne transfery socjalne, wydatki na obronność oraz koszty pożyczkowe nie zostały w pełni zrównoważone przez wzrost dochodów, co przyczyniło się do pogłębienia strukturalnego deficytu budżetowego\" - napisano.\n\n\"Prognozuje się, że deficyt sektora gg wyniesie około 7 proc. PKB w latach 2026 i 2027. Nie spodziewamy się znaczącej korekty budżetowej przed wyborami parlamentarnymi w 2027 r. Ponadto polaryzacja polityczna i impas w tym obszarze mogą utrudnić wysiłki zmierzające do zmniejszenia deficytu w skali wystarczającej do ustabilizowania wskaźnika długu publicznego do PKB w perspektywie średnioterminowej\" - dodano.\n\nOsłabienie sytuacji budżetowej znajduje również odzwierciedlenie w wyraźnym wzroście długu publicznego - zadłużenie sektora instytucji rządowych i samorządowych ma wg DBRS wzrosnąć do 74 proc. PKB do 2028 r.\n\nPogorszenie ocen w obszarach „Zarządzanie polityką fiskalną” oraz „Zadłużenie i płynność” to kluczowe czynniki wpływające na obniżenie ratingu przez DBRS.\n\nPomimo wyzwań związanych z finansami publicznymi perspektywy gospodarcze Polski pozostają wg DBRS korzystne, wspierane przez solidny popyt krajowy, z prognozą wzrostu PKB o 2,5 proc. w 2027 r.\n\n\"Utrzymujące się wyższe ceny energii związane z konfliktem na Bliskim Wschodzie stanowią ryzyko spadku tempa wzrostu gospodarczego w najbliższej przyszłości i mogą pociągać za sobą dodatkowe koszty budżetowe\" - dodano.\n\nProfil kredytowy Polski znajduje wsparcie w związku z członkostwem Polski w UE, które wzmacnia ramy instytucjonalne i gospodarcze kraju.\n\n\"Rozbudowane zdolności obronne oraz członkostwo w NATO ograniczają potencjalnie podwyższone zagrożenia dla bezpieczeństwa zewnętrznego. Odpowiednie bufory zewnętrzne wspierają zdolność kraju do przetrwania niekorzystnych wstrząsów gospodarczych\" - napisano.\n\nUtrzymujące się wyzwania instytucjonalne stanowią ograniczenie dla ratingu.\n\n\"Ponadto polaryzacja polityczna i impas polityczny mogą z czasem utrudniać skuteczność działań politycznych mających na celu rozwiązanie problemów związanych ze strukturalną nierównowagą budżetową i wyzwaniami gospodarczymi\" - dodano.\n\nAgencja Morningstar DBRS może podwyższyć rating Polski, jeśli wystąpi jedna z poniższych sytuacji lub ich kombinacja: (1) konsolidacja budżetowa spowoduje, że relacja długu publicznego do PKB wejdzie na trwałą ścieżkę spadkową; lub (2) reformy strukturalne wzmocnią jakość instytucji i potencjał wzrostu gospodarczego.\n\nDBRS może obniżyć rating, jeśli: (1) obciążenie długiem publicznym znacznie wzrośnie w wyniku znacznego strukturalnego deficytu budżetowego lub słabszego niż oczekiwano wzrostu gospodarczego; lub (2) jakość instytucji ulegnie znacznemu pogorszeniu.",
-      "date_published": "2026-11-06T23:16:00+01:00",
-      "source": "PAP Biznes"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/gospodarka/agencja-sp-potwierdzila-rating-polski-w-walucie-obcej-na-poziomie-obnizyla-0",
-      "url": "https://biznes.pap.pl/wiadomosci/gospodarka/agencja-sp-potwierdzila-rating-polski-w-walucie-obcej-na-poziomie-obnizyla-0",
-      "title": "Agencja S&P potwierdziła rating Polski w walucie obcej na poziomie \"A-\", obniżyła perspektywę do negatywnej (opis)",
-      "content_html": "Agencja S&P Global Ratings potwierdziła w piątek wieczorem długoterminowy rating Polski w walucie obcej na poziomie \"A-\", a w walucie lokalnej obniżyła długoterminowy rating do \"A-\" z \"A\" - poinformowała agencja w komunikacie. Perspektywy obu ratingów obniżono do negatywnej ze stabilnej.\n\n\"Korekta perspektywy odzwierciedla zwiększone ryzyko, że gwałtownie rosnące zadłużenie Polski może ograniczyć zdolność rządu do reagowania na wstrząsy gospodarcze i negatywnie wpłynąć na wzrost gospodarczy\" - napisano w raporcie S&P.\n\n\"Zadłużenie publiczne Polski gwałtownie rośnie. Prognozujemy, że do 2029 r. dług netto przekroczy 70 proc. PKB, co oznacza wzrost o ponad 20 pp. w ciągu pięciu lat - takie pogorszenie sytuacji budżetowej należy do najpoważniejszych na świecie. Deficyty sektora gg gwałtownie wzrosły w ostatnich latach, osiągając średnio ponad 7 proc. PKB w latach 2025 i 2026, co wynika z wysokich wydatków na obronność (4–5 proc. PKB), rosnących wydatków socjalnych oraz znacznych kosztów wynagrodzeń w sektorze publicznym\" - dodano.\n\nAgencja może obniżyć rating Polski, jeżeli trwałe nierównowagi fiskalne i przyrost długu, przy komplikacjach związanych z polaryzacją polityczną, skutkowałyby podwyższonymi ryzykami dla wzrostu gospodarczego poprzez niższe zaufanie inwestorów, wyższe koszty pożyczkowe lub mocne i wymuszone dostosowanie fiskalne.\n\nNiższy rating mógłby również wynikać z ewentualnej eskalacji wojny Rosji z Ukrainą, co mogłoby wywrzeć presję na finanse publiczne Polski i perspektywy wzrostu, przy podwyższonych ryzykach dla bezpieczeństwa.\n\nRewizja perspektywy ratingu do stabilnej byłaby możliwa, gdyby polski rząd podjął kroki zmierzające do trwałego i znacznego ograniczenia dużych deficytów fiskalnych, co wywołałoby stopniową redukcję zadłużenia, przy uniknięciu znacznych skutków dla wzrostu gospodarczego.\n\nAgencja wskazuje, że przed wyborami parlamentarnymi w 2027 r. mało prawdopodobna jest znacząca konsolidacja budżetowa, a deficyt sektora general government szacowany jest na 7,1 proc. PKB w 2027 r. (aktualna prognoza MF to 6,7 proc. - PAP) i 6,2 proc. w 2028 r.\n\n\"Rząd Polski może być zmuszony do gwałtownej konsolidacji budżetowej w latach 2029 i 2030 – ze względu na zbliżające się konstytucyjne limity zadłużenia – o ile rosnące koszty finansowania nie spowodują wcześniejszych, wymuszonych przez rynek korekt fiskalnych. Oba scenariusze będą prawdopodobnie wiązały się z recesją i negatywnie wpłyną na perspektywy wzrostu gospodarczego\" - dodano.\n\nObniżenie ratingów w walucie krajowej, które obecnie odpowiadają ratingom w walucie obcej, odzwierciedla zmniejszoną elastyczność instytucjonalną i fiskalną Polski.\n\n\"Biorąc pod uwagę znaczne nierównowagi fiskalne oraz wyzwania instytucjonalne związane z kształtowaniem decyzji politycznych, uważamy, że gotowość i zdolność rządu do obsługi długu w walucie krajowej są obecnie na tym samym poziomie, co w przypadku długu w walucie obcej. Nasze prognozy budżetowe są obecnie gorsze niż wcześniej przewidywano, a odnotowujemy również historię niedotrzymywania celów budżetowych w ostatnim czasie w trudnym otoczeniu politycznym, co potwierdza naszą ocenę zmniejszonej elastyczności budżetowej Polski\" - napisano.\n\n\"Dzieje się tak pomimo solidnych ram polityki pieniężnej i głębokich krajowych rynków kapitałowych w złotym. Zgodnie z naszymi kryteriami nie rozróżniamy ratingów w walucie krajowej i walucie obcej, gdy sytuacja budżetowa rządu stanowi nieproporcjonalne ograniczenie kredytowe\" - dodano.\n\nS&P wskazało, że Polska ma jeden z największych deficytów pierwotnych wśród państw UE i poza nią, wynoszący około 4 proc. PKB.\n\n\"Tylko niewielka część tego deficytu wynika z tymczasowych środków łagodzących skutki wyższych cen energii, co sugeruje, że pogorszenie sytuacji budżetowej ma w dużej mierze charakter strukturalny\" - dodano.\n\nPerspektywy pozyskania finansowania przez Polskę w najbliższym czasie pozostają wg S&P korzystne dzięki kilku kluczowym czynnikom, pomimo zwiększonego zapotrzebowania ",
-      "date_published": "2026-11-06T23:03:00+01:00",
-      "source": "PAP Biznes"
     }
   ]
 }
