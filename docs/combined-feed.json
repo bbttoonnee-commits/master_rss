@@ -5,6 +5,14 @@
   "home_page_url": "https://www.bankier.pl",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/Laser-zamiast-fal-radiowych-Nowa-technologia-moze-zrewolucjonizowac-satelity-9224692.html",
+      "url": "https://www.bankier.pl/wiadomosc/Laser-zamiast-fal-radiowych-Nowa-technologia-moze-zrewolucjonizowac-satelity-9224692.html",
+      "title": "Laser zamiast fal radiowych. Nowa technologia może zrewolucjonizować satelity",
+      "content_html": "Opracowany w Grecji minisatelita ERMIS-3 przeprowadził udaną próbę laserowej łączności z naziemną stacją. Technologia ta pozwoli niewielkim satelitom przesyłać duże ilości danych znacznie szybciej niż za pomocą tradycyjnej łączności...",
+      "date_published": "2026-11-08T07:37:00+01:00",
+      "source": "Bankier.pl"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Strach-przed-szefem-silniejszy-niz-zasady-Pracownicy-wola-milczec-o-nieprawidlowosciach-9221939.html",
       "url": "https://www.bankier.pl/wiadomosc/Strach-przed-szefem-silniejszy-niz-zasady-Pracownicy-wola-milczec-o-nieprawidlowosciach-9221939.html",
       "title": "Strach przed szefem silniejszy niż zasady? Pracownicy wolą milczeć o nieprawidłowościach",
@@ -157,14 +165,6 @@
       "source": "Bankier.pl"
     },
     {
-      "id": "https://www.bankier.pl/wiadomosc/Poczta-Polska-wdraza-nowoczesne-urzadzenia-do-przeliczania-gotowki-9223676.html",
-      "url": "https://www.bankier.pl/wiadomosc/Poczta-Polska-wdraza-nowoczesne-urzadzenia-do-przeliczania-gotowki-9223676.html",
-      "title": "Poczta Polska wdraża nowoczesne urządzenia do przeliczania gotówki",
-      "content_html": "Nowoczesne urządzenia do automatycznego przeliczania i sortowania banknotów oraz monet mają ograniczyć liczby czynności wykonywanych ręcznie przez pracowników Poczty Polskiej - poinformował w środę państwowy operator pocztowy.",
-      "date_published": "2026-11-07T16:27:00+01:00",
-      "source": "Bankier.pl"
-    },
-    {
       "id": "https://www.bankier.pl/wiadomosc/Dyplomacja-w-cieniu-wojny-Katar-oglasza-postep-w-Ormuzie-wybuchaja-miny-9225454.html",
       "url": "https://www.bankier.pl/wiadomosc/Dyplomacja-w-cieniu-wojny-Katar-oglasza-postep-w-Ormuzie-wybuchaja-miny-9225454.html",
       "title": "Dyplomacja w cieniu wojny. Katar ogłasza postęp, w Ormuzie wybuchają miny",
@@ -282,46 +282,6 @@
       "title": "Apetyt Chin na złoto tylko rośnie i się nie kończy. Kupują bez przerwy od dwóch lat i właśnie dorzucili najwięcej ton",
       "content_html": "Już dwa lata trwają nieprzerwane miesięczne zakupy złota Ludowego Banku Chin. To najdłuższa seria zakupów w historii danych które Światowa Rada złota zbiera od 2002 r. Co więcej ostatnie październikowe zakupy wyniosły blisko 26 ton i były...",
       "date_published": "2026-11-07T10:00:00+01:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/PKP-ma-wielkie-plany-Chce-zarabiac-nie-tylko-na-przewozach-pasazerow-9221938.html",
-      "url": "https://www.bankier.pl/wiadomosc/PKP-ma-wielkie-plany-Chce-zarabiac-nie-tylko-na-przewozach-pasazerow-9221938.html",
-      "title": "PKP ma wielkie plany. Chce zarabiać nie tylko na przewozach pasażerów",
-      "content_html": "Rosnąca popularność podróży pociągami napędza inwestycje w tabor, dworce i usługi dla pasażerów. PKP chce także szerzej wykorzystywać potencjał swoich nieruchomości oraz rozwijać działalność...",
-      "date_published": "2026-11-07T09:00:00+01:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Podatek-od-sniegu-i-oplata-za-slub-noca-Wlochy-skasowaly-30-tys-przepisow-9222511.html",
-      "url": "https://www.bankier.pl/wiadomosc/Podatek-od-sniegu-i-oplata-za-slub-noca-Wlochy-skasowaly-30-tys-przepisow-9222511.html",
-      "title": "Podatek od śniegu i opłata za ślub nocą. Włochy skasowały 30 tys. przepisów",
-      "content_html": "30 tysięcy przepisów z czasów monarchii anulowano ostatnio we Włoszech. Rząd Giorgii Meloni uchylił między innymi podatek od śniegu, opłatę za ślub nocą i dekret w sprawie konfiskaty czworonogów dla potrzeb armii.",
-      "date_published": "2026-11-07T09:00:00+01:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Mamy-pieniadze-ale-nie-potrafimy-ich-pomnazac-PIE-pokazal-dane-9222547.html",
-      "url": "https://www.bankier.pl/wiadomosc/Mamy-pieniadze-ale-nie-potrafimy-ich-pomnazac-PIE-pokazal-dane-9222547.html",
-      "title": "Mamy pieniądze, ale nie potrafimy ich pomnażać. PIE pokazał dane",
-      "content_html": "Tylko Grecja i Rumunia posiadają niższy poziom stóp oszczędności w Unii Europejskiej niż Polska, gdzie wynosi on 9,5 proc. - przekazał Polski Instytut Ekonomiczny. Jednocześnie stopa oszczędności w Polsce systematycznie rośnie.",
-      "date_published": "2026-11-07T09:00:00+01:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Polskie-budynki-na-Spitsbergenie-zagrozone-Wybrzeze-cofa-sie-nawet-o-3-metry-9223236.html",
-      "url": "https://www.bankier.pl/wiadomosc/Polskie-budynki-na-Spitsbergenie-zagrozone-Wybrzeze-cofa-sie-nawet-o-3-metry-9223236.html",
-      "title": "Polskie budynki na Spitsbergenie zagrożone. Wybrzeże cofa się nawet o 3 metry",
-      "content_html": "Jeszcze 40 lat temu jeden z budynków Polskiej Stacji Polarnej Hornsund stał kilkadziesiąt metrów od wybrzeża. W wyniku zmian klimatu i przekształcania się wybrzeża z czasem konieczne było ustawienie go na sztucznie wzmacnianym cyplu. Stąd decyzja...",
-      "date_published": "2026-11-07T09:00:00+01:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Morningstar-dolacza-do-S-P-Rating-polski-spada-w-kolejnej-agencji-9225375.html",
-      "url": "https://www.bankier.pl/wiadomosc/Morningstar-dolacza-do-S-P-Rating-polski-spada-w-kolejnej-agencji-9225375.html",
-      "title": "Morningstar dołącza do S&P. Rating polski spada w kolejnej agencji",
-      "content_html": "Agencja Morningstar DBRS obniżyła długoterminowy rating Polski w walucie obcej do \"A-\" z \"A\" - podała agencja w komunikacie. Perspektywa ratingu jest stabilna.",
-      "date_published": "2026-11-07T08:50:00+01:00",
       "source": "Bankier.pl"
     }
   ]
