@@ -5,12 +5,116 @@
   "home_page_url": "https://www.bankier.pl",
   "items": [
     {
-      "id": "https://www.bankier.pl/wiadomosc/Podano-limity-IKE-IKZE-OIPE-na-2027-rok-Ponad-72-tys-zl-bez-podatku-Belki-9224242.html",
-      "url": "https://www.bankier.pl/wiadomosc/Podano-limity-IKE-IKZE-OIPE-na-2027-rok-Ponad-72-tys-zl-bez-podatku-Belki-9224242.html",
-      "title": "Podano limity IKE, IKZE, OIPE na 2027 rok. Ponad 72 tys. zł bez podatku Belki Ministerstwo Rodziny i Polityki Społecznej podało limity wpłat na IKE, IKZE i OIPE na 2027 rok. Po ich zsumowaniu będzie można zainwestować ponad 72 tys. złotych nie płacąc przy tym podatku Belki.",
-      "content_html": "",
+      "id": "https://biznes.pap.pl/wiadomosci/gospodarka/popyt-na-kredyty-mieszkaniowe-w-pazdzierniku-o-prawie-15-proc-wyzszy-niz",
+      "url": "https://biznes.pap.pl/wiadomosci/gospodarka/popyt-na-kredyty-mieszkaniowe-w-pazdzierniku-o-prawie-15-proc-wyzszy-niz",
+      "title": "Popyt na kredyty mieszkaniowe w październiku o prawie 15 proc. wyższy niż przed rokiem - BIK",
+      "content_html": "Wartość zapytań kredytowych w październiku wzrosła w porównaniu z ubiegłym rokiem o 14,9 proc. - podało Biuro Informacji Kredytowej. Średnia wartość wnioskowanego kredytu mieszkaniowego wyniosła 524,5 tys. zł i była o 7,2 proc. wyższa niż przed rokiem.\n\nW październiku 2026 r., w przeliczeniu na dzień roboczy, banki i SKOK-i przesłały do BIK zapytania o kredyty mieszkaniowe na kwotę wyższą o 14,9 proc. niż w październiku 2025 r. - wynika z informacji BIK.\n\nŚrednia kwota wnioskowanego kredytu mieszkaniowego wyniosła w październiku br. 524,5 tys. zł. Oznacza to, że była o 7,2 proc. wyższa niż w październiku 2025 r. oraz o 0,4 proc. wyższa niż we wrześniu br.\n\nO kredyt mieszkaniowy wnioskowało w październiku br. o 2,5 proc. więcej klientów niż rok wcześniej. Równocześnie jednak miesiąc do miesiąca ich liczba spadła o 3,2 proc.\n\nCytowany w informacji Biura kierownik Zespołu Analiz BIK Sławomir Nosal wskazał, że istotnym czynnikiem wspierającym aktywność kredytobiorców pozostają refinansowania wcześniejszych zobowiązań.\n\n„W warunkach niższych stóp procentowych oraz rosnącej konkurencji pomiędzy bankami, część klientów aktywnie poszukuje możliwości optymalizacji kosztów obsługi zadłużenia, co dodatkowo zwiększa liczbę składanych wniosków kredytowych” - wyjaśnił.\n\nNosal dodał, że wpływ na aktywność potencjalnych kredytobiorców ma również wzrost wynagrodzeń, które rosną w tempie wyższym niż inflacja, podnosząc zdolność kredytową klientów.\n\nGrupa BIK jest głównym źródłem informacji kredytowej i gospodarczej w Polsce; w skład grupy wchodzą Biuro Informacji Kredytowej i Biuro Informacji Gospodarczej InfoMonitor oraz Digital Fingerprints. (PAP)",
+      "date_published": "2026-11-09T06:37:00+01:00",
+      "source": "PAP Biznes"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/rynki/rentownosci-obligacji-wybranych-panstw-tabela-1020",
+      "url": "https://biznes.pap.pl/wiadomosci/rynki/rentownosci-obligacji-wybranych-panstw-tabela-1020",
+      "title": "Rentowności obligacji wybranych państw (tabela)",
+      "content_html": "Poniżej zestawienie rentowności obligacji wybranych państw. W tabeli kolejno rentowność aktualna, rentowność dzień wcześniej, pięć dni wcześniej, miesiąc wcześniej, trzy miesiące wcześniej i dwanaście miesięcy wcześniej (w proc.)\n\nRentowności dla typowych obligacji, podane za agencją Bloomberg.(PAP Biznes)",
+      "date_published": "2026-11-09T06:34:00+01:00",
+      "source": "PAP Biznes"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/rynki/notowania-metali-bazowych-wegla-i-paliw-tabela-1542",
+      "url": "https://biznes.pap.pl/wiadomosci/rynki/notowania-metali-bazowych-wegla-i-paliw-tabela-1542",
+      "title": "Notowania metali bazowych, węgla i paliw (tabela)",
+      "content_html": "Notowania metali bazowych na London Metal Exchange, uprawnień EUA do emisji CO2, ceny węgla energetycznego ARA na przyszły rok oraz ceny paliw.",
+      "date_published": "2026-11-09T06:33:00+01:00",
+      "source": "PAP Biznes"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/rynki/zamkniecia-na-gieldach-w-ameryce-polnocnej-i-poludniowej-tabela-914",
+      "url": "https://biznes.pap.pl/wiadomosci/rynki/zamkniecia-na-gieldach-w-ameryce-polnocnej-i-poludniowej-tabela-914",
+      "title": "Zamknięcia na giełdach w Ameryce Północnej i Południowej (tabela)",
+      "content_html": "Poniżej zamknięcia i zmiany indeksów w USA. Kanadzie, Meksyku, Brazylii i Kolumbii:",
+      "date_published": "2026-11-09T06:32:00+01:00",
+      "source": "PAP Biznes"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/gospodarka/tydzien-na-rynkach-odczyty-inflacji-za-x-i-pkb-za-iii-kw-bankierzy-z-fed-stop",
+      "url": "https://biznes.pap.pl/wiadomosci/gospodarka/tydzien-na-rynkach-odczyty-inflacji-za-x-i-pkb-za-iii-kw-bankierzy-z-fed-stop",
+      "title": "TYDZIEŃ NA RYNKACH: Odczyty inflacji za X i PKB za III kw., bankierzy z Fed, stop proc. w Rumunii",
+      "content_html": "W nadchodzących dniach rynki czekać będą na liczne odczyty inflacji za październik (w tym z USA), a także PKB za III kw. z różnych gospodarek. Sporo wystąpień zaplanowali bankierzy z Fed. Bank centralny Rumunii przedstawi decyzję ws. stóp procentowych. Ukraina, Rosja i USA odbędą trójstronne negocjacje ws. zakończenia wojny.\n\nDane o inflacji za październik napłyną m.in. z USA, Węgier, Czech, Norwegii, Francji, czy Niemiec. Z kolei odczyty PKB za III kw. podadzą statystycy ze strefy euro, Rumunii, czy Wlk. Brytanii.\n\nW USA podane zostaną jedyne miesięczne dane o CPI, ze względu na brak możliwości właściwego opracowania danych przez statystyków po długim wyłączeniu działania agend federalnych (government shutown) w październiku ubiegłego roku.\n\nW czwartek decyzję ogłosi bank centralny w Rumunii (NBR). Rynek oczekuje stabilizacji stóp na poziomie 6,50 proc.\n\nPo poprzednim posiedzeniu NBR komunikował, iż inflacja będzie wykazywać tendencję wzrostową do końca 2026 r., a pogorszenie perspektyw inflacyjnych przypisano wyższym cenom energii i żywności wynikającym z trwającego konfliktu na Bliskim Wschodzie, tegorocznej suszy oraz niedawnej deprecjacji leu po wzroście niepewności politycznej w ostatnim kwartale.\n\n\"Chociaż obecna stopa inflacji (6,6 proc. w październiku wobec 9-10 proc. w I poł. roku - PAP) znacznie przekracza górną granicę przedziału docelowego NBR (2,5 proc. +/- 1 pp.), uważamy, że NBR prawdopodobnie będzie starał się utrzymać stopy na obecnym wysokim poziomie, zamiast je dalej podnosić, ponieważ gwałtowny wzrost inflacji od połowy 2025 r. wynikał przede wszystkim z dwóch czynników przejściowych, na które polityka pieniężna nie ma wpływu: zniesienia limitu cen energii oraz podwyżki stawki VAT w II poł. 2025 r.\" - oceniają ekonomiści Goldman Sachs.\n\n\"Krajowe warunki płynnościowe są obecnie nieco luźniejsze w stosunku do stopy procentowej, co powoduje, że stopy rynkowe oscylują w dolnej części korytarza stóp NBR. Niemniej jednak spodziewamy się, że NBR utrzyma stopy procentowe na obecnym poziomie do 2027 r.\" - dodali.\n\nNa Wall Street inwestorzy przyglądać się będą dalej perspektywom sektora AI, po mocnych wahaniach pod koniec ub. tygodnia w związku z przejęciem władzy w obu Izbach Kongresu przez Demokratów w wyborach połówkowych. Wobec oczekiwań na deeskelację relacji USA z Iranem po wyborach (Republikanie upatrują przyczyn w gorszym dla siebie wyniku m.in. ze względu na wzrost inflacji w zw. z wojną) ropa w USA straciła w ub. tygodniu 14 proc., a gaz 16 proc.\n\n\"Giełdy w USA, po pozytywnej pierwszej reakcji na wyniki wyborów połówkowych, przeszły w fazę mocnej wyprzedaży, która ze spółek technologicznych rozlała się na inne sektory. Zakładamy roboczo, że globalne nastroje po weekendzie będą się raczej stabilizować niż dalej pogarszać, o ile nie pojawią się nowe informacje, które mogłyby wywołać obawy inwestorów (np. wzrost obaw o eskalację na Bliskim Wschodzie)\" - oceniają ekonomiści Erste.\n\nAnalitycy Unicredit wskazują, że rynek traktuje obecnie niepewność regulacyjną po wyborach w USA jak fundamentalne załamanie popytu na sztuczną inteligencję. Nie podzielają oni tego poglądu.\n\n\"Bardziej restrykcyjne ramy regulacyjne mogą spowodować zmienność, opóźnić niektóre przyszłe projekty i obniżyć wskaźniki wyceny. Jest jednak mało prawdopodobne, aby zakłóciły one szerszy cykl inwestycyjny w dziedzinie sztucznej inteligencji, znacząco zmieniły perspektywy wzrostu PKB w USA lub podważyły prognozy zysków, które stanowią podstawę rynków akcji. Niedawną wyprzedaż należy zatem postrzegać przede wszystkim jako proces ponownej wyceny i ograniczania ryzyka po okresie wyjątkowo intensywnego handlu, a nie jako koniec historii sztucznej inteligencji\" - napisano w raporcie Unicredit.\n\nW nadchodzących dniach zaplanowano liczne wystąpienia przedstawicieli amerykańskiej Rezerwy Federalnej. W ocenie ekonomisty ING Jamesa Kightley'a, duże wahania cen surowców energetycznych, akcji i obligacji w następstwie zdecydowanego zwycięstwa Demokratów w ",
+      "date_published": "2026-11-09T06:30:00+01:00",
+      "source": "PAP Biznes"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/gospodarka/tydzien-w-kraju-pkb-za-iii-kw-szczegoly-cpi-za-x-saldo-ca-za-ix-wyniki",
+      "url": "https://biznes.pap.pl/wiadomosci/gospodarka/tydzien-w-kraju-pkb-za-iii-kw-szczegoly-cpi-za-x-saldo-ca-za-ix-wyniki",
+      "title": "TYDZIEŃ W KRAJU: PKB za III kw., szczegóły CPI za X, saldo C/A za IX, wyniki Allegro i Amrest",
+      "content_html": "W skróconym Świętem Niepodległości tygodniu rynki czekać będą na piątkowe dane makro: wstępny odczyt PKB za III kw., finalny odczyt CPI za październik i wrześniowe saldo rachunku obrotów bieżących. Napływać będą komentarze po obniżce perspektywy ratingu Polski przez S&P. W międzyczasie wyniki przedstawią m.in. Allegro, czy Amrest.\n\nNajwiększą uwagę przykuwać będzie odczyt PKB Polski za III kw. Niedawno GUS zrewidował dane o wzroście PKB w II kwartale do 4,1 proc. z 3,9 proc. rdr oraz w I kwartale do 3,7 proc. z 3,5 proc. rdr. Na rewizję wpłynęły m.in. zmiany w spożyciu publicznym i nakładach brutto na środki trwałe.\n\nWyższy wzrost I poł. roku, w połączeniu z sygnałami hamowania aktywności w polskiej gospodarce, sygnalizuje w III kw. niższą dynamikę PKB.\n\nW ocenie ekonomistów ING wzrost PKB spadł w III kw. do 3,4 proc. co wynikało ze spadku konsumpcji, gdy wyższe ceny paliw ograniczyły siłę nabywczą gospodarstw domowych.\n\n\"Spodziewamy się również ujemnego wkładu eksportu netto, w porównaniu z dodatnim wkładem odnotowanym w II kwartale 2026 r. Aktywność inwestycyjna najprawdopodobniej utrzymała się na wysokim poziomie\" - dodano.\n\nTym razem słabsze dane o PKB mogą być wyjątkowo istotne dla oceny perspektyw polityki pieniężnej.\n\n\"Prezes NBP Adam Glapiński na czwartkowej konferencji prasowej zwracał uwagę na „wyraźnie hamujący” wzrost gospodarczy jako jeden z czynników ograniczających ryzyko inflacyjne. Najnowsza projekcja NBP (przygotowana przed ostatnią rewizją danych, która podniosła wzrost w II kw. (...) do 4,1 proc. rdr) zakłada spowolnienie wzrostu PKB w III kw. do 3,6 proc. rdr. (...) Nasza prognoza to 3,8 proc. rdr. Im słabszy okaże się ten wynik, tym mniejsze ryzyko podwyżek stóp procentowych NBP\" - oceniają w zapowiedzi tygodnia ekonomiści Erste.\n\nNBP w listopadowej projekcji mocno podwyższył prognozy inflacji na 2027 r. (średnio 4,2 proc.). Prezes NBP A. Glapiński przekazał w ub. tygodniu, że nastawienie w Radzie jest w związku z tym obecnie bardziej jastrzębie, a RPP boi się, że trzeba będzie podwyższać stopy. Dodał, że w grudniu zwyczajowo RPP nie podnosi stóp, ale jeśli ryzyka dla inflacji będą narastać, Rada jest gotowa do działania.\n\nW piątkowych wypowiedziach podwyżek stóp już w grudniu nie wykluczyli członkowie RPP H. Wnorowski i M. Zarzecki.\n\nGUS poda w piątek również finalny odczyt CPI za październik. Wstępnie wskaźnik szacowany był na 3,5 proc. wobec 4,1 proc. miesiąc wcześniej, przy spadku inflacji bazowej poniżej odczytu z września (3,1 proc.), a więc być może po raz pierwszy od marca br. poniżej 3 proc. Inwestorzy szukać będą przyczyn niskiego odczytu cen bazowych, czyli potwierdzenia, iż efekty drugiej rundy inflacji w Polsce nadal pozostają ograniczone do wąskiej kategorii dóbr i usług.\n\nW piątek NBP przedstawi saldo obrotów bieżących za wrzesień. W ocenie ekonomistów ING deficyt C/A wzrósł o ok. 1,5 proc. PKB w ujęciu 12-miesięcznym po wrześniu (-1,4 proc. po sierpniu), co oznaczałoby nominalny deficyt 2.380 mln euro.\n\n\"Handel zagraniczny nadal rozwijał się w tempie dwucyfrowym czwarty miesiąc z rzędu, przy czym eksport wzrósł o prawie 12 proc. rdr (w euro), a import o prawie 15 proc. rdr. Jeśli oficjalne dane potwierdzą nasze szacunki, oznaczałoby to, że eksport netto prawdopodobnie miał ujemny wpływ na wzrost PKB\" - dodali.\n\nNa rynek napływać będą od początku tygodnia komentarze po piątkowym przeglądzie ratingu przez S&P. Agencja utrzymała długoterminowy rating Polski w walucie obcej na poziomie „A−”, ale obniżyła rating w walucie krajowej z „A” do „A−”, a także obniżyła perspektywy obu ratingów ze stabilnej do negatywnej. Ruch był przynajmniej częściowo oczekiwany przez obserwatorów.\n\n\"Wpływ tego wydarzenia na rynek po weekendzie powinien być umiarkowany, ważniejsze będą zapewne zmiany ogólnego apetytu na ryzyko na rynkach globalnych\" - oceniają ekonomiści Erste.\n\n\"Głównym powodem pogorszenia oceny kredytowej Polski jest sytuacja fiskalna. W ocenie S&P gwałtownie rosnące zadłużenie może ograniczyć zdol",
+      "date_published": "2026-11-09T06:30:00+01:00",
+      "source": "PAP Biznes"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Polska-gospodarka-2030-Skad-wezmiemy-kapital-na-globalna-ekspansje-firm-9218207.html",
+      "url": "https://www.bankier.pl/wiadomosc/Polska-gospodarka-2030-Skad-wezmiemy-kapital-na-globalna-ekspansje-firm-9218207.html",
+      "title": "Energetyka, AI i obronność. Te sektory mogą napędzać polską gospodarkę",
+      "content_html": "Polska gospodarka stoi przed kolejnym etapem rozwoju. Po latach nadrabiania dystansu do najbardziej rozwiniętych państw coraz ważniejsze staje się nie tylko tempo wzrostu, lecz także zdolność do budowania trwałych przewag konkurencyjnych, rozwijania...",
       "date_published": "2026-11-09T06:00:00+01:00",
       "source": "Bankier.pl"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Podano-limity-IKE-IKZE-OIPE-na-2027-rok-Ponad-72-tys-zl-bez-podatku-Belki-9224242.html",
+      "url": "https://www.bankier.pl/wiadomosc/Podano-limity-IKE-IKZE-OIPE-na-2027-rok-Ponad-72-tys-zl-bez-podatku-Belki-9224242.html",
+      "title": "Podano limity IKE, IKZE, OIPE na 2027 rok. Ponad 72 tys. zł bez podatku Belki",
+      "content_html": "Ministerstwo Rodziny i Polityki Społecznej podało limity wpłat na IKE, IKZE i OIPE na 2027 rok. Po ich zsumowaniu będzie można zainwestować ponad 72 tys. złotych nie płacąc przy tym podatku Belki.",
+      "date_published": "2026-11-09T06:00:00+01:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Wyjazdy-zimowe-i-First-Minute-Jak-uniknac-strat-9224297.html",
+      "url": "https://www.bankier.pl/wiadomosc/Wyjazdy-zimowe-i-First-Minute-Jak-uniknac-strat-9224297.html",
+      "title": "Narty i First Minute. Kiedy EKUZ nie wystarczy i jak nie stracić zaliczki?",
+      "content_html": "Akcja ratunkowa ze śmigłowcem w Alpach może kosztować kilkadziesiąt tysięcy złotych, a rezygnacja z wycieczki First Minute tuż przed wylotem może oznaczać utratę niemal całej wpłaty. Listopad i koniec roku to w kalendarzu wielu Polaków moment...",
+      "date_published": "2026-11-09T06:00:00+01:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Lokaty-terminowe-we-wrzesniu-2026-r-Kolejna-zmiana-trendu-w-tym-roku-9224893.html",
+      "url": "https://www.bankier.pl/wiadomosc/Lokaty-terminowe-we-wrzesniu-2026-r-Kolejna-zmiana-trendu-w-tym-roku-9224893.html",
+      "title": "Dane NBP za wrzesień 2026 r. Wpłaty na lokaty i oprocentowanie lekko w górę",
+      "content_html": "Zgodnie z opublikowanymi przez Narodowy Bank Polski danymi wrzesień przyniósł lekkie ożywienie na rynku depozytów. Łączna wartość nowo założonych lokat wzrosła o blisko 5,5 mld zł w stosunku do wyniku z sierpnia – do poziomu 93,45 mld zł...",
+      "date_published": "2026-11-09T06:00:00+01:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Ostatnia-szansa-na-czeki-turystyczne-i-darmowe-noclegi-Czy-znow-zakonczy-sie-afera-9225042.html",
+      "url": "https://www.bankier.pl/wiadomosc/Ostatnia-szansa-na-czeki-turystyczne-i-darmowe-noclegi-Czy-znow-zakonczy-sie-afera-9225042.html",
+      "title": "Ostatnia szansa na czeki turystyczne i darmowe noclegi. Czy znów zakończy się aferą?",
+      "content_html": "Miłośnicy Warmii i Mazur po raz ostatni będą mogli zawalczyć o dopłaty do noclegów w tym regionie. To wszystko w ramach Warmińsko-Mazurskiego Czeku Turystycznego. Ze specjalnej puli mogą skorzystać m.in. seniorzy i posiadacze Karty Dużej Rodziny...",
+      "date_published": "2026-11-09T06:00:00+01:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Najpopularniejsze-samochody-w-Polsce-pazdziernik-2026-9225283.html",
+      "url": "https://www.bankier.pl/wiadomosc/Najpopularniejsze-samochody-w-Polsce-pazdziernik-2026-9225283.html",
+      "title": "W salonach pękło pół miliona a Corolla wypadła z podium",
+      "content_html": "Po raz pierwszy w historii już w październiku liczba rejestracji nowych samochodów osobowych w Polsce przekroczyła pół miliona egzemplarzy – wynika z danych Polskiego Związku Przemysłu Motoryzacyjnego. Choć sprzedaż Toyot wzrosła, to po raz...",
+      "date_published": "2026-11-09T06:00:00+01:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Banki-zaplaca-za-podszywaczy-Wieksza-ochrona-platnosci-juz-blisko-9225493.html",
+      "url": "https://www.bankier.pl/wiadomosc/Banki-zaplaca-za-podszywaczy-Wieksza-ochrona-platnosci-juz-blisko-9225493.html",
+      "title": "Banki zapłacą za „podszywaczy”. Większa ochrona płatności już blisko",
+      "content_html": "15 dni roboczych na oddanie wyłudzonych środków – takie zasady będą obowiązywać w przypadku oszustwa „na pracownika banku”. Rewolucję w podziale odpowiedzialności wprowadza unijne rozporządzenie o usługach płatniczych, które będzie...",
+      "date_published": "2026-11-09T06:00:00+01:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/rynki/trigon-dm-bardziej-pozytywnie-nastawiony-do-akcji-typuje-15-spolek-na-listopad",
+      "url": "https://biznes.pap.pl/wiadomosci/rynki/trigon-dm-bardziej-pozytywnie-nastawiony-do-akcji-typuje-15-spolek-na-listopad",
+      "title": "Trigon DM bardziej pozytywnie nastawiony do akcji, typuje 15 spółek na listopad (opinia)",
+      "content_html": "Po dwóch miesiącach niedoważania akcji analitycy Trigon DM wracają do bardziej pozytywnego nastawienia wobec rynku. Wskazują, że wyceny giełdowe wyraźnie spadły, a utrzymujący się silny globalny cykl inwestycyjny powinien nadal wspierać wzrost gospodarczy oraz wyniki spółek.\n\nW comiesięcznym raporcie dotyczącym strategii inwestycyjnej analitycy Trigon DM wskazali swoje typy na listopad. Wśród top picks znalazły się: Allegro.eu, Budimex, Medicover, Rheinmetall, Benefit Systems, Inter Cars, Cyber_Folks, Grupa Pracuj, Polimex Mostostal, Archicom, Atal, Bogdanka, Oponeo, PlayWay oraz Vigo Photonics.\n\nZ kolei w grupie, które mogą zachowywać się gorzej niż rynek, analitycy Trigon DM umieścili następujące spółki: Alior Bank, PKO BP, Kruk, KGHM, LPP, Żabka Group, Dino Polska, PGE, Tauron, Moneta, H&M, Inditex, Jeronimo Martins, CEZ, Saab, BRD, Asbis, Asseco SEE, Bank Handlowy, Creotech Instruments, Diagnostyka, Develia, JSW, Lubawa, Mo-Bruk, Murapol, Neuca, Newag, Rainbow Tours oraz Text.\n\nOmawiając perspektywy rynkowe analitycy Trigon DM wskazują, że większy potencjał na odbicie jest obecnie w Stanach Zjednoczonych niż w Europie.\n\nIch zdaniem wsparciem dla amerykańskich akcji jest stabilizacja oczekiwań dotyczących stóp procentowych i rentowności obligacji. W Europie sytuacja wygląda mniej korzystnie. Wysokie ceny gazu i energii elektrycznej przed sezonem zimowym oraz utrzymujący się kryzys polityczny we Francji mogą nadal negatywnie wpływać na nastroje inwestorów.\n\nW ocenie autorów raportu polski rynek pozostaje obecnie bliżej europejskiego niż amerykańskiego scenariusza. Dodatkowym czynnikiem ryzyka jest kryzys wokół Trybunału Konstytucyjnego, który może ograniczać zainteresowanie zagranicznych inwestorów polskimi aktywami. Presja na złotego i krajowy rynek obligacji mogłaby z kolei przełożyć się na niższe wyceny spółek notowanych na warszawskiej giełdzie.\n\nWśród kluczowych tematów wskazywanych przez analityków Trigon DM znajduje się zmiana równowagi sił politycznych w USA, która sprzyja bardziej selektywnemu podejściu do inwestowania. Ich zdaniem przejęcie przez Demokratów kontroli nad obiema izbami Kongresu może ograniczyć dalszą ekspansję fiskalną i zmniejszyć presję na wzrost rentowności amerykańskich obligacji skarbowych o długim terminie zapadalności. Jednocześnie taki układ utrudnia wprowadzanie nowych ulg podatkowych czy deregulacji wspierających poszczególne sektory gospodarki.\n\nW ocenie ekspertów Trigon DM, w takim otoczeniu preferowane są spółki o stabilnych wynikach finansowych, wysokiej jakości biznesie i trwałych przepływach pieniężnych. Dotyczy to zarówno wybranych gigantów technologicznych, jak i przedsiębiorstw wycenianych atrakcyjniej od rynku, które są mniej uzależnione od wsparcia politycznego.\n\nAnalitycy zwracają uwagę, że choć dynamika wyników przedsiębiorstw pozostaje wysoka, pojawiają się pierwsze sygnały wyhamowania. W USA zyski spółek za trzeci kwartał rosły średnio o 29 proc. rok do roku, jednak skala pozytywnych zaskoczeń względem oczekiwań okazała się najmniejsza od ośmiu kwartałów. Europa prezentuje się na tym tle lepiej, notując około 35-proc. wzrost wyników i wyraźnie większą liczbę spółek przekraczających prognozy.\n\nPrognozy dla amerykańskich przedsiębiorstw na kolejne lata nie są już tak dynamicznie podnoszone jak wcześniej. Zdaniem autorów raportu Trigon DM dalsze wzrosty indeksów będą wymagały realizacji ambitnych oczekiwań dotyczących zysków.\n\nWyzwaniem staje się także finansowanie inwestycji związanych z rozwojem sztucznej inteligencji. Oczekiwania dotyczące nakładów inwestycyjnych największych dostawców usług chmurowych wzrosły od lipca o niemal 40 proc., co oznacza potrzebę pozyskania dodatkowego kapitału poprzez emisję długu lub akcji. Jednocześnie inwestorzy stają się bardziej selektywni, co może prowadzić do wzrostu kosztów finansowania i opóźniania części projektów.\n\nWedług Trigon DM rynki w ostatnich tygodniach ograniczyły oczekiwania dotyczące skali przyszłych podwyżek stóp procentowych",
+      "date_published": "2026-11-09T06:00:00+01:00",
+      "source": "PAP Biznes"
     },
     {
       "id": "https://biznes.pap.pl/wiadomosci/ekonomia-biznes-i-finanse/skrot-wiadomosci-sobota-niedziela-7-8-listopada-0",
