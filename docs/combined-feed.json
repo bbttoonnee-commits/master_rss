@@ -5,19 +5,43 @@
   "home_page_url": "https://www.bankier.pl",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/Krzyze-Oficerskie-dla-rannych-policjantow-Prezydent-docenil-ich-odwage-9226384.html",
+      "url": "https://www.bankier.pl/wiadomosc/Krzyze-Oficerskie-dla-rannych-policjantow-Prezydent-docenil-ich-odwage-9226384.html",
+      "title": "Krzyże Oficerskie dla rannych policjantów. Prezydent docenił ich odwagę",
+      "content_html": "Prezydent Karol Nawrocki zdecydował o nadaniu policjantom z Krakowa starszym posterunkowym Jakubowi Kulikowi i Arturowi Morańskiemu Krzyży Oficerskich Orderu Odrodzenia Polski - poinformował szef BBN Bartosz Grodecki. To policjanci, którzy...",
+      "date_published": "2026-11-09T20:08:00+01:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Kryzys-migracyjny-na-Wyspach-Kanaryjskich-Rzad-uruchomil-wojskowe-samoloty-9226400.html",
+      "url": "https://www.bankier.pl/wiadomosc/Kryzys-migracyjny-na-Wyspach-Kanaryjskich-Rzad-uruchomil-wojskowe-samoloty-9226400.html",
+      "title": "Kryzys migracyjny na Wyspach Kanaryjskich. Rząd uruchomił wojskowe samoloty",
+      "content_html": "Rząd Hiszpanii wykorzystał lotnictwo wojskowe w celu przetransportowania 300 migrantów z El Hierro na Wyspach Kanaryjskich do Madrytu – poinformował w poniedziałek portal hiszpańskiego nadawcy publicznego TVE.",
+      "date_published": "2026-11-09T20:04:00+01:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Ukraina-moze-dostac-gwarancje-podobne-do-NATO-USA-ujawniaja-szczegoly-9226383.html",
+      "url": "https://www.bankier.pl/wiadomosc/Ukraina-moze-dostac-gwarancje-podobne-do-NATO-USA-ujawniaja-szczegoly-9226383.html",
+      "title": "Ukraina może dostać gwarancje podobne do NATO. USA ujawniają szczegóły",
+      "content_html": "Poprosiliśmy Rosjan o zgodę na to, byśmy mogli udzielić Ukrainie gwarancji bezpieczeństwa na wzór artykułu 4 i artykułu 5 NATO - powiedział w poniedziałek mediom amerykański urzędnik przed rozmowami trójstronnymi w Abu Zabi. Gwarancji miałby...",
+      "date_published": "2026-11-09T19:44:00+01:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Burza-wokol-szefa-Pentagonu-Kongresmeni-chca-postawic-go-w-stan-oskarzenia-9226387.html",
+      "url": "https://www.bankier.pl/wiadomosc/Burza-wokol-szefa-Pentagonu-Kongresmeni-chca-postawic-go-w-stan-oskarzenia-9226387.html",
+      "title": "Burza wokół szefa Pentagonu. Kongresmeni chcą postawić go w stan oskarżenia",
+      "content_html": "Szef Pentagonu Pete Hegseth zapewnił w poniedziałek media, że nie martwi się tym, że w Kongresie może zostać złożony wniosek o postawienie go w stan oskarżenia (impeachment). Zwołał na wtorkowy poranek konferencję prasową, na której ma...",
+      "date_published": "2026-11-09T19:40:00+01:00",
+      "source": "Bankier.pl"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Cyberatak-na-setki-supermarketow-we-Francji-Paryz-wskazuje-na-Iran-9226372.html",
       "url": "https://www.bankier.pl/wiadomosc/Cyberatak-na-setki-supermarketow-we-Francji-Paryz-wskazuje-na-Iran-9226372.html",
       "title": "Cyberatak na setki supermarketów we Francji. Paryż wskazuje na Iran",
       "content_html": "Prokuratorka Paryża Laure Beccuau poinformowała w poniedziałek o wszczęciu śledztwa wobec przedstawicieli irańskiej grupy Shahid Kaveh w sprawie październikowych cyberataków na instalacje chłodnicze w supermarketach. Szef MSZ Jean-Noel Barrot zapowiedział...",
       "date_published": "2026-11-09T19:30:00+01:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Krzyze-Oficerskie-dla-rannych-policjantow-Prezydent-docenil-ich-odwage-9226384.html",
-      "url": "https://www.bankier.pl/wiadomosc/Krzyze-Oficerskie-dla-rannych-policjantow-Prezydent-docenil-ich-odwage-9226384.html",
-      "title": "Krzyże Oficerskie dla rannych policjantów. Prezydent docenił ich odwagę",
-      "content_html": "Prezydent Karol Nawrocki zdecydował o nadaniu policjantom z Krakowa starszym posterunkowym Jakubowi Kulikowi i Arturowi Morańskiemu Krzyży Oficerskich Orderu Odrodzenia Polski - poinformował szef BBN Bartosz Grodecki. To policjanci, którzy...",
-      "date_published": "2026-11-09T19:25:00+01:00",
       "source": "Bankier.pl"
     },
     {
@@ -187,14 +211,6 @@
       "content_html": "W poniedziałek polska waluta kontynuowała piątkowe umocnienie, przy osłabiającym się dolarze. EUR/PLN spadł do 4,387, a USD/PLN obniżył się do ok. 3,919. Zniżkowały także rentowności krajowych obligacji, w porównaniu do porannych poziomów. Zdaniem ekonomistów, na rynkach panuje umiarkowany optymizm, za czym stoi m.in. spadek cen ropy.\n\nO godz. 17.00 kurs EUR/PLN spada o 0,17 proc. do 4,387, a USD/PLN idzie w dół o 0,59 proc. do 3,9188. EUR/USD zwyżkuje o 0,46 proc. do 1,1194.\n\n\"Złoty stabilizuje się na rynkach i zyskuje względem najważniejszych walut, zgodnie z globalnym trendem. (...) Inwestorzy spokojnie przyjęli piątkową decyzję agencji S&P\" - napisał w komentarzu Michał Stajniak, wicedyrektor działu analiz w XTB.\n\nW piątek agencja S&P potwierdziła rating Polski w walucie obcej na poziomie A-/A-2, ale zmieniła jego perspektywę na negatywną. Jednocześnie obniżyła rating w walucie krajowej z A/A-1 do A-/A-2, czyli do poziomu ratingu w walucie obcej.\n\nMichał Stajniak zwrócił uwagę na poniedziałkowe osłabienie dolara, za którym stoją dwa czynniki.\n\n\"Po pierwsze, odbicie na giełdach azjatyckich ograniczyło popyt na dolara jako bezpieczną przystań. (...) Po drugie, presję na dolara wywiera tańsza ropa. (...) To zmniejsza obawy przed efektami drugiej rundy i nakazuje rynkowi zastanowić się, ile podwyżek Fed faktycznie będzie potrzebnych\" - napisał Michał Stajniak.\n\nJak ocenia Mariusz Adamiak, dyrektor biura strategii rynkowych PKO BP, w poniedziałek na rynkach panuje umiarkowany optymizm.\n\n\"Rynkowi na pewno pomaga spadek ceny ropy do ok. 94 USD za baryłkę. Oczywiście to jest wciąż bardzo wysoko, jednak po sugestiach Donalda Trumpa, że nie ma w tym momencie w planach jakiejś akcji militarnej, rynek odetchnął i liczy na to, że może dojdzie do jakiejś deeskalacji, która na trwałe obniży ceny ropy\" - powiedział PAP Biznes Mariusz Adamiak.\n\n\"Jednocześnie mamy spadki rentowności papierów skarbowych w Polsce, co prawda niewielkie, ale jednak spadki. Umiarkowany optymizm rynku odnośnie Bliskiego Wschodu przekłada się na prognozy inflacyjne, a to ma wpływ na oczekiwania odnośnie decyzji banków centralnych w sprawie stóp proc.\" - dodał.\n\nEkonomiści Banku Millennium oceniają, że w tym tygodniu zmienność na rynkach finansowych w USA może być ograniczona ze względu na przypadający w środę Dzień Weteranów.\n\n\"Choć giełda pozostanie otwarta, zamknięty będzie rynek długu. Kluczową publikacją dla globalnych rynków finansowych w tym tygodniu będzie październikowy odczyt inflacji CPI w USA (wtorek). Według konsensusu, inflacja ma obniżyć się do 0,3 proc. m/m z 0,6 proc. m/m we wrześniu, m.in. za sprawą wolniejszego wzrostu cen paliw\" - napisali ekonomiści Banku Millennium w komentarzu.",
       "date_published": "2026-11-09T17:13:00+01:00",
       "source": "PAP Biznes"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Prezydent-i-premier-pojawia-sie-na-Marszu-Ciszy-Krakow-odda-hold-ofiarom-9226308.html",
-      "url": "https://www.bankier.pl/wiadomosc/Prezydent-i-premier-pojawia-sie-na-Marszu-Ciszy-Krakow-odda-hold-ofiarom-9226308.html",
-      "title": "Prezydent i premier pojawią się na Marszu Ciszy. Kraków odda hołd ofiarom",
-      "content_html": "Prezydent Karol Nawrocki i premier Donald Tusk wezmą udział w Marszu Ciszy w Krakowie, który odbędzie się w poniedziałek, o godz. 20 ku czci ofiar sobotniego zamachu.",
-      "date_published": "2026-11-09T17:11:00+01:00",
-      "source": "Bankier.pl"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/S-P-GR-zmienilo-perspektywe-Pekao-na-negatywna-po-zmianie-ratingu-Polski-9226305.html",
@@ -453,6 +469,14 @@
       "source": "Bankier.pl"
     },
     {
+      "id": "https://biznes.pap.pl/wiadomosci/firmy/develia-rozpoczela-przedsprzedaz-107-mieszkan-w-warszawie",
+      "url": "https://biznes.pap.pl/wiadomosci/firmy/develia-rozpoczela-przedsprzedaz-107-mieszkan-w-warszawie",
+      "title": "Develia rozpoczęła przedsprzedaż 107 mieszkań w Warszawie",
+      "content_html": "Develia uruchomiła przedsprzedaż mieszkań w ramach nowego projektu Anilinowa Vita zlokalizowanego na warszawskiej Białołęce - podała spółka w komunikacie prasowym. Do oferty trafiło 107 mieszkań.\n\nRozpoczęcie budowy zaplanowane jest na I kwartał 2027 r., a jej zakończenie na III kwartał 2028 r. (PAP Biznes)",
+      "date_published": "2026-11-09T13:28:00+01:00",
+      "source": "PAP Biznes"
+    },
+    {
       "id": "https://biznes.pap.pl/wiadomosci/firmy/cena-maksymalna-dla-benzyny-pb95-wyniesie-we-wtorek-604-zll-dla-774-zll",
       "url": "https://biznes.pap.pl/wiadomosci/firmy/cena-maksymalna-dla-benzyny-pb95-wyniesie-we-wtorek-604-zll-dla-774-zll",
       "title": "Cena maksymalna dla benzyny Pb95 wyniesie we wtorek 6,04 zł/l, a dla ON 7,74 zł/l",
@@ -618,14 +642,6 @@
       "title": "Domański o unijnej dyrektywie tytoniowej. Polska popiera zmiany, nie wpłyną one na ceny w kraju",
       "content_html": "Wicepremier, minister finansów Andrzej Domański powiedział w poniedziałek w Brukseli, że Polska popiera zmiany w unijnej dyrektywie dotyczącej opodatkowania wyrobów tytoniowych. Zaznaczył, że nie wpłyną one na ceny tych produktów w Polsce...",
       "date_published": "2026-11-09T11:16:00+01:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Zarobki-gornikow-gonia-IT-a-srednia-krajowa-reszty-oscyluje-wokol-9-tys-zl-9225950.html",
-      "url": "https://www.bankier.pl/wiadomosc/Zarobki-gornikow-gonia-IT-a-srednia-krajowa-reszty-oscyluje-wokol-9-tys-zl-9225950.html",
-      "title": "Zarobki górników gonią IT, a \"średnia krajowa\" reszty oscyluje wokół 9 tys. zł",
-      "content_html": "Przeciętne miesięczne wynagrodzenie brutto w III kwartale 2026 roku wyniosło 9317,01 zł brutto. To oznacza wzrost o 6,2 proc. Analiza danych pokazuje, że tempo podwyżek wyraźnie wyhamowało w porównaniu z \"szalonymi\" poprzednimi latami. Wciąż...",
-      "date_published": "2026-11-09T11:13:00+01:00",
       "source": "Bankier.pl"
     },
     {
