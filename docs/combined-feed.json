@@ -5,6 +5,14 @@
   "home_page_url": "https://www.bankier.pl",
   "items": [
     {
+      "id": "https://biznes.pap.pl/wiadomosci/rynki/dzien-na-rynkach-na-wall-street-mocne-wzrosty-w-centrum-uwagi-sektor",
+      "url": "https://biznes.pap.pl/wiadomosci/rynki/dzien-na-rynkach-na-wall-street-mocne-wzrosty-w-centrum-uwagi-sektor",
+      "title": "DZIEŃ NA RYNKACH: Na Wall Street mocne wzrosty, w centrum uwagi sektor technologiczny",
+      "content_html": "Poniedziałkowa sesja na Wall Street przyniosła wzrosty głównych indeksów, a Dow Jones zyskał na koniec dnia 1.100 punktów. Wzrosty na giełdzie wspierane były spadkiem cen ropy naftowej, a także zwyżkami akcji spółek technologicznych po ubiegłotygodniowych gwałtownych wahaniach.\n\nDow Jones Industrial na zamknięciu wzrósł o 2,15 proc. i wyniósł 52.389,75 pkt.\n\nS&P 500 na koniec dnia zyskał 2,35 proc. i wyniósł 7.549,94 pkt.\n\nNasdaq Composite zwyżkował o 2,74 proc. do 25.253,14 pkt.\n\nIndeks spółek o średniej kapitalizacji Russell 2000 rośnie o 3,20 proc. i wynosi 2.842,5 pkt.\n\nIndeks VIX spada o 22,15 proc., do 19,96 pkt.\n\nAkcje Nvidii spadły o 4 proc. Inwestorzy śledzą informacje dot. spółki Nvidia po tym, jak jej prezes, Jensen Huang, przyznał, że miał romans z kobietą, którą w serii raportów zidentyfikowano jako podejrzaną o szpiegostwo dla Chin. Spółka podała w niedzielę, że wszczyna dochodzenie w sprawie tego, że jej prezes Jensen Huang mógł być celem działań obcego wywiadu.\n\nAnalitycy oceniają, że zamieszanie związane z Nvidią grozi rozprzestrzenieniem się go na całą branżę. W ocenie Neila Wilsona z Saxo, prognozy rynkowe pozostają ostrożne, a wyprzedaż akcji Nvidii stanowi kolejny sprawdzian nastrojów inwestorów.\n\n\"Biorąc pod uwagę kluczową rolę Huanga w sukcesie Nvidii oraz w szerszym kontekście inwestycji w sztuczną inteligencję, spekulacje na temat niepewności co do przywództwa mogłyby zaniepokoić inwestorów\" – oceniła Daniela Hathorn, starsza analityczka rynku w Capital.com.\n\n\"Rynki próbują zrozumieć, co to oznacza dla firmy, która obecnie jest prawdopodobnie najważniejszym przedsiębiorstwem na świecie. Jeśli Huang będzie musiał odejść, co stanie się z Nvidią? Jak zauważyli inni, Huang jest w pewnym sensie niezastąpiony dla utrzymania przez USA pozycji lidera w dziedzinie sztucznej inteligencji\" – wskazywał Neil Wilson, strateg inwestycyjny na rynek brytyjski w Saxo.\n\nAkcje firm chipowych odbiły się w poniedziałek dzięki ponownym zakupom. W ślad za dobrymi wynikami Demokratów w połowie kadencji wciąż jednak utrzymują się obawy, a inwestorzy obawiają się, że zaostrzenie przepisów dotyczących budowy centrów danych, zużycia energii i kosztów rozwoju może spowolnić boom na infrastrukturę AI.\n\nAmazon zyskał 3 proc., podczas gdy Tesla i Alphabet wzrosły odpowiednio o 6 i 1 proc. Microsoft zyskał 3 proc.\n\nInne akcje spółek produkujących układy scalone również odnotowały wzrosty, w tym Broadcom o 9 proc.\n\nAkcje AMD zyskały ponad 13 proc. po tym, jak analitycy Oppenheimera podnieśli rekomendację dla akcji producenta układów scalonych do \"przeważaj\" z \"neutralnie\".\n\nNiedawna wyprzedaż chipów była przesadzona, ocenił Jay Hatfield, dyrektor generalny Infrastructure Capital Advisors. Dodał, że zamieszanie było nadal częściowo uzasadnione, biorąc pod uwagę, że „zdecydowanie istnieje nadwyżka polityki Demokratów zarówno w krótkiej perspektywie, jak i, co ważniejsze, w dłuższej perspektywie od 2028 roku. Wierzy on, że centra danych ostatecznie „powstaną” w USA.\n\nHatfield powiedział, że dla szerszego rynku „nie jest tak, jakby sytuacja była spokojna” po poniedziałkowym odbiciu. W rzeczywistości przewiduje, że indeks S&P 500 będzie się wahał do końca roku.\n\n„Na rynku wciąż jest wiele luk” – powiedział prezes, wskazując na wysokie ceny ropy naftowej będące skutkiem konfliktu na Bliskim Wschodzie, a także na prognozy stóp procentowych Rezerwy Federalnej.\n\nW tym tygodniu inwestorzy wyczekują kluczowych wyników finansowych spółek powiązanych z sektorem sztucznej inteligencji. Swoje raporty przedstawią m.in. CoreWeave, Cisco oraz Applied Materials.\n\nWedług danych LSEG, spośród 335 spółek z indeksu S&P 500, które do czwartku przedstawiły swoje wyniki finansowe, 82,4 proc. osiągnęło rezultaty lepsze od prognoz.\n\nInwestorzy będą również obserwować publikację indeksu cen konsumpcyjnych we wtorek i indeksu cen producenta w piątek, szukając wskazówek na temat następnych działań Rezerwy Federalnej.\n\nW nadchodzących dniach rynki będą też czekać na l",
+      "date_published": "2026-11-09T22:11:00+01:00",
+      "source": "PAP Biznes"
+    },
+    {
       "id": "https://biznes.pap.pl/wiadomosci/ekonomia-biznes-i-finanse/skrot-wiadomosci-poniedzialek-9-listopada-2100",
       "url": "https://biznes.pap.pl/wiadomosci/ekonomia-biznes-i-finanse/skrot-wiadomosci-poniedzialek-9-listopada-2100",
       "title": "Skrót wiadomości - poniedziałek, 9 listopada, 21.00",
@@ -349,14 +357,6 @@
       "source": "PAP Biznes"
     },
     {
-      "id": "https://biznes.pap.pl/wiadomosci/finanse/knf-wyrazila-zgode-na-powolanie-katarzyny-kurkowskiej-szczechowicz-na-prezes-pko",
-      "url": "https://biznes.pap.pl/wiadomosci/finanse/knf-wyrazila-zgode-na-powolanie-katarzyny-kurkowskiej-szczechowicz-na-prezes-pko",
-      "title": "KNF wyraziła zgodę na powołanie Katarzyny Kurkowskiej-Szczechowicz na prezes PKO BH",
-      "content_html": "Komisja Nadzoru Finansowego wyraziła zgodę na powołanie Katarzyny Kurkowskiej-Szczechowicz na stanowisko prezesa PKO Banku Hipotecznego - podał bank w komunikacie.\n\nJak podano, otrzymanie przedmiotowej zgody oznacza spełnienie warunku objęcia funkcji prezesa zarządu banku. (PAP Biznes)",
-      "date_published": "2026-11-09T16:14:00+01:00",
-      "source": "PAP Biznes"
-    },
-    {
       "id": "https://www.bankier.pl/wiadomosc/Rosjanie-masowo-opuszczaja-kraj-Trzy-panstwa-bija-rekordy-z-17-lat-9226235.html",
       "url": "https://www.bankier.pl/wiadomosc/Rosjanie-masowo-opuszczaja-kraj-Trzy-panstwa-bija-rekordy-z-17-lat-9226235.html",
       "title": "Rosjanie masowo opuszczają kraj. Trzy państwa biją rekordy z 17 lat",
@@ -491,6 +491,14 @@
       "content_html": "Grupa Inter Cars miała w październiku 2.335,1 mln zł przychodów, co oznacza wzrost rdr o 11,2 proc. - podała spółka w komunikacie.",
       "date_published": "2026-11-09T13:56:00+01:00",
       "source": "Bankier.pl"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/firmy/grupa-inter-cars-miala-w-pazdzierniku-23351-mln-zl-przychodow-wzrost-rdr-o-112",
+      "url": "https://biznes.pap.pl/wiadomosci/firmy/grupa-inter-cars-miala-w-pazdzierniku-23351-mln-zl-przychodow-wzrost-rdr-o-112",
+      "title": "Grupa Inter Cars miała w październiku 2.335,1 mln zł przychodów, wzrost rdr o 11,2 proc.",
+      "content_html": "Grupa Inter Cars miała w październiku 2.335,1 mln zł przychodów, co oznacza wzrost rdr o 11,2 proc. - podała spółka w komunikacie.\n\nSprzedaż Inter Carsu wyniosła 1.414,7 mln zł (wzrost o 10,3 proc. rdr), z czego sprzedaż w Polsce to 857,1 mln zł.\n\nSprzedaż spółek dystrybucyjnych za granicą wyniosła w październiku 1.298 mln zł, czyli o 14,4 proc. więcej niż przed rokiem.\n\nW okresie I-X 2026 roku grupa Inter Cars miała 19.755,4 mln zł przychodów, czyli o 13,3 proc. więcej niż rok wcześniej. (PAP Biznes)",
+      "date_published": "2026-11-09T13:54:00+01:00",
+      "source": "PAP Biznes"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Lubawa-szacuje-jednostkowa-strate-netto-za-trzy-kwartaly-26-na-0-1-mln-zl-9226128.html",
@@ -931,14 +939,6 @@
       "content_html": "Coal Energy, zgodnie ze zaktualizowaną strategią na lata 2026-28, chce w najbliższych kwartałach skupić się na modelu „Asset-Light” oraz inwestowaniu w projekty zrównoważonej energetyki - podała spółka w komunikacie.",
       "date_published": "2026-11-09T08:10:00+01:00",
       "source": "Bankier.pl"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/rynki/ceny-miedzi-w-londynie-rosna-z-3-miesiecznego-minimum",
-      "url": "https://biznes.pap.pl/wiadomosci/rynki/ceny-miedzi-w-londynie-rosna-z-3-miesiecznego-minimum",
-      "title": "Ceny miedzi w Londynie rosną z 3-miesięcznego minimum",
-      "content_html": "Notowania miedzi na giełdzie metali LME w Londynie odbijają się z 3-miesięcznego minimum - informują maklerzy.\n\nMiedź w dostawach 3-miesięcznych na LME drożeje o 0,8 proc. - do 13.881,00 USD.\n\nNa Comex w Nowym Jorku miedź kosztuje 6,3260 USD za funt, wyżej o 1,42 proc. Metal zyskał w tym roku na Comex 11,3 proc.\n\nNa giełdzie metali SHF w Szanghaju miedź jest wyceniana po 105.600 juanów za tonę, po zwyżce o 0,47 proc. i po wzroście od początku roku o 9,0 proc.\n\nCeny miedzi odbijają się z najniższego poziomu zamknięcia od końca lipca.\n\nInwestorzy rozważają \"szaleństwo\" zakupów miedzi przez firmę Trafigura Group w obliczu kryzysu podaży czerwonego metalu w Chinach.\n\nGrupa Trafigura, jeden z największych na świecie traderów miedzi, kupuje duże ilości tego metalu, aby zwiększyć jego sprzedaż w Azji - podają anonimowe źródła zbliżone do sprawy.\n\nTo nasiliło zamieszanie na rynkach miedzi i spowodowało wzrost regionalnych premii, gdy ceny miedzi spadły w kontraktach terminowych w ostatnich tygodniach poniżej 14.000 USD za tonę.\n\nAnalitycy informują, że chiński rynek zmaga się z niedoborem podaży surowców spowodowanym poważnymi ograniczeniami w ich przepływie, a to zmusiło chińskie huty miedzi do ograniczenia produkcji.\n\nNa zakończenie poprzedniej sesji miedź na LME kosztowała 13.768,00 USD za tonę, niżej o 76 USD.\n\nRekord z września na LME to 14.875,00 USD za tonę miedzi.\n\nOd początku 2026 r. cena miedzi na LME wzrosła o 10,8 proc. (PAP Biznes)",
-      "date_published": "2026-11-09T08:10:00+01:00",
-      "source": "PAP Biznes"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Creator-economy-wchodzi-na-salony-Za-nami-LOUD-congress-2-0-Zabka-Per-Dzinn-czy-Izak-nagrodzeni-9225913.html",
