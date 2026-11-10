@@ -5,11 +5,67 @@
   "home_page_url": "https://www.bankier.pl",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/Bartoszewski-uslyszal-zarzuty-Prokuratura-wylicza-milionowe-kwoty-9226624.html",
+      "url": "https://www.bankier.pl/wiadomosc/Bartoszewski-uslyszal-zarzuty-Prokuratura-wylicza-milionowe-kwoty-9226624.html",
+      "title": "Bartoszewski usłyszał zarzuty. Prokuratura wylicza milionowe kwoty",
+      "content_html": "Prokurator z mazowieckiego wydziału zamiejscowego Prokuratury Krajowej przedstawił posłowi, wiceministrowi spraw zagranicznych Władysławowi Teofilowi Bartoszewskiemu zarzuty dotyczące przywłaszczenia powierzonych środków pieniężnych oraz udaremnienia...",
+      "date_published": "2026-11-10T15:29:00+01:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Nawet-20-lat-wiezienia-za-przemyt-ludzi-MS-podnosi-kary-takze-za-napad-na-funkcjonariusza-9226886.html",
+      "url": "https://www.bankier.pl/wiadomosc/Nawet-20-lat-wiezienia-za-przemyt-ludzi-MS-podnosi-kary-takze-za-napad-na-funkcjonariusza-9226886.html",
+      "title": "Nawet 20 lat więzienia za przemyt ludzi. MS podnosi kary także za napad na funkcjonariusza",
+      "content_html": "Rząd przyjął projekt zmian w przepisach dotyczący kar za ataki na funkcjonariuszy i przemyt ludzi — poinformował po wtorkowym posiedzeniu rzecznik prasowy rządu minister Adam Szłapka.",
+      "date_published": "2026-11-10T15:24:00+01:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Mabion-podpisal-list-intencyjny-z-niemiecka-firma-FyoniBio-9226918.html",
+      "url": "https://www.bankier.pl/wiadomosc/Mabion-podpisal-list-intencyjny-z-niemiecka-firma-FyoniBio-9226918.html",
+      "title": "Mabion podpisał list intencyjny z niemiecką firmą FyoniBio",
+      "content_html": "Mabion podpisał list intencyjny z niemiecką firmą FyoniBio w celu nawiązania ścisłej współpracy w zakresie świadczenia zintegrowanych usług rozwoju linii komórkowych i produkcji leków biologicznych na rzecz klientów zewnętrznych - podał...",
+      "date_published": "2026-11-10T15:18:00+01:00",
+      "source": "Bankier.pl"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Iranscy-hakerzy-podgrzali-chlodnie-Sabotaz-w-europejskich-supermarketach-kosztowal-miliony-euro-9226878.html",
       "url": "https://www.bankier.pl/wiadomosc/Iranscy-hakerzy-podgrzali-chlodnie-Sabotaz-w-europejskich-supermarketach-kosztowal-miliony-euro-9226878.html",
       "title": "Irańscy hakerzy podgrzali chłodnie. Sabotaż w supermarketach kosztował miliony euro",
       "content_html": "Irańska grupa hakerska powiązana z Korpusem Strażników Rewolucji Islamskiej przeprowadziła serię skoordynowanych cyberataków na francuskie sieci handlowe oraz banki krwi. Poprzez manipulację systemami przemysłowymi napastnicy podnieśli temperaturę...",
       "date_published": "2026-11-10T15:00:00+01:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/firmy/bgk-zaoferuje-na-przetargu-13-listopada-cztery-serie-obligacji-fpc-za-minimalnie",
+      "url": "https://biznes.pap.pl/wiadomosci/firmy/bgk-zaoferuje-na-przetargu-13-listopada-cztery-serie-obligacji-fpc-za-minimalnie",
+      "title": "BGK zaoferuje na przetargu 13 listopada cztery serie obligacji FPC za minimalnie 500 mln zł",
+      "content_html": "Bank Gospodarstwa Krajowego na przetargu 13 listopada, w ramach emisji na rzecz Funduszu Przeciwdziałania COVID-19, zaoferuje papiery serii FPC0229, FPC0231, FPC0931 i FPC0235; podaż wyniesie minimalnie 500 mln zł - podał bank w komunikacie.\n\nBank Gospodarstwa Krajowego emituje obligacje na rzecz Funduszu Przeciwdziałania COVID-19. Fundusz przeznaczony jest dla sektora finansów publicznych. Jego pełną obsługę zapewnia BGK, w szczególności zarządza jego płynnością oraz pozyskuje finansowanie, głównie w formie emisji obligacji. (PAP Biznes)",
+      "date_published": "2026-11-10T15:00:00+01:00",
+      "source": "PAP Biznes"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Polskie-miasta-wzmacniaja-ochrone-przed-11-listopada-Betonowe-zapory-i-zakaz-noszenia-broni-9226873.html",
+      "url": "https://www.bankier.pl/wiadomosc/Polskie-miasta-wzmacniaja-ochrone-przed-11-listopada-Betonowe-zapory-i-zakaz-noszenia-broni-9226873.html",
+      "title": "Polskie miasta wzmacniają ochronę przed 11 listopada. Betonowe zapory i zakaz noszenia broni",
+      "content_html": "Polskie miasta wzmacniają środki bezpieczeństwa przed uroczystościami 11 listopada. Zwiększane będą liczby patroli policji i straży miejskich. W stolicy tego dnia obowiązywać będzie zakaz noszenia broni i korzystania z pirotechniki. Policja...",
+      "date_published": "2026-11-10T14:54:00+01:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/rynki/dzien-na-rynkach-futures-w-usa-spadaja-cpi-w-usa-za-x-w-centrum-uwagi",
+      "url": "https://biznes.pap.pl/wiadomosci/rynki/dzien-na-rynkach-futures-w-usa-spadaja-cpi-w-usa-za-x-w-centrum-uwagi",
+      "title": "DZIEŃ NA RYNKACH: Futures w USA spadają; CPI w USA za X w centrum uwagi",
+      "content_html": "Kontrakty w USA zniżkują, a indeksy w Europie są na plusach. Inwestorzy oceniają odczyt CPI w USA za październik, który okazał się wyższy od oczekiwań, a także zastanawiają się nad przyszłością prezesa Nvidii po informacjach o jego romansie z domniemaną chińską agentką. Ceny ropy spadają.\n\nKontrakty na S&P 500 zniżkują o 0,51 proc., na Dow Jones Industrial tracą 0,03 proc., a na Nasdaq Comp. spadają o 1,24 proc.\n\nRynki analizują odczyt CPI w USA za październik. Ceny konsumpcyjne w USA w październiku wzrosły w ujęciu mdm wzrosły o 0,4 proc. Oczekiwano +0,3 proc. mdm. Inflacja bazowa, czyli wskaźnik, który nie uwzględnia cen paliw i żywności, wzrosła o 0,3 proc. Oczekiwano +0,2 proc. mdm.\n\nUwaga rynku pozostaje skupiona na spółce Nvidia po tym, jak Donald Trump poinformował w poniedziałek, że FBI prowadzi dochodzenie w sprawie relacji romantycznych CEO firmy, Jensena Huanga, z chińską bizneswoman, która ma być rzekomo szpiegiem pracującym dla Pekinu. W weekend przedstawiciele spółki przekazali, że zarząd bada, czy Huang mógł stać się celem operacji prowadzonej przez zagraniczne służby wywiadowcze.\n\nWe wtorek pojawiły się również doniesienia medialne sugerujące, że romans Huanga umożliwił dostarczenie chipów firmy o wartości co najmniej 7,5 miliarda dolarów za pośrednictwem chińskich przedsiębiorstw.\n\nW handlu przedsesyjnym akcje Nvidii zniżkują o 2 proc., po tym, jak w poniedziałek spadły o 4,5 proc. W przyszłym tygodniu spółka ma również przedstawić swoje wyniki finansowe za III kw.\n\nKolejnym sprawdzianem dla sektora sztucznej inteligencji będzie oferta publiczna spółki Anthropic. Z dokumentacji złożonej u organów regulacyjnych wynika, że w ramach IPO firma może pozyskać ok. 64,4 mld dolarów. IPO Anthropic pozwoli po raz pierwszy ocenić na rynku publicznym wyceny, perspektywy wzrostu oraz ryzyka związane z przedsiębiorstwami rozwijającymi najbardziej zaawansowane technologie AI.\n\n\"Debiut giełdowy Anthropic ma kluczowe znaczenie dla przyszłości inwestycji w sektorze sztucznej inteligencji, a ryzyko jest tu asymetryczne: niepowodzenie byłoby bardzo dotkliwe, podczas gdy sukces oznaczałby jedynie, że obecny trend inwestycyjny może być kontynuowany” – wskazał Olivier David z Vega Investment Solutions.\n\n\"Łatwy zarobek na sztucznej inteligencji, polegający na kupowaniu akcji dowolnej spółki z ekosystemu AI i czerpaniu zysków z ogólnego optymizmu co do potencjału tej technologii, w dużej mierze należy już do przeszłości\" – napisał w komentarzu Aswath Damodaran, profesor finansów w Stern School of Business na Uniwersytecie Nowojorskim.\n\nCzłonek Rady Gubernatorów Systemu Rezerwy Federalnej Christopher Waller powiedział we wtorek, że popiera podwyżkę stóp proc. w grudniu, a także ostrzegł, iż jeśli inflacja będzie nadal przyspieszać, opowie się za podwyżką o pół punktu proc., aby chronić wiarygodność banku centralnego.\n\nIrański Korpus Strażników Rewolucji Islamskiej (IRGC) poinformował we wtorek, że dwa tankowce stanęły w płomieniach po serii eksplozji, do których doszło, gdy jednostki te próbowały przepłynąć „nieautoryzowaną trasą” przez cieśninę Ormuz.\n\nW poniedziałek saudyjska telewizja Al-Arabija podała, że wspólna propozycja Kataru i Pakistanu doprowadziła do wznowienia rozmów USA z Iranem. Plan przewiduje m.in. zgodę na ograniczone wzbogacanie uranu przez Iran oraz odblokowanie do 9 mld dolarów irańskich środków zamrożonych za granicą.\n\n\"Sytuacja polityczna Trumpa zmieniła się wraz z wyborami środka kadencji, co prawdopodobnie zwiększa prawdopodobieństwo, że będzie on chciał zawrzeć porozumienie z Iranem, zanim jego działania zostaną ograniczone przez Kongres” – wskazał Joost van Leenders, starszy strateg inwestycyjny w firmie Van Lanschot Kempen Investment Management.\n\nW poniedziałek Dow Jones Industrial na zamknięciu wzrósł o 2,15 proc. i wyniósł 52.389,75 pkt. S&P 500 na koniec dnia zyskał 2,35 proc. i wyniósł 7.549,94 pkt. Nasdaq Composite zwyżkował o 2,74 proc. do 25.253,14 pkt.\n\nSrebro zniżkuje o 0,9 proc. do poziomu 52,20 US",
+      "date_published": "2026-11-10T14:53:00+01:00",
+      "source": "PAP Biznes"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Inflacja-CPI-w-USA-zwalnia-ale-nie-az-tak-jak-prognozowano-Chaos-sprzed-roku-odbil-sie-na-statystyce-danych-9226893.html",
+      "url": "https://www.bankier.pl/wiadomosc/Inflacja-CPI-w-USA-zwalnia-ale-nie-az-tak-jak-prognozowano-Chaos-sprzed-roku-odbil-sie-na-statystyce-danych-9226893.html",
+      "title": "Inflacja CPI w USA zwalnia, ale nie aż tak jak prognozowano. Chaos sprzed roku odbił się na statystyce danych",
+      "content_html": "Październikowa inflacja CPI w USA była wyższa, niż oczekiwano wynika z komunikatu rządowego Biura Statystyki Pracy. Z uwagi na zeszłoroczny paraliż rządu federalnego biuro opublikowało tylko dane w ujęciu miesięcznym. Nie mniej pokazane statystyki...",
+      "date_published": "2026-11-10T14:51:00+01:00",
       "source": "Bankier.pl"
     },
     {
@@ -19,6 +75,14 @@
       "content_html": "Pilny przegląd przepisów ws. broni, pomoc państwa dla ofiar zamachu w Krakowie i przygotowanie rozporządzenia ws. pieniędzy z SAFE dla służb mundurowych - zapowiedział we wtorek premier Donald Tusk.",
       "date_published": "2026-11-10T14:47:00+01:00",
       "source": "Bankier.pl"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/gospodarka/rzad-przyjal-projekt-usprawniajacy-przygotowanie-budowy-pierwszej-0",
+      "url": "https://biznes.pap.pl/wiadomosci/gospodarka/rzad-przyjal-projekt-usprawniajacy-przygotowanie-budowy-pierwszej-0",
+      "title": "Rząd przyjął projekt usprawniający przygotowanie budowy pierwszej elektrowni jądrowej (opis)",
+      "content_html": "Rząd przyjął projekt ustawy usprawniającej przygotowanie budowy pierwszej elektrowni jądrowej - poinformował rzecznik rządu Adam Szłapka na konferencji prasowej.\n\nChodzi o projekt ustawy o zmianie ustawy o przygotowaniu i realizacji inwestycji w zakresie obiektów energetyki jądrowej oraz inwestycji towarzyszących oraz niektórych innych ustaw.\n\n\"Będą prostsze przepisy, które mają usprawnić przygotowanie budowy pierwszej polskiej elektrowni jądrowej. Nowelizacja wprowadza bezterminowe decyzje lokalizacyjne, upraszcza zasady uzyskiwania prawa użytkowania wieczystego oraz porządkuje wybrane procedury administracyjne. Także podwykonawcy uzyskają większą ochronę przed brakiem zapłaty za wykonane roboty budowlane\" - powiedział Szłapka.\n\nMinisterstwo Energii podało w komunikacie, że celem nowelizacji jest dostosowanie przepisów do specyfiki inwestycji jądrowych, których przygotowanie i realizacja są procesami wieloletnimi i złożonymi, a obecne regulacje nie zawsze uwzględniają skalę tych przedsięwzięć, co może utrudniać sprawne prowadzenie kolejnych etapów inwestycji.\n\nProjekt przewiduje szereg zmian, w tym m.in. bezterminowe decyzje lokalizacyjne.\n\n\"Decyzje o ustaleniu lokalizacji inwestycji jądrowych będą wydawane na czas nieokreślony, zamiast obecnego maksymalnego okresu 10 lat. Rozwiązanie ma wyeliminować wątpliwości związane ze skutkami upływu okresu obowiązywania decyzji\" - podał w komunikacie resort energii.\n\nProjekt zakłada ponadto uproszczenie zasad uzyskiwania prawa do nieruchomości, tj. ujednolicenie sposobu uzyskiwania przez inwestora prawa użytkowania wieczystego z rozwiązaniami stosowanymi w innych specustawach inwestycyjnych.\n\nPrzyjęte przez rząd rozwiązania doprecyzowują także procedury administracyjne, w tym określenie zasad zmiany decyzji lokalizacyjnych i pozwoleń na prace przygotowawcze, a także sposobu doręczania i zawiadamiania stron o działaniach organów administracji po wydaniu decyzji.\n\nProjekt zakłada też bezpieczny dostęp do dokumentacji technicznej - wprowadza zasady udostępniania dokumentów zawierających szczególnie wrażliwe informacje techniczne i technologiczne, w tym raportów z analiz bezpieczeństwa oraz dokumentacji objętej ochroną praw autorskich.\n\nProjekt zakłada ponadto możliwość przedkładania wybranych dokumentów w języku angielskim.\n\n\"Inwestor będzie mógł, zgodnie z opinią lub zgodą Prezesa Państwowej Agencji Atomistyki, składać dokumenty w języku angielskim w postępowaniach dotyczących zezwoleń na działalność związaną z obiektami jądrowymi\" - napisano w komunikacie resortu energii.\n\nProjekt zakłada także większą ochronę podwykonawców - wprowadzenie przepisów regulujących odpowiedzialność Polskich Elektrowni Jądrowych z siedzibą w Gdańsku za bezpośrednią zapłatę wynagrodzenia podwykonawcom i dalszym podwykonawcom wykonującym roboty budowlane przy pierwszej w Polsce elektrowni jądrowej (EJ1).\n\nPrzyjęte rozwiązania umożliwiają stronom umów dotyczących inwestycji w zakresie EJ1 określanie wyłącznych przyczyn i skutków odstąpienia od umowy, w celu uwzględnienia specyfiki sektora jądrowego.\n\nProjekt dostosowuje też harmonogram finansowania projektu EJ1 poprzez zmianę rocznych limitów wydatków budżetu państwa na wsparcie Polskich Elektrowni Jądrowych – tak, aby lepiej odpowiadały potrzebom finansowym inwestycji.\n\nPrzyjęta przez Radę Ministrów aktualizacja Programu polskiej energetyki jądrowej zakłada budowę dwóch elektrowni o łącznej mocy do 9 GWe.\n\n\"Pierwsza elektrownia jądrowa powstanie w lokalizacji Lubiatowo-Kopalino na Pomorzu. Będzie składać się z trzech reaktorów o łącznej mocy około 3,75 GWe. Trwają prace przygotowawcze do budowy elektrowni, a uruchomienie pierwszego bloku planowane jest na 2036 r.\" - napisano w komunikacie Ministerstwa Energii.\n\n\"Projekt drugiej elektrowni jądrowej jest na etapie przygotowań. Preferowane lokalizacje to Bełchatów i Konin. Wybór partnera technologicznego planowany jest na 2027 r., a uruchomienie pierwszego bloku około 2040 r.\" - dodano. (PAP Biznes)",
+      "date_published": "2026-11-10T14:46:00+01:00",
+      "source": "PAP Biznes"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Lawrow-stawia-zaporowy-warunek-Rosja-chce-przehandlowac-rozejmem-za-ustepstwa-NATO-9226833.html",
@@ -35,6 +99,14 @@
       "content_html": "Grupa Lentex szacuje, że w pierwszych trzech kwartałach 2026 roku miała 18,06 mln zł zysku netto i 34,17 mln zł EBITDA. Szacowane przychody netto wyniosły 239,9 mln zł - podała spółka w komunikacie. (PAP Biznes)",
       "date_published": "2026-11-10T14:34:00+01:00",
       "source": "Bankier.pl"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/firmy/grupa-lentex-szacuje-ze-w-pierwszych-trzech-kwartalach-26-miala-ponad-18-mln-zl",
+      "url": "https://biznes.pap.pl/wiadomosci/firmy/grupa-lentex-szacuje-ze-w-pierwszych-trzech-kwartalach-26-miala-ponad-18-mln-zl",
+      "title": "Grupa Lentex szacuje, że w pierwszych trzech kwartałach '26 miała ponad 18 mln zł zysku netto",
+      "content_html": "Grupa Lentex szacuje, że w pierwszych trzech kwartałach 2026 roku miała 18,06 mln zł zysku netto i 34,17 mln zł EBITDA. Szacowane przychody netto wyniosły 239,9 mln zł - podała spółka w komunikacie. (PAP Biznes)\n\nLentex szacuje, że w pierwszych trzech kwartałach 2026 roku miał 14,99 mln zł zysku netto i 21,76 mln zł EBITDA. Szacowane przychody netto wyniosły 132,7 mln zł - podała spółka w komunikacie.\n\nLentex szacuje, że w I półroczu 2026 roku miał 10,1 mln zł zysku netto i 20,3 mln zł EBITDA. Szacowane przychody netto wyniosły 153,9 mln zł - podała spółka w komunikacie. (PAP Biznes)\n\nLentex w ramach ogłoszonej oferty zakupu nabył 1 mln akcji własnych po cenie 12,5 zł za akcję - podała spółka w komunikacie.\n\nLentex zaprasza do sprzedaży poza rynkiem regulowanym do 1 mln akcji spółki po cenie 12,5 zł za akcję - podała spółka w komunikacie.\n\ntel. (+48 22) 509 22 25dystrybucja@pap.pl",
+      "date_published": "2026-11-10T14:32:00+01:00",
+      "source": "PAP Biznes"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Nienawisc-bez-immunitetu-akademickiego-Szybki-koniec-kariery-za-slowa-wykladowczyni-9226839.html",
@@ -269,14 +341,6 @@
       "source": "Bankier.pl"
     },
     {
-      "id": "https://biznes.pap.pl/wiadomosci/firmy/83-proc-firm-zamierza-zwiekszyc-inwestycje-w-zrownowazony-rozwoj-w-ciagu-12-18",
-      "url": "https://biznes.pap.pl/wiadomosci/firmy/83-proc-firm-zamierza-zwiekszyc-inwestycje-w-zrownowazony-rozwoj-w-ciagu-12-18",
-      "title": "83 proc. firm zamierza zwiększyć inwestycje w zrównoważony rozwój w ciągu 12-18 mies. - raport",
-      "content_html": "83 proc. firm na świecie zamierza zwiększyć inwestycje w zrównoważony rozwój w ciągu najbliższych 12-18 miesięcy. Z kolei 71 proc. badanych przedstawicieli kadry kierowniczej podaje, że zapewnienie dostępu do kluczowych zasobów wpływa obecnie na decyzje dotyczące zrównoważonego rozwoju bardziej niż same cele redukcji emisji - wynika z raportu \"A world in balance 2026: The resilience reset\" autorstwa Capgemini Research Institute.\n\n\"Przez lata rozmowa o zrównoważonym rozwoju dotyczyła przede wszystkim tego, ile firma emituje. Dziś równie ważne jest pytanie, czy firma będzie w stanie dalej działać. Odporność przestaje być dodatkiem do strategii klimatycznej, a staje się warunkiem sfinansowania transformacji. Dlatego inwestycje w zrównoważony rozwój warto oceniać tak samo, jak każdą inną inwestycję w ciągłość działania: przez ryzyko, które zmniejszają i wartość, którą chronią\" - powiedział, cytowany w komunikacie prasowym, Przemysław Struzik, senior director strategy & transformation w Capgemini Polska.\n\nSkutki zagrożeń zmian klimatycznych przekładają się na funkcjonowanie przedsiębiorstw.\n\nJak wynika z raportu \"A world in balance 2026: The resilience reset\", 87 proc. organizacji uczestniczących w badaniu doświadczyło zakłóceń w łańcuchach dostaw związanych ze zmianą klimatu.\n\nInnymi, wymienionymi w raporcie, konsekwencjami były problemy produkcyjne, niedobory surowców, wyższe koszty działalności czy rosnące wydatki na ubezpieczenia.\n\nW odpowiedzi na wyzwania organizacje zaczynają wdrażać proces adaptacji.\n\nObecnie 68 proc. menedżerów deklaruje, że ich organizacje aktywnie traktują adaptację jako priorytet strategii klimatycznej, wobec 56 proc. odnotowanych rok wcześniej.\n\nZmiana podejścia przedsiębiorstw jest widoczna w ich wynikach finansowych. Jak wynika z raportu, 69 proc. organizacji deklaruje dodatni wzrost z inwestycji w inicjatywy związane ze zrównoważonym rozwojem. W 2025 r. ten odsetek wynosił 49 proc.\n\nMimo zwiększania nakładów na realizację celów zrównoważonego rozwoju osiągnięcie ich pozostaje wyzwaniem.\n\nOdsetek organizacji, które odroczyły realizację swoich celów neutralności emisyjnej (net zero), wzrósł z 8 proc. w 2025 roku do 29 proc. w 2026 roku.\n\nZ kolei 66 proc. badanych przedsiębiorstw przyznaje, że dostosowanie ambitnych działań na rzecz zrównoważonego rozwoju do celów opartych na podstawach naukowych sprawia im trudność.\n\n\"Wyzwaniem nie jest dziś brak ambicji, tylko ich przełożenie na decyzje operacyjne. Wiele organizacji zarządza ryzykiem, którego nie potrafi jeszcze wycenić, a to zawsze kończy się odkładaniem trudnych decyzji\" - powiedział Struzik.\n\nJak podano w raporcie, jedną z technologii mogących pomóc w przezwyciężaniu barier jest sztuczna inteligencja.\n\n\"Sztuczna inteligencja może tu realnie pomóc w optymalizacji zasobów, analizie ryzyk i planowaniu łańcuchów dostaw. Warunkiem są jednak wiarygodne dane i kontrola tego, jak same rozwiązania AI wpływają na środowisko\" - dodał Struzik.\n\nJak wynika z badania, 64 proc. kadry kierowniczej deklaruje, że ich organizacje wykorzystują AI do realizacji celów zrównoważonego rozwoju.\n\nRaport Capgemini Research Institute \"A world in balance 2026: The resilience reset\" opiera się na badaniu 2100 przedstawicieli kadry kierowniczej z 701 organizacji o rocznych przychodach przekraczających 1 mld USD, działających w 13 krajach, oraz na badaniu 6500 konsumentów. Badania ankietowe przeprowadzono w czerwcu i lipcu 2026 roku. (PAP Biznes)",
-      "date_published": "2026-11-10T12:08:00+01:00",
-      "source": "PAP Biznes"
-    },
-    {
       "id": "https://www.bankier.pl/wiadomosc/PHS-Hydrotor-dostal-oferte-nabycia-nieruchomosci-za-19-mln-zl-netto-9226707.html",
       "url": "https://www.bankier.pl/wiadomosc/PHS-Hydrotor-dostal-oferte-nabycia-nieruchomosci-za-19-mln-zl-netto-9226707.html",
       "title": "PHS Hydrotor dostał ofertę nabycia nieruchomości za 19 mln zł netto",
@@ -285,27 +349,11 @@
       "source": "Bankier.pl"
     },
     {
-      "id": "https://biznes.pap.pl/wiadomosci/firmy/phs-hydrotor-dostal-oferte-nabycia-nieruchomosci-za-19-mln-zl-netto",
-      "url": "https://biznes.pap.pl/wiadomosci/firmy/phs-hydrotor-dostal-oferte-nabycia-nieruchomosci-za-19-mln-zl-netto",
-      "title": "PHS Hydrotor dostał ofertę nabycia nieruchomości za 19 mln zł netto",
-      "content_html": "PHS Hydrotor dostał ofertę nabycia nieruchomości we Wrocławiu, szacowana cena netto to 19 mln zł. Spółka planuje zwołać NZW na 10 grudnia 2026 r. - podano w komunikacie.\n\nSpółka podała, że jest gotowa przyjąć ofertę na warunkach uzgodnionych między stronami, które obejmują: uzyskanie zgody Zgromadzenia Akcjonariuszy spółki na zbycie nieruchomości, przeprowadzenia przez potencjalnego kupującego badania stanu prawnego i technicznego nieruchomości oraz utworzenia przez potencjalnego kupującego w uzgodnionym terminie spółki, która nabędzie nieruchomość.\n\nZawarcie umowy sprzedaży nieruchomości miałoby się odbyć najpóźniej do dnia 31 marca 2027 r. (PAP Biznes)",
-      "date_published": "2026-11-10T12:02:00+01:00",
-      "source": "PAP Biznes"
-    },
-    {
       "id": "https://www.bankier.pl/wiadomosc/Ceny-rogali-swietomarcinskich-zaskakuja-Sprawdzili-gdzie-jest-najtaniej-9226497.html",
       "url": "https://www.bankier.pl/wiadomosc/Ceny-rogali-swietomarcinskich-zaskakuja-Sprawdzili-gdzie-jest-najtaniej-9226497.html",
       "title": "Ceny rogali świętomarcińskich zaskakują. Sprawdzili, gdzie jest najtaniej",
       "content_html": "Ceny rogali świętomarcińskich zmieniły się nieznacznie w porównaniu do ubiegłego roku - wynika z danych aplikacji PanParagon. Kilogram tych wypieków w dyskontach kosztuje średnio 37,80 zł, droższe są w cukierniach - 57,01 zł.",
       "date_published": "2026-11-10T12:00:00+01:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Bartoszewski-uslyszal-zarzuty-Prokuratura-wylicza-milionowe-kwoty-9226624.html",
-      "url": "https://www.bankier.pl/wiadomosc/Bartoszewski-uslyszal-zarzuty-Prokuratura-wylicza-milionowe-kwoty-9226624.html",
-      "title": "Bartoszewski usłyszał zarzuty. Prokuratura wylicza milionowe kwoty",
-      "content_html": "Prokurator z mazowieckiego wydziału zamiejscowego Prokuratury Krajowej przedstawił posłowi, wiceministrowi spraw zagranicznych Władysławowi Teofilowi Bartoszewskiemu zarzuty dotyczące przywłaszczenia powierzonych środków pieniężnych oraz udaremnienia...",
-      "date_published": "2026-11-10T11:33:00+01:00",
       "source": "Bankier.pl"
     },
     {
@@ -357,14 +405,6 @@
       "source": "Bankier.pl"
     },
     {
-      "id": "https://biznes.pap.pl/wiadomosci/gospodarka/miesieczny-indeks-koniunktury-spadl-w-listopadzie-do-993-pkt-wracajac-ponizej",
-      "url": "https://biznes.pap.pl/wiadomosci/gospodarka/miesieczny-indeks-koniunktury-spadl-w-listopadzie-do-993-pkt-wracajac-ponizej",
-      "title": "Miesięczny Indeks Koniunktury spadł w listopadzie do 99,3 pkt., wracając poniżej poziomu neutralnego - PIE",
-      "content_html": "Miesięczny Indeks Koniunktury (MIK) spadł w listopadzie 2026 r. o 3,1 pkt. mdm do 99,3 pkt. Po październikowym wzroście wskaźnik ponownie znalazł się nieznacznie poniżej poziomu neutralnego - podał Polski Instytut Ekonomiczny.\n\nW ujęciu rocznym wartość wskaźnika była o 9,2 pkt. niższa niż w listopadzie 2025 r.\n\nSpośród siedmiu komponentów tworzących MIK, wskaźniki trzech – płynności finansowej, wynagrodzeń oraz zatrudnienia – pozostały powyżej poziomu neutralnego, co oznacza przewagę ocen pozytywnych nad negatywnymi w tych obszarach.\n\nPIE podał w raporcie, że wskaźnik zatrudnienia, który w październiku spadł poniżej 100 pkt., wzrósł mdm najmocniej spośród wszystkich komponentów i ponownie znalazł się nad tym progiem.\n\n\"Odczyty dla pozostałych czterech komponentów są poniżej poziomu neutralnego – nowe zamówienia i wartość sprzedaży, które w październiku przekroczyły 100 pkt., ponownie spadły poniżej tego progu. Utrzymująca się słabość inwestycji, komponentu o najniższej wartości wskaźnika, może świadczyć o ostrożnym podejściu przedsiębiorców do nowych przedsięwzięć rozwojowych oraz o niepewności co do przyszłego popytu\" - napisano w raporcie.\n\nPłynność finansowa pozostaje najmocniejszym komponentem MIK, mimo nieznacznego spadku mdm.\n\n\"Potwierdzają to odpowiedzi przedsiębiorców – 55 proc. firm deklaruje, że posiadane środki finansowe pozwalają na funkcjonowanie ponad 3 miesiące, a kolejne 28 proc. dysponuje rezerwami wystarczającymi na 2-3 miesiące. Tylko 5 proc. przedsiębiorstw ocenia swoją płynność jako niedostateczną\" - napisano w raporcie.\n\nWskaźnik wynagrodzeń nieznacznie spadł mdm, ale pozostaje wyraźnie powyżej poziomu neutralnego.\n\n\"Podwyżki wynagrodzeń w najbliższych trzech miesiącach planuje 15 proc. przedsiębiorstw, 83 proc. zamierza utrzymać płace na obecnym poziomie, a tylko 2 proc. ma w planach ich obniżenie\" - wskazuje PIE.\n\nZ kolei wskaźnik zatrudnienia wzrósł w listopadzie najmocniej spośród wszystkich komponentów i po październikowym spadku ponownie znalazł się powyżej poziomu neutralnego.\n\n\"Zwiększenie zatrudnienia w najbliższych trzech miesiącach planuje 9 proc. badanych firm. Zdecydowana większość przedsiębiorców (ponad 80 proc.) chce utrzymać obecny poziom zatrudnienia\" - napisano w raporcie.\n\nOcena wykorzystania mocy produkcyjnych pozostaje bez większych zmian i utrzymuje się nieznacznie poniżej poziomu neutralnego.\n\nWskaźnik nowych zamówień spadł mdm o ponad 10 pkt. i ponownie znalazł się poniżej poziomu neutralnego, po październikowym wzroście do najwyższego odczytu w tym roku.\n\n\"Wzrost mdm liczby nowych zamówień odnotowało 13 proc. przedsiębiorstw, 64 proc. nie zaobserwowało zmian, natomiast 23 proc. wskazało na ich spadek\" - wskazują autorzy raportu.\n\nWskaźnik wartości sprzedaży spadł mdm najbardziej spośród wszystkich komponentów i ponownie znalazł się poniżej poziomu neutralnego - 16 proc. przedsiębiorstw odnotowało wzrost mdm sprzedaży, 60 proc. nie zauważyło zmian, natomiast 24 proc. wskazało na jej spadek.\n\nInwestycje pozostają zdecydowanie najsłabszym komponentem MIK, z najgłębszym spadkiem rdr spośród wszystkich obszarów.\n\n\"Wydatki inwestycyjne poniosło 36 proc. przedsiębiorstw, natomiast 64 proc. nie realizowało inwestycji, najczęściej z powodu braku potrzeby (49 proc. firm). Na brak możliwości finansowych wskazało 15 proc. przedsiębiorstw\" - napisano w raporcie PIE. (PAP Biznes)",
-      "date_published": "2026-11-10T10:51:00+01:00",
-      "source": "PAP Biznes"
-    },
-    {
       "id": "https://www.bankier.pl/wiadomosc/Obligacje-skarbowe-znow-przyciagaja-miliardy-Te-kupowalismy-najczesciej-w-pazdzierniku-9226628.html",
       "url": "https://www.bankier.pl/wiadomosc/Obligacje-skarbowe-znow-przyciagaja-miliardy-Te-kupowalismy-najczesciej-w-pazdzierniku-9226628.html",
       "title": "Obligacje skarbowe znów przyciągają miliardy. Te kupowaliśmy najczęściej w październiku",
@@ -379,14 +419,6 @@
       "content_html": "Prezydent Karol Nawrocki, na wniosek ministra obrony narodowej Władysława Kosiniaka-Kamysza, mianował dziesięciu oficerów Wojska Polskiego na stopnie generalskie - poinformowało we wtorek Biuro Bezpieczeństwa Narodowego. Akty mianowania zostaną...",
       "date_published": "2026-11-10T10:39:00+01:00",
       "source": "Bankier.pl"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/firmy/dzien-na-gpw-wig20-i-wig-lekko-rosna-ale-spada-mwig40-odbija-kurs-orlenu",
-      "url": "https://biznes.pap.pl/wiadomosci/firmy/dzien-na-gpw-wig20-i-wig-lekko-rosna-ale-spada-mwig40-odbija-kurs-orlenu",
-      "title": "DZIEŃ NA GPW: WIG20 i WIG lekko rosną, ale spada mWIG40; odbija kurs Orlenu",
-      "content_html": "We wtorek na warszawskiej giełdzie indeksy WIG20 i WIG kontynuują wzrosty, natomiast mWIG40 spada. Negatywnie na ten indeks wpływają m. in. kilkuprocentowe spadki Ten Square Games i Benefit Systems. Zniżkuje Dino, ale odbija kurs Orlenu, po 11 sesjach niemal nieprzerwanych zniżek.\n\nOk. godz. 10.20 WIG20 rośnie o 0,3 proc. do ok. 4.177 pkt., WIG zwyżkuje o 0,2 proc. do ok. 157.577 pkt. mWIG40 idzie w dół o 0,2 proc. do ok. 10.637 pkt., a sWIG80 traci 0,01 proc. i wynosi 29.248 pkt.\n\nW indeksie WIG20 we wtorek rośnie ponad połowa spółek, a najmocniej Orlen, o 1,4 proc.\n\nKurs Orlenu przez 11. poprzednich sesji spadał niemal bez przerwy i łącznie stracił w tym czasie ponad 19 proc.\n\nKurs spółki podąża śladem ceny ropy. Od 26 października do poniedziałkowego zamknięcia cena baryłki ropy Brent spadła o ponad 16 proc. We wtorek ropa na rynkach tanieje kolejny dzień po tym, jak prezydent USA Donald Trump stwierdził, że dalsze ataki USA na Iran nie będą konieczne.\n\nNa warszawskiej giełdzie dobrze radzi sobie LPP, które rośnie o 1,3 proc.\n\nAkcje Allegro drożeją o 0,8 proc. Kurs Allegro systematycznie rośnie od 17 września, a do 9 listopada poszedł do góry o ponad 33 proc.\n\nWiększość banków notowanych w WIG20 radzi sobie lepiej od indeksu, jednak Erste i mBank lekko tracą.\n\nmBank od 29 października do 9 listopada wzrósł o niemal 20 proc.\n\nAlior zwyżkuje siódmy raz z rzędu, tym razem o 0,9 proc. Na sześciu poprzednich sesjach łącznie zyskał 5 proc. Wcześniej kurs spółki wahał się, łącznie przez pięć poprzednich miesięcy wzrósł o ok. 10 proc.\n\nS&P Global Ratings obniżył perspektywę Banku Pekao do negatywnej po zmianie ratingu Polski. Agencja potwierdziła długoterminowy i krótkoterminowy rating banku na poziomie \"A-/A-2\" oraz \"resolution counterparty ratings\" na poziomie \"A/A-1\". Potwierdzono również rating \"senior subordinated debt\" na poziomie \"BBB\" oraz ratingi długu podporządkowanego na poziomie \"BBB-\".\n\nWe wtorek wśród blue chipów najsłabsze jest Dino, ze spadkiem o ponad 1 proc. Od miesiąca kurs spółki waha się i łącznie wzrósł o ok. 5 proc. W indeksie mWIG40 negatywnie wyróżniają się Ten Square Games i Benefit Systems.\n\nTen Square Games spada o ok. 9 proc. Spółka miała w III kw. 2026 roku 8,9 mln zł skorygowanej EBITDA, zysk netto j.d. wyniósł 5,1 mln zł, a przychody osiągnęły 98,9 mln zł. Konsensus PAP Biznes zakładał 12,6 mln zł skorygowanego wyniku EBITDA, 97,9 mln zł przychodów oraz 7,9 mln zł zysku netto j.d.\n\nAkcje Ten Square Games systematycznie tanieją od dwóch miesięcy i do poniedziałkowego zamknięcia straciły na wartości ponad 13 proc.\n\nWe wtorek Benefit Systems zniżkuje o 5,4 proc. Kurs spółki rósł od połowy września a do poniedziałkowego zamknięcia poszedł do góry o ponad 28 proc.\n\nWśród średnich spółek najmocniejszy jest Creotech Instruments, ze zwyżką o 3,6 proc. Spółka traciła wcześniej przez ponad miesiąc i łącznie spadła o 16,6 proc.\n\nXTB rośnie o 1,5 proc. Jak wynika z danych KDPW, spółka w ciągu roku do końca października pozyskała 620,262 tys. rachunków maklerskich. Na koniec października 2026 roku liczba rachunków papierów wartościowych oraz rachunków zbiorczych XTB wyniosła 1,336 mln.\n\nW indeksie sWIG80 najmocniej rośnie Boryszew, o 3,7 proc., a Niewiadów zyskuje 3,6 proc. Po ok. 3 proc. zwyżkują: Onde i Digital Network.\n\nToya zyskuje 1,6 proc. Spółka od początku listopada do poniedziałkowego zamknięcia zyskała łącznie 17,6 proc. Akcje spółki szczególnie mocno zdrożały w piątek 6 listopada, po publikacji wyników kwartalnych.\n\nZarząd Echo Investment zdecydował o warunkowej wypłacie zaliczki na poczet dywidendy za 2026 r. w wysokości 0,40 zł na akcję - poinformował deweloper w komunikacie. Łączna kwota przeznaczona na wypłatę zaliczki wyniesie ok. 165,1 mln zł. Kurs spółki idzie do góry o 2,2 proc.\n\nNajsłabsza w sWIG80 jest Medinice, ze zniżką o 6,6 proc.\n\nO 3,4 roc. spada DataWalk. Spółka powróciła do spadków po dwóch wzrostowych sesjach. Łącznie przez ok. trzy poprzednie miesiące akcje DataWalk staniały o ponad ",
-      "date_published": "2026-11-10T10:38:00+01:00",
-      "source": "PAP Biznes"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Krakow-uruchamia-zbiorke-dla-poszkodowanych-Mozna-wplacac-zlote-euro-i-dolary-9226621.html",
@@ -821,12 +853,28 @@
       "source": "PAP Biznes"
     },
     {
+      "id": "https://biznes.pap.pl/wiadomosci/rynki/kalendarium-rynku-kapitalowego-gpw-2026-11-10",
+      "url": "https://biznes.pap.pl/wiadomosci/rynki/kalendarium-rynku-kapitalowego-gpw-2026-11-10",
+      "title": "Kalendarium rynku kapitałowego GPW 2026-11-10",
+      "content_html": "Kalendarium rynku kapitałowego GPW 2026-11-10\n\n09:00 - FASING - Nadzwyczajne walne zgromadzenie\n\nW sprawie przyjęcia polityki równowagi płci, zmian w statucie.\n\n11:00 - RAFAMET - Nadzwyczajne walne zgromadzenie\n\nW sprawie akcji zwykłych imiennych serii L.\n\nZaliczka na poczet dywidendy w wysokości 0,65 PLN na akcję.\n\n10:00 - GREENX - Zwyczajne walne zgromadzenie\n\nDywidenda w wysokości 0,068 EUR na akcję.\n\n11:00 - PCCROKITA - Nadzwyczajne walne zgromadzenie\n\nW sprawie emisji akcji serii E, zmian w radzie nadzorczej, przyjęcia polityki równowagi płci.\n\n11:00 - SNTVERSE - Nadzwyczajne walne zgromadzenie\n\n12:00 - ENEA - Nadzwyczajne walne zgromadzenie\n\nW sprawie zmian w składzie RN, przyjęcia polityki DEIB oraz polityki różnorodności i równowagi płci.\n\nZaliczka dywidendy w wysokości 0,35 USD na akcję.",
+      "date_published": "2026-11-10T07:00:00+01:00",
+      "source": "PAP Biznes"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Impeachment-Hegsetha-Republikanski-kongresmen-zlozyl-wniosek-9226418.html",
       "url": "https://www.bankier.pl/wiadomosc/Impeachment-Hegsetha-Republikanski-kongresmen-zlozyl-wniosek-9226418.html",
       "title": "Impeachment Hegsetha. Republikański kongresmen złożył wniosek",
       "content_html": "Ustępujący republikański kongresmen Thomas Massie zgłosił w poniedziałek wniosek o postawienie ministra obrony USA Pete'a Hegsetha w stan oskarżenia (impeachment), m.in. w związku z jego działaniami podczas wojny z Iranem. Głosowanie nad...",
       "date_published": "2026-11-10T06:58:00+01:00",
       "source": "Bankier.pl"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/firmy/ozywienie-na-europejskim-rynku-nieruchomosci-bedzie-nierownomierne-i-potrwa-dluzej",
+      "url": "https://biznes.pap.pl/wiadomosci/firmy/ozywienie-na-europejskim-rynku-nieruchomosci-bedzie-nierownomierne-i-potrwa-dluzej",
+      "title": "Ożywienie na europejskim rynku nieruchomości będzie nierównomierne i potrwa dłużej - raport",
+      "content_html": "Ożywienie na europejskim rynku nieruchomości będzie nierównomierne i potrwa dłużej, niż wcześniej oczekiwano. Polska wyróżnia się perspektywami wzrostu – wynika z raportu „Emerging Trends in Real Estate Europe 2027”, opracowanego przez PwC i Urban Land Institute (ULI).\n\nZ raportu wynika, że w warunkach słabego wzrostu gospodarczego i utrzymującej się niepewności inwestorzy szukają przede wszystkim trwałych dochodów oraz możliwości poprawy wyników poszczególnych aktywów. Na tym tle Polska wyróżnia się dynamiką gospodarki, dostępnością finansowania i wzrostem aktywności inwestycyjnej.\n\n45 proc. respondentów, będących przedstawicielami branży, oczekuje wzrostu rentowności działalności w 2027 r., wobec 50 proc. w poprzedniej edycji badania.\n\nJak podano, na decyzje inwestycyjne wpływają m.in. wysokie rentowności obligacji, niestabilność geopolityczna, koszty energii i budowy oraz perspektywa utrzymywania się podwyższonych stóp procentowych.\n\nCoraz istotniejsza staje się również przewidywalność otoczenia regulacyjnego. Zwiększające się obciążenia regulacyjne zalicza do trzech najważniejszych wyzwań dotyczących nieruchomości 38 proc. badanych. Wśród kwestii społecznych i politycznych niestabilność na poziomie krajowym wskazuje 41 proc. respondentów.\n\nPonadto, zdaniem uczestników badania wyniki inwestycji będą w większym stopniu zależeć od stabilności dochodów i sprawności zarządzania niż od powszechnego wzrostu wartości nieruchomości.\n\nJednocześnie popyt najemców pozostaje relatywnie stabilny, finansowanie dłużne jest dostępne, a większą aktywność wykazują inwestorzy prywatni, w tym family offices. Uczestnicy rynku dostrzegają możliwości zakupu atrakcyjnych aktywów na warunkach, które uzasadniają długoterminowe zaangażowanie kapitału.\n\n\"Pomimo trudnego otoczenia gospodarczego w krótkim terminie popyt najemców pozostaje trwały. Jednocześnie rosnąca rola family offices i innych źródeł kapitału prywatnego pomaga równoważyć utrzymującą się ostrożność inwestorów instytucjonalnych stosujących strategie core. Nasze badanie wskazuje, że ta rozbieżność tworzy istotne możliwości, szczególnie tam, gdzie zaburzenia rynkowe pozwalają wejść w inwestycję na atrakcyjnych warunkach\" - powiedział, cytowany w komunikacie prasowym, Jean-Baptiste Deschryver, lider sektora nieruchomości PwC w regionie EMEA.\n\nZdaniem ekspertów, przekształcenia rynku sprzyjają fuzjom i przejęciom. Dodatkową zachętą do przejęć są dyskonta, z jakimi notowane są akcje części spółek nieruchomościowych względem wartości ich aktywów netto.\n\nJak wynika z raportu, na czele rankingu sektorów pozostają centra danych oraz nowa infrastruktura energetyczna. Wysoko oceniane są również nieruchomości ochrony zdrowia i różne formy mieszkalnictwa, odpowiadające na zmiany demograficzne i niedostateczną podaż.\n\n\"Choć dłuższe, niż oczekiwaliśmy, ożywienie nie jest scenariuszem, na który liczył europejski rynek nieruchomości, tegoroczne badanie pokazuje dużą zdolność naszej branży do dostosowywania się do utrzymującej się niepewności. Potwierdza również jej odporność w przedłużającym się okresie zmian\" - dodał Simon Durkin, dyrektor generalny ULI Europe.\n\nTrzy pierwsze miejsca w rankingu perspektyw inwestycyjnych i deweloperskich ponownie zajęły Londyn, Madryt i Paryż. Warszawa trzeci rok z rzędu utrzymuje 12. miejsce w zestawieniu, pozostając najwyżej ocenianym miastem Europy Środkowo-Wschodniej.\n\n\"Polska została przedstawiona w raporcie jako główny rynek wzrostu w Europie Środkowo-Wschodniej. Jej atutami są dynamika gospodarki, konkurencyjne finansowanie dłużne i dobra płynność banków\" - napisano.\n\n\"Polska ma mocne argumenty w konkurencji o kapitał: rozwijającą się gospodarkę i potrzeby, które tworzą przestrzeń dla długoterminowych inwestycji. Ich wykorzystanie wymaga jednak przewidywalnych warunków działania i projektów, które będą odpowiadały użytkownikom także za kilkanaście lat\" - oceniła Anna Szelc, przewodnicząca ULI Poland.\n\nRaport „Emerging Trends in Real Estate Europe 2027” został prz",
+      "date_published": "2026-11-10T06:55:00+01:00",
+      "source": "PAP Biznes"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Papiez-do-ludzi-pracy-gospodarka-powinna-sluzyc-czlowiekowi-a-nie-czlowiek-gospodarce-9226425.html",
@@ -1005,38 +1053,6 @@
       "source": "Bankier.pl"
     },
     {
-      "id": "https://www.bankier.pl/wiadomosc/Krzyze-Oficerskie-dla-rannych-policjantow-Prezydent-docenil-ich-odwage-9226384.html",
-      "url": "https://www.bankier.pl/wiadomosc/Krzyze-Oficerskie-dla-rannych-policjantow-Prezydent-docenil-ich-odwage-9226384.html",
-      "title": "Krzyże Oficerskie dla rannych policjantów. Prezydent docenił ich odwagę",
-      "content_html": "Prezydent Karol Nawrocki zdecydował o nadaniu policjantom z Krakowa starszym posterunkowym Jakubowi Kulikowi i Arturowi Morańskiemu Krzyży Oficerskich Orderu Odrodzenia Polski - poinformował szef BBN Bartosz Grodecki. To policjanci, którzy...",
-      "date_published": "2026-11-09T20:08:00+01:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Kryzys-migracyjny-na-Wyspach-Kanaryjskich-Rzad-uruchomil-wojskowe-samoloty-9226400.html",
-      "url": "https://www.bankier.pl/wiadomosc/Kryzys-migracyjny-na-Wyspach-Kanaryjskich-Rzad-uruchomil-wojskowe-samoloty-9226400.html",
-      "title": "Kryzys migracyjny na Wyspach Kanaryjskich. Rząd uruchomił wojskowe samoloty",
-      "content_html": "Rząd Hiszpanii wykorzystał lotnictwo wojskowe w celu przetransportowania 300 migrantów z El Hierro na Wyspach Kanaryjskich do Madrytu – poinformował w poniedziałek portal hiszpańskiego nadawcy publicznego TVE.",
-      "date_published": "2026-11-09T20:04:00+01:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Burza-wokol-szefa-Pentagonu-Kongresmeni-chca-postawic-go-w-stan-oskarzenia-9226387.html",
-      "url": "https://www.bankier.pl/wiadomosc/Burza-wokol-szefa-Pentagonu-Kongresmeni-chca-postawic-go-w-stan-oskarzenia-9226387.html",
-      "title": "Burza wokół szefa Pentagonu. Kongresmeni chcą postawić go w stan oskarżenia",
-      "content_html": "Szef Pentagonu Pete Hegseth zapewnił w poniedziałek media, że nie martwi się tym, że w Kongresie może zostać złożony wniosek o postawienie go w stan oskarżenia (impeachment). Zwołał na wtorkowy poranek konferencję prasową, na której ma...",
-      "date_published": "2026-11-09T19:40:00+01:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Cyberatak-na-setki-supermarketow-we-Francji-Paryz-wskazuje-na-Iran-9226372.html",
-      "url": "https://www.bankier.pl/wiadomosc/Cyberatak-na-setki-supermarketow-we-Francji-Paryz-wskazuje-na-Iran-9226372.html",
-      "title": "Cyberatak na setki supermarketów we Francji. Paryż wskazuje na Iran",
-      "content_html": "Prokuratorka Paryża Laure Beccuau poinformowała w poniedziałek o wszczęciu śledztwa wobec przedstawicieli irańskiej grupy Shahid Kaveh w sprawie październikowych cyberataków na instalacje chłodnicze w supermarketach. Szef MSZ Jean-Noel Barrot zapowiedział...",
-      "date_published": "2026-11-09T19:30:00+01:00",
-      "source": "Bankier.pl"
-    },
-    {
       "id": "https://biznes.pap.pl/wiadomosci/gospodarka/marszalek-senatu-wyznaczyla-senatorom-termin-na-skladanie-kandydatur-do-rpp-w",
       "url": "https://biznes.pap.pl/wiadomosci/gospodarka/marszalek-senatu-wyznaczyla-senatorom-termin-na-skladanie-kandydatur-do-rpp-w",
       "title": "Marszałek Senatu wyznaczyła senatorom termin na składanie kandydatur do RPP w dn. 9-25 listopada (aktl.)",
@@ -1093,43 +1109,11 @@
       "source": "Bankier.pl"
     },
     {
-      "id": "https://biznes.pap.pl/wiadomosci/gospodarka/dzien-na-fxfi-zloty-umocnil-sie-przy-oslabiajacym-sie-dolarze-eurpln-ponizej",
-      "url": "https://biznes.pap.pl/wiadomosci/gospodarka/dzien-na-fxfi-zloty-umocnil-sie-przy-oslabiajacym-sie-dolarze-eurpln-ponizej",
-      "title": "DZIEŃ NA FX/FI: Złoty umocnił się przy osłabiającym się dolarze; EUR/PLN poniżej 4,39",
-      "content_html": "W poniedziałek polska waluta kontynuowała piątkowe umocnienie, przy osłabiającym się dolarze. EUR/PLN spadł do 4,387, a USD/PLN obniżył się do ok. 3,919. Zniżkowały także rentowności krajowych obligacji, w porównaniu do porannych poziomów. Zdaniem ekonomistów, na rynkach panuje umiarkowany optymizm, za czym stoi m.in. spadek cen ropy.\n\nO godz. 17.00 kurs EUR/PLN spada o 0,17 proc. do 4,387, a USD/PLN idzie w dół o 0,59 proc. do 3,9188. EUR/USD zwyżkuje o 0,46 proc. do 1,1194.\n\n\"Złoty stabilizuje się na rynkach i zyskuje względem najważniejszych walut, zgodnie z globalnym trendem. (...) Inwestorzy spokojnie przyjęli piątkową decyzję agencji S&P\" - napisał w komentarzu Michał Stajniak, wicedyrektor działu analiz w XTB.\n\nW piątek agencja S&P potwierdziła rating Polski w walucie obcej na poziomie A-/A-2, ale zmieniła jego perspektywę na negatywną. Jednocześnie obniżyła rating w walucie krajowej z A/A-1 do A-/A-2, czyli do poziomu ratingu w walucie obcej.\n\nMichał Stajniak zwrócił uwagę na poniedziałkowe osłabienie dolara, za którym stoją dwa czynniki.\n\n\"Po pierwsze, odbicie na giełdach azjatyckich ograniczyło popyt na dolara jako bezpieczną przystań. (...) Po drugie, presję na dolara wywiera tańsza ropa. (...) To zmniejsza obawy przed efektami drugiej rundy i nakazuje rynkowi zastanowić się, ile podwyżek Fed faktycznie będzie potrzebnych\" - napisał Michał Stajniak.\n\nJak ocenia Mariusz Adamiak, dyrektor biura strategii rynkowych PKO BP, w poniedziałek na rynkach panuje umiarkowany optymizm.\n\n\"Rynkowi na pewno pomaga spadek ceny ropy do ok. 94 USD za baryłkę. Oczywiście to jest wciąż bardzo wysoko, jednak po sugestiach Donalda Trumpa, że nie ma w tym momencie w planach jakiejś akcji militarnej, rynek odetchnął i liczy na to, że może dojdzie do jakiejś deeskalacji, która na trwałe obniży ceny ropy\" - powiedział PAP Biznes Mariusz Adamiak.\n\n\"Jednocześnie mamy spadki rentowności papierów skarbowych w Polsce, co prawda niewielkie, ale jednak spadki. Umiarkowany optymizm rynku odnośnie Bliskiego Wschodu przekłada się na prognozy inflacyjne, a to ma wpływ na oczekiwania odnośnie decyzji banków centralnych w sprawie stóp proc.\" - dodał.\n\nEkonomiści Banku Millennium oceniają, że w tym tygodniu zmienność na rynkach finansowych w USA może być ograniczona ze względu na przypadający w środę Dzień Weteranów.\n\n\"Choć giełda pozostanie otwarta, zamknięty będzie rynek długu. Kluczową publikacją dla globalnych rynków finansowych w tym tygodniu będzie październikowy odczyt inflacji CPI w USA (wtorek). Według konsensusu, inflacja ma obniżyć się do 0,3 proc. m/m z 0,6 proc. m/m we wrześniu, m.in. za sprawą wolniejszego wzrostu cen paliw\" - napisali ekonomiści Banku Millennium w komentarzu.",
-      "date_published": "2026-11-09T17:13:00+01:00",
-      "source": "PAP Biznes"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/firmy/sp-gr-zmienilo-perspektywe-pekao-na-negatywna-po-zmianie-ratingu-polski",
-      "url": "https://biznes.pap.pl/wiadomosci/firmy/sp-gr-zmienilo-perspektywe-pekao-na-negatywna-po-zmianie-ratingu-polski",
-      "title": "S&P GR zmieniło perspektywę Pekao na negatywną po zmianie ratingu Polski",
-      "content_html": "S&P Global Ratings obniżył perspektywę Banku Pekao do negatywnej po zmianie ratingu Polski - podało S&P GR w komunikacie. Agencja potwierdziła długoterminowy i krótkoterminowy rating banku na poziomie \"A-/A-2\" oraz \"resolution counterparty ratings\" na poziomie \"A/A-1\". Potwierdzono również rating \"senior subordinated debt\" na poziomie \"BBB\" oraz ratingi długu podporządkowanego na poziomie \"BBB-\".\n\n\"Negatywna perspektywa odzwierciedla naszą opinię, że w przypadku obniżenia ratingu Polski obniżylibyśmy również ratingi Pekao, ponieważ uważamy, że odporność banku nie jest większa niż odporność państwa polskiego\" - napisano w komunikacie.\n\n\"Uważamy, że Bank Polska Kasa Opieki byłby podatny na sytuacją państwa, ze względu na koncentrację działalności kredytowej na rynku krajowym oraz znaczący portfel polskich obligacji skarbowych znajdujących się w jego bilansie\" - dodano.\n\nPrzypomniano, że zmiana perspektywy ratingu Polski wynika ze wzrostu ryzyka, że szybko rosnący dług publiczny może ograniczyć zdolność rządu do reagowania na szoki gospodarcze oraz negatywnie wpłynąć na wzrost gospodarczy.\n\n\"Zgodnie z naszą metodologią ratingową, co do zasady ograniczamy ratingi banków skoncentrowanych na rynku krajowym do poziomu ratingu danego państwa, chyba że oczekujemy, iż bank będzie w stanie utrzymać płynność i kapitalizację na poziomach, które regulator uznałby za akceptowalne nawet w scenariuszu stresu sovereign\" - napisano. (PAP Biznes)",
-      "date_published": "2026-11-09T17:09:00+01:00",
-      "source": "PAP Biznes"
-    },
-    {
       "id": "https://www.bankier.pl/wiadomosc/Spolka-zalezna-Onde-ma-Umowe-z-PSE-za-23-6-mln-zl-netto-9226267.html",
       "url": "https://www.bankier.pl/wiadomosc/Spolka-zalezna-Onde-ma-Umowe-z-PSE-za-23-6-mln-zl-netto-9226267.html",
       "title": "Spółka zależna Onde ma Umowę z PSE za 23,6 mln zł netto Spółka zależna Onde - Przedsiębiorstwo Badawczo-Wdrożeniowe Olmex - podpisała umowę z PSE na modernizację SE Gdańsk I poprzez wymianę AT3 za 23,6 mln zł netto - podało Onde w komunikacie. Umowa będzie realizowana w latach 2026-2028.",
       "content_html": "",
       "date_published": "2026-11-09T16:36:00+01:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/BFG-wyznaczyl-BOS-Bankowi-wymog-MREL-nadal-wynosi-12-proc-TREA-9226193.html",
-      "url": "https://www.bankier.pl/wiadomosc/BFG-wyznaczyl-BOS-Bankowi-wymog-MREL-nadal-wynosi-12-proc-TREA-9226193.html",
-      "title": "BFG wyznaczył BOŚ Bankowi wymóg MREL - nadal wynosi 12 proc. TREA BFG wyznaczył BOŚ Bankowi wymóg MREL-TREA, który nie uległ zmianie w stosunku do wymogu ustalonego dla banku w oparciu o dane skonsolidowane w poprzednim cyklu planistycznym, i w dalszym ciągu wynosi 12 proc. TREA - podał bank w komunikacie.",
-      "content_html": "",
-      "date_published": "2026-11-09T15:10:00+01:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Agencja-Rozwoju-Przemyslu-udzieli-JSW-do-1-066-mln-zl-pozyczki-9226190.html",
-      "url": "https://www.bankier.pl/wiadomosc/Agencja-Rozwoju-Przemyslu-udzieli-JSW-do-1-066-mln-zl-pozyczki-9226190.html",
-      "title": "JSW pożyczy ponad miliard złotych od ARP. Pieniądze na ratowanie spółki Jastrzębska Spółka Węglowa ma umowę pożyczki w wysokości do 1.066 mln zł z Agencją Rozwoju Przemysłu m.in. na rozliczenie zaliczki 400 mln zł z tytułu przedwstępnej umowy sprzedaży udziałów i akcji oraz na finansowanie działalności JSW prowadzonej w okresie realizacji programu naprawczego Grupy - podała JSW w komunikacie. Okres finansowania trwa do 30.06.2038 r.",
-      "content_html": "",
-      "date_published": "2026-11-09T15:08:00+01:00",
       "source": "Bankier.pl"
     }
   ]
