@@ -5,20 +5,84 @@
   "home_page_url": "https://www.bankier.pl",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/Cognor-Holding-planuje-pozyskanie-finansowania-w-drodze-emisji-akcji-9227092.html",
+      "url": "https://www.bankier.pl/wiadomosc/Cognor-Holding-planuje-pozyskanie-finansowania-w-drodze-emisji-akcji-9227092.html",
+      "title": "Cognor Holding planuje pozyskanie finansowania w drodze emisji akcji Cognor Holding planuje przeprowadzenie oferty publicznej w trybie subskrypcji prywatnej maksymalnie 27.840.000 nowych akcji z wyłączeniem prawa poboru, co stanowi 12,0 proc. obecnego kapitału - podała spółka w komunikacie prasowym.",
+      "content_html": "",
+      "date_published": "2026-11-10T18:20:00+01:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Rzad-przyjal-nowele-o-homologacji-pojazdow-Elektroniczne-swiadectwa-zgodnosci-zastapia-papier-9227016.html",
+      "url": "https://www.bankier.pl/wiadomosc/Rzad-przyjal-nowele-o-homologacji-pojazdow-Elektroniczne-swiadectwa-zgodnosci-zastapia-papier-9227016.html",
+      "title": "Rząd przyjął nowelę o homologacji pojazdów. Elektroniczne świadectwa zgodności zastąpią papier",
+      "content_html": "Uregulowanie i uproszczenie zasad wystawiania oraz udostępniania elektronicznych świadectw zgodności dla nowych pojazdów, które objęte są unijnymi świadectwami homologacji - to główne cele przyjętej we wtorek przez rząd noweli przepisów...",
+      "date_published": "2026-11-10T18:18:00+01:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Bartoszewski-uslyszal-zarzuty-Prokuratura-wylicza-milionowe-kwoty-9226624.html",
+      "url": "https://www.bankier.pl/wiadomosc/Bartoszewski-uslyszal-zarzuty-Prokuratura-wylicza-milionowe-kwoty-9226624.html",
+      "title": "Bartoszewski usłyszał zarzuty. Prokuratura wylicza milionowe kwoty",
+      "content_html": "Prokurator z mazowieckiego wydziału zamiejscowego Prokuratury Krajowej przedstawił posłowi, wiceministrowi spraw zagranicznych Władysławowi Teofilowi Bartoszewskiemu zarzuty dotyczące przywłaszczenia powierzonych środków pieniężnych oraz udaremnienia...",
+      "date_published": "2026-11-10T18:16:00+01:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Sankcje-zamiast-bomb-Waszyngton-stawia-na-ekonomiczne-dlawienie-Iranu-9227013.html",
+      "url": "https://www.bankier.pl/wiadomosc/Sankcje-zamiast-bomb-Waszyngton-stawia-na-ekonomiczne-dlawienie-Iranu-9227013.html",
+      "title": "Sankcje zamiast bomb. Waszyngton stawia na ekonomiczne dławienie Iranu",
+      "content_html": "Sekretarz stanu USA Marco Rubio ocenił we wtorek, że nie ma potrzeby wznawiać działań wojennych przeciwko Iranowi, bo presja ekonomiczna działa i zmusi Iran do ustępstw. Pytany o potencjalny impeachment szefa Pentagonu, odparł zaś, że wykonywał...",
+      "date_published": "2026-11-10T18:16:00+01:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Zaplaca-z-wlasnej-kieszeni-Minister-Zurek-zada-od-neosedziow-milionow-zlotych-9227006.html",
+      "url": "https://www.bankier.pl/wiadomosc/Zaplaca-z-wlasnej-kieszeni-Minister-Zurek-zada-od-neosedziow-milionow-zlotych-9227006.html",
+      "title": "Zapłacą z własnej kieszeni? Minister Żurek żąda od neosędziów milionów złotych",
+      "content_html": "Prokurator generalny Waldemar Żurek poinformował, że podpisał we wtorek kolejnych 27 wezwań do zapłaty kierowanych do tzw. neosędziów Sądu Najwyższego.",
+      "date_published": "2026-11-10T18:15:00+01:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Plynal-prosto-z-Rosji-stanal-u-wrot-USA-Tajemniczy-impas-wokol-tankowca-z-dieslem-9226999.html",
+      "url": "https://www.bankier.pl/wiadomosc/Plynal-prosto-z-Rosji-stanal-u-wrot-USA-Tajemniczy-impas-wokol-tankowca-z-dieslem-9226999.html",
+      "title": "Płynął prosto z Rosji, stanął u wrót USA. Tajemniczy impas wokół tankowca z dieslem",
+      "content_html": "Pierwszy tankowiec z ładunkiem rosyjskiego oleju napędowego dla Stanów Zjednoczonych zatrzymał się u wschodnich wybrzeży USA - wykazały we wtorek dane firmy LSEG monitorującej ruch morski. Operator jednostki podał, że nie ustalono jeszcze portu...",
+      "date_published": "2026-11-10T18:13:00+01:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Mysla-ze-kupia-Putina-lukratywnymi-dealami-Eksperci-bezlitosni-dla-amerykanskich-negocjatorow-9226998.html",
+      "url": "https://www.bankier.pl/wiadomosc/Mysla-ze-kupia-Putina-lukratywnymi-dealami-Eksperci-bezlitosni-dla-amerykanskich-negocjatorow-9226998.html",
+      "title": "Myślą, że kupią Putina lukratywnymi dealami. Eksperci bezlitośni dla amerykańskich negocjatorów",
+      "content_html": "Biznesowe zachęty administracji USA nie skłonią Władimira Putina do ustępstw i rozejmu w wojnie przeciw Ukrainie. Ale Kreml sygnalizuje, że chce kontynuować „tango” z Donaldem Trumpem - oceniają we wtorek amerykańskie media.",
+      "date_published": "2026-11-10T18:11:00+01:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Zla-wiadomosc-dla-tankujacych-LPG-Ministerstwo-Finansow-ucina-nadzieje-na-ulgi-9226996.html",
+      "url": "https://www.bankier.pl/wiadomosc/Zla-wiadomosc-dla-tankujacych-LPG-Ministerstwo-Finansow-ucina-nadzieje-na-ulgi-9226996.html",
+      "title": "Zła wiadomość dla tankujących LPG. Ministerstwo Finansów ucina nadzieje na ulgi",
+      "content_html": "Zmiany cen LPG mają nieporównanie mniejszy wpływ na ogólny poziom inflacji niż zmiany cen benzyny czy ropyON; włączenie LPG do preferencji w zakresie programu „CPN” nie jest obecnie planowane - podał w odpowiedzi na interpelację poselską...",
+      "date_published": "2026-11-10T18:03:00+01:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Yandex-skompromitowany-Rosyjski-gigant-nie-odzyska-czesci-danych-bo-zapominal-o-kopiach-9226986.html",
+      "url": "https://www.bankier.pl/wiadomosc/Yandex-skompromitowany-Rosyjski-gigant-nie-odzyska-czesci-danych-bo-zapominal-o-kopiach-9226986.html",
+      "title": "Yandex skompromitowany. Rosyjski gigant nie odzyska części danych, bo zapominał o kopiach",
+      "content_html": "Rosyjska firma Yandex bezpowrotnie utraciła 2,84 proc. danych klientów usługi chmurowej Yandex Cloud w wyniku ukraińskich ataków na jej centra danych. W odpowiedzi spółka zapowiedziała zmianę zasad tworzenia kopii zapasowych – podał we wtorek...",
+      "date_published": "2026-11-10T18:02:00+01:00",
+      "source": "Bankier.pl"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/iFirma-wyplaci-zaliczke-na-poczet-dywidendy-w-wysokosci-0-32-zl-na-akcje-9227075.html",
       "url": "https://www.bankier.pl/wiadomosc/iFirma-wyplaci-zaliczke-na-poczet-dywidendy-w-wysokosci-0-32-zl-na-akcje-9227075.html",
       "title": "iFirma wypłaci zaliczkę na poczet dywidendy w wysokości 0,32 zł na akcję",
       "content_html": "iFirma wypłaci zaliczkę na poczet dywidendy w wysokości 0,32 zł na akcję - poinformowała spółka w komunikacie. Wypłata ta dotyczy III kwartału 2026 roku.",
       "date_published": "2026-11-10T17:56:00+01:00",
       "source": "Bankier.pl"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/firmy/ifirma-wyplaci-zaliczke-na-poczet-dywidendy-w-wysokosci-032-zl-na-akcje",
-      "url": "https://biznes.pap.pl/wiadomosci/firmy/ifirma-wyplaci-zaliczke-na-poczet-dywidendy-w-wysokosci-032-zl-na-akcje",
-      "title": "iFirma wypłaci zaliczkę na poczet dywidendy w wysokości 0,32 zł na akcję",
-      "content_html": "iFirma wypłaci zaliczkę na poczet dywidendy w wysokości 0,32 zł na akcję - poinformowała spółka w komunikacie. Wypłata ta dotyczy III kwartału 2026 roku.\n\nDzień, według którego ustala się uprawnionych do zaliczki, wyznaczono na 10 grudnia, zaś termin wypłaty zaliczki na 17 grudnia 2026 r.\n\nCałkowita kwota zaliczki wyniesie 2,04 mln zł. (PAP Biznes)",
-      "date_published": "2026-11-10T17:55:00+01:00",
-      "source": "PAP Biznes"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/MiGi-29-za-technologie-dronowe-Ukraina-zgodzila-sie-na-transfer-do-Polski-9226606.html",
@@ -133,35 +197,11 @@
       "source": "Bankier.pl"
     },
     {
-      "id": "https://www.bankier.pl/wiadomosc/Bohaterowie-z-Krakowa-moga-nie-zobaczyc-zebranych-milionow-Blokuje-je-prawny-klincz-9226980.html",
-      "url": "https://www.bankier.pl/wiadomosc/Bohaterowie-z-Krakowa-moga-nie-zobaczyc-zebranych-milionow-Blokuje-je-prawny-klincz-9226980.html",
-      "title": "Bohaterowie z Krakowa mogą nie zobaczyć zebranych milionów? Blokuje je prawny klincz",
-      "content_html": "Na internetowe zbiórki na pomoc poszkodowanym w sobotnim ataku w Krakowie wpłacono już prawie 10 mln zł. Większość – ponad 7 mln – udało się zgromadzić na pomoc policjantom, którzy z narażeniem życia zatrzymali sprawcę ataku.",
-      "date_published": "2026-11-10T16:26:00+01:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Powrot-do-wojny-z-Iranem-wisi-na-wlosku-Francuskie-MSZ-Ryzyko-nie-jest-zazegnane-9226979.html",
-      "url": "https://www.bankier.pl/wiadomosc/Powrot-do-wojny-z-Iranem-wisi-na-wlosku-Francuskie-MSZ-Ryzyko-nie-jest-zazegnane-9226979.html",
-      "title": "Powrót do wojny z Iranem wisi na włosku? Francuskie MSZ: Ryzyko nie jest zażegnane",
-      "content_html": "Szef MSZ Francji Jean-Noel Barrot powiedział we wtorek po rozmowach G7 w Paryżu, że ryzyko nowej eskalacji między Stanami Zjednoczonymi i Iranem nie jest całkowicie zażegnane. Zapewnił, że Francja popiera wysiłki na rzecz rozwiązania politycznego...",
-      "date_published": "2026-11-10T16:25:00+01:00",
-      "source": "Bankier.pl"
-    },
-    {
       "id": "https://www.bankier.pl/wiadomosc/Trans-Polonia-ma-wylacznosc-na-negocjacje-nabycia-podmiotu-z-branzy-transportowo-logistycznej-9226824.html",
       "url": "https://www.bankier.pl/wiadomosc/Trans-Polonia-ma-wylacznosc-na-negocjacje-nabycia-podmiotu-z-branzy-transportowo-logistycznej-9226824.html",
-      "title": "Trans Polonia planuje duże przejęcie. Polska spółka chce połknąć zachodniego giganta",
-      "content_html": "Trans Polonia zawarła umowę o wyłączności negocjacyjnej dotyczącą transakcji potencjalnego nabycia targetu działającego w branży transportowo-logistycznej, z rocznym obrotem w zakresie od 200 do 300 mln euro - poinformowała spółka w komunikacie...",
+      "title": "Trans Polonia planuje duże przejęcie. Polska spółka chce połknąć zachodniego giganta Trans Polonia zawarła umowę o wyłączności negocjacyjnej dotyczącą transakcji potencjalnego nabycia targetu działającego w branży transportowo-logistycznej, z rocznym obrotem w zakresie od 200 do 300 mln euro - poinformowała spółka w komunikacie.",
+      "content_html": "",
       "date_published": "2026-11-10T16:23:00+01:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Milowy-krok-dla-projektu-Y-CPK-z-decyzjami-na-kolejne-32-kilometry-KDP-9226915.html",
-      "url": "https://www.bankier.pl/wiadomosc/Milowy-krok-dla-projektu-Y-CPK-z-decyzjami-na-kolejne-32-kilometry-KDP-9226915.html",
-      "title": "Milowy krok dla projektu „Y”. CPK z decyzjami na kolejne 32 kilometry KDP",
-      "content_html": "Cztery kolejne decyzje administracyjne obejmujące łącznie ponad 32 km planowanej linii Kolei Dużych Prędkości otrzymał Centralny Port Komunikacyjny - poinformowała we wtorek spółka.",
-      "date_published": "2026-11-10T16:18:00+01:00",
       "source": "Bankier.pl"
     },
     {
@@ -171,22 +211,6 @@
       "content_html": "Na warszawskiej giełdzie trwa spokojna sesja, z niewielkimi zmianami głównych indeksów. W WIG20 liderami wzrostów są LPP, Kruk i Allegro. Po serii zniżek odbija kurs Orlenu. Spadają m. in. spółki energetyczne i Dino. Zdaniem analityków, spadek notowań ropy naftowej wspiera popyt na ryzykowne aktywa.\n\nOk. godz. 16.00 WIG20 rośnie o 0,7 proc. do ok. 4.193 pkt., WIG zwyżkuje o 0,6 proc. do ok. 158.234 pkt. mWIG40 idzie w górę o 0,3 proc. do ok. 10.696 pkt., a sWIG80 traci 0,01 proc. i wynosi 29.249 pkt.\n\nJak ocenia Rafał Sadoch, analityk BM mBanku, we wtorek głównym czynnikiem wspierającym popyt na ryzykowne aktywa jest dalszy spadek notowań ropy naftowej.\n\n\"Baryłka WTI schodzi w kierunku 84 USD. Tak nisko była po raz ostatni pod koniec sierpnia. Nadzieje, że USA i Iran dojdą do porozumienia na drodze dyplomatycznej, poprawiają perspektywy inflacji oraz sprzyjają spadkowi rentowności na rynku długu. Donald Trump ocenił, że kolejne szeroko zakrojone ataki na Iran są wysoce mało prawdopodobne, jeśli negocjacje będą przynosiły postępy\" - napisał Rafał Sadoch w komentarzu.\n\n\"Kwestia perspektyw rozwoju sztucznej inteligencji w USA po wyborach uzupełniających do Kongresu chwilowo zeszła na dalszy plan. Rynek czeka na debiut Anthropic, który będzie w pewnym stopniu barometrem zaufania wobec sektora. Udany debiut mógłby potwierdzić, że zainteresowanie sektorem pozostaje silne, podczas gdy słaby popyt ponownie zwiększyłby obawy o wyceny i skalę nakładów na AI\" - dodał.\n\nJak wynika z najnowszego projektu prospektu emisyjnego, IPO Anthropic ma przynieść spółce ok. 64,4 mld USD – podały we wtorek agencje Reutera i Bloomberga. Spółka z branży AI przygotowuje się obecnie do rozpoczęcia działań marketingowych związanych z debiutem na giełdzie.\n\nWe wtorek na GPW najsłabszym sektorem jest energetyka. PGE spada o 2,8 proc., a Enea traci 2 proc. Tauron lekko zniżkuje.\n\nIndeks WIG Energia idzie w dół o 1,7 proc. do 5.059 pkt. Wskaźnik ten systematycznie obniża się od niemal trzech tygodni i łącznie do poniedziałkowego zamknięcia spadł o prawie 8 proc.\n\nW indeksie WIG20 we wtorek rośnie ponad połowa spółek. Po południu najmocniej zwyżkuje LPP, o 1,9 proc.\n\nKurs LPP systematycznie rośnie od początku lipca, a do poniedziałkowego zamknięcia poszedł w górę o ponad 50 proc.\n\nWe wtorek dobrze radzi sobie Kruk, akcje spółki drożeją o 1,4 proc. Spółka spadała od końca sierpnia, a do 9 listopada straciła łącznie 26 proc.\n\nAkcje Allegro drożeją o 1 proc. Kurs Allegro systematycznie rośnie od 17 września, a do 9 listopada poszedł do góry o ponad 33 proc.\n\nKolejny raz zwyżkuje Budimex, tym razem o niemal 1 proc. Spółka rośnie od 29 października prawie bez przerwy, a do poniedziałkowego zamknięcia zyskała niecałe 8 proc.\n\nOrlen, który rano był najsilniejszy w indeksie i zyskiwał ponad 1 proc., obecnie lekko zwyżkuje.\n\nKurs Orlenu przez 11. poprzednich sesji spadał niemal bez przerwy i łącznie stracił w tym czasie ponad 19 proc. Kurs spółki podąża śladem ceny ropy. Od 26 października do poniedziałkowego zamknięcia cena baryłki ropy Brent spadła o ponad 16 proc.\n\nZ banków notowanych w WIG20 najlepiej radzi sobie Alior, który rośnie o 0,9 proc. Pekao, PKO BP i mBank lekko zwyżkują, a Erste spada o 1,7 proc. do 782,2 zł.\n\nKurs Erste od miesiąca waha się pomiędzy 731,6 zł a 817,6 zł i łącznie wzrósł o 2 proc.\n\nAlior zwyżkuje siódmy raz z rzędu. Na sześciu poprzednich sesjach łącznie zyskał 5 proc. Wcześniej kurs spółki wahał się, łącznie przez pięć poprzednich miesięcy wzrósł o ok. 10 proc.\n\nS&P Global Ratings obniżył perspektywę Banku Pekao do negatywnej po zmianie ratingu Polski. Agencja potwierdziła długoterminowy i krótkoterminowy rating banku na poziomie \"A-/A-2\" oraz \"resolution counterparty ratings\" na poziomie \"A/A-1\". Potwierdzono również rating \"senior subordinated debt\" na poziomie \"BBB\" oraz ratingi długu podporządkowanego na poziomie \"BBB-\".\n\nWe wtorek wśród blue chipów najsłabsze są PGE i Erste, a następnie Dino, które zniżkuje o 1,6 proc.\n\nOd miesiąca k",
       "date_published": "2026-11-10T16:18:00+01:00",
       "source": "PAP Biznes"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Widmo-sabotazu-krazy-nad-Atlantykiem-Brytyjska-marynarka-uratuje-podwodne-kable-9226912.html",
-      "url": "https://www.bankier.pl/wiadomosc/Widmo-sabotazu-krazy-nad-Atlantykiem-Brytyjska-marynarka-uratuje-podwodne-kable-9226912.html",
-      "title": "Widmo sabotażu krąży nad Atlantykiem. Brytyjska marynarka uratuje podwodne kable",
-      "content_html": "Władze Wielkiej Brytanii zapowiedziały, że zainwestują 90 mln funtów w rozwój dronów i sensorów, które będą wykorzystywane do przeciwdziałania rosyjskim zagrożeniom podwodnym, wymierzonym głównie w kable podmorskie – przekazała we...",
-      "date_published": "2026-11-10T16:17:00+01:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Policja-bez-litosci-dla-hejterow-i-siewcow-paniki-po-krakowskiej-masakrze-Sa-juz-zatrzymani-9226900.html",
-      "url": "https://www.bankier.pl/wiadomosc/Policja-bez-litosci-dla-hejterow-i-siewcow-paniki-po-krakowskiej-masakrze-Sa-juz-zatrzymani-9226900.html",
-      "title": "Policja bez litości dla hejterów i siewców paniki po krakowskiej masakrze. Są już zatrzymani",
-      "content_html": "Już 9 osób zostało zatrzymanych przez policję w związku z publikowaniem w sieci niepokojących treści po tragedii w Krakowie - poinformowała na portalu X rzeczniczka MSWiA Karolina Gałecka.",
-      "date_published": "2026-11-10T16:15:00+01:00",
-      "source": "Bankier.pl"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Polska-bandera-wraca-do-gry-Ta-jedna-ustawa-ma-przyciagnac-morskich-gigantow-9226969.html",
@@ -251,14 +275,6 @@
       "content_html": "Po otwarciu sesji w USA Dow Jones Industrial spada o 0,41 proc. do 52.176 pkt., S&P500 traci 0,67 proc. i wynosi 7.499 pkt.\n\nNasdaq Comp. spada o 1,06 proc. do poziomu 24.984 pkt. (PAP Biznes)",
       "date_published": "2026-11-10T15:34:00+01:00",
       "source": "PAP Biznes"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Bartoszewski-uslyszal-zarzuty-Prokuratura-wylicza-milionowe-kwoty-9226624.html",
-      "url": "https://www.bankier.pl/wiadomosc/Bartoszewski-uslyszal-zarzuty-Prokuratura-wylicza-milionowe-kwoty-9226624.html",
-      "title": "Bartoszewski usłyszał zarzuty. Prokuratura wylicza milionowe kwoty",
-      "content_html": "Prokurator z mazowieckiego wydziału zamiejscowego Prokuratury Krajowej przedstawił posłowi, wiceministrowi spraw zagranicznych Władysławowi Teofilowi Bartoszewskiemu zarzuty dotyczące przywłaszczenia powierzonych środków pieniężnych oraz udaremnienia...",
-      "date_published": "2026-11-10T15:29:00+01:00",
-      "source": "Bankier.pl"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Rzad-przyjal-ustawe-usprawniajaca-budowe-pierwszej-elektrowni-jadrowej-9226854.html",
@@ -363,6 +379,14 @@
       "content_html": "Pilny przegląd przepisów ws. broni, pomoc państwa dla ofiar zamachu w Krakowie i przygotowanie rozporządzenia ws. pieniędzy z SAFE dla służb mundurowych - zapowiedział we wtorek premier Donald Tusk.",
       "date_published": "2026-11-10T14:47:00+01:00",
       "source": "Bankier.pl"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/gospodarka/rzad-przyjal-projekt-usprawniajacy-przygotowanie-budowy-pierwszej-0",
+      "url": "https://biznes.pap.pl/wiadomosci/gospodarka/rzad-przyjal-projekt-usprawniajacy-przygotowanie-budowy-pierwszej-0",
+      "title": "Rząd przyjął projekt usprawniający przygotowanie budowy pierwszej elektrowni jądrowej (opis)",
+      "content_html": "Rząd przyjął projekt ustawy usprawniającej przygotowanie budowy pierwszej elektrowni jądrowej - poinformował rzecznik rządu Adam Szłapka na konferencji prasowej.\n\nChodzi o projekt ustawy o zmianie ustawy o przygotowaniu i realizacji inwestycji w zakresie obiektów energetyki jądrowej oraz inwestycji towarzyszących oraz niektórych innych ustaw.\n\n\"Będą prostsze przepisy, które mają usprawnić przygotowanie budowy pierwszej polskiej elektrowni jądrowej. Nowelizacja wprowadza bezterminowe decyzje lokalizacyjne, upraszcza zasady uzyskiwania prawa użytkowania wieczystego oraz porządkuje wybrane procedury administracyjne. Także podwykonawcy uzyskają większą ochronę przed brakiem zapłaty za wykonane roboty budowlane\" - powiedział Szłapka.\n\nMinisterstwo Energii podało w komunikacie, że celem nowelizacji jest dostosowanie przepisów do specyfiki inwestycji jądrowych, których przygotowanie i realizacja są procesami wieloletnimi i złożonymi, a obecne regulacje nie zawsze uwzględniają skalę tych przedsięwzięć, co może utrudniać sprawne prowadzenie kolejnych etapów inwestycji.\n\nProjekt przewiduje szereg zmian, w tym m.in. bezterminowe decyzje lokalizacyjne.\n\n\"Decyzje o ustaleniu lokalizacji inwestycji jądrowych będą wydawane na czas nieokreślony, zamiast obecnego maksymalnego okresu 10 lat. Rozwiązanie ma wyeliminować wątpliwości związane ze skutkami upływu okresu obowiązywania decyzji\" - podał w komunikacie resort energii.\n\nProjekt zakłada ponadto uproszczenie zasad uzyskiwania prawa do nieruchomości, tj. ujednolicenie sposobu uzyskiwania przez inwestora prawa użytkowania wieczystego z rozwiązaniami stosowanymi w innych specustawach inwestycyjnych.\n\nPrzyjęte przez rząd rozwiązania doprecyzowują także procedury administracyjne, w tym określenie zasad zmiany decyzji lokalizacyjnych i pozwoleń na prace przygotowawcze, a także sposobu doręczania i zawiadamiania stron o działaniach organów administracji po wydaniu decyzji.\n\nProjekt zakłada też bezpieczny dostęp do dokumentacji technicznej - wprowadza zasady udostępniania dokumentów zawierających szczególnie wrażliwe informacje techniczne i technologiczne, w tym raportów z analiz bezpieczeństwa oraz dokumentacji objętej ochroną praw autorskich.\n\nProjekt zakłada ponadto możliwość przedkładania wybranych dokumentów w języku angielskim.\n\n\"Inwestor będzie mógł, zgodnie z opinią lub zgodą Prezesa Państwowej Agencji Atomistyki, składać dokumenty w języku angielskim w postępowaniach dotyczących zezwoleń na działalność związaną z obiektami jądrowymi\" - napisano w komunikacie resortu energii.\n\nProjekt zakłada także większą ochronę podwykonawców - wprowadzenie przepisów regulujących odpowiedzialność Polskich Elektrowni Jądrowych z siedzibą w Gdańsku za bezpośrednią zapłatę wynagrodzenia podwykonawcom i dalszym podwykonawcom wykonującym roboty budowlane przy pierwszej w Polsce elektrowni jądrowej (EJ1).\n\nPrzyjęte rozwiązania umożliwiają stronom umów dotyczących inwestycji w zakresie EJ1 określanie wyłącznych przyczyn i skutków odstąpienia od umowy, w celu uwzględnienia specyfiki sektora jądrowego.\n\nProjekt dostosowuje też harmonogram finansowania projektu EJ1 poprzez zmianę rocznych limitów wydatków budżetu państwa na wsparcie Polskich Elektrowni Jądrowych – tak, aby lepiej odpowiadały potrzebom finansowym inwestycji.\n\nPrzyjęta przez Radę Ministrów aktualizacja Programu polskiej energetyki jądrowej zakłada budowę dwóch elektrowni o łącznej mocy do 9 GWe.\n\n\"Pierwsza elektrownia jądrowa powstanie w lokalizacji Lubiatowo-Kopalino na Pomorzu. Będzie składać się z trzech reaktorów o łącznej mocy około 3,75 GWe. Trwają prace przygotowawcze do budowy elektrowni, a uruchomienie pierwszego bloku planowane jest na 2036 r.\" - napisano w komunikacie Ministerstwa Energii.\n\n\"Projekt drugiej elektrowni jądrowej jest na etapie przygotowań. Preferowane lokalizacje to Bełchatów i Konin. Wybór partnera technologicznego planowany jest na 2027 r., a uruchomienie pierwszego bloku około 2040 r.\" - dodano. (PAP Biznes)",
+      "date_published": "2026-11-10T14:46:00+01:00",
+      "source": "PAP Biznes"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Lawrow-stawia-zaporowy-warunek-Rosja-chce-przehandlowac-rozejmem-za-ustepstwa-NATO-9226833.html",
@@ -611,6 +635,14 @@
       "content_html": "Prezydent Karol Nawrocki, na wniosek ministra obrony narodowej Władysława Kosiniaka-Kamysza, mianował dziesięciu oficerów Wojska Polskiego na stopnie generalskie - poinformowało we wtorek Biuro Bezpieczeństwa Narodowego. Akty mianowania zostaną...",
       "date_published": "2026-11-10T10:39:00+01:00",
       "source": "Bankier.pl"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/firmy/dzien-na-gpw-wig20-i-wig-lekko-rosna-ale-spada-mwig40-odbija-kurs-orlenu",
+      "url": "https://biznes.pap.pl/wiadomosci/firmy/dzien-na-gpw-wig20-i-wig-lekko-rosna-ale-spada-mwig40-odbija-kurs-orlenu",
+      "title": "DZIEŃ NA GPW: WIG20 i WIG lekko rosną, ale spada mWIG40; odbija kurs Orlenu",
+      "content_html": "We wtorek na warszawskiej giełdzie indeksy WIG20 i WIG kontynuują wzrosty, natomiast mWIG40 spada. Negatywnie na ten indeks wpływają m. in. kilkuprocentowe spadki Ten Square Games i Benefit Systems. Zniżkuje Dino, ale odbija kurs Orlenu, po 11 sesjach niemal nieprzerwanych zniżek.\n\nOk. godz. 10.20 WIG20 rośnie o 0,3 proc. do ok. 4.177 pkt., WIG zwyżkuje o 0,2 proc. do ok. 157.577 pkt. mWIG40 idzie w dół o 0,2 proc. do ok. 10.637 pkt., a sWIG80 traci 0,01 proc. i wynosi 29.248 pkt.\n\nW indeksie WIG20 we wtorek rośnie ponad połowa spółek, a najmocniej Orlen, o 1,4 proc.\n\nKurs Orlenu przez 11. poprzednich sesji spadał niemal bez przerwy i łącznie stracił w tym czasie ponad 19 proc.\n\nKurs spółki podąża śladem ceny ropy. Od 26 października do poniedziałkowego zamknięcia cena baryłki ropy Brent spadła o ponad 16 proc. We wtorek ropa na rynkach tanieje kolejny dzień po tym, jak prezydent USA Donald Trump stwierdził, że dalsze ataki USA na Iran nie będą konieczne.\n\nNa warszawskiej giełdzie dobrze radzi sobie LPP, które rośnie o 1,3 proc.\n\nAkcje Allegro drożeją o 0,8 proc. Kurs Allegro systematycznie rośnie od 17 września, a do 9 listopada poszedł do góry o ponad 33 proc.\n\nWiększość banków notowanych w WIG20 radzi sobie lepiej od indeksu, jednak Erste i mBank lekko tracą.\n\nmBank od 29 października do 9 listopada wzrósł o niemal 20 proc.\n\nAlior zwyżkuje siódmy raz z rzędu, tym razem o 0,9 proc. Na sześciu poprzednich sesjach łącznie zyskał 5 proc. Wcześniej kurs spółki wahał się, łącznie przez pięć poprzednich miesięcy wzrósł o ok. 10 proc.\n\nS&P Global Ratings obniżył perspektywę Banku Pekao do negatywnej po zmianie ratingu Polski. Agencja potwierdziła długoterminowy i krótkoterminowy rating banku na poziomie \"A-/A-2\" oraz \"resolution counterparty ratings\" na poziomie \"A/A-1\". Potwierdzono również rating \"senior subordinated debt\" na poziomie \"BBB\" oraz ratingi długu podporządkowanego na poziomie \"BBB-\".\n\nWe wtorek wśród blue chipów najsłabsze jest Dino, ze spadkiem o ponad 1 proc. Od miesiąca kurs spółki waha się i łącznie wzrósł o ok. 5 proc. W indeksie mWIG40 negatywnie wyróżniają się Ten Square Games i Benefit Systems.\n\nTen Square Games spada o ok. 9 proc. Spółka miała w III kw. 2026 roku 8,9 mln zł skorygowanej EBITDA, zysk netto j.d. wyniósł 5,1 mln zł, a przychody osiągnęły 98,9 mln zł. Konsensus PAP Biznes zakładał 12,6 mln zł skorygowanego wyniku EBITDA, 97,9 mln zł przychodów oraz 7,9 mln zł zysku netto j.d.\n\nAkcje Ten Square Games systematycznie tanieją od dwóch miesięcy i do poniedziałkowego zamknięcia straciły na wartości ponad 13 proc.\n\nWe wtorek Benefit Systems zniżkuje o 5,4 proc. Kurs spółki rósł od połowy września a do poniedziałkowego zamknięcia poszedł do góry o ponad 28 proc.\n\nWśród średnich spółek najmocniejszy jest Creotech Instruments, ze zwyżką o 3,6 proc. Spółka traciła wcześniej przez ponad miesiąc i łącznie spadła o 16,6 proc.\n\nXTB rośnie o 1,5 proc. Jak wynika z danych KDPW, spółka w ciągu roku do końca października pozyskała 620,262 tys. rachunków maklerskich. Na koniec października 2026 roku liczba rachunków papierów wartościowych oraz rachunków zbiorczych XTB wyniosła 1,336 mln.\n\nW indeksie sWIG80 najmocniej rośnie Boryszew, o 3,7 proc., a Niewiadów zyskuje 3,6 proc. Po ok. 3 proc. zwyżkują: Onde i Digital Network.\n\nToya zyskuje 1,6 proc. Spółka od początku listopada do poniedziałkowego zamknięcia zyskała łącznie 17,6 proc. Akcje spółki szczególnie mocno zdrożały w piątek 6 listopada, po publikacji wyników kwartalnych.\n\nZarząd Echo Investment zdecydował o warunkowej wypłacie zaliczki na poczet dywidendy za 2026 r. w wysokości 0,40 zł na akcję - poinformował deweloper w komunikacie. Łączna kwota przeznaczona na wypłatę zaliczki wyniesie ok. 165,1 mln zł. Kurs spółki idzie do góry o 2,2 proc.\n\nNajsłabsza w sWIG80 jest Medinice, ze zniżką o 6,6 proc.\n\nO 3,4 roc. spada DataWalk. Spółka powróciła do spadków po dwóch wzrostowych sesjach. Łącznie przez ok. trzy poprzednie miesiące akcje DataWalk staniały o ponad ",
+      "date_published": "2026-11-10T10:38:00+01:00",
+      "source": "PAP Biznes"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Krakow-uruchamia-zbiorke-dla-poszkodowanych-Mozna-wplacac-zlote-euro-i-dolary-9226621.html",
@@ -1065,14 +1097,6 @@
       "url": "https://biznes.pap.pl/wiadomosci/ekonomia-biznes-i-finanse/przewidywane-najwazniejsze-wydarzenia-gospodarcze-2026-11-10",
       "title": "Przewidywane najważniejsze wydarzenia gospodarcze 2026-11-10",
       "content_html": "Przewidywane najważniejsze wydarzenia gospodarcze 2026-11-10\n\n12:00 - TSGAMES - Konferencja wynikowa Spółki\n\nKonferencja prasowa online Grupy Ten Square Games dotycząca wyników finansowych za trzeci kwartał 2026 roku.\n\n12:00 - ALLEGRO - Konferencja wynikowa Spółki\n\nKonferencja prasowa Allegro po wynikach za III kwartał 2026 r.\n\nSpółka LIFTERO organizuje spotkanie poświęcone omówieniu wyników za III kwartał 2026 roku oraz przedstawi perspektywy na kolejne kwartały. W spotkaniu udział wezmą przedstawiciele spółki: Tomasz Palacz – CEO, współzałożyciel oraz Przemysław Drożdż – COO, współzałożyciel.\n\n14:00 - Ukraińsko-Polskie Forum Biznesowe \"Win-Win: Polska i Ukraina na wspólnym rynku UE\", które odbędzie się w ramach ReBuild Ukraine 2026. Wydarzenie, organizowane pod patronatem Kancelarii Prezydenta Ukrainy, zgromadzi przedstawicieli administracji publicznej, biznesu i organizacji gospodarczych z obu krajów. Forum otworzą wystąpienia prezydenta Ukrainy Wołodymyra Zełenskiego oraz premiera RP Donalda Tuska. W programie przewidziano trzy panele dyskusyjne poświęcone strategii współpracy gospodarczej Polski i Ukrainy, rozwojowi wspólnego przemysłu obronnego oraz możliwościom biznesowym dla polskich przedsiębiorstw na ukraińskim rynku.\n\n14:00 - AMREST - Konferencja wynikowa Spółki\n\nWebcast AmRestu dla inwestorów, poświęcony wynikom za III kwartał 2026 roku.\n\n09:00 - IZFiA - Seminarium Regulacyjne Rynku Kapitałowego - \"Regulacje. Rynek. Praktyka\".\n\n10:00 - COGNOR - Konferencja wynikowa Spółki\n\nKonferencja prasowa poświęcona omówieniu sytuacji operacyjno-finansowej Grupy Cognor za 3Q 2026 i perspektyw rozwoju w kolejnych kwartałach.\n\nUWAGA: Przedstawione zapowiedzi odzwierciedlają stan wiedzy na dzień ich publikacji i są codziennie aktualizowane. Zapowiedzi powstają na podstawie oficjalnych informacji przesłanych do PAP przez zainteresowane instytucje lub publicznych wypowiedzi ich przedstawicieli. Zapowiedzi nie należy traktować, jako zaproszenia.",
-      "date_published": "2026-11-10T07:00:00+01:00",
-      "source": "PAP Biznes"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/rynki/kalendarium-rynku-newconnect-2026-11-10",
-      "url": "https://biznes.pap.pl/wiadomosci/rynki/kalendarium-rynku-newconnect-2026-11-10",
-      "title": "Kalendarium rynku NewConnect 2026-11-10",
-      "content_html": "11:00 - STOHID - Nadzwyczajne walne zgromadzenie",
       "date_published": "2026-11-10T07:00:00+01:00",
       "source": "PAP Biznes"
     },
