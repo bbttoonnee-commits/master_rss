@@ -5,6 +5,22 @@
   "home_page_url": "https://www.bankier.pl",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/Polska-na-celowniku-rosyjskich-hakerow-Do-akcji-wkracza-Microsoft-9227071.html",
+      "url": "https://www.bankier.pl/wiadomosc/Polska-na-celowniku-rosyjskich-hakerow-Do-akcji-wkracza-Microsoft-9227071.html",
+      "title": "Polska na celowniku rosyjskich hakerów. Do akcji wkracza Microsoft",
+      "content_html": "Wzmocnienie odporności instytucji publicznych, infrastruktury krytycznej, usług kluczowych i lepsze przygotowanie państwa na zakłócenia cybernetyczne i hybrydowe – to główne cele porozumienia Ministerstwa Cyfryzacji z firmą Microsoft o współpracy...",
+      "date_published": "2026-11-10T20:26:00+01:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Wielkie-zwolnienia-a-teraz-rekrutacyjny-zwrot-Meta-znow-potrzebuje-ludzi-9226648.html",
+      "url": "https://www.bankier.pl/wiadomosc/Wielkie-zwolnienia-a-teraz-rekrutacyjny-zwrot-Meta-znow-potrzebuje-ludzi-9226648.html",
+      "title": "Wielkie zwolnienia, a teraz rekrutacyjny zwrot. Meta znów potrzebuje ludzi",
+      "content_html": "",
+      "date_published": "2026-11-10T20:00:00+01:00",
+      "source": "Bankier.pl"
+    },
+    {
       "id": "https://biznes.pap.pl/wiadomosci/firmy/rn-banku-pocztowego-powolala-jedrzeja-marciniaka-na-stanowisko-prezesa",
       "url": "https://biznes.pap.pl/wiadomosci/firmy/rn-banku-pocztowego-powolala-jedrzeja-marciniaka-na-stanowisko-prezesa",
       "title": "RN Banku Pocztowego powołała Jędrzeja Marciniaka na stanowisko prezesa",
@@ -179,14 +195,6 @@
       "content_html": "iFirma wypłaci zaliczkę na poczet dywidendy w wysokości 0,32 zł na akcję - poinformowała spółka w komunikacie. Wypłata ta dotyczy III kwartału 2026 roku.\n\nDzień, według którego ustala się uprawnionych do zaliczki, wyznaczono na 10 grudnia, zaś termin wypłaty zaliczki na 17 grudnia 2026 r.\n\nCałkowita kwota zaliczki wyniesie 2,04 mln zł. (PAP Biznes)",
       "date_published": "2026-11-10T17:55:00+01:00",
       "source": "PAP Biznes"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Polska-na-celowniku-rosyjskich-hakerow-Do-akcji-wkracza-Microsoft-9227071.html",
-      "url": "https://www.bankier.pl/wiadomosc/Polska-na-celowniku-rosyjskich-hakerow-Do-akcji-wkracza-Microsoft-9227071.html",
-      "title": "Polska na celowniku rosyjskich hakerów. Do akcji wkracza Microsoft",
-      "content_html": "Wzmocnienie odporności instytucji publicznych, infrastruktury krytycznej, usług kluczowych i lepsze przygotowanie państwa na zakłócenia cybernetyczne i hybrydowe – to główne cele porozumienia Ministerstwa Cyfryzacji z firmą Microsoft o współpracy...",
-      "date_published": "2026-11-10T17:50:00+01:00",
-      "source": "Bankier.pl"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/MiGi-29-za-technologie-dronowe-Ukraina-zgodzila-sie-na-transfer-do-Polski-9226606.html",
@@ -629,6 +637,14 @@
       "source": "Bankier.pl"
     },
     {
+      "id": "https://biznes.pap.pl/wiadomosci/firmy/cena-maksymalna-dla-benzyny-pb95-wyniesie-w-srode-i-czwartek-610-zll-dla-766-zll",
+      "url": "https://biznes.pap.pl/wiadomosci/firmy/cena-maksymalna-dla-benzyny-pb95-wyniesie-w-srode-i-czwartek-610-zll-dla-766-zll",
+      "title": "Cena maksymalna dla benzyny Pb95 wyniesie w środę i czwartek 6,10 zł/l, a dla ON 7,66 zł/l",
+      "content_html": "W środę i czwartek, 11 i 12 listopada, maksymalna cena dla benzyny Pb95 wynosić będzie 6,10 zł/l, dla benzyny Pb98 6,70 zł/l, a dla oleju napędowego 7,66 zł/l - poinformował minister energii w obwieszczeniu.\n\nAktualnie obowiązujące ceny maksymalne to: dla benzyny Pb95: 6,04 zł/l, dla benzyny Pb98 to 6,67 zł/l, a dla oleju napędowego: 7,74 zł/l.\n\nRząd przywrócił od początku października do końca 2026 r. pakiet \"Ceny Paliwa Niżej\", tj. obniżył stawki VAT na paliwa z 23 proc. do 8 proc. oraz akcyzę do najniższego dopuszczalnego poziomu w UE, a także przywrócił ogłaszane przez ministra energii ceny maksymalne paliw na stacjach. (PAP Biznes)",
+      "date_published": "2026-11-10T12:24:00+01:00",
+      "source": "PAP Biznes"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Benzyna-drozeje-diesel-tanieje-Oto-nowe-maksymalne-ceny-na-stacjach-9226710.html",
       "url": "https://www.bankier.pl/wiadomosc/Benzyna-drozeje-diesel-tanieje-Oto-nowe-maksymalne-ceny-na-stacjach-9226710.html",
       "title": "Benzyna drożeje, diesel tanieje. Oto nowe maksymalne ceny na stacjach",
@@ -1069,14 +1085,6 @@
       "source": "Bankier.pl"
     },
     {
-      "id": "https://www.bankier.pl/wiadomosc/Pozyczka-ukryta-pod-kursem-jezykowym-UOKiK-wszczyna-postepowanie-9226558.html",
-      "url": "https://www.bankier.pl/wiadomosc/Pozyczka-ukryta-pod-kursem-jezykowym-UOKiK-wszczyna-postepowanie-9226558.html",
-      "title": "Pożyczka ukryta pod kursem językowym. UOKiK wszczyna postępowanie",
-      "content_html": "Urząd Ochrony Konkurencji i Konsumentów poinformował we wtorek, że wszczął postępowanie przeciwko firmom, które udzielają pożyczek za kurs językowy lub pakiet medyczny. Koszt kursów to w rzeczywistości koszt udzielonych pożyczek - wskazał...",
-      "date_published": "2026-11-10T08:45:00+01:00",
-      "source": "Bankier.pl"
-    },
-    {
       "id": "https://biznes.pap.pl/wiadomosci/rynki/dzien-na-rynkach-w-azji-na-gieldach-najlepszy-wynik-od-ponad-3-miesiecy",
       "url": "https://biznes.pap.pl/wiadomosci/rynki/dzien-na-rynkach-w-azji-na-gieldach-najlepszy-wynik-od-ponad-3-miesiecy",
       "title": "DZIEŃ NA RYNKACH: W Azji na giełdach najlepszy wynik od ponad 3 miesięcy",
@@ -1099,14 +1107,6 @@
       "content_html": "",
       "date_published": "2026-11-10T08:18:00+01:00",
       "source": "Bankier.pl"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/przemysl/wyniki-pcc-rokita-w-iii-kw-2026-roku-vs-konsensus-pap-tabela",
-      "url": "https://biznes.pap.pl/wiadomosci/przemysl/wyniki-pcc-rokita-w-iii-kw-2026-roku-vs-konsensus-pap-tabela",
-      "title": "Wyniki PCC Rokita w III kw. 2026 roku vs. konsensus PAP (tabela)",
-      "content_html": "Poniżej przedstawiono wyniki PCC Rokita w trzecim kwartale 2026 roku i ich odniesienie do konsensusu PAP Biznes.\n\n*** Konsensus tworzony jest na podstawie prognoz biur maklerskich zebranych wcześniej przez PAP. Są one dostępne w pełnej wersji Serwisu Ekonomicznego PAP Biznes. Baza konsensusów PAP zawiera prognozy wyników kwartalnych i rocznych dla ponad 200 spółek notowanych na GPW. (PAP Biznes)",
-      "date_published": "2026-11-10T08:17:00+01:00",
-      "source": "PAP Biznes"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Afera-szpiegowska-w-Nvidii-Inwestorzy-pozywaja-spolke-i-prezesa-za-romans-z-agentka-9226525.html",
