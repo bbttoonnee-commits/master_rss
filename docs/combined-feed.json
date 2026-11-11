@@ -5,6 +5,14 @@
   "home_page_url": "https://www.bankier.pl",
   "items": [
     {
+      "id": "https://biznes.pap.pl/wiadomosci/gospodarka/euro-w-ebc-11127-usd-i-17718-jpy",
+      "url": "https://biznes.pap.pl/wiadomosci/gospodarka/euro-w-ebc-11127-usd-i-17718-jpy",
+      "title": "Euro w EBC: 1,1127 USD i 177,18 JPY",
+      "content_html": "Europejski Bank Centralny (EBC) ustalił kurs euro na 1,1127 USD i 177,18 JPY - podał bank na swojej stronie internetowej.",
+      "date_published": "2026-11-11T16:19:00+01:00",
+      "source": "PAP Biznes"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Tlumy-w-kurortach-i-pustki-na-Wschodzie-UE-oglasza-wielki-plan-naprawy-europejskiej-turystyki-9223470.html",
       "url": "https://www.bankier.pl/wiadomosc/Tlumy-w-kurortach-i-pustki-na-Wschodzie-UE-oglasza-wielki-plan-naprawy-europejskiej-turystyki-9223470.html",
       "title": "Tłumy w kurortach i pustki na Wschodzie. UE ogłasza wielki plan naprawy europejskiej turystyki",
@@ -429,14 +437,6 @@
       "source": "PAP Biznes"
     },
     {
-      "id": "https://biznes.pap.pl/wiadomosci/rynki/notowania-metali-bazowych-wegla-i-paliw-tabela-1574",
-      "url": "https://biznes.pap.pl/wiadomosci/rynki/notowania-metali-bazowych-wegla-i-paliw-tabela-1574",
-      "title": "Notowania metali bazowych, węgla i paliw (tabela)",
-      "content_html": "Notowania metali bazowych na London Metal Exchange, uprawnień EUA do emisji CO2, ceny węgla energetycznego ARA na przyszły rok oraz ceny paliw.",
-      "date_published": "2026-11-11T06:41:00+01:00",
-      "source": "PAP Biznes"
-    },
-    {
       "id": "https://www.bankier.pl/wiadomosc/Cztery-najpiekniejsze-polskie-rezydencje-rozdadza-tysiace-darmowych-biletow-9221580.html",
       "url": "https://www.bankier.pl/wiadomosc/Cztery-najpiekniejsze-polskie-rezydencje-rozdadza-tysiace-darmowych-biletow-9221580.html",
       "title": "Cztery najpiękniejsze polskie rezydencje rozdadzą tysiące darmowych biletów",
@@ -797,44 +797,12 @@
       "source": "Bankier.pl"
     },
     {
-      "id": "https://www.bankier.pl/wiadomosc/Niemcy-Francja-i-Wielka-Brytania-to-za-malo-Ruch-Norwegow-wciaga-Polske-do-wielkiej-gry-9226931.html",
-      "url": "https://www.bankier.pl/wiadomosc/Niemcy-Francja-i-Wielka-Brytania-to-za-malo-Ruch-Norwegow-wciaga-Polske-do-wielkiej-gry-9226931.html",
-      "title": "Niemcy, Francja i Wielka Brytania to za mało. Ruch Norwegów wciąga Polskę do wielkiej gry",
-      "content_html": "Norweski dziennik „Aftenposten” ocenił we wtorek, że inicjatywa Jonasa Gahra Stoerego i Alexandra Stubba przyspieszyła włączenie Europy w konsultacje w Abu Zabi, wywołując dyskusję o jej reprezentacji w rozmowach o Ukrainie. Według gazety...",
-      "date_published": "2026-11-10T16:57:00+01:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Kontrola-jeszcze-przed-podroza-do-Polski-Rejestr-odciskow-wiz-i-wyrokow-w-jednym-miejscu-9226919.html",
-      "url": "https://www.bankier.pl/wiadomosc/Kontrola-jeszcze-przed-podroza-do-Polski-Rejestr-odciskow-wiz-i-wyrokow-w-jednym-miejscu-9226919.html",
-      "title": "Kontrola jeszcze przed podróżą do Polski. Rejestr odcisków, wiz i wyroków w jednym miejscu",
-      "content_html": "Polska włączy się do unijnego systemu informacji o podróży oraz zezwoleń na podróż — poinformował rzecznik prasowy rządu minister Adam Szłapka. Pozwoli na to przyjęty przez rząd projekt ustawy o systemie ETIAS.",
-      "date_published": "2026-11-10T16:42:00+01:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Akcjonariusz-Delko-chce-by-spolka-wyplacila-0-65-zl-dywidendy-nadzwyczajnej-na-akcje-9226991.html",
-      "url": "https://www.bankier.pl/wiadomosc/Akcjonariusz-Delko-chce-by-spolka-wyplacila-0-65-zl-dywidendy-nadzwyczajnej-na-akcje-9226991.html",
-      "title": "Akcjonariusz Delko chce, by spółka wypłaciła 0,65 zł dywidendy nadzwyczajnej na akcję",
-      "content_html": "Akcjonariusz Delko, Dariusz Kawecki chce, by spółka wypłaciła 0,65 zł dywidendy nadzwyczajnej na akcję z kapitału zapasowego w łącznej kwocie 7,77 mln zł - podała spółka w komunikacie.",
-      "date_published": "2026-11-10T16:34:00+01:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/firmy/akcjonariusz-delko-chce-spolka-wyplacila-065-zl-dywidendy-nadzwyczajnej-na-akcje",
-      "url": "https://biznes.pap.pl/wiadomosci/firmy/akcjonariusz-delko-chce-spolka-wyplacila-065-zl-dywidendy-nadzwyczajnej-na-akcje",
-      "title": "Akcjonariusz Delko chce, by spółka wypłaciła 0,65 zł dywidendy nadzwyczajnej na akcję",
-      "content_html": "Akcjonariusz Delko, Dariusz Kawecki chce, by spółka wypłaciła 0,65 zł dywidendy nadzwyczajnej na akcję z kapitału zapasowego w łącznej kwocie 7,77 mln zł - podała spółka w komunikacie.\n\nAkcjonariusz proponuje dzień dywidendy na 20 stycznia, a termin wypłaty dywidendy na 10 lutego 2027 roku.\n\nDariusz Kawecki posiada łącznie nie mniej niż 3.230.642 akcji Delko, co stanowi nie mniej niż 27,0 proc. w kapitale własnym spółki.\n\nW październiku podano, że Delko chce wypłacić z zysku netto za okres od 1 lipca 2025 r. do 30 czerwca 2026 r. 4,18 mln zł dywidendy, co daje 0,35 zł na akcję. (PAP Biznes)",
-      "date_published": "2026-11-10T16:32:00+01:00",
+      "id": "https://biznes.pap.pl/wiadomosci/gospodarka/dzien-na-fxfi-zloty-oslabil-sie-wobec-glownych-walut-w-dluzszym-terminie",
+      "url": "https://biznes.pap.pl/wiadomosci/gospodarka/dzien-na-fxfi-zloty-oslabil-sie-wobec-glownych-walut-w-dluzszym-terminie",
+      "title": "DZIEŃ NA FX/FI: Złoty osłabił się wobec głównych walut; w dłuższym terminie powinien się umacniać",
+      "content_html": "Złoty we wtorek osłabił się wobec głównych walut, za czym stoi m.in. umocnienie dolara. Rentowności krajowych obligacji skarbowych spadły, czym pozytywnie wyróżniały się na tle rynków bazowych. Zdaniem analityków w dłuższym terminie złoty powinien się umacniać, jednak ten trend będzie powolny i przerywany korektami.\n\nO godz. 16.50 kurs EUR/PLN rośnie o 0,25 proc. do 4,3978, a USD/PLN idzie w górę o 0,64 proc. do 3,9407. EUR/USD zniżkuje o 0,39 proc. do 1,1159.\n\nJak ocenia Tomasz Marek, analityk rynków finansowych PKO BP, we wtorek złoty pozostaje głównie pod wpływem czynników globalnych.\n\n\"Dziś dominują dwa czynniki: rosnące wyceny podwyżek stóp proc. przez Fed, czego efektem jest mocniejszy dolar oraz pogorszenie sentymentu wokół spółek AI\" - powiedział PAP Biznes Tomasz Marek.\n\n\"Wyceny skali podwyżek stóp proc. przez Fed rosną po dzisiejszym odczycie inflacji CPI ze Stanów Zjednoczonych oraz po jastrzębich wypowiedziach przedstawicieli Fedu, m.in. Christophera Wallera\" - dodał.\n\nCzłonek Rady Gubernatorów Systemu Rezerwy Federalnej Christopher Waller poinformował we wtorek, że popiera podwyżkę stóp proc. w USA w grudniu, a także ostrzegł, że jeśli inflacja będzie nadal przyspieszać, opowie się za podwyżką o pół punktu proc., aby chronić wiarygodność banku centralnego.\n\nJak poinformował Tomasz Marek, ponownie pogorszył się sentyment wokół spółek związanych ze sztuczną inteligencją.\n\n\"Wpływ na to mogą mieć medialne doniesienia o niższej wycenie spółki Anthropic przed jej IPO, przewidywanym na drugą połowę listopada. W perspektywie ostatnich kilku-kilkunastu tygodni, jak sugerują media, wycena tej spółki znacznie się obniżyła. To pokazuje, że optymizm wokół sektora AI w dalszym ciągu spada\" - powiedział.\n\nZaznaczył, że złotego wspierają zniżkujące kolejny dzień ceny ropy naftowej, które są odzwierciedleniem perspektyw deeskalacji na Bliskim Wschodzie.\n\n\"W naszej opinii w cenach ropy naftowej jest już dosyć dużo optymizmu i przynajmniej w krótkim terminie ryzyka są przesunięte w kierunku odreagowania bardzo dużych już spadków cen ropy. Natomiast w dłuższym terminie, w dalszym ciągu przeważają szanse na jeszcze niższe ceny tego surowca\" - powiedział Tomasz Marek.\n\nOcenia on, że w dłuższym terminie złoty powinien się umacniać, jednak w najbliższych dniach możliwa jest korekta w trendzie umocnienia.\n\n\"EUR/PLN pozostaje nad wsparciem, które atakował w ostatnich dniach, jest to poziom 4,3850. Jeśli chodzi o parę dolar-złoty, to pozostaje w dość szerokiej konsolidacji, w zakresie 3,89-3,96 i na razie nie widać żadnych prób wybicia z tego trendu bocznego\" - powiedział.\n\n\"W dłuższym terminie, czyli w horyzoncie 2-3 tygodni, a nawet do końca roku, oczekujemy mocniejszego złotego, ale naszym zdaniem to umocnienie będzie powolne, przerywane korektami. I taka korekta może mieć miejsce w horyzoncie najbliższych dni\" - dodał Tomasz Marek.\n\nJak poinformował, we wtorek krajowe obligacje wyróżniają się pozytywnie na tle rynków bazowych.\n\n\"Ich rentowności idą wyraźnie w dół, podążając za spadającymi cenami ropy naftowej\" - powiedział.\n\n\"Na rynkach bazowych szczególną uwagę zwraca mocny wzrost rentowności, szczególnie na krótkim końcu krzywej, obligacji amerykańskich. Jest to efektem wspomnianych czynników, czyli wyższego od oczekiwań odczytu inflacji konsumenckiej za październik w Stanach Zjednoczonych oraz jastrzębiej wypowiedzi członków Fed\" - dodał.\n\nJego zdaniem w najbliższych dniach możliwa jest stabilizacja lub lekkie wzrosty rentowności krajowych obligacji.\n\n\"Jeśli przyjmujemy założenie, że na rynku ropy ryzyka są przesunięte w kierunku wzrostu cen, przynajmniej w krótkim terminie, to czynnik powodujący spadki rentowności powinien w najbliższych dniach osłabnąć, jeśli nawet nie odwrócić się\" - powiedział Tomasz Marek.\n\n\"Dlatego oczekujemy w najbliższych dniach stabilizacji lub lekkich wzrostów rentowności krajowych obligacji skarbowych\" - dodał.",
+      "date_published": "2026-11-10T17:12:00+01:00",
       "source": "PAP Biznes"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Bunt-w-Kongresie-przeciwko-czlowiekowi-Trumpa-Szef-Pentagonu-wsciekly-To-farsa-9226895.html",
-      "url": "https://www.bankier.pl/wiadomosc/Bunt-w-Kongresie-przeciwko-czlowiekowi-Trumpa-Szef-Pentagonu-wsciekly-To-farsa-9226895.html",
-      "title": "Bunt w Kongresie przeciwko człowiekowi Trumpa. Szef Pentagonu wściekły: To farsa",
-      "content_html": "Szef Pentagonu Pete Hegseth ocenił we wtorek, że próba postawienia go w stan oskarżenia (impeachment) to farsa i spektakl polityczny. To się nie powiedzie - zapowiedział.",
-      "date_published": "2026-11-10T16:31:00+01:00",
-      "source": "Bankier.pl"
     }
   ]
 }
