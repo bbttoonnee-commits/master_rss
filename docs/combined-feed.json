@@ -5,6 +5,54 @@
   "home_page_url": "https://www.bankier.pl",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/Putin-proponuje-wspolprace-z-Kijowem-Jednoczesnie-ostrzega-Europe-9227921.html",
+      "url": "https://www.bankier.pl/wiadomosc/Putin-proponuje-wspolprace-z-Kijowem-Jednoczesnie-ostrzega-Europe-9227921.html",
+      "title": "Putin proponuje współpracę z Kijowem. Jednocześnie ostrzega Europę",
+      "content_html": "Przywódca Rosji Władimir Putin zaproponował w czwartek w Moskwie amerykańskim wysłannikom Steve'owi Witkoffowi i Jaredowi Kushnerowi przeprowadzenie wspólnej rosyjsko-ukraińskiej misji humanitarnej w Konstantynówce we wschodniej Ukrainie -...",
+      "date_published": "2026-11-12T15:19:00+01:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Wstrzas-w-Nvidii-Jensen-Huang-odchodzi-po-aferze-szpiegowskiej-9227904.html",
+      "url": "https://www.bankier.pl/wiadomosc/Wstrzas-w-Nvidii-Jensen-Huang-odchodzi-po-aferze-szpiegowskiej-9227904.html",
+      "title": "Wstrząs w Nvidii. Jensen Huang odchodzi po aferze szpiegowskiej",
+      "content_html": "Szef i współzałożyciel Nvidii Jensen Huang zrezygnował w czwartek ze stanowisk prezesa, dyrektora generalnego (CEO) oraz członka rady dyrektorów ze skutkiem natychmiastowym - poinformowała firma w komunikacie.",
+      "date_published": "2026-11-12T15:17:00+01:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Zelenski-apeluje-do-Europy-o-czujnosc-W-tle-rozmowy-z-Moskwa-9227841.html",
+      "url": "https://www.bankier.pl/wiadomosc/Zelenski-apeluje-do-Europy-o-czujnosc-W-tle-rozmowy-z-Moskwa-9227841.html",
+      "title": "Zełenski apeluje do Europy o czujność. W tle rozmowy z Moskwą",
+      "content_html": "Prezydent Wołodymyr Zełenski powiedział w czwartek w Dublinie liderom państw europejskich, że Europa musi zachować czujność w rozmowach o gwarancjach bezpieczeństwa. Według niego Amerykanom i Rosjanom chodzi o stworzenie nowych ram bezpieczeństwa...",
+      "date_published": "2026-11-12T15:16:00+01:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Rzad-Litwy-szacuje-ze-tzw-windfall-tax-obejmie-ok-10-spolek-w-tym-Orlen-Lietuva-9227912.html",
+      "url": "https://www.bankier.pl/wiadomosc/Rzad-Litwy-szacuje-ze-tzw-windfall-tax-obejmie-ok-10-spolek-w-tym-Orlen-Lietuva-9227912.html",
+      "title": "Litwa chce sięgnąć po zyski Orlenu. Na liście nawet 10 spółek",
+      "content_html": "Uzgodniony przez litewską koalicję rządową tymczasowy podatek od nadmiarowych zysków, tzw. windfall tax, może dotyczyć około dziesięciu litewskich spółek, choć głównym - a być może jedynym - jego płatnikiem będzie Orlen Lietuva - poinformował...",
+      "date_published": "2026-11-12T15:10:00+01:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Trump-grozi-Meksykowi-Cla-na-towary-moga-wzrosnac-dwukrotnie-9227909.html",
+      "url": "https://www.bankier.pl/wiadomosc/Trump-grozi-Meksykowi-Cla-na-towary-moga-wzrosnac-dwukrotnie-9227909.html",
+      "title": "Trump grozi Meksykowi. Cła na towary mogą wzrosnąć dwukrotnie",
+      "content_html": "Prezydent USA Donald Trump zagroził w czwartek podwojeniem ceł na towary z Meksyku, jeśli władze tego kraju nie powstrzymają grupy migrantów zmierzających w kierunku granicy ze Stanami Zjednoczonymi.",
+      "date_published": "2026-11-12T15:05:00+01:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Wystapili-o-azyl-by-pracowac-dla-wywiadu-Iranu-Wyrok-w-Wielkiej-Brytanii-9227897.html",
+      "url": "https://www.bankier.pl/wiadomosc/Wystapili-o-azyl-by-pracowac-dla-wywiadu-Iranu-Wyrok-w-Wielkiej-Brytanii-9227897.html",
+      "title": "Wystąpili o azyl, by pracować dla wywiadu Iranu. Wyrok w Wielkiej Brytanii",
+      "content_html": "Londyński sąd uznał dwóch obywateli Iranu za winnych szpiegostwa. Według czwartkowego werdyktu obserwowali oni osoby krytyczne wobec reżimu w Teheranie. Jeden z nich przygotowywał też atak.",
+      "date_published": "2026-11-12T15:01:00+01:00",
+      "source": "Bankier.pl"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Putin-gra-na-czas-ale-ma-go-coraz-mniej-9227898.html",
       "url": "https://www.bankier.pl/wiadomosc/Putin-gra-na-czas-ale-ma-go-coraz-mniej-9227898.html",
       "title": "Putin gra na czas, ale ma go coraz mniej",
@@ -58,14 +106,6 @@
       "title": "Oszuści znaleźli nowy sposób na wyłudzanie danych. Podszywają się pod InPost",
       "content_html": "Cyberprzestępcy rozsyłają fałszywe wiadomości SMS, w których podszywają się pod Inpost i dążą do wyłudzenia danych kart płatniczych - ostrzegł w czwartek CSIRT KNF.",
       "date_published": "2026-11-12T14:25:00+01:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Zelenski-apeluje-do-Europy-o-czujnosc-W-tle-rozmowy-z-Moskwa-9227841.html",
-      "url": "https://www.bankier.pl/wiadomosc/Zelenski-apeluje-do-Europy-o-czujnosc-W-tle-rozmowy-z-Moskwa-9227841.html",
-      "title": "Zełenski apeluje do Europy o czujność. W tle rozmowy z Moskwą",
-      "content_html": "Prezydent Wołodymyr Zełenski powiedział w czwartek w Dublinie liderom państw europejskich, że Europa musi zachować czujność w rozmowach o gwarancjach bezpieczeństwa. Według niego Amerykanom i Rosjanom chodzi o stworzenie nowych ram bezpieczeństwa...",
-      "date_published": "2026-11-12T14:20:00+01:00",
       "source": "Bankier.pl"
     },
     {
@@ -123,14 +163,6 @@
       "content_html": "Grupa Allegro jest zadowolona z tempa rozwoju biznesu międzynarodowego i nie wyklucza, że do osiągnięcia rentowności tego segmentu może dojść wcześniej niż w 2029 r. - poinformował prezes Marcin Kuśmierz.",
       "date_published": "2026-11-12T13:52:00+01:00",
       "source": "Bankier.pl"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/firmy/allegro-nie-wyklucza-osiagniecia-breakeven-przez-biznes-miedzynarodowy-wczesniej",
-      "url": "https://biznes.pap.pl/wiadomosci/firmy/allegro-nie-wyklucza-osiagniecia-breakeven-przez-biznes-miedzynarodowy-wczesniej",
-      "title": "Allegro nie wyklucza osiągnięcia breakeven przez biznes międzynarodowy wcześniej niż w '29",
-      "content_html": "Grupa Allegro jest zadowolona z tempa rozwoju biznesu międzynarodowego i nie wyklucza, że do osiągnięcia rentowności tego segmentu może dojść wcześniej niż w 2029 r. - poinformował prezes Marcin Kuśmierz.\n\n\"Świetnie rozwija się nasz biznes w Czechach, Słowacji i na Węgrzech. Redukujemy stratę na poziomie relacji skorygowanej EBITDA do GMV w bardzo szybkim tempie, przekraczając nasze plany\" - powiedział Marcin Kuśmierz podczas czwartkowej konferencji prasowej.\n\n\"Ogłosiliśmy do rynku, że spodziewamy się osiągnąć breakeven w 2029 roku, ale patrząc na dynamikę rozwoju GMV, to jak szybko rozwijamy się na wszystkich trzech rynkach, możemy powiedzieć, że być może ten moment wydarzy się wcześniej. To jest wszystko skorelowane z możliwością przyspieszenia wzrostu, bo rozwijamy się na tych rynkach bardzo szybko\" - dodał prezes Allegro.\n\nW trzecim kwartale 2026 r. na międzynarodowych platformach grupy w Czechach, na Słowacji i na Węgrzech wzrost GMV wyniósł 102 proc. rdr. Skorygowana strata w EBITDA Allegro International zmniejszyła się w III kw. do 103 mln zł ze 115 mln zł straty rok wcześniej. Marża GMV wyniosła minus 8,5 proc. (wobec minus 19,2 proc. w III kw. 2025 r.).\n\nLiczba aktywnych kupujących na trzech zagranicznych platformach sięgnęła 5,7 mln, co oznacza wzrost o ok. 36 proc. rdr.\n\nJak poinformował prezes, aplikacja zakupowa spółki zajmuje na tych rynkach pierwsze miejsce w sklepie Google, firma buduje też przewagę cenową.\n\n\"Patrzymy przede wszystkim przez pryzmat inwestycji i budowania naszej pozycji, budowania skali na tych trzech rynkach\" - powiedział Kuśmierz, dodając, że obecnie spółka koncentruje się na zwiększaniu udziałów.\n\nPrezes Allegro poinformował, że grupa stawia obecnie na rozwój działalności na swoich dotychczasowych rynkach (Polska, Czechy, Słowacja i Węgry).\n\nW październiku spółka informowała o rozpoczęciu pilotażu bezpośrednich wysyłek do Ukrainy.\n\n\"To są nowe możliwości, także dla naszych partnerów, dla sprzedawców. Jeśli jakieś analizy pokażą nam sensowność wejścia na nowy rynek bądź to w modelu organicznym, bądź w modelu akwizycyjnym, to będziemy to rozważali. Dzisiaj nasze pełne skupienie jest na czterech rynkach plus na rozwoju Ukrainy jako pierwszym rynku eksportowym. To rynek dużych możliwości z mniejszą konkurencją niż na dojrzałych rynkach Europy Zachodniej\" - powiedział prezes Kuśmierz.\n\nJak wskazał, grupa nie wyklucza akwizycji, ale koncentruje się przede wszystkim na rozwoju organicznym.\n\n\"Interesujemy się M&A, ale nie za wszelką cenę. Jeśli znajdziemy jakieś aktywo, produkt, zespół, technologię albo coś, co uzupełni nasze portfolio, to będziemy to rozważali, ale dzisiaj jesteśmy przede wszystkim skoncentrowani na rozwoju organicznym, na budowie masy w biznesie zagranicznym. Jesteśmy rozpędzeni i myślę, że to jest nasz cel na najbliższe kilka kwartałów\" - powiedział prezes Allegro. (PAP Biznes)",
-      "date_published": "2026-11-12T13:50:00+01:00",
-      "source": "PAP Biznes"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Policja-w-siedzibie-TV-Republika-Prokuratura-zada-nagran-i-dokumentacji-9227733.html",
@@ -413,6 +445,14 @@
       "source": "PAP Biznes"
     },
     {
+      "id": "https://biznes.pap.pl/wiadomosci/gospodarka/polityka-zakupowa-panstwa-odejscie-od-dyktatu-najnizszej-ceny-w-kierunku",
+      "url": "https://biznes.pap.pl/wiadomosci/gospodarka/polityka-zakupowa-panstwa-odejscie-od-dyktatu-najnizszej-ceny-w-kierunku",
+      "title": "Polityka zakupowa państwa to odejście od dyktatu najniższej ceny w kierunku strategicznych zakupów - Domański",
+      "content_html": "Polityka zakupowa państwa na 2026-2029 to odejście od dyktatu najniższej ceny w kierunku strategicznych zakupów - wskazał minister finansów i gospodarki Andrzej Domański, podczas otwarcia konferencji \"Polityka Zakupowa Państwa na lata 2026-2029\". Zamówienia publiczne mają stwarzać warunki do skalowania krajowych firm i pobudzania procesów inwestycyjnych.\n\n\"Rytm zamówień publicznych to ogromna pula środków, sięgająca niemal 600 miliardów złotych rocznie. Skala sprawia, że sposób wydatkowania środków ma bezpośredni wpływ na funkcjonowanie wszystkich sektorów gospodarki. Przyjęte przez rząd założenia mają zwiększyć udział krajowych firm w realizacji zamówień publicznych\" - powiedział Domański.\n\n\"Odchodzimy więc od dyktatu najniższej ceny w kierunku strategicznych zakupów. Stawiamy z jednej strony na zwiększenie suwerenności i odporności gospodarki, z drugiej strony kreujemy mechanizm prowzrostowy. Stabilne źródła finansowania zamówień publicznych mają stwarzać warunki do skalowania krajowych firm i pobudzania procesów inwestycyjnych\" - dodał.\n\nMinister finansów i gospodarki wskazał na trzy priorytety określone w polityce zakupowej państwa.\n\n\"Po pierwsze, budowa konkurencyjności i potencjału polskiej gospodarki. Chcemy zwiększać udział mikro, małych i średni firm w kręgu zamówień publicznych, ograniczać bariery dostępu\" - powiedział Domański.\n\nDrugim priorytetem jest wzmocnienie odporności państwa.\n\n\"Bezpieczeństwo to nie tylko zdolności obronne, ale także niezawodne dostawy, bezpieczna infrastruktura, dostęp do technologii i zdolność reagowania\" - powiedział Domański.\n\n\"Dlatego priorytetowe znacznie zyskują zamówienia w obszarach strategicznych, takich jak energetyka, transport, telekomunikacja, ochrona zdrowia czy naturalnie - infrastruktura bezpieczeństwa. (...) Chcemy, aby państwo stało się inteligentnym inwestorem, dlatego zamówienia publiczne będą wykorzystywanie do stymulowania innowacji i współpracy biznesowej\" - dodał.\n\nTrzecim priorytetem jest profesjonalizacja rynku zamówień publicznych.\n\n\"Nawet najlepsze cele strategiczne nie zostaną osiągnięte bez odpowiedniej kompetencji i nowoczesnych narzędzi. Dlatego tak ważna jest współpraca instytucji publicznych, urzędu zamówień publicznych, organizacji branżowych i przedsiębiorców\" - wskazał Domański. (PAP Biznes)",
+      "date_published": "2026-11-12T11:10:00+01:00",
+      "source": "PAP Biznes"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Dobre-wiesci-dla-inwestorow-na-GPW-Ekspert-zdradza-ktore-branze-moga-teraz-najmocniej-zyskac-9227697.html",
       "url": "https://www.bankier.pl/wiadomosc/Dobre-wiesci-dla-inwestorow-na-GPW-Ekspert-zdradza-ktore-branze-moga-teraz-najmocniej-zyskac-9227697.html",
       "title": "Dobre wieści dla inwestorów na GPW. Ekspert zdradza, które branże mogą teraz najmocniej zyskać",
@@ -471,7 +511,7 @@
     {
       "id": "https://www.bankier.pl/wiadomosc/Kto-moze-zastapic-prezesa-Nvidii-Elon-Musk-bylby-zaszczycony-zatrudnieniem-Huanga-u-siebie-9227635.html",
       "url": "https://www.bankier.pl/wiadomosc/Kto-moze-zastapic-prezesa-Nvidii-Elon-Musk-bylby-zaszczycony-zatrudnieniem-Huanga-u-siebie-9227635.html",
-      "title": "Król hossy AI u Muska, a na jego miejsce córka, syn lub nawet zdradzona żona. Kto mógłby przejąć władzę w Nvidii?",
+      "title": "Jensen Huang na wylocie, a na jego miejsce córka, syn lub nawet zdradzona żona. Kto mógłby przejąć władzę w Nvidii?",
       "content_html": "Rada dyrektorów Nvidii zebrała się w środę, aby zdecydować o przyszłości współzałożyciela i prezesa giganta AI, 63-letniego Jensena Huanga, po ujawnieniu jego romansów, w tym kobietą podejrzewaną o szpiegostwo na rzecz Chin. Rynki predykcyjne...",
       "date_published": "2026-11-12T09:36:00+01:00",
       "source": "Bankier.pl"
@@ -485,6 +525,14 @@
       "source": "Bankier.pl"
     },
     {
+      "id": "https://biznes.pap.pl/wiadomosci/firmy/iceye-rozszerza-mozliwosci-civil-security-hub-poland-w-zakresie-monitorowania",
+      "url": "https://biznes.pap.pl/wiadomosci/firmy/iceye-rozszerza-mozliwosci-civil-security-hub-poland-w-zakresie-monitorowania",
+      "title": "Iceye rozszerza możliwości Civil Security Hub Poland w zakresie monitorowania powodzi i pożarów lasów",
+      "content_html": "Iceye oraz Centrum Badań Kosmicznych Polskiej Akademii Nauk (CBK PAN) ogłosiły zawarcie umowy, na mocy której Iceye zapewni Civil Security Hub Poland, polskiemu węzłowi inicjatywy ESA Space Resilience Nodes, usługi monitorowania powodzi, pożarów lasów i obecności kry na rzekach - podał Iceye w komunikacie prasowym.\n\nJak podano, umowa zapewnia CS Hub PL stały dostęp do usług monitorowania zagrożeń Iceye w modelu subskrypcyjnym, bez konieczności osobnego uruchamiania ich dla każdego zdarzenia. Kontrakt stanowi część inicjatywy Europejskiej Agencji Kosmicznej pn. European Resilience from Space for Earth Observation(ERS-EO), której celem jest zapewnienie Europie niezawodnego, bezpiecznego, terminowego, stałego dostępu do niezależnych informacji satelitarnych podczas klęsk żywiołowych i innych sytuacji kryzysowych.\n\nSpace Resilience Node zapewnia krajowym organom zarządzania kryzysowego i ochrony ludności szybki dostęp do danych i usług satelitarnych, udostępnianych bezpośrednio w narzędziach i procesach, z których już korzystają. W Polsce funkcję tę pełni CS Hub PL, kierowany przez Centrum Informacji Kryzysowej CBK PAN, którego jednym z partnerów jest Iceye. Hub łączy dane satelitarne, zobrazowania z platform bezzałogowych i wiedzę ekspercką w gotowe do użycia informacje dla służb reagujących na sytuacje kryzysowe. Doświadczenia polskiego Hubu wspierają rozwój podobnych węzłów w innych krajach Europy.\n\nNa mocy umowy Iceye udostępni CS Hub PL pełny pakiet Flood Solutions Suite, dostarczający informacje na wszystkich etapach zagrożenia powodziowego. Flood Early Warningjest w stanie prognozować rozległe powodzie z wyprzedzeniem do czterech dni. W ciągu kilku godzin od sygnału o zdarzeniu, Flood Rapid Impact mapuje zasięg obszaru objętego powodzią, dostarczając aktualizacje nawet co trzy godziny.\n\nJak podano, Iceye zapewni również pilotażową usługę monitorowania pożarów lasów, łączącą możliwości detekcji termicznej OroraTech wraz z danymi zbieranymi przez satelity radarowe i optyczne. Pozwoli ona śledzić aktywne pożary, oceniać uszkodzenia budynków nawet w warunkach z zadymieniem czy bez światła dziennego oraz mapować pogorzeliska, już po ugaszeniu ognia. Zimą i wiosną Iceye udostępni do weryfikacji w Polsce usługę monitorowania lodu na rzekach. Śledzenie jego powstawania i przemieszczania się pozwoli polskim władzom wcześniej rozpoznawać warunki sprzyjające powodziom zatorowym.\n\nUmowa opiera się na wcześniejszej współpracy Iceye, CBK PAN i ESA, obejmującej m.in. wsparcie operacyjne podczas wystąpienia układu niżowego Boris we wrześniu 2024 r., o którym informowano już pod nazwą Civil Security Hub. Firma Iceye dostarczała dane powodziowe co 6 godzin do Centrum Informacji Kryzysowej CBK PAN, które przekazywało je Państwowej Straży Pożarnej, regionalnym i lokalnym zespołom zarządzania kryzysowego oraz służbom hydrologicznym.\n\nJak podano, na mocy porozumienia polskie zespoły SRN mogą na wniosek wspierać kraje partnerskie, rozszerzając korzyści płynące z polskich zdolności krajowych na cały region. Szersza inicjatywa ESA Space Resilience Nodes zakłada łączenie i współdzielenie interoperacyjnych zdolności poszczególnych węzłów krajowych, również podczas transgranicznego reagowania na katastrofy z udziałem wielu instytucji. ICEYE będzie kontynuować współpracę z ESA i CS Hub PL w miarę rozwoju tej inicjatywy. (PAP Biznes)",
+      "date_published": "2026-11-12T09:29:00+01:00",
+      "source": "PAP Biznes"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Zachodnia-Polska-sercem-europejskich-Patriotow-Rzad-szykuje-wielki-kontrak-9227623.html",
       "url": "https://www.bankier.pl/wiadomosc/Zachodnia-Polska-sercem-europejskich-Patriotow-Rzad-szykuje-wielki-kontrak-9227623.html",
       "title": "Zachodnia Polska sercem europejskich Patriotów? Rząd szykuje wielki kontrakt",
@@ -493,12 +541,36 @@
       "source": "Bankier.pl"
     },
     {
+      "id": "https://biznes.pap.pl/wiadomosci/rynki/ceny-ropy-na-swiecie-spadaly-ale-trend-sie-juz-odwrocil-aktl",
+      "url": "https://biznes.pap.pl/wiadomosci/rynki/ceny-ropy-na-swiecie-spadaly-ale-trend-sie-juz-odwrocil-aktl",
+      "title": "Ceny ropy na świecie spadały, ale trend się już odwrócił (aktl.)",
+      "content_html": "Ceny ropy na rynkach spadały w czwartek rano, ale trend ten już się odwrócił pomimo pozytywnych czynników dla notowań surowca - podają maklerzy.\n\nBaryłka ropy West Texas Intermediate w dostawach na XII jest na NYMEX w Nowym Jorku po 87,09 USD - wyżej o 0,65 proc.\n\nBrent na ICE na I 2027 jest wyceniana po 93,28 USD za baryłkę, w górę o 0,56 proc.\n\nWcześniej oba te benchmarki taniały, a notowania surowca były na najniższych poziomach od 2 miesięcy.\n\nTeraz ropa już drożeje pomimo pozytywnych informacji, jak ta, że produkcja ropy na Bliskim Wschodzie rośnie.\n\nArabia Saudyjska, największy eksporter ropy naftowej na świecie, poinformowała, że w październiku jej produkcja ropy naftowej wzrosła o 26 proc., osiągając tym samym jeden z najwyższych miesięcznych poziomów od lat.\n\nO zwiększeniu produkcji ropy poinformował też Irak.\n\nAnalitycy ANZ Group Holding Ltd. informują, że podaż ropy poprawia się, jednak jej dostawy następują w wyniku obejść, a nie transportu surowca przez bezpieczne szlaki żeglugowe, więc ryzyko zakłóceń nadal istnieje.\n\nChociaż przepływ ropy naftowej z Bliskiego Wschodu zbliża się do poziomu sprzed wojny na Bliskim Wschodzie, nadal dostawy surowca opierają się na wyborze alternatywnych tras, takich jak saudyjski rurociąg Wschód-Zachód, oraz przez tzw. handel \"wahadłowy\" - z wykorzystaniem transferów ładunków ropy między statkami.\n\n\"Dostawy ropy się odbudowują, ale opierają się na rozwiązaniach tymczasowych, a nie na bezpiecznych szlakach transportu\" - napisali w rynkowej nocie analitycy ANZ Group.\n\n\"Ryzyko zakłóceń w transporcie ropy z Bliskiego Wschodu nadal więc istnieje\" - dodali.\n\nAnalitycy zwracają jednak uwagę na względne uspokojenie działań wojennych pomiędzy USA a Iranem.\n\nNie ma jednak oznak postępu w kierunku zakończenia konfliktu na Bliskim Wschodzie.\n\nIran zapowiedział, że nie usunie wzbogaconego materiału atomowego, a to jest jednym z warunków negocjacji stawianych przez Stany Zjednoczone.\n\n\"Ponieważ obie strony wciąż są od siebie daleko, rynki ropy nadal będą uwzględniać w cenach tego surowca premię geopolityczną, pomimo ożywienia dostaw ropy z Zatoki Perskiej w październiku\" - napisali analitycy ANZ Group.\n\nRopa WTI od początku tego roku zyskała 51,8 proc., a Brent zdrożała o 53,5 proc. (PAP Biznes)",
+      "date_published": "2026-11-12T09:23:00+01:00",
+      "source": "PAP Biznes"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/gospodarka/dzien-na-fxfi-potencjal-do-dalszej-deprecjacji-zlotego-ograniczony",
+      "url": "https://biznes.pap.pl/wiadomosci/gospodarka/dzien-na-fxfi-potencjal-do-dalszej-deprecjacji-zlotego-ograniczony",
+      "title": "DZIEŃ NA FX/FI: Potencjał do dalszej deprecjacji złotego ograniczony",
+      "content_html": "Potencjał do dalszej deprecjacji złotego jest już ograniczony, ale ryzykiem pozostaje mocniejsze odbicie cen ropy - oceniają w porannych raportach ekonomiści. Na krajowym rynku długu uwagę inwestorów w czwartek zwróci aukcja zamiany SPW.\n\n\"W naszej opinii po silnym wzroście EUR/PLN i USD/PLN złoty zdyskontował już większość niekorzystnych zmian w otoczeniu globalnym, co ogranicza potencjał jego dalszej deprecjacji. Ryzykiem pozostaje mocniejsze odbicie cen ropy, które wcześniej mocno wyceniły możliwość przełomu na Bliskim Wschodzie\" - napisali ekonomiści PKO BP.\n\n\"Daleko idące warunki Teheranu dotyczące udrożnienia cieśniny Ormuz nie wskazują jednak, by porozumienie było bliskie. Przy braku nowych impulsów zakładamy w czwartek stabilizację EUR/PLN wokół 4,41, a USD/PLN w pobliżu 3,97–3,98\" - dodali.\n\n\"Na krajowym rynku stopy procentowej do końca tygodnia spodziewamy się niewielkiego wzrostu rentowności 2-letnich obligacji powyżej 4,80 proc., natomiast 10-letnich w pobliże 6,20 proc.\" - napisano w raporcie PKO BP.\n\n\"Możliwy jest lekki wzrost rentowności krajowych obligacji, nie spodziewamy się jednak wybicia z obowiązującego trendu bocznego ze względu na niższe ceny surowców energetycznych (...). Rentowność polskiej 10-latki powinna więc, w naszej ocenie, zwyżkować w kierunku 6,25 proc.\" - wskazali ekonomiści Banku Millennium.\n\nNa czwartek resort finansów zaplanował aukcję zamiany SPW.\n\n\"Oczekujemy, że Ministerstwo Finansów sprzeda papiery o łącznej wartości powyżej 8 mld PLN. Można spodziewać się, że większość odkupowanych obligacji będzie miała termin zapadalności w 2027, co oznacza prefinansowanie przyszłorocznych potrzeb pożyczkowych\" - napisali ekonomiści PKO BP.\n\n\"Naszym zdaniem przetarg będzie miał neutralny wpływ na rynek, choć potencjalnie może sprzyjać umiarkowanej realizacji zysków w środkowym i długim końcu krzywej dochodowości\" - dodali.\n\nEkonomiści Banku Millennium oceniają, że w związku z przetargiem zmienność rentowności polskich obligacji może być nieco większa podczas czwartkowej sesji.\n\nW piątek BGK zorganizuje z kolei przetarg obligacji na rzecz Funduszu Przeciwdziałania COVID-19 o wartości co najmniej 0,5 mld PLN (serie FPC0229, FPC0231, FPC0931 i FPC0235).\n\n\"To również przemawia za lekkim wzrostem rentowności papierów skarbowych\" - wskazują ekonomiści PKO BP.",
+      "date_published": "2026-11-12T09:21:00+01:00",
+      "source": "PAP Biznes"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Noble-Securities-obnizyl-cene-docelowa-akcji-Amiki-do-58-zl-9227619.html",
       "url": "https://www.bankier.pl/wiadomosc/Noble-Securities-obnizyl-cene-docelowa-akcji-Amiki-do-58-zl-9227619.html",
       "title": "Noble Securities obniżył cenę docelową akcji Amiki do 58 zł",
       "content_html": "Analitycy Noble Securities, w raporcie z 10 listopada, obniżyli cenę docelową dla akcji spółki Amica do 58 zł z 74 zł, podtrzymując rekomendację \"kupuj\".",
       "date_published": "2026-11-12T09:20:00+01:00",
       "source": "Bankier.pl"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/firmy/noble-securities-obnizyl-cene-docelowa-akcji-amiki-do-58-zl",
+      "url": "https://biznes.pap.pl/wiadomosci/firmy/noble-securities-obnizyl-cene-docelowa-akcji-amiki-do-58-zl",
+      "title": "Noble Securities obniżył cenę docelową akcji Amiki do 58 zł",
+      "content_html": "Analitycy Noble Securities, w raporcie z 10 listopada, obniżyli cenę docelową dla akcji spółki Amica do 58 zł z 74 zł, podtrzymując rekomendację \"kupuj\".\n\nW dniu wydania rekomendacji kurs wynosił 44,1 zł.\n\n\"Sprzedaż w 3Q26 ujawniła słabość na kolejnych rynkach. Nie dość, że nie udało się powtórzyć wysokiej sprzedaży w segmencie lodówek we Francji, to aktywność konkurencji dodatkowo pogłębiła spadki w Kazachstanie. W konsekwencji spodziewamy się przychodów niższych o 8 proc. rdr w 3Q26 oraz obniżamy nasze oczekiwania na kolejne lata\" - napisano w raporcie.\n\n\"Mimo imponującej dyscypliny kosztowej niższa skala działalności przełoży się na spadek marży EBITDA. W efekcie obniżamy 12-miesięczną cenę docelową o 22 proc. do 58 zł, jednak ze względu na spadek kursu akcji podtrzymujemy zalecenie +kupuj+\" - dodano.\n\nAutorem rekomendacji Noble Securities jest Mateusz Chrzanowski. Pierwsze rozpowszechnienie rekomendacji nastąpiło 10 listopada 2026 r. o godz. 8:15.\n\nDepesza jest skrótem rekomendacji. W załączniku znajduje się plik PDF z wymaganymi prawem informacjami. (PAP Biznes)",
+      "date_published": "2026-11-12T09:19:00+01:00",
+      "source": "PAP Biznes"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Wyzsza-stawka-w-Santander-Consumer-Banku-4-na-lokacie-bez-konta-9227615.html",
@@ -909,38 +981,6 @@
       "source": "Bankier.pl"
     },
     {
-      "id": "https://biznes.pap.pl/wiadomosci/firmy/glowny-akcjonariusz-mostostalu-warszawa-podtrzymuje-zamiar-objecia-akcji-nowej",
-      "url": "https://biznes.pap.pl/wiadomosci/firmy/glowny-akcjonariusz-mostostalu-warszawa-podtrzymuje-zamiar-objecia-akcji-nowej",
-      "title": "Główny akcjonariusz Mostostalu Warszawa podtrzymuje zamiar objęcia akcji nowej emisji",
-      "content_html": "Acciona Construcción Polonia, większościowy akcjonariusz Mostostalu Warszawa, podtrzymał zamiar wzięcia udziału w planowanej emisji do 100 mln akcji serii VI, o której zdecydowało walne zgromadzenie polskiej spółki pod koniec października - podał Mostostal Warszawa w komunikacie.\n\n\"Z zadowoleniem przyjmujemy podjęcie uchwały, której parametry odnoszą się do wartości godziwej akcji spółki ustalonej w decyzji Komisji Nadzoru Finansowego z dnia 23 października 2026 r. Postrzegamy to jako kluczowy krok w kierunku dokapitalizowania spółki, której sytuacja finansowa nadal wymaga, aby proces ten został zrealizowany bezzwłocznie\" - napisała Acciona Construccion Polonia w swoim stanowisku.\n\n\"Nasz zamiar opiera się na założeniu, że emisja zostanie przeprowadzona zgodnie z uchwałą po wskazanej powyżej cenie, pod warunkiem uprzedniej publikacji przez spółkę dokumentu ofertowego w rozumieniu obowiązujących przepisów\" - dodała.\n\nAcciona ma 62,13 proc. akcji i głosów Mostostalu Warszawa.\n\nPod koniec października walne zgromadzenie Mostostalu Warszawa zdecydowało o podwyższeniu kapitału zakładowego spółki w drodze emisji maksymalnie 100 mln akcji. Acciona deklaruje chęć objęcia całej tej emisji, po cenie emisyjnej 2,75 zł za akcję, co pozwoli spółce pozyskać 275 mln PLN brutto. (PAP Biznes)",
-      "date_published": "2026-11-11T22:24:00+01:00",
-      "source": "PAP Biznes"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/rynki/dzien-na-rynkach-gieldy-w-usa-w-gore-w-centrum-uwagi-coreweave",
-      "url": "https://biznes.pap.pl/wiadomosci/rynki/dzien-na-rynkach-gieldy-w-usa-w-gore-w-centrum-uwagi-coreweave",
-      "title": "DZIEŃ NA RYNKACH: Giełdy w USA w górę, w centrum uwagi CoreWeave",
-      "content_html": "Wtorkowa sesja na Wall Street zakończyła się wzrostami głównych indeksów, wspieranych przez duże wzrosty akcji CoreWeave i odbicie notowań Nvidii po dwóch kolejnych sesjach, w których producent chipów poniósł straty.\n\nDow Jones Industrial na zamknięciu wzrósł o 0,49 proc. i wyniósł 52.486,49 pkt.\n\nS&P 500 na koniec dnia zyskał 1,31 proc. i wyniósł 7.619,38 pkt.\n\nNasdaq Composite zwyżkował o 1,60 proc. do 25.466,19 pkt.\n\nIndeks spółek o średniej kapitalizacji Russell 2000 rośnie o 0,88 proc. i wynosi 2.846,26 pkt.\n\nIndeks VIX spada o 10,12 proc., do 17,49 pkt.\n\nAkcje CoreWeave wzrosły o 20 proc. po opublikowaniu raportu o przychodach za trzeci kwartał, które przewyższyły oczekiwania analityków. CoreWeave podniosło również prognozy dotyczące zysku operacyjnego i przychodów na rok 2026.\n\n„Wyniki potwierdzają, że popyt na rozwiązania z zakresu sztucznej inteligencji jest wciąż bardzo silny. Niemniej jednak w przypadku CoreWeave wciąż pojawiają się istotne pytania dotyczące tego, czy obecne zadłużenie firmy jest możliwe do utrzymania w dłuższej perspektywie” – ocenił Alberto Conca, dyrektor inwestycyjny LFG+ZEST.\n\nConca powiedział, że wzrosty na giełdzie wykraczają poza akcje powiązane z AI, które w ostatnich latach napędzały wzrosty na rynkach. Dodał, że wzrost zysków pozostaje wystarczająco silny, aby wspierać akcje pomimo presji na wyceny w różnych częściach sektora AI.\n\nTymczasem akcje Nvidii wzrosły o ponad 4 proc. po spadku o prawie 10 proc. na początku tygodnia, kiedy prezes Jensen Huang potwierdził, że miał romans z domniemaną chińską kobietą-szpiegiem.\n\n„Spodziewam się dalszych inwestycji w infrastrukturę sztucznej inteligencji, co z czasem doprowadzi do wzrostu cen akcji, nawet jeśli mnożniki wyceny pozostają pod presją z powodu obaw natury politycznej” – ocenił Eric Schiffer, prezes The Patriarch Organization.\n\nAkcje innych producentów układów scalonych również notowały odbicie: po kilka procent wzrosły kursy Marvell Technology oraz Micron Technology.\n\nLaboratorium sztucznej inteligencji Anthropic poinformowało we wtorek w zaktualizowanym wniosku złożonym w Komisji Papierów Wartościowych i Giełd, że zaoferuje 825 milionów akcji w ramach pierwszej oferty publicznej zaplanowanej na przyszły tydzień, co może wycenić pięcioletnią firmę nawet na 1,4 biliona dolarów.\n\n„Wzrost nastrojów wynikający z wyników CoreWeave i popytu na IPO w ramach Anthropic wspomaga cały ekosystem” – powiedział Ross Mayfield, strateg inwestycyjny w Baird Private Wealth Management, w rozmowie z CNBC.\n\n„Rynki nadal odrabiają straty z zeszłego tygodnia, a sprzyja im teraz bardziej przejrzyste pozycjonowanie i atrakcyjne krótkoterminowe prognozy dotyczące wyceny i zysków w wielu spółkach z sektora sztucznej inteligencji” - dodał.\n\nPo niedawnym raporcie o inflacji prezes Rezerwy Federalnej w Chicago Austan Goolsbee ocenił, że był to kolejny niepokojący raport — wręcz niepokojący.\n\nWedług narzędzia FedWatch firmy CME Group oczekiwania dotyczące podwyżki stóp o ćwierć punktu procentowego w przyszłym miesiącu wzrosły do około 90 proc. po opublikowaniu danych przez Departament Pracy.\n\n„Pomimo pewnej niepewności technicznej, wyższe niż pożądane poziomy inflacji powinny utrzymywać Fed w stanie niezadowolenia z poziomu postępu w walce z inflacją, który pozostaje mierny. Dlatego podwyżka stopy procentowej funduszy federalnych w grudniu jest naszym i rynku scenariuszem bazowym” – napisał Rick Rieder, dyrektor ds. inwestycji w globalne instrumenty o stałym dochodzie w BlackRock.\n\n„Teraz pytanie dotyczy raczej skali podwyżki” - dodał.\n\nKomentarze prezesa Rezerwy Federalnej Christophera Wallera wygłoszone we wtorek na konferencji Banku Anglii w Londynie również sprawiły, że inwestorzy dostrzegli większe prawdopodobieństwo ruchu w górę o ćwierć punktu procentowego.\n\nRynek obligacji amerykańskich był w środę zamknięty z okazji Dnia Weteranów.\n\nZdaniem analityków Goldman Sachs akcje mogą nadal rosnąć w szerokim zakresie, nawet jeśli spółki technologiczne stracą na warto",
-      "date_published": "2026-11-11T22:17:00+01:00",
-      "source": "PAP Biznes"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/ekonomia-biznes-i-finanse/skrot-wiadomosci-sroda-11-listopada-0",
-      "url": "https://biznes.pap.pl/wiadomosci/ekonomia-biznes-i-finanse/skrot-wiadomosci-sroda-11-listopada-0",
-      "title": "Skrót wiadomości: środa, 11 listopada",
-      "content_html": "Przegląd najważniejszych wiadomości gospodarczych, krajowych i ze świata ze środy, 11 listopada.\n\nWIADOMOŚCI GOSPODARCZE KRAJ I ŚWIAT ----------------------------------\n\nŚrodki na sfinansowanie stałej obecności wojsk USA w Polsce się znajdą - zapewnił w środę minister finansów i gospodarki Andrzej Domański. Jak dodał, w tej chwili potrzeba jeszcze wiele rzeczy doprecyzować, aby precyzyjnie przedstawić plan finansowania.\n\nPonad 6,2 mln przesyłek o wartości do 150 euro trafiło do Polski od 1 lipca do 30 września z państw trzecich, z tego 90 proc., czyli ok. 5,6 mln z Chin - wynika z informacji Ministerstwa Finansów. Liczba chińskich przesyłek rok do roku spadła o ponad 31,2 tys.\n\nDyrektor biura komunikacji MC Marek Gieorgica przekazał PAP, że pełne przywrócenie systemu ePUAP nastąpi po zakończeniu prac zespołu Centralnego Ośrodka Informatyki, aby mieć pewność, że nie ma zagrożenia dla jego funkcjonowania.\n\nNa maszcie promu M/F Bursztyn Unity wzniesiono polską banderę. Jednostka została w środę uroczyście ochrzczona przy Wałach Chrobrego w Szczecinie. Banderę kapitanowi promu przekazał premier Donald Tusk.\n\nW USA zanotowano wzrost indeksu wniosków o kredyt hipoteczny MBA - indeks wyrównany sezonowo wzrósł o 6,2 proc. w tygodniu zakończonym 6 listopada. Poprzednio indeks spadł o 1,2 proc.\n\nIndeksy w Europie zwyżkowały na koniec sesji w środę, a indeks Stoxx Europe 600 zakończył dzień z rekordem po raz pierwszy od sierpnia. Na rynkach ponownie pojawił się optymizm wobec sektora AI po wynikach spółki CoreWeave.\n\nCeny gazu w Europie rosną w środę i są blisko 87 euro za MWh. Inwestorzy oceniają niepewne perspektywy związane z wojną na Bliskim Wschodzie.\n\nNotowania miedzi na giełdzie metali LME w Londynie rosną w środę. Inwestorzy oceniają kryzysową sytuację na rynku miedzi w Chinach.\n\nRopa na rynkach drożeje po dwóch poprzednich sesjach ze spadkiem notowań. Inwestorzy oceniają perspektywy zakończenia wojny między USA a Iranem.\n\nSiły Obrony Ukrainy uderzyły w infrastrukturę naftową rosyjskiego portu Ust-Ługa nad Morzem Bałtyckim, głównego ośrodka eksportowego w północno-zachodniej Rosji – poinformował w środę Sztab Generalny ukraińskich sił zbrojnych.\n\nIrańska armia zaprezentowała podziemne „miasto rakietowe” – podała w środę agencja Tasnim. Według źródeł Bloomberga Iran produkuje obecnie około 50 rakiet balistycznych miesięcznie, mimo poważnych zniszczeń przemysłu zbrojeniowego podczas wojny z USA i Izraelem.\n\nNiemiecki rząd przyjął projekt ustawy o utworzeniu krajowej rezerwy gazu, która ma zabezpieczyć dostawy w przypadku sabotażu i sytuacji kryzysowych - poinformowała w środę agencja dpa.\n\nFilozof i działacz opozycji demokratycznej w PRL Wiesław Kęcik oraz lekarz neurochirurg, prof. CMKP dr hab. n. med. Mirosław Ząbek zostali w środę, w dniu Narodowego Święta Niepodległości, odznaczeni przez prezydenta Karola Nawrockiego Orderem Orła Białego.\n\nPotrzebujemy silnego i sprawnego państwa, aby czuć się bezpiecznie i móc żyć w dobrobycie, wolności i suwerenności, a nie po to, aby naszą wolność ograniczano - powiedział prezydent Karol Nawrocki podczas obchodów Święta Niepodległości. - Musimy pamiętać o błędach, które doprowadziły do upadku Rzeczpospolita - wskazał.\n\nPremier Donald Tusk zwrócił się w środę, w dniu Narodowego Święta Niepodległości, do prezydenta Karola Nawrockiego z zaproszeniem do swojego domu w Sopocie na przedświąteczne spotkanie. - Chcę zaprosić pana prezydencie, razem z małżonką, z rodziną, z dziećmi; porozmawiajmy - powiedział.\n\nW środę ulicami Warszawy przeszedł Marsz Niepodległości. Uczestniczył w nim prezydent Karol Nawrocki.\n\nFrekwencja w tegorocznym Marszu Niepodległości, który w środę przeszedł przez Warszawę, wyniosła nawet 250 tys. osób - poinformował dyrektor Stołecznego Centrum Bezpieczeństwa Jarosław Misztal. Organizatorzy marszu ocenili, że frekwencja mogła wynieść pół miliona, a nawet milion osób.\n\nZe strony Pentagonu jest zielone światło dla budowy stałej bazy wojsk amerykańskich w Polsce, dla zacieśnian",
-      "date_published": "2026-11-11T21:19:00+01:00",
-      "source": "PAP Biznes"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/gospodarka/od-lipca-do-wrzesnia-do-polski-trafilo-niemal-56-mln-chinskich-przesylek",
-      "url": "https://biznes.pap.pl/wiadomosci/gospodarka/od-lipca-do-wrzesnia-do-polski-trafilo-niemal-56-mln-chinskich-przesylek",
-      "title": "Od lipca do września do Polski trafiło niemal 5,6 mln chińskich przesyłek niskiej wartości",
-      "content_html": "Ponad 6,2 mln przesyłek o wartości do 150 euro trafiło do Polski od 1 lipca do 30 września z państw trzecich, z tego 90 proc., czyli ok. 5,6 mln z Chin - wynika z informacji Ministerstwa Finansów. Liczba chińskich przesyłek rok do roku spadła o ponad 31,2 tys.\n\nDane te pochodzą z odpowiedzi wiceministra finansów, zastępcy szefa Krajowej Administracji Skarbowej Zbigniewa Stawickego na interpelację poselską.\n\nOd 1 lipca 2026 r. w Unii Europejskiej zmieniły się przepisy dotyczące przesyłek z towarami zakupionymi poza UE. Dotychczas przesyłki do wartości 150 euro były zwolnione z obowiązku oclenia, co zmieniło się z początkiem lipca.\n\nZgodnie z informacjami Stawickiego, liczba wszystkich przesyłek o wartości do 150 euro pochodzących z państw trzecich spadła o ok. 148,2 tys. sztuk rok do roku, czyli o 2,39 proc., a chińskich o 0,56 proc. - to o ponad 31,2 tys. sztuk mniej.\n\nWiceminister poinformował, że w czerwcu 2026 r. liczba przesyłek przekroczyła 4,2 mln, natomiast w lipcu było to 2,1 mln. Oznacza to spadek o ok. 2,1 mln, czyli około 50,14 proc. miesiąc do miesiąca.\n\nDeklarowana wartość takich przesyłek, które trafiły do Polski od 1 lipca do 30 września br. to ok. 1,2 mld zł.\n\nKwota cła wynikająca z wprowadzenia nowego, tymczasowego cła przekroczyła 185,7 mln zł, a należności celne przywozowe za wskazany okres podliczono na ok. 200,3 mln zł.\n\nOd 1 listopada przesyłki o wartości nieprzekraczającej równowartości 150 euro są objęte dodatkową opłatą w wysokości 2 euro. Wraz z wprowadzonym od lipca cłem zryczałtowanym wysokość daniny od takich przesyłek wynosi 5 euro za pozycję w zgłoszeniu celnym.\n\nObowiązek naliczania opłaty został wprowadzony przez nowy unijny Kodeks celny. Wysokość opłaty została ustalona przez Komisję Europejską.\n\nUrzędnicy Ministerstwa Finansów nie kryją, że zarówno wprowadzone wcześniej cło, jak i nowa opłata mają zahamować napływ towarów do UE. Chodzi przede wszystkim o import z Chin, zwłaszcza towarów o niewielkiej wartości. Do początku lipca br. takie przesyłki o małej wartości były zwolnione z cła.\n\nJak powiedział PAP wiceminister finansów Marcin Łoboda, wprowadzenia cła na przesyłki sprawiło, że liczba zgłoszeń takich przesyłek spadła od początku lipca o 50 proc. w Polsce, a jeśli wziąć pod uwagę pozycje towarowe na zgłoszeniach, to spadek wyniósł 75 proc. (PAP)",
-      "date_published": "2026-11-11T21:18:00+01:00",
-      "source": "PAP Biznes"
-    },
-    {
       "id": "https://www.bankier.pl/wiadomosc/Ponad-11-tys-obcokrajowcow-zginelo-walczac-po-stronie-Rosji-Sa-tam-Polacy-9227453.html",
       "url": "https://www.bankier.pl/wiadomosc/Ponad-11-tys-obcokrajowcow-zginelo-walczac-po-stronie-Rosji-Sa-tam-Polacy-9227453.html",
       "title": "Ponad 11 tys. obcokrajowców zginęło walcząc po stronie Rosji. Są tam Polacy",
@@ -1050,46 +1090,6 @@
       "title": "Groził śmiercią ministrowi i jego dzieciom. Policja odebrała mu dwie sztuki broni palnej",
       "content_html": "Zarzuty dotyczące kierowania gróźb pozbawienia życia wobec ministra spraw wewnętrznych i administracji Marcina Kierwińskiego przedstawiła policja 41-letniemu mieszkańcowi powiatu złotoryjskiego. Mężczyzna miał pozwolenie i posiadał broń...",
       "date_published": "2026-11-11T18:55:00+01:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Zenujace-niespelnienie-obietnicy-Niemcy-krytykuja-rzad-za-brak-gestu-wobec-Polski-9227306.html",
-      "url": "https://www.bankier.pl/wiadomosc/Zenujace-niespelnienie-obietnicy-Niemcy-krytykuja-rzad-za-brak-gestu-wobec-Polski-9227306.html",
-      "title": "\"Żenujące niespełnienie obietnicy\". Niemcy krytykują rząd za brak gestu wobec Polski",
-      "content_html": "W przeddzień decydującego posiedzenia komisji budżetowej Bundestagu dziennik „Frankfurter Allgemeine Zeitung” przypomniał w środę o apelu polskich ofiar wojny i niemieckiej okupacji, domagających się finansowego wsparcia od rządu w Berlinie...",
-      "date_published": "2026-11-11T18:51:00+01:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Ceny-w-salonach-ostro-w-dol-Chinskie-koncerny-ustepuja-przed-rynkiem-kupujacego-9226004.html",
-      "url": "https://www.bankier.pl/wiadomosc/Ceny-w-salonach-ostro-w-dol-Chinskie-koncerny-ustepuja-przed-rynkiem-kupujacego-9226004.html",
-      "title": "Ceny w salonach ostro w dół. Chińskie koncerny ustępują przed \"rynkiem kupującego\"",
-      "content_html": "Od początku ekspansji chińskich koncernów motoryzacyjnych na polskim rynku samochody tanieją; w sierpniu tego roku ich ceny były niższe średnio o 7,6 proc. niż rok wcześniej, to największy spadek od 16 lat - wynika z raportu serwisu Superauto...",
-      "date_published": "2026-11-11T18:00:00+01:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Sojusz-z-przypadku-Rosja-ruch-MAGA-i-Izrael-uderzaja-w-wizerunek-Francji-9226095.html",
-      "url": "https://www.bankier.pl/wiadomosc/Sojusz-z-przypadku-Rosja-ruch-MAGA-i-Izrael-uderzaja-w-wizerunek-Francji-9226095.html",
-      "title": "Sojusz z przypadku? Rosja, ruch MAGA i Izrael uderzają w wizerunek Francji",
-      "content_html": "Rosyjska siatka wykorzystała październikowe zamieszki we Francji do rozpowszechniania fake newsów w serwisach społecznościowych, przedstawiając niepokoje jako skutek niekontrolowanej imigracji i dowód, że władze francuskie utraciły kontrolę nad...",
-      "date_published": "2026-11-11T18:00:00+01:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Lodowka-i-router-pomagaja-obcym-mocarstwom-i-uderza-Szef-unijnej-agencji-bije-na-alarm-9227161.html",
-      "url": "https://www.bankier.pl/wiadomosc/Lodowka-i-router-pomagaja-obcym-mocarstwom-i-uderza-Szef-unijnej-agencji-bije-na-alarm-9227161.html",
-      "title": "Lodówka i router pomagają obcym mocarstwom i uderzą? Szef unijnej agencji bije na alarm",
-      "content_html": "Szef Agencji UE ds. Cyberbezpieczeństwa (ENISA) Juhan Lepassaar ostrzegł we wtorek w wywiadzie dla agencji AFP, że po cyberatakach na systemy chłodnicze w Europie następnym celem mogą być routery czy domowe AGD.",
-      "date_published": "2026-11-11T18:00:00+01:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Rodzina-Kennedych-pozywa-Trumpa-ws-luku-triumfalnego-Bo-zasloni-grob-9227336.html",
-      "url": "https://www.bankier.pl/wiadomosc/Rodzina-Kennedych-pozywa-Trumpa-ws-luku-triumfalnego-Bo-zasloni-grob-9227336.html",
-      "title": "Rodzina Kennedych pozywa Trumpa ws. łuku triumfalnego. Bo zasłoni grób",
-      "content_html": "Rodzina byłego prezydenta USA Johna F. Kennedy’ego przyłączyła się do pozwu, mającego na celu zablokowanie pomysłu prezydenta Donalda Trumpa budowy łuku triumfalnego w Waszyngtonie nad Potomakiem – poinformował w środę portal BBC.",
-      "date_published": "2026-11-11T17:43:00+01:00",
       "source": "Bankier.pl"
     }
   ]
