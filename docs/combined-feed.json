@@ -5,6 +5,22 @@
   "home_page_url": "https://www.bankier.pl",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/Cyfrowy-paraliz-w-biurach-Microsoft-walczy-ze-skutkami-awarii-chmury-9228168.html",
+      "url": "https://www.bankier.pl/wiadomosc/Cyfrowy-paraliz-w-biurach-Microsoft-walczy-ze-skutkami-awarii-chmury-9228168.html",
+      "title": "Cyfrowy paraliż w biurach. Microsoft walczy ze skutkami awarii chmury",
+      "content_html": "Użytkownicy mogą nie być w stanie połączyć się z wieloma usługami Microsoft 365 - poinformowała w czwartek wieczorem firma. Chodzi m.in. o działanie aplikacji takich jak Microsoft Teams, SharePoint Online, czy Microsoft Copilot 365. Firma...",
+      "date_published": "2026-11-13T08:25:00+01:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/36-mln-zl-dotacji-na-dzieci-z-autyzmem-8-przedszkoli-dziala-bez-zezwolen-9228239.html",
+      "url": "https://www.bankier.pl/wiadomosc/36-mln-zl-dotacji-na-dzieci-z-autyzmem-8-przedszkoli-dziala-bez-zezwolen-9228239.html",
+      "title": "36 mln zł dotacji na dzieci z autyzmem. 8 przedszkoli działa bez zezwoleń",
+      "content_html": "Sieć przedszkoli „Świat Dziecka” pobrała w latach 2025–2026 aż 36 mln zł publicznych dotacji na dzieci z orzeczeniami o potrzebie kształcenia specjalnego – ujawnia „Gazeta Wyborcza”. Okazuje się, że większość z 12 placówek sieci...",
+      "date_published": "2026-11-13T07:53:00+01:00",
+      "source": "Bankier.pl"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Niemiecka-oszczednosc-to-juz-tylko-mit-Berlin-zaciaga-ponad-210-mld-euro-nowego-dlugu-9228231.html",
       "url": "https://www.bankier.pl/wiadomosc/Niemiecka-oszczednosc-to-juz-tylko-mit-Berlin-zaciaga-ponad-210-mld-euro-nowego-dlugu-9228231.html",
       "title": "Niemiecka oszczędność to już tylko mit. Berlin zaciąga ponad 210 mld euro nowego długu",
@@ -97,14 +113,6 @@
       "url": "https://www.bankier.pl/wiadomosc/Po-Iranie-i-Wenezueli-czas-na-Kube-Trump-Chce-zalatwic-te-sprawe-zanim-odejde-9228166.html",
       "title": "Po Iranie i Wenezueli czas na Kube? Trump: Chcę załatwić tę sprawę, zanim odejdę",
       "content_html": "Prezydent USA Donald Trump powiedział w czwartek, że chce „załatwić” sprawę Kuby przed odejściem z urzędu i nie wykluczył, że użyje do tego siły. Określił Kubę jako państwo upadłe.",
-      "date_published": "2026-11-13T07:00:00+01:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Cyfrowy-paraliz-w-biurach-Microsoft-walczy-ze-skutkami-awarii-chmury-9228168.html",
-      "url": "https://www.bankier.pl/wiadomosc/Cyfrowy-paraliz-w-biurach-Microsoft-walczy-ze-skutkami-awarii-chmury-9228168.html",
-      "title": "Cyfrowy paraliż w biurach. Microsoft walczy ze skutkami awarii chmury",
-      "content_html": "Użytkownicy mogą nie być w stanie połączyć się z wieloma usługami Microsoft 365 - poinformowała w czwartek wieczorem firma. Chodzi m.in. o działanie aplikacji takich jak Microsoft Teams, SharePoint Online, czy Microsoft Copilot 365. Firma...",
       "date_published": "2026-11-13T07:00:00+01:00",
       "source": "Bankier.pl"
     },
@@ -597,12 +605,84 @@
       "source": "PAP Biznes"
     },
     {
+      "id": "https://www.bankier.pl/wiadomosc/Putin-gra-na-czas-ale-ma-go-coraz-mniej-9227898.html",
+      "url": "https://www.bankier.pl/wiadomosc/Putin-gra-na-czas-ale-ma-go-coraz-mniej-9227898.html",
+      "title": "Putin gra na czas, ale ma go coraz mniej",
+      "content_html": "Norwescy komentatorzy ocenili w czwartek, po rozmowach Ukraina-Rosja-USA w Abu Zabi, że rozszerzenie przez Władimira Putina negocjacji o kwestie dotyczące bezpieczeństwa całej Europy, to próba gry na czas. Jednocześnie wyrazili przekonanie, że...",
+      "date_published": "2026-11-12T14:50:00+01:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Po-100-tys-zl-dla-rannych-policjantow-MSWiA-zapowiada-dalsza-pomoc-9227882.html",
+      "url": "https://www.bankier.pl/wiadomosc/Po-100-tys-zl-dla-rannych-policjantow-MSWiA-zapowiada-dalsza-pomoc-9227882.html",
+      "title": "Po 100 tys. zł dla rannych policjantów. MSWiA zapowiada dalszą pomoc",
+      "content_html": "Szef KGP gen. insp. Marek Boroń oraz komendanci wojewódzki i miejski policji w Krakowie zdecydowali o przyznaniu policjantom rannym w sobotnim ataku zapomóg w kwocie po 100 tys. zł - poinformowała PAP rzeczniczka MSWiA Karolina Gałecka. Dodała...",
+      "date_published": "2026-11-12T14:47:00+01:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Wspolpraca-wyszehradzka-odzyla-Czarzasty-Rozszerzenie-UE-to-sprawa-bezpieczenstwa-9227891.html",
+      "url": "https://www.bankier.pl/wiadomosc/Wspolpraca-wyszehradzka-odzyla-Czarzasty-Rozszerzenie-UE-to-sprawa-bezpieczenstwa-9227891.html",
+      "title": "Współpraca wyszehradzka odżyła. Czarzasty: Rozszerzenie UE to sprawa bezpieczeństwa",
+      "content_html": "Rozszerzenie UE to nie tylko polityczna debata, to kwestia nowej architektury bezpieczeństwa, która się obecnie kształtuje - powiedział w czwartek w Bratysławie marszałek Sejmu Włodzimierz Czarzasty. Wziął udział w spotkaniu szefów parlamentów...",
+      "date_published": "2026-11-12T14:44:00+01:00",
+      "source": "Bankier.pl"
+    },
+    {
       "id": "https://biznes.pap.pl/wiadomosci/rynki/dzien-na-rynkach-kontrakty-w-usa-spadaja-problemy-prezesa-nvidii-w-tle",
       "url": "https://biznes.pap.pl/wiadomosci/rynki/dzien-na-rynkach-kontrakty-w-usa-spadaja-problemy-prezesa-nvidii-w-tle",
       "title": "DZIEŃ NA RYNKACH: Kontrakty w USA spadają; problemy prezesa Nvidii w tle",
       "content_html": "Kontrakty w USA zniżkują, a indeksy w Europie są na plusach. Inwestorzy obawiają się, że prezes Nvidii Jensen Huang może zostać zmuszony do odejścia wobec doniesień o romansie z domniemaną chińską agentką. Rentowności obligacji rosną.\n\nKontrakty na S&P 500 zniżkują o 0,73 proc., na Dow Jones Industrial tracą 0,23 proc., a na Nasdaq Comp. spadają o 1,45 proc.\n\nRynek obligacji amerykańskich jest zamknięty w środę z okazji Dnia Weterana.\n\nInwestorzy oceniają perspektywy dla sektora sztucznej inteligencji wobec ostatnich zawirowań wokół branży.\n\nAkcje Nvidii spadają o 8,5 proc. po doniesieniach, jakoby zarząd spółki rozważał usunięcie ze stanowiska dyrektora generalnego Jensena Huanga, co pogorszyło nastroje wobec spółek powiązanych z sektorem sztucznej inteligencji.\n\nPo pojawieniu się nowych informacji o kolejnym romansie wieloletniego szefa Nvidii spowodowały, inwestorzy zaczęli obawiać się potencjalnych konsekwencji ewentualnej zmiany na stanowisku kierowniczym w firmie, która stanowi kluczowy element boomu na sztuczną inteligencję. Niektórzy analitycy na Wall Street przewidują, że jego usunięcie Huanga ze stanowiska może doprowadzić do znaczących spadków kursu akcji, przekraczających nawet 20 proc.\n\n\"The New York Times\" poinformował, że Huang utrzymywał pozamałżeńską relację z jedną z osób na stanowisku kierowniczym w firmie.\n\n\"The Wall Street Journal\" podał z kolei, że zarząd Nvidii przygotowuje się do usunięcia Huanga ze stanowiska. Ma to związek z doniesieniami, według których Huang miał romans z osobą podejrzewaną o szpiegostwo na rzecz Chin.\n\n\"Sytuacja ta stwarza wyjątkowo trudny problem dla inwestorów, którzy przez lata lokowali kapitał w spółkach uznawanych za niezbędne dla gospodarki opartej na sztucznej inteligencji\" – wskazywał Terri-Leigh Bennett, dyrektor operacyjna w CMS Prime.\n\n\"Sprawa Nvidii przyczyniła się do wzrostu awersji do ryzyka, co z kolei winduje kurs dolara. Głębszą przyczyną jest jednak wyraźna zmiana nastrojów w kwestii inflacji. Rynek przestał się wahać i uznał, że problem inflacji rzeczywiście istnieje\" – ocenił Kit Juckes, strateg w Societe Generale.\n\nAkcje Coreweave spadają o 11 proc. przed sesją po 25-proc. wzroście w środę.\n\nAkcje Advanced Micro Devices zyskują 0,5 proc. przed otwarciem sesji, podczas gdy Broadcom rośnie o 0,2 proc.\n\n\"Podchodzilibyśmy z pewną ostrożnością do tego odbicia, ponieważ zachodzą pewne zmiany. Mowa tu o uporczywej inflacji, kolejnych podwyżkach stóp procentowych przez Fed, wyższych długoterminowych stopach proc., zmianach w układzie sił w Waszyngtonie oraz postulatach dotyczących regulacji sektora sztucznej inteligencji i centrów danych\" – ocenił Sameer Samana, szef działu globalnych akcji i aktywów rzeczowych w Wells Fargo Investment Institute.\n\nW czwartek Dow Jones Industrial na zamknięciu wzrósł o 0,49 proc. i wyniósł 52.486,49 pkt. S&P 500 na koniec dnia zyskał 1,31 proc. i wyniósł 7.619,38 pkt. Nasdaq Composite zwyżkował o 1,60 proc. do 25.466,19 pkt.\n\nSrebro zniżkuje o 1,92 proc. do poziomu 51 USD za uncję, a złoto spada o 1,49 proc. do 3.944 USD za uncję.\n\nBitcoin spada o 2,73 proc. i jego kurs wynosi 72.420 USD za token.\n\nIndeks VIX, miara oczekiwanej zmienności i instrument oceny sentymentu, zwyżkuje do 19,08 pkt.\n\nW Europie indeks Euro Stoxx 50 rośnie o 0,2 proc., niemiecki DAX idzie w górę o 0,63 proc., francuski CAC 40 zwyżkuje o 0,6 proc., a brytyjski FTSE 100 rośnie o 0,22 proc.\n\nBenchmarkowy indeks Europe Stoxx 600 zwyżkuje o 0,29 proc.\n\nASML traci 3 proc. wraz z innymi europejskimi spółkami produkującymi półprzewodniki.\n\nSiemens zwyżkuje o 2 proc. Wyniki spółki za IV kw. okazały się lepsze od szacunków rynkowych, a zamówienia w roku fiskalnym 2026 osiągnęły rekordową wartość.\n\nBurberry rośnie o 6,5 proc. Sprzedaż porównywalna spółki w II kw. przebiła rynkowe oczekiwania. Sprzedaż detaliczna porównywalna wzrosła o 4 proc. wobec prognoz +3,67 proc.\n\nRoyal Unibrew A/S zyskuje 4 proc., najmocniej od 2 lat. Spółka zanotowała w III k. wyniki zasadniczo zgodn",
       "date_published": "2026-11-12T14:38:00+01:00",
       "source": "PAP Biznes"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Policyjna-interwencja-w-Krakowie-Mezczyzna-strzelal-w-kierunku-funkcjonariuszy-9227879.html",
+      "url": "https://www.bankier.pl/wiadomosc/Policyjna-interwencja-w-Krakowie-Mezczyzna-strzelal-w-kierunku-funkcjonariuszy-9227879.html",
+      "title": "Policyjna interwencja w Krakowie. Mężczyzna strzelał w kierunku funkcjonariuszy",
+      "content_html": "Do strzałów ze strony mężczyzny poruszającego się z bronią i policjantów doszło w czwartek po godzinie 13 w pobliżu ul. Bieżanowskiej w Krakowie – wynika z informacji krakowskiej policji. W zdarzeniu nikt nie został ranny.",
+      "date_published": "2026-11-12T14:31:00+01:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Orban-moze-stanac-przed-sadem-Wegrzy-nie-maja-watpliwosci-9227880.html",
+      "url": "https://www.bankier.pl/wiadomosc/Orban-moze-stanac-przed-sadem-Wegrzy-nie-maja-watpliwosci-9227880.html",
+      "title": "Orban może stanąć przed sądem? Węgrzy nie mają wątpliwości",
+      "content_html": "Większość Węgrów chce, by były premier Viktor Orban stanął przed sądem - poinformował w czwartek portal Nepszabadsag, powołując się na sondaż instytutu Median.",
+      "date_published": "2026-11-12T14:31:00+01:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Oszusci-znalezli-nowy-sposob-na-wyludzanie-danych-Podszywaja-sie-pod-InPost-9227877.html",
+      "url": "https://www.bankier.pl/wiadomosc/Oszusci-znalezli-nowy-sposob-na-wyludzanie-danych-Podszywaja-sie-pod-InPost-9227877.html",
+      "title": "Oszuści znaleźli nowy sposób na wyłudzanie danych. Podszywają się pod InPost",
+      "content_html": "Cyberprzestępcy rozsyłają fałszywe wiadomości SMS, w których podszywają się pod Inpost i dążą do wyłudzenia danych kart płatniczych - ostrzegł w czwartek CSIRT KNF.",
+      "date_published": "2026-11-12T14:25:00+01:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Podkarpacie-na-strategicznej-mapie-UE-Bruksela-zapowiada-miliardowe-wsparcie-9227871.html",
+      "url": "https://www.bankier.pl/wiadomosc/Podkarpacie-na-strategicznej-mapie-UE-Bruksela-zapowiada-miliardowe-wsparcie-9227871.html",
+      "title": "Podkarpacie na strategicznej mapie UE. Bruksela zapowiada miliardowe wsparcie",
+      "content_html": "Kraje wschodniej granicy UE przekierowały 9,8 mld euro z polityki spójności na obronę i bezpieczeństwo – poinformował wiceszef KE Raffaele Fitto. Podczas wystąpienia online na forum w Rzeszowie zapowiedział uproszczenie funduszy w nowym budżecie...",
+      "date_published": "2026-11-12T14:18:00+01:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Koniec-epoki-w-swiecie-seriali-HBO-Max-polaczy-sie-z-rywalem-9227817.html",
+      "url": "https://www.bankier.pl/wiadomosc/Koniec-epoki-w-swiecie-seriali-HBO-Max-polaczy-sie-z-rywalem-9227817.html",
+      "title": "Koniec epoki w świecie seriali. Pożegnanie HBO Max, jakie znaliśmy",
+      "content_html": "Kolejny rykoszet megafuzji Warner Bros. Discovery i Paramount, z której wyłonił się Skydance, jest przyszłe połączenie dwóch platform streamingowych. Na wstępie HBO Max i Paramount+ będą sprzedawane w ramach jednego pakietu. Finalnie staną...",
+      "date_published": "2026-11-12T14:15:00+01:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Odgryzc-sie-Putinowi-czy-unikac-eskalacji-NATO-szuka-nowych-sposobow-odstraszania-9227865.html",
+      "url": "https://www.bankier.pl/wiadomosc/Odgryzc-sie-Putinowi-czy-unikac-eskalacji-NATO-szuka-nowych-sposobow-odstraszania-9227865.html",
+      "title": "Odgryźć się Putinowi czy unikać eskalacji? NATO szuka nowych sposobów odstraszania",
+      "content_html": "W obliczu rosyjskich zagrożeń hybrydowych Zachód debatuje o ostrzejszym powstrzymywaniu Moskwy. Postulatom bardziej ofensywnego podejścia towarzyszą obawy wojskowych i ekspertów przed eskalacją – pisze „Financial Times”.",
+      "date_published": "2026-11-12T14:13:00+01:00",
+      "source": "Bankier.pl"
     },
     {
       "id": "https://biznes.pap.pl/wiadomosci/gospodarka/we-wrzesniu-koniunktura-przemysle-pogorszyla-sie-oczekiwania-pesymistyczne",
@@ -615,8 +695,8 @@
     {
       "id": "https://www.bankier.pl/wiadomosc/FDA-zatwierdzila-Mabion-jako-dostawce-na-rynek-amerykanski-9227861.html",
       "url": "https://www.bankier.pl/wiadomosc/FDA-zatwierdzila-Mabion-jako-dostawce-na-rynek-amerykanski-9227861.html",
-      "title": "FDA zatwierdziła Mabion jako dostawcę na rynek amerykański Amerykańska Agencja ds. Żywności i Leków (FDA) zatwierdziła Mabion jako dostawcę na rynek amerykański - podała spółka w komunikacie.",
-      "content_html": "",
+      "title": "FDA zatwierdziła Mabion jako dostawcę na rynek amerykański",
+      "content_html": "Amerykańska Agencja ds. Żywności i Leków (FDA) zatwierdziła Mabion jako dostawcę na rynek amerykański - podała spółka w komunikacie.",
       "date_published": "2026-11-12T14:08:00+01:00",
       "source": "Bankier.pl"
     },
@@ -637,10 +717,18 @@
       "source": "PAP Biznes"
     },
     {
+      "id": "https://www.bankier.pl/wiadomosc/Nie-zyje-Wojciech-Klimas-Zalozyciel-przemyslowego-giganta-mial-66-lat-9227848.html",
+      "url": "https://www.bankier.pl/wiadomosc/Nie-zyje-Wojciech-Klimas-Zalozyciel-przemyslowego-giganta-mial-66-lat-9227848.html",
+      "title": "Nie żyje Wojciech Klimas. Założyciel przemysłowego giganta miał 66 lat",
+      "content_html": "Zmarł Wojciech Klimas, twórca i współwłaściciel firmy Klimas Wkręt-met, jednego z największych producentów zamocowań budowlanych - poinformowała w czwartek firma.",
+      "date_published": "2026-11-12T13:55:00+01:00",
+      "source": "Bankier.pl"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Allegro-nie-wyklucza-osiagniecia-breakeven-przez-biznes-miedzynarodowy-wczesniej-niz-w-29-9227845.html",
       "url": "https://www.bankier.pl/wiadomosc/Allegro-nie-wyklucza-osiagniecia-breakeven-przez-biznes-miedzynarodowy-wczesniej-niz-w-29-9227845.html",
-      "title": "Allegro nie wyklucza osiągnięcia breakeven przez biznes międzynarodowy wcześniej niż w '29 Grupa Allegro jest zadowolona z tempa rozwoju biznesu międzynarodowego i nie wyklucza, że do osiągnięcia rentowności tego segmentu może dojść wcześniej niż w 2029 r. - poinformował prezes Marcin Kuśmierz.",
-      "content_html": "",
+      "title": "Allegro nie wyklucza osiągnięcia breakeven przez biznes międzynarodowy wcześniej niż w '29",
+      "content_html": "Grupa Allegro jest zadowolona z tempa rozwoju biznesu międzynarodowego i nie wyklucza, że do osiągnięcia rentowności tego segmentu może dojść wcześniej niż w 2029 r. - poinformował prezes Marcin Kuśmierz.",
       "date_published": "2026-11-12T13:52:00+01:00",
       "source": "Bankier.pl"
     },
@@ -655,8 +743,16 @@
     {
       "id": "https://www.bankier.pl/wiadomosc/Kable-energia-i-miedz-Na-boomie-AI-moga-zarobic-nie-tylko-technologiczni-giganci-9227825.html",
       "url": "https://www.bankier.pl/wiadomosc/Kable-energia-i-miedz-Na-boomie-AI-moga-zarobic-nie-tylko-technologiczni-giganci-9227825.html",
-      "title": "OPINIA Kable, energia i miedź. Na boomie AI mogą zarobić nie tylko technologiczni giganci Ostatnia przecena akcji spółek z sektora technologicznego może być okazją do tego, by podejść do tego sektora selektywnie i postawić na spółki o dobrych fundamentach - uważa Tomasz Matras, dyrektor Biura Rynku Akcji TFI PZU. Jego zdaniem, amerykańskiej giełdzie nie grozi bessa lub głębsza korekta, ponieważ wyniki spółek, nie tylko technologicznych, są dobre.",
-      "content_html": "",
+      "title": "Kable, energia i miedź. Na boomie AI mogą zarobić nie tylko technologiczni giganci",
+      "content_html": "Ostatnia przecena akcji spółek z sektora technologicznego może być okazją do tego, by podejść do tego sektora selektywnie i postawić na spółki o dobrych fundamentach - uważa Tomasz Matras, dyrektor Biura Rynku Akcji TFI PZU. Jego zdaniem, amerykańskiej...",
+      "date_published": "2026-11-12T13:28:00+01:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Materialy-do-budowy-i-remontu-drozsze-niz-przed-rokiem-Uwage-zwracaja-izolacje-9227826.html",
+      "url": "https://www.bankier.pl/wiadomosc/Materialy-do-budowy-i-remontu-drozsze-niz-przed-rokiem-Uwage-zwracaja-izolacje-9227826.html",
+      "title": "Materiały do budowy i remontu droższe niż przed rokiem. Uwagę zwracają izolacje",
+      "content_html": "Ceny materiałów budowlanych oraz produktów do domu i ogrodu były w III kwartale 2026 r. o 4 proc. wyższe niż rok wcześniej - podał RynekPierwotny.pl w komunikacie prasowym. Od stycznia do września produkcja budowlano-montażowa zmniejszyła się...",
       "date_published": "2026-11-12T13:28:00+01:00",
       "source": "Bankier.pl"
     },
@@ -667,6 +763,14 @@
       "content_html": "Ceny materiałów budowlanych oraz produktów do domu i ogrodu były w III kwartale 2026 r. o 4 proc. wyższe niż rok wcześniej - podał RynekPierwotny.pl w komunikacie prasowym. Od stycznia do września produkcja budowlano-montażowa zmniejszyła się o 4,7 proc. rok do roku.\n\nWedług Grupy PSB w sierpniu ceny wzrosły rok do roku o 5 proc. w hurcie i o 3,1 proc. w detalu. W pierwszych ośmiu miesiącach 2026 r. były średnio o 1,6 proc. wyższe niż w tym samym okresie przed rokiem. W całym 2025 r. ceny spadły średnio o 0,7 proc., a w 2024 r. o 1,7 proc.\n\n\"Słabsza aktywność na budowach daje tylko część odpowiedzi na pytanie o ceny materiałów. W przypadku styropianu duże znaczenie mają ceny surowców petrochemicznych, a przy produkcji wełny mineralnej istotnym kosztem jest energia. Dlatego nawet przy słabszej koniunkturze niektóre materiały mogą wyraźnie drożeć\" – powiedział, cytowany w komunikacie prasowym, Jarosław Jędrzyński, ekspert portalu RynekPierwotny.pl.\n\nJak podano, poza izolacjami termicznymi największe sierpniowe podwyżki rok do roku objęły dachy i rynny (8,4 proc.), izolacje wodochronne (8,1 proc.) oraz suchą zabudowę (7,2 proc.). W okresie od stycznia do sierpnia najmocniej podrożały płyty OSB i drewno (8,3 proc.) oraz izolacje termiczne (6,2 proc.).\n\nW sierpniu jedyną grupą, w której PSB odnotowała spadek cen rok do roku, były dekoracje (0,7 proc.). W całym okresie od stycznia do sierpnia tańsze były cement i wapno (1,7 proc.), produkty do otoczenia domu (1,2 proc.), wyposażenie i AGD (1,1 proc.) oraz dekoracje (0,8 proc.).\n\nOd stycznia do września krajowa produkcja szyb zespolonych jednokomorowych spadła o 23,1 proc. rok do roku, a wielokomorowych o 15,3 proc. Produkcja cegły silikatowej zmniejszyła się o 14,1 proc., a cementu o 5,5 proc. W tym samym czasie produkcja dachówek ceramicznych wzrosła o 7,7 proc. Sam wrzesień przyniósł wzrost produkcji cementu o 4,4 proc. rok do roku.\n\n\"W pierwszych dziewięciu miesiącach roku krajowa produkcja cementu spadła, a dane PSB za okres od stycznia do sierpnia pokazują też niższe ceny w grupie cement i wapno. O dostępności cementu na budowach decydują również zapasy i handel zagraniczny. Już w 2025 r. wolumen importu odpowiadał ponad jednej dziesiątej krajowej produkcji\" – powiedział Jarosław Jędrzyński.\n\nWedług szacunków Stowarzyszenia Producentów Cementu w 2025 r. do Polski sprowadzono rekordowe 1,73 mln ton cementu. Krajowe zakłady wyprodukowały wówczas 17,1 mln ton, o 3,2 proc. mniej niż rok wcześniej. Branża wskazywała m.in. na opóźnienia inwestycji infrastrukturalnych, słabsze budownictwo mieszkaniowe i rosnący import.\n\nOd stycznia do września 2026 r. produkcja przedsiębiorstw specjalizujących się w budowie budynków spadła o 8,1 proc. rok do roku. W tym samym okresie ruszyła budowa o 4,5 proc. większej liczby mieszkań niż przed rokiem.\n\n\"Nowe inwestycje będą generować zamówienia etapami. Na początku budowy wykonawcy potrzebują przede wszystkim materiałów konstrukcyjnych. W kolejnych etapach pojawiają się zamówienia na stolarkę, izolacje i materiały wykończeniowe. Wzrost liczby rozpoczętych mieszkań może więc przełożyć się na większy popyt na poszczególne materiały w różnych momentach\" - powiedział Jarosław Jędrzyński.\n\nW październikowym badaniu GUS przedsiębiorcy z różnych sektorów najczęściej wskazywali energię i paliwa jako źródło wzrostu kosztów. Wymieniali również koszty pracy, komponentów i usług. W przypadku producentów materiałów budowlanych możliwość przenoszenia tych kosztów na odbiorców zależy m.in. od siły zamówień i konkurencji cenowej. (PAP Biznes)",
       "date_published": "2026-11-12T13:26:00+01:00",
       "source": "PAP Biznes"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Ukraina-uderzyla-w-piec-najwiekszych-rafinerii-Rosji-Jedna-lezy-2500-km-od-granicy-9227821.html",
+      "url": "https://www.bankier.pl/wiadomosc/Ukraina-uderzyla-w-piec-najwiekszych-rafinerii-Rosji-Jedna-lezy-2500-km-od-granicy-9227821.html",
+      "title": "Ukraina uderzyła w pięć największych rafinerii Rosji. Jedna leży 2500 km od granicy",
+      "content_html": "Siły Obrony Ukrainy od 30 października uderzyły w pięć największych rafinerii ropy naftowej w Rosji. Najdalej położony był leżący 2500 km od ukraińskiej granicy zakład w Omsku, który zaatakowano 11 listopada - ogłosił w czwartek Sztab...",
+      "date_published": "2026-11-12T13:25:00+01:00",
+      "source": "Bankier.pl"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Po-rozmowach-w-Abu-Zabi-czas-na-Moskwe-i-Dublin-Rutte-widzi-pozytywne-sygnaly-ale-studzi-optymizm-9227822.html",
@@ -856,7 +960,7 @@
       "id": "https://biznes.pap.pl/wiadomosci/przemysl/spolka-stowarzyszona-boryszewa-ma-koncesje-min-na-wytwarzanie-i-obrot",
       "url": "https://biznes.pap.pl/wiadomosci/przemysl/spolka-stowarzyszona-boryszewa-ma-koncesje-min-na-wytwarzanie-i-obrot",
       "title": "Spółka stowarzyszona Boryszewa ma koncesję m.in. na wytwarzanie i obrót określonymi rodzajami amunicji",
-      "content_html": "Spółka Hornet - Polskie Drony, w której Boryszew posiada 48 proc. udziałów, otrzymała koncesję na wykonywanie działalności gospodarczej w zakresie wytwarzania i obrotu wybranymi rodzajami amunicji, wy",
+      "content_html": "Spółka Hornet - Polskie Drony, w której Boryszew posiada 48 proc. udziałów, otrzymała koncesję na wykonywanie działalności gospodarczej w zakresie wytwarzania i obrotu wybranymi rodzajami amunicji, wyrobami oraz technologiami o przeznaczeniu wojskowym lub policyjnym - podał Boryszew w komunikacie.\n\nJak podano, koncesja obejmuje w szczególności działalność w zakresie: wytwarzania i obrotu określonymi rodzajami amunicji, wytwarzania i obrotu wyrobami o przeznaczeniu wojskowym lub policyjnym, obrotu technologiami o przeznaczeniu wojskowym lub policyjnym - w zakresie określonym w decyzji koncesyjnej. Koncesja została udzielona na okres 50 lat.\n\n\"W ocenie zarządu, uzyskanie koncesji stanowi istotny krok w rozwoju działalności grupy Boryszew w sektorze obronnym. Koncesja umożliwia Hornetowi prowadzenie działalności w zakresie produkcji bezzałogowych powietrznych systemów uzbrojenia, zwiększając potencjał grupy do uczestnictwa w projektach realizowanych na rzecz krajowego i zagranicznego sektora obronnego. Zarząd oczekuje, że uzyskanie koncesji umożliwi rozpoczęcie produkcji seryjnej bezzałogowych statków powietrznych po zakończeniu fazy niezbędnych testów i certyfikacji i w efekcie będzie wspierało dalszą dywersyfikację działalności oraz rozwój kompetencji grupy w obszarze obronności\" - napisano. (PAP Biznes)",
       "date_published": "2026-11-12T11:28:00+01:00",
       "source": "PAP Biznes"
     },
@@ -880,7 +984,7 @@
       "id": "https://biznes.pap.pl/wiadomosci/rynki/zmiennosc-na-gieldach-moze-byc-okazja-w-centrum-geopolityka-i-ai-vigc-quadrat-tfi",
       "url": "https://biznes.pap.pl/wiadomosci/rynki/zmiennosc-na-gieldach-moze-byc-okazja-w-centrum-geopolityka-i-ai-vigc-quadrat-tfi",
       "title": "Zmienność na giełdach może być okazją, w centrum geopolityka i AI - VIG/C-Quadrat TFI (opinia)",
-      "content_html": "Październik i początek listopada przyniosły szereg perturbacji w geopolityce. Zarządzający funduszami VIG/C-Quadrat TFI w swoim raporcie omawiają ich wpływ na globalny i krajowy rynek akcji. Ich zdani",
+      "content_html": "Październik i początek listopada przyniosły szereg perturbacji w geopolityce. Zarządzający funduszami VIG/C-Quadrat TFI w swoim raporcie omawiają ich wpływ na globalny i krajowy rynek akcji. Ich zdaniem Polska może skorzystać na możliwej rotacji z technologii i paliw do tradycyjnych sektorów i metali.\n\nZarządzający VIG/C-Quadrat TFI oceniają, że zdecydowana wygrana Demokratów z Republikanami w wyborach połówkowych do Kongresu i Senatu w USA oznacza, że prawdopodobieństwo kontynuacji wojny z Iranem znacząco spadło (ale nie zniknęło).\n\n\"Potencjalne zakończenie konfliktu oznacza prawdopodobny, znaczący spadek cen ropy naftowej w krótkim terminie oraz w dalszej perspektywie - stopniowy spadek cen diesla. Niższe ceny paliw to zmniejszenie presji inflacyjnej i pozytywny wpływ na polskiego konsumenta\" - napisano w listopadowym raporcie.\n\nW ocenie VIG/C-Quadrat TFI, negatywne nastawienie Demokratów do szybkich inwestycji w centra danych AI oznaczać może intensywną, ale krótkotrwałą rotację do tradycyjnych sektorów gospodarki nie tylko w USA, ale na pozostałych światowych rynkach.\n\n\"W tym kontekście (co wielokrotnie podkreślaliśmy) polski rynek akcji jest postrzegany jako 'tradycyjny' tj. z dominującym udziałem spółek spoza sektora technologicznego, które dają dobrą ekspozycję na wzrost gospodarczy Polski\" - napisano.\n\n\"Poprzednie lata pokazały, że po wyborach 'połówkowych' w USA zachowanie giełd jest pozytywne. Końcówka roku powinna być zatem mocna, ale z dużo większą rotacją sektorową i w dużo krótszym czasie\" - dodano.\n\nMarek Kaźmierczak, starszy zarządzający VIG/C-Quadrat TFI ocenia, że krajowy rynek akcji powinien korzystać na globalnym przepływie kapitału w kierunku nominalnie niżej wycenionych rynków.\n\n\"Polityka, zmiany i rotacje sektorowe. Polska, po raz kolejny może na tym skorzystać\" – powiedział.\n\nW ocenie zarządzających rozwój sztucznej inteligencji pozostaje jednym z najważniejszych czynników kształtujących perspektywy rynków akcji.\n\nZwracają uwagę, że coraz większe znaczenie dla inwestorów ma jednak nie samo tempo postępu technologicznego, lecz zdolność przedsiębiorstw do przełożenia potencjału AI na wzrost przychodów, poprawę efektywności i rentowności. W kolejnych latach może to prowadzić do istotnych zmian w strukturze beneficjentów rewolucji AI.\n\n\"Jednym z kluczowych wyzwań dla rynku pozostaje rozbieżność pomiędzy tempem rozwoju technologii a skalą jej rzeczywistego wykorzystania w gospodarce. Możliwości modeli AI rosną bardzo szybko, jednak wdrażanie ich przez przedsiębiorstwa i konsumentów postępuje wolniej\" - napisano w raporcie.\n\n\"Z perspektywy inwestorów ma to fundamentalne znaczenie. Wyceny wielu spółek technologicznych odzwierciedlały oczekiwania dotyczące przyszłego wzrostu przychodów i produktywności, podczas gdy ekonomiczne korzyści z wdrażania AI materializują się stopniowo, czyli wolniej\" - dodano.\n\nW ocenie przedstawicieli VIG/C-Quadrat TFI potencjał inwestycyjny związany ze sztuczną inteligencją nie wyczerpuje się, lecz ewoluuje. W pierwszej fazie rozwoju AI największe korzyści koncentrowały się wśród dostawców infrastruktury. W kolejnej fazie coraz większa część wartości ekonomicznej może być przechwytywana przez przedsiębiorstwa wykorzystujące tę infrastrukturę do tworzenia produktów, zwiększania przychodów i poprawy rentowności.\n\nIch zdaniem, w takim otoczeniu, szczególną przewagę mogą uzyskać przedsiębiorstwa dysponujące unikalnymi zasobami danych, rozbudowaną bazą klientów oraz silną pozycją w procesach biznesowych swoich odbiorców.\n\n\"Ostatnią powyborczą zmienność w USA można traktować jako okazję inwestycyjną. Na poziomie strategicznym jednak trzeba zdać sobie sprawę, że mamy do czynienia ze zmianą reżimu rynkowego, gdzie większymi beneficjentami będą spółki niekojarzone do tej pory z trendem AI\" – powiedział Alan Witczak, zarządzający funduszami VIG/C-Quadrat TFI. (PAP Biznes)",
       "date_published": "2026-11-12T11:14:00+01:00",
       "source": "PAP Biznes"
     },
@@ -896,7 +1000,7 @@
       "id": "https://biznes.pap.pl/wiadomosci/firmy/resort-cyfryzacji-planuje-wzmocnic-bezpieczenstwo-przetwarzania-danych-osobowych",
       "url": "https://biznes.pap.pl/wiadomosci/firmy/resort-cyfryzacji-planuje-wzmocnic-bezpieczenstwo-przetwarzania-danych-osobowych",
       "title": "Resort cyfryzacji planuje wzmocnić bezpieczeństwo przetwarzania danych osobowych",
-      "content_html": "W wykazie prac rządu pojawiły się założenia do projektu ustawy autorstwa Ministerstwa Cyfryzacji, która ma zwiększyć odporność systemu ochrony danych osobowych na zagrożenia związane z powierzaniem pr",
+      "content_html": "W wykazie prac rządu pojawiły się założenia do projektu ustawy autorstwa Ministerstwa Cyfryzacji, która ma zwiększyć odporność systemu ochrony danych osobowych na zagrożenia związane z powierzaniem przetwarzania danych podmiotom zewnętrznym.\n\n\"Celem projektu jest zwiększenie odporności systemu ochrony danych osobowych na zagrożenia związane z powierzaniem przetwarzania danych podmiotom zewnętrznym, zwłaszcza gdy jeden usługodawca obsługuje wielu administratorów\" - napisał MC w wykazie.\n\nWskazano, że impulsem do przygotowania projektu było naruszenie bezpieczeństwa systemów podmiotu przetwarzającego, które dotyczyło danych osobowych 19 mln osób, w tym informacji o zdrowiu.\n\nProjekt ma przewidywać m.in. nowe obowiązki dla podmiotów masowo przetwarzających dane.\n\n\"Nowe przepisy obejmą podmioty przetwarzające świadczące usługi na rzecz więcej niż 100 administratorów albo przetwarzających dane osobowe dotyczące więcej niż 100 000 osób; wystarczy spełnienie jednego z tych warunków. Podmioty te będą przekazywać administratorom bardziej szczegółowe informacje o stosowanych zabezpieczeniach, ew. dalszych podmiotach przetwarzających, miejscu przetwarzania, audytach i wynikach już przeprowadzonych testów, pomiarów oraz ocen\" - napisano.\n\nDodano, że informacje o wynikach tych czynności mają być udostępniane nie rzadziej niż raz na dwa lata, a istotne zmiany warunków przetwarzania - bez zbędnej zwłoki.\n\n\"Jeżeli w danym okresie nie przeprowadzono czynności weryfikacyjnych, podmiot przetwarzający wskaże ten fakt i przyczyny. Projekt nie wprowadza obowiązku wykonywania testów co dwa lata ani nowego, odrębnego reżimu testowania ponad wymagania art. 32 RODO\" - wskazano.\n\nDodano, że projektowane obowiązki informacyjne mają zapewnić administratorom dostęp do informacji istotnych dla oceny gwarancji bezpieczeństwa oferowanych przez podmioty przetwarzające.\n\n\"Ich zakres będzie odnosił się zarówno do warunków organizacyjnych i technicznych powierzania danych, jak i do wyników czynności weryfikacyjnych wykonywanych w ramach obowiązujących już wymagań RODO. Rozwiązanie nie będzie zatem polegało na ustanowieniu nowego obowiązku okresowego przeprowadzania testów lub audytów, lecz na określeniu zasad udostępniania administratorom jasnych informacji o czynnościach przeprowadzonych przez podmiot przetwarzający\" - podał resort cyfryzacji.\n\nProjekt zakłada też m.in. przekazywanie do CSIRT NASK niezbędnych danych identyfikujących osoby, których dane zostały pozyskane lub ujawnione w sposób nieuprawniony w związku z incydentem lub cyberzagrożeniem tak, aby możliwe było ich wykorzystanie w usłudze Bezpieczne Dane.\n\nPlanowany termin przyjęcia projektu przez RM to I kwartał 2027 r. (PAP Biznes)",
       "date_published": "2026-11-12T11:11:00+01:00",
       "source": "PAP Biznes"
     },
@@ -904,7 +1008,7 @@
       "id": "https://biznes.pap.pl/wiadomosci/gospodarka/polityka-zakupowa-panstwa-odejscie-od-dyktatu-najnizszej-ceny-w-kierunku",
       "url": "https://biznes.pap.pl/wiadomosci/gospodarka/polityka-zakupowa-panstwa-odejscie-od-dyktatu-najnizszej-ceny-w-kierunku",
       "title": "Polityka zakupowa państwa to odejście od dyktatu najniższej ceny w kierunku strategicznych zakupów - Domański",
-      "content_html": "Polityka zakupowa państwa na 2026-2029 to odejście od dyktatu najniższej ceny w kierunku strategicznych zakupów - wskazał minister finansów i gospodarki Andrzej Domański, podczas otwarcia konferencji ",
+      "content_html": "Polityka zakupowa państwa na 2026-2029 to odejście od dyktatu najniższej ceny w kierunku strategicznych zakupów - wskazał minister finansów i gospodarki Andrzej Domański, podczas otwarcia konferencji \"Polityka Zakupowa Państwa na lata 2026-2029\". Zamówienia publiczne mają stwarzać warunki do skalowania krajowych firm i pobudzania procesów inwestycyjnych.\n\n\"Rytm zamówień publicznych to ogromna pula środków, sięgająca niemal 600 miliardów złotych rocznie. Skala sprawia, że sposób wydatkowania środków ma bezpośredni wpływ na funkcjonowanie wszystkich sektorów gospodarki. Przyjęte przez rząd założenia mają zwiększyć udział krajowych firm w realizacji zamówień publicznych\" - powiedział Domański.\n\n\"Odchodzimy więc od dyktatu najniższej ceny w kierunku strategicznych zakupów. Stawiamy z jednej strony na zwiększenie suwerenności i odporności gospodarki, z drugiej strony kreujemy mechanizm prowzrostowy. Stabilne źródła finansowania zamówień publicznych mają stwarzać warunki do skalowania krajowych firm i pobudzania procesów inwestycyjnych\" - dodał.\n\nMinister finansów i gospodarki wskazał na trzy priorytety określone w polityce zakupowej państwa.\n\n\"Po pierwsze, budowa konkurencyjności i potencjału polskiej gospodarki. Chcemy zwiększać udział mikro, małych i średni firm w kręgu zamówień publicznych, ograniczać bariery dostępu\" - powiedział Domański.\n\nDrugim priorytetem jest wzmocnienie odporności państwa.\n\n\"Bezpieczeństwo to nie tylko zdolności obronne, ale także niezawodne dostawy, bezpieczna infrastruktura, dostęp do technologii i zdolność reagowania\" - powiedział Domański.\n\n\"Dlatego priorytetowe znacznie zyskują zamówienia w obszarach strategicznych, takich jak energetyka, transport, telekomunikacja, ochrona zdrowia czy naturalnie - infrastruktura bezpieczeństwa. (...) Chcemy, aby państwo stało się inteligentnym inwestorem, dlatego zamówienia publiczne będą wykorzystywanie do stymulowania innowacji i współpracy biznesowej\" - dodał.\n\nTrzecim priorytetem jest profesjonalizacja rynku zamówień publicznych.\n\n\"Nawet najlepsze cele strategiczne nie zostaną osiągnięte bez odpowiedniej kompetencji i nowoczesnych narzędzi. Dlatego tak ważna jest współpraca instytucji publicznych, urzędu zamówień publicznych, organizacji branżowych i przedsiębiorców\" - wskazał Domański. (PAP Biznes)",
       "date_published": "2026-11-12T11:10:00+01:00",
       "source": "PAP Biznes"
     },
@@ -920,7 +1024,7 @@
       "id": "https://biznes.pap.pl/wiadomosci/rynki/gpw-ma-szanse-na-dalsze-wzrosty-silne-moga-byc-m-spolki-surowcowe-i-energetyczne",
       "url": "https://biznes.pap.pl/wiadomosci/rynki/gpw-ma-szanse-na-dalsze-wzrosty-silne-moga-byc-m-spolki-surowcowe-i-energetyczne",
       "title": "GPW ma szanse na dalsze wzrosty; silne mogą być m. in. spółki surowcowe i energetyczne – TFI PZU (wywiad)",
-      "content_html": "Mimo bardzo wysokich wzrostów w tym roku warszawska giełda ma szanse na dalsze zwyżki. Przemawiają za tym solidne fundamenty gospodarki, napływ kapitału na GPW i pozytywne nastawienie inwestorów zagra",
+      "content_html": "Mimo bardzo wysokich wzrostów w tym roku warszawska giełda ma szanse na dalsze zwyżki. Przemawiają za tym solidne fundamenty gospodarki, napływ kapitału na GPW i pozytywne nastawienie inwestorów zagranicznych – ocenia Tomasz Matras, dyrektor Biura Rynku Akcji TFI PZU. Jego zdaniem, in plus mogą wyróżniać się m. in. spółki energetyczne, przemysłowe, konsumenckie i surowcowe.\n\n„Jeśli chodzi o to, jak będzie wyglądała sytuacja na warszawskiej giełdzie w kolejnych kwartałach, to jesteśmy umiarkowanie optymistyczni. Ten optymizm jest już mniejszy niż jeszcze rok temu, bo jesteśmy po roku bardzo wysokich wzrostów na giełdzie, natomiast cały czas uważamy, że fundamenty polskiej gospodarki są dosyć dobre. Dynamika PKB jest na tyle wysoka, że wyróżniamy się pozytywnie na tle innych krajów europejskich, więc to na pewno nam pomaga” – powiedział Tomasz Matras.\n\n„Polski rynek wyceniany jest z delikatną premią do innych rynków rozwijających się, ale wydaje nam się, że ta premia jest uzasadniona patrząc na to, gdzie jest polska gospodarka, że bardziej pretendujemy do kraju rozwiniętego, niż rozwijającego się” - dodał.\n\nJego zdaniem, na korzyść polskiej giełdy przemawia też napływ kapitału na GPW z różnych źródeł.\n\n„Nie chodzi tylko o napływy do TFI, bo tych w części akcyjnej aż tak bardzo nie widać, ale środki na różnego rodzaju programy emerytalne, jak np. PPE, PPK, IKE, IKZE. Tym kanałem sporo pieniędzy trafia na naszą giełdę” - powiedział.\n\nDodatkowo, Polska stała się beneficjentem zawieruchy geopolitycznej na świecie, w tym przede wszystkim konfliktu na Bliskim Wschodzie.\n\n„Na tamtych rynkach przez lata był lokowany olbrzymi kapitał, bo były one traktowane jako bezpieczna przystań. Z kolei region Europy Środkowo-Wschodniej był traktowany jako region przyfrontowy, ze względu na wojnę w Ukrainie. Od dłuższego czasu ta „łatka” już nam nie przeszkadza, a niedawno pojawiły się nadzieje na zakończenie tego konfliktu. Zaczynają się rozmowy pokojowe i to może być pozytywnym sygnałem dla regionu” - powiedział.\n\n„Do tej pory byliśmy traktowani przez inwestorów zagranicznych jako region niepewny, a Bliski Wschód jako miejsce bezpieczne. Po wybuchu konfliktu w Iranie region Bliskiego Wschodu nie jest już traktowany jako aż tak bezpieczne miejsce do lokowania. My jesteśmy beneficjentami tej sytuacji i jakaś część kapitału stamtąd została ulokowana w Polsce” – dodał Tomasz Matras.\n\nUważa on, że w przyszłym roku pozytywnie mogą wyróżniać się m. in. spółki energetyczne i przemysłowe.\n\n„Jeśli chodzi o branże, które mogą radzić sobie najlepiej, to całkiem dobrze wyglądają polskie spółki energetyczne i przemysłowe. Pozytywnie patrzymy na konsumenta w Polsce i widzimy przestrzeń do wzrostów spółek związanych z handlem. Lepiej mogą też zachowywać się spółki surowcowe. Raczej neutralnie podchodzimy do sektora finansowego, podobnie do sektora Oil&Gas” – powiedział.\n\n„Notowania dużych spółek są napędzane przez inwestorów zagranicznych i poprawę wyników. Jeżeli założymy scenariusz, że kapitał z zagranicy cały czas będzie trafiał do Polski, to pewnie spółki z WIG20 pozostaną mocne” - dodał.\n\nJak ocenia, także mniejsze spółki mogą zyskiwać na znaczeniu wśród inwestorów.\n\n„Wydaje się, że w kolejnych miesiącach także te mniejsze spółki będą lepiej się zachowywać. Do tej pory one nie rosły mocno, a niektóre z nich naprawdę bardzo dobrze sobie radzą i poprawiają wyniki. Zatem na segment małych i średnich spółek zapatrujemy się dosyć optymistycznie” - powiedział.\n\n„Sądząc po aktywności inwestorów zagranicznych, Polska jest w ich ocenie naprawdę dobrym miejscem dla ulokowania kapitału. Jest zatem szansa, że w przyszłym roku rynek będzie rósł. Co prawda wyceny spółek są wyższe niż rok temu, ale nie znaczy to, że oderwały się od fundamentów” – dodał.",
       "date_published": "2026-11-12T10:55:00+01:00",
       "source": "PAP Biznes"
     },
@@ -928,7 +1032,7 @@
       "id": "https://biznes.pap.pl/wiadomosci/rynki/rynkom-w-usa-nie-grozi-gleboka-korekta-ale-warto-selektywnie-podejsc-do-spolek-ai",
       "url": "https://biznes.pap.pl/wiadomosci/rynki/rynkom-w-usa-nie-grozi-gleboka-korekta-ale-warto-selektywnie-podejsc-do-spolek-ai",
       "title": "Rynkom w USA nie grozi głęboka korekta, ale warto selektywnie podejść do spółek AI – TFI PZU (wywiad)",
-      "content_html": "Ostatnia przecena akcji spółek z sektora technologicznego może być okazją do tego, by podejść do tego sektora selektywnie i postawić na spółki o dobrych fundamentach - uważa Tomasz Matras, dyrektor Bi",
+      "content_html": "Ostatnia przecena akcji spółek z sektora technologicznego może być okazją do tego, by podejść do tego sektora selektywnie i postawić na spółki o dobrych fundamentach - uważa Tomasz Matras, dyrektor Biura Rynku Akcji TFI PZU. Jego zdaniem, amerykańskiej giełdzie nie grozi bessa lub głębsza korekta, ponieważ wyniki spółek, nie tylko technologicznych, są dobre.\n\nIndeks spółek technologicznych Nasdaq przez poprzednie pięć tygodni spadł o niemal 10 proc. Szczególnie silna przecena miała miejsce 5 listopada, tamtego dnia wskaźnik obniżył się o 5,5 proc.\n\n„Już od jakiegoś czasu widoczna była słabość spółek technologicznych z dużą ekspozycją na sztuczną inteligencję. Inwestorzy obawiają się, czy gigantyczne nakłady inwestycyjne na AI nie przewyższają skali potencjalnych korzyści i kiedy uda się je zmonetyzować. Pojawiają się też pytania, czy hossa nie przerodziła się w bańkę. Naszym zdaniem nie, bo wyniki tych spółek są bardzo dobre” – powiedział PAP Biznes Tomasz Matras.\n\n„Przykładem jest Taiwan Semiconductor Manufacturing Company (TSMC), który pokazał właśnie wzrost przychodów w trzecim kwartale w granicach 60 proc. rok do roku. Widać, że popyt na półprzewodniki i inne komponenty niezbędne do rozwoju sztucznej inteligencji i budowy centrów danych nadal jest olbrzymi, ale w pewnych segmentach zaczyna się pojawiać wąskie gardło, spółki nie nadążają z dostarczaniem produktów” - dodał.\n\nJego zdaniem, iskrą do głębszej przeceny spółek z sektora technologicznego były wybory w USA i zwycięstwo Demokratów, w szczególności w niektórych stanach np. Teksasie, które historycznie były uznawane za republikańskie.\n\n„Mówi się, że prawdopodobnie oznacza to większe obostrzenia w kwestii budowy centrów danych. Naszym zdaniem, jeśli nawet wzrost centrów danych trochę zostanie spowolniony, nie spowoduje to, że technologia sztucznej inteligencji zniknie. Natomiast na pewno jest to dobry moment, by bardziej selektywnie podejść do tego tematu i w ramach szerokiej gamy spółek związanych z AI wybierać te, które wyglądają najlepiej, mają mocne bilanse i środki na finansowanie rozwoju tej technologii” – powiedział Tomasz Matras.\n\nJak ocenia, warto patrzeć nie tylko na wąski wycinek gigantów AI, a na szerszy wachlarz spółek.\n\n„Obszarów powiązanych z rozwojem szeroko rozumianej sztucznej inteligencji jest wiele i wydaje mi się, że w tej chwili wskazane byłoby rozróżnienie, która spółka czym się zajmuje” – powiedział.\n\n„Paradoksalnie jesteśmy na takim etapie, że zaczyna brakować najprostszych produktów do budowy centrów danych. Takich przysłowiowych kabli, które łączą poszczególne obszary. Uwaga przesuwa się od dostawców tych finalnych produktów, jak chaty czy agentów AI, na dostawców komponentów. Tu wąskim gardłem mogą być np. energia, czy surowce” - dodał.\n\nNa rozwoju sztucznej inteligencji mogą skorzystać producenci miedzi.\n\n„Rozwój sztucznej inteligencji generuje olbrzymi popyt na surowce, chociażby miedź. Podobnie było kilka lat temu, kiedy wskazywano na deficyty miedzi w kontekście samochodów elektrycznych. Teraz jest sztuczna inteligencja, za chwilę będzie coś innego, więc miedź pewnie będzie zawsze potrzebna” – powiedział Tomasz Matras.\n\n„Na giełdach dużo uwagi przykuwają spółki technologiczne powiązane z boomem AI, ale zainteresowanie inwestorów rozlewa się na więcej sektorów, w tym z tzw. starej ekonomii. Na tym tle dobrze wypada Europa, w tym także Polska. Rynki te są traktowane przez część inwestorów jako alternatywa dla spółek technologicznych, swego rodzaju naturalny hedge. I w ostatnich tygodniach rzeczywiście widzimy moce zachowanie europejskich rynków” - dodał.\n\nJego zdaniem, w najbliższym czasie raczej nie grozi bessa na amerykańskim rynku, za czym przemawiają dobre wyniki spółek.\n\n„Patrząc na to, jak szybko rosną zyski spółek – nie tylko technologicznych – to raczej nie oczekiwalibyśmy głębokiej korekty czy bessy. Do tej pory już ponad 90 proc. największych spółek w Stanach Zjednoczonych pokazało wyniki za trzeci kwartał i dynamika wzrostu zysk",
       "date_published": "2026-11-12T10:54:00+01:00",
       "source": "PAP Biznes"
     },
@@ -957,6 +1061,14 @@
       "source": "Bankier.pl"
     },
     {
+      "id": "https://biznes.pap.pl/wiadomosci/gospodarka/tsue-wydal-wyrok-w-polskiej-sprawie-dot-opoznienia-w-rozpatrywaniu-wnioskow-o",
+      "url": "https://biznes.pap.pl/wiadomosci/gospodarka/tsue-wydal-wyrok-w-polskiej-sprawie-dot-opoznienia-w-rozpatrywaniu-wnioskow-o",
+      "title": "TSUE wydał wyrok w polskiej sprawie dot. opóźnienia w rozpatrywaniu wniosków o zezwolenie na pobyt",
+      "content_html": "Masowy napływ wysiedleńców z Ukrainy może uzasadniać opóźnienie w rozpatrywaniu wniosków o zezwolenie na pobyt, pod warunkiem że stanowi przypadek siły wyższej - orzekł w czwartek Trybunał Sprawiedliwości UE w sprawie C-254/25.\n\nSprawa została zainicjowana pytaniami prejudycjalnymi Wojewódzkiego Sądu Administracyjnego w Gliwicach i – dotyczyła tego, czy Polska, nie naruszając prawa Unii, mogła – ze względu na masowy napływ wysiedleńców z Ukrainy po 24 lutego 2022 r. – zawiesić terminy rozpatrywania wniosków o zezwolenie na pobyt obywateli państw trzecich i wyłączyć możliwość zaskarżenia bezczynności organów władzy publicznej.\n\n\"W ogłoszonym dziś wyroku Trybunał przypomniał, że zgodnie z dyrektywą 2016/801 wnioski o zezwolenie na pobyt w celu odbycia studiów powinny być rozpatrywane możliwie najszybciej, nie później niż w terminie 90 dni od złożenia kompletnego wniosku. Termin ten jest wiążący, jednak może zostać wyjątkowo zawieszony m.in. w przypadku siły wyższej, czyli nadzwyczajnych i nieprzewidywalnych okoliczności, niezależnych od władz krajowych, których skutków nie można było uniknąć mimo zachowania należytej staranności\" - orzekł TSUE.\n\nDodał, że na siłę wyższą państwo członkowskie może powołać się tylko w okresie niezbędnym do przezwyciężenia tych trudności.\n\n\"Konieczne jest także, aby sąd państwa członkowskiego mógł sprawdzić, czy w konkretnych okoliczności powołanie się na siłę wyższą było uzasadnione. Zadaniem WSA w Gliwicach będzie zbadanie m.in., czy masowy napływ wysiedleńców z Ukrainy wskutek agresji wojskowej Rosji z 24 lutego 2022 r. stanowił przypadek siły wyższej uzasadniający przyjęcie, budzących jego wątpliwości, przepisów\" - napisał TSUE.\n\nTrybunał wskazał przy tym, że o ile masowy napływ wysiedleńców z Ukrainy może stanowić nietypową i nieprzewidywalną okoliczność, o tyle Polska powinna wykazać, że dołożyła wszelkich starań w celu przezwyciężenia wynikających stąd trudności, uniemożliwiających pełne wykonanie dyrektywy 2016/801 oraz że na tę okoliczność powoływała się jedynie przez okres niezbędny do zaradzenia tym trudnościom.\n\n\"O ile bowiem nagły i znaczny wzrost liczby wniosków o zezwolenie na pobyt może utrudnić administracji ich terminowe rozpatrywanie, o tyle należy zbadać, czy organy krajowe rozważały zastosowanie mniej ogólnych środków, takich jak dostosowanie terminów w wybranych postępowaniach czy nadanie niektórym sprawom charakteru priorytetowego\" - napisał TSUE.\n\nZdaniem Trybunału po 31 grudnia 2022 r. masowy napływ wysiedleńców z Ukrainy nie wydaje się już nieprzewidywalny.\n\n\"Nie wydaje się również wykazane, aby sporne w postępowaniu krajowym przedłużenie – do 30 września 2025 r. – zawieszenia przepisów dotyczących bezczynności administracji było uzasadnione koniecznością przezwyciężenia trudności wynikających z napływu wysiedleńców. Weryfikacja tych okoliczności należy jednak do WSA w Gliwicach\" - podsumowano. (PAP Biznes)",
+      "date_published": "2026-11-12T10:22:00+01:00",
+      "source": "PAP Biznes"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Noble-Securities-obnizyl-cene-docelowa-Wieltonu-do-5-37-zl-9227673.html",
       "url": "https://www.bankier.pl/wiadomosc/Noble-Securities-obnizyl-cene-docelowa-Wieltonu-do-5-37-zl-9227673.html",
       "title": "Noble Securities obniżył cenę docelową Wieltonu do 5,37 zł",
@@ -965,12 +1077,20 @@
       "source": "Bankier.pl"
     },
     {
-      "id": "https://www.bankier.pl/wiadomosc/Dodatkowe-wolne-na-premiere-GTA-6-Gigant-technologiczny-i-armia-USA-ida-na-reke-graczom-9227655.html",
-      "url": "https://www.bankier.pl/wiadomosc/Dodatkowe-wolne-na-premiere-GTA-6-Gigant-technologiczny-i-armia-USA-ida-na-reke-graczom-9227655.html",
-      "title": "Dodatkowe wolne na premierę „GTA 6”. Gigant technologiczny i armia USA idą na rękę graczom",
-      "content_html": "Długo wyczekiwana premiera Grand Theft Auto 6, zaplanowana na 19 listopada, może oznaczać dla amerykańskich pracodawców ponad 1 mld dolarów strat w produktywności w związku z masowymi urlopami. Zamiast walczyć z przewidywaną absencją, firma...",
-      "date_published": "2026-11-12T09:56:00+01:00",
-      "source": "Bankier.pl"
+      "id": "https://biznes.pap.pl/wiadomosci/firmy/noble-securities-obnizyl-cene-docelowa-wieltonu-do-537-zl",
+      "url": "https://biznes.pap.pl/wiadomosci/firmy/noble-securities-obnizyl-cene-docelowa-wieltonu-do-537-zl",
+      "title": "Noble Securities obniżył cenę docelową Wieltonu do 5,37 zł",
+      "content_html": "Analitycy Noble Securities, w raporcie z 9 listopada, obniżyli cenę docelową dla Wieltonu do 5,37 zł z 7,25 zł wcześniej i jednocześnie podnieśli rekomendację z \"akumuluj\" do\"kupuj\".",
+      "date_published": "2026-11-12T10:14:00+01:00",
+      "source": "PAP Biznes"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/firmy/dzien-na-gpw-rosna-wszystkie-glowne-indeksy-w-wig20-najmocniejsze-allegro",
+      "url": "https://biznes.pap.pl/wiadomosci/firmy/dzien-na-gpw-rosna-wszystkie-glowne-indeksy-w-wig20-najmocniejsze-allegro",
+      "title": "DZIEŃ NA GPW: Rosną wszystkie główne indeksy; w WIG20 najmocniejsze Allegro",
+      "content_html": "Na ok. godzinę po otwarciu czwartkowej sesji na GPW rosną wszystkie główne indeksy. Wśród blue chipów najmocniej drożeją papiery Allegro.",
+      "date_published": "2026-11-12T10:06:00+01:00",
+      "source": "PAP Biznes"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Kto-moze-zastapic-prezesa-Nvidii-Elon-Musk-bylby-zaszczycony-zatrudnieniem-Huanga-u-siebie-9227635.html",
