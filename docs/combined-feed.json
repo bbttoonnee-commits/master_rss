@@ -5,6 +5,30 @@
   "home_page_url": "https://www.bankier.pl",
   "items": [
     {
+      "id": "https://biznes.pap.pl/wiadomosci/gry-i-technologie/microsoft-poinformowal-o-utrudnieniach-w-dzialaniu-uslug-microsoft-365",
+      "url": "https://biznes.pap.pl/wiadomosci/gry-i-technologie/microsoft-poinformowal-o-utrudnieniach-w-dzialaniu-uslug-microsoft-365",
+      "title": "Microsoft poinformował o utrudnieniach w działaniu usług Microsoft 365",
+      "content_html": "Użytkownicy mogą nie być w stanie połączyć się z wieloma usługami Microsoft 365 - poinformowała w czwartek wieczorem firma. Chodzi m.in. o działanie aplikacji takich jak Microsoft Teams, SharePoint Online, czy Microsoft Copilot 365. Firma pracuje nad przywróceniem pełnej funkcjonalności.\n\nMicrosoft wyjaśnił, że użytkownicy mogą nie być w stanie nawiązać połączenia z wieloma usługami Microsoft 365 takimi jak Exchange Online, Microsoft Teams, SharePoint Online, Microsoft Copilot 365, Microsoft Defender XDR, Microsoft Planner, Microsoft To Do, czy Microsoft Purview.\n\nFirma poinformowała, że zatwierdziła alternatywną metodę kontroli stanu w podzbiorze infrastruktury, której dotyczy problem, co „pozwoliło serwerom w tym podzbiorze na pomyślny powrót do działania”.\n\n„Obecnie wdrażamy tę zmianę na szerszą skalę. Przygotowujemy również zautomatyzowany proces odzyskiwania, który będzie stale wykrywał i restartował serwery, które nie odpowiadają, aby pomóc im w utrzymaniu działania w trakcie wdrażania tej zmiany. Ponadto nasza analiza ostatnich zmian wykazała niewielką liczbę aktualizacji konfiguracji, które badamy jako potencjalne przyczyny problemu” - dodał Microsoft. (PAP)",
+      "date_published": "2026-11-12T23:28:00+01:00",
+      "source": "PAP Biznes"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Jeden-z-glownych-akcjonariuszy-Sanok-Rubber-Company-wnioskuje-o-skup-akcji-wlasnych-9228167.html",
+      "url": "https://www.bankier.pl/wiadomosc/Jeden-z-glownych-akcjonariuszy-Sanok-Rubber-Company-wnioskuje-o-skup-akcji-wlasnych-9228167.html",
+      "title": "Jeden z głównych akcjonariuszy Sanok Rubber Company wnioskuje o skup akcji własnych",
+      "content_html": "Marek Łęcki, posiadający 13 proc. akcji Sanok Rubber Company, złożył wniosek o zwołanie walnego zgromadzenia w celu przegłosowania programu skupu akcji własnych - poinformował producent technicznych wyrobów gumowych i gumowo-metalowych w komunikacie...",
+      "date_published": "2026-11-12T23:26:00+01:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/firmy/jeden-z-glownych-akcjonariuszy-sanok-rubber-company-wnioskuje-o-skup-akcji",
+      "url": "https://biznes.pap.pl/wiadomosci/firmy/jeden-z-glownych-akcjonariuszy-sanok-rubber-company-wnioskuje-o-skup-akcji",
+      "title": "Jeden z głównych akcjonariuszy Sanok Rubber Company wnioskuje o skup akcji własnych",
+      "content_html": "Marek Łęcki, posiadający 13 proc. akcji Sanok Rubber Company, złożył wniosek o zwołanie walnego zgromadzenia w celu przegłosowania programu skupu akcji własnych - poinformował producent technicznych wyrobów gumowych i gumowo-metalowych w komunikacie.\n\nZgodnie z wnioskiem jednego z głównych akcjonariuszy zarząd Sanok Rubber Company zwołał walne zgromadzenie spółki na 9 grudnia.\n\nProjekt uchwały przewiduje, że Sanok Rubber Company może nabyć nie więcej niż 1.813.280 akcji, stanowiących nie więcej niż 7,94 proc. kapitału zakładowego spółki.\n\nZgodnie z projektem uchwały, cena nabycia akcji nie może być niższa niż 10 zł oraz nie może być wyższa niż 21,50 zł za jedną sztukę.\n\nUpoważnienie arządu do nabywania akcji miałoby obowiązywać do 19 lutego 2029 r., nie dłużej jednak niż do chwili całkowitego wykorzystania kapitału rezerwowego utworzonego w celu nabywania akcji.\n\nAkcje nabyte przez spółkę w ramach programu nabywania akcji własnych mają być przeznaczone do umorzenia. (PAP Biznes)",
+      "date_published": "2026-11-12T23:25:00+01:00",
+      "source": "PAP Biznes"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Grupa-Torpol-po-III-kwartalach-ma-50-1-mln-zl-zysku-netto-rynek-liczyl-na-wiecej-9228158.html",
       "url": "https://www.bankier.pl/wiadomosc/Grupa-Torpol-po-III-kwartalach-ma-50-1-mln-zl-zysku-netto-rynek-liczyl-na-wiecej-9228158.html",
       "title": "Grupa Torpol po III kwartałach ma 50,1 mln zł zysku netto, rynek liczył na więcej",
@@ -261,14 +285,6 @@
       "source": "Bankier.pl"
     },
     {
-      "id": "https://biznes.pap.pl/wiadomosci/firmy/creepy-jar-szacuje-zysk-netto-w-iii-kw-na-11-mln-zl-wobec-21-mln-zl-konsensusu",
-      "url": "https://biznes.pap.pl/wiadomosci/firmy/creepy-jar-szacuje-zysk-netto-w-iii-kw-na-11-mln-zl-wobec-21-mln-zl-konsensusu",
-      "title": "Creepy Jar szacuje zysk netto w III kw. na 1,1 mln zł, wobec 2,1 mln zł konsensusu",
-      "content_html": "Creepy Jar szacuje, że miał w III kw. 2026 roku 1,1 mln zł zysku, wobec 2,6 mln zł w analogicznym okresie poprzedniego roku - podał producent gier w komunikacie. Konsensus PAP Biznes zakładał 2,1 mln zł zysku netto.\n\nPrzychody w trzecim kwartale 2026 r. były większe rdr o 23 proc. i wyniosły 6,8 mln zł, z kolei EBIT wyniósł 0,4 mln zł wobec 2,1 mln zł rok wcześniej. Konsensus PAP Biznes zakładał 8,4 mln zł przychodów i 1,9 mln zł EBIT.\n\nNarastająco, po trzech kwartałach 2026 r. przychody wyniosły 59,2 mln zł, wobec 19,6 mln zł w analogicznym okresie poprzedniego roku, zysk netto 36 mln zł, w porównaniu do 10,9 mln zł, a zysk z działalności operacyjnej 37,7 mln zł wobec 9,7 mln zł rok wcześniej.\n\nW komunikacie podano, że krótkoterminowe aktywa finansowe wyniosły 80,7 mln zł na 30 września 2026 r. wobec 109,2 mln zł na 30 czerwca 2026 r.\n\nSpółka poinformowała, że przychody ze sprzedaży wypracowane w trzecim kw. 2026 r. są efektem przede wszystkim zadowalającej sprzedaży Green Hell na platformie PC/Steam, wzmocnionej przychodami z gry StarRupture na tej samej platformie.\n\nPrzedstawione dane nie uwzględniają przychodów z udziału Green Hell w planie subskrypcyjnym PlayStation Plus w okresie 3 kw. 2026 r. dotyczących regionów Europy i Ameryk. Jak podano, przychody z tego tytułu zostaną uwzględnione w wynikach po otrzymaniu przez spółkę odpowiednich raportów od Sony Interactive Entertainment Europe oraz Sony Interactive Entertainment LLC (America).\n\nW trzecim kwartale 2026 r. łączna sprzedaż brutto gry StarRupture na platformie PC/Steam wyniosła 46 tys. kopii. W oparciu o wstępne dane sprzedażowe, dostępne na dzień publikacji raportu, szacunkowa sprzedaż brutto StarRupture wynosi 962 tys. kopii.\n\nW trzecim kwartale 2026 r. łączna sprzedaż brutto gry Green Hell na platformach PC/Steam, Sony PlayStation i Microsoft Xbox (wersje gry, do których spółka posiada prawa wydawnicze) wyniosła 962 tys. kopii, z czego 35 tys. kopii na konsolach PlayStation i Xbox.\n\nJednocześnie, w oparciu o wstępne dane sprzedażowe dostępne na dzień publikacji raportu, szacunkowa sprzedaż brutto Green Hell na ww. platformy od początku 2026 r. wyniosła 4,8 mln kopii, z czego ponad 171 tys. sztuk stanowią egzemplarze przeznaczone na konsole PlayStation i Xbox.\n\nPublikacja raportu za trzeci kwartał 2026 r. planowana jest na 24 listopada. (PAP Biznes)",
-      "date_published": "2026-11-12T17:28:00+01:00",
-      "source": "PAP Biznes"
-    },
-    {
       "id": "https://www.bankier.pl/wiadomosc/Strzelanina-w-centrum-Waszyngtonu-Co-najmniej-cztery-osoby-postrzelone-9227892.html",
       "url": "https://www.bankier.pl/wiadomosc/Strzelanina-w-centrum-Waszyngtonu-Co-najmniej-cztery-osoby-postrzelone-9227892.html",
       "title": "Strzelanina w centrum Waszyngtonu. Co 4 osoby ranne, 1 osoba nie żyje",
@@ -291,14 +307,6 @@
       "content_html": "Sąd Najwyższy w składzie trzech połączonych Izb 18 listopada ma zająć się pytaniami prezes Izby Cywilnej Joanny Misztal-Koneckiej o to, czy wyroki Trybunału Konstytucyjnego obowiązują od ogłoszenia, choć rząd nie opublikował ich w Dzienniku...",
       "date_published": "2026-11-12T17:21:00+01:00",
       "source": "Bankier.pl"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/firmy/szacunkowe-wyniki-creepy-jar-w-iii-kw-2026-r-vs-konsensus-pap-tabela",
-      "url": "https://biznes.pap.pl/wiadomosci/firmy/szacunkowe-wyniki-creepy-jar-w-iii-kw-2026-r-vs-konsensus-pap-tabela",
-      "title": "Szacunkowe wyniki Creepy Jar w III kw. 2026 r. vs konsensus PAP (tabela)",
-      "content_html": "Poniżej przedstawiono szacunkowe wyniki Creepy w trzecim kwartale 2026 roku i ich odniesienie do konsensusu PAP oraz do wyników poprzednich okresów.\n\n***Prognozy roczne i kwartalne dla ponad 200 spółek notowanych na GPW znajdują się w bazie Konsensusy, dostępnej dla abonentów w Serwisie Ekonomicznym PAP Biznes.(PAP Biznes)",
-      "date_published": "2026-11-12T17:17:00+01:00",
-      "source": "PAP Biznes"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Spor-o-Trybunal-Konstytucyjny-Prezydent-zaprasza-politykow-do-rozmow-9227940.html",
@@ -405,12 +413,28 @@
       "source": "Bankier.pl"
     },
     {
+      "id": "https://biznes.pap.pl/wiadomosci/firmy/rzad-litwy-szacuje-ze-tzw-windfall-tax-obejmie-ok-10-spolek-w-tym-orlen-lietuva",
+      "url": "https://biznes.pap.pl/wiadomosci/firmy/rzad-litwy-szacuje-ze-tzw-windfall-tax-obejmie-ok-10-spolek-w-tym-orlen-lietuva",
+      "title": "Rząd Litwy szacuje, że tzw. windfall tax obejmie ok. 10 spółek, w tym Orlen Lietuva",
+      "content_html": "Uzgodniony przez litewską koalicję rządową tymczasowy podatek od nadmiarowych zysków, tzw. windfall tax, może dotyczyć około dziesięciu litewskich spółek, choć głównym - a być może jedynym - jego płatnikiem będzie Orlen Lietuva - poinformował premier Mindaugas Sinkevicius.\n\n\"Orlen Lietuva to główna firma, która przerabia ropę naftową i produkuje różne produkty naftowe. To potencjalny główny płatnik windfall tax. Jednak według klasyfikacji działalności, istnieje jeszcze kilka innych firm związanych z produkcją paliw. Prawdopodobnie do dziesięciu, ale oczywiście rozmawiamy głównie o Orlenie\" - powiedział Sinkevicius w czwartek w publicznym nadawcy LRT, cytowany przez agencję BNS.\n\n\"Inne spółki zajmują się produkcją biopaliw, w tym biodiesla i bioetanolu\" - dodał premier.\n\nWedług niego, producenci biopaliw nie powinni jednak podlegać opodatkowaniu, choć także uzyskują w tym roku nieplanowane zysku. Dodał, że dochody budżetu z podatku od tych spółek nie byłyby znaczące i ocenił, że obłożenie ich tym podatkiem byłoby niewłaściwe, ponieważ zajmują się energią odnawialną i wykorzystaniem lokalnych surowców.\n\n\"Dlatego nasza uwaga koncentruje się na Orlen Lietuva\" - powiedział Sinkevicius.\n\nJak podała agencja, w środę koalicja rządowa uzgodniła przygotowanie projektu dotyczącego tymczasowego podatku od nadmiarowych zysków osiąganych przez spółki z sektora paliwowego. Według premiera podatek ten może przynieść budżetowi, zgodnie ze wstępnymi szacunkami, do 70 mln euro dodatkowych dochodów w 2027 r.\n\nZ kolei minister spraw zagranicznych Litwy Kestutis Budrys powiedział w czwartek, że przed wprowadzeniem windfall tax Litwa musi oszacować wpływ tego rozwiązania na inwestycje zagraniczne i strategiczne relacje oraz skonsultować się w tej sprawie z partnerami.\n\n\"Musimy oszacować wszystkie aspekty. Ponieważ to dotyczy także inwestycji zagranicznych i strategicznych relacji z Polską. Dobrze pamiętam okoliczności, w których Orlen wszedł na Litwę, do Mazeikiu Nafta, i wszystko to trzeba mieć na uwadze, oceniając, jak również komunikując się z partnerami, żeby nie traktować tej sprawy osobno. I tak zrobimy\" - powiedział Budrys dziennikarzom, cytowany przez BNS.\n\nEksperci i uczestnicy rynku, z którymi rozmawiała agencja, ocenili propozycję podatku jako ułomną i spodziewali się, że przyniesie budżetowi niewiele dochodów.\n\n\"Zwrócili uwagę, że choć wyniki finansowe Orlen Lietuva poprawiły się ze względu na wyższe ceny paliw, napędzane przez konflikt na Bliskim Wschodzie, to rafineria przez wiele lat wcześniej odnotowywała straty\" - napisał BNS.\n\nNa początku listopada prezes Orlenu Ireneusz Fąfara poinformował w rozmowie z PAP Biznes, że koncern analizuje celowość dodatkowych bardzo wysokich nakładów na dokończenie inwestycji w instalację BoB w Możejkach. Jak powiedział prezes, alternatywą jest rezygnacja z inwestycji i ryzyko zamknięcia litewskiej rafinerii. Według nieoficjalnych informacji na inwestycję brakuje 600-700 mln USD.\n\nIreneusz Fąfara poinformował PAP Biznes, że obecnie Orlen stoi w przededniu kolejnej decyzji inwestycyjnej. Grupa musi zdecydować, co dalej z inwestycją BoB (ang. Bottom of the Barrel), czyli budową instalacji pogłębionego przerobu ropy w należącej do Orlenu rafinerii w litewskich Możejkach.\n\nDodał, że w najbliższych tygodniach grupa zamierza przeanalizować czy przeznaczyć dodatkowe - bardzo wysokie - nakłady na dokończenie inwestycji w BoB, co przedłuży czas życia tej rafinerii o kilkanaście lat, czy zrezygnować z tej inwestycji i przyjąć ryzyko, że będzie to jedna z pierwszych rafinerii w naszym regionie, która zakończy działalność.\n\nW ciągu ostatnich 20 lat w zakup i modernizację rafinerii w Możejkach grupa Orlen zainwestowała ponad 5 mld USD, w tym 2,8 mld USD w jej modernizację i ok. 2,3 mld USD w zakup. W tym czasie Orlen Lietuva wypracowała łącznie ok. 1 mld USD zysku.\n\nJak podał Fąfara, Orlen Lietuva to 1.500 miejsc pracy w Możejkach i co najmniej 8 tys. miejsc pracy w firmach współpracujących. (PAP Biznes)",
+      "date_published": "2026-11-12T15:08:00+01:00",
+      "source": "PAP Biznes"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Wystapili-o-azyl-by-pracowac-dla-wywiadu-Iranu-Wyrok-w-Wielkiej-Brytanii-9227897.html",
       "url": "https://www.bankier.pl/wiadomosc/Wystapili-o-azyl-by-pracowac-dla-wywiadu-Iranu-Wyrok-w-Wielkiej-Brytanii-9227897.html",
       "title": "Wystąpili o azyl, by pracować dla wywiadu Iranu. Wyrok w Wielkiej Brytanii",
       "content_html": "Londyński sąd uznał dwóch obywateli Iranu za winnych szpiegostwa. Według czwartkowego werdyktu obserwowali oni osoby krytyczne wobec reżimu w Teheranie. Jeden z nich przygotowywał też atak.",
       "date_published": "2026-11-12T15:01:00+01:00",
       "source": "Bankier.pl"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/gospodarka/w-pazdzierniku-koniunktura-przemysle-pogorszyla-sie-oczekiwania-pesymistyczne",
+      "url": "https://biznes.pap.pl/wiadomosci/gospodarka/w-pazdzierniku-koniunktura-przemysle-pogorszyla-sie-oczekiwania-pesymistyczne",
+      "title": "W październiku koniunktura przemyśle pogorszyła się, oczekiwania pesymistyczne - IRG SGH (popr.)",
+      "content_html": "W październiku koniunktura w przemyśle przetwórczym uległa pogorszeniu, a ankietowani spodziewają się pogorszenia się koniunktury przemysłowej w najbliższej przyszłości - podano w raporcie IRG SGH.\n\n#poprawiono nazwę miesiąca w tytule depeszy#\n\n\"W październiku koniunktura w przemyśle przetwórczym uległa pogorszeniu. Spadek wartości wskaźnika koniunktury IRG SGH (IRGIND) w skali miesiąca jest jednak niewielki; wyniósł 0,6 pkt. Wartość wskaźnika utrzymuje się powyżej poziomu sprzed roku (o 3,2 pkt) i 30-letniej średniej dla miesiąca października (o 3,6 pkt). Roczny przyrost wartości IRGIND jest niższy niż miesiąc temu (o 2,1 pkt), co może sygnalizować załamanie się koniunktury w najbliższym okresie\" - napisano.\n\n\"Ankietowani spodziewają się pogorszenia się koniunktury przemysłowej w najbliższej przyszłości. Lepiej natomiast oceniają perspektywy całej gospodarki\" - dodano.\n\nNajbardziej pogorszyła się koniunktura w ocenie największych przedsiębiorstw, producentów nietrwałych dóbr konsumpcyjnych oraz firm prowadzących działalność w makroregionach wschodnim i centralnym.\n\nPoprawę odnotowały przedsiębiorstwa publiczne, małe zakłady produkcyjne (do 50 zatrudnionych), producenci półproduktów i firmy z makroregionu północno-zachodniego.\n\nZmiany koniunktury w skali roku zostały przez większość przetwórców ocenione jako pozytywne – pogorszenie się koniunktury odnotowali jedynie producenci nietrwałych dóbr konsumpcyjnych oraz firmy działające w makroregionach wschodnim i północno-zachodnim.\n\nIRG SGH podaje, że wartości głównych wskaźników aktywności gospodarczej, tj. produkcji, zamówień (krajowych i zza granicy) i zatrudnienia, są obecnie dużo wyższe niż przed rokiem i dwu-trzykrotnie wyższe od wieloletnich (30-letnich) średnich dla października.\n\nNajwiększe wzrosty wielkości produkcji i zamówień ogółem w skali roku odnotowali producenci dóbr konsumpcyjnych trwałego użytku oraz duże zakłady przemysłowe (250-500 pracowników). (PAP Biznes)",
+      "date_published": "2026-11-12T14:55:00+01:00",
+      "source": "PAP Biznes"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Putin-gra-na-czas-ale-ma-go-coraz-mniej-9227898.html",
@@ -435,6 +459,14 @@
       "content_html": "Rozszerzenie UE to nie tylko polityczna debata, to kwestia nowej architektury bezpieczeństwa, która się obecnie kształtuje - powiedział w czwartek w Bratysławie marszałek Sejmu Włodzimierz Czarzasty. Wziął udział w spotkaniu szefów parlamentów...",
       "date_published": "2026-11-12T14:44:00+01:00",
       "source": "Bankier.pl"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/rynki/dzien-na-rynkach-kontrakty-w-usa-spadaja-problemy-prezesa-nvidii-w-tle",
+      "url": "https://biznes.pap.pl/wiadomosci/rynki/dzien-na-rynkach-kontrakty-w-usa-spadaja-problemy-prezesa-nvidii-w-tle",
+      "title": "DZIEŃ NA RYNKACH: Kontrakty w USA spadają; problemy prezesa Nvidii w tle",
+      "content_html": "Kontrakty w USA zniżkują, a indeksy w Europie są na plusach. Inwestorzy obawiają się, że prezes Nvidii Jensen Huang może zostać zmuszony do odejścia wobec doniesień o romansie z domniemaną chińską agentką. Rentowności obligacji rosną.\n\nKontrakty na S&P 500 zniżkują o 0,73 proc., na Dow Jones Industrial tracą 0,23 proc., a na Nasdaq Comp. spadają o 1,45 proc.\n\nRynek obligacji amerykańskich jest zamknięty w środę z okazji Dnia Weterana.\n\nInwestorzy oceniają perspektywy dla sektora sztucznej inteligencji wobec ostatnich zawirowań wokół branży.\n\nAkcje Nvidii spadają o 8,5 proc. po doniesieniach, jakoby zarząd spółki rozważał usunięcie ze stanowiska dyrektora generalnego Jensena Huanga, co pogorszyło nastroje wobec spółek powiązanych z sektorem sztucznej inteligencji.\n\nPo pojawieniu się nowych informacji o kolejnym romansie wieloletniego szefa Nvidii spowodowały, inwestorzy zaczęli obawiać się potencjalnych konsekwencji ewentualnej zmiany na stanowisku kierowniczym w firmie, która stanowi kluczowy element boomu na sztuczną inteligencję. Niektórzy analitycy na Wall Street przewidują, że jego usunięcie Huanga ze stanowiska może doprowadzić do znaczących spadków kursu akcji, przekraczających nawet 20 proc.\n\n\"The New York Times\" poinformował, że Huang utrzymywał pozamałżeńską relację z jedną z osób na stanowisku kierowniczym w firmie.\n\n\"The Wall Street Journal\" podał z kolei, że zarząd Nvidii przygotowuje się do usunięcia Huanga ze stanowiska. Ma to związek z doniesieniami, według których Huang miał romans z osobą podejrzewaną o szpiegostwo na rzecz Chin.\n\n\"Sytuacja ta stwarza wyjątkowo trudny problem dla inwestorów, którzy przez lata lokowali kapitał w spółkach uznawanych za niezbędne dla gospodarki opartej na sztucznej inteligencji\" – wskazywał Terri-Leigh Bennett, dyrektor operacyjna w CMS Prime.\n\n\"Sprawa Nvidii przyczyniła się do wzrostu awersji do ryzyka, co z kolei winduje kurs dolara. Głębszą przyczyną jest jednak wyraźna zmiana nastrojów w kwestii inflacji. Rynek przestał się wahać i uznał, że problem inflacji rzeczywiście istnieje\" – ocenił Kit Juckes, strateg w Societe Generale.\n\nAkcje Coreweave spadają o 11 proc. przed sesją po 25-proc. wzroście w środę.\n\nAkcje Advanced Micro Devices zyskują 0,5 proc. przed otwarciem sesji, podczas gdy Broadcom rośnie o 0,2 proc.\n\n\"Podchodzilibyśmy z pewną ostrożnością do tego odbicia, ponieważ zachodzą pewne zmiany. Mowa tu o uporczywej inflacji, kolejnych podwyżkach stóp procentowych przez Fed, wyższych długoterminowych stopach proc., zmianach w układzie sił w Waszyngtonie oraz postulatach dotyczących regulacji sektora sztucznej inteligencji i centrów danych\" – ocenił Sameer Samana, szef działu globalnych akcji i aktywów rzeczowych w Wells Fargo Investment Institute.\n\nW czwartek Dow Jones Industrial na zamknięciu wzrósł o 0,49 proc. i wyniósł 52.486,49 pkt. S&P 500 na koniec dnia zyskał 1,31 proc. i wyniósł 7.619,38 pkt. Nasdaq Composite zwyżkował o 1,60 proc. do 25.466,19 pkt.\n\nSrebro zniżkuje o 1,92 proc. do poziomu 51 USD za uncję, a złoto spada o 1,49 proc. do 3.944 USD za uncję.\n\nBitcoin spada o 2,73 proc. i jego kurs wynosi 72.420 USD za token.\n\nIndeks VIX, miara oczekiwanej zmienności i instrument oceny sentymentu, zwyżkuje do 19,08 pkt.\n\nW Europie indeks Euro Stoxx 50 rośnie o 0,2 proc., niemiecki DAX idzie w górę o 0,63 proc., francuski CAC 40 zwyżkuje o 0,6 proc., a brytyjski FTSE 100 rośnie o 0,22 proc.\n\nBenchmarkowy indeks Europe Stoxx 600 zwyżkuje o 0,29 proc.\n\nASML traci 3 proc. wraz z innymi europejskimi spółkami produkującymi półprzewodniki.\n\nSiemens zwyżkuje o 2 proc. Wyniki spółki za IV kw. okazały się lepsze od szacunków rynkowych, a zamówienia w roku fiskalnym 2026 osiągnęły rekordową wartość.\n\nBurberry rośnie o 6,5 proc. Sprzedaż porównywalna spółki w II kw. przebiła rynkowe oczekiwania. Sprzedaż detaliczna porównywalna wzrosła o 4 proc. wobec prognoz +3,67 proc.\n\nRoyal Unibrew A/S zyskuje 4 proc., najmocniej od 2 lat. Spółka zanotowała w III k. wyniki zasadniczo zgodn",
+      "date_published": "2026-11-12T14:38:00+01:00",
+      "source": "PAP Biznes"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Policyjna-interwencja-w-Krakowie-Mezczyzna-strzelal-w-kierunku-funkcjonariuszy-9227879.html",
@@ -893,22 +925,6 @@
       "source": "PAP Biznes"
     },
     {
-      "id": "https://biznes.pap.pl/wiadomosci/energia/tsue-oddalil-siedem-skarg-wniesionych-przez-polske-przeciwko-unijnym-przepisom",
-      "url": "https://biznes.pap.pl/wiadomosci/energia/tsue-oddalil-siedem-skarg-wniesionych-przez-polske-przeciwko-unijnym-przepisom",
-      "title": "TSUE oddalił siedem skarg wniesionych przez Polskę przeciwko unijnym przepisom ws. klimatu",
-      "content_html": "Trybunał Sprawiedliwości UE oddalił w czwartek siedem skarg wniesionych przez Polskę przeciwko aktom z unijnego pakietu legislacyjnego „Gotowi na 55”, którego celem jest osiągnięcie neutralności klimatycznej przez Wspólnotę do 2050 r.\n\nAby ograniczyć do 2030 r. emisje gazów cieplarnianych w UE o co najmniej 55 proc. w porównaniu z poziomami z 1990 r. i osiągnąć neutralność klimatyczną do 2050 r., Unia przyjęła środki legislacyjne składające się na pakiet „Gotowi na 55”.\n\nPolska następnie wniosła do TSUE skargi o stwierdzenie nieważności siedmiu aktów wchodzących w skład tego pakietu.\n\nPolski rząd argumentował, że zakwestionowane przez niego akty miały charakter przede wszystkim fiskalny lub wpływały na ogólną strukturę zaopatrzenia kraju w energię. W związku z tym - jak przekonywano - należało je przyjąć na podstawie przepisu unijnego traktatu, który nakłada wymóg jednomyślności podczas głosowania w Radzie UE. (PAP)",
-      "date_published": "2026-11-12T10:04:00+01:00",
-      "source": "PAP Biznes"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/gospodarka/atak-cybernetyczny-na-epuap-przyszedl-z-zagranicy-plan-byl-szerszy-gawkowski",
-      "url": "https://biznes.pap.pl/wiadomosci/gospodarka/atak-cybernetyczny-na-epuap-przyszedl-z-zagranicy-plan-byl-szerszy-gawkowski",
-      "title": "Atak cybernetyczny na ePUAP przyszedł z zagranicy, plan był szerszy - Gawkowski",
-      "content_html": "Atak cybernetyczny na krajowy system usług administracji publicznej ePUAP przyszedł z zagranicy, a plan atakujących był szerszy - poinformował w TVP Info minister cyfryzacji Krzysztof Gawkowski. Dodał, że chodziło o utrudnienie pracy polskich urzędników w grudniu.\n\nGawkowski poinformował, że cały czas trwają prace nad uruchomieniem systemu ePUAP po ataku hakerskim.\n\n\"Był atak cybernetyczny na ePUAP (...), został zatrzymany, przyszedł z zagranicy - to już mamy potwierdzone\" - powiedział Gawkowski.\n\n\"Wiemy, że plan był szerszy (...). Mamy już przesłanki wskazujące, że w grudniu chciano nam sparaliżować pracę administracji rządowej. To znaczy, ci, którzy się zainstalowali w systemie, ci, którzy go chcieli przeglądać, ci, którzy mieli jakiś określony plan (...) to było przygotowanie na określony czas, na jakąś taką bombę administracyjną, która ma sparaliżować w trudnym okresie grudnia pracę polskich urzędników. I to można już powiedzieć. Zatrzymaliśmy atak, który w grudniu mógł doprowadzić do paraliżu administracji, komunikacji wewnątrz niej\" - dodał.\n\nPrzypomniał, że rok temu w grudniu, przed Sylwestrem, został przeprowadzony cyberatak na polską energetykę. (PAP Biznes)",
-      "date_published": "2026-11-12T10:00:00+01:00",
-      "source": "PAP Biznes"
-    },
-    {
       "id": "https://www.bankier.pl/wiadomosc/Dodatkowe-wolne-na-premiere-GTA-6-Gigant-technologiczny-i-armia-USA-ida-na-reke-graczom-9227655.html",
       "url": "https://www.bankier.pl/wiadomosc/Dodatkowe-wolne-na-premiere-GTA-6-Gigant-technologiczny-i-armia-USA-ida-na-reke-graczom-9227655.html",
       "title": "Dodatkowe wolne na premierę „GTA 6”. Gigant technologiczny i armia USA idą na rękę graczom",
@@ -1079,8 +1095,8 @@
     {
       "id": "https://www.bankier.pl/wiadomosc/UE-bierze-pod-but-e-commerce-Kaganiec-na-algorytmy-cenowe-i-koniec-fikcyjnych-ostatnich-sztuk-9227464.html",
       "url": "https://www.bankier.pl/wiadomosc/UE-bierze-pod-but-e-commerce-Kaganiec-na-algorytmy-cenowe-i-koniec-fikcyjnych-ostatnich-sztuk-9227464.html",
-      "title": "UE bierze pod but e-commerce. Kaganiec na algorytmy cenowe i koniec fikcyjnych „ostatnich sztuk”",
-      "content_html": "Prawo do kontaktu z człowiekiem w sklepach internetowych, przejrzystość cen biletów na mecze i koncerty, zakaz ukrytych opłat na ostatnim etapie, łatwa rezygnacja z subskrypcji, uregulowanie zakupów robionych przez AI - takie propozycje zawiera...",
+      "title": "UE bierze pod but e-commerce. Kaganiec na algorytmy cenowe i koniec fikcyjnych „ostatnich sztuk” Prawo do kontaktu z człowiekiem w sklepach internetowych, przejrzystość cen biletów na mecze i koncerty, zakaz ukrytych opłat na ostatnim etapie, łatwa rezygnacja z subskrypcji, uregulowanie zakupów robionych przez AI - takie propozycje zawiera zaproponowany w środę Akt uczciwości cyfrowej (DFA).",
+      "content_html": "",
       "date_published": "2026-11-12T07:00:00+01:00",
       "source": "Bankier.pl"
     },
