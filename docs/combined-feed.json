@@ -3,22 +3,5 @@
   "title": "Wiadomości Finansowe - Bankier.pl + PAP Biznes",
   "description": "Połączone wiadomości z wielu źródeł (ostatnie 24h)",
   "home_page_url": "https://www.bankier.pl",
-  "items": [
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Energetyka-przemysl-i-handel-z-potencjalem-Ekspert-ocenia-perspektywy-GPW-9227833.html",
-      "url": "https://www.bankier.pl/wiadomosc/Energetyka-przemysl-i-handel-z-potencjalem-Ekspert-ocenia-perspektywy-GPW-9227833.html",
-      "title": "OPINIA Energetyka, przemysł i handel z potencjałem. Ekspert ocenia perspektywy GPW Mimo bardzo wysokich wzrostów w tym roku, warszawska giełda ma szanse na dalsze zwyżki. Przemawiają za tym solidne fundamenty gospodarki, napływ kapitału na GPW i pozytywne nastawienie inwestorów zagranicznych – ocenia Tomasz Matras, dyrektor Biura Rynku Akcji TFI PZU. Jego zdaniem, in plus mogą wyróżniać się m. in. spółki energetyczne, przemysłowe, konsumenckie i surowcowe.",
-      "content_html": "",
-      "date_published": "2026-11-14T14:00:00+01:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Polacy-gromadza-coraz-wiecej-w-PPK-Aktywa-funduszy-bija-rekordy-9227957.html",
-      "url": "https://www.bankier.pl/wiadomosc/Polacy-gromadza-coraz-wiecej-w-PPK-Aktywa-funduszy-bija-rekordy-9227957.html",
-      "title": "Polacy gromadzą coraz więcej w PPK. Aktywa funduszy biją rekordy Aktywa krajowych funduszy inwestycyjnych wzrosły w październiku o 781 mln zł, do rekordowych 492,1 mld zł. Niemal cały przyrost przypadł na PPK - wynika z komunikatu Analiz.pl, na podstawie danych IZFiA.",
-      "content_html": "",
-      "date_published": "2026-11-14T14:00:00+01:00",
-      "source": "Bankier.pl"
-    }
-  ]
+  "items": []
 }
