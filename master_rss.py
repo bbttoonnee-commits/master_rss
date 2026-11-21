@@ -56,7 +56,7 @@ SOURCES = {
         "name": "Bankier.pl",
         "base_url": "https://www.bankier.pl",
         "urls": [
-            ("https://www.bankier.pl/wiadomosc/", 5, "bankier_news"),
+            ("https://www.bankier.pl/wiadomosc", 1, "bankier_news"),  # od ~2026-11-13 brak stron w HTML; 20 pozycji co 30 min wystarcza
             ("https://www.bankier.pl/gielda/wiadomosci/", 5, "bankier_gielda"),
         ],
     },
@@ -94,11 +94,37 @@ def fetch_page_html(url: str) -> Optional[str]:
 # PARSERY
 # --------------------------------------------------------------------
 
+def parse_bankier_news_v2(soup, base_url: str) -> List[Dict]:
+    """Lista /wiadomosc po zmianie kodu strony Bankiera (~2026-11-13): li.m-listing-article-list__item."""
+    articles = []
+    for li in soup.find_all("li", class_="m-listing-article-list__item"):
+        if "-sponsored" in (li.get("class") or []):
+            continue
+        a_tag = li.find("a", class_="m-listing-article-list__anchor")
+        title = li.find("div", class_="m-listing-article-list__title")
+        when = li.find("div", class_="m-listing-article-list__date-time")
+        if not (a_tag and a_tag.get("href") and title and when):
+            continue
+        try:
+            pub_dt = TZ_WARSAW.localize(datetime.strptime(when.get_text(strip=True), "%Y-%m-%d %H:%M"))
+        except ValueError:
+            continue
+        lead = li.find("div", class_="m-listing-article-list__lead")
+        articles.append({
+            "title": " ".join(title.get_text(" ", strip=True).split()),
+            "link": urljoin(base_url, a_tag["href"]),
+            "pub_date": pub_dt,
+            "teaser": " ".join(lead.get_text(" ", strip=True).split()) if lead else "",
+            "source": "Bankier.pl",
+        })
+    return articles
+
+
 def parse_bankier_news(html: str, base_url: str) -> List[Dict]:
     soup = BeautifulSoup(html, "html.parser")
     section = soup.find("section", id="articleList")
     if not section:
-        return []
+        return parse_bankier_news_v2(soup, base_url)
     
     articles = []
     for art in section.find_all("div", class_="article", recursive=False):
