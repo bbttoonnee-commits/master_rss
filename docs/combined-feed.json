@@ -5,22 +5,6 @@
   "home_page_url": "https://www.bankier.pl",
   "items": [
     {
-      "id": "https://www.bankier.pl/wiadomosc/Oplata-za-wejscie-do-fontanny-di-Trevi-przyniosla-nieoczekiwany-efekt-Caritas-liczy-straty-9232963.html",
-      "url": "https://www.bankier.pl/wiadomosc/Oplata-za-wejscie-do-fontanny-di-Trevi-przyniosla-nieoczekiwany-efekt-Caritas-liczy-straty-9232963.html",
-      "title": "Opłata za wejście do fontanny di Trevi przyniosła nieoczekiwany efekt. Caritas liczy straty",
-      "content_html": "Turyści wrzucają coraz mniej monet do rzymskiej fontanny di Trevi; zbierająca monety organizacja Caritas sugeruje, że przyczyną tej sytuacji jest opłata za dostęp do obiektu: od czasu jej wprowadzenia w lutym br. wyłowiono o 200 tys. euro mniej - przekazał w sobotę brytyjski dziennik „The Guardian”.",
-      "date_published": "2026-11-22T21:00:00+01:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Niepokojacy-raport-z-USA-Kurcza-sie-zapasy-kluczowej-amunicji-9232649.html",
-      "url": "https://www.bankier.pl/wiadomosc/Niepokojacy-raport-z-USA-Kurcza-sie-zapasy-kluczowej-amunicji-9232649.html",
-      "title": "Niepokojący raport z USA. Kurczą się zapasy kluczowej amunicji",
-      "content_html": "Raport amerykańskiej Government Accountability Office (GAO), opublikowany w czwartek, wskazuje na niedobory kluczowej amunicji, pogłębione przez wojnę z Iranem, oraz problemy Pentagonu z zarządzaniem zapasami i planowaniem ich odbudowy.",
-      "date_published": "2026-11-22T21:00:00+01:00",
-      "source": "Bankier.pl"
-    },
-    {
       "id": "https://www.bankier.pl/wiadomosc/Brytyjczycy-szykuja-bezzalogowe-mysliwce-AI-przejmie-najniebezpieczniejsze-zadania-9233108.html",
       "url": "https://www.bankier.pl/wiadomosc/Brytyjczycy-szykuja-bezzalogowe-mysliwce-AI-przejmie-najniebezpieczniejsze-zadania-9233108.html",
       "title": "Brytyjczycy szykują bezzałogowe myśliwce. AI przejmie najniebezpieczniejsze zadania",
@@ -37,10 +21,10 @@
       "source": "Bankier.pl"
     },
     {
-      "id": "https://www.bankier.pl/wiadomosc/Orban-stracil-wladze-antyukrainska-dezinformacja-slabnie-Jest-nowy-raport-9232921.html",
-      "url": "https://www.bankier.pl/wiadomosc/Orban-stracil-wladze-antyukrainska-dezinformacja-slabnie-Jest-nowy-raport-9232921.html",
-      "title": "Orban stracił władzę, antyukraińska dezinformacja słabnie. Jest nowy raport",
-      "content_html": "Poziom antyukraińskiej dezinformacji na Węgrzech znacząco spadł od kwietnia 2026 roku, kiedy w kraju odbyły się wybory parlamentarne przegrane przez byłego premiera Viktora Orbana - poinformował w piątek portal Telex, powołując się na analizę ośrodka Political Capital.",
+      "id": "https://www.bankier.pl/wiadomosc/Oplata-za-wejscie-do-fontanny-di-Trevi-przyniosla-nieoczekiwany-efekt-Caritas-liczy-straty-9232963.html",
+      "url": "https://www.bankier.pl/wiadomosc/Oplata-za-wejscie-do-fontanny-di-Trevi-przyniosla-nieoczekiwany-efekt-Caritas-liczy-straty-9232963.html",
+      "title": "Opłata za wejście do fontanny di Trevi przyniosła nieoczekiwany efekt. Caritas liczy straty",
+      "content_html": "Turyści wrzucają coraz mniej monet do rzymskiej fontanny di Trevi; zbierająca monety organizacja Caritas sugeruje, że przyczyną tej sytuacji jest opłata za dostęp do obiektu: od czasu jej wprowadzenia w lutym br. wyłowiono o 200 tys. euro mniej - przekazał w sobotę brytyjski dziennik „The Guardian”.",
       "date_published": "2026-11-22T21:00:00+01:00",
       "source": "Bankier.pl"
     },
@@ -49,6 +33,22 @@
       "url": "https://www.bankier.pl/wiadomosc/Tajny-podziemny-magazyn-na-materialy-z-UFO-Pentagon-ujawnil-niezwykly-dokument-9232958.html",
       "title": "Tajny podziemny magazyn na materiały z UFO. Pentagon ujawnił niezwykły dokument",
       "content_html": "Z ujawnionej w piątek kolejnej partii akt na temat UFO wynika, że w 2009 r. podwykonawca rządu USA planował budowę podziemnego magazynu do przechowywania „egzotycznego materiału lub tkanki” - przekazał amerykański nadawca CBS News.",
+      "date_published": "2026-11-22T21:00:00+01:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Orban-stracil-wladze-antyukrainska-dezinformacja-slabnie-Jest-nowy-raport-9232921.html",
+      "url": "https://www.bankier.pl/wiadomosc/Orban-stracil-wladze-antyukrainska-dezinformacja-slabnie-Jest-nowy-raport-9232921.html",
+      "title": "Orban stracił władzę, antyukraińska dezinformacja słabnie. Jest nowy raport",
+      "content_html": "Poziom antyukraińskiej dezinformacji na Węgrzech znacząco spadł od kwietnia 2026 roku, kiedy w kraju odbyły się wybory parlamentarne przegrane przez byłego premiera Viktora Orbana - poinformował w piątek portal Telex, powołując się na analizę ośrodka Political Capital.",
+      "date_published": "2026-11-22T21:00:00+01:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Niepokojacy-raport-z-USA-Kurcza-sie-zapasy-kluczowej-amunicji-9232649.html",
+      "url": "https://www.bankier.pl/wiadomosc/Niepokojacy-raport-z-USA-Kurcza-sie-zapasy-kluczowej-amunicji-9232649.html",
+      "title": "Niepokojący raport z USA. Kurczą się zapasy kluczowej amunicji",
+      "content_html": "Raport amerykańskiej Government Accountability Office (GAO), opublikowany w czwartek, wskazuje na niedobory kluczowej amunicji, pogłębione przez wojnę z Iranem, oraz problemy Pentagonu z zarządzaniem zapasami i planowaniem ich odbudowy.",
       "date_published": "2026-11-22T21:00:00+01:00",
       "source": "Bankier.pl"
     },
