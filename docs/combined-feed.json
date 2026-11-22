@@ -5,6 +5,22 @@
   "home_page_url": "https://www.bankier.pl",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/Trump-zabiegal-o-spotkanie-z-Kimem-Korea-Polnocna-powiedziala-nie-9233098.html",
+      "url": "https://www.bankier.pl/wiadomosc/Trump-zabiegal-o-spotkanie-z-Kimem-Korea-Polnocna-powiedziala-nie-9233098.html",
+      "title": "Trump zabiegał o spotkanie z Kimem. Korea Północna powiedziała „nie”",
+      "content_html": "Prezydent USA Donald Trump zabiegał o szczyt z przywódcą Korei Północnej Kim Dzong Unem podczas podróży do Azji w ubiegłym tygodniu; spotkanie nie doszło jednak do skutku, ponieważ Pjongjang postawił warunki nie do przyjęcia dla Waszyngtonu - przekazał w niedzielę portal południowokoreańskiego dziennika „Chosun Ilbo”.",
+      "date_published": "2026-11-22T09:10:00+01:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Startupow-w-Polsce-przybywa-ale-kapital-omija-nasz-rynek-9230835.html",
+      "url": "https://www.bankier.pl/wiadomosc/Startupow-w-Polsce-przybywa-ale-kapital-omija-nasz-rynek-9230835.html",
+      "title": "RAPORT Startupów w Polsce przybywa, ale kapitał omija nasz rynek",
+      "content_html": "W Polsce jest coraz więcej przedsiębiorców technologicznych, a w 2026 roku liczba nowych założycieli firm z tego sektora ma wzrosnąć o 39 proc. – wynika z raportu „State of European Tech 2026” przygotowanego przez Atomico, europejski fundusz venture capital. Podano, że na Polskę przypada jednak tylko 0,4 proc. kapitału inwestowanego w europejskie technologie.",
+      "date_published": "2026-11-22T09:00:00+01:00",
+      "source": "Bankier.pl"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Alarmy-i-eksplozje-przy-rosyjskiej-bazie-Floty-Baltyckiej-Doniesienia-z-obwodu-krolewieckiego-9233062.html",
       "url": "https://www.bankier.pl/wiadomosc/Alarmy-i-eksplozje-przy-rosyjskiej-bazie-Floty-Baltyckiej-Doniesienia-z-obwodu-krolewieckiego-9233062.html",
       "title": "KRÓLEWIEC Alarmy i eksplozje przy rosyjskiej bazie. Pojawił się wątek możliwej prowokacji",
@@ -101,26 +117,10 @@
       "source": "Bankier.pl"
     },
     {
-      "id": "https://www.bankier.pl/wiadomosc/Ponad-polowa-cudzoziemcow-doswiadczyla-przemocy-w-Polsce-9229575.html",
-      "url": "https://www.bankier.pl/wiadomosc/Ponad-polowa-cudzoziemcow-doswiadczyla-przemocy-w-Polsce-9229575.html",
-      "title": "RAPORT Ponad połowa cudzoziemców doświadczyła przemocy w Polsce",
-      "content_html": "72,5 proc. cudzoziemców deklaruje, że czuje się w Polsce bezpiecznie, mimo to ponad połowa doświadczyła zachowań przemocowych, najczęściej nieprzyjemnych komentarzy i wyzwisk - wynika z raportu Fundacji Ocalenie. Eksperci wskazują, że wpływ na takie zdarzenia ma m.in. język debaty publicznej.",
-      "date_published": "2026-11-22T08:00:00+01:00",
-      "source": "Bankier.pl"
-    },
-    {
       "id": "https://www.bankier.pl/wiadomosc/Koniec-eldorado-w-IT-Firmy-ograniczaja-kontrakty-a-podwyzek-nie-bedzie-9230631.html",
       "url": "https://www.bankier.pl/wiadomosc/Koniec-eldorado-w-IT-Firmy-ograniczaja-kontrakty-a-podwyzek-nie-bedzie-9230631.html",
       "title": "Koniec eldorado w IT? Firmy ograniczają kontrakty, a podwyżek nie będzie",
       "content_html": "Na polskim rynku IT przybywa rekrutacji na umowę o pracę, a maleje liczba projektów realizowanych w modelu B2B. Pracodawcy coraz częściej oczekują też obecności pracowników w biurach. Jednocześnie...",
-      "date_published": "2026-11-22T08:00:00+01:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Polacy-coraz-chetniej-kupuja-nieruchomosci-w-Hiszpanii-Padl-kolejny-rekord-9229782.html",
-      "url": "https://www.bankier.pl/wiadomosc/Polacy-coraz-chetniej-kupuja-nieruchomosci-w-Hiszpanii-Padl-kolejny-rekord-9229782.html",
-      "title": "Polacy coraz chętniej kupują nieruchomości w Hiszpanii. Padł kolejny rekord",
-      "content_html": "Polski boom gospodarczy sprawia, że coraz więcej Polaków inwestuje i zarabia na rynku nieruchomości w Hiszpanii – podał dziennik „El Economista”. Poinformował, że do września br. Polacy nabyli 3 358 nieruchomości, czyli o 188 więcej niż w analogicznym okresie 2025 r., dotychczas rekordowym.",
       "date_published": "2026-11-22T08:00:00+01:00",
       "source": "Bankier.pl"
     },
@@ -133,14 +133,6 @@
       "source": "Bankier.pl"
     },
     {
-      "id": "https://www.bankier.pl/wiadomosc/Atak-na-Hugging-Face-i-80-incydentow-Kalifornia-pozywa-OpenAI-9229856.html",
-      "url": "https://www.bankier.pl/wiadomosc/Atak-na-Hugging-Face-i-80-incydentow-Kalifornia-pozywa-OpenAI-9229856.html",
-      "title": "Atak na Hugging Face i 80 incydentów. Kalifornia pozywa OpenAI",
-      "content_html": "Prokurator generalny Kalifornii Rob Bonta poinformował, że pozwał OpenAI w związku z atakiem jej modeli AI na Hugging Face i inne firmy. Zarzuty dotyczą „rozwijania niebezpiecznych produktów”, nieadekwatnych procedur bezpieczeństwa i stwarzania zagrożeń dla bezpieczeństwa publicznego.",
-      "date_published": "2026-11-22T08:00:00+01:00",
-      "source": "Bankier.pl"
-    },
-    {
       "id": "https://www.bankier.pl/wiadomosc/Az-80-proc-kursow-zamawianych-przez-aplikacje-Rynek-taxi-wart-miliardy-zlotych-9230612.html",
       "url": "https://www.bankier.pl/wiadomosc/Az-80-proc-kursow-zamawianych-przez-aplikacje-Rynek-taxi-wart-miliardy-zlotych-9230612.html",
       "title": "RAPORT Aż 80 proc. kursów zamawianych przez aplikacje. Rynek taxi wart miliardy złotych",
@@ -149,11 +141,19 @@
       "source": "Bankier.pl"
     },
     {
-      "id": "https://www.bankier.pl/wiadomosc/Baron-narkotykowy-z-listy-FBI-zatrzymany-W-Meksyku-wybuchly-walki-9233029.html",
-      "url": "https://www.bankier.pl/wiadomosc/Baron-narkotykowy-z-listy-FBI-zatrzymany-W-Meksyku-wybuchly-walki-9233029.html",
-      "title": "Baron narkotykowy z listy FBI zatrzymany. W Meksyku wybuchły walki",
-      "content_html": "Baron narkotykowy Isidro Meza-Flores, znajdujący się na liście 10 najbardziej poszukiwanych przez FBI przestępców, został zatrzymany przez meksykańskie siły specjalne. Jedenaście osób zostało rannych - podały władze.",
-      "date_published": "2026-11-21T22:05:00+01:00",
+      "id": "https://www.bankier.pl/wiadomosc/Atak-na-Hugging-Face-i-80-incydentow-Kalifornia-pozywa-OpenAI-9229856.html",
+      "url": "https://www.bankier.pl/wiadomosc/Atak-na-Hugging-Face-i-80-incydentow-Kalifornia-pozywa-OpenAI-9229856.html",
+      "title": "Atak na Hugging Face i 80 incydentów. Kalifornia pozywa OpenAI",
+      "content_html": "Prokurator generalny Kalifornii Rob Bonta poinformował, że pozwał OpenAI w związku z atakiem jej modeli AI na Hugging Face i inne firmy. Zarzuty dotyczą „rozwijania niebezpiecznych produktów”, nieadekwatnych procedur bezpieczeństwa i stwarzania zagrożeń dla bezpieczeństwa publicznego.",
+      "date_published": "2026-11-22T08:00:00+01:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Ponad-polowa-cudzoziemcow-doswiadczyla-przemocy-w-Polsce-9229575.html",
+      "url": "https://www.bankier.pl/wiadomosc/Ponad-polowa-cudzoziemcow-doswiadczyla-przemocy-w-Polsce-9229575.html",
+      "title": "RAPORT Ponad połowa cudzoziemców doświadczyła przemocy w Polsce",
+      "content_html": "72,5 proc. cudzoziemców deklaruje, że czuje się w Polsce bezpiecznie, mimo to ponad połowa doświadczyła zachowań przemocowych, najczęściej nieprzyjemnych komentarzy i wyzwisk - wynika z raportu Fundacji Ocalenie. Eksperci wskazują, że wpływ na takie zdarzenia ma m.in. język debaty publicznej.",
+      "date_published": "2026-11-22T08:00:00+01:00",
       "source": "Bankier.pl"
     },
     {
@@ -163,6 +163,14 @@
       "content_html": "",
       "date_published": "2026-11-21T20:00:00+01:00",
       "source": "Bankier.pl"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/gospodarka/w-nowej-propozycji-unijnego-budzetu-polska-ma-niezmiennie-najwieksza-koperte",
+      "url": "https://biznes.pap.pl/wiadomosci/gospodarka/w-nowej-propozycji-unijnego-budzetu-polska-ma-niezmiennie-najwieksza-koperte",
+      "title": "W nowej propozycji unijnego budżetu Polska ma niezmiennie największą kopertę - wiceszef MSZ",
+      "content_html": "Wiceminister spraw zagranicznych Ignacy Niemczycki powiedział PAP, że zaprezentowana w sobotę propozycja nowego budżetu UE nie odpowiada na polskie zastrzeżenia, zwłaszcza dotyczące przekierowania przychodów z ETS do Unii. Oświadczył jednak, że Polska ma, zgodnie z nią, niezmiennie największą kopertę.\n\nPrzewodniczący Rady Europejskiej Antonio Costa zaproponował w sobotę, by nowy budżet UE na lata 2028-34 był o 10 proc. mniejszy w stosunku do pierwotnego projektu. Nietknięte pozostaną środki na rolnictwo, ale cięcia dotkną pieniądze na regiony, chociaż mają one być niewielkie. Costa utrzymał propozycję, by jednym z dochodów własnych UE uczyniono przychody ze sprzedaży uprawnień do emisji ETS. Zaproponował jednak mechanizm przejściowy dla części państw, w tym Polski, zgodnie z którym wkład tych krajów będzie rósł proporcjonalnie - od 0 do 30 proc. w 2034 r.\n\n\"Nasze priorytety pozostają takie same: chcemy odpowiedniej wielkości koperty dla Polski na dwie polityki, spójności i rolną, a pieniądze z ETS-u powinny przede wszystkim finansować zielone inwestycje w kraju\" - powiedział PAP Niemczycki. \"W tej propozycji, którą przedstawił Costa, Polska ma niezmiennie największą kopertę. Natomiast ta propozycja nie rozwiązuje innych naszych zastrzeżeń\" - dodał.\n\nWedług niego cięcia w funduszach na regiony są zupełnie symboliczne. \"To jest 2,5 miliarda na wszystkie państwa członkowskie na siedem lat, ale jednak są\" - zaznaczył. \"Zakładam, że cięcie w naszej alokacji to będzie kilkaset milionów, chociaż oczywiście jest to założenie, bo na to składać się będzie kilka zmiennych, które musimy wycenić\" - podkreślił Niemczycki. Koperta dla Polski to do tej pory 123 mld euro.\n\nWiceszef MSZ uznał, że mechanizm zaproponowany przez Costę, jeśli chodzi o ETS, jest korzystny finansowo dla Polski. \"Natomiast my opowiadamy się za całkowitą likwidacją zasobu własnego opartego na ETS i w tym sensie to jest rozczarowujące\" - podkreślił. \"ETS nie powinien być zasobem własnym. To jest zasób dość regresywny. To nie są świeże pieniądze, bo przecież te pieniądze już są w budżetach narodowych od wielu lat\" - zwrócił uwagę.\n\nNiemczycki zauważył, że - zgodnie z propozycją Costy - budżet jako całość ma być relatywnie mniejszy niż jest w obecnej perspektywie na lata 2028-34. \"Nie odpowiada więc ani na potrzeby, ani na ambicje Unii\" - ocenił.\n\nPodkreślił, że nie jest prawdą to, co mówią tzw. państwa oszczędne, które domagają się, by budżet unijny był, tak samo jak budżety krajowe, mniejszy. \"Budżety krajowe przez ostatnich siedem lat wzrastały o kilkadziesiąt procent, a tutaj budżet unijny, relatywnie do dochodu narodowego brutto, będzie mniejszy niż był w latach 2021-27. To jest główne źródło naszego niezadowolenia\" - wyjaśnił.\n\n\"Logika cięć prowadzi do tego, że ograniczone są pieniądze na ważne rzeczy\" - dodał. Przykładem są środki na demokrację, na media i na kulturę w ramach puli AgoraEU.\n\nOfiarą cięć padły także środki na obronność. Niemczycki zauważył jednak, że nie ma redukcji wydatków na mobilność wojskową, na której Polsce zależy. \"Pojawił się też nowy zapis, który mówi o tym, że pieniądze na mobilność wojskową powinny być szczególnie wykorzystywane w kontekście regionów wschodnich, więc to może być dla nas korzystne finansowo\" - dodał.",
+      "date_published": "2026-11-21T17:34:00+01:00",
+      "source": "PAP Biznes"
     },
     {
       "id": "https://biznes.pap.pl/wiadomosci/gospodarka/costa-zaproponowal-unijny-budzet-zmniejszony-o-10-proc-z-cieciami-w",
@@ -195,14 +203,6 @@
       "content_html": "Grand Theft Auto VI pobiła sprzedażowy rekord wszech czasów na rynku gier komputerowych, osiągając sprzedaż detaliczną na poziomie 3,79 mld USD w pierwszym dniu od premiery - ogłosił producent gry Rockstar Games. Gra pobiła rekordy hollywoodzkich produkcji.\n\nWedług komunikatu firmy Take Two Interactive, właściciela Rockstar, szacowany wynik sprzedażowy jest rekordem w całej branży rozrywkowej, bijąc wyniki najbardziej dochodowego filmu wszechczasów, „Avengers:Endgame”, który zarobił niecałe 3 mld USD.\n\nGrę w przedsprzedaży kupiło 32,5 mln osób, co również jest nowym rekordem.\n\nMimo obecnej w grze przemocy i oskarżeń ze strony niektórych komentatorów o gloryfikowanie zbrodni, dzieło zostało okrzyknięte m.in. przez „New York Timesa” za „kulturowy fenomen”.\n\nW pierwszej od 13 lat grze z serii gracz wciela się w parę drobnych przestępców w alternatywnej wersji Florydy. Krytycy chwalili wielkość wirtualnego świata stworzonego przez brytyjskie studio, grafikę, fabułę gry skupioną na związku przestępców, a także sposób, w jaki parodiuje ona amerykańskie realia.",
       "date_published": "2026-11-21T10:17:00+01:00",
       "source": "PAP Biznes"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Na-Wall-Street-dalsza-wyprzedaz-S-P-500-i-DJI-w-strefie-korekty-9232919.html",
-      "url": "https://www.bankier.pl/wiadomosc/Na-Wall-Street-dalsza-wyprzedaz-S-P-500-i-DJI-w-strefie-korekty-9232919.html",
-      "title": "Na Wall Street dalsza wyprzedaż. S&P 500 i DJI w strefie korekty Piątkowa sesja na Wall Street przyniosła kolejne, mocne spadki głównych indeksów, zamykając trudny tydzień dla rynków. Oferta publiczna firmy Anthropic skłoniła inwestorów do realizacji zysków po hossie napędzanej sztuczną inteligencją. S&P 500 i DJIA weszły w fazę korekty.",
-      "content_html": "",
-      "date_published": "2026-11-21T09:14:00+01:00",
-      "source": "Bankier.pl"
     }
   ]
 }
