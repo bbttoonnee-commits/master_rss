@@ -5,12 +5,148 @@
   "home_page_url": "https://www.bankier.pl",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/Ropa-naftowa-bez-wiekszych-zmian-W-tle-ataki-na-tankowce-i-zaklocenia-dostaw-9233259.html",
+      "url": "https://www.bankier.pl/wiadomosc/Ropa-naftowa-bez-wiekszych-zmian-W-tle-ataki-na-tankowce-i-zaklocenia-dostaw-9233259.html",
+      "title": "Ataki na tankowce i problemy z dostawami, ale ropa traci na wartości",
+      "content_html": "Ceny ropy przyspieszyły spadki po małych zmianach wcześniej. Inwestorzy oceniają sytuację na rynkach paliw, napięcia na Bliskim Wschodzie i sytuację podażową ropy - podają maklerzy.",
+      "date_published": "2026-11-23T09:52:00+01:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/DM-BDM-obnizyl-rekomendacje-Synthaverse-do-sprzedaj-9233320.html",
+      "url": "https://www.bankier.pl/wiadomosc/DM-BDM-obnizyl-rekomendacje-Synthaverse-do-sprzedaj-9233320.html",
+      "title": "DM BDM obniżył rekomendację Synthaverse do \"sprzedaj\"",
+      "content_html": "Analitycy DM BDM, w raporcie z 23 listopada, obniżyli rekomendację Synthaverse do \"sprzedaj\" z \"redukuj\", a cenę docelową akcji spółki do 1,9 zł z 2,6 zł poprzednio.",
+      "date_published": "2026-11-23T09:45:00+01:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/firmy/liczba-mieszkan-ktorych-budowe-rozpoczeli-w-pazdzierniku-deweloperzy-spadla-o-149",
+      "url": "https://biznes.pap.pl/wiadomosci/firmy/liczba-mieszkan-ktorych-budowe-rozpoczeli-w-pazdzierniku-deweloperzy-spadla-o-149",
+      "title": "Liczba mieszkań, których budowę rozpoczęli w październiku deweloperzy spadła o 14,9 proc. rdr - GUS",
+      "content_html": "Liczba mieszkań, których budowę deweloperzy rozpoczęli w październiku 2026 r., spadła o 14,9 proc. rdr, a mdm spadła o 5,9 proc. - podał Główny Urząd Statystyczny.",
+      "date_published": "2026-11-23T09:44:00+01:00",
+      "source": "PAP Biznes"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/gospodarka/produkcja-przemyslowa-w-pazdzierniku-wzrosla-o-01-proc-rdr-gus",
+      "url": "https://biznes.pap.pl/wiadomosci/gospodarka/produkcja-przemyslowa-w-pazdzierniku-wzrosla-o-01-proc-rdr-gus",
+      "title": "Produkcja przemysłowa w październiku wzrosła o 0,1 proc. rdr - GUS",
+      "content_html": "Produkcja przemysłowa w październiku wzrosła o 0,1 proc. rdr, a w porównaniu z poprzednim miesiącem wzrosła o 1,7 proc. - podał GUS.\n\nAnalitycy ankietowani przez PAP Biznes oczekiwali wzrostu o 2,7 rdr i wzrostu o 3,2 proc. mdm.\n\nPo wyeliminowaniu wpływu czynników o charakterze sezonowym, w październiku br. produkcja sprzedana przemysłu ukształtowała się na poziomie o 2,3 proc. wyższym niż w analogicznym miesiącu ub. roku i o 1,9 proc. niższym niż we wrześniu br.\n\nPoniżej wyniki produkcji przemysłowej w październiku i we wrześniu.",
+      "date_published": "2026-11-23T09:42:00+01:00",
+      "source": "PAP Biznes"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/gospodarka/wynagrodzenie-w-pazdzierniku-wzrosly-mdm-dzieki-premiom-nagrodom-i-odprawom",
+      "url": "https://biznes.pap.pl/wiadomosci/gospodarka/wynagrodzenie-w-pazdzierniku-wzrosly-mdm-dzieki-premiom-nagrodom-i-odprawom",
+      "title": "Wynagrodzenie w październiku wzrosły mdm dzięki premiom, nagrodom i odprawom emerytalnym - GUS",
+      "content_html": "Wzrost przeciętnego miesięcznego wynagrodzenia w październiku 2026 r. mdm o 1,5 proc., spowodowany był większą skalą dodatkowych wypłat, m.in. nagród i premii kwartalnych, uznaniowych, motywacyjnych, jubileuszowych oraz odpraw emerytalnych (które obok wynagrodzeń zasadniczych również zaliczane są do składników wynagrodzeń) - podał Główny Urząd Statystyczny.",
+      "date_published": "2026-11-23T09:41:00+01:00",
+      "source": "PAP Biznes"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/gospodarka/produkcja-budowlano-montazowa-w-pazdzierniku-spadla-o-93-proc-rdr-gus",
+      "url": "https://biznes.pap.pl/wiadomosci/gospodarka/produkcja-budowlano-montazowa-w-pazdzierniku-spadla-o-93-proc-rdr-gus",
+      "title": "Produkcja budowlano-montażowa w październiku spadła o 9,3 proc. rdr - GUS",
+      "content_html": "Produkcja budowlano-montażowa w październiku spadła o 9,3 proc. rdr, a miesiąc do miesiąca wzrosła o 5,5 proc. - podał Główny Urząd Statystyczny.\n\nAnalitycy ankietowani przez PAP Biznes spodziewali się spadku wskaźnika o 4,1 proc. rok do roku i wzrostu w ujęciu miesiąc do miesiąca wzrostu o 11,7 proc.\n\nPo wyeliminowaniu wpływu czynników o charakterze sezonowym produkcja budowlano-montażowa we wrześniu była niższa o 6,6 proc. rdr oraz wyższa o 2,3 proc. niż w poprzednim miesiącu.\n\nPoniżej wyniki produkcji budowlano-montażowej z ostatnich miesięcy (dane w proc.):",
+      "date_published": "2026-11-23T09:38:00+01:00",
+      "source": "PAP Biznes"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/firmy/ceny-produkcji-przemyslowej-w-pazdzierniku-rdr-wzrosly-o-80-proc-gus",
+      "url": "https://biznes.pap.pl/wiadomosci/firmy/ceny-produkcji-przemyslowej-w-pazdzierniku-rdr-wzrosly-o-80-proc-gus",
+      "title": "Ceny produkcji przemysłowej w październiku rdr wzrosły o 8,0 proc. - GUS",
+      "content_html": "Ceny produkcji przemysłowej w październiku 2026 r. wzrosły rdr o 8,0 proc., a w ujęciu miesięcznym wzrosły o 0,6 proc. - podał Główny Urząd Statystyczny.\n\nEkonomiści w przeprowadzonej przez PAP Biznes ankiecie prognozowali, że ceny producentów w ujęciu rocznym wzrosły w październiku o 7,2 proc., a w ujęciu miesięcznym wzrosły o 0,7 proc.",
+      "date_published": "2026-11-23T09:37:00+01:00",
+      "source": "PAP Biznes"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/gospodarka/wynagrodzenie-w-przedsiebiorstwach-w-pazdzierniku-wzroslo-o-61-proc-rdr",
+      "url": "https://biznes.pap.pl/wiadomosci/gospodarka/wynagrodzenie-w-przedsiebiorstwach-w-pazdzierniku-wzroslo-o-61-proc-rdr",
+      "title": "Wynagrodzenie w przedsiębiorstwach w październiku wzrosło o 6,1 proc. rdr, zatrudnienie spadło o 0,7 proc. rdr - GUS",
+      "content_html": "Przeciętne wynagrodzenie brutto w sektorze przedsiębiorstw w październiku 2026 r. wzrosło o 6,1 proc. rdr i wyniosło 9.405,19 zł - podał Główny Urząd Statystyczny. Zatrudnienie w tym sektorze rdr spadło o 0,7 proc. Konsensus PAP Biznes zakładał wzrost płac o 6,0 proc. rdr i spadek zatrudnienia o 0,8 proc. rdr.",
+      "date_published": "2026-11-23T09:35:00+01:00",
+      "source": "PAP Biznes"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Kurs-Newagu-spada-o-ok-10-proc-do-79-3-zl-indeks-mWIG40-lekko-rosnie-9233316.html",
+      "url": "https://www.bankier.pl/wiadomosc/Kurs-Newagu-spada-o-ok-10-proc-do-79-3-zl-indeks-mWIG40-lekko-rosnie-9233316.html",
+      "title": "Kurs Newagu spada o ok. 10 proc. do 79,3 zł. Indeks mWIG40 lekko rośnie",
+      "content_html": "Kurs akcji Newagu spada o 9,9 proc. do 79,3 zł, podczas gdy indeks mWIG40 rośnie o 0,2 proc.",
+      "date_published": "2026-11-23T09:34:00+01:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/firmy/dm-bdm-obnizyl-rekomendacje-synthaverse-do-sprzedaj",
+      "url": "https://biznes.pap.pl/wiadomosci/firmy/dm-bdm-obnizyl-rekomendacje-synthaverse-do-sprzedaj",
+      "title": "DM BDM obniżył rekomendację Synthaverse do \"sprzedaj\"",
+      "content_html": "Analitycy DM BDM, w raporcie z 23 listopada, obniżyli rekomendację Synthaverse do \"sprzedaj\" z \"redukuj\", a cenę docelową akcji spółki do 1,9 zł z 2,6 zł poprzednio.\n\nRekomendacja została wydana przy kursie 2,6 zł.\n\nWskazano, że zgodnie z prognozami analityków na lata 2027–2028 spółka jest obecnie wyceniana przy mnożnikach EV/Przychody na poziomie odpowiednio 3,9x i 3,0x oraz skor. EV/EBITDA na poziomie 34,4x i 15,5x.\n\n\"Jednocześnie zwracamy uwagę na kluczowy dla stabilności operacyjnej spółki proces refinansowania zadłużenia oraz podpisane umowy dotyczące pozyskania nowego kapitału. Oczekujemy finalizacji tego procesu przed końcem grudnia 2026 roku.\n\n\"Spółka zakończyła istotny etap inwestycji w rozbudowę zaplecza produkcyjnego, obejmujący budowę nowego zakładu Onko BCG w Lublinie. W naszym scenariuszu zakładamy rozpoczęcie produkcji w Q2’28, co powinno umożliwić skokowe zwiększenie wolumenów sprzedaży oraz dalszą ekspansję zagraniczną\" - napisano w raporcie.\n\n\"Oczekujemy, że Onko BCG pozostanie głównym motorem wzrostu przychodów, podczas gdy Distreptaza i szczepionka BCG-10 będą charakteryzować się stabilniejszym tempem wzrostu sprzedaży. Na 2026 rok prognozujemy przychody na poziomie 65,0 mln zł. Zgodnie z naszymi założeniami raportowana EBITDA powinna wynieść 11,9 mln zł, natomiast skor. EBITDA ok. 4,4 mln zł\" - dodano.\n\nZdaniem analityków, rok 2027 powinien być dla spółki okresem finalnych przygotowań do kluczowego 2028 roku, w którym oczekują uruchomienia nowego zakładu produkcyjnego.\n\n\"Prognozujemy, że w 2027 roku skor. EBITDA wzrośnie do 8,4 mln zł. Jednocześnie zakładamy, że wzrost amortyzacji związany z ujęciem nowego zakładu w aktywach spółki przełoży się na pogłębienie straty na poziomie EBIT do 5,9 mln zł. W kontekście prognozowanej ścieżki wynikowej przypominamy, że raportowane odczyty EBIT w H1 2026 uwzględniały zdarzenia jednorazowe, które podwyższyły rezultat o blisko 4 mln zł\" - napisano.\n\n\"W naszej ocenie należy zatem liczyć się ze scenariuszem, w którym raportowane wyniki EBIT w Q1 i Q2 2027 wykażą odczuwalny spadek w ujęciu r/r. Wyraźnej poprawy rezultatów oczekujemy od 2028 roku, wraz z uruchomieniem nowego zakładu produkcyjnego\" - dodaano.\n\nAnalitycy prognozują wówczas wzrost przychodów do 94,3 mln zł oraz skor. EBITDA do 18,4 mln zł. Zakładają również powrót do dodatniego wyniku EBIT na poziomie 4,1 mln zł.\n\n\"W 2029 roku oczekujemy dalszego wzrostu przychodów do 116,9 mln zł oraz skor. EBITDA do 28,9 mln zł, przy jednoczesnym osiągnięciu dodatniego wyniku netto na poziomie 7,5 mln zł\" - napisano.\n\nDepesza jest skrótem rekomendacji DM BDM dla Synthaverse, którego autorem jest Jakub Zamorski. Pierwsze rozpowszechnienie raportu nastąpiło 23 listopada 2026 r., o godzinie 9.15.\n\nRaport został przygotowany w ramach Programu Wsparcia Pokrycia Analitycznego GPW.\n\nW załączniku znajduje się pełna wersja raportu wraz z wymaganymi zastrzeżeniami prawnymi. (PAP Biznes)",
+      "date_published": "2026-11-23T09:34:00+01:00",
+      "source": "PAP Biznes"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/firmy/kurs-newagu-spada-o-ok-10-proc-do-793-zl-indeks-mwig40-lekko-rosnie",
+      "url": "https://biznes.pap.pl/wiadomosci/firmy/kurs-newagu-spada-o-ok-10-proc-do-793-zl-indeks-mwig40-lekko-rosnie",
+      "title": "Kurs Newagu spada o ok. 10 proc. do 79,3 zł; indeks mWIG40 lekko rośnie",
+      "content_html": "Kurs akcji Newagu spada o 9,9 proc. do 79,3 zł, podczas gdy indeks mWIG40 rośnie o 0,2 proc.\n\nObroty na akcjach spółki wynoszą 2,9 mln zł, podczas gdy obroty na akcjach wszystkich spółek notowanych w mWIG40 wynoszą 50,2 mln zł.\n\nAnalitycy BM mBank, w raporcie z 23 listopada, obniżyli cenę docelową akcji Newagu do 84 zł ze 133 zł, obniżając rekomendację do \"sprzedaj\" z \"kupuj\".\n\nRaport został przygotowany przy kursie 88 zł. (PAP Biznes)",
+      "date_published": "2026-11-23T09:32:00+01:00",
+      "source": "PAP Biznes"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Produkcja-przemyslowa-w-Polsce-w-pazdzierniku-2026-rozczarowala-Szczyt-cyklu-chyba-mamy-za-soba-9233303.html",
+      "url": "https://www.bankier.pl/wiadomosc/Produkcja-przemyslowa-w-Polsce-w-pazdzierniku-2026-rozczarowala-Szczyt-cyklu-chyba-mamy-za-soba-9233303.html",
+      "title": "Kiepściutkie wyniki z polskiego przemysłu. Szczyt cyklu chyba mamy za sobą",
+      "content_html": "Zamiast spowolnienia mieliśmy ostre hamowanie produkcji przemysłowej. Takie dane mogą sugerować koniec i tak bardzo rachitycznego cyklu koniunkturalnego w polskim sektorze wytwórczym.",
+      "date_published": "2026-11-23T09:30:00+01:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Ponad-5-5-mln-papierosow-bez-akcyzy-Wielka-akcja-sluzb-w-Dabrowie-Gorniczej-9233301.html",
+      "url": "https://www.bankier.pl/wiadomosc/Ponad-5-5-mln-papierosow-bez-akcyzy-Wielka-akcja-sluzb-w-Dabrowie-Gorniczej-9233301.html",
+      "title": "Ponad 5,5 mln papierosów bez akcyzy. Wielka akcja służb w Dąbrowie Górniczej",
+      "content_html": "Ponad 5,5 mln sztuk papierosów bez polskich znaków akcyzy o wartości prawie 5,7 mln zł zatrzymali funkcjonariusze Bieszczadzkiego Oddziału Straży Granicznej oraz Śląskiej KAS w Dąbrowie Górniczej. Zatrzymano 6 osób.",
+      "date_published": "2026-11-23T09:30:00+01:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/PIORUNunujacy-sukces-polskiej-zbrojeniowki-Kolejna-armia-NATO-stawia-na-sprzet-z-MESKO-9233290.html",
+      "url": "https://www.bankier.pl/wiadomosc/PIORUNunujacy-sukces-polskiej-zbrojeniowki-Kolejna-armia-NATO-stawia-na-sprzet-z-MESKO-9233290.html",
+      "title": "PIORUNujący sukces polskiej zbrojeniówki. Kolejna armia NATO stawia na sprzęt z MESKO",
+      "content_html": "Aneks umożliwiający sprzedaż przeciwlotniczych zestawów rakietowych Piorun Królewskiej Armii Holenderskiej podpisano w poniedziałek w zakładach MESKO w Skarżysku-Kamiennej. Zakupy mają być realizowane w ramach wspólnych europejskich zamówień z unijnego instrumentu SAFE.",
+      "date_published": "2026-11-23T09:30:00+01:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Atak-dronow-morskich-u-wybrzezy-Libii-Wladze-Nie-jestesmy-strona-wojny-9233183.html",
+      "url": "https://www.bankier.pl/wiadomosc/Atak-dronow-morskich-u-wybrzezy-Libii-Wladze-Nie-jestesmy-strona-wojny-9233183.html",
+      "title": "Atak dronów morskich u wybrzeży Libii. Władze: Nie jesteśmy stroną wojny",
+      "content_html": "Statek handlowy pod banderą Malty został w niedzielę zaatakowany przez drony morskie u wybrzeży Libii niedaleko portu Bengazi – poinformowała agencja Reutera, powołując się na dwa źródła libijskie.",
+      "date_published": "2026-11-23T09:29:00+01:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/rynki/dzien-na-rynkach-w-europie-na-gieldach-indeksy-rosna-43",
+      "url": "https://biznes.pap.pl/wiadomosci/rynki/dzien-na-rynkach-w-europie-na-gieldach-indeksy-rosna-43",
+      "title": "DZIEŃ NA RYNKACH: W Europie na giełdach indeksy rosną",
+      "content_html": "Na europejskich giełdach wskaźniki rosną. Inwestorzy powracają na rynek po piątkowej wyprzedaży akcji spółek związanych ze sztuczną inteligencją. Na rynku walutowym USD jest słabszy do euro. Bitcoin jest po ok. 61.200 USD za token. Złoto zyskuje 0,2 proc. - informują maklerzy.\n\nStoxx Europe 600 zwyżkuje 0,40 proc., a od początku roku zyskał 6,1 proc.\n\nBayer zyskuje 4,5 proc. po zatwierdzeniu przez sąd w USA ugody ws. Roundup.\n\nDrax idzie wyżej o 6,6 proc. Skorygowany EBITDA przekroczył rynkowe oczekiwania.\n\nCapita spada o 57 proc. w reakcji na odejście prezesa spółki ze skutkiem natychmiastowym. Firma planuje pozyskać ok. 190 mln GBP poprzez emisję akcji - w I połowie 2027 r.\n\nInwestorzy powracają na rynek po piątkowej wyprzedaży akcji spółek związanych ze sztuczną inteligencją. Wśród graczy zmalało zainteresowanie tzw. bezpiecznymi przystaniami.\n\n\"Po siedmiu kolejnych dniach strat na rynkach zawsze prawdopodobne jest odbicie\" - powiedział Josh Gilbert, główny analityk rynkowy na Azję i Pacyfik w eToro Ltd.\n\n\"Ruch na rynku kontraktów terminowych odzwierciedla skalę wyprzedania sektora IT\" - dodał.\n\n\"Akcje spółek technologicznych są gotowe do odbicia po tym, jak indeks Nasdaq 100 zanotował 13. tygodniowy spadek o 10 proc. lub więcej\" - powiedział z kolei David Savage, analityk Bloomberg News.\n\nW najbliższych dniach inwestorzy będą nadal obserwować sytuację na głównych rynkach akcji w kontekście perspektyw branży AI.\n\nZ planowych publikacji uwagę zwrócą wstępne odczyty indeksów PMI za listopad w głównych gospodarkach, dane o inflacji PCE za X i drugi odczyt PKB za II kw. w USA.\n\nW poniedziałek na rynek napłyną wstępne odczyty indeksów PMI z eurolandu, USA i Wlk. Brytanii.\n\nNa rynku walutowym japoński jen kosztuje 158,99 za 1 USD, niżej o 0,3 proc.\n\nEuro jest po 1,0981 USD, w górę o 0,1 proc.\n\nBitcoin kosztuje 61.196 USD za token, wyżej o 0,6 proc.\n\nZłoto jest wyceniane w transakcjach spot po 3.608 USD za uncję, wyżej o 2,0 proc.\n\nBaryłka ropy West Texas Intermediate jest na NYMEX w Nowym Jorku po 83,15 USD - niżej o 0,31 proc. Brent na ICE jest wyceniana po 92,20 USD za baryłkę, niżej o 0,40 proc. (PAP Biznes)",
+      "date_published": "2026-11-23T09:26:00+01:00",
+      "source": "PAP Biznes"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Agonia-narodowego-przewoznika-Milionowe-straty-ciecia-lotow-i-masowe-zwolnienia-w-Lufthansie-9233256.html",
       "url": "https://www.bankier.pl/wiadomosc/Agonia-narodowego-przewoznika-Milionowe-straty-ciecia-lotow-i-masowe-zwolnienia-w-Lufthansie-9233256.html",
       "title": "Agonia narodowego przewoźnika. Milionowe straty, cięcia lotów i masowe zwolnienia",
       "content_html": "Lufthansa doszła do ściany - plan restrukturyzacyjny, zakładający m.in. ścięcie siatki połączeń o 20 tysiecy, nie przyniósł oczekiwanych rezultatów. Strajki oraz gwałtowne wzrost kosztów paliwa związany z wojną w Iranie dodatkowo ciążą na wynikach firmy. Kolejnym krokiem jest likwidacja tysiąca miejsc pracy.",
       "date_published": "2026-11-23T09:19:00+01:00",
       "source": "Bankier.pl"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/gospodarka/dzien-na-fxfi-zloty-nadal-pod-presja-globalnych-czynnikow",
+      "url": "https://biznes.pap.pl/wiadomosci/gospodarka/dzien-na-fxfi-zloty-nadal-pod-presja-globalnych-czynnikow",
+      "title": "DZIEŃ NA FX/FI: Złoty nadal pod presją globalnych czynników",
+      "content_html": "Publikowany w poniedziałek zestaw krajowych danych może mieć ograniczony wpływ na notowania złotego - oceniają analitycy. Ich zdaniem wciąż przeważają czynniki globalne, a niektórzy przewidują, że w perspektywie tygodnia kurs EUR/PLN ustabilizuje się w przedziale 4,43–4,46, a USD/PLN może korekcyjnie spaść w kierunku 4,02.\n\n\"W bieżącym tygodniu październikowe dane z krajowej gospodarki, w przypadku braku wyraźnych odchyleń od konsensusu, nie powinny mieć istotnego wpływu na notowania złotego\" - ocenili w porannym raporcie analitycy PKO BP.\n\nDodali, że dla dolara kluczowy może być natomiast środowy odczyt inflacji PCE w USA.\n\n\"Zakładamy, że pogorszony sentyment wobec sektora AI może utrzymać się w najbliższych dniach, ciążąc globalnym rynkom akcji i podtrzymując awersję do ryzyka, co nadal może wywierać presję na złotego\" - napisali, zauważając, że trudno również oczekiwać szybkiej poprawy sytuacji geopolitycznej związanej z wojną w Ukrainie.\n\n\"W przypadku dolara dostrzegamy jednak sygnały, które powinny sprzyjać jego korekcyjnemu osłabieniu, w tym ograniczenie wycenianej skali podwyżek stóp Fed w 2027 oraz towarzyszący mu spadek rentowności UST. Stąd zakładamy, że w perspektywie tygodnia kurs EUR/PLN ustabilizuje się w przedziale 4,43–4,46, natomiast USDPLN może korekcyjnie spaść w kierunku 4,02\" - dodali.\n\nTakże analitycy Banku Millennium oceniają, że poniedziałkową sesję na rynku krajowym zdominuje globalna rotacja kapitału w warunkach trwającej silnej korekty na głównych światowych giełdach. Wskazali, że spadki początkowo ograniczały się do spółek technologicznych, obecnie jednak objęły już szerokie indeksy.\n\n\"Publikowany dzisiaj zestaw danych może mieć ograniczony wpływ na notowania, chyba że odchylenia od konsensusów prognoz okażą się znaczące. W poniedziałek rano złoty doświadcza lekkiego odreagowania, wspieranego przez powrót EUR/USD powyżej poziomu 1,10, podobnie jak inne waluty rynków wschodzących\" - napisali w swoim raporcie.\n\nAnalitycy PKO BO wskazali, że na globalnym rynku stopy procentowej wzrost awersji do ryzyka może w najbliższym tygodniu sprzyjać spadkowi rentowności obligacji.\n\n\"W przypadku polskiego rynku efekt ten może być jednak częściowo neutralizowany przez rozszerzanie się ASW. Rosnąca awersja do ryzyka oraz lokalna premia geopolityczna mogą bowiem ograniczać skalę umocnienia obligacji skarbowych względem kontraktów IRS\" - napisali w raporcie.\n\nWskazali, że przeciwwagą dla tych tendencji na krajowym rynku długu będą publikacje makroekonomiczne oraz nowa podaż obligacji.\n\n\"Oczekiwany przez konsensus wzrost płac o blisko 6 proc. rdr w październiku, sprzedaży detalicznej o 3,3 proc. rdr oraz PPI o ponad 7 proc. rdr może podtrzymywać dyskusję o potrzebie podwyżek stóp NBP. Szczególnie dane wyższe od prognoz mogłyby zwiększyć wycenianą przez rynek skalę zacieśnienia, która obecnie wynosi łącznie około 75pb w 2027\" - podali.\n\nIch zdaniem potencjał spadku rentowności może również ograniczać aukcja Ministerstwa Finansów z ofertą 8-14 mld PLN oraz dodatkowa podaż papierów BGK.\n\nAnalitycy Banku Millennium uważają, że rentowności na krajowym rynku długu mogą natomiast nieco spadać wobec zniżki dochodowości obligacji bazowych (w przypadku amerykańskiej 10-latki do 4,95 proc.).\n\n\"Skalę tego ruchu ograniczać będą jednak stabilne ceny ropy naftowej Brent (92 USD/bbl) oraz wzrost notowań gazu ziemnego TTF do 93 EUR/MWh, czyli do górnego ograniczenia obowiązującego trendu bocznego. W związku z tym rentowność polskiej 10-latki może przemieszczać się w kierunku strefy 6,20-6,25 proc.\" - napisali.",
+      "date_published": "2026-11-23T09:17:00+01:00",
+      "source": "PAP Biznes"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Wybory-moga-przedluzyc-niepewnosc-Fitch-zabral-glos-w-sprawie-ratingu-Polski-9233284.html",
@@ -29,6 +165,14 @@
       "source": "Bankier.pl"
     },
     {
+      "id": "https://biznes.pap.pl/wiadomosci/firmy/kurs-ze-pak-rosnie-o-niemal-30-proc-do-24-zl-indeks-swig80-lekko-zwyzkuje",
+      "url": "https://biznes.pap.pl/wiadomosci/firmy/kurs-ze-pak-rosnie-o-niemal-30-proc-do-24-zl-indeks-swig80-lekko-zwyzkuje",
+      "title": "Kurs ZE PAK rośnie o niemal 30 proc. do 24 zł; indeks sWIG80 lekko zwyżkuje",
+      "content_html": "Kurs akcji ZE PAK rośnie o 29,9 proc. do 24 zł. Indeks sWIG80 lekko zwyżkuje.\n\nObroty na akcjach spółki wynoszą 2 mln zł, podczas gdy obroty na akcjach wszystkich spółek notowanych w sWIG80 wynoszą 7 mln zł.\n\nArgumenol Investment podniósł cenę w wezwaniu na akcje ZE PAK do 24,5 zł za akcję. 28 października Argumenol Investment Company wezwał do sprzedaży 17.299.636 akcji ZE PAK po 18 zł za akcję. (PAP Biznes)",
+      "date_published": "2026-11-23T09:13:00+01:00",
+      "source": "PAP Biznes"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Kolejny-cios-w-rosyjski-sektor-naftowy-Drony-zaatakowaly-rafinerie-9233292.html",
       "url": "https://www.bankier.pl/wiadomosc/Kolejny-cios-w-rosyjski-sektor-naftowy-Drony-zaatakowaly-rafinerie-9233292.html",
       "title": "Kolejny cios w rosyjski sektor naftowy. Drony zaatakowały rafinerie",
@@ -45,20 +189,20 @@
       "source": "Bankier.pl"
     },
     {
+      "id": "https://biznes.pap.pl/wiadomosci/firmy/bm-mbank-obnizyl-cene-docelowa-akcji-newagu-do-84-zl-rekomenduje-sprzedaj",
+      "url": "https://biznes.pap.pl/wiadomosci/firmy/bm-mbank-obnizyl-cene-docelowa-akcji-newagu-do-84-zl-rekomenduje-sprzedaj",
+      "title": "BM mBank obniżył cenę docelową akcji Newagu do 84 zł, rekomenduje \"sprzedaj\"",
+      "content_html": "Analitycy BM mBank, w raporcie z 23 listopada, obniżyli cenę docelową akcji Newagu do 84 zł ze 133 zł, obniżając rekomendację do \"sprzedaj\" z \"kupuj\".\n\nRaport został przygotowany przy kursie 88 zł.\n\n\"Po wynikach za 3Q26 obniżamy prognozy, cenę docelową do 84 zł (z 133 zł) oraz rekomendację do +Sprzedaj+. Tniemy przychody na lata 2026–28 o 14-34 proc., a EBITDA o 18-52 proc. Portfel zamówień pozostaje solidny, ale jego realizacja rozkłada się w czasie inaczej, niż zakładaliśmy. Część odbiorów przesuwa się na kolejne okresy, a w latach 2027-28 zmienia się struktura sprzedaży. Usuwamy też z modelu projekt KDP\" - napisano w komunikacie.\n\n\"Rok 2027 będzie w naszej ocenie dołkiem rentowności: prognozujemy spadek marży EBITDA do 15,8 proc. z 22,2 proc. w 2026P. Prognozy implikują EV/EBITDA'27 12,5x i P/E'27 21,0x\" - dodano.\n\nDepesza jest skrótem raportu BM mBank przygotowanego w ramach Giełdowego Programu Wsparcia Pokrycia Analitycznego. Jego autorem jest Marlen Jakub Sargsyan. Pierwsze rozpowszechnienie raportu nastąpiło 23 listopada o godzinie 8:50.\n\nW załączniku znajduje się pełna wersja raportu wraz z wymaganymi zastrzeżeniami prawnymi. (PAP Biznes)",
+      "date_published": "2026-11-23T09:07:00+01:00",
+      "source": "PAP Biznes"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/DM-BOS-rekomenduje-trzymaj-Diagnostyke-cena-docelowa-167-7-zl-9233286.html",
       "url": "https://www.bankier.pl/wiadomosc/DM-BOS-rekomenduje-trzymaj-Diagnostyke-cena-docelowa-167-7-zl-9233286.html",
       "title": "DM BOŚ rekomenduje \"trzymaj\" Diagnostykę",
       "content_html": "Analitycy DM BOŚ, w raporcie z 12 listopada, rozpoczęli wydawanie rekomendacji dla Diagnostyki od zalecenia \"trzymaj\" z wyceną w horyzoncie 12-miesięcznym 167,7 zł.",
       "date_published": "2026-11-23T09:02:00+01:00",
       "source": "Bankier.pl"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/gospodarka/fitch-moze-utrzymac-negatywna-perspektywe-ratingu-polski-nieco-dluzej-niz-do",
-      "url": "https://biznes.pap.pl/wiadomosci/gospodarka/fitch-moze-utrzymac-negatywna-perspektywe-ratingu-polski-nieco-dluzej-niz-do",
-      "title": "Fitch może utrzymać negatywną perspektywę ratingu Polski nieco dłużej niż do wyborów w ’27 (wywiad)",
-      "content_html": "Agencja Fitch zazwyczaj utrzymuje określoną perspektywę ratingu przez 18-24 miesiące, ale w przypadku Polski może to potrwać nieco dłużej, w związku z wyborami parlamentarnymi w 2027 r. – poinformował PAP Biznes główny analityk Fitch na Polskę Erich Arispe. Agencja obserwuje perspektywy wiarygodności konsolidacji fiskalnej i polityczne warunki dla takich działań.\n\n„Jeśli chodzi o procedury regulacyjne lub wewnętrzne, nie ma ograniczeń czasowych dotyczących utrzymywania określonej perspektywy. Zazwyczaj rozstrzygnięcie kwestii perspektywy ratingu może zająć 18-24 miesiące. W przypadku Polski sytuacja wygląda nieco inaczej, ponieważ w przyszłym roku odbędą się wybory, więc kwestia utrzymywania określonej perspektywy może potrwać nieco dłużej. Negatywną perspektywę ratingu nadaliśmy we wrześniu 2025 r., dwa lata upływają we wrześniu 2027 r., a do tego czasu wybory mogą się jeszcze nie odbyć (ostatnie wybory parlamentarne odbyły się w październiku 2023 - PAP)” – powiedział PAP Biznes Arispe.\n\n“Nadal skupiamy się na tym, czy nastąpi dalsze pogorszenie sytuacji fiskalnej oraz czy pojawią się nowe wydatki przedwyborcze. Prognoza deficytu sektora instytucji rządowych i samorządowych zawarta w projekcie budżetu na przyszły rok wynosi 7,1 proc. PKB, czyli nieco więcej niż przewidywaliśmy podczas ostatniego przeglądu ratingowego. Niedawno minister finansów podkreślił, że w tym roku deficyt może być nieco niższy niż 7,1 proc. PKB (6,7 proc. – PAP), co wynika z księgowania z dostaw sprzętu wojskowego” – dodał.\n\nW sierpniu 2026 r. agencja Fitch potwierdziła długoterminowy rating Polski w walucie obcej na poziomie \"A-\" z perspektywą negatywną, którą utrzymuje od września 2025 r. W listopadzie br. agencja S&P potwierdziła rating Polski również na poziomie \"A-\", obniżając jego perspektywę do negatywnej. Z kolei we wrześniu br. agencja Moody's ścięła rating Polski o jeden stopień do \"A3\", zrównując jego poziom z pozostałymi agencjami, i nadała mu perspektywę stabilną.\n\nDla Fitch głównymi punktami uwagi są obecnie także: możliwość realizacji zamierzeń politycznych, wiarygodność dostosowania fiskalnego, kształt propozycji przedwyborczych, a także punkt wyjścia do dostosowania fiskalnego w przyszłości.\n\n„Nie patrzymy wyłącznie na to, co wydarzy się po wyborach, ale także na to, co może się wydarzyć przed nimi. Ważne jest, aby zrozumieć, czy deficyt gg w przyszłym roku wyniesie 7,1 proc. PKB – co jest wartością wyższą od tej, której oczekiwaliśmy w momencie ogłoszenia negatywnej perspektywy (6,8 proc. - PAP) – ale także czy przed wyborami dojdzie do dodatkowego odchylenia od planu budżetowego (fiscal slippage)” – wskazał Arispe.\n\nAgencja skupia się również na tym, czy krajowa sytuacja polityczna w Polsce będzie sprzyjać redukcji deficytu w perspektywie średnioterminowej, co byłoby zgodne ze stabilizacją wskaźników zadłużenia w relacji do PKB.\n\n„Biorąc pod uwagę negatywną perspektywę ratingu, w ostatnim przeglądzie prognozowaliśmy, że dług sektora instytucji rządowych i samorządowych wzrośnie do około 69,4 proc. PKB do 2027 r. i będzie nadal rósł do około 70 proc. w ciągu najbliższych kilku lat. Będziemy musieli ocenić, czy ewentualne jakiekolwiek dalsze pogorszenie sytuacji fiskalnej lub brak odpowiednich warunków politycznych i gospodarczych mogłyby znacznie utrudnić konsolidację budżetową po wyborach” – wskazał analityk.\n\nDo pozytywnej strony oceny kredytowej Polski Fitch zalicza dużą, bardzo zdywersyfikowaną gospodarkę, wykazującą się odpornością wzrostu gospodarczego w trudnym okresie i otoczeniu. Ponadto Polska jest w ocenie Fitch gospodarką o stosunkowo odpornej sytuacji zewnętrznej, z niewielkimi deficytami na rachunku bieżącym. Przed zmiennością na rynkach finansowych chroni kraj także struktura polskiego długu, która ogranicza wpływ ze strony zmian w nastrojach inwestorów: emisje są głównie krajowe, a nabywcy długu to także głównie inwestorzy krajowi.\n\nFitch wskazuje jednak na wyzwania związane z rosnącymi kosztami obsługi długu, w otoczen",
-      "date_published": "2026-11-23T08:56:00+01:00",
-      "source": "PAP Biznes"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Bilionowe-straty-na-gieldach-w-Azji-Chiny-Korea-i-Tajwan-ruszyly-z-interwencjami-9233245.html",
@@ -77,17 +221,9 @@
       "source": "Bankier.pl"
     },
     {
-      "id": "https://biznes.pap.pl/wiadomosci/firmy/dm-bos-obnizyl-cene-docelowa-dla-neuki-do-9222-zl",
-      "url": "https://biznes.pap.pl/wiadomosci/firmy/dm-bos-obnizyl-cene-docelowa-dla-neuki-do-9222-zl",
-      "title": "DM BOŚ obniżył cenę docelową dla Neuki do 922,2 zł",
-      "content_html": "Analitycy DM BOŚ, w raporcie z 12 listopada, obniżyli wycenę dla akcji spółki Neuca w horyzoncie 12-miesięcznym do 922,2 zł z 1.002,2 zł, podtrzymując rekomendację \"kupuj\".\n\n\"Nasza średnioterminowa ocena inwestycyjna uwzględnia oczekiwaną poprawę efektywności operacyjnej działalności hurtowej, integrację działalności produkcyjnej oraz rozwój centrów medycznych i ubezpieczeń. Te segmenty zapewniają bardziej przewidywalne wyniki niż segment badań klinicznych\" - napisano w raporcie.\n\n\"Niemniej jednak wartość Humaneva wykracza poza jej udział w wynikach w krótkim okresie i mogłaby zostać ostatecznie zrealizowana poprzez sprzedaż tego podmiotu. Platforma jest nadal w trakcie rozbudowy, co utrudnia prognozowanie zarówno przyszłych wyników, jak i terminu osiągnięcia przez nią wartości. W 2024 roku Viking zainwestował 50 mln USD przy wycenie spółki pre-money na poziomie 165 mln USD, przed korektami uwzględniającymi m.in. dług netto\" - dodano.\n\nZdaniem analityków, priorytetem Vikinga jest zwiększanie skali działalności i budowanie długoterminowej wartości, podczas gdy Neuca znajduje się również pod presją poprawy wkładu Humaneva w wyniki grupy. Priorytety akcjonariuszy mogą zatem różnić się pod względem horyzontu czasowego.\n\nDM BOŚ ocenia, że mimo iż model zakłada już istotną poprawę wyników w 2027 roku, choć z niskiej bazy, analitycy dostrzegają możliwość osiągnięcia przez Humaneva znacznie wyższych zysków niż obecnie prognozują na ten rok.\n\n\"Jednak niepewność dotycząca realizacji planów i terminu, w którym możliwe będzie uzyskanie korzyści ze wzrostu wartości spółki, skłania nas do obniżenia szczegółowych prognoz finansowych\" - napisano.\n\nPostępowanie Urzędu Ochrony Konkurencji i Konsumentów (UOKiK) wobec spółki pozostaje nierozstrzygnięte. Analitycy za najbardziej prawdopodobny scenariusz uznają istotne obniżenie kary, choć możliwe jest również jej całkowite uchylenie. Zdaniem DM BOŚ postępowanie to nie wpływa na bieżące marże operacyjne.\n\nPierwsza dystrybucja raportu, którego autorką jest Sylwia Jaśkiewicz, nastąpiła 12 listopada 2026 r., o godzinie 18.50.\n\nDepesza jest skrótem rekomendacji. W załączniku znajduje się plik PDF z wymaganymi zastrzeżeniami prawnymi. (PAP Biznes)",
-      "date_published": "2026-11-23T08:51:00+01:00",
-      "source": "PAP Biznes"
-    },
-    {
       "id": "https://www.bankier.pl/wiadomosc/Mieszkania-po-8-7-tys-zl-i-zero-wkladu-wlasnego-Nowa-obietnica-PiS-na-rynku-nieruchomosci-9233255.html",
       "url": "https://www.bankier.pl/wiadomosc/Mieszkania-po-8-7-tys-zl-i-zero-wkladu-wlasnego-Nowa-obietnica-PiS-na-rynku-nieruchomosci-9233255.html",
-      "title": "Mieszkania po 8,7 tys. zł/m2 i zero wkładu własnego. Nowa obietnica PiS na rynku nieruchomości",
+      "title": "Mieszkanie bez wkładu własnego i rata poniżej 1900 zł. Nowa obietnica PiS na rynku nieruchomości",
       "content_html": "Prawo i Sprawiedliwość zaprezentowało nowe propozycje dotyczące polityki mieszkaniowej. Wśród nich znalazły się kredyty ze stałym oprocentowaniem na poziomie 2,5 proc., możliwość zakupu nieruchomości bez wkładu własnego oraz trzypokojowe mieszkania w cenie od 400 do 450 tys. zł - czytamy w \"Business Insider\".",
       "date_published": "2026-11-23T08:50:00+01:00",
       "source": "Bankier.pl"
@@ -99,22 +235,6 @@
       "content_html": "Analitycy DM BOŚ, w raporcie z 12 listopada, obniżyli wycenę dla akcji spółki Selvita w horyzoncie 12-miesięcznym do 29,3 zł z 37 zł, podtrzymując rekomendację \"kupuj\".",
       "date_published": "2026-11-23T08:48:00+01:00",
       "source": "Bankier.pl"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/firmy/dm-bos-obnizyl-cene-docelowa-dla-akcji-selvity-do-293-zl",
-      "url": "https://biznes.pap.pl/wiadomosci/firmy/dm-bos-obnizyl-cene-docelowa-dla-akcji-selvity-do-293-zl",
-      "title": "DM BOŚ obniżył cenę docelową dla akcji Selvity do 29,3 zł",
-      "content_html": "Analitycy DM BOŚ, w raporcie z 12 listopada, obniżyli wycenę dla akcji spółki Selvita w horyzoncie 12-miesięcznym do 29,3 zł z 37 zł, podtrzymując rekomendację \"kupuj\".\n\nDM BOŚ podał, że wycena spółki spada w ślad za obniżeniem przez analityków prognoz zysków.\n\n\"Zaktualizowana wycena wskazuje na znaczny potencjał wzrostu kursu akcji, jednak ze względu na słabą dynamikę wyników w krótkim okresie trudno przewidzieć, kiedy potencjał ten się zmaterializuje. Dostrzegamy możliwe wsparcie dla kursu akcji ze strony dalszego wzrostu segmentu rozwoju leków, restrukturyzacji segmentu odkrywania nowych leków i korzystnego dla wartości spółki wyniku przeglądu opcji strategicznych\" - napisano.\n\n\"Segment odkrywania nowych leków znajduje się pod strukturalną i cykliczną presją. Analiza L.E.K. Consulting z 4 sierpnia wskazuje na strukturalną kosztową słabość zachodnich podmiotów prowadzących badania na zlecenie (CRO) względem chińskich dostawców standardowych usług. Dlatego nie zakładamy, że samo cykliczne ożywienie wystarczy do przywrócenia historycznego poziomu popytu lub rentowności w obszarze rutynowych usług chemicznych\" - dodano.\n\nAnalitycy oczekują dalszej restrukturyzacji segmentu odkrywania nowych leków spółki, w tym dostosowania poziomu zatrudnienia i powierzchni laboratoryjnej.\n\n\"Zakładamy, że inwestycje będą koncentrować się przede wszystkim na segmencie rozwoju leków, potencjalnie z wykorzystaniem części infrastruktury laboratoryjnej przeniesionej z segmentu odkrywania leków. Możliwości przenoszenia pracowników będą prawdopodobnie bardziej ograniczone ze względu na różnice w wymaganych kompetencjach\" - dodano.\n\nPierwsza dystrybucja raportu, którego autorką jest Sylwia Jaśkiewicz, nastąpiła 12 listopada 2026 r., o godzinie 18.50.\n\nDepesza jest skrótem rekomendacji. W załączniku znajduje się plik PDF z wymaganymi zastrzeżeniami prawnymi. (PAP Biznes)",
-      "date_published": "2026-11-23T08:47:00+01:00",
-      "source": "PAP Biznes"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/firmy/dzien-na-gpw-poniedzialkowa-sesja-moze-rozpoczac-sie-od-wzrostow-28",
-      "url": "https://biznes.pap.pl/wiadomosci/firmy/dzien-na-gpw-poniedzialkowa-sesja-moze-rozpoczac-sie-od-wzrostow-28",
-      "title": "DZIEŃ NA GPW: Poniedziałkowa sesja może rozpocząć się od wzrostów",
-      "content_html": "Zwyżkujące kontrakty na zagraniczne indeksy sugerują wzrostowe otwarcie poniedziałkowej sesji na warszawskim parkiecie - ocenili analitycy.\n\n\"W momencie pisania komentarza Hang Seng traci zaledwie ok. 0,2 proc., z kolei Taiex zyskuje (...). Najsłabszy pozostaje koreański Kospi (...). Warto dodać, że giełda japońska pozostaje dziś zamknięta z uwagi na święto. Tymczasem kontrakty terminowe na indeksy amerykańskie sugerują apetyt rynku na odreagowanie ostatniej przeceny\" - napisał w porannym komentarzu Patryk Pyka, Dyrektor Zespołu Analiz i Doradztwa Inwestycyjnego Dom Inwestycyjny Xelion.\n\nZWRÓĆ UWAGĘ (informacje opublikowane po zamknięciu notowań na GPW):\n\n• Grupa Asbis szacuje, że w październiku 2026 r. wypracowała skonsolidowane przychody na poziomie ok. 948 mln USD i były one wyższe o ok. 187 proc. od przychodów wypracowanych w październiku 2025 r.\n\n• Voxel - analitycy DM BOŚ, w raporcie z 12 listopada, podwyższyli wycenę dla akcji spółki Voxel w horyzoncie 12-miesięcznym do 175,3 zł z 143,4 zł, podtrzymując rekomendację \"kupuj\".\n\n• Polimex-Mostostal - aktualny portfel zamówień grupy, pomniejszony o sprzedaż przypadającą na konsorcjantów, ma wartość ok. 8 mld zł. Portfel zamówień w poszczególnych segmentach kształtuje się następująco: na segment energetyka przypada 4,8 mld zł, na segment nafta, gaz i chemia 2,1 mld zł, na segment produkcja 0,3 mld zł, na segment budownictwo infrastrukturalne 0,2 mld zł oraz na segment budownictwo przemysłowe 0,6 mld zł.\n\n• Grupa Azoty Zakłady Chemiczne Police zamierza przeprowadzić emisję nie więcej niż 59.756.872 akcji serii D o łącznej wartości do 415,3 mln zł. Oferta zostanie skierowana wyłącznie do Grupy Azoty.\n\n• Airway Medix - spółka zaktualizowała strategiczne kierunki rozwoju. Zamierza m.in. zwiększać aktywność sprzedażową na rynkach zagranicznych, a także będzie analizowała możliwości transakcji fuzji i przejęć.\n\n• Mirbud - spółka podjęłą uchwałę w sprawie emisji obligacji serii B. Około 1 grudnia 2026 r. spółka wyemituje obligacje o łącznej wartości nie wyższej niż 100 mln zł. Obligacje emitowane będą w ramach ustanowionego programu emisji o łącznej wartości nominalnej nie wyższej niż 600 mln zł.\n\n• ZE PAK- Argumenol Investment podnosi cenę w wezwaniu na akcje ZE PAK do 24,5 zł za akcję. 28 października Argumenol Investment Company wezwał do sprzedaży 17.299.636 akcji ZE PAK po 18 zł za akcję.\n\n• PGE - analitycy Noble Securities, w raporcie z 19 listopada, podwyższyli wycenę akcji PGE w horyzoncie 9-miesięcznym do 13,88 zł z 9,56 zł, ale obniżyli rekomendację z \"trzymaj\" do \"redukuj\".\n\n• Bank Millennium - rada nadzorcza Banku Millennium podjęła uchwałę, którą zatwierdziła decyzję zarządu ws. emisji euroobligacji Additional Tier I o wartości do 250 mln euro.\n\n• Sygnity - Komisja Nadzoru Finansowego poinformowała o zaistnieniu okoliczności wskazujących na możliwość wykorzystania informacji poufnych w obrocie akcjami Sygnity. Łączny szacowany zysk, który mógł zostać osiągnięty przez tych inwestorów wskutek potencjalnego wykorzystania informacji poufnej, wyniósł ponad 433 tys. zł.\n\n• Trakcja - portfel zamówień budowlanych grupy Trakcja na 30 września 2026 roku wyniósł ok. 5,85 mld zł, z wyłączeniem części przychodów przypadającej na konsorcjantów.\n\n• Newag - spółka w III kw. 2026 roku miała 645,4 mln zł przychodów, 137,1 mln zł EBITDA, 121,7 mln zł EBIT i 96,8 mln zł zysku netto j.d. Konsensus PAP Biznes zakładał 741,4 mln zł przychodów, 176,7 mln zł EBITDA, 161,0 mln zł EBIT i 127,3 mln zł zysku netto j.d.\n\n• Rockstar Games - Grand Theft Auto VI pobiła sprzedażowy rekord wszech czasów na rynku gier komputerowych, osiągając sprzedaż detaliczną na poziomie 3,79 mld USD w pierwszym dniu od premiery. Gra pobiła rekordy hollywoodzkich produkcji.\n\n• Prezydent USA Donald Trump w niedzielę ostrzegł Iran, że może przeprowadzić nowe ataki na ten kraj po Nowym Roku, jeśli oba państwa nie dojdą do porozumienia. Ocenił, że działania Teheranu stały się bardziej agresywne po wyborach połówkowych do ",
-      "date_published": "2026-11-23T08:43:00+01:00",
-      "source": "PAP Biznes"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/EBI-wylozy-2-mld-zl-na-polskie-mieszkania-W-planach-8750-lokali-9233263.html",
@@ -133,123 +253,27 @@
       "source": "Bankier.pl"
     },
     {
-      "id": "https://biznes.pap.pl/wiadomosci/firmy/asbis-szacuje-ze-przychody-w-pazdzierniku-wzrosly-o-187-proc-rdr-do-948-mln-usd-0",
-      "url": "https://biznes.pap.pl/wiadomosci/firmy/asbis-szacuje-ze-przychody-w-pazdzierniku-wzrosly-o-187-proc-rdr-do-948-mln-usd-0",
-      "title": "Asbis szacuje, że przychody w październiku wzrosły o 187 proc. rdr do 948 mln USD (opis)",
-      "content_html": "Grupa Asbis szacuje, że w październiku 2026 r. wypracowała skonsolidowane przychody na poziomie ok. 948 mln USD i były one wyższe o ok. 187 proc. od przychodów wypracowanych w październiku 2025 r. - poinformowała spółka w komunikacie.\n\n\"Październik przyniósł nam kolejny historyczny rekord sprzedaży, potwierdzając bardzo silną dynamikę rozwoju Grupy Asbis. Szczególnie imponujący wzrost odnotowaliśmy w segmencie serwerów i komponentów serwerowych, co odzwierciedla rosnące zapotrzebowanie rynku na infrastrukturę IT, w tym rozwiązania związane z rozwojem centrów danych i sztucznej inteligencji\" - powiedział, cytowany w komunikacie prasowym, prezes Serhei Kostevitch.\n\nDodał, że bardzo dobre wyniki grupa osiągnęła również w sprzedaży smartfonów i laptopów.\n\nWśród największych rynków sprzedaży znalazły się Kazachstan, Ukraina, Zjednoczone Emiraty Arabskie, Słowacja, Uzbekistan i Polska. (PAP Biznes)",
-      "date_published": "2026-11-23T08:28:00+01:00",
-      "source": "PAP Biznes"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/rynki/dzien-na-rynkach-w-azji-na-gieldach-indeksy-wahaja-sie-1",
-      "url": "https://biznes.pap.pl/wiadomosci/rynki/dzien-na-rynkach-w-azji-na-gieldach-indeksy-wahaja-sie-1",
-      "title": "DZIEŃ NA RYNKACH: W Azji na giełdach indeksy wahają się",
-      "content_html": "Na giełdach w Azji indeksy się wahają. Mocno rosną za to kontrakty na indeksy w USA. Inwestorzy powracają na rynek po piątkowej wyprzedaży akcji spółek związanych z AI. Na rynku walutowym USD jest słabszy do euro. Bitcoin jest po ok. 61.200 USD za token. Złoto zyskuje 2,0 proc. - informują maklerzy.\n\nW Japonii wolne, a Nikkei 225 zniżkował 20.11. o 5,06 proc. Topix był niżej o 3,88 proc.\n\nW Chinach SCI zyskał 0,15 proc., a CSI 300 wzrósł o 0,09 proc.\n\nW Hongkongu Hang Seng jest niżej o 0,07 proc.\n\nW Korei Południowej KOSPI spadł o 3,31 proc.\n\nW Indiach Sensex 30 zniżkuje o 1,15 proc.\n\nIndeks PSEi na Filipinach wzrósł o 0,87 proc.\n\nW Dżakarcie wskaźnik Jakarta Comp zwyżkuje o 1,54 proc.\n\nNa azjatyckich giełdach indeksy wahają się na początku nowego tygodnia handlu.\n\nLokalne władze zintensyfikowały działania mające na celu wsparcie zniżkujących wskaźników w regionie.\n\nZa to mocno rosną kontrakty na indeksy w USA.\n\nInwestorzy powracają na rynek po piątkowej wyprzedaży akcji spółek związanych ze sztuczną inteligencją. Wśród graczy zmalało zainteresowanie tzw. bezpiecznymi przystaniami.\n\n\"Po siedmiu kolejnych dniach strat na rynkach zawsze prawdopodobne jest odbicie\" - powiedział Josh Gilbert, główny analityk rynkowy na Azję i Pacyfik w eToro Ltd.\n\n\"Ruch na rynku kontraktów terminowych odzwierciedla skalę wyprzedania sektora IT\" - dodał.\n\n\"Akcje spółek technologicznych są gotowe do odbicia po tym, jak indeks Nasdaq 100 zanotował 13. tygodniowy spadek o 10 proc. lub więcej\" - powiedział z kolei David Savage, analityk Bloomberg News.\n\nW najbliższych dniach inwestorzy będą nadal obserwować sytuację na głównych rynkach akcji w kontekście perspektyw branży AI.\n\nZ planowych publikacji uwagę zwrócą wstępne odczyty indeksów PMI za listopad w głównych gospodarkach, dane o inflacji PCE za X i drugi odczyt PKB za II kw. w USA.\n\nW poniedziałek na rynek napłyną wstępne odczyty indeksów PMI z eurolandu, USA i Wlk. Brytanii.\n\nNa rynku walutowym japoński jen kosztuje 158,99 za 1 USD, niżej o 0,3 proc.\n\nEuro jest po 1,0981 USD, w górę o 0,1 proc.\n\nBitcoin kosztuje 61.196 USD za token, wyżej o 0,6 proc.\n\nRentowność 10-letnich australijskich obligacji skarbowych wynosi 4,90 proc., w dół o 5 pb.\n\nZłoto jest wyceniane w transakcjach spot po 3.608 USD za uncję, wyżej o 2,0 proc.\n\nW Europie kontrakty na Stoxx 50 rosną o 0,45 proc., na FTSE 100 zniżkują o 0,12 proc., na CAC 40 idą wyżej o 0,26 proc., a na DAX rosną o 0,25 proc.\n\nEuropejskie giełdy zniżkowały ok. 2 proc., przy największym tygodniowym spadku od kwietnia 2025 r.\n\nNa zamknięciu sesji indeks Stoxx Europe 600 zniżkował o ok. 2 proc., niemiecki DAX zniżkował 2,6 proc., francuski CAC40 poszedł w dół o 1,9 proc., a brytyjski FTSE spadł o 1 proc.\n\nKontrakty na indeksy w USA są w przedziale od 1,48 proc. do 2,78 proc.\n\nPiątkowa sesja na Wall Street przyniosła kolejne, mocne spadki głównych indeksów, zamykając trudny tydzień dla rynków.\n\nDow Jones Industrial na zamknięciu spadł o 1,93 proc. i wyniósł 48.147,33 pkt.\n\nS&P 500 na koniec dnia stracił 3,7 proc. i wyniósł 6.910,39 pkt.\n\nNasdaq Composite zniżkował o 5,28 proc. do 22.617,73 pkt. (PAP Biznes)",
-      "date_published": "2026-11-23T08:26:00+01:00",
-      "source": "PAP Biznes"
-    },
-    {
       "id": "https://www.bankier.pl/wiadomosc/DM-BOS-podniosl-cene-docelowa-dla-akcji-Voxel-do-175-3-zl-9233270.html",
       "url": "https://www.bankier.pl/wiadomosc/DM-BOS-podniosl-cene-docelowa-dla-akcji-Voxel-do-175-3-zl-9233270.html",
-      "title": "DM BOŚ podniósł cenę docelową dla akcji Voxel",
-      "content_html": "Analitycy DM BOŚ, w raporcie z 12 listopada, podwyższyli wycenę dla akcji spółki Voxel w horyzoncie 12-miesięcznym do 175,3 zł z 143,4 zł, podtrzymując rekomendację \"kupuj\".",
+      "title": "DM BOŚ podniósł cenę docelową dla akcji Voxel Analitycy DM BOŚ, w raporcie z 12 listopada, podwyższyli wycenę dla akcji spółki Voxel w horyzoncie 12-miesięcznym do 175,3 zł z 143,4 zł, podtrzymując rekomendację \"kupuj\".",
+      "content_html": "",
       "date_published": "2026-11-23T08:22:00+01:00",
       "source": "Bankier.pl"
     },
     {
-      "id": "https://biznes.pap.pl/wiadomosci/firmy/asbis-szacuje-ze-przychody-w-pazdzierniku-wzrosly-o-187-proc-rdr-do-948-mln-usd",
-      "url": "https://biznes.pap.pl/wiadomosci/firmy/asbis-szacuje-ze-przychody-w-pazdzierniku-wzrosly-o-187-proc-rdr-do-948-mln-usd",
-      "title": "Asbis szacuje, że przychody w październiku wzrosły o 187 proc. rdr do 948 mln USD",
-      "content_html": "Grupa Asbis szacuje, że w październiku 2026 r. wypracowała skonsolidowane przychody na poziomie ok. 948 mln USD i były one wyższe o ok. 187 proc. od przychodów wypracowanych w październiku 2025 r. - poinformowała spółka w komunikacie. (PAP Biznes)\n\nGrupa Asbis szacuje, że w październiku 2026 r. wypracowała skonsolidowane przychody na poziomie ok. 948 mln USD i były one wyższe o ok. 187 proc. od przychodów wypracowanych w październiku 2025 r. - poinformowała spółka w komunikacie.\n\nAsbis widzi znaczący potencjał dalszego wzrostu w obszarze sztucznej inteligencji, a perspektywa zamówień na komponenty wykorzystywane w tym segmencie obejmuje długi okres - poinformował na konferencji prasowej Costas Tziamalis, wiceprezes Asbis. Grupa liczy na utrzymanie silnej pozycji w IV kw. i dalszy wzrost w 2027 r.\n\nAnalitycy DM BOŚ, w raporcie z 28 października, podwyższyli wycenę akcji Asbisu w horyzoncie 12-miesięcznym do 202 zł z 127,2 zł wcześniej, utrzymując rekomendację \"kupuj\".\n\nPoniżej przedstawiamy wyniki Asbisu w trzecim kwartale 2026 r. i ich odniesienie do konsensusu PAP oraz do poprzednich wyników.\n\ntel. (+48 22) 509 22 25dystrybucja@pap.pl",
-      "date_published": "2026-11-23T08:21:00+01:00",
-      "source": "PAP Biznes"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/firmy/dm-bos-podniosl-cene-docelowa-dla-akcji-voxel-do-1753-zl",
-      "url": "https://biznes.pap.pl/wiadomosci/firmy/dm-bos-podniosl-cene-docelowa-dla-akcji-voxel-do-1753-zl",
-      "title": "DM BOŚ podniósł cenę docelową dla akcji Voxel do 175,3 zł",
-      "content_html": "Analitycy DM BOŚ, w raporcie z 12 listopada, podwyższyli wycenę dla akcji spółki Voxel w horyzoncie 12-miesięcznym do 175,3 zł z 143,4 zł, podtrzymując rekomendację \"kupuj\".\n\nAnalitycy pozytywnie oceniają średnioterminowe perspektywy Voxela, wspierane odbudową liczby badań diagnostycznych, dalszym wzrostem liczby badań PET i rozwijającą się produkcją radiofarmaceutyków.\n\n\"Zdywersyfikowany model biznesowy grupy potwierdził swoją skuteczność w I poł. br., kiedy to dobre wyniki segmentów IT i infrastruktury z nadwyżką zrekompensowały słabsze wyniki segmentu TK/ MR po zmianach zasad refundacji przez NFZ\" - napisano w raporcie.\n\nDM BOŚ oczekuje, że w 2027 roku zmieni się struktura wyników grupy.\n\n\"Odbudowa liczby badań diagnostycznych, większy udział w wynikach w pełni refundowanych badań onkologicznych oraz dalszy wzrost liczby badań PET/ SPECT powinny zrównoważyć mniejszy udział Alteris po wyjątkowo dobrym roku dla projektów cyfryzacji szpitali. Nowy cyklotron w Katowicach i program badań przesiewowych w kierunku raka płuca stwarzają dodatkowe możliwości wzrostu, choć ich wpływ na wyniki powinien rosnąć stopniowo\" - dodano.\n\nPierwsza dystrybucja raportu, którego autorką jest Sylwia Jaśkiewicz, nastąpiła 12 listopada 2026 r., o godzinie 18.50.\n\nDepesza jest skrótem rekomendacji. W załączniku znajduje się plik PDF z wymaganymi zastrzeżeniami prawnymi. (PAP Biznes)",
-      "date_published": "2026-11-23T08:20:00+01:00",
-      "source": "PAP Biznes"
-    },
-    {
       "id": "https://www.bankier.pl/wiadomosc/Miedz-stracila-9-proc-w-tydzien-Rynek-niepewny-po-gwaltownej-przecenie-9233264.html",
       "url": "https://www.bankier.pl/wiadomosc/Miedz-stracila-9-proc-w-tydzien-Rynek-niepewny-po-gwaltownej-przecenie-9233264.html",
-      "title": "Miedź straciła 9 proc. w tydzień. Rynek niepewny po gwałtownej przecenie",
-      "content_html": "Notowania miedzi na giełdzie metali LME w Londynie są blisko 12.000 USD za tonę, a ceny wahają się w obie strony - informują maklerzy.",
+      "title": "Miedź straciła 9 proc. w tydzień. Rynek niepewny po gwałtownej przecenie Notowania miedzi na giełdzie metali LME w Londynie są blisko 12.000 USD za tonę, a ceny wahają się w obie strony - informują maklerzy.",
+      "content_html": "",
       "date_published": "2026-11-23T08:07:00+01:00",
       "source": "Bankier.pl"
     },
     {
-      "id": "https://biznes.pap.pl/wiadomosci/rynki/ceny-miedzi-w-londynie-blisko-12000-usd-za-tone",
-      "url": "https://biznes.pap.pl/wiadomosci/rynki/ceny-miedzi-w-londynie-blisko-12000-usd-za-tone",
-      "title": "Ceny miedzi w Londynie blisko 12.000 USD za tonę",
-      "content_html": "Notowania miedzi na giełdzie metali LME w Londynie są blisko 12.000 USD za tonę, a ceny wahają się w obie strony - informują maklerzy.\n\nMiedź w dostawach 3-miesięcznych na LME jest wyceniana wyżej o 0,2 proc. - po 12.180,00 USD za tonę.\n\nWcześniej w poniedziałek metal zyskiwał nawet 1,5 proc., a potem spadł o 1,7 proc., i był krótko poniżej 12.000 USD za tonę.\n\nNa Comex w Nowym Jorku miedź kosztuje 5,6245 USD za funt, wyżej o 0,94 proc. Metal stracił w tym roku na Comex 2,5 proc.\n\nNa giełdzie metali SHF w Szanghaju miedź jest wyceniana po 92.300 juanów za tonę, po zniżce o 1,14 proc. i spadku od początku roku o 3,7 proc.\n\nNotowania metalu są bardzo niestabilne, a inwestorzy zastanawiają się, co czeka ten metal po gwałtownej jego wyprzedaży w ub. tygodniu.\n\nAnalitycy ostrzegają przed rosnącą niepewnością, gdyż niektóre \"niedźwiedzie\" na rynku miedzi \"szykują się do wyjścia\". Inni gracze z kolei wolą zajmować krótkie pozycje, bo cała narracja związana z AI, która napędzała rynki, uległa fundamentalnej zmianie.\n\nNa zakończenie poprzedniej sesji miedź na LME kosztowała 12.160,0 USD za tonę, niżej aż o 366 USD.\n\nW ub. tygodniu miedź na LME staniała o 9 proc.\n\nRekord z września na LME to 14.875,00 USD za tonę miedzi.\n\nOd początku 2026 r. cena miedzi na LME spadła o 2,1 proc. (PAP Biznes)",
-      "date_published": "2026-11-23T08:06:00+01:00",
-      "source": "PAP Biznes"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/firmy/bgk-podpisal-z-ebi-umowe-na-2-mld-zl-kredytu-na-program-budownictwa-czynszowego",
-      "url": "https://biznes.pap.pl/wiadomosci/firmy/bgk-podpisal-z-ebi-umowe-na-2-mld-zl-kredytu-na-program-budownictwa-czynszowego",
-      "title": "BGK podpisał z EBI umowę na 2 mld zł kredytu na program budownictwa czynszowego",
-      "content_html": "Bank Gospodarstwa Krajowego i Europejski Bank Inwestycyjny podpisały umowę na 2 mld zł kredytu ramowego na realizowany przez BGK program Społecznego Budownictwa Czynszowego - wynika z informacji zamieszczonej na stronie internetowej EBI.\n\n\"Celem projektu jest zapewnienie wysokiej jakości mieszkań na wynajem dla gospodarstw domowych o niskich i średnich dochodach\" - podał EBI.\n\nPoinformował, że proponowane finansowanie EBI to 2.000 mln zł (465 mln euro), a koszt projektu to 4.444 mln zł (1.034 mln euro).\n\nEBI dodał, że kredyt ramowy pomoże pośrednikowi finansowemu w sfinansowaniu budowy i remontu około 8.750 mieszkań socjalnych i mieszkań czynszowych o przystępnych cenach w Polsce w ramach rządowego programu budownictwa mieszkaniowego.\n\nPod koniec kwietnia BGK poinformował, że w 2026 r. przyjmie i zakwalifikuje wnioski o udzielenie preferencyjnych kredytów w ramach programu SBC (Społeczne Budownictwo Czynszowe) na rekordową kwotę ponad 2 mld zł. (PAP Biznes)",
-      "date_published": "2026-11-23T08:04:00+01:00",
-      "source": "PAP Biznes"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Ropa-naftowa-bez-wiekszych-zmian-W-tle-ataki-na-tankowce-i-zaklocenia-dostaw-9233259.html",
-      "url": "https://www.bankier.pl/wiadomosc/Ropa-naftowa-bez-wiekszych-zmian-W-tle-ataki-na-tankowce-i-zaklocenia-dostaw-9233259.html",
-      "title": "Ropa naftowa bez większych zmian. W tle ataki na tankowce i zakłócenia dostaw",
-      "content_html": "Ceny ropy niewiele się zmieniają w poniedziałek rano. Inwestorzy oceniają sytuację na rynkach paliw, napięcia na Bliskim Wschodzie i sytuację podażową ropy - podają maklerzy.",
-      "date_published": "2026-11-23T08:00:00+01:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/rynki/ceny-ropy-niewiele-sie-zmieniaja",
-      "url": "https://biznes.pap.pl/wiadomosci/rynki/ceny-ropy-niewiele-sie-zmieniaja",
-      "title": "Ceny ropy niewiele się zmieniają",
-      "content_html": "Ceny ropy niewiele się zmieniają w poniedziałek rano. Inwestorzy oceniają sytuację na rynkach paliw, napięcia na Bliskim Wschodzie i sytuację podażową ropy - podają maklerzy.\n\nBaryłka ropy West Texas Intermediate w dostawach na I jest na NYMEX w Nowym Jorku po 83,28 USD - niżej o 0,16 proc.\n\nBrent na ICE na I jest wyceniana po 92,37 USD za baryłkę, w dół o 0,22 proc.\n\nWcześniej oba benchmarki niewiele zyskiwały.\n\nInwestorzy oceniają sytuację na rynkach paliw, napięcia związane z Bliskim Wschodem i sytuację podażową ropy.\n\nPrezydent USA Donald Trump w niedzielę ostrzegł Iran, że może przeprowadzić nowe ataki na ten kraj po Nowym Roku, jeśli oba państwa nie dojdą do porozumienia.\n\nPrezydent USA ocenił, że działania Teheranu stały się bardziej agresywne po wyborach połówkowych do Kongresu w USA.\n\n\"Są teraz bardziej agresywni niż przed wyborami\" - ocenił Donald Trump w niedzielę w rozmowie z telewizją Fox News.\n\nPrezydent USA określił irańskich przedstawicieli jako \"zawodowych mistrzów lawirowania\".\n\n\"Cały czas rozmawiają, tylko gadają, ale to wszystko jest jedną wielką bzdurą\" - dodał.\n\nW serwisie Truth Social Donald Trump stwierdził, że przewidział, iż po wyborach połówkowych w USA irańskie ataki staną się bardziej agresywne.\n\n\"Jak wszyscy pamiętają, przewidziałem dwie rzeczy dotyczące wyborów połówkowych z 3 listopada. Po pierwsze, że jeśli Demokraci wygrają, giełdy odnotują znaczne spadki - i tak właśnie się stało. Po drugie, że Islamska Republika Iranu, która do dzisiaj zabiła 81 tys. protestujących, stanie się bardziej agresywna w swoich atakach - co również się potwierdziło\" - napisał Donald Trump.\n\nDodał, że w ciągu ostatniego tygodnia Iran \"wystrzelił więcej dronów i rakiet niż kiedykolwiek w ciągu ponad roku\".\n\nPrezydent USA zapewnił, że \"wszystkie zostały zestrzelone i nie wyrządziły żadnych szkód\".\n\nDonald Trump ocenił, że irańscy przywódcy uważają Demokratów, którzy wygrali wybory połówkowe, \"za słabych, nieskutecznych i niszczących kraj\".\n\nZarzucił Demokratom i Iranowi, że \"robili wszystko, co w ich mocy, aby jak najdłużej utrzymać wysokie ceny ropy naftowej\".\n\nDodał, że od wyborów ceny ropy rekordowo spadły.\n\n\"Szkoda, że wyborcy nie zdawali sobie z tego sprawy, zanim oddali głosy\" - napisał Donald Trump i dodał, że wybory były bardzo \"dziwne\".\n\nAmerykański prezydent napisał również: \"Czy to nie ciekawe, że ceny ropy naftowej gwałtownie spadły po wyborach połówkowych? Mówiłem, że tak się stanie. To wszystko jest jednym wielkim oszustwem!\".\n\nTymczasem co najmniej trzy tankowce zostały w sobotę zaatakowane w cieśninie Ormuz lub w jej pobliżu.\n\nIran nasila ataki na statki, dążąc do podniesienia światowych cen energii i wywarcia presji na USA, które blokują irańskie porty.\n\nW piątek minister spraw zagranicznych Iranu Abbas Aragczi zapewnił, że Teheran wciąż pokłada nadzieję w dyplomacji jako sposobie na zakończenie konfliktu zbrojnego ze Stanami Zjednoczonymi. Obie strony kontynuują wymianę wiadomości za pośrednictwem mediatorów - oświadczył.\n\nTymczasem spadła produkcja ropy w Libii po tym, jak została zakłócona praca rurociągu, którym przesyłany jest surowiec z największego złoża naftowego w tym kraju.\n\nTo najnowszy z szeregu incydentów w ostatnich miesiącach, które spowodowały ograniczenie dostaw ropy od tego członka kartelu OPEC.\n\n\"Grupa wyjęta spod prawa\" zamknęła w niedzielę zawór na rurociągu biegnącym z pola naftowego Sharara do Zawiya, a to spowodowało zmniejszenie przesyłu ropy o 350 tys. baryłek dziennie - poinformowała w oświadczeniu Narodowa Korporacja Naftowa.\n\nKorporacja podała, że wcześniej - dwa tygodnie temu - doszło do zamknięcia innego rurociągu - na Polu Hamada - co spowodowało ograniczenie przesyłu ropy o 15 tys. baryłek dziennie.\n\nNa polu naftowym Sharara zakłócenia w dostawach ropy notowano też we wrześniu i wówczas również nastąpiło ograniczenie produkcji ropy naftowej.\n\nAnalitycy oceniają, że chociaż wiele z przerw w dostawach ropy było krótkotrwałych, to niosą one ze sobą zwiększone ryzyko dosta",
-      "date_published": "2026-11-23T07:59:00+01:00",
-      "source": "PAP Biznes"
-    },
-    {
       "id": "https://www.bankier.pl/wiadomosc/Portfel-zamowien-grupy-Polimex-Mostostal-ma-wartosc-ok-8-mld-zl-9233253.html",
       "url": "https://www.bankier.pl/wiadomosc/Portfel-zamowien-grupy-Polimex-Mostostal-ma-wartosc-ok-8-mld-zl-9233253.html",
-      "title": "Portfel zamówień grupy Polimex-Mostostal ma wartość ok. 8 mld zł",
-      "content_html": "Aktualny portfel zamówień grupy Polimex-Mostostal, pomniejszony o sprzedaż przypadającą na konsorcjantów, ma wartość ok. 8 mld zł - poinformowała spółka w raporcie kwartalnym.",
+      "title": "Portfel zamówień grupy Polimex-Mostostal ma wartość ok. 8 mld zł Aktualny portfel zamówień grupy Polimex-Mostostal, pomniejszony o sprzedaż przypadającą na konsorcjantów, ma wartość ok. 8 mld zł - poinformowała spółka w raporcie kwartalnym.",
+      "content_html": "",
       "date_published": "2026-11-23T07:40:00+01:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/48-mld-dolarow-na-wojne-z-Iranem-Pentagon-ogranicza-Kongresowi-dostep-do-informacji-9233252.html",
-      "url": "https://www.bankier.pl/wiadomosc/48-mld-dolarow-na-wojne-z-Iranem-Pentagon-ogranicza-Kongresowi-dostep-do-informacji-9233252.html",
-      "title": "48 mld dolarów na wojnę z Iranem. Pentagon ogranicza Kongresowi dostęp do informacji",
-      "content_html": "Pentagon ograniczył Kongresowi dostęp zarówno do amerykańskich baz wojskowych na Bliskim Wschodzie, jak i do informacji o ludzkich i materialnych stratach poniesionych przez USA w wojnie z Iranem - przekazał magazyn „The Atlantic”, powołując się na relacje parlamentarzystów.",
-      "date_published": "2026-11-23T07:39:00+01:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://biznes.pap.pl/wiadomosci/firmy/portfel-zamowien-grupy-polimex-mostostal-ma-wartosc-ok-8-mld-zl",
-      "url": "https://biznes.pap.pl/wiadomosci/firmy/portfel-zamowien-grupy-polimex-mostostal-ma-wartosc-ok-8-mld-zl",
-      "title": "Portfel zamówień grupy Polimex-Mostostal ma wartość ok. 8 mld zł",
-      "content_html": "Aktualny portfel zamówień grupy Polimex-Mostostal, pomniejszony o sprzedaż przypadającą na konsorcjantów, ma wartość ok. 8 mld zł - poinformowała spółka w raporcie kwartalnym.\n\nPortfel zamówień w poszczególnych segmentach kształtuje się następująco: na segment energetyka przypada 4,8 mld zł, na segment nafta, gaz i chemia 2,1 mld zł, na segment produkcja 0,3 mld zł, na segment budownictwo infrastrukturalne 0,2 mld zł oraz na segment budownictwo przemysłowe 0,6 mld zł.\n\nW trzecim kwartale 2026 roku grupa miała ok. 1,02 mld zł przychodów wobec 1,1 mld zł rok wcześniej i 35,8 mln zł zysku operacyjnego (w porównaniu do 44,7 mln zł EBIT rok wcześniej). Zysk netto w trzecim kwartale 2026 roku wyniósł 37,9 mln zł wobec 35,4 mln zł zysku rok wcześniej.\n\nAnalitycy ankietowani przez PAP Biznes oczekiwali przychodów na poziomie 945-1106 mln zł, 43,5-50 mln zł EBIT i 35,6-37,8 mln zł zysku netto. (PAP Biznes)",
-      "date_published": "2026-11-23T07:38:00+01:00",
-      "source": "PAP Biznes"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/KO-PiS-i-Konfederacja-na-podium-PSL-po-raz-pierwszy-od-miesiecy-nad-progiem-9233251.html",
-      "url": "https://www.bankier.pl/wiadomosc/KO-PiS-i-Konfederacja-na-podium-PSL-po-raz-pierwszy-od-miesiecy-nad-progiem-9233251.html",
-      "title": "SONDAŻ KO, PiS i Konfederacja na podium. PSL po raz pierwszy od miesięcy nad progiem",
-      "content_html": "Gdyby wybory parlamentarne odbyły się w najbliższą niedzielę KO uzyskała 31,83 proc., wyprzedzając PiS, które mogłoby liczyć na 23,74 proc. - wynika z sondażu Instytutu Badań Pollster dla „Super Expressu”. Nad progiem, jak akcentuje \"SE\", znalazłoby się PSL.",
-      "date_published": "2026-11-23T07:34:00+01:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Zdzislawa-Rozanska-nowa-senatorka-Znamy-oficjalne-wyniki-z-Lubuskiego-9233199.html",
-      "url": "https://www.bankier.pl/wiadomosc/Zdzislawa-Rozanska-nowa-senatorka-Znamy-oficjalne-wyniki-z-Lubuskiego-9233199.html",
-      "title": "Zdzisława Różańska nową senatorką. Znamy oficjalne wyniki z Lubuskiego",
-      "content_html": "Z danych PKW ze 100 proc. obwodów wynika, że niedzielne wybory uzupełniające do Senatu w okręgu wyborczym nr 20 w woj. lubuskim wygrała Zdzisława Różańska (KWW Koalicji 15 Października). Wybory zostały zarządzone po śmierci jej męża, senatora gen. Mirosława Różańskiego.",
-      "date_published": "2026-11-23T07:30:00+01:00",
       "source": "Bankier.pl"
     },
     {
@@ -283,6 +307,14 @@
       "content_html": "",
       "date_published": "2026-11-23T06:00:00+01:00",
       "source": "Bankier.pl"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/gospodarka/nbp-opublikowal-harmonogram-posiedzen-rpp-na-2027-r",
+      "url": "https://biznes.pap.pl/wiadomosci/gospodarka/nbp-opublikowal-harmonogram-posiedzen-rpp-na-2027-r",
+      "title": "NBP opublikował harmonogram posiedzeń RPP na 2027 r.",
+      "content_html": "Narodowy Bank Polski opublikował harmonogram posiedzeń RPP w 2027 r. oraz publikacji minutes RPP na przyszły rok.\n\nPublikacje opisów dyskusji z posiedzeń RPP w 2027 r.",
+      "date_published": "2026-11-22T12:39:00+01:00",
+      "source": "PAP Biznes"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Anthropic-z-rekordowym-IPO-Analityk-wskazuje-kto-moze-na-tym-zyskac-9231735.html",
