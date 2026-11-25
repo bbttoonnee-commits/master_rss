@@ -5,6 +5,30 @@
   "home_page_url": "https://www.bankier.pl",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/Odbicie-gasnie-a-zloty-slabnie-Kurs-euro-poprawia-3-letnie-maksima-9234686.html",
+      "url": "https://www.bankier.pl/wiadomosc/Odbicie-gasnie-a-zloty-slabnie-Kurs-euro-poprawia-3-letnie-maksima-9234686.html",
+      "title": "Odbicie gaśnie, a złoty słabnie. Kurs euro poprawia 3-letnie maksima",
+      "content_html": "Pogorszenie globalnego sentymentu inwestycyjnego i odpływ kapitału na tzw. rynki bazowe sprawiły, że złoty znów się osłabił, a kurs euro wyznaczył nowe, przeszło 3-letnie maksimum.",
+      "date_published": "2026-11-25T09:45:00+01:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Morawiecki-pozywa-mlodego-dzialacza-PiS-Chodzi-o-wpis-o-rosole-pierogach-i-Magdalence-2-0-9234621.html",
+      "url": "https://www.bankier.pl/wiadomosc/Morawiecki-pozywa-mlodego-dzialacza-PiS-Chodzi-o-wpis-o-rosole-pierogach-i-Magdalence-2-0-9234621.html",
+      "title": "Morawiecki pozywa młodego działacza PiS. Chodzi o wpis o rosole, pierogach i Magdalence 2.0",
+      "content_html": "30 tys. zł za post o milionowym zasięgu - do warszawskiego sądu wpłynął pozew od posła Rozwoju Plus Pawła Jabłońskiego, który zarzuca działaczowi PiS Oskarowi Szafarowiczowi szerzenie nieprawdziwych informacji i pomówień na temat Mateusza Morawieckiego - informuje \"Wirtualna Polska\".",
+      "date_published": "2026-11-25T09:40:00+01:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Ceny-gazu-w-Europie-mocno-w-dol-Zdecydowala-zmiana-prognoz-pogody-9234654.html",
+      "url": "https://www.bankier.pl/wiadomosc/Ceny-gazu-w-Europie-mocno-w-dol-Zdecydowala-zmiana-prognoz-pogody-9234654.html",
+      "title": "Ceny gazu w Europie mocno w dół. Zdecydowała zmiana prognoz pogody",
+      "content_html": "Ceny gazu w Europie spadają o prawie 5 proc. w reakcji na łagodniejsze prognozy pogody dla krajów w regionie - informują maklerzy.",
+      "date_published": "2026-11-25T09:26:00+01:00",
+      "source": "Bankier.pl"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/BM-mBank-podnioslo-cene-docelowa-akcji-cyber-Folks-do-236-zl-9234657.html",
       "url": "https://www.bankier.pl/wiadomosc/BM-mBank-podnioslo-cene-docelowa-akcji-cyber-Folks-do-236-zl-9234657.html",
       "title": "BM mBank podniosło cenę docelową akcji cyber_Folks do 236 zł",
@@ -77,20 +101,20 @@
       "source": "Bankier.pl"
     },
     {
-      "id": "https://www.bankier.pl/wiadomosc/Morawiecki-pozywa-mlodego-dzialacza-PiS-Chodzi-o-wpis-o-rosole-pierogach-i-Magdalence-2-0-9234621.html",
-      "url": "https://www.bankier.pl/wiadomosc/Morawiecki-pozywa-mlodego-dzialacza-PiS-Chodzi-o-wpis-o-rosole-pierogach-i-Magdalence-2-0-9234621.html",
-      "title": "Morawiecki pozywa młodego działacza PiS. Chodzi o wpis o rosole, pierogach i Magdalence 2.0",
-      "content_html": "30 tys. zł za post o milionowym zasięgu - do warszawskiego sądu wpłynął pozew od posła Rozwoju Plus Pawła Jabłońskiego, który zarzuca działaczowi PiS Oskarowi Szafarowiczowi szerzenie nieprawdziwych informacji i pomówień na temat Mateusza Morawieckiego - informuje \"Wirtualna Polska\".",
-      "date_published": "2026-11-25T08:15:00+01:00",
-      "source": "Bankier.pl"
-    },
-    {
       "id": "https://www.bankier.pl/wiadomosc/PGG-wprowadza-nowy-wegiel-do-sprzedazy-Ma-ograniczac-emisje-smogu-nawet-o-60-proc-9234236.html",
       "url": "https://www.bankier.pl/wiadomosc/PGG-wprowadza-nowy-wegiel-do-sprzedazy-Ma-ograniczac-emisje-smogu-nawet-o-60-proc-9234236.html",
       "title": "PGG wprowadza nowy węgiel do sprzedaży. Ma ograniczać emisję smogu nawet o 60 proc.",
       "content_html": "Polska Grupa Górnicza wprowadziła do sprzedaży nowe węgle dla gospodarstw domowych o znacznie obniżonej emisji substancji smogowych. To kolejne skierowane do sprzedaży tzw. groszki ze znakiem „Klasa Błękitny”.",
       "date_published": "2026-11-25T08:00:00+01:00",
       "source": "Bankier.pl"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/rynki/najwazniejsze-indeksy-gieldowe-w-azji-850",
+      "url": "https://biznes.pap.pl/wiadomosci/rynki/najwazniejsze-indeksy-gieldowe-w-azji-850",
+      "title": "Najważniejsze indeksy giełdowe w Azji",
+      "content_html": "Poniżej aktualne indeksy wybranych giełd w Azji:\n\nIndeks Nikkei 225 zamyka się o 7.30 czasu polskiego, KOSPI o 7.05, Shanghai Composite Index o 8.00, Hang Seng o 09.00, a Sensex o 11.45.",
+      "date_published": "2026-11-25T07:57:00+01:00",
+      "source": "PAP Biznes"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Ceny-miedzi-w-Londynie-rosna-przed-danymi-o-PCE-w-USA-9234627.html",
@@ -101,12 +125,28 @@
       "source": "Bankier.pl"
     },
     {
+      "id": "https://biznes.pap.pl/wiadomosci/rynki/ceny-miedzi-w-londynie-rosna-przed-danymi-o-pce-w-usa",
+      "url": "https://biznes.pap.pl/wiadomosci/rynki/ceny-miedzi-w-londynie-rosna-przed-danymi-o-pce-w-usa",
+      "title": "Ceny miedzi w Londynie rosną przed danymi o PCE w USA",
+      "content_html": "Notowania miedzi na giełdzie metali LME w Londynie rosną i odbijają się z najniższego poziomu zamknięcia od roku. Inwestorzy czekają na dane o PCE w USA, ważnego wskaźnika dla polityki stóp procentowych Fed - informują maklerzy.\n\nMiedź w dostawach 3-miesięcznych na LME jest wyceniana wyżej o 0,5 proc. - po 11.889,00 USD za tonę.\n\nNa Comex w Nowym Jorku miedź kosztuje 5,3939 USD za funt, niżej o 1,10 proc. Metal stracił w tym roku na Comex 6,6 proc.\n\nNa giełdzie metali SHF w Szanghaju miedź jest wyceniana po 88.930 juanów za tonę, po zniżce o 5,72 proc. i spadku od początku roku o 7,5 proc.\n\nInwestorzy czekają na dane o PCE w USA, ważnego wskaźnika dla polityki monetarnej Fed.\n\nW środę zostanie opublikowany październikowy raport o dochodach i wydatkach Amerykanów, który zawiera preferowaną przez Fed miarę inflacji - deflator PCE.\n\nInwestorzy będą analizować raport pod kątem dalszych ruchów amerykańskiej Rezerwy Federalnej, której najbliższe posiedzenie zaplanowano na 8-9 grudnia.\n\nCeny metali bazowych spadały w tym miesiącu z powodu obaw o trwałość boomu na sztuczną inteligencję, perspektyw podwyżek stóp procentowych w USA i rosnących obaw o spadek zapotrzebowania na miedź w Chinach - największego odbiorcy tego metalu na świecie.\n\nNa zakończenie poprzedniej sesji miedź na LME kosztowała 11.826,0 USD za tonę, niżej aż o 664 USD. Sesję wcześniej metal zyskał 330 USD.\n\nRekord z września na LME to 14.875,00 USD za tonę miedzi.\n\nOd początku 2026 r. cena miedzi na LME spadła o 4,8 proc. (PAP Biznes)",
+      "date_published": "2026-11-25T07:55:00+01:00",
+      "source": "PAP Biznes"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Ceny-ropy-na-swiecie-spadaja-a-globalne-zapasy-surowca-bardzo-niskie-9234626.html",
       "url": "https://www.bankier.pl/wiadomosc/Ceny-ropy-na-swiecie-spadaja-a-globalne-zapasy-surowca-bardzo-niskie-9234626.html",
       "title": "Ceny ropy na świecie spadają, a globalne zapasy surowca bardzo niskie",
       "content_html": "Ceny ropy idą w dół w reakcji na rosnącą podaż surowca na globalnych rynkach, a na dalszy plan schodzi eskalacja ataków na statki w cieśninie Ormuz - podają maklerzy.",
       "date_published": "2026-11-25T07:44:00+01:00",
       "source": "Bankier.pl"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/rynki/ceny-ropy-na-swiecie-spadaja-globalne-zapasy-surowca-bardzo-niskie",
+      "url": "https://biznes.pap.pl/wiadomosci/rynki/ceny-ropy-na-swiecie-spadaja-globalne-zapasy-surowca-bardzo-niskie",
+      "title": "Ceny ropy na świecie spadają, a globalne zapasy surowca bardzo niskie",
+      "content_html": "Ceny ropy idą w dół w reakcji na rosnącą podaż surowca na globalnych rynkach, a na dalszy plan schodzi eskalacja ataków na statki w cieśninie Ormuz - podają maklerzy.\n\nBaryłka ropy West Texas Intermediate w dostawach na I jest na NYMEX w Nowym Jorku po 80,95 USD - niżej o 1,34 proc.\n\nBrent na ICE na I jest wyceniana po 90,39 USD za baryłkę, w dół o 1,11 proc.\n\nAnalitycy informują, że eksport ropy naftowej z Zatoki Perskiej gwałtownie wzrósł w ciągu ostatnich miesięcy, a Międzynarodowa Agencja Energetyczna (MAE) przewiduje, że w tym kwartale rynek ropy wejdzie w nadwyżkę.\n\nJednak światowe zapasy ropy naftowej pozostają na bardzo niskim poziomie mimo poprawiającej się podaży, a to oznacza, że rynek ropy narażony jest nadal na zakłócenia.\n\n\"Rynek jest podatny na dalsze zakłócenia, a ceny ropy - na wzrosty\" - napisali w rynkowej nocie analitycy ANZ Group Holdings Ltd.\n\nTymczasem w ostatnich tygodniach nasiliły się ataki na statki w cieśninie Ormuz, a władze irańskie niemal codziennie informują o kolejnych atakach, m.in. na tankowce.\n\nMiędzynarodowa Organizacja Morska (IMO) odnotowała od 1 marca do 23 listopada 141 potwierdzonych incydentów związanych z bezpieczeństwem żeglugi na wodach Bliskiego Wschodu, w tym 15 w listopadzie.\n\nTeheran grozi zacieśnieniem kontroli nad cieśniną Ormuz do czasu spełnienia jego żądań wobec USA - podała agencja Tasmin, podkreślając, jak odległe pozostaje rozwiązanie trwającego prawie 9 miesięcy konfliktu na Bliskim Wschodzie.\n\n\"Rzeczywista sytuacja w regionie to raczej +wojna i nie wojna+, z wybuchami aktów przemocy\" - ocenił Robert Yawger, dyrektor działu kontraktów terminowych na energię w Mizuho Securities USA LLC.\n\n\"W obecnym scenariuszu spodziewamy się jednak, że nadwyżka podaży ropy na rynkach stanie się dominującym tematem w nadchodzących tygodniach\" - dodał.\n\nTymczasem w USA zapasy ropy w ub. tygodniu wzrosły zaledwie o 100 tys. baryłek - wynika z danych branżowych Amerykańskiego Instytutu Paliw (API).\n\nZapasy ropy w hubie Cushing spadły zaś o 700 tys. baryłek - wyliczył API.\n\nBez zmian pozostają amerykańskie zapasy benzyny, a zapasy paliw destylowanych wzrosły w ub. tygodniu - wg danych API - o 1,6 mln baryłek.\n\nRopa WTI od początku tego roku zyskała 40,9 proc., a Brent zdrożała o 48,6 proc. (PAP Biznes)",
+      "date_published": "2026-11-25T07:43:00+01:00",
+      "source": "PAP Biznes"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Izabela-Leszczyna-kandydatka-KO-do-Rady-Polityki-Pienieznej-Grodzki-potwierdza-9234624.html",
@@ -117,12 +157,28 @@
       "source": "Bankier.pl"
     },
     {
+      "id": "https://biznes.pap.pl/wiadomosci/gry-i-technologie/zamowienia-publiczne-powinny-wspierac-gospodarke-i-bezpieczenstwo",
+      "url": "https://biznes.pap.pl/wiadomosci/gry-i-technologie/zamowienia-publiczne-powinny-wspierac-gospodarke-i-bezpieczenstwo",
+      "title": "Zamówienia publiczne powinny wspierać gospodarkę i bezpieczeństwo państwa - prezes UZP",
+      "content_html": "Blisko 90 proc. uczestników rynku zamówień publicznych uważa, że obecne przepisy pozwalają skutecznie realizować cele państwa - powiedziała prezes Urzędu Zamówień Publicznych Agnieszka Olszewska. Jej zdaniem wyzwaniem jest szersze wykorzystanie dostępnych narzędzi do wspierania polskich firm, zwiększania konkurencji i wzmacniania bezpieczeństwa państwa.\n\n„Zamówienia publiczne przestały być jedynie narzędziem wydatkowania środków publicznych, a stają się najważniejszym instrumentem wspierania i budowania potencjału oraz konkurencyjności polskiej gospodarki. Wspierają również odporność i bezpieczeństwo państwa” - powiedziała prezes Agnieszka Olszewska podczas konferencji „7 filarów suwerenności IT. Jak budować cyfrową odporność państwa i konkurencyjność gospodarki\".\n\nJak zaznaczyła, przez lata uczestnicy rynku często wskazywali, że źródłem problemów są skomplikowane przepisy. Dziś takie opinie słyszy coraz rzadziej.\n\n„Blisko 90 proc. uczestników rynku, z którymi się spotykam, potwierdza, że prawo nie jest złe. Obecnie umożliwia ono prowadzenie postępowań w taki sposób, aby osiągać cele ważne z punktu widzenia państwa” - powiedziała.\n\nWedług Olszewskiej przełomem ma być Polityka Zakupowa Państwa na lata 2026-2029. Dokument przygotowany przez Ministerstwo Rozwoju i Technologii we współpracy z UZP, Ministerstwem Cyfryzacji i innymi resortami wskazuje, jakie cele mają realizować zakupy publiczne.\n\nNowa polityka zakupowa ma zachęcić urzędy do częstszego korzystania z konsultacji rynkowych i dialogu konkurencyjnego, które dziś należą do rzadziej wykorzystywanych narzędzi.\n\n„Prawo zamówień publicznych zawiera wiele instrumentów, które nie są wykorzystywane przez zamawiających. Musimy nauczyć się korzystać z rozwiązań, które już dziś dają możliwość aktywnego działania” - powiedziała.\n\nPrezes UZP wskazała, że jednym z najrzadziej wykorzystywanych, a jednocześnie najbardziej efektywnych instrumentów pozostają wstępne konsultacje rynkowe. Pozwalają one sprawdzić możliwości rynku, poznać potrzeby przedsiębiorców i lepiej przygotować postępowanie.\n\n„To niezastąpiony instrument, który pozwala na dialog z rynkiem na etapie przygotowania postępowania i budowanie właściwej strategii zakupowej” - wskazała Agnieszka Olszewska.\n\nJej zdaniem konsultacje mogą pomóc również zwiększyć udział małych i średnich firm w rynku zamówień publicznych.\n\n„Warto dowiedzieć się, jakie bariery utrudniały przedsiębiorcom udział w postępowaniach i zastanowić się, czy zamówienia nie powinny być podzielone na części, aby zwiększyć konkurencję” - powiedziała.\n\nPrezes UZP zwróciła uwagę, że zamawiający wciąż zbyt rzadko korzystają z dialogu konkurencyjnego. Najczęściej wybierają przetarg nieograniczony, uznawany za najbezpieczniejszy.\n\n„Zamawiający nie mają odwagi, aby wejść w tryb dialogu konkurencyjnego. Tymczasem ci, którzy już go zastosowali, często pytają później, dlaczego nie zrobili tego wcześniej” - powiedziała.\n\nJak dodała, wielu urzędników nadal obawia się reakcji instytucji kontrolnych.\n\n„Słyszę często: to jest świetne rozwiązanie, ale co powie na to kontrolujący?” - zaznaczyła. Dlatego, jej zdaniem, zmiana podejścia powinna objąć także instytucje odpowiedzialne za nadzór nad zamówieniami.\n\n„Powinny patrzeć nie tylko na zgodność z przepisami, ale również na to, czy zastosowane rozwiązania pozwalają skutecznie realizować cele państwa” - powiedziała.\n\nOlszewska poinformowała, że jednym z nowych narzędzi wspierających zamawiających będzie tzw. test MŚP opracowany przez Ministerstwo Rozwoju i Technologii. Ma on pomóc ocenić, czy dokumentacja przetargowa została przygotowana w sposób sprzyjający konkurencji i udziałowi mniejszych przedsiębiorstw.\n\nUrząd pracuje również nad wytycznymi dotyczącymi cyberbezpieczeństwa w zamówieniach publicznych, powstającymi w związku z dyrektywą NIS2 i ustawą o krajowym systemie cyberbezpieczeństwa.\n\n„To bardzo kompleksowe opracowanie. Liczy już ponad 60 stron i zawiera konkretne zalecenia oraz przykłady rozwiązań, które mogą stosowa",
+      "date_published": "2026-11-25T07:30:00+01:00",
+      "source": "PAP Biznes"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Bloober-Team-ma-zapewnione-finansowanie-strategii-i-przygotowuje-sie-do-kolejnych-premier-9234618.html",
       "url": "https://www.bankier.pl/wiadomosc/Bloober-Team-ma-zapewnione-finansowanie-strategii-i-przygotowuje-sie-do-kolejnych-premier-9234618.html",
       "title": "Bloober Team szykuje festiwal premier. Spółka wyklucza emisję akcji",
       "content_html": "Bloober Team ma zapewnione finansowanie strategii i przygotowuje się do kolejnych premier - podała spółka w komunikacie prasowym. Po trzech kwartałach 2026 r. grupa odnotowała blisko 77 mln zł przychodów ze sprzedaży, dodatnią EBITDA w wysokości 23,5 mln zł i 8,98 mln zł skonsolidowanej straty netto.",
       "date_published": "2026-11-25T07:26:00+01:00",
       "source": "Bankier.pl"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/firmy/bloober-team-ma-zapewnione-finansowanie-strategii-i-przygotowuje-sie-do-kolejnych",
+      "url": "https://biznes.pap.pl/wiadomosci/firmy/bloober-team-ma-zapewnione-finansowanie-strategii-i-przygotowuje-sie-do-kolejnych",
+      "title": "Bloober Team ma zapewnione finansowanie strategii i przygotowuje się do kolejnych premier",
+      "content_html": "Bloober Team ma zapewnione finansowanie strategii i przygotowuje się do kolejnych premier - podała spółka w komunikacie prasowym. Po trzech kwartałach 2026 r. grupa odnotowała blisko 77 mln zł przychodów ze sprzedaży, dodatnią EBITDA w wysokości 23,5 mln zł i 8,98 mln zł skonsolidowanej straty netto.\n\nPodano, że na poziom wyniku netto w ostatnich trzech kwartałach wpłynęły w dużej mierze wciąż wysoka amortyzacja gry Cronos: The New Dawn oraz brak nowych premier w tym okresie. Spółka ma zapewnione środki na realizację celów strategicznych i nie zamierza pozyskiwać kapitału w drodze emisji akcji.\n\n\"Mamy środki na realizację naszej strategii. W związku z pojawiającymi się spekulacjami chcę powiedzieć wprost, że nie planujemy pozyskiwania kapitału w ramach emisji akcji. W ostatnich dwóch kwartałach nie mieliśmy nowych premier, a amortyzacja Cronos: The New Dawn wpłynęła na wynik netto. Po dziewięciu miesiącach EBITDA grupy pozostaje dodatnia. Ponieśliśmy sporo nakładów inwestycyjnych i to dzięki temu już wkrótce rozpocznie się niemal festiwal premier z naszej strony. Obecnie koncentrujemy się na nadchodzących premierach. Pierwsza z nich już 3 grudnia\" – powiedział cytowany w komunikacie prasowym Piotr Babieno, prezes Bloober Team.\n\nCronos: Lazarus, fabularny dodatek do gry Cronos: The New Dawn, będący prequelem jej głównej historii, zadebiutuje 3 grudnia na PC, PlayStation 5 oraz Xbox Series X|S. Cena DLC wyniesie 34,99 zł.\n\nNa 2027 r. Bloober Team zapowiedział trzy premiery: SAW: Genesis, Star Trek: Shadow Frontier oraz ONYX: The Dark Grip, tworzony ekskluzywnie na Nintendo Switch 2. Start SAW: Genesis we wczesnym dostępie planowany jest na pierwszy kwartał 2027 r. Wskazano, że równolegle spółka pracuje nad kolejnymi tytułami i przygotowuje wdrożenie nowych rozwiązań technologicznych, które mają skrócić cykl produkcji gier.\n\n\"Jesteśmy gotowi na wejście w okres kolejnych premier. Mamy trzy zapowiedziane tytuły na 2027 rok, a równolegle pracujemy nad grami, o których jeszcze publicznie nie mówiliśmy. W najbliższych miesiącach zaczniemy pokazywać kolejne efekty tych prac. Przygotowujemy się też do wdrożenia technologii, które pozwolą zespołom szybciej testować pomysły i sprawniej przechodzić przez kolejne etapy produkcji\" – powiedział Piotr Babieno. (PAP Biznes)",
+      "date_published": "2026-11-25T07:25:00+01:00",
+      "source": "PAP Biznes"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Tesc-ksiecia-Harry-ego-stanie-przed-sadem-w-USA-Mroczne-sekrety-ojca-Meghan-Markle-9234561.html",
@@ -143,18 +199,66 @@
     {
       "id": "https://www.bankier.pl/wiadomosc/Murapol-w-III-kw-mial-61-7-mln-zl-zysku-netto-j-d-lekko-powyzej-konsensusu-9234615.html",
       "url": "https://www.bankier.pl/wiadomosc/Murapol-w-III-kw-mial-61-7-mln-zl-zysku-netto-j-d-lekko-powyzej-konsensusu-9234615.html",
-      "title": "Murapol pokazał wyniki. Zysk netto wzrósł o ponad 120 proc.",
-      "content_html": "Murapol w III kwartale 2026 roku miał 61,7 mln zł zysku netto j.d. oraz 353,7 mln zł przychodów. Konsensus PAP Biznes zakładał 59,5 mln zł zysku netto j.d. i 356,4 mln zł przychodów.",
+      "title": "Murapol pokazał wyniki. Zysk netto wzrósł o ponad 120 proc. Murapol w III kwartale 2026 roku miał 61,7 mln zł zysku netto j.d. oraz 353,7 mln zł przychodów. Konsensus PAP Biznes zakładał 59,5 mln zł zysku netto j.d. i 356,4 mln zł przychodów.",
+      "content_html": "",
       "date_published": "2026-11-25T07:10:00+01:00",
       "source": "Bankier.pl"
     },
     {
-      "id": "https://www.bankier.pl/wiadomosc/Budowa-mieszkan-utknela-w-urzedach-Formalnosci-trwaja-latami-9234565.html",
-      "url": "https://www.bankier.pl/wiadomosc/Budowa-mieszkan-utknela-w-urzedach-Formalnosci-trwaja-latami-9234565.html",
-      "title": "Budowa mieszkań utknęła w urzędach. Formalności trwają latami",
-      "content_html": "Proces inwestycyjny od zakupu działki do przekazania kluczy do mieszkania trwa w Warszawie i Krakowie średnio 5 lat i 9 miesięcy; uwzględnienie czasu potrzebnego na planowanie przestrzenne może wydłużyć go nawet do 16 lat - pisze w środę „Rzeczpospolita”.",
-      "date_published": "2026-11-25T07:05:00+01:00",
-      "source": "Bankier.pl"
+      "id": "https://biznes.pap.pl/wiadomosci/firmy/murapol-w-iii-kw-mial-617-mln-zl-zysku-netto-jd-lekko-powyzej-konsensusu",
+      "url": "https://biznes.pap.pl/wiadomosci/firmy/murapol-w-iii-kw-mial-617-mln-zl-zysku-netto-jd-lekko-powyzej-konsensusu",
+      "title": "Murapol w III kw. miał 61,7 mln zł zysku netto j.d., lekko powyżej konsensusu",
+      "content_html": "Murapol w III kwartale 2026 roku miał 61,7 mln zł zysku netto j.d. oraz 353,7 mln zł przychodów. Konsensus PAP Biznes zakładał 59,5 mln zł zysku netto j.d. i 356,4 mln zł przychodów.\n\nW III kwartale 2026 roku zysk operacyjny wyniósł 73,9 mln zł wobec konsensusu na poziomie 74,3 mln zł.\n\n\"Po trzech kwartałach 2026 r. grupa Murapol wypracowała 131,7 mln zł zysku netto, o 5,5 proc. więcej niż w analogicznym okresie ubiegłego roku. W ślad za zapowiadanym przez nas wcześniej mocnym przyspieszeniem tempa przekazań lokali, szczególnie dobre rezultaty przyniósł trzeci kwartał, w którym zysk netto wzrósł o ponad 120 proc. w porównaniu do analogicznego okresu ubiegłego roku. Skorygowana EBITDA zwiększyła się w pierwszych dziewięciu miesiącach o 3,9 proc. rok do roku, do niemal 195,2 mln zł, przy marży na poziomie 23,8 proc.\" - powiedział cytowany w komunikacie prasowym Przemysław Kromer, CFO, członek zarządu Murapol.\n\nWskazał, że wysoką rentowność działalności potwierdza również marża brutto ze sprzedaży przekraczająca 30 proc.\n\n\"Jednocześnie utrzymujemy bezpieczny poziom zadłużenia. Relacja długu netto do skorygowanej EBITDA za ostatnie 12 miesięcy wyniosła 1,08x, zapewniając przestrzeń do elastycznego zarządzania strukturą finansowania. W trosce o strukturę zapadalności naszego zadłużenia oraz elastyczność w realizacji ambitnych planów rozwojowych zamykamy proces refinansowania wyemitowanej w 2024 roku serii obligacji w kwocie 150 mln zł (przesuwając tym samym jej wymagalność z 2027 r. na 2030 r. w połączeniu z kompresją marży o 50 bps) oraz zabezpieczyliśmy dodatkowy limit w kwocie 70 mln zł w posiadanej przez grupę linii kredytu odnawialnego (dodatkowe środki pozostaną do dyspozycji Grupy do połowy 2028 r.)\" - powiedział.\n\n\"Dobra kondycja finansowa grupy, w połączeniu z dostępem do zewnętrznych źródeł finansowania, pozwala nam sprawnie zarządzać zobowiązaniami, zabezpieczać finansowanie bieżącej działalności i utrzymywać zdolność do realizacji przyjętych planów inwestycyjnych\" - dodał.\n\nGrupa Murapol w trzech kwartałach 2026 roku sprzedała klientom detalicznym 2.286 lokali (+2,2 proc. rdr). Na tę liczbę złożyło się 2.005 umów deweloperskich i przedwstępnych oraz 281 umów rezerwacyjnych (po wyeliminowaniu rezygnacji). W samym trzecim kwartale nastąpiło wyraźne przyspieszenie sprzedaży do klientów detalicznych, która była o 14 proc. wyższa niż drugim kwartale 2026 roku.\n\nNajwięcej lokali w segmencie deweloperskim zostało sprzedanych w Łodzi – 406, w Gdańsku – 332 oraz Warszawie – 222. Ponad 76 proc. sprzedaży Grupy stanowiły mieszkania w cenie poniżej 600 tys. zł, cieszące się największym zainteresowaniem nabywców.\n\nW pierwszych dziewięciu miesiącach 2026 roku grupa przekazała klientom detalicznym klucze do 1.552 lokali, czyli o 13,8 proc. więcej rdr. Średnia cena odebranego lokalu zwiększyła się o 6,1 proc. rdr.\n\nPodano, że Murapol konsekwentnie rozwija swoją obecność w aglomeracjach. W pierwszych dziewięciu miesiącach 2026 roku na największych rynkach zlokalizowanych było niemal 86 proc. z 1.857 mieszkań wprowadzonych przez grupę do oferty, podczas gdy w poprzednich latach udział ten wynosił około 70 proc. Najwięcej lokali zostało wprowadzonych w Gdańsku – 508, Łodzi – 390 oraz w Warszawie – 279. Na koniec września 2026 roku oferta grupy obejmowała 4.185 lokali w największych aglomeracjach i miastach regionalnych.\n\nWiększa koncentracja w aglomeracjach widoczna jest również wśród inwestycji w realizacji i przygotowaniu inwestycji. Spośród 7.630 lokali znajdujących się w budowie na koniec III kw. 2026 r. 82 proc. zlokalizowanych było w aglomeracjach. W samym segmencie R4S udział ten wynosił 71 proc. Z kolei wśród projektów R4S znajdujących się w przygotowaniu udział aglomeracji sięgał 77 proc.\n\n\"Naszą ofertę dostosowujemy do aktualnych warunków rynkowych i oczekiwań nabywców. Poprawiająca się dostępność kredytów hipotecznych pozytywnie wpływa na popyt. W okresie trzech kwartałów 2026 roku już 57 proc. nabywców korzystało z finansowani",
+      "date_published": "2026-11-25T07:09:00+01:00",
+      "source": "PAP Biznes"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/rynki/kalendarium-rynku-newconnect-2026-11-25",
+      "url": "https://biznes.pap.pl/wiadomosci/rynki/kalendarium-rynku-newconnect-2026-11-25",
+      "title": "Kalendarium rynku NewConnect 2026-11-25",
+      "content_html": "Kalendarium rynku NewConnect 2026-11-25 - 2026-12-01\n\n08:30 - GKSKAT - Nadzwyczajne walne zgromadzenie\n\n13:00 - READGENE - Nadzwyczajne walne zgromadzenie\n\n16:00 - ICECODE - Nadzwyczajne walne zgromadzenie\n\nW sprawie m.in. emisji akcji zwykłych na okaziciela serii M.",
+      "date_published": "2026-11-25T07:00:00+01:00",
+      "source": "PAP Biznes"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/ekonomia-biznes-i-finanse/przewidywane-najwazniejsze-wydarzenia-gospodarcze-2026-11-25",
+      "url": "https://biznes.pap.pl/wiadomosci/ekonomia-biznes-i-finanse/przewidywane-najwazniejsze-wydarzenia-gospodarcze-2026-11-25",
+      "title": "Przewidywane najważniejsze wydarzenia gospodarcze 2026-11-25",
+      "content_html": "Przewidywane najważniejsze wydarzenia gospodarcze 2026-11-25 - 2026-12-01\n\n10:00 - JSW - Konferencja wynikowa Spółki\n\nTransmisja wyników finansowych Grupy Kapitałowej JSW III kwartał 2026 roku.\n\n10:00 - PGE - Konferencja wynikowa Spółki\n\nKonferencja prasowa PGE związana z wynikami za III kwartał 2026 roku.\n\n11:00 - CREEPYJAR - Konferencja wynikowa Spółki\n\nKonferencja wynikowa spółki Creepy Jar za III kwartał 2026 r.\n\n12:00 - ZBP - Debata „Kto będzie zarządzał Polską w 2035 roku? Kompetencje, przywództwo i przyszłość rynku pracy”.\n\n12:00 - MURAPOL - Konferencja wynikowa Spółki\n\nWideokonferencja prasowa Murapolu nt. wyników za III kw. 2026 roku.\n\nForum Energia-Efekt-Środowisko \"Fundusze Europejskie dla energii i środowiska – rola NFOŚiGW i efekty realizacji programu FEnIKS\".\n\n16:00 - CYBERFLKS - Konferencja prasowa spółki\n\nSpotkanie z cyber_Folks, podczas którego przedstawiona zostanie przełomowa technologia AI, która radykalnie zmieni możliwości właścicieli sklepów online.\n\n09:00 - SNIEZKA - Konferencja wynikowa Spółki\n\nKonferencja poświęcona wynikom Grupy Śnieżka za pierwsze trzy kwartały 2026 roku.\n\n10:00 - REX - Konferencja wynikowa Spółki\n\nWideokonferencja prasowa Rex Concepts nt. wyników za III kw. 2026 r.\n\n11:00 - MEXPOLSKA - Konferencja wynikowa Spółki\n\nSpotkanie z zarządem Grupy Mex Polska dot. wyników finansowych za III kwartał 2026 r. i planów rozwoju na 2027 r.\n\nPrzedstawiciele Grupy Enea zaprezentują wyniki finansowe i operacyjne po trzech kwartałach 2026 roku.\n\n12:00 - ATAL - Konferencja wynikowa Spółki\n\nKonferencja online Atalu o wynikach finansowych za III kwartał 2026 r.\n\n09:00 - MIRBUD - Konferencja wynikowa Spółki\n\nKonferencja on-line Grupy Kapitałowej Mirbud poświęcona omówieniu wyników za trzy kwartały 2026 roku.\n\n09:30 - GPW - II Catalyst Forum, wydarzenie poświęcone rynkowi obligacji Catalyst, jego rozwojowi oraz roli w finansowaniu przedsiębiorstw i budowaniu możliwości inwestycyjnych.\n\n11:00 - DIAG - Konferencja wynikowa Spółki\n\nSpotkanie wynikowe online Diagnostyka SA. Podczas spotkania zarząd przedstawi wyniki finansowe za III kwartał 2026 roku oraz plany rozwoju na najbliższe miesiące.\n\n11:00 - ENTER - Konferencja wynikowa Spółki\n\nSpotkanie wynikowe Enter Air, podczas którego zarząd omówi wyniki za 3Q 2026 roku oraz przedstawi perspektywy rozwoju w kolejnych kwartałach.\n\n10:00 - TORPOL - Konferencja wynikowa Spółki\n\nWideokonferencja spółki Torpol, poświęcona omówieniu wyników finansowych za dziewięć miesięcy 2026 roku.\n\n10:30 - ECHO - Konferencja wynikowa Spółki\n\nWideokonferencja Echo Investment poświęcona omówieniu wyników Grupy za trzeci kwartał 2026 roku.\n\n13:00 - SPYROSOFT - Konferencja wynikowa Spółki\n\nSpyrosoft zaprezentuje online wyniki finansowe Grupy za III kw. 2026 r.\n\n11:00 - CLOUD - Konferencja wynikowa Spółki\n\nKonferencja online Cloud Technologies dotycząca wyników finansowych za III kwartał 2026 roku.\n\nUWAGA: Przedstawione zapowiedzi odzwierciedlają stan wiedzy na dzień ich publikacji i są codziennie aktualizowane. Zapowiedzi powstają na podstawie oficjalnych informacji przesłanych do PAP przez zainteresowane instytucje lub publicznych wypowiedzi ich przedstawicieli. Zapowiedzi nie należy traktować, jako zaproszenia.",
+      "date_published": "2026-11-25T07:00:00+01:00",
+      "source": "PAP Biznes"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/rynki/kalendarium-rynku-kapitalowego-gpw-2026-11-25",
+      "url": "https://biznes.pap.pl/wiadomosci/rynki/kalendarium-rynku-kapitalowego-gpw-2026-11-25",
+      "title": "Kalendarium rynku kapitałowego GPW 2026-11-25",
+      "content_html": "Kalendarium rynku kapitałowego GPW 2026-11-25 - 2026-12-01\n\nZaliczka dywidendy w wysokości 2,94 PLN na akcję.\n\nZaliczka na poczet dywidendy w wysokości 3,0034 EUR na akcję.\n\n11:00 - IZOSTAL - Nadzwyczajne walne zgromadzenie\n\nW sprawie uzupełnienia składu RN, przyjęcia polityki równowagi płci w organach spółki.\n\n12:00 - PBG - Nadzwyczajne walne zgromadzenie\n\n12:00 - STALPROFI - Nadzwyczajne walne zgromadzenie\n\nW sprawie uzupełnienia składu rady nadzorczej.\n\nZaliczka dywidendy w wysokości 0,35 USD na akcję.\n\nDruga transza wypłaty dywidendy w łącznej wysokości 0,13 PLN na akcję.\n\n11:00 - CELTIC - Nadzwyczajne walne zgromadzenie\n\nW sprawie odwołania członka zarządu, zmian w składzie rady nadzorczej.\n\n11:00 - ECHO - Nadzwyczajne walne zgromadzenie\n\n11:00 - PURE - Nadzwyczajne walne zgromadzenie\n\nW sprawie przyjęcia polityki wynagrodzeń członków zarządu i RN, dalszego istnienia spółki.\n\nDywidenda w wysokości 0,068 EUR na akcję.\n\nZaliczka dywidendy w wysokości 1,63 PLN na akcję.\n\n12:00 - CREOTECH - Nadzwyczajne walne zgromadzenie\n\nW sprawie przeniesienia do spółki zależnej zorganizowanej części przedsiębiorstwa, zmian w RN.",
+      "date_published": "2026-11-25T07:00:00+01:00",
+      "source": "PAP Biznes"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/firmy/wyniki-murapolu-w-iii-kw-2026-roku-vs-konsensus-pap-tabela",
+      "url": "https://biznes.pap.pl/wiadomosci/firmy/wyniki-murapolu-w-iii-kw-2026-roku-vs-konsensus-pap-tabela",
+      "title": "Wyniki Murapolu w III kw. 2026 roku vs. konsensus PAP (tabela)",
+      "content_html": "Poniżej przedstawiamy wyniki Murapolu w trzecim kwartale 2026 roku i ich odniesienie do konsensusu PAP Biznes i poprzednich wyników.\n\n*** Prognozy roczne i kwartalne dla ponad 200 spółek notowanych na GPW znajdują się w bazie Konsensusy, dostępnej dla abonentów w Serwisie Ekonomicznym PAP Biznes.",
+      "date_published": "2026-11-25T06:47:00+01:00",
+      "source": "PAP Biznes"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/rynki/rentownosci-obligacji-wybranych-panstw-tabela-1111",
+      "url": "https://biznes.pap.pl/wiadomosci/rynki/rentownosci-obligacji-wybranych-panstw-tabela-1111",
+      "title": "Rentowności obligacji wybranych państw (tabela)",
+      "content_html": "Poniżej zestawienie rentowności obligacji wybranych państw. W tabeli kolejno rentowność aktualna, rentowność dzień wcześniej, pięć dni wcześniej, miesiąc wcześniej, trzy miesiące wcześniej i dwanaście miesięcy wcześniej (w proc.)\n\nRentowności dla typowych obligacji, podane za agencją Bloomberg.(PAP Biznes)",
+      "date_published": "2026-11-25T06:38:00+01:00",
+      "source": "PAP Biznes"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/rynki/notowania-metali-bazowych-wegla-i-paliw-tabela-1678",
+      "url": "https://biznes.pap.pl/wiadomosci/rynki/notowania-metali-bazowych-wegla-i-paliw-tabela-1678",
+      "title": "Notowania metali bazowych, węgla i paliw (tabela)",
+      "content_html": "Notowania metali bazowych na London Metal Exchange, uprawnień EUA do emisji CO2, ceny węgla energetycznego ARA na przyszły rok oraz ceny paliw.",
+      "date_published": "2026-11-25T06:37:00+01:00",
+      "source": "PAP Biznes"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Trump-gotowy-ulaskawic-szefa-Nvidii-gdyby-byla-taka-potrzeba-9234566.html",
@@ -245,12 +349,36 @@
       "source": "Bankier.pl"
     },
     {
+      "id": "https://biznes.pap.pl/wiadomosci/firmy/pge-miala-zysk-netto-jd-w-iii-kw-26-w-wysokosci-3-mld-zl-zgodnie-z-szacunkami-opis",
+      "url": "https://biznes.pap.pl/wiadomosci/firmy/pge-miala-zysk-netto-jd-w-iii-kw-26-w-wysokosci-3-mld-zl-zgodnie-z-szacunkami-opis",
+      "title": "PGE miała zysk netto j.d. w III kw. '26 w wysokości 3 mld zł, zgodnie z szacunkami (opis)",
+      "content_html": "Grupa PGE odnotowała w trzecim kwartale 2026 roku 3 mld zł zysku netto j.d. - podała spółka w raporcie. Wynik jest zgodny z wcześniejszymi szacunkami.\n\nPrzychody ze sprzedaży wyniosły 15,851 mld zł (wzrost o 15 proc. rdr), a zysk z działalności operacyjnej 3,465 mld zł (wzrost o 151 proc. rdr).\n\nEBITDA wyniosła 4,613 mld zł wobec 2,524 mld zł przed rokiem, także zgodnie z szacunkami na poziomie 4,61 mld zł.\n\nEBITDA powtarzalna w trzecim kwartale sięgnęła 2,888 mld zł i była 2 proc. wyższa rdr.\n\nPo trzech kwartałach grupa PGE ma 10,988 mld zł EBITDA powtarzalnej, co oznacza wzrost o 5 proc. rdr.\n\n\"Trzeci kwartał 2026 roku zamykamy dobrymi wynikami. Wypracowaliśmy solidny powtarzalny zysk EBITDA na poziomie 2,9 mld zł, co stwarza dogodne warunki do dalszego rozwoju i wdrażania nowo zaktualizowanej Strategii Grupy PGE do 2035 roku. Realizacja planu inwestycyjnego przebiega zgodnie z przyjętymi założeniami, wspierając długoterminowy rozwój grupy, czego potwierdzeniem jest wzrost naszych wydatków inwestycyjnych. W trzecim kwartale wyniosły one blisko 4 mld zł, czyli o ponad 30 proc. więcej w porównaniu do tego samego okresu w 2025 roku\" - powiedział, cytowany w komunikacie prasowym, prezes PGE Dariusz Lubera.\n\nWydatki inwestycyjne w III kwartale 2026 roku wyniosły w ujęciu kasowym 3.977 mln zł, wobec 2.957 mln zł w analogicznym okresie w 2025 roku.\n\nWskaźnik ekonomicznego zadłużenia netto w relacji do EBITDA (ekonomiczny dług netto/ LTM EBITDA powtarzalna) wyniósł 1,05x.\n\nNajwiększy udział w EBITDA powtarzalnej ma Segment Dystrybucja: 1.224 mln zł w III kw. 2026 roku wobec 1.300 mln zł w analogicznym okresie 2025 roku, na co wpływ miały niższe pozostałe przychody z usług dystrybucyjnych wynikające ze spadku średniej ceny sprzedaży energii elektrycznej na rynku konkurencyjnym oraz niższe przychody z opłat przyłączeniowych.\n\nEBITDA powtarzalna Segmentu Energetyka Węglowa w III kw. 2026 roku wyniosła 740 mln zł wobec 105 mln zł w III kwartale roku ubiegłego.\n\nSegment Ciepłownictwo w III kw. odnotował EBITDA powtarzalną na poziomie 154 mln zł, w relacji do 207 mln zł zaraportowanej rok wcześniej.\n\nPowtarzalny wynik EBITDA Segmentu Energetyka Odnawialna w III kw. wyniósł 574 mln zł wobec 402 mln zł w analogicznym okresie 2025 roku w wyniku wyższego wolumenu produkcji.\n\nWynik powtarzalny Segmentu Obrót wyniósł 61 mln zł wobec 283 mln zł przed rokiem, na co wpływ miała - jak podano - przede wszystkim wysokość zatwierdzonej taryfy przez URE.\n\nSegment Energetyka Kolejowa wypracował zysk EBITDA w wysokości 273 mln zł wobec 295 mln zł w III kwartale 2025 roku. EBITDA powtarzalna Segmentu Energetyka Gazowa osiągnęła wartość na poziomie 338 mln zł wobec 182 mln zł rok wcześniej.\n\nProdukcja energii elektrycznej netto w III kwartale w jednostkach wytwórczych grupy PGE wyniosła 13,58 TWh wobec 12,58 TWh przed rokiem, co oznacza wzrost o 8 proc. rdr. Produkcja z węgla brunatnego wyniosła 6,73 TWh (spadek rdr o 3 proc.), z węgla kamiennego 4,09 TWh (wzrost rdr o 43 proc.), a z gazu ziemnego 1,85 TWh (spadek o 7 proc. rdr). Łączna produkcja ze źródeł odnawialnych osiągnęła 0,52 TWh. Dodatkowo produkcja w elektrowniach szczytowo-pompowych wyniosła 0,39 TWh, o 44 proc. więcej niż w tym samym okresie w 2025 roku.\n\nWolumen dystrybuowanej energii elektrycznej wyniósł 9,90 TWh, czyli o 2 proc. więcej rdr.\n\nSprzedaż energii elektrycznej do odbiorców końcowych wyniosła 7,18 TWh, czyli o 7 proc. mniej r/r. Wolumen sprzedaży ciepła wyniósł 3,20 PJ, czyli o 9 proc. mniej niż w III kwartale 2025 roku. (PAP Biznes)",
+      "date_published": "2026-11-24T18:09:00+01:00",
+      "source": "PAP Biznes"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/BoomBit-mial-w-III-kw-2026-roku-7-3-mln-zl-skor-EBITDA-wzrost-o-15-proc-rdr-9234433.html",
       "url": "https://www.bankier.pl/wiadomosc/BoomBit-mial-w-III-kw-2026-roku-7-3-mln-zl-skor-EBITDA-wzrost-o-15-proc-rdr-9234433.html",
       "title": "BoomBit poprawia zyski w III kwartale. Car Sales Simulator mocno w górę Skorygowana EBITDA grupy BoomBit w trzecim kwartale 2026 r. wzrosła o 15 proc. rdr do 7,3 mln zł. Skorygowany zysk netto wyniósł 1,9 mln zł, wobec 1,3 mln zł zysku rok wcześniej - podała spółka w komunikacie prasowym.",
       "content_html": "",
       "date_published": "2026-11-24T18:00:00+01:00",
       "source": "Bankier.pl"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/firmy/boombit-mial-w-iii-kw-2026-roku-73-mln-zl-skor-ebitda-wzrost-o-15-proc-rdr",
+      "url": "https://biznes.pap.pl/wiadomosci/firmy/boombit-mial-w-iii-kw-2026-roku-73-mln-zl-skor-ebitda-wzrost-o-15-proc-rdr",
+      "title": "BoomBit miał w III kw. 2026 roku 7,3 mln zł skor. EBITDA, wzrost o 15 proc. rdr",
+      "content_html": "Skorygowana EBITDA grupy BoomBit w trzecim kwartale 2026 r. wzrosła o 15 proc. rdr do 7,3 mln zł. Skorygowany zysk netto wyniósł 1,9 mln zł, wobec 1,3 mln zł zysku rok wcześniej - podała spółka w komunikacie prasowym.\n\nŁączne przychody z gier mobilnych wyniosły 53 mln zł w trzecim kwartale 2026 r., w porównaniu z 54,9 mln zł w drugim kwartale 2026 r. oraz 47,8 mln zł w trzecim kwartale 2025 r. Oznacza to spadek o około 3,5 proc. kdk oraz wzrost o około 11 proc. rdr.\n\nMarża pokrycia (przychody pomniejszone o UA, prowizje platform i revshare) wyniosła 15,8 mln zł, co stanowi wzrost o 1,1 mln zł, tj. o 7,4 proc. w porównaniu do III kw. 2025 r.\n\n\"Nasze flagowe tytuły pozostają fundamentem wyników Grupy, a nowe tegoroczne premiery pokazują, że potrafimy skutecznie rozwijać portfolio w różnych gatunkach. Skupiamy się na rentownym skalowaniu kluczowych gier, rozwoju nowych projektów oraz wykorzystaniu AI w produkcji, marketingu i analityce\" - powiedział, cytowany w komunikacie prasowym, prezes Marcin Olejarz.\n\n\"Trzeci kwartał potwierdził, że rynek gier mobilnych pozostaje dynamiczny i konkurencyjny. W takim otoczeniu kluczowe są skuteczne kampanie user acquisition, szybkie testowanie nowych kreacji oraz ciągła optymalizacja monetyzacji naszych tytułów\" - dodał.\n\nDarts Club pozostał najlepiej zarabiającym tytułem grupy w każdym z trzech kwartałów 2026 r. W III kw. gra wygenerowała 6,5 mln zł przychodów wobec 8 mln zł w drugim kwartale 2026 r. Car Sales Simulator, który wypracował przychody na poziomie 6,1 mln zł (26 proc. wyższe niż w II kw. 2026 r.), a Mini Golf Club miał przychody na poziomie 5,5 mln zł — o około 4 proc. mniej niż w drugim kwartale 2026 r.\n\nSześć tytułów odpowiadało łącznie za 51 proc. całkowitych przychodów z gier mobilnych w III kw. 2026 r.\n\nJak podano, w oparciu o wyniki osiągnięte dotychczas w 2026 r., priorytety grupy na bieżący rok pozostają niezmienione i nadal koncentrują się na rentownym skalowaniu gier mobilnych, wzmacnianiu portfolio poprzez premiery nowych tytułów, rozwojowi działalności Mobile Esports, na bazie sukcesu Idle Bitcoin Empire, komercyjnym wdrożeniu Applifters, utrzymaniu dyscypliny kosztowej, integracji rozwiązań AI w obszarze produkcji, marketingu i analityki. (PAP Biznes)",
+      "date_published": "2026-11-24T17:59:00+01:00",
+      "source": "PAP Biznes"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/firmy/pge-miala-zysk-netto-jd-w-iii-kw-26-w-wysokosci-3-mld-zl-zgodnie-z-szacunkami",
+      "url": "https://biznes.pap.pl/wiadomosci/firmy/pge-miala-zysk-netto-jd-w-iii-kw-26-w-wysokosci-3-mld-zl-zgodnie-z-szacunkami",
+      "title": "PGE miała zysk netto j.d. w III kw. '26 w wysokości 3 mld zł, zgodnie z szacunkami",
+      "content_html": "Grupa PGE odnotowała w trzecim kwartale 2026 roku 3 mld zł zysku netto j.d. - podała spółka w raporcie. Wynik jest zgodny z wcześniejszymi szacunkami.\n\nPrzychody ze sprzedaży wyniosły 15,851 mld zł (wzrost o 15 proc. rdr), a zysk z działalności operacyjnej 3,465 mld zł (wzrost o 151 proc. rdr).\n\nEBITDA wyniosła 4,613 mld zł wobec 2,524 mld zł przed rokiem, także zgodnie z szacunkami na poziomie 4,61 mld zł.\n\nEBITDA powtarzalna w trzecim kwartale sięgnęła 2,888 mld zł i była 2 proc. wyższa rdr.\n\nPo trzech kwartałach grupa PGE ma 10,988 mld zł EBITDA powtarzalnej, co oznacza wzrost o 5 proc. rdr. (PAP Biznes)",
+      "date_published": "2026-11-24T17:51:00+01:00",
+      "source": "PAP Biznes"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Zarzadca-PKP-Cargo-zlozyl-zazalenie-na-umorzenie-sledztwa-ws-dzialan-na-szkode-spolki-9234425.html",
@@ -261,12 +389,44 @@
       "source": "Bankier.pl"
     },
     {
+      "id": "https://biznes.pap.pl/wiadomosci/firmy/zarzadca-pkp-cargo-zlozyl-zazalenie-na-umorzenie-sledztwa-ws-dzialan-na-szkode",
+      "url": "https://biznes.pap.pl/wiadomosci/firmy/zarzadca-pkp-cargo-zlozyl-zazalenie-na-umorzenie-sledztwa-ws-dzialan-na-szkode",
+      "title": "Zarządca PKP Cargo złożył zażalenie na umorzenie śledztwa ws. działań na szkodę spółki",
+      "content_html": "Zarządca masy sanacyjnej PKP CARGO w restrukturyzacji złożył zażalenie na postanowienie o umorzeniu części śledztwa dotyczącego działań mogących skutkować wyrządzeniem spółce szkody majątkowej - podała spółka w komunikacie.\n\nJak podano, w ocenie zarządcy decyzja o umorzeniu dwóch wątków postępowania była przedwczesna, a okoliczności sprawy wymagają dalszego wyjaśnienia.\n\nDodano, że zażalenie zostało skierowane do Sądu Okręgowego w Warszawie za pośrednictwem Prokuratury Regionalnej w Warszawie i dotyczy dwóch obszarów.\n\nPierwszy z nich to podejrzenia wyrządzenia PKP CARGO szkody majątkowej przy wykonywaniu decyzji Prezesa Rady Ministrów z 25 lipca 2022 roku. Drugi z zaskarżonych wątków dotyczy podejrzenia wyrządzenia Spółce szkody majątkowej w związku z kontynuowaniem najmu wagonów w okresie od 1 kwietnia 2023 roku do 31 października 2024 roku.\n\nZarządca wniósł o uchylenie postanowienia w zaskarżonej części i przekazanie sprawy prokuratorowi do dalszego prowadzenia. Postanowienie prokuratury w pozostałej części nie zostało zaskarżone. (PAP Biznes)",
+      "date_published": "2026-11-24T17:48:00+01:00",
+      "source": "PAP Biznes"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/firmy/cd-projekt-red-mial-w-iii-kw-1085-mln-zl-zysku-netto-wobec-1024-mln-zl-konsensusu",
+      "url": "https://biznes.pap.pl/wiadomosci/firmy/cd-projekt-red-mial-w-iii-kw-1085-mln-zl-zysku-netto-wobec-1024-mln-zl-konsensusu",
+      "title": "CD Projekt RED miał w III kw. 108,5 mln zł zysku netto, wobec 102,4 mln zł konsensusu",
+      "content_html": "CD Projekt RED miał w trzecim kwartale 2026 roku 108,5 mln zł zysku netto - podała spółka w raporcie kwartalnym. Z wyliczeń PAP Biznes wynika, że zysk EBITDA spółki w tym okresie osiągnął poziom 113,3 mln zł. Konsensus zakładał 102,4 mln zł zysku netto oraz 110,5 mln zł zysku EBITDA.\n\nPrzychody dewelopera gier w III kwartale 2026 r. wyniosły 208,2 mln zł, zysk operacyjny wyniósł 100,1 mln zł. Konsensus PAP Biznes zakładał 209,3 mln zł przychodów oraz 96,9 mln zł EBIT.\n\nDla porównania rok wcześniej CD Projekt RED miał 302,9 mln zł przychodów, ok. 194 mln zł EBIT i ok. 193,5 mln zł zysku netto.\n\n\"Wiedźmin i Cyberpunk pokazują, że siła naszych franczyz wykracza daleko poza sukces pojedynczej gry. Ponad dekadę po premierze Wiedźmina 3 i sześć lat po debiucie Cyberpunka 2077 oba tytuły wciąż przyciągają ogromną liczbę graczy, zarówno tych, którzy wracają do dobrze znanych światów, jak i tych, którzy dopiero je odkrywają. To nie jest dzieło przypadku, a rezultat naszych starań\" - powiedział, cytowany w komunikacie prasowym, Michał Nowakowski, Joint CEO CD Projektu RED.\n\n\"Od lat rozwijamy nasze franczyzy na wielu polach, od kolejnych gier przez animacje i współprace z partnerami, dbając jednocześnie o spójną wizję kreatywną. Zależy nam przy tym, aby wszystkie te projekty wzajemnie się wzmacniały, dodając do uniwersum nowe historie i przyciągając nowych odbiorców\" - dodał.\n\nWiedźmin 3: Dziki Gon - Remaster pobił rekord aktywności. W pierwszy weekend po wrześniowej premierze liczba osób jednocześnie grających na platformie Steam osiągnęła 138 tys., najwięcej w ponad 11-letniej historii gry. Z kolei Cyberpunk 2077, po premierze serialu Cyberpunk: Edgerunners 2 i towarzyszącej jej aktualizacji gry, odnotował najwyższą od trzech lat liczbę jednocześnie grających na platformie Steam - ponad 187 tys.\n\n\"Fundamentem naszych przychodów pozostaje sprzedaż Cyberpunka 2077 wraz z dodatkiem Widmo wolności oraz Wiedźmina 3, od końca września w nowej, odświeżonej wersji. Jednocześnie intensywnie pracujemy nad kolejnymi premierami. W samym trzecim kwartale przeznaczyliśmy ponad 177 mln zł na rozwój nowych projektów, a mimo to nasze rezerwy gotówkowe wzrosły o 31 mln zł, do ponad 1,3 mld zł. To pokazuje, że potrafimy łączyć inwestycje w przyszłość z utrzymywaniem silnej pozycji finansowej\" – powiedział Piotr Nielubowicz, CFO dewelopera gier.\n\nPonadto spółka podjęła warunkową decyzję o wypłacie zaliczki na poczet dywidendy za rok obrotowy 2026. Całkowita wartość dywidendy wyniesie prawie 120 mln zł, co przełoży się na 1,20 zł dywidendy na akcję.\n\n\"Podstawą podjętej decyzji są solidne wyniki finansowe osiągnięte w pierwszych trzech kwartałach 2026 r., na które złożyły się utrzymująca się wysoka sprzedaż gier z naszego katalogu oraz przychody z umów licencyjnych zawartych w tym roku z partnerami zewnętrznymi. Nasza sytuacja finansowa i płynnościowa pozostaje bardzo dobra, co pozwala nam podzielić się wypracowanym zyskiem z akcjonariuszami\" - dodał Nielubowicz.\n\nWypłata zaliczki na dywidendę uzależniona jest od wydania przez biegłego rewidenta opinii z badania sprawozdania finansowego za pierwsze półrocze 2026 r. oraz od uzyskania zgody rady nadzorczej. (PAP Biznes)",
+      "date_published": "2026-11-24T17:45:00+01:00",
+      "source": "PAP Biznes"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Huuuge-mial-w-III-kw-22-1-mln-USD-skoryg-EBITDA-wobec-21-8-mln-USD-konsensusu-9234415.html",
       "url": "https://www.bankier.pl/wiadomosc/Huuuge-mial-w-III-kw-22-1-mln-USD-skoryg-EBITDA-wobec-21-8-mln-USD-konsensusu-9234415.html",
       "title": "Huuuge zaskoczył rynek zyskami. Sprzedaż bezpośrednia bije rekordy i sięga już niemal połowy przychodów Grupa Huuuge miała w III kwartale 2026 roku 22,1 mln USD skorygowanej EBITDA oraz 17,1 mln USD zysku netto j.d. - podała spółka w raporcie. Konsensus PAP Biznes zakładał 21,8 mln USD skorygowanej EBITDA oraz 15,7 mln USD zysku netto.",
       "content_html": "",
       "date_published": "2026-11-24T17:36:00+01:00",
       "source": "Bankier.pl"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/firmy/huuuge-mial-w-iii-kw-221-mln-usd-skoryg-ebitda-wobec-218-mln-usd-konsensusu",
+      "url": "https://biznes.pap.pl/wiadomosci/firmy/huuuge-mial-w-iii-kw-221-mln-usd-skoryg-ebitda-wobec-218-mln-usd-konsensusu",
+      "title": "Huuuge miał w III kw. 22,1 mln USD skoryg. EBITDA wobec 21,8 mln USD konsensusu",
+      "content_html": "Grupa Huuuge miała w III kwartale 2026 roku 22,1 mln USD skorygowanej EBITDA oraz 17,1 mln USD zysku netto j.d. - podała spółka w raporcie. Konsensus PAP Biznes zakładał 21,8 mln USD skorygowanej EBITDA oraz 15,7 mln USD zysku netto.\n\nW analogicznym okresie poprzedniego roku deweloper gier mobilnych odnotował 21,6 mln USD skorygowanej EBITDA oraz 15 mln USD zysku netto.\n\nPrzychody wyniosły 51,8 mln USD wobec 55,8 mln USD rok wcześniej. Przychody okazały się zgodne z wcześniejszymi szacunkami spółki.\n\nEBIT w trzecim kwartale wyniósł 19,1 mln USD, wobec 18,6 mln USD rok wcześniej. Analitycy ankietowani przez PAP Biznes zakładali, że zysk operacyjny w III kw. wyniesie 17,9 mln USD.\n\n\"Trzeci kwartał przyniósł powrót do wzrostu - przychody wzrosły o 1,7 proc. kw/kw. We wrześniu wprowadziliśmy Huuuge Elites - nową warstwę meta i jedną z naszych największych dotychczasowych funkcjonalności budujących zaangażowanie graczy. Poprawiła ona zaangażowanie w całej bazie graczy, a najsilniej wśród naszych najbardziej wartościowych graczy. Poprawiła się monetyzacja - ARPDAU flagowych gier wzrosło o 10 proc. rdr, a nasze flagowe gry ponownie radziły sobie lepiej niż szeroki rynek social casino\" - powiedział, cytowany w komunikacie prasowym, Wojciech Wronowski, CEO Huuuge.\n\nJak podała spółka, segment Direct-to-Consumer (DTC) osiągnął nowy rekordowy udział na poziomie 45,4 proc. przychodów ogółem w III kwartale 2026 roku (wobec 42,5 proc. w II kwartale 2026 roku) i rosnąc dalej do około 48 proc. we wrześniu i październiku 2026 roku. Jak podano, w listopadzie Huuuge przeniósł webshop na własną platformę, co daje spółce większą kontrolę nad procesem zakupowym.\n\nSkorygowana EBITDA za dziewięć miesięcy 2026 roku wyniosła 66,2 mln USD, co oznaczało spadek o 6,5 proc. rok do roku. Przychody spadły o 10 proc. rdr do 159,3 mln USD.\n\nMarża skorygowanej EBITDA wyniosła po trzech kwartałach 41,6 proc. (+1,6 p.p. rdr).\n\nŚrodki pieniężne i ich ekwiwalenty wzrosły na koniec września 2026 roku do 149,1 mln USD, przed rozliczeniem skupu akcji własnych o wartości 120 mln USD w październiku.\n\nJak podał Huuuge w komunikacie prasowym, spółka potwierdza prognozę na 2026 rok, w tym niewielki spadek przychodów netto (przychodów po prowizjach platform, które po dziewięciu miesiącach spadły o 3,6 proc. rdr) oraz marżę skorygowanej EBITDA na poziomie porównywalnym do 2025 roku.\n\nW październiku 2026 roku Huuuge zakończył skup akcji własnych o wartości 120 mln USD, odpowiadający 164 proc. wolnych przepływów pieniężnych za 2025 rok, i umorzył 16,4 mln akcji, stanowiących 36,7 proc. kapitału zakładowego.\n\nHuuuge podtrzymuje zobowiązanie do dystrybucji 50 proc. - 100 proc. rocznych wolnych przepływów pieniężnych na rzecz akcjonariuszy.\n\nSpółka poinformowała, że koncentruje się na wzmacnianiu długowieczności swoich flagowych gier z segmentu social casino poprzez utrzymanie zaangażowania graczy, rozwój sprawdzonych funkcjonalności oraz dalszą ekspansję kanału sprzedaży bezpośredniej (DTC). Równolegle spółka dąży do wejścia na rynek iGaming.\n\n\"Podejście Huuuge do ekspansji na ten rynek ewoluowało. Zamiast jednej większej transakcji spółka stawia dziś na stopniowe, kontrolowane etapy. Huuuge rozważa przy tym kilka dróg: budowę własnego rozwiązania, partnerstwa, licencjonowanie platformy oraz fuzje i przejęcia\" - napisano.\n\n\"W obszarze M&A uwaga koncentruje się na mniejszych podmiotach o wyraźnych, wymiernych synergiach. Takie podmioty łatwiej i szybciej włączyć w struktury grupy. Jednocześnie spółka pozostaje otwarta na większe transakcje, jeśli przemawia za nimi przekonujące uzasadnienie strategiczne\" - dodano. (PAP Biznes)",
+      "date_published": "2026-11-24T17:34:00+01:00",
+      "source": "PAP Biznes"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/gospodarka/od-1-grudnia-ograniczenia-w-imporcie-pojazdow-hybrydowych-do-unii",
+      "url": "https://biznes.pap.pl/wiadomosci/gospodarka/od-1-grudnia-ograniczenia-w-imporcie-pojazdow-hybrydowych-do-unii",
+      "title": "Od 1 grudnia ograniczenia w imporcie pojazdów hybrydowych do Unii",
+      "content_html": "Maksymalnie 191 tys. 780 aut hybrydowych z Chin będzie mogło trafić na rynek UE w ciągu 200 dni począwszy od 1 grudnia - wynika z rozporządzenia opublikowanego we wtorek przez Komisję Europejską. Ma to chronić przemysł europejski przed skokowym wzrostem aut z Chin.\n\nOgraniczenie na początek wejdzie w życie na 200 dni. Potem KE zdecyduje o nałożeniu środków ostatecznych. Będzie miała na to czas do 30 lipca 2027 roku.\n\nOgłoszone restrykcje są efektem porozumienia, jakie UE i Chiny zawarły 9 października w Pekinie. Dotyczy ono ograniczenia liczby samochodów hybrydowych, w tym hybryd typu plug-in, czyli ładowanych z gniazdka, trafiających na unijny rynek z Chin.\n\nGwałtowny wzrost importu hybrydowych samochodów osobowych do UE wynika z rosnącej globalnej nadwyżki mocy produkcyjnych. Przyczynia się do tego również coraz częstsze stosowanie środków ograniczających handel na innych głównych rynkach światowych.\n\nPrzeprowadzone przez KE dochodzenie wykazało, że unijni producenci samochodów hybrydowych tracą udziały w rynku, co - mimo wzrostu całego rynku we Wspólnocie - zagraża długoterminowej rentowności ich działalności w tym segmencie. Jak uzasadniła KE, istnieje bezpośrednie ryzyko poważnych szkód dla unijnego przemysłu, co uzasadnia wprowadzenie ochrony rodzimych producentów.\n\nW okresie od 1 grudnia br. do 18 czerwca 2027 roku na unijny rynek będzie mogło trafić maksymalnie 191 tys. 780 samochodów hybrydowych. Liczba ta wynika z ustalonego 9 października rocznego kontyngentu importowego, który wynosi 350 tys. pojazdów hybrydowych.\n\nW rozporządzeniu kontyngenty nałożono również na auta hybrydowe sprowadzane m.in. z Wielkiej Brytanii (105 tys. 402 na okres 200 dni), Stanów Zjednoczonych (18 tys. 482), Japonii (170 tys. 889), Turcji (126 tys. 320) i Korei (67 tys. 924). W sumie limity nałożono na dziewięć państw. Maksymalna liczba aut wyniesie 758 tys. 859 w ciągu 200 dni.",
+      "date_published": "2026-11-24T17:24:00+01:00",
+      "source": "PAP Biznes"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Wyniki-CD-Projekt-RED-w-III-kw-2026-roku-vs-konsensus-PAP-tabela-9234397.html",
@@ -277,12 +437,28 @@
       "source": "Bankier.pl"
     },
     {
+      "id": "https://biznes.pap.pl/wiadomosci/firmy/wyniki-cd-projekt-red-w-iii-kw-2026-roku-vs-konsensus-pap-tabela",
+      "url": "https://biznes.pap.pl/wiadomosci/firmy/wyniki-cd-projekt-red-w-iii-kw-2026-roku-vs-konsensus-pap-tabela",
+      "title": "Wyniki CD Projekt RED w III kw. 2026 roku vs. konsensus PAP (tabela)",
+      "content_html": "Poniżej przedstawiono wyniki CD Projekt RED w trzecim kwartale 2026 roku i ich odniesienie do konsensusu PAP Biznes.\n\n*** Konsensus tworzony jest na podstawie prognoz biur maklerskich zebranych wcześniej przez PAP. Są one dostępne w pełnej wersji Serwisu Ekonomicznego PAP Biznes. Baza konsensusów PAP zawiera prognozy wyników kwartalnych i rocznych dla ponad 200 spółek notowanych na GPW. (PAP Biznes)",
+      "date_published": "2026-11-24T17:21:00+01:00",
+      "source": "PAP Biznes"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/CD-Projekt-RED-chce-wyplacic-zaliczke-na-poczet-dywidendy-w-wysokosci-1-20-zl-na-akcje-9234388.html",
       "url": "https://www.bankier.pl/wiadomosc/CD-Projekt-RED-chce-wyplacic-zaliczke-na-poczet-dywidendy-w-wysokosci-1-20-zl-na-akcje-9234388.html",
       "title": "CD Projekt RED chce wypłacić zaliczkę na poczet dywidendy w wysokości 1,20 zł na akcję CD Projekt RED chce wypłacić ok. 119,9 mln zł zaliczki na poczet dywidendy, co daje 1,20 zł na akcję - podał deweloper gier w komunikacie.",
       "content_html": "",
       "date_published": "2026-11-24T17:16:00+01:00",
       "source": "Bankier.pl"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/firmy/cd-projekt-red-chce-wyplacic-zaliczke-na-poczet-dywidendy-w-wysokosci-120-zl-na",
+      "url": "https://biznes.pap.pl/wiadomosci/firmy/cd-projekt-red-chce-wyplacic-zaliczke-na-poczet-dywidendy-w-wysokosci-120-zl-na",
+      "title": "CD Projekt RED chce wypłacić zaliczkę na poczet dywidendy w wysokości 1,20 zł na akcję",
+      "content_html": "CD Projekt RED chce wypłacić ok. 119,9 mln zł zaliczki na poczet dywidendy, co daje 1,20 zł na akcję - podał deweloper gier w komunikacie.\n\nJak podano, zaliczka zostanie wypłacona pod warunkiem wydania przez biegłego rewidenta opinii z trwającego aktualnie badania Sprawozdania Finansowego oraz uzyskania zgody rady Nadzorczej spółki.\n\nDzień, według którego ustalona będzie lista akcjonariuszy spółki uprawnionych do zaliczki, określono na 22 grudnia 2026 roku, a termin wypłaty zaliczki ustalono na 29 grudnia 2026 roku. (PAP Biznes)",
+      "date_published": "2026-11-24T17:15:00+01:00",
+      "source": "PAP Biznes"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Wyniki-Huuuge-w-III-kw-2026-roku-vs-konsensus-PAP-tabela-9234381.html",
@@ -299,6 +475,30 @@
       "content_html": "",
       "date_published": "2026-11-24T17:14:00+01:00",
       "source": "Bankier.pl"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/firmy/wyniki-huuuge-w-iii-kw-2026-roku-vs-konsensus-pap-tabela",
+      "url": "https://biznes.pap.pl/wiadomosci/firmy/wyniki-huuuge-w-iii-kw-2026-roku-vs-konsensus-pap-tabela",
+      "title": "Wyniki Huuuge w III kw. 2026 roku vs. konsensus PAP (tabela)",
+      "content_html": "Poniżej przedstawiono wyniki Huuuge w trzecim kwartale 2026 roku i ich odniesienie do konsensusu PAP Biznes oraz poprzednich wyników.\n\n*** Konsensus tworzony jest na podstawie prognoz biur maklerskich zebranych wcześniej przez PAP. Baza konsensusów PAP zawiera prognozy wyników kwartalnych i rocznych dla ponad 200 spółek notowanych na GPW. (PAP Biznes)",
+      "date_published": "2026-11-24T17:13:00+01:00",
+      "source": "PAP Biznes"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/gry-i-technologie/polskie-firmy-it-powinny-zyskac-wiekszy-udzial-w-cyfryzacji-panstwa",
+      "url": "https://biznes.pap.pl/wiadomosci/gry-i-technologie/polskie-firmy-it-powinny-zyskac-wiekszy-udzial-w-cyfryzacji-panstwa",
+      "title": "Polskie firmy IT powinny zyskać większy udział w cyfryzacji państwa - CyberMadeInPoland, Xopero",
+      "content_html": "Zwiększenie udziału krajowych dostawców w zamówieniach publicznych, wsparcie rozwoju własnych produktów i premiowanie lokalnej własności intelektualnej mają wzmocnić polski sektor technologiczny - wynika z raportu \"Polskie technologie w cieniu globalnych graczy. Jak zatrzymać wartość, którą tworzymy? Rekomendacje dla państwa i rynku\", przygotowanym przez CyberMadeInPoland oraz Xopero.\n\nW raporcie przedstawiono komentarze eksperckie i analizy praktyków branżowych, a wnioski i rekomendacje, jakie z nich płyną, zostały uporządkowane w siedem filarów, tworzących fundamenty świadomego budowania suwerenności technologicznej państwa.\n\nPodano, że Polska potrzebuje operacyjnej definicji suwerenności technologicznej jako fundamentu polityki państwa. Wskazano, że suwerenność nie oznacza izolacji od globalnego rynku ani deklaratywnej \"lokalności\", lecz zdolność do kontroli nad strategicznymi systemami, własnością technologiczną i scenariuszami awaryjnego działania w obszarach krytycznych.\n\n\"Publiczny popyt powinien celowo budować polskie referencje technologiczne w obszarach strategicznych (takich jak cyberbezpieczeństwo i e-usługi), zamiast wyłącznie finansować zewnętrznych dostawców\" - napisano.\n\n\"Konieczne jest wprowadzenie procedur neutralnych technologicznie, punktowanie lokalnego IP oraz edukacja urzędników w zakresie efektywnej realizacji Polityki Zakupowej Państwa\" - dodano.\n\nJako rekomendację wskazano także, że mechanizmy finansowania, dotacje oraz ulgi podatkowe muszą premiować budowę własnych produktów i projektów deeptech, zamiast wspierania wyłącznie niskomarżowej sprzedaży usług.\n\n\"Krajowe firmy muszą wypracować wspólne standardy wymiany danych oraz zdolność do budowania silnych konsorcjów, umożliwiających podjęcie konkurencji w przetargach o dużej skali. Suwerenność wymaga powołania centralnego ośrodka koordynacji technologii, stałego audytowania zależności infrastruktury krytycznej oraz rotacji ekspertów między sektorem publicznym a prywatnym\" - napisano.\n\n\"Globalna rozpoznawalność marki zbyt często zastępuje realną ocenę kompetencji, bezpieczeństwa i wartości strategicznej rozwiązań. Budowa cyfrowej podmiotowości wymaga bardziej dojrzałych kryteriów oceny technologii, które uwzględniają nie tylko cenę i reputację dostawcy, ale także kontrolę technologiczną, odporność operacyjną i długoterminową wartość dla gospodarki\" - dodano.\n\nWedług analityków PMR Experts wartość polskiego rynku IT w 2025 r. wyniosła 74 mld zł, z czego za połowę wartości odpowiadała produkcja sprzętu, a za drugą połowę oprogramowanie i usługi.\n\nW strukturze rynku IT wyraźnie dominują trzy główne segmenty: sprzęt IT – odpowiadający za ok. 49 proc. rynku IT, oprogramowanie – o udziale ok. 27 proc. rynku IT, usługi IT – odpowiadające za ok. 24 proc. rynku IT.\n\nW raporcie wskazano, że procentowa rokroczna dynamika rozwoju rynku IT w Polsce cechuje się dużą fluktuacją – w latach 2021 oraz 2022 rynek notował dwucyfrowe wzrosty, czego przyczyną była postępująca cyfryzacja wywołana pandemią COVID-19.\n\n\"Jeśli przeanalizujemy lata 2020–2025, to z wyłączeniem wskazanych dwóch lat branża rośnie stabilnie na poziomie 3–5 proc. rocznie. (...) eksperci szacują, że wartość polskiego IT w 2029 r. osiągnie wartość 85 mld zł przy delikatnym spowolnieniu CAGR\" - napisano.\n\nPodano, że głównymi czynnikami popytu na rozwiązania w IT w Polsce są: postępująca cyfryzacja i związane z nią dofinansowania – ostatnie lata to bezprecedensowy wzrost wydatków publicznych na cyfryzację; regulacje – szczególnie w obszarze cyberbezpieczeństwa – takie jak NIS2, DORA czy CRA wymuszają na przedsiębiorstwach wzrost nakładów na rozwiązania w tym obszarze, a także megatrendy – w szczególności: sztuczna inteligencja, automatyzacja procesów, półprzewodniki, chmura obliczeniowa oraz cyberbezpieczeństwo.\n\n\"Często pojawia się pytanie - nie tylko w Polsce, ale w większości krajów Unii Europejskiej - w jaki sposób osiągnąć suwerenność i jak cyfryzować państwo. (...) Realizując te zadania jako Ministe",
+      "date_published": "2026-11-24T17:07:00+01:00",
+      "source": "PAP Biznes"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/ekonomia-biznes-i-finanse/skrot-wiadomosci-wtorek-24-listopada-1700",
+      "url": "https://biznes.pap.pl/wiadomosci/ekonomia-biznes-i-finanse/skrot-wiadomosci-wtorek-24-listopada-1700",
+      "title": "Skrót wiadomości - wtorek, 24 listopada, 17.00",
+      "content_html": "Przegląd najważniejszych wiadomości gospodarczych, krajowych i ze świata.\n\nDane makro za październik wskazują, że nie ma boomu w polskiej gospodarce i może ona się dalej rozwijać poniżej produktu potencjalnego, czyli sama się schłodzi, wobec czego sprzyja to stabilizacji stóp procentowych -poinformował PAP Biznes członek RPP Ireneusz Dąbrowski.\n\nSprzedaż detaliczna w cenach stałych w październiku 2026 r. wzrosła o 3,5 proc. w ujęciu rocznym, a w ujęciu miesięcznym wzrosła o 7,3 proc. - podał Główny Urząd Statystyczny. Sprzedaż detaliczna w cenach bieżących w ubiegłym miesiącu wzrosła o 6,4 proc. rdr.\n\nW październiku ceny skupu podstawowych produktów rolnych, tj. pszenicy, żyta, żywca wołowego, żywca wieprzowego, drobiu i mleka krowiego w ujęciu rok do roku spadły o 11,9 proc., po spadku o 12,6 proc. przed miesiącem - podał Główny Urząd Statystyczny.\n\nNakłady inwestycyjne przedsiębiorstw w I-III kw. wzrosły o 13,3 proc. rdr i wyniosły 160,9 mld zł - podał GUS.\n\nWynik finansowy firm po III kwartałach wzrósł o 45 proc. rdr i wyniósł 210,8 mld zł - podał GUS. Zysk netto wyniósł 252,0 mld zł i był wyższy o 52,7 mld zł (o 26,4 proc.) od uzyskanego za 3 kwartały 2025 r., a strata netto - 41,1 mld zł i była niższa o 12,8 mld zł w skali roku.\n\nW październiku 2026 r. wartość sprzedaży detalicznej przez Internet w cenach bieżących wzrosła o 9,8 proc. rdr - podał Główny Urząd Statystyczny.\n\nW listopadzie ogólny wskaźnik syntetyczny koniunktury dla Polski wyniósł 97,4 wobec 97,2 w aździerniku - podał Główny Urząd Statystyczny.\n\nKoniunktura w handlu w IV kwartale 2026 r. uległa nieznacznemu pogorszeniu - wynika z badania Instytutu Rozwoju Gospodarczego SGH.\n\nPodaż pieniądza M3 w październiku 2026 r. wzrosła o 12,1 proc. rdr do 2.993.114,892 mln zł - podał Narodowy Bank Polski. W ujęciu miesięcznym podaż pieniądza wzrosła o 0,7 proc.\n\nWskaźnik inwestycji gospodarstw domowych w Unii Europejskiej wyniósł 8,1 proc. w 2025 r., podczas gdy Polska należała do grupy krajów o najniższej aktywności inwestycyjnej gospodarstw domowych w UE - wynika z danych Eurostatu.\n\nIndeks Ifo, obrazujący nastroje wśród przedsiębiorców niemieckich, wyniósł w listopadzie 90,6 pkt. wobec 90,1 pkt. miesiąc wcześniej, po korekcie z 90,2 pkt. - podał instytut Ifo w komunikacie. Analitycy spodziewali się indeksu na poziomie 90,5 pkt.\n\nProdukcja stali surowej w UE w październiku spadła rdr o 4,0 proc. do 10,5 mln ton - wynika z danych stowarzyszenia World Steel Association.\n\nAmerykański wskaźnik aktywności wytwórczej Richmond Fed w listopadzie wyniósł 3 pkt. wobec -2 pkt. miesiąc wcześniej - poinformował oddział Fed w Richmond.\n\nIndeks zaufania amerykańskich konsumentów wzrósł w listopadzie do 103,3 pkt. z 91,9 pkt. miesiąc wcześniej, po korekcie z 91,7 pkt. - wynika z raportu Conference Board.\n\nMinisterstwo Finansów utrzymuje oprocentowanie i marże obligacji detalicznych w ofercie na grudzień - podał resort w komunikacie.\n\nLiczba pracujących mierzona ubezpieczeniem emerytalnym i rentowym w III kwartale spadła do 16,248 mln - podał ZUS.\n\nBank Gospodarstwa Krajowego na przetargu 26 listopada, w ramach emisji na rzecz Funduszu Przeciwdziałania COVID-19, zaoferuje papiery serii FPC0229, FPC0231, FPC0931 i FPC0235; podaż wyniesie minimalnie 500 mln zł - podał bank w komunikacie.\n\nPKO Bank Polski koncentruje się na komercjalizacji projektów embedded finance realizowanych w partnerstwie z Allegro oraz Żabką. Model może mieć materialny wpływ na rozwój PKO BP, a po kilku tygodniach przyniósł już kilkadziesiąt tysięcy nowych klientów - powiedział PAP Biznes prezes Szymon Midera.\n\nSprzedaż miedzi przez grupę KGHM wyniosła w październiku 59,3 tys. ton i była wyższa o 2 proc. rdr. Produkcja miedzi płatnej KGHM wyniosła 61,8 tys. ton, co oznacza wzrost o 2 proc. rdr - podała grupa w komunikacie dotyczącym wstępnych wyników produkcyjnych i sprzedażowych.\n\nZarząd KGHM Polska Miedź podjął uchwałę w sprawie wyrażenia zgody na udzielenie gwarancji korporacyjnej dla Sierra Gorda w związku z ",
+      "date_published": "2026-11-24T17:00:00+01:00",
+      "source": "PAP Biznes"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Sprzedaz-miedzi-przez-grupe-KGHM-wyniosla-w-pazdzierniku-59-3-tys-ton-wzrost-o-2-proc-rdr-9234359.html",
@@ -325,12 +525,108 @@
       "source": "Bankier.pl"
     },
     {
+      "id": "https://biznes.pap.pl/wiadomosci/firmy/nwz-wittchen-zdecyduje-ws-buybacku-0",
+      "url": "https://biznes.pap.pl/wiadomosci/firmy/nwz-wittchen-zdecyduje-ws-buybacku-0",
+      "title": "NWZ Wittchen zdecyduje ws. buybacku",
+      "content_html": "Akcjonariusze Wittchen zdecydują w sprawie upoważnienia zarządu do nabywania akcji własnych oraz utworzenia kapitału rezerwowego na ten cel - wynika z projektów uchwał NWZ zwołanego na 21 grudnia 2026",
+      "date_published": "2026-11-24T16:19:00+01:00",
+      "source": "PAP Biznes"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/gospodarka/euro-w-ebc-10963-usd-i-17439-jpy",
+      "url": "https://biznes.pap.pl/wiadomosci/gospodarka/euro-w-ebc-10963-usd-i-17439-jpy",
+      "title": "Euro w EBC: 1,0963 USD i 174,39 JPY",
+      "content_html": "Europejski Bank Centralny (EBC) ustalił kurs euro na 1,0963 USD i 174,39 JPY - podał bank na swojej stronie internetowej.",
+      "date_published": "2026-11-24T16:08:00+01:00",
+      "source": "PAP Biznes"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/firmy/moodys-potwierdzil-rating-millennium-na-poziomie-baa1-i-zmienil-perspektywe-na-0",
+      "url": "https://biznes.pap.pl/wiadomosci/firmy/moodys-potwierdzil-rating-millennium-na-poziomie-baa1-i-zmienil-perspektywe-na-0",
+      "title": "Moody's potwierdził rating Millennium na poziomie \"Baa1\" i zmienił perspektywę na pozytywną (opis)",
+      "content_html": "Agencja ratingowa Moody’s potwierdziła długoterminowe ratingi depozytów bankowych Banku Millennium na poziomie \"Baa1\" oraz zmieniła perspektywę ze stabilnej na pozytywną - podał Moody's w komunikacie.\n\nJednocześnie agencja potwierdziła m.in. podstawową ocenę kredytową (BCA) banku na poziomie \"ba1\".\n\nJak podano, potwierdzenie ratingu BCA na poziomie \"ba1\" odzwierciedla utrzymującą się stopniową poprawę profilu finansowego banku, zwłaszcza w zakresie rentowności, w miarę jak zanikają koszty związane z ryzykiem prawnym wynikającym z kredytów frankowych. W ocenie agencji, wyższa rentowność banku wspiera generowanie kapitału z działalności operacyjnej oraz dalszy rozwój działalności.\n\nAgencja Moody’s przyznała także Bankowi Millennium rating emitenta XG na poziomie \"Baa3.xg\".\n\nAgencja podała, że ratingi emitentów XG odzwierciedlają zdolność danej instytucji do spłaty długu uprzywilejowanego niezabezpieczonego oraz zobowiązań o charakterze dłużnym bez jakiegokolwiek domyślnego nadzwyczajnego wsparcia rządowego. Uwzględniają one, w stosownych przypadkach, wsparcie ze strony podmiotów powiązanych oraz stratę w przypadku niewypłacalności, jaką ponieśliby wierzyciele uprzywilejowani niezabezpieczeni w przypadku braku wsparcia rządowego. (PAP Biznes)",
+      "date_published": "2026-11-24T16:06:00+01:00",
+      "source": "PAP Biznes"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/firmy/moodys-potwierdzil-rating-millennium-na-poziomie-baa1-i-zmienil-perspektywe-na",
+      "url": "https://biznes.pap.pl/wiadomosci/firmy/moodys-potwierdzil-rating-millennium-na-poziomie-baa1-i-zmienil-perspektywe-na",
+      "title": "Moody's potwierdził rating Millennium na poziomie \"Baa1\" i zmienił perspektywę na pozytywną",
+      "content_html": "Agencja ratingowa Moody’s potwierdziła długoterminowe ratingi depozytów bankowych Banku Millennium na poziomie Baa1 oraz zmieniła perspektywę ze stabilnej na pozytywną - podał Moody's w komunikacie. (",
+      "date_published": "2026-11-24T15:54:00+01:00",
+      "source": "PAP Biznes"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/rynki/po-otwarciu-sesji-dji-spada-o-03-proc-sp500-traci-12-proc",
+      "url": "https://biznes.pap.pl/wiadomosci/rynki/po-otwarciu-sesji-dji-spada-o-03-proc-sp500-traci-12-proc",
+      "title": "Po otwarciu sesji DJI spada o 0,3 proc., a S&P500 traci 1,2 proc.",
+      "content_html": "Po otwarciu sesji w USA Dow Jones Industrial spada o 0,30 proc. do 49.452,96 pkt., S&P500 traci 1,2 proc. i wynosi 7.145,7 pkt.",
+      "date_published": "2026-11-24T15:37:00+01:00",
+      "source": "PAP Biznes"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/konsument/startup-wonderscent-pozyskal-9-mln-zl-srodki-przeznaczy-na-rozwoj-produktu",
+      "url": "https://biznes.pap.pl/wiadomosci/konsument/startup-wonderscent-pozyskal-9-mln-zl-srodki-przeznaczy-na-rozwoj-produktu",
+      "title": "Startup Wonderscent pozyskał 9 mln zł; środki przeznaczy na rozwój produktu",
+      "content_html": "Warszawski startup Wonderscent, udostępniający aplikację dobierającą perfumy do gustu użytkownika, pozyskał 9 mln złotych w rundzie pre‑seed od funduszu Market One Capital, Flyer One Ventures oraz ani",
+      "date_published": "2026-11-24T15:26:00+01:00",
+      "source": "PAP Biznes"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/firmy/polska-chce-jeszcze-w-tym-roku-wprowadzic-temat-ets2-na-unijna-rade-ministrow-ds",
+      "url": "https://biznes.pap.pl/wiadomosci/firmy/polska-chce-jeszcze-w-tym-roku-wprowadzic-temat-ets2-na-unijna-rade-ministrow-ds",
+      "title": "Polska chce jeszcze w tym roku wprowadzić temat ETS2 na unijną radę ministrów ds. środowiska – Bolesta",
+      "content_html": "Polska niezmiennie chce, żeby kwestia wprowadzenia dobrowolności albo przesunięcia ETS2 co najmniej do 2030 r. była częścią dyskusji na unijnej radzie UE ds. środowiska 11 grudnia, jednak irlandzka pr",
+      "date_published": "2026-11-24T15:18:00+01:00",
+      "source": "PAP Biznes"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Kurs-KGHM-spada-o-7-3-proc-do-239-zl-WIG20-znizkuje-o-2-5-proc-9234249.html",
       "url": "https://www.bankier.pl/wiadomosc/Kurs-KGHM-spada-o-7-3-proc-do-239-zl-WIG20-znizkuje-o-2-5-proc-9234249.html",
       "title": "Przecena akcji KGHM. Kurs spada o 7,3 proc. przy wysokich obrotach Kurs akcji KGHM spada o 7,3 proc. do 239 zł przy wysokich obrotach. Indeks WIG20 zniżkuje o 2,5 proc.",
       "content_html": "",
       "date_published": "2026-11-24T15:16:00+01:00",
       "source": "Bankier.pl"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/gospodarka/mf-utrzymuje-oprocentowanie-i-marze-obligacji-detalicznych-w-ofercie-na-5",
+      "url": "https://biznes.pap.pl/wiadomosci/gospodarka/mf-utrzymuje-oprocentowanie-i-marze-obligacji-detalicznych-w-ofercie-na-5",
+      "title": "MF utrzymuje oprocentowanie i marże obligacji detalicznych w ofercie na grudzień",
+      "content_html": "Ministerstwo Finansów utrzymuje oprocentowanie i marże obligacji detalicznych w ofercie na grudzień - podał resort w komunikacie.",
+      "date_published": "2026-11-24T15:15:00+01:00",
+      "source": "PAP Biznes"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/firmy/kurs-kghm-spada-o-73-proc-do-239-zl-wig20-znizkuje-o-25-proc",
+      "url": "https://biznes.pap.pl/wiadomosci/firmy/kurs-kghm-spada-o-73-proc-do-239-zl-wig20-znizkuje-o-25-proc",
+      "title": "Kurs KGHM spada o 7,3 proc., do 239 zł; WIG20 zniżkuje o 2,5 proc.",
+      "content_html": "Kurs akcji KGHM spada o 7,3 proc. do 239 zł przy wysokich obrotach. Indeks WIG20 zniżkuje o 2,5 proc.",
+      "date_published": "2026-11-24T15:05:00+01:00",
+      "source": "PAP Biznes"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/firmy/bgk-zaoferuje-na-przetargu-26-listopada-4-serie-obligacji-fpc-za-minimalnie-500",
+      "url": "https://biznes.pap.pl/wiadomosci/firmy/bgk-zaoferuje-na-przetargu-26-listopada-4-serie-obligacji-fpc-za-minimalnie-500",
+      "title": "BGK zaoferuje na przetargu 26 listopada 4 serie obligacji FPC za minimalnie 500 mln zł",
+      "content_html": "Bank Gospodarstwa Krajowego na przetargu 26 listopada, w ramach emisji na rzecz Funduszu Przeciwdziałania COVID-19, zaoferuje papiery serii FPC0229, FPC0231, FPC0931 i FPC0235; podaż wyniesie minimaln",
+      "date_published": "2026-11-24T15:00:00+01:00",
+      "source": "PAP Biznes"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/firmy/ghelamco-zawarlo-warunkowa-umowe-sprzedazy-projektu-biurowego-vibe-ii-za-436-mln",
+      "url": "https://biznes.pap.pl/wiadomosci/firmy/ghelamco-zawarlo-warunkowa-umowe-sprzedazy-projektu-biurowego-vibe-ii-za-436-mln",
+      "title": "Ghelamco zawarło warunkową umowę sprzedaży projektu biurowego Vibe II za 43,6 mln euro",
+      "content_html": "Ghelamco zawarło warunkową umowę sprzedaży projektu biurowego Vibe II w Warszawie na rzecz spółki z grupy Penta Real Estate za 43,6 mln euro - poinformowała spółka w komunikacie prasowym. Środki ze sp",
+      "date_published": "2026-11-24T14:51:00+01:00",
+      "source": "PAP Biznes"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/gospodarka/pengab-w-xi-spadl-do-235-pkt-prognozy-na-kolejne-miesiace-ostrozniejsze-popr",
+      "url": "https://biznes.pap.pl/wiadomosci/gospodarka/pengab-w-xi-spadl-do-235-pkt-prognozy-na-kolejne-miesiace-ostrozniejsze-popr",
+      "title": "Pengab w XI spadł do 23,5 pkt.; prognozy na kolejne miesiące ostrożniejsze (popr.)",
+      "content_html": "Wskaźnik koniunktury bankowej spadł w listopadzie w porównaniu do października o 4,3 pkt. i wyniósł 23,5 pkt. - poinformowały Związek Banków Polskich oraz Minds & Roses. Słabnie optymizm na rynku bank",
+      "date_published": "2026-11-24T14:24:00+01:00",
+      "source": "PAP Biznes"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Unibep-w-27-moze-odnotowac-dwucyfrowy-wzrost-przychodow-w-segmencie-budownictwa-ogolnego-9234189.html",
@@ -402,14 +698,6 @@
       "title": "Wielka fuzja w farmacji. Sanofi przejmuje Insmed za 41 mld dolarów Francuski gigant farmaceutyczny Sanofi ogłosił zawarcie porozumienia w sprawie zakupu amerykańskiej spółki biotechnologicznej Insmed za 41 mld dolarów. To największa transakcja paryskiego koncernu od ponad dwóch dekad. Przejęcie ma zabezpieczyć przychody grupy przed nadchodzącym klifem patentowym jej flagowego leku - informuje \"Financial Times\".",
       "content_html": "",
       "date_published": "2026-11-24T10:47:00+01:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Budowa-finansowej-formy-Najtrudniejszy-jest-start-9233520.html",
-      "url": "https://www.bankier.pl/wiadomosc/Budowa-finansowej-formy-Najtrudniejszy-jest-start-9233520.html",
-      "title": "DROGA DO 1000% Budowa finansowej formy. Najtrudniejszy jest start O tym, że najtrudniej jest zaczać, mówił m.in. legendarny inwestor Charlie Munger, wieloletni wspólnik Warrena Buffetta. Później jest już łatwiej – zwłaszcza gdy wyrobimy sobie nawyk regularnego odkładania, a procent składany zacznie działać mocniej, niż się spodziewamy. Podobnie jest w sporcie: najtrudniej wystartować i nabrać prędkości. Potem jest już znacznie łatwiej.",
-      "content_html": "",
-      "date_published": "2026-11-24T10:00:00+01:00",
       "source": "Bankier.pl"
     }
   ]
