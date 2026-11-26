@@ -5,6 +5,46 @@
   "home_page_url": "https://www.bankier.pl",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/TSUE-rozstrzygnal-sprawe-z-pytaniem-krakowskiego-sadu-ws-WIBOR-u-Kluczowe-sa-obowiazki-informacyjne-banku-wobec-klienta-9235432.html",
+      "url": "https://www.bankier.pl/wiadomosc/TSUE-rozstrzygnal-sprawe-z-pytaniem-krakowskiego-sadu-ws-WIBOR-u-Kluczowe-sa-obowiazki-informacyjne-banku-wobec-klienta-9235432.html",
+      "title": "TSUE rozstrzygnął sprawę ws. WIBOR-u. Kluczowe są obowiązki informacyjne banku wobec klienta",
+      "content_html": "Brak górnej granicy wzrostu wskaźnika referencyjnego WIBOR nie może sam w sobie powodować, że warunek umowy przewidujący zmienną stopę oprocentowania opartą na tym wskaźniku ma nieuczciwy charakter - orzekł w czwartek Trybunał Sprawiedliwości w polskiej sprawie dot. kredytu hipotecznego (C-607/25).",
+      "date_published": "2026-11-26T11:51:00+01:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Tusk-zlecil-BGK-zapewnienie-finansowania-Trybunalu-Konstytucyjnego-po-blokadzie-rachunkow-9235435.html",
+      "url": "https://www.bankier.pl/wiadomosc/Tusk-zlecil-BGK-zapewnienie-finansowania-Trybunalu-Konstytucyjnego-po-blokadzie-rachunkow-9235435.html",
+      "title": "Tusk zlecił BGK zapewnienie finansowania Trybunału Konstytucyjnego po blokadzie rachunków",
+      "content_html": "Rzecznik rządu Adam Szłapka poinformował w czwartek, że premier Donald Tusk wydał dyspozycję, aby Bank Gospodarstwa Krajowego zapewniał finansowanie Trybunału Konstytucyjnego. Dodał, że środki na ten cel zabezpieczy minister finansów.",
+      "date_published": "2026-11-26T11:48:00+01:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Wyrok-TSUE-w-sprawie-odliczania-podatku-VAT-Kluczowy-jest-moment-otrzymania-faktury-9235477.html",
+      "url": "https://www.bankier.pl/wiadomosc/Wyrok-TSUE-w-sprawie-odliczania-podatku-VAT-Kluczowy-jest-moment-otrzymania-faktury-9235477.html",
+      "title": "Wyrok TSUE w sprawie odliczania podatku VAT. Kluczowy jest moment otrzymania faktury",
+      "content_html": "Trybunał Sprawiedliwości UE orzekł w czwartek, że podatnik może odliczyć podatek VAT dopiero w okresie rozliczeniowym, w którym łącznie spełnione zostały dwa warunki: powstało prawo do odliczenia i podatnik otrzymał fakturę. Pytanie prejudycjalne w tej sprawie zadał TSUE Naczelny Sąd Administracyjny.",
+      "date_published": "2026-11-26T11:29:00+01:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Polska-ostrozniej-podejdzie-do-zadluzania-sie-za-granica-MF-wyjasnia-9235474.html",
+      "url": "https://www.bankier.pl/wiadomosc/Polska-ostrozniej-podejdzie-do-zadluzania-sie-za-granica-MF-wyjasnia-9235474.html",
+      "title": "Polska ostrożniej podejdzie do zadłużania się za granicą. MF wyjaśnia",
+      "content_html": "Przy wysokich potrzebach pożyczkowych budżetu państwa należy ostrożnie podchodzić do finansowania w walutach obcych; pełni ono uzupełniającą rolę - ocenił zastępca dyrektora departamentu długu publicznego w Ministerstwie Finansów Marek Szczerbak, podczas konferencji \"Wyzwania Bankowości\".",
+      "date_published": "2026-11-26T11:28:00+01:00",
+      "source": "Bankier.pl"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Strefa-zakazu-lotow-na-wschodniej-granicy-nie-wplynie-na-ruch-pasazerski-9235469.html",
+      "url": "https://www.bankier.pl/wiadomosc/Strefa-zakazu-lotow-na-wschodniej-granicy-nie-wplynie-na-ruch-pasazerski-9235469.html",
+      "title": "Strefa zakazu lotów na wschodniej granicy nie wpłynie na ruch pasażerski",
+      "content_html": "Minister infrastruktury Dariusz Klimczak powiedział w czwartek PAP, że jego zdaniem strefa zakazu lotów wzdłuż wschodniej granicy nie wpłynie na ruch pasażerski. Wicepremier, szef MON Władysław Kosiniak-Kamysz zapowiedział, że rząd wprowadzi ją „jak najszybciej\".",
+      "date_published": "2026-11-26T11:25:00+01:00",
+      "source": "Bankier.pl"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Uszczelnienie-Karty-Polaka-polityka-powrotowa-i-500-mln-dla-Polonii-Sikorski-odslania-karty-9235437.html",
       "url": "https://www.bankier.pl/wiadomosc/Uszczelnienie-Karty-Polaka-polityka-powrotowa-i-500-mln-dla-Polonii-Sikorski-odslania-karty-9235437.html",
       "title": "Uszczelnienie Karty Polaka, polityka powrotowa i 500 mln dla Polonii. Sikorski odsłania karty",
@@ -26,22 +66,6 @@
       "title": "Śnieżka nie spodziewa się szybkiego odbicia popytu w Polsce",
       "content_html": "Śnieżka nie widzi przesłanek do szybkiego odbicia popytu na polskim rynku farb. Sytuacja w czwartym kwartale jest stabilna - poinformowali przedstawiciele spółki podczas wideokonferencji. Śnieżka rozpoczyna sprzedaż na nowych rynkach - czeskim i słowackim.",
       "date_published": "2026-11-26T10:40:00+01:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Tusk-zlecil-BGK-zapewnienie-finansowania-Trybunalu-Konstytucyjnego-po-blokadzie-rachunkow-9235435.html",
-      "url": "https://www.bankier.pl/wiadomosc/Tusk-zlecil-BGK-zapewnienie-finansowania-Trybunalu-Konstytucyjnego-po-blokadzie-rachunkow-9235435.html",
-      "title": "Tusk zlecił BGK zapewnienie finansowania Trybunału Konstytucyjnego po blokadzie rachunków",
-      "content_html": "Rzecznik rządu Adam Szłapka poinformował w czwartek, że premier Donald Tusk wydał dyspozycję, by Bank Gospodarstwa Krajowego zapewniał finansowanie Trybunału Konstytucyjnego. Dodał, że środki na ten cel zabezpieczy minister finansów.",
-      "date_published": "2026-11-26T10:39:00+01:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/TSUE-rozstrzygnal-sprawe-z-pytaniem-krakowskiego-sadu-ws-WIBOR-u-Kluczowe-sa-obowiazki-informacyjne-banku-wobec-klienta-9235432.html",
-      "url": "https://www.bankier.pl/wiadomosc/TSUE-rozstrzygnal-sprawe-z-pytaniem-krakowskiego-sadu-ws-WIBOR-u-Kluczowe-sa-obowiazki-informacyjne-banku-wobec-klienta-9235432.html",
-      "title": "TSUE rozstrzygnął sprawę ws. WIBOR-u. Kluczowe są obowiązki informacyjne banku wobec klienta",
-      "content_html": "Brak górnej granicy wzrostu wskaźnika referencyjnego WIBOR nie może sam w sobie powodować, że warunek umowy przewidujący zmienną stopę oprocentowania opartą na tym wskaźniku ma nieuczciwy charakter - orzekł w czwartek Trybunał Sprawiedliwości w polskiej sprawie dot. kredytu hipotecznego (C-607/25).",
-      "date_published": "2026-11-26T10:36:00+01:00",
       "source": "Bankier.pl"
     },
     {
@@ -77,6 +101,30 @@
       "source": "Bankier.pl"
     },
     {
+      "id": "https://biznes.pap.pl/wiadomosci/firmy/kazachski-holding-bi-group-wchodzi-na-polski-rynek-poprzez-partnerstwo-z",
+      "url": "https://biznes.pap.pl/wiadomosci/firmy/kazachski-holding-bi-group-wchodzi-na-polski-rynek-poprzez-partnerstwo-z",
+      "title": "Kazachski holding BI Group wchodzi na polski rynek poprzez partnerstwo z Commercecon",
+      "content_html": "BI Group, kazachstański holding budowlano-inwestycyjny, działający poprzez swoją spółkę zależną BI Global Polska, podjął kroki w celu nabycia 10 proc. udziałów w Commercecon celem wejścia na polski rynek - podały spółki w komunikacie prasowym.\n\nJak podano, BI Global Polska podjął kroki w celu nabycia 10 proc. udziałów w Commercecon, jednym z liderów generalnego wykonawstwa nowoczesnych obiektów przemysłowych w Polsce.\n\n\"Szukaliśmy partnera o niekwestionowanej pozycji i doskonałym dorobku biznesowym. Commercecon wnosi do tego partnerstwa nie tylko silne kompetencje inżynieryjne oraz imponujące portfolio zrealizowanych inwestycji przemysłowych, ale przede wszystkim ambicje, które idealnie rezonują z naszą globalną wizją. (…) Widzimy ogromny potencjał do wspólnego skalowania biznesu w Polsce oraz systematycznego wchodzenia na inne rynki europejskie i rynki ościenne\" - powiedział cytowany w komunikacie Erlan Zhakin, prezes BI Global Polska.\n\nDodano, że transakcja ta ma wzmocnić pozycję konkurencyjną polskiego generalnego wykonawcy, pozwalając mu skuteczniej konkurować o kontrakty zagraniczne.\n\nJak podano w informacji, od ponad dwóch dekad Commercecon kompleksowo zarządza procesami inwestycyjnymi obiektów przemysłowych. Firma zrealizowała dotąd w Polsce i za granicą ponad 300 projektów o łącznej powierzchni ponad 2,3 mln mkw. W jej portfolio znajdują się przede wszystkim obiekty o charakterze produkcyjnym i magazynowym zrealizowane dla największych deweloperów, polskich firm logistycznych oraz międzynarodowych koncernów z branży przemysłowej.\n\nDodano, że założona w 1995 roku w Astanie BI Group działa w sektorze budownictwa mieszkaniowego i infrastrukturalnego. BI Group zatrudnia ponad 8 tysięcy osób na 8 rynkach, w tym w Stanach Zjednoczonych oraz Zjednoczonych Emiratach Arabskich. W 2025 roku jej przychody przekroczyły 3 mld USD. (PAP Biznes)",
+      "date_published": "2026-11-26T10:07:00+01:00",
+      "source": "PAP Biznes"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/rynki/ai-i-wyzsze-stopy-sklaniaja-do-wiekszej-selektywnosci-w-inwestycjach-w-27-franklin",
+      "url": "https://biznes.pap.pl/wiadomosci/rynki/ai-i-wyzsze-stopy-sklaniaja-do-wiekszej-selektywnosci-w-inwestycjach-w-27-franklin",
+      "title": "AI i wyższe stopy skłaniają do większej selektywności w inwestycjach w '27 - Franklin Templeton (opinia)",
+      "content_html": "Inwestorzy mogą potrzebować w 2027 r. większej selektywności, ponieważ koncentracja rynku napędzana przez sztuczną inteligencję oraz wyższe stopy procentowe zmienia charakter szans i zagrożeń - uważa Franklin Templeton Institute.\n\n\"Uważamy, że w 2027 r. inwestorzy będą musieli wykazać się większą roztropnością i zdywersyfikować portfele w obliczu długoterminowego przejścia w kierunku sztucznej inteligencji (AI) oraz w erze wyższych rentowności obligacji\" - napisano w komunikacie prasowym.\n\nW ocenie Instytutu gospodarka światowa nadal charakteryzuje się odpornością. Rosnące globalne nakłady inwestycyjne, stabilne wydatki konsumpcyjne oraz rosnący handel światowy stanowią podstawę światowej gospodarki. Wyższe realne stopy procentowe oraz \"pochodne drugiego rzędu\" prawdopodobnie spowolnią jednak wzrost w przyszłym roku. Analitycy uważają jednak, że ekspansja będzie trwała w 2027 r.\n\n\"Osiągnięcie szczytu wzrostu zysków, koncentracja rynku spowodowana przez sztuczną inteligencję oraz wyższe realne stopy procentowe oznaczają, że inwestorzy muszą wykazać się większą rozwagą, a także powinni wykorzystać możliwości dywersyfikacji swoich portfeli\" - napisano.\n\nJak dodano, strategie ograniczania ryzyka są zróżnicowane. Obejmują one przejście od pasywnych strategii śledzących indeksy do portfeli o równej wadze, zwiększenie ekspozycji na spółki poprawiające efektywność operacyjną dzięki wdrożeniu sztucznej inteligencji oraz dodanie ekspozycji na nowe możliwości wzrostu występujące na rynkach prywatnych.\n\nPodstawowe inwestycje w instrumenty o stałym dochodzie mogą zdywersyfikować ryzyko portfela związane z nieoczekiwanym spowolnieniem gospodarczym. Obiecującymi narzędziami dywersyfikacji są również strategie bezkierunkowe wykorzystujące alternatywne premie za ryzyko lub fundusze hedgingowe.\n\nW ocenie Franklin Templeton w kontekście cyklu gospodarczego pojawiają się dwa motywy przewodnie: rewolucja w dziedzinie sztucznej inteligencji oraz era wyższych realnych stóp procentowych.\n\n\"Koncentracja w sektorze sztucznej inteligencji wymaga ponownego przemyślenia struktury portfela. Inwestorzy muszą rozważyć, w jaki sposób najlepiej ograniczyć ryzyko koncentracji bez rezygnacji z korzyści płynących ze sztucznej inteligencji. Celem nie powinno być rezygnowanie z możliwości inwestycyjnych związanych ze sztuczną inteligencją, ale rozważne angażowanie się w nie\" - napisano w komunikacie.\n\n\"Wyższe rentowności obligacji utrzymają się na dłużej. Wyższe rentowności obligacji mogą w umiarkowanym stopniu zahamować zaciąganie kredytów i wzrost gospodarczy w 2027 roku. Jednak możliwości uzyskania dochodu są również bardziej obfite i można je osiągnąć bez znacznego ryzyka duration lub ryzyka kredytowego. Wreszcie, obligacje mogą również służyć dywersyfikacji ryzyka związanego z różnymi formami akcji, choć nie chronią przed nieoczekiwanymi skokami inflacji\" - dodano. (PAP Biznes)",
+      "date_published": "2026-11-26T09:56:00+01:00",
+      "source": "PAP Biznes"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/gospodarka/chiny-zastrzegaja-sobie-prawo-do-dzialan-w-reakcji-na-propozycje-nowych-cel",
+      "url": "https://biznes.pap.pl/wiadomosci/gospodarka/chiny-zastrzegaja-sobie-prawo-do-dzialan-w-reakcji-na-propozycje-nowych-cel",
+      "title": "Chiny zastrzegają sobie prawo do działań w reakcji na propozycje nowych ceł USA",
+      "content_html": "Chińskie ministerstwo handlu poinformowało w czwartek, że zastrzega sobie prawo do podjęcia niezbędnych działań w obronie interesów gospodarczych Chin. Jest to reakcja na ogłoszoną dzień wcześniej przez administrację prezydenta USA Donalda Trumpa propozycję nałożenia nowych ceł, w tym na chińskie towary.\n\n\"Chiny będą uważnie śledzić rozwój sytuacji, zastrzegają sobie prawo do podjęcia niezbędnych działań i będą stanowczo bronić swoich uzasadnionych praw oraz interesów\" – powiedział rzecznik chińskiego resortu handlu He Yadong podczas konferencji prasowej. Wezwał Waszyngton do skorygowania błędnych praktyk oraz powrotu na drogę dialogu i konsultacji.\n\nWedług He amerykańskie dochodzenie na podstawie sekcji 301 ustawy o handlu jest „typowym przejawem unilateralizmu” i poważnie narusza międzynarodowy ład gospodarczy oraz zasady Światowej Organizacji Handlu (WTO). Ocenił, że stosowanie protekcjonizmu pod pretekstem „nadwyżek mocy produkcyjnych” przez niektóre państwa zakłóci globalne łańcuchy przemysłowe i dostawcze, a także doprowadzi do wzrostu inflacji w skali światowej.\n\nW środę przedstawiciel USA ds. handlu (USTR) Jamieson Greer zaproponował objęcie cłami 14 gospodarek, zarzucając tym państwom i organizacjom praktyki \"osłabiające amerykańską bazę przemysłową”. Stawka dla Chin ma wynieść 20 proc., a dla Unii Europejskiej – 15 proc. Według „Wall Street Journal” taryfy mogą wejść w życie najwcześniej w styczniu, po zakończeniu konsultacji.\n\nProponowane cła są wynikiem wszczętego w marcu dochodzenia USTR w sprawie nadwyżek mocy produkcyjnych i mają zastąpić taryfy unieważnione na początku roku przez Sąd Najwyższy USA. W lipcu Waszyngton nałożył już - na podstawie sekcji 301 - cła w wysokości 10–12,5 proc. na towary z ponad 60 państw (w tym 12,5-procentowe na Chiny), jednak podawanym wówczas powodem było rzekome niewypełnianie przepisów o zakazie pracy przymusowej.\n\nPropozycja ceł ogłoszona została niespełna tydzień po rozmowach przywódców Chin i USA, Xi Jinpinga i Donalda Trumpa, w Shenzhen na marginesie szczytu Wspólnoty Gospodarczej Azji i Pacyfiku (APEC). Spotkanie liderów nie przyniosło nowych ustaleń ani przełomu w kwestiach dotyczących handlu między dwoma największymi gospodarkami świata.",
+      "date_published": "2026-11-26T09:51:00+01:00",
+      "source": "PAP Biznes"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/92-mld-zl-poza-kontrola-budzetu-Z-ulg-podatkowych-najwiecej-zyskuja-najbogatsi-9235398.html",
       "url": "https://www.bankier.pl/wiadomosc/92-mld-zl-poza-kontrola-budzetu-Z-ulg-podatkowych-najwiecej-zyskuja-najbogatsi-9235398.html",
       "title": "RAPORT 92 mld zł poza kontrolą budżetu. Z ulg podatkowych najwięcej zyskują najbogatsi",
@@ -93,12 +141,36 @@
       "source": "Bankier.pl"
     },
     {
+      "id": "https://biznes.pap.pl/wiadomosci/gospodarka/dzien-na-fxfi-zloty-i-obligacje-powinny-skorzystac-na-swiecie-dziekczynienia",
+      "url": "https://biznes.pap.pl/wiadomosci/gospodarka/dzien-na-fxfi-zloty-i-obligacje-powinny-skorzystac-na-swiecie-dziekczynienia",
+      "title": "DZIEŃ NA FX/FI: Złoty i obligacje powinny skorzystać na Święcie Dziękczynienia",
+      "content_html": "Z powodu Święta Dziękczynienia rynki finansowe w USA będą w czwartek zamknięte, co może sprzyjać stabilizacji notowań zarówno złotego, jak i obligacji w końcówce tygodnia - wskazują analitycy. Złoty kontynuuje notowania w okolicy 4,47 względem euro i nieco umocnił się względem dolara (do 4,08).\n\nZdaniem analityków Banku Millennium czwartkowa sesja na rynkach finansowych może być nieco spokojniejsza niż pierwsza połowa tygodnia.\n\n\"Sprzyja temu uboższe kalendarium nowych danych makroekonomicznych oraz przede wszystkim nieobecność inwestorów amerykańskich na rynku ze względu na Święto Dziękczynienia. Płynność może być zatem mniejsza niż zwykle, a zmienność ograniczona\" - napisali w porannym raporcie.\n\n\"Jednocześnie odbicie na giełdzie w USA może stanowić pewne wsparcie dla złotego i krajowych aktywów. Azjatyckie godziny sesji na rynku walutowym były dość spokojne. Kurs EUR/USD nieco wzrósł w środę po zamknięciu sesji w Europie i stabilizuje się w okolicach 1,0965, zmniejszając presję na waluty rynków wschodzących\" - dodali.\n\nWskazali, że w rezultacie EUR/PLN ustabilizował się w czwartek rano w okolicy 4,4700, poniżej szczytów ze środy, a kurs USD/PLN spada natomiast do 4,0755.\n\nTakże według ekonomistów PKO BP czwartkowa przerwa w handlu na giełdach w USA powinna ograniczyć aktywność inwestorów i sprzyjać stabilizacji notowań na rynku FX.\n\n\"Przy pustym kalendarzu krajowym złoty pozostanie zależny od globalnych nastrojów, które po środowym odreagowaniu Wall Street mogą nieco się poprawić. Bez nowych pozytywnych impulsów trudno jednak liczyć na trwałą poprawę sentymentu wobec walut CEE i wyraźniejsze umocnienie PLN\" - napisali w swoim raporcie.\n\nNa końcówkę bieżącego tygodnia zakładają oni ustabilizowanie się EUR/PLN bliżej poziomu 4,46 i USD/PLN w przedziale 4,06–4,09.\n\nAnalitycy Banku Millennium wskazali, że środowe spadki rentowności amerykańskiej 10-latki zatrzymały się w okolicach 4,80 proc., potwierdzając wsparcie na tym poziomie.\n\n\"Takie otoczenie w naszej ocenie sprzyja stabilizacji rentowności polskiej 10-latki w przedziale 6,10-6,20 proc.\" - napisali w raporcie.\n\nAnalitycy banku PKO BP wskazali, że zamknięcie rynków finansowych w USA z powodu Święta Dziękczynienia może sprzyjać stabilizacji notowań w końcówce tygodnia.\n\n\"Jednocześnie po informacjach o możliwości wprowadzenia przez Stany Zjednoczone nowych taryf celnych trudno oczekiwać wyraźnej poprawy nastrojów. Na krajowym rynku długu dodatkowym czynnikiem będzie czwartkowa aukcja obligacji BGK emitowanych na rzecz Funduszu Przeciwdziałania COVID-19. Pojawienie się nowej podaży może przejściowo ciążyć wycenom papierów\" - napisali w raporcie.\n\n\"W tym kontekście warto również zauważyć, że od początku miesiąca krzywa dochodowości polskich obligacji skarbowych obniżyła się już o blisko 20 pb, co ogranicza przestrzeń do dalszego silnego spadku rentowności w krótkim terminie\" - dodali.",
+      "date_published": "2026-11-26T09:44:00+01:00",
+      "source": "PAP Biznes"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/rynki/ceny-gazu-w-europie-rosna-1",
+      "url": "https://biznes.pap.pl/wiadomosci/rynki/ceny-gazu-w-europie-rosna-1",
+      "title": "Ceny gazu w Europie rosną",
+      "content_html": "Ceny gazu w Europie rosną w czwartek. W regionie jednak ma być chłodniejsza pogoda, a wcześniej liczono na łagodniejsze warunki atmosferyczne - informują maklerzy.\n\nBenchmarkowe kontrakty na gaz w Amsterdamie (ICE Entawex Dutch TTF) zwyżkują o 1,9 proc. do 89,00 euro za MWh.\n\nInwestorzy biorą pod uwagę gorsze prognozy pogody dla niektórych części Starego Kontynentu i utrzymujące się napięcie na Bliskim Wschodzie, które zagraża ożywieniu dostaw energii z tego obszaru.\n\nW środę ceny gazu gwałtownie spadły, bo niektóre modele pogodowe wskazywały na łagodniejszą pogodę w Europie.\n\nTemperatury poniżej normy oczekiwane są jednak obecnie w Niemczech i krajach Europy Wschodniej - do przyszłego tygodnia, a w Wielkiej Brytanii pogoda będzie nieco łagodniejsza.\n\nAnalitycy informują, że prognozy pogody dla Starego Kontynentu pozostają wciąż wysoce niestabilne.\n\nTymczasem zapotrzebowanie na energię do ogrzewania w Europie stanowi obciążenie dla zapasów gazu w europejskich magazynach.\n\nZapasy gazu ziemnego w magazynach UE wynoszą obecnie 67,8 proc. wobec średniej 5-letniej na tę porę wynoszącej 85,7 proc. W magazynach znajduje się teraz 768,16 TWh gazu - wynika z wyliczeń firmy Gas Infrastructure Europe.\n\nW Niemczech magazyny gazu są obecnie zapełnione w 55,3 proc., a średnia 5-letnia to 85,8 proc. We Francji to 71,1 proc. przy średniej 5-letniej na poziomie 89,7 proc.\n\nW Polsce w magazynach gazu jest 34,79 TWh tego paliwa, a ich zapełnienie wynosi 94,4 proc. wobec sezonowej średniej 5-letniej wynoszącej 96,1 proc. - wynika z danych Gas Infrastructure Europe.\n\nTymczasem globalne perspektywy zaopatrzenia w gaz z Bliskiego Wschodu nadal pozostają niepewne.\n\nWspierani przez Iran rebelianci Huti nadal atakują cele w Arabii Saudyjskiej, w tym jej główny punkt eksportu ropy naftowej w Ras Tanura oraz porty Morza Czerwonego.\n\nWładze Iranu twierdzą też, że kilka statków natknęło się na miny w cieśninie Ormuz, chociaż na razie nie ma na to niezależnego potwierdzenia.\n\nEksport gazu LNG z Kataru wzrósł wprawdzie w listopadzie, jednak żegluga przez cieśninę Ormuz pozostaje ryzykownym wyzwaniem w obliczu ataków.\n\nW czwartek oczekuje się, że obroty na rynkach energii będą niskie ze względu na Święto Dziękczynienia w USA. (PAP Biznes)",
+      "date_published": "2026-11-26T09:43:00+01:00",
+      "source": "PAP Biznes"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Chiny-odpowiadaja-na-zapowiedz-nowych-cel-USA-Pekin-zastrzega-sobie-prawo-do-dzialan-9235391.html",
       "url": "https://www.bankier.pl/wiadomosc/Chiny-odpowiadaja-na-zapowiedz-nowych-cel-USA-Pekin-zastrzega-sobie-prawo-do-dzialan-9235391.html",
       "title": "Chiny odpowiadają na zapowiedź nowych ceł USA. Pekin zastrzega sobie prawo do działań",
       "content_html": "Chińskie ministerstwo handlu poinformowało w czwartek, że zastrzega sobie prawo do podjęcia niezbędnych działań w obronie interesów gospodarczych Chin. Jest to reakcja na ogłoszoną dzień wcześniej przez administrację prezydenta USA Donalda Trumpa propozycję nałożenia nowych ceł, w tym na chińskie towary.",
       "date_published": "2026-11-26T09:40:00+01:00",
       "source": "Bankier.pl"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/gospodarka/liczba-pracujacych-w-gospodarce-narodowej-w-koncu-czerwca-26-spadla-o-02-proc",
+      "url": "https://biznes.pap.pl/wiadomosci/gospodarka/liczba-pracujacych-w-gospodarce-narodowej-w-koncu-czerwca-26-spadla-o-02-proc",
+      "title": "Liczba pracujących w gospodarce narodowej w końcu czerwca '26 spadła o 0,2 proc. rdr - GUS",
+      "content_html": "Liczba pracujących w gospodarce narodowej w końcu czerwca 2026 r. wyniosła 15.114,8 tys. osób i spadła rdr o 0,2 proc. - podał GUS.\n\nW porównaniu z majem 2026 r. wzrosła o 0,3 proc.\n\nNa koniec czerwca najwięcej osób pracowało w sekcji Przetwórstwo przemysłowe – 2719,4 tys. osób, tj. 18,0 proc. ogółu pracujących w gospodarce narodowej. Udział ten był o 0,2 pkt. proc. mniejszy niż na koniec czerwca 2025 r. i taki sam jak na koniec maja 2026 r.\n\nDrugą pod względem liczby pracujących była sekcja Handel; naprawa pojazdów samochodowych, w której pracowało 2134,9 tys. osób, tj. 14,1 proc. ogółu. Udział ten był mniejszy niż rok wcześniej o 0,3 pkt. proc. oraz taki sam, jak na koniec maja 2026 r. (PAP Biznes)",
+      "date_published": "2026-11-26T09:37:00+01:00",
+      "source": "PAP Biznes"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Develia-rozpoczela-przedsprzedaz-280-mieszkan-we-Wroclawiu-9235387.html",
@@ -109,12 +181,44 @@
       "source": "Bankier.pl"
     },
     {
+      "id": "https://biznes.pap.pl/wiadomosci/firmy/develia-rozpoczela-przedsprzedaz-280-mieszkan-we-wroclawiu",
+      "url": "https://biznes.pap.pl/wiadomosci/firmy/develia-rozpoczela-przedsprzedaz-280-mieszkan-we-wroclawiu",
+      "title": "Develia rozpoczęła przedsprzedaż 280 mieszkań we Wrocławiu",
+      "content_html": "Develia uruchomiła przedsprzedaż mieszkań w nowej inwestycji - L62, zlokalizowanej na wrocławskich Popowicach - podała spółka w komunikacie prasowym. Do oferty trafiło 280 lokali.\n\nRozpoczęcie budowy zaplanowane jest na drugi kwartał 2027 r., a jej zakończenie na drugi kwartał 2029 r. (PAP Biznes)",
+      "date_published": "2026-11-26T09:35:00+01:00",
+      "source": "PAP Biznes"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Portfel-zamowien-grupy-Mirbud-na-koniec-pazdziernika-wynosil-8-84-mld-zl-9235383.html",
       "url": "https://www.bankier.pl/wiadomosc/Portfel-zamowien-grupy-Mirbud-na-koniec-pazdziernika-wynosil-8-84-mld-zl-9235383.html",
       "title": "Portfel zamówień grupy Mirbud na koniec października wynosił 8,84 mld zł",
       "content_html": "Wartość portfela zamówień grupy Mirbud na koniec października 2026 r. wynosiła 8,84 mld zł netto - poinformowała spółka w komunikacie.",
       "date_published": "2026-11-26T09:30:00+01:00",
       "source": "Bankier.pl"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/firmy/portfel-zamowien-grupy-mirbud-na-koniec-pazdziernika-wynosil-884-mld-zl",
+      "url": "https://biznes.pap.pl/wiadomosci/firmy/portfel-zamowien-grupy-mirbud-na-koniec-pazdziernika-wynosil-884-mld-zl",
+      "title": "Portfel zamówień grupy Mirbud na koniec października wynosił 8,84 mld zł",
+      "content_html": "Wartość portfela zamówień grupy Mirbud na koniec października 2026 r. wynosiła 8,84 mld zł netto - poinformowała spółka w komunikacie.\n\nJak podano, wartość portfela zamówień dla kontraktów infrastrukturalnych na koniec października wynosiła 7,37 mld zł, a w segmencie budownictwa kubaturowego 1,47 mld zł.\n\nW segmencie deweloperskim w okresie styczeń-październik 2026 r. przekazano aktami 388 mieszkań, a liczba zawartych umów przedwstępnych i deweloperskich wyniosła 252. (PAP Biznes)",
+      "date_published": "2026-11-26T09:29:00+01:00",
+      "source": "PAP Biznes"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/rynki/dzien-na-rynkach-w-europie-na-gieldach-indeksy-mocno-rosna",
+      "url": "https://biznes.pap.pl/wiadomosci/rynki/dzien-na-rynkach-w-europie-na-gieldach-indeksy-mocno-rosna",
+      "title": "DZIEŃ NA RYNKACH: W Europie na giełdach indeksy mocno rosną",
+      "content_html": "Na europejskich giełdach wskaźniki mocno rosną po zwyżkach na azjatyckich parkietach. Na rynkach ponownie widać odbicie handlu AI. Na rynku walutowym USD jest stabilny do euro i JPY. Bitcoin jest po o",
+      "date_published": "2026-11-26T09:27:00+01:00",
+      "source": "PAP Biznes"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/gospodarka/ke-dala-zgode-na-finansowanie-technologii-obronnych-z-fwtk-mfipr",
+      "url": "https://biznes.pap.pl/wiadomosci/gospodarka/ke-dala-zgode-na-finansowanie-technologii-obronnych-z-fwtk-mfipr",
+      "title": "KE dała zgodę na finansowanie technologii obronnych z FWTK - MFiPR",
+      "content_html": "Komisja Europejska dała zgodę na finansowanie technologii obronnych z Funduszu Wsparcia Technologii Krytycznych (FWTK); w następstwie tego w styczniu zostaną ogłoszone pierwsze konkursy dla firm, któr",
+      "date_published": "2026-11-26T09:27:00+01:00",
+      "source": "PAP Biznes"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Marvipol-Development-wyemituje-obligacje-o-wartosci-do-50-mln-zl-9235374.html",
@@ -125,6 +229,14 @@
       "source": "Bankier.pl"
     },
     {
+      "id": "https://biznes.pap.pl/wiadomosci/firmy/marvipol-development-wyemituje-obligacje-o-wartosci-do-50-mln-zl",
+      "url": "https://biznes.pap.pl/wiadomosci/firmy/marvipol-development-wyemituje-obligacje-o-wartosci-do-50-mln-zl",
+      "title": "Marvipol Development wyemituje obligacje o wartości do 50 mln zł",
+      "content_html": "Marvipol Development wyemituje do 50 tys. obligacji serii P2026A o łącznej wartości nominalnej do 50 mln zł - poinformowała spółka w komunikacie.",
+      "date_published": "2026-11-26T09:19:00+01:00",
+      "source": "PAP Biznes"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Elon-Musk-i-SpaceX-przekaza-po-dwie-akcje-firmy-kazdemu-dziecku-w-USA-9235367.html",
       "url": "https://www.bankier.pl/wiadomosc/Elon-Musk-i-SpaceX-przekaza-po-dwie-akcje-firmy-kazdemu-dziecku-w-USA-9235367.html",
       "title": "Kosmiczny prezent dla młodych Amerykanów. Elon Musk rozda akcje",
@@ -133,26 +245,18 @@
       "source": "Bankier.pl"
     },
     {
-      "id": "https://www.bankier.pl/wiadomosc/Produkuja-popularne-piwo-Teraz-zwolnia-ponad-60-osob-9235362.html",
-      "url": "https://www.bankier.pl/wiadomosc/Produkuja-popularne-piwo-Teraz-zwolnia-ponad-60-osob-9235362.html",
-      "title": "Producent Żywca, Warki i Heinekena planuje zwolnienia. Bez pracy ponad 60 osób",
-      "content_html": "Grupa Żywiec planuje zwolnienia grupowe. W listopadzie i grudniu 2026 r. pracę ma stracić 61 pracowników we wszystkich zakładach przedsiębiorstwa. Powodem jest reorganizacja działu sprzedaży.",
-      "date_published": "2026-11-26T09:09:00+01:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Deweloperzy-zadali-nawet-kilkuset-tysiecy-zlotych-doplaty-Jest-reakcja-UOKiK-9235360.html",
-      "url": "https://www.bankier.pl/wiadomosc/Deweloperzy-zadali-nawet-kilkuset-tysiecy-zlotych-doplaty-Jest-reakcja-UOKiK-9235360.html",
-      "title": "Deweloperzy żądali nawet kilkuset tysięcy złotych dopłaty. Jest reakcja UOKiK",
-      "content_html": "Ponad 10 mln zł kary nałożył Prezes UOKiK na trzy spółki deweloperskie: Idea-Inwest, M2R i Jelbud – Charłampowicz, Kusz - poinformował w czwartek Urząd. Firmy miały wywierać presję na klientów, by skłonić ich do zapłaty wyższej ceny za mieszkanie lub rezygnacji z dochodzenia roszczeń – dodano.",
-      "date_published": "2026-11-26T09:03:00+01:00",
-      "source": "Bankier.pl"
+      "id": "https://biznes.pap.pl/wiadomosci/firmy/import-i-przywoz-wegla-do-polski-w-okresie-i-iii-kw-wyniosl-54-mln-ton-arp",
+      "url": "https://biznes.pap.pl/wiadomosci/firmy/import-i-przywoz-wegla-do-polski-w-okresie-i-iii-kw-wyniosl-54-mln-ton-arp",
+      "title": "Import i przywóz węgla do Polski w okresie I-III kw. wyniósł 5,4 mln ton - ARP",
+      "content_html": "Import i przywóz węgla do Polski w okresie I-III kw. wyniósł 5,4 mln ton - podała Agencja Rozwoju Przemysłu, która analizuje rynek węgla.",
+      "date_published": "2026-11-26T09:11:00+01:00",
+      "source": "PAP Biznes"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Spolka-Trakcji-ma-umowe-na-Litwie-o-wartosci-35-26-mln-euro-netto-9235359.html",
       "url": "https://www.bankier.pl/wiadomosc/Spolka-Trakcji-ma-umowe-na-Litwie-o-wartosci-35-26-mln-euro-netto-9235359.html",
-      "title": "Spółka Trakcji ma umowę na Litwie o wartości 35,26 mln euro netto",
-      "content_html": "AB Kauno tiltai, spółka zależna Trakcji, zawarła z litewskim zarządcą dróg krajowych Via Lietuva umowę o wartości netto 35,26 mln euro, czyli 158 mln zł - podała Trakcja w komunikacie.",
+      "title": "Spółka Trakcji ma umowę na Litwie o wartości 35,26 mln euro netto AB Kauno tiltai, spółka zależna Trakcji, zawarła z litewskim zarządcą dróg krajowych Via Lietuva umowę o wartości netto 35,26 mln euro, czyli 158 mln zł - podała Trakcja w komunikacie.",
+      "content_html": "",
       "date_published": "2026-11-26T09:02:00+01:00",
       "source": "Bankier.pl"
     },
@@ -205,12 +309,36 @@
       "source": "Bankier.pl"
     },
     {
+      "id": "https://biznes.pap.pl/wiadomosci/firmy/ci-games-mial-po-trzech-kw-261-mln-zl-zysku-ebitda",
+      "url": "https://biznes.pap.pl/wiadomosci/firmy/ci-games-mial-po-trzech-kw-261-mln-zl-zysku-ebitda",
+      "title": "CI Games miał po trzech kw. 26,1 mln zł zysku EBITDA",
+      "content_html": "EBITDA CI Games po trzech kwartałach 2026 r. wzrosła do 26,1 mln zł z 21,8 mln zł - podała spółka w raporcie. Zysk netto wyniósł 6,7 mln zł wobec 0,9 mln zł zysku przed rokiem.",
+      "date_published": "2026-11-26T08:11:00+01:00",
+      "source": "PAP Biznes"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/rynki/najwazniejsze-indeksy-gieldowe-w-azji-851",
+      "url": "https://biznes.pap.pl/wiadomosci/rynki/najwazniejsze-indeksy-gieldowe-w-azji-851",
+      "title": "Najważniejsze indeksy giełdowe w Azji",
+      "content_html": "Poniżej aktualne indeksy wybranych giełd w Azji:",
+      "date_published": "2026-11-26T08:03:00+01:00",
+      "source": "PAP Biznes"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Przewidzial-kryzys-2008-r-i-ostrzegal-przed-banka-AI-Teraz-zaczal-grac-na-wzrosty-9235325.html",
       "url": "https://www.bankier.pl/wiadomosc/Przewidzial-kryzys-2008-r-i-ostrzegal-przed-banka-AI-Teraz-zaczal-grac-na-wzrosty-9235325.html",
       "title": "Przewidział kryzys 2008 r. i ostrzegał przed bańką AI. Teraz zaczął grać na wzrosty Michael Burry - inwestor, któremu rozpoznawalność na świecie zapewniły książka i film \"The Big Short\" - przestał grać na spadki indeksu Nasdaq-100 oraz zredukował zakład przeciwko Nvidii. W najnowszym wpisie na platformie Substack zadeklarował, że jest obecnie \"tymczasowo niemal w całości po długiej stronie rynku\" i przenosi kapitał w stronę niedowartościowanych spółek.",
       "content_html": "",
       "date_published": "2026-11-26T08:02:00+01:00",
       "source": "Bankier.pl"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/rynki/ceny-miedzi-w-londynie-mocno-zwyzkuja-z-11-miesiecznego-minimum",
+      "url": "https://biznes.pap.pl/wiadomosci/rynki/ceny-miedzi-w-londynie-mocno-zwyzkuja-z-11-miesiecznego-minimum",
+      "title": "Ceny miedzi w Londynie mocno zwyżkują z 11-miesięcznego minimum",
+      "content_html": "Notowania miedzi na giełdzie metali LME w Londynie mocno się odbijają z najniższego poziomu od 11 miesięcy - informują maklerzy.",
+      "date_published": "2026-11-26T08:00:00+01:00",
+      "source": "PAP Biznes"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Wyniki-Creotech-Instruments-w-III-kw-2026-roku-vs-konsensus-PAP-tabela-9235319.html",
@@ -221,6 +349,22 @@
       "source": "Bankier.pl"
     },
     {
+      "id": "https://biznes.pap.pl/wiadomosci/przemysl/wyniki-creotech-instruments-w-iii-kw-2026-roku-vs-konsensus-pap-tabela",
+      "url": "https://biznes.pap.pl/wiadomosci/przemysl/wyniki-creotech-instruments-w-iii-kw-2026-roku-vs-konsensus-pap-tabela",
+      "title": "Wyniki Creotech Instruments w III kw. 2026 roku vs. konsensus PAP (tabela)",
+      "content_html": "Poniżej przedstawiono wyniki Creotech Instruments w trzecim kwartale 2026 roku i ich odniesienie do konsensusu PAP Biznes oraz poprzednich wyników.",
+      "date_published": "2026-11-26T07:57:00+01:00",
+      "source": "PAP Biznes"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/rynki/ceny-ropy-na-swiecie-powiekszaja-zwyzki-z-poprzedniej-sesji",
+      "url": "https://biznes.pap.pl/wiadomosci/rynki/ceny-ropy-na-swiecie-powiekszaja-zwyzki-z-poprzedniej-sesji",
+      "title": "Ceny ropy na świecie powiększają zwyżki z poprzedniej sesji",
+      "content_html": "Ceny ropy rosną i powiększają zwyżki z poprzedniej sesji w reakcji na utrzymujące się działania wojenne na Bliskim Wschodzie, co grozi zakłóceniami w dostawach ropy z tego regionu - podają maklerzy.",
+      "date_published": "2026-11-26T07:44:00+01:00",
+      "source": "PAP Biznes"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Ministerstwo-Energii-obniza-planowana-oplate-kogeneracyjna-na-2027-rok-Wyniesie-3-41-zl-MWh-9235311.html",
       "url": "https://www.bankier.pl/wiadomosc/Ministerstwo-Energii-obniza-planowana-oplate-kogeneracyjna-na-2027-rok-Wyniesie-3-41-zl-MWh-9235311.html",
       "title": "Dobra wiadomość dla odbiorców prądu. Rząd ścina planowaną podwyżkę opłaty kogeneracyjnej Resort energii obniży opłatę kogeneracyjną na przyszły rok do 3,41 zł/MWh z 3,83 zł/MWh pierwotnie planowanej - podano na stronie RCL.",
@@ -229,12 +373,92 @@
       "source": "Bankier.pl"
     },
     {
+      "id": "https://biznes.pap.pl/wiadomosci/energia/me-obnizy-oplate-kogeneracyjna-na-przyszly-rok-do-341-zlmwh-z-383-zlmwh",
+      "url": "https://biznes.pap.pl/wiadomosci/energia/me-obnizy-oplate-kogeneracyjna-na-przyszly-rok-do-341-zlmwh-z-383-zlmwh",
+      "title": "ME obniży opłatę kogeneracyjną na przyszły rok do 3,41 zł/MWh z 3,83 zł/MWh pierwotnie",
+      "content_html": "Resort energii obniży opłatę kogeneracyjną na przyszły rok do 3,41 zł/MWh z 3,83 zł/MWh pierwotnie planowanej - podano na stronie RCL.",
+      "date_published": "2026-11-26T07:35:00+01:00",
+      "source": "PAP Biznes"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/gospodarka/world-trade-monitor-we-wrzesniu-wzrosl-o-24-proc-mdm-cpb",
+      "url": "https://biznes.pap.pl/wiadomosci/gospodarka/world-trade-monitor-we-wrzesniu-wzrosl-o-24-proc-mdm-cpb",
+      "title": "World Trade Monitor we wrześniu wzrósł o 2,4 proc. mdm - CPB",
+      "content_html": "World Trade Monitor, wskaźnik obrazujący dynamikę wolumenu handlu międzynarodowego, we wrześniu wzrósł o 2,4 proc. mdm - podało holenderskie Biuro Analizy Polityki Gospodarczej (CPB).",
+      "date_published": "2026-11-26T07:25:00+01:00",
+      "source": "PAP Biznes"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Atal-mial-w-III-kw-149-4-mln-zl-zysku-netto-j-d-konsensus-zakladal-152-7-mln-zl-9235304.html",
       "url": "https://www.bankier.pl/wiadomosc/Atal-mial-w-III-kw-149-4-mln-zl-zysku-netto-j-d-konsensus-zakladal-152-7-mln-zl-9235304.html",
       "title": "Atal zarobił 149,4 mln zł w III kwartale 2026 roku. Przychody wyższe od oczekiwań rynku Atal miał w trzecim kwartale 2026 roku 149,4 mln zł zysku netto j.d. przy przychodach na poziomie 754,8 mln zł - wynika z wyliczeń PAP Biznes na podstawie raportu. Konsensus PAP Biznes zakładał odpowiednio 152,7 mln zł zysku netto j.d. oraz 744,7 mln zł przychodów.",
       "content_html": "",
       "date_published": "2026-11-26T07:12:00+01:00",
       "source": "Bankier.pl"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/firmy/atal-mial-w-iii-kw-1494-mln-zl-zysku-netto-jd-konsensus-zakladal-1527-mln-zl",
+      "url": "https://biznes.pap.pl/wiadomosci/firmy/atal-mial-w-iii-kw-1494-mln-zl-zysku-netto-jd-konsensus-zakladal-1527-mln-zl",
+      "title": "Atal miał w III kw. 149,4 mln zł zysku netto j.d.; konsensus zakładał 152,7 mln zł",
+      "content_html": "Atal miał w trzecim kwartale 2026 roku 149,4 mln zł zysku netto j.d. przy przychodach na poziomie 754,8 mln zł - wynika z wyliczeń PAP Biznes na podstawie raportu. Konsensus PAP Biznes zakładał odpowi",
+      "date_published": "2026-11-26T07:11:00+01:00",
+      "source": "PAP Biznes"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/ekonomia-biznes-i-finanse/przewidywane-najwazniejsze-wydarzenia-gospodarcze-2026-11-26",
+      "url": "https://biznes.pap.pl/wiadomosci/ekonomia-biznes-i-finanse/przewidywane-najwazniejsze-wydarzenia-gospodarcze-2026-11-26",
+      "title": "Przewidywane najważniejsze wydarzenia gospodarcze 2026-11-26",
+      "content_html": "Przewidywane najważniejsze wydarzenia gospodarcze 2026-11-26",
+      "date_published": "2026-11-26T07:00:00+01:00",
+      "source": "PAP Biznes"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/rynki/kalendarium-rynku-newconnect-2026-11-26",
+      "url": "https://biznes.pap.pl/wiadomosci/rynki/kalendarium-rynku-newconnect-2026-11-26",
+      "title": "Kalendarium rynku NewConnect 2026-11-26",
+      "content_html": "Kalendarium rynku NewConnect 2026-11-26",
+      "date_published": "2026-11-26T07:00:00+01:00",
+      "source": "PAP Biznes"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/rynki/kalendarium-rynku-kapitalowego-gpw-2026-11-26",
+      "url": "https://biznes.pap.pl/wiadomosci/rynki/kalendarium-rynku-kapitalowego-gpw-2026-11-26",
+      "title": "Kalendarium rynku kapitałowego GPW 2026-11-26",
+      "content_html": "Kalendarium rynku kapitałowego GPW 2026-11-26",
+      "date_published": "2026-11-26T07:00:00+01:00",
+      "source": "PAP Biznes"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/rynki/rentownosci-obligacji-wybranych-panstw-tabela-1121",
+      "url": "https://biznes.pap.pl/wiadomosci/rynki/rentownosci-obligacji-wybranych-panstw-tabela-1121",
+      "title": "Rentowności obligacji wybranych państw (tabela)",
+      "content_html": "Poniżej zestawienie rentowności obligacji wybranych państw. W tabeli kolejno rentowność aktualna, rentowność dzień wcześniej, pięć dni wcześniej, miesiąc wcześniej, trzy miesiące wcześniej i dwanaście",
+      "date_published": "2026-11-26T06:37:00+01:00",
+      "source": "PAP Biznes"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/rynki/notowania-metali-bazowych-wegla-i-paliw-tabela-1696",
+      "url": "https://biznes.pap.pl/wiadomosci/rynki/notowania-metali-bazowych-wegla-i-paliw-tabela-1696",
+      "title": "Notowania metali bazowych, węgla i paliw (tabela)",
+      "content_html": "Notowania metali bazowych na London Metal Exchange, uprawnień EUA do emisji CO2, ceny węgla energetycznego ARA na przyszły rok oraz ceny paliw.",
+      "date_published": "2026-11-26T06:36:00+01:00",
+      "source": "PAP Biznes"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/rynki/zamkniecia-na-gieldach-w-ameryce-polnocnej-i-poludniowej-tabela-1527",
+      "url": "https://biznes.pap.pl/wiadomosci/rynki/zamkniecia-na-gieldach-w-ameryce-polnocnej-i-poludniowej-tabela-1527",
+      "title": "Zamknięcia na giełdach w Ameryce Północnej i Południowej (tabela)",
+      "content_html": "Poniżej zamknięcia i zmiany indeksów w USA. Kanadzie, Meksyku, Brazylii i Kolumbii:",
+      "date_published": "2026-11-26T06:35:00+01:00",
+      "source": "PAP Biznes"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/firmy/wyniki-atalu-w-iii-kw-2026-roku-vs-konsensus-pap-tabela",
+      "url": "https://biznes.pap.pl/wiadomosci/firmy/wyniki-atalu-w-iii-kw-2026-roku-vs-konsensus-pap-tabela",
+      "title": "Wyniki Atalu w III kw. 2026 roku vs. konsensus PAP (tabela)",
+      "content_html": "Poniżej przedstawiamy wyniki Atalu w trzecim kwartale 2026 roku, według wyliczeń PAP Biznes, oraz ich odniesienie do konsensusu PAP Biznes i poprzednich wyników.",
+      "date_published": "2026-11-26T06:24:00+01:00",
+      "source": "PAP Biznes"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/OKI-bez-lukru-Kiedy-nowe-konto-moze-sie-nie-oplacac-9213929.html",
@@ -253,12 +477,44 @@
       "source": "Bankier.pl"
     },
     {
+      "id": "https://biznes.pap.pl/wiadomosci/firmy/pe-przyjal-reforme-unijnych-przepisow-farmaceutycznych-ktora-ma-ograniczyc",
+      "url": "https://biznes.pap.pl/wiadomosci/firmy/pe-przyjal-reforme-unijnych-przepisow-farmaceutycznych-ktora-ma-ograniczyc",
+      "title": "PE przyjął reformę unijnych przepisów farmaceutycznych, która ma ograniczyć niedobory leków",
+      "content_html": "PE przyjął w środę nowe unijne przepisy farmaceutyczne, obejmujące m.in. rozwiązania mające zapobiegać niedoborom leków i wspierać produkcję farmaceutyczną w UE. Europosłowie zatwierdzili również Akt ",
+      "date_published": "2026-11-25T22:34:00+01:00",
+      "source": "PAP Biznes"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/rynki/dzien-na-rynkach-na-wall-street-mocne-spadki-w-ciagu-dnia-ale-na-koniec-sesji-male",
+      "url": "https://biznes.pap.pl/wiadomosci/rynki/dzien-na-rynkach-na-wall-street-mocne-spadki-w-ciagu-dnia-ale-na-koniec-sesji-male",
+      "title": "DZIEŃ NA RYNKACH: Na Wall Street mocne spadki w ciągu dnia, ale na koniec sesji małe zmiany",
+      "content_html": "Środowa sesja na Wall Street przebiegała początkowo pod znakiem bardzo silnej wyprzedaży, ale w drugiej części dnia inwestorzy zaczęli kupować akcje i w efekcie na zamknięciu straty zostały odrobione.",
+      "date_published": "2026-11-25T22:15:00+01:00",
+      "source": "PAP Biznes"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/ekonomia-biznes-i-finanse/skrot-wiadomosci-sroda-25-listopada-2100",
+      "url": "https://biznes.pap.pl/wiadomosci/ekonomia-biznes-i-finanse/skrot-wiadomosci-sroda-25-listopada-2100",
+      "title": "Skrót wiadomości - środa, 25 listopada, 21.00",
+      "content_html": "Przegląd najważniejszych wiadomości gospodarczych, krajowych i ze świata.",
+      "date_published": "2026-11-25T21:10:00+01:00",
+      "source": "PAP Biznes"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Wzywajacy-zmienil-cene-akcji-w-wezwaniu-na-akcje-Erste-Bank-Polska-na-713-6-zl-za-akcje-9235211.html",
       "url": "https://www.bankier.pl/wiadomosc/Wzywajacy-zmienil-cene-akcji-w-wezwaniu-na-akcje-Erste-Bank-Polska-na-713-6-zl-za-akcje-9235211.html",
       "title": "Wzywający zmienił cenę akcji w wezwaniu na akcje Erste Bank Polska na 713,6 zł za akcję Wzywający zmienił cenę akcji w wezwaniu na akcje Erste Bank Polska na 713,6 zł za akcję, ze skutkiem od 26 listopada 2026 r. od godziny 00:00 - poinformował Erste Securities Polska, pośredniczący w wezwaniu.",
       "content_html": "",
       "date_published": "2026-11-25T20:18:00+01:00",
       "source": "Bankier.pl"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/firmy/wzywajacy-zmienil-cene-akcji-w-wezwaniu-na-akcje-erste-bank-polska-na-7136-zl-za",
+      "url": "https://biznes.pap.pl/wiadomosci/firmy/wzywajacy-zmienil-cene-akcji-w-wezwaniu-na-akcje-erste-bank-polska-na-7136-zl-za",
+      "title": "Wzywający zmienił cenę akcji w wezwaniu na akcje Erste Bank Polska na 713,6 zł za akcję",
+      "content_html": "Wzywający zmienił cenę akcji w wezwaniu na akcje Erste Bank Polska na 713,6 zł za akcję, ze skutkiem od 26 listopada 2026 r. od godziny 00:00 - poinformował Erste Securities Polska, pośredniczący w we",
+      "date_published": "2026-11-25T20:16:00+01:00",
+      "source": "PAP Biznes"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Pekao-i-PZU-zakonczyly-wspolprace-zakresie-reorganizacji-grupy-PZU-9235149.html",
@@ -277,12 +533,28 @@
       "source": "Bankier.pl"
     },
     {
+      "id": "https://biznes.pap.pl/wiadomosci/firmy/mo-bruk-obejmie-100-proc-udzialow-w-spolce-el-kajo-po-wykonaniu-opcji-put-przez",
+      "url": "https://biznes.pap.pl/wiadomosci/firmy/mo-bruk-obejmie-100-proc-udzialow-w-spolce-el-kajo-po-wykonaniu-opcji-put-przez",
+      "title": "Mo-Bruk obejmie 100 proc. udziałów w spółce El-Kajo po wykonaniu opcji put przez fundację DOTS",
+      "content_html": "Fundacja Rodzinna DOTS zdecydowała się skorzystać z oferty kupna przez Mo-Bruk 5 proc. udziałów w El-Kajo, wykonując tym samym przewidzianą w warunkach transakcji \"Opcję Put\". W wyniku transakcji Mo-B",
+      "date_published": "2026-11-25T19:46:00+01:00",
+      "source": "PAP Biznes"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Sokolow-w-roku-finansowym-2025-2026-76-mln-zl-zysku-netto-wobec-73-mln-zl-rok-wczesniej-9235195.html",
       "url": "https://www.bankier.pl/wiadomosc/Sokolow-w-roku-finansowym-2025-2026-76-mln-zl-zysku-netto-wobec-73-mln-zl-rok-wczesniej-9235195.html",
       "title": "Sokołów w roku finansowym 2025/2026 76 mln zł zysku netto, wobec 73 mln zł rok wcześniej Sokołów w roku finansowym 2025/26 wypracował zysk netto na poziomie 76 mln zł wobec 73 mln zł rok wcześniej, a nakłady inwestycyjne wzrosły ze 102 do 123 mln zł - podała spółka w komunikacie prasowym. Firma w przyszłym roku planuje znaczące zwiększenie inwestycji.",
       "content_html": "",
       "date_published": "2026-11-25T19:36:00+01:00",
       "source": "Bankier.pl"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/firmy/sokolow-w-roku-finansowym-20252026-76-mln-zl-zysku-netto-wobec-73-mln-zl-rok",
+      "url": "https://biznes.pap.pl/wiadomosci/firmy/sokolow-w-roku-finansowym-20252026-76-mln-zl-zysku-netto-wobec-73-mln-zl-rok",
+      "title": "Sokołów w roku finansowym 2025/2026 76 mln zł zysku netto, wobec 73 mln zł rok wcześniej",
+      "content_html": "Sokołów w roku finansowym 2025/26 wypracował zysk netto na poziomie 76 mln zł wobec 73 mln zł rok wcześniej, a nakłady inwestycyjne wzrosły ze 102 do 123 mln zł - podała spółka w komunikacie prasowym.",
+      "date_published": "2026-11-25T19:34:00+01:00",
+      "source": "PAP Biznes"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Mex-Polska-w-III-kw-26-miala-7-1-mln-zl-skons-EBITDA-wiecej-o-29-proc-rdr-9235193.html",
@@ -293,12 +565,36 @@
       "source": "Bankier.pl"
     },
     {
+      "id": "https://biznes.pap.pl/wiadomosci/firmy/mex-polska-w-iii-kw-26-miala-71-mln-zl-skons-ebitda-wiecej-o-29-proc-rdr",
+      "url": "https://biznes.pap.pl/wiadomosci/firmy/mex-polska-w-iii-kw-26-miala-71-mln-zl-skons-ebitda-wiecej-o-29-proc-rdr",
+      "title": "Mex Polska w III kw. '26 miała 7,1 mln zł skons. EBITDA, więcej o 29 proc. rdr",
+      "content_html": "Mex Polska w trzecim kwartale 2026 roku miał 7,1 mln zł skonsolidowanej EBITDA, co oznacza wzrost o 29 proc. w porównaniu do analogicznego okresu 2025 roku - podała spółka w raporcie.",
+      "date_published": "2026-11-25T19:26:00+01:00",
+      "source": "PAP Biznes"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/firmy/grupa-text-miala-w-ii-kw-34-mln-zl-zysku-netto-wobec-konsensusu-321-mln-zl",
+      "url": "https://biznes.pap.pl/wiadomosci/firmy/grupa-text-miala-w-ii-kw-34-mln-zl-zysku-netto-wobec-konsensusu-321-mln-zl",
+      "title": "Grupa Text miała w II kw. 34 mln zł zysku netto wobec konsensusu 32,1 mln zł",
+      "content_html": "Grupa Text w II kwartale roku finansowego 2026/27 miała 34 mln zł zysku netto, więcej o 18,7 proc. rdr - podała spółka w raporcie kwartalnym. Konsensus PAP Biznes zakładał zysk netto na poziomie 32,1 ",
+      "date_published": "2026-11-25T19:16:00+01:00",
+      "source": "PAP Biznes"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Text-chce-wyplacic-1-21-zl-zaliczki-na-poczet-przewidywanej-dywidendy-za-rok-obrotowy-2026-27-9235171.html",
       "url": "https://www.bankier.pl/wiadomosc/Text-chce-wyplacic-1-21-zl-zaliczki-na-poczet-przewidywanej-dywidendy-za-rok-obrotowy-2026-27-9235171.html",
       "title": "Text chce wypłacić 1,21 zł zaliczki na poczet przewidywanej dywidendy za rok obrotowy 2026/27 Zarząd Text zwrócił się do rady nadzorczej z wnioskiem w sprawie wyrażenia zgody na wypłatę zaliczki na poczet przewidywanej dywidendy za rok obrotowy 2026/27 - podała spółka w komunikacie. Kwota zaliczki na poczet przewidywanej dywidendy to 31,16 mln zł, co oznacza 1,21 zł na akcję.",
       "content_html": "",
       "date_published": "2026-11-25T18:48:00+01:00",
       "source": "Bankier.pl"
+    },
+    {
+      "id": "https://biznes.pap.pl/wiadomosci/firmy/text-chce-wyplacic-121-zl-zaliczki-na-poczet-przewidywanej-dywidendy-za-rok",
+      "url": "https://biznes.pap.pl/wiadomosci/firmy/text-chce-wyplacic-121-zl-zaliczki-na-poczet-przewidywanej-dywidendy-za-rok",
+      "title": "Text chce wypłacić 1,21 zł zaliczki na poczet przewidywanej dywidendy za rok obrotowy 2026/27",
+      "content_html": "Zarząd Text zwrócił się do rady nadzorczej z wnioskiem w sprawie wyrażenia zgody na wypłatę zaliczki na poczet przewidywanej dywidendy za rok obrotowy 2026/27 - podała spółka w komunikacie. Kwota zali",
+      "date_published": "2026-11-25T18:47:00+01:00",
+      "source": "PAP Biznes"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Wyniki-Text-w-II-kw-2026-27-roku-vs-konsensus-PAP-Biznes-tabela-9235166.html",
@@ -482,14 +778,6 @@
       "title": "ORLEN w Portfelu ma już 39 tys. uczestników. Ostatnie zmiany „to był strzał w dziesiątkę” Program lojalnościowy ORLEN w Portfelu działa od ośmiu lat. O jego wynikach, nowym formularzu rejestracyjnym oraz kampanii „Twój portfel, Twoje korzyści” rozmawialiśmy w studiu Bankier.pl z Marcinem Piechotą, dyrektorem zespołu kształtowania wizerunku finansowego w Orlenie.",
       "content_html": "",
       "date_published": "2026-11-25T12:10:00+01:00",
-      "source": "Bankier.pl"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/JSW-bedzie-dalej-optymalizowac-koszty-9234783.html",
-      "url": "https://www.bankier.pl/wiadomosc/JSW-bedzie-dalej-optymalizowac-koszty-9234783.html",
-      "title": "JSW tnie koszty i walczy o przetrwanie. Są pierwsze efekty restrukturyzacji Grupa JSW ocenia, że działania restrukturyzacyjne przynoszą pierwsze efekty, ale przed spółką jeszcze duże wyzwania. Priorytetem będzie dalsza optymalizacja kosztów - poinformowali przedstawiciele spółki.",
-      "content_html": "",
-      "date_published": "2026-11-25T11:50:00+01:00",
       "source": "Bankier.pl"
     }
   ]
